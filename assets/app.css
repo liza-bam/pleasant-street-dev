@@ -22,9 +22,6 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
                     background: var(--white); border: 1.5px solid transparent; border-radius: 999px; outline: none; }
 .app-search input:focus { border-color: var(--teal); }
 .app-hide { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
-.app-btn { height: 40px; padding: 0 16px; font: inherit; font-size: 14px; font-weight: 700; color: var(--green);
-           background: var(--white); border: 0; border-radius: 999px; cursor: pointer; white-space: nowrap; }
-.app-btn[hidden] { display: none; }
 .app-count { margin-left: auto; font-size: 14px; color: var(--ink); white-space: nowrap; }
 
 /* The list beside the map; each scrolls on its own. */
