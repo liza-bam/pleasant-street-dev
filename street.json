@@ -11,7 +11,8 @@
   "recordType": "Property / small operator",
   "description": "207North Cabins offers cabin accommodation in Millinocket, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0064",
@@ -27,7 +28,8 @@
   "kidsDetails": "Yes (activities for children)",
   "petsDetails": "Generally yes (confirm for unit/season)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0120",
@@ -40,7 +42,8 @@
   "recordType": "Property",
   "description": "Abbot Trailside Lodging is a vacation-rental option in Abbot, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0180",
@@ -53,6 +56,7 @@
   "description": "Abol Properties is a vacation-rental option in Millinocket, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -68,7 +72,8 @@
   "description": "Acadia Cottage Rentals is a vacation-rental option in Bar Harbor, Maine.",
   "kidsDetails": "Varies by cottage — operator manages multiple properties",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0227",
@@ -81,6 +86,7 @@
   "description": "Acadia Cottage Rentals is a vacation-rental operator serving Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -101,7 +107,8 @@
   "kidsDetails": "Yes — described as perfect for families",
   "petsDetails": "No — pet-free property",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0123",
@@ -119,7 +126,8 @@
   "kidsDetails": "Yes (house marketed for families)",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0208",
@@ -138,7 +146,8 @@
   "kidsDetails": "Yes — family described on property page",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0124",
@@ -152,6 +161,7 @@
   "description": "Acadia Memories Vacation Cottage is a vacation-rental option in Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -166,7 +176,8 @@
   "recordType": "Property / small operator",
   "description": "Acadia Timber Cottages offers cottage accommodation in Trenton, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0101",
@@ -184,7 +195,8 @@
   "kidsDetails": "Yes — pack-and-play and toys available",
   "petsDetails": "Varies — only Flying and Sargent yurts allow dogs, $20/dog/day",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0218",
@@ -197,7 +209,8 @@
   "recordType": "Property",
   "description": "Affordable Vinalhaven Rentals is a vacation-rental option in Vinalhaven, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0287",
@@ -210,7 +223,8 @@
   "recordType": "Rental operator",
   "description": "Anchor Real Estate Vacation Rentals is a vacation-rental operator serving York, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0012",
@@ -224,7 +238,8 @@
   "recordType": "Property / small operator",
   "description": "Andrews Family Cottages offers cottage accommodation in Boothbay, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0102",
@@ -242,7 +257,8 @@
   "kidsDetails": "Yes — family stays mentioned in reviews",
   "petsDetails": "Considered — case-by-case for listed units",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0219",
@@ -256,7 +272,8 @@
   "recordType": "Property",
   "description": "Apple Tree Cottage is a vacation-rental option in Vinalhaven, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0035",
@@ -270,6 +287,7 @@
   "petsDetails": "Varies (Cherry and Willow cabins yes; others no)",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -283,6 +301,7 @@
   "description": "Arndt's Aroostook River Lodge offers lodging in Presque Isle, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -296,7 +315,8 @@
   "recordType": "Property",
   "description": "Atlantic Haven is a vacation-rental option in Ogunquit, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0133",
@@ -314,7 +334,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — family home",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0077",
@@ -327,7 +348,8 @@
   "recordType": "Property / small operator",
   "description": "Bald Mountain Camps offers camp accommodation in Oquossoc, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0125",
@@ -341,7 +363,8 @@
   "recordType": "Property",
   "description": "Bar Harbor Acadia Cottage Rentals is a vacation-rental option in Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0009",
@@ -360,7 +383,8 @@
   "kidsDetails": "Yes — well-behaved children with supervision",
   "petsDetails": "No — property-wide rule",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0003",
@@ -377,7 +401,8 @@
   "pets": "Yes",
   "petsDetails": "Yes — $75/cabin or $125/house, pre-notify",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0262",
@@ -393,7 +418,8 @@
   "kidsDetails": "Yes — family holiday cottages; capacity varies by owner",
   "petsDetails": "No — all cottages",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0070",
@@ -407,7 +433,8 @@
   "recordType": "Property / small operator",
   "description": "Bayview Cabins offers cabin accommodation in Naples, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0071",
@@ -421,7 +448,8 @@
   "recordType": "Property / small operator",
   "description": "Bayview Cabins Unit 7 offers cabin accommodation in Naples, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0004",
@@ -435,6 +463,7 @@
   "description": "Bayview Cottages Vacation Homes offers cottage accommodation in Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -449,7 +478,8 @@
   "recordType": "Property / small operator",
   "description": "Beach Cottage Inn & Beach House Suites offers cottage accommodation in Lincolnville, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0265",
@@ -466,6 +496,7 @@
   "petsDetails": "Varies — only Unit A allows dogs, B/C/D no pets",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -479,7 +510,8 @@
   "recordType": "Property / small operator",
   "description": "Bear Spring Camps offers camp accommodation in Rome, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0148",
@@ -493,7 +525,8 @@
   "recordType": "Property",
   "description": "Beehive Cottage is a vacation-rental option in Cushing, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0229",
@@ -506,7 +539,8 @@
   "recordType": "Rental operator",
   "description": "Belgrade Hospitality is a vacation-rental operator serving Belgrade / Winthrop / Sidney, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0230",
@@ -519,7 +553,8 @@
   "recordType": "Rental operator",
   "description": "Belgrade Lakes Reservation Center is a vacation-rental operator serving Belgrade Lakes, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0231",
@@ -532,7 +567,8 @@
   "recordType": "Rental operator",
   "description": "Belgrade Vacation Rentals is a vacation-rental operator serving Belgrade Lakes, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0062",
@@ -546,7 +582,8 @@
   "recordType": "Property / small operator",
   "description": "Big Moose Inn Cabins offers cabin accommodation in Millinocket, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0234",
@@ -559,6 +596,7 @@
   "description": "Blue Hill Peninsula Realty + Rentals is a vacation-rental operator serving Blue Hill, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -573,7 +611,8 @@
   "recordType": "Property",
   "description": "Blue Pearl Cottage is a vacation-rental option in Camp Ellis / Saco, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0055",
@@ -587,7 +626,8 @@
   "recordType": "Property / small operator",
   "description": "Blueberry Patch Motel & Cabins offers cabin accommodation in Jonesboro, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0134",
@@ -606,7 +646,8 @@
   "kidsDetails": "Yes — family vacations",
   "petsDetails": "Yes — up to 2 dogs, 35 lb limit (exceptions inquire)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-boston-commonwealth",
@@ -641,7 +682,8 @@
   "description": "Boyce's Motel & Apartments offers lodging in Stonington, Maine. Pets are welcome subject to the listed unit rules, arrangements or fees.",
   "petsDetails": "Yes — selected rooms (7–11) with $15/stay pet fee",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0145",
@@ -654,7 +696,8 @@
   "recordType": "Property",
   "description": "Breakwater Vacation Rental is a vacation-rental option in Camp Ellis / Saco, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0245",
@@ -667,7 +710,8 @@
   "recordType": "Rental operator",
   "description": "Breakwater Vacation Rental is a vacation-rental operator serving Camp Ellis / Saco, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0159",
@@ -682,7 +726,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — properties marketed to families",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0263",
@@ -695,6 +740,7 @@
   "description": "Camden Hills Realty & Vacation Rentals is a vacation-rental operator serving Northport, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -710,7 +756,8 @@
   "recordType": "Property",
   "description": "Camden Village Toute-Suite is a vacation-rental option in Camden, Maine. Listed capacity: Up to 7 per cottage.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0038",
@@ -723,7 +770,8 @@
   "recordType": "Property / small operator",
   "description": "Camel Brook Camps offers camp accommodation in Fort Kent, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0013",
@@ -736,7 +784,8 @@
   "recordType": "Property / small operator",
   "description": "Camp Otyokwa offers camp accommodation in Bremen, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0068",
@@ -749,7 +798,8 @@
   "recordType": "Property / small operator",
   "description": "Camp Skoglund offers camp accommodation in Mount Vernon, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0275",
@@ -765,7 +815,8 @@
   "kidsDetails": "Yes — families encouraged",
   "petsDetails": "Varies — filter for pet-friendly rentals",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0045",
@@ -782,6 +833,7 @@
   "kidsDetails": "Yes (families welcome)",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -839,6 +891,7 @@
   "description": "Caribou Cabins offers cabin accommodation in Caribou, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -853,7 +906,8 @@
   "recordType": "Property / small operator",
   "description": "Carrabassett Cabin Co. offers cabin accommodation in Kingfield, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-chicago-mcm",
@@ -886,7 +940,8 @@
   "recordType": "Rental operator",
   "description": "Chill Vacation Rentals is a vacation-rental operator serving Boothbay Region, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0154",
@@ -903,7 +958,8 @@
   "kidsDetails": "Yes — children and babies counted toward max guests",
   "petsDetails": "Yes — prior approval; $10/pet/night",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0169",
@@ -916,6 +972,7 @@
   "description": "Coast & Cove Rentals is a vacation-rental option in Kennebunk area, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -929,6 +986,7 @@
   "description": "Coastal Maine Vacations is a vacation-rental operator serving Coastal Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -944,7 +1002,8 @@
   "recordType": "Property",
   "description": "ComfyDome Glamping is a vacation-rental option in Jefferson, Maine. Listed capacity: 2.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0248",
@@ -957,6 +1016,7 @@
   "description": "Common Loon Property Management is a vacation-rental operator serving Cumberland / Midcoast, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -970,7 +1030,8 @@
   "recordType": "Rental operator",
   "description": "Compass Rose Property Management is a vacation-rental operator serving Mount Desert / Downeast, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0078",
@@ -983,6 +1044,7 @@
   "description": "Conklin's Lodge and Camps offers camp accommodation in Patten, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -996,6 +1058,7 @@
   "description": "Connecting Rentals is a vacation-rental operator serving Bethel / Sunday River, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1010,6 +1073,7 @@
   "description": "Cottages at Oak Hill Farm offers cottage accommodation in South Hiram, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1029,7 +1093,8 @@
   "kidsDetails": "Yes (family friendly)",
   "petsDetails": "Yes (dogs; $150 one-time fee)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0028",
@@ -1048,6 +1113,7 @@
   "petsDetails": "Yes (dogs; $5/day)",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1066,7 +1132,8 @@
   "kidsDetails": "Yes (family vacations)",
   "petsDetails": "Yes (well-behaved dogs)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0083",
@@ -1082,7 +1149,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes (families mentioned)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0039",
@@ -1096,7 +1164,8 @@
   "recordType": "Property / small operator",
   "description": "Crossroad Cabins offers cabin accommodation in Fort Kent, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0206",
@@ -1109,7 +1178,8 @@
   "recordType": "Property",
   "description": "Decker Cove Properties is a vacation-rental option in Southport, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0043",
@@ -1122,6 +1192,7 @@
   "description": "Desert of Maine Glamping (Guesty direct site) offers lodging in Freeport, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1135,7 +1206,8 @@
   "recordType": "Rental operator",
   "description": "Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals) is a vacation-rental operator serving Downeast Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0138",
@@ -1151,7 +1223,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — highchair/Pack'n Play on request",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0290",
@@ -1164,7 +1237,8 @@
   "recordType": "Property",
   "description": "Drift Oceanside Inn offers lodging in Camden, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0199",
@@ -1177,6 +1251,7 @@
   "description": "Duckdown Waterfront Vacation is a vacation-rental option in Rockport, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1190,6 +1265,7 @@
   "description": "Ducktrap Lodge & Retreat is a vacation-rental option in Lincolnville, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1204,7 +1280,8 @@
   "recordType": "Property / small operator",
   "description": "Eagle Eye Cabin offers cabin accommodation in Fort Kent, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0152",
@@ -1217,6 +1294,7 @@
   "description": "Eagle Lake & Beyond is a vacation-rental option in Eagle Lake, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1230,7 +1308,8 @@
   "recordType": "Property / small operator",
   "description": "Eagle Lake Sporting Camps offers camp accommodation in Eagle Lake, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0031",
@@ -1248,7 +1327,8 @@
   "kidsDetails": "Yes (all ages)",
   "petsDetails": "Yes (up to 2 dogs; $100 fee)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0107",
@@ -1262,6 +1342,7 @@
   "description": "Edgewater Cabins offers cabin accommodation in Sullivan, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1281,7 +1362,8 @@
   "kidsDetails": "Yes — children selectable in booking form",
   "petsDetails": "Yes — dogs subject to approval/fee",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0172",
@@ -1297,7 +1379,8 @@
   "recordType": "Property",
   "description": "Ferry Cottage is a vacation-rental option in Lincolnville, Maine. Listed capacity: 2.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0084",
@@ -1311,6 +1394,7 @@
   "description": "Fieldstone Cottages offers cottage accommodation in Rangeley, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1325,6 +1409,7 @@
   "description": "Finch Cottage is a vacation-rental option in New Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1338,7 +1423,8 @@
   "recordType": "Property / small operator",
   "description": "First Settlers Lodge offers lodging in Weston, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0108",
@@ -1355,7 +1441,8 @@
   "pets": "Yes",
   "petsDetails": "Yes — property descriptions permit pets",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0109",
@@ -1369,7 +1456,8 @@
   "recordType": "Property / small operator",
   "description": "Flanders Bay Cabins (custom domain) offers cabin accommodation in Sullivan, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-florida-pool-home",
@@ -1408,7 +1496,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — explicitly described for family gatherings",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0041",
@@ -1421,6 +1510,7 @@
   "description": "Gardners Sporting Camps offers camp accommodation in Fort Kent, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1436,7 +1526,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — family vacations promoted",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0243",
@@ -1450,7 +1541,8 @@
   "description": "Getogether Stays is a vacation-rental operator serving Bucksport / Orland, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay.",
   "petsDetails": "Reported pet-friendly in host's published guest review; confirm per unit",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0292",
@@ -1463,6 +1555,7 @@
   "description": "Glenmoor by the Sea offers lodging in Lincolnville, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1481,6 +1574,7 @@
   "petsDetails": "Yes — up to 2 dogs, $10 per dog/night; some breeds excluded",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1499,7 +1593,8 @@
   "kidsDetails": "Yes (children's playground)",
   "petsDetails": "Yes (up to 2 dogs; $20/day; no cats)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0091",
@@ -1512,6 +1607,7 @@
   "description": "Gray Ghost Camps offers camp accommodation in Rockwood, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1526,7 +1622,8 @@
   "recordType": "Property / small operator",
   "description": "Gray Homestead Cottages offers cottage accommodation in Southport, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0156",
@@ -1543,7 +1640,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — 2 children allowed",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0291",
@@ -1556,6 +1654,7 @@
   "description": "Green Gables Inn offers lodging in Camden, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1569,6 +1668,7 @@
   "description": "Guard Point Vacation Rental is a vacation-rental option in Harrington, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1582,6 +1682,7 @@
   "description": "HAGS Place is a vacation-rental option in Fort Kent, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1598,7 +1699,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — children explicitly count toward max guests",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0116",
@@ -1617,7 +1719,8 @@
   "kidsDetails": "Yes — family-oriented",
   "petsDetails": "Yes",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0162",
@@ -1634,7 +1737,8 @@
   "kidsDetails": "Yes — play area and family cottage",
   "petsDetails": "No — pet-free properties",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0214",
@@ -1648,7 +1752,8 @@
   "recordType": "Property",
   "description": "Heron Cottage / Cove Meadow is a vacation-rental option in Stonington, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0097",
@@ -1661,7 +1766,8 @@
   "recordType": "Property / small operator",
   "description": "Higgins Beach Maine offers lodging in Scarborough, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0075",
@@ -1677,7 +1783,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes (small families)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0051",
@@ -1693,7 +1800,8 @@
   "kidsDetails": "Yes (family cottages)",
   "petsDetails": "Yes with approval (up to 2 dogs/cottage)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0228",
@@ -1706,7 +1814,8 @@
   "recordType": "Rental operator",
   "description": "Holland Ave Vacation Rentals is a vacation-rental operator serving Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0103",
@@ -1725,7 +1834,8 @@
   "kidsDetails": "Yes — pack-and-play available on request",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0212",
@@ -1742,6 +1852,7 @@
   "petsDetails": "Varies — no dogs in luxury treehouses; one dog allowed in each off-grid stay ($35)",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1759,7 +1870,8 @@
   "kidsDetails": "Yes — families welcome; accessibility varies",
   "petsDetails": "Varies — dogs NOT allowed in Grand Oak/Spruce Suite; one dog in off-grid stays ($35)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0165",
@@ -1772,7 +1884,8 @@
   "recordType": "Property",
   "description": "Island Property is a vacation-rental option in Islesboro, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0099",
@@ -1789,6 +1902,7 @@
   "kidsDetails": "Yes — marketed for family stays",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1803,7 +1917,8 @@
   "recordType": "Property",
   "description": "Jenkins Beach is a vacation-rental option in Dedham, Maine. Listed capacity: 3–5 per rental.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0268",
@@ -1816,7 +1931,8 @@
   "recordType": "Rental operator",
   "description": "Jimmy's Coast Real Estate Management is a vacation-rental operator serving Rockland, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0276",
@@ -1829,7 +1945,8 @@
   "recordType": "Rental operator",
   "description": "Jordan Rentals is a vacation-rental operator serving Sebago Lake, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0042",
@@ -1845,7 +1962,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes (family vacation and reunions)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0063",
@@ -1859,6 +1977,7 @@
   "description": "Katahdin Cabins offers cabin accommodation in Millinocket, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1873,7 +1992,8 @@
   "recordType": "Property / small operator",
   "description": "Katahdin Shadows Cabins offers cabin accommodation in Medway, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-kawaii-beach-house",
@@ -1908,6 +2028,7 @@
   "description": "KC Cottage Rentals is a vacation-rental option in Wells, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1921,6 +2042,7 @@
   "description": "Kebo View at Acadia is a vacation-rental option in Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1935,6 +2057,7 @@
   "description": "Kendall Farm Cottages offers cottage accommodation in Perry, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1949,6 +2072,7 @@
   "description": "Kennebec Riverside Cabins offers cabin accommodation in The Forks, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -1963,7 +2087,8 @@
   "recordType": "Property",
   "description": "Kennebunkport Vacation Homes is a vacation-rental option in Kennebunkport, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0160",
@@ -1980,7 +2105,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — baby/child equipment",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0269",
@@ -1993,6 +2119,7 @@
   "description": "Kinney Rentals is a vacation-rental operator serving Rockland, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2007,6 +2134,7 @@
   "description": "Kokadjo Cabins & Trading Post offers cabin accommodation in Kokadjo, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2020,7 +2148,8 @@
   "recordType": "Rental operator",
   "description": "KPT Luxury Properties is a vacation-rental operator serving Kennebunkport, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0277",
@@ -2033,7 +2162,8 @@
   "recordType": "Rental operator",
   "description": "Krainin Real Estate Vacation Rentals is a vacation-rental operator serving South Casco, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-lake-champlain-place",
@@ -2070,7 +2200,8 @@
   "kidsDetails": "Yes — children explicitly welcome",
   "petsDetails": "Yes — prior approval required",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0025",
@@ -2088,7 +2219,8 @@
   "kidsDetails": "Yes (family campground)",
   "petsDetails": "Varies (selected cottages yes; others no)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0026",
@@ -2101,7 +2233,8 @@
   "recordType": "Property / small operator",
   "description": "Lakehurst Camps offers camp accommodation in Damariscotta, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0092",
@@ -2118,6 +2251,7 @@
   "petsDetails": "Yes — dogs in 4 of 5 cabins",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2131,7 +2265,8 @@
   "recordType": "Property / small operator",
   "description": "Libby Camps offers camp accommodation in Ashland / Munsungan Lake, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0196",
@@ -2149,7 +2284,8 @@
   "kidsDetails": "Yes — welcomes families",
   "petsDetails": "Yes — owner website welcomes pets; confirm individual cottage",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0256",
@@ -2162,6 +2298,7 @@
   "description": "Linda Bean's Maine Vacation Rentals is a vacation-rental operator serving Midcoast Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2181,7 +2318,8 @@
   "kidsDetails": "Yes",
   "petsDetails": "Yes — up to 4 pets, no pet fees",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0110",
@@ -2195,7 +2333,8 @@
   "recordType": "Property / small operator",
   "description": "Long Cove Cottages offers cottage accommodation in Tenants Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0053",
@@ -2210,7 +2349,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes (family vacations; swing set)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0014",
@@ -2224,7 +2364,8 @@
   "recordType": "Property / small operator",
   "description": "Lookout Inn & Cottages offers cottage accommodation in Brooklin, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0076",
@@ -2237,7 +2378,8 @@
   "recordType": "Property / small operator",
   "description": "Lookout Resort Rentals offers lodging in Ogunquit, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0204",
@@ -2250,6 +2392,7 @@
   "description": "Loons Landing is a vacation-rental option in Sebago Lake, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2264,7 +2407,8 @@
   "recordType": "Property",
   "description": "Love at First Light Vacation Home is a vacation-rental option in Lubec, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0175",
@@ -2278,7 +2422,8 @@
   "recordType": "Property",
   "description": "Lubec Bay Cottage is a vacation-rental option in Lubec, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0032",
@@ -2291,7 +2436,8 @@
   "recordType": "Property / small operator",
   "description": "Lugdon Lodge offers lodging in Eagle Lake, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0085",
@@ -2305,6 +2451,7 @@
   "description": "Lyons Lakeside Cabins offers cabin accommodation in Rangeley, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2318,7 +2465,8 @@
   "recordType": "Rental operator",
   "description": "Maebeth Vacation Rentals is a vacation-rental operator serving Trenton / Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0202",
@@ -2333,7 +2481,8 @@
   "recordType": "Property",
   "description": "Maine Beach Cottage is a vacation-rental option in Saco, Maine. Listed capacity: 4 (each of two cottages).",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0142",
@@ -2347,6 +2496,7 @@
   "description": "Maine Bella Vita Cabins is a vacation-rental option in Byron, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2361,6 +2511,7 @@
   "description": "Maine Cottage Rental (LedgeLawn Cottage) is a vacation-rental option in Brunswick, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2374,7 +2525,8 @@
   "recordType": "Rental operator",
   "description": "Maine Escapes is a vacation-rental operator serving Rockwood / Katahdin region, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0257",
@@ -2387,7 +2539,8 @@
   "recordType": "Rental operator",
   "description": "Maine Island Properties is a vacation-rental operator serving Mount Desert, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0147",
@@ -2401,7 +2554,8 @@
   "recordType": "Property",
   "description": "Maine Lakes Vacations is a vacation-rental option in Casco / Raymond, Maine. Listed capacity: 14 per displayed property.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0021",
@@ -2418,7 +2572,8 @@
   "pets": "Yes",
   "petsDetails": "Yes — $30 per pet per day, prior notice",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0259",
@@ -2431,7 +2586,8 @@
   "recordType": "Rental operator",
   "description": "Maine Real Estate Management is a vacation-rental operator serving Naples, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0008",
@@ -2445,7 +2601,8 @@
   "recordType": "Property / small operator",
   "description": "Maine Retreats Collection offers lodging in Bar Harbor / Old Orchard Beach / Holden, Maine. Listed capacity: Varies (9 properties / multi-unit).",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0285",
@@ -2462,6 +2619,7 @@
   "petsDetails": "Varies — one featured house explicitly no pets",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2478,7 +2636,8 @@
   "kidsDetails": "Yes — family vacations promoted",
   "petsDetails": "Varies — site has Pet Friendly category",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0183",
@@ -2493,7 +2652,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — families praised stay",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0011",
@@ -2506,7 +2666,8 @@
   "recordType": "Property / small operator",
   "description": "Mainely Retreats offers lodging in Belgrade Lakes, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0201",
@@ -2519,6 +2680,7 @@
   "description": "Maynards in Maine is a vacation-rental option in Rockwood, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2533,6 +2695,7 @@
   "description": "MDI Vacation Homes is a vacation-rental option in Southwest Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2551,7 +2714,8 @@
   "kidsDetails": "Yes — large family vacations offered",
   "petsDetails": "Varies — Kinfolk units advertise dogs welcome",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-miami-fam-stay",
@@ -2587,6 +2751,7 @@
   "description": "Mill Stream House on North Haven is a vacation-rental option in North Haven, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2622,7 +2787,8 @@
   "recordType": "Rental operator",
   "description": "Moody Beach Vacation Rentals is a vacation-rental operator serving Wells, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0167",
@@ -2637,7 +2803,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — family groups welcomed",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0136",
@@ -2650,6 +2817,7 @@
   "description": "Moose Pond Maine Escape is a vacation-rental option in Bridgton, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2664,7 +2832,8 @@
   "recordType": "Property / small operator",
   "description": "Moosehead Cottage Resort offers cottage accommodation in Greenville, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0049",
@@ -2681,7 +2850,8 @@
   "kidsDetails": "Yes (family adventures)",
   "petsDetails": "Varies (Burnt Jacket Lodge yes; Loon Lodge no)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0252",
@@ -2694,7 +2864,8 @@
   "recordType": "Rental operator",
   "description": "Moosehead Property Rentals is a vacation-rental operator serving Greenville, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0266",
@@ -2707,7 +2878,8 @@
   "recordType": "Rental operator",
   "description": "Morton & Furbish Vacation Rentals is a vacation-rental operator serving Rangeley, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0261",
@@ -2720,7 +2892,8 @@
   "recordType": "Rental operator",
   "description": "Mountain Real Estate Company Rentals is a vacation-rental operator serving Newry, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0089",
@@ -2734,7 +2907,8 @@
   "recordType": "Property / small operator",
   "description": "Mountain View Cottages offers cottage accommodation in Rangeley Lake, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0067",
@@ -2749,6 +2923,7 @@
   "petsDetails": "Yes (private cabins only; up to 2 dogs, $30/dog/night)",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2805,7 +2980,8 @@
   "recordType": "Rental operator",
   "description": "Newcastle Vacation Rentals is a vacation-rental operator serving Damariscotta / Midcoast, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0065",
@@ -2819,7 +2995,8 @@
   "recordType": "Property / small operator",
   "description": "Next Chapter Cabins offers cabin accommodation in Monson, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0086",
@@ -2832,6 +3009,7 @@
   "description": "Niboban Sporting Camps offers camp accommodation in Rangeley, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2848,6 +3026,7 @@
   "kidsDetails": "Yes — family visits mentioned",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2883,7 +3062,8 @@
   "recordType": "Property / small operator",
   "description": "North Camps offers camp accommodation in Rangeley Lake, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0050",
@@ -2899,6 +3079,7 @@
   "petsDetails": "Varies (many allow; see individual property)",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -2912,7 +3093,8 @@
   "recordType": "Property / small operator",
   "description": "Nurture Through Nature Retreats offers lodging in Denmark, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0016",
@@ -2926,7 +3108,8 @@
   "recordType": "Property / small operator",
   "description": "Oakland House Seaside Inn & Cottages offers cottage accommodation in Brooksville, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0222",
@@ -2940,7 +3123,8 @@
   "recordType": "Property",
   "description": "Ocean Dunes Condominiums / Garnsey Rentals is a vacation-rental option in Wells, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0194",
@@ -2959,7 +3143,8 @@
   "kidsDetails": "Yes — dedicated Kids' Nook",
   "petsDetails": "Yes — dogs; confirm arrangements",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0129",
@@ -2976,7 +3161,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — marketed as family stay",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0192",
@@ -2991,7 +3177,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — beach group/family rentals",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0264",
@@ -3004,7 +3191,8 @@
   "recordType": "Rental operator",
   "description": "Ogunquit Rental Properties is a vacation-rental operator serving Ogunquit, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0271",
@@ -3017,6 +3205,7 @@
   "description": "On the Water in Maine is a vacation-rental operator serving Rockport, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3030,6 +3219,7 @@
   "description": "Overlook at Mussel Ridge is a vacation-rental option in Spruce Head, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3044,7 +3234,8 @@
   "recordType": "Property / small operator",
   "description": "Overlook Motel & Lakeside Cottages offers cottage accommodation in Eagle Lake, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0235",
@@ -3057,6 +3248,7 @@
   "description": "Peninsula Property Rentals is a vacation-rental operator serving Blue Hill, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3096,7 +3288,8 @@
   "kidsDetails": "Yes — explicitly advertises family visits",
   "petsDetails": "Yes — dogs only, up to 2; $30/night per dog",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0020",
@@ -3113,6 +3306,7 @@
   "petsDetails": "Varies — Woods, Ledge and Cedars listed pet-friendly, additional fee",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3129,7 +3323,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes (small family)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0135",
@@ -3147,7 +3342,8 @@
   "pets": "No",
   "petsDetails": "No — explicit property rule",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0251",
@@ -3160,6 +3356,7 @@
   "description": "Quoddy Properties Vacation Rentals is a vacation-rental operator serving Eastport / Lubec, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3173,7 +3370,8 @@
   "recordType": "Property / small operator",
   "description": "Rangeley Lake Resort offers lodging in Rangeley, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0267",
@@ -3186,6 +3384,7 @@
   "description": "Rangeley Vacation Rentals is a vacation-rental operator serving Rangeley, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3200,7 +3399,8 @@
   "recordType": "Property",
   "description": "Red's Garden Cottage is a vacation-rental option in Bar Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0225",
@@ -3215,7 +3415,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — explicitly advertises family vacations",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0118",
@@ -3231,7 +3432,8 @@
   "description": "Rideout's Lakeside Lodge & Cabins offers cabin accommodation in Weston, Maine. Listed capacity: 2–14 per cabin. The supplied information identifies options for family stays.",
   "kidsDetails": "Yes — age-based children rates",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0198",
@@ -3245,7 +3447,8 @@
   "recordType": "Property",
   "description": "Rockland Talbot House is a vacation-rental option in Rockland, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0272",
@@ -3258,6 +3461,7 @@
   "description": "Rockport Harbor View Vacation Rentals is a vacation-rental operator serving Rockport, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3275,7 +3479,8 @@
   "kidsDetails": "Yes — children under supervision",
   "petsDetails": "Yes — cottages 5–7 only, up to 2 dogs",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0260",
@@ -3291,6 +3496,7 @@
   "kidsDetails": "Yes — family stays advertised",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3305,6 +3511,7 @@
   "description": "Rustic Maine Cottages (Dreaming of Maine alternate) offers cottage accommodation in Brooksville, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3323,7 +3530,8 @@
   "kidsDetails": "Yes — family/kids explicitly welcome",
   "petsDetails": "Yes — dogs stay free",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0054",
@@ -3337,7 +3545,8 @@
   "recordType": "Property / small operator",
   "description": "Sally Mountain Cabins offers cabin accommodation in Jackman, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0289",
@@ -3350,7 +3559,8 @@
   "recordType": "Rental operator",
   "description": "Salt & Shine Vacation Rentals is a vacation-rental operator serving York / Wells / Ogunquit, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0236",
@@ -3363,7 +3573,8 @@
   "recordType": "Rental operator",
   "description": "Salt Air Properties is a vacation-rental operator serving Blue Hill, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0246",
@@ -3376,7 +3587,8 @@
   "recordType": "Rental operator",
   "description": "Saltmeadow Properties is a vacation-rental operator serving Castine, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0200",
@@ -3389,7 +3601,8 @@
   "recordType": "Property",
   "description": "Samoset Village Townhomes is a vacation-rental option in Rockport, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0182",
@@ -3403,7 +3616,8 @@
   "recordType": "Property",
   "description": "Sargent Woods Cottage is a vacation-rental option in Mount Desert Island, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0193",
@@ -3420,7 +3634,8 @@
   "kidsDetails": "Yes — families welcome",
   "petsDetails": "No — strict no-pets rule",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0079",
@@ -3439,7 +3654,8 @@
   "kidsDetails": "Yes (family atmosphere)",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0002",
@@ -3458,7 +3674,8 @@
   "kidsDetails": "Yes (family accommodations, crib)",
   "petsDetails": "Yes (well-behaved; $25/pet)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0241",
@@ -3471,7 +3688,8 @@
   "recordType": "Rental operator",
   "description": "Sea Maine Vacation Rentals is a vacation-rental operator serving Boothbay Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0137",
@@ -3489,7 +3707,8 @@
   "pets": "No",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0119",
@@ -3504,7 +3723,8 @@
   "description": "Sea Spray Cottages offers cottage accommodation in York Beach, Maine. The supplied information identifies options for family stays.",
   "kidsDetails": "Yes — family cottages",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0223",
@@ -3517,7 +3737,8 @@
   "recordType": "Property",
   "description": "Seaglass Village is a vacation-rental option in Wells, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0254",
@@ -3533,7 +3754,8 @@
   "kidsDetails": "Yes — family stays reviewed",
   "petsDetails": "Varies — pet-friendly units advertised",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0153",
@@ -3551,7 +3773,8 @@
   "kidsDetails": "Yes — family stays featured",
   "petsDetails": "Yes — dogs only (max 2 Seanook; max 1 Paradise); fee/deposit",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0274",
@@ -3564,7 +3787,8 @@
   "recordType": "Rental operator",
   "description": "Seashore Property Management is a vacation-rental operator serving Saco / Old Orchard Beach, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0005",
@@ -3580,7 +3804,8 @@
   "description": "Seaside Cottages offers cottage accommodation in Bar Harbor, Maine. Listed capacity: 2–6 per cottage. The supplied information identifies options for family stays.",
   "kidsDetails": "Yes (family cottages)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0104",
@@ -3599,7 +3824,8 @@
   "kidsDetails": "Yes — family accommodations",
   "petsDetails": "Yes — dogs permitted; $25/night",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0205",
@@ -3612,6 +3838,7 @@
   "description": "Sebago Rental is a vacation-rental option in Sebago Lake, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3625,7 +3852,8 @@
   "recordType": "Property / small operator",
   "description": "Seguin Tree Dwellings offers lodging in Georgetown, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0150",
@@ -3638,6 +3866,7 @@
   "description": "Sharon Thoner Maine Rentals is a vacation-rental option in Deer Isle / Brooksville, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3653,7 +3882,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — family resort",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0185",
@@ -3667,7 +3897,8 @@
   "recordType": "Property",
   "description": "Snowball Hill Cottage is a vacation-rental option in New Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0179",
@@ -3680,7 +3911,8 @@
   "recordType": "Property",
   "description": "Stanley Ventures is a vacation-rental option in Milbridge, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0132",
@@ -3693,7 +3925,8 @@
   "recordType": "Property",
   "description": "Stay Hygge is a vacation-rental option in Bethel / Newry, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0105",
@@ -3711,7 +3944,8 @@
   "kidsDetails": "Yes — family vacations mentioned",
   "petsDetails": "Selected units only — cabins 1–6 and apartment; not cabins 7–9",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0173",
@@ -3725,6 +3959,7 @@
   "description": "Suites by the Sea is a vacation-rental option in Lincolnville, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3738,7 +3973,8 @@
   "recordType": "Rental operator",
   "description": "SummerMaine Classic Vacation Rentals is a vacation-rental operator serving Rockland, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0027",
@@ -3757,7 +3993,8 @@
   "kidsDetails": "Yes — family cabins",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0197",
@@ -3771,6 +4008,7 @@
   "description": "Sunset View Carriage House is a vacation-rental option in Rangeley, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3784,7 +4022,8 @@
   "recordType": "Property",
   "description": "Surry Maine Studio by the Sea is a vacation-rental option in Surry, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0081",
@@ -3801,7 +4040,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes (family accommodations)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-tahoe-cabin",
@@ -3838,6 +4078,7 @@
   "kidsDetails": "Yes — marketed for families",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3852,7 +4093,8 @@
   "recordType": "Property",
   "description": "Teel Cove Cottage is a vacation-rental option in Tenants Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0203",
@@ -3866,7 +4108,8 @@
   "recordType": "Property",
   "description": "The Blueberry House is a vacation-rental option in Sebago, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0114",
@@ -3884,7 +4127,8 @@
   "kidsDetails": "Yes — marketed for family resort holidays",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0015",
@@ -3897,7 +4141,8 @@
   "recordType": "Property / small operator",
   "description": "The Eggemoggin Reach Inn offers lodging in Brooklin, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0186",
@@ -3915,7 +4160,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — family-friendly and playground",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0220",
@@ -3929,6 +4175,7 @@
   "description": "The Heyer House is a vacation-rental option in Waldoboro, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -3942,7 +4189,8 @@
   "recordType": "Rental operator",
   "description": "The Island Agency Rentals is a vacation-rental operator serving Stonington, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0019",
@@ -3959,7 +4207,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes (family stays)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0024",
@@ -3978,7 +4227,8 @@
   "kidsDetails": "Yes (family reunions)",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0163",
@@ -3992,7 +4242,8 @@
   "recordType": "Property",
   "description": "The Maine House on Dingley is a vacation-rental option in Harpswell, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0166",
@@ -4007,7 +4258,8 @@
   "pets": "Yes",
   "petsDetails": "Yes — responsible renters cover resulting carpet cleaning",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0146",
@@ -4023,7 +4275,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — cabins marketed to families",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0190",
@@ -4037,7 +4290,8 @@
   "recordType": "Property",
   "description": "The Woods Maine Treehouse is a vacation-rental option in Norway, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0113",
@@ -4050,7 +4304,8 @@
   "recordType": "Property / small operator",
   "description": "Thistledown Farm offers lodging in Waldoboro, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0072",
@@ -4068,7 +4323,8 @@
   "kidsDetails": "Yes (family stays)",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0096",
@@ -4084,7 +4340,8 @@
   "pets": "Yes",
   "petsDetails": "Yes — pets stay free",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0006",
@@ -4103,7 +4360,8 @@
   "kidsDetails": "Yes — children welcome but no extra beds/cots; 2 guests maximum",
   "petsDetails": "Yes — well-behaved dogs $20/night per dog",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0187",
@@ -4116,7 +4374,8 @@
   "recordType": "Property",
   "description": "TimbrLux Stays is a vacation-rental option in Newry / Sunday River, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0094",
@@ -4130,7 +4389,8 @@
   "recordType": "Property / small operator",
   "description": "Tomhegan Wilderness Cabins offers cabin accommodation in Rockwood, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0088",
@@ -4145,7 +4405,8 @@
   "description": "Town & Lake Motel and Cottages offers cottage accommodation in Rangeley, Maine. Pets are welcome.",
   "petsDetails": "Yes (motel described as pet-friendly; cottage policy may differ)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0074",
@@ -4158,7 +4419,8 @@
   "recordType": "Property / small operator",
   "description": "Trackdown Kennels Lodge offers lodging in Northern Aroostook, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0281",
@@ -4171,6 +4433,7 @@
   "description": "True Hall Vacation Rentals is a vacation-rental operator serving Tenants Harbor, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -4185,7 +4448,8 @@
   "recordType": "Property",
   "description": "Turner Farm Guesthouse is a vacation-rental option in North Haven, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0023",
@@ -4203,7 +4467,8 @@
   "kidsDetails": "Yes (under age 2 free)",
   "petsDetails": "No",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0237",
@@ -4216,6 +4481,7 @@
   "description": "Vacation Cottages is a vacation-rental operator serving Blue Hill, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -4232,7 +4498,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — guest review mentions small children",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0284",
@@ -4245,6 +4512,7 @@
   "description": "Vinalhaven Vacation Rentals is a vacation-rental operator serving Vinalhaven, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -4284,7 +4552,8 @@
   "kidsDetails": "Yes — family/group rentals",
   "petsDetails": "Varies — many units allow up to two dogs ($100/stay)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0115",
@@ -4301,7 +4570,8 @@
   "kidsDetails": "Yes — playground and family cottages",
   "petsDetails": "Varies — designated pet-friendly cottages, including Units 108 and 117",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0047",
@@ -4317,6 +4587,7 @@
   "petsDetails": "Yes (dogs $20/day, October free)",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -4335,7 +4606,8 @@
   "kidsDetails": "Yes — child rates/policies published",
   "petsDetails": "No — all listed units",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0158",
@@ -4348,7 +4620,8 @@
   "recordType": "Property",
   "description": "West Bay Acadia is a vacation-rental option in Gouldsboro, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0176",
@@ -4362,7 +4635,8 @@
   "recordType": "Property",
   "description": "West Quoddy Station is a vacation-rental option in Lubec, Maine. Listed capacity: Varies by unit; displayed 6–9 guests.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0037",
@@ -4375,7 +4649,8 @@
   "recordType": "Property / small operator",
   "description": "Wheaton's Lodge offers lodging in Forest City, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0018",
@@ -4393,7 +4668,8 @@
   "kidsDetails": "Yes (families welcome)",
   "petsDetails": "Yes ($25/pet; friendly pets)",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0282",
@@ -4406,6 +4682,7 @@
   "description": "Willow Rental Properties is a vacation-rental operator serving Thomaston, Maine.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
+  "demo": false,
   "photo": "images/photo-unknown.svg"
  },
  {
@@ -4422,7 +4699,8 @@
   "kidsDetails": "Yes — children prices by age",
   "petsDetails": "Yes — selected cabins only; prior approval, $15/day; not Driftwood/Somerset/Penobscot",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0195",
@@ -4439,7 +4717,8 @@
   "kids": "Yes",
   "kidsDetails": "Yes — 3-bedroom family farmhouse",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0007",
@@ -4456,7 +4735,8 @@
   "kidsDetails": "Yes — family-size cottages",
   "petsDetails": "Varies — Parrot, Koze, Mountain View, Garden, Puka Place allow 2 dogs; $50/dog",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0226",
@@ -4469,6 +4749,7 @@
   "recordType": "Rental operator",
   "description": "Your Island Connection Vacation Rentals is a vacation-rental operator serving Bailey Island / Harpswell, Maine.",
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  }
 ]

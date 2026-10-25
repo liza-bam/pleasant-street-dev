@@ -1,0 +1,1144 @@
+[
+ {
+  "id": "LAZY-boston-commonwealth",
+  "name": "Boston Commonwealth",
+  "url": "https://commonwealth.lazy.vacations/",
+  "town": "Boston",
+  "state": "MA",
+  "place": "Boston, MA",
+  "lat": 42.35,
+  "lng": -71.13,
+  "locationSource": "https://commonwealth.lazy.vacations/",
+  "description": "Behind the iron gate, blue-gray rooms open into a comfortable place to pause between city adventures. A king bed invites a late start; the planted terrace calls for a second cup of coffee.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Conflicting published capacities: 2, 3",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Unknown",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "1217 Commonwealth Avenue",
+   "city": "Boston",
+   "state": "MA",
+   "postalCode": "Unknown",
+   "full": "1217 Commonwealth Avenue, Boston, MA",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://commonwealth.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://commonwealth.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "kids": false,
+    "pets": false,
+    "guests": 3
+   },
+   "notes": [
+    "Conflicting published capacities: 2, 3",
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Checked; source facts conflict",
+  "syncNotes": "Conflicting published capacities: 2, 3 Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-boston-commonwealth-cover.webp",
+  "coverPhoto": "images/demos/LAZY-boston-commonwealth-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-boston-commonwealth-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-boston-commonwealth-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-boston-commonwealth-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-boston-commonwealth-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-cape-ann-special",
+  "name": "Cape Ann Special",
+  "url": "https://loon-cottage.pleasant.vacations/",
+  "town": "Holbrook",
+  "state": "MA",
+  "place": "Holbrook, MA",
+  "lat": 42.15,
+  "lng": -71.01,
+  "locationSource": "https://loon-cottage.pleasant.vacations/",
+  "description": "Everything you need for a smooth, easy stay — arrival, the house, and the little things.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 4,
+  "guests": 10,
+  "capacityDetails": "10",
+  "kids": "Yes",
+  "pets": "Yes",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Yes",
+  "address": {
+   "street": "44 King Rd",
+   "city": "Holbrook",
+   "state": "MA",
+   "postalCode": "02343",
+   "full": "44 King Rd, Holbrook, MA 02343",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://loon-cottage.pleasant.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://loon-cottage.pleasant.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "kids": true,
+    "pets": true,
+    "type": "Fancy Cottage",
+    "guests": 10
+   },
+   "notes": []
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "",
+  "photo": "images/demos/LAZY-cape-ann-special-cover.webp",
+  "coverPhoto": "images/demos/LAZY-cape-ann-special-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-cape-ann-special-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-cape-ann-special-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-cape-ann-special-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-cape-ann-special-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-cape-cod-coastal-cottage",
+  "name": "Cape Cod Cottage",
+  "url": "https://capecod.lazy.vacations/",
+  "town": "Holbrook",
+  "state": "MA",
+  "place": "Holbrook, MA",
+  "lat": 42.15,
+  "lng": -71.02,
+  "locationSource": "https://capecod.lazy.vacations/",
+  "description": "Weathered shingles outside; soft color, generous seating and familiar comforts within. Follow the house from its garden path to the fireplace, the kitchen table and the terrace.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Conflicting published capacities: 1, 4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Unknown",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "3 KIngs Road",
+   "city": "Holbrook",
+   "state": "MA",
+   "postalCode": "02343",
+   "full": "3 KIngs Road, Holbrook, MA 02343",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://capecod.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://capecod.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "kids": false,
+    "pets": false,
+    "guests": 1
+   },
+   "notes": [
+    "Conflicting published capacities: 1, 4",
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Checked; source facts conflict",
+  "syncNotes": "Conflicting published capacities: 1, 4 Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-cape-cod-coastal-cottage-cover.webp",
+  "coverPhoto": "images/demos/LAZY-cape-cod-coastal-cottage-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-cape-cod-coastal-cottage-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-cape-cod-coastal-cottage-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-cape-cod-coastal-cottage-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-cape-cod-coastal-cottage-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-chicago-mcm",
+  "name": "Chicago MCM",
+  "url": "https://chicago-mcm.lazy.vacations/",
+  "town": "Chicago",
+  "state": "IL",
+  "place": "Chicago, IL",
+  "lat": 41.89,
+  "lng": -87.63,
+  "locationSource": "https://chicago-mcm.lazy.vacations/",
+  "description": "A gray sofa, a bright accent chair, warm wood, and exposed brick make the living room comfortable from the moment you arrive.",
+  "type": "Apartment",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "530 North LaSalle Dr",
+   "city": "Chicago",
+   "state": "IL",
+   "postalCode": "60654",
+   "full": "530 North LaSalle Dr, Chicago, IL 60654",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://chicago-mcm.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://chicago-mcm.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "kids": false,
+    "pets": false
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-chicago-mcm-cover.webp",
+  "coverPhoto": "images/demos/LAZY-chicago-mcm-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-chicago-mcm-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-chicago-mcm-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-chicago-mcm-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-chicago-mcm-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-florida-pool-home",
+  "name": "Florida Paradise",
+  "url": "https://florida.lazy.vacations/",
+  "town": "Tampa",
+  "state": "FL",
+  "place": "Tampa, FL",
+  "lat": 27.95,
+  "lng": -82.43,
+  "locationSource": "https://florida.lazy.vacations/",
+  "description": "Open the doors to bright rooms, comfortable corners, and water views that keep drawing you outside. The pool sets the pace; the screened terrace keeps everyone together for lunch.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "6",
+  "kids": "Yes",
+  "pets": "Yes",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Yes",
+  "address": {
+   "street": "50 Marconi St",
+   "city": "Tampa",
+   "state": "FL",
+   "postalCode": "33605",
+   "full": "50 Marconi St, Tampa, FL 33605",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://florida.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://florida.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "kids": true,
+    "pets": true
+   },
+   "notes": []
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "",
+  "photo": "images/demos/LAZY-florida-pool-home-cover.webp",
+  "coverPhoto": "images/demos/LAZY-florida-pool-home-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-florida-pool-home-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-florida-pool-home-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-florida-pool-home-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-florida-pool-home-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-kawaii-beach-house",
+  "name": "Kawaii Beach House",
+  "url": "https://kawaii.lazy.vacations/",
+  "town": "Anahola",
+  "state": "HI",
+  "place": "Anahola, HI",
+  "lat": 22.15,
+  "lng": -159.3,
+  "locationSource": "https://kawaii.lazy.vacations/",
+  "description": "A bright great room, a kitchen ready for shared meals, and a lanai made for lingering. Take a look around, then choose where to enjoy your first quiet moment.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 5,
+  "capacityDetails": "5",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Unknown",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "4176 Anahola Rd",
+   "city": "Anahola",
+   "state": "HI",
+   "postalCode": "96703",
+   "full": "4176 Anahola Rd, Anahola, HI 96703",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://kawaii.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://kawaii.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "kids": false,
+    "pets": false,
+    "guests": 5
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-kawaii-beach-house-cover.webp",
+  "coverPhoto": "images/demos/LAZY-kawaii-beach-house-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-kawaii-beach-house-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-kawaii-beach-house-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-kawaii-beach-house-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-kawaii-beach-house-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-lake-champlain-place",
+  "name": "Lake Champlain Place",
+  "url": "https://lake-champlain.lazy.vacations/",
+  "town": "Lake Champlain",
+  "state": "VT",
+  "place": "Lake Champlain, VT",
+  "lat": 44.48,
+  "lng": -73.21,
+  "locationSource": "https://lake-champlain.lazy.vacations/",
+  "description": "Arrive through the trees and settle into rooms made for quiet days. The kitchen is close at hand, the sofa catches the afternoon light, and the lake keeps drawing you outside.",
+  "type": "Cabin",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "Unknown",
+   "city": "Lake Champlain",
+   "state": "VT",
+   "postalCode": "Unknown",
+   "full": "Lake Champlain, VT",
+   "type": "Unknown",
+   "status": "Unknown",
+   "sourceUrl": "https://lake-champlain.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://lake-champlain.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "kids": true,
+    "pets": false
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-lake-champlain-place-cover.webp",
+  "coverPhoto": "images/demos/LAZY-lake-champlain-place-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-lake-champlain-place-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-lake-champlain-place-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-lake-champlain-place-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-lake-champlain-place-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-miami-fam-stay",
+  "name": "Miami Fam Stay",
+  "url": "https://miami-fam.lazy.vacations/",
+  "town": "Miami",
+  "state": "FL",
+  "place": "Miami, FL",
+  "lat": 25.82,
+  "lng": -80.18,
+  "locationSource": "https://miami-fam.lazy.vacations/",
+  "description": "A queen bedroom, a twin bedroom, and one full bathroom. Cook a favorite meal, wash the beach clothes, and keep the routines that make everyone feel at home.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "1842 Palm Cove Avenue, Apt. 304",
+   "city": "Miami",
+   "state": "FL",
+   "postalCode": "33137",
+   "full": "1842 Palm Cove Avenue, Apt. 304, Miami, FL 33137",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://miami-fam.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://miami-fam.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "kids": false,
+    "pets": false,
+    "guests": 4,
+    "type": ""
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-miami-fam-stay-cover.webp",
+  "coverPhoto": "images/demos/LAZY-miami-fam-stay-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-miami-fam-stay-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-miami-fam-stay-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-miami-fam-stay-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-miami-fam-stay-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-mission-base",
+  "name": "Mission Base",
+  "url": "https://mission-sf.lazy.vacations/",
+  "town": "San Francisco",
+  "state": "CA",
+  "place": "San Francisco, CA",
+  "lat": 37.79,
+  "lng": -122.39,
+  "locationSource": "https://mission-sf.lazy.vacations/",
+  "description": "Start at the window with coffee. Come back for a shower and a rest. The studio keeps the practical side of a city break simple.",
+  "type": "Apartment",
+  "rooms": "Unknown",
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "123 Mission St",
+   "city": "San Francisco",
+   "state": "CA",
+   "postalCode": "94102",
+   "full": "123 Mission St, San Francisco, CA 94102",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://mission-sf.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://mission-sf.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "kids": true,
+    "pets": false,
+    "guests": 2,
+    "type": "Studio"
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies.",
+    "Normalized published city typo Sn Francisco to San Francisco."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies. Normalized published city typo Sn Francisco to San Francisco.",
+  "photo": "images/demos/LAZY-mission-base-cover.webp",
+  "coverPhoto": "images/demos/LAZY-mission-base-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-mission-base-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-mission-base-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-mission-base-001.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Partial",
+  "featured": true
+ },
+ {
+  "id": "LAZY-nashville-crow-nest",
+  "name": "Nashville Crow Nest",
+  "url": "https://nashville-crow-nest.lazy.vacations/",
+  "town": "Nashville",
+  "state": "TN",
+  "place": "Nashville, TN",
+  "lat": 36.16,
+  "lng": -86.78,
+  "locationSource": "https://nashville-crow-nest.lazy.vacations/",
+  "description": "Leather worn soft, brick that catches the lamplight, and a turntable ready for the first side. Crow Nest gives you a comfortable place to listen, recharge, and watch the city change after dark.",
+  "type": "Apartment",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "162 4th Avenue North",
+   "city": "Nashville",
+   "state": "TN",
+   "postalCode": "37219",
+   "full": "162 4th Avenue North, Nashville, TN 37219",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://nashville-crow-nest.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://nashville-crow-nest.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "kids": false,
+    "pets": false
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-nashville-crow-nest-cover.webp",
+  "coverPhoto": "images/demos/LAZY-nashville-crow-nest-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-nashville-crow-nest-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-nashville-crow-nest-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-nashville-crow-nest-001.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Partial",
+  "featured": true
+ },
+ {
+  "id": "LAZY-noe-valley-studio",
+  "name": "Noe Valley Studio",
+  "url": "https://noe-valley-sf.lazy.vacations/",
+  "town": "San Francisco",
+  "state": "CA",
+  "place": "San Francisco, CA",
+  "lat": 37.75,
+  "lng": -122.43,
+  "locationSource": "https://noe-valley-sf.lazy.vacations/",
+  "description": "Plants soften the entrance and make the patio feel tucked away from the city. Inside, warm wood, comfortable seating, and a compact kitchen give you the everyday comforts of home.",
+  "type": "Apartment",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "1210 Noe St",
+   "city": "San Francisco",
+   "state": "CA",
+   "postalCode": "94114",
+   "full": "1210 Noe St, San Francisco, CA 94114",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://noe-valley-sf.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://noe-valley-sf.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "kids": true,
+    "pets": false,
+    "guests": 4
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-noe-valley-studio-cover.webp",
+  "coverPhoto": "images/demos/LAZY-noe-valley-studio-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-noe-valley-studio-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-noe-valley-studio-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-noe-valley-studio-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-noe-valley-studio-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-nyc-midtown-city-loft",
+  "name": "New York Midtown Place",
+  "url": "https://nyc-midtown.lazy.vacations/",
+  "town": "New York",
+  "state": "NY",
+  "place": "New York, NY",
+  "lat": 40.76,
+  "lng": -73.98,
+  "locationSource": "https://nyc-midtown.lazy.vacations/",
+  "description": "Tucked on a quiet floor of a prewar building, this one-bedroom is the kind of place you sink into after a long day of walking the city. Original hardwood floors, tall windows, plenty of space.",
+  "type": "Apartment",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": 1,
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "18 West 55th Street, Apt 604",
+   "city": "New York",
+   "state": "NY",
+   "postalCode": "10019",
+   "full": "18 West 55th Street, Apt 604, New York, NY 10019",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://nyc-midtown.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://nyc-midtown.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "kids": false,
+    "pets": false,
+    "guests": 2,
+    "type": "Loft"
+   },
+   "notes": [
+    "Conflicting bedroom facts: hero 1, enabled facts section 2.",
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Checked; source facts conflict",
+  "syncNotes": "Conflicting bedroom facts: hero 1, enabled facts section 2. Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-nyc-midtown-city-loft-cover.webp",
+  "coverPhoto": "images/demos/LAZY-nyc-midtown-city-loft-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-nyc-midtown-city-loft-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-nyc-midtown-city-loft-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-nyc-midtown-city-loft-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-nyc-midtown-city-loft-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-philly-home",
+  "name": "Philly Home",
+  "url": "https://philly-home.lazy.vacations/",
+  "town": "Philadelphia",
+  "state": "PA",
+  "place": "Philadelphia, PA",
+  "lat": 39.96,
+  "lng": -75.22,
+  "locationSource": "https://philly-home.lazy.vacations/",
+  "description": "Come in from the brick-lined street and leave the day at the door. Sunlit rooms, warm wood floors, and a generous kitchen make this fictional rowhome a welcoming base for four curious travelers.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Unknown",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "220 South 47th Street",
+   "city": "Philadelphia",
+   "state": "PA",
+   "postalCode": "19139",
+   "full": "220 South 47th Street, Philadelphia, PA 19139",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://philly-home.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://philly-home.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "kids": false,
+    "pets": false,
+    "type": "Cozy Rowhome",
+    "guests": 4
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-philly-home-cover.webp",
+  "coverPhoto": "images/demos/LAZY-philly-home-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-philly-home-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-philly-home-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-philly-home-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Partial",
+  "featured": true
+ },
+ {
+  "id": "LAZY-tahoe-cabin",
+  "name": "Tahoe Cabin",
+  "url": "https://tahoe-cabin.lazy.vacations/",
+  "town": "Lake Tahoe",
+  "state": "CA",
+  "place": "Lake Tahoe, CA",
+  "lat": 39.1,
+  "lng": -120.03,
+  "locationSource": "https://tahoe-cabin.lazy.vacations/",
+  "description": "Wood-lined rooms, generous windows, and a deck made for lingering. Follow the path from the living room to the garden sauna, then down toward the lake.",
+  "type": "Cabin",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Published demo policy: Unknown",
+  "petsDetails": "Published demo policy: Unknown",
+  "address": {
+   "street": "Unknown",
+   "city": "Lake Tahoe",
+   "state": "CA",
+   "postalCode": "Unknown",
+   "full": "Lake Tahoe, CA",
+   "type": "Unknown",
+   "status": "Unknown",
+   "sourceUrl": "https://tahoe-cabin.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://tahoe-cabin.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "kids": false,
+    "pets": false,
+    "guests": 4,
+    "type": ""
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-tahoe-cabin-cover.webp",
+  "coverPhoto": "images/demos/LAZY-tahoe-cabin-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-tahoe-cabin-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-tahoe-cabin-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-tahoe-cabin-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-tahoe-cabin-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ },
+ {
+  "id": "LAZY-virginia-cottage",
+  "name": "Virginia Cottage",
+  "url": "https://virginia-cottage.lazy.vacations/",
+  "town": "Crozet",
+  "state": "VA",
+  "place": "Crozet, VA",
+  "lat": 38.06,
+  "lng": -78.7,
+  "locationSource": "https://virginia-cottage.lazy.vacations/",
+  "description": "Clover Hill is a small country cottage, not a grand house, and that is exactly the point.",
+  "type": "House",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Yes",
+  "pets": "Yes",
+  "kidsDetails": "Published demo policy: Yes",
+  "petsDetails": "Published demo policy: Yes",
+  "address": {
+   "street": "1005 Heathercroft Cir",
+   "city": "Crozet",
+   "state": "VA",
+   "postalCode": "22932",
+   "full": "1005 Heathercroft Cir, Crozet, VA 22932",
+   "type": "Fictional demo address",
+   "status": "Published demo content; not a verified rental address",
+   "sourceUrl": "https://virginia-cottage.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "notes": "Demo data. Map position remains approximate."
+  },
+  "demo": true,
+  "recordType": "Demo property",
+  "listingStatus": "Active",
+  "checked": "2026-10-25",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://virginia-cottage.lazy.vacations/",
+   "checkedOn": "2026-10-25",
+   "heroFacts": {
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "kids": true,
+    "pets": true
+   },
+   "notes": []
+  },
+  "syncStatus": "Synced from public demo website",
+  "syncNotes": "",
+  "photo": "images/demos/LAZY-virginia-cottage-cover.webp",
+  "coverPhoto": "images/demos/LAZY-virginia-cottage-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-virginia-cottage-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-virginia-cottage-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-virginia-cottage-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-virginia-cottage-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete",
+  "featured": true
+ }
+]

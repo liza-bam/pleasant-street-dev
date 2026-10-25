@@ -1,0 +1,19 @@
+{
+ "checkedOn": "2026-10-25",
+ "checked": 15,
+ "errors": [],
+ "conflicts": [
+  {
+   "id": "LAZY-nyc-midtown-city-loft",
+   "notes": "Conflicting bedroom facts: hero 1, enabled facts section 2. Unshown welcome badges are not treated as confirmed No policies."
+  },
+  {
+   "id": "LAZY-cape-cod-coastal-cottage",
+   "notes": "Conflicting published capacities: 1, 4 Unshown welcome badges are not treated as confirmed No policies."
+  },
+  {
+   "id": "LAZY-boston-commonwealth",
+   "notes": "Conflicting published capacities: 2, 3 Unshown welcome badges are not treated as confirmed No policies."
+  }
+ ]
+}

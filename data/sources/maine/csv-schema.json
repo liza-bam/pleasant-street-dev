@@ -1,0 +1,66 @@
+{
+  "format": "UTF-8 CSV with header row",
+  "record": "One row per website",
+  "primary_key": "ID",
+  "original_columns": [
+    "Property / operator",
+    "Maine location",
+    "Website URL",
+    "Candidate category",
+    "Evidence status",
+    "Discovery method",
+    "Source URL",
+    "Notes",
+    "Research inputs",
+    "Sleeps / max guests",
+    "Pets OK",
+    "Kids OK",
+    "Published price",
+    "Price details",
+    "Property details source URL",
+    "Property data verification"
+  ],
+  "added_columns": {
+    "ID": "Unique string, ME-0001 through ME-0292",
+    "Description": "Plain text",
+    "Description basis": "Source note",
+    "Cover image": "Relative image path or empty",
+    "Photo 000": "Relative image path or empty",
+    "Photo 001": "Relative image path or empty",
+    "Photo 002": "Relative image path or empty",
+    "Logo image": "Optional relative image path",
+    "Property photo count": "Integer 0–4",
+    "Photo status": [
+      "Complete",
+      "No property photos",
+      "Partial",
+      "Website mismatch"
+    ],
+    "Cover selection": [
+      "Building exterior",
+      "Property photo fallback",
+      "Missing"
+    ],
+    "Street address": "Published street and number, or PO Box. Empty if not found.",
+    "City": "Published town or city; not inferred",
+    "State": "Published state / region, usually ME",
+    "ZIP code": "Text preserving leading zero; five digits or ZIP+4, or empty",
+    "Full address": "Address formatted from published components, or empty",
+    "Address type": "Distinguishes property / business contact, office, PO Box, arrival point, partial address, and out-of-state contacts",
+    "Address status": [
+      "Not found publicly",
+      "Published on official website",
+      "Published tourism / chamber listing",
+      "Third-party listing; unverified officially",
+      "Website mismatch; address in tourism listing"
+    ],
+    "Address source URL": "Public source supporting the selected address",
+    "Address checked on": "Research date in YYYY-MM-DD format",
+    "Address notes": "Missing components, conflicting sources, multiple properties or location caveats"
+  },
+  "image_names": "ID-cover.ext, ID-000.ext, ID-001.ext, ID-002.ext; optional ID-logo.ext",
+  "images_directory": "images",
+  "missing_values": "Empty fields; no placeholder images",
+  "original_image_formats_retained": true,
+  "address_evidence": "address-manifest.json; per-record evidence under logs/addresses; saved source pages and search results under cache"
+}

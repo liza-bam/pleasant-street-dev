@@ -1,0 +1,4961 @@
+[
+ {
+  "id": "ME-0001",
+  "address": {
+   "street": "PO Box 810",
+   "city": "Ashland",
+   "state": "ME",
+   "postal_code": "04732",
+   "full_address": "PO Box 810, Ashland, ME 04732",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://www.libbycamps.com/history/about-us/photo-gallery/hunting-photos/",
+   "evidence": "d Menu Amenities & Rates Ice Cutting Winter Gallery CONTACT Hunting Season 2021 Hunting Season 2020 Memories from Previous Seasons... Libby Sporting Camps (207) 435-8274 PO Box 810 Ashland, ME 04732",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0002",
+  "address": {
+   "street": "23 Sea Escape Lane",
+   "city": "Bailey Island",
+   "state": "ME",
+   "postal_code": "04003",
+   "full_address": "23 Sea Escape Lane, Bailey Island, ME 04003",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://seaescapecottages.com/contact-cottages/",
+   "evidence": "t the answering machine please leave a message and we will get back to you as soon as possible. Contact Info Sea Escape Cottages & Charters Inc. P.O. Box 7 23 Sea Escape Lane Bailey Island, ME 04003",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0003",
+  "address": {
+   "street": "91 Sand Point Road",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "91 Sand Point Road, Bar Harbor, ME 04609",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.baycliff.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Bar Harbor\", \"addressRegion\": \"ME\", \"postalCode\": \"04609\", \"streetAddress\": \"91 Sand Point Road\"}",
+   "owner": "Baycliff Cottage and Cabin Rentals"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0004",
+  "address": {
+   "id": "ME-0004",
+   "street": "271 Bay View Drive",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "271 Bay View Drive, Bar Harbor, ME 04609",
+   "source_url": "https://akama.com/company/Bayview_Cottages_Vacation_Homes_ae1c83345154.html",
+   "evidence": "Bayview Cottages Vacation Homes; 271 Bay View Drive; Bar Harbor, Maine; 04609",
+   "official": false,
+   "notes": "Third-party business listing; current operator address unverified.",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "Third-party business listing; current operator address unverified.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0005",
+  "address": {
+   "street": "1500 State Highway 102",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "1500 State Highway 102, Bar Harbor, ME 04609",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.seasidemaine.com/Contact/",
+   "evidence": "Contact, Lodging Inquiries & Office Hours | Seaside Cottages Skip to Page Content Skip to Footer 1500 State Highway 102 Bar Harbor, Maine 04609",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0006",
+  "address": {
+   "street": "563 Eden Street",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "563 Eden Street, Bar Harbor, ME 04609",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.tidewatchcabins.com/contact-2",
+   "evidence": "Use tab to navigate through the menu items. Tide Watch Cabins Get in Touch First Name Last Name Email Message Thanks for submitting! Send Contact Details Address 563 Eden Street Bar Harbor, Maine 04609",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0007",
+  "address": {
+   "street": "3 Woodland Loop",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "3 Woodland Loop, Bar Harbor, ME 04609",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.woodlandparkcottages.com/contact",
+   "evidence": "ook a Cottage Contact us Get in contact through the form below and we’ll reply as soon as we can. Bar Harbor, ME (207) - 801 - 0195 adam@woodlandparkcottages.com 3 Woodland Loop Bar Harbor, ME 04609",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0008",
+  "address": {
+   "street": "PO Box 2670",
+   "city": "Bangor",
+   "state": "ME",
+   "postal_code": "04402",
+   "full_address": "PO Box 2670, Bangor, ME 04402",
+   "source_url": "https://maineretreatshotels.com/about/",
+   "title": "About Maine Retreats Hotels",
+   "evidence": "otel +1 (207) 819-9981 Seaside Suites Hotel +1 (207) 503-2523 Acadia Suites +1 (207) 288-7665 Island View Motel +1 (866) 934-2202 Email: stay@lavhotels.com Our Address: PO Box 2670, Bangor, ME 04402",
+   "official": false,
+   "id": "ME-0008",
+   "name": "Maine Retreats Collection",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0009",
+  "address": {
+   "street": "95 Harbor Drive",
+   "city": "Bass Harbor",
+   "state": "ME",
+   "postal_code": "04653",
+   "full_address": "95 Harbor Drive, Bass Harbor, ME 04653",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://bassharborcottages.com/map-directions.html",
+   "evidence": "Inn 95 Harbor Drive (Route 102A) P.O. Box 40 Bass Harbor, Maine 04653 USA Phone: (207) 244-3460 info@bassharborcottages.com Map & Directions We are located at 95 Harbor Drive, Bass Harbor, ME 04653",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0010",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0011",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0012",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0013",
+  "address": {
+   "street": "244 Nobleboro Road",
+   "city": "Bremen",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "244 Nobleboro Road, Bremen, ME",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://www.otyokwamaine.com",
+   "evidence": "TIONS I NTIMATE RETREATS COZY CEREMONIES A private lakeside property in mid coast where Maine's natural beauty is yours to enjoy LAKEFRONT CABINS ON PEMAQUID LAKE 244 Nobleboro Road Bremen, Maine",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0014",
+  "address": {
+   "street": "455 Flye Point Road",
+   "city": "Brooklin",
+   "state": "ME",
+   "postal_code": "04616",
+   "full_address": "455 Flye Point Road, Brooklin, ME 04616",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://thelookoutinn.com/",
+   "evidence": "h live music! Scott Cleveland Jazz piano 5:30-7:30. Rooms and cottages Dinner Reservations Private Events About The Lookout The Lookout Inn Facebook Instagram 455 Flye Point Road, Brooklin, Maine 04616",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0015",
+  "address": {
+   "street": "479 Reach Rd",
+   "city": "Brooklin",
+   "state": "ME",
+   "postal_code": "04616",
+   "full_address": "479 Reach Rd, Brooklin, ME 04616",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.thereachinn.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"479 Reach Rd\", \"addressLocality\": \"Brooklin\", \"addressRegion\": \"ME\", \"postalCode\": \"04616\", \"addressCountry\": \"US\"}",
+   "owner": "Eggemoggin Reach Inn"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0016",
+  "address": {
+   "street": "435 Herrick Road",
+   "city": "Herricks Landing, Brooksville",
+   "state": "ME",
+   "postal_code": "04617",
+   "full_address": "435 Herrick Road, Herricks Landing, Brooksville, ME 04617",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.oaklandhouse.com/contact-us",
+   "evidence": "and House 2026 Policies Cottage Policies Acorn Guest House Policy Pet Policy 2018 All Rights reserved / Oakland House Seaside Inn & cottages 435 Herrick Road, Herricks Landing, Brooksville, Maine 04617",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0017",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0018",
+  "address": {
+   "street": "125 Russell Rd",
+   "city": "Brownville",
+   "state": "ME",
+   "postal_code": "04414",
+   "full_address": "125 Russell Rd, Brownville, ME 04414",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://wildwoodsme.com/contact/",
+   "evidence": "ilside Cabins, Lodge & Restaurant in Brownville, ME Skip to content Home Lodging Restaurant Trails Gallery Contact Home Lodging Restaurant Trails Gallery Contact 125 Russell Rd. Brownville, ME 04414",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0019",
+  "address": {
+   "street": "8 Sand Beach Lane",
+   "city": "Burnham",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "8 Sand Beach Lane, Burnham, ME",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://thelodgeandcabins.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"8 Sand Beach Lane\", \"addressLocality\": \"Burnham\", \"addressRegion\": \"ME\", \"addressCountry\": \"US\"}",
+   "owner": "The Lodge & Cabins at Lake Winnecook"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0020",
+  "address": {
+   "street": "123 River Road",
+   "city": "Calais",
+   "state": "ME",
+   "postal_code": "04619",
+   "full_address": "123 River Road, Calais, ME 04619",
+   "source_url": "https://visitmaine.com/organization/pocomoonshine-lake-lodges/3640/",
+   "title": "Pocomoonshine Lake Lodges | Visit Maine",
+   "evidence": "0 years, Pocomoonshine Lake Lodges welcomed guests to fully equipped lakefront cottages designed for relaxing, unplugged vacations. Pocomoonshine Lake Lodges Address 123 River Road, Calais, ME, 04619",
+   "official": false,
+   "id": "ME-0020",
+   "name": "Pocomoonshine Lake Lodges",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0021",
+  "address": {
+   "id": "ME-0021",
+   "street": "1008 US Route 201",
+   "city": "Caratunk",
+   "state": "ME",
+   "postal_code": "04925",
+   "full_address": "1008 US Route 201, Caratunk, ME 04925",
+   "source_url": "https://visitmaine.com/organization/maine-lakeside-cabins/6910/",
+   "evidence": "1008 US Route 201, Caratunk, ME, 04925",
+   "official": false,
+   "notes": "",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0022",
+  "address": {
+   "street": "259 Lombard Road",
+   "city": "Caribou",
+   "state": "ME",
+   "postal_code": "04736",
+   "full_address": "259 Lombard Road, Caribou, ME 04736",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://cariboucabins.net/",
+   "evidence": "u enjoy your stay. If you have any Questions or needs contact me at 207 -498-2800 or cell 207-551-3530 Your Host: Keith Brown Tel.: 207 498-2800 E-mail Us Address: 259 Lombard Road Caribou, ME 04736",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0023",
+  "address": {
+   "street": "56 Town Line Rd",
+   "city": "Caribou",
+   "state": "ME",
+   "postal_code": "04736",
+   "full_address": "56 Town Line Rd, Caribou, ME 04736",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://upnorthcabins.com/contact/",
+   "evidence": "6 Townline Rd, Connor/Caribou Line Like Us! Book Now! Home Cabins Rates Amenities Nearby Attractions Contact Us Contact Us Email Michelle@upnorthcabins.com Address 56 Town Line Rd, Caribou, ME 04736",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0024",
+  "address": {
+   "street": "56 S Casco Village Rd",
+   "city": "Casco",
+   "state": "ME",
+   "postal_code": "04015",
+   "full_address": "56 S Casco Village Rd, Casco, ME 04015",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://thelodgeatthomaspond.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"56 S Casco Village Rd\", \"addressLocality\": \"Casco\", \"addressRegion\": \"ME\", \"postalCode\": \"04015\", \"addressCountry\": \"US\"}",
+   "owner": "Lodge at Thomas Pond"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0025",
+  "address": {
+   "street": "100 Twin Cove Lane",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postal_code": "04543",
+   "full_address": "100 Twin Cove Lane, Damariscotta, ME 04543",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://lakepemaquid.com/contact/",
+   "evidence": "Name * Email Address * How can we help? Feel free to ask a question or simply leave a comment. Comments / Questions * Lake Pemaquid Campground PO Box 967, 100 Twin Cove Lane | Damariscotta, Maine 04543",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0026",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postal_code": "04543",
+   "full_address": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.lakehurstcamps.com/about-us/",
+   "evidence": "ly Manlius, NY Experience the magic of Maine Interested in reserving? Let's Chat! Christina Pinkham Customer Service Manager Lakehurst Properties LLC 30 Lakehurst Lane, Unit 2 Damariscotta, ME 04543",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0027",
+  "address": {
+   "street": "60 Sunset Ln",
+   "city": "Jefferson",
+   "state": "ME",
+   "postal_code": "04348",
+   "full_address": "60 Sunset Ln, Jefferson, ME 04348",
+   "method": "Structured address on official website",
+   "score": 106,
+   "source_url": "https://www.sunsetcabinsmaine.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"60 Sunset Ln\", \"addressLocality\": \"Jefferson\", \"addressRegion\": \"ME\", \"postalCode\": \"04348\", \"addressCountry\": \"United States\"}",
+   "owner": "Sunset Cabins"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0028",
+  "address": {
+   "street": "26 Cowgers Lane",
+   "city": "Danforth",
+   "state": "ME",
+   "postal_code": "04424",
+   "full_address": "26 Cowgers Lane, Danforth, ME 04424",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://cowgerscabins.com/directions/",
+   "evidence": "rch Call Us Interested in renting a cabin? Call us! (207) 448-2455 or toll free at 1-800-562-3828 ! Mailing Address: PO Box 97 Danforth, ME 04424 Physical Address: 26 Cowgers Lane Danforth, ME 04424",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0029",
+  "address": {
+   "street": "77 Warren Rd",
+   "city": "Denmark",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "77 Warren Rd, Denmark, ME",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.ntnretreats.com/contact",
+   "evidence": "lease send a note to emily@ntnretreats.com or call 1-855-207-RETREAT (7387) and we will respond as soon as possible. Looking forward to connecting with you! Visit us 77 Warren Rd., Denmark, Maine",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0030",
+  "address": {
+   "street": "23 Furlong Road",
+   "city": "Eagle Lake",
+   "state": "ME",
+   "postal_code": "04739",
+   "full_address": "23 Furlong Road, Eagle Lake, ME 04739",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://eaglelakesportingcamps.com/contact-us/directions-transportation/",
+   "evidence": "t Us Birdwatching Fishing Hunting Activities Directions & Transportation Contact Us Contact Info Phone : (207) 444-5108 Email : [email protected] Office Address 23 Furlong Road, Eagle Lake, Maine 04739",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0031",
+  "address": {
+   "street": "105 Furlong Road",
+   "city": "Eagle Lake",
+   "state": "ME",
+   "postal_code": "04739",
+   "full_address": "105 Furlong Road, Eagle Lake, ME 04739",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.lakesidecottagesmaine.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"105 Furlong Road\", \"addressLocality\": \"Eagle Lake\", \"addressRegion\": \"ME\", \"postalCode\": \"04739\", \"addressCountry\": \"US\"}",
+   "owner": "Eagles Landing Lakeside Cottages"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0032",
+  "address": {
+   "street": "1695 Sly Brook Rd",
+   "city": "Eagle Lake",
+   "state": "ME",
+   "postal_code": "04739",
+   "full_address": "1695 Sly Brook Rd, Eagle Lake, ME 04739",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://lugdonlodge.wordpress.com/about/contact-us/",
+   "evidence": "ventures For More Information Contact Us Staff Contact Us Call today to book your next Maine Adventure! Phone 207-444-4557 Email lugdonlodge@gmail.com Address 1695 Sly Brook Rd, Eagle Lake, Maine 04739",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0033",
+  "address": {
+   "street": "3232 Aroostook Rd",
+   "city": "Eagle Lake",
+   "state": "ME",
+   "postal_code": "04739",
+   "full_address": "3232 Aroostook Rd, Eagle Lake, ME 04739",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.overlookmotel.com/contact",
+   "evidence": "y questions, please contact us via email or telephone and we will get back to you as soon as possible. We look forward to hearing from you. ACCESS MAP ADDRESS 3232 Aroostook Rd. Eagle Lake, Maine, 04739",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0034",
+  "address": {
+   "id": "ME-0034",
+   "street": "17 Pond Brook Road",
+   "city": "Eagle Lake",
+   "state": "ME",
+   "postal_code": "04739",
+   "full_address": "17 Pond Brook Road, Eagle Lake, ME 04739",
+   "source_url": "https://pondbrookcabins.com/contact/",
+   "evidence": "17 Pond Brook Road box123, Eagle Lake, ME 04739",
+   "official": true,
+   "notes": "Official contact page gives 17 Pond Brook Road. A tourism listing gives 21 Pond Brook Rd; use official source pending confirmation.",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "Official contact page gives 17 Pond Brook Road. A tourism listing gives 21 Pond Brook Rd; use official source pending confirmation.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0035",
+  "address": {
+   "street": "30 Old Mill Rd",
+   "city": "Ellsworth",
+   "state": "ME",
+   "postal_code": "04605",
+   "full_address": "30 Old Mill Rd, Ellsworth, ME 04605",
+   "source_url": "https://arborcamp.com/contact/",
+   "title": "Contact - Arbor Camp",
+   "evidence": "ct Us Name [Input]First [Input]Last Email [Input] Message [Input][Input][Input][Input][Input][Input][Input][Button: Send Message] Acadia Welcomes You Contact Info 30 Old Mill Rd, Ellsworth, ME 04605",
+   "official": true,
+   "id": "ME-0035",
+   "name": "Arbor Camp",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0036",
+  "address": {
+   "street": "2466 Forest City Road",
+   "city": "Forest City Township",
+   "state": "ME",
+   "postal_code": "04413",
+   "full_address": "2466 Forest City Road, Forest City Township, ME 04413",
+   "source_url": "https://www.grandlakecottages.net/reservations",
+   "title": "Reservations — Grand Lake Cottages",
+   "evidence": "g a reservation. If mailing a personal check or money order, please make checks payable to Grand Lake Cottages, and mail to Grand Lake Cottages, 2466 Forest City Road, Forest City Township, Maine, 04413",
+   "official": true,
+   "id": "ME-0036",
+   "name": "Grand Lake Cottages",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0037",
+  "address": {
+   "street": "22 Grove Road",
+   "city": "Forest City TWP",
+   "state": "ME",
+   "postal_code": "04413",
+   "full_address": "22 Grove Road, Forest City TWP, ME 04413",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.wheatonslodge.com/contact-us",
+   "evidence": "s via phone or email. Click one of the buttons below to get started. Call Us Email Us wheatons1@hotmail.com office: 207.448.7723 Patrick's cell: 207.551.6354 22 Grove Road Forest City TWP., ME 04413",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0038",
+  "address": {
+   "street": "447 Violette Settlement Road",
+   "city": "Fort Kent",
+   "state": "ME",
+   "postal_code": "04743",
+   "full_address": "447 Violette Settlement Road, Fort Kent, ME 04743",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.camelbrookcamps.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Fort Kent\", \"addressRegion\": \"ME\", \"postalCode\": \"04743\", \"streetAddress\": \"447 Violette Settlement Road\"}",
+   "owner": "Camel Brook Camps"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0039",
+  "address": {
+   "street": "46 Klein Road",
+   "city": "Fort Kent",
+   "state": "ME",
+   "postal_code": "04743",
+   "full_address": "46 Klein Road, Fort Kent, ME 04743",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.crossroadcabins.com/contact-us",
+   "evidence": "nd further information, please contact us: Telephone: 207-834-6717 Kevin's cell: 207-249-4750 Cheryl's cell: 207-231-1055 ​ Email: info@crossroadcabins.com ​ Mail: 46 Klein Road, Fort Kent, Maine, 04743",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0040",
+  "address": {
+   "street": "711 Frenchville Road",
+   "city": "Fort Kent",
+   "state": "ME",
+   "postal_code": "04743",
+   "full_address": "711 Frenchville Road, Fort Kent, ME 04743",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://www.eagleeyecabin.com",
+   "evidence": "you. The hosts are well equipped to take care of anything you need. — Alyce New Bern, North Carolina, Airbnb CONTACT & BOOKING Secure your riverview getaway. 711 Frenchville Road Fort Kent, ME 04743",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0041",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0042",
+  "address": {
+   "street": "19 Levesque Lane",
+   "city": "Fort Kent",
+   "state": "ME",
+   "postal_code": "04743",
+   "full_address": "19 Levesque Lane, Fort Kent, ME 04743",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://junction19co.com/contact-9/",
+   "evidence": "transition into beautifully vast forest landscapes. Wildlife and scenic views are plentiful, and the fresh country air smells just a little bit sweeter! Address 19 Levesque Lane Fort Kent, Maine 04743",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0043",
+  "address": {
+   "id": "ME-0043",
+   "street": "95 Desert Road",
+   "city": "Freeport",
+   "state": "ME",
+   "postal_code": "04032",
+   "full_address": "95 Desert Road, Freeport, ME 04032",
+   "source_url": "https://desertofmaine.com/visit",
+   "evidence": "95 Desert Road, Freeport, ME 04032",
+   "official": true,
+   "notes": "",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0044",
+  "address": {
+   "id": "ME-0044",
+   "street": "25 Turtle Hill Dr",
+   "city": "Georgetown",
+   "state": "ME",
+   "postal_code": "04548",
+   "full_address": "25 Turtle Hill Dr, Georgetown, ME 04548",
+   "source_url": "https://wanderlog.com/place/details/4623292/seguin-tree-dwellings",
+   "evidence": "25 Turtle Hill Dr, Georgetown, ME 04548, USA",
+   "official": false,
+   "notes": "Public third-party listing; unverified against official website.",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "Public third-party listing; unverified against official website.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0045",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0046",
+  "address": {
+   "street": "86 Canal Street",
+   "city": "Grand Lake Stream",
+   "state": "ME",
+   "postal_code": "04668",
+   "full_address": "86 Canal Street, Grand Lake Stream, ME 04668",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://grandlakelodgemaine.com/contact-us/",
+   "evidence": "ME 04668 Phone: 207-796-5584 Email: grandlakelodgemaine33@gmail.com Contact Us Name * Email * Message Comment Email Comment or Message * Submit Contact: 86 Canal Street Grand Lake Stream, ME 04668",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0047",
+  "address": {
+   "street": "112 Milford Road",
+   "city": "Grand Lake Stream",
+   "state": "ME",
+   "postal_code": "04668",
+   "full_address": "112 Milford Road, Grand Lake Stream, ME 04668",
+   "source_url": "https://weatherbys.com/booking/",
+   "title": "Reservations - Weatherby's Maine Hunting and Fishing Lodge",
+   "evidence": "Ishing Lodge Logo ... Weatherby's Maine Blog 207-796-5558 Email Us ReservationsJeff McEvoy2024-10-21T14:16:59-05:00 Image: Weatherby's FIshing Lodge Logo 112 Milford Road Grand Lake Stream, ME 04668",
+   "official": true,
+   "id": "ME-0047",
+   "name": "Weatherby's Lodge",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0048",
+  "address": {
+   "street": "3 Vacation Lane",
+   "city": "Greenville",
+   "state": "ME",
+   "postal_code": "04441",
+   "full_address": "3 Vacation Lane, Greenville, ME 04441",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.mooseheadcottageresort.biz/contact-us",
+   "evidence": "menities in the clubhouse are exclusive to our guests staying at the resort and charter members. For general enquiries and further information, please contact us: 3 Vacation Lane Greenville ME 04441",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0049",
+  "address": {
+   "street": "418 Lily Bay Road",
+   "city": "Moosehead Lake Greenville",
+   "state": "ME",
+   "postal_code": "04441",
+   "full_address": "418 Lily Bay Road, Moosehead Lake Greenville, ME 04441",
+   "method": "Address element on official website",
+   "score": 111,
+   "source_url": "https://mooseheadhills.com/",
+   "evidence": "418 Lily Bay Road Moosehead Lake Greenville, ME 04441",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0050",
+  "address": {
+   "street": "2 Depot Street",
+   "city": "Greenville",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "2 Depot Street, Greenville, ME",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://northwoodsmainecabins.com/contact-us",
+   "evidence": "ity William Nathanson -Director of Technical Operations & Systems Christina Nathanson - Director of Reservations and Client Services North Woods Maine Cabins LLC 2 Depot Street, Greenville, ME",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "Address appears in website copy; property identity remains unverified. ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0051",
+  "address": {
+   "street": "220 Weir Cove Road",
+   "city": "Harborside",
+   "state": "ME",
+   "postal_code": "04642",
+   "full_address": "220 Weir Cove Road, Harborside, ME 04642",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.hiramblake.com/contact",
+   "evidence": "Here We’ll get in touch to proceed with your booking. Payments are made the old-fashioned way: cash or check upon departure. Address & Phone Hiram Blake Camp 220 Weir Cove Road Harborside, Maine, 04642",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0052",
+  "address": {
+   "id": "ME-0052",
+   "street": "3 Elm Street",
+   "city": "Jackman",
+   "state": "ME",
+   "postal_code": "04945",
+   "full_address": "3 Elm Street, Jackman, ME 04945",
+   "source_url": "https://cozycovecabins.com/book-today/",
+   "evidence": "3 Elm Street; P.O. Box 370; Jackman, ME 04945",
+   "official": true,
+   "notes": "",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0053",
+  "address": {
+   "street": "445 Long Pond Road",
+   "city": "Jackman",
+   "state": "ME",
+   "postal_code": "04945",
+   "full_address": "445 Long Pond Road, Jackman, ME 04945",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://longpondcamps.com/contact.shtml",
+   "evidence": "e Tours Snowmobiling/ATV's Fishing & Ice Fishing Directions/Contact Us Contact Information Address: Randy (Registered Maine Guide) and Debbie Petrin 445 Long Pond Road P.O. Box 815 Jackman, Maine 04945",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0054",
+  "address": {
+   "street": "9 Elm Street",
+   "city": "Jackman",
+   "state": "ME",
+   "postal_code": "04945",
+   "full_address": "9 Elm Street, Jackman, ME 04945",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.sallymtcabins.com/contact-us",
+   "evidence": "unt 0 0 Book Now Open Menu Close Menu Home Activities Gallery Group Lodging Reviews FAQs About Contact Us Login Account Book Now sallymtcabins@gmail.com (207) 668-5621 9 Elm Street Jackman, ME 04945",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0055",
+  "address": {
+   "street": "550 US-1",
+   "city": "Jonesboro",
+   "state": "ME",
+   "postal_code": "04648",
+   "full_address": "550 US-1, Jonesboro, ME 04648",
+   "source_url": "https://umaine.edu/undiscoveredmaine/map-point/blueberry-patch-motel-cabins/",
+   "title": "Blueberry Patch Motel and Cabins - Undiscovered Maine - University of Maine",
+   "evidence": "teturn15search1 [wordlim: 200] Crawled: 4 months ago; Blueberry Patch Motel and CabinsAddress: 550 US-1, Jonesboro, ME 04648 Blueberry Patch Motel and Cabins Address: 550 US-1, Jonesboro, ME 04648",
+   "official": false,
+   "id": "ME-0055",
+   "name": "Blueberry Patch Motel & Cabins",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0056",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0057",
+  "address": {
+   "street": "3424 LILY BAY RD",
+   "city": "FRENCHTOWN TWP",
+   "state": "ME",
+   "postal_code": "04441",
+   "full_address": "3424 LILY BAY RD, FRENCHTOWN TWP, ME 04441",
+   "source_url": "https://abigailnh23.wixsite.com/kokadjo-trading-po-1",
+   "title": "Home | Kokadjo Trading Post",
+   "evidence": "NS ... PLAN YOUR CABIN STAY ... Kokad-jo and First Roach Pond are located primarily in Frenchtown Township, TA R13 WELS, about 18 miles north of Greenville. 3424 LILY BAY RD FRENCHTOWN TWP, ME 04441",
+   "official": false,
+   "id": "ME-0057",
+   "name": "Kokadjo Cabins & Trading Post",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0058",
+  "address": {
+   "street": "2533 Atlantic Highway",
+   "city": "Lincolnville Beach",
+   "state": "ME",
+   "postal_code": "04849",
+   "full_address": "2533 Atlantic Highway, Lincolnville Beach, ME 04849",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://beachcottageinn.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"2533 Atlantic Highway\", \"addressLocality\": \"Lincolnville Beach\", \"addressRegion\": \"ME\", \"postalCode\": \"04849\", \"addressCountry\": \"USA\"}",
+   "owner": "Beach Cottage Inn"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0059",
+  "address": {
+   "street": "2076 Atlantic Hwy",
+   "city": "Lincolnville",
+   "state": "ME",
+   "postal_code": "04849",
+   "full_address": "2076 Atlantic Hwy, Lincolnville, ME 04849",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.pinegrovemaine.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"2076 Atlantic Hwy\", \"addressLocality\": \"Lincolnville\", \"addressRegion\": \"ME\", \"postalCode\": \"04849\", \"addressCountry\": \"US\"}",
+   "owner": "Pine Grove Cottages"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0060",
+  "address": {
+   "street": "118 Katahdin Shadows",
+   "city": "Medway",
+   "state": "ME",
+   "postal_code": "04460",
+   "full_address": "118 Katahdin Shadows, Medway, ME 04460",
+   "method": "Structured address on official website",
+   "score": 111,
+   "source_url": "https://katahdinshadows.com/photos/site-photos/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"118 Katahdin Shadows\", \"addressLocality\": \"Medway\", \"addressRegion\": \"ME\", \"postalCode\": \"04460\", \"addressCountry\": \"United States\"}",
+   "owner": "Katahdin Shadows Campground"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0061",
+  "address": {
+   "street": "47 Forest Ave",
+   "city": "Patten",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "47 Forest Ave, Patten, ME",
+   "method": "Published address text on official website",
+   "score": 97,
+   "source_url": "https://www.207northcabins.com/contact-us",
+   "evidence": "Contact Us | 207north top of page 47 Forest Ave, Patten ME",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0062",
+  "address": {
+   "street": "5 Fredericka's Way",
+   "city": "Millinocket",
+   "state": "ME",
+   "postal_code": "04462",
+   "full_address": "5 Fredericka's Way, Millinocket, ME 04462",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://bigmoosecabins.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressLocality\": \"Millinocket\", \"addressRegion\": \"ME\", \"postalCode\": \"04462\", \"streetAddress\": \"5 Fredericka's Way\"}",
+   "owner": "Big Moose Inn"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0063",
+  "address": {
+   "street": "181 Medway Road",
+   "city": "Millinocket",
+   "state": "ME",
+   "postal_code": "04462",
+   "full_address": "181 Medway Road, Millinocket, ME 04462",
+   "source_url": "https://visitmaine.com/organization/katahdin-cabins/6824/",
+   "title": "Katahdin Cabins | Visit Maine",
+   "evidence": "lim: 200] Crawled: last month; Katahdin CabinsAddress ... OPEN YEAR ROUND with easy ITS86 Access - snowmobile right to your cabin door! Katahdin Cabins Address 181 Medway Road, Millinocket, ME, 04462",
+   "official": false,
+   "id": "ME-0063",
+   "name": "Katahdin Cabins",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0064",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0065",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0066",
+  "address": {
+   "id": "ME-0066",
+   "street": "748 Main Street",
+   "city": "Moose River",
+   "state": "ME",
+   "postal_code": "04945",
+   "full_address": "748 Main Street, Moose River, ME 04945",
+   "source_url": "https://visitmaine.com/organization/sky-lodge-cabins/6916/",
+   "evidence": "748 Main Street PO Box 428, Moose River, ME, 04945",
+   "official": false,
+   "notes": "Supplied website now refers to Peru. This address is for the Maine Sky Lodge in the tourism directory.",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Website mismatch; address in tourism listing",
+  "notes": "Supplied website now refers to Peru. This address is for the Maine Sky Lodge in the tourism directory.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0067",
+  "address": {
+   "street": "1517 Shin Pond Road",
+   "city": "Mount Chase",
+   "state": "ME",
+   "postal_code": "04765",
+   "full_address": "1517 Shin Pond Road, Mount Chase, ME 04765",
+   "source_url": "https://mtchaselodge.com/experience-mt-chase-lodge/",
+   "title": "Experience Elegant Lodging & Dining in Maine's Katahdin Region",
+   "evidence": "for more information or to book your stay. We're here to help you plan your visit to the Katahdin Region and we can't wait to hear from you! Mt. Chase Lodge 1517 Shin Pond Road Mount Chase, Maine 04765",
+   "official": true,
+   "id": "ME-0067",
+   "name": "Mt. Chase Lodge",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0068",
+  "address": {
+   "street": "75 Skoglund Road",
+   "city": "Mount Vernon",
+   "state": "ME",
+   "postal_code": "04352",
+   "full_address": "75 Skoglund Road, Mount Vernon, ME 04352",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.campskoglund.com/contact",
+   "evidence": "tact Us or Call Us (207) 685-4041 Your hosts: Rondi Nelson - bottom left and (founder of Skoglund) Wilbur Nelson (1925 - 2016) - bottom right. Camp Skoglund ​ 75 Skoglund Road Mount Vernon, ME 04352",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0069",
+  "address": {
+   "street": "125 S Hill Rd",
+   "city": "Buckfield",
+   "state": "ME",
+   "postal_code": "04220-4125",
+   "full_address": "125 S Hill Rd, Buckfield, ME 04220-4125",
+   "source_url": "https://www.bbb.org/us/me/buckfield/profile/cabin-rentals/mainely-cabins-0021-568324",
+   "title": "Mainely Cabins | BBB Business Profile | Better Business Bureau",
+   "evidence": "usiness is NOT BBB Accredited. Find BBB Accredited Businesses in Cabin rentals. Visit Website(207) 755-1069Write a Review Overview Own this business? Mainely Cabins 125 S Hill Rd Buckfield, ME 04220-4125",
+   "official": false,
+   "id": "ME-0069",
+   "name": "Mainely Cabins",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0070",
+  "address": {
+   "street": "750 Roosevelt Trl",
+   "city": "Naples",
+   "state": "ME",
+   "postal_code": "04055",
+   "full_address": "750 Roosevelt Trl, Naples, ME 04055",
+   "method": "Address markup on official website",
+   "score": 115,
+   "source_url": "https://www.bayviewcabins.com",
+   "evidence": "750 Roosevelt Trl Naples , ME 04055 https://www.bayviewcabins.com",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0071",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0072",
+  "address": {
+   "street": "95 Southside Rd.",
+   "city": "New Harbor",
+   "state": "ME",
+   "postal_code": "04554",
+   "full_address": "95 Southside Rd., New Harbor, ME 04554",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.thompsoncottages.net/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"95 Southside Rd.\", \"addressLocality\": \"New Harbor\", \"addressRegion\": \"Maine\", \"postalCode\": \"04554\", \"addressCountry\": \"US\"}",
+   "owner": "Thompson House and Cottages"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0073",
+  "address": {
+   "street": "P.O. Box 598",
+   "city": "Millinocket",
+   "state": "ME",
+   "postal_code": "04462",
+   "full_address": "P.O. Box 598, Millinocket, ME 04462",
+   "method": "Published address text on official website",
+   "score": 77,
+   "source_url": "https://www.macannamac.com/contact",
+   "evidence": "it your questions or desired dates below. We look forward to meeting you! Phone: 207-307-2115 Mailing Address (NOT physical address) : Macannamac Camp Rentals P.O. Box 598 – IN Millinocket, ME 04462",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0074",
+  "address": {
+   "street": "891 Aroostook Road",
+   "city": "Wallagrass",
+   "state": "ME",
+   "postal_code": "04743",
+   "full_address": "891 Aroostook Road, Wallagrass, ME 04743",
+   "method": "Published address text on official website",
+   "score": 96,
+   "source_url": "https://www.trackdownkennelslodge.com",
+   "evidence": "Trackemdown Lodge Premium Guided Hunts top of page TRACK EM DOWN LODGE & CABINS 891 Aroostook Road Wallagrass, Maine 04743",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0075",
+  "address": {
+   "street": "9 Harrison Road",
+   "city": "Norway",
+   "state": "ME",
+   "postal_code": "04268",
+   "full_address": "9 Harrison Road, Norway, ME 04268",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.hillsidecottages.com/contact",
+   "evidence": "ideaway Red Maple Cottage Little Acorn Landing (207) 744-0110 info@hillsidecottages.com Book Now Call Us (207) 744-0110 Email Us Info@hillsidecottages.com Address 27 9 Harrison Road Norway, ME 04268",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0076",
+  "address": {
+   "street": "PO Box 2457",
+   "city": "Ogunquit",
+   "state": "ME",
+   "postal_code": "03907",
+   "full_address": "PO Box 2457, Ogunquit, ME 03907",
+   "method": "Published address text on official website",
+   "score": 84,
+   "source_url": "https://thelookoutinogunquit.com/",
+   "evidence": "surance Statement of Values Owner Storage Owners who rent Owners who rent Common Room Reservations Account My Account Sign out Sign In My Account Mailing Address: HCOA PO Box 2457 Ogunquit, ME 03907",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0077",
+  "address": {
+   "street": "125 Bald Mountain Rd",
+   "city": "Oquossoc",
+   "state": "ME",
+   "postal_code": "04964-0032",
+   "full_address": "125 Bald Mountain Rd, Oquossoc, ME 04964-0032",
+   "method": "Address element on official website",
+   "score": 111,
+   "source_url": "https://baldmountaincamps.com/",
+   "evidence": "Bald Mountain Camps PO Box 332 125 Bald Mountain Rd Oquossoc, ME 04964-0032 P: (207) 864-3671",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0078",
+  "address": {
+   "street": "P.O. Box 21",
+   "city": "Patten",
+   "state": "ME",
+   "postal_code": "04765",
+   "full_address": "P.O. Box 21, Patten, ME 04765",
+   "method": "Published address text on official website",
+   "score": 84,
+   "source_url": "https://conklinslodge.com/",
+   "evidence": "oothold Bear Snaring Black Bear Bait - Trapping Combo Moose Grouse/Woodcock/Hare Whitetail Deer Fishing Facilities Photo Gallery Click Here for our New Video Les Conklin P.O. Box 21 Patten, Maine 04765",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0079",
+  "address": {
+   "street": "23 Bradley Hill Road",
+   "city": "Pemaquid",
+   "state": "ME",
+   "postal_code": "04558",
+   "full_address": "23 Bradley Hill Road, Pemaquid, ME 04558",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://seaacrescottages.com/",
+   "evidence": "Sea Acres Motel & Cottages, Pemaquid Maine - Home of the 2004 U.S. Quarter Sea Acres Motel & Cottages Steve & Beverly Lord 23 Bradley Hill Road Pemaquid, ME 04558",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0080",
+  "address": {
+   "street": "20 Kendall Lane",
+   "city": "Perry",
+   "state": "ME",
+   "postal_code": "04667",
+   "full_address": "20 Kendall Lane, Perry, ME 04667",
+   "source_url": "https://visitmaine.com/organization/kendall-farm-cottages-event-barn/6636/",
+   "title": "Kendall Farm Cottages & Event Barn | Visit Maine",
+   "evidence": "ages-event-barn/6636/) citeturn17search3 [wordlim: 200] Crawled: 3 weeks ago; Kendall Farm Cottages & Event BarnAddress Kendall Farm Cottages & Event Barn Address 20 Kendall Lane, Perry, ME, 04667",
+   "official": false,
+   "id": "ME-0080",
+   "name": "Kendall Farm Cottages",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0081",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0082",
+  "address": {
+   "street": "95 Parkhurst Siding Road",
+   "city": "Presque Isle",
+   "state": "ME",
+   "postal_code": "04769",
+   "full_address": "95 Parkhurst Siding Road, Presque Isle, ME 04769",
+   "source_url": "https://campmaine.com/directory/arndts-aroostook-river-lodge-campground/",
+   "title": "Arndt's Aroostook River Lodge & Campground - Maine Camping Guide",
+   "evidence": "k River Lodge & Campground, we look forward to meeting you! Location 95 Parkhurst Siding Road, Presque Isle, Maine, 04769 Contact Information Address 95 Parkhurst Siding Road, Presque Isle, Maine, 04769",
+   "official": false,
+   "id": "ME-0082",
+   "name": "Arndt's Aroostook River Lodge",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0083",
+  "address": {
+   "street": "2342 Main St",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "2342 Main St, Rangeley, ME 04970",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://crossstonecabins.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"2342 Main St\", \"addressLocality\": \"Rangeley\", \"addressRegion\": \"ME\", \"postalCode\": \"04970\", \"addressCountry\": \"US\"}",
+   "owner": "Logo color"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0084",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0085",
+  "address": {
+   "id": "ME-0085",
+   "street": "5 Lyons Ln",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "5 Lyons Ln, Rangeley, ME 04970",
+   "source_url": "https://visitmaine.com/organization/lyons-lakeside-cabins/4601/",
+   "evidence": "5 Lyons Ln., PO Box 691, Rangeley, ME, 04970",
+   "official": false,
+   "notes": "",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0086",
+  "address": {
+   "id": "ME-0086",
+   "street": "747 South Shore Drive",
+   "city": "Rangeley Plantation",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "747 South Shore Drive, Rangeley Plantation, ME 04970",
+   "source_url": "https://niboban.camp/",
+   "evidence": "NCCA 747 South Shore Drive Rangeley Plantation, ME 04970",
+   "official": true,
+   "notes": "",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0087",
+  "address": {
+   "street": "2222 Main Street",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "2222 Main Street, Rangeley, ME 04970",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://rangeleylakeresort.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"2222 Main Street\", \"addressLocality\": \"Rangeley \", \"addressRegion\": \"ME\", \"postalCode\": \"04970\", \"addressCountry\": \"US\"}",
+   "owner": "Rangeley Lake Resort"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0088",
+  "address": {
+   "street": "2668 Main St",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "2668 Main St, Rangeley, ME 04970",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://rangeleytownandlake.com/contact-us/",
+   "evidence": "ckly as possible. (We are committed to protecting your privacy and will never sell your information to a 3rd Party.) Δ The Rangeley Town and Lake Motel and Cottages, 2668 Main St. Rangeley, ME 04970",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0089",
+  "address": {
+   "street": "PO Box 284",
+   "city": "Oquossoc",
+   "state": "ME",
+   "postal_code": "04964-0284",
+   "full_address": "PO Box 284, Oquossoc, ME 04964-0284",
+   "method": "Published address text on official website",
+   "score": 77,
+   "source_url": "https://www.mountainviewcottages.com/contactus.html",
+   "evidence": "information on rates and availabilty click on the link to the left to send us an e-mail. If you'd prefer, you can also call or write to: Mountain View Cottages Route 17 PO Box 284 Oquossoc, ME 04964-0284",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0090",
+  "address": {
+   "id": "ME-0090",
+   "street": "Mingo Loop Road",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "Mingo Loop Road, Rangeley, ME 04970",
+   "source_url": "https://business.rangeleymaine.com/directory/Details/north-camps-2914931",
+   "evidence": "Mingo Loop Road, Rangeley, ME, 04970",
+   "official": false,
+   "notes": "Street published without a house number; not an exact property address.",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Partial street address (no house number)",
+  "status": "Published tourism / chamber listing",
+  "notes": "Street published without a house number; not an exact property address.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0091",
+  "address": {
+   "street": "161 Jackman Rd",
+   "city": "Rockwood",
+   "state": "ME",
+   "postal_code": "04478",
+   "full_address": "161 Jackman Rd, Rockwood, ME 04478",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://grayghostcamps.com/",
+   "evidence": "booking site has live time availability. Feel free to give Amy a call or text if you have specific questions, cell 207-943-3815 Gray Ghost Camps Gray Ghost Camps, 161 Jackman Rd, Rockwood, Maine 04478",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0092",
+  "address": {
+   "street": "109 Lake Street",
+   "city": "Rockwood",
+   "state": "ME",
+   "postal_code": "04478",
+   "full_address": "109 Lake Street, Rockwood, ME 04478",
+   "source_url": "https://maps.campendium.com/us/rockwood-me/camping-rv/lawrences-lakeside-cabins-rockwood-me",
+   "title": "Lawrence's Lakeside Cabins, Rockwood | Campendium",
+   "evidence": " ... Each cabin has been thoughtfully updated to blend modern comfort with the timeless charm of a classic Maine lake vacation. Lawrence's Lakeside Cabins Details 109 Lake Street, Rockwood, ME 04478",
+   "official": false,
+   "id": "ME-0092",
+   "name": "Lawrence's Lakeside Cabins",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0093",
+  "address": {
+   "street": "41 Cottage Ln",
+   "city": "Rockwood",
+   "state": "ME",
+   "postal_code": "04478",
+   "full_address": "41 Cottage Ln, Rockwood, ME 04478",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://rockwoodcottages.com/contact/",
+   "evidence": "Policies Contact Book Now Contact Contact US Please feel free to reach out to us at any time via the form below or by email at Adventure@rockwoodcottages.com Address 41 Cottage Ln Rockwood, ME 04478",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0094",
+  "address": {
+   "street": "832 Spinney Rd",
+   "city": "Rockwood",
+   "state": "ME",
+   "postal_code": "04478",
+   "full_address": "832 Spinney Rd, Rockwood, ME 04478",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://tomhegan.com/contact/",
+   "evidence": "Wilderness Cabins GUEST AND RENTAL INQUIRIES: (207)280-0280 [email protected] Book Rentals at: www.tomhegan.com TOMHEGAN OFFICE: (207) 534 – 7712 [email protected] 832 Spinney Rd, Rockwood, ME 04478",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0095",
+  "address": {
+   "street": "60 Jamaica Point Road",
+   "city": "Rome",
+   "state": "ME",
+   "postal_code": "04963",
+   "full_address": "60 Jamaica Point Road, Rome, ME 04963",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.bearspringcamps.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Rome\", \"addressRegion\": \"ME\", \"postalCode\": \"04963\", \"streetAddress\": \"60 Jamaica Point Road\"}",
+   "owner": "Bear Spring Camps"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0096",
+  "address": {
+   "street": "1144 ME 32",
+   "city": "Round Pond",
+   "state": "ME",
+   "postal_code": "04564",
+   "full_address": "1144 ME 32, Round Pond, ME 04564",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://3birdscottages.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"1144 ME 32\", \"addressLocality\": \"Round Pond\", \"addressRegion\": \"ME\", \"postalCode\": \"04564\", \"addressCountry\": \"US\"}",
+   "owner": "Three Birds Farm & Cottages"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0097",
+  "address": {
+   "street": "PO BOX 6717",
+   "city": "Scarborough",
+   "state": "ME",
+   "postal_code": "04070-6717",
+   "full_address": "PO BOX 6717, Scarborough, ME 04070-6717",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://www.higginsbeachmaine.com/contact-information/",
+   "evidence": "vices Menu Toggle Concierge Damage Protection FAQ Directions Privacies and Procedures Main Menu Contact Us Page Company and Contact Information HigginsBeachMaine.com PO BOX 6717 Scarborough ME 04070-6717",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0098",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0099",
+  "address": {
+   "street": "27 Cottage Ln",
+   "city": "South Thomaston",
+   "state": "ME",
+   "postal_code": "04858",
+   "full_address": "27 Cottage Ln, South Thomaston, ME 04858",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://ivcottages.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"27 Cottage Ln PO Box 77\", \"addressLocality\": \"South Thomaston\", \"addressRegion\": \"ME\", \"postalCode\": \"04858\", \"addressCountry\": \"\"}",
+   "owner": "Island View Cottages, LLC"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0100",
+  "address": {
+   "street": "21 Homestead Road",
+   "city": "Southport",
+   "state": "ME",
+   "postal_code": "04576",
+   "full_address": "21 Homestead Road, Southport, ME 04576",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.graysoceancamping.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"21 Homestead Road\", \"addressLocality\": \"Southport\", \"addressRegion\": \"ME\", \"postalCode\": \"04576\", \"addressCountry\": \"US\"}",
+   "owner": "Gray Homestead Oceanfront Camping"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0101",
+  "address": {
+   "street": "200 Seal Cove Road",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postal_code": "04679",
+   "full_address": "200 Seal Cove Road, Southwest Harbor, ME 04679",
+   "method": "Structured address on official website",
+   "score": 111,
+   "source_url": "https://www.acadiayurts.com",
+   "evidence": "200 Seal Cove Road Southwest Harbor ME 04679 USA",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0102",
+  "address": {
+   "street": "P.O. Box 1105",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postal_code": "04679",
+   "full_address": "P.O. Box 1105, Southwest Harbor, ME 04679",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://www.annspointcottages.com/contact",
+   "evidence": "Us If you have any questions or concerns, please reach out to connect with our property manager, Stacy. quietsidepropertymgmt@gmail.com 207-261-0656 Address P.O. Box 1105 Southwest Harbor, ME 04679",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0103",
+  "address": {
+   "street": "3 Hutchins Ln",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postal_code": "04679",
+   "full_address": "3 Hutchins Ln, Southwest Harbor, ME 04679",
+   "source_url": "https://www.google.com/travel/hotels/entity/ChgI--XA-5Pr35oIGgwvZy8xaGMxZ3Jma2sQAQ?gsas=1&ts=CAEaBAoCGgAqBAoAGgA",
+   "title": "Hutchins Cottages at Acadia - Google hotels",
+   "evidence": "d coffeemaking facilities. All have wood-burning stoves (firewood provided) and decks with BBQs. Minimum-stay rules may apply. Address & contact information 3 Hutchins Ln, Southwest Harbor, ME 04679",
+   "official": false,
+   "id": "ME-0103",
+   "name": "Hutchins Cottages at Acadia",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0104",
+  "address": {
+   "street": "661 Whites Bridge Rd",
+   "city": "Standish",
+   "state": "ME",
+   "postal_code": "04084",
+   "full_address": "661 Whites Bridge Rd, Standish, ME 04084",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://sebagolakelodge.com/contact-us/",
+   "evidence": "Contact Us – Sebago Lake Lodge 661 Whites Bridge Rd., Standish, Maine 04084",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0105",
+  "address": {
+   "street": "12 Steamboat Wharf Rd",
+   "city": "Stockton Springs",
+   "state": "ME",
+   "postal_code": "04981",
+   "full_address": "12 Steamboat Wharf Rd, Stockton Springs, ME 04981",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://steamboatwharfcabins.com/",
+   "evidence": "nb guest ★★★★★ “The cabin was cozy and pristine in a beautiful location. Would definitely recommend!” — Airbnb guest Steamboat Wharf Cabins LOCATION 12 Steamboat Wharf Rd, Stockton Springs, ME 04981",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0106",
+  "address": {
+   "street": "44 Main Street",
+   "city": "Stonington",
+   "state": "ME",
+   "postal_code": "04681",
+   "full_address": "44 Main Street, Stonington, ME 04681",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://boycesmotel.com/contact/",
+   "evidence": "uest a brochure or to tell us what type of accommodations you are seeking; or contact us at: Mailing address: P.O. Box 94 Stonington, ME, 04681 Physical address : 44 Main Street Stonington, ME, 04681",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0107",
+  "address": {
+   "street": "25 Benvenuto Ave",
+   "city": "Sullivan",
+   "state": "ME",
+   "postal_code": "04664",
+   "full_address": "25 Benvenuto Ave, Sullivan, ME 04664",
+   "source_url": "https://www.edgewatercabins.com/views.html",
+   "title": "\"Spectacular views\" oceanfront Maine cabins",
+   "evidence": " Image: Edgewater Cabins Image: Edgewater Cabins Image: Edgewater Cabins Image: Edgewater Cabins Image: Edgewater Cabins Image: Edgewater Cabins Edgewater Cabins 25 Benvenuto Ave. Sullivan, Maine 04664",
+   "official": true,
+   "id": "ME-0107",
+   "name": "Edgewater Cabins",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0108",
+  "address": {
+   "street": "2673 u.s. highway 1",
+   "city": "Sullivan",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "2673 u.s. highway 1, Sullivan, ME",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://flandersbay.lodgify.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"2673 u.s. highway 1\", \"addressLocality\": \"Sullivan\", \"addressRegion\": \"Maine\", \"addressCountry\": \"US\"}",
+   "owner": "Flanders Bay Cabins & BBQ"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0109",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0110",
+  "address": {
+   "street": "174 River Road",
+   "city": "Tenants Harbor",
+   "state": "ME",
+   "postal_code": "04860",
+   "full_address": "174 River Road, Tenants Harbor, ME 04860",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.longcovecottages.com/contact",
+   "evidence": "More Use tab to navigate through the menu items. Contact Us Ask Us Anything! Submit Thanks for your message! We will get back to you shortly! How to Get Here 174 River Road Tenants Harbor, ME 04860",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0111",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0112",
+  "address": {
+   "street": "126 Bar Harbor Rd",
+   "city": "Trenton",
+   "state": "ME",
+   "postal_code": "04605",
+   "full_address": "126 Bar Harbor Rd, Trenton, ME 04605",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.acadiatimbercottages.com/contact",
+   "evidence": "hear from you! Whether you have questions about our cottages, need help planning your stay, or want more information about the area, we’re here to help. ADDRESS 126 Bar Harbor Rd, Trenton, ME 04605",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0113",
+  "address": {
+   "id": "ME-0113",
+   "street": "980 Dutch Neck",
+   "city": "Waldoboro",
+   "state": "ME",
+   "postal_code": "04572",
+   "full_address": "980 Dutch Neck, Waldoboro, ME 04572",
+   "source_url": "https://thistledownfarmmaine.net/contact/",
+   "evidence": "980 Dutch Neck Waldoboro, Maine 04572",
+   "official": true,
+   "notes": "",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0114",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0115",
+  "address": {
+   "id": "ME-0115",
+   "street": "1277 Post Road",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "1277 Post Road, Wells, ME 04090",
+   "source_url": "https://visitmaine.com/organization/watercrest-cottages-motel/4726/",
+   "evidence": "1277 Post Rd. PO Box 37, Wells, ME, 04090",
+   "official": false,
+   "notes": "",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0116",
+  "address": {
+   "street": "24 McKown Point Rd, #524",
+   "city": "West Boothbay Harbor",
+   "state": "ME",
+   "postal_code": "04575",
+   "full_address": "24 McKown Point Rd, #524, West Boothbay Harbor, ME 04575",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://harborfields.com/about/",
+   "evidence": "dging establishment (ID #2461). Our lodging license and tax certificate are available for inspection at the Harborfields office. (207) 633-5082 24 McKown Point Rd #524 West Boothbay Harbor, ME 04575",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0117",
+  "address": {
+   "street": "341 US-1",
+   "city": "Weston",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "341 US-1, Weston, ME",
+   "source_url": "https://www.waze.com/live-map/directions/first-settlers-lodge-us-1-341-weston?to=place.w.191431113.1914573273.5534015",
+   "title": "Driving directions to First Settlers Lodge, 341 US-1, Weston - Waze",
+   "evidence": "41-weston?to=place.w.191431113.1914573273.5534015) citeturn21search11 [wordlim: 200] Crawled: 5 months ago; First Settlers Lodge Driving directions First Settlers Lodge 341 US-1, Weston, Maine",
+   "official": false,
+   "id": "ME-0117",
+   "name": "First Settlers Lodge",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0118",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0119",
+  "address": {
+   "street": "145 Scituate Road",
+   "city": "York",
+   "state": "ME",
+   "postal_code": "03909",
+   "full_address": "145 Scituate Road, York, ME 03909",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://seaspraycottages.com/contact.html",
+   "evidence": "Rates Reservations Contact Us Local Attractions ☰ Contact Us Subscribe ~ Email Contact List Location: 303 Long Beach Ave. York Beach, Maine View Map Mailing Address: 145 Scituate Road York, Maine 03909",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0120",
+  "address": {
+   "street": "49 Davidson Road",
+   "city": "Abbot",
+   "state": "ME",
+   "postal_code": "04406",
+   "full_address": "49 Davidson Road, Abbot, ME 04406",
+   "method": "Address markup on official website",
+   "score": 115,
+   "source_url": "https://www.trailsidelodging.com/",
+   "evidence": "49 Davidson Road Abbot , ME 04406",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0121",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0122",
+  "address": {
+   "street": "PO Box 949",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "PO Box 949, Bar Harbor, ME 04609",
+   "source_url": "https://business.visitbarharbor.com/list/member/acadia-cottage-rentals-344",
+   "title": "Acadia Cottage Rentals | Vacation & Weekly Rentals | Open Year Round | Rentals",
+   "evidence": "entory of distinctive ''Downeast'' Maine vacation rentals in a variety of settings. Acadia Cottage Rentals Categories Vacation & Weekly Rentals Open Year Round Rentals PO Box 949 Bar Harbor ME 04609",
+   "official": false,
+   "id": "ME-0122",
+   "name": "Acadia Cottage Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0123",
+  "address": {
+   "street": "744 Eagle Lake Road",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "744 Eagle Lake Road, Bar Harbor, ME 04609",
+   "source_url": "https://acadiagetaway.com/assets/media/documents/AcadiaDirections.pdf",
+   "title": "Welcome to Acadia Getaway",
+   "evidence": "mation that will help you arrive and enjoy your stay. Please respect the rural nature of the area, and the quiet privacy of the other guests. Acadia Getaway 744 Eagle Lake Road, Bar Harbor, ME 04609",
+   "official": true,
+   "id": "ME-0123",
+   "name": "Acadia Getaway",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0124",
+  "address": {
+   "street": "24 Bridge Street",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "24 Bridge Street, Bar Harbor, ME 04609",
+   "source_url": "https://acadiamemories.us/accommodations.html",
+   "title": "Vacation Rental House Bar Harbor Maine",
+   "evidence": "rt Island, Maine. Photographs on this site are provided courtesy of Anthony Gutowski Photography Join us on Facebook Acadia Memories Rental License: VR2R26-109 24 Bridge Street, Bar Harbor, Maine 04609",
+   "official": true,
+   "id": "ME-0124",
+   "name": "Acadia Memories Vacation Cottage",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0125",
+  "address": {
+   "street": "157 Thundermist Rd",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609-7179",
+   "full_address": "157 Thundermist Rd, Bar Harbor, ME 04609-7179",
+   "source_url": "https://www.bbb.org/us/me/bar-harbor/profile/vacation-rentals/bar-harboracadia-cottage-rentals-inc-0021-188831",
+   "title": "Bar Harbor/Acadia Cottage Rentals, Inc | BBB Business Profile | Better Business Bureau",
+   "evidence": "Input: city, state or zip] ImageUS ImageUnited States ImageCanada Please enter a valid location. [Button: Filter] Image Bar Harbor/Acadia Cottage Rentals, Inc 157 Thundermist Rd Bar Harbor, ME 04609-7179",
+   "official": false,
+   "id": "ME-0125",
+   "name": "Bar Harbor Acadia Cottage Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0126",
+  "address": {
+   "street": "215 Higgins Farm Road",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "215 Higgins Farm Road, Bar Harbor, ME 04609",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://everett-cottage.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"215 Higgins Farm Road\", \"addressLocality\": \"Bar Harbor\", \"addressRegion\": \"ME\", \"postalCode\": \"04609\", \"addressCountry\": \"US\"}",
+   "owner": "Everett Cottage"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0127",
+  "address": {
+   "street": "59 Cottage Street",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "59 Cottage Street, Bar Harbor, ME 04609",
+   "source_url": "https://www.barharborweeklyrentals.com/map",
+   "title": "Map :: Kebo View at Acadia National Park",
+   "evidence": "oad. If you need help, give us a call at 1 207-664-3207. Find your way to Kebo View where Acadia will be waiting for you. Bob Rechholtz 1 207-664-3207 Office: 59 Cottage Street, Bar Harbor, Maine 04609",
+   "official": true,
+   "id": "ME-0127",
+   "name": "Kebo View at Acadia",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0128",
+  "address": {
+   "street": "8 Holland Avenue",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "8 Holland Avenue, Bar Harbor, ME 04609",
+   "method": "Structured address on official website",
+   "score": 111,
+   "source_url": "https://mdislandvacationhomes.com",
+   "evidence": "8 Holland Avenue Bar Harbor, ME, 04609 United States",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0129",
+  "address": {
+   "street": "23 Lookout Point Rd",
+   "city": "Hulls Cove",
+   "state": "ME",
+   "postal_code": "04644",
+   "full_address": "23 Lookout Point Rd, Hulls Cove, ME 04644",
+   "source_url": "https://www.oceansedgemaine.com/contact.html",
+   "title": "Oceansedge Vacation Property | Contact Us",
+   "evidence": " questions regarding our property, Bar Harbor, or anything about Maine, please fill out the form below and we will respond as quickly as possible. Oceansedge 23 Lookout Point Rd Hulls Cove, ME 04644",
+   "official": true,
+   "id": "ME-0129",
+   "name": "Oceansedge",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0130",
+  "address": {
+   "street": "190 Otter Creek Drive",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "190 Otter Creek Drive, Bar Harbor, ME 04609",
+   "method": "Published address text on official website",
+   "score": 101,
+   "source_url": "https://www.acadia.ws/reds-garden",
+   "evidence": "do so, the remainder of your deposit will be refunded. The more notice I have, the better the chances your space can be filled. Return to Top Red's Garden 190 Otter Creek Drive Bar Harbor, ME 04609",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0131",
+  "address": {
+   "street": "PO Box 974",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "PO Box 974, Bar Harbor, ME 04609",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://ryanestaterentals.com/contact/",
+   "evidence": "with any cleaning fees. Our cleaning crew’s on it, making sure everything’s tip-top for a safe and comfy stay. Cheers, Marilyn & Steve Ryan The Ryans Steve & Marilyn PO Box 974 Bar Harbor, ME 04609",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0132",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0133",
+  "address": {
+   "street": "12 Granary Way",
+   "city": "Boothbay Harbor",
+   "state": "ME",
+   "postal_code": "04538",
+   "full_address": "12 Granary Way, Boothbay Harbor, ME 04538",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://boothbayharborrental.com/",
+   "evidence": "tennis courts, two pools, an indoor track and exercise and yoga classes Take a Virtual Tour Booking Information Availability Our Location We are located at 12 Granary Way, Boothbay Harbor, Maine 04538",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0134",
+  "address": {
+   "street": "129 Commercial Street",
+   "city": "Boothbay Harbor",
+   "state": "ME",
+   "postal_code": "04538",
+   "full_address": "129 Commercial Street, Boothbay Harbor, ME 04538",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://boothbayvacationhomes.com/contact/",
+   "evidence": "The Boat House Water’s Edge Cottage Coming Soon…. Explore Menu Toggle Area Guide Self Guided Tour About Contact Contact Us Boothbay Vacation Homes A: 129 Commercial Street Boothbay Harbor, ME 04538",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0135",
+  "address": {
+   "street": "378 Lakeside Drive",
+   "city": "Boothbay Harbor",
+   "state": "ME",
+   "postal_code": "04538",
+   "full_address": "378 Lakeside Drive, Boothbay Harbor, ME 04538",
+   "method": "Structured address on official website",
+   "score": 111,
+   "source_url": "https://www.powderhillfarm.com",
+   "evidence": "378 Lakeside Drive Boothbay Harbor, ME, 04538 United States",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0136",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0137",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0138",
+  "address": {
+   "street": "P.O. Box 253",
+   "city": "Brooksville",
+   "state": "ME",
+   "postal_code": "04617",
+   "full_address": "P.O. Box 253, Brooksville, ME 04617",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://www.dreamingofmaine.com/directions.html",
+   "evidence": "f the loop in the road. Lone Pine Cottage is a short left turn before you get to the loop. Click the map to see a larger version Sally Littlefield Postal Address: P.O. Box 253, Brooksville, Maine 04617",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0139",
+  "address": {
+   "street": "173 S Wharf Rd",
+   "city": "Brooksville",
+   "state": "ME",
+   "postal_code": "04617",
+   "full_address": "173 S Wharf Rd, Brooksville, ME 04617",
+   "source_url": "https://bluehillpeninsula.org/business/tapley-farm/",
+   "title": "Tapley Farm - Blue Hill Peninsula Chamber of Commerce",
+   "evidence": " place to experience the beauty and history of Maine. Privacy, comfort and history mix for a memorable and wonderful time on the coast. Categories: Lodging, Stay 173 S Wharf Rd Brooksville, ME 04617",
+   "official": false,
+   "id": "ME-0139",
+   "name": "Tapley Farm",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0140",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0141",
+  "address": {
+   "street": "32 Morrill St",
+   "city": "Buckfield",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "32 Morrill St, Buckfield, ME",
+   "source_url": "https://niftybug.com/cozy-house/",
+   "title": "Description (Cozy House) - Niftybug",
+   "evidence": "tains our contact information in case you need to reach us at any time. Online Manual Click here Download Manual Click here Download Agreement Click here Address: 32 Morrill St., Buckfield, ME",
+   "official": true,
+   "id": "ME-0141",
+   "name": "Niftybug Rentals",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0142",
+  "address": {
+   "street": "532 Swift River Road",
+   "city": "Byron",
+   "state": "ME",
+   "postal_code": "04275",
+   "full_address": "532 Swift River Road, Byron, ME 04275",
+   "source_url": "https://visitmaine.com/organization/maine-bella-vita-cabins/6196/",
+   "title": "Maine Bella Vita Cabins | Visit Maine",
+   "evidence": "se to Coos Canyon, ATV/Snowmobiling Trails, Hiking Trails, Fishing spots & boating/kayaking Welcome to your Home away from Home. Maine Bella Vita Cabins Address 532 Swift River Road, Byron, ME, 04275",
+   "official": false,
+   "id": "ME-0142",
+   "name": "Maine Bella Vita Cabins",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0143",
+  "address": {
+   "street": "12 Union Street",
+   "city": "Camden",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "12 Union Street, Camden, ME",
+   "source_url": "https://penobscotbaymaine.com/businesses/camden-village-toute-suite/",
+   "title": "Camden Village Toute-Suite - Penobscot Bay Regional Chamber of Commerce",
+   "evidence": ". We provide bedding and and towels, soap, shampoo. And a hair dryer. Contact Information Address 12 Union Street, Camden, ME, USA Website http://www.hpfacadia.com/ 12 Union Street, Camden, ME",
+   "official": false,
+   "id": "ME-0143",
+   "name": "Camden Village Toute-Suite",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0144",
+  "address": {
+   "street": "10 Eastern Ave",
+   "city": "Saco",
+   "state": "ME",
+   "postal_code": "04072",
+   "full_address": "10 Eastern Ave, Saco, ME 04072",
+   "source_url": "https://www.bizarchive.com/business/blue-pearl-cottage_1D-860-257-3030",
+   "title": "Blue Pearl Cottage | (860) 257-3030 | Saco, Maine",
+   "evidence": "hone number for Blue Pearl Cottage? The phone number for Blue Pearl Cottage is (860) 257-3030. Q2 Where is Blue Pearl Cottage located? Blue Pearl Cottage is located at 10 Eastern Ave, Saco, ME 04072",
+   "official": false,
+   "id": "ME-0144",
+   "name": "Blue Pearl Cottage",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0145",
+  "address": {
+   "street": "17 Bay Avenue",
+   "city": "Saco",
+   "state": "ME",
+   "postal_code": "04072-3002",
+   "full_address": "17 Bay Avenue, Saco, ME 04072-3002",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.breakwatervacationrental.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Saco\", \"addressRegion\": \"ME\", \"postalCode\": \"04072-3002\", \"streetAddress\": \"17 Bay Avenue\"}",
+   "owner": "Breakwater Vacation Rental"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0146",
+  "address": {
+   "street": "15 Old Washburn Rd",
+   "city": "Caribou",
+   "state": "ME",
+   "postal_code": "04736",
+   "full_address": "15 Old Washburn Rd, Caribou, ME 04736",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://tamaracksmaine.com/contact-us/",
+   "evidence": "Name (Required) First Last Email (Required) Phone Message (Required) Have a question for us? Interested in renting Fen or Larch? Ask away. Submit Δ The Tamaracks 15 Old Washburn Rd Caribou, ME 04736",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0147",
+  "address": {
+   "street": "13 Cedar Lane",
+   "city": "Raymond",
+   "state": "ME",
+   "postal_code": "04071",
+   "full_address": "13 Cedar Lane, Raymond, ME 04071",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://mainelakesvacation.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"13 Cedar Lane\", \"addressLocality\": \"Raymond\", \"addressRegion\": \"ME\", \"postalCode\": \"04071\", \"addressCountry\": \"US\"}",
+   "owner": "Maine Lakes Vacations"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0148",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0149",
+  "address": {
+   "street": "211 Green Lake Road",
+   "city": "Dedham",
+   "state": "ME",
+   "postal_code": "04429",
+   "full_address": "211 Green Lake Road, Dedham, ME 04429",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://jenkinsbeach.lodgify.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"211 Green Lake Road\", \"addressLocality\": \"Dedham\", \"addressRegion\": \"ME\", \"postalCode\": \"04429\", \"addressCountry\": \"US\"}",
+   "owner": "Jenkins Beach"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0150",
+  "address": {
+   "street": "10 Sally Cove Lane",
+   "city": "Little Deer Isle",
+   "state": "ME",
+   "postal_code": "04650",
+   "full_address": "10 Sally Cove Lane, Little Deer Isle, ME 04650",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.sharonthonermainerentals.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Little Deer Isle\", \"addressRegion\": \"ME\", \"postalCode\": \"04650\", \"streetAddress\": \"10 Sally Cove Lane\"}",
+   "owner": "sharonthonermainerentals"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0151",
+  "address": {
+   "street": "5 Ocean Whisper Drive",
+   "city": "Addison",
+   "state": "ME",
+   "postal_code": "04606",
+   "full_address": "5 Ocean Whisper Drive, Addison, ME 04606",
+   "method": "Published address text on official website",
+   "score": 96,
+   "source_url": "https://heartsofmaine.com/",
+   "evidence": "Hearts of Maine - Waterfront Vacation Rentals Contact Info info@heartsofmaine.com | 5 Ocean Whisper Drive, Addison, ME 04606",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0152",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0153",
+  "address": {
+   "street": "70 Paradise Point Rd",
+   "city": "East Boothbay",
+   "state": "ME",
+   "postal_code": "04544",
+   "full_address": "70 Paradise Point Rd, East Boothbay, ME 04544",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://seanookcottagerentals.com/contact-us/",
+   "evidence": "nsent Opt in to receive Mary Ellen’s ”Pictures from Paradise“ Newsletter Send Request Around the Web Seanook On Other Sites (207) 633-6093 Shop & Studio 70 Paradise Point Rd. East Boothbay, ME 04544",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0154",
+  "address": {
+   "street": "181 West Shore Road",
+   "city": "Clearwater Lake, Farmington",
+   "state": "ME",
+   "postal_code": "04938",
+   "full_address": "181 West Shore Road, Clearwater Lake, Farmington, ME 04938",
+   "method": "Structured address on official website",
+   "score": 111,
+   "source_url": "https://clearwaterescapes.com/rental/properties/lakeside-house/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"181 West Shore Road, Clearwater Lake, Farmington, ME 04938\", \"addressLocality\": \"Farmington\", \"addressRegion\": \"ME\", \"addressCountry\": \"US\"}",
+   "owner": "Lakeside House"
+  },
+  "type": "One listed property (Lakeside House)",
+  "status": "Published on official website",
+  "notes": "Website lists multiple properties: Lakeside House at 181 West Shore Road and Lakeside Cottage at 184 West Shore Road, Farmington. See address-manifest.json.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0155",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0156",
+  "address": {
+   "street": "11 Apple Lane",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postal_code": "04679",
+   "full_address": "11 Apple Lane, Southwest Harbor, ME 04679",
+   "method": "Published address text on official website",
+   "score": 93,
+   "source_url": "https://greatduckislandhouse.com/getting-here/",
+   "evidence": "Toggle About the Island Our History FAQ Gallery Guestbook Contact Us Getting Here Arrival in Southwest Harbor, Maine By Car Get Directions: Dysart’s Marina, 11 Apple Lane, Southwest Harbor ME 04679",
+   "owner": ""
+  },
+  "type": "Arrival marina (not property address)",
+  "status": "Published on official website",
+  "notes": "Dysart’s Marina arrival / transfer point. The island house street address was not found publicly.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0157",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0158",
+  "address": {
+   "street": "33 Rainbows End",
+   "city": "Gouldsboro",
+   "state": "ME",
+   "postal_code": "04607",
+   "full_address": "33 Rainbows End, Gouldsboro, ME 04607",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.westbayacadia.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"33 Rainbows End\", \"addressLocality\": \"Gouldsboro\", \"addressRegion\": \"Maine\", \"postalCode\": \"04607\", \"addressCountry\": \"US\"}",
+   "owner": "West Bay Acadia Resort"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0159",
+  "address": {
+   "street": "416 N. Guilford Rd",
+   "city": "Monson",
+   "state": "ME",
+   "postal_code": "04464",
+   "full_address": "416 N. Guilford Rd, Monson, ME 04464",
+   "method": "Published address text on official website",
+   "score": 97,
+   "source_url": "https://burkespropertiesandrentals.com/contact",
+   "evidence": "ropertiesandRentals@gmail.com GARDINER, MAINE WEATHER GREENVILLE, MAINE WEATHER Email: burkespropertiesandrentals@gmail.com Phone: 207-582-6261 Location Address: 416 N. Guilford Rd. Monson, Maine 04464",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0160",
+  "address": {
+   "street": "18 Lakeview St",
+   "city": "Greenville",
+   "state": "ME",
+   "postal_code": "04441",
+   "full_address": "18 Lakeview St, Greenville, ME 04441",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://staykingslanding.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"18 Lakeview St\", \"addressLocality\": \"Greenville\", \"addressRegion\": \"ME\", \"postalCode\": \"04441\", \"addressCountry\": \"US\"}",
+   "owner": "King's Landing on Moosehead Lake"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0161",
+  "address": {
+   "street": "66 Wilsons Road",
+   "city": "Greenville Junction",
+   "state": "ME",
+   "postal_code": "04442",
+   "full_address": "66 Wilsons Road, Greenville Junction, ME 04442",
+   "method": "Address element on official website",
+   "score": 111,
+   "source_url": "https://wilsonsonmooseheadlake.com",
+   "evidence": "Copyright © 2026 Wilsons on Moosehead Lake, all rights reserved. 66 Wilsons Road, Greenville Junction , ME 04442 (207) 695-2549",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0162",
+  "address": {
+   "street": "PO Box 374",
+   "city": "Harpswell",
+   "state": "ME",
+   "postal_code": "04079",
+   "full_address": "PO Box 374, Harpswell, ME 04079",
+   "method": "Published address text on official website",
+   "score": 84,
+   "source_url": "https://harpswellholidays.com/",
+   "evidence": "PROPERTY YOU DESIRE AND THE WEEK YOU WISH TO COME. If you have a question about your vacation rental, just ask. We look forward to hearing from you. Harpswell Holidays PO Box 374, Harpswell,Maine 04079",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0163",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0164",
+  "address": {
+   "street": "369 Guard Point Road",
+   "city": "Harrington",
+   "state": "ME",
+   "postal_code": "04643",
+   "full_address": "369 Guard Point Road, Harrington, ME 04643",
+   "source_url": "https://visitmaine.com/organization/guard-point-vacation-rental/6159/",
+   "title": "Guard Point vacation rental | Visit Maine",
+   "evidence": "turn30search0 [wordlim: 200] Crawled: 2 weeks ago; Guard Point vacation rentalAddress ... http://guardpointmaine.com/ Guard Point vacation rental Address 369 Guard Point Road, Harrington, ME, 04643",
+   "official": false,
+   "id": "ME-0164",
+   "name": "Guard Point Vacation Rental",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0165",
+  "address": {
+   "street": "1286 Main Road",
+   "city": "Islesboro",
+   "state": "ME",
+   "postal_code": "04848",
+   "full_address": "1286 Main Road, Islesboro, ME 04848",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.islesboro.com/contact",
+   "evidence": "touch. Interested in a property for sale or a vacation rental? Don't hesitate to contact us. Office: (207) 734-8809 Cell/Text: (207) 446-8315 John Oldham, Broker 1286 Main Road, Islesboro, ME 04848",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0166",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0167",
+  "address": {
+   "street": "139 Coburn Avenue",
+   "city": "Jackman",
+   "state": "ME",
+   "postal_code": "04945",
+   "full_address": "139 Coburn Avenue, Jackman, ME 04945",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://mooselodgemaine.com/contact-us/",
+   "evidence": "p The King Suite Activities Gallery Moose Lodge The Cabin The Canoe Camp The King Suite Activities Contact Us Reach Out to Book Outdoor Lodging We're Here to Help 139 Coburn Avenue Jackman, Maine 04945",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0168",
+  "address": {
+   "street": "99 North Mountain Road",
+   "city": "Jefferson",
+   "state": "ME",
+   "postal_code": "04348",
+   "full_address": "99 North Mountain Road, Jefferson, ME 04348",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://bookcomfydome.lodgify.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"99 North Mountain Road\", \"addressLocality\": \"Jefferson\", \"addressRegion\": \"Maine\", \"postalCode\": \"04348\", \"addressCountry\": \"US\"}",
+   "owner": "ComfyDome Glamping"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0169",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0170",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0171",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0172",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0173",
+  "address": {
+   "street": "2518 Atlantic Hwy",
+   "city": "Lincolnville",
+   "state": "ME",
+   "postal_code": "04849",
+   "full_address": "2518 Atlantic Hwy, Lincolnville, ME 04849",
+   "source_url": "https://wheretorest.com/usa/lincolnville/suites-by-the-sea",
+   "title": "Suites by the Sea — Holiday Home in Lincolnville | Where to Rest",
+   "evidence": "ry) Book your stay Check live pricesVisit website Prices open at our booking partner. We may earn a commission — it costs you nothing extra. Details Address 2518 Atlantic Hwy, Lincolnville, ME 04849",
+   "official": false,
+   "id": "ME-0173",
+   "name": "Suites by the Sea",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0174",
+  "address": {
+   "street": "77 Water Street",
+   "city": "Lubec",
+   "state": "ME",
+   "postal_code": "04652",
+   "full_address": "77 Water Street, Lubec, ME 04652",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.loveatfirstlightlubec.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Lubec\", \"addressRegion\": \"ME\", \"postalCode\": \"04652\", \"streetAddress\": \"77 Water Street\"}",
+   "owner": "Love at First Light"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0175",
+  "address": {
+   "street": "450 South Lubec Road",
+   "city": "Lubec",
+   "state": "ME",
+   "postal_code": "04652",
+   "full_address": "450 South Lubec Road, Lubec, ME 04652",
+   "source_url": "https://visitmaine.com/organization/lubec-bay-cottage-disconnect-from-the-everyday-with-a-two-nation-adventure-down-east-and-canada/5849/",
+   "title": "Lubec Bay Cottage | Visit Maine",
+   "evidence": "c. ... Campobello Island is just across the water, making it easy to pair Downeast Maine with a Canadian day trip. Lubec Bay Cottage [Button: View all ] Address 450 South Lubec Road, Lubec, ME, 04652",
+   "official": false,
+   "id": "ME-0175",
+   "name": "Lubec Bay Cottage",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0176",
+  "address": {
+   "street": "823 South Lubec Road",
+   "city": "Lubec",
+   "state": "ME",
+   "postal_code": "04652",
+   "full_address": "823 South Lubec Road, Lubec, ME 04652",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.quoddyvacation.com/contact",
+   "evidence": "in the town of Lubec, north of Machias, east of Eastport, and south of Calais, Maine. The GPS coordinates are: 44° 49' 4\" N latitude / 66° 57' 56\" W longitude. 823 South Lubec Road, Lubec, Maine 04652",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0177",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0178",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0179",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0180",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0181",
+  "address": {
+   "street": "1489 Shin Pond Rd",
+   "city": "Mt Chase",
+   "state": "ME",
+   "postal_code": "04765-4010",
+   "full_address": "1489 Shin Pond Rd, Mt Chase, ME 04765-4010",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.shinpond.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"1489 Shin Pond Rd\", \"addressLocality\": \"Mt Chase\", \"addressRegion\": \"ME\", \"postalCode\": \"04765-4010\", \"addressCountry\": \"US\"}",
+   "owner": "Shin Pond Village"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0182",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0183",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0184",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0185",
+  "address": {
+   "street": "72 Snowball Hill Road",
+   "city": "New Harbor",
+   "state": "ME",
+   "postal_code": "04554",
+   "full_address": "72 Snowball Hill Road, New Harbor, ME 04554",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://snowballhillcottage.com/contact.html",
+   "evidence": "l Cottage - Contact Us (207) 677-0012 Book Now Welcome Our Accomodations Book Your Stay Discover The Area Contact General Information Snowball Hill Cottage 72 Snowball Hill Road New Harbor, ME 04554",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0186",
+  "address": {
+   "street": "42 Wilderness Drive",
+   "city": "Newry",
+   "state": "ME",
+   "postal_code": "04261",
+   "full_address": "42 Wilderness Drive, Newry, ME 04261",
+   "source_url": "https://www.sundayriverrentals.com/confirmed-guests-573970552",
+   "title": "GLEN HOUSE INFO GUIDE - The Glen House",
+   "evidence": "d: 2 days ago; Find The Glen House at 42 Wilderness Drive, Newry Maine 04261, and let Google Maps guide you there. ARRIVAL & TRANSPORTATION Find The Glen House at 42 Wilderness Drive, Newry Maine 04261",
+   "official": true,
+   "id": "ME-0186",
+   "name": "The Glen House",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0187",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0188",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0189",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0190",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0191",
+  "address": {
+   "street": "PO Box 2289",
+   "city": "Ogunquit",
+   "state": "ME",
+   "postal_code": "03907",
+   "full_address": "PO Box 2289, Ogunquit, ME 03907",
+   "source_url": "https://chamber.ogunquit.org/list/member/atlantic-haven-llc-2537",
+   "title": "Atlantic Haven, LLC | SHORT TERM RENTALS",
+   "evidence": "ade for unforgettable memories - walk to Ogunquit town and beach, gather in the exposed-beam kitchen, game room, and sunny deck with plenty of parking. 20 Shore Road, PO Box 2289, Ogunquit, Maine 03907",
+   "official": false,
+   "id": "ME-0191",
+   "name": "Atlantic Haven",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0192",
+  "address": {
+   "street": "3 Odessa Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postal_code": "04064",
+   "full_address": "3 Odessa Ave, Old Orchard Beach, ME 04064",
+   "method": "Address markup on official website",
+   "score": 115,
+   "source_url": "https://odessabythesea.com/",
+   "evidence": "3 Odessa Ave Old Orchard Beach , Maine 04064",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0193",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0194",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0195",
+  "address": {
+   "street": "168 Southern Bay Rd",
+   "city": "Penobscot",
+   "state": "ME",
+   "postal_code": "04476",
+   "full_address": "168 Southern Bay Rd, Penobscot, ME 04476",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://winslowcreek.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"168 Southern Bay Rd\", \"addressLocality\": \"Penobscot\", \"addressRegion\": \"ME\", \"postalCode\": \"04476\", \"addressCountry\": \"United States\"}",
+   "owner": "Winslow Creek"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0196",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0197",
+  "address": {
+   "street": "129 Lynn Way",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "129 Lynn Way, Rangeley, ME 04970",
+   "source_url": "https://business.rangeleymaine.com/activitydirectory/Details/sunset-view-carriage-house-2996743",
+   "title": "Sunset View Carriage House -Activities Directory - Rangeley Lakes Region Chamber of Commerce",
+   "evidence": "om Fiddlehead Farm at the Rangelet Farmer's Market Image: GoodiesImage: Goodies Image: Farmers Market sconesImage: Farmers Market scones Sunset View Carriage House 129 Lynn Way , Rangeley , ME , 04970",
+   "official": false,
+   "id": "ME-0197",
+   "name": "Sunset View Carriage House",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0198",
+  "address": {
+   "street": "73 Talbot Avenue",
+   "city": "Rockland",
+   "state": "ME",
+   "postal_code": "04841",
+   "full_address": "73 Talbot Avenue, Rockland, ME 04841",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.rocklandtalbothouse.com/about-us",
+   "evidence": "n' the legs in VA Flo the Sun Seeker Damariscotta is a must! Sunday coffee n pup cups Call: 207 593-7393 Email: stay@rocklandtalbothouse.com Rockland Talbot House 73 Talbot Avenue Rockland, ME 04841",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0199",
+  "address": {
+   "street": "1 Ship St",
+   "city": "Rockport",
+   "state": "ME",
+   "postal_code": "04856",
+   "full_address": "1 Ship St, Rockport, ME 04856",
+   "source_url": "https://wanderlog.com/place/details/11517493/duckdown-waterfront-vacation-rental",
+   "title": "Duckdown Waterfront Vacation Rental, Camden, ME - Reviews, Ratings, Tips and Why You Should Go – Wanderlog",
+   "evidence": "table design, and unique waterfront access - truly embodies the essence of Maine coastal living. See more reviews All Google Maps reviewsAll Tripadvisor reviews Address 1 Ship St, Rockport, ME 04856",
+   "official": false,
+   "id": "ME-0199",
+   "name": "Duckdown Waterfront Vacation",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0200",
+  "address": {
+   "street": "89 Village Way",
+   "city": "Rockport",
+   "state": "ME",
+   "postal_code": "04856",
+   "full_address": "89 Village Way, Rockport, ME 04856",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://sailawaymaine.com/contact/",
+   "evidence": "Contact – Sail Away Maine Rockport Office 89 Village Way, Rockport, ME 04856",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0201",
+  "address": {
+   "street": "131 Maynard Rd",
+   "city": "Rockwood",
+   "state": "ME",
+   "postal_code": "04478",
+   "full_address": "131 Maynard Rd, Rockwood, ME 04478",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://maynards-in-maine.lodgify.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"PO Box 249 - 131 Maynard Rd\", \"addressLocality\": \"Rockwood\", \"addressRegion\": \"ME\", \"postalCode\": \"04478\", \"addressCountry\": \"US\"}",
+   "owner": "Logo"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0202",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0203",
+  "address": {
+   "street": "255 Anderson Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postal_code": "04029",
+   "full_address": "255 Anderson Road, Sebago, ME 04029",
+   "source_url": "https://visitmaine.com/organization/the-blueberry-house/5914/",
+   "title": "The Blueberry House | Visit Maine",
+   "evidence": "arching for a home base to enjoy everything Southern Maine has to offer, look no further than the Blueberry House. The Blueberry House [Button: View all ] Address 255 Anderson Road, Sebago, ME, 04029",
+   "official": false,
+   "id": "ME-0203",
+   "name": "The Blueberry House",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0204",
+  "address": {
+   "street": "2 Naomi Street",
+   "city": "Sebago Lake",
+   "state": "ME",
+   "postal_code": "04029",
+   "full_address": "2 Naomi Street, Sebago Lake, ME 04029",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.loonslandingsebagolake.com/sebago-lake-maine-vacation-home-rental-contact-information/",
+   "evidence": "sting by Tourist Marketing Services Sebago Lake Maine Vacation Home Rental Contact Information Comments are closed. Loons Landing Sebago Lake Vacation Rentals • 2 Naomi Street, Sebago Lake, Maine 04029",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0205",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0206",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0207",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0208",
+  "address": {
+   "street": "221 Main Street",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postal_code": "04679",
+   "full_address": "221 Main Street, Southwest Harbor, ME 04679",
+   "source_url": "https://www.booking.com/hotel/us/acadia-horizon-cottage.en-gb.html",
+   "title": "Acadia Horizon Cottage, Southwest Harbor (updated prices 2027)",
+   "evidence": "rfect gateway to Acadia National Park. Reserve your apartment stay We Price Match Beachfront · Private beach Acadia Horizon Cottage Acadia Horizon Cottage 221 Main Street, Southwest Harbor, ME 04679",
+   "official": false,
+   "id": "ME-0208",
+   "name": "Acadia Horizon Cottage",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0209",
+  "address": {
+   "street": "7 Ocean Way",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postal_code": "04679",
+   "full_address": "7 Ocean Way, Southwest Harbor, ME 04679",
+   "source_url": "https://business.visitbarharbor.com/members/member/harbor-oasis-2606",
+   "title": "Harbor Oasis | Vacation & Weekly Rentals",
+   "evidence": " last week; Harbor Oasis is a rare find with in-town convenience yet a private tranquil setting on the harbor. Harbor Oasis Categories Vacation & Weekly Rentals 7 Ocean Way Southwest Harbor ME 04679",
+   "official": false,
+   "id": "ME-0209",
+   "name": "Harbor Oasis",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0210",
+  "address": {
+   "street": "11 Seal Cove Rd",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postal_code": "04679",
+   "full_address": "11 Seal Cove Rd, Southwest Harbor, ME 04679",
+   "source_url": "https://www.allbiz.com/business/mdi-vacation-homes-207-244-0607",
+   "title": "MDI Vacation Homes | (207) 244-0607 | Southwest Harbor, Maine",
+   "evidence": "exist, informational purposes only. sales@mdivacationhomes.com andy@mdivacationhomes.com jane@mdivacationhomes.com + Additional Businesses at this Address 11 Seal Cove Rd, Southwest Harbor, ME 04679",
+   "official": false,
+   "id": "ME-0210",
+   "name": "MDI Vacation Homes",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0211",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0212",
+  "address": {
+   "street": "859 Maine Street",
+   "city": "Stoneham",
+   "state": "ME",
+   "postal_code": "04231",
+   "full_address": "859 Maine Street, Stoneham, ME 04231",
+   "source_url": "https://inthetreesmaine.com/contact",
+   "title": "Contact · In The Trees",
+   "evidence": "ssage ourselves. Reach us directly We're a small team and we like it that way. Call or text 802-321-0360 · 9 am–8 pm daily Email info@inthetreesmaine.com Find us 859 Maine Street, Stoneham, Maine 04231",
+   "official": false,
+   "id": "ME-0212",
+   "name": "In The Trees",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0213",
+  "address": {
+   "street": "859 Maine Street",
+   "city": "Stoneham",
+   "state": "ME",
+   "postal_code": "04231",
+   "full_address": "859 Maine Street, Stoneham, ME 04231",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://inthetreesmaine.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"859 Maine Street\", \"addressLocality\": \"Stoneham\", \"addressRegion\": \"ME\", \"postalCode\": \"04231\", \"addressCountry\": \"US\"}",
+   "owner": "In The Trees"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0214",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0215",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0216",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0217",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0218",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0219",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0220",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0221",
+  "address": {
+   "street": "412 Post Road",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "412 Post Road, Wells, ME 04090",
+   "source_url": "https://chamber.ogunquit.org/list/member/kc-cottage-rentals-llc-593",
+   "title": "KC Cottage Rentals | SHORT TERM RENTALS",
+   "evidence": "t.org/list/member/kc-cottage-rentals-llc-593) citeturn40search1 [wordlim: 200] Crawled: last week; KC Cottage Rentals KC Cottage Rentals Categories SHORT TERM RENTALS 412 Post Road Wells ME 04090",
+   "official": false,
+   "id": "ME-0221",
+   "name": "KC Cottage Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0222",
+  "address": {
+   "street": "510 Webhannet Dr",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "510 Webhannet Dr, Wells, ME 04090",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://garnsey.com/contact-us/",
+   "evidence": "agree with terms & conditions A password will be e-mailed to you Register Back to Login Reset Password Reset Password Return to Login 207-646-8301 info@garnsey.com 510 Webhannet Dr, Wells, ME 04090",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0223",
+  "address": {
+   "street": "1 Old County Road",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "1 Old County Road, Wells, ME 04090",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.seaglassvillage.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Wells\", \"addressRegion\": \"ME\", \"postalCode\": \"04090\", \"streetAddress\": \"1 Old County Road\"}",
+   "owner": "Seaglass Village Cottages"
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0224",
+  "address": {
+   "street": "263 Webhannet Drive",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "263 Webhannet Drive, Wells, ME 04090",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://webhannetbythesea.com/contact/",
+   "evidence": "and Contact Information ► One Bedroom Cottage Unit #5 See Photos, Get Rates & Policies, and Contact Information Share this page with others: Webhannet By The Sea 263 Webhannet Drive Wells, ME 04090",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0225",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0226",
+  "address": {
+   "street": "2067 Harpswell Island Road",
+   "city": "Bailey Island",
+   "state": "ME",
+   "postal_code": "04003",
+   "full_address": "2067 Harpswell Island Road, Bailey Island, ME 04003",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.mainerentals.com/pages/contact-us/",
+   "evidence": "l part of our business–we take great pride in providing excellent, timely service to both our owners and renters! Contact Us Your Island Connection 2067 Harpswell Island Road Bailey Island, Maine 04003",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0227",
+  "address": {
+   "street": "PO Box 949",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "PO Box 949, Bar Harbor, ME 04609",
+   "source_url": "https://visitmaine.com/organization/acadia-cottage-rentals/3724/",
+   "title": "Acadia Cottage Rentals | Visit Maine",
+   "evidence": "; Address ... http://acadiarental.com/ ... Acadia Cottage Rentals connects travelers with a wide range of vacation homes across Maine. Acadia Cottage Rentals Address PO Box 949, Bar Harbor, ME, 04609",
+   "official": false,
+   "id": "ME-0227",
+   "name": "Acadia Cottage Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0228",
+  "address": {
+   "street": "8 Holland Avenue",
+   "city": "Bar Harbor",
+   "state": "ME",
+   "postal_code": "04609",
+   "full_address": "8 Holland Avenue, Bar Harbor, ME 04609",
+   "method": "Structured address on official website",
+   "score": 111,
+   "source_url": "https://mdislandvacationhomes.com",
+   "evidence": "8 Holland Avenue Bar Harbor, ME, 04609 United States",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0229",
+  "address": {
+   "street": "66 Heron Cove Lane",
+   "city": "Belgrade",
+   "state": "ME",
+   "postal_code": "04917",
+   "full_address": "66 Heron Cove Lane, Belgrade, ME 04917",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://belgradehospitality.com/contact.html",
+   "evidence": "Landing Cottage Red Cedar Haven The Heron Gables End Escape Treehouse Duo Policies Local Attractions Contact Close Menu Book Online contact Belgrade Hospitality 66 Heron Cove Lane Belgrade, ME 04917",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0230",
+  "address": {
+   "street": "P.O. Box 132",
+   "city": "Belgrade Lakes",
+   "state": "ME",
+   "postal_code": "04918",
+   "full_address": "P.O. Box 132, Belgrade Lakes, ME 04918",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://belgraderental.com/contact-directions",
+   "evidence": "tions DSC01883 Ducharme-035 garabedian-019 P1040257 lakedeck wow P1060367 DSC01884 DSCN1828 baran-013 Contact Us 28-B Augusta Rd, Rome, ME 04963 Mailing Address P.O. Box 132 Belgrade Lakes, ME 04918",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0231",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0232",
+  "address": {
+   "street": "57 Main St",
+   "city": "Bethel",
+   "state": "ME",
+   "postal_code": "04217",
+   "full_address": "57 Main St, Bethel, ME 04217",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.connectingrentals.com/contact",
+   "evidence": "board shortcuts for changing dates. Guest Search Login Signup Help Light mode Dark mode Contact & Support Email support@connectingrentals.com Phone 207-824-4829 Address 57 Main St., Bethel, ME 04217",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0233",
+  "address": {
+   "street": "38 West Bethel Road",
+   "city": "Bethel",
+   "state": "ME",
+   "postal_code": "04217",
+   "full_address": "38 West Bethel Road, Bethel, ME 04217",
+   "method": "Structured address on official website",
+   "score": 111,
+   "source_url": "https://www.visitsundayriver.com",
+   "evidence": "38 West Bethel Road Bethel, ME, 04217 United States",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0234",
+  "address": {
+   "street": "3 Main Street",
+   "city": "Blue Hill",
+   "state": "ME",
+   "postal_code": "04614",
+   "full_address": "3 Main Street, Blue Hill, ME 04614",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.bhpr.me",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Blue Hill\", \"addressRegion\": \"ME\", \"postalCode\": \"04614\", \"streetAddress\": \"3 Main Street\"}",
+   "owner": "Blue Hill Peninsula Realty and Rentals"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0235",
+  "address": {
+   "id": "ME-0235",
+   "street": "54 Main Street",
+   "city": "Blue Hill",
+   "state": "ME",
+   "postal_code": "04614",
+   "full_address": "54 Main Street, Blue Hill, ME 04614",
+   "source_url": "https://visitmaine.com/organization/peninsula-property-rentals/5887/",
+   "evidence": "54 Main Street P.O. Box 611, Blue Hill, ME, 04614",
+   "official": false,
+   "notes": "",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0236",
+  "address": {
+   "street": "531 Ellsworth Road",
+   "city": "Blue Hill",
+   "state": "ME",
+   "postal_code": "04614",
+   "full_address": "531 Ellsworth Road, Blue Hill, ME 04614",
+   "source_url": "https://bluehillpeninsula.org/business/salt-air-properties-llc/",
+   "title": "Salt Air Properties LLC - Blue Hill Peninsula Chamber of Commerce",
+   "evidence": ". Our dedicated team strives to provide a great guest experience while also exceeding our homeowner’s expectations. Categories: Lodging, Property Rentals, Stay 531 Ellsworth Road Blue Hill, ME 04614",
+   "official": false,
+   "id": "ME-0236",
+   "name": "Salt Air Properties",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0237",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0238",
+  "address": {
+   "street": "PO Box 1261",
+   "city": "Blue Hill",
+   "state": "ME",
+   "postal_code": "04614",
+   "full_address": "PO Box 1261, Blue Hill, ME 04614",
+   "method": "Structured address on official website",
+   "score": 94,
+   "source_url": "https://bluehillbaypropertyrentals.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"PO Box 1261\", \"addressLocality\": \"Blue Hill\", \"addressRegion\": \"ME\", \"postalCode\": \"04614\", \"addressCountry\": \"US\"}",
+   "owner": "Blue Hill Bay Property Rentals"
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0239",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0240",
+  "address": {
+   "street": "P.O. Box 422",
+   "city": "Boothbay Harbor",
+   "state": "ME",
+   "postal_code": "04538",
+   "full_address": "P.O. Box 422, Boothbay Harbor, ME 04538",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://mainelandvacationrentals.com/contact/",
+   "evidence": "Pet Friendly Ocean Front Ocean View Pond View Wooded Boothbay Harbor Blog Contact Book Now GET IN TOUCH Name Phone Email Subject Message Send Message Address P.O. Box 422, Boothbay Harbor, ME 04538",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0241",
+  "address": {
+   "street": "19 Turkey Hill Drive",
+   "city": "Boothbay Harbor",
+   "state": "ME",
+   "postal_code": "04538",
+   "full_address": "19 Turkey Hill Drive, Boothbay Harbor, ME 04538",
+   "source_url": "https://visitmaine.com/organization/sea-maine-vacation-rentals/5046/",
+   "title": "Sea Maine Vacation Rentals | Visit Maine",
+   "evidence": "-vacation-rentals/5046/) citeturn39search1 [wordlim: 200] Crawled: last month; Sea Maine Vacation RentalsAddress Sea Maine Vacation Rentals Address 19 Turkey Hill Drive, Boothbay Harbor, ME, 04538",
+   "official": false,
+   "id": "ME-0241",
+   "name": "Sea Maine Vacation Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0242",
+  "address": {
+   "street": "P.O. Box 309",
+   "city": "East Boothbay",
+   "state": "ME",
+   "postal_code": "04544",
+   "full_address": "P.O. Box 309, East Boothbay, ME 04544",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://www.chillvacationrentals.com/contact",
+   "evidence": "sought after teaching professional. She has been renovating and managing vacation rentals since 2010. Click here to see our Privacy Policy Chill Vacation Rentals P.O. Box 309 East Boothbay, ME 04544",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0243",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0244",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0245",
+  "address": {
+   "street": "17 Bay Avenue",
+   "city": "Saco",
+   "state": "ME",
+   "postal_code": "04072-3002",
+   "full_address": "17 Bay Avenue, Saco, ME 04072-3002",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.campellismaine.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Saco\", \"addressRegion\": \"ME\", \"postalCode\": \"04072-3002\", \"streetAddress\": \"17 Bay Avenue\"}",
+   "owner": "breakwatervactionrental.com"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0246",
+  "address": {
+   "street": "9 Main Street",
+   "city": "Castine",
+   "state": "ME",
+   "postal_code": "04421",
+   "full_address": "9 Main Street, Castine, ME 04421",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://saltmeadowproperties.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"9 Main Street\", \"addressLocality\": \"Castine\", \"addressRegion\": \"ME\", \"postalCode\": \"04421\", \"addressCountry\": \"US\"}",
+   "owner": "Saltmeadow Properties Real Estate Inc."
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0247",
+  "address": {
+   "street": "171 high St",
+   "city": "Belfast",
+   "state": "ME",
+   "postal_code": "04915",
+   "full_address": "171 high St, Belfast, ME 04915",
+   "method": "Published address text on official website",
+   "score": 97,
+   "source_url": "https://coastalmaine.vacations/contact-us/",
+   "evidence": "your short-term rental. We treat your investment property as if it were our own, so you can enjoy peace of mind. Call, message or stop by today to get started 171 high St. Suite 8, Belfast Maine 04915",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0248",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0249",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postal_code": "04543",
+   "full_address": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.mainecoastcottages.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"277 Main Street, Suite 3\", \"addressLocality\": \"Damariscotta\", \"addressRegion\": \"ME\", \"postalCode\": \"04543\", \"addressCountry\": \"United States\"}",
+   "owner": "Newcastle Vacation Rentals"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0250",
+  "address": {
+   "street": "6 Neighborhood Road",
+   "city": "Northeast Harbor",
+   "state": "ME",
+   "postal_code": "04662",
+   "full_address": "6 Neighborhood Road, Northeast Harbor, ME 04662",
+   "method": "Address element on official website",
+   "score": 100,
+   "source_url": "https://downeastproperties.com/property-types/waterfront-land-and-islands/",
+   "evidence": "207.266.6336 tallen@legacysir.com 6 Neighborhood Road Northeast Harbor , ME 04662",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0251",
+  "address": {
+   "street": "12 Chapel St",
+   "city": "EASTPORT",
+   "state": "ME",
+   "postal_code": "04631",
+   "full_address": "12 Chapel St, EASTPORT, ME 04631",
+   "method": "Published address text on official website",
+   "score": 101,
+   "source_url": "http://quoddyproperties.com/vacation-rentals.html",
+   "evidence": "from the crowds and traffic lights or, if you feel the need to get up and go somewhere, you will be surprised at how much there is to do in the area. 1-207-214-3272 12 Chapel St. EASTPORT, ME 04631",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0252",
+  "address": {
+   "street": "38 Moosehead Lake Road",
+   "city": "Greenville",
+   "state": "ME",
+   "postal_code": "04441",
+   "full_address": "38 Moosehead Lake Road, Greenville, ME 04441",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.mooseheadpropertyrentals.com/contact-us/",
+   "evidence": "is for validation purposes and should be left unchanged. Name * First Email * Phone * Message * Submit Contact Us Get In Touch Moosehead Property Rentals 38 Moosehead Lake Road, Greenville ME 04441",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0253",
+  "address": {
+   "street": "PO Box 1307",
+   "city": "Kennebunkport",
+   "state": "ME",
+   "postal_code": "04046",
+   "full_address": "PO Box 1307, Kennebunkport, ME 04046",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://www.kptluxuryproperties.com/contact-information/",
+   "evidence": "ty Search Rentals Traveler Ratings Property Manager Property 248 Reviews Stayed with us? Contact Us Page Company and Contact Information KPT Luxury Properties LLC. PO Box 1307 Kennebunkport ME 04046",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0254",
+  "address": {
+   "street": "P.O. Box 1206",
+   "city": "Kennebunkport",
+   "state": "ME",
+   "postal_code": "04046",
+   "full_address": "P.O. Box 1206, Kennebunkport, ME 04046",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://seagrasspropertyrentals.com/contact/",
+   "evidence": "Contact Contact Us Get In Touch We’d love to hear from you, so drop us a line! Call Us Now (207) 337-6105 Email Us Now info@seagrasspropertyrentals.com Address P.O. Box 1206 Kennebunkport, ME 04046",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0255",
+  "address": {
+   "street": "1619 Old Bay Lane",
+   "city": "Severn",
+   "state": "Maryland",
+   "postal_code": "21144",
+   "full_address": "1619 Old Bay Lane, Severn, Maryland 21144",
+   "method": "Structured address on official website",
+   "score": 81,
+   "source_url": "https://foxtrotmainerental.lodgify.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"1619 Old Bay Lane\", \"addressLocality\": \"Severn\", \"addressRegion\": \"Maryland\", \"postalCode\": \"21144\", \"addressCountry\": \"US\"}",
+   "owner": "Foxtrot Vacation Rental"
+  },
+  "type": "Published contact address outside Maine",
+  "status": "Published on official website",
+  "notes": "Website publishes a Maryland contact address; this is not the Maine rental location.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0256",
+  "address": {
+   "street": "6 Cold Storage Road",
+   "city": "Saint George",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "6 Cold Storage Road, Saint George, ME",
+   "source_url": "https://camdenrockland.com/businesses/linda-beans-maine-vacation-rentals/",
+   "title": "Linda Bean's Maine Vacation Rentals - Penobscot Bay Regional Chamber of Commerce",
+   "evidence": "George, ME, USA Phone 207-330-0263 Email veronika@lindabeansperfectmaine.com Website https://www.lindabeansperfectmaine.com/lodging-type/vacation-rentals/ 6 Cold Storage Road, Saint George, ME",
+   "official": false,
+   "id": "ME-0256",
+   "name": "Linda Bean's Maine Vacation Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published tourism / chamber listing",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0257",
+  "address": {
+   "street": "1281 Main Street",
+   "city": "Mount Desert",
+   "state": "ME",
+   "postal_code": "04660",
+   "full_address": "1281 Main Street, Mount Desert, ME 04660",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.maineislandproperties.com/contact/",
+   "evidence": "ch Properties Request Availability FAQ Special Offers Blog Contact Contact Maine Island Properties Contact Details 207-244-4348 info@maineislandproperties.com 1281 Main Street Mount Desert, ME 04660",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0258",
+  "address": {
+   "street": "775 Main Street",
+   "city": "",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "775 Main Street, ME",
+   "method": "Structured address on official website",
+   "score": 106,
+   "source_url": "https://compassrosmaine.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"775 Main Street\", \"addressRegion\": \"ME\", \"addressCountry\": \"US\"}",
+   "owner": "Compass Rose Property Management"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "Town not present in the published structured address; not inferred. ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0259",
+  "address": {
+   "street": "21 Main Street, Suite 101",
+   "city": "Bangor",
+   "state": "ME",
+   "postal_code": "04401",
+   "full_address": "21 Main Street, Suite 101, Bangor, ME 04401",
+   "method": "Address markup on official website",
+   "score": 107,
+   "source_url": "https://www.rentmaine.com/",
+   "evidence": "21 Main Street, Suite 101 Bangor , ME 04401",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0260",
+  "address": {
+   "street": "91 Belvedere Rd",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postal_code": "04543-4545",
+   "full_address": "91 Belvedere Rd, Damariscotta, ME 04543-4545",
+   "source_url": "https://www.bbb.org/us/me/damariscotta/profile/vacation-rentals/rocky-coast-rentals-llc-0021-555806",
+   "title": "Rocky Coast Rentals, LLC | BBB Business Profile | Better Business Bureau",
+   "evidence": "business is NOT BBB Accredited. Find BBB Accredited Businesses in Vacation Rentals. Visit Website(207) 563-6805Write a Review Overview Rocky Coast Rentals, LLC 91 Belvedere Rd Damariscotta, ME 04543-4545",
+   "official": false,
+   "id": "ME-0260",
+   "name": "Rocky Coast Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0261",
+  "address": {
+   "street": "38 West Bethel Road",
+   "city": "Bethel",
+   "state": "ME",
+   "postal_code": "04217",
+   "full_address": "38 West Bethel Road, Bethel, ME 04217",
+   "method": "Structured address on official website",
+   "score": 103,
+   "source_url": "https://www.visitsundayriver.com",
+   "evidence": "38 West Bethel Road Bethel, ME, 04217 United States",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0262",
+  "address": {
+   "street": "66 George St",
+   "city": "Bayside – Northport",
+   "state": "ME",
+   "postal_code": "04849",
+   "full_address": "66 George St, Bayside – Northport, ME 04849",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://baysidecottagerentals.com/contact-us/",
+   "evidence": "orth. Once you see Northport Landing (An artisans gallery) on right, take your next right at The Hoot restaurant. Jennika Lundy Bayside Cottage Rentals LLC 66 George St Bayside – Northport, Maine 04849",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0263",
+  "address": {
+   "street": "PO Box 32",
+   "city": "",
+   "state": "Lincolnville",
+   "postal_code": "04849",
+   "full_address": "PO Box 32, Lincolnville 04849",
+   "method": "Structured address on official website",
+   "score": 61,
+   "source_url": "https://camdenhillsrealty.com/",
+   "evidence": "{\"addressCountry\": \"US\", \"addressRegion\": \"Lincolnville\", \"streetAddress\": \"PO Box 32\", \"postalCode\": \"04849\"}",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "Town not present in the published structured address; not inferred.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0264",
+  "address": {
+   "street": "261 Shore Road",
+   "city": "Ogunquit",
+   "state": "ME",
+   "postal_code": "03907",
+   "full_address": "261 Shore Road, Ogunquit, ME 03907",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.ogunquitrentalproperties.com/contact-us/?property=301+%26%238211%3B+Historic+Woodbury+%28Art%29+Studio",
+   "evidence": "ites Marginal Way Contact Us We welcome addressing your inquiries and hearing your comments about our services and properties. Ogunquit Rental Properties Location: 261 Shore Road, Ogunquit, ME 03907",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0265",
+  "address": {
+   "street": "P.O. Box 254",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postal_code": "04064",
+   "full_address": "P.O. Box 254, Old Orchard Beach, ME 04064",
+   "method": "Structured address on official website",
+   "score": 94,
+   "source_url": "https://beachgirlpropertyrentals.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"P.O. Box 254\", \"addressLocality\": \"Old Orchard Beach\", \"addressRegion\": \"ME\", \"postalCode\": \"04064\", \"addressCountry\": \"US\"}",
+   "owner": "Beach Girl Property Rentals"
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0266",
+  "address": {
+   "id": "ME-0266",
+   "street": "2478 Main Street",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "2478 Main Street, Rangeley, ME 04970",
+   "source_url": "https://www.rangeleyrentals.com/terms-and-conditions",
+   "evidence": "Physical Address: 2478 Main Street Rangeley, ME 04970",
+   "official": true,
+   "notes": "",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0267",
+  "address": {
+   "street": "21 School St",
+   "city": "Rangeley",
+   "state": "ME",
+   "postal_code": "04970",
+   "full_address": "21 School St, Rangeley, ME 04970",
+   "source_url": "https://www.bbb.org/us/me/rangeley/profile/property-management/rangeley-vacation-rentals-0021-140668",
+   "title": "Rangeley Vacation Rentals | BBB Business Profile | Better Business Bureau",
+   "evidence": "BBB accredited] Near[Input: city, state or zip] ImageUS ImageUnited States ImageCanada Please enter a valid location. [Button: Filter] Image Rangeley Vacation Rentals 21 School St Rangeley, ME 04970",
+   "official": false,
+   "id": "ME-0267",
+   "name": "Rangeley Vacation Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Third-party listing; unverified officially",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0268",
+  "address": {
+   "street": "121 New County Rd",
+   "city": "Rockland",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "121 New County Rd, Rockland, ME",
+   "method": "Structured address on official website",
+   "score": 115,
+   "source_url": "https://jimmysrentals.com/about-jimmys-rentals-about-property-management/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"121 New County Rd\", \"addressLocality\": \"Rockland\", \"addressRegion\": \"ME\", \"postalCode\": \"ME\", \"addressCountry\": \"US\"}",
+   "owner": "Jimmy's Rentals"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0269",
+  "address": {
+   "street": "43 Rankin St",
+   "city": "Rockland",
+   "state": "ME",
+   "postal_code": "04841",
+   "full_address": "43 Rankin St, Rockland, ME 04841",
+   "source_url": "https://visitmaine.com/organization/kinney-rentals/4138/",
+   "title": "Kinney Rentals | Visit Maine",
+   "evidence": "rn16search0 [wordlim: 200] Crawled: last week; Kinney RentalsAddress ... MidCoast Maine's premiere oceanfront and ocean view cottage rentals. Kinney Rentals Address 43 Rankin St, Rockland, ME, 04841",
+   "official": false,
+   "id": "ME-0269",
+   "name": "Kinney Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0270",
+  "address": {
+   "street": "850 NW 13th Ave",
+   "city": "Portland",
+   "state": "Oregon",
+   "postal_code": "97209",
+   "full_address": "850 NW 13th Ave, Portland, Oregon 97209",
+   "method": "Structured address on official website",
+   "score": 82,
+   "source_url": "https://www.vacasa.com/office-locations",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"850 NW 13th Ave\", \"addressLocality\": \"Portland\", \"addressRegion\": \"Oregon\", \"postalCode\": \"97209\", \"addressCountry\": \"USA\"}",
+   "owner": "Vacasa"
+  },
+  "type": "Parent company office outside Maine",
+  "status": "Published on official website",
+  "notes": "Supplied website redirects to Vacasa; Oregon corporate address, not a Maine property location.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0271",
+  "address": {
+   "street": "195 Commercial Street",
+   "city": "Rockport",
+   "state": "ME",
+   "postal_code": "04856",
+   "full_address": "195 Commercial Street, Rockport, ME 04856",
+   "method": "Published address text on official website",
+   "score": 104,
+   "source_url": "https://www.onthewaterinmaine.com/",
+   "evidence": "it all! We are one of Maine’s largest independent waterfront vacation home rental agencies. Our team looks forward to welcoming you! Guests and Owners may use 195 Commercial Street Rockport ME 04856",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0272",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0273",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0274",
+  "address": {
+   "street": "9 Ocean Park Road",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postal_code": "04064",
+   "full_address": "9 Ocean Park Road, Old Orchard Beach, ME 04064",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.seashorepropertymanagement.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"9 Ocean Park Road \", \"addressLocality\": \"Old Orchard Beach \", \"addressRegion\": \"Maine\", \"postalCode\": \"04064\", \"addressCountry\": \"US\"}",
+   "owner": "Seashore Property Management"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0275",
+  "address": {
+   "street": "2 Belvedere Drive",
+   "city": "Windham",
+   "state": "ME",
+   "postal_code": "04062",
+   "full_address": "2 Belvedere Drive, Windham, ME 04062",
+   "source_url": "https://visitmaine.com/organization/campfire-booking/3754/",
+   "title": "Campfire Booking | Visit Maine",
+   "evidence": "5-82a0-31d2b094c791.jpeg) Overall, we are a trusted and reliable company that specializes in Maine vacation rentals. Campfire Booking [Button: View all ] Address 2 Belvedere Drive, Windham, ME, 04062",
+   "official": false,
+   "id": "ME-0275",
+   "name": "Campfire Booking",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0276",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postal_code": "04029",
+   "full_address": "2 Sebago Road, Sebago, ME 04029",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://sebagolakeproperties.com/contact-us/",
+   "evidence": "many other platforms. Give us a call. We would be happy to discuss our services and answer any questions you may have about the process. Jordan Rentals Street Address: 2 Sebago Road Sebago, Maine 04029",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0277",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0278",
+  "address": {
+   "street": "PO Box 1011",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "PO Box 1011, Wells, ME 04090",
+   "method": "Published address text on official website",
+   "score": 77,
+   "source_url": "https://nauticalpropertymanagement.com/contact/",
+   "evidence": "44 207-977-4144 Home About Services Contact Book Your Maine Vacation Contact Us Let’s Get in Touch EMAIL nauticalpropertymgt@gmail.com PHONE NUMBER 207-977-4144 LOCATION PO Box 1011, Wells, ME 04090",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0279",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0280",
+  "address": {
+   "street": "26 Main Street",
+   "city": "Stonington",
+   "state": "ME",
+   "postal_code": "04681",
+   "full_address": "26 Main Street, Stonington, ME 04681",
+   "method": "Address element on official website",
+   "score": 112,
+   "source_url": "https://theislandagency.com/contact/",
+   "evidence": "The Island Agency 26 Main Street PO BOX 543 Stonington, Maine 04681 207.367.2550 866.907.7585 info@theislandagency.com",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0281",
+  "address": {
+   "street": "13 Mechanic Street",
+   "city": "Tenants Harbor",
+   "state": "ME",
+   "postal_code": "04860",
+   "full_address": "13 Mechanic Street, Tenants Harbor, ME 04860",
+   "source_url": "https://visitmaine.com/organization/true-hall-vacation-rentals/4637/",
+   "title": "True Hall Vacation Rentals | Visit Maine",
+   "evidence": "ch0 [wordlim: 200] Crawled: 4 months ago; True Hall Vacation RentalsAddress ... We have a property for your vacation. True Hall Vacation Rentals Address 13 Mechanic Street, Tenants Harbor, ME, 04860",
+   "official": false,
+   "id": "ME-0281",
+   "name": "True Hall Vacation Rentals",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0282",
+  "address": null,
+  "type": "",
+  "status": "Not found publicly",
+  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0283",
+  "address": {
+   "street": "211-5 Bar Harbor Rd",
+   "city": "Trenton",
+   "state": "ME",
+   "postal_code": "04605",
+   "full_address": "211-5 Bar Harbor Rd, Trenton, ME 04605",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.mpvacationrentals.com/contact-us",
+   "evidence": "Us Please reach out. We'd love to talk to you! Company name Maebeth Property Management Email info@mpvacationrentals.com Phone number +1 (207) 519-0204 Address 211-5 Bar Harbor Rd, Trenton, ME 04605",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0284",
+  "address": {
+   "street": "PO Box 604",
+   "city": "Vinalhaven",
+   "state": "ME",
+   "postal_code": "04863",
+   "full_address": "PO Box 604, Vinalhaven, ME 04863",
+   "method": "Published address text on official website",
+   "score": 85,
+   "source_url": "https://www.vinalhavenvacationrentals.com/contact-us",
+   "evidence": "our name, nature of your request, and the best number to reach you. We look forward to hearing from you! -Angie, and the Vinalhaven Vacation Rentals team 207-691-3260 PO Box 604 Vinalhaven, ME 04863",
+   "owner": ""
+  },
+  "type": "Mailing address (PO Box)",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0285",
+  "address": {
+   "street": "2178 Post Road, Suite 100",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "2178 Post Road, Suite 100, Wells, ME 04090",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://mainestreetpropertymanagement.com/contact-us/",
+   "evidence": "tal Message Do you like texting? Would you like to opt-in to texting with us? Opt-In Opt-Out Send (207) 606-3300 office@mainestreetpm.com Post House Commons 2178 Post Road, Suite 100 Wells, Maine 04090",
+   "owner": ""
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0286",
+  "address": {
+   "street": "209 Ocean Avenue",
+   "city": "Wells",
+   "state": "ME",
+   "postal_code": "04090",
+   "full_address": "209 Ocean Avenue, Wells, ME 04090",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.moodybeach-me.com",
+   "evidence": "{\"@type\": \"PostalAddress\", \"addressCountry\": \"US\", \"addressLocality\": \"Wells\", \"addressRegion\": \"ME\", \"postalCode\": \"04090\", \"streetAddress\": \"209 Ocean Avenue\"}",
+   "owner": "Moody Beach Vacation Rentals"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0287",
+  "address": {
+   "street": "646 US-1",
+   "city": "York",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "646 US-1, York, ME",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://anchorrealestatecompany.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"646 US-1\", \"addressLocality\": \"York\", \"addressRegion\": \"ME\", \"postalCode\": \"3909\", \"addressCountry\": \"US\"}",
+   "owner": "Anchor Real Estate"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0288",
+  "address": {
+   "id": "ME-0288",
+   "street": "647 US Route 1, Unit 101",
+   "city": "York",
+   "state": "ME",
+   "postal_code": "03909-1689",
+   "full_address": "647 US Route 1, Unit 101, York, ME 03909-1689",
+   "source_url": "https://getawayvr.com/vacation-rentals/maine/private-vacation-rentals-in-maine/",
+   "evidence": "Maine Office: 647 US Route 1, Unit 101 York, Maine 03909-1689",
+   "official": true,
+   "notes": "",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0289",
+  "address": {
+   "street": "470 US 1, Suite 4",
+   "city": "York",
+   "state": "ME",
+   "postal_code": "03909",
+   "full_address": "470 US 1, Suite 4, York, ME 03909",
+   "method": "Structured address on official website",
+   "score": 114,
+   "source_url": "https://www.saltandshinerentals.com/",
+   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"470 US 1, Suite 4, York, ME 03909\"}",
+   "owner": "Salt & Shine"
+  },
+  "type": "Operator contact / office address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0290",
+  "address": {
+   "street": "80 Beloin Road",
+   "city": "Camden",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "80 Beloin Road, Camden, ME",
+   "method": "Published address text on official website",
+   "score": 105,
+   "source_url": "https://www.driftoceansideinn.com/about",
+   "evidence": "About - Drift Oceanside Inn Home About Us Accommodations Area Attractions Policies FAQ 207-706-9443 Email Us 80 Beloin Road Camden, ME",
+   "owner": ""
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "ZIP code not found or invalid in source; left blank.",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0291",
+  "address": {
+   "id": "ME-0291",
+   "street": "4 Belmont Ave",
+   "city": "Camden",
+   "state": "ME",
+   "postal_code": "04843",
+   "full_address": "4 Belmont Ave, Camden, ME 04843",
+   "source_url": "https://penobscotbaymaine.com/businesses/green-gables-inn/",
+   "evidence": "4 Belmont Ave, Camden, ME 04843, USA",
+   "official": false,
+   "notes": "",
+   "method": "Reviewed public listing evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0292",
+  "address": {
+   "id": "ME-0292",
+   "street": "2143 Atlantic Highway, Route 1",
+   "city": "Lincolnville",
+   "state": "ME",
+   "postal_code": "04849",
+   "full_address": "2143 Atlantic Highway, Route 1, Lincolnville, ME 04849",
+   "source_url": "https://www.glenmoorbythesea.com/contact-us.html",
+   "evidence": "2143 Atlantic Highway, Route 1 Lincolnville, ME 04849",
+   "official": true,
+   "notes": "",
+   "method": "Reviewed official website evidence",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published on official website",
+  "notes": "",
+  "checkedOn": "2026-10-25"
+ }
+]

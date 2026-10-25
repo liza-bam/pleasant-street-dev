@@ -57,7 +57,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0064",
@@ -117,7 +118,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0120",
@@ -177,7 +179,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0180",
@@ -220,7 +223,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0122",
@@ -280,7 +284,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0227",
@@ -323,7 +328,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0207",
@@ -383,7 +389,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0123",
@@ -439,7 +446,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0208",
@@ -499,7 +507,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0124",
@@ -542,7 +551,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0112",
@@ -602,7 +612,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0101",
@@ -650,7 +661,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0218",
@@ -710,7 +722,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0287",
@@ -770,7 +783,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0012",
@@ -830,7 +844,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0102",
@@ -890,7 +905,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0219",
@@ -946,7 +962,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0035",
@@ -989,7 +1006,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0082",
@@ -1032,7 +1050,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0191",
@@ -1084,7 +1103,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0133",
@@ -1140,7 +1160,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0077",
@@ -1200,7 +1221,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0125",
@@ -1260,7 +1282,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0009",
@@ -1316,7 +1339,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0003",
@@ -1368,7 +1392,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0262",
@@ -1428,7 +1453,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0070",
@@ -1488,7 +1514,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0071",
@@ -1548,7 +1575,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0004",
@@ -1591,7 +1619,8 @@
    "notes": "Third-party business listing; current operator address unverified."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0058",
@@ -1639,7 +1668,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0265",
@@ -1682,7 +1712,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0095",
@@ -1730,7 +1761,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0148",
@@ -1790,7 +1822,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0229",
@@ -1846,7 +1879,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0230",
@@ -1906,7 +1940,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0231",
@@ -1966,7 +2001,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0062",
@@ -2026,7 +2062,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0238",
@@ -2086,7 +2123,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0234",
@@ -2129,7 +2167,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0144",
@@ -2181,7 +2220,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0055",
@@ -2229,7 +2269,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0134",
@@ -2289,7 +2330,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-boston-commonwealth",
@@ -2410,7 +2452,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0145",
@@ -2470,7 +2513,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0245",
@@ -2530,7 +2574,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0159",
@@ -2590,7 +2635,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0263",
@@ -2633,7 +2679,8 @@
    "notes": "Town not present in the published structured address; not inferred."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0143",
@@ -2693,7 +2740,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0038",
@@ -2741,7 +2789,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0013",
@@ -2797,7 +2846,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0068",
@@ -2857,7 +2907,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0275",
@@ -2917,7 +2968,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0045",
@@ -2960,7 +3012,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-cape-ann-special",
@@ -3125,7 +3178,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0056",
@@ -3185,7 +3239,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-chicago-mcm",
@@ -3306,7 +3361,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0154",
@@ -3366,7 +3422,8 @@
    "notes": "Website lists multiple properties: Lakeside House at 181 West Shore Road and Lakeside Cottage at 184 West Shore Road, Farmington. See address-manifest.json."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0169",
@@ -3409,7 +3466,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0247",
@@ -3452,7 +3510,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0168",
@@ -3500,7 +3559,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0248",
@@ -3543,7 +3603,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0258",
@@ -3599,7 +3660,8 @@
    "notes": "Town not present in the published structured address; not inferred. ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0078",
@@ -3642,7 +3704,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0232",
@@ -3685,7 +3748,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0098",
@@ -3728,7 +3792,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0010",
@@ -3780,7 +3845,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0028",
@@ -3823,7 +3889,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0052",
@@ -3883,7 +3950,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0083",
@@ -3935,7 +4003,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0039",
@@ -3991,7 +4060,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0206",
@@ -4051,7 +4121,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0043",
@@ -4094,7 +4165,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0250",
@@ -4154,7 +4226,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0138",
@@ -4214,7 +4287,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0290",
@@ -4274,7 +4348,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0199",
@@ -4317,7 +4392,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0171",
@@ -4360,7 +4436,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0040",
@@ -4420,7 +4497,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0152",
@@ -4463,7 +4541,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0030",
@@ -4523,7 +4602,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0031",
@@ -4583,7 +4663,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0107",
@@ -4626,7 +4707,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0126",
@@ -4686,7 +4768,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0172",
@@ -4746,7 +4829,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0084",
@@ -4789,7 +4873,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0184",
@@ -4832,7 +4917,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0117",
@@ -4892,7 +4978,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0108",
@@ -4952,7 +5039,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0109",
@@ -5012,7 +5100,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-florida-pool-home",
@@ -5133,7 +5222,8 @@
    "notes": "Website publishes a Maryland contact address; this is not the Maine rental location."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0041",
@@ -5176,7 +5266,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0288",
@@ -5236,7 +5327,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0243",
@@ -5296,7 +5388,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0292",
@@ -5339,7 +5432,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0036",
@@ -5382,7 +5476,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0046",
@@ -5442,7 +5537,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0091",
@@ -5485,7 +5581,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0100",
@@ -5545,7 +5642,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0156",
@@ -5605,7 +5703,8 @@
    "notes": "Dysart’s Marina arrival / transfer point. The island house street address was not found publicly."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0291",
@@ -5648,7 +5747,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0164",
@@ -5691,7 +5791,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0155",
@@ -5734,7 +5835,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0209",
@@ -5782,7 +5884,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0116",
@@ -5842,7 +5945,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0162",
@@ -5894,7 +5998,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0151",
@@ -5950,7 +6055,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0214",
@@ -6010,7 +6116,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0097",
@@ -6070,7 +6177,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0075",
@@ -6130,7 +6238,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0051",
@@ -6190,7 +6299,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0228",
@@ -6250,7 +6360,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0103",
@@ -6302,7 +6413,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0212",
@@ -6345,7 +6457,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0213",
@@ -6405,7 +6518,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0165",
@@ -6461,7 +6575,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0099",
@@ -6504,7 +6619,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0149",
@@ -6564,7 +6680,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0268",
@@ -6624,7 +6741,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0276",
@@ -6684,7 +6802,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0042",
@@ -6744,7 +6863,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0063",
@@ -6787,7 +6907,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0060",
@@ -6847,7 +6968,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-kawaii-beach-house",
@@ -6951,7 +7073,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0127",
@@ -6994,7 +7117,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0080",
@@ -7037,7 +7161,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0111",
@@ -7080,7 +7205,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0170",
@@ -7140,7 +7266,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0160",
@@ -7200,7 +7327,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0269",
@@ -7243,7 +7371,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0057",
@@ -7286,7 +7415,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0253",
@@ -7346,7 +7476,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0277",
@@ -7406,7 +7537,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-lake-champlain-place",
@@ -7527,7 +7659,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0025",
@@ -7587,7 +7720,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0026",
@@ -7647,7 +7781,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0279",
@@ -7703,7 +7838,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0092",
@@ -7746,7 +7882,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0001",
@@ -7806,7 +7943,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0196",
@@ -7862,7 +8000,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0256",
@@ -7905,7 +8044,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0157",
@@ -7965,7 +8105,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0110",
@@ -8025,7 +8166,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0053",
@@ -8073,7 +8215,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0014",
@@ -8133,7 +8276,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0076",
@@ -8181,7 +8325,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0204",
@@ -8224,7 +8369,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0121",
@@ -8284,7 +8430,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0174",
@@ -8344,7 +8491,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0175",
@@ -8396,7 +8544,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0032",
@@ -8444,7 +8593,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0085",
@@ -8487,7 +8637,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0073",
@@ -8547,7 +8698,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0283",
@@ -8607,7 +8759,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0202",
@@ -8667,7 +8820,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0142",
@@ -8710,7 +8864,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0140",
@@ -8753,7 +8908,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0177",
@@ -8809,7 +8965,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0273",
@@ -8869,7 +9026,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0257",
@@ -8929,7 +9087,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0147",
@@ -8981,7 +9140,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0021",
@@ -9041,7 +9201,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0259",
@@ -9093,7 +9254,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0008",
@@ -9153,7 +9315,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0285",
@@ -9196,7 +9359,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0239",
@@ -9239,7 +9403,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0240",
@@ -9299,7 +9464,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0069",
@@ -9359,7 +9525,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0183",
@@ -9419,7 +9586,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0011",
@@ -9479,7 +9647,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0201",
@@ -9522,7 +9691,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0210",
@@ -9565,7 +9735,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0128",
@@ -9625,7 +9796,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-miami-fam-stay",
@@ -9729,7 +9901,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-mission-base",
@@ -9768,10 +9941,6 @@
    },
    {
     "file": "images/demos/LAZY-mission-base-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/demos/LAZY-mission-base-002.webp",
     "role": "photo"
    }
   ],
@@ -9842,7 +10011,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0167",
@@ -9902,7 +10072,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0136",
@@ -9945,7 +10116,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0048",
@@ -10005,7 +10177,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0049",
@@ -10065,7 +10238,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0252",
@@ -10113,7 +10287,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0266",
@@ -10173,7 +10348,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0261",
@@ -10233,7 +10409,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0089",
@@ -10281,7 +10458,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0067",
@@ -10324,7 +10502,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-nashville-crow-nest",
@@ -10441,7 +10620,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-nyc-midtown-city-loft",
@@ -10562,7 +10742,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0065",
@@ -10622,7 +10803,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0086",
@@ -10665,7 +10847,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0141",
@@ -10708,7 +10891,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-noe-valley-studio",
@@ -10829,7 +11013,8 @@
    "notes": "Street published without a house number; not an exact property address."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0050",
@@ -10872,7 +11057,8 @@
    "notes": "Address appears in website copy; property identity remains unverified. ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0029",
@@ -10932,7 +11118,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0016",
@@ -10992,7 +11179,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0222",
@@ -11044,7 +11232,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0194",
@@ -11104,7 +11293,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0129",
@@ -11164,7 +11354,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0192",
@@ -11224,7 +11415,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0264",
@@ -11280,7 +11472,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0271",
@@ -11323,7 +11516,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0211",
@@ -11366,7 +11560,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0033",
@@ -11418,7 +11613,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0235",
@@ -11461,7 +11657,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-philly-home",
@@ -11493,10 +11690,6 @@
    {
     "file": "images/demos/LAZY-philly-home-cover.webp",
     "role": "cover"
-   },
-   {
-    "file": "images/demos/LAZY-philly-home-000.webp",
-    "role": "photo"
    },
    {
     "file": "images/demos/LAZY-philly-home-001.webp",
@@ -11582,7 +11775,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0178",
@@ -11642,7 +11836,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Unknown",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0020",
@@ -11685,7 +11880,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0034",
@@ -11745,7 +11941,8 @@
    "notes": "Official contact page gives 17 Pond Brook Road. A tourism listing gives 21 Pond Brook Rd; use official source pending confirmation."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0135",
@@ -11805,7 +12002,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0251",
@@ -11848,7 +12046,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0087",
@@ -11908,7 +12107,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0267",
@@ -11951,7 +12151,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0130",
@@ -12007,7 +12208,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0225",
@@ -12067,7 +12269,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0118",
@@ -12127,7 +12330,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0198",
@@ -12187,7 +12391,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0272",
@@ -12230,7 +12435,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0093",
@@ -12290,7 +12496,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0260",
@@ -12333,7 +12540,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0017",
@@ -12376,7 +12584,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0131",
@@ -12432,7 +12641,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0054",
@@ -12492,7 +12702,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0289",
@@ -12552,7 +12763,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0236",
@@ -12612,7 +12824,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0246",
@@ -12672,7 +12885,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0200",
@@ -12732,7 +12946,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0182",
@@ -12792,7 +13007,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0193",
@@ -12844,7 +13060,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0079",
@@ -12892,7 +13109,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0002",
@@ -12952,7 +13170,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0241",
@@ -13012,7 +13231,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0137",
@@ -13072,7 +13292,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0119",
@@ -13120,7 +13341,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0223",
@@ -13176,7 +13398,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0254",
@@ -13236,7 +13459,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0153",
@@ -13296,7 +13520,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0274",
@@ -13356,7 +13581,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0005",
@@ -13416,7 +13642,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0104",
@@ -13476,7 +13703,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0205",
@@ -13519,7 +13747,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0044",
@@ -13579,7 +13808,8 @@
    "notes": "Public third-party listing; unverified against official website."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0150",
@@ -13622,7 +13852,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0181",
@@ -13678,7 +13909,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0185",
@@ -13738,7 +13970,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0179",
@@ -13798,7 +14031,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0132",
@@ -13858,7 +14092,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0105",
@@ -13918,7 +14153,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0173",
@@ -13961,7 +14197,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0270",
@@ -14021,7 +14258,8 @@
    "notes": "Supplied website redirects to Vacasa; Oregon corporate address, not a Maine property location."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0027",
@@ -14081,7 +14319,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0197",
@@ -14124,7 +14363,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0215",
@@ -14180,7 +14420,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0081",
@@ -14240,7 +14481,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-tahoe-cabin",
@@ -14344,7 +14586,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0217",
@@ -14404,7 +14647,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0203",
@@ -14464,7 +14708,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0114",
@@ -14524,7 +14769,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0015",
@@ -14576,7 +14822,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0186",
@@ -14636,7 +14883,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0220",
@@ -14679,7 +14927,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0280",
@@ -14739,7 +14988,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0019",
@@ -14799,7 +15049,8 @@
    "notes": "ZIP code not found or invalid in source; left blank."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0024",
@@ -14859,7 +15110,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0163",
@@ -14919,7 +15171,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0166",
@@ -14979,7 +15232,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0146",
@@ -15031,7 +15285,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0190",
@@ -15091,7 +15346,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0113",
@@ -15147,7 +15403,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0072",
@@ -15207,7 +15464,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0096",
@@ -15267,7 +15525,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0006",
@@ -15327,7 +15586,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0187",
@@ -15375,7 +15635,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0094",
@@ -15435,7 +15696,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0088",
@@ -15495,7 +15757,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0074",
@@ -15555,7 +15818,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0281",
@@ -15598,7 +15862,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0189",
@@ -15658,7 +15923,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0023",
@@ -15718,7 +15984,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0237",
@@ -15761,7 +16028,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0216",
@@ -15821,7 +16089,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0284",
@@ -15864,7 +16133,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "LAZY-virginia-cottage",
@@ -15985,7 +16255,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0115",
@@ -16045,7 +16316,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0047",
@@ -16088,7 +16360,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0224",
@@ -16148,7 +16421,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0158",
@@ -16196,7 +16470,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0176",
@@ -16256,7 +16531,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0037",
@@ -16312,7 +16588,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0018",
@@ -16364,7 +16641,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0282",
@@ -16407,7 +16685,8 @@
    "notes": "No reliable public street or mailing address found in the checked website and search results."
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0161",
@@ -16467,7 +16746,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0195",
@@ -16515,7 +16795,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0007",
@@ -16575,7 +16856,8 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  },
  {
   "id": "ME-0226",
@@ -16635,6 +16917,7 @@
    "notes": "Unknown"
   },
   "locationPrecision": "Town / area approximate",
-  "featured": false
+  "featured": false,
+  "demo": false
  }
 ]

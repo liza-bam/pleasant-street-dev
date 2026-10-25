@@ -1,0 +1,954 @@
+{
+ "Ashland, ME, USA": {
+  "lat": 46.6309,
+  "lng": -68.4037,
+  "source": "https://nominatim.openstreetmap.org/search?q=Ashland%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Ashland, Aroostook County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Bar Harbor, ME, USA": {
+  "lat": 44.3876,
+  "lng": -68.2043,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Bar Harbor, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Bailey Island, ME, USA": {
+  "lat": 43.7336,
+  "lng": -69.9943,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bailey+Island%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Bailey Island, Harpswell, Cumberland County, Maine, 04003, United States",
+  "checked": "2026-10-25"
+ },
+ "Bass Harbor, ME, USA": {
+  "lat": 44.2401,
+  "lng": -68.3439,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bass+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Bass Harbor, Tremont, Hancock County, Maine, 04653, United States",
+  "checked": "2026-10-25"
+ },
+ "Belgrade Lakes, ME, USA": {
+  "lat": 44.5265,
+  "lng": -69.887,
+  "source": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Belgrade Lakes, Belgrade, Kennebec County, Maine, 04918, United States",
+  "checked": "2026-10-25"
+ },
+ "Boothbay, ME, USA": {
+  "lat": 43.8752,
+  "lng": -69.6339,
+  "source": "https://nominatim.openstreetmap.org/search?q=Boothbay%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Boothbay, Lincoln County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Bremen, ME, USA": {
+  "lat": 44.0381,
+  "lng": -69.4149,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bremen%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Bremen, Lincoln County, Maine, 04551, United States",
+  "checked": "2026-10-25"
+ },
+ "Brooklin, ME, USA": {
+  "lat": 44.2661,
+  "lng": -68.5691,
+  "source": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Brooklin, Hancock County, Maine, 04616, United States",
+  "checked": "2026-10-25"
+ },
+ "Brooksville, ME, USA": {
+  "lat": 44.3469,
+  "lng": -68.6838,
+  "source": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Brooksville, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Brownville, ME, USA": {
+  "lat": 45.35,
+  "lng": -69.0514,
+  "source": "https://nominatim.openstreetmap.org/search?q=Brownville%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Brownville, Piscataquis County, Maine, 04414, United States",
+  "checked": "2026-10-25"
+ },
+ "Burnham, ME, USA": {
+  "lat": 44.6928,
+  "lng": -69.4275,
+  "source": "https://nominatim.openstreetmap.org/search?q=Burnham%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Burnham, Waldo County, Maine, 04922, United States",
+  "checked": "2026-10-25"
+ },
+ "Calais, ME, USA": {
+  "lat": 45.189,
+  "lng": -67.2781,
+  "source": "https://nominatim.openstreetmap.org/search?q=Calais%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Calais, Washington County, Maine, 04619, United States",
+  "checked": "2026-10-25"
+ },
+ "Caratunk, ME, USA": {
+  "lat": 45.234,
+  "lng": -69.9916,
+  "source": "https://nominatim.openstreetmap.org/search?q=Caratunk%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Caratunk, Somerset County, Maine, 04925, United States",
+  "checked": "2026-10-25"
+ },
+ "Caribou, ME, USA": {
+  "lat": 46.8606,
+  "lng": -68.0117,
+  "source": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Caribou, Aroostook County, Maine, 04736, United States",
+  "checked": "2026-10-25"
+ },
+ "Casco, ME, USA": {
+  "lat": 44.0061,
+  "lng": -70.5225,
+  "source": "https://nominatim.openstreetmap.org/search?q=Casco%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Casco, Cumberland County, Maine, 04015, United States",
+  "checked": "2026-10-25"
+ },
+ "Damariscotta, ME, USA": {
+  "lat": 44.0328,
+  "lng": -69.5315,
+  "source": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Damariscotta, Lincoln County, Maine, 04543, United States",
+  "checked": "2026-10-25"
+ },
+ "Damariscotta Lake, ME, USA": {
+  "lat": 44.1316,
+  "lng": -69.4862,
+  "source": "https://nominatim.openstreetmap.org/search?q=Damariscotta+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Damariscotta Lake, Jefferson, Lincoln County, Maine, 04348, United States",
+  "checked": "2026-10-25"
+ },
+ "Danforth, ME, USA": {
+  "lat": 45.6597,
+  "lng": -67.867,
+  "source": "https://nominatim.openstreetmap.org/search?q=Danforth%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Danforth, Washington County, Maine, 04424, United States",
+  "checked": "2026-10-25"
+ },
+ "Denmark, ME, USA": {
+  "lat": 43.9707,
+  "lng": -70.8035,
+  "source": "https://nominatim.openstreetmap.org/search?q=Denmark%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Denmark, Oxford County, Maine, 04022, United States",
+  "checked": "2026-10-25"
+ },
+ "Eagle Lake, ME, USA": {
+  "lat": 47.0401,
+  "lng": -68.5963,
+  "source": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Eagle Lake, Aroostook County, Maine, 04739, United States",
+  "checked": "2026-10-25"
+ },
+ "Ellsworth, ME, USA": {
+  "lat": 44.5415,
+  "lng": -68.4244,
+  "source": "https://nominatim.openstreetmap.org/search?q=Ellsworth%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Ellsworth, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Forest City, ME, USA": {
+  "lat": 45.6598,
+  "lng": -67.7297,
+  "source": "https://nominatim.openstreetmap.org/search?q=Forest+City%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Forest City Township, Washington County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Fort Kent, ME, USA": {
+  "lat": 47.2559,
+  "lng": -68.5905,
+  "source": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Fort Kent, Aroostook County, Maine, 04743, United States",
+  "checked": "2026-10-25"
+ },
+ "Freeport, ME, USA": {
+  "lat": 43.8573,
+  "lng": -70.1028,
+  "source": "https://nominatim.openstreetmap.org/search?q=Freeport%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Freeport, Cumberland County, Maine, 04032, United States",
+  "checked": "2026-10-25"
+ },
+ "Georgetown, ME, USA": {
+  "lat": 43.8043,
+  "lng": -69.7555,
+  "source": "https://nominatim.openstreetmap.org/search?q=Georgetown%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Georgetown, Sagadahoc County, Maine, 04548, United States",
+  "checked": "2026-10-25"
+ },
+ "Grand Lake Stream, ME, USA": {
+  "lat": 45.1789,
+  "lng": -67.775,
+  "source": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Grand Lake Stream, Washington County, Maine, 04637, United States",
+  "checked": "2026-10-25"
+ },
+ "Greenville, ME, USA": {
+  "lat": 45.459,
+  "lng": -69.5917,
+  "source": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Greenville, Piscataquis County, Maine, 04441, United States",
+  "checked": "2026-10-25"
+ },
+ "Harborside, ME, USA": {
+  "lat": 44.349,
+  "lng": -68.8156,
+  "source": "https://nominatim.openstreetmap.org/search?q=Harborside%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Harborside, Brooksville, Hancock County, Maine, 04642, United States",
+  "checked": "2026-10-25"
+ },
+ "Jackman, ME, USA": {
+  "lat": 45.6238,
+  "lng": -70.254,
+  "source": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Jackman, Somerset County, Maine, 04945, United States",
+  "checked": "2026-10-25"
+ },
+ "Jonesboro, ME, USA": {
+  "lat": 44.6626,
+  "lng": -67.5725,
+  "source": "https://nominatim.openstreetmap.org/search?q=Jonesboro%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Jonesboro, Washington County, Maine, 04648, United States",
+  "checked": "2026-10-25"
+ },
+ "Kingfield, ME, USA": {
+  "lat": 44.9595,
+  "lng": -70.1546,
+  "source": "https://nominatim.openstreetmap.org/search?q=Kingfield%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Kingfield, Franklin County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Kokadjo, ME, USA": {
+  "lat": 45.6712,
+  "lng": -69.447,
+  "source": "https://nominatim.openstreetmap.org/search?q=Kokadjo%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Kokadjo, Frenchtown Township, Piscataquis County, Maine, 04441, United States",
+  "checked": "2026-10-25"
+ },
+ "Lincolnville, ME, USA": {
+  "lat": 44.2812,
+  "lng": -69.0086,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Lincolnville, Waldo County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Medway, ME, USA": {
+  "lat": 45.6089,
+  "lng": -68.5309,
+  "source": "https://nominatim.openstreetmap.org/search?q=Medway%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Medway, Penobscot County, Maine, 04460, United States",
+  "checked": "2026-10-25"
+ },
+ "Millinocket, ME, USA": {
+  "lat": 45.6487,
+  "lng": -68.6849,
+  "source": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Millinocket, Penobscot County, Maine, 04462, United States",
+  "checked": "2026-10-25"
+ },
+ "Monson, ME, USA": {
+  "lat": 45.2874,
+  "lng": -69.5016,
+  "source": "https://nominatim.openstreetmap.org/search?q=Monson%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Monson, Piscataquis County, Maine, 04464, United States",
+  "checked": "2026-10-25"
+ },
+ "Moose River, ME, USA": {
+  "lat": 45.6528,
+  "lng": -70.2662,
+  "source": "https://nominatim.openstreetmap.org/search?q=Moose+River%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Moose River, Somerset County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Mount Chase, ME, USA": {
+  "lat": 46.0651,
+  "lng": -68.533,
+  "source": "https://nominatim.openstreetmap.org/search?q=Mount+Chase%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Mount Chase, Penobscot County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Mount Vernon, ME, USA": {
+  "lat": 44.5009,
+  "lng": -69.9877,
+  "source": "https://nominatim.openstreetmap.org/search?q=Mount+Vernon%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Mount Vernon, Kennebec County, Maine, 04352, United States",
+  "checked": "2026-10-25"
+ },
+ "Multiple Maine locations, ME, USA": {
+  "lat": null,
+  "lng": null,
+  "source": "https://nominatim.openstreetmap.org/search?q=Multiple+Maine+locations%2C+ME%2C+USA&format=json&limit=1",
+  "label": "",
+  "checked": "2026-10-25"
+ },
+ "Naples, ME, USA": {
+  "lat": 43.9695,
+  "lng": -70.6051,
+  "source": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Naples, Cumberland County, Maine, 04055, United States",
+  "checked": "2026-10-25"
+ },
+ "New Harbor, ME, USA": {
+  "lat": 43.8734,
+  "lng": -69.5007,
+  "source": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "label": "New Harbor, Bristol, Lincoln County, Maine, 04554, United States",
+  "checked": "2026-10-25"
+ },
+ "North Maine Woods, ME, USA": {
+  "lat": null,
+  "lng": null,
+  "source": "https://nominatim.openstreetmap.org/search?q=North+Maine+Woods%2C+ME%2C+USA&format=json&limit=1",
+  "label": "",
+  "checked": "2026-10-25"
+ },
+ "Northern Aroostook, ME, USA": {
+  "lat": 47.2869,
+  "lng": -68.3142,
+  "source": "https://nominatim.openstreetmap.org/search?q=Northern+Aroostook%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Northern Aroostook Regional Airport, 74, Airport Avenue, Frenchville, Aroostook County, Maine, 04745, United States",
+  "checked": "2026-10-25"
+ },
+ "Norway, ME, USA": {
+  "lat": 44.2136,
+  "lng": -70.5423,
+  "source": "https://nominatim.openstreetmap.org/search?q=Norway%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Norway, Oxford County, Maine, 04268, United States",
+  "checked": "2026-10-25"
+ },
+ "Ogunquit, ME, USA": {
+  "lat": 43.249,
+  "lng": -70.5992,
+  "source": "https://nominatim.openstreetmap.org/search?q=Ogunquit%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Ogunquit, York County, Maine, 03907, United States",
+  "checked": "2026-10-25"
+ },
+ "Oquossoc, ME, USA": {
+  "lat": 44.9661,
+  "lng": -70.7725,
+  "source": "https://nominatim.openstreetmap.org/search?q=Oquossoc%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Oquossoc, Rangeley, Franklin County, Maine, 04964, United States",
+  "checked": "2026-10-25"
+ },
+ "Patten, ME, USA": {
+  "lat": 45.9961,
+  "lng": -68.4473,
+  "source": "https://nominatim.openstreetmap.org/search?q=Patten%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Patten, Penobscot County, Maine, 04765, United States",
+  "checked": "2026-10-25"
+ },
+ "Pemaquid, ME, USA": {
+  "lat": 43.9053,
+  "lng": -69.5071,
+  "source": "https://nominatim.openstreetmap.org/search?q=Pemaquid%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Pemaquid, Bristol, Lincoln County, Maine, 04558, United States",
+  "checked": "2026-10-25"
+ },
+ "Perry, ME, USA": {
+  "lat": 44.9729,
+  "lng": -67.0748,
+  "source": "https://nominatim.openstreetmap.org/search?q=Perry%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Perry, Washington County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Phippsburg, ME, USA": {
+  "lat": 43.8206,
+  "lng": -69.8148,
+  "source": "https://nominatim.openstreetmap.org/search?q=Phippsburg%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Phippsburg, Sagadahoc County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Presque Isle, ME, USA": {
+  "lat": 46.6812,
+  "lng": -68.0155,
+  "source": "https://nominatim.openstreetmap.org/search?q=Presque+Isle%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Presque Isle, Aroostook County, Maine, 04769, United States",
+  "checked": "2026-10-25"
+ },
+ "Rangeley, ME, USA": {
+  "lat": 44.9653,
+  "lng": -70.643,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Rangeley, Franklin County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Rangeley Lake, ME, USA": {
+  "lat": 44.95,
+  "lng": -70.6992,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rangeley+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Rangeley Lake, Rangeley, Franklin County, Maine, 04970, United States",
+  "checked": "2026-10-25"
+ },
+ "Rockwood, ME, USA": {
+  "lat": 45.6778,
+  "lng": -69.7409,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Rockwood, Rockwood Strip T1 R1 NBKP, Somerset County, Maine, 04478, United States",
+  "checked": "2026-10-25"
+ },
+ "Rome, ME, USA": {
+  "lat": 44.5851,
+  "lng": -69.8696,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rome%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Rome, Kennebec County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Round Pond, ME, USA": {
+  "lat": 43.9478,
+  "lng": -69.4605,
+  "source": "https://nominatim.openstreetmap.org/search?q=Round+Pond%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Round Pond, Bristol, Lincoln County, Maine, 04564, United States",
+  "checked": "2026-10-25"
+ },
+ "Scarborough, ME, USA": {
+  "lat": 43.59,
+  "lng": -70.3346,
+  "source": "https://nominatim.openstreetmap.org/search?q=Scarborough%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Scarborough, Cumberland County, Maine, 04074, United States",
+  "checked": "2026-10-25"
+ },
+ "South Hiram, ME, USA": {
+  "lat": 43.813,
+  "lng": -70.8772,
+  "source": "https://nominatim.openstreetmap.org/search?q=South+Hiram%2C+ME%2C+USA&format=json&limit=1",
+  "label": "South Hiram, Hiram, Oxford County, Maine, 04041, United States",
+  "checked": "2026-10-25"
+ },
+ "South Thomaston, ME, USA": {
+  "lat": 44.0515,
+  "lng": -69.1278,
+  "source": "https://nominatim.openstreetmap.org/search?q=South+Thomaston%2C+ME%2C+USA&format=json&limit=1",
+  "label": "South Thomaston, Knox County, Maine, 04858, United States",
+  "checked": "2026-10-25"
+ },
+ "Southport, ME, USA": {
+  "lat": 43.8407,
+  "lng": -69.656,
+  "source": "https://nominatim.openstreetmap.org/search?q=Southport%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Southport, Lincoln County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Southwest Harbor, ME, USA": {
+  "lat": 44.2798,
+  "lng": -68.3259,
+  "source": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Southwest Harbor, Hancock County, Maine, 04679, United States",
+  "checked": "2026-10-25"
+ },
+ "Standish, ME, USA": {
+  "lat": 43.7359,
+  "lng": -70.5515,
+  "source": "https://nominatim.openstreetmap.org/search?q=Standish%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Standish, Cumberland County, Maine, 04084, United States",
+  "checked": "2026-10-25"
+ },
+ "Stockton Springs, ME, USA": {
+  "lat": 44.4895,
+  "lng": -68.857,
+  "source": "https://nominatim.openstreetmap.org/search?q=Stockton+Springs%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Stockton Springs, Waldo County, Maine, 04981, United States",
+  "checked": "2026-10-25"
+ },
+ "Stonington, ME, USA": {
+  "lat": 44.1566,
+  "lng": -68.6673,
+  "source": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Stonington, Hancock County, Maine, 04681, United States",
+  "checked": "2026-10-25"
+ },
+ "Sullivan, ME, USA": {
+  "lat": 44.5204,
+  "lng": -68.1967,
+  "source": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Sullivan, Hancock County, Maine, 04664, United States",
+  "checked": "2026-10-25"
+ },
+ "Tenants Harbor, ME, USA": {
+  "lat": 43.9637,
+  "lng": -69.2034,
+  "source": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Tenants Harbor, Saint George, Knox County, Maine, 04860, United States",
+  "checked": "2026-10-25"
+ },
+ "The Forks, ME, USA": {
+  "lat": 45.3362,
+  "lng": -69.9673,
+  "source": "https://nominatim.openstreetmap.org/search?q=The+Forks%2C+ME%2C+USA&format=json&limit=1",
+  "label": "The Forks, Somerset County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Trenton, ME, USA": {
+  "lat": 44.4392,
+  "lng": -68.3707,
+  "source": "https://nominatim.openstreetmap.org/search?q=Trenton%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Trenton, Hancock County, Maine, 04705, United States",
+  "checked": "2026-10-25"
+ },
+ "Waldoboro, ME, USA": {
+  "lat": 44.1092,
+  "lng": -69.3741,
+  "source": "https://nominatim.openstreetmap.org/search?q=Waldoboro%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Waldoboro, Lincoln County, Maine, 04572, United States",
+  "checked": "2026-10-25"
+ },
+ "Wells, ME, USA": {
+  "lat": 43.322,
+  "lng": -70.5807,
+  "source": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Wells, York County, Maine, 04090, United States",
+  "checked": "2026-10-25"
+ },
+ "West Boothbay Harbor, ME, USA": {
+  "lat": 43.8503,
+  "lng": -69.6418,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "label": "West Boothbay Harbor, Boothbay Harbor, Lincoln County, Maine, 04575, United States",
+  "checked": "2026-10-25"
+ },
+ "Weston, ME, USA": {
+  "lat": 45.7358,
+  "lng": -67.8761,
+  "source": "https://nominatim.openstreetmap.org/search?q=Weston%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Weston, Aroostook County, Maine, 04424, United States",
+  "checked": "2026-10-25"
+ },
+ "York Beach, ME, USA": {
+  "lat": 43.1717,
+  "lng": -70.6089,
+  "source": "https://nominatim.openstreetmap.org/search?q=York+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "label": "York Beach, Cape Neddick, York, York County, Maine, 03910, United States",
+  "checked": "2026-10-25"
+ },
+ "Abbot, ME, USA": {
+  "lat": 45.1861,
+  "lng": -69.4524,
+  "source": "https://nominatim.openstreetmap.org/search?q=Abbot%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Abbot, Piscataquis County, Maine, 04406, United States",
+  "checked": "2026-10-25"
+ },
+ "Acadia region, ME, USA": {
+  "lat": null,
+  "lng": null,
+  "source": "https://nominatim.openstreetmap.org/search?q=Acadia+region%2C+ME%2C+USA&format=json&limit=1",
+  "label": "",
+  "checked": "2026-10-25"
+ },
+ "Bethel, ME, USA": {
+  "lat": 44.4059,
+  "lng": -70.7901,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Bethel, Oxford County, Maine, 04217, United States",
+  "checked": "2026-10-25"
+ },
+ "Boothbay Harbor, ME, USA": {
+  "lat": 43.8513,
+  "lng": -69.6278,
+  "source": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Boothbay Harbor, Lincoln County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Bridgton, ME, USA": {
+  "lat": 44.0544,
+  "lng": -70.7089,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bridgton%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Bridgton, Cumberland County, Maine, 04009, United States",
+  "checked": "2026-10-25"
+ },
+ "Brunswick, ME, USA": {
+  "lat": 43.9167,
+  "lng": -69.9659,
+  "source": "https://nominatim.openstreetmap.org/search?q=Brunswick%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Brunswick, Cumberland County, Maine, 04011, United States",
+  "checked": "2026-10-25"
+ },
+ "Buckfield, ME, USA": {
+  "lat": 44.2899,
+  "lng": -70.3654,
+  "source": "https://nominatim.openstreetmap.org/search?q=Buckfield%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Buckfield, Oxford County, Maine, 04220, United States",
+  "checked": "2026-10-25"
+ },
+ "Byron, ME, USA": {
+  "lat": 44.7202,
+  "lng": -70.6322,
+  "source": "https://nominatim.openstreetmap.org/search?q=Byron%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Byron, Oxford County, Maine, 04275, United States",
+  "checked": "2026-10-25"
+ },
+ "Camden, ME, USA": {
+  "lat": 44.2155,
+  "lng": -69.0852,
+  "source": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Camden, Knox County, Maine, 04843, United States",
+  "checked": "2026-10-25"
+ },
+ "Camp Ellis, ME, USA": {
+  "lat": 43.4637,
+  "lng": -70.3803,
+  "source": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Camp Ellis, Saco, York County, Maine, 04072, United States",
+  "checked": "2026-10-25"
+ },
+ "Cushing, ME, USA": {
+  "lat": 44.0195,
+  "lng": -69.24,
+  "source": "https://nominatim.openstreetmap.org/search?q=Cushing%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Cushing, Knox County, Maine, 04563, United States",
+  "checked": "2026-10-25"
+ },
+ "Dedham, ME, USA": {
+  "lat": 44.6917,
+  "lng": -68.662,
+  "source": "https://nominatim.openstreetmap.org/search?q=Dedham%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Dedham, Hancock County, Maine, 04429, United States",
+  "checked": "2026-10-25"
+ },
+ "Deer Isle, ME, USA": {
+  "lat": 44.224,
+  "lng": -68.6776,
+  "source": "https://nominatim.openstreetmap.org/search?q=Deer+Isle%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Deer Isle, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Downeast coast, ME, USA": {
+  "lat": null,
+  "lng": null,
+  "source": "https://nominatim.openstreetmap.org/search?q=Downeast+coast%2C+ME%2C+USA&format=json&limit=1",
+  "label": "",
+  "checked": "2026-10-25"
+ },
+ "East Boothbay, ME, USA": {
+  "lat": 43.864,
+  "lng": -69.585,
+  "source": "https://nominatim.openstreetmap.org/search?q=East+Boothbay%2C+ME%2C+USA&format=json&limit=1",
+  "label": "East Boothbay, Boothbay, Lincoln County, Maine, 04544, United States",
+  "checked": "2026-10-25"
+ },
+ "Farmington, ME, USA": {
+  "lat": 44.6706,
+  "lng": -70.1515,
+  "source": "https://nominatim.openstreetmap.org/search?q=Farmington%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Farmington, Franklin County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Frenchboro, ME, USA": {
+  "lat": 44.1181,
+  "lng": -68.3625,
+  "source": "https://nominatim.openstreetmap.org/search?q=Frenchboro%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Frenchboro, Hancock County, Maine, 04635, United States",
+  "checked": "2026-10-25"
+ },
+ "Gouldsboro, ME, USA": {
+  "lat": 44.4086,
+  "lng": -68.0263,
+  "source": "https://nominatim.openstreetmap.org/search?q=Gouldsboro%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Gouldsboro, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Greenville Junction, ME, USA": {
+  "lat": 45.4609,
+  "lng": -69.6162,
+  "source": "https://nominatim.openstreetmap.org/search?q=Greenville+Junction%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Greenville Junction, Greenville, Piscataquis County, Maine, 04441, United States",
+  "checked": "2026-10-25"
+ },
+ "Harpswell, ME, USA": {
+  "lat": 43.7995,
+  "lng": -69.9877,
+  "source": "https://nominatim.openstreetmap.org/search?q=Harpswell%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Harpswell, Cumberland County, Maine, 04079, United States",
+  "checked": "2026-10-25"
+ },
+ "Harrington, ME, USA": {
+  "lat": 44.6193,
+  "lng": -67.8104,
+  "source": "https://nominatim.openstreetmap.org/search?q=Harrington%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Harrington, Washington County, Maine, 04643, United States",
+  "checked": "2026-10-25"
+ },
+ "Islesboro, ME, USA": {
+  "lat": 44.2893,
+  "lng": -68.9082,
+  "source": "https://nominatim.openstreetmap.org/search?q=Islesboro%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Islesboro, Waldo County, Maine, 04848, United States",
+  "checked": "2026-10-25"
+ },
+ "Jefferson, ME, USA": {
+  "lat": 44.201,
+  "lng": -69.4564,
+  "source": "https://nominatim.openstreetmap.org/search?q=Jefferson%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Jefferson, Lincoln County, Maine, 04348, United States",
+  "checked": "2026-10-25"
+ },
+ "Kennebunk area, ME, USA": {
+  "lat": 43.4055,
+  "lng": -70.627,
+  "source": "https://nominatim.openstreetmap.org/search?q=Kennebunk+area%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Kennebunk Plains Wildlife Management Area, Kennebunk, York County, Maine, 04043, United States",
+  "checked": "2026-10-25"
+ },
+ "Kennebunkport, ME, USA": {
+  "lat": 43.3615,
+  "lng": -70.4771,
+  "source": "https://nominatim.openstreetmap.org/search?q=Kennebunkport%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Kennebunkport, York County, Maine, 04046, United States",
+  "checked": "2026-10-25"
+ },
+ "Lubec, ME, USA": {
+  "lat": 44.8612,
+  "lng": -66.9835,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Lubec, Washington County, Maine, 04652, United States",
+  "checked": "2026-10-25"
+ },
+ "Maine lake region, ME, USA": {
+  "lat": null,
+  "lng": null,
+  "source": "https://nominatim.openstreetmap.org/search?q=Maine+lake+region%2C+ME%2C+USA&format=json&limit=1",
+  "label": "",
+  "checked": "2026-10-25"
+ },
+ "Milbridge, ME, USA": {
+  "lat": 44.5354,
+  "lng": -67.8812,
+  "source": "https://nominatim.openstreetmap.org/search?q=Milbridge%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Milbridge, Washington County, Maine, 04658, United States",
+  "checked": "2026-10-25"
+ },
+ "Mount Desert Island, ME, USA": {
+  "lat": 44.3331,
+  "lng": -68.2408,
+  "source": "https://nominatim.openstreetmap.org/search?q=Mount+Desert+Island%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Mount Desert Island, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Newry, ME, USA": {
+  "lat": 44.4877,
+  "lng": -70.7877,
+  "source": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Newry, Oxford County, Maine, 04261, United States",
+  "checked": "2026-10-25"
+ },
+ "North Haven, ME, USA": {
+  "lat": 44.1276,
+  "lng": -68.8727,
+  "source": "https://nominatim.openstreetmap.org/search?q=North+Haven%2C+ME%2C+USA&format=json&limit=1",
+  "label": "North Haven, Knox County, Maine, 04853, United States",
+  "checked": "2026-10-25"
+ },
+ "Old Orchard Beach, ME, USA": {
+  "lat": 43.5076,
+  "lng": -70.3562,
+  "source": "https://nominatim.openstreetmap.org/search?q=Old+Orchard+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Old Orchard Beach, York County, Maine, 04064, United States",
+  "checked": "2026-10-25"
+ },
+ "Owls Head, ME, USA": {
+  "lat": 44.0823,
+  "lng": -69.0571,
+  "source": "https://nominatim.openstreetmap.org/search?q=Owls+Head%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Owls Head, Knox County, Maine, 04854, United States",
+  "checked": "2026-10-25"
+ },
+ "Peaks Island, ME, USA": {
+  "lat": 43.6625,
+  "lng": -70.188,
+  "source": "https://nominatim.openstreetmap.org/search?q=Peaks+Island%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Peaks Island, Portland, Cumberland County, Maine, 04108, United States",
+  "checked": "2026-10-25"
+ },
+ "Penobscot, ME, USA": {
+  "lat": 45.293,
+  "lng": -68.5958,
+  "source": "https://nominatim.openstreetmap.org/search?q=Penobscot%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Penobscot County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Rockland, ME, USA": {
+  "lat": 44.1048,
+  "lng": -69.1092,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Rockland, Knox County, Maine, 04841, United States",
+  "checked": "2026-10-25"
+ },
+ "Rockport, ME, USA": {
+  "lat": 44.1875,
+  "lng": -69.073,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Rockport, Knox County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Saco, ME, USA": {
+  "lat": 43.5007,
+  "lng": -70.443,
+  "source": "https://nominatim.openstreetmap.org/search?q=Saco%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Saco, York County, Maine, 04072, United States",
+  "checked": "2026-10-25"
+ },
+ "Sebago, ME, USA": {
+  "lat": 43.8915,
+  "lng": -70.6986,
+  "source": "https://nominatim.openstreetmap.org/search?q=Sebago%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Sebago, Cumberland County, Maine, 04029, United States",
+  "checked": "2026-10-25"
+ },
+ "Sebago Lake, ME, USA": {
+  "lat": 43.8456,
+  "lng": -70.5795,
+  "source": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Sebago Lake, Standish, Cumberland County, Maine, 04084, United States",
+  "checked": "2026-10-25"
+ },
+ "Spruce Head, ME, USA": {
+  "lat": 44.0114,
+  "lng": -69.1332,
+  "source": "https://nominatim.openstreetmap.org/search?q=Spruce+Head%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Spruce Head, South Thomaston, Knox County, Maine, 04858, United States",
+  "checked": "2026-10-25"
+ },
+ "Stoneham, ME, USA": {
+  "lat": 44.2505,
+  "lng": -70.8125,
+  "source": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Stoneham, Oxford County, Maine, 04231, United States",
+  "checked": "2026-10-25"
+ },
+ "Surry, ME, USA": {
+  "lat": 44.4959,
+  "lng": -68.5017,
+  "source": "https://nominatim.openstreetmap.org/search?q=Surry%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Surry, Hancock County, Maine, 04684, United States",
+  "checked": "2026-10-25"
+ },
+ "Vinalhaven, ME, USA": {
+  "lat": 44.0481,
+  "lng": -68.8317,
+  "source": "https://nominatim.openstreetmap.org/search?q=Vinalhaven%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Vinalhaven, Knox County, Maine, 04863, United States",
+  "checked": "2026-10-25"
+ },
+ "Belgrade, ME, USA": {
+  "lat": 44.4475,
+  "lng": -69.8332,
+  "source": "https://nominatim.openstreetmap.org/search?q=Belgrade%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Belgrade, Kennebec County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Blue Hill, ME, USA": {
+  "lat": 44.413,
+  "lng": -68.5881,
+  "source": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Blue Hill, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Blue Hill Peninsula, ME, USA": {
+  "lat": null,
+  "lng": null,
+  "source": "https://nominatim.openstreetmap.org/search?q=Blue+Hill+Peninsula%2C+ME%2C+USA&format=json&limit=1",
+  "label": "",
+  "checked": "2026-10-25"
+ },
+ "Boothbay Region, ME, USA": {
+  "lat": 43.8646,
+  "lng": -69.6313,
+  "source": "https://nominatim.openstreetmap.org/search?q=Boothbay+Region%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Boothbay Region Schools, 236-240, Townsend Avenue, West Boothbay Harbor, Boothbay Harbor, Lincoln County, Maine, 04538, United States",
+  "checked": "2026-10-25"
+ },
+ "Bucksport, ME, USA": {
+  "lat": 44.5719,
+  "lng": -68.7942,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bucksport%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Bucksport, Hancock County, Maine, 04416, United States",
+  "checked": "2026-10-25"
+ },
+ "Castine, ME, USA": {
+  "lat": 44.3878,
+  "lng": -68.7966,
+  "source": "https://nominatim.openstreetmap.org/search?q=Castine%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Castine, Hancock County, Maine, 04421, United States",
+  "checked": "2026-10-25"
+ },
+ "Coastal Maine, ME, USA": {
+  "lat": 44.6111,
+  "lng": -67.3012,
+  "source": "https://nominatim.openstreetmap.org/search?q=Coastal+Maine%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Maine Coastal Islands National Wildlife Refuge, Cutler, Washington County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Cumberland, ME, USA": {
+  "lat": 43.8506,
+  "lng": -70.4001,
+  "source": "https://nominatim.openstreetmap.org/search?q=Cumberland%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Cumberland County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Downeast Maine, ME, USA": {
+  "lat": 44.7077,
+  "lng": -67.4657,
+  "source": "https://nominatim.openstreetmap.org/search?q=Downeast+Maine%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Downeast District Public Health Liaison Maine CDC, 38, Prescott Drive, Machias, Washington County, Maine, 04654, United States",
+  "checked": "2026-10-25"
+ },
+ "Eastport, ME, USA": {
+  "lat": 44.905,
+  "lng": -66.9846,
+  "source": "https://nominatim.openstreetmap.org/search?q=Eastport%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Eastport, Washington County, Maine, 04631, United States",
+  "checked": "2026-10-25"
+ },
+ "Lincolnville Beach, ME, USA": {
+  "lat": 44.2823,
+  "lng": -69.0082,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lincolnville+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Lincolnville Beach, Lincolnville, Waldo County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Midcoast Maine, ME, USA": {
+  "lat": 43.8972,
+  "lng": -69.9248,
+  "source": "https://nominatim.openstreetmap.org/search?q=Midcoast+Maine%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Southern Maine Community College Midcoast Tennis Courts, Brunswick, Cumberland County, Maine, 04011, United States",
+  "checked": "2026-10-25"
+ },
+ "Mount Desert, ME, USA": {
+  "lat": 44.2937,
+  "lng": -68.2891,
+  "source": "https://nominatim.openstreetmap.org/search?q=Mount+Desert%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Mount Desert, Hancock County, Maine, United States",
+  "checked": "2026-10-25"
+ },
+ "Newcastle, ME, USA": {
+  "lat": 44.0342,
+  "lng": -69.5359,
+  "source": "https://nominatim.openstreetmap.org/search?q=Newcastle%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Newcastle, Lincoln County, Maine, 04553, United States",
+  "checked": "2026-10-25"
+ },
+ "Northport, ME, USA": {
+  "lat": 44.3379,
+  "lng": -68.9614,
+  "source": "https://nominatim.openstreetmap.org/search?q=Northport%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Northport, Waldo County, Maine, 04849, United States",
+  "checked": "2026-10-25"
+ },
+ "South Casco, ME, USA": {
+  "lat": 43.9145,
+  "lng": -70.5181,
+  "source": "https://nominatim.openstreetmap.org/search?q=South+Casco%2C+ME%2C+USA&format=json&limit=1",
+  "label": "South Casco, Casco, Cumberland County, Maine, 04015, United States",
+  "checked": "2026-10-25"
+ },
+ "Thomaston, ME, USA": {
+  "lat": 44.079,
+  "lng": -69.1832,
+  "source": "https://nominatim.openstreetmap.org/search?q=Thomaston%2C+ME%2C+USA&format=json&limit=1",
+  "label": "Thomaston, Knox County, Maine, 04861, United States",
+  "checked": "2026-10-25"
+ },
+ "York, ME, USA": {
+  "lat": 43.4229,
+  "lng": -70.6547,
+  "source": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1",
+  "label": "York County, Maine, United States",
+  "checked": "2026-10-25"
+ }
+}
