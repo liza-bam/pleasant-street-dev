@@ -42,6 +42,14 @@ Direct downloads after deployment:
 
 The source CSV retains original blank cells and verification notes. The normalized database uses explicit Unknown values. Importing local evidence does not count as a fresh live website-health check.
 
+## Vermont research and first publication batch
+
+The Vermont research starts from the Maine CSV's 41-column structure, with `Vermont location` replacing `Maine location` in the separate regional file. See `data/sources/vermont/vermont_independent_rental_websites.csv` for the master and the adjacent `vermont_candidates.csv` and `vermont_approved.csv` for separate inventories. Approval means checked website/direct-inquiry eligibility, not owner participation. Research, aggregator expansion, address checking and detail/photo follow-up passes are ongoing.
+
+`data/sources/vermont/approved-import.json` contains the first eight verified operator/property websites published for prototype testing. The existing Vermont LAZY demo remains separate. Source URLs, reviewed facts, address provenance and photo provenance are retained beside the CSVs. Raw page captures are local research material and are not published. New map positions are explicitly approximate town locations; an operator's office is not a verified address for every managed rental.
+
+Reapply reviewed facts/media with `python3 tools/prepare-vermont.py`, then import with `python3 tools/import.py data/sources/vermont/approved-import.json --source found`, rebuild with `node tools/build-index.mjs`, and check with `node tools/verify-catalog.mjs`. The existing Maine and demo records are preserved.
+
 ## Keeping the demos in sync
 
 `python3 tools/sync-demos.py` reads the 15 existing public demo websites and writes an allowlisted import under `data/sources/demos/`. Import it with `python3 tools/import.py data/sources/demos/catalog.json --source lazy`, then rebuild the index. The existing Monday/manual workflow runs this sync before its website-health check.

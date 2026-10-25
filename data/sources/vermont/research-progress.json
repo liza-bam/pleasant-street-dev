@@ -1,0 +1,96 @@
+{
+  "targetState": "Vermont",
+  "updatedOn": "2026-10-25",
+  "master": "vermont_independent_rental_websites.csv",
+  "template": "data/sources/maine/catalog.csv at origin/main after 2dee21a",
+  "templateColumns": 41,
+  "geographicHeaderMapping": {
+    "Maine location": "Vermont location"
+  },
+  "currentPass": "First verified batch prepared for live testing; full photo coverage and operator/aggregator audit continue",
+  "passes": {
+    "statewideDiscovery": {
+      "status": "Completed for official Cabins & Vacation Rentals category",
+      "directoryResults": 71,
+      "uniqueRecordsSaved": 71,
+      "pages": 6
+    },
+    "regionalDiscovery": {
+      "status": "In progress",
+      "openedDirectories": [
+        "Champlain Islands",
+        "Burke",
+        "Woodstock",
+        "Brandon",
+        "Mad River Glen"
+      ],
+      "remaining": [
+        "Other regional chambers and smaller rural destinations"
+      ]
+    },
+    "townSearch": {
+      "status": "In progress",
+      "queries": [
+        "Canaan Island Pond Vermont cabin cottage vacation rental book direct",
+        "Strafford Fairlee Vermont cottage vacation rental owner website",
+        "Enosburg Montgomery Vermont vacation rental cabin official website",
+        "Manchester Ludlow Vermont vacation rentals independent book direct"
+      ]
+    },
+    "aggregatorsAndPlatforms": {
+      "status": "In progress",
+      "searched": [
+        "Houfy",
+        "Staythere",
+        "Stay With Stay",
+        "Dtravel",
+        "DirectBookingHost",
+        "Lodgify",
+        "Guesty Bookings",
+        "OwnerRez",
+        "Hospitable"
+      ],
+      "note": "Searches are discovery only. No site qualifies from snippets alone."
+    },
+    "eligibility": {
+      "status": "In progress",
+      "verified": 8,
+      "remainingCandidates": 63
+    },
+    "details": {
+      "status": "In progress",
+      "reviewedRecords": 8
+    },
+    "photosAndAddresses": {
+      "status": "In progress",
+      "recordsWithPhotos": 8,
+      "totalResearchRecords": 71,
+      "priority": "Any usable, correctly attributed photos for every property; variety on later scans",
+      "notes": "Official contact/location pages reviewed for initial batch. Notch Lodges street address remains directory-only and is labeled accordingly."
+    },
+    "gapReview": {
+      "status": "Pending"
+    }
+  },
+  "countiesToCheck": [
+    "Addison",
+    "Bennington",
+    "Caledonia",
+    "Chittenden",
+    "Essex",
+    "Franklin",
+    "Grand Isle",
+    "Lamoille",
+    "Orange",
+    "Orleans",
+    "Rutland",
+    "Washington",
+    "Windham",
+    "Windsor"
+  ],
+  "scopeNotes": [
+    "Research inventory is not proof of owner participation.",
+    "Initial eight verified websites are being published for prototype testing. Remaining candidates are excluded from public imports.",
+    "Real property photos and separately labeled AI-generated illustrations are authorized."
+  ]
+}

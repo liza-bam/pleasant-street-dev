@@ -950,5 +950,61 @@
   "source": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1",
   "label": "York County, Maine, United States",
   "checked": "2026-10-25"
+ },
+ "Hartland, VT, USA": {
+  "lat": 43.5409,
+  "lng": -72.3991,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hartland%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Hartland, Windsor County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Colchester, VT, USA": {
+  "lat": 44.5341,
+  "lng": -73.1846,
+  "source": "https://nominatim.openstreetmap.org/search?q=Colchester%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Colchester, Chittenden County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Gaysville, VT, USA": {
+  "lat": 43.7779,
+  "lng": -72.6989,
+  "source": "https://nominatim.openstreetmap.org/search?q=Gaysville%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Gaysville, Stockbridge, Windsor County, Vermont, 05746, United States",
+  "checked": "2026-10-25"
+ },
+ "Stowe, VT, USA": {
+  "lat": 44.4644,
+  "lng": -72.6856,
+  "source": "https://nominatim.openstreetmap.org/search?q=Stowe%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Stowe, Lamoille County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Dover, VT, USA": {
+  "lat": 42.9395,
+  "lng": -72.8531,
+  "source": "https://nominatim.openstreetmap.org/search?q=Dover%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Dover, Windham County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Averill, VT, USA": {
+  "lat": 44.9379,
+  "lng": -71.6862,
+  "source": "https://nominatim.openstreetmap.org/search?q=Averill%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Averill, Essex County, Vermont, 05901, United States",
+  "checked": "2026-10-25"
+ },
+ "Jeffersonville, VT, USA": {
+  "lat": 44.6438,
+  "lng": -72.8294,
+  "source": "https://nominatim.openstreetmap.org/search?q=Jeffersonville%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Jeffersonville, Cambridge, Lamoille County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Ripton, VT, USA": {
+  "lat": 43.9738,
+  "lng": -73.0338,
+  "source": "https://nominatim.openstreetmap.org/search?q=Ripton%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Ripton, Addison County, Vermont, 05766, United States",
+  "checked": "2026-10-25"
  }
 }

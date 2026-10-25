@@ -39,6 +39,8 @@ Checked: 2026-10-25.
 
 ## Access blocks kept separate
 
+Connected-browser confirmation on 2026-10-25: `bayviewcottages.com` again returned `net::ERR_NAME_NOT_RESOLVED`. `willowrentalproperties.com` displayed Wix's disconnected-domain page instead of rental content. A responding hosting placeholder is not a working property website. Both remain excluded.
+
 HTTP 403/429 and bot challenges are not treated as proof that a property website is dead. Those records are not removed by this check.
 
 Detailed check URLs and results are retained in `bad-websites.json`.

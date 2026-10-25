@@ -7,12 +7,13 @@ import { execFileSync } from 'node:child_process';
 const root=path.resolve(path.dirname(new URL(import.meta.url).pathname),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
 const homes=read('data/homes.json'),source=read('data/sources/maine/catalog.json');
+const vermont=fs.existsSync(path.join(root,'data/sources/vermont/approved-import.json'))?read('data/sources/vermont/approved-import.json'):[];
 const street=read('street.json'),index=read('index.json');
 const excluded=read('data/sources/maine/bad-websites.json').map(h=>h.id);
 const replaced=read('data/sources/maine/operator-replacements.json').map(h=>h.id);
 const operators=read('data/sources/maine/operator-catalog.json');
 assert.equal(source.length,292-new Set([...excluded,...replaced]).size+operators.length);
-assert.equal(homes.length,source.length+15);
+assert.equal(homes.length,source.length+15+vermont.length);
 assert.equal(new Set(homes.map(h=>h.id)).size,homes.length);
 const key=url=>{const u=new URL(url);return u.host.replace(/^www\./,'')+u.pathname.replace(/\/$/,'')+(u.searchParams.has('PageDataID')?'?PageDataID='+u.searchParams.get('PageDataID'):(u.searchParams.has('reservation_unitId')?'?reservation_unitId='+u.searchParams.get('reservation_unitId'):''));};
 assert.equal(new Set(homes.map(h=>key(h.url))).size,homes.length);
@@ -28,6 +29,22 @@ for(const s of source){
  }
  for(const field of ['rooms','bedrooms','bathrooms','guests','kids','pets','type','description'])assert(h[field]!=='' && h[field]!=null,h.id+' empty '+field);
  for(const field of ['kids','pets'])assert(['Yes','No','Conditional','Unknown'].includes(h[field]));
+}
+for(const s of vermont){
+ const h=homes.find(x=>x.id===s.id);assert(h,'Missing Vermont record '+s.id);
+ for(const field of ['name','url','place','state','description','guests','kids','pets','capacityDetails','address','photos','sourceDetails','collectionStatus','missingRequiredFields'])assert.deepEqual(h[field],s[field],s.id+' '+field);
+ assert.equal(h.state,'VT');assert.equal(h.demo,false);assert.equal(h.featured,false);
+ assert(['Verified independent website','Verified platform-hosted website'].includes(h.sourceDetails['Evidence status']));
+ assert(h.lat>42.7 && h.lat<45.1 && h.lng>-73.6 && h.lng<-71.4,h.id+' coordinates outside Vermont');
+ assert(h.address.sourceUrl && h.address.checkedOn,'Vermont address source/date missing');
+ if(h.collectionStatus==='Complete')assert.equal(h.missingRequiredFields.length,0);
+}
+if(vermont.length){
+ for(const p of read('data/sources/vermont/photo-sources.json')){
+  const file=path.join(root,p.file);assert(fs.existsSync(file),'Missing Vermont media '+p.file);
+  assert.equal(crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex'),p.sha256,p.file);
+  assert.equal(p.generated,false,'Actual property photo provenance must distinguish generated imagery');
+ }
 }
 const active=homes.filter(h=>h.alive!==false && h.listingStatus!=='Needs review');
 assert.deepEqual(street.map(h=>h.id),active.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>h.id));

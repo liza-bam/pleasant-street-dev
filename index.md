@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-443 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+451 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1901 HOUSE LIMIT 10
 
@@ -1925,6 +1925,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — dogs subject to approval/fee
 - Website (book here, directly with the host): https://everett-cottage.com
 
+## Fat Sheep Farm & Cabins
+
+- ID: VT-0001
+- Town / area (approximate map location): Hartland, VT
+- Type: Cabin
+- Description: Five private cabins on a working farm in Hartland, with hill views, farm activities and family stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Five cabins; occupancy varies by cabin. Sunrise has a queen bedroom and a living-room futon; no explicit maximum on the checked page.
+- Price: Rates vary by date and cabin. Sunrise page lists a $55 one-time cleaning fee, $30/night for additional guests beyond two, and typical two-night weekend/three-night holiday minimums.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Children welcome; adult supervision required on the working farm. Sunrise page says children aged two and under stay free.
+- Pet policy: Dogs only in Sunrise, Ascutney and Lull Brook cabins, on the reservation and leashed. Sunrise pet cleaning fee: $30/night per pet.
+- Website (book here, directly with the host): https://www.fatsheepfarmvermont.com/
+
 ## Ferry Cottage
 
 - ID: ME-0172
@@ -2510,6 +2527,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family cottages)
 - Pet policy: Yes with approval (up to 2 dogs/cottage)
 - Website (book here, directly with the host): https://hiramblake.com
+
+## Hobble Inn & The Loft
+
+- ID: VT-0008
+- Town / area (approximate map location): Stowe, VT
+- Type: Unknown
+- Description: A three-bedroom vacation house and a separate one-bedroom loft in Stowe village, offered for weekly and longer stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Hobble Inn: three bedrooms, sleeps six, two bathrooms. The separate Loft has one bedroom; its maximum needs checking.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Official homepage offers the Inn for families and small groups.
+- Website (book here, directly with the host): https://hobbleinn.com/
 
 ## HOLIDAY COVE - LIMIT 8
 
@@ -3182,6 +3215,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — family lake vacations advertised
 - Website (book here, directly with the host): https://rentlakesregion.com/
+
+## Lakeshore Vermont Inn & Suites
+
+- ID: VT-0003
+- Town / area (approximate map location): Colchester, VT
+- Type: Unknown
+- Description: Locally owned lakefront suites and cottages in Colchester, with private beaches, kitchens and access to Lake Champlain.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Multiple distinct rentals. Homepage lists two-person suites/cottages and a four-person Vermonter suite; capacities differ by unit.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Family-oriented accommodation in the official tourism listing; property website describes family stays.
+- Pet policy: Homepage identifies pet-friendly accommodation. Confirm the chosen unit's policy and fees.
+- Website (book here, directly with the host): https://www.lakeshorevermont.com/
 
 ## LAKEVIEW BLISS LIMIT 8
 
@@ -4168,6 +4218,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://rangeleyrentals.com
 
+## Mount Snow Yurt
+
+- ID: VT-0009
+- Town / area (approximate map location): Dover, VT
+- Type: Cabin
+- Description: An insulated, yurt-shaped cabin near Mount Snow, with two private bedrooms, a loft, hot tub and cedar sauna.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Maximum eight guests. Two private queen bedrooms, loft sleeper sofa and convertible living-room sofa; four sleeping spaces are not four bedrooms.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Families welcome. Hot tub is prohibited for children under twelve; older minors require direct adult supervision.
+- Pet policy: Published FAQ welcomes well-behaved pets with a $100 fee per stay.
+- Website (book here, directly with the host): https://mountsnowyurt.com/
+
 ## Mountain Real Estate Company Rentals
 
 - ID: ME-0261
@@ -4374,6 +4441,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=368
+
+## Notch Lodges
+
+- ID: VT-0012
+- Town / area (approximate map location): Jeffersonville, VT
+- Type: Cabin
+- Description: Five family-owned chalet and cabin rentals near Smugglers' Notch, with direct booking and dog-friendly stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Five distinct rentals sleep four to six guests each. Blue Jay's Blue Chalet sleeps four; Charming Vermont Log Cabin sleeps six.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: Conditional; check unit policy
+- Pets welcome: yes
+- Children policy: Blue Jay's Blue Chalet welcomes children but is not suitable for infants; steep loft stairs. Check other units separately.
+- Pet policy: Official homepage offers dog-friendly chalets with no pet fee.
+- Website (book here, directly with the host): https://www.notchlodges.com/
 
 ## Nurture Through Nature Retreats
 
@@ -4915,6 +4999,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No — explicit property rule
 - Website (book here, directly with the host): https://powderhillfarm.com
 
+## Quimby Country Lodge & Cottages
+
+- ID: VT-0010
+- Town / area (approximate map location): Averill, VT
+- Type: Cabin
+- Description: A traditional sporting camp in Averill with nineteen lakeside cottages, a lodge and family vacation programs.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Nineteen cottages, with checked published cabin capacities from one to eight depending on the cottage. Silver Sedge sleeps four to eight.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Official site explicitly offers family holidays and children's activities.
+- Website (book here, directly with the host): https://quimbycountry.com/
+
 ## Quoddy Properties Vacation Rentals
 
 - ID: ME-0251
@@ -5071,6 +5171,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/322529
+
+## Robert Frost Mountain Cabins
+
+- ID: VT-0053
+- Town / area (approximate map location): Ripton, VT
+- Type: Cabin
+- Description: Seven timber-frame cabins in Ripton, with full kitchens, screened porches and woodland access in the Green Mountains.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Official homepage states each of the seven cabins sleeps up to six guests.
+- Price: from 237 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Pet policy: Official cabin list identifies Serene Outlook, Owl's Branch and Hemlock Hideaway as pet-friendly. Confirm current unit rules and fees.
+- Website (book here, directly with the host): https://www.robertfrostmountaincabins.com/
 
 ## ROBIN LIMIT 3
 
@@ -5967,6 +6083,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://blueberryhousemaine.com
+
+## The Cobble House
+
+- ID: VT-0005
+- Town / area (approximate map location): Gaysville, VT
+- Type: House
+- Description: A restored Victorian vacation house above the White River in Gaysville, sleeping ten in five en suite bedrooms.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Sleeps 10 in five en suite bedrooms, as stated on the homepage.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: The expanded Stay-page FAQ explicitly welcomes children.
+- Pet policy: Expanded Stay-page FAQ says pets are by arrangement; contact the operator at 802-216-8866.
+- Website (book here, directly with the host): https://thecobblehouse.com/
 
 ## THE COTTAGE LIMIT 6
 

@@ -1,0 +1,334 @@
+{
+  "VT-0001": {
+    "name": "Fat Sheep Farm & Cabins",
+    "type": "Cabin",
+    "recordType": "Property / small operator",
+    "description": "Five private cabins on a working farm in Hartland, with hill views, farm activities and family stays.",
+    "capacityDetails": "Five cabins; occupancy varies by cabin. Sunrise has a queen bedroom and a living-room futon; no explicit maximum on the checked page.",
+    "kids": "Yes",
+    "kidsDetails": "Children welcome; adult supervision required on the working farm. Sunrise page says children aged two and under stay free.",
+    "pets": "Conditional",
+    "petsDetails": "Dogs only in Sunrise, Ascutney and Lull Brook cabins, on the reservation and leashed. Sunrise pet cleaning fee: $30/night per pet.",
+    "priceDetails": "Rates vary by date and cabin. Sunrise page lists a $55 one-time cleaning fee, $30/night for additional guests beyond two, and typical two-night weekend/three-night holiday minimums.",
+    "bookingMethod": "Direct ThinkReservations booking, phone, email and contact form",
+    "bookingUrl": "https://secure.thinkreservations.com/fatsheepfarmvermont/reservations",
+    "address": {
+      "street": "122 Best Road",
+      "city": "Hartland",
+      "state": "VT",
+      "postalCode": "05089",
+      "full": "122 Best Road, Hartland, VT 05089",
+      "type": "Property / farm accommodation address",
+      "sourceUrl": "https://www.fatsheepfarmvermont.com/contact-us",
+      "notes": "Official site explicitly says to use Windsor for mailing, rather than Hartland. Physical location is Hartland."
+    },
+    "detailsSource": "https://www.fatsheepfarmvermont.com/sunrise-cabin",
+    "notes": "Small working-farm operator, not an aggregator. Separate cabins need unit-specific policies and capacity. Genuine photo set shows Sunrise Cabin.",
+    "media": [
+      [
+        "VT-0001-unit-media.json",
+        1
+      ],
+      [
+        "VT-0001-unit-media.json",
+        4
+      ],
+      [
+        "VT-0001-unit-media.json",
+        5
+      ],
+      [
+        "VT-0001-unit-media.json",
+        6
+      ]
+    ],
+    "logo": [
+      "VT-0001-unit-media.json",
+      0
+    ]
+  },
+  "VT-0003": {
+    "name": "Lakeshore Vermont Inn & Suites",
+    "type": "Unknown",
+    "recordType": "Rental operator",
+    "description": "Locally owned lakefront suites and cottages in Colchester, with private beaches, kitchens and access to Lake Champlain.",
+    "capacityDetails": "Multiple distinct rentals. Homepage lists two-person suites/cottages and a four-person Vermonter suite; capacities differ by unit.",
+    "kids": "Yes",
+    "kidsDetails": "Family-oriented accommodation in the official tourism listing; property website describes family stays.",
+    "pets": "Conditional",
+    "petsDetails": "Homepage identifies pet-friendly accommodation. Confirm the chosen unit's policy and fees.",
+    "bookingMethod": "Direct ThinkReservations booking, telephone and operator email",
+    "bookingUrl": "https://secure.thinkreservations.com/lakeshorevermont/reservations/",
+    "address": {
+      "street": "76 West Lakeshore Drive",
+      "city": "Colchester",
+      "state": "VT",
+      "postalCode": "05446",
+      "full": "76 West Lakeshore Drive, Colchester, VT 05446",
+      "type": "Main office and some accommodation units; operator has multiple addresses",
+      "sourceUrl": "https://lakeshorevermont.com/contact-us.php",
+      "notes": "Contact page distinguishes units at 76, 54 and 38 West Lakeshore Drive. A Burlington unit is at 65 North Union Street. Do not assign the main office address to every rental."
+    },
+    "detailsSource": "https://www.lakeshorevermont.com/",
+    "notes": "Locally owned operator, not an aggregator. Selected cover shows Lakeside Villa only; other units must receive their own photos and addresses.",
+    "media": [
+      [
+        "VT-0003-official.json",
+        3
+      ]
+    ],
+    "logo": [
+      "VT-0003-official.json",
+      0
+    ]
+  },
+  "VT-0005": {
+    "name": "The Cobble House",
+    "type": "House",
+    "recordType": "Property",
+    "guests": 10,
+    "bedrooms": 5,
+    "description": "A restored Victorian vacation house above the White River in Gaysville, sleeping ten in five en suite bedrooms.",
+    "capacityDetails": "Sleeps 10 in five en suite bedrooms, as stated on the homepage.",
+    "kids": "Yes",
+    "kidsDetails": "The expanded Stay-page FAQ explicitly welcomes children.",
+    "pets": "Conditional",
+    "petsDetails": "Expanded Stay-page FAQ says pets are by arrangement; contact the operator at 802-216-8866.",
+    "bookingMethod": "Operator inquiry form, telephone and direct email; Book a Stay page linked",
+    "bookingUrl": "https://thecobblehouse.com/contact/",
+    "address": {
+      "street": "47 Cobble House Road",
+      "city": "Gaysville",
+      "state": "VT",
+      "postalCode": "05746",
+      "full": "47 Cobble House Road, Gaysville, VT 05746",
+      "type": "Property address",
+      "sourceUrl": "https://thecobblehouse.com/contact/",
+      "notes": "Contact page separately labels PO Box 49 as the postal address. Gaysville is the published village label."
+    },
+    "detailsSource": "https://thecobblehouse.com/stay/",
+    "notes": "Whole vacation house and private event venue. Bath count and total rooms not inferred from the five en suite bedrooms.",
+    "media": [
+      [
+        "VT-0005-official.json",
+        1
+      ],
+      [
+        "VT-0005-stay-media.json",
+        1
+      ],
+      [
+        "VT-0005-stay-media.json",
+        2
+      ],
+      [
+        "VT-0005-stay-media.json",
+        6
+      ]
+    ],
+    "logo": [
+      "VT-0005-official.json",
+      0
+    ]
+  },
+  "VT-0008": {
+    "name": "Hobble Inn & The Loft",
+    "type": "Unknown",
+    "recordType": "Property / small operator",
+    "description": "A three-bedroom vacation house and a separate one-bedroom loft in Stowe village, offered for weekly and longer stays.",
+    "capacityDetails": "Hobble Inn: three bedrooms, sleeps six, two bathrooms. The separate Loft has one bedroom; its maximum needs checking.",
+    "kids": "Yes",
+    "kidsDetails": "Official homepage offers the Inn for families and small groups.",
+    "bookingMethod": "Direct inquiry to named owner Mary Skelton Altadonna by email, phone or contact form; booking links lead to Red Cottage",
+    "bookingUrl": "https://hobbleinn.com/contact-us/",
+    "address": {
+      "street": "5 Pleasant Street",
+      "city": "Stowe",
+      "state": "VT",
+      "postalCode": "",
+      "full": "5 Pleasant Street, Stowe, VT",
+      "type": "Property address",
+      "sourceUrl": "https://hobbleinn.com/contact-us/",
+      "notes": "Official contact page gives street and town but no ZIP. The Inn and Loft are separate accommodations."
+    },
+    "detailsSource": "https://hobbleinn.com/",
+    "notes": "Independent owner site with direct inquiry even though booking links lead to a manager. Keep Inn and Loft unit facts distinct. Selected photos show the Inn only, not the separate Loft.",
+    "media": [
+      [
+        "VT-0008-official.json",
+        1
+      ],
+      [
+        "VT-0008-official.json",
+        3
+      ],
+      [
+        "VT-0008-official.json",
+        4
+      ]
+    ],
+    "logo": [
+      "VT-0008-official.json",
+      0
+    ]
+  },
+  "VT-0009": {
+    "name": "Mount Snow Yurt",
+    "type": "Cabin",
+    "recordType": "Property",
+    "guests": 8,
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "description": "An insulated, yurt-shaped cabin near Mount Snow, with two private bedrooms, a loft, hot tub and cedar sauna.",
+    "capacityDetails": "Maximum eight guests. Two private queen bedrooms, loft sleeper sofa and convertible living-room sofa; four sleeping spaces are not four bedrooms.",
+    "kids": "Yes",
+    "kidsDetails": "Families welcome. Hot tub is prohibited for children under twelve; older minors require direct adult supervision.",
+    "pets": "Yes",
+    "petsDetails": "Published FAQ welcomes well-behaved pets with a $100 fee per stay.",
+    "bookingMethod": "Operator booking interface and direct inquiry email",
+    "bookingUrl": "https://mountsnowyurt.com/#hero",
+    "address": {
+      "street": "60 Ellis Brook Road",
+      "city": "Dover",
+      "state": "VT",
+      "postalCode": "05356",
+      "full": "60 Ellis Brook Road, Dover, VT 05356",
+      "type": "Property address",
+      "sourceUrl": "https://mountsnowyurt.com/",
+      "notes": "Homepage travel and contact sections publish the full address. Tourism directory calls the area West Dover."
+    },
+    "detailsSource": "https://mountsnowyurt.com/",
+    "notes": "Solid-construction cabin in a yurt shape. Advertised sleeping spaces and bedroom counts kept distinct.",
+    "media": [
+      [
+        "VT-0009-official.json",
+        3
+      ],
+      [
+        "VT-0009-official.json",
+        4
+      ],
+      [
+        "VT-0009-official.json",
+        1
+      ]
+    ],
+    "logo": [
+      "VT-0009-official.json",
+      0
+    ]
+  },
+  "VT-0010": {
+    "name": "Quimby Country Lodge & Cottages",
+    "type": "Cabin",
+    "recordType": "Property / small operator",
+    "description": "A traditional sporting camp in Averill with nineteen lakeside cottages, a lodge and family vacation programs.",
+    "capacityDetails": "Nineteen cottages, with checked published cabin capacities from one to eight depending on the cottage. Silver Sedge sleeps four to eight.",
+    "kids": "Yes",
+    "kidsDetails": "Official site explicitly offers family holidays and children's activities.",
+    "bookingMethod": "Operator reservations page, contact form, telephone and direct email",
+    "bookingUrl": "https://quimbycountry.com/contact-us-page/",
+    "address": {
+      "street": "1127 Forest Lake Road",
+      "city": "Averill",
+      "state": "VT",
+      "postalCode": "05901",
+      "full": "1127 Forest Lake Road, Averill, VT 05901",
+      "type": "Lodge / cottage accommodation address",
+      "sourceUrl": "https://quimbycountry.com/contact-us-page/",
+      "notes": "Full address appears on the official contact page and homepage."
+    },
+    "detailsSource": "https://quimbycountry.com/cottages/",
+    "notes": "Distinct from Quimby Cottage names elsewhere. Some cottage illustrations on the site are paintings; selected assets are photographs, subject to visual review. Selected photo set shows Brown Hackle Cabin.",
+    "media": [
+      [
+        "VT-0010-cottages-media.json",
+        4
+      ],
+      [
+        "VT-0010-cottages-media.json",
+        5
+      ],
+      [
+        "VT-0010-cottages-media.json",
+        6
+      ],
+      [
+        "VT-0010-cottages-media.json",
+        7
+      ]
+    ],
+    "logo": [
+      "VT-0010-cottages-media.json",
+      0
+    ]
+  },
+  "VT-0012": {
+    "name": "Notch Lodges",
+    "type": "Cabin",
+    "recordType": "Rental operator",
+    "description": "Five family-owned chalet and cabin rentals near Smugglers' Notch, with direct booking and dog-friendly stays.",
+    "capacityDetails": "Five distinct rentals sleep four to six guests each. Blue Jay's Blue Chalet sleeps four; Charming Vermont Log Cabin sleeps six.",
+    "kids": "Conditional",
+    "kidsDetails": "Blue Jay's Blue Chalet welcomes children but is not suitable for infants; steep loft stairs. Check other units separately.",
+    "pets": "Yes",
+    "petsDetails": "Official homepage offers dog-friendly chalets with no pet fee.",
+    "bookingMethod": "Operator booking/availability pages, direct email and telephone",
+    "bookingUrl": "https://www.notchlodges.com/book",
+    "address": {
+      "street": "34 Smugglers Loop Drive",
+      "city": "Jeffersonville",
+      "state": "VT",
+      "postalCode": "",
+      "full": "34 Smugglers Loop Drive, Jeffersonville, VT",
+      "type": "Tourism-listed operator address; individual chalet addresses not established",
+      "sourceUrl": "https://plan.vermontvacation.com/listings/1603",
+      "notes": "Official About and Blue Jay pages were checked, but only Jeffersonville was published on those pages. The street remains directory evidence, not a verified address for every chalet."
+    },
+    "detailsSource": "https://www.notchlodges.com/blue-jays-blue-chalet-orp5b48ce9x",
+    "notes": "Owners Maude and Marc describe five owned properties. Blue Jay's page advertises $155–240/night; that range is unit-specific, not an operator-wide price. Selected cover shows Blue Jay's Blue Chalet only. Other units require distinct image sets.",
+    "media": [
+      [
+        "VT-0012-official.json",
+        0
+      ]
+    ]
+  },
+  "VT-0053": {
+    "name": "Robert Frost Mountain Cabins",
+    "type": "Cabin",
+    "recordType": "Property / small operator",
+    "guests": 6,
+    "description": "Seven timber-frame cabins in Ripton, with full kitchens, screened porches and woodland access in the Green Mountains.",
+    "capacityDetails": "Official homepage states each of the seven cabins sleeps up to six guests.",
+    "pets": "Conditional",
+    "petsDetails": "Official cabin list identifies Serene Outlook, Owl's Branch and Hemlock Hideaway as pet-friendly. Confirm current unit rules and fees.",
+    "priceFrom": 237,
+    "currency": "USD",
+    "priceDetails": "Checked cabin-list page displayed From $237/night without selected dates. Rates and availability depend on the chosen stay.",
+    "bookingMethod": "Direct ThinkReservations-powered cabin search, operator email and telephone",
+    "bookingUrl": "https://www.robertfrostmountaincabins.com/guest-cabins-view-all",
+    "address": {
+      "street": "2430 North Branch Road",
+      "city": "Ripton",
+      "state": "VT",
+      "postalCode": "05766",
+      "full": "2430 North Branch Road, Ripton, VT 05766",
+      "type": "Cabin accommodation property address",
+      "sourceUrl": "https://www.robertfrostmountaincabins.com/directions",
+      "notes": "Official directions and contact information publish the physical address."
+    },
+    "detailsSource": "https://www.robertfrostmountaincabins.com/guest-cabins-view-all",
+    "notes": "Cabin photographs selected from the operator's accommodation list; unrelated decorative logos excluded. Selected cover shows the first listed cabin, Peak Perspective; no cross-unit photo set is assigned.",
+    "media": [
+      [
+        "VT-0053-cabins-media.json",
+        4
+      ]
+    ],
+    "logo": [
+      "VT-0053-cabins-media.json",
+      0
+    ]
+  }
+}
