@@ -12,9 +12,14 @@
     maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
   var homes = [], area = null;
+  var featuredIcon = L.divIcon({
+    className: 'ps-featured-pin', iconSize: [32, 44], iconAnchor: [16, 43], popupAnchor: [0, -37],
+    html: '<svg viewBox="0 0 32 44" width="32" height="44" aria-hidden="true"><path class="ps-featured-pin__shape" d="M16 1C7.7 1 1 7.7 1 16c0 11 15 26 15 26s15-15 15-26C31 7.7 24.3 1 16 1Z"/><circle cx="16" cy="16" r="5" fill="white"/></svg>'
+  });
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function card(h, missing) {
-    return '<a class="ps-card" href="' + esc(h.url) + '" target="_blank" rel="noopener">' +
+    return '<a class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" href="' + esc(h.url) + '" target="_blank" rel="noopener">' +
+      (h.featured === true ? '<span class="ps-card__featured">Featured</span>' : '') +
       '<img src="' + esc(h.photo) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
       '<span class="ps-card__name">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</a>';
@@ -22,7 +27,7 @@
   /* A place matches when a word of it starts with what was typed, or the typed word is
      its state's full name: "ca" and "california" both find San Francisco, not Cape Cod. */
   var STATES = { ny: 'new york', fl: 'florida', hi: 'hawaii', va: 'virginia', ma: 'massachusetts', tn: 'tennessee',
-                 pa: 'pennsylvania', ca: 'california', il: 'illinois', vt: 'vermont' };
+                 pa: 'pennsylvania', ca: 'california', il: 'illinois', vt: 'vermont', me: 'maine' };
   function matches(place, t) {
     var words = place.toLowerCase().split(/[\s,]+/), state = words[words.length - 1];
     if (STATES[state] && STATES[state].indexOf(t) === 0 && t.length > 2) return true;
@@ -88,9 +93,11 @@
   });
   if (areaBtn) areaBtn.addEventListener('click', function () { area = map.getBounds(); q.value = ''; areaBtn.hidden = true; show(); });
   /* The homes: street.json, written from the database by tools/build-index.mjs. */
-  fetch(map.getContainer().dataset.src || 'street.json').then(function (r) { return r.json(); }).then(function (list) {
+  fetch(map.getContainer().dataset.src || 'street.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (list) {
     homes = list.map(function (h) {
-      h.marker = L.marker([h.lat, h.lng], { title: h.name, alt: h.name })
+      var markerOptions = { title: h.name, alt: h.name, zIndexOffset: h.featured === true ? 1000 : 0 };
+      if (h.featured === true) markerOptions.icon = featuredIcon;
+      h.marker = L.marker([h.lat, h.lng], markerOptions)
         .bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220 });
       return h;
     });

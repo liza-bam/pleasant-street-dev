@@ -103,7 +103,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "4th-debsconeag-lake-camps",
@@ -209,7 +210,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "abbot-trailside-lodging",
@@ -315,7 +317,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Abbot%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Abbot%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "abol-properties",
@@ -404,7 +407,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-cottage-rentals",
@@ -510,7 +514,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-cottage-rentals-2",
@@ -599,7 +604,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-dreamscape-cottage",
@@ -705,7 +711,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-getaway",
@@ -807,7 +814,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-horizon-cottage",
@@ -913,7 +921,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-memories-vacation-cottage",
@@ -1002,7 +1011,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-timber-cottages",
@@ -1108,7 +1118,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Trenton%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Trenton%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "acadia-yurts",
@@ -1202,7 +1213,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "affordable-vinalhaven-rentals",
@@ -1308,7 +1320,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Vinalhaven%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Vinalhaven%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "anchor-real-estate-vacation-rentals",
@@ -1414,7 +1427,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "andrews-family-cottages",
@@ -1520,7 +1534,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "ann-s-point-cottages",
@@ -1626,7 +1641,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "apple-tree-cottage",
@@ -1728,7 +1744,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Vinalhaven%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Vinalhaven%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "arbor-camp",
@@ -1817,7 +1834,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ellsworth%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ellsworth%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "arndt-s-aroostook-river-lodge",
@@ -1906,7 +1924,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Presque+Isle%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Presque+Isle%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "atlantic-haven",
@@ -2004,7 +2023,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ogunquit%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ogunquit%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "back-bay-cottage-portside",
@@ -2106,7 +2126,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bald-mountain-camps",
@@ -2212,7 +2233,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Oquossoc%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Oquossoc%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bar-harbor-acadia-cottage-rentals",
@@ -2318,7 +2340,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bass-harbor-cottages",
@@ -2420,7 +2443,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bass+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bass+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "baycliff-cottage-cabins",
@@ -2518,7 +2542,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bayside-cottage-rentals",
@@ -2624,7 +2649,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Northport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Northport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bayview-cabins",
@@ -2730,7 +2756,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bayview-cabins-unit-7",
@@ -2836,7 +2863,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bayview-cottages-vacation-homes",
@@ -2925,7 +2953,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "beach-cottage-inn-beach-house-suites",
@@ -3019,7 +3048,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "beach-girl-property-rentals",
@@ -3108,7 +3138,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Old+Orchard+Beach%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Old+Orchard+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "bear-spring-camps",
@@ -3202,7 +3233,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rome%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rome%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "beehive-cottage",
@@ -3308,7 +3340,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Cushing%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Cushing%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "belgrade-hospitality",
@@ -3410,7 +3443,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "belgrade-lakes-reservation-center",
@@ -3516,7 +3550,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "belgrade-vacation-rentals",
@@ -3622,7 +3657,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "big-moose-inn-cabins",
@@ -3728,7 +3764,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "blue-hill-bay-property-rentals",
@@ -3834,7 +3871,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill+Peninsula%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill+Peninsula%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "blue-hill-peninsula-realty-rentals",
@@ -3923,7 +3961,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "blue-pearl-cottage",
@@ -4021,7 +4060,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "blueberry-patch-motel-cabins",
@@ -4115,7 +4155,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jonesboro%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jonesboro%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "boothbay-vacation-homes",
@@ -4221,7 +4262,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "boston-commonwealth",
@@ -4306,7 +4348,8 @@
   "syncStatus": "Checked; source facts conflict",
   "syncNotes": "Conflicting published capacities: 2, 3 Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "boyce-s-motel-apartments",
@@ -4412,7 +4455,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "breakwater-vacation-rental",
@@ -4518,7 +4562,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "breakwater-vacation-rental-2",
@@ -4624,7 +4669,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "burke-s-properties-and-rentals",
@@ -4730,7 +4776,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "camden-hills-realty-vacation-rentals",
@@ -4819,7 +4866,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Northport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Northport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "camden-village-toute-suite",
@@ -4925,7 +4973,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "camel-brook-camps",
@@ -5019,7 +5068,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "camp-otyokwa",
@@ -5121,7 +5171,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bremen%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bremen%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "camp-skoglund",
@@ -5227,7 +5278,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Vernon%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Vernon%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "campfire-booking",
@@ -5333,7 +5385,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "canalside-cabins",
@@ -5422,7 +5475,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "cape-ann-special",
@@ -5504,7 +5558,8 @@
   },
   "syncStatus": "Synced from public demo website",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "cape-cod-coastal-cottage",
@@ -5589,7 +5644,8 @@
   "syncStatus": "Checked; source facts conflict",
   "syncNotes": "Conflicting published capacities: 1, 4 Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "caribou-cabins",
@@ -5678,7 +5734,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "carrabassett-cabin-co",
@@ -5784,7 +5841,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kingfield%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kingfield%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "chicago-mcm",
@@ -5867,7 +5925,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "chill-vacation-rentals",
@@ -5973,7 +6032,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Region%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Region%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "clearwater-escapes",
@@ -6079,7 +6139,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Farmington%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Farmington%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "coast-cove-rentals",
@@ -6168,7 +6229,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunk+area%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunk+area%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "coastal-maine-vacations",
@@ -6257,7 +6319,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Coastal+Maine%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Coastal+Maine%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "comfydome-glamping",
@@ -6351,7 +6414,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jefferson%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jefferson%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "common-loon-property-management",
@@ -6440,7 +6504,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Cumberland%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Cumberland%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "compass-rose-property-management",
@@ -6542,7 +6607,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Desert%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Desert%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "conklin-s-lodge-and-camps",
@@ -6631,7 +6697,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Patten%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Patten%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "connecting-rentals",
@@ -6720,7 +6787,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "cottages-at-oak-hill-farm",
@@ -6809,7 +6877,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Hiram%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Hiram%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "cottages-of-maine",
@@ -6907,7 +6976,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "cowgers-lakefront-cabins",
@@ -6996,7 +7066,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Danforth%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Danforth%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "cozy-cove-cabins",
@@ -7102,7 +7173,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "cross-stone-cabins",
@@ -7200,7 +7272,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "crossroad-cabins",
@@ -7302,7 +7375,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "decker-cove-properties",
@@ -7408,7 +7482,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "desert-of-maine-glamping-guesty-direct-site",
@@ -7497,7 +7572,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Freeport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Freeport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "downeast-properties-rentals-also-listed-as-downeast-maine-va",
@@ -7603,7 +7679,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Downeast+Maine%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Downeast+Maine%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "dreaming-of-maine",
@@ -7709,7 +7786,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "drift-oceanside-inn",
@@ -7815,7 +7893,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "duckdown-waterfront-vacation",
@@ -7904,7 +7983,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "ducktrap-lodge-retreat",
@@ -7993,7 +8073,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "eagle-eye-cabin",
@@ -8099,7 +8180,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "eagle-lake-beyond",
@@ -8188,7 +8270,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "eagle-lake-sporting-camps",
@@ -8294,7 +8377,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "eagles-landing-lakeside-cottages",
@@ -8400,7 +8484,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "edgewater-cabins",
@@ -8489,7 +8574,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "everett-cottage",
@@ -8595,7 +8681,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "ferry-cottage",
@@ -8701,7 +8788,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "fieldstone-cottages",
@@ -8790,7 +8878,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "finch-cottage",
@@ -8879,7 +8968,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "first-settlers-lodge",
@@ -8985,7 +9075,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Weston%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Weston%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "flanders-bay-cabins",
@@ -9091,7 +9182,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "flanders-bay-cabins-custom-domain",
@@ -9197,7 +9289,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "florida-pool-home",
@@ -9277,7 +9370,8 @@
   },
   "syncStatus": "Synced from public demo website",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "foxtrot-vacation-rental",
@@ -9383,7 +9477,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville+Beach%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "gardners-sporting-camps",
@@ -9472,7 +9567,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "getaway-vacations",
@@ -9578,7 +9674,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "getogether-stays",
@@ -9684,7 +9781,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bucksport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bucksport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "glenmoor-by-the-sea",
@@ -9773,7 +9871,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "grand-lake-cottages",
@@ -9862,7 +9961,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Forest+City%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Forest+City%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "grand-lake-lodge",
@@ -9968,7 +10068,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "gray-ghost-camps",
@@ -10057,7 +10158,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "gray-homestead-cottages",
@@ -10163,7 +10265,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "great-duck-island-house",
@@ -10269,7 +10372,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Frenchboro%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Frenchboro%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "green-gables-inn",
@@ -10358,7 +10462,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "guard-point-vacation-rental",
@@ -10447,7 +10552,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harrington%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harrington%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "hags-place",
@@ -10536,7 +10642,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "harbor-oasis",
@@ -10630,7 +10737,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "harborfields-waterfront-cottages",
@@ -10736,7 +10844,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=West+Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=West+Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "harpswell-holidays",
@@ -10834,7 +10943,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harpswell%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harpswell%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "hearts-of-maine",
@@ -10936,7 +11046,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Downeast+coast%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Downeast+coast%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "heron-cottage-cove-meadow",
@@ -11042,7 +11153,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "higgins-beach-maine",
@@ -11148,7 +11260,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Scarborough%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Scarborough%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "hillside-cottages",
@@ -11254,7 +11367,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Norway%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Norway%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "hiram-blake-camp",
@@ -11360,7 +11474,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harborside%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harborside%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "holland-ave-vacation-rentals",
@@ -11466,7 +11581,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "hutchins-cottages-at-acadia",
@@ -11564,7 +11680,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "in-the-trees",
@@ -11653,7 +11770,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "in-the-trees-maine",
@@ -11759,7 +11877,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "island-property",
@@ -11861,7 +11980,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Islesboro%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Islesboro%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "island-view-cottages-llc",
@@ -11950,7 +12070,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Thomaston%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Thomaston%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "jenkins-beach",
@@ -12056,7 +12177,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Dedham%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Dedham%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "jimmy-s-coast-real-estate-management",
@@ -12162,7 +12284,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "jordan-rentals",
@@ -12268,7 +12391,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "junction-19-company-the-caron-camp",
@@ -12374,7 +12498,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "katahdin-cabins",
@@ -12463,7 +12588,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "katahdin-shadows-cabins",
@@ -12569,7 +12695,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Medway%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Medway%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kawaii-beach-house",
@@ -12653,7 +12780,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "kc-cottage-rentals",
@@ -12742,7 +12870,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kebo-view-at-acadia",
@@ -12831,7 +12960,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kendall-farm-cottages",
@@ -12920,7 +13050,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Perry%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Perry%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kennebec-riverside-cabins",
@@ -13009,7 +13140,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=The+Forks%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=The+Forks%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kennebunkport-vacation-homes",
@@ -13115,7 +13247,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunkport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunkport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "king-s-landing",
@@ -13221,7 +13354,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kinney-rentals",
@@ -13310,7 +13444,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kokadjo-cabins-trading-post",
@@ -13399,7 +13534,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kokadjo%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kokadjo%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "kpt-luxury-properties",
@@ -13505,7 +13641,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunkport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunkport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "krainin-real-estate-vacation-rentals",
@@ -13611,7 +13748,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Casco%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Casco%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lake-champlain-place",
@@ -13694,7 +13832,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "lake-megunticook-vacation-rental",
@@ -13800,7 +13939,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lake-pemaquid-campground-cottage-rentals",
@@ -13906,7 +14046,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lakehurst-camps",
@@ -14012,7 +14153,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lakes-region-vacation-rentals",
@@ -14114,7 +14256,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "Unknown"
+  "locationSource": "Unknown",
+  "featured": false
  },
  {
   "slug": "lawrence-s-lakeside-cabins",
@@ -14203,7 +14346,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "libby-camps",
@@ -14309,7 +14453,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ashland%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ashland%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "liberty-rentals-maine-cottage",
@@ -14411,7 +14556,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Phippsburg%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Phippsburg%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "linda-bean-s-maine-vacation-rentals",
@@ -14500,7 +14646,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Midcoast+Maine%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Midcoast+Maine%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "little-white-dog-properties-wiggleswick-cottage",
@@ -14606,7 +14753,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Georgetown%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Georgetown%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "long-cove-cottages",
@@ -14712,7 +14860,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "long-pond-camps",
@@ -14806,7 +14955,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lookout-inn-cottages",
@@ -14912,7 +15062,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lookout-resort-rentals",
@@ -15006,7 +15157,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ogunquit%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ogunquit%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "loons-landing",
@@ -15095,7 +15247,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lords-beach-vacation-rental",
@@ -15201,7 +15354,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Acadia+region%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Acadia+region%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "love-at-first-light-vacation-home",
@@ -15307,7 +15461,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lubec-bay-cottage",
@@ -15405,7 +15560,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lugdon-lodge",
@@ -15499,7 +15655,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "lyons-lakeside-cabins",
@@ -15588,7 +15745,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "macannamac-camps",
@@ -15694,7 +15852,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=North+Maine+Woods%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=North+Maine+Woods%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maebeth-vacation-rentals",
@@ -15800,7 +15959,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Trenton%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Trenton%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-beach-cottage",
@@ -15906,7 +16066,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Saco%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Saco%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-bella-vita-cabins",
@@ -15995,7 +16156,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Byron%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Byron%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-cottage-rental-ledgelawn-cottage",
@@ -16084,7 +16246,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brunswick%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brunswick%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-escape",
@@ -16186,7 +16349,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "Unknown"
+  "locationSource": "Unknown",
+  "featured": false
  },
  {
   "slug": "maine-escapes",
@@ -16292,7 +16456,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-island-properties",
@@ -16398,7 +16563,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Desert%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Desert%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-lakes-vacations",
@@ -16496,7 +16662,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Casco%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Casco%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-lakeside-cabins",
@@ -16602,7 +16769,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caratunk%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caratunk%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-real-estate-management",
@@ -16700,7 +16868,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-retreats-collection",
@@ -16806,7 +16975,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-street-property-management",
@@ -16895,7 +17065,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maine-vacation-rentals-inc",
@@ -16984,7 +17155,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill+Peninsula%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill+Peninsula%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maineland-vacation-rentals",
@@ -17090,7 +17262,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mainely-cabins",
@@ -17196,7 +17369,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Multiple+Maine+locations%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Multiple+Maine+locations%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mainely-relaxing",
@@ -17302,7 +17476,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Vernon%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Vernon%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mainely-retreats",
@@ -17408,7 +17583,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Belgrade+Lakes%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "maynards-in-maine",
@@ -17497,7 +17673,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mdi-vacation-homes",
@@ -17586,7 +17763,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mdisland-vacation-homes",
@@ -17692,7 +17870,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "miami-fam-stay",
@@ -17777,7 +17956,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "mill-stream-house-on-north-haven",
@@ -17866,7 +18046,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=North+Haven%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=North+Haven%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mission-base",
@@ -17952,7 +18133,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies. Normalized published city typo Sn Francisco to San Francisco.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "moody-beach-vacation-rentals",
@@ -18050,7 +18232,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "moose-lodge-maine",
@@ -18156,7 +18339,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "moose-pond-maine-escape",
@@ -18245,7 +18429,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bridgton%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bridgton%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "moosehead-cottage-resort",
@@ -18351,7 +18536,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "moosehead-hills-cabins",
@@ -18457,7 +18643,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "moosehead-property-rentals",
@@ -18551,7 +18738,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "morton-furbish-vacation-rentals",
@@ -18657,7 +18845,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mountain-real-estate-company-rentals",
@@ -18763,7 +18952,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mountain-view-cottages",
@@ -18857,7 +19047,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "mt-chase-lodge",
@@ -18946,7 +19137,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Chase%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Chase%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "nashville-crow-nest",
@@ -19025,7 +19217,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Partial",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "nautical-property-management",
@@ -19131,7 +19324,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "Unknown"
+  "locationSource": "Unknown",
+  "featured": false
  },
  {
   "slug": "nyc-midtown-city-loft",
@@ -19217,7 +19411,8 @@
   "syncStatus": "Checked; source facts conflict",
   "syncNotes": "Conflicting bedroom facts: hero 1, enabled facts section 2. Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "newcastle-vacation-rentals",
@@ -19323,7 +19518,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "next-chapter-cabins",
@@ -19429,7 +19625,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Monson%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Monson%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "niboban-sporting-camps",
@@ -19518,7 +19715,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "niftybug-rentals",
@@ -19607,7 +19805,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Buckfield%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Buckfield%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "noe-valley-studio",
@@ -19691,7 +19890,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "north-camps",
@@ -19797,7 +19997,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "north-woods-maine-cabins",
@@ -19886,7 +20087,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "nurture-through-nature-retreats",
@@ -19992,7 +20194,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Denmark%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Denmark%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "oakland-house-seaside-inn-cottages",
@@ -20098,7 +20301,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "ocean-dunes-condominiums-garnsey-rentals",
@@ -20196,7 +20400,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "ocean-house-cottage",
@@ -20302,7 +20507,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Peaks+Island%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Peaks+Island%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "oceansedge",
@@ -20408,7 +20614,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "odessa-by-the-sea",
@@ -20514,7 +20721,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Old+Orchard+Beach%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Old+Orchard+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "ogunquit-rental-properties",
@@ -20616,7 +20824,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ogunquit%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Ogunquit%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "on-the-water-in-maine",
@@ -20705,7 +20914,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "overlook-at-mussel-ridge",
@@ -20794,7 +21004,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Spruce+Head%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Spruce+Head%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "overlook-motel-lakeside-cottages",
@@ -20892,7 +21103,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "peninsula-property-rentals",
@@ -20981,7 +21193,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "philly-home",
@@ -21066,7 +21279,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "pine-grove-cottages",
@@ -21172,7 +21386,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "pine-tree-stays",
@@ -21278,7 +21493,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Unknown",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Maine+lake+region%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Maine+lake+region%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "pocomoonshine-lake-lodges",
@@ -21367,7 +21583,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Calais%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Calais%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "pond-brook-cabins",
@@ -21473,7 +21690,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "powder-hill-farm-cottage",
@@ -21579,7 +21797,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "quoddy-properties-vacation-rentals",
@@ -21668,7 +21887,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eastport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Eastport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rangeley-lake-resort",
@@ -21774,7 +21994,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rangeley-vacation-rentals",
@@ -21863,7 +22084,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "red-s-garden-cottage",
@@ -21965,7 +22187,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "renee-s-rentals",
@@ -22071,7 +22294,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=York+Beach%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=York+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rideout-s-lakeside-lodge-cabins",
@@ -22177,7 +22401,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Weston%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Weston%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rockland-talbot-house",
@@ -22283,7 +22508,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rockport-harbor-view-vacation-rentals",
@@ -22372,7 +22598,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rockwood-cottages",
@@ -22478,7 +22705,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rocky-coast-rentals",
@@ -22567,7 +22795,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newcastle%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newcastle%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "rustic-maine-cottages-dreaming-of-maine-alternate",
@@ -22656,7 +22885,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "ryan-estate-rentals",
@@ -22758,7 +22988,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sally-mountain-cabins",
@@ -22864,7 +23095,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "salt-shine-vacation-rentals",
@@ -22970,7 +23202,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=York%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "salt-air-properties",
@@ -23076,7 +23309,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "saltmeadow-properties",
@@ -23182,7 +23416,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Castine%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Castine%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "samoset-village-townhomes",
@@ -23288,7 +23523,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sargent-woods-cottage",
@@ -23394,7 +23630,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Desert+Island%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Desert+Island%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "schooners-landing",
@@ -23492,7 +23729,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Owls+Head%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Owls+Head%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sea-acres-cottages",
@@ -23586,7 +23824,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Pemaquid%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Pemaquid%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sea-escape-cottages",
@@ -23692,7 +23931,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bailey+Island%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bailey+Island%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sea-maine-vacation-rentals",
@@ -23798,7 +24038,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sea-meadow-cottage",
@@ -23904,7 +24145,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sea-spray-cottages",
@@ -23998,7 +24240,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=York+Beach%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=York+Beach%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "seaglass-village",
@@ -24100,7 +24343,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "seagrass-property-rentals",
@@ -24206,7 +24450,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunkport%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Kennebunkport%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "seanook-cottage-rentals",
@@ -24312,7 +24557,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=East+Boothbay%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=East+Boothbay%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "seashore-property-management",
@@ -24418,7 +24664,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Saco%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Saco%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "seaside-cottages",
@@ -24524,7 +24771,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sebago-lake-lodge-cottages",
@@ -24630,7 +24878,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Standish%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Standish%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sebago-rental",
@@ -24719,7 +24968,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "seguin-tree-dwellings",
@@ -24825,7 +25075,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Georgetown%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Georgetown%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sharon-thoner-maine-rentals",
@@ -24914,7 +25165,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Deer+Isle%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Deer+Isle%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "shin-pond-village",
@@ -25016,7 +25268,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Chase%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Chase%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sky-lodge-cabins",
@@ -25105,7 +25358,8 @@
   },
   "listingStatus": "Needs review",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Moose+River%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Moose+River%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "snowball-hill-cottage",
@@ -25211,7 +25465,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "stanley-ventures",
@@ -25317,7 +25572,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Milbridge%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Milbridge%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "stay-hygge",
@@ -25423,7 +25679,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "steamboat-wharf-cabins",
@@ -25529,7 +25786,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stockton+Springs%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stockton+Springs%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "suites-by-the-sea",
@@ -25618,7 +25876,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "summermaine-classic-vacation-rentals",
@@ -25724,7 +25983,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sunset-cabins",
@@ -25830,7 +26090,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta+Lake%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta+Lake%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "sunset-view-carriage-house",
@@ -25919,7 +26180,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "surry-maine-studio-by-the-sea",
@@ -26021,7 +26283,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Surry%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Surry%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "t-percy-cottages",
@@ -26127,7 +26390,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Phippsburg%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Phippsburg%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "tahoe-cabin",
@@ -26212,7 +26476,8 @@
   "syncStatus": "Synced from public demo website",
   "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "tapley-farm",
@@ -26301,7 +26566,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "teel-cove-cottage",
@@ -26407,7 +26673,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-blueberry-house",
@@ -26513,7 +26780,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-cottages-at-summer-village",
@@ -26619,7 +26887,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-eggemoggin-reach-inn",
@@ -26717,7 +26986,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-glen-house",
@@ -26823,7 +27093,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-heyer-house",
@@ -26912,7 +27183,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Waldoboro%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Waldoboro%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-island-agency-rentals",
@@ -27018,7 +27290,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-lodge-cabins",
@@ -27124,7 +27397,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Burnham%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Burnham%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-lodge-at-thomas-pond",
@@ -27230,7 +27504,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Casco%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Casco%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-maine-house-on-dingley",
@@ -27336,7 +27611,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harpswell%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Harpswell%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-nest",
@@ -27442,7 +27718,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Islesboro%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Islesboro%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-tamaracks",
@@ -27540,7 +27817,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "the-woods-maine-treehouse",
@@ -27646,7 +27924,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Norway%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Norway%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "thistledown-farm",
@@ -27748,7 +28027,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Waldoboro%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Waldoboro%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "thompson-house-cottages",
@@ -27854,7 +28134,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "three-birds-farm-cottages",
@@ -27960,7 +28241,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Round+Pond%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Round+Pond%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "tide-watch-cabins",
@@ -28066,7 +28348,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "timbrlux-stays",
@@ -28160,7 +28443,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "tomhegan-wilderness-cabins",
@@ -28266,7 +28550,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "town-lake-motel-and-cottages",
@@ -28372,7 +28657,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "trackdown-kennels-lodge",
@@ -28478,7 +28764,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Northern+Aroostook%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Northern+Aroostook%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "true-hall-vacation-rentals",
@@ -28567,7 +28854,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "turner-farm-guesthouse",
@@ -28673,7 +28961,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=North+Haven%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=North+Haven%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "up-north-cabins",
@@ -28779,7 +29068,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "vacation-cottages",
@@ -28868,7 +29158,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Blue+Hill%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "viking-trail-cabin",
@@ -28974,7 +29265,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Surry%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Surry%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "vinalhaven-vacation-rentals",
@@ -29063,7 +29355,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Vinalhaven%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Vinalhaven%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "virginia-cottage",
@@ -29143,7 +29436,8 @@
   },
   "syncStatus": "Synced from public demo website",
   "photoStatus": "Complete",
-  "locationPrecision": "Town / area approximate"
+  "locationPrecision": "Town / area approximate",
+  "featured": true
  },
  {
   "slug": "visit-sunday-river-vacation-rentals",
@@ -29249,7 +29543,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "watercrest-cottages",
@@ -29355,7 +29650,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "weatherby-s-lodge",
@@ -29444,7 +29740,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "webhannet-by-the-sea",
@@ -29550,7 +29847,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "west-bay-acadia",
@@ -29644,7 +29942,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Gouldsboro%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Gouldsboro%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "west-quoddy-station",
@@ -29750,7 +30049,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "wheaton-s-lodge",
@@ -29852,7 +30152,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Forest+City%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Forest+City%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "wildwoods-trailside-cabins",
@@ -29950,7 +30251,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brownville%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Brownville%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "willow-rental-properties",
@@ -30039,7 +30341,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Thomaston%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Thomaston%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "wilsons-on-moosehead-lake",
@@ -30145,7 +30448,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville+Junction%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville+Junction%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "winslow-creek",
@@ -30239,7 +30543,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Penobscot%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Penobscot%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "woodland-park-cottages",
@@ -30345,7 +30650,8 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  },
  {
   "slug": "your-island-connection-vacation-rentals",
@@ -30451,6 +30757,7 @@
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bailey+Island%2C+ME%2C+USA&format=json&limit=1"
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Bailey+Island%2C+ME%2C+USA&format=json&limit=1",
+  "featured": false
  }
 ]
