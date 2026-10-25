@@ -277,17 +277,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0036",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0037",
   "status": "Complete",
   "missingRequiredFields": [],
@@ -348,35 +337,12 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0045",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0046",
   "status": "Complete",
   "missingRequiredFields": [],
   "propertyPhotoCount": 4,
   "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0047",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0048",
@@ -457,18 +423,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0057",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0058",
   "status": "Complete",
   "missingRequiredFields": [],
@@ -509,18 +463,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0063",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0064",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -539,17 +481,6 @@
   "propertyPhotoCount": 4,
   "addressType": "",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0067",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0068",
@@ -642,35 +573,12 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0078",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Mailing address (PO Box)",
-  "descriptionStatus": "Collected from source website"
- },
- {
   "id": "ME-0079",
   "status": "Complete",
   "missingRequiredFields": [],
   "propertyPhotoCount": 4,
   "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0080",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0081",
@@ -683,17 +591,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0082",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Collected from source website"
- },
- {
   "id": "ME-0083",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -702,18 +599,6 @@
   "propertyPhotoCount": 3,
   "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0085",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0087",
@@ -762,18 +647,6 @@
   "propertyPhotoCount": 3,
   "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0092",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0093",
@@ -904,17 +777,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0107",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0108",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -941,18 +803,6 @@
   "propertyPhotoCount": 4,
   "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0111",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0112",
@@ -1081,17 +931,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0127",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0128",
   "status": "Complete",
   "missingRequiredFields": [],
@@ -1193,41 +1032,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0140",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
- },
- {
-  "id": "ME-0141",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
-  "id": "ME-0142",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0143",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -1314,17 +1118,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0152",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Collected from source website"
- },
- {
   "id": "ME-0153",
   "status": "Complete",
   "missingRequiredFields": [],
@@ -1339,18 +1132,6 @@
   "propertyPhotoCount": 4,
   "addressType": "One listed property (Lakeside House)",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0155",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0156",
@@ -1479,17 +1260,6 @@
   ],
   "propertyPhotoCount": 4,
   "addressType": "",
-  "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0173",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
  },
  {
@@ -1751,18 +1521,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0205",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0206",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -1802,18 +1560,6 @@
   "propertyPhotoCount": 1,
   "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0212",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0213",
@@ -1883,18 +1629,6 @@
   "propertyPhotoCount": 4,
   "addressType": "",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0220",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0222",
@@ -1975,16 +1709,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0232",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Operator contact / office address",
-  "descriptionStatus": "Collected from source website"
- },
- {
   "id": "ME-0233",
   "status": "Complete",
   "missingRequiredFields": [],
@@ -2013,18 +1737,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0237",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0238",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -2033,18 +1745,6 @@
   "propertyPhotoCount": 4,
   "addressType": "Mailing address (PO Box)",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0239",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0240",
@@ -2114,17 +1814,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0247",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Operator contact / office address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0248",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -2142,17 +1831,6 @@
   "propertyPhotoCount": 4,
   "addressType": "Operator contact / office address",
   "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0251",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Operator contact / office address",
-  "descriptionStatus": "Not collected"
  },
  {
   "id": "ME-0252",
@@ -2240,17 +1918,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0263",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Mailing address (PO Box)",
-  "descriptionStatus": "Collected from source website"
- },
- {
   "id": "ME-0264",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -2277,30 +1944,6 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0267",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Operator contact / office address",
-  "descriptionStatus": "Not collected"
- },
- {
-  "id": "ME-0269",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Operator contact / office address",
-  "descriptionStatus": "Not collected"
- },
- {
   "id": "ME-0270",
   "status": "Incomplete",
   "missingRequiredFields": [
@@ -2308,16 +1951,6 @@
   ],
   "propertyPhotoCount": 4,
   "addressType": "Parent company office outside Maine",
-  "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0271",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Operator contact / office address",
   "descriptionStatus": "Collected from source website"
  },
  {
@@ -2389,33 +2022,11 @@
   "descriptionStatus": "Collected from source website"
  },
  {
-  "id": "ME-0281",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Operator contact / office address",
-  "descriptionStatus": "Collected from source website"
- },
- {
   "id": "ME-0283",
   "status": "Complete",
   "missingRequiredFields": [],
   "propertyPhotoCount": 4,
   "addressType": "Operator contact / office address",
-  "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0284",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Mailing address (PO Box)",
   "descriptionStatus": "Collected from source website"
  },
  {
@@ -2463,28 +2074,6 @@
   "status": "Complete",
   "missingRequiredFields": [],
   "propertyPhotoCount": 4,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Collected from source website"
- },
- {
-  "id": "ME-0291",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "propertyPhotoCount": 0,
-  "addressType": "Published property / business contact address",
-  "descriptionStatus": "Not collected"
- },
- {
-  "id": "ME-0292",
-  "status": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "propertyPhotoCount": 0,
   "addressType": "Published property / business contact address",
   "descriptionStatus": "Collected from source website"
  },

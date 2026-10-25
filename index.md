@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-451 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+415 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1901 HOUSE LIMIT 10
 
@@ -401,21 +401,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Conditional; check unit policy
 - Pet policy: Varies (Cherry and Willow cabins yes; others no)
 - Website (book here, directly with the host): https://arborcamp.com/
-
-## Arndt's Aroostook River Lodge
-
-- ID: ME-0082
-- Town / area (approximate map location): Presque Isle, ME
-- Type: Unknown
-- Description: While the rest of the country bakes, the Aroostook River Valley stays cool. Fewer than a handful of days crack 90°F all summer. This is where serious outdoor people come to remember what camping was supposed to feel like.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://arndtscamp.com
 
 ## Atlantic Haven
 
@@ -980,21 +965,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=412
 
-## Camden Hills Realty & Vacation Rentals
-
-- ID: ME-0263
-- Town / area (approximate map location): Northport, ME
-- Type: Unknown
-- Description: Camden Area Real Estate Agency for Buyers and Sellers. Experts in Camden/Rockport, Lincolnville, Northport and Belfast & surrounding are Real Estate.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://camdenhillsrealty.com
-
 ## Camden Village Toute-Suite
 
 - ID: ME-0143
@@ -1167,22 +1137,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — families encouraged
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
-
-## Canalside Cabins
-
-- ID: ME-0045
-- Town / area (approximate map location): Grand Lake Stream, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 2–7 per cabin
-- Price: $70/person/night Includes lodging tax; 2-person minimum; 5-person minimum in Elm; 2-night min weekends
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Yes (families welcome)
-- Website (book here, directly with the host): https://canalsidecabins.com
 
 ## Cape Ann Special
 
@@ -1360,21 +1314,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — prior approval; $10/pet/night
 - Website (book here, directly with the host): https://clearwaterescapes.com
 
-## Coastal Maine Vacations
-
-- ID: ME-0247
-- Town / area (approximate map location): Coastal Maine, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://coastalmaine.vacations
-
 ## ComfyDome Glamping
 
 - ID: ME-0168
@@ -1419,36 +1358,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://compassrosmaine.com
-
-## Conklin's Lodge and Camps
-
-- ID: ME-0078
-- Town / area (approximate map location): Patten, ME
-- Type: Camp
-- Description: Conklin's Lodge, specializing in Trophy Maine Deer Hunting, Maine Trophy Black Bear Hunting and Maine Trophy Moose Hunting
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://conklinslodge.com
-
-## Connecting Rentals
-
-- ID: ME-0232
-- Town / area (approximate map location): Bethel / Sunday River, ME
-- Type: Unknown
-- Description: Connect with hosts offering vacation and seasonal rentals near Sunday River, Maine — from weekend getaways to monthly stays and beyond.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://connectingrentals.com
 
 ## Cottages at Oak Hill Farm
 
@@ -1782,21 +1691,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://eagleeyecabin.com
 
-## Eagle Lake & Beyond
-
-- ID: ME-0152
-- Town / area (approximate map location): Eagle Lake, ME
-- Type: Unknown
-- Description: Four seasons of fun - Barbara and William Orne own and operate Eagle Lake & Beyond, LLC. vacation home. Eagle Lake is a year-round destination offering endless activities. Whether you enjoy hunting, fishing, boating, ATV riding, ice fishing or snowmobiling. There is something for everyone to enjoy at Eagle Lake. Our rental offers the following accommodations:
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://eaglelakebeyondllc.com
-
 ## Eagle Lake Sporting Camps
 
 - ID: ME-0030
@@ -1845,21 +1739,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/440192
-
-## Edgewater Cabins
-
-- ID: ME-0107
-- Town / area (approximate map location): Sullivan, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://edgewatercabins.com/
 
 ## Elliot's Escape/Bremen
 
@@ -2147,21 +2026,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Reported pet-friendly in host's published guest review; confirm per unit
 - Website (book here, directly with the host): https://getogetherstays.com
 
-## Glenmoor by the Sea
-
-- ID: ME-0292
-- Town / area (approximate map location): Lincolnville, ME
-- Type: Unknown
-- Description: At Glenmoor by the Sea, we understand that furry friends are part of the family. That's why we're delighted to offer dog-friendly accommodations for guests!
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://glenmoorbythesea.com
-
 ## GOOD TIMES CHALET LIMIT 19
 
 - ID: ME-0516
@@ -2177,23 +2041,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=253
-
-## Grand Lake Cottages
-
-- ID: ME-0036
-- Town / area (approximate map location): Forest City, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 3 (one-bedroom); 5 (two-bedroom)
-- Price: $155–$185/night One-bedroom $155/night; two-bedroom $185/night; extra guests over base occupancy $15/night; taxes extra
-- Children welcome: Conditional; check unit policy
-- Pets welcome: yes
-- Children policy: Yes — over age 5 counted in additional guest fee
-- Pet policy: Yes — up to 2 dogs, $10 per dog/night; some breeds excluded
-- Website (book here, directly with the host): https://grandlakecottages.net
 
 ## Grand Lake Lodge
 
@@ -2258,21 +2105,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — 2 children allowed
 - Website (book here, directly with the host): https://greatduckislandhouse.com
 
-## Green Gables Inn
-
-- ID: ME-0291
-- Town / area (approximate map location): Camden, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://greengablesinnmaine.com
-
 ## GREENS LIMIT 6
 
 - ID: ME-0497
@@ -2288,21 +2120,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=102
-
-## HAGS Place
-
-- ID: ME-0155
-- Town / area (approximate map location): Fort Kent, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://hagsplace.com
 
 ## HALL'S HOUSE- LIMIT 8
 
@@ -2608,23 +2425,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://hutchinscottagesatacadia.com
 
-## In The Trees
-
-- ID: ME-0212
-- Town / area (approximate map location): Stoneham, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 2–7 by unit; all 6 stays approx. 21
-- Price: Cleaning fee $50–$150 per stay, not nightly rent; no nightly rates shown
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: Yes — families welcome; rustic sites have steep paths
-- Pet policy: Varies — no dogs in luxury treehouses; one dog allowed in each off-grid stay ($35)
-- Website (book here, directly with the host): https://inthetreesmaine.lodgify.com
-
 ## In the Trees Maine
 
 - ID: ME-0213
@@ -2768,21 +2568,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family vacation and reunions)
 - Website (book here, directly with the host): https://junction19co.com
 
-## Katahdin Cabins
-
-- ID: ME-0063
-- Town / area (approximate map location): Millinocket, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://katahdincabins.com
-
 ## Katahdin Shadows Cabins
 
 - ID: ME-0060
@@ -2815,21 +2600,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Published demo policy: Unknown
 - Website (book here, directly with the host): https://kawaii.lazy.vacations/
 
-## Kebo View at Acadia
-
-- ID: ME-0127
-- Town / area (approximate map location): Bar Harbor, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://barharborweeklyrentals.com
-
 ## KENDALL COTTAGE LIMIT 6
 
 - ID: ME-0524
@@ -2845,36 +2615,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=306
-
-## Kendall Farm Cottages
-
-- ID: ME-0080
-- Town / area (approximate map location): Perry, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://kendallfarmcottages.com
-
-## Kennebec Riverside Cabins
-
-- ID: ME-0111
-- Town / area (approximate map location): The Forks, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://krcabins.com
 
 ## Kennebunkport Vacation Homes
 
@@ -2921,36 +2661,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — baby/child equipment
 - Website (book here, directly with the host): https://staykingslanding.com
-
-## Kinney Rentals
-
-- ID: ME-0269
-- Town / area (approximate map location): Rockland, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://kinneyrentals.com
-
-## Kokadjo Cabins & Trading Post
-
-- ID: ME-0057
-- Town / area (approximate map location): Kokadjo, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://kokadjo.com
 
 ## KPT Luxury Properties
 
@@ -3263,23 +2973,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=163772
-
-## Lawrence's Lakeside Cabins
-
-- ID: ME-0092
-- Town / area (approximate map location): Rockwood, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Nightly rates require date-specific booking inquiry
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: Yes — family facilities
-- Pet policy: Yes — dogs in 4 of 5 cabins
-- Website (book here, directly with the host): https://lawrenceslakesidecabins.com
 
 ## Libby Camps
 
@@ -3625,21 +3318,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://lugdonlodge.com/
 
-## Lyons Lakeside Cabins
-
-- ID: ME-0085
-- Town / area (approximate map location): Rangeley, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://lyonslakeside.com
-
 ## Macannamac Camps
 
 - ID: ME-0073
@@ -3700,36 +3378,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://mainebeachcottage.com
-
-## Maine Bella Vita Cabins
-
-- ID: ME-0142
-- Town / area (approximate map location): Byron, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://mainebellavitacabins.com
-
-## Maine Cottage Rental (LedgeLawn Cottage)
-
-- ID: ME-0140
-- Town / area (approximate map location): Brunswick, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://mainecottages.com
 
 ## Maine Escape
 
@@ -3885,22 +3533,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family vacation houses advertised
 - Pet policy: Varies — one featured house explicitly no pets
 - Website (book here, directly with the host): https://mainestreetpropertymanagement.com
-
-## Maine Vacation Rentals Inc.
-
-- ID: ME-0239
-- Town / area (approximate map location): Blue Hill Peninsula, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Examples: 4–12, varies by property
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Yes — seasonal family rentals described
-- Website (book here, directly with the host): https://mainevacationrentalsonline.com
 
 ## Maineland Vacation Rentals
 
@@ -4265,22 +3897,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://mountainviewcottages.com
 
-## Mt. Chase Lodge
-
-- ID: ME-0067
-- Town / area (approximate map location): Mount Chase, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 2–8 in private cabins
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Conditional; check unit policy
-- Pet policy: Yes (private cabins only; up to 2 dogs, $30/dog/night)
-- Website (book here, directly with the host): https://mtchaselodge.com
-
 ## Nashville Crow Nest
 
 - ID: LAZY-nashville-crow-nest
@@ -4361,22 +3977,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://nextchaptercabins.com
-
-## Niftybug Rentals
-
-- ID: ME-0141
-- Town / area (approximate map location): Buckfield, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 4–5 overnight guests (two homes)
-- Price: $125–$135/night Village House $125/night (5 guests); Cozy House $135/night (4 guests); additional cleaning/tax; studio $25/hour is not overnight rental
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Yes — family visits mentioned
-- Website (book here, directly with the host): https://niftybug.com
 
 ## Noe Valley Studio
 
@@ -4617,21 +4217,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://ogunquitrentalproperties.com
-
-## On the Water in Maine
-
-- ID: ME-0271
-- Town / area (approximate map location): Rockport, ME
-- Type: Unknown
-- Description: Book the best deals on vacation rentals with On The Water In Maine for a week of waterfront relaxation and adventure. Explore coastal towns and discover nearby attractions.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://onthewaterinmaine.com
 
 ## OSSIPEE WOOD 2 LIMIT 4
 
@@ -5015,21 +4600,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Official site explicitly offers family holidays and children's activities.
 - Website (book here, directly with the host): https://quimbycountry.com/
 
-## Quoddy Properties Vacation Rentals
-
-- ID: ME-0251
-- Town / area (approximate map location): Eastport / Lubec, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://quoddyproperties.com/vacation-rentals.html
-
 ## Rangeley Lake Resort
 
 - ID: ME-0087
@@ -5044,21 +4614,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://rangeleylakeresort.com
-
-## Rangeley Vacation Rentals
-
-- ID: ME-0267
-- Town / area (approximate map location): Rangeley, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://rangeleyvacationrentals.com
 
 ## Red's Garden Cottage
 
@@ -5678,21 +5233,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — dogs permitted; $25/night
 - Website (book here, directly with the host): https://sebagolakelodge.com
 
-## Sebago Rental
-
-- ID: ME-0205
-- Town / area (approximate map location): Sebago Lake, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://sebagorental.com
-
 ## SEBAGO SUNRISE LIMIT 8
 
 - ID: ME-0566
@@ -5862,21 +5402,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family vacations mentioned
 - Pet policy: Selected units only — cabins 1–6 and apartment; not cabins 7–9
 - Website (book here, directly with the host): https://steamboatwharfcabins.com
-
-## Suites by the Sea
-
-- ID: ME-0173
-- Town / area (approximate map location): Lincolnville, ME
-- Type: Apartment
-- Description: Vacations Rentals, mid-coast Maine, Lincolnville Beach, Maine. Oceanfront Suites with jetted tubs, fireplaces, full kitchen and stunning view
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://suitesbythesea.com
 
 ## SummerMaine Classic Vacation Rentals
 
@@ -6210,21 +5735,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=606
-
-## The Heyer House
-
-- ID: ME-0220
-- Town / area (approximate map location): Waldoboro, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://whereswaldoboro.com
 
 ## The Hinsdale House / Bristol
 
@@ -6647,21 +6157,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138613
 
-## True Hall Vacation Rentals
-
-- ID: ME-0281
-- Town / area (approximate map location): Tenants Harbor, ME
-- Type: Unknown
-- Description: A Local Real Estate and Vacation Rental Company
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://truehall.com
-
 ## Turner Farm Guesthouse
 
 - ID: ME-0189
@@ -6726,21 +6221,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=381
 
-## Vacation Cottages
-
-- ID: ME-0237
-- Town / area (approximate map location): Blue Hill, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://vacationcottages.com
-
 ## Viking Trail Cabin
 
 - ID: ME-0216
@@ -6756,21 +6236,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — guest review mentions small children
 - Website (book here, directly with the host): https://vikingtrailcabin.com
-
-## Vinalhaven Vacation Rentals
-
-- ID: ME-0284
-- Town / area (approximate map location): Vinalhaven, ME
-- Type: Unknown
-- Description: Situated ten miles off the coast of Midcoast Maine, Vinalhaven is the state's largest off-shore island community. Known for its striking natural beauty, rocky beaches, and home to one of the world's largest lobster fishing fleets, this special spot has to be on your vacation short-list. If you’re the active type, there are dozens of parks, hiking and biking trails, along with two amazing fresh water quarries to cool off. The area is truly a boating and kayaking paradise, with more coves to explore than you can shake a stick at.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://vinalhavenvacationrentals.com
 
 ## Virginia Cottage
 
@@ -6856,23 +6321,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — playground and family cottages
 - Pet policy: Varies — designated pet-friendly cottages, including Units 108 and 117
 - Website (book here, directly with the host): https://watercrestcottages.com
-
-## Weatherby's Lodge
-
-- ID: ME-0047
-- Town / area (approximate map location): Grand Lake Stream, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: From $79/adult/night housekeeping; $269–$299/adult/day all-inclusive Published 2026 rates; minimum housekeeping $200/night; 9% tax extra; meals included in all-inclusive
-- Children welcome: Conditional; check unit policy
-- Pets welcome: yes
-- Children policy: Yes (age-based child rates; under 5 free)
-- Pet policy: Yes (dogs $20/day, October free)
-- Website (book here, directly with the host): https://weatherbys.com
 
 ## Webhannet by the Sea
 

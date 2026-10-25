@@ -494,5 +494,365 @@
       "observation": "This domain isn't connected to a site",
       "verdict": "Hosting placeholder; no accessible rental website"
     }
+  },
+  {
+    "id": "ME-0082",
+    "name": "Arndt's Aroostook River Lodge",
+    "url": "https://arndtscamp.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0263",
+    "name": "Camden Hills Realty & Vacation Rentals",
+    "url": "https://camdenhillsrealty.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0045",
+    "name": "Canalside Cabins",
+    "url": "https://canalsidecabins.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0247",
+    "name": "Coastal Maine Vacations",
+    "url": "https://coastalmaine.vacations",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0078",
+    "name": "Conklin's Lodge and Camps",
+    "url": "https://conklinslodge.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0232",
+    "name": "Connecting Rentals",
+    "url": "https://connectingrentals.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0152",
+    "name": "Eagle Lake & Beyond",
+    "url": "https://eaglelakebeyondllc.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0107",
+    "name": "Edgewater Cabins",
+    "url": "https://edgewatercabins.com/",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0292",
+    "name": "Glenmoor by the Sea",
+    "url": "https://glenmoorbythesea.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0036",
+    "name": "Grand Lake Cottages",
+    "url": "https://grandlakecottages.net",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0291",
+    "name": "Green Gables Inn",
+    "url": "https://greengablesinnmaine.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0155",
+    "name": "HAGS Place",
+    "url": "https://hagsplace.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0212",
+    "name": "In The Trees",
+    "url": "https://inthetreesmaine.lodgify.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0063",
+    "name": "Katahdin Cabins",
+    "url": "https://katahdincabins.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0127",
+    "name": "Kebo View at Acadia",
+    "url": "https://barharborweeklyrentals.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0080",
+    "name": "Kendall Farm Cottages",
+    "url": "https://kendallfarmcottages.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0111",
+    "name": "Kennebec Riverside Cabins",
+    "url": "https://krcabins.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0269",
+    "name": "Kinney Rentals",
+    "url": "https://kinneyrentals.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0057",
+    "name": "Kokadjo Cabins & Trading Post",
+    "url": "https://kokadjo.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0092",
+    "name": "Lawrence's Lakeside Cabins",
+    "url": "https://lawrenceslakesidecabins.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0085",
+    "name": "Lyons Lakeside Cabins",
+    "url": "https://lyonslakeside.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0142",
+    "name": "Maine Bella Vita Cabins",
+    "url": "https://mainebellavitacabins.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0140",
+    "name": "Maine Cottage Rental (LedgeLawn Cottage)",
+    "url": "https://mainecottages.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0239",
+    "name": "Maine Vacation Rentals Inc.",
+    "url": "https://mainevacationrentalsonline.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0067",
+    "name": "Mt. Chase Lodge",
+    "url": "https://mtchaselodge.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0141",
+    "name": "Niftybug Rentals",
+    "url": "https://niftybug.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0271",
+    "name": "On the Water in Maine",
+    "url": "https://onthewaterinmaine.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0251",
+    "name": "Quoddy Properties Vacation Rentals",
+    "url": "https://quoddyproperties.com/vacation-rentals.html",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0267",
+    "name": "Rangeley Vacation Rentals",
+    "url": "https://rangeleyvacationrentals.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0205",
+    "name": "Sebago Rental",
+    "url": "https://sebagorental.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0173",
+    "name": "Suites by the Sea",
+    "url": "https://suitesbythesea.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0220",
+    "name": "The Heyer House",
+    "url": "https://whereswaldoboro.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0281",
+    "name": "True Hall Vacation Rentals",
+    "url": "https://truehall.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0237",
+    "name": "Vacation Cottages",
+    "url": "https://vacationcottages.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0284",
+    "name": "Vinalhaven Vacation Rentals",
+    "url": "https://vinalhavenvacationrentals.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
+  },
+  {
+    "id": "ME-0047",
+    "name": "Weatherby's Lodge",
+    "url": "https://weatherbys.com",
+    "checkedOn": "2026-10-25",
+    "verdict": "Excluded — missing property photos",
+    "reason": "Excluded at Sandy’s request: no collected property photos / cover. This is not a claim that the website is unreachable.",
+    "exclusionSource": "Explicit user instruction",
+    "propertyPhotoCount": 0
   }
 ]
