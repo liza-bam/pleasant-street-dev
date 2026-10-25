@@ -222,8 +222,8 @@
   "place": "Abbot, ME",
   "town": "Abbot",
   "state": "ME",
-  "lat": 45.1861,
-  "lng": -69.4524,
+  "lat": 45.20479,
+  "lng": -69.45489,
   "photo": "images/ME-0120-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -318,7 +318,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Abbot%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -728,8 +728,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.37843,
+  "lng": -68.27567,
   "photo": "images/ME-0123-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -820,7 +820,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -832,8 +832,8 @@
   "place": "Southwest Harbor, ME",
   "town": "Southwest Harbor",
   "state": "ME",
-  "lat": 44.2798,
-  "lng": -68.3259,
+  "lat": 44.28727,
+  "lng": -68.32851,
   "photo": "images/ME-0208-card.webp",
   "type": "House",
   "guests": 4,
@@ -928,7 +928,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -940,8 +940,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.38967,
+  "lng": -68.20924,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -1019,7 +1019,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -1031,8 +1031,8 @@
   "place": "Trenton, ME",
   "town": "Trenton",
   "state": "ME",
-  "lat": 44.4392,
-  "lng": -68.3707,
+  "lat": 44.5008,
+  "lng": -68.38242,
   "photo": "images/ME-0112-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -1127,7 +1127,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Trenton%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -1139,8 +1139,8 @@
   "place": "Southwest Harbor, ME",
   "town": "Southwest Harbor",
   "state": "ME",
-  "lat": 44.2798,
-  "lng": -68.3259,
+  "lat": 44.28181,
+  "lng": -68.35358,
   "photo": "images/ME-0101-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -1223,7 +1223,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -1771,8 +1771,8 @@
   "place": "Ellsworth, ME",
   "town": "Ellsworth",
   "state": "ME",
-  "lat": 44.5415,
-  "lng": -68.4244,
+  "lat": 44.56468,
+  "lng": -68.4413,
   "photo": "Unknown",
   "type": "Camp",
   "guests": "Unknown",
@@ -1850,7 +1850,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Ellsworth%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -1862,8 +1862,8 @@
   "place": "Presque Isle, ME",
   "town": "Presque Isle",
   "state": "ME",
-  "lat": 46.6812,
-  "lng": -68.0155,
+  "lat": 46.7225,
+  "lng": -67.95106,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -1941,7 +1941,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Presque+Isle%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -2053,8 +2053,8 @@
   "place": "Boothbay Harbor, ME",
   "town": "Boothbay Harbor",
   "state": "ME",
-  "lat": 43.8513,
-  "lng": -69.6278,
+  "lat": 43.8524,
+  "lng": -69.62645,
   "photo": "images/ME-0133-card.webp",
   "type": "House",
   "guests": 6,
@@ -2145,7 +2145,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -2265,8 +2265,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.42757,
+  "lng": -68.3517,
   "photo": "images/ME-0125-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -2361,7 +2361,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -2373,8 +2373,8 @@
   "place": "Bass Harbor, ME",
   "town": "Bass Harbor",
   "state": "ME",
-  "lat": 44.2401,
-  "lng": -68.3439,
+  "lat": 44.24511,
+  "lng": -68.34543,
   "photo": "images/ME-0009-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -2465,7 +2465,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bass+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -2477,8 +2477,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.43643,
+  "lng": -68.26047,
   "photo": "images/ME-0003-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -2565,7 +2565,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -2685,8 +2685,8 @@
   "place": "Naples, ME",
   "town": "Naples",
   "state": "ME",
-  "lat": 43.9695,
-  "lng": -70.6051,
+  "lat": 43.96978,
+  "lng": -70.59768,
   "photo": "images/ME-0070-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -2781,7 +2781,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Naples%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -2901,8 +2901,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.43867,
+  "lng": -68.32191,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -2980,7 +2980,7 @@
    "Address notes": "Third-party business listing; current operator address unverified."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -3197,8 +3197,8 @@
   "place": "Rome, ME",
   "town": "Rome",
   "state": "ME",
-  "lat": 44.5851,
-  "lng": -69.8696,
+  "lat": 44.57988,
+  "lng": -69.83908,
   "photo": "images/ME-0095-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -3281,7 +3281,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rome%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -4028,8 +4028,8 @@
   "place": "Camp Ellis / Saco, ME",
   "town": "Camp Ellis",
   "state": "ME",
-  "lat": 43.4637,
-  "lng": -70.3803,
+  "lat": 43.46454,
+  "lng": -70.38114,
   "photo": "images/ME-0144-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -4116,7 +4116,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -4128,8 +4128,8 @@
   "place": "Jonesboro, ME",
   "town": "Jonesboro",
   "state": "ME",
-  "lat": 44.6626,
-  "lng": -67.5725,
+  "lat": 44.6662,
+  "lng": -67.55569,
   "photo": "images/ME-0055-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -4212,7 +4212,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Jonesboro%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -4224,8 +4224,8 @@
   "place": "Boothbay Harbor, ME",
   "town": "Boothbay Harbor",
   "state": "ME",
-  "lat": 43.8513,
-  "lng": -69.6278,
+  "lat": 43.85002,
+  "lng": -69.63112,
   "photo": "images/ME-0134-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -4320,7 +4320,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -4418,8 +4418,8 @@
   "place": "Stonington, ME",
   "town": "Stonington",
   "state": "ME",
-  "lat": 44.1566,
-  "lng": -68.6673,
+  "lat": 44.15635,
+  "lng": -68.66425,
   "photo": "images/ME-0106-card.webp",
   "type": "Apartment",
   "guests": "Unknown",
@@ -4514,7 +4514,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Stonington%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -4526,8 +4526,8 @@
   "place": "Camp Ellis / Saco, ME",
   "town": "Camp Ellis",
   "state": "ME",
-  "lat": 43.4637,
-  "lng": -70.3803,
+  "lat": 43.4631,
+  "lng": -70.38055,
   "photo": "images/ME-0145-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -4622,7 +4622,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Camp+Ellis%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -4742,8 +4742,8 @@
   "place": "Greenville, ME",
   "town": "Greenville",
   "state": "ME",
-  "lat": 45.459,
-  "lng": -69.5917,
+  "lat": 45.26373,
+  "lng": -69.47341,
   "photo": "images/ME-0159-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -4838,7 +4838,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -4941,8 +4941,8 @@
   "place": "Camden, ME",
   "town": "Camden",
   "state": "ME",
-  "lat": 44.2155,
-  "lng": -69.0852,
+  "lat": 44.20579,
+  "lng": -69.06723,
   "photo": "images/ME-0143-card.webp",
   "type": "Apartment",
   "guests": "Unknown",
@@ -5037,7 +5037,7 @@
    "Address notes": "ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -5049,8 +5049,8 @@
   "place": "Fort Kent, ME",
   "town": "Fort Kent",
   "state": "ME",
-  "lat": 47.2559,
-  "lng": -68.5905,
+  "lat": 47.21893,
+  "lng": -68.65157,
   "photo": "images/ME-0038-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -5133,7 +5133,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -5145,8 +5145,8 @@
   "place": "Bremen, ME",
   "town": "Bremen",
   "state": "ME",
-  "lat": 44.0381,
-  "lng": -69.4149,
+  "lat": 44.04875,
+  "lng": -69.43134,
   "photo": "images/ME-0013-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -5237,7 +5237,7 @@
    "Address notes": "ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bremen%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -5249,8 +5249,8 @@
   "place": "Mount Vernon, ME",
   "town": "Mount Vernon",
   "state": "ME",
-  "lat": 44.5009,
-  "lng": -69.9877,
+  "lat": 44.43782,
+  "lng": -70.01258,
   "photo": "images/ME-0068-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -5345,7 +5345,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Vernon%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -5725,8 +5725,8 @@
   "place": "Caribou, ME",
   "town": "Caribou",
   "state": "ME",
-  "lat": 46.8606,
-  "lng": -68.0117,
+  "lat": 46.86646,
+  "lng": -68.04219,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -5804,7 +5804,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -6406,8 +6406,8 @@
   "place": "Jefferson, ME",
   "town": "Jefferson",
   "state": "ME",
-  "lat": 44.201,
-  "lng": -69.4564,
+  "lat": 44.2138,
+  "lng": -69.45843,
   "photo": "images/ME-0168-card.webp",
   "type": "Unknown",
   "guests": 2,
@@ -6490,7 +6490,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Jefferson%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -7070,8 +7070,8 @@
   "place": "Danforth, ME",
   "town": "Danforth",
   "state": "ME",
-  "lat": 45.6597,
-  "lng": -67.867,
+  "lat": 45.66296,
+  "lng": -67.79405,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -7149,7 +7149,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Danforth%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -7161,8 +7161,8 @@
   "place": "Jackman, ME",
   "town": "Jackman",
   "state": "ME",
-  "lat": 45.6238,
-  "lng": -70.254,
+  "lat": 45.62293,
+  "lng": -70.2577,
   "photo": "images/ME-0052-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -7257,7 +7257,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -7269,8 +7269,8 @@
   "place": "Rangeley, ME",
   "town": "Rangeley",
   "state": "ME",
-  "lat": 44.9653,
-  "lng": -70.643,
+  "lat": 44.96023,
+  "lng": -70.63961,
   "photo": "images/ME-0083-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -7357,7 +7357,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -7581,8 +7581,8 @@
   "place": "Freeport, ME",
   "town": "Freeport",
   "state": "ME",
-  "lat": 43.8573,
-  "lng": -70.1028,
+  "lat": 43.85931,
+  "lng": -70.15579,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -7660,7 +7660,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Freeport%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -7888,8 +7888,8 @@
   "place": "Camden, ME",
   "town": "Camden",
   "state": "ME",
-  "lat": 44.2155,
-  "lng": -69.0852,
+  "lat": 44.2238,
+  "lng": -69.04395,
   "photo": "images/ME-0290-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -7984,7 +7984,7 @@
    "Address notes": "ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -7996,8 +7996,8 @@
   "place": "Rockport, ME",
   "town": "Rockport",
   "state": "ME",
-  "lat": 44.1875,
-  "lng": -69.073,
+  "lat": 44.18376,
+  "lng": -69.07576,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -8075,7 +8075,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -8178,8 +8178,8 @@
   "place": "Fort Kent, ME",
   "town": "Fort Kent",
   "state": "ME",
-  "lat": 47.2559,
-  "lng": -68.5905,
+  "lat": 47.27974,
+  "lng": -68.55065,
   "photo": "images/ME-0040-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -8274,7 +8274,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Fort+Kent%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -8377,8 +8377,8 @@
   "place": "Eagle Lake, ME",
   "town": "Eagle Lake",
   "state": "ME",
-  "lat": 47.0401,
-  "lng": -68.5963,
+  "lat": 47.04155,
+  "lng": -68.5885,
   "photo": "images/ME-0030-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -8473,7 +8473,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -8485,8 +8485,8 @@
   "place": "Eagle Lake, ME",
   "town": "Eagle Lake",
   "state": "ME",
-  "lat": 47.0401,
-  "lng": -68.5963,
+  "lat": 47.04273,
+  "lng": -68.58954,
   "photo": "images/ME-0031-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -8581,7 +8581,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -8593,8 +8593,8 @@
   "place": "Sullivan, ME",
   "town": "Sullivan",
   "state": "ME",
-  "lat": 44.5204,
-  "lng": -68.1967,
+  "lat": 44.52121,
+  "lng": -68.21107,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -8672,7 +8672,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Sullivan%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -8684,8 +8684,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.38967,
+  "lng": -68.37703,
   "photo": "images/ME-0126-card.webp",
   "type": "House",
   "guests": 10,
@@ -8780,7 +8780,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -9082,8 +9082,8 @@
   "place": "Weston, ME",
   "town": "Weston",
   "state": "ME",
-  "lat": 45.7358,
-  "lng": -67.8761,
+  "lat": 45.69379,
+  "lng": -67.86112,
   "photo": "images/ME-0117-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -9178,7 +9178,7 @@
    "Address notes": "ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Weston%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -9993,8 +9993,8 @@
   "place": "Forest City, ME",
   "town": "Forest City",
   "state": "ME",
-  "lat": 45.6598,
-  "lng": -67.7297,
+  "lat": 45.66132,
+  "lng": -67.73179,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -10072,7 +10072,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Forest+City%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -10084,8 +10084,8 @@
   "place": "Grand Lake Stream, ME",
   "town": "Grand Lake Stream",
   "state": "ME",
-  "lat": 45.1789,
-  "lng": -67.775,
+  "lat": 45.18392,
+  "lng": -67.77712,
   "photo": "images/ME-0046-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -10180,7 +10180,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -10192,8 +10192,8 @@
   "place": "Rockwood, ME",
   "town": "Rockwood",
   "state": "ME",
-  "lat": 45.6778,
-  "lng": -69.7409,
+  "lat": 45.67277,
+  "lng": -69.78946,
   "photo": "Unknown",
   "type": "Camp",
   "guests": "Unknown",
@@ -10271,7 +10271,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -10283,8 +10283,8 @@
   "place": "Southport, ME",
   "town": "Southport",
   "state": "ME",
-  "lat": 43.8407,
-  "lng": -69.656,
+  "lat": 43.81185,
+  "lng": -69.65426,
   "photo": "images/ME-0100-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -10379,7 +10379,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Southport%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -10499,8 +10499,8 @@
   "place": "Camden, ME",
   "town": "Camden",
   "state": "ME",
-  "lat": 44.2155,
-  "lng": -69.0852,
+  "lat": 44.20708,
+  "lng": -69.06635,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -10578,7 +10578,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Camden%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -10590,8 +10590,8 @@
   "place": "Harrington, ME",
   "town": "Harrington",
   "state": "ME",
-  "lat": 44.6193,
-  "lng": -67.8104,
+  "lat": 44.55028,
+  "lng": -67.77147,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -10669,7 +10669,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Harrington%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -10772,8 +10772,8 @@
   "place": "Southwest Harbor, ME",
   "town": "Southwest Harbor",
   "state": "ME",
-  "lat": 44.2798,
-  "lng": -68.3259,
+  "lat": 44.27822,
+  "lng": -68.32479,
   "photo": "images/ME-0209-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -10856,7 +10856,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -11076,8 +11076,8 @@
   "place": "Downeast coast, ME",
   "town": "Downeast coast",
   "state": "ME",
-  "lat": "Unknown",
-  "lng": "Unknown",
+  "lat": 44.51687,
+  "lng": -67.73471,
   "photo": "images/ME-0151-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -11168,7 +11168,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Unknown",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Downeast+coast%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -11396,8 +11396,8 @@
   "place": "Norway, ME",
   "town": "Norway",
   "state": "ME",
-  "lat": 44.2136,
-  "lng": -70.5423,
+  "lat": 44.21245,
+  "lng": -70.57611,
   "photo": "images/ME-0075-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -11492,7 +11492,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Norway%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -11504,8 +11504,8 @@
   "place": "Harborside, ME",
   "town": "Harborside",
   "state": "ME",
-  "lat": 44.349,
-  "lng": -68.8156,
+  "lat": 44.31486,
+  "lng": -68.79315,
   "photo": "images/ME-0051-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -11600,7 +11600,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Harborside%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -11720,8 +11720,8 @@
   "place": "Southwest Harbor, ME",
   "town": "Southwest Harbor",
   "state": "ME",
-  "lat": 44.2798,
-  "lng": -68.3259,
+  "lat": 44.27868,
+  "lng": -68.33076,
   "photo": "images/ME-0103-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -11808,7 +11808,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -11820,8 +11820,8 @@
   "place": "Stoneham, ME",
   "town": "Stoneham",
   "state": "ME",
-  "lat": 44.2505,
-  "lng": -70.8125,
+  "lat": 44.24977,
+  "lng": -70.81076,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -11899,7 +11899,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -11911,8 +11911,8 @@
   "place": "Stoneham, ME",
   "town": "Stoneham",
   "state": "ME",
-  "lat": 44.2505,
-  "lng": -70.8125,
+  "lat": 44.24977,
+  "lng": -70.81076,
   "photo": "images/ME-0213-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -12007,7 +12007,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -12123,8 +12123,8 @@
   "place": "South Thomaston, ME",
   "town": "South Thomaston",
   "state": "ME",
-  "lat": 44.0515,
-  "lng": -69.1278,
+  "lat": 44.01444,
+  "lng": -69.12947,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -12202,7 +12202,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Thomaston%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -12214,8 +12214,8 @@
   "place": "Dedham, ME",
   "town": "Dedham",
   "state": "ME",
-  "lat": 44.6917,
-  "lng": -68.662,
+  "lat": 44.67094,
+  "lng": -68.55248,
   "photo": "images/ME-0149-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -12310,7 +12310,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Dedham%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -12646,8 +12646,8 @@
   "place": "Millinocket, ME",
   "town": "Millinocket",
   "state": "ME",
-  "lat": 45.6487,
-  "lng": -68.6849,
+  "lat": 45.65288,
+  "lng": -68.69766,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -12725,7 +12725,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Millinocket%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -12737,8 +12737,8 @@
   "place": "Medway, ME",
   "town": "Medway",
   "state": "ME",
-  "lat": 45.6089,
-  "lng": -68.5309,
+  "lat": 45.61707,
+  "lng": -68.55071,
   "photo": "images/ME-0060-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -12833,7 +12833,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Medway%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -12930,8 +12930,8 @@
   "place": "Wells, ME",
   "town": "Wells",
   "state": "ME",
-  "lat": 43.322,
-  "lng": -70.5807,
+  "lat": 43.28409,
+  "lng": -70.59452,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -13009,7 +13009,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -13021,8 +13021,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.38954,
+  "lng": -68.20795,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -13100,7 +13100,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -13112,8 +13112,8 @@
   "place": "Perry, ME",
   "town": "Perry",
   "state": "ME",
-  "lat": 44.9729,
-  "lng": -67.0748,
+  "lat": 45.01575,
+  "lng": -67.12899,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -13191,7 +13191,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Perry%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -13402,8 +13402,8 @@
   "place": "Greenville, ME",
   "town": "Greenville",
   "state": "ME",
-  "lat": 45.459,
-  "lng": -69.5917,
+  "lat": 45.45995,
+  "lng": -69.59477,
   "photo": "images/ME-0160-card.webp",
   "type": "Unknown",
   "guests": 17,
@@ -13498,7 +13498,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -13601,8 +13601,8 @@
   "place": "Kokadjo, ME",
   "town": "Kokadjo",
   "state": "ME",
-  "lat": 45.6712,
-  "lng": -69.447,
+  "lat": 45.6718,
+  "lng": -69.44596,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -13680,7 +13680,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Kokadjo%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -14100,8 +14100,8 @@
   "place": "Damariscotta, ME",
   "town": "Damariscotta",
   "state": "ME",
-  "lat": 44.0328,
-  "lng": -69.5315,
+  "lat": 44.03116,
+  "lng": -69.45978,
   "photo": "images/ME-0025-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -14196,7 +14196,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -14420,8 +14420,8 @@
   "place": "Rockwood, ME",
   "town": "Rockwood",
   "state": "ME",
-  "lat": 45.6778,
-  "lng": -69.7409,
+  "lat": 45.66788,
+  "lng": -69.74092,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -14499,7 +14499,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -14922,8 +14922,8 @@
   "place": "Tenants Harbor, ME",
   "town": "Tenants Harbor",
   "state": "ME",
-  "lat": 43.9637,
-  "lng": -69.2034,
+  "lat": 43.97688,
+  "lng": -69.20195,
   "photo": "images/ME-0110-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -15018,7 +15018,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Tenants+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -15030,8 +15030,8 @@
   "place": "Jackman, ME",
   "town": "Jackman",
   "state": "ME",
-  "lat": 45.6238,
-  "lng": -70.254,
+  "lat": 45.62314,
+  "lng": -70.13866,
   "photo": "images/ME-0053-card.webp",
   "type": "Camp",
   "guests": "Unknown",
@@ -15114,7 +15114,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -15126,8 +15126,8 @@
   "place": "Brooklin, ME",
   "town": "Brooklin",
   "state": "ME",
-  "lat": 44.2661,
-  "lng": -68.5691,
+  "lat": 44.26311,
+  "lng": -68.52189,
   "photo": "images/ME-0014-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -15222,7 +15222,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -15529,8 +15529,8 @@
   "place": "Lubec, ME",
   "town": "Lubec",
   "state": "ME",
-  "lat": 44.8612,
-  "lng": -66.9835,
+  "lat": 44.85964,
+  "lng": -66.98329,
   "photo": "images/ME-0174-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -15625,7 +15625,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -15637,8 +15637,8 @@
   "place": "Lubec, ME",
   "town": "Lubec",
   "state": "ME",
-  "lat": 44.8612,
-  "lng": -66.9835,
+  "lat": 44.81983,
+  "lng": -66.99073,
   "photo": "images/ME-0175-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -15725,7 +15725,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -15737,8 +15737,8 @@
   "place": "Eagle Lake, ME",
   "town": "Eagle Lake",
   "state": "ME",
-  "lat": 47.0401,
-  "lng": -68.5963,
+  "lat": 47.05378,
+  "lng": -68.58507,
   "photo": "images/ME-0032-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -15821,7 +15821,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -15833,8 +15833,8 @@
   "place": "Rangeley, ME",
   "town": "Rangeley",
   "state": "ME",
-  "lat": 44.9653,
-  "lng": -70.643,
+  "lat": 44.94581,
+  "lng": -70.63655,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -15912,7 +15912,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -16248,8 +16248,8 @@
   "place": "Byron, ME",
   "town": "Byron",
   "state": "ME",
-  "lat": 44.7202,
-  "lng": -70.6322,
+  "lat": 44.72363,
+  "lng": -70.63577,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -16327,7 +16327,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Byron%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -16750,8 +16750,8 @@
   "place": "Casco / Raymond, ME",
   "town": "Casco",
   "state": "ME",
-  "lat": 44.0061,
-  "lng": -70.5225,
+  "lat": 43.92431,
+  "lng": -70.45188,
   "photo": "images/ME-0147-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -16838,7 +16838,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Casco%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -16850,8 +16850,8 @@
   "place": "Caratunk, ME",
   "town": "Caratunk",
   "state": "ME",
-  "lat": 45.234,
-  "lng": -69.9916,
+  "lat": 45.21707,
+  "lng": -69.98816,
   "photo": "images/ME-0021-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -16946,7 +16946,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Caratunk%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -17456,8 +17456,8 @@
   "place": "Multiple Maine locations, ME",
   "town": "Multiple Maine locations",
   "state": "ME",
-  "lat": "Unknown",
-  "lng": "Unknown",
+  "lat": 44.25232,
+  "lng": -70.33311,
   "photo": "images/ME-0069-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -17552,7 +17552,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Unknown",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Multiple+Maine+locations%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -17780,8 +17780,8 @@
   "place": "Rockwood, ME",
   "town": "Rockwood",
   "state": "ME",
-  "lat": 45.6778,
-  "lng": -69.7409,
+  "lat": 45.67555,
+  "lng": -69.78898,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -17859,7 +17859,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -17871,8 +17871,8 @@
   "place": "Southwest Harbor, ME",
   "town": "Southwest Harbor",
   "state": "ME",
-  "lat": 44.2798,
-  "lng": -68.3259,
+  "lat": 44.28832,
+  "lng": -68.33012,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -17950,7 +17950,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Southwest+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -17962,8 +17962,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.38944,
+  "lng": -68.2118,
   "photo": "images/ME-0128-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -18058,7 +18058,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -18629,8 +18629,8 @@
   "place": "Greenville, ME",
   "town": "Greenville",
   "state": "ME",
-  "lat": 45.459,
-  "lng": -69.5917,
+  "lat": 45.4386,
+  "lng": -69.59032,
   "photo": "images/ME-0048-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -18725,7 +18725,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -19253,8 +19253,8 @@
   "place": "Mount Chase, ME",
   "town": "Mount Chase",
   "state": "ME",
-  "lat": 46.0651,
-  "lng": -68.533,
+  "lat": 46.11067,
+  "lng": -68.55289,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -19332,7 +19332,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Chase%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -19835,8 +19835,8 @@
   "place": "Rangeley, ME",
   "town": "Rangeley",
   "state": "ME",
-  "lat": 44.9653,
-  "lng": -70.643,
+  "lat": 44.92466,
+  "lng": -70.68948,
   "photo": "Unknown",
   "type": "Camp",
   "guests": "Unknown",
@@ -19914,7 +19914,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -19926,8 +19926,8 @@
   "place": "Buckfield, ME",
   "town": "Buckfield",
   "state": "ME",
-  "lat": 44.2899,
-  "lng": -70.3654,
+  "lat": 44.2911,
+  "lng": -70.36292,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -20005,7 +20005,7 @@
    "Address notes": "ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Buckfield%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -20210,8 +20210,8 @@
   "place": "Greenville, ME",
   "town": "Greenville",
   "state": "ME",
-  "lat": 45.459,
-  "lng": -69.5917,
+  "lat": 45.46118,
+  "lng": -69.62168,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -20289,7 +20289,7 @@
    "Address notes": "Address appears in website copy; property identity remains unverified. ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Greenville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -20301,8 +20301,8 @@
   "place": "Denmark, ME",
   "town": "Denmark",
   "state": "ME",
-  "lat": 43.9707,
-  "lng": -70.8035,
+  "lat": 44.0238,
+  "lng": -70.85242,
   "photo": "images/ME-0029-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -20397,7 +20397,7 @@
    "Address notes": "ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Denmark%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -20517,8 +20517,8 @@
   "place": "Wells, ME",
   "town": "Wells",
   "state": "ME",
-  "lat": 43.322,
-  "lng": -70.5807,
+  "lat": 43.28672,
+  "lng": -70.57148,
   "photo": "images/ME-0222-card.webp",
   "type": "Apartment",
   "guests": "Unknown",
@@ -20605,7 +20605,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -20725,8 +20725,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.41886,
+  "lng": -68.24737,
   "photo": "images/ME-0129-card.webp",
   "type": "Unknown",
   "guests": 10,
@@ -20821,7 +20821,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -20833,8 +20833,8 @@
   "place": "Old Orchard Beach, ME",
   "town": "Old Orchard Beach",
   "state": "ME",
-  "lat": 43.5076,
-  "lng": -70.3562,
+  "lat": 43.50555,
+  "lng": -70.38119,
   "photo": "images/ME-0192-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -20929,7 +20929,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Old+Orchard+Beach%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -21227,8 +21227,8 @@
   "place": "Eagle Lake, ME",
   "town": "Eagle Lake",
   "state": "ME",
-  "lat": 47.0401,
-  "lng": -68.5963,
+  "lat": 47.04556,
+  "lng": -68.59557,
   "photo": "images/ME-0033-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -21315,7 +21315,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -21500,8 +21500,8 @@
   "place": "Lincolnville, ME",
   "town": "Lincolnville",
   "state": "ME",
-  "lat": 44.2812,
-  "lng": -69.0086,
+  "lat": 44.25582,
+  "lng": -69.02771,
   "photo": "images/ME-0059-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -21596,7 +21596,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -21716,8 +21716,8 @@
   "place": "Calais, ME",
   "town": "Calais",
   "state": "ME",
-  "lat": 45.189,
-  "lng": -67.2781,
+  "lat": 45.17127,
+  "lng": -67.2458,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -21795,7 +21795,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Calais%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -21807,8 +21807,8 @@
   "place": "Eagle Lake, ME",
   "town": "Eagle Lake",
   "state": "ME",
-  "lat": 47.0401,
-  "lng": -68.5963,
+  "lat": 47.03923,
+  "lng": -68.58602,
   "photo": "images/ME-0034-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -21903,7 +21903,7 @@
    "Address notes": "Official contact page gives 17 Pond Brook Road. A tourism listing gives 21 Pond Brook Rd; use official source pending confirmation."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Eagle+Lake%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -21915,8 +21915,8 @@
   "place": "Boothbay Harbor, ME",
   "town": "Boothbay Harbor",
   "state": "ME",
-  "lat": 43.8513,
-  "lng": -69.6278,
+  "lat": 43.85058,
+  "lng": -69.64925,
   "photo": "images/ME-0135-card.webp",
   "type": "House",
   "guests": 2,
@@ -22011,7 +22011,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Boothbay+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -22114,8 +22114,8 @@
   "place": "Rangeley, ME",
   "town": "Rangeley",
   "state": "ME",
-  "lat": 44.9653,
-  "lng": -70.643,
+  "lat": 44.95632,
+  "lng": -70.63928,
   "photo": "images/ME-0087-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -22210,7 +22210,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -22313,8 +22313,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.33071,
+  "lng": -68.20782,
   "photo": "images/ME-0130-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -22405,7 +22405,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -22633,8 +22633,8 @@
   "place": "Rockland, ME",
   "town": "Rockland",
   "state": "ME",
-  "lat": 44.1048,
-  "lng": -69.1092,
+  "lat": 44.10839,
+  "lng": -69.11519,
   "photo": "images/ME-0198-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -22729,7 +22729,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockland%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -22832,8 +22832,8 @@
   "place": "Rockwood, ME",
   "town": "Rockwood",
   "state": "ME",
-  "lat": 45.6778,
-  "lng": -69.7409,
+  "lat": 45.68212,
+  "lng": -69.75999,
   "photo": "images/ME-0093-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -22928,7 +22928,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockwood%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -23226,8 +23226,8 @@
   "place": "Jackman, ME",
   "town": "Jackman",
   "state": "ME",
-  "lat": 45.6238,
-  "lng": -70.254,
+  "lat": 45.62193,
+  "lng": -70.2577,
   "photo": "images/ME-0054-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -23322,7 +23322,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Jackman%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -23658,8 +23658,8 @@
   "place": "Rockport, ME",
   "town": "Rockport",
   "state": "ME",
-  "lat": 44.1875,
-  "lng": -69.073,
+  "lat": 44.12375,
+  "lng": -69.0861,
   "photo": "images/ME-0200-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -23754,7 +23754,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -23974,8 +23974,8 @@
   "place": "Pemaquid, ME",
   "town": "Pemaquid",
   "state": "ME",
-  "lat": 43.9053,
-  "lng": -69.5071,
+  "lat": 43.89096,
+  "lng": -69.50284,
   "photo": "images/ME-0079-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -24058,7 +24058,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Pemaquid%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -24070,8 +24070,8 @@
   "place": "Bailey Island, ME",
   "town": "Bailey Island",
   "state": "ME",
-  "lat": 43.7336,
-  "lng": -69.9943,
+  "lat": 43.73834,
+  "lng": -69.9961,
   "photo": "images/ME-0002-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -24166,7 +24166,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bailey+Island%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -24394,8 +24394,8 @@
   "place": "York Beach, ME",
   "town": "York Beach",
   "state": "ME",
-  "lat": 43.1717,
-  "lng": -70.6089,
+  "lat": 43.18121,
+  "lng": -70.66755,
   "photo": "images/ME-0119-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -24478,7 +24478,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=York+Beach%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -24490,8 +24490,8 @@
   "place": "Wells, ME",
   "town": "Wells",
   "state": "ME",
-  "lat": 43.322,
-  "lng": -70.5807,
+  "lat": 43.27904,
+  "lng": -70.59553,
   "photo": "images/ME-0223-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -24582,7 +24582,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -24702,8 +24702,8 @@
   "place": "East Boothbay, ME",
   "town": "East Boothbay",
   "state": "ME",
-  "lat": 43.864,
-  "lng": -69.585,
+  "lat": 43.85798,
+  "lng": -69.59078,
   "photo": "images/ME-0153-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -24798,7 +24798,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=East+Boothbay%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -24918,8 +24918,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.40502,
+  "lng": -68.34835,
   "photo": "images/ME-0005-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -25014,7 +25014,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -25026,8 +25026,8 @@
   "place": "Standish, ME",
   "town": "Standish",
   "state": "ME",
-  "lat": 43.7359,
-  "lng": -70.5515,
+  "lat": 43.84398,
+  "lng": -70.46701,
   "photo": "images/ME-0104-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -25122,7 +25122,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Standish%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -25333,8 +25333,8 @@
   "place": "Deer Isle / Brooksville, ME",
   "town": "Deer Isle",
   "state": "ME",
-  "lat": 44.224,
-  "lng": -68.6776,
+  "lat": 44.28737,
+  "lng": -68.69432,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -25412,7 +25412,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Deer+Isle%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -25424,8 +25424,8 @@
   "place": "Mount Chase, ME",
   "town": "Mount Chase",
   "state": "ME",
-  "lat": 46.0651,
-  "lng": -68.533,
+  "lat": 46.10555,
+  "lng": -68.55569,
   "photo": "images/ME-0181-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -25516,7 +25516,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Mount+Chase%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -25528,8 +25528,8 @@
   "place": "Moose River / Jackman, ME",
   "town": "Moose River",
   "state": "ME",
-  "lat": 45.6528,
-  "lng": -70.2662,
+  "lat": 45.65658,
+  "lng": -70.26752,
   "photo": "Unknown",
   "type": "Cabin",
   "guests": "Unknown",
@@ -25607,7 +25607,7 @@
    "Address notes": "Supplied website now refers to Peru. This address is for the Maine Sky Lodge in the tourism directory."
   },
   "listingStatus": "Needs review",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Moose+River%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -25619,8 +25619,8 @@
   "place": "New Harbor, ME",
   "town": "New Harbor",
   "state": "ME",
-  "lat": 43.8734,
-  "lng": -69.5007,
+  "lat": 43.87353,
+  "lng": -69.50772,
   "photo": "images/ME-0185-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -25715,7 +25715,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -25943,8 +25943,8 @@
   "place": "Stockton Springs, ME",
   "town": "Stockton Springs",
   "state": "ME",
-  "lat": 44.4895,
-  "lng": -68.857,
+  "lat": 44.50718,
+  "lng": -68.81645,
   "photo": "images/ME-0105-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -26039,7 +26039,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Stockton+Springs%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -26051,8 +26051,8 @@
   "place": "Lincolnville, ME",
   "town": "Lincolnville",
   "state": "ME",
-  "lat": 44.2812,
-  "lng": -69.0086,
+  "lat": 44.28304,
+  "lng": -69.00876,
   "photo": "Unknown",
   "type": "Apartment",
   "guests": "Unknown",
@@ -26130,7 +26130,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Lincolnville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -26250,8 +26250,8 @@
   "place": "Damariscotta Lake, ME",
   "town": "Damariscotta Lake",
   "state": "ME",
-  "lat": 44.1316,
-  "lng": -69.4862,
+  "lat": 44.18591,
+  "lng": -69.46304,
   "photo": "images/ME-0027-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -26346,7 +26346,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Damariscotta+Lake%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -26358,8 +26358,8 @@
   "place": "Rangeley, ME",
   "town": "Rangeley",
   "state": "ME",
-  "lat": 44.9653,
-  "lng": -70.643,
+  "lat": 44.94598,
+  "lng": -70.62669,
   "photo": "Unknown",
   "type": "House",
   "guests": "Unknown",
@@ -26437,7 +26437,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -26747,8 +26747,8 @@
   "place": "Brooksville, ME",
   "town": "Brooksville",
   "state": "ME",
-  "lat": 44.3469,
-  "lng": -68.6838,
+  "lat": 44.39284,
+  "lng": -68.76505,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -26826,7 +26826,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooksville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -26946,8 +26946,8 @@
   "place": "Sebago, ME",
   "town": "Sebago",
   "state": "ME",
-  "lat": 43.8915,
-  "lng": -70.6986,
+  "lat": 43.90079,
+  "lng": -70.61624,
   "photo": "images/ME-0203-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -27042,7 +27042,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Sebago%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -27162,8 +27162,8 @@
   "place": "Brooklin, ME",
   "town": "Brooklin",
   "state": "ME",
-  "lat": 44.2661,
-  "lng": -68.5691,
+  "lat": 44.27701,
+  "lng": -68.60604,
   "photo": "images/ME-0015-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -27250,7 +27250,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Brooklin%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -27262,8 +27262,8 @@
   "place": "Newry, ME",
   "town": "Newry",
   "state": "ME",
-  "lat": 44.4877,
-  "lng": -70.7877,
+  "lat": 44.49038,
+  "lng": -70.88751,
   "photo": "images/ME-0186-card.webp",
   "type": "House",
   "guests": 26,
@@ -27358,7 +27358,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Newry%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -27569,8 +27569,8 @@
   "place": "Burnham, ME",
   "town": "Burnham",
   "state": "ME",
-  "lat": 44.6928,
-  "lng": -69.4275,
+  "lat": 44.66546,
+  "lng": -69.32175,
   "photo": "images/ME-0019-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -27665,7 +27665,7 @@
    "Address notes": "ZIP code not found or invalid in source; left blank."
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Burnham%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -27677,8 +27677,8 @@
   "place": "Casco, ME",
   "town": "Casco",
   "state": "ME",
-  "lat": 44.0061,
-  "lng": -70.5225,
+  "lat": 43.91455,
+  "lng": -70.51758,
   "photo": "images/ME-0024-card.webp",
   "type": "Unknown",
   "guests": 20,
@@ -27773,7 +27773,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Casco%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -28001,8 +28001,8 @@
   "place": "Caribou, ME",
   "town": "Caribou",
   "state": "ME",
-  "lat": 46.8606,
-  "lng": -68.0117,
+  "lat": 46.84367,
+  "lng": -68.04271,
   "photo": "images/ME-0146-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -28089,7 +28089,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -28209,8 +28209,8 @@
   "place": "Waldoboro, ME",
   "town": "Waldoboro",
   "state": "ME",
-  "lat": 44.1092,
-  "lng": -69.3741,
+  "lat": 44.05074,
+  "lng": -69.37761,
   "photo": "images/ME-0113-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -28301,7 +28301,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Waldoboro%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -28313,8 +28313,8 @@
   "place": "New Harbor, ME",
   "town": "New Harbor",
   "state": "ME",
-  "lat": 43.8734,
-  "lng": -69.5007,
+  "lat": 43.87249,
+  "lng": -69.49235,
   "photo": "images/ME-0072-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -28409,7 +28409,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=New+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -28529,8 +28529,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.41106,
+  "lng": -68.24795,
   "photo": "images/ME-0006-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -28625,7 +28625,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -28841,8 +28841,8 @@
   "place": "Rangeley, ME",
   "town": "Rangeley",
   "state": "ME",
-  "lat": 44.9653,
-  "lng": -70.643,
+  "lat": 44.96625,
+  "lng": -70.65073,
   "photo": "images/ME-0088-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -28937,7 +28937,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Rangeley%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -28949,8 +28949,8 @@
   "place": "Northern Aroostook, ME",
   "town": "Northern Aroostook",
   "state": "ME",
-  "lat": 47.2869,
-  "lng": -68.3142,
+  "lat": 47.19783,
+  "lng": -68.59989,
   "photo": "images/ME-0074-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -29045,7 +29045,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Northern+Aroostook%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -29256,8 +29256,8 @@
   "place": "Caribou, ME",
   "town": "Caribou",
   "state": "ME",
-  "lat": 46.8606,
-  "lng": -68.0117,
+  "lat": 46.95668,
+  "lng": -68.02247,
   "photo": "images/ME-0023-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -29352,7 +29352,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Caribou%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -29843,8 +29843,8 @@
   "place": "Wells, ME",
   "town": "Wells",
   "state": "ME",
-  "lat": 43.322,
-  "lng": -70.5807,
+  "lat": 43.31273,
+  "lng": -70.58443,
   "photo": "images/ME-0115-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -29939,7 +29939,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -29951,8 +29951,8 @@
   "place": "Grand Lake Stream, ME",
   "town": "Grand Lake Stream",
   "state": "ME",
-  "lat": 45.1789,
-  "lng": -67.775,
+  "lat": 45.17961,
+  "lng": -67.77423,
   "photo": "Unknown",
   "type": "Unknown",
   "guests": "Unknown",
@@ -30030,7 +30030,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Grand+Lake+Stream%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -30042,8 +30042,8 @@
   "place": "Wells, ME",
   "town": "Wells",
   "state": "ME",
-  "lat": 43.322,
-  "lng": -70.5807,
+  "lat": 43.29466,
+  "lng": -70.56842,
   "photo": "images/ME-0224-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -30138,7 +30138,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Wells%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -30150,8 +30150,8 @@
   "place": "Gouldsboro, ME",
   "town": "Gouldsboro",
   "state": "ME",
-  "lat": 44.4086,
-  "lng": -68.0263,
+  "lat": 44.47346,
+  "lng": -68.03077,
   "photo": "images/ME-0158-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -30234,7 +30234,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Gouldsboro%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -30246,8 +30246,8 @@
   "place": "Lubec, ME",
   "town": "Lubec",
   "state": "ME",
-  "lat": 44.8612,
-  "lng": -66.9835,
+  "lat": 44.83896,
+  "lng": -66.9951,
   "photo": "images/ME-0176-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
@@ -30342,7 +30342,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Lubec%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -30458,8 +30458,8 @@
   "place": "Brownville, ME",
   "town": "Brownville",
   "state": "ME",
-  "lat": 45.35,
-  "lng": -69.0514,
+  "lat": 45.35683,
+  "lng": -68.95976,
   "photo": "images/ME-0018-card.webp",
   "type": "Cabin",
   "guests": "Unknown",
@@ -30546,7 +30546,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Brownville%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -30757,8 +30757,8 @@
   "place": "Penobscot, ME",
   "town": "Penobscot",
   "state": "ME",
-  "lat": 45.293,
-  "lng": -68.5958,
+  "lat": 44.45645,
+  "lng": -68.69671,
   "photo": "images/ME-0195-card.webp",
   "type": "Unknown",
   "guests": 8,
@@ -30841,7 +30841,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Penobscot%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false
@@ -30853,8 +30853,8 @@
   "place": "Bar Harbor, ME",
   "town": "Bar Harbor",
   "state": "ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
+  "lat": 44.43158,
+  "lng": -68.29467,
   "photo": "images/ME-0007-card.webp",
   "type": "House",
   "guests": "Unknown",
@@ -30949,7 +30949,7 @@
    "Address notes": ""
   },
   "listingStatus": "Active",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Bar+Harbor%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false

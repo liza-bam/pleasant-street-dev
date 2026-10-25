@@ -27,7 +27,7 @@ const blocks = homes.map((h) => {
 const md = `# Pleasant Street: homes and their websites
 
 Pleasant Street lists properties and rental operators with their own websites.
-Map positions show towns or areas, not exact property locations. Unknown facts are labeled Unknown.
+Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
 ${homes.length} listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ${blocks.join('\n')}`;
@@ -35,7 +35,7 @@ ${blocks.join('\n')}`;
 const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefined && h[k] !== '').map((k) => [k, h[k]]));
 fs.writeFileSync(path.join(ROOT, 'index.md'), md);
 fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(homes.map((h) =>
-  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'type', 'recordType', 'description', 'rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'address','locationPrecision','featured','demo'])), null, 1) + '\n');
+  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'type', 'recordType', 'description', 'rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','featured','demo'])), null, 1) + '\n');
 // Compatibility adapter for the current app. The canonical database keeps explicit
 // Unknown values; this older UI expects absent unknowns and numeric map coordinates.
 const street=homes.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>{

@@ -1,7 +1,7 @@
 # Pleasant Street: homes and their websites
 
 Pleasant Street lists properties and rental operators with their own websites.
-Map positions show towns or areas, not exact property locations. Unknown facts are labeled Unknown.
+Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
 306 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 207North Cabins
