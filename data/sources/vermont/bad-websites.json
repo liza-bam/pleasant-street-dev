@@ -1,0 +1,38 @@
+[
+  {
+    "id": "VT-0021",
+    "name": "Slopeside Okemo Vacation Rentals",
+    "state": "VT",
+    "place": "Ludlow / Okemo",
+    "url": "https://www.slopesideokemo.com/",
+    "alternateUrls": [
+      "http://www.slopesideokemo.com/"
+    ],
+    "checkedOn": "2026-10-25",
+    "verdict": "Unavailable",
+    "reason": "Expired-domain advertising page; no rental site.",
+    "evidence": [
+      "Connected-browser rendered page displays Network Solutions and the domain-expired message.",
+      "Two navigation attempts and a fresh rendered-page/screenshot check."
+    ],
+    "replacementUrl": null,
+    "excludedFromDirectory": true
+  },
+  {
+    "id": "VT-0044",
+    "name": "Muddy Moose - Log Cabin Lodging",
+    "state": "VT",
+    "place": "Morrisville",
+    "url": "http://www.muddymoosevt.com/",
+    "checkedOn": "2026-10-25",
+    "verdict": "Unrelated website; vacation lodging retired",
+    "reason": "Redirects to unrelated gambling content. Current owner documents conversion of former vacation cabins into permanent housing.",
+    "redirectUrl": "https://trustautomobiles.org.in/",
+    "evidence": [
+      "Two connected-browser visits confirmed the unrelated redirect.",
+      "https://downstreet.org/stories/downstreet-celebrates-muddy-moose-grand-opening"
+    ],
+    "replacementUrl": null,
+    "excludedFromDirectory": true
+  }
+]

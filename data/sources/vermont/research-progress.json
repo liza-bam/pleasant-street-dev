@@ -7,7 +7,7 @@
   "geographicHeaderMapping": {
     "Maine location": "Vermont location"
   },
-  "currentPass": "First verified batch prepared for live testing; full photo coverage and operator/aggregator audit continue",
+  "currentPass": "Website weeding pass completed for the 71-record statewide seed; broader research, details, photos and addresses continue",
   "passes": {
     "statewideDiscovery": {
       "status": "Completed for official Cabins & Vacation Rentals category",
@@ -70,6 +70,42 @@
     },
     "gapReview": {
       "status": "Pending"
+    },
+    "websiteWeeding": {
+      "status": "Completed for current 71-record seed",
+      "reviewedRecords": 71,
+      "accessCounts": {
+        "Opened": 62,
+        "Access challenge": 2,
+        "Working replacement": 2,
+        "Browser access blocked": 1,
+        "Expired domain": 1,
+        "No website identified": 2,
+        "Unrelated redirect": 1
+      },
+      "confirmedBadWebsiteIds": [
+        "VT-0021",
+        "VT-0044"
+      ],
+      "otherIneligibleIds": [
+        "VT-0027",
+        "VT-0028",
+        "VT-0055"
+      ],
+      "accessLimitedIds": [
+        "VT-0002",
+        "VT-0020",
+        "VT-0057"
+      ],
+      "replacementWebsiteIds": [
+        "VT-0016",
+        "VT-0067"
+      ],
+      "noWebsiteIdentifiedIds": [
+        "VT-0043",
+        "VT-0066"
+      ],
+      "note": "Bot challenges and blocked requests are held outside approved inventory without declaring the businesses dead. Only previously verified eight remain published."
     }
   },
   "countiesToCheck": [
@@ -90,7 +126,7 @@
   ],
   "scopeNotes": [
     "Research inventory is not proof of owner participation.",
-    "Initial eight verified websites are being published for prototype testing. Remaining candidates are excluded from public imports.",
+    "First eight verified websites are published for prototype testing. Remaining candidates and exclusions are outside public imports.",
     "Real property photos and separately labeled AI-generated illustrations are authorized."
   ]
 }

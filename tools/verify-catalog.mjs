@@ -40,6 +40,22 @@ for(const s of vermont){
  if(h.collectionStatus==='Complete')assert.equal(h.missingRequiredFields.length,0);
 }
 if(vermont.length){
+ const research=read('data/sources/vermont/research-records.json');
+ const reviewed=read('data/sources/vermont/website-audit.json');
+ const invalid=read('data/sources/vermont/bad-websites.json');
+ assert.equal(new Set(reviewed.map(r=>r.id)).size,research.length,'Vermont website audit must cover the research inventory');
+ for(const r of reviewed){
+  const row=research.find(x=>x.ID===r.id);assert(row,'Audit references unknown Vermont ID '+r.id);
+  assert.equal(row['Evidence status'],r.evidenceStatus,r.id+' stale website audit');
+  if(r.excludedFromApproval){
+   assert(!vermont.some(h=>h.id===r.id),'Unverified/excluded Vermont record approved: '+r.id);
+   assert(!homes.some(h=>h.id===r.id),'Unverified/excluded Vermont record published: '+r.id);
+  }
+ }
+ for(const r of invalid){
+  assert(r.excludedFromDirectory && r.reason && r.checkedOn && r.evidence.length,'Incomplete website exclusion evidence');
+  assert(!homes.some(h=>h.id===r.id || key(h.url)===key(r.url)),'Bad website reintroduced: '+r.id);
+ }
  for(const p of read('data/sources/vermont/photo-sources.json')){
   const file=path.join(root,p.file);assert(fs.existsSync(file),'Missing Vermont media '+p.file);
   assert.equal(crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex'),p.sha256,p.file);

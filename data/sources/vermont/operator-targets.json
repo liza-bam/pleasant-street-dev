@@ -9,7 +9,8 @@
     "id": "VT-0002",
     "name": "Sterling Ridge Resort",
     "url": "https://www.sterlingridgeresort.com/",
-    "source": "https://plan.vermontvacation.com/listings/66"
+    "source": "https://plan.vermontvacation.com/listings/66",
+    "researchStatus": "Website unavailable"
   },
   {
     "id": "VT-0003",
@@ -92,8 +93,14 @@
   {
     "id": "VT-0016",
     "name": "Humble Heart Homestead",
-    "url": "https://www.humblehearthomestead.com/",
-    "source": "https://plan.vermontvacation.com/listings/9894"
+    "url": "https://www.radfarm.org/",
+    "source": "https://plan.vermontvacation.com/listings/9894",
+    "alternateUrls": [
+      "https://www.humblehearthomestead.com/"
+    ],
+    "replacementCheckedOn": "2026-10-25",
+    "replacementSource": "https://www.humblehearthomestead.com/",
+    "researchStatus": "Source found in web research"
   },
   {
     "id": "VT-0017",
@@ -117,13 +124,15 @@
     "id": "VT-0020",
     "name": "Pie In The Sky Farm",
     "url": "http://www.pieinsky.com/",
-    "source": "https://plan.vermontvacation.com/listings/512"
+    "source": "https://plan.vermontvacation.com/listings/512",
+    "researchStatus": "Website unavailable"
   },
   {
     "id": "VT-0021",
     "name": "Slopeside Okemo Vacation Rentals",
     "url": "http://www.slopesideokemo.com/",
-    "source": "https://plan.vermontvacation.com/listings/247"
+    "source": "https://plan.vermontvacation.com/listings/247",
+    "researchStatus": "Website unavailable"
   },
   {
     "id": "VT-0022",
@@ -159,13 +168,15 @@
     "id": "VT-0027",
     "name": "Roll'En Homes",
     "url": "https://www.rollenhomes.com/",
-    "source": "https://plan.vermontvacation.com/listings/5769"
+    "source": "https://plan.vermontvacation.com/listings/5769",
+    "researchStatus": "Not eligible"
   },
   {
     "id": "VT-0028",
     "name": "Crystal Lake State Park",
     "url": "https://vtstateparks.com/crystal.html",
-    "source": "https://plan.vermontvacation.com/listings/355"
+    "source": "https://plan.vermontvacation.com/listings/355",
+    "researchStatus": "Not eligible"
   },
   {
     "id": "VT-0029",
@@ -255,7 +266,8 @@
     "id": "VT-0044",
     "name": "Muddy Moose - Log Cabin Lodging",
     "url": "http://www.muddymoosevt.com/",
-    "source": "https://plan.vermontvacation.com/listings/248"
+    "source": "https://plan.vermontvacation.com/listings/248",
+    "researchStatus": "Not eligible"
   },
   {
     "id": "VT-0045",
@@ -321,7 +333,8 @@
     "id": "VT-0055",
     "name": "Stayclass",
     "url": "https://stayclass.com/",
-    "source": "https://plan.vermontvacation.com/listings/1664"
+    "source": "https://plan.vermontvacation.com/listings/1664",
+    "researchStatus": "Not eligible"
   },
   {
     "id": "VT-0056",
@@ -333,7 +346,8 @@
     "id": "VT-0057",
     "name": "Wilburton Inn",
     "url": "http://www.wilburton.com/",
-    "source": "https://plan.vermontvacation.com/listings/235"
+    "source": "https://plan.vermontvacation.com/listings/235",
+    "researchStatus": "Website unavailable"
   },
   {
     "id": "VT-0058",
@@ -386,8 +400,14 @@
   {
     "id": "VT-0067",
     "name": "Lake Salem Cottages",
-    "url": "http://lakesalemcottages.com/",
-    "source": "https://plan.vermontvacation.com/listings/3888"
+    "url": "https://lakesalemvt.com/",
+    "source": "https://plan.vermontvacation.com/listings/3888",
+    "alternateUrls": [
+      "http://lakesalemcottages.com/"
+    ],
+    "replacementCheckedOn": "2026-10-25",
+    "replacementSource": "https://lakesalemvt.com/contact/",
+    "researchStatus": "Source found in web research"
   },
   {
     "id": "VT-0068",

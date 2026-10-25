@@ -2,7 +2,7 @@
 
 Checked: 2026-10-25.
 
-25 website records excluded from the active Maine catalog. IDs remain stable; original research is retained in the local archive.
+27 failed or invalid website records are excluded: 25 Maine records and 2 Vermont records. IDs remain stable; original research is retained.
 
 ## Unreachable websites
 
@@ -31,11 +31,26 @@ Checked: 2026-10-25.
 | ME-0256 | Linda Bean's Maine Vacation Rentals | [https://lindabeansperfectmaine.com/lodging-type/vacation-rentals/](https://lindabeansperfectmaine.com/lodging-type/vacation-rentals/) | TLS/certificate connection failed for both checked URLs. |
 | ME-0268 | Jimmy's Coast Real Estate Management | [https://jimmysrentals.com](https://jimmysrentals.com) | Connection timed out on both checks. |
 | ME-0272 | Rockport Harbor View Vacation Rentals | [https://delray-camden-home-rentals.com/rockport](https://delray-camden-home-rentals.com/rockport) | HTTP 404; no working page after two URL checks. |
-| ME-0282 | Willow Rental Properties | [https://willowrentalproperties.com](https://willowrentalproperties.com) | HTTP 404; no working page after two URL checks. |
+| ME-0282 | Willow Rental Properties | [https://willowrentalproperties.com](https://willowrentalproperties.com) | Wix disconnected-domain placeholder: “This domain isn't connected to a site.” Earlier checks also returned HTTP 404. |
 
 ## Other invalid website records
 
 - **ME-0066 — Sky Lodge & Cabins:** https://skylodgecabins.com. Supplied Sky Lodge URL presents an unrelated property in Peru; excluded from Maine recommendations.
+
+## Vermont website weeding
+
+The current 71-record Vermont seed has been reviewed for website access. Neither excluded record below was admitted to the published Vermont batch. Master research rows are retained with their precise status.
+
+| ID | Property / operator | Location | Failed URL | Observed result on 2026-10-25 | Status / replacement |
+| --- | --- | --- | --- | --- | --- |
+| VT-0021 | Slopeside Okemo Vacation Rentals | Ludlow / Okemo, VT | https://www.slopesideokemo.com/ | Network Solutions expired-domain advertising, confirmed in the rendered page after two navigation attempts. No rental website. | Website unavailable; excluded. No verified replacement found. |
+| VT-0044 | Muddy Moose — Log Cabin Lodging | Morrisville, VT | http://www.muddymoosevt.com/ | Redirects to unrelated gambling content on two checks. [Current owner Downstreet](https://downstreet.org/stories/downstreet-celebrates-muddy-moose-grand-opening) separately confirms the former vacation cabins became permanent homes. | Not eligible; retired vacation lodging. No replacement rental site. |
+
+Working replacements are retained as research leads: Humble Heart Homestead explicitly links its rebrand [RadFarm](https://www.radfarm.org/), and [Lake Salem Cottages](https://lakesalemvt.com/) has a working family-owned website with Book and Contact pages. The old Lake Salem link was browser-blocked; it is not labeled a dead business. Both replacements still need remaining eligibility/detail review.
+
+Other Vermont eligibility exclusions are kept separate from bad websites: Roll'en Homes is a tiny-home builder, Crystal Lake State Park is government-operated, and Stayclass is an aggregator to mine for individual property leads. Their websites work.
+
+See [Vermont website audit](data/sources/vermont/website-audit.json) for all 71 access outcomes and [Vermont exclusion evidence](data/sources/vermont/bad-websites.json) for the two failed/invalid URLs.
 
 ## Access blocks kept separate
 
@@ -43,4 +58,6 @@ Connected-browser confirmation on 2026-10-25: `bayviewcottages.com` again return
 
 HTTP 403/429 and bot challenges are not treated as proof that a property website is dead. Those records are not removed by this check.
 
-Detailed check URLs and results are retained in `bad-websites.json`.
+Vermont access limitations remain outside approved inventory: Sterling Ridge Resort and Wilburton show security challenges; Pie in the Sky Farm's supplied URL is browser-blocked. These are unverified access failures, not confirmed closures. Two other leads have no identified website yet.
+
+Detailed Maine check URLs and results are retained in [data/sources/maine/bad-websites.json](data/sources/maine/bad-websites.json).

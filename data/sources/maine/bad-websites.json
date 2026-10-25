@@ -486,6 +486,13 @@
       }
     ],
     "verdict": "Unavailable",
-    "reason": "HTTP 404; no working page after two URL checks."
+    "reason": "Wix disconnected-domain placeholder instead of rental content; earlier URL checks returned HTTP 404.",
+    "browserConfirmation": {
+      "checkedOn": "2026-10-25",
+      "url": "https://willowrentalproperties.com/",
+      "title": "Reconnect Your Domain | Wix.com",
+      "observation": "This domain isn't connected to a site",
+      "verdict": "Hosting placeholder; no accessible rental website"
+    }
   }
 ]
