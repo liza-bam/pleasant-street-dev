@@ -58,6 +58,10 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 .ps-pop .ps-card { box-shadow: none; }
 .ps-pop .ps-card__name, .ps-pop .ps-card__place { padding-left: 0; padding-right: 0; }
 .leaflet-popup-content { margin: 10px 12px; }
+.ps-card__missing { margin: -4px 12px 10px; font-size: 13px; color: var(--mute); font-style: italic; }
+/* The second group's heading: homes that may fit, across the whole list. */
+.ps-group { grid-column: 1 / -1; margin: 10px 0 0; padding-top: 12px; border-top: 1px solid var(--line);
+            font-size: 15px; font-weight: 700; color: var(--ink); }
 .ps-none { grid-column: 1 / -1; margin: 8px 0; font-size: 16px; }
 
 @media (max-width: 760px) {

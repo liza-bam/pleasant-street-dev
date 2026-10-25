@@ -18,6 +18,8 @@
   "state": "MA",
   "type": "House",
   "guests": 10,
+  "kids": "Yes",
+  "pets": "Yes",
   "lat": 42.62,
   "lng": -70.66
  },
@@ -49,6 +51,8 @@
   "town": "Tampa",
   "state": "FL",
   "type": "House",
+  "kids": "Yes",
+  "pets": "Yes",
   "lat": 27.95,
   "lng": -82.46
  },
@@ -70,6 +74,7 @@
   "town": "Lake Champlain",
   "state": "VT",
   "type": "Cabin",
+  "kids": "Yes",
   "lat": 44.48,
   "lng": -73.21
  },
@@ -81,6 +86,7 @@
   "state": "FL",
   "type": "House",
   "guests": 4,
+  "kids": "Yes",
   "lat": 25.76,
   "lng": -80.19
  },
@@ -92,6 +98,7 @@
   "state": "CA",
   "type": "Apartment",
   "guests": 2,
+  "kids": "Yes",
   "lat": 37.76,
   "lng": -122.42
  },
@@ -113,6 +120,7 @@
   "state": "CA",
   "type": "Apartment",
   "guests": 4,
+  "kids": "Yes",
   "lat": 37.75,
   "lng": -122.43
  },
@@ -135,6 +143,7 @@
   "state": "PA",
   "type": "Apartment",
   "guests": 4,
+  "pets": "No",
   "lat": 39.95,
   "lng": -75.17
  },
@@ -156,6 +165,8 @@
   "town": "Blue Ridge",
   "state": "VA",
   "type": "House",
+  "kids": "Yes",
+  "pets": "Yes",
   "lat": 37.53,
   "lng": -79.68
  }

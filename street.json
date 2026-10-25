@@ -17,7 +17,9 @@
   "lng": -70.66,
   "photo": "images/cape-ann-special.webp",
   "guests": 10,
-  "type": "House"
+  "type": "House",
+  "kids": "Yes",
+  "pets": "Yes"
  },
  {
   "name": "Cape Cod Coastal Cottage",
@@ -45,7 +47,9 @@
   "lat": 27.95,
   "lng": -82.46,
   "photo": "images/florida-pool-home.webp",
-  "type": "House"
+  "type": "House",
+  "kids": "Yes",
+  "pets": "Yes"
  },
  {
   "name": "Kawaii Beach House",
@@ -64,7 +68,8 @@
   "lat": 44.48,
   "lng": -73.21,
   "photo": "images/lake-champlain-place.webp",
-  "type": "Cabin"
+  "type": "Cabin",
+  "kids": "Yes"
  },
  {
   "name": "Miami Fam Stay",
@@ -74,7 +79,8 @@
   "lng": -80.19,
   "photo": "images/miami-fam-stay.webp",
   "guests": 4,
-  "type": "House"
+  "type": "House",
+  "kids": "Yes"
  },
  {
   "name": "Mission Base",
@@ -84,7 +90,8 @@
   "lng": -122.42,
   "photo": "images/mission-base.webp",
   "guests": 2,
-  "type": "Apartment"
+  "type": "Apartment",
+  "kids": "Yes"
  },
  {
   "name": "Nashville Crow Nest",
@@ -103,7 +110,8 @@
   "lng": -122.43,
   "photo": "images/noe-valley-studio.webp",
   "guests": 4,
-  "type": "Apartment"
+  "type": "Apartment",
+  "kids": "Yes"
  },
  {
   "name": "NYC Midtown City Loft",
@@ -123,7 +131,8 @@
   "lng": -75.17,
   "photo": "images/philly-home.webp",
   "guests": 4,
-  "type": "Apartment"
+  "type": "Apartment",
+  "pets": "No"
  },
  {
   "name": "Tahoe Cabin",
@@ -142,6 +151,8 @@
   "lat": 37.53,
   "lng": -79.68,
   "photo": "images/virginia-cottage.webp",
-  "type": "House"
+  "type": "House",
+  "kids": "Yes",
+  "pets": "Yes"
  }
 ]

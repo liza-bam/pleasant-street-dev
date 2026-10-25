@@ -12,7 +12,7 @@
 <link rel="preload" href="assets/fonts/lobster-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=5">
+<link rel="stylesheet" href="assets/app.css?v=7">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes on a map and in a list (assets/map.js reads street.json). -->
@@ -33,6 +33,9 @@
         <div class="app-pills" id="ps-type" role="group" aria-label="Type: none pressed shows every type">
           <button type="button" data-type="House" aria-pressed="false">House</button><button type="button" data-type="Cabin" aria-pressed="false">Cabin</button><button type="button" data-type="Apartment" aria-pressed="false">Apartment</button>
         </div>
+        <div class="app-pills" id="ps-welcome" role="group" aria-label="Welcome">
+          <button type="button" data-need="kids" aria-pressed="false">Kids OK</button><button type="button" data-need="pets" aria-pressed="false">Pets OK</button>
+        </div>
       </div>
       <div class="app-list" id="ps-list"></div>
     </section>
@@ -40,6 +43,6 @@
   </main>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="assets/map.js?v=5"></script>
+<script src="assets/map.js?v=7"></script>
 </body>
 </html>

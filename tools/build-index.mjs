@@ -33,5 +33,5 @@ fs.writeFileSync(path.join(ROOT, 'index.md'), md);
 fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(homes.map((h) =>
   pick(h, ['name', 'url', 'place', 'town', 'state', 'type', 'guests', 'priceFrom', 'currency', 'kids', 'pets', 'lat', 'lng'])), null, 1) + '\n');
 fs.writeFileSync(path.join(ROOT, 'street.json'), JSON.stringify(homes.filter((h) => h.lat != null && h.lng != null).map((h) =>
-  pick(h, ['name', 'url', 'place', 'lat', 'lng', 'photo', 'guests', 'type'])), null, 1) + '\n');
+  pick(h, ['name', 'url', 'place', 'lat', 'lng', 'photo', 'guests', 'type', 'kids', 'pets'])), null, 1) + '\n');
 console.log(`index: ${homes.length} homes written to index.md, index.json, street.json`);

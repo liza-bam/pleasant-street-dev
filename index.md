@@ -16,6 +16,8 @@ and guests book there, directly with the host. Only the town is shown, never a s
 - Town: Cape Ann, MA
 - Type: House
 - Sleeps: 10
+- Children welcome: yes
+- Pets welcome: yes
 - Website (book here, directly with the host): https://loon-cottage.pleasant.vacations/
 
 ## Cape Cod Coastal Cottage
@@ -35,6 +37,8 @@ and guests book there, directly with the host. Only the town is shown, never a s
 
 - Town: Tampa, FL
 - Type: House
+- Children welcome: yes
+- Pets welcome: yes
 - Website (book here, directly with the host): https://florida.lazy.vacations/
 
 ## Kawaii Beach House
@@ -48,6 +52,7 @@ and guests book there, directly with the host. Only the town is shown, never a s
 
 - Town: Lake Champlain, VT
 - Type: Cabin
+- Children welcome: yes
 - Website (book here, directly with the host): https://lake-champlain.lazy.vacations/
 
 ## Miami Fam Stay
@@ -55,6 +60,7 @@ and guests book there, directly with the host. Only the town is shown, never a s
 - Town: Miami, FL
 - Type: House
 - Sleeps: 4
+- Children welcome: yes
 - Website (book here, directly with the host): https://miami-fam.lazy.vacations/
 
 ## Mission Base
@@ -62,6 +68,7 @@ and guests book there, directly with the host. Only the town is shown, never a s
 - Town: San Francisco, CA
 - Type: Apartment
 - Sleeps: 2
+- Children welcome: yes
 - Website (book here, directly with the host): https://mission-sf.lazy.vacations/
 
 ## Nashville Crow Nest
@@ -75,6 +82,7 @@ and guests book there, directly with the host. Only the town is shown, never a s
 - Town: San Francisco, CA
 - Type: Apartment
 - Sleeps: 4
+- Children welcome: yes
 - Website (book here, directly with the host): https://noe-valley-sf.lazy.vacations/
 
 ## NYC Midtown City Loft
@@ -89,6 +97,7 @@ and guests book there, directly with the host. Only the town is shown, never a s
 - Town: Philadelphia, PA
 - Type: Apartment
 - Sleeps: 4
+- Pets welcome: no
 - Website (book here, directly with the host): https://philly-home.lazy.vacations/
 
 ## Tahoe Cabin
@@ -102,4 +111,6 @@ and guests book there, directly with the host. Only the town is shown, never a s
 
 - Town: Blue Ridge, VA
 - Type: House
+- Children welcome: yes
+- Pets welcome: yes
 - Website (book here, directly with the host): https://virginia-cottage.lazy.vacations/

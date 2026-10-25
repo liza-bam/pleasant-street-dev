@@ -13,7 +13,7 @@
   "guests": 3,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -28,9 +28,11 @@
   "photo": "images/cape-ann-special.webp",
   "type": "House",
   "guests": 10,
+  "kids": "Yes",
+  "pets": "Yes",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -47,7 +49,7 @@
   "guests": 1,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -63,7 +65,7 @@
   "type": "Apartment",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -77,9 +79,11 @@
   "lng": -82.46,
   "photo": "images/florida-pool-home.webp",
   "type": "House",
+  "kids": "Yes",
+  "pets": "Yes",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -96,7 +100,7 @@
   "guests": 5,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -110,9 +114,10 @@
   "lng": -73.21,
   "photo": "images/lake-champlain-place.webp",
   "type": "Cabin",
+  "kids": "Yes",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -127,9 +132,10 @@
   "photo": "images/miami-fam-stay.webp",
   "type": "House",
   "guests": 4,
+  "kids": "Yes",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -144,9 +150,10 @@
   "photo": "images/mission-base.webp",
   "type": "Apartment",
   "guests": 2,
+  "kids": "Yes",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -162,7 +169,7 @@
   "type": "Apartment",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -177,9 +184,10 @@
   "photo": "images/noe-valley-studio.webp",
   "type": "Apartment",
   "guests": 4,
+  "kids": "Yes",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -196,7 +204,7 @@
   "guests": 2,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -211,9 +219,10 @@
   "photo": "images/philly-home.webp",
   "type": "Apartment",
   "guests": 4,
+  "pets": "No",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -230,7 +239,7 @@
   "guests": 4,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  },
  {
@@ -244,9 +253,11 @@
   "lng": -79.68,
   "photo": "images/virginia-cottage.webp",
   "type": "House",
+  "kids": "Yes",
+  "pets": "Yes",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-24",
+  "checked": "2026-10-25",
   "alive": true
  }
 ]
