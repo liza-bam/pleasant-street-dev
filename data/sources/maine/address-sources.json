@@ -1771,10 +1771,20 @@
  },
  {
   "id": "ME-0098",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "address": {
+   "street": "14 Husky Haven",
+   "city": "South Hiram",
+   "state": "ME",
+   "postal_code": "04041",
+   "full_address": "14 Husky Haven, South Hiram, ME 04041",
+   "source_url": "https://visitmaine.com/organization/cottages-at-oak-hill-farm/6213/",
+   "evidence": "Cottages at Oak Hill Farm. Address: 14 Husky Haven, South Hiram, ME, 04041. Phone (207) 625-7151. Website http://www.oakhillfarm.com",
+   "method": "Published Maine tourism listing, identity crosschecked against official lodging page",
+   "score": 120
+  },
+  "type": "Published property / business contact address",
+  "status": "Published tourism / chamber listing",
+  "notes": "Physical address from Maine tourism. Current official lodging page confirms cottage identity and photos; its contact page still contains unrelated Square template placeholders and is not used as address evidence.",
   "checkedOn": "2026-10-25"
  },
  {

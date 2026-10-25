@@ -314,14 +314,11 @@
   },
   {
     "id": "ME-0035",
-    "status": "Incomplete",
-    "missingRequiredFields": [
-      "property photos (4 required)",
-      "source description"
-    ],
-    "propertyPhotoCount": 0,
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
     "addressType": "Published property / business contact address",
-    "descriptionStatus": "Not collected"
+    "descriptionStatus": "Collected from source website"
   },
   {
     "id": "ME-0036",
@@ -390,14 +387,11 @@
   },
   {
     "id": "ME-0043",
-    "status": "Incomplete",
-    "missingRequiredFields": [
-      "property photos (4 required)",
-      "source description"
-    ],
-    "propertyPhotoCount": 0,
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
     "addressType": "Published property / business contact address",
-    "descriptionStatus": "Not collected"
+    "descriptionStatus": "Collected from source website"
   },
   {
     "id": "ME-0044",
@@ -920,13 +914,11 @@
     "id": "ME-0098",
     "status": "Incomplete",
     "missingRequiredFields": [
-      "address",
-      "property photos (4 required)",
-      "source description"
+      "address verification"
     ],
-    "propertyPhotoCount": 0,
-    "addressType": "",
-    "descriptionStatus": "Not collected"
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
   },
   {
     "id": "ME-0099",

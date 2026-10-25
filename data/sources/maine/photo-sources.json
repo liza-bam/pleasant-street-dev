@@ -1282,7 +1282,44 @@
  },
  {
   "id": "ME-0035",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0035-cover.webp",
+    "role": "cover",
+    "url": "https://bookingenginecdn.hostaway.com/listing/164699-509035-dfJyZFe9hIORuXI8St3xVvt-2Uq6wpriYaVIpzDratw-6a456644b2b9b?width=1920&quality=70&format=webp&v=2",
+    "page": "https://book.arborcamp.com/",
+    "sha256": "1770d98455e1a51007d6c6a05353a92999efac1b9701d9da20553b69ca9b3da2",
+    "width": 1920,
+    "height": 1280
+   },
+   {
+    "file": "images/ME-0035-000.webp",
+    "role": "photo",
+    "url": "https://bookingenginecdn.hostaway.com/listing/164699-512033-U7-lCu8RiVUEVHmHyqnAj9OkQZOGt5UnnKTXZehbNOc-6ab6e120c6b28?width=1920&quality=70&format=webp&v=2",
+    "page": "https://book.arborcamp.com/",
+    "sha256": "e0c2bceb784290d5b0b70703a38608774d14c2f155a8e9528eaeb55dabe7be82",
+    "width": 1920,
+    "height": 2400
+   },
+   {
+    "file": "images/ME-0035-001.webp",
+    "role": "photo",
+    "url": "https://bookingenginecdn.hostaway.com/listing/164699-512041-PNpTtMZAaEreyoUi8YRIwqWUHzuVzmvBGgkKOs9Wa50-6ab6ddc987941?width=1920&quality=70&format=webp&v=2",
+    "page": "https://book.arborcamp.com/",
+    "sha256": "381480dc6ede07b73b2910d4560e9aa4518e98d79e9ea9e2f27d7649b27eb80f",
+    "width": 1920,
+    "height": 1920
+   },
+   {
+    "file": "images/ME-0035-002.webp",
+    "role": "photo",
+    "url": "https://bookingenginecdn.hostaway.com/listing/164699-509035-3LbMI6ALLmXU--JDXsYzhQQXKkIBremO7bj6mQ33cJlA-6a4537fde6852?width=1920&quality=70&format=webp&v=2",
+    "page": "https://book.arborcamp.com/",
+    "sha256": "2104b0dcd13d85c529d89bb42bea2c93c253e2d44d43f23ecd73f28be5d2fe43",
+    "width": 1920,
+    "height": 1280
+   }
+  ],
   "logo": null
  },
  {
@@ -1517,7 +1554,44 @@
  },
  {
   "id": "ME-0043",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0043-cover.jpg",
+    "role": "cover",
+    "url": "https://stay.desertofmaine.com/img/stay/units/cozy-ext-800.jpg",
+    "page": "https://stay.desertofmaine.com/accommodations",
+    "sha256": "d732c8aca75583a7ae1f8c57f1694e421b992ec87dcbb05879f92985fb1511c6",
+    "width": 800,
+    "height": 409
+   },
+   {
+    "file": "images/ME-0043-000.jpg",
+    "role": "photo",
+    "url": "https://stay.desertofmaine.com/img/stay/units/escape-ext-800.jpg",
+    "page": "https://stay.desertofmaine.com/accommodations",
+    "sha256": "00271ea0ce834fade2a4d7cfd48b0ad1f4cef17cb52390ef927627086b64e9d3",
+    "width": 800,
+    "height": 533
+   },
+   {
+    "file": "images/ME-0043-001.jpg",
+    "role": "photo",
+    "url": "https://stay.desertofmaine.com/img/stay/units/cabins-hero-800.jpg",
+    "page": "https://stay.desertofmaine.com/accommodations",
+    "sha256": "c5a6afaed3e2b7b2e738cc8610ac39edd708f6b35ec81b65f1d16a3a0fc821a0",
+    "width": 800,
+    "height": 533
+   },
+   {
+    "file": "images/ME-0043-002.jpg",
+    "role": "photo",
+    "url": "https://stay.desertofmaine.com/img/stay/units/haven-secluded-800.jpg",
+    "page": "https://stay.desertofmaine.com/accommodations",
+    "sha256": "3e64166f47c1c5eba5cf31128768719372c58c5ae2763b928a909f48df2c425b",
+    "width": 800,
+    "height": 533
+   }
+  ],
   "logo": null
  },
  {
@@ -3288,7 +3362,44 @@
  },
  {
   "id": "ME-0098",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0098-cover.jpg",
+    "role": "cover",
+    "url": "",
+    "page": "https://www.oakhillfarm.com/",
+    "sha256": "597c2cc5869bdd0277f015b54c99007e14d494e83b258a72d7a0f1573dec2394",
+    "width": 500,
+    "height": 264
+   },
+   {
+    "file": "images/ME-0098-000.jpg",
+    "role": "photo",
+    "url": "https://www.oakhillfarm.com/uploads/b/59f2bd9b7af50bf71f9f3ae57ce701450d27be5632d904f327a7563997eec082/IMG_9462_1752330075.jpeg",
+    "page": "https://www.oakhillfarm.com/lodging",
+    "sha256": "f5f64cfff1405004386ae4181d085a0a21382d34a660be3b1b19a4e1a94ead09",
+    "width": 3500,
+    "height": 2625
+   },
+   {
+    "file": "images/ME-0098-001.jpg",
+    "role": "photo",
+    "url": "https://www.oakhillfarm.com/uploads/b/59f2bd9b7af50bf71f9f3ae57ce701450d27be5632d904f327a7563997eec082/IMG_9554_1752330158.jpeg",
+    "page": "https://www.oakhillfarm.com/lodging",
+    "sha256": "b8202e3b8c5370b17cd05e0321dbb64762ae7dbb8f4a3afe3c6128187851b0d2",
+    "width": 3500,
+    "height": 2625
+   },
+   {
+    "file": "images/ME-0098-002.jpg",
+    "role": "photo",
+    "url": "https://www.oakhillfarm.com/uploads/b/59f2bd9b7af50bf71f9f3ae57ce701450d27be5632d904f327a7563997eec082/IMG_2158_1752330242.jpeg",
+    "page": "https://www.oakhillfarm.com/lodging",
+    "sha256": "4a4cdc5d8c3b36789b3f4ebab6b26a0ca7c81a29665d5689ddbe29babd2fd2aa",
+    "width": 3500,
+    "height": 2625
+   }
+  ],
   "logo": null
  },
  {

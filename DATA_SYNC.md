@@ -24,6 +24,8 @@ The Maine CSV and source records retain description source URLs, description sta
 
 Descriptions use source website text. Missing source descriptions are Unknown rather than generated filler. Photo completeness is a separate field: a photo-complete record can still need an address or description. Logos remain separate from the four property photos. AI processing alone does not disqualify a photograph presented on the property's site; unrelated portraits, logos, screenshots and promotional layouts are excluded.
 
+Sandy explicitly requires AI-processed property photographs to be included in results. Do not exclude a photo solely because of an AI-related filename, enhancement, virtual staging, retouching, or an illustration classifier label. Record its published source and prefer a building exterior for the cover.
+
 To refresh reviewed material from the local package without resetting Claude's address-level coordinates or other app fields:
 
 ```

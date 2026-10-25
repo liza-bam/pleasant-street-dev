@@ -277,7 +277,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0035
 - Town / area (approximate map location): Ellsworth, ME
 - Type: Camp
-- Description: Unknown
+- Description: Arbor Camp is a collection of thoughtfully designed cabins and treehouses set on 30 private acres in the Maine woods, just north of Acadia National Park, with access to the cultural and culinary offerings of Downeast Maine. Each dwelling offers a quiet retreat with wide windows framing beautiful views of sky, pines, and the Union River.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1068,7 +1068,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0098
 - Town / area (approximate map location): South Hiram, ME
 - Type: House
-- Description: Unknown
+- Description: Located in the foothills of the White Mountains, our rustic board and batten lodges meld into the landscape of Oak Hill Farm. Red metal roofs echo raindrops or deflect the heat of summer. The door to each lodge depicts the animal for which it was named: Eagle, Wolf and Bear. We have furnished the lodges as if we were entertaining friends or family. Each 24' x 24' lodge has an open floor plan and pine paneled walls that arch to a beamed cathedral ceiling. Each has heat, a ceiling fan and air conditioning if needed, a Keurig coffee maker, a
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1180,7 +1180,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0043
 - Town / area (approximate map location): Freeport, ME
 - Type: Unknown
-- Description: Unknown
+- Description: Luxury cabins, domes, glamping tents, and a Nordic Spa nestled among towering Northern Pines at the edge of the iconic dunes of the Desert of Maine in Freeport.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown

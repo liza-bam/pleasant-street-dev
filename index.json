@@ -921,14 +921,11 @@
   "state": "ME",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
+  "description": "Arbor Camp is a collection of thoughtfully designed cabins and treehouses set on 30 private acres in the Maine woods, just north of Acadia National Park, with access to the cultural and culinary offerings of Downeast Maine. Each dwelling offers a quiet retreat with wide windows framing beautiful views of sky, pines, and the Union River.",
+  "descriptionSource": "https://arborcamp.com/",
+  "descriptionStatus": "Collected from source website",
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "rooms": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
@@ -943,9 +940,26 @@
   "petsDetails": "Varies (Cherry and Willow cabins yes; others no)",
   "lat": 44.56468,
   "lng": -68.4413,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
+  "photo": "images/ME-0035-card.webp",
+  "coverPhoto": "images/ME-0035-cover.webp",
+  "photos": [
+   {
+    "file": "images/ME-0035-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0035-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0035-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0035-002.webp",
+    "role": "photo"
+   }
+  ],
   "logo": "Unknown",
   "locationPrecision": "Address",
   "featured": false,
@@ -3458,14 +3472,12 @@
   "state": "ME",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
+  "description": "Located in the foothills of the White Mountains, our rustic board and batten lodges meld into the landscape of Oak Hill Farm. Red metal roofs echo raindrops or deflect the heat of summer. The door to each lodge depicts the animal for which it was named: Eagle, Wolf and Bear. We have furnished the lodges as if we were entertaining friends or family. Each 24' x 24' lodge has an open floor plan and pine paneled walls that arch to a beamed cathedral ceiling. Each has heat, a ceiling fan and air conditioning if needed, a Keurig coffee maker, a",
+  "descriptionSource": "https://www.oakhillfarm.com/lodging",
+  "descriptionStatus": "Collected from source website",
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
+   "address verification"
   ],
   "rooms": "Unknown",
   "bedrooms": "Unknown",
@@ -3481,9 +3493,26 @@
   "petsDetails": "Unknown",
   "lat": 43.813,
   "lng": -70.8772,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
+  "photo": "images/ME-0098-card.webp",
+  "coverPhoto": "images/ME-0098-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0098-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0098-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0098-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0098-002.jpg",
+    "role": "photo"
+   }
+  ],
   "logo": "Unknown",
   "locationPrecision": "Town / area approximate",
   "featured": false,
@@ -3809,14 +3838,11 @@
   "state": "ME",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
+  "description": "Luxury cabins, domes, glamping tents, and a Nordic Spa nestled among towering Northern Pines at the edge of the iconic dunes of the Desert of Maine in Freeport.",
+  "descriptionSource": "https://stay.desertofmaine.com/",
+  "descriptionStatus": "Collected from source website",
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "rooms": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
@@ -3831,9 +3857,26 @@
   "petsDetails": "Unknown",
   "lat": 43.85931,
   "lng": -70.15579,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
+  "photo": "images/ME-0043-card.webp",
+  "coverPhoto": "images/ME-0043-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0043-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0043-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0043-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0043-002.jpg",
+    "role": "photo"
+   }
+  ],
   "logo": "Unknown",
   "locationPrecision": "Address",
   "featured": false,

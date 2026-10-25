@@ -1992,7 +1992,7 @@
   "state": "ME",
   "lat": 44.56468,
   "lng": -68.4413,
-  "photo": "Unknown",
+  "photo": "images/ME-0035-card.webp",
   "type": "Camp",
   "guests": "Unknown",
   "priceFrom": "Unknown",
@@ -2005,7 +2005,7 @@
   "alive": "Unknown",
   "id": "ME-0035",
   "recordType": "Property / small operator",
-  "description": "Unknown",
+  "description": "Arbor Camp is a collection of thoughtfully designed cabins and treehouses set on 30 private acres in the Maine woods, just north of Acadia National Park, with access to the cultural and culinary offerings of Downeast Maine. Each dwelling offers a quiet retreat with wide windows framing beautiful views of sky, pines, and the Union River.",
   "rooms": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
@@ -2013,10 +2013,27 @@
   "priceDetails": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Varies (Cherry and Willow cabins yes; others no)",
-  "photos": [],
-  "coverPhoto": "Unknown",
+  "photos": [
+   {
+    "file": "images/ME-0035-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0035-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0035-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0035-002.webp",
+    "role": "photo"
+   }
+  ],
+  "coverPhoto": "images/ME-0035-cover.webp",
   "logo": "Unknown",
-  "photoStatus": "No property photos",
+  "photoStatus": "Complete",
   "address": {
    "street": "30 Old Mill Rd",
    "city": "Ellsworth",
@@ -2047,16 +2064,16 @@
    "Price details": "",
    "Property details source URL": "https://arborcamp.com/faq/",
    "Property data verification": "Verified pet policy; occupancy and prices not published on accessible pages",
-   "Description": "Unknown",
-   "Description basis": "Unknown; source description still required",
-   "Cover image": "",
-   "Photo 000": "",
-   "Photo 001": "",
-   "Photo 002": "",
+   "Description": "Arbor Camp is a collection of thoughtfully designed cabins and treehouses set on 30 private acres in the Maine woods, just north of Acadia National Park, with access to the cultural and culinary offerings of Downeast Maine. Each dwelling offers a quiet retreat with wide windows framing beautiful views of sky, pines, and the Union River.",
+   "Description basis": "Source website excerpt",
+   "Cover image": "images/ME-0035-cover.webp",
+   "Photo 000": "images/ME-0035-000.webp",
+   "Photo 001": "images/ME-0035-001.webp",
+   "Photo 002": "images/ME-0035-002.webp",
    "Logo image": "",
-   "Property photo count": "0",
-   "Photo status": "No property photos",
-   "Cover selection": "Missing",
+   "Property photo count": "4",
+   "Photo status": "Complete",
+   "Cover selection": "Building exterior",
    "Street address": "30 Old Mill Rd",
    "City": "Ellsworth",
    "State": "ME",
@@ -2067,23 +2084,20 @@
    "Address source URL": "https://arborcamp.com/contact/",
    "Address checked on": "2026-10-25",
    "Address notes": "",
-   "Description source URL": "Unknown",
-   "Description status": "Not collected",
-   "Collection status": "Incomplete",
-   "Missing required fields": "property photos (4 required); source description"
+   "Description source URL": "https://arborcamp.com/",
+   "Description status": "Collected from source website",
+   "Collection status": "Complete",
+   "Missing required fields": ""
   },
   "listingStatus": "Active",
   "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Ellsworth%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false,
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ]
+  "descriptionSource": "https://arborcamp.com/",
+  "descriptionStatus": "Collected from source website",
+  "collectionStatus": "Complete",
+  "missingRequiredFields": []
  },
  {
   "slug": "arndt-s-aroostook-river-lodge",
@@ -7634,7 +7648,7 @@
   "state": "ME",
   "lat": 43.813,
   "lng": -70.8772,
-  "photo": "Unknown",
+  "photo": "images/ME-0098-card.webp",
   "type": "House",
   "guests": "Unknown",
   "priceFrom": "Unknown",
@@ -7647,7 +7661,7 @@
   "alive": true,
   "id": "ME-0098",
   "recordType": "Property / small operator",
-  "description": "Unknown",
+  "description": "Located in the foothills of the White Mountains, our rustic board and batten lodges meld into the landscape of Oak Hill Farm. Red metal roofs echo raindrops or deflect the heat of summer. The door to each lodge depicts the animal for which it was named: Eagle, Wolf and Bear. We have furnished the lodges as if we were entertaining friends or family. Each 24' x 24' lodge has an open floor plan and pine paneled walls that arch to a beamed cathedral ceiling. Each has heat, a ceiling fan and air conditioning if needed, a Keurig coffee maker, a",
   "rooms": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
@@ -7655,21 +7669,38 @@
   "priceDetails": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "photos": [],
-  "coverPhoto": "Unknown",
+  "photos": [
+   {
+    "file": "images/ME-0098-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0098-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0098-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0098-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "coverPhoto": "images/ME-0098-cover.jpg",
   "logo": "Unknown",
-  "photoStatus": "No property photos",
+  "photoStatus": "Complete",
   "address": {
-   "street": "Unknown",
-   "city": "Unknown",
-   "state": "Unknown",
-   "postalCode": "Unknown",
-   "full": "Unknown",
-   "type": "Unknown",
-   "status": "Not found publicly",
-   "sourceUrl": "Unknown",
+   "street": "14 Husky Haven",
+   "city": "South Hiram",
+   "state": "ME",
+   "postalCode": "04041",
+   "full": "14 Husky Haven, South Hiram, ME 04041",
+   "type": "Published property / business contact address",
+   "status": "Published tourism / chamber listing",
+   "sourceUrl": "https://visitmaine.com/organization/cottages-at-oak-hill-farm/6213/",
    "checkedOn": "2026-10-25",
-   "notes": "No reliable public street or mailing address found in the checked website and search results."
+   "notes": "Physical address from Maine tourism. Current official lodging page confirms cottage identity and photos; its contact page still contains unrelated Square template placeholders and is not used as address evidence."
   },
   "sourceDetails": {
    "ID": "ME-0098",
@@ -7689,43 +7720,41 @@
    "Price details": "",
    "Property details source URL": "",
    "Property data verification": "Website inaccessible; details unverified",
-   "Description": "Unknown",
-   "Description basis": "Unknown; source description still required",
-   "Cover image": "",
-   "Photo 000": "",
-   "Photo 001": "",
-   "Photo 002": "",
+   "Description": "Located in the foothills of the White Mountains, our rustic board and batten lodges meld into the landscape of Oak Hill Farm. Red metal roofs echo raindrops or deflect the heat of summer. The door to each lodge depicts the animal for which it was named: Eagle, Wolf and Bear. We have furnished the lodges as if we were entertaining friends or family. Each 24' x 24' lodge has an open floor plan and pine paneled walls that arch to a beamed cathedral ceiling. Each has heat, a ceiling fan and air conditioning if needed, a Keurig coffee maker, a",
+   "Description basis": "Source website excerpt",
+   "Cover image": "images/ME-0098-cover.jpg",
+   "Photo 000": "images/ME-0098-000.jpg",
+   "Photo 001": "images/ME-0098-001.jpg",
+   "Photo 002": "images/ME-0098-002.jpg",
    "Logo image": "",
-   "Property photo count": "0",
-   "Photo status": "No property photos",
-   "Cover selection": "Missing",
-   "Street address": "",
-   "City": "",
-   "State": "",
-   "ZIP code": "",
-   "Full address": "",
-   "Address type": "",
-   "Address status": "Not found publicly",
-   "Address source URL": "",
+   "Property photo count": "4",
+   "Photo status": "Complete",
+   "Cover selection": "Building exterior",
+   "Street address": "14 Husky Haven",
+   "City": "South Hiram",
+   "State": "ME",
+   "ZIP code": "04041",
+   "Full address": "14 Husky Haven, South Hiram, ME 04041",
+   "Address type": "Published property / business contact address",
+   "Address status": "Published tourism / chamber listing",
+   "Address source URL": "https://visitmaine.com/organization/cottages-at-oak-hill-farm/6213/",
    "Address checked on": "2026-10-25",
-   "Address notes": "No reliable public street or mailing address found in the checked website and search results.",
-   "Description source URL": "Unknown",
-   "Description status": "Not collected",
+   "Address notes": "Physical address from Maine tourism. Current official lodging page confirms cottage identity and photos; its contact page still contains unrelated Square template placeholders and is not used as address evidence.",
+   "Description source URL": "https://www.oakhillfarm.com/lodging",
+   "Description status": "Collected from source website",
    "Collection status": "Incomplete",
-   "Missing required fields": "address; property photos (4 required); source description"
+   "Missing required fields": "address verification"
   },
   "listingStatus": "Active",
   "locationPrecision": "Town / area approximate",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=South+Hiram%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false,
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
+  "descriptionSource": "https://www.oakhillfarm.com/lodging",
+  "descriptionStatus": "Collected from source website",
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "property photos (4 required)",
-   "source description"
+   "address verification"
   ]
  },
  {
@@ -8426,7 +8455,7 @@
   "state": "ME",
   "lat": 43.85931,
   "lng": -70.15579,
-  "photo": "Unknown",
+  "photo": "images/ME-0043-card.webp",
   "type": "Unknown",
   "guests": "Unknown",
   "priceFrom": "Unknown",
@@ -8439,7 +8468,7 @@
   "alive": true,
   "id": "ME-0043",
   "recordType": "Property / small operator",
-  "description": "Unknown",
+  "description": "Luxury cabins, domes, glamping tents, and a Nordic Spa nestled among towering Northern Pines at the edge of the iconic dunes of the Desert of Maine in Freeport.",
   "rooms": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
@@ -8447,10 +8476,27 @@
   "priceDetails": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "photos": [],
-  "coverPhoto": "Unknown",
+  "photos": [
+   {
+    "file": "images/ME-0043-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0043-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0043-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0043-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "coverPhoto": "images/ME-0043-cover.jpg",
   "logo": "Unknown",
-  "photoStatus": "No property photos",
+  "photoStatus": "Complete",
   "address": {
    "street": "95 Desert Road",
    "city": "Freeport",
@@ -8481,16 +8527,16 @@
    "Price details": "",
    "Property details source URL": "https://desertofmaine.guestybookings.com/en",
    "Property data verification": "Site reachable; booking-engine content not exposed",
-   "Description": "Unknown",
-   "Description basis": "Unknown; source description still required",
-   "Cover image": "",
-   "Photo 000": "",
-   "Photo 001": "",
-   "Photo 002": "",
+   "Description": "Luxury cabins, domes, glamping tents, and a Nordic Spa nestled among towering Northern Pines at the edge of the iconic dunes of the Desert of Maine in Freeport.",
+   "Description basis": "Source website excerpt",
+   "Cover image": "images/ME-0043-cover.jpg",
+   "Photo 000": "images/ME-0043-000.jpg",
+   "Photo 001": "images/ME-0043-001.jpg",
+   "Photo 002": "images/ME-0043-002.jpg",
    "Logo image": "",
-   "Property photo count": "0",
-   "Photo status": "No property photos",
-   "Cover selection": "Missing",
+   "Property photo count": "4",
+   "Photo status": "Complete",
+   "Cover selection": "Building exterior",
    "Street address": "95 Desert Road",
    "City": "Freeport",
    "State": "ME",
@@ -8501,23 +8547,20 @@
    "Address source URL": "https://desertofmaine.com/visit",
    "Address checked on": "2026-10-25",
    "Address notes": "",
-   "Description source URL": "Unknown",
-   "Description status": "Not collected",
-   "Collection status": "Incomplete",
-   "Missing required fields": "property photos (4 required); source description"
+   "Description source URL": "https://stay.desertofmaine.com/",
+   "Description status": "Collected from source website",
+   "Collection status": "Complete",
+   "Missing required fields": ""
   },
   "listingStatus": "Active",
   "locationPrecision": "Address",
   "locationSource": "https://nominatim.openstreetmap.org/search?q=Freeport%2C+ME%2C+USA&format=json&limit=1",
   "featured": false,
   "demo": false,
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ]
+  "descriptionSource": "https://stay.desertofmaine.com/",
+  "descriptionStatus": "Collected from source website",
+  "collectionStatus": "Complete",
+  "missingRequiredFields": []
  },
  {
   "slug": "downeast-properties-rentals-also-listed-as-downeast-maine-va",
