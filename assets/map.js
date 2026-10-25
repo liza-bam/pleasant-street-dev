@@ -4,7 +4,8 @@
 (function () {
   var listEl = document.getElementById('ps-list'), countEl = document.getElementById('ps-count');
   var q = document.getElementById('ps-q'), areaBtn = document.getElementById('ps-area');
-  var sleeps = document.getElementById('ps-sleeps'), type = document.getElementById('ps-type');
+  var sleeps = document.getElementById('ps-sleeps'), sleepsOut = document.getElementById('ps-sleeps-out');
+  var pills = document.getElementById('ps-type'), types = [];
   var map = L.map('ps-map', { scrollWheelZoom: false }).setView([39.5, -98.5], 4);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -28,11 +29,11 @@
   }
   function show() {
     var t = q ? q.value.trim().toLowerCase() : '';
-    var n = sleeps ? +sleeps.value : 0, k = type ? type.value : '';
+    var n = sleeps && +sleeps.value > 1 ? +sleeps.value : 0;   /* 1 on the slider is every home */
     var shown = homes.filter(function (h) {
       if (t && !matches(h.place, t)) return false;
       if (n && !(+h.guests >= n)) return false;          /* a home that does not say how many it sleeps is left out */
-      if (k && h.type !== k) return false;
+      if (types.length && types.indexOf(h.type) < 0) return false;
       if (area && !area.contains(h.marker.getLatLng())) return false;
       return true;
     });
@@ -55,7 +56,19 @@
   window.addEventListener('load', function () { map.invalidateSize(); });
   /* Captured before the map's own controls stop the click from travelling further. */
   map.getContainer().addEventListener('pointerdown', function (e) { if (e.target.closest('.leaflet-control-zoom')) offer(); }, true);
-  [sleeps, type].forEach(function (el) { if (el) el.addEventListener('change', show); });
+  /* Sleeps: 1 to 8 on the slider; 8 means eight or more. */
+  if (sleeps) sleeps.addEventListener('input', function () {
+    var v = +sleeps.value;
+    sleepsOut.textContent = v === 1 ? 'any' : v === 8 ? '8+' : v + '+';
+    show();
+  });
+  /* Type: pills pressed on and off, any number at once; none pressed is every type. */
+  if (pills) pills.addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-type]'); if (!b) return;
+    b.setAttribute('aria-pressed', b.getAttribute('aria-pressed') === 'true' ? 'false' : 'true');
+    types = [].map.call(pills.querySelectorAll('button[aria-pressed="true"]'), function (x) { return x.dataset.type; });
+    show();
+  });
   if (areaBtn) areaBtn.addEventListener('click', function () { area = map.getBounds(); q.value = ''; areaBtn.hidden = true; show(); });
   /* The homes: street.json, written from the database by tools/build-index.mjs. */
   fetch(map.getContainer().dataset.src || 'street.json').then(function (r) { return r.json(); }).then(function (list) {
