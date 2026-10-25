@@ -5,6 +5,8 @@
   "place": "Boston, MA",
   "town": "Boston",
   "state": "MA",
+  "type": "House",
+  "guests": 3,
   "lat": 42.35,
   "lng": -71.08
  },
@@ -14,6 +16,8 @@
   "place": "Cape Ann, MA",
   "town": "Cape Ann",
   "state": "MA",
+  "type": "House",
+  "guests": 10,
   "lat": 42.62,
   "lng": -70.66
  },
@@ -23,6 +27,8 @@
   "place": "Cape Cod, MA",
   "town": "Cape Cod",
   "state": "MA",
+  "type": "House",
+  "guests": 1,
   "lat": 41.67,
   "lng": -70.3
  },
@@ -32,6 +38,7 @@
   "place": "Chicago, IL",
   "town": "Chicago",
   "state": "IL",
+  "type": "Apartment",
   "lat": 41.88,
   "lng": -87.63
  },
@@ -41,6 +48,7 @@
   "place": "Tampa, FL",
   "town": "Tampa",
   "state": "FL",
+  "type": "House",
   "lat": 27.95,
   "lng": -82.46
  },
@@ -50,6 +58,8 @@
   "place": "Kauai, HI",
   "town": "Kauai",
   "state": "HI",
+  "type": "House",
+  "guests": 5,
   "lat": 22.1,
   "lng": -159.5
  },
@@ -59,6 +69,7 @@
   "place": "Lake Champlain, VT",
   "town": "Lake Champlain",
   "state": "VT",
+  "type": "Cabin",
   "lat": 44.48,
   "lng": -73.21
  },
@@ -68,6 +79,8 @@
   "place": "Miami, FL",
   "town": "Miami",
   "state": "FL",
+  "type": "House",
+  "guests": 4,
   "lat": 25.76,
   "lng": -80.19
  },
@@ -77,6 +90,8 @@
   "place": "San Francisco, CA",
   "town": "San Francisco",
   "state": "CA",
+  "type": "Apartment",
+  "guests": 2,
   "lat": 37.76,
   "lng": -122.42
  },
@@ -86,6 +101,7 @@
   "place": "Nashville, TN",
   "town": "Nashville",
   "state": "TN",
+  "type": "Apartment",
   "lat": 36.16,
   "lng": -86.78
  },
@@ -95,6 +111,8 @@
   "place": "San Francisco, CA",
   "town": "San Francisco",
   "state": "CA",
+  "type": "Apartment",
+  "guests": 4,
   "lat": 37.75,
   "lng": -122.43
  },
@@ -104,6 +122,8 @@
   "place": "New York, NY",
   "town": "New York",
   "state": "NY",
+  "type": "Apartment",
+  "guests": 2,
   "lat": 40.75,
   "lng": -73.98
  },
@@ -113,6 +133,8 @@
   "place": "Philadelphia, PA",
   "town": "Philadelphia",
   "state": "PA",
+  "type": "Apartment",
+  "guests": 4,
   "lat": 39.95,
   "lng": -75.17
  },
@@ -122,6 +144,8 @@
   "place": "Lake Tahoe, CA",
   "town": "Lake Tahoe",
   "state": "CA",
+  "type": "Cabin",
+  "guests": 4,
   "lat": 39.1,
   "lng": -120.03
  },
@@ -131,6 +155,7 @@
   "place": "Blue Ridge, VA",
   "town": "Blue Ridge",
   "state": "VA",
+  "type": "House",
   "lat": 37.53,
   "lng": -79.68
  }

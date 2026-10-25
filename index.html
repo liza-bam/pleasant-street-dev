@@ -24,7 +24,15 @@
     <span class="app-count" id="ps-count" aria-live="polite"></span>
   </header>
   <main class="app-body">
-    <div class="app-list" id="ps-list"></div>
+    <section class="app-results" aria-label="Homes">
+      <div class="app-filters">
+        <label class="app-filter"><span class="app-hide">Sleeps</span>
+          <select id="ps-sleeps"><option value="">Sleeps: any</option><option value="2">Sleeps 2+</option><option value="4">Sleeps 4+</option><option value="6">Sleeps 6+</option><option value="8">Sleeps 8+</option><option value="10">Sleeps 10+</option></select></label>
+        <label class="app-filter"><span class="app-hide">Type</span>
+          <select id="ps-type"><option value="">Type: any</option><option>House</option><option>Cabin</option><option>Apartment</option></select></label>
+      </div>
+      <div class="app-list" id="ps-list"></div>
+    </section>
     <div class="app-map" id="ps-map" data-src="street.json" role="region" aria-label="Map of homes"></div>
   </main>
 </div>

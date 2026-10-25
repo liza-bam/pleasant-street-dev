@@ -9,9 +9,11 @@
   "lat": 42.35,
   "lng": -71.08,
   "photo": "images/boston-commonwealth.webp",
+  "type": "House",
+  "guests": 3,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -24,9 +26,11 @@
   "lat": 42.62,
   "lng": -70.66,
   "photo": "images/cape-ann-special.webp",
+  "type": "House",
+  "guests": 10,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -39,9 +43,11 @@
   "lat": 41.67,
   "lng": -70.3,
   "photo": "images/cape-cod-coastal-cottage.webp",
+  "type": "House",
+  "guests": 1,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -54,9 +60,10 @@
   "lat": 41.88,
   "lng": -87.63,
   "photo": "images/chicago-mcm.webp",
+  "type": "Apartment",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -69,9 +76,10 @@
   "lat": 27.95,
   "lng": -82.46,
   "photo": "images/florida-pool-home.webp",
+  "type": "House",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -84,9 +92,11 @@
   "lat": 22.1,
   "lng": -159.5,
   "photo": "images/kawaii-beach-house.webp",
+  "type": "House",
+  "guests": 5,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -99,9 +109,10 @@
   "lat": 44.48,
   "lng": -73.21,
   "photo": "images/lake-champlain-place.webp",
+  "type": "Cabin",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -114,9 +125,11 @@
   "lat": 25.76,
   "lng": -80.19,
   "photo": "images/miami-fam-stay.webp",
+  "type": "House",
+  "guests": 4,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -129,9 +142,11 @@
   "lat": 37.76,
   "lng": -122.42,
   "photo": "images/mission-base.webp",
+  "type": "Apartment",
+  "guests": 2,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -144,9 +159,10 @@
   "lat": 36.16,
   "lng": -86.78,
   "photo": "images/nashville-crow-nest.webp",
+  "type": "Apartment",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -159,9 +175,11 @@
   "lat": 37.75,
   "lng": -122.43,
   "photo": "images/noe-valley-studio.webp",
+  "type": "Apartment",
+  "guests": 4,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -174,9 +192,11 @@
   "lat": 40.75,
   "lng": -73.98,
   "photo": "images/nyc-midtown-city-loft.webp",
+  "type": "Apartment",
+  "guests": 2,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -189,9 +209,11 @@
   "lat": 39.95,
   "lng": -75.17,
   "photo": "images/philly-home.webp",
+  "type": "Apartment",
+  "guests": 4,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -204,9 +226,11 @@
   "lat": 39.1,
   "lng": -120.03,
   "photo": "images/tahoe-cabin.webp",
+  "type": "Cabin",
+  "guests": 4,
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  },
  {
@@ -219,9 +243,10 @@
   "lat": 37.53,
   "lng": -79.68,
   "photo": "images/virginia-cottage.webp",
+  "type": "House",
   "source": "lazy",
   "added": "2026-10-24",
-  "checked": "2026-10-25",
+  "checked": "2026-10-24",
   "alive": true
  }
 ]

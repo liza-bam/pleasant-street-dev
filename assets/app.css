@@ -21,6 +21,9 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 .app-search input { width: 100%; height: 40px; padding: 0 16px; font: inherit; font-size: 16px; color: var(--ink);
                     background: var(--white); border: 1.5px solid transparent; border-radius: 999px; outline: none; }
 .app-search input:focus { border-color: var(--teal); }
+.app-filter select { height: 40px; padding: 0 14px; font: inherit; font-size: 15px; color: var(--ink); background: var(--white);
+                     border: 1.5px solid transparent; border-radius: 999px; outline: none; cursor: pointer; }
+.app-filter select:focus { border-color: var(--teal); }
 .app-hide { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .app-btn { height: 40px; padding: 0 16px; font: inherit; font-size: 14px; font-weight: 700; color: var(--green);
            background: var(--white); border: 0; border-radius: 999px; cursor: pointer; white-space: nowrap; }
@@ -29,7 +32,11 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 
 /* The list beside the map; each scrolls on its own. */
 .app-body { display: grid; grid-template-columns: minmax(300px, 420px) minmax(0, 1fr); min-height: 0; }
-.app-list { overflow-y: auto; padding: 14px; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+/* The results: the extra filters on top, the homes under them. */
+.app-results { display: grid; grid-template-rows: auto minmax(0, 1fr); min-height: 0; }
+.app-filters { display: flex; gap: 8px; padding: 12px 14px 0; }
+.app-filter { flex: 1 1 0; } .app-filter select { width: 100%; border-color: var(--line); }
+.app-list { overflow-y: auto; padding: 12px 14px 14px; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
             grid-auto-rows: max-content; align-content: start; gap: 12px; scrollbar-width: thin; scrollbar-color: var(--teal) transparent; }
 .app-map { height: 100%; isolation: isolate; }
 
@@ -50,5 +57,6 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
   .app-search { order: 3; flex-basis: 100%; max-width: none; }
   .app-body { grid-template-columns: minmax(0, 1fr); grid-template-rows: 45% minmax(0, 1fr); }
   .app-map { grid-row: 1; }
-  .app-list { grid-row: 2; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+  .app-results { grid-row: 2; }
+  .app-list { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
 }
