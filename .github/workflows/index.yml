@@ -1,0 +1,31 @@
+# THE INDEX, KEPT FRESH. On every change to the database: rebuild index.md, index.json and street.json.
+# Every Monday: check that each home's website still answers, then rebuild. Commits only when something changed.
+name: index
+on:
+  push:
+    branches: [main]
+    paths: ['data/homes.json', 'tools/build-index.mjs']
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: index
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Check the websites (weekly)
+        if: github.event_name != 'push'
+        run: node tools/check.mjs
+      - name: Build the index
+        run: node tools/build-index.mjs
+      - name: Commit what changed
+        run: |
+          git config user.name "pleasant-street-index"
+          git config user.email "sandy@lazy.vacations"
+          git add data/homes.json index.md index.json street.json
+          git diff --cached --quiet || { git commit -m "Index rebuilt: $(date -u +%F)"; git push; }

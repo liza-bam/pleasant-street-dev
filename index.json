@@ -1,0 +1,137 @@
+[
+ {
+  "name": "Boston Commonwealth",
+  "url": "https://commonwealth.lazy.vacations/",
+  "place": "Boston, MA",
+  "town": "Boston",
+  "state": "MA",
+  "lat": 42.35,
+  "lng": -71.08
+ },
+ {
+  "name": "Cape Ann Special",
+  "url": "https://loon-cottage.pleasant.vacations/",
+  "place": "Cape Ann, MA",
+  "town": "Cape Ann",
+  "state": "MA",
+  "lat": 42.62,
+  "lng": -70.66
+ },
+ {
+  "name": "Cape Cod Coastal Cottage",
+  "url": "https://capecod.lazy.vacations/",
+  "place": "Cape Cod, MA",
+  "town": "Cape Cod",
+  "state": "MA",
+  "lat": 41.67,
+  "lng": -70.3
+ },
+ {
+  "name": "Chicago MCM",
+  "url": "https://chicago-mcm.lazy.vacations/",
+  "place": "Chicago, IL",
+  "town": "Chicago",
+  "state": "IL",
+  "lat": 41.88,
+  "lng": -87.63
+ },
+ {
+  "name": "Florida Pool Home",
+  "url": "https://florida.lazy.vacations/",
+  "place": "Tampa, FL",
+  "town": "Tampa",
+  "state": "FL",
+  "lat": 27.95,
+  "lng": -82.46
+ },
+ {
+  "name": "Kawaii Beach House",
+  "url": "https://kawaii.lazy.vacations/",
+  "place": "Kauai, HI",
+  "town": "Kauai",
+  "state": "HI",
+  "lat": 22.1,
+  "lng": -159.5
+ },
+ {
+  "name": "Lake Champlain Place",
+  "url": "https://lake-champlain.lazy.vacations/",
+  "place": "Lake Champlain, VT",
+  "town": "Lake Champlain",
+  "state": "VT",
+  "lat": 44.48,
+  "lng": -73.21
+ },
+ {
+  "name": "Miami Fam Stay",
+  "url": "https://miami-fam.lazy.vacations/",
+  "place": "Miami, FL",
+  "town": "Miami",
+  "state": "FL",
+  "lat": 25.76,
+  "lng": -80.19
+ },
+ {
+  "name": "Mission Base",
+  "url": "https://mission-sf.lazy.vacations/",
+  "place": "San Francisco, CA",
+  "town": "San Francisco",
+  "state": "CA",
+  "lat": 37.76,
+  "lng": -122.42
+ },
+ {
+  "name": "Nashville Crow Nest",
+  "url": "https://nashville-crow-nest.lazy.vacations/",
+  "place": "Nashville, TN",
+  "town": "Nashville",
+  "state": "TN",
+  "lat": 36.16,
+  "lng": -86.78
+ },
+ {
+  "name": "Noe Valley Studio",
+  "url": "https://noe-valley-sf.lazy.vacations/",
+  "place": "San Francisco, CA",
+  "town": "San Francisco",
+  "state": "CA",
+  "lat": 37.75,
+  "lng": -122.43
+ },
+ {
+  "name": "NYC Midtown City Loft",
+  "url": "https://nyc-midtown.lazy.vacations/",
+  "place": "New York, NY",
+  "town": "New York",
+  "state": "NY",
+  "lat": 40.75,
+  "lng": -73.98
+ },
+ {
+  "name": "Philly Home",
+  "url": "https://philly-home.lazy.vacations/",
+  "place": "Philadelphia, PA",
+  "town": "Philadelphia",
+  "state": "PA",
+  "lat": 39.95,
+  "lng": -75.17
+ },
+ {
+  "name": "Tahoe Cabin",
+  "url": "https://tahoe-cabin.lazy.vacations/",
+  "place": "Lake Tahoe, CA",
+  "town": "Lake Tahoe",
+  "state": "CA",
+  "lat": 39.1,
+  "lng": -120.03
+ },
+ {
+  "name": "Virginia Cottage",
+  "url": "https://virginia-cottage.lazy.vacations/",
+  "place": "Blue Ridge, VA",
+  "town": "Blue Ridge",
+  "state": "VA",
+  "lat": 37.53,
+  "lng": -79.68
+ }
+]
