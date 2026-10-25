@@ -110,7 +110,9 @@
   if (areaBtn) areaBtn.addEventListener('click', function () { area = map.getBounds(); q.value = ''; areaBtn.hidden = true; show(); });
   /* The homes: street.json, written from the database by tools/build-index.mjs. */
   fetch(map.getContainer().dataset.src || 'street.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (list) {
-    homes = list.map(function (h) {
+    homes = list.slice().sort(function (a, b) {
+      return Number(b.featured === true) - Number(a.featured === true) || a.name.localeCompare(b.name);
+    }).map(function (h) {
       var markerOptions = { title: h.name, alt: h.name, zIndexOffset: h.featured === true ? 1000 : 0 };
       if (h.featured === true) markerOptions.icon = featuredIcon;
       h.marker = L.marker([h.lat, h.lng], markerOptions)
