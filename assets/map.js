@@ -21,13 +21,29 @@
   }
   /* A place matches when a word of it starts with what was typed, or the typed word is
      its state's full name: "ca" and "california" both find San Francisco, not Cape Cod. */
-  var STATES = { ny: 'new york', fl: 'florida', hi: 'hawaii', va: 'virginia', ma: 'massachusetts', tn: 'tennessee',
-                 pa: 'pennsylvania', ca: 'california', il: 'illinois', vt: 'vermont' };
+  /* The states, both ways: "me" and "maine" find the same homes, whichever form a place is written in. */
+  var STATES = { al: 'alabama', ak: 'alaska', az: 'arizona', ar: 'arkansas', ca: 'california', co: 'colorado',
+    ct: 'connecticut', de: 'delaware', dc: 'district of columbia', fl: 'florida', ga: 'georgia', hi: 'hawaii',
+    id: 'idaho', il: 'illinois', in: 'indiana', ia: 'iowa', ks: 'kansas', ky: 'kentucky', la: 'louisiana',
+    me: 'maine', md: 'maryland', ma: 'massachusetts', mi: 'michigan', mn: 'minnesota', ms: 'mississippi',
+    mo: 'missouri', mt: 'montana', ne: 'nebraska', nv: 'nevada', nh: 'new hampshire', nj: 'new jersey',
+    nm: 'new mexico', ny: 'new york', nc: 'north carolina', nd: 'north dakota', oh: 'ohio', ok: 'oklahoma',
+    or: 'oregon', pa: 'pennsylvania', ri: 'rhode island', sc: 'south carolina', sd: 'south dakota',
+    tn: 'tennessee', tx: 'texas', ut: 'utah', vt: 'vermont', va: 'virginia', wa: 'washington',
+    wv: 'west virginia', wi: 'wisconsin', wy: 'wyoming' };
+  var ABBR = {};
+  Object.keys(STATES).forEach(function (k) { ABBR[STATES[k]] = k; });
+  /* A place's state as its two letters: "Portland, ME" and "Portland, Maine" both give "me". */
+  function stateOf(place) {
+    var last = place.toLowerCase().split(',').pop().trim();
+    return STATES[last] ? last : ABBR[last] || '';
+  }
   function matches(place, t) {
-    var words = place.toLowerCase().split(/[\s,]+/), state = words[words.length - 1];
-    if (STATES[state] && STATES[state].indexOf(t) === 0 && t.length > 2) return true;
-    if (t.length <= 2) return state === t;
-    return place.toLowerCase().split(/,\s*/)[0].indexOf(t) === 0 || words.some(function (w) { return w.indexOf(t) === 0; });
+    var st = stateOf(place), p = place.toLowerCase();
+    if (t.length <= 2) return st === t;
+    if (st && STATES[st].indexOf(t) === 0) return true;               /* "mai", "maine", "new y" */
+    if (ABBR[t] && ABBR[t] === st) return true;
+    return p.split(/,\s*/)[0].indexOf(t) === 0 || p.split(/[\s,]+/).some(function (w) { return w.indexOf(t) === 0; });
   }
   /* Each filter sorts a home three ways: it says yes (a match), it says no (left out), or it does not
      say (it may fit). Location and the map area are always known, so they only include or leave out. */
