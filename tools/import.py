@@ -46,7 +46,13 @@ def slug(s):
 def key(url):
     """One home per website: scheme, www and trailing slash do not matter."""
     u = urllib.parse.urlparse(url.strip())
-    return (u.netloc.lower().removeprefix('www.') + u.path.rstrip('/')).lower()
+    # LiveRez identifies individual rentals by PageDataID on a shared ASP path.
+    # Ignore tracking/search queries, but retain this actual property identity.
+    params=urllib.parse.parse_qs(u.query)
+    property_id=params.get('PageDataID')
+    unit_id=params.get('reservation_unitId')
+    suffix='?PageDataID='+property_id[0] if property_id else ('?reservation_unitId='+unit_id[0] if unit_id else '')
+    return (u.netloc.lower().removeprefix('www.') + u.path.rstrip('/')).lower()+suffix
 
 
 def merge_fields(home, row):
@@ -122,7 +128,7 @@ def main():
             h['place'] = row.get('place') or ', '.join(x for x in [h.get('town'), h.get('state')] if x)
             if isinstance(row.get('lat'), (float, int)) and isinstance(row.get('lng'), (float, int)): h['lat'], h['lng'] = row['lat'], row['lng']
             elif not isinstance(h.get('lat'), (float, int)): h['lat'], h['lng'] = coordinates(h.get('town', ''), h.get('state', ''))
-            h['locationPrecision'] = 'Town / area approximate' if h.get('lat') is not None else 'Unknown'
+            h['locationPrecision'] = row.get('locationPrecision') or ('Town / area approximate' if h.get('lat') is not None else 'Unknown')
             if GEO_CACHE.exists():
                 geo = json.loads(GEO_CACHE.read_text()).get(f"{h.get('town')}, {h.get('state')}, USA", {})
                 h['locationSource'] = row.get('locationSource') or geo.get('source', 'Unknown')

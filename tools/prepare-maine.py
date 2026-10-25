@@ -29,7 +29,7 @@ for row in rows:
         src=SRC/value;target=MEDIA/src.name
         legacy=ROOT/'images/catalog'/src.name
         if legacy.exists() and not target.exists():legacy.replace(target)
-        if not target.exists() or target.stat().st_size!=src.stat().st_size:shutil.copyfile(src,target)
+        if not target.exists() or target.read_bytes()!=src.read_bytes():shutil.copyfile(src,target)
         copied.add(target.name)
         if column!='Logo image':photos.append({'file':'images/'+target.name,'role':'cover' if column=='Cover image' else 'photo'})
     capacity=row['Sleeps / max guests'];guests=int(capacity) if re.fullmatch(r'\d+',capacity) else UNKNOWN
@@ -56,16 +56,39 @@ for row in rows:
       'photoStatus':row['Photo status'],'address':address,'sourceDetails':row,
       'listingStatus':'Needs review' if row['Photo status']=='Website mismatch' else 'Active',
       'checked':checked,'alive':True if prior_answer else UNKNOWN})
+operator_file=SRC/'aggregator-sweep/operator-catalog.json'
+operators=json.loads(operator_file.read_text()) if operator_file.exists() else []
+for h in operators:
+    for photo in h['photos']:
+        origin=SRC/'aggregator-sweep'/photo['file']
+        target=MEDIA/origin.name
+        shutil.copyfile(origin,target);photo['file']='images/'+origin.name;copied.add(target.name)
+    h['photo']=h['coverPhoto']=h['photos'][0]['file'] if h['photos'] else UNKNOWN
+homes.extend(operators)
+audit={r['id']:r['assessment'] for r in json.loads((SRC/'logs/contact-reassessment.json').read_text())}
+for h in homes:
+    report=audit[h['id']]
+    h['contactPagesChecked']=report.get('contactPagesChecked',[])
+    h['addressReassessment']={'checkedOn':report['checkedOn'],'status':report['status'],'openedUrls':report.get('openedUrls',[]),'errors':report.get('errors',[])}
 target=DEST/'catalog.json';target.write_text(json.dumps(homes,ensure_ascii=False,indent=1)+'\n')
+(DEST/'operator-catalog.json').write_text(json.dumps(operators,ensure_ascii=False,indent=1)+'\n')
+shutil.copyfile(SRC/'bad-websites.md',ROOT/'bad-websites.md')
+shutil.copyfile(SRC/'bad-websites.json',DEST/'bad-websites.json')
+shutil.copyfile(SRC/'aggregator-sweep/operator-replacements.json',DEST/'operator-replacements.json')
+shutil.copyfile(SRC/'logs/contact-reassessment.json',DEST/'contact-reassessment.json')
 shutil.copyfile(SRC/'Maine_Rental_Websites_updated.csv',DEST/'catalog.csv')
 shutil.copyfile(SRC/'schema.json',DEST/'csv-schema.json')
 # Provenance for the selected photos only; no rejected/unused imagery is uploaded.
 manifest=json.loads((SRC/'image-manifest.json').read_text())
+active_ids={h['id'] for h in homes}
 selected=[{'id':r['id'],'photos':[{k:p.get(k,'') for k in ['file','role','url','page','sha256','width','height']} for p in r['photos']],
  'logo':{k:r['logo'].get(k,'') for k in ['file','url','page','sha256']} if r.get('logo') else None} for r in manifest]
+selected.extend({'id':h['id'],'photos':h['photos'],'logo':None} for h in operators)
 (DEST/'photo-sources.json').write_text(json.dumps(selected,ensure_ascii=False,indent=1)+'\n')
 addresses=json.loads((SRC/'address-manifest.json').read_text())
-(DEST/'address-sources.json').write_text(json.dumps([{'id':r['id'],'address':{k:v for k,v in r['address'].items() if k!='cache'} if r['address'] else None,'type':r['address_type'],'status':r['status'],'notes':r['notes'],'checkedOn':r['checked_on']} for r in addresses],ensure_ascii=False,indent=1)+'\n')
-shutil.copyfile(SRC/'collection-status.json',DEST/'collection-status.json')
-(DEST/'description-sources.json').write_text(json.dumps([json.loads(f.read_text()) for f in sorted((SRC/'logs/descriptions').glob('ME-*.json'))],ensure_ascii=False,indent=1)+'\n')
+(DEST/'address-sources.json').write_text(json.dumps([{'id':r['id'],'address':{k:v for k,v in r['address'].items() if k!='cache'} if r['address'] else None,'type':r['address_type'],'status':r['status'],'notes':r['notes'],'checkedOn':r['checked_on']} for r in addresses if r['id'] in active_ids]+[{'id':h['id'],'address':h['address']} for h in operators],ensure_ascii=False,indent=1)+'\n')
+statuses=json.loads((SRC/'collection-status.json').read_text())
+statuses.extend({'id':h['id'],'status':h['collectionStatus'],'missingRequiredFields':h['missingRequiredFields'],'propertyPhotoCount':len(h['photos']),'addressType':h['address']['type'],'descriptionStatus':h['descriptionStatus']} for h in operators)
+(DEST/'collection-status.json').write_text(json.dumps(statuses,ensure_ascii=False,indent=1)+'\n')
+(DEST/'description-sources.json').write_text(json.dumps([json.loads(f.read_text()) for f in sorted((SRC/'logs/descriptions').glob('ME-*.json')) if f.stem in active_ids]+[{'id':h['id'],'description':h['description'],'sourceUrl':h['descriptionSource'],'status':h['descriptionStatus']} for h in operators],ensure_ascii=False,indent=1)+'\n')
 print(json.dumps({'records':len(homes),'selectedMedia':len(copied),'source':str(target)}))

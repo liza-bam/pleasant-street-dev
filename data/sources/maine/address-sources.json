@@ -57,27 +57,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0004",
-  "address": {
-   "id": "ME-0004",
-   "street": "271 Bay View Drive",
-   "city": "Bar Harbor",
-   "state": "ME",
-   "postal_code": "04609",
-   "full_address": "271 Bay View Drive, Bar Harbor, ME 04609",
-   "source_url": "https://akama.com/company/Bayview_Cottages_Vacation_Homes_ae1c83345154.html",
-   "evidence": "Bayview Cottages Vacation Homes; 271 Bay View Drive; Bar Harbor, Maine; 04609",
-   "official": false,
-   "notes": "Third-party business listing; current operator address unverified.",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Third-party listing; unverified officially",
-  "notes": "Third-party business listing; current operator address unverified.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0005",
   "address": {
    "street": "1500 State Highway 102",
@@ -276,14 +255,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0017",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0018",
   "address": {
    "street": "125 Russell Rd",
@@ -319,28 +290,6 @@
   "type": "Published property / business contact address",
   "status": "Published on official website",
   "notes": "ZIP code not found or invalid in source; left blank.",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0020",
-  "address": {
-   "street": "123 River Road",
-   "city": "Calais",
-   "state": "ME",
-   "postal_code": "04619",
-   "full_address": "123 River Road, Calais, ME 04619",
-   "source_url": "https://visitmaine.com/organization/pocomoonshine-lake-lodges/3640/",
-   "title": "Pocomoonshine Lake Lodges | Visit Maine",
-   "evidence": "0 years, Pocomoonshine Lake Lodges welcomed guests to fully equipped lakefront cottages designed for relaxing, unplugged vacations. Pocomoonshine Lake Lodges Address 123 River Road, Calais, ME, 04619",
-   "official": false,
-   "id": "ME-0020",
-   "name": "Pocomoonshine Lake Lodges",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Published tourism / chamber listing",
-  "notes": "",
   "checkedOn": "2026-10-25"
  },
  {
@@ -433,25 +382,6 @@
    "score": 105,
    "source_url": "https://lakepemaquid.com/contact/",
    "evidence": "Name * Email Address * How can we help? Feel free to ask a question or simply leave a comment. Comments / Questions * Lake Pemaquid Campground PO Box 967, 100 Twin Cove Lane | Damariscotta, Maine 04543",
-   "owner": ""
-  },
-  "type": "Published property / business contact address",
-  "status": "Published on official website",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0026",
-  "address": {
-   "street": "30 Lakehurst Lane, Unit 2",
-   "city": "Damariscotta",
-   "state": "ME",
-   "postal_code": "04543",
-   "full_address": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
-   "method": "Published address text on official website",
-   "score": 105,
-   "source_url": "https://www.lakehurstcamps.com/about-us/",
-   "evidence": "ly Manlius, NY Experience the magic of Maine Interested in reserving? Let's Chat! Christina Pinkham Customer Service Manager Lakehurst Properties LLC 30 Lakehurst Lane, Unit 2 Damariscotta, ME 04543",
    "owner": ""
   },
   "type": "Published property / business contact address",
@@ -731,14 +661,6 @@
   "type": "Published property / business contact address",
   "status": "Published on official website",
   "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0041",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
   "checkedOn": "2026-10-25"
  },
  {
@@ -1172,27 +1094,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0066",
-  "address": {
-   "id": "ME-0066",
-   "street": "748 Main Street",
-   "city": "Moose River",
-   "state": "ME",
-   "postal_code": "04945",
-   "full_address": "748 Main Street, Moose River, ME 04945",
-   "source_url": "https://visitmaine.com/organization/sky-lodge-cabins/6916/",
-   "evidence": "748 Main Street PO Box 428, Moose River, ME, 04945",
-   "official": false,
-   "notes": "Supplied website now refers to Peru. This address is for the Maine Sky Lodge in the tourism directory.",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Website mismatch; address in tourism listing",
-  "notes": "Supplied website now refers to Peru. This address is for the Maine Sky Lodge in the tourism directory.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0067",
   "address": {
    "street": "1517 Shin Pond Road",
@@ -1506,14 +1407,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0084",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0085",
   "address": {
    "id": "ME-0085",
@@ -1531,27 +1424,6 @@
   },
   "type": "Published property / business contact address",
   "status": "Published tourism / chamber listing",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0086",
-  "address": {
-   "id": "ME-0086",
-   "street": "747 South Shore Drive",
-   "city": "Rangeley Plantation",
-   "state": "ME",
-   "postal_code": "04970",
-   "full_address": "747 South Shore Drive, Rangeley Plantation, ME 04970",
-   "source_url": "https://niboban.camp/",
-   "evidence": "NCCA 747 South Shore Drive Rangeley Plantation, ME 04970",
-   "official": true,
-   "notes": "",
-   "method": "Reviewed official website evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Published on official website",
   "notes": "",
   "checkedOn": "2026-10-25"
  },
@@ -2227,23 +2099,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0124",
-  "address": {
-   "street": "24 Bridge Street",
-   "city": "Bar Harbor",
-   "state": "ME",
-   "postal_code": "04609",
-   "full_address": "24 Bridge Street, Bar Harbor, ME 04609",
-   "source_url": "https://www.maineislandproperties.com/properties/acadia-memories/",
-   "evidence": "Acadia Memories 24 Bridge Street, Bar Harbor, Hancock/Maine, 04609, United States",
-   "method": "Published address on property manager listing"
-  },
-  "type": "Published property / business contact address",
-  "status": "Published on official website",
-  "notes": "Rental manager listing confirms the property identity, photos, description and address. Original domain has a certificate problem.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0125",
   "address": {
    "street": "157 Thundermist Rd",
@@ -2448,14 +2303,6 @@
   "type": "Published property / business contact address",
   "status": "Published on official website",
   "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0136",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
   "checkedOn": "2026-10-25"
  },
  {
@@ -2910,28 +2757,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0164",
-  "address": {
-   "street": "369 Guard Point Road",
-   "city": "Harrington",
-   "state": "ME",
-   "postal_code": "04643",
-   "full_address": "369 Guard Point Road, Harrington, ME 04643",
-   "source_url": "https://visitmaine.com/organization/guard-point-vacation-rental/6159/",
-   "title": "Guard Point vacation rental | Visit Maine",
-   "evidence": "turn30search0 [wordlim: 200] Crawled: 2 weeks ago; Guard Point vacation rentalAddress ... http://guardpointmaine.com/ Guard Point vacation rental Address 369 Guard Point Road, Harrington, ME, 04643",
-   "official": false,
-   "id": "ME-0164",
-   "name": "Guard Point Vacation Rental",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Published tourism / chamber listing",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0165",
   "address": {
    "street": "1286 Main Road",
@@ -2997,23 +2822,7 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0169",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0170",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0171",
   "address": null,
   "type": "",
   "status": "Not found publicly",
@@ -3187,14 +2996,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0184",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0185",
   "address": {
    "street": "72 Snowball Hill Road",
@@ -3237,14 +3038,6 @@
  },
  {
   "id": "ME-0187",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0188",
   "address": null,
   "type": "",
   "status": "Not found publicly",
@@ -3352,28 +3145,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0197",
-  "address": {
-   "street": "129 Lynn Way",
-   "city": "Rangeley",
-   "state": "ME",
-   "postal_code": "04970",
-   "full_address": "129 Lynn Way, Rangeley, ME 04970",
-   "source_url": "https://business.rangeleymaine.com/activitydirectory/Details/sunset-view-carriage-house-2996743",
-   "title": "Sunset View Carriage House -Activities Directory - Rangeley Lakes Region Chamber of Commerce",
-   "evidence": "om Fiddlehead Farm at the Rangelet Farmer's Market Image: GoodiesImage: Goodies Image: Farmers Market sconesImage: Farmers Market scones Sunset View Carriage House 129 Lynn Way , Rangeley , ME , 04970",
-   "official": false,
-   "id": "ME-0197",
-   "name": "Sunset View Carriage House",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Published tourism / chamber listing",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0198",
   "address": {
    "street": "73 Talbot Avenue",
@@ -3389,28 +3160,6 @@
   },
   "type": "Published property / business contact address",
   "status": "Published on official website",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0199",
-  "address": {
-   "street": "1 Ship St",
-   "city": "Rockport",
-   "state": "ME",
-   "postal_code": "04856",
-   "full_address": "1 Ship St, Rockport, ME 04856",
-   "source_url": "https://wanderlog.com/place/details/11517493/duckdown-waterfront-vacation-rental",
-   "title": "Duckdown Waterfront Vacation Rental, Camden, ME - Reviews, Ratings, Tips and Why You Should Go – Wanderlog",
-   "evidence": "table design, and unique waterfront access - truly embodies the essence of Maine coastal living. See more reviews All Google Maps reviewsAll Tripadvisor reviews Address 1 Ship St, Rockport, ME 04856",
-   "official": false,
-   "id": "ME-0199",
-   "name": "Duckdown Waterfront Vacation",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Third-party listing; unverified officially",
   "notes": "",
   "checkedOn": "2026-10-25"
  },
@@ -3570,36 +3319,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0210",
-  "address": {
-   "street": "11 Seal Cove Rd",
-   "city": "Southwest Harbor",
-   "state": "ME",
-   "postal_code": "04679",
-   "full_address": "11 Seal Cove Rd, Southwest Harbor, ME 04679",
-   "source_url": "https://www.allbiz.com/business/mdi-vacation-homes-207-244-0607",
-   "title": "MDI Vacation Homes | (207) 244-0607 | Southwest Harbor, Maine",
-   "evidence": "exist, informational purposes only. sales@mdivacationhomes.com andy@mdivacationhomes.com jane@mdivacationhomes.com + Additional Businesses at this Address 11 Seal Cove Rd, Southwest Harbor, ME 04679",
-   "official": false,
-   "id": "ME-0210",
-   "name": "MDI Vacation Homes",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Third-party listing; unverified officially",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0211",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0212",
   "address": {
    "street": "859 Maine Street",
@@ -3697,28 +3416,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0221",
-  "address": {
-   "street": "412 Post Road",
-   "city": "Wells",
-   "state": "ME",
-   "postal_code": "04090",
-   "full_address": "412 Post Road, Wells, ME 04090",
-   "source_url": "https://chamber.ogunquit.org/list/member/kc-cottage-rentals-llc-593",
-   "title": "KC Cottage Rentals | SHORT TERM RENTALS",
-   "evidence": "t.org/list/member/kc-cottage-rentals-llc-593) citeturn40search1 [wordlim: 200] Crawled: last week; KC Cottage Rentals KC Cottage Rentals Categories SHORT TERM RENTALS 412 Post Road Wells ME 04090",
-   "official": false,
-   "id": "ME-0221",
-   "name": "KC Cottage Rentals",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Published property / business contact address",
-  "status": "Published tourism / chamber listing",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0222",
   "address": {
    "street": "510 Webhannet Dr",
@@ -3799,28 +3496,6 @@
   },
   "type": "Operator contact / office address",
   "status": "Published on official website",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0227",
-  "address": {
-   "street": "PO Box 949",
-   "city": "Bar Harbor",
-   "state": "ME",
-   "postal_code": "04609",
-   "full_address": "PO Box 949, Bar Harbor, ME 04609",
-   "source_url": "https://visitmaine.com/organization/acadia-cottage-rentals/3724/",
-   "title": "Acadia Cottage Rentals | Visit Maine",
-   "evidence": "; Address ... http://acadiarental.com/ ... Acadia Cottage Rentals connects travelers with a wide range of vacation homes across Maine. Acadia Cottage Rentals Address PO Box 949, Bar Harbor, ME, 04609",
-   "official": false,
-   "id": "ME-0227",
-   "name": "Acadia Cottage Rentals",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Mailing address (PO Box)",
-  "status": "Published tourism / chamber listing",
   "notes": "",
   "checkedOn": "2026-10-25"
  },
@@ -3943,27 +3618,6 @@
   },
   "type": "Operator contact / office address",
   "status": "Published on official website",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0235",
-  "address": {
-   "id": "ME-0235",
-   "street": "54 Main Street",
-   "city": "Blue Hill",
-   "state": "ME",
-   "postal_code": "04614",
-   "full_address": "54 Main Street, Blue Hill, ME 04614",
-   "source_url": "https://visitmaine.com/organization/peninsula-property-rentals/5887/",
-   "evidence": "54 Main Street P.O. Box 611, Blue Hill, ME, 04614",
-   "official": false,
-   "notes": "",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Operator contact / office address",
-  "status": "Published tourism / chamber listing",
   "notes": "",
   "checkedOn": "2026-10-25"
  },
@@ -4166,25 +3820,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0249",
-  "address": {
-   "street": "277 Main Street, Suite 3",
-   "city": "Damariscotta",
-   "state": "ME",
-   "postal_code": "04543",
-   "full_address": "277 Main Street, Suite 3, Damariscotta, ME 04543",
-   "method": "Structured address on official website",
-   "score": 114,
-   "source_url": "https://www.mainecoastcottages.com/",
-   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"277 Main Street, Suite 3\", \"addressLocality\": \"Damariscotta\", \"addressRegion\": \"ME\", \"postalCode\": \"04543\", \"addressCountry\": \"United States\"}",
-   "owner": "Newcastle Vacation Rentals"
-  },
-  "type": "Operator contact / office address",
-  "status": "Published on official website",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0250",
   "address": {
    "street": "6 Neighborhood Road",
@@ -4299,28 +3934,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0256",
-  "address": {
-   "street": "6 Cold Storage Road",
-   "city": "Saint George",
-   "state": "ME",
-   "postal_code": "",
-   "full_address": "6 Cold Storage Road, Saint George, ME",
-   "source_url": "https://camdenrockland.com/businesses/linda-beans-maine-vacation-rentals/",
-   "title": "Linda Bean's Maine Vacation Rentals - Penobscot Bay Regional Chamber of Commerce",
-   "evidence": "George, ME, USA Phone 207-330-0263 Email veronika@lindabeansperfectmaine.com Website https://www.lindabeansperfectmaine.com/lodging-type/vacation-rentals/ 6 Cold Storage Road, Saint George, ME",
-   "official": false,
-   "id": "ME-0256",
-   "name": "Linda Bean's Maine Vacation Rentals",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Operator contact / office address",
-  "status": "Published tourism / chamber listing",
-  "notes": "ZIP code not found or invalid in source; left blank.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0257",
   "address": {
    "street": "1281 Main Street",
@@ -4374,28 +3987,6 @@
   },
   "type": "Operator contact / office address",
   "status": "Published on official website",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0260",
-  "address": {
-   "street": "91 Belvedere Rd",
-   "city": "Damariscotta",
-   "state": "ME",
-   "postal_code": "04543-4545",
-   "full_address": "91 Belvedere Rd, Damariscotta, ME 04543-4545",
-   "source_url": "https://www.bbb.org/us/me/damariscotta/profile/vacation-rentals/rocky-coast-rentals-llc-0021-555806",
-   "title": "Rocky Coast Rentals, LLC | BBB Business Profile | Better Business Bureau",
-   "evidence": "business is NOT BBB Accredited. Find BBB Accredited Businesses in Vacation Rentals. Visit Website(207) 563-6805Write a Review Overview Rocky Coast Rentals, LLC 91 Belvedere Rd Damariscotta, ME 04543-4545",
-   "official": false,
-   "id": "ME-0260",
-   "name": "Rocky Coast Rentals",
-   "method": "Reviewed public listing evidence",
-   "score": 120
-  },
-  "type": "Operator contact / office address",
-  "status": "Third-party listing; unverified officially",
   "notes": "",
   "checkedOn": "2026-10-25"
  },
@@ -4536,25 +4127,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0268",
-  "address": {
-   "street": "121 New County Rd",
-   "city": "Rockland",
-   "state": "ME",
-   "postal_code": "",
-   "full_address": "121 New County Rd, Rockland, ME",
-   "method": "Structured address on official website",
-   "score": 115,
-   "source_url": "https://jimmysrentals.com/about-jimmys-rentals-about-property-management/",
-   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"121 New County Rd\", \"addressLocality\": \"Rockland\", \"addressRegion\": \"ME\", \"postalCode\": \"ME\", \"addressCountry\": \"US\"}",
-   "owner": "Jimmy's Rentals"
-  },
-  "type": "Operator contact / office address",
-  "status": "Published on official website",
-  "notes": "ZIP code not found or invalid in source; left blank.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0269",
   "address": {
    "street": "43 Rankin St",
@@ -4615,14 +4187,6 @@
   "checkedOn": "2026-10-25"
  },
  {
-  "id": "ME-0272",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
-  "checkedOn": "2026-10-25"
- },
- {
   "id": "ME-0273",
   "address": null,
   "type": "",
@@ -4668,25 +4232,6 @@
   },
   "type": "Operator contact / office address",
   "status": "Published tourism / chamber listing",
-  "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0276",
-  "address": {
-   "street": "2 Sebago Road",
-   "city": "Sebago",
-   "state": "ME",
-   "postal_code": "04029",
-   "full_address": "2 Sebago Road, Sebago, ME 04029",
-   "method": "Published address text on official website",
-   "score": 105,
-   "source_url": "https://sebagolakeproperties.com/contact-us/",
-   "evidence": "many other platforms. Give us a call. We would be happy to discuss our services and answer any questions you may have about the process. Jordan Rentals Street Address: 2 Sebago Road Sebago, Maine 04029",
-   "owner": ""
-  },
-  "type": "Operator contact / office address",
-  "status": "Published on official website",
   "notes": "",
   "checkedOn": "2026-10-25"
  },
@@ -4764,14 +4309,6 @@
   "type": "Operator contact / office address",
   "status": "Published tourism / chamber listing",
   "notes": "",
-  "checkedOn": "2026-10-25"
- },
- {
-  "id": "ME-0282",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
   "checkedOn": "2026-10-25"
  },
  {
@@ -4969,5 +4506,2480 @@
   "status": "Published on official website",
   "notes": "",
   "checkedOn": "2026-10-25"
+ },
+ {
+  "id": "ME-0431",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0432",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0433",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0434",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0435",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0436",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0437",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0438",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0439",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0440",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0441",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0442",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0443",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0444",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0445",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0446",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0447",
+  "address": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official contact page unavailable or no reliable address found; do not infer the rental street address from the map."
+  }
+ },
+ {
+  "id": "ME-0448",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0449",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0450",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0451",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0452",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0453",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0454",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0455",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0456",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0457",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0458",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0459",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0460",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0461",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0462",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0463",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0464",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0465",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0466",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0467",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0468",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0469",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0470",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0471",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0472",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0473",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0474",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0475",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0476",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0477",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0478",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0479",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0480",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0481",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0482",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0483",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0484",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0485",
+  "address": {
+   "street": "277 Main Street, Suite 3",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "277 Main Street, Suite 3, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.mainecoastcottages.com/contact-information.asp",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0486",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0487",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0488",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0489",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0490",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0491",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0492",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0493",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0494",
+  "address": {
+   "street": "30 Lakehurst Lane, Unit 2",
+   "city": "Damariscotta",
+   "state": "ME",
+   "postalCode": "04543",
+   "full": "30 Lakehurst Lane, Unit 2, Damariscotta, ME 04543",
+   "sourceUrl": "https://www.lakehurstcamps.com/about-us/",
+   "type": "Shared camp / business contact",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0495",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0496",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0497",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0498",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0499",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0500",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0501",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0502",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0503",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0504",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0505",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0506",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0507",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0508",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0509",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0510",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0511",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0512",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0513",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0514",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0515",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0516",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0517",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0518",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0519",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0520",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0521",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0522",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0523",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0524",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0525",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0526",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0527",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0528",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0529",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0530",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0531",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0532",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0533",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0534",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0535",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0536",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0537",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0538",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0539",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0540",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0541",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0542",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0543",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0544",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0545",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0546",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0547",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0548",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0549",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0550",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0551",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0552",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0553",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0554",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0555",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0556",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0557",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0558",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0559",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0560",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0561",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0562",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0563",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0564",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0565",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0566",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0567",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0568",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0569",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0570",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0571",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0572",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0573",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0574",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0575",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0576",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0577",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0578",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0579",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0580",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0581",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0582",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0583",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0584",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0585",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0586",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0587",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0588",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0589",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0590",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0591",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0592",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0593",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0594",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
+ },
+ {
+  "id": "ME-0595",
+  "address": {
+   "street": "2 Sebago Road",
+   "city": "Sebago",
+   "state": "ME",
+   "postalCode": "04029",
+   "full": "2 Sebago Road, Sebago, ME 04029",
+   "sourceUrl": "https://sebagolakeproperties.com/contact-us/",
+   "type": "Operator contact / office address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Contact address for the operator/camp. Individual rental street address is not publicly disclosed here. Map uses listing coordinates, not the office address."
+  }
  }
 ]

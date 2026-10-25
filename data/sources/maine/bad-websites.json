@@ -1,0 +1,491 @@
+[
+  {
+    "id": "ME-0004",
+    "name": "Bayview Cottages Vacation Homes",
+    "url": "https://bayviewcottages.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://bayviewcottages.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='bayviewcottages.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='bayviewcottages.com', port=443): Failed to resolve 'bayviewcottages.com' ([Errno 8] nodename n"
+      },
+      {
+        "url": "https://www.bayviewcottages.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.bayviewcottages.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.bayviewcottages.com', port=443): Failed to resolve 'www.bayviewcottages.com' ([Errno 8"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0017",
+    "name": "Rustic Maine Cottages (Dreaming of Maine alternate)",
+    "url": "https://rusticmainecottages.com/",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://rusticmainecottages.com/",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='rusticmainecottages.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:101"
+      },
+      {
+        "url": "https://www.rusticmainecottages.com/",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.rusticmainecottages.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0020",
+    "name": "Pocomoonshine Lake Lodges",
+    "url": "https://pocomoonshine.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://pocomoonshine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='pocomoonshine.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='pocomoonshine.com', port=443) at 0x112180650>, 'Connection to pocomoonshine.com timed out. (conn"
+      },
+      {
+        "url": "https://www.pocomoonshine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.pocomoonshine.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pocomoonshine.com', port=443) at 0x11254d090>, 'Connection to www.pocomoonshine.com time"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "Connection timed out on both checks."
+  },
+  {
+    "id": "ME-0041",
+    "name": "Gardners Sporting Camps",
+    "url": "https://gardnersportingcamps.com/",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://gardnersportingcamps.com/",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='gardnersportingcamps.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gardnersportingcamps.com', port=443): Failed to resolve 'gardnersportingcamps.com' ([Errn"
+      },
+      {
+        "url": "https://www.gardnersportingcamps.com/",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.gardnersportingcamps.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.gardnersportingcamps.com', port=443): Failed to resolve 'www.gardnersportingcamps"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0066",
+    "name": "Sky Lodge & Cabins",
+    "url": "https://skylodgecabins.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [],
+    "verdict": "Wrong property",
+    "reason": "Supplied Sky Lodge URL presents an unrelated property in Peru; excluded from Maine recommendations."
+  },
+  {
+    "id": "ME-0084",
+    "name": "Fieldstone Cottages",
+    "url": "https://fieldstonecottagesrangeleymaine.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://fieldstonecottagesrangeleymaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='fieldstonecottagesrangeleymaine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='fieldstonecottagesrangeleymaine.com', port=443): Failed to resolve 'fieldstone"
+      },
+      {
+        "url": "https://www.fieldstonecottagesrangeleymaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.fieldstonecottagesrangeleymaine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.fieldstonecottagesrangeleymaine.com', port=443): Failed to resolve 'ww"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0086",
+    "name": "Niboban Sporting Camps",
+    "url": "https://niboban.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://niboban.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='niboban.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='niboban.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+      },
+      {
+        "url": "https://www.niboban.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.niboban.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.niboban.com', port=443): Failed to establish a new connection: [Errno 61] Connection refused\"))"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "Connection failed on both URL checks."
+  },
+  {
+    "id": "ME-0124",
+    "name": "Acadia Memories Vacation Cottage",
+    "url": "https://acadiamemories.us",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://acadiamemories.us",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='acadiamemories.us', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
+      },
+      {
+        "url": "https://www.acadiamemories.us",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.acadiamemories.us', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0136",
+    "name": "Moose Pond Maine Escape",
+    "url": "https://moosepondmaineescape.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://moosepondmaineescape.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='moosepondmaineescape.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is "
+      },
+      {
+        "url": "https://www.moosepondmaineescape.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.moosepondmaineescape.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0164",
+    "name": "Guard Point Vacation Rental",
+    "url": "https://guardpointmaine.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://guardpointmaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='guardpointmaine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='guardpointmaine.com', port=443): Failed to resolve 'guardpointmaine.com' ([Errno 8] nodename n"
+      },
+      {
+        "url": "https://www.guardpointmaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.guardpointmaine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.guardpointmaine.com', port=443): Failed to resolve 'www.guardpointmaine.com' ([Errno 8"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0169",
+    "name": "Coast & Cove Rentals",
+    "url": "https://coastandcove.lodgify.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://coastandcove.lodgify.com",
+        "status": 402,
+        "error": "402 Client Error: Payment Required for url: https://coastandcove.lodgify.com/"
+      },
+      {
+        "url": "https://www.coastandcove.lodgify.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.coastandcove.lodgify.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1016)')))"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0171",
+    "name": "Ducktrap Lodge & Retreat",
+    "url": "https://ducktraplodge.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://ducktraplodge.com",
+        "status": 404,
+        "error": "404 Client Error: Not Found for url: https://ducktraplodge.com/"
+      },
+      {
+        "url": "https://www.ducktraplodge.com",
+        "status": 404,
+        "error": "404 Client Error: Not Found for url: https://ducktraplodge.com/"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "HTTP 404; no working page after two URL checks."
+  },
+  {
+    "id": "ME-0184",
+    "name": "Finch Cottage",
+    "url": "https://finchcottage.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://finchcottage.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='finchcottage.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='finchcottage.com', port=443): Failed to resolve 'finchcottage.com' ([Errno 8] nodename nor servna"
+      },
+      {
+        "url": "https://www.finchcottage.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.finchcottage.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.finchcottage.com', port=443): Failed to resolve 'www.finchcottage.com' ([Errno 8] nodenam"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0188",
+    "name": "Mill Stream House on North Haven",
+    "url": "https://northhavenrental.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://northhavenrental.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='northhavenrental.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='northhavenrental.com', port=443) at 0x112525010>, 'Connection to northhavenrental.com timed o"
+      },
+      {
+        "url": "https://www.northhavenrental.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.northhavenrental.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.northhavenrental.com', port=443) at 0x1131bff10>, 'Connection to www.northhavenrental"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "Connection timed out on both checks."
+  },
+  {
+    "id": "ME-0197",
+    "name": "Sunset View Carriage House",
+    "url": "https://zambraskimaine.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://zambraskimaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='zambraskimaine.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not va"
+      },
+      {
+        "url": "https://www.zambraskimaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.zambraskimaine.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is no"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0199",
+    "name": "Duckdown Waterfront Vacation",
+    "url": "https://duckdownmaine.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://duckdownmaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='duckdownmaine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='duckdownmaine.com', port=443): Failed to resolve 'duckdownmaine.com' ([Errno 8] nodename nor ser"
+      },
+      {
+        "url": "https://www.duckdownmaine.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.duckdownmaine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.duckdownmaine.com', port=443): Failed to resolve 'www.duckdownmaine.com' ([Errno 8] node"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0210",
+    "name": "MDI Vacation Homes",
+    "url": "https://mdivacationhomes.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://mdivacationhomes.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='mdivacationhomes.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mdivacationhomes.com', port=443) at 0x113779590>, 'Connection to mdivacationhomes.com timed o"
+      },
+      {
+        "url": "https://www.mdivacationhomes.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.mdivacationhomes.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mdivacationhomes.com', port=443) at 0x113771950>, 'Connection to www.mdivacationhomes"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "Connection timed out on both checks."
+  },
+  {
+    "id": "ME-0211",
+    "name": "Overlook at Mussel Ridge",
+    "url": "https://overlookatmusselridge.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://overlookatmusselridge.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='overlookatmusselridge.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='overlookatmusselridge.com', port=443): Failed to resolve 'overlookatmusselridge.com' ([E"
+      },
+      {
+        "url": "https://www.overlookatmusselridge.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.overlookatmusselridge.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.overlookatmusselridge.com', port=443): Failed to resolve 'www.overlookatmusselri"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0221",
+    "name": "KC Cottage Rentals",
+    "url": "https://kccottagerentals.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://kccottagerentals.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='kccottagerentals.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)'"
+      },
+      {
+        "url": "https://www.kccottagerentals.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.kccottagerentals.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:10"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0227",
+    "name": "Acadia Cottage Rentals",
+    "url": "https://acadiarental.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://acadiarental.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='acadiarental.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='acadiarental.com', port=443) at 0x11246b550>, 'Connection to acadiarental.com timed out. (connect"
+      },
+      {
+        "url": "https://www.acadiarental.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.acadiarental.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)'"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0235",
+    "name": "Peninsula Property Rentals",
+    "url": "https://peninsulapropertyrentals.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://peninsulapropertyrentals.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='peninsulapropertyrentals.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='peninsulapropertyrentals.com', port=443): Failed to resolve 'peninsulapropertyrentals"
+      },
+      {
+        "url": "https://www.peninsulapropertyrentals.com",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.peninsulapropertyrentals.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.peninsulapropertyrentals.com', port=443): Failed to resolve 'www.peninsulapro"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "DNS resolution failed for the checked hostnames."
+  },
+  {
+    "id": "ME-0256",
+    "name": "Linda Bean's Maine Vacation Rentals",
+    "url": "https://lindabeansperfectmaine.com/lodging-type/vacation-rentals/",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://lindabeansperfectmaine.com/lodging-type/vacation-rentals/",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='lindabeansperfectmaine.com', port=443): Max retries exceeded with url: /lodging-type/vacation-rentals/ (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Ho"
+      },
+      {
+        "url": "https://www.lindabeansperfectmaine.com/lodging-type/vacation-rentals/",
+        "status": null,
+        "error": "HTTPSConnectionPool(host='www.lindabeansperfectmaine.com', port=443): Max retries exceeded with url: /lodging-type/vacation-rentals/ (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "TLS/certificate connection failed for both checked URLs."
+  },
+  {
+    "id": "ME-0268",
+    "name": "Jimmy's Coast Real Estate Management",
+    "url": "https://jimmysrentals.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://jimmysrentals.com",
+        "status": 504,
+        "error": "504 Server Error: Gateway Timeout for url: https://jimmysrentals.com/"
+      },
+      {
+        "url": "https://www.jimmysrentals.com",
+        "status": 504,
+        "error": "504 Server Error: Gateway Timeout for url: https://jimmysrentals.com/"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "Connection timed out on both checks."
+  },
+  {
+    "id": "ME-0272",
+    "name": "Rockport Harbor View Vacation Rentals",
+    "url": "https://delray-camden-home-rentals.com/rockport",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://delray-camden-home-rentals.com/rockport",
+        "status": 404,
+        "error": "404 Client Error: Not Found for url: https://www.delray-camden-home-rentals.com/rockport"
+      },
+      {
+        "url": "https://www.delray-camden-home-rentals.com/rockport",
+        "status": 404,
+        "error": "404 Client Error: Not Found for url: https://www.delray-camden-home-rentals.com/rockport"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "HTTP 404; no working page after two URL checks."
+  },
+  {
+    "id": "ME-0282",
+    "name": "Willow Rental Properties",
+    "url": "https://willowrentalproperties.com",
+    "checkedOn": "2026-10-25",
+    "attempts": [
+      {
+        "url": "https://willowrentalproperties.com",
+        "status": 404,
+        "error": "404 Client Error: Not Found for url: https://willowrentalproperties.com/"
+      },
+      {
+        "url": "https://www.willowrentalproperties.com",
+        "status": 404,
+        "error": "404 Client Error: Not Found for url: https://www.willowrentalproperties.com/"
+      }
+    ],
+    "verdict": "Unavailable",
+    "reason": "HTTP 404; no working page after two URL checks."
+  }
+]

@@ -10,9 +10,12 @@ spec=importlib.util.spec_from_file_location('catalog_import',ROOT/'tools/import.
 imp=importlib.util.module_from_spec(spec);spec.loader.exec_module(imp)
 db=ROOT/'data/homes.json';homes=json.loads(db.read_text())
 sources=json.loads((ROOT/'data/sources/maine/catalog.json').read_text())
+excluded={p['id'] for p in json.loads((ROOT/'data/sources/maine/bad-websites.json').read_text())}
+excluded.update(p['id'] for p in json.loads((ROOT/'data/sources/maine/operator-replacements.json').read_text()))
+homes=[h for h in homes if h['id'] not in excluded]
 by_id={h['id']:h for h in homes}
 fields=['description','descriptionSource','descriptionStatus','collectionStatus','missingRequiredFields',
-        'coverPhoto','photos','logo','photoStatus','address','sourceDetails']
+        'coverPhoto','photos','logo','photoStatus','address','sourceDetails','contactPagesChecked','addressReassessment']
 changed=[]
 for row in sources:
     h=by_id[row['id']];before=json.loads(json.dumps(h))
