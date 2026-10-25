@@ -7,7 +7,15 @@
   var sleeps = document.getElementById('ps-sleeps'), sleepsOut = document.getElementById('ps-sleeps-out');
   var pills = document.getElementById('ps-type'), types = [];
   var welcome = document.getElementById('ps-welcome'), needs = [];
-  var map = L.map('ps-map', { scrollWheelZoom: false }).setView([39.5, -98.5], 4);
+  var map = L.map('ps-map', { scrollWheelZoom: false, maxZoom: 18 }).setView([39.5, -98.5], 4);   /* the circles need the top zoom up front */
+  /* Every home but the featured ones gathers into a circle with its count; a circle splits as the map
+     zooms in, and homes on one spot fan out when it is clicked. Featured homes stay pins, on the map itself,
+     so pins and circles always add up to the homes in the list. */
+  var cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 48,
+    iconCreateFunction: function (c) {
+      var n = c.getChildCount(), size = n < 10 ? 34 : n < 100 ? 42 : 50;
+      return L.divIcon({ html: '<span>' + n + '</span>', className: 'app-cluster', iconSize: L.point(size, size) });
+    } }).addTo(map);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
@@ -63,8 +71,10 @@
       if (!out && types.length) { if (!h.type) h.missing.push('type'); else if (types.indexOf(h.type) < 0) out = true; }
       /* Kids and pets are yes or no: a home that does not say counts as no. */
       needs.forEach(function (k) { if (!out && !/^y/i.test(h[k] || '')) out = true; });
-      if (out) map.removeLayer(h.marker);
-      else { h.marker.addTo(map); h.marker.setOpacity(h.missing.length ? 0.55 : 1); (h.missing.length ? maybe : fits).push(h); }
+      if (out) { (h.featured === true ? map : cluster).removeLayer(h.marker); return; }
+      h.marker.setOpacity(h.missing.length ? 0.55 : 1);
+      if (h.featured === true) h.marker.addTo(map); else cluster.addLayer(h.marker);
+      (h.missing.length ? maybe : fits).push(h);
     });
     var shown = fits.concat(maybe);
     if (!listEl) return shown;

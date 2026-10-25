@@ -68,6 +68,9 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 /* The second group's heading: homes that may fit, across the whole list. */
 .ps-group { grid-column: 1 / -1; margin: 10px 0 0; padding-top: 12px; border-top: 1px solid var(--line);
             font-size: 15px; font-weight: 700; color: var(--ink); }
+/* The circles: how many homes are there; they split into pins as the map zooms in. */
+.app-cluster { display: grid; place-items: center; border-radius: 50%; background: var(--green); color: var(--white);
+               border: 3px solid var(--white); box-shadow: var(--shadow); font-weight: 700; font-size: 14px; }
 .ps-none { grid-column: 1 / -1; margin: 8px 0; font-size: 16px; }
 
 @media (max-width: 760px) {
