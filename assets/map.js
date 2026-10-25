@@ -7,7 +7,9 @@
   var sleeps = document.getElementById('ps-sleeps'), sleepsOut = document.getElementById('ps-sleeps-out');
   var pills = document.getElementById('ps-type'), types = [];
   var welcome = document.getElementById('ps-welcome'), needs = [];
-  var map = L.map('ps-map', { scrollWheelZoom: false, maxZoom: 18 }).setView([39.5, -98.5], 4);   /* the circles need the top zoom up front */
+  /* A pinch on the trackpad and the wheel zoom the map itself, like + and -, never the page around it.
+     The circles need the top zoom up front. */
+  var map = L.map('ps-map', { scrollWheelZoom: true, maxZoom: 18 }).setView([39.5, -98.5], 4);
   /* Every home but the featured ones gathers into a circle with its count; a circle splits as the map
      zooms in, and homes on one spot fan out when it is clicked. Featured homes stay pins, on the map itself,
      so pins and circles always add up to the homes in the list. */
