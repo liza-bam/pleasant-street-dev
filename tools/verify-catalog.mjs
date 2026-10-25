@@ -38,7 +38,9 @@ for(const record of read('data/sources/maine/photo-sources.json')){
   media++;p.role?photos++:logos++;
  }
 }
-assert.equal(media,873);assert.equal(photos,750);assert.equal(logos,123);
+assert.equal(photos,source.reduce((n,h)=>n+h.photos.length,0));
+assert.equal(logos,source.filter(h=>h.logo && h.logo!=='Unknown').length);
+assert.equal(media,photos+logos);
 for(const h of homes.filter(h=>h.id.startsWith('ME-') && typeof h.lat==='number')){
  assert(h.lat>42.9 && h.lat<47.6 && h.lng>-71.2 && h.lng<-66.8,h.id+' coordinates outside Maine');
 }

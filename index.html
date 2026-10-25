@@ -12,7 +12,7 @@
 <link rel="preload" href="assets/fonts/lobster-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=11">
+<link rel="stylesheet" href="assets/app.css?v=12">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes on a map and in a list (assets/map.js reads street.json). -->
@@ -31,7 +31,7 @@
           <input type="range" id="ps-sleeps" min="1" max="8" step="1" value="1">
           <span class="app-sleeps__ticks" aria-hidden="true"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8+</span></span></label>
         <div class="app-pills" id="ps-type" role="group" aria-label="Type: none pressed shows every type">
-          <button type="button" data-type="House" aria-pressed="false">House</button><button type="button" data-type="Cabin" aria-pressed="false">Cabin</button><button type="button" data-type="Apartment" aria-pressed="false">Apartment</button>
+          <button type="button" data-type="House" aria-pressed="false">House</button><button type="button" data-type="Cabin" aria-pressed="false">Cabin</button><button type="button" data-type="Camp" aria-pressed="false">Camp</button><button type="button" data-type="Apartment" aria-pressed="false">Apartment</button>
         </div>
         <div class="app-pills" id="ps-welcome" role="group" aria-label="Welcome">
           <button type="button" data-need="kids" aria-pressed="false">Kids OK</button><button type="button" data-need="pets" aria-pressed="false">Pets OK</button>
@@ -43,6 +43,6 @@
   </main>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="assets/map.js?v=11"></script>
+<script src="assets/map.js?v=12"></script>
 </body>
 </html>

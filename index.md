@@ -23,7 +23,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0064
 - Town / area (approximate map location): Millinocket / Debsconeag Lakes, ME
-- Type: Unknown
+- Type: Camp
 - Description: 4th Debsconeag Lake Camps offers camp accommodation in Millinocket / Debsconeag Lakes, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -276,7 +276,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0035
 - Town / area (approximate map location): Ellsworth, ME
-- Type: Unknown
+- Type: Camp
 - Description: Arbor Camp offers camp accommodation in Ellsworth, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -338,7 +338,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0077
 - Town / area (approximate map location): Oquossoc, ME
-- Type: Unknown
+- Type: Camp
 - Description: Bald Mountain Camps offers camp accommodation in Oquossoc, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -495,7 +495,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0095
 - Town / area (approximate map location): Rome, ME
-- Type: Unknown
+- Type: Camp
 - Description: Bear Spring Camps offers camp accommodation in Rome, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -771,7 +771,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0038
 - Town / area (approximate map location): Fort Kent, ME
-- Type: Unknown
+- Type: Camp
 - Description: Camel Brook Camps offers camp accommodation in Fort Kent, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -786,7 +786,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0013
 - Town / area (approximate map location): Bremen, ME
-- Type: Unknown
+- Type: Camp
 - Description: Camp Otyokwa offers camp accommodation in Bremen, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -801,7 +801,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0068
 - Town / area (approximate map location): Mount Vernon, ME
-- Type: Unknown
+- Type: Camp
 - Description: Camp Skoglund offers camp accommodation in Mount Vernon, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -1037,7 +1037,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0078
 - Town / area (approximate map location): Patten, ME
-- Type: Unknown
+- Type: Camp
 - Description: Conklin's Lodge and Camps offers camp accommodation in Patten, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -1300,7 +1300,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0030
 - Town / area (approximate map location): Eagle Lake, ME
-- Type: Unknown
+- Type: Camp
 - Description: Eagle Lake Sporting Camps offers camp accommodation in Eagle Lake, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -1488,7 +1488,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0041
 - Town / area (approximate map location): Fort Kent, ME
-- Type: Unknown
+- Type: Camp
 - Description: Gardners Sporting Camps offers camp accommodation in Fort Kent, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -1584,7 +1584,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0091
 - Town / area (approximate map location): Rockwood, ME
-- Type: Unknown
+- Type: Camp
 - Description: Gray Ghost Camps offers camp accommodation in Rockwood, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -1788,7 +1788,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0051
 - Town / area (approximate map location): Harborside, ME
-- Type: Unknown
+- Type: Camp
 - Description: Hiram Blake Camp offers camp accommodation in Harborside, Maine. Listed capacity: 1–10 per cottage (2026 published categories). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -1947,7 +1947,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0042
 - Town / area (approximate map location): Fort Kent, ME
-- Type: Unknown
+- Type: Camp
 - Description: Junction 19 Company / The Caron Camp offers camp accommodation in Fort Kent, Maine. Listed capacity: 7/cabin (North, South); 9/house. The supplied information identifies options for family stays.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -2195,7 +2195,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0025
 - Town / area (approximate map location): Damariscotta, ME
-- Type: House
+- Type: Camp
 - Description: Lake Pemaquid Campground - cottage rentals offers cottage accommodation in Damariscotta, Maine. Listed capacity: 2–8 by unit. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -2212,7 +2212,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0026
 - Town / area (approximate map location): Damariscotta, ME
-- Type: Unknown
+- Type: Camp
 - Description: Lakehurst Camps offers camp accommodation in Damariscotta, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -2260,7 +2260,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0001
 - Town / area (approximate map location): Ashland / Munsungan Lake, ME
-- Type: Unknown
+- Type: Camp
 - Description: Libby Camps offers camp accommodation in Ashland / Munsungan Lake, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -2339,7 +2339,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0053
 - Town / area (approximate map location): Jackman, ME
-- Type: Unknown
+- Type: Camp
 - Description: Long Pond Camps offers camp accommodation in Jackman, Maine. The supplied information identifies options for family stays.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -2475,7 +2475,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0073
 - Town / area (approximate map location): North Maine Woods, ME
-- Type: Unknown
+- Type: Camp
 - Description: Macannamac Camps offers camp accommodation in North Maine Woods.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -3081,7 +3081,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0086
 - Town / area (approximate map location): Rangeley, ME
-- Type: Unknown
+- Type: Camp
 - Description: Niboban Sporting Camps offers camp accommodation in Rangeley, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -3129,7 +3129,7 @@ Map positions show towns or areas, not exact property locations. Unknown facts a
 
 - ID: ME-0090
 - Town / area (approximate map location): Rangeley Lake, ME
-- Type: Unknown
+- Type: Camp
 - Description: North Camps offers camp accommodation in Rangeley Lake, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown

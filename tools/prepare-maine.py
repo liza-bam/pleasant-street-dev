@@ -14,6 +14,7 @@ def policy(value):
     if re.match(r'^yes\b',value,re.I) and not re.search(r'selected|only|approval|confirm|private cabins|4 of|5–7|motel|may differ|over age|under supervision|age',value,re.I):return 'Yes'
     return 'Conditional'
 def kind(name,category):
+    if re.search(r'\bcamps?\b|\bcampground\b',name,re.I):return 'Camp'
     if category.startswith('Local rental manager'):return UNKNOWN
     if re.search(r'cabin|yurt|treehouse',name,re.I):return 'Cabin'
     if re.search(r'apartment|condo|suite',name,re.I):return 'Apartment'
