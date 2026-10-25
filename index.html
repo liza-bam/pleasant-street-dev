@@ -4,106 +4,31 @@
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" href="favicon.ico" sizes="any">
-<link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="theme-color" content="#74e3d1">
-<title>Pleasant Street (dev)</title>
-<meta name="description" content="A preview of Pleasant Street: sample homes from the LAZY™ portfolio on a map. Open a home to visit its own website.">
+<title>Pleasant Street</title>
+<meta name="description" content="Vacation homes run by independent hosts, on a map. Open a home to visit its own website and book there.">
+<link rel="icon" href="favicon.ico" sizes="any">
 <link rel="preload" href="assets/fonts/noto-serif-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/lobster-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="assets/header.css">
-<link rel="stylesheet" href="assets/faq.css">
-<link rel="stylesheet" href="assets/editor.css">
-<link rel="stylesheet" href="assets/pleasant.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
-<link rel="stylesheet" href="assets/map.css">
-<script src="assets/water-surface.js"></script>
+<link rel="stylesheet" href="assets/app.css">
 </head>
 <body>
-<!-- THE PLEASANT STREET PREVIEW: sample homes on a map and in a list (map.js). -->
-  <water-surface class="faq-water" water="#74e3d1" light="#79e6d5" line="#8eeddf" scale="6.5" density="26" weight="1.4" speed="0.035"></water-surface>
-  <header class="site-head"><div class="site-head__bar">
-    <a href="https://lazy.vacations/"><img src="assets/lazy-logo.svg" alt="Lazy" width="430" height="250" class="site-head__logo"></a>
-    <nav class="site-nav">
-      <a href="https://lazy.vacations/#about" class="site-nav__link">About</a>
-      <a href="https://lazy.vacations/viewer/" class="site-nav__link">Portfolio</a>
-      <a href="https://lazy.vacations/design/" class="site-nav__link">Design</a>
-      <a href="https://lazy.vacations/editor/" class="site-nav__link">Editor</a>
-      <a href="https://lazy.vacations/offer/#faq" class="site-nav__link">FAQ</a>
-      <a href="https://lazy.vacations/contact/" class="site-nav__link">Contact</a>
-      <a href="https://lazy.vacations/pleasant-street/" class="site-nav__link">Pleasant Street</a>
-    </nav>
-    <a href="https://lazy.vacations/offer/" class="btn btn--ghost site-head__offer">Offer</a>
-    <button type="button" class="burger" aria-label="Menu" onclick="edMenu(true)"><span></span><span></span><span></span></button>
-  </div></header>
-<div class="menu" id="ed-menu" role="dialog" aria-modal="true" hidden onclick="edMenu(false)">
-  <div class="menu__panel" onclick="event.stopPropagation()">
-    <div class="menu__head">
-      <img src="assets/lazy-logo.svg" alt="Lazy" width="430" height="250" class="menu__logo">
-      <button type="button" class="btn--icon" aria-label="Close" onclick="edMenu(false)">×</button>
-    </div>
-    <a href="https://lazy.vacations/#about" class="menu__link">About</a>
-    <a href="https://lazy.vacations/viewer/" class="menu__link">Portfolio</a>
-    <a href="https://lazy.vacations/design/" class="menu__link">Design</a>
-    <a href="https://lazy.vacations/editor/" class="menu__link">Editor</a>
-    <a href="https://lazy.vacations/offer/#faq" class="menu__link">FAQ</a>
-    <a href="https://lazy.vacations/contact/" class="menu__link">Contact</a>
-    <a href="https://lazy.vacations/pleasant-street/" class="menu__link">Pleasant Street</a>
-    <a href="https://lazy.vacations/#pricing" class="menu__link">Pricing</a>
-    <a href="https://lazy.vacations/start/" class="menu__link">Get a free website</a>
-    <a href="https://lazy.vacations/Lazy%20Launch%20Offer.pdf" class="menu__link">Full info</a>
-  </div>
+<!-- PLEASANT STREET: the homes on a map and in a list (assets/map.js reads street.json). -->
+<div class="app">
+  <header class="app-bar">
+    <h1 class="app-title">Pleasant Street</h1>
+    <label class="app-search"><span class="app-hide">Where to?</span>
+      <input id="ps-q" type="search" placeholder="Where to? City or state" autocomplete="off"></label>
+    <button type="button" id="ps-area" class="app-btn" hidden>Search this area</button>
+    <span class="app-count" id="ps-count" aria-live="polite"></span>
+  </header>
+  <main class="app-body">
+    <div class="app-list" id="ps-list"></div>
+    <div class="app-map" id="ps-map" data-src="street.json" role="region" aria-label="Map of homes"></div>
+  </main>
 </div>
-<main class="psm">
-  <section class="psm-banner" aria-label="About this preview">
-    <div class="psm-banner__text">
-      <p class="psm-banner__title">This is a preview with sample homes.</p>
-      <p class="psm-banner__line">Pleasant Street opens to guests when 150 homes have joined. Every direct vacation rental website is welcome.</p>
-      <p class="psm-banner__line psm-banner__links"><a href="https://lazy.vacations/pleasant-street/#promote">How we’ll promote it →</a> · <a href="#" onclick="window.lazyOpenChat &amp;&amp; lazyOpenChat(); return false;">Ask assistant</a></p>
-    </div>
-    <div class="psm-banner__side">
-      <div class="ps-count" data-count="144" aria-label="Progress toward opening: 144 of 150"><span class="ps-count__label">Progress toward opening</span><span class="ps-count__row"><span class="ps-count__digits" aria-hidden="true"><span class="ps-count__d"><span>0<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>0</span></span><span class="ps-count__d"><span>0<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>0</span></span><span class="ps-count__d"><span>0<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>0</span></span></span><span class="ps-count__of">/ 150</span></span></div>
-      <a href="https://lazy.vacations/pleasant-street/#list" class="btn btn--primary">List my house</a>
-    </div>
-  </section>
-  <h1 class="psm-title">Take a walk on Pleasant Street</h1>
-  <div class="psm-tools">
-    <label class="psm-search"><span class="psm-search__label">Where to?</span>
-      <input id="ps-q" type="search" placeholder="City or state, like Boston or CA" autocomplete="off"></label>
-    <button type="button" id="ps-area" class="btn btn--ghost" hidden>Search this area</button>
-    <span class="psm-count" id="ps-count" aria-live="polite"></span>
-  </div>
-  <div class="psm-split">
-    <div class="psm-list" id="ps-list"></div>
-    <div class="psm-map" id="ps-map" data-src="street.json" role="region" aria-label="Map of sample homes"></div>
-  </div>
-</main>
-  <section class="cta-banner" aria-labelledby="cta-banner-h">
-    <h2 class="cta-banner__title" id="cta-banner-h">Like What You See? Get <span class="lazy-mark">LAZY<span class="tm">™</span></span></h2>
-    <p class="cta-banner__lead">We’ll build your vacation rental website. You make it yours.<br>No risk, no lock, no credit card required.</p>
-    <div class="cta-banner__row">
-      <a href="https://lazy.vacations/start/" class="btn btn--primary">Start your free website</a>
-      <button type="button" class="btn btn--ghost" onclick="window.lazyOpenChat &amp;&amp; lazyOpenChat()">Ask assistant</button>
-      <a href="https://lazy.vacations/Lazy%20Launch%20Offer.pdf" download class="btn btn--ghost">Download full info</a>
-      <a href="https://lazy.vacations/viewer/" class="btn btn--ghost">See our work</a>
-    </div>
-  </section>
-</main>
-<footer class="faq-foot">© 2026 <span class="lazy-mark">LAZY<span class="tm">™</span></span> · <a href="https://lazy.vacations/">lazy.vacations</a> · <a href="https://lazy.vacations/sitemap.xml">Site map</a> · <a href="https://lazy.vacations/pleasant-street/">Pleasant Street</a> · <a href="https://www.facebook.com/lazy.vacations" rel="me noopener" target="_blank">Facebook</a> · <a href="https://www.airbnb.com/rooms/53222214" rel="noopener" target="_blank">Airbnb</a> · <a href="https://www.linkedin.com/in/atayts/" rel="noopener" target="_blank">LinkedIn</a></footer>
-<script>
-  /* The phone menu, and the bar thinning once the page moves (the home page's two points). */
-  function edMenu(open) { document.getElementById('ed-menu').hidden = !open; }
-  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') edMenu(false); });
-  window.addEventListener('scroll', function () {
-    var y = window.scrollY, h = document.documentElement;
-    if (y > 100) h.classList.add('head-thin'); else if (y < 8) h.classList.remove('head-thin');
-  }, { passive: true });
-</script>
-<!-- Elfsight AI Chatbot | LAZY CHAT -->
-<div class="elfsight-app-9ab66af8-cf42-4f31-9957-c533182060cc"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="assets/map.js"></script>
-<script src="assets/chat-pulse.js" defer></script>
 </body>
 </html>

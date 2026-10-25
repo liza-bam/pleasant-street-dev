@@ -1,7 +1,6 @@
-/* THE PLEASANT STREET PREVIEW. Sample homes from listings.json on a map and in a list.
+/* PLEASANT STREET: the homes from street.json on a map and in a list.
    Typing a city or state filters both; moving the map offers "Search this area".
-   A pin or a card opens the home's own website in a new tab. A page with only the map
-   (Pleasant Street's own) gets the pins and their cards, without the list and the search. */
+   A pin or a card opens the home's own website in a new tab. */
 (function () {
   var listEl = document.getElementById('ps-list'), countEl = document.getElementById('ps-count');
   var q = document.getElementById('ps-q'), areaBtn = document.getElementById('ps-area');
@@ -53,8 +52,8 @@
   /* Captured before the map's own controls stop the click from travelling further. */
   map.getContainer().addEventListener('pointerdown', function (e) { if (e.target.closest('.leaflet-control-zoom')) offer(); }, true);
   if (areaBtn) areaBtn.addEventListener('click', function () { area = map.getBounds(); q.value = ''; areaBtn.hidden = true; show(); });
-  /* The homes: the map's data-src, else the sample homes (the dev street points it at its own database). */
-  fetch(map.getContainer().dataset.src || '/pleasant-street/listings.json').then(function (r) { return r.json(); }).then(function (list) {
+  /* The homes: street.json, written from the database by tools/build-index.mjs. */
+  fetch(map.getContainer().dataset.src || 'street.json').then(function (r) { return r.json(); }).then(function (list) {
     homes = list.map(function (h) {
       h.marker = L.marker([h.lat, h.lng], { title: h.name, alt: h.name })
         .bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220 });
@@ -65,15 +64,4 @@
     var main = homes.filter(function (h) { return h.lng > -130; });
     map.fitBounds(L.latLngBounds((main.length ? main : homes).map(function (h) { return h.marker.getLatLng(); })).pad(0.1));
   });
-})();
-
-/* The counter (Pleasant Street and the walk): once it is in view, each digit rolls up slowly and stops on data-count. */
-(function () {
-  var c = document.querySelector('.ps-count'), n = c && c.dataset.count;
-  if (!c || !/^\d{1,3}$/.test(n)) return;
-  var s = ('000' + n).slice(-3), strips = c.querySelectorAll('.ps-count__d > span');
-  function roll() { strips.forEach(function (e, i) { e.style.transform = 'translateY(' + (-s[i] * 32) + 'px)'; }); }
-  if (!window.IntersectionObserver) return roll();
-  var io = new IntersectionObserver(function (es) { if (es[0].isIntersecting) { roll(); io.disconnect(); } }, { threshold: 0.6 });
-  io.observe(c);
 })();
