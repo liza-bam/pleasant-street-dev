@@ -105,7 +105,7 @@ def main():
         row.update({'Property / operator':fact['name'],'Vermont location':addr['city'],'Website URL':url,
           'Candidate category':'Individual property / host' if fact['recordType']=='Property' else 'Local rental operator' if fact['recordType']=='Rental operator' else 'Cabins / small operator',
           'Evidence status':'Verified independent website','Notes':fact['notes']+' Direct method checked: '+fact['bookingMethod']+'. '+fact['bookingUrl']+' Checked '+TODAY+'. Research eligibility only, not owner participation.',
-          'Research inputs':row['Research inputs']+'; official website; property/contact/policy follow-up passes',
+          'Research inputs':'; '.join(dict.fromkeys(part.strip() for part in (row['Research inputs']+'; official website; property/contact/policy follow-up passes').split(';') if part.strip())),
           'Sleeps / max guests':str(fact.get('guests') or fact.get('capacityDetails','')),
           'Pets OK':fact.get('petsDetails',''),'Kids OK':fact.get('kidsDetails',''),
           'Published price':f"From ${fact['priceFrom']}/night" if fact.get('priceFrom') is not None else '',
