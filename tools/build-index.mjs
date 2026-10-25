@@ -35,7 +35,7 @@ ${blocks.join('\n')}`;
 const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefined && h[k] !== '').map((k) => [k, h[k]]));
 fs.writeFileSync(path.join(ROOT, 'index.md'), md);
 fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(homes.map((h) =>
-  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'type', 'recordType', 'description', 'rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','featured','demo'])), null, 1) + '\n');
+  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','featured','demo'])), null, 1) + '\n');
 // Compatibility adapter for the current app. The canonical database keeps explicit
 // Unknown values; this older UI expects absent unknowns and numeric map coordinates.
 const street=homes.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>{

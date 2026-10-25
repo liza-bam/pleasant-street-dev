@@ -9,7 +9,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0061
 - Town / area (approximate map location): Millinocket, ME
 - Type: Cabin
-- Description: 207North Cabins offers cabin accommodation in Millinocket, Maine.
+- Description: Stay at 207North Cabins in Patten, ME. Modern, cozy cabins with direct snowmobile and Atv trail acess. Not far from Baxter State Park and Katahdin Woods & Waters. Family Friendly, Fully Equipped, and open year round.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -24,7 +24,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0064
 - Town / area (approximate map location): Millinocket / Debsconeag Lakes, ME
 - Type: Camp
-- Description: 4th Debsconeag Lake Camps offers camp accommodation in Millinocket / Debsconeag Lakes, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Experience the century-old tradition of Debsconeag Lake Wilderness Camps in Maine's North Woods. Remote lakeside lodging surrounded by 100,000+ acres of protected wilderness.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -41,7 +41,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0120
 - Town / area (approximate map location): Abbot, ME
 - Type: Unknown
-- Description: Abbot Trailside Lodging is a vacation-rental option in Abbot, Maine.
+- Description: Abbot Trailside Lodging Offers Comfortable Cabins & Motel Rooms In Abbot Maine. Book Your Reservation Today By Calling (207) 876-6140.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -56,7 +56,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0180
 - Town / area (approximate map location): Millinocket, ME
 - Type: Unknown
-- Description: Abol Properties is a vacation-rental option in Millinocket, Maine.
+- Description: Hosted by Kim Welcome to Baxter Place, a unique and comfortable living space in the heart of the village of Millinocket. The apartment is just a minutes walk from restaurants, bars and galleries and at the doorstep to all the lakes and mountains of the Katahdin region. Whether you hike, x-country
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -71,7 +71,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0122
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Acadia Cottage Rentals is a vacation-rental option in Bar Harbor, Maine.
+- Description: Book now to secure Acadia Cottage Rentals Maine with ACRI for cozy, private weeklong stays near Acadia National Park. Pick village, ocean, and lake options.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -87,7 +87,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0227
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Unknown
-- Description: Acadia Cottage Rentals is a vacation-rental operator serving Bar Harbor, Maine.
+- Description: Book now to secure Acadia Cottage Rentals Maine with ACRI for cozy, private weeklong stays near Acadia National Park. Pick village, ocean, and lake options.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -102,7 +102,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0207
 - Town / area (approximate map location): Southwest Harbor, ME
 - Type: House
-- Description: Acadia Dreamscape Cottage is a vacation-rental option in Southwest Harbor, Maine. Listed capacity: 5. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Acadia Dreamscape is a VRBO near Acadia National Park. All the comforts of home provided in this 2B cottage nestled among woods.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -119,7 +119,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0123
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Unknown
-- Description: Acadia Getaway is a vacation-rental option in Bar Harbor, Maine. Listed capacity: 2 (cabin); 6 (house). Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Vacation headquarters while you explore Acadia National Park and Mount Desert Island. All the comforts of home in the beauty of Acadia National Park.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -136,7 +136,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0208
 - Town / area (approximate map location): Southwest Harbor, ME
 - Type: House
-- Description: Acadia Horizon Cottage is a vacation-rental option in Southwest Harbor, Maine. Listed capacity: 4. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Experience coastal luxury at Acadia Horizon Cottage, a premier vacation rental in Southwest Harbor, Maine. Nestled on the waterfront near Acadia National Park, this stunning home offers breathtaking ocean and mountain views, air conditioning, and serene comfort. Enjoy spacious living areas, gourmet kitchen, and scenic waterfront access perfect for relaxation or adventure. Discover the beauty of Maine’s rugged coastline while connecting with family in comfort. Book your unforgettable waterfront escape today!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -153,7 +153,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0124
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Acadia Memories Vacation Cottage is a vacation-rental option in Bar Harbor, Maine.
+- Description: Acadia Memories is the place to make your Bar Harbor memories! This well kept gem is just a quick walk to the shore front, shops, restaurants, grocery store, Island Explorer bus stop and more. The first floor offers a nice family room with TV, laundry area, eat in kitchen, full bath with large tiled shower and a living room. Upstairs you’ll find a king bedroom, queen bedroom and one with two twin beds as well as a full bath with separate tub and a tiled shower. Plenty of room for your family visit to Acadia National Park. There is a
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -168,7 +168,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0112
 - Town / area (approximate map location): Trenton, ME
 - Type: House
-- Description: Acadia Timber Cottages offers cottage accommodation in Trenton, Maine.
+- Description: Stay in cozy, handcrafted cottages near Acadia NP. Perfect for families & pets. Book your getaway today!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -183,7 +183,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0101
 - Town / area (approximate map location): Southwest Harbor, ME
 - Type: Cabin
-- Description: Acadia Yurts offers yurt stays in Southwest Harbor, Maine. Listed capacity: 2–6 by unit (tiny house 2, 24-ft yurt 4, 30-ft yurt 6). Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Acadia Yurts is a fun, coastal Maine Glamping vacation destination that offers luxury yurts for weekly rent, to travelers in search of a unique Acadia and Mount Desert Island experience.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -200,7 +200,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0218
 - Town / area (approximate map location): Vinalhaven, ME
 - Type: Unknown
-- Description: Affordable Vinalhaven Rentals is a vacation-rental option in Vinalhaven, Maine.
+- Description: Oct 25, 2026 · Entire cottage · Island Cottage in town location with an easy walk to Main Street.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -215,7 +215,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0287
 - Town / area (approximate map location): York, ME
 - Type: Unknown
-- Description: Anchor Real Estate Vacation Rentals is a vacation-rental operator serving York, Maine.
+- Description: We are a real estate agency in Southern Maine, helping individuals and families find their next home, from houses for sale to long and short-term rentals.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -230,7 +230,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0012
 - Town / area (approximate map location): Boothbay, ME
 - Type: House
-- Description: Andrews Family Cottages offers cottage accommodation in Boothbay, Maine.
+- Description: With five bedrooms, the BIG COTTAGE can comfortably sleep up to ten people. Whether relaxing in front of a fire in the fieldstone fireplace or enjoying a book on the side screened-in porch, the Big Cottage offers picturesque views of the ocean. Set back a bit, the two-bedroom LITTLE COTTAGE also boasts beach access and a partial ocean view while providing a quaint and intimate space for smaller families.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -245,7 +245,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0102
 - Town / area (approximate map location): Southwest Harbor, ME
 - Type: House
-- Description: Ann's Point Cottages offers cottage accommodation in Southwest Harbor, Maine. Listed capacity: 2–8 depending on cottage/home. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Explore Ann's Point Cottages, offering waterfront rentals along Maine's coast, featuring charming cottages near Acadia National Park for your perfect getaway.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -262,7 +262,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0219
 - Town / area (approximate map location): Vinalhaven, ME
 - Type: House
-- Description: Apple Tree Cottage is a vacation-rental option in Vinalhaven, Maine.
+- Description: This comfortable and fully equipped waterfront cottage is located in a private setting overlooking Mill River, where the tide slips in and out. No other houses are in sight. A spacious high ceiling “great room” includes living-dining-kitchen plus an adjacent screened porch provides open air dining/lounging. Sliding glass doors along one wall of the living room open out on to a spacious deck to give the interior an airy feel. Indeed, the landscape views spill in from all sides–the sunset glimpsed from the kitchen sink being a special feature for the cook!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -277,7 +277,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0035
 - Town / area (approximate map location): Ellsworth, ME
 - Type: Camp
-- Description: Arbor Camp offers camp accommodation in Ellsworth, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -293,7 +293,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0082
 - Town / area (approximate map location): Presque Isle, ME
 - Type: Unknown
-- Description: Arndt's Aroostook River Lodge offers lodging in Presque Isle, Maine.
+- Description: While the rest of the country bakes, the Aroostook River Valley stays cool. Fewer than a handful of days crack 90°F all summer. This is where serious outdoor people come to remember what camping was supposed to feel like.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -308,7 +308,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0191
 - Town / area (approximate map location): Ogunquit, ME
 - Type: Unknown
-- Description: Atlantic Haven is a vacation-rental option in Ogunquit, Maine.
+- Description: Fully renovated 6BR, 3BA home with modern finishes throughout. TVs in every bedroom and living space. Walk just 0.6 miles (12 min) to downtown Ogunquit and 1 mile (15–20 min walk or 3 min drive) to the beach. Features a game room with pool table and arcade, coffee bar, fireplace, Peloton, large deck and high-speed Wi-Fi. Private parking for up to 6 cars. Perfect for families and groups! Welcome to Atlantic Haven Maine, a newly renovated Ogunquit home designed for families, friends, and group getaways. Every detail of this spacious 6-bedroom, 3-bath retreat has been thoughtfully updated - from the
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -323,7 +323,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0133
 - Town / area (approximate map location): Boothbay Harbor, ME
 - Type: House
-- Description: Back Bay Cottage Portside is a vacation-rental option in Boothbay Harbor, Maine. Listed capacity: 6. The supplied information identifies options for family stays.
+- Description: Although I purchased this home at the end of 2010, I have been vacationing in Boothbay my entire life (since the age of three weeks) and my family has been vacationing in the area since 1914, owning property in the region and spending summers here since the 1930s. Whether this is your first time in the region or you have been coming for years, I hope you enjoy your stay to the fullest and discover why this place is so special to me and my family.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -339,7 +339,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0077
 - Town / area (approximate map location): Oquossoc, ME
 - Type: Camp
-- Description: Bald Mountain Camps offers camp accommodation in Oquossoc, Maine.
+- Description: Bald Mountain Camps. Maine Family Vacation Camps. Fishing and Sporting Camps. Snowmobiling camps. Guide Service.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -354,7 +354,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0125
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Bar Harbor Acadia Cottage Rentals is a vacation-rental option in Bar Harbor, Maine.
+- Description: 95 vacation cottages on Mount Desert Island, Maine. Oceanfront, lakefront, in-town Bar Harbor. Weekly rentals near Acadia National Park. No booking fees. Dogs welcome.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -369,7 +369,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0009
 - Town / area (approximate map location): Bass Harbor, ME
 - Type: House
-- Description: Bass Harbor Cottages offers cottage accommodation in Bass Harbor, Maine. Listed capacity: 2–5 depending on accommodation. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Bass Harbor Cottages and Country Inn, Bass Harbor, Maine on 1st Traveler's Choice Travel and Lodging Directory of Bed and Breakfast, Country Inns, and Small Hotel.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -386,7 +386,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0003
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Cabin
-- Description: Baycliff Cottage & Cabins offers cottage accommodation in Bar Harbor, Maine. Listed capacity: Up to 5 per cabin; up to 6 in main house. Pets are welcome subject to the listed unit rules, arrangements or fees.
+- Description: Baycliff vacation rentals on Mount Desert Island feature a cottage with A/C and two cozy cabins overlooking Frenchman Bay, minutes from Acadia National Park and Bar Harbor.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -402,7 +402,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0262
 - Town / area (approximate map location): Northport, ME
 - Type: Unknown
-- Description: Bayside Cottage Rentals is a vacation-rental operator serving Northport, Maine. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: 21 waterfront, water-view & village cottages in historic Bayside, Northport ME. Book direct for best rates. 5 min to Belfast, 15 min to Camden. 207-338-5355.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -419,7 +419,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0070
 - Town / area (approximate map location): Naples, ME
 - Type: Cabin
-- Description: Bayview Cabins offers cabin accommodation in Naples, Maine.
+- Description: Rent your own piece of paradise at Bayview Cabins, waterfront lodging in Naples, Maine, with private beach and boat dock, surrounded by 40 miles of waterway.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -434,7 +434,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0071
 - Town / area (approximate map location): Naples, ME
 - Type: Cabin
-- Description: Bayview Cabins Unit 7 offers cabin accommodation in Naples, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -449,7 +449,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0004
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Bayview Cottages Vacation Homes offers cottage accommodation in Bar Harbor, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -464,7 +464,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0058
 - Town / area (approximate map location): Lincolnville, ME
 - Type: Apartment
-- Description: Beach Cottage Inn & Beach House Suites offers cottage accommodation in Lincolnville, Maine.
+- Description: Experience luxury oceanfront accommodations at Beach Cottage Inn in Lincolnville, Maine. Steps from the beach, minutes from Camden. Featuring private suites with ocean views of Penobscot Bay.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -479,7 +479,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0265
 - Town / area (approximate map location): Old Orchard Beach, ME
 - Type: Unknown
-- Description: Beach Girl Property Rentals is a vacation-rental operator serving Old Orchard Beach, Maine. Listed capacity: Up to 8 per unit; groups up to 16 by booking multiple units. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Owner-managed vacation rentals near the beach in Old Orchard Beach, Maine. Direct booking with Jill — no platform fees.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -496,7 +496,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0095
 - Town / area (approximate map location): Rome, ME
 - Type: Camp
-- Description: Bear Spring Camps offers camp accommodation in Rome, Maine.
+- Description: An American plan sporting camp located on Great Pond. We cater to families, fisherman, and friends. Cabins just feet from the water and we serve 2 meals daily. Bear Spring Camps
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -511,7 +511,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0148
 - Town / area (approximate map location): Cushing, ME
 - Type: House
-- Description: Beehive Cottage is a vacation-rental option in Cushing, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -526,7 +526,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0229
 - Town / area (approximate map location): Belgrade / Winthrop / Sidney, ME
 - Type: Unknown
-- Description: Belgrade Hospitality is a vacation-rental operator serving Belgrade / Winthrop / Sidney, Maine.
+- Description: Enjoy your vacation at one of luxurious properties nestled withing the pine trees on the Belgrade Stream. These properties are ideal for any and all vacationers looking for a getaway and any kind of adventure. Located in Belgrade, ME.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -541,7 +541,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0230
 - Town / area (approximate map location): Belgrade Lakes, ME
 - Type: Unknown
-- Description: Belgrade Lakes Reservation Center is a vacation-rental operator serving Belgrade Lakes, Maine.
+- Description: Welcome to Belgrade Reservation Center! We are the area's premier cottage rental agency with over 35 years of experience.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -556,7 +556,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0231
 - Town / area (approximate map location): Belgrade Lakes, ME
 - Type: Unknown
-- Description: Belgrade Vacation Rentals is a vacation-rental operator serving Belgrade Lakes, Maine.
+- Description: Your relaxing lakeside vacation awaits you in the Belgrade Lakes, Maine Region. Let us help you find your perfect Maine vacation rental. Just three hours north of Boston in central Maine, the Belgrade Lakes region is acclaimed for its natural beauty, wealth of recreational activities and abundance of local charm.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -571,7 +571,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0062
 - Town / area (approximate map location): Millinocket, ME
 - Type: Cabin
-- Description: Big Moose Inn Cabins offers cabin accommodation in Millinocket, Maine.
+- Description: Big Moose's Fredericka's restaurant, Loose Moose Bar Grille, Inn rooms, inn suites, lakefront cabins that make it your all inclusive vacation destination for Katahdin lodging nearest Baxter State Park.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -586,7 +586,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0238
 - Town / area (approximate map location): Blue Hill Peninsula, ME
 - Type: Unknown
-- Description: Blue Hill Bay Property Rentals is a vacation-rental operator serving Blue Hill Peninsula, Maine.
+- Description: Crow's Nest Cottage - Amazing View of Eggemoggin Reach
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -601,7 +601,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0234
 - Town / area (approximate map location): Blue Hill, ME
 - Type: Unknown
-- Description: Blue Hill Peninsula Realty + Rentals is a vacation-rental operator serving Blue Hill, Maine.
+- Description: Blue Hill Peninsula Realty + Rentals agents Annie Grindal and Debbie Hutchins offer local real estate & vacation rentals in Downeast Maine. Blue Hill, Brooklin, Surry, Penobscot, Brooksville, Sedgwick, Deer Isle, Stonington and other communities.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -616,7 +616,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0144
 - Town / area (approximate map location): Camp Ellis / Saco, ME
 - Type: House
-- Description: Blue Pearl Cottage is a vacation-rental option in Camp Ellis / Saco, Maine.
+- Description: Blue Pearl Cottage, Camp Ellis Beach, Saco Maine, Ocean View
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -631,7 +631,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0055
 - Town / area (approximate map location): Jonesboro, ME
 - Type: Cabin
-- Description: Blueberry Patch Motel & Cabins offers cabin accommodation in Jonesboro, Maine.
+- Description: Motel rooms and cabins 10 minutes from Machias on Route 1, with swimming pool, WiFi, satellite TV, and homemade blueberry muffins.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -646,7 +646,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0134
 - Town / area (approximate map location): Boothbay Harbor, ME
 - Type: House
-- Description: Boothbay Vacation Homes is a vacation-rental option in Boothbay Harbor, Maine. Listed capacity: 4–7 by property. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Are you traveling with the family, a large group of friends, or letting your furry friend tag along on vacation? We have the perfect Boothbay Harbor, Maine, vacation rentals for all your needs! Dock View is a peaceful, three-bedroom retreat with ocean views and within walking distance of the town center. The chic loft, known simply as the Boat House , is another beautiful Midcoast Maine vacation rental in downtown Boothbay Harbor that features original artwork and a three-story deck. Of course, if you’re looking for seclusion and stunning views, it doesn’t get much better than the Water’s Edge Cottage
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -680,7 +680,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0106
 - Town / area (approximate map location): Stonington, ME
 - Type: Apartment
-- Description: Boyce's Motel & Apartments offers lodging in Stonington, Maine. Pets are welcome subject to the listed unit rules, arrangements or fees.
+- Description: Boyce's Motel - Motel, room and apartment rentals in Stonington Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -696,7 +696,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0145
 - Town / area (approximate map location): Camp Ellis / Saco, ME
 - Type: Unknown
-- Description: Breakwater Vacation Rental is a vacation-rental option in Camp Ellis / Saco, Maine.
+- Description: BOOK DIRECT- NO HIDDEN FEES! "Beach Cottage" Camp Ellis Saco ME. Access to State Parks, Portland, Kennebunk Port, Sebago Lake, are all within a pleasant 3/4-hour drive. Families return year after year for the great atmosphere and fun of a true Maine ocean village. Your Maine Vacation Destination .
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -711,7 +711,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0245
 - Town / area (approximate map location): Camp Ellis / Saco, ME
 - Type: Unknown
-- Description: Breakwater Vacation Rental is a vacation-rental operator serving Camp Ellis / Saco, Maine.
+- Description: Enjoy cozy Saco Maine cottage rentals just steps from the beach. Book a private waterfront vacation cottage in Southern Maine with scenic views and coastal charm. Contact us today at 802-266-1482.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -726,7 +726,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0159
 - Town / area (approximate map location): Greenville, ME
 - Type: Unknown
-- Description: Burke's Properties and Rentals is a vacation-rental option in Greenville, Maine. The supplied information identifies options for family stays.
+- Description: Burke's Properties & Rentals: West Gardiner & Moosehead, Maine Getaways. We go above and beyond to ensure that your stay with us is comfortable and enjoyable.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -742,7 +742,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0263
 - Town / area (approximate map location): Northport, ME
 - Type: Unknown
-- Description: Camden Hills Realty & Vacation Rentals is a vacation-rental operator serving Northport, Maine.
+- Description: Camden Area Real Estate Agency for Buyers and Sellers. Experts in Camden/Rockport, Lincolnville, Northport and Belfast & surrounding are Real Estate.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -757,7 +757,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0143
 - Town / area (approximate map location): Camden, ME
 - Type: Apartment
-- Description: Camden Village Toute-Suite is a vacation-rental option in Camden, Maine. Listed capacity: Up to 7 per cottage.
+- Description: Cottages in Seal Cove, Mount Desert Island, Acadia National Park, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -772,7 +772,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0038
 - Town / area (approximate map location): Fort Kent, ME
 - Type: Camp
-- Description: Camel Brook Camps offers camp accommodation in Fort Kent, Maine.
+- Description: Discover Camel Brook Camps in Fort Kent, Maine, offering cozy, all-season cabins with WiFi, full kitchens, and easy access to trails and outdoor adventures. Ideal for both sporting trips and relaxing getaways.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -787,7 +787,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0013
 - Town / area (approximate map location): Bremen, ME
 - Type: Camp
-- Description: Camp Otyokwa offers camp accommodation in Bremen, Maine.
+- Description: Otyokwa is a lakeside retreat in mid-coast Maine on 48 acres with 2100 feet of private shoreline, featuring cabins and houseboats, perfect for private family and friend gatherings.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -802,7 +802,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0068
 - Town / area (approximate map location): Mount Vernon, ME
 - Type: Camp
-- Description: Camp Skoglund offers camp accommodation in Mount Vernon, Maine.
+- Description: Camp Skoglund is a family camp with fully equipped private cottages. While still maintaining many of the amenities of a camp atmosphere, our lakeside retreat i
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -817,7 +817,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0275
 - Town / area (approximate map location): Sebago Lake, ME
 - Type: Unknown
-- Description: Campfire Booking is a vacation-rental operator serving Sebago Lake, Maine. Listed capacity: Examples: 9–11 by selected home; varies by property. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Contact Campfire Booking for available Sebago Lake camp rentals in Maine or to list your Sebago Lake camp rental on our website.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -834,7 +834,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0045
 - Town / area (approximate map location): Grand Lake Stream, ME
 - Type: Cabin
-- Description: Canalside Cabins offers cabin accommodation in Grand Lake Stream, Maine. Listed capacity: 2–7 per cabin. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -884,7 +884,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0022
 - Town / area (approximate map location): Caribou, ME
 - Type: Cabin
-- Description: Caribou Cabins offers cabin accommodation in Caribou, Maine.
+- Description: Caribou Maine Cabin Rentals. Snowmobiling, Hunting and Fishing in Northern Maine. Rent a Cabin from Caribou Cabins
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -899,7 +899,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0056
 - Town / area (approximate map location): Kingfield, ME
 - Type: Cabin
-- Description: Carrabassett Cabin Co. offers cabin accommodation in Kingfield, Maine.
+- Description: Carrabassett Cabins properties are cozy and well equipped and offer a range of price points and sizes to accommodate your needs. Our Sugarloaf area vacation rentals are well maintained and family managed to ensure the best experience for our guests.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -931,7 +931,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0242
 - Town / area (approximate map location): Boothbay Region, ME
 - Type: Unknown
-- Description: Chill Vacation Rentals is a vacation-rental operator serving Boothbay Region, Maine.
+- Description: We offer exceptional waterfront and water view vacation rentals in the Boothbay Harbor Region. All Chill Vacation Rental properties are equipped with luxury linens and great amenities. With easy online booking and 24 hour service, start your Boothbay Harbor, Maine vacation here!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -946,7 +946,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0154
 - Town / area (approximate map location): Farmington, ME
 - Type: Unknown
-- Description: Clearwater Escapes is a vacation-rental option in Farmington, Maine. Listed capacity: 7 (cottage); 9 (house). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Pet-friendly year-round house and seasonal cottage on the shore of Clearwater Lake, Maine. Swim, fish, paddle, hike, snowshoe — book your lakeside escape.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -963,7 +963,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0169
 - Town / area (approximate map location): Kennebunk area, ME
 - Type: Unknown
-- Description: Coast & Cove Rentals is a vacation-rental option in Kennebunk area, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -978,7 +978,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0247
 - Town / area (approximate map location): Coastal Maine, ME
 - Type: Unknown
-- Description: Coastal Maine Vacations is a vacation-rental operator serving Coastal Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -993,7 +993,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0168
 - Town / area (approximate map location): Jefferson, ME
 - Type: Unknown
-- Description: ComfyDome Glamping is a vacation-rental option in Jefferson, Maine. Listed capacity: 2.
+- Description: ComfyDome is the perfect affordable summer staycation get-away if you are looking for a one-of-a-kind Maine glamping experience. With beautiful nature surrounding you 360 degrees and plenty of open space you can enjoy your glampsite with comfort and safety! Our quaint 3 domes glampground is off the beaten path so you won’t run into big crowds! We welcome groups up to 6, couples, or single travelers!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1008,7 +1008,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0248
 - Town / area (approximate map location): Cumberland / Midcoast, ME
 - Type: Unknown
-- Description: Common Loon Property Management is a vacation-rental operator serving Cumberland / Midcoast, Maine.
+- Description: Common Loon Property Management offers full-service property management including year-round management services, vacation rental management, short-term rental consulting, and off-season maintenance and check-in services in Cumberland County Maine. We can help maximize your profits while giving your tenants and guests the best service possible.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1023,7 +1023,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0258
 - Town / area (approximate map location): Mount Desert / Downeast, ME
 - Type: Unknown
-- Description: Compass Rose Property Management is a vacation-rental operator serving Mount Desert / Downeast, Maine.
+- Description: Vacation rentals along the Maine coast — Mount Desert Island, Downeast and Holden. Managed locally, booked directly, no platform fees.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1038,7 +1038,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0078
 - Town / area (approximate map location): Patten, ME
 - Type: Camp
-- Description: Conklin's Lodge and Camps offers camp accommodation in Patten, Maine.
+- Description: Conklin's Lodge, specializing in Trophy Maine Deer Hunting, Maine Trophy Black Bear Hunting and Maine Trophy Moose Hunting
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1053,7 +1053,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0232
 - Town / area (approximate map location): Bethel / Sunday River, ME
 - Type: Unknown
-- Description: Connecting Rentals is a vacation-rental operator serving Bethel / Sunday River, Maine.
+- Description: Connect with hosts offering vacation and seasonal rentals near Sunday River, Maine — from weekend getaways to monthly stays and beyond.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1068,7 +1068,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0098
 - Town / area (approximate map location): South Hiram, ME
 - Type: House
-- Description: Cottages at Oak Hill Farm offers cottage accommodation in South Hiram, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1083,7 +1083,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0010
 - Town / area (approximate map location): Belgrade Lakes, ME
 - Type: House
-- Description: Cottages of Maine offers cottage accommodation in Belgrade Lakes, Maine. Listed capacity: 6–8 per cottage (featured 2 cottages). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Stay in a beautiful lakefront cottage on the shores of Maine's Belgrade Lakes. Dog-friendly, family-ready, and available all year. Book direct and save.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1100,7 +1100,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0028
 - Town / area (approximate map location): Danforth, ME
 - Type: Cabin
-- Description: Cowgers' Lakefront Cabins offers cabin accommodation in Danforth, Maine. Listed capacity: 2–8 per cabin. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Welcome to Cowgers’ Lakefront Cabins, nestled on the Western shore of East Grand Lake in Danforth, Maine. Originally established in 1968 as Lou’s East Grand Camps, Cowgers’ began operation in 1994 welcoming friends and families to enjoy the rugged outdoors in the peaceful seclusion of Greenland Cove. Cowgers’ is a family-run business, taking pride in providing a relaxed, family-friendly atmosphere for our guests. Customers find a wide array of recreational activities including hiking, biking, boating, swimming, canoeing, kayaking, or just relaxing around a campfire.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1117,7 +1117,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0052
 - Town / area (approximate map location): Jackman, ME
 - Type: Cabin
-- Description: Cozy Cove Cabins offers cabin accommodation in Jackman, Maine. Pets are welcome. The supplied information identifies options for family stays.
+- Description: Welcome to Cozy Cove Cabins Cozy Cove Cabins is located on the shore of Big Wood Pond in Jackman, Maine. Book today and start planning your getaway in a nature lover's paradise. Book Now Accommodations Cozy Cove has nine unique cabins on beautiful Big Wood Lake. We provide fresh linens and towels, cookware, and utensils.…
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1134,7 +1134,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0083
 - Town / area (approximate map location): Rangeley, ME
 - Type: Cabin
-- Description: Cross Stone Cabins offers cabin accommodation in Rangeley, Maine. The supplied information identifies options for family stays.
+- Description: Nestled in the heart of Maine's western lakes and mountains, Cross Stone Cabins is a place to slow down, reconnect, and experience the beauty of Maine. Whether you're here to hike scenic trails, spend the day on the lake, explore downtown, or simply unwind by the fire, you'll enjoy the perfect balance of convenience and seclusion. Stay close to everything that makes Rangeley special while enjoying the peaceful comfort of your own private cabin surrounded by nature.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1150,7 +1150,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0039
 - Town / area (approximate map location): Fort Kent, ME
 - Type: Cabin
-- Description: Crossroad Cabins offers cabin accommodation in Fort Kent, Maine.
+- Description: Crossroad Cabins is the center for Northern Maine Travel. With access to a large network of ATV and snowmobile trails, a ski resort, excellent hunting and fishing grounds, as well as beautiful downtown Fort Kent, Crossroad Cabins has everything you need to make your stay in Maine one to remember.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1165,7 +1165,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0206
 - Town / area (approximate map location): Southport, ME
 - Type: Unknown
-- Description: Decker Cove Properties is a vacation-rental option in Southport, Maine.
+- Description: Explore beautiful Maine properties including Southport Island homes, cozy cottages, and waterfront homes on Echo Lake. Your ideal Maine getaway awaits.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1180,7 +1180,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0043
 - Town / area (approximate map location): Freeport, ME
 - Type: Unknown
-- Description: Desert of Maine Glamping (Guesty direct site) offers lodging in Freeport, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1195,7 +1195,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0250
 - Town / area (approximate map location): Downeast Maine, ME
 - Type: Unknown
-- Description: Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals) is a vacation-rental operator serving Downeast Maine.
+- Description: Click to find your next home rental in beautiful Downeast Maine. From Ellsworth to Blue Hill, we offer premium rentals and service.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1210,7 +1210,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0138
 - Town / area (approximate map location): Brooksville, ME
 - Type: Unknown
-- Description: Dreaming of Maine is a vacation-rental option in Brooksville, Maine. Listed capacity: 5 per cottage. The supplied information identifies options for family stays.
+- Description: Rustic seaside rental cottages with modern comforts in Brooksville Maine near the Oakland House
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1226,7 +1226,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0290
 - Town / area (approximate map location): Camden, ME
 - Type: Unknown
-- Description: Drift Oceanside Inn offers lodging in Camden, Maine.
+- Description: Enjoy a single bedroom with two queen beds, and a living room with a pull out couch OR two bedrooms, one with a king, one with two queens.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1241,7 +1241,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0199
 - Town / area (approximate map location): Rockport, ME
 - Type: Unknown
-- Description: Duckdown Waterfront Vacation is a vacation-rental option in Rockport, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1256,7 +1256,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0171
 - Town / area (approximate map location): Lincolnville, ME
 - Type: Unknown
-- Description: Ducktrap Lodge & Retreat is a vacation-rental option in Lincolnville, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1271,7 +1271,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0040
 - Town / area (approximate map location): Fort Kent, ME
 - Type: Cabin
-- Description: Eagle Eye Cabin offers cabin accommodation in Fort Kent, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1286,7 +1286,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0152
 - Town / area (approximate map location): Eagle Lake, ME
 - Type: Unknown
-- Description: Eagle Lake & Beyond is a vacation-rental option in Eagle Lake, Maine.
+- Description: Four seasons of fun - Barbara and William Orne own and operate Eagle Lake & Beyond, LLC. vacation home. Eagle Lake is a year-round destination offering endless activities. Whether you enjoy hunting, fishing, boating, ATV riding, ice fishing or snowmobiling. There is something for everyone to enjoy at Eagle Lake. Our rental offers the following accommodations:
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1301,7 +1301,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0030
 - Town / area (approximate map location): Eagle Lake, ME
 - Type: Camp
-- Description: Eagle Lake Sporting Camps offers camp accommodation in Eagle Lake, Maine.
+- Description: Discover Eagle Lake Sporting Camps—an all-inclusive Maine retreat with lakeside cabins, fine dining, fishing, guided hunts, and unforgettable adventures.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1316,7 +1316,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0031
 - Town / area (approximate map location): Eagle Lake, ME
 - Type: House
-- Description: Eagles Landing Lakeside Cottages offers cottage accommodation in Eagle Lake, Maine. Listed capacity: 10/cabin; 50 total across 5. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Five air-conditioned lakefront cabins with a private beach on Eagle Lake in northern Maine. Each sleeps 10. Book one for your family, or all five for up to 50. The property has kayaks, docks and trail access.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1333,7 +1333,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0107
 - Town / area (approximate map location): Sullivan, ME
 - Type: Cabin
-- Description: Edgewater Cabins offers cabin accommodation in Sullivan, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1348,7 +1348,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0126
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Everett Cottage is a vacation-rental option in Bar Harbor, Maine. Listed capacity: 10. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Stunning oceanfront cottage on Western Bay. 3 bedrooms, 2 baths, sleeps 10. Kayaks, fire pit, tennis. Open May–October. Book direct and save.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1365,7 +1365,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0172
 - Town / area (approximate map location): Lincolnville, ME
 - Type: House
-- Description: Ferry Cottage is a vacation-rental option in Lincolnville, Maine. Listed capacity: 2.
+- Description: Ferry Cottage is an eco-friendly waterfront rental in Lincolnville, Maine. Experience coastal charm, scenic views, and outdoor adventures. Book your stay today!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1380,7 +1380,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0084
 - Town / area (approximate map location): Rangeley, ME
 - Type: House
-- Description: Fieldstone Cottages offers cottage accommodation in Rangeley, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1395,7 +1395,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0184
 - Town / area (approximate map location): New Harbor, ME
 - Type: House
-- Description: Finch Cottage is a vacation-rental option in New Harbor, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1410,7 +1410,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0117
 - Town / area (approximate map location): Weston, ME
 - Type: Unknown
-- Description: First Settlers Lodge offers lodging in Weston, Maine.
+- Description: First Settlers Lodge is easy to locate on US Route 1 in Weston, twenty-eight miles (28) south of the terminus on I-95 in Houlton. Access from the south is by way of US Route 1 from Calais or US Route 6 and Rural Route 169 from Lincoln. Guests may request shuttle service from Bangor International,
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1425,7 +1425,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0108
 - Town / area (approximate map location): Sullivan, ME
 - Type: Cabin
-- Description: Flanders Bay Cabins offers cabin accommodation in Sullivan, Maine. Listed capacity: 2–8 by rental. Pets are welcome.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1441,7 +1441,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0109
 - Town / area (approximate map location): Sullivan, ME
 - Type: Cabin
-- Description: Flanders Bay Cabins (custom domain) offers cabin accommodation in Sullivan, Maine.
+- Description: Flanders Bay is a coastal Maine getaway located on the shores of Flanders Bay in Sullivan, ME. Situated on 12 unspoiled acres overlooking pristine waters and Cadillac Mountain located just a short drive from Acadia National Park and Bar Harbor. Accommodations include six quaint cabins, a knotty pine chalet and shore-front house. Enjoy kayaking, fishing, hiking and exploring during your stay.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1473,7 +1473,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0255
 - Town / area (approximate map location): Lincolnville Beach, ME
 - Type: Unknown
-- Description: Foxtrot Vacation Rental is a vacation-rental operator serving Lincolnville Beach, Maine. Listed capacity: 8 in beds, up to 10 using pullout couch. The supplied information identifies options for family stays.
+- Description: Maine Ocean House Lincolnville United States, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1489,7 +1489,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0041
 - Town / area (approximate map location): Fort Kent, ME
 - Type: Camp
-- Description: Gardners Sporting Camps offers camp accommodation in Fort Kent, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1504,7 +1504,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0288
 - Town / area (approximate map location): York, ME
 - Type: Unknown
-- Description: GetAway Vacations is a vacation-rental operator serving York, Maine. The supplied information identifies options for family stays.
+- Description: Discover premium vacation rentals across Maine and Vermont. From coastal Maine to mountain escapes, book your getaway with local experts and 24/7 support.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1520,7 +1520,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0243
 - Town / area (approximate map location): Bucksport / Orland, ME
 - Type: Unknown
-- Description: Getogether Stays is a vacation-rental operator serving Bucksport / Orland, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1536,7 +1536,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0292
 - Town / area (approximate map location): Lincolnville, ME
 - Type: Unknown
-- Description: Glenmoor by the Sea offers lodging in Lincolnville, Maine.
+- Description: At Glenmoor by the Sea, we understand that furry friends are part of the family. That's why we're delighted to offer dog-friendly accommodations for guests!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1551,7 +1551,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0036
 - Town / area (approximate map location): Forest City, ME
 - Type: House
-- Description: Grand Lake Cottages offers cottage accommodation in Forest City, Maine. Listed capacity: 3 (one-bedroom); 5 (two-bedroom). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1568,7 +1568,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0046
 - Town / area (approximate map location): Grand Lake Stream, ME
 - Type: Unknown
-- Description: Grand Lake Lodge offers lodging in Grand Lake Stream, Maine. Listed capacity: 2–7 per cabin. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Lakeside cabin lodging in Grand Lake Stream, Maine on West Grand Lake. Cabin occupancy for 2-7 people. Guided fishing trips for lake trout, landlocked salmon, & smallmouth bass. Private boat launch & docks. Boat & motor rentals. Free canoe & kayak rentals. Kid & pet friendly. Ideal location for family vacations and reunions.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1585,7 +1585,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0091
 - Town / area (approximate map location): Rockwood, ME
 - Type: Camp
-- Description: Gray Ghost Camps offers camp accommodation in Rockwood, Maine.
+- Description: Waterfront Maine vacation cabin rentals specializing in fly fishing, snowmobiling, paddling and summit hiking. This is northwoods living with comforts of home.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1600,7 +1600,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0100
 - Town / area (approximate map location): Southport, ME
 - Type: House
-- Description: Gray Homestead Cottages offers cottage accommodation in Southport, Maine.
+- Description: Family-run oceanfront seasonal RV campground on Southport Island, Maine, minutes from Boothbay Harbor. 50+ full-hookup RV sites plus weekly cottages.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1615,7 +1615,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0156
 - Town / area (approximate map location): Frenchboro, ME
 - Type: House
-- Description: Great Duck Island House is a vacation-rental option in Frenchboro, Maine. Listed capacity: 6 total: maximum 4 adults + 2 children. The supplied information identifies options for family stays.
+- Description: Our beautiful home is on an equally magnificent island bird sanctuary and is ready for you to have an adventure of a lifetime!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1631,7 +1631,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0291
 - Town / area (approximate map location): Camden, ME
 - Type: Unknown
-- Description: Green Gables Inn offers lodging in Camden, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1646,7 +1646,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0164
 - Town / area (approximate map location): Harrington, ME
 - Type: Unknown
-- Description: Guard Point Vacation Rental is a vacation-rental option in Harrington, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1661,7 +1661,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0155
 - Town / area (approximate map location): Fort Kent, ME
 - Type: Unknown
-- Description: HAGS Place is a vacation-rental option in Fort Kent, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1676,7 +1676,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0209
 - Town / area (approximate map location): Southwest Harbor, ME
 - Type: Unknown
-- Description: Harbor Oasis is a vacation-rental option in Southwest Harbor, Maine. Listed capacity: 4 (including children). The supplied information identifies options for family stays.
+- Description: Harbor Oasis - Waterfront Cottage on Southwest Harbor
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1692,7 +1692,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0116
 - Town / area (approximate map location): West Boothbay Harbor, ME
 - Type: House
-- Description: Harborfields Waterfront Cottages offers cottage accommodation in West Boothbay Harbor, Maine. Listed capacity: 3–10 per cottage. Pets are welcome. The supplied information identifies options for family stays.
+- Description: Harborfields On The Shore is your family-friendly, pet-friendly, and boater-friendly vacation destination (mid-May to mid-October), with ten distinct vacation cottages, each with its own special water view. Located on the west side of Boothbay Harbor, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1709,7 +1709,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0162
 - Town / area (approximate map location): Harpswell, ME
 - Type: Unknown
-- Description: Harpswell Holidays is a vacation-rental option in Harpswell, Maine. Listed capacity: 2 in efficiency; four-bedroom cottage (max unstated). Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Find the perfect weekly vacation rental in Harpswell for your next getaway. Enjoy the beauty of the ocean and relax in our cozy cottage rentals. harpswell rentals
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1726,7 +1726,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0151
 - Town / area (approximate map location): Downeast coast, ME
 - Type: Unknown
-- Description: Hearts of Maine is a vacation-rental option in Downeast coast, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Hearts of Maine specializes in waterfront vacation rental properties along the downeast coast of eastern Maine. Contact us for more info!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1743,7 +1743,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0214
 - Town / area (approximate map location): Stonington, ME
 - Type: House
-- Description: Heron Cottage / Cove Meadow is a vacation-rental option in Stonington, Maine.
+- Description: Cove Meadow Cottage Stonington United States, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1758,7 +1758,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0097
 - Town / area (approximate map location): Scarborough, ME
 - Type: Unknown
-- Description: Higgins Beach Maine offers lodging in Scarborough, Maine.
+- Description: Welcome to HigginsBeachMaine.com - your resource for rentals, real estate and community information about Higgins Beach in Scarborough, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1773,7 +1773,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0075
 - Town / area (approximate map location): Norway, ME
 - Type: House
-- Description: Hillside Cottages offers cottage accommodation in Norway, Maine. The supplied information identifies options for family stays.
+- Description: Hillside Cottages opened it doors in 2002. It is located in a beautiful part of Western Maine. We are a collection of cottages on seven wooded acres. Perfect for small families, couples or solo travelers looking to unplug, recharge, and explore. Wake up to the sounds of the forest, enjoy slow coffee-filled morning, and cozy relaxing nights. Known for four seasons, and natural beauty Norway Maine is a great place to enjoy the great outdoors.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1789,7 +1789,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0051
 - Town / area (approximate map location): Harborside, ME
 - Type: Camp
-- Description: Hiram Blake Camp offers camp accommodation in Harborside, Maine. Listed capacity: 1–10 per cottage (2026 published categories). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Discover a scenic retreat with charming cottages and seaside activities at Hiram Blake Camp in Harborside, Maine. Experience nature and relaxation on Penobscot Bay.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1806,7 +1806,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0228
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Unknown
-- Description: Holland Ave Vacation Rentals is a vacation-rental operator serving Bar Harbor, Maine.
+- Description: Home rentals in the heart of Bar Harbor, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1821,7 +1821,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0103
 - Town / area (approximate map location): Southwest Harbor, ME
 - Type: House
-- Description: Hutchins Cottages at Acadia offers cottage accommodation in Southwest Harbor, Maine. Listed capacity: Up to 6 per cottage. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1838,7 +1838,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0212
 - Town / area (approximate map location): Stoneham, ME
 - Type: Unknown
-- Description: In The Trees is a vacation-rental option in Stoneham, Maine. Listed capacity: 2–7 by unit; all 6 stays approx. 21. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1855,7 +1855,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0213
 - Town / area (approximate map location): Stoneham, ME
 - Type: Unknown
-- Description: In the Trees Maine is a vacation-rental option in Stoneham, Maine. Listed capacity: 2–7 by unit; all 6 stays approx. 21. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: In The Trees is a 56-acre treehouse & glamping property in the White Mountain National Forest & Maine Lakes region. Three treehouses and three cabins, an 18-hole mountain disc golf course, and a 5-story summit tower.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1872,7 +1872,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0165
 - Town / area (approximate map location): Islesboro, ME
 - Type: Unknown
-- Description: Island Property is a vacation-rental option in Islesboro, Maine.
+- Description: Welcome to Island Property of Islesboro, Maine. Offering a wide collection of stunning properties for sale and vacation rentals.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1887,7 +1887,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0099
 - Town / area (approximate map location): South Thomaston, ME
 - Type: House
-- Description: Island View Cottages LLC offers cottage accommodation in South Thomaston, Maine. Listed capacity: Beds for 6; official maximum not stated. The supplied information identifies options for family stays.
+- Description: Maine coast ocean front vacation home rental cottages with spectacular view and everything that vacationing in Maine has to offer.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1903,7 +1903,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0149
 - Town / area (approximate map location): Dedham, ME
 - Type: Unknown
-- Description: Jenkins Beach is a vacation-rental option in Dedham, Maine. Listed capacity: 3–5 per rental.
+- Description: NEW 1BR COTTAGE AT JENKINS BEACH ON GREEN LAKE Looking for a perfect Maine summertime couple’s getaway on Green Lake? Don’t want to stay in some stuffy hotel room too far away from everything? WE NOW HAVE JUST A 3-NIGHT MINIMUM STAY for the Acadia Cottage at Jenkins Beach on Green Lake! New construction 1 BR/1BA, 532 sq ft cottage. Fully equipped kitchen. The living room has a twin trundle day bed that can be combined into a separate king bed (or used as two twins). The private bedroom has a king bed and a SmartTV. Enjoy the breeze coming
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1918,7 +1918,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0268
 - Town / area (approximate map location): Rockland, ME
 - Type: Unknown
-- Description: Jimmy's Coast Real Estate Management is a vacation-rental operator serving Rockland, Maine.
+- Description: Jimmy’s Rentals is a full service property management company located in Rockland, Maine offering residential and commercial rentals.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1933,7 +1933,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0276
 - Town / area (approximate map location): Sebago Lake, ME
 - Type: Unknown
-- Description: Jordan Rentals is a vacation-rental operator serving Sebago Lake, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1948,7 +1948,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0042
 - Town / area (approximate map location): Fort Kent, ME
 - Type: Camp
-- Description: Junction 19 Company / The Caron Camp offers camp accommodation in Fort Kent, Maine. Listed capacity: 7/cabin (North, South); 9/house. The supplied information identifies options for family stays.
+- Description: Northern Maine Vacation Home, Cabins, RV/Tent Camping, and all-in-one Event Venue. From unforgettable events to outdoor adventures, enjoy trail access, riverfront stays, and the beauty of Northern Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1964,7 +1964,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0063
 - Town / area (approximate map location): Millinocket, ME
 - Type: Cabin
-- Description: Katahdin Cabins offers cabin accommodation in Millinocket, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -1979,7 +1979,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0060
 - Town / area (approximate map location): Medway, ME
 - Type: Cabin
-- Description: Katahdin Shadows Cabins offers cabin accommodation in Medway, Maine.
+- Description: Come for some great fall camping. Enjoy a warm fire with friends and let the kids burn off some energy on one of the last weekends before we close for the season!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2011,7 +2011,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0221
 - Town / area (approximate map location): Wells, ME
 - Type: House
-- Description: KC Cottage Rentals is a vacation-rental option in Wells, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2026,7 +2026,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0127
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Unknown
-- Description: Kebo View at Acadia is a vacation-rental option in Bar Harbor, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2041,7 +2041,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0080
 - Town / area (approximate map location): Perry, ME
 - Type: House
-- Description: Kendall Farm Cottages offers cottage accommodation in Perry, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2056,7 +2056,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0111
 - Town / area (approximate map location): The Forks, ME
 - Type: Cabin
-- Description: Kennebec Riverside Cabins offers cabin accommodation in The Forks, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2071,7 +2071,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0170
 - Town / area (approximate map location): Kennebunkport, ME
 - Type: House
-- Description: Kennebunkport Vacation Homes is a vacation-rental option in Kennebunkport, Maine.
+- Description: Kennebunkport Vacation Homes, Vacation Rentals, Ocean Front Homes in Kennebunkport
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2086,7 +2086,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0160
 - Town / area (approximate map location): Greenville, ME
 - Type: Unknown
-- Description: King's Landing is a vacation-rental option in Greenville, Maine. Listed capacity: 17. The supplied information identifies options for family stays.
+- Description: Luxury 8-bedroom, 8-bath lakeside vacation rental in Greenville, Maine on Moosehead Lake. Hot tub, sauna, private boat slip, game room & more. Sleeps 17.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2102,7 +2102,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0269
 - Town / area (approximate map location): Rockland, ME
 - Type: Unknown
-- Description: Kinney Rentals is a vacation-rental operator serving Rockland, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2117,7 +2117,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0057
 - Town / area (approximate map location): Kokadjo, ME
 - Type: Cabin
-- Description: Kokadjo Cabins & Trading Post offers cabin accommodation in Kokadjo, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2132,7 +2132,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0253
 - Town / area (approximate map location): Kennebunkport, ME
 - Type: Unknown
-- Description: KPT Luxury Properties is a vacation-rental operator serving Kennebunkport, Maine.
+- Description: Book premier luxury vacation homes in Kennebunkport & Kennebunk, Maine. Ocean views, private docks, concierge service. Stress-free coastal escapes start here.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2147,7 +2147,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0277
 - Town / area (approximate map location): South Casco, ME
 - Type: Unknown
-- Description: Krainin Real Estate Vacation Rentals is a vacation-rental operator serving South Casco, Maine.
+- Description: Krainin Real Estate invites you to explore our vacation rentals in Sebago Lake, Maine, 20 miles west of Portland and two-and-a-half hours from Boston.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2179,7 +2179,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0244
 - Town / area (approximate map location): Camden, ME
 - Type: Unknown
-- Description: Lake Megunticook Vacation Rental is a vacation-rental operator serving Camden, Maine. Listed capacity: 7 (two houses rented together). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Lake Megunticook Vacation Rental offers the best location for a vacation rental on the lake in Camden, ME. Call us today to learn more!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2196,7 +2196,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0025
 - Town / area (approximate map location): Damariscotta, ME
 - Type: Camp
-- Description: Lake Pemaquid Campground - cottage rentals offers cottage accommodation in Damariscotta, Maine. Listed capacity: 2–8 by unit. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: The Deck House is also a private rental located at the campground with an occupancy limit of 6 people.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2213,7 +2213,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0026
 - Town / area (approximate map location): Damariscotta, ME
 - Type: Camp
-- Description: Lakehurst Camps offers camp accommodation in Damariscotta, Maine.
+- Description: Nestled on the tranquil shores of Pemaquid Lake, Lakehurst Properties offers a picturesque Maine experience perfect for family vacations and special events. Our charming all-season cottages provide a peaceful getaway with modern comforts, while the rustic Lakehurst Lodge sets the stage for unforgettable gatherings in a classic country setting.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2228,7 +2228,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0279
 - Town / area (approximate map location): Southern Maine / NH border, ME
 - Type: Unknown
-- Description: Lakes Region Vacation Rentals is a vacation-rental operator serving Southern Maine / NH border. The supplied information identifies options for family stays.
+- Description: Lakes Region Vacation Rentals is a locally owned vacation rental company offering thoughtfully selected lakefront and lakeside stays throughout Southern Maine and the New Hampshire border region, including Balch Lake, Great East Lake, Square Pond, Mousam Lake, and surrounding communities.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2244,7 +2244,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0092
 - Town / area (approximate map location): Rockwood, ME
 - Type: Cabin
-- Description: Lawrence's Lakeside Cabins offers cabin accommodation in Rockwood, Maine. Pets are welcome. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2261,7 +2261,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0001
 - Town / area (approximate map location): Ashland / Munsungan Lake, ME
 - Type: Camp
-- Description: Libby Camps offers camp accommodation in Ashland / Munsungan Lake, Maine.
+- Description: When the historic Atkins Camps were founded in 1890, and twenty years before Ike, Will, and their father C.C. purchased them and founded Libby Camps, the world was a vastly different place. 1890 was the year Yosemite was designated as a National Park, and the same year Wyoming and Idaho were admitted as 43rd and 44th states. It was one year before Carnegie Hall opened in New York City, and two years before Ellis Island started accepting and processing immigrants. It was three years still before the extravagant Chicago World’s Fair, where the masses were introduced to the marvel of
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2276,7 +2276,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0196
 - Town / area (approximate map location): Phippsburg, ME
 - Type: House
-- Description: Liberty-Rentals (Maine cottage) is a vacation-rental option in Phippsburg, Maine. Listed capacity: 8 (Phippsburg cottage). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Classic Maine, Modern Comfort Phippsburg United States, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2293,7 +2293,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0256
 - Town / area (approximate map location): Midcoast Maine, ME
 - Type: Unknown
-- Description: Linda Bean's Maine Vacation Rentals is a vacation-rental operator serving Midcoast Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2308,7 +2308,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0157
 - Town / area (approximate map location): Georgetown, ME
 - Type: House
-- Description: Little White Dog Properties (Wiggleswick Cottage) is a vacation-rental option in Georgetown, Maine. Listed capacity: 6 including children. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Voted #1 Dog Friendly vacation rental in Maine Secluded log cabin on 2 acres. Oceanfront. Kayaks. 3 BDR. Book now. Perfect for families & groups. Midcoast Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2325,7 +2325,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0110
 - Town / area (approximate map location): Tenants Harbor, ME
 - Type: House
-- Description: Long Cove Cottages offers cottage accommodation in Tenants Harbor, Maine.
+- Description: Long Cove Cottages - Escape to our three charming ocean view cottages, nestled in serene woods along Maine's rugged coast.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2340,7 +2340,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0053
 - Town / area (approximate map location): Jackman, ME
 - Type: Camp
-- Description: Long Pond Camps offers camp accommodation in Jackman, Maine. The supplied information identifies options for family stays.
+- Description: Jackman, Maine hunting and fishing guides at Long Pond Camps & Guide Service. Bear hunts, deer hunts, moose antler hunts, grouse hunts, rabbit & coyote hunting, snowmobiling and family vacationing in Northwest Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2356,7 +2356,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0014
 - Town / area (approximate map location): Brooklin, ME
 - Type: House
-- Description: Lookout Inn & Cottages offers cottage accommodation in Brooklin, Maine.
+- Description: Stay at a Historic Oceanfront Inn on the Maine Coast Welcome to The Lookout Inn, a historic oceanside bed and breakfast in Brooklin, Maine, perched on scenic Flye Point overlooking Blue Hill Bay. Life moves a little slower here—where the sounds of the water, passing boats, and seabirds set the pace for a truly relaxing…
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2371,7 +2371,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0076
 - Town / area (approximate map location): Ogunquit, ME
 - Type: Unknown
-- Description: Lookout Resort Rentals offers lodging in Ogunquit, Maine.
+- Description: Explore The Lookout Ogunquit Maine for stunning condos, property management, and beautiful seaside living. Book your appointment today!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2386,7 +2386,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0204
 - Town / area (approximate map location): Sebago Lake, ME
 - Type: Unknown
-- Description: Loons Landing is a vacation-rental option in Sebago Lake, Maine.
+- Description: Loons Landing offers Sebago Lake Maine vacation home cottage rentals directly on the beach! Both are directly on Sebago Lake waterfront with a private sandy beach.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2401,7 +2401,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0121
 - Town / area (approximate map location): Acadia region, ME
 - Type: Unknown
-- Description: Lords Beach Vacation Rental is a vacation-rental option in Acadia region, Maine.
+- Description: Lords Beach is a Vacation Home Rental Property in Acadia. The Acadia National Park is located primarily on Mount Desert Island in the state of Maine, USA. It is one of the most visited national parks in the United States and is known for its diverse landscapes, including rugged coastlines, granite peaks, lakes, and forests. The park covers a significant portion of Mount Desert Island. Acadia Vacation Rentals
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2416,7 +2416,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0174
 - Town / area (approximate map location): Lubec, ME
 - Type: House
-- Description: Love at First Light Vacation Home is a vacation-rental option in Lubec, Maine.
+- Description: Easternmost town in the USA~ Vacation Home Rental & Maine Gift Shop & Ice Cream Stop
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2431,7 +2431,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0175
 - Town / area (approximate map location): Lubec, ME
 - Type: House
-- Description: Lubec Bay Cottage is a vacation-rental option in Lubec, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2446,7 +2446,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0032
 - Town / area (approximate map location): Eagle Lake, ME
 - Type: Unknown
-- Description: Lugdon Lodge offers lodging in Eagle Lake, Maine.
+- Description: Our Year-round cabin rentals are reasonable priced, clean, comfortable and provide a private space for you to relax after an exciting adventure in Northern Aroostook County. Amenities include:kitchen stove with oven3/4 bathrefrigeratormicrowavekitchen table with chairseating dishes and cutleryKayak and canoes free with week rentalX-country skis and snowshoes available for most sizes below is the Duplex…
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2461,7 +2461,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0085
 - Town / area (approximate map location): Rangeley, ME
 - Type: Cabin
-- Description: Lyons Lakeside Cabins offers cabin accommodation in Rangeley, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2476,7 +2476,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0073
 - Town / area (approximate map location): North Maine Woods, ME
 - Type: Camp
-- Description: Macannamac Camps offers camp accommodation in North Maine Woods.
+- Description: Lakeside log cabin rentals in Maine’s Allagash Lakes Region. Each private cabin has its own patch to the lake and dock. Your cozy base for wildlife watching, kayaking, stargazing, fishing for wild brook trout, hunting, and more. Dog friendly.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2491,7 +2491,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0283
 - Town / area (approximate map location): Trenton / Bar Harbor, ME
 - Type: Unknown
-- Description: Maebeth Vacation Rentals is a vacation-rental operator serving Trenton / Bar Harbor, Maine.
+- Description: Experience the best of coastal Maine with Maebeth Vacation Rentals. Browse curated homes in Mount Desert, Bar Harbor, and Southwest Harbor—expertly managed for comfort, cleanliness, and unforgettable stays!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2506,7 +2506,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0202
 - Town / area (approximate map location): Saco, ME
 - Type: House
-- Description: Maine Beach Cottage is a vacation-rental option in Saco, Maine. Listed capacity: 4 (each of two cottages).
+- Description: #7 By the Beach Cottage Saco United States, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2521,7 +2521,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0142
 - Town / area (approximate map location): Byron, ME
 - Type: Cabin
-- Description: Maine Bella Vita Cabins is a vacation-rental option in Byron, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2536,7 +2536,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0140
 - Town / area (approximate map location): Brunswick, ME
 - Type: House
-- Description: Maine Cottage Rental (LedgeLawn Cottage) is a vacation-rental option in Brunswick, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2551,7 +2551,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0177
 - Town / area (approximate map location): Maine (location unclear), ME
 - Type: Unknown
-- Description: Maine Escape is a vacation-rental option in Maine (location unclear).
+- Description: Surrounded by water and situated on 5+ acres, this private oceanfront home is located on Dingley Island in ... Harpswell United States, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2566,7 +2566,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0273
 - Town / area (approximate map location): Rockwood / Katahdin region, ME
 - Type: Unknown
-- Description: Maine Escapes is a vacation-rental operator serving Rockwood / Katahdin region, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2581,7 +2581,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0257
 - Town / area (approximate map location): Mount Desert, ME
 - Type: Unknown
-- Description: Maine Island Properties is a vacation-rental operator serving Mount Desert, Maine.
+- Description: Our properties are located primarily on Mount Desert Island, home of Bar Harbor, Northeast Harbor, Seal Harbor, Southwest Harbor and other quaint villages. Acadia National Park which is unequivocally one of the world’s most beautiful places comprises 47,000 acres of the island. With the rugged, craggy coast and beautiful vistas your time here will pass by quickly and you’ll most likely want to return. Many of our clients are folks who visit the area every year. Among the outdoor activities that visitors enjoy here are scenic drives, swimming, bird watching, boating, whale watching, hiking, fishing, rock climbing and biking. There
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2596,7 +2596,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0147
 - Town / area (approximate map location): Casco / Raymond, ME
 - Type: Unknown
-- Description: Maine Lakes Vacations is a vacation-rental option in Casco / Raymond, Maine. Listed capacity: 14 per displayed property.
+- Description: Rent Raymond Retreat, Cedar Lane Lodge, or Coffee Pond Cottage on Panther & Coffee Pond in Maine's Sebago Lakes Region. Private waterfront, year-round availability.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2611,7 +2611,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0021
 - Town / area (approximate map location): Caratunk, ME
 - Type: Cabin
-- Description: Maine Lakeside Cabins offers cabin accommodation in Caratunk, Maine. Listed capacity: 2–10 by cabin type. Pets are welcome subject to the listed unit rules, arrangements or fees.
+- Description: Maine Lakeside Resort & Event Center offers private individual cabins that sleep up to 8 people with full amenities. We offer a unique location for private functions such as weddings and retreats at our beautiful lodge.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2627,7 +2627,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0259
 - Town / area (approximate map location): Naples, ME
 - Type: Unknown
-- Description: Maine Real Estate Management is a vacation-rental operator serving Naples, Maine.
+- Description: Property management & rental listings from Maine Real Estate Management in the Bangor, Maine area. Landlord services, rental units, & condo management.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2642,7 +2642,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0008
 - Town / area (approximate map location): Bar Harbor / Old Orchard Beach / Holden, ME
 - Type: Unknown
-- Description: Maine Retreats Collection offers lodging in Bar Harbor / Old Orchard Beach / Holden, Maine. Listed capacity: Varies (9 properties / multi-unit).
+- Description: Book directly with Maine Retreats — Bar Harbor / Acadia, Old Orchard Beach, and beyond. No third-party fees.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2657,7 +2657,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0285
 - Town / area (approximate map location): Wells, ME
 - Type: Unknown
-- Description: Maine Street Property Management is a vacation-rental operator serving Wells, Maine. Listed capacity: Examples: 6–14 (by featured house). Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Maine Street Property Management is one of the premier property management companies in Maine, servicing York County and beyond.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2674,7 +2674,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0239
 - Town / area (approximate map location): Blue Hill Peninsula, ME
 - Type: Unknown
-- Description: Maine Vacation Rentals Inc. is a vacation-rental operator serving Blue Hill Peninsula, Maine. Listed capacity: Examples: 4–12, varies by property. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2690,7 +2690,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0240
 - Town / area (approximate map location): Boothbay Harbor, ME
 - Type: Unknown
-- Description: Maineland Vacation Rentals is a vacation-rental operator serving Boothbay Harbor, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Whether you’re planning a relaxing retreat, a romantic getaway, or an unforgettable family vacation, we offer a selection of charming apartments, vacation homes, cozy cottages, and classic waterfront estates to suit your needs.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2707,7 +2707,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0069
 - Town / area (approximate map location): Multiple Maine locations, ME
 - Type: Cabin
-- Description: Mainely Cabins offers cabin accommodation in Multiple Maine locations. Listed capacity: 2–7 per property (7 stays).
+- Description: Cozy cabins, tiny homes, and lakeside retreats tucked into the Maine wilderness. Disconnect, unwind, and reconnect with nature.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2722,7 +2722,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0183
 - Town / area (approximate map location): Mount Vernon / Belgrade Lakes, ME
 - Type: Unknown
-- Description: Mainely Relaxing is a vacation-rental option in Mount Vernon / Belgrade Lakes, Maine. The supplied information identifies options for family stays.
+- Description: Book direct and save on a private lakefront vacation home on Minnehonk Lake in Mt. Vernon, Maine. Kayaks, dock, fire pit, spectacular sunsets.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2738,7 +2738,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0011
 - Town / area (approximate map location): Belgrade Lakes, ME
 - Type: Unknown
-- Description: Mainely Retreats offers lodging in Belgrade Lakes, Maine.
+- Description: Belgrade Lakes vacation rentals in Maine featuring waterfront cabins, private dock, lake access, hot tub, and unforgettable family getaways.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2753,7 +2753,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0201
 - Town / area (approximate map location): Rockwood, ME
 - Type: Unknown
-- Description: Maynards in Maine is a vacation-rental option in Rockwood, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2768,7 +2768,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0210
 - Town / area (approximate map location): Southwest Harbor, ME
 - Type: House
-- Description: MDI Vacation Homes is a vacation-rental option in Southwest Harbor, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2783,7 +2783,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0128
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: MDIsland Vacation Homes is a vacation-rental option in Bar Harbor, Maine. Listed capacity: 6–8 at named homes; varies by property. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Home rentals in the heart of Bar Harbor, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2817,7 +2817,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0188
 - Town / area (approximate map location): North Haven, ME
 - Type: House
-- Description: Mill Stream House on North Haven is a vacation-rental option in North Haven, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2849,7 +2849,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0286
 - Town / area (approximate map location): Wells, ME
 - Type: Unknown
-- Description: Moody Beach Vacation Rentals is a vacation-rental operator serving Wells, Maine.
+- Description: Moody Beach Vacation Rentals, Wells, Maine: Immerse yourself in the rugged beauty of the Atlantic Ocean in one of our two oceanfront vacation homes. Beachfront, our beach house rentals offer the perfect blend of coastal charm and comfort for up to 12 guests.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2864,7 +2864,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0167
 - Town / area (approximate map location): Jackman, ME
 - Type: Unknown
-- Description: Moose Lodge Maine is a vacation-rental option in Jackman, Maine. The supplied information identifies options for family stays.
+- Description: Discover Luxurious Maine Vacation Rentals with Moose Lodge and explore trusted services built for your goals today.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2880,7 +2880,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0136
 - Town / area (approximate map location): Bridgton, ME
 - Type: Unknown
-- Description: Moose Pond Maine Escape is a vacation-rental option in Bridgton, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2895,7 +2895,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0048
 - Town / area (approximate map location): Greenville, ME
 - Type: House
-- Description: Moosehead Cottage Resort offers cottage accommodation in Greenville, Maine.
+- Description: Moosehead Cottage Resort / Resort with log cabins, indoor pool, sauna, hot tub, nightly rentals available. A mile from Moosehead Lake, lots of amenities close by, ski resort 10 minutes away. Direct ATV & Snowmobile Access
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2910,7 +2910,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0049
 - Town / area (approximate map location): Greenville, ME
 - Type: Cabin
-- Description: Moosehead Hills Cabins offers cabin accommodation in Greenville, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Rustic Luxury Log Cabin Rentals at Moosehead Lake, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2927,7 +2927,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0252
 - Town / area (approximate map location): Greenville, ME
 - Type: Unknown
-- Description: Moosehead Property Rentals is a vacation-rental operator serving Greenville, Maine.
+- Description: Moosehead Property Rentals provides Property Management and Vacation Rentals in the Moosehead Lake Region.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2942,7 +2942,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0266
 - Town / area (approximate map location): Rangeley, ME
 - Type: Unknown
-- Description: Morton & Furbish Vacation Rentals is a vacation-rental operator serving Rangeley, Maine.
+- Description: Looking for a getaway in gorgeous Rangeley, Maine? Let Morton & Furbish accommodate you with the best in Rangeley Maine Vacation Rentals! Click to book today!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2957,7 +2957,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0261
 - Town / area (approximate map location): Newry, ME
 - Type: Unknown
-- Description: Mountain Real Estate Company Rentals is a vacation-rental operator serving Newry, Maine.
+- Description: Find vacation rentals in the Sunday River and Bethel area. Browse locally managed homes. Pet friendly options, hot tubs, amazing views, waterfront properties.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2972,7 +2972,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0089
 - Town / area (approximate map location): Rangeley Lake, ME
 - Type: House
-- Description: Mountain View Cottages offers cottage accommodation in Rangeley Lake, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -2987,7 +2987,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0067
 - Town / area (approximate map location): Mount Chase, ME
 - Type: Unknown
-- Description: Mt. Chase Lodge offers lodging in Mount Chase, Maine. Listed capacity: 2–8 in private cabins. Pets are welcome subject to the listed unit rules, arrangements or fees.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3020,7 +3020,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0278
 - Town / area (approximate map location): Southern Maine, ME
 - Type: Unknown
-- Description: Nautical Property Management is a vacation-rental operator serving Southern Maine.
+- Description: Nautical Property Management is a trusted, local management company serving Wells, Maine and surrounding communities.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3052,7 +3052,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0249
 - Town / area (approximate map location): Damariscotta / Midcoast, ME
 - Type: Unknown
-- Description: Newcastle Vacation Rentals is a vacation-rental operator serving Damariscotta / Midcoast, Maine.
+- Description: Book a vacation in one of our Newcastle Vacation Rentals. Our Mid Coast Maine Vacation Rentals have amazing accommodations, and you will find activities for the entire family.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3067,7 +3067,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0065
 - Town / area (approximate map location): Monson, ME
 - Type: Cabin
-- Description: Next Chapter Cabins offers cabin accommodation in Monson, Maine.
+- Description: Nestled deep within whispering pine forests, our Next Chapter Cabins offer the perfect balance of wilderness seclusion and small-town convenience. Located on Turning Page Farm Brewery, just a short walk through the woods from our brewery and creamery, these cabins provide an immersive forest experience while being just 4 miles from the charming town of Monson. Take it easy at this unique and tranquil getaway.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3082,7 +3082,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0086
 - Town / area (approximate map location): Rangeley, ME
 - Type: Camp
-- Description: Niboban Sporting Camps offers camp accommodation in Rangeley, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3097,7 +3097,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0141
 - Town / area (approximate map location): Buckfield, ME
 - Type: Unknown
-- Description: Niftybug Rentals is a vacation-rental option in Buckfield, Maine. Listed capacity: 4–5 overnight guests (two homes). The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3130,7 +3130,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0090
 - Town / area (approximate map location): Rangeley Lake, ME
 - Type: Camp
-- Description: North Camps offers camp accommodation in Rangeley Lake, Maine.
+- Description: A one of a kind establishment, we have 13 fully furnished, cozy, rustic cabins located on the northeast shore of Rangeley Lake. Surrounded by 20 wooded acres and spacious lawns, each camp is equipped with oil heat & wood stoves. Screened porches, a private beach, and a playground area are some of the features we offer. Boats, Canoes, Kayaks and Sailboats are available for rent.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3145,7 +3145,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0050
 - Town / area (approximate map location): Greenville, ME
 - Type: Cabin
-- Description: North Woods Maine Cabins offers cabin accommodation in Greenville, Maine. Listed capacity: 2–17 per property (100+ properties). Pet arrangements depend on the accommodation and should be checked for the chosen stay.
+- Description: Book locally managed cabins, lakefront homes and vacation rentals near Moosehead Lake in Greenville, Rockwood, Beaver Cove and Maine’s North Woods.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3161,7 +3161,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0029
 - Town / area (approximate map location): Denmark, ME
 - Type: Unknown
-- Description: Nurture Through Nature Retreats offers lodging in Denmark, Maine.
+- Description: Discover serenity at Nurture Through Nature, Maine's first Green-Certified earth-friendly retreat center. Immerse yourself in 33 forested mountainside acres in the Lakes and Mountains region. Our solar-powered, off-the-grid haven features hiking trails, cozy cabins, yurts, a yoga studio, and wood-fired sauna all nestled along a spring-fed brook with views of Mount Washington & the White Mountains.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3176,7 +3176,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0016
 - Town / area (approximate map location): Brooksville, ME
 - Type: House
-- Description: Oakland House Seaside Inn & Cottages offers cottage accommodation in Brooksville, Maine.
+- Description: The Oakland House is a resort colony of vintage cottages, a communal guest house and 137-year old inn on 60 acres on Eggemoggin Reach, overlooking picturesque Pumpkin Island to the right and the iconic Deer Isle Bridge to the left. We offer a restorative haven for guests in search of breathtaking sunrises and sunsets, hikes to gorgeous overlooks, cozy nights by the fireplace and silence disturbed only by the call of loons in the nighttime. We’re also ideal for restless nature-lovers who come to paddle, hike, bike, fish, sail and explore Acadia National Park.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3191,7 +3191,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0222
 - Town / area (approximate map location): Wells, ME
 - Type: Apartment
-- Description: Ocean Dunes Condominiums / Garnsey Rentals is a vacation-rental option in Wells, Maine.
+- Description: We are exclusive agents for a large number of Vacation Cottages, Homes and Condominiums at Wells, Moody, Ogunquit and Drake’s Island, Maine Beaches.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3206,7 +3206,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0194
 - Town / area (approximate map location): Peaks Island, ME
 - Type: House
-- Description: Ocean House Cottage is a vacation-rental option in Peaks Island, Maine. Listed capacity: 8. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Vacation rental house on Peaks Island near Portland, Maine offering ocean views, spacious accommodations, and an authentic island experience just minutes by ferry from downtown Portland.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3223,7 +3223,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0129
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Unknown
-- Description: Oceansedge is a vacation-rental option in Bar Harbor, Maine. Listed capacity: 10. The supplied information identifies options for family stays.
+- Description: Oceans Edge is a private oceanfront vacation rental in Maine offering breathtaking coastal views, refined interiors, and peaceful seclusion near top Maine attractions. Book your stay today.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3239,7 +3239,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0192
 - Town / area (approximate map location): Old Orchard Beach, ME
 - Type: Unknown
-- Description: Odessa by the Sea is a vacation-rental option in Old Orchard Beach, Maine. The supplied information identifies options for family stays.
+- Description: Your source for the best in Old Orchard Beach lodging. Come to relax, or be as busy as you choose in Old Orchard Beach, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3255,7 +3255,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0264
 - Town / area (approximate map location): Ogunquit, ME
 - Type: Unknown
-- Description: Ogunquit Rental Properties is a vacation-rental operator serving Ogunquit, Maine.
+- Description: Vacation home rentals in and around Ogunquit, Maine including beach homes, cottages, cabins, ocean view, historical houses, and luxury homes.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3270,7 +3270,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0271
 - Town / area (approximate map location): Rockport, ME
 - Type: Unknown
-- Description: On the Water in Maine is a vacation-rental operator serving Rockport, Maine.
+- Description: Book the best deals on vacation rentals with On The Water In Maine for a week of waterfront relaxation and adventure. Explore coastal towns and discover nearby attractions.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3285,7 +3285,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0211
 - Town / area (approximate map location): Spruce Head, ME
 - Type: Unknown
-- Description: Overlook at Mussel Ridge is a vacation-rental option in Spruce Head, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3300,7 +3300,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0033
 - Town / area (approximate map location): Eagle Lake, ME
 - Type: House
-- Description: Overlook Motel & Lakeside Cottages offers cottage accommodation in Eagle Lake, Maine.
+- Description: T he Overlook Motel is located directly on RT 11, approximately 15 miles south of Fort Kent, Maine, overlooking beautiful Eagle Lake. Open year round, guests can see the easterly views of the lake from their over-sized rooms. Fax and copy services are available in the lobby and guests have access to free WIFI throughout the property and RV sites. One night in our motel and you will be sure to return again.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3315,7 +3315,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0235
 - Town / area (approximate map location): Blue Hill, ME
 - Type: Unknown
-- Description: Peninsula Property Rentals is a vacation-rental operator serving Blue Hill, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3347,7 +3347,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0059
 - Town / area (approximate map location): Lincolnville, ME
 - Type: House
-- Description: Pine Grove Cottages offers cottage accommodation in Lincolnville, Maine. Listed capacity: 2–4 base occupancy by cottage; extra guests may be allowed in selected units. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Rustic charm meets modern comfort at Pine Grove Cottages near Camden. Enjoy privacy & pet-friendly amenities. Explore nearby attractions and local dining.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3364,7 +3364,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0178
 - Town / area (approximate map location): Maine lake region, ME
 - Type: Unknown
-- Description: Pine Tree Stays is a vacation-rental option in Maine lake region.
+- Description: Maine lakefront vacation rentals on Moosehead Lake & Sebec Lake. Pet-friendly homes hosted by Superhosts Raf & Jenn since 2012. $0 booking fees.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3379,7 +3379,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0020
 - Town / area (approximate map location): Calais, ME
 - Type: Unknown
-- Description: Pocomoonshine Lake Lodges offers lodging in Calais, Maine. Listed capacity: Varies by cottage (1–3 bedrooms). Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3396,7 +3396,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0034
 - Town / area (approximate map location): Eagle Lake, ME
 - Type: Cabin
-- Description: Pond Brook Cabins offers cabin accommodation in Eagle Lake, Maine. The supplied information identifies options for family stays.
+- Description: Welcome To Pond Brook Cabins Your Memories Await... Cozy country warmth of a log cabin, and the convenience of home Book Your Reservation Now Escape the ordinary. Return to Nature. Browse Our Cabins Pond Brook Cabins are the premiere vacation rentals in Northern Maine. TREAT yourselves to a vacation to remember!! We provide our guests
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3412,7 +3412,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0135
 - Town / area (approximate map location): Boothbay Harbor, ME
 - Type: House
-- Description: Powder Hill Farm Cottage is a vacation-rental option in Boothbay Harbor, Maine. Listed capacity: 2. Pets are not permitted under the listed policy.
+- Description: Modern short-term accommodations in Boothbay Harbor, Maine. Your getaway begins here. A lovely private newly renovated cottage with 1 bath waiting to host friendly people. With beautiful light, bathroom, kitchen, and tall open ceilings. Book now online or call us at 207-200-1116.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3428,7 +3428,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0251
 - Town / area (approximate map location): Eastport / Lubec, ME
 - Type: Unknown
-- Description: Quoddy Properties Vacation Rentals is a vacation-rental operator serving Eastport / Lubec, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3443,7 +3443,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0087
 - Town / area (approximate map location): Rangeley, ME
 - Type: Unknown
-- Description: Rangeley Lake Resort offers lodging in Rangeley, Maine.
+- Description: Nestled in the heart of the great outdoors in Rangeley, Maine is the Rangeley Lake Resort – a year-round vacation destination that has proven its popularity amongst outdoor lovers.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3458,7 +3458,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0267
 - Town / area (approximate map location): Rangeley, ME
 - Type: Unknown
-- Description: Rangeley Vacation Rentals is a vacation-rental operator serving Rangeley, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3473,7 +3473,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0130
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Red's Garden Cottage is a vacation-rental option in Bar Harbor, Maine.
+- Description: Red's Garden, a Bar Harbor vacation rental cottage, is located four miles from downtown Bar Harbor, Maine close to the entrance to Acadia National Park. This is a perfect place for you and your family to explore mount desert island.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3488,7 +3488,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0225
 - Town / area (approximate map location): York Beach, ME
 - Type: Unknown
-- Description: Renee's Rentals is a vacation-rental option in York Beach, Maine. The supplied information identifies options for family stays.
+- Description: Each of our 7 cottages can sleep up to six people, with 2 bedrooms, applianced kitchens, sparkling clean baths, picnic benches for outdoor dining and parking for two cars. On the property you will also find a delightful space for outdoor activity, including horseshoes, tether ball, room for the kids to play and a couple of gas grills. In each unit, there is a double bed in the first bedroom, 2 twins in the second and either a double futon or pull out couch in the living room.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3504,7 +3504,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0118
 - Town / area (approximate map location): Weston, ME
 - Type: Cabin
-- Description: Rideout's Lakeside Lodge & Cabins offers cabin accommodation in Weston, Maine. Listed capacity: 2–14 per cabin. The supplied information identifies options for family stays.
+- Description: Lakeside Lodge & Cabins - East Grand Lake, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3520,7 +3520,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0198
 - Town / area (approximate map location): Rockland, ME
 - Type: House
-- Description: Rockland Talbot House is a vacation-rental option in Rockland, Maine.
+- Description: When we moved to Rockland Talbot House in May 2026, we had one simple goal: to create a space that feels less like a traditional inn and more like you’re spending the weekend at a friend's coastal home.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3535,7 +3535,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0272
 - Town / area (approximate map location): Rockport, ME
 - Type: Unknown
-- Description: Rockport Harbor View Vacation Rentals is a vacation-rental operator serving Rockport, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3550,7 +3550,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0093
 - Town / area (approximate map location): Rockwood, ME
 - Type: House
-- Description: Rockwood Cottages offers cottage accommodation in Rockwood, Maine. Listed capacity: 4–5 per cottage (varies by unit). Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Embrace the rustic charm and lakeside serenity of Maine’s legendary Moosehead Lake. Unplug, unwind, and reconnect by the water.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3567,7 +3567,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0260
 - Town / area (approximate map location): Newcastle / Boothbay, ME
 - Type: Unknown
-- Description: Rocky Coast Rentals is a vacation-rental operator serving Newcastle / Boothbay, Maine. Listed capacity: Examples: 8–12 by featured unit. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3583,7 +3583,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0017
 - Town / area (approximate map location): Brooksville, ME
 - Type: House
-- Description: Rustic Maine Cottages (Dreaming of Maine alternate) offers cottage accommodation in Brooksville, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3598,7 +3598,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0131
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Unknown
-- Description: Ryan Estate Rentals is a vacation-rental option in Bar Harbor, Maine. Listed capacity: 4–7 per rental. Pets are welcome. The supplied information identifies options for family stays.
+- Description: Stay near Acadia National Park in our pet friendly Bar Harbor vacation rentals. Dogs stay free, private decks, fenced dog yard, full kitchens, and easy access to hiking and carriage roads.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3615,7 +3615,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0054
 - Town / area (approximate map location): Jackman, ME
 - Type: Cabin
-- Description: Sally Mountain Cabins offers cabin accommodation in Jackman, Maine.
+- Description: Discover scenic views and year round relaxation at full-equipped cabins an Big Wood Lake in Jackman, Maine with direct ATV and snowmobile trail access.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3630,7 +3630,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0289
 - Town / area (approximate map location): York / Wells / Ogunquit, ME
 - Type: Unknown
-- Description: Salt & Shine Vacation Rentals is a vacation-rental operator serving York / Wells / Ogunquit, Maine.
+- Description: Discover curated beachfront homes, harbor views, and cozy cottages in Maine with Salt & Shine. Book your coastal escape with local expertise and guest support.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3645,7 +3645,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0236
 - Town / area (approximate map location): Blue Hill, ME
 - Type: Unknown
-- Description: Salt Air Properties is a vacation-rental operator serving Blue Hill, Maine.
+- Description: Curated vacation rentals near Bar Harbor and Acadia National Park. Salt Air Properties manages beautiful Downeast Maine homes with a personal, local touch.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3660,7 +3660,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0246
 - Town / area (approximate map location): Castine, ME
 - Type: Unknown
-- Description: Saltmeadow Properties is a vacation-rental operator serving Castine, Maine.
+- Description: Waterfront homes, estates, cottages, and water view parcels to suit every taste can be found nestled on the scenic coastline of the Blue Hill Peninsula. Here picturesque villages, such as Castine, Blue Hill, Penobscot, Stonington, and Deer Isle dot the shores of the Penobscot Bay.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3675,7 +3675,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0200
 - Town / area (approximate map location): Rockport, ME
 - Type: Unknown
-- Description: Samoset Village Townhomes is a vacation-rental option in Rockport, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3690,7 +3690,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0182
 - Town / area (approximate map location): Mount Desert Island, ME
 - Type: House
-- Description: Sargent Woods Cottage is a vacation-rental option in Mount Desert Island, Maine.
+- Description: A place to escape for quiet moments, perched in a hammock, surrounded by mossy rocks and ferns, or exploring the abundant number of National Park trails nearby.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3705,7 +3705,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0193
 - Town / area (approximate map location): Owls Head, ME
 - Type: Unknown
-- Description: Schooners Landing is a vacation-rental option in Owls Head, Maine. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Discover Schooners Landing in Maine - a perfect vacation spot with stunning views, private beach, and comfortable accommodations for families and friends.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3722,7 +3722,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0079
 - Town / area (approximate map location): Pemaquid, ME
 - Type: House
-- Description: Sea Acres Cottages offers cottage accommodation in Pemaquid, Maine. Listed capacity: 2–4 typical cottages; larger motel units. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: We are quietly located on the Bradley Hill Road, off Route 130 and away from the noise of traffic. Still, we are convenient to the attractions and restaurants within a five-mile radius in Pemaquid. Outdoors we have picnic tables and you are welcome to cook out on the grill (shared). Our large yard welcomes you to swim in the pool, sunbathe, play games, or relax and read a book under a shade tree. A walking path to the back of our property brings you to Coombs Cove, a tidal inlet of the Pemaquid River. Wi-Fi available in all room on
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3739,7 +3739,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0002
 - Town / area (approximate map location): Bailey Island, ME
 - Type: House
-- Description: Sea Escape Cottages offers cottage accommodation in Bailey Island, Maine. Listed capacity: 3 in cottages #1-2; larger units vary. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Sea Escape Cottages & Charters. Classic Maine Cottages and Traditional Sailing. Vacation rentals. Celebrating every day from an oceanside deck sence 1985
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3756,7 +3756,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0241
 - Town / area (approximate map location): Boothbay Harbor, ME
 - Type: Unknown
-- Description: Sea Maine Vacation Rentals is a vacation-rental operator serving Boothbay Harbor, Maine.
+- Description: Don't Just Visit, Sea Maine - Live like a Local Are you tired of the typical tourist experience? Do you yearn to immerse yourself in the local culture and truly understand the essence of a place? Then it’s time to step off the beaten path and start living like a local! Discover the hidden gems,
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3771,7 +3771,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0137
 - Town / area (approximate map location): Brooklin, ME
 - Type: House
-- Description: Sea Meadow Cottage is a vacation-rental option in Brooklin, Maine. Listed capacity: 4. Pets are not permitted under the listed policy.
+- Description: "Sea Meadow" Cottage. Wonderful Maine oceanfront vacation rental. Spectacular views of the Blue Hill Bay Lighthouse and Mount Desert Island. Located in Brooklin.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3787,7 +3787,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0119
 - Town / area (approximate map location): York Beach, ME
 - Type: House
-- Description: Sea Spray Cottages offers cottage accommodation in York Beach, Maine. The supplied information identifies options for family stays.
+- Description: Sea Spray Cottages weekly summer rentals located at 303 Long Beach Avenue, right across from Long Sands Beach, York Beach, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3803,7 +3803,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0223
 - Town / area (approximate map location): Wells, ME
 - Type: Unknown
-- Description: Seaglass Village is a vacation-rental option in Wells, Maine.
+- Description: Discover Seaglass Village rentals, southern Maine’s top vacation spot. Enjoy unparalleled amenities and services. Book your perfect getaway today!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3818,7 +3818,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0254
 - Town / area (approximate map location): Kennebunkport, ME
 - Type: Unknown
-- Description: Seagrass Property Rentals is a vacation-rental operator serving Kennebunkport, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Choose from a variety of Southern Maine vacation home rentals in Kennebunk, Kennebunkport, Point Arundel, Cape Porpoise, and Biddeford Pool.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3835,7 +3835,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0153
 - Town / area (approximate map location): East Boothbay, ME
 - Type: House
-- Description: Seanook Cottage Rentals is a vacation-rental option in East Boothbay, Maine. Listed capacity: 4–6 by cottage. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Seanook Cottage Rentals offers two charming East Boothbay vacation cottages on the seaside shore of Linekin Bay, Maine. Floor to ceiling windows bring the outside in; ocean, garden, and sunset views are all spectacular. This coastal cottage vacation experience keeps many of our guests rebooking year after year.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3852,7 +3852,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0274
 - Town / area (approximate map location): Saco / Old Orchard Beach, ME
 - Type: Unknown
-- Description: Seashore Property Management is a vacation-rental operator serving Saco / Old Orchard Beach, Maine.
+- Description: Explore picturesque oceanfront rentals in Old Orchard Beach, ME. We offer a variety of options for rental homes, cottages, and condominiums.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3867,7 +3867,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0005
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Seaside Cottages offers cottage accommodation in Bar Harbor, Maine. Listed capacity: 2–6 per cottage. The supplied information identifies options for family stays.
+- Description: Bar Harbor Maine Oceanfront cottage rentals on Clark’s Cove in Bar Harbor, near Acadia National Park, and lakefront cabin rentals on Donnell Pond. Seaside Cottages, Bar Harbor Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3883,7 +3883,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0104
 - Town / area (approximate map location): Standish, ME
 - Type: House
-- Description: Sebago Lake Lodge & Cottages offers cottage accommodation in Standish, Maine. Listed capacity: 2–6 by unit. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: We welcome you to Maine’s Lakes Region and beautiful Sebago Lake! Sebago Lake Lodge & Cottages is located on a lush point of land that juts out into Sebago Lake in Standish, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3900,7 +3900,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0205
 - Town / area (approximate map location): Sebago Lake, ME
 - Type: Unknown
-- Description: Sebago Rental is a vacation-rental option in Sebago Lake, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3915,7 +3915,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0044
 - Town / area (approximate map location): Georgetown, ME
 - Type: Unknown
-- Description: Seguin Tree Dwellings offers lodging in Georgetown, Maine.
+- Description: Treehouses in Georgetown Maine, Vacation rental, Glamping, New England Getaway, Honeymoon, Retreat, Seguin Tree Dwellings
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3930,7 +3930,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0150
 - Town / area (approximate map location): Deer Isle / Brooksville, ME
 - Type: Unknown
-- Description: Sharon Thoner Maine Rentals is a vacation-rental option in Deer Isle / Brooksville, Maine.
+- Description: Maine Rentals by Sharon Thoner, vacation in a house or apartment on or near the ocean. Enjoy authentic Maine with great views, boating, fishing, hiking, antiquing, arts, and crafts. Temporary office space is also available.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3945,7 +3945,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0181
 - Town / area (approximate map location): Mount Chase, ME
 - Type: Unknown
-- Description: Shin Pond Village is a vacation-rental option in Mount Chase, Maine. The supplied information identifies options for family stays.
+- Description: Shin Pond Village in Mount Chase, Main offers tent camping, RV sites, cottages, and waterfront homes along with Polaris rentals and access to snowmobile routes.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3961,7 +3961,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0185
 - Town / area (approximate map location): New Harbor, ME
 - Type: House
-- Description: Snowball Hill Cottage is a vacation-rental option in New Harbor, Maine.
+- Description: Snowball Hill Cottage provides a relaxing space to enjoy your time away. The fully-equipped open floor plan includes an eat-in kitchen, sitting area, king size bed, and a recently renovated bath. Outside, enjoy your morning coffee or tea on the full deck.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3976,7 +3976,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0179
 - Town / area (approximate map location): Milbridge, ME
 - Type: Unknown
-- Description: Stanley Ventures is a vacation-rental option in Milbridge, Maine.
+- Description: Maine vacation home rental in Milbridge, Maine. Visit Acadia National Park, Bar Harbor and buy fresh lobster. Direct booking available.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -3991,7 +3991,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0132
 - Town / area (approximate map location): Bethel / Newry, ME
 - Type: Unknown
-- Description: Stay Hygge is a vacation-rental option in Bethel / Newry, Maine.
+- Description: Boutique vacation rentals, property management, interior design, and photography in Bethel & Newry, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4006,7 +4006,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0105
 - Town / area (approximate map location): Stockton Springs, ME
 - Type: Cabin
-- Description: Steamboat Wharf Cabins offers cabin accommodation in Stockton Springs, Maine. Listed capacity: 2–8 by unit; cabins sleep 2 or 4. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Private cabins near Sandy Point Beach in Midcoast Maine, with a wood-fired sauna and cold plunge. Book direct for stays near Belfast, Camden and Acadia.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4023,7 +4023,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0173
 - Town / area (approximate map location): Lincolnville, ME
 - Type: Apartment
-- Description: Suites by the Sea is a vacation-rental option in Lincolnville, Maine.
+- Description: Vacations Rentals, mid-coast Maine, Lincolnville Beach, Maine. Oceanfront Suites with jetted tubs, fireplaces, full kitchen and stunning view
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4038,7 +4038,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0270
 - Town / area (approximate map location): Rockland, ME
 - Type: Unknown
-- Description: SummerMaine Classic Vacation Rentals is a vacation-rental operator serving Rockland, Maine.
+- Description: Rockland vacation rentals offer the best cruising bays and coastal life experience. Book your Maine getaway today.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4053,7 +4053,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0027
 - Town / area (approximate map location): Damariscotta Lake, ME
 - Type: Cabin
-- Description: Sunset Cabins offers cabin accommodation in Damariscotta Lake, Maine. Listed capacity: Up to 24 guests across all cabins; specific unit limits vary. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Sunset Cabins are original Maine Camps from the 1930's situated on the eastern shore of Damariscotta Lake, Jefferson, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4070,7 +4070,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0197
 - Town / area (approximate map location): Rangeley, ME
 - Type: House
-- Description: Sunset View Carriage House is a vacation-rental option in Rangeley, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4085,7 +4085,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0215
 - Town / area (approximate map location): Surry, ME
 - Type: Unknown
-- Description: Surry Maine Studio by the Sea is a vacation-rental option in Surry, Maine.
+- Description: Step into your private coastal sanctuary with direct beach access. The ocean-facing deck provides the perfect setting for outdoor dining and relaxation, complete with a gas grill. We provide everything you need for optimum beach days, including chairs, towels, and umbrellas.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4100,7 +4100,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0081
 - Town / area (approximate map location): Phippsburg, ME
 - Type: House
-- Description: T. Percy Cottages offers cottage accommodation in Phippsburg, Maine. Listed capacity: 5–6 for specified cottages (others vary). The supplied information identifies options for family stays.
+- Description: Discover cozy cottages surrounded by breathtaking nature, offering the perfect blend of relaxation, comfort, and adventure for your next unforgettable escape.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4133,7 +4133,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0139
 - Town / area (approximate map location): Brooksville, ME
 - Type: Unknown
-- Description: Tapley Farm is a vacation-rental option in Brooksville, Maine. Listed capacity: 2–7 by unit. The supplied information identifies options for family stays.
+- Description: Rave reviews, Coastal. Historic Sea Captain Farm on the Blue Hill Peninsula, near Acadia and across from Castine. Private, rustic and charming accommodations.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4149,7 +4149,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0217
 - Town / area (approximate map location): Tenants Harbor, ME
 - Type: House
-- Description: Teel Cove Cottage is a vacation-rental option in Tenants Harbor, Maine.
+- Description: Teel Cove Cottage sits on St. George river with a private sand beach and has views across the view plus the Muscongus Bay. Look inside and start planning your visit.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4164,7 +4164,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0203
 - Town / area (approximate map location): Sebago, ME
 - Type: House
-- Description: The Blueberry House is a vacation-rental option in Sebago, Maine.
+- Description: Book The Blueberry House — a 4.98★ rated farmhouse near Sebago Lake. 5 bedrooms, sleeps 11, pet-friendly. Perfect for families, reunions & lake getaways in Southern Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4179,7 +4179,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0114
 - Town / area (approximate map location): Wells, ME
 - Type: House
-- Description: The Cottages at Summer Village offers cottage accommodation in Wells, Maine. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Vacation rental cottages just minutes from the sandy beaches of Wells, Maine. Easy access to the beaches, shopping, restaurants, and other amenities of Wells and Ogunquit, Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4196,7 +4196,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0015
 - Town / area (approximate map location): Brooklin, ME
 - Type: Unknown
-- Description: The Eggemoggin Reach Inn offers lodging in Brooklin, Maine.
+- Description: Looking for lodging near Acadia National Park? Come stay in one of the best inns in Brooklin, Maine. It makes for a relaxing summer getaway. Book a room now!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4211,7 +4211,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0186
 - Town / area (approximate map location): Newry, ME
 - Type: House
-- Description: The Glen House is a vacation-rental option in Newry, Maine. Listed capacity: 26. The supplied information identifies options for family stays.
+- Description: The Glen House at Sunday River Large family vacation Rental in Maine ski and golf
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4227,7 +4227,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0220
 - Town / area (approximate map location): Waldoboro, ME
 - Type: House
-- Description: The Heyer House is a vacation-rental option in Waldoboro, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4242,7 +4242,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0280
 - Town / area (approximate map location): Stonington, ME
 - Type: Unknown
-- Description: The Island Agency Rentals is a vacation-rental operator serving Stonington, Maine.
+- Description: The Island Agency is a real estate listing office in Maine specializing in island properties.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4257,7 +4257,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0019
 - Town / area (approximate map location): Burnham, ME
 - Type: Cabin
-- Description: The Lodge & Cabins offers cabin accommodation in Burnham, Maine. Listed capacity: 4–8 per cabin. The supplied information identifies options for family stays.
+- Description: Stay in six traditional Maine lakefront cabins on Lake Winnecook in Burnham, with 300 feet of sandy beach, kayaks, fire pits, Wi-Fi and AC.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4273,7 +4273,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0024
 - Town / area (approximate map location): Casco, ME
 - Type: Unknown
-- Description: The Lodge at Thomas Pond offers lodging in Casco, Maine. Listed capacity: 20. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: A private 9-suite retreat on Thomas Pond — perfect for summer hiking, fall foliage escapes, snowmobiling weekends, and ice fishing getaways. The Lodge at Thomas Pond is a historic lakefront estate designed for elevated group gatherings. With nine private-bath suites, expansive dining and entertainment spaces, and direct access to the lake, this four-season Maine retreat is ideal for family reunions, corporate retreats, and unforgettable getaways.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4290,7 +4290,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0163
 - Town / area (approximate map location): Harpswell, ME
 - Type: House
-- Description: The Maine House on Dingley is a vacation-rental option in Harpswell, Maine.
+- Description: Dingley Island is a private oceanfront Maine vacation rental near Bowdoin College, offering a main house, seasonal bunkhouse, resort-style amenities, and exceptional privacy.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4305,7 +4305,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0166
 - Town / area (approximate map location): Islesboro, ME
 - Type: Unknown
-- Description: The Nest is a vacation-rental option in Islesboro, Maine. Pets are welcome.
+- Description: 4 bedroom, 4.5 bath pristine year-round vacation house situated on 4 acres on Penobscot Bay facing east. 2 master suites with air conditioning and en-suite bathrooms. Swimming pool, private beach. Living room fireplace, Wi-Fi, well-equipped kitchen, laundry room, private driveway, ping pong studio and billiards room. Easy walking distance to the shops of Dark Harbor. 15 minute ferry crossing to Lincolnville.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4321,7 +4321,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0146
 - Town / area (approximate map location): Caribou, ME
 - Type: Unknown
-- Description: The Tamaracks is a vacation-rental option in Caribou, Maine. Listed capacity: Both cabins together: 12–16. The supplied information identifies options for family stays.
+- Description: Arriving at The Tamaracks feels like the beginning of something memorable. The moment you step out of your vehicle, you sense the quiet of the countryside, the clean northern air, and the anticipation of adventure. Whether you plan to ride the trails, explore local waterways, or unwind in a peaceful rural setting, your cabin becomes the center of your experience.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4337,7 +4337,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0190
 - Town / area (approximate map location): Norway, ME
 - Type: Cabin
-- Description: The Woods Maine Treehouse is a vacation-rental option in Norway, Maine.
+- Description: Soak in fresh mountain air from your high-end home tucked in the trees. Discover everything you never knew to dream of, a real-life vision of luxury, comfort, and style. All this with private access to Lake Pennesseewassee and 10 acres to explore.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4352,7 +4352,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0113
 - Town / area (approximate map location): Waldoboro, ME
 - Type: Unknown
-- Description: Thistledown Farm offers lodging in Waldoboro, Maine.
+- Description: Charming and private rental in 1850's repurposed barn and cottage
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4367,7 +4367,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0072
 - Town / area (approximate map location): New Harbor, ME
 - Type: House
-- Description: Thompson House & Cottages offers cottage accommodation in New Harbor, Maine. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: The Thompson House and Cottages are a wonderful retreat for those looking to relax their weekend away in ME. Enjoy gorgeous sunsets over the Atlantic Ocean.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4384,7 +4384,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0096
 - Town / area (approximate map location): Round Pond, ME
 - Type: House
-- Description: Three Birds Farm & Cottages offers cottage accommodation in Round Pond, Maine. Pets are welcome.
+- Description: New, luxury vacation rental cottages located midcoast Maine's Pemaquid Peninsula, Round Pond, Bristol, ME, near Damariscotta, Coastal Charm, in Quintessential Maine Village.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4400,7 +4400,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0006
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: Cabin
-- Description: Tide Watch Cabins offers cabin accommodation in Bar Harbor, Maine. Listed capacity: 2 maximum per cabin. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Cabins 1, 2 and 3 are in the back row, with ocean view and access. Cabins 4 and 5 are oceanfront. All cabins have the following features:
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4417,7 +4417,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0187
 - Town / area (approximate map location): Newry / Sunday River, ME
 - Type: Unknown
-- Description: TimbrLux Stays is a vacation-rental option in Newry / Sunday River, Maine.
+- Description: Luxury vacation homes and rentals across Maine, thoughtfully designed and warmly hosted. Book directly with TimbrLux Stays for an effortless getaway.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4432,7 +4432,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0094
 - Town / area (approximate map location): Rockwood, ME
 - Type: Cabin
-- Description: Tomhegan Wilderness Cabins offers cabin accommodation in Rockwood, Maine.
+- Description: Traditional Four-Season Cabins and Lodge on Moosehead Lake, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4447,7 +4447,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0088
 - Town / area (approximate map location): Rangeley, ME
 - Type: House
-- Description: Town & Lake Motel and Cottages offers cottage accommodation in Rangeley, Maine. Pets are welcome.
+- Description: Rangeley Town & Lake Motel and Cottage has been family owned since 1954 and offers rooms and cottages directly on Rangeley Lake. Rangeley Town & Lake is located directly on the shore of Rangeley Lake and just minutes from Rangeley Village’s retail shops, restaurants, and more.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4463,7 +4463,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0074
 - Town / area (approximate map location): Northern Aroostook, ME
 - Type: Unknown
-- Description: Trackdown Kennels Lodge offers lodging in Northern Aroostook, Maine.
+- Description: Trackemdown Lodge & Cabins is a Top Ranked, All Inclusive Guide Service Built in Maine over 30 years ago, offering Guided Hunts for Bear, Moose, and Deer.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4478,7 +4478,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0281
 - Town / area (approximate map location): Tenants Harbor, ME
 - Type: Unknown
-- Description: True Hall Vacation Rentals is a vacation-rental operator serving Tenants Harbor, Maine.
+- Description: A Local Real Estate and Vacation Rental Company
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4493,7 +4493,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0189
 - Town / area (approximate map location): North Haven, ME
 - Type: House
-- Description: Turner Farm Guesthouse is a vacation-rental option in North Haven, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4508,7 +4508,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0023
 - Town / area (approximate map location): Caribou, ME
 - Type: Cabin
-- Description: Up North Cabins offers cabin accommodation in Caribou, Maine. Listed capacity: 11–14 per cabin (site's rate page); Black Bear cabin details say 13. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4525,7 +4525,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0237
 - Town / area (approximate map location): Blue Hill, ME
 - Type: Unknown
-- Description: Vacation Cottages is a vacation-rental operator serving Blue Hill, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4540,7 +4540,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0216
 - Town / area (approximate map location): Surry, ME
 - Type: Cabin
-- Description: Viking Trail Cabin is a vacation-rental option in Surry, Maine. The supplied information identifies options for family stays.
+- Description: If you are seeking peace and tranquility this, is it! Our 2 bedroom, 1 bath Maine cottage sits on 1.5 acres... Surry United States, Maine
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4556,7 +4556,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0284
 - Town / area (approximate map location): Vinalhaven, ME
 - Type: Unknown
-- Description: Vinalhaven Vacation Rentals is a vacation-rental operator serving Vinalhaven, Maine.
+- Description: Situated ten miles off the coast of Midcoast Maine, Vinalhaven is the state's largest off-shore island community. Known for its striking natural beauty, rocky beaches, and home to one of the world's largest lobster fishing fleets, this special spot has to be on your vacation short-list. If you’re the active type, there are dozens of parks, hiking and biking trails, along with two amazing fresh water quarries to cool off. The area is truly a boating and kayaking paradise, with more coves to explore than you can shake a stick at.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4588,7 +4588,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0233
 - Town / area (approximate map location): Bethel / Sunday River, ME
 - Type: Unknown
-- Description: Visit Sunday River Vacation Rentals is a vacation-rental operator serving Bethel / Sunday River, Maine. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Find vacation rentals in the Sunday River and Bethel area. Browse locally managed homes. Pet friendly options, hot tubs, amazing views, waterfront properties.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4605,7 +4605,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0115
 - Town / area (approximate map location): Wells, ME
 - Type: House
-- Description: Watercrest Cottages offers cottage accommodation in Wells, Maine. Listed capacity: Examples: 3–8 by rental unit. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Our cottages are all individually owned and offer many of the conveniences of your own home in a quaint New England Setting.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4622,7 +4622,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0047
 - Town / area (approximate map location): Grand Lake Stream, ME
 - Type: Unknown
-- Description: Weatherby's Lodge offers lodging in Grand Lake Stream, Maine. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4639,7 +4639,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0224
 - Town / area (approximate map location): Wells, ME
 - Type: Unknown
-- Description: Webhannet by the Sea is a vacation-rental option in Wells, Maine. Listed capacity: 2–4 by cottage. Pets are not permitted under the listed policy. The supplied information identifies options for family stays.
+- Description: COTTAGES and CONDOS AT THE BEACH in Beautiful Wells, Maine: Webhannet by the Sea is located on the beach road between Wells Beach Center and Moody Beach. To the east, some 15 steps across the road, is Webhannet Beach, which stretches for two miles and ends in a scenic harbor. To the west, the national wildlife preserve gives over a mile of unobstructed views of the sunset – breathtaking in the clean ocean air. We have several accommodation options, each managed by the individual owners of those units in our association. We look forward to welcoming you, and recommend you
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4656,7 +4656,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0158
 - Town / area (approximate map location): Gouldsboro, ME
 - Type: Unknown
-- Description: West Bay Acadia is a vacation-rental option in Gouldsboro, Maine.
+- Description: Relax, recharge, and explore the quiet side of Acadia. West Bay Acadia in Gouldsboro offers waterfront sites with full hookups for Acadia RV camping.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4671,7 +4671,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0176
 - Town / area (approximate map location): Lubec, ME
 - Type: Unknown
-- Description: West Quoddy Station is a vacation-rental option in Lubec, Maine. Listed capacity: Varies by unit; displayed 6–9 guests.
+- Description: Discover West Quoddy Station in Lubec, Maine—offering historic vacation rentals with ocean views near the iconic West Quoddy Lighthouse. Choose from cozy cabins, charming cottages, and spacious lodges. Perfect for family getaways, nature enthusiasts, and anyone seeking a serene coastal escape.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4686,7 +4686,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0037
 - Town / area (approximate map location): Forest City, ME
 - Type: Unknown
-- Description: Wheaton's Lodge offers lodging in Forest City, Maine.
+- Description: Wheaton's Lodge is a traditional family operated sporting camp ideally situated amidst spectacular lake country in eastern Maine, well beyond the fringe of population and fishing pressures. Our reputation is founded on a long tradition (1952) of proven fishing results, good food, peace and quiet, and warm hospitality.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4701,7 +4701,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0018
 - Town / area (approximate map location): Brownville, ME
 - Type: Cabin
-- Description: Wildwoods Trailside Cabins offers cabin accommodation in Brownville, Maine. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Lodge in Brownville ME – Call Wildwoods Trailside Cabins, Lodge & Restaurant, (207) 965-0000, for a fun, affordable outdoor getaway in Maine.
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4718,7 +4718,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0282
 - Town / area (approximate map location): Thomaston, ME
 - Type: Unknown
-- Description: Willow Rental Properties is a vacation-rental operator serving Thomaston, Maine.
+- Description: Unknown
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4733,7 +4733,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0161
 - Town / area (approximate map location): Greenville Junction, ME
 - Type: Unknown
-- Description: Wilsons on Moosehead Lake is a vacation-rental option in Greenville Junction, Maine. Listed capacity: 2–10 by cottage. Pets are welcome subject to the listed unit rules, arrangements or fees. The supplied information identifies options for family stays.
+- Description: Wilsons on Moosehead Lake is the premiere lodging choice for your Maine vacation in Greenville Junction! Lakefront cottage rentals, hunting, fishing & more!
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4750,7 +4750,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0195
 - Town / area (approximate map location): Penobscot, ME
 - Type: Unknown
-- Description: Winslow Creek is a vacation-rental option in Penobscot, Maine. Listed capacity: 8. The supplied information identifies options for family stays.
+- Description: 19th Century 3 bedroom farmhouse vacation rental with a chef's dream kitchen close to Acadia National Park
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4766,7 +4766,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0007
 - Town / area (approximate map location): Bar Harbor, ME
 - Type: House
-- Description: Woodland Park Cottages offers cottage accommodation in Bar Harbor, Maine. Listed capacity: 2–5 depending on cottage. Pet arrangements depend on the accommodation and should be checked for the chosen stay. The supplied information identifies options for family stays.
+- Description: Rustic, On the Shore Cottages Sharing Mt Desert Island With Bar Harbor and Acadia National Park
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
@@ -4783,7 +4783,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - ID: ME-0226
 - Town / area (approximate map location): Bailey Island / Harpswell, ME
 - Type: Unknown
-- Description: Your Island Connection Vacation Rentals is a vacation-rental operator serving Bailey Island / Harpswell, Maine.
+- Description: Reach out to YIC and find out more about Maine vacation homes on the coast
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown

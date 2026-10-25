@@ -56,7 +56,18 @@
     ],
     "Address source URL": "Public source supporting the selected address",
     "Address checked on": "Research date in YYYY-MM-DD format",
-    "Address notes": "Missing components, conflicting sources, multiple properties or location caveats"
+    "Address notes": "Missing components, conflicting sources, multiple properties or location caveats",
+    "Description source URL": "Source website or listing page for the collected description; Unknown if not collected",
+    "Description status": [
+      "Collected from source website",
+      "Not collected"
+    ],
+    "Collection status": [
+      "Complete",
+      "Incomplete",
+      "Needs review"
+    ],
+    "Missing required fields": "Semicolon-separated shortages. Complete requires a physical Maine address verified on the official website, four property photographs, and a collected source description."
   },
   "image_names": "ID-cover.ext, ID-000.ext, ID-001.ext, ID-002.ext; optional ID-logo.ext",
   "images_directory": "images",

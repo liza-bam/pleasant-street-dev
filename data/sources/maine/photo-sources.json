@@ -353,6 +353,15 @@
     "sha256": "a8d18ff4e742fca84a5d9a6125d7413adc09ecf2cd59b9227545b676501815e8",
     "width": 800,
     "height": 533
+   },
+   {
+    "file": "images/ME-0010-001.jpg",
+    "role": "photo",
+    "url": "https://cottagesofmaine.com/wp-content/uploads/2025/09/lxs-photography-p-I-LjheWpQ-unsplash.jpg",
+    "page": "https://cottagesofmaine.com/",
+    "sha256": "6fa0bea85b7f9a874f3ee9361a4209fb08b2a15232a69afd48538351b970e4b7",
+    "width": 1200,
+    "height": 789
    }
   ],
   "logo": null
@@ -611,8 +620,17 @@
   "id": "ME-0018",
   "photos": [
    {
-    "file": "images/ME-0018-cover.jpg",
+    "file": "images/ME-0018-cover.webp",
     "role": "cover",
+    "url": "https://wildwoodsme.com/wp-content/uploads/2023/05/Cabin-Entrance-View.png",
+    "page": "https://wildwoodsme.com/lodging/",
+    "sha256": "d39eec3a29f3db307722bce885d12ede56feb61c1df34f495dca0d28f56d9b90",
+    "width": 320,
+    "height": 240
+   },
+   {
+    "file": "images/ME-0018-000.jpg",
+    "role": "photo",
     "url": "https://wildwoodsme.com/wp-content/uploads/2023/05/thumbnail_IMG_7832.jpg",
     "page": "https://wildwoodsme.com/gallery/",
     "sha256": "976ecab0d504b5af898c66e0557c6e92daf5ef26b5604a6bccf5a04808828490",
@@ -620,11 +638,20 @@
     "height": 1280
    },
    {
-    "file": "images/ME-0018-000.jpg",
+    "file": "images/ME-0018-001.jpg",
     "role": "photo",
     "url": "https://wildwoodsme.com/wp-content/uploads/2023/04/Relax-by-a-camp-fire-after-a-day-on-the-trail.jpg",
     "page": "https://wildwoodsme.com/gallery/",
     "sha256": "c56d6d655c2886467495055ee6143350b5e00c50d08e419f3ea849864fc85155",
+    "width": 320,
+    "height": 240
+   },
+   {
+    "file": "images/ME-0018-002.webp",
+    "role": "photo",
+    "url": "https://wildwoodsme.com/wp-content/uploads/2023/05/Cabin-Kitchen-View.png",
+    "page": "https://wildwoodsme.com/lodging/",
+    "sha256": "5e802d20d9c31dd19681744b7d21387b45f7cec872149300d5f9156b44762273",
     "width": 320,
     "height": 240
    }
@@ -732,7 +759,26 @@
  },
  {
   "id": "ME-0022",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0022-cover.jpg",
+    "role": "cover",
+    "url": "https://cariboucabins.net/images/summer.jpg",
+    "page": "https://cariboucabins.net/",
+    "sha256": "2ad948a510c2902b6c4897a6e0a8f932040d9d7a543db847e634633ef8cf10b2",
+    "width": 320,
+    "height": 240
+   },
+   {
+    "file": "images/ME-0022-000.jpg",
+    "role": "photo",
+    "url": "https://cariboucabins.net/images/insidekitchen.jpg",
+    "page": "https://cariboucabins.net/",
+    "sha256": "e7c3c7784636ba38f2301833025a636b990fd8b11c0033ace1effcfb6febdee3",
+    "width": 250,
+    "height": 188
+   }
+  ],
   "logo": null
  },
  {
@@ -962,7 +1008,26 @@
  },
  {
   "id": "ME-0028",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0028-cover.jpg",
+    "role": "cover",
+    "url": "https://cowgerscabins.com/wp-content/gallery/gallery/lake.jpg",
+    "page": "https://cowgerscabins.com/",
+    "sha256": "b5dd76a3b025a2af8b8eca74eab1895451fa40a67deb2e17c2f0dfc0c6e4566b",
+    "width": 459,
+    "height": 344
+   },
+   {
+    "file": "images/ME-0028-000.jpg",
+    "role": "photo",
+    "url": "https://cowgerscabins.com/wp-content/gallery/gallery/image015.jpg",
+    "page": "https://cowgerscabins.com/",
+    "sha256": "5e785240ee19bfa9cf778a56aea695497d00bf55789c27d0b780915c24bbee8a",
+    "width": 563,
+    "height": 422
+   }
+  ],
   "logo": {
    "file": "images/ME-0028-logo.png",
    "url": "https://cowgerscabins.com/wp-content/themes/naturefox/images/logo.png",
@@ -1141,6 +1206,24 @@
     "sha256": "f2b7cac6553ef98d1db4d0ff87b1c54be29ae6559d6d54a0390829faa0dcc95b",
     "width": 640,
     "height": 480
+   },
+   {
+    "file": "images/ME-0033-001.avif",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/aad19a_c1762651a1a240ce9e58a24d103f4ab6~mv2.jpeg/v1/fill/w_206,h_156,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0556.jpeg",
+    "page": "https://www.overlookmotel.com/gallery",
+    "sha256": "205f9f20af5b85cf21314c082cada2ab3ec51803047aa4aa0bdc44f83c038b68",
+    "width": 206,
+    "height": 156
+   },
+   {
+    "file": "images/ME-0033-002.avif",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/aad19a_655716b7966a46faa0c74990ee65b99f~mv2.jpeg/v1/fill/w_206,h_156,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0542.jpeg",
+    "page": "https://www.overlookmotel.com/gallery",
+    "sha256": "01f8de4d8d2a4a0dfe166c0eefdc97e6256b156fbe10db594fb6a1d3fffd7900",
+    "width": 206,
+    "height": 156
    }
   ],
   "logo": {
@@ -1236,6 +1319,15 @@
     "sha256": "9cc8085a2fbf350b41ffaac3f24031dfef302bc43395ee6e3dc627a214a13eb4",
     "width": 480,
     "height": 320
+   },
+   {
+    "file": "images/ME-0037-002.jpg",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/d33183_a641179a6cb64d259f1e7b59bd55017a~mv2.jpeg",
+    "page": "https://www.wheatonslodge.com/",
+    "sha256": "75af3c7456e1bf3cfe3baee959b7fdb875903faea20d5a67766a8a8e124936c7",
+    "width": 1209,
+    "height": 806
    }
   ],
   "logo": {
@@ -1249,13 +1341,40 @@
   "id": "ME-0038",
   "photos": [
    {
-    "file": "images/ME-0038-cover.avif",
+    "file": "images/ME-0038-cover.jpg",
     "role": "cover",
+    "url": "https://static.wixstatic.com/media/cdce81_80be30d6603e4232b97fb2ff32351130~mv2_d_4032_3024_s_4_2.jpg",
+    "page": "https://www.camelbrookcamps.com/camps",
+    "sha256": "19fe4c498b3373fc91e2f42695136c385fb0519c344c2192732103ee019459d5",
+    "width": 4032,
+    "height": 3024
+   },
+   {
+    "file": "images/ME-0038-000.avif",
+    "role": "photo",
     "url": "https://static.wixstatic.com/media/cdce81_6c4c861496e44c7da64c6410f9a5466e~mv2_d_9428_3870_s_4_2.jpg/v1/crop/x_650,y_192,w_8120,h_3511/fill/w_980,h_425,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_2337.jpg",
     "page": "https://www.camelbrookcamps.com/camps",
     "sha256": "b3c2a1f7a78ac9c3ed70661a3d8d6945435b2b3408e444da44ea83c1640061e1",
     "width": 980,
     "height": 425
+   },
+   {
+    "file": "images/ME-0038-001.jpg",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/cdce81_6c4c861496e44c7da64c6410f9a5466e~mv2_d_9428_3870_s_4_2.jpg",
+    "page": "https://www.camelbrookcamps.com/camps",
+    "sha256": "4e7a030f2b3f8a49f3d9793a943149c8a6b60d960e19ac57160ff4f1f85aa4df",
+    "width": 9428,
+    "height": 3870
+   },
+   {
+    "file": "images/ME-0038-002.jpg",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/cdce81_1cf2a7c4876f4b5c8c67b55d4dd50d71~mv2.jpg",
+    "page": "https://www.camelbrookcamps.com",
+    "sha256": "dc4f9b5c6b2dd91ae04bb77b576623c77d4f9a17da721af619f5fc394d6dc53b",
+    "width": 2048,
+    "height": 1536
    }
   ],
   "logo": null
@@ -1289,6 +1408,15 @@
     "sha256": "6c99d29bb8e7c3e7f4c8e028cd3cd59de31a4d49450413eba789207c83919106",
     "width": 852,
     "height": 607
+   },
+   {
+    "file": "images/ME-0039-002.jpg",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/c48a97_9cb04ce886d04a44a5f1c696c3a728c5~mv2.jpg",
+    "page": "https://www.crossroadcabins.com/cabins",
+    "sha256": "930bfd4705571cc5533ca79f47c763f32cebdc20e8e8e57793fe848cfaac455d",
+    "width": 2244,
+    "height": 1968
    }
   ],
   "logo": null
@@ -1592,7 +1720,44 @@
  },
  {
   "id": "ME-0050",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0050-cover.webp",
+    "role": "cover",
+    "url": "https://img1.wsimg.com/isteam/ip/766faa48-c61b-41c6-bec2-f5b4797635b7/Moosehead-Hills-Cabins-Kineo-Nightsky-800x533.jpg",
+    "page": "https://northwoodsmainecabins.com/gallery",
+    "sha256": "ac8467128b2fc8bd11038465e2969d05db5071f9e96af0a3120dd9496deccfeb",
+    "width": 800,
+    "height": 533
+   },
+   {
+    "file": "images/ME-0050-000.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/766faa48-c61b-41c6-bec2-f5b4797635b7/Living%20Room%202.jpeg",
+    "page": "https://northwoodsmainecabins.com/gallery",
+    "sha256": "8d8545b935ef11cd9ff3406eb42b51a4c4f443abcd66eada68eaa2ded374c29a",
+    "width": 2560,
+    "height": 1707
+   },
+   {
+    "file": "images/ME-0050-001.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/766faa48-c61b-41c6-bec2-f5b4797635b7/Floor%202%20Kitchen%204.jpeg",
+    "page": "https://northwoodsmainecabins.com/gallery",
+    "sha256": "9cfa0830526ee2b3dfc0895ccc893d112d463a953eb4e8ac133c66b2e2074c78",
+    "width": 2560,
+    "height": 1707
+   },
+   {
+    "file": "images/ME-0050-002.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/766faa48-c61b-41c6-bec2-f5b4797635b7/Living%20Room%203.jpeg",
+    "page": "https://northwoodsmainecabins.com/gallery",
+    "sha256": "6e5589b1db4940668c52d10a53add8ada980b122a87a5e4a25e2b16eda7643d5",
+    "width": 2560,
+    "height": 1707
+   }
+  ],
   "logo": null
  },
  {
@@ -1762,6 +1927,33 @@
     "sha256": "ae9b52aa411cd0985d8fd3bb281574ddda97944a301566ef5df678f881fa9ec3",
     "width": 1240,
     "height": 400
+   },
+   {
+    "file": "images/ME-0055-000.jpg",
+    "role": "photo",
+    "url": "https://www.blueberrypatchmotel.com/_img/rms/cabins-11.jpg",
+    "page": "https://www.blueberrypatchmotel.com/cabins.php",
+    "sha256": "9791c232a3410fb58e53866f91bcf1f4c9112851b2b29e06bb4e593e27dcd9a1",
+    "width": 240,
+    "height": 176
+   },
+   {
+    "file": "images/ME-0055-001.jpg",
+    "role": "photo",
+    "url": "https://www.blueberrypatchmotel.com/_img/rms/cabins-16-in.jpg",
+    "page": "https://www.blueberrypatchmotel.com/cabins.php",
+    "sha256": "2b43b5ecb09b8a6d0e0197009facc0eabc73eec7b79c6a093acee3ef2f913d4b",
+    "width": 240,
+    "height": 176
+   },
+   {
+    "file": "images/ME-0055-002.jpg",
+    "role": "photo",
+    "url": "https://www.blueberrypatchmotel.com/_img/rms/cabins-17-in.jpg",
+    "page": "https://www.blueberrypatchmotel.com/cabins.php",
+    "sha256": "659968271b52ca42896cbcf9bc8bf3c5c38f33d3144473b4d6e273a212591b31",
+    "width": 240,
+    "height": 176
    }
   ],
   "logo": null
@@ -1819,11 +2011,38 @@
    {
     "file": "images/ME-0058-cover.jpg",
     "role": "cover",
+    "url": "https://beachcottageinn.com/images-banner/photo-1.jpg",
+    "page": "https://beachcottageinn.com/",
+    "sha256": "af44ebd36bac1096e30798c833c2f5ec0dcd25ab3d5346530746311ced80a482",
+    "width": 690,
+    "height": 518
+   },
+   {
+    "file": "images/ME-0058-000.jpg",
+    "role": "photo",
     "url": "https://beachcottageinn.com/images/beach-house-cottage-from-road.jpg",
     "page": "https://beachcottageinn.com/",
     "sha256": "602bcdc78867d9e4a385a4090824cbad94ed1c50134bab39d13f6bda4597eeb8",
     "width": 640,
     "height": 480
+   },
+   {
+    "file": "images/ME-0058-001.jpg",
+    "role": "photo",
+    "url": "https://beachcottageinn.com/images-banner/photo-2.jpg",
+    "page": "https://beachcottageinn.com/",
+    "sha256": "db41f7c85664cb79825bc6bd49151b31257d4c6e469252a2d93e777824e31c99",
+    "width": 690,
+    "height": 518
+   },
+   {
+    "file": "images/ME-0058-002.jpg",
+    "role": "photo",
+    "url": "https://beachcottageinn.com/images-banner/photo-3.jpg",
+    "page": "https://beachcottageinn.com/",
+    "sha256": "19555bccfcef08d459258142ec4b290f7ea4202abc3a09773a44f9ed94401305",
+    "width": 690,
+    "height": 518
    }
   ],
   "logo": null
@@ -2524,9 +2743,36 @@
    {
     "file": "images/ME-0079-cover.jpg",
     "role": "cover",
+    "url": "https://seaacrescottages.com/cottages.jpg",
+    "page": "https://seaacrescottages.com/pictures.html",
+    "sha256": "7cb8ba56a141688b6423834f1fb0be0a8155611fa9137baf0d6bc8bc2a427997",
+    "width": 740,
+    "height": 517
+   },
+   {
+    "file": "images/ME-0079-000.jpg",
+    "role": "photo",
     "url": "https://seaacrescottages.com/lounging.jpg",
     "page": "https://seaacrescottages.com/",
     "sha256": "ff9dc4913ea66b8d86deeebe39399e2824c9789b9d1ead4c0a4d809b51e45b53",
+    "width": 740,
+    "height": 517
+   },
+   {
+    "file": "images/ME-0079-001.jpg",
+    "role": "photo",
+    "url": "https://seaacrescottages.com/pool.jpg",
+    "page": "https://seaacrescottages.com/pictures.html",
+    "sha256": "c3e3ba9118b1034c3dc03aaf4610c4db5861d091604796ddcbfb97de1b9be24b",
+    "width": 740,
+    "height": 517
+   },
+   {
+    "file": "images/ME-0079-002.jpg",
+    "role": "photo",
+    "url": "https://seaacrescottages.com/kids.jpg",
+    "page": "https://seaacrescottages.com/pictures.html",
+    "sha256": "fd97fd42159073425b040461ca9cbf06f86585b96569bf34b08bcde374dd8b44",
     "width": 740,
     "height": 517
    }
@@ -2615,6 +2861,15 @@
     "sha256": "8ed711f81ec527f5f0ea2e67ec0f26ea46d3d25543345956ef65334ed9bfd98f",
     "width": 320,
     "height": 480
+   },
+   {
+    "file": "images/ME-0083-001.jpg",
+    "role": "photo",
+    "url": "https://l.icdbcdn.com/oh/b58bd829-5888-4344-b129-f9c92ae34c30.jpg?w=320",
+    "page": "https://crossstonecabins.com",
+    "sha256": "4aece7d9815a309bdc284eb73bc36fdcc7c711e41df4aa4d2311e64792308a73",
+    "width": 320,
+    "height": 240
    }
   ],
   "logo": {
@@ -2787,7 +3042,35 @@
  },
  {
   "id": "ME-0091",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0091-cover.webp",
+    "role": "cover",
+    "url": "https://img1.wsimg.com/isteam/ip/85cb8738-24dc-4a4d-9c03-4a7b161d5de9/fb_2513830335348179_960x689.jpg",
+    "page": "https://grayghostcamps.com/",
+    "sha256": "dbf46bf798fc2731a852848ba30f8cd84b0aeb017f5f54e2f104f5b7c5c260a0",
+    "width": 960,
+    "height": 689
+   },
+   {
+    "file": "images/ME-0091-000.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/85cb8738-24dc-4a4d-9c03-4a7b161d5de9/fb_2346321565432391_2048x1536.jpg",
+    "page": "https://grayghostcamps.com/",
+    "sha256": "56e57fe273011802d39486ec9b9f52bc99b91ea9eaedf1f5b770389a340f7614",
+    "width": 2048,
+    "height": 1536
+   },
+   {
+    "file": "images/ME-0091-001.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/85cb8738-24dc-4a4d-9c03-4a7b161d5de9/F1FE82E8-D48E-4646-A8EF-697B2165662F.jpeg",
+    "page": "https://grayghostcamps.com/",
+    "sha256": "049284ec5fd35fad0e3b2f066e77fd566071562880cce62d25db2ed0d27eac71",
+    "width": 1919,
+    "height": 2560
+   }
+  ],
   "logo": null
  },
  {
@@ -3010,7 +3293,26 @@
  },
  {
   "id": "ME-0099",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0099-cover.webp",
+    "role": "cover",
+    "url": "https://img1.wsimg.com/isteam/ip/8f29ccba-8449-4fb6-9a47-69bdfc390dad/2026-06-28%2011.50.20.jpg",
+    "page": "https://ivcottages.com/",
+    "sha256": "af70201e0b4042dcb262b66a93b5c5a52df2f24dd220702dcc823753153f97e0",
+    "width": 2560,
+    "height": 1920
+   },
+   {
+    "file": "images/ME-0099-000.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/8f29ccba-8449-4fb6-9a47-69bdfc390dad/blob.png",
+    "page": "https://ivcottages.com/",
+    "sha256": "fe90130c4d2e587a06aca3e16db093355c1661848d4083e02c019f50711fcd1a",
+    "width": 1200,
+    "height": 1600
+   }
+  ],
   "logo": null
  },
  {
@@ -3071,6 +3373,15 @@
     "sha256": "3ecd7dfd1e882eec074b60a89e6c960e67d73c89ffba577cdda159c0fab6aa48",
     "width": 500,
     "height": 333
+   },
+   {
+    "file": "images/ME-0101-000.webp",
+    "role": "photo",
+    "url": "https://images.squarespace-cdn.com/content/v1/54afeba5e4b0160e59723fcd/1637433861290-P170LB3733F5NK4HW26B/Precipice+Tiny+House.jpg",
+    "page": "https://www.acadiayurts.com/rentals",
+    "sha256": "6261c6636f49b962d7804283805ff75e4a12e0670755cad79f42b1e8d08088e5",
+    "width": 640,
+    "height": 640
    }
   ],
   "logo": {
@@ -3142,6 +3453,15 @@
     "sha256": "6af33adc0c1390322326769741ba78c8bacc6c681095b35ff7817ff211a2406c",
     "width": 1596,
     "height": 1145
+   },
+   {
+    "file": "images/ME-0103-001.jpg",
+    "role": "photo",
+    "url": "https://www.hutchinscottagesatacadia.com/uploads/4/9/5/1/49510173/4-octagon.jpg",
+    "page": "https://www.hutchinscottagesatacadia.com/ships-prow-cottage.html",
+    "sha256": "a65b91d5d375097d38c4f1f7232422156ec2306b5c282f32939fa916eb95b2fb",
+    "width": 1200,
+    "height": 1600
    }
   ],
   "logo": null
@@ -3499,6 +3819,15 @@
     "sha256": "bea9f49d9751016f1bfe5e34a99658eaaf34f8750849cc2377105b115b41a6fb",
     "width": 720,
     "height": 535
+   },
+   {
+    "file": "images/ME-0113-002.jpg",
+    "role": "photo",
+    "url": "https://thistledownfarmmaine.net/wp-content/uploads/2026/06/259b0119-dc76-471a-8617-99a1f7d1a083.jpg",
+    "page": "https://thistledownfarmmaine.net/",
+    "sha256": "af6662c5addeafa1e8ebc09fa4d87217d1d53c9c82830c83f4960df346b9a403",
+    "width": 480,
+    "height": 320
    }
   ],
   "logo": null
@@ -3734,11 +4063,38 @@
    {
     "file": "images/ME-0119-cover.jpg",
     "role": "cover",
+    "url": "https://seaspraycottages.com/images/seabright_up/slidesbup/seabrightslide25.jpg",
+    "page": "https://seaspraycottages.com/seabrightup.html",
+    "sha256": "c2f138be67b4204a70cc62b20f4b21c4788b5d76cef098ac81ed9b80d8c9515a",
+    "width": 1000,
+    "height": 750
+   },
+   {
+    "file": "images/ME-0119-000.jpg",
+    "role": "photo",
     "url": "https://seaspraycottages.com/images/arial-view-beach-cottages-home.jpg",
     "page": "https://seaspraycottages.com/",
     "sha256": "ba7c3c6de9d4adb99501e41da1a0ab3d4f6584e2a465d9fb624e6b89b34e43c0",
     "width": 1000,
     "height": 550
+   },
+   {
+    "file": "images/ME-0119-001.jpg",
+    "role": "photo",
+    "url": "https://seaspraycottages.com/images/slide/nubble1000_short.jpg",
+    "page": "https://seaspraycottages.com/email_subscribe.html",
+    "sha256": "e5ce60cf3364cd6a3025e37c0504a583cc4a839d73b8a40046fa2ac28e9c0ae4",
+    "width": 1000,
+    "height": 643
+   },
+   {
+    "file": "images/ME-0119-002.jpg",
+    "role": "photo",
+    "url": "https://seaspraycottages.com/images/seabright_up/slidesbup/viewslide.jpg",
+    "page": "https://seaspraycottages.com/seabrightup.html",
+    "sha256": "649fa52174d8a046539fb1241d176af7bf98f5a8ba9d02b6b2580f830730fbe6",
+    "width": 1000,
+    "height": 750
    }
   ],
   "logo": {
@@ -3913,13 +4269,59 @@
     "sha256": "6b693e0add2e613bb1b90b637346cb33382c3c2a7f44c263ed09dd1fb820059d",
     "width": 2000,
     "height": 1094
+   },
+   {
+    "file": "images/ME-0123-002.jpg",
+    "role": "photo",
+    "url": "https://acadiagetaway.com/assets/components/phpthumbof/cache/House%20Rear%202023.7924370d6c3a9444e901cc82ca923b0d.e325901e67e7571439ff276166dde99e.jpg",
+    "page": "https://acadiagetaway.com/rentals/acadia-getaway-house",
+    "sha256": "1b8eeebe3bd43b43b540e917705c96cbe15584ba5b432e11cfe5473e25f6813b",
+    "width": 180,
+    "height": 135
    }
   ],
   "logo": null
  },
  {
   "id": "ME-0124",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0124-cover.jpg",
+    "role": "cover",
+    "url": "https://www.maineislandproperties.com/wp-content/uploads/2021/04/IMG_1722-scaled.jpg",
+    "page": "https://www.maineislandproperties.com/properties/acadia-memories/",
+    "sha256": "9208c771e59e737bdb323dea8ccf5eafacdd852a3c77e030d0ba54df76f592e0",
+    "width": 2048,
+    "height": 1365
+   },
+   {
+    "file": "images/ME-0124-000.jpg",
+    "role": "photo",
+    "url": "https://www.maineislandproperties.com/wp-content/uploads/2021/04/IMG_1745-scaled.jpg",
+    "page": "https://www.maineislandproperties.com/properties/acadia-memories/",
+    "sha256": "c10f603cfcbe8755ae3e6125cd30067ed069badd2361bbdd2f905e69a2fe6023",
+    "width": 2048,
+    "height": 1365
+   },
+   {
+    "file": "images/ME-0124-001.jpg",
+    "role": "photo",
+    "url": "https://www.maineislandproperties.com/wp-content/uploads/2021/04/IMG_1737-scaled.jpg",
+    "page": "https://www.maineislandproperties.com/properties/acadia-memories/",
+    "sha256": "3d767eccfdead8ae8e1e3da76073bd9f6e8d36dcb4d2319de4294e544ce493d7",
+    "width": 2048,
+    "height": 1365
+   },
+   {
+    "file": "images/ME-0124-002.jpg",
+    "role": "photo",
+    "url": "https://www.maineislandproperties.com/wp-content/uploads/2021/04/IMG_1736-scaled.jpg",
+    "page": "https://www.maineislandproperties.com/properties/acadia-memories/",
+    "sha256": "879a40581bacfa45253792a6d8ffd49e652effced97509e40ec4b8e3b8bbd5ab",
+    "width": 2048,
+    "height": 1365
+   }
+  ],
   "logo": null
  },
  {
@@ -4157,6 +4559,15 @@
     "sha256": "335e477029bbd23590f4e92a8297e61ce453336d732df62011773531af681d77",
     "width": 1152,
     "height": 1536
+   },
+   {
+    "file": "images/ME-0131-002.jpg",
+    "role": "photo",
+    "url": "https://ryanestaterentals.com/wp-content/uploads/2020/01/img_0970.jpg",
+    "page": "https://ryanestaterentals.com/summer-house/",
+    "sha256": "8a29e633c5443bdb681c5726f27c45d96036a57f98b5f3c28381dd1bcdb01019",
+    "width": 600,
+    "height": 800
    }
   ],
   "logo": {
@@ -4217,8 +4628,17 @@
   "id": "ME-0133",
   "photos": [
    {
-    "file": "images/ME-0133-cover.png",
+    "file": "images/ME-0133-cover.jpg",
     "role": "cover",
+    "url": "https://boothbayharborrental.com/wp-content/uploads/2026/01/ParisDeco-5-Medium.jpeg",
+    "page": "https://boothbayharborrental.com/",
+    "sha256": "2ee8c033b179cc6f09ff0b5076a2c8aa34ba4d343eac7b0bd8a3316e046b2189",
+    "width": 540,
+    "height": 405
+   },
+   {
+    "file": "images/ME-0133-000.png",
+    "role": "photo",
     "url": "https://boothbayharborrental.com/wp-content/uploads/2018/12/Mumbai-to-Maine-1-400x250.png",
     "page": "https://boothbayharborrental.com/",
     "sha256": "7364dc013ee9a922a703eaf8e53d7a3d9f4db9e8b37400b5d44d713fcf406334",
@@ -4226,7 +4646,7 @@
     "height": 250
    },
    {
-    "file": "images/ME-0133-000.jpg",
+    "file": "images/ME-0133-001.jpg",
     "role": "photo",
     "url": "https://boothbayharborrental.com/wp-content/uploads/2021/07/bbcjune-2011-5.jpg",
     "page": "https://boothbayharborrental.com/",
@@ -4235,7 +4655,7 @@
     "height": 400
    },
    {
-    "file": "images/ME-0133-001.jpg",
+    "file": "images/ME-0133-002.jpg",
     "role": "photo",
     "url": "https://boothbayharborrental.com/wp-content/uploads/2015/02/IMG_2290-300x300.jpg",
     "page": "https://boothbayharborrental.com/",
@@ -4431,7 +4851,35 @@
  },
  {
   "id": "ME-0139",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0139-cover.webp",
+    "role": "cover",
+    "url": "https://img1.wsimg.com/isteam/ip/b1fe3a46-ceec-4c0a-8816-8d8a7ecc1cbf/20250518_Tappley%20Farm_00370.jpg",
+    "page": "https://tapleyfarm.com/",
+    "sha256": "2e3a6c66cacd42077b10630f06a8e76e23fdd8eae540dc267f86dffea60618bd",
+    "width": 2000,
+    "height": 1334
+   },
+   {
+    "file": "images/ME-0139-000.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/b1fe3a46-ceec-4c0a-8816-8d8a7ecc1cbf/20250518_Tappley%20Farm_00349.jpg",
+    "page": "https://tapleyfarm.com/",
+    "sha256": "e8ed886a84e2fc67189141d1196bc0e60e0908e9f8afd9c921a76a3f90078edc",
+    "width": 2000,
+    "height": 1424
+   },
+   {
+    "file": "images/ME-0139-001.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/b1fe3a46-ceec-4c0a-8816-8d8a7ecc1cbf/DSC09762.JPG",
+    "page": "https://tapleyfarm.com/",
+    "sha256": "89e4978b979f1071b94443a6d7ba6528e89370ca177372c0c9d4786112354f8d",
+    "width": 2560,
+    "height": 1920
+   }
+  ],
   "logo": null
  },
  {
@@ -4577,6 +5025,15 @@
     "sha256": "f2bd0487047fdff8a5cbd5d9f0b16933e130d76a0f315c70f9fa29f394bb8d6c",
     "width": 2560,
     "height": 1441
+   },
+   {
+    "file": "images/ME-0146-001.jpg",
+    "role": "photo",
+    "url": "https://tamaracksmaine.com/wp-content/uploads/2025/12/577026820_10112980686417219_2400937861442506177_n.jpg",
+    "page": "https://tamaracksmaine.com/contact-us/",
+    "sha256": "681e468789c135b3e96f06b80a7bb5060357f76abc49ebdb83feb0a11324f4df",
+    "width": 2048,
+    "height": 1153
    }
   ],
   "logo": {
@@ -4606,6 +5063,24 @@
     "sha256": "81b5409b73f1f6a6161e27bf06a3cf0e1bab0632e7149bfd2681b2c3ea5fe724",
     "width": 1920,
     "height": 1282
+   },
+   {
+    "file": "images/ME-0147-001.jpg",
+    "role": "photo",
+    "url": "https://l.icdbcdn.com/oh/a53358ee-5f3f-4d0c-8b16-17368dbec87f.jpg?w=320",
+    "page": "https://mainelakesvacation.com/en/coffee-pond-cottage---luxury-lake-house",
+    "sha256": "e8f97a63f7bfd15e1c60e3e70aab5933af251690ec437914ae0bd7cf0b894377",
+    "width": 320,
+    "height": 214
+   },
+   {
+    "file": "images/ME-0147-002.jpg",
+    "role": "photo",
+    "url": "https://l.icdbcdn.com/oh/35067dcf-e242-49ce-b815-e5756cd1801c.jpg?w=320",
+    "page": "https://mainelakesvacation.com/en/coffee-pond-cottage---luxury-lake-house",
+    "sha256": "362d220581a5a9743180fc02bf322ea9d6f11fb0b04fa1fde5a8767adc666ae9",
+    "width": 320,
+    "height": 213
    }
   ],
   "logo": {
@@ -4706,7 +5181,17 @@
  },
  {
   "id": "ME-0150",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0150-cover.avif",
+    "role": "cover",
+    "url": "https://static.wixstatic.com/media/b96620_3781f3172d0c4b56806a2cdd6fcab134~mv2_d_1936_2592_s_2.jpg/v1/fill/w_614,h_294,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b96620_3781f3172d0c4b56806a2cdd6fcab134~mv2_d_1936_2592_s_2.jpg",
+    "page": "https://www.sharonthonermainerentals.com",
+    "sha256": "fc821ec3ef1987524be8bdbf429074d26149abbea9a2c1dcdbb5842825e10905",
+    "width": 614,
+    "height": 294
+   }
+  ],
   "logo": null
  },
  {
@@ -4941,6 +5426,33 @@
     "sha256": "363579cd98d0473cda2b96f87325a18e53467b4828e3ca94aed295c28cf44881",
     "width": 1920,
     "height": 887
+   },
+   {
+    "file": "images/ME-0158-000.webp",
+    "role": "photo",
+    "url": "https://irp.cdn-website.com/696dc958/dms3rep/multi/opt/2-1920w.jpg",
+    "page": "https://www.westbayacadia.com/",
+    "sha256": "c650abddd79645268bec51fc17977ce5f293e7e9c062b4825e981f0ed9015cd4",
+    "width": 854,
+    "height": 1848
+   },
+   {
+    "file": "images/ME-0158-001.webp",
+    "role": "photo",
+    "url": "https://irp.cdn-website.com/696dc958/dms3rep/multi/opt/5-1920w.jpg",
+    "page": "https://www.westbayacadia.com/gallery",
+    "sha256": "839dcaaee5d94a0cb2b2b12682f0f2154fd87a92159274caad6ebd454c5de258",
+    "width": 1920,
+    "height": 887
+   },
+   {
+    "file": "images/ME-0158-002.webp",
+    "role": "photo",
+    "url": "https://irp.cdn-website.com/696dc958/dms3rep/multi/opt/Tier+2+Raspberry+Ridge+RV+Site+4-1920w.jpg",
+    "page": "https://www.westbayacadia.com/gallery",
+    "sha256": "4370ecb1d59829ea6608f23ffd7066580a745d82e962229ec99a16abd58d0e7c",
+    "width": 640,
+    "height": 296
    }
   ],
   "logo": {
@@ -5097,6 +5609,15 @@
    {
     "file": "images/ME-0162-cover.webp",
     "role": "cover",
+    "url": "https://img1.wsimg.com/isteam/ip/37a11766-7f95-45e7-b898-272bbcfe96fb/2023%20Grace%20outside.jpg",
+    "page": "https://harpswellholidays.com/",
+    "sha256": "ab4f9d495aa429308dae9fdc64f612073a9f6670f8383275dd16d8192ea27b72",
+    "width": 2560,
+    "height": 1440
+   },
+   {
+    "file": "images/ME-0162-000.webp",
+    "role": "photo",
     "url": "https://img1.wsimg.com/isteam/ip/37a11766-7f95-45e7-b898-272bbcfe96fb/2023%20Grace%20outside.jpg/:/cr=t:0%25,l:21.88%25,w:56.25%25,h:100%25/rs=w:365,h:365,cg:true",
     "page": "https://harpswellholidays.com",
     "sha256": "7badd877e592bb0705ae1176f739265f5d539a99f7c44cf3d8c5cbbef1ccac40",
@@ -5104,7 +5625,7 @@
     "height": 365
    },
    {
-    "file": "images/ME-0162-000.webp",
+    "file": "images/ME-0162-001.webp",
     "role": "photo",
     "url": "https://img1.wsimg.com/isteam/ip/37a11766-7f95-45e7-b898-272bbcfe96fb/grace%20rainbow.jpg",
     "page": "https://harpswellholidays.com/",
@@ -5191,6 +5712,15 @@
     "sha256": "ccbb953291c4c50008d5bc65cd03016ed449eaf1ecee49fde16b99da98d4d6ab",
     "width": 2253,
     "height": 1833
+   },
+   {
+    "file": "images/ME-0165-002.jpg",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/80d35a_fccda73586e7400eb28fba531fff003e~mv2.jpg",
+    "page": "https://www.islesboro.com/vacation-rentals/woody-point%2C-ryder-cove-lane",
+    "sha256": "bd422066898e09a8521ccc85831bbd9add519aa9fee480a660ce801049655715",
+    "width": 4032,
+    "height": 3024
    }
   ],
   "logo": null
@@ -5300,6 +5830,15 @@
     "sha256": "8ffe9c1c0db051b3923f14c733b8e2e5b952d4b00bdc00fd3a1cebe19fcad7c1",
     "width": 1905,
     "height": 1270
+   },
+   {
+    "file": "images/ME-0168-000.jpg",
+    "role": "photo",
+    "url": "https://l.icdbcdn.com/oh/263eea31-5d85-4322-9ffd-e90041073d06.jpg?w=1200",
+    "page": "https://bookcomfydome.lodgify.com/",
+    "sha256": "d24b558920cf348f0a3d565043f4f78ec77ef88ca1020ca7b104b0cbb324327c",
+    "width": 1200,
+    "height": 800
    }
   ],
   "logo": {
@@ -5475,6 +6014,24 @@
     "sha256": "c9d1af6fa110c3cd68df65fe08b7ac1c11d1d2dd39843b5666b2a10d92a34a6d",
     "width": 297,
     "height": 223
+   },
+   {
+    "file": "images/ME-0175-001.avif",
+    "role": "photo",
+    "url": "https://media.vrbo.com/lodging/20000000/19320000/19318000/19317901/87ea9f61.jpg?impolicy=resizecrop&rw=297&ra=fit",
+    "page": "https://www.vrbo.com/207410ha",
+    "sha256": "aab99d96c55769876eb149ca138f7f916348eebbeb867cc0c36589ba82f4926c",
+    "width": 297,
+    "height": 152
+   },
+   {
+    "file": "images/ME-0175-002.webp",
+    "role": "photo",
+    "url": "https://media.vrbo.com/lodging/20000000/19320000/19318000/19317901/2633c67f.jpg?impolicy=resizecrop&rw=297&ra=fit",
+    "page": "https://www.vrbo.com/207410ha",
+    "sha256": "c89623aa8606779c09db435b06cbc74c0b0fef1de5941e9282349f916804f35f",
+    "width": 297,
+    "height": 130
    }
   ],
   "logo": null
@@ -5650,7 +6207,44 @@
  },
  {
   "id": "ME-0180",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0180-cover.jpg",
+    "role": "cover",
+    "url": "https://abolproperties.com/wp-content/uploads/2021/02/78f3c6a6.f10-800x535.jpg",
+    "page": "https://www.abolproperties.com/kittys-lake-house/",
+    "sha256": "9db9b19acda5c2b685c4337881b2f897921bd357442848fa94d989e43e3da57c",
+    "width": 800,
+    "height": 535
+   },
+   {
+    "file": "images/ME-0180-000.jpg",
+    "role": "photo",
+    "url": "https://abolproperties.com/wp-content/uploads/2021/02/abca49f3.f10-800x571.jpg",
+    "page": "https://www.abolproperties.com/kittys-lake-house/",
+    "sha256": "50ebf62d6f3b1e06f23ff561cf367f3a2f55a7b851fb60c7e769161fa6a99338",
+    "width": 800,
+    "height": 571
+   },
+   {
+    "file": "images/ME-0180-001.jpg",
+    "role": "photo",
+    "url": "https://abolproperties.com/wp-content/uploads/2021/02/a703a237.f10-800x535.jpg",
+    "page": "https://www.abolproperties.com/kittys-lake-house/",
+    "sha256": "773bea6cf6f0ea8e91ad2584781a7e54122c88b47ed06748c7948c53257d3250",
+    "width": 800,
+    "height": 535
+   },
+   {
+    "file": "images/ME-0180-002.jpg",
+    "role": "photo",
+    "url": "https://abolproperties.com/wp-content/uploads/2021/03/1f492311-f34e-4de1-a626-a868ff3f320b-800x600.jpg",
+    "page": "https://www.abolproperties.com/baxter-place/",
+    "sha256": "e95ce2033ea49b71072c5093d1edba8ee28dbb5b56daf9bb391d13f3b01dd021",
+    "width": 800,
+    "height": 600
+   }
+  ],
   "logo": {
    "file": "images/ME-0180-logo.png",
    "url": "https://www.abolproperties.com/wp-content/uploads/2020/02/cropped-abol-new-logo-2.png",
@@ -6008,6 +6602,15 @@
     "sha256": "ec9daccf4d0b41e97d6176f9bd4731f26c283b1461de810b5a8af1774b8bdc71",
     "width": 3840,
     "height": 2560
+   },
+   {
+    "file": "images/ME-0191-001.webp",
+    "role": "photo",
+    "url": "https://bookingenginecdn.hostaway.com/listing/178054-474608-gaVelCjhwG--79tkHvS5tdbt6mj8SunlazPyokJ6SlWM-6a309add31a53?width=3840&quality=70&format=webp&v=2",
+    "page": "https://book.atlantichavenmaine.com/listings/474608",
+    "sha256": "d0477f0475c3fcf2117a3170215678af7ecd9f46d4d385d672d8136d4648ae63",
+    "width": 3840,
+    "height": 3258
    }
   ],
   "logo": null
@@ -6074,6 +6677,24 @@
     "sha256": "f75cd474f40bec305cd4d9fd66c824485ba6dd6079f1dfc2d0ee33fc0aefe0b6",
     "width": 1334,
     "height": 1000
+   },
+   {
+    "file": "images/ME-0193-001.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/5e0e14d2-6278-43a4-b7d5-c75f5a5eb11c/IMG_8821.jpg",
+    "page": "https://schoonerslanding.net/",
+    "sha256": "f8d06f5946de75e7f928222a32753bd13a619cc76fdd5e11477a8b92bbbbdf6a",
+    "width": 2560,
+    "height": 1920
+   },
+   {
+    "file": "images/ME-0193-002.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/5e0e14d2-6278-43a4-b7d5-c75f5a5eb11c/DSC_0345.JPG",
+    "page": "https://schoonerslanding.net/",
+    "sha256": "f053ffbf65df2086958316029783eb009060ef8b61a62e6da195d26fa8f418a5",
+    "width": 1620,
+    "height": 1080
    }
   ],
   "logo": null
@@ -6131,6 +6752,33 @@
     "sha256": "d842b91af6945eadbe44f52ffa7d8e38b5ffbd6483a80e62391a12267ce1e53d",
     "width": 2016,
     "height": 1512
+   },
+   {
+    "file": "images/ME-0195-000.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/fe681017-6521-45dd-83a2-892404c3f437/master%20bedroom.jpg",
+    "page": "https://winslowcreek.com/",
+    "sha256": "dc65e756c150a179e991d64d5522e85a5b97461889b49eef4a379d536f1e7e83",
+    "width": 2048,
+    "height": 1536
+   },
+   {
+    "file": "images/ME-0195-001.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/fe681017-6521-45dd-83a2-892404c3f437/kitchen.jpg",
+    "page": "https://winslowcreek.com/",
+    "sha256": "bb39a33cea43d4965ce177db88720d1b83448f04c23b1dacbb2813018b29e6da",
+    "width": 2048,
+    "height": 1536
+   },
+   {
+    "file": "images/ME-0195-002.webp",
+    "role": "photo",
+    "url": "https://img1.wsimg.com/isteam/ip/fe681017-6521-45dd-83a2-892404c3f437/dining%20room%202.jpg",
+    "page": "https://winslowcreek.com/",
+    "sha256": "fb4888ba8ace2ccd3f5b3ff4a3e7fe810b94abdbfba6cc7ace6dc59ad9170019",
+    "width": 2048,
+    "height": 1536
    }
   ],
   "logo": null
@@ -6164,6 +6812,15 @@
     "sha256": "07faf000afc8eb4bd373209e3ec08d221d73aa11f9160eed9081dd6898559f94",
     "width": 2694,
     "height": 1800
+   },
+   {
+    "file": "images/ME-0196-002.jpg",
+    "role": "photo",
+    "url": "https://l.icdbcdn.com/oh/287dcc50-8070-424b-a876-64e27642529b.jpg?w=320",
+    "page": "https://liberty-rentals.com/en/2487589/classic-maine-modern-comfort",
+    "sha256": "8bac7c7a0fb7c9324d3055f7b02e2b0d9504d4a3c63a6a6932fd46b0a70de266",
+    "width": 320,
+    "height": 240
    }
   ],
   "logo": null
@@ -6269,7 +6926,17 @@
  },
  {
   "id": "ME-0201",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0201-cover.jpg",
+    "role": "cover",
+    "url": "https://l.icdbcdn.com/oh/c07c8ad4-d94e-42ce-805a-0f70fb23ba0b.jpg?w=1200",
+    "page": "https://maynards-in-maine.lodgify.com/",
+    "sha256": "ddce051c1e3001e8c4486abce2019ac9ae59264d3596385ee8df6063815c438f",
+    "width": 1200,
+    "height": 641
+   }
+  ],
   "logo": {
    "file": "images/ME-0201-logo.png",
    "url": "https://l.icdbcdn.com/oh/85166eae-726d-46f8-9534-465265a36ccd.png?w=200",
@@ -6373,7 +7040,44 @@
  },
  {
   "id": "ME-0204",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0204-cover.jpg",
+    "role": "cover",
+    "url": "https://www.loonslandingsebagolake.com/wp-content/uploads/47317975_309992316521429_7334617948910256128_n-1.jpg",
+    "page": "https://www.loonslandingsebagolake.com/sebago-lake-maine-2-bedroom-vacation-rental-cottages/",
+    "sha256": "84d2a89679d5b84ec7217216d1f2aa2da4e41b3008897c83ec0edc65895748b9",
+    "width": 200,
+    "height": 200
+   },
+   {
+    "file": "images/ME-0204-000.jpg",
+    "role": "photo",
+    "url": "https://www.loonslandingsebagolake.com/wp-content/uploads/47495898_309991429854851_3244952181308129280_n-1.jpg",
+    "page": "https://www.loonslandingsebagolake.com/sebago-lake-maine-2-bedroom-vacation-rental-cottages/",
+    "sha256": "29faf4be4d9aa78ed7f6eacda7edfd8a619aab023bc67b5ff4357708e498aebc",
+    "width": 200,
+    "height": 200
+   },
+   {
+    "file": "images/ME-0204-001.jpg",
+    "role": "photo",
+    "url": "https://www.loonslandingsebagolake.com/wp-content/uploads/sebago-lake-maine-cottage-vacation-rental-porch-1.jpg",
+    "page": "https://www.loonslandingsebagolake.com/sebago-lake-maine-2-bedroom-vacation-rental-cottages/",
+    "sha256": "07fe32519b94d5fd5cbc33cfcf76ab34ed64e504100321c862ff92fbd91f0273",
+    "width": 200,
+    "height": 200
+   },
+   {
+    "file": "images/ME-0204-002.jpg",
+    "role": "photo",
+    "url": "https://www.loonslandingsebagolake.com/wp-content/uploads/48137696_315051876015473_3628186327809261568_n-1.jpg",
+    "page": "https://www.loonslandingsebagolake.com/sebago-lake-maine-2-bedroom-vacation-rental-cottages/",
+    "sha256": "c34fe7492bc13ee6150114d93e4bca235420431dcd70d464eb4747884d51414e",
+    "width": 200,
+    "height": 200
+   }
+  ],
   "logo": null
  },
  {
@@ -6839,6 +7543,15 @@
     "sha256": "0563fafd36eaca17af6b3710658b388fd69549edf7a4bc3c777e36bf88a5b0da",
     "width": 400,
     "height": 285
+   },
+   {
+    "file": "images/ME-0219-002.jpg",
+    "role": "photo",
+    "url": "https://www.vinalhavencottage.com/wp-content/gallery/photo/24-sunset.jpg?t=1661882427",
+    "page": "https://www.vinalhavencottage.com/photo-gallery/",
+    "sha256": "3288fbc62c18f6309407e9a55f8e1d5a6eb2ac322e808d1fb0aae3ed0e2eba64",
+    "width": 700,
+    "height": 525
    }
   ],
   "logo": null
@@ -6859,6 +7572,15 @@
    {
     "file": "images/ME-0222-cover.jpg",
     "role": "cover",
+    "url": "https://garnsey.com/wp-content/uploads/2026/09/od11aerial-400x314.jpg",
+    "page": "https://garnsey.com/winter-rentals/",
+    "sha256": "0d650c92591cb4fa1e1b665376dedbc1dd516761c3e490755cb17b9e3b2a70e4",
+    "width": 400,
+    "height": 314
+   },
+   {
+    "file": "images/ME-0222-000.jpg",
+    "role": "photo",
     "url": "https://garnsey.com/wp-content/uploads/2025/04/Hero_Image_Lighthouse_wells_maine_rentals.jpg",
     "page": "https://garnsey.com/",
     "sha256": "713afe19882beb3c621722a0d158e4d8c1cb3dbbcba7dbf17c2135eaae637b13",
@@ -6866,13 +7588,22 @@
     "height": 1509
    },
    {
-    "file": "images/ME-0222-000.jpg",
+    "file": "images/ME-0222-001.jpg",
     "role": "photo",
     "url": "https://garnsey.com/wp-content/uploads/2025/05/long_t_optimized_v1.jpg",
     "page": "https://garnsey.com/",
     "sha256": "623264ada8d55d8899db792e9c4b556ea5261cd1d515883513494db9ef4b2e42",
     "width": 350,
     "height": 275
+   },
+   {
+    "file": "images/ME-0222-002.jpg",
+    "role": "photo",
+    "url": "https://garnsey.com/wp-content/uploads/2024/09/Sea-Belle-Garnsey-Bros-Rentals_Image_4-400x314.jpg",
+    "page": "https://garnsey.com/winter-rentals/",
+    "sha256": "c19e358f576f2a289018341c3135b616d2074ab16bb1f0e7ec1b1c9516af946d",
+    "width": 400,
+    "height": 314
    }
   ],
   "logo": {
@@ -6911,6 +7642,15 @@
     "sha256": "f1204aeab43d72369762ce48fcf42d0b7062729d8e1d8d49e1fa0ffa1331b929",
     "width": 618,
     "height": 463
+   },
+   {
+    "file": "images/ME-0223-002.jpg",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/11cce9_8354f528c99d4ac191cb85571d464e76~mv2_d_2000_1333_s_2.jpg",
+    "page": "https://www.seaglassvillage.com",
+    "sha256": "1fc07cea586b5f71f30eeafa58cbd42c1d4d8c2c0fc560d9c7e4701eba61dcaa",
+    "width": 2000,
+    "height": 1333
    }
   ],
   "logo": {
@@ -7058,7 +7798,44 @@
  },
  {
   "id": "ME-0227",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0227-cover.jpg",
+    "role": "cover",
+    "url": "",
+    "page": "https://acadiacottage.rentals/",
+    "sha256": "b3d1ea0fd25bc809e814ecb61ad6e2a2f5ff4673b9512d24bf7cd171859d0a15",
+    "width": 940,
+    "height": 350
+   },
+   {
+    "file": "images/ME-0227-000.jpg",
+    "role": "photo",
+    "url": "",
+    "page": "https://acadiacottage.rentals/",
+    "sha256": "9bbfbfce741368fc576773ffed3cdc549afb2568fc574281b63ce488078df110",
+    "width": 1200,
+    "height": 675
+   },
+   {
+    "file": "images/ME-0227-001.jpg",
+    "role": "photo",
+    "url": "https://acadiacottage.rentals/wp-content/uploads/2023/08/P1050800_1920w-2.jpg",
+    "page": "https://acadiacottage.rentals/",
+    "sha256": "70fb500cbc1815369d77d1f429db09adf7ba248cb4597e71f1ef8c64c8d544e1",
+    "width": 1600,
+    "height": 900
+   },
+   {
+    "file": "images/ME-0227-002.jpg",
+    "role": "photo",
+    "url": "https://acadiacottage.rentals/wp-content/uploads/2024/10/004.jpg",
+    "page": "https://acadiacottage.rentals/",
+    "sha256": "fd9e2757fff4ee7a7adb2090ea11008aff98bdf586bc592f9ca6f4ca46b765c4",
+    "width": 1440,
+    "height": 1080
+   }
+  ],
   "logo": null
  },
  {
@@ -7130,6 +7907,15 @@
     "url": "https://belgradehospitality.com/images/GablesEndEscape.jpg",
     "page": "https://belgradehospitality.com/",
     "sha256": "2501cc0c12f2518ab6051f856f96d930c9335113c825c079a1c7893ac4c72599",
+    "width": 517,
+    "height": 344
+   },
+   {
+    "file": "images/ME-0229-002.jpg",
+    "role": "photo",
+    "url": "https://belgradehospitality.com/images/01.jpg",
+    "page": "https://belgradehospitality.com/",
+    "sha256": "8d234d26f2cf6bbd4607d8caa77b2afe425c40195c9436434e7fc2561a93f52f",
     "width": 517,
     "height": 344
    }
@@ -7279,7 +8065,35 @@
  },
  {
   "id": "ME-0234",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0234-cover.jpg",
+    "role": "cover",
+    "url": "https://static.wixstatic.com/media/a37da3_4512b2d487b44c48b0546fa5ad9552bc~mv2.jpg",
+    "page": "https://www.bhpr.me/rentals",
+    "sha256": "6e12c9628970d78e214453916e3238611cd4b5ee4b436ebaa046ae0bc8068772",
+    "width": 1200,
+    "height": 1600
+   },
+   {
+    "file": "images/ME-0234-000.webp",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/a71134_6b0d7bfc6c4c4ea79a077e846f50dc15~mv2.webp",
+    "page": "https://www.bhpr.me/rentals",
+    "sha256": "24328bb5a16be5419a97e6fbcec27173ccc031420230af5bec262e9b00386162",
+    "width": 1200,
+    "height": 900
+   },
+   {
+    "file": "images/ME-0234-001.webp",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/a37da3_dfbeb23baa7d4b60b09e0eba3113cc3b~mv2.webp",
+    "page": "https://www.bhpr.me/rentals",
+    "sha256": "c3654f12e425d39ac4e5c2e66d84be7da529d9367a5a5fbd4de5a29c9384a76f",
+    "width": 1200,
+    "height": 900
+   }
+  ],
   "logo": null
  },
  {
@@ -7697,7 +8511,17 @@
  },
  {
   "id": "ME-0248",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0248-cover.webp",
+    "role": "cover",
+    "url": "https://images.squarespace-cdn.com/content/v1/63fd3a76d7866066e9799e7d/1677543983754-B0S86DV1SUNLAG4FPE8H/unsplash-image-mrSuM73pmsw.jpg?format=2500w",
+    "page": "https://www.commonloonpm.com/",
+    "sha256": "51745b42530bfdc9be7610cb7098bd81fc772d8c2a86873b231357277772fc8e",
+    "width": 2500,
+    "height": 1666
+   }
+  ],
   "logo": {
    "file": "images/ME-0248-logo.webp",
    "url": "https://images.squarespace-cdn.com/content/v1/63fd3a76d7866066e9799e7d/ae5b8cb0-7a85-4e05-a6cd-7c9a27af3d8d/CommonLoon+Logo.png?format=1500w",
@@ -7815,6 +8639,15 @@
     "sha256": "84728b74481434d05fd5f67688c577d61e3f7a065a44b378a65c666239116dc1",
     "width": 1200,
     "height": 900
+   },
+   {
+    "file": "images/ME-0252-000.jpg",
+    "role": "photo",
+    "url": "https://www.mooseheadpropertyrentals.com/wp-content/uploads/2024/08/AdobeStock_233568602-scaled.jpg",
+    "page": "https://www.mooseheadpropertyrentals.com/about/",
+    "sha256": "ba97de523ff597de550a7f6b8acecfdb976c84b964c1873da3ecf0de9dfba0fe",
+    "width": 2560,
+    "height": 1707
    }
   ],
   "logo": {
@@ -8840,7 +9673,44 @@
  },
  {
   "id": "ME-0285",
-  "photos": [],
+  "photos": [
+   {
+    "file": "images/ME-0285-cover.jpg",
+    "role": "cover",
+    "url": "https://mainestreetpropertymanagement.com/wp-content/uploads/2024/06/1_DSC03077.jpg",
+    "page": "https://mainestreetpropertymanagement.com/",
+    "sha256": "9411eb73126c370cd9465fc40426bd839f1fdf18d19819cea0cbea23a8c89b64",
+    "width": 2048,
+    "height": 1365
+   },
+   {
+    "file": "images/ME-0285-000.jpg",
+    "role": "photo",
+    "url": "https://mainestreetpropertymanagement.com/wp-content/uploads/2025/04/2_DSC07655.jpg",
+    "page": "https://mainestreetpropertymanagement.com/",
+    "sha256": "a8d067ffec326d7b6f2e1b21badf055968c9845d2e83c4388830cc3f794a4dcd",
+    "width": 2048,
+    "height": 1368
+   },
+   {
+    "file": "images/ME-0285-001.jpg",
+    "role": "photo",
+    "url": "https://mainestreetpropertymanagement.com/wp-content/uploads/2025/06/25_DSC08984.jpg",
+    "page": "https://mainestreetpropertymanagement.com/",
+    "sha256": "b11bda1a3dcaf6fa30039b9a5cf632c0d44603af22a43238566186c439141302",
+    "width": 2048,
+    "height": 1368
+   },
+   {
+    "file": "images/ME-0285-002.jpg",
+    "role": "photo",
+    "url": "https://mainestreetpropertymanagement.com/wp-content/uploads/2025/06/22_DSC01584.jpg",
+    "page": "https://mainestreetpropertymanagement.com/",
+    "sha256": "5f084851dfa8dfdecb45aea0d28e8011b6f892a0860cbe810388d430c200fb2e",
+    "width": 2048,
+    "height": 1365
+   }
+  ],
   "logo": {
    "file": "images/ME-0285-logo.png",
    "url": "https://mainestreetpropertymanagement.com/wp-content/uploads/2019/08/mainestreet_logo_transparent.png",
@@ -8868,6 +9738,24 @@
     "sha256": "de822724592b9c42e3694c39baec42b51c280de139195af1e266a9f244331bc6",
     "width": 2044,
     "height": 2250
+   },
+   {
+    "file": "images/ME-0286-001.avif",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/50dc94_e2d9f7d999e1496b8913982b408657ef~mv2.jpg/v1/fill/w_333,h_436,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/209-Exterior-6_edited.jpg",
+    "page": "https://www.moodybeach-me.com",
+    "sha256": "a0deac0610a82e15137cef07acba670e5391eea31fbb4f82870e3380824731fd",
+    "width": 333,
+    "height": 436
+   },
+   {
+    "file": "images/ME-0286-002.jpg",
+    "role": "photo",
+    "url": "https://static.wixstatic.com/media/50dc94_8e39cb3505fd4e3f83cc50f44c450476~mv2.jpg",
+    "page": "https://www.moodybeach-me.com/projects-7",
+    "sha256": "6ef30cc553ec2fa1811280ab67858b17feeeac35ce1d2c0a5d7a1aa28d26147a",
+    "width": 2960,
+    "height": 3946
    }
   ],
   "logo": {

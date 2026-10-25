@@ -2224,18 +2224,13 @@
    "state": "ME",
    "postal_code": "04609",
    "full_address": "24 Bridge Street, Bar Harbor, ME 04609",
-   "source_url": "https://acadiamemories.us/accommodations.html",
-   "title": "Vacation Rental House Bar Harbor Maine",
-   "evidence": "rt Island, Maine. Photographs on this site are provided courtesy of Anthony Gutowski Photography Join us on Facebook Acadia Memories Rental License: VR2R26-109 24 Bridge Street, Bar Harbor, Maine 04609",
-   "official": true,
-   "id": "ME-0124",
-   "name": "Acadia Memories Vacation Cottage",
-   "method": "Reviewed official website evidence",
-   "score": 120
+   "source_url": "https://www.maineislandproperties.com/properties/acadia-memories/",
+   "evidence": "Acadia Memories 24 Bridge Street, Bar Harbor, Hancock/Maine, 04609, United States",
+   "method": "Published address on property manager listing"
   },
   "type": "Published property / business contact address",
   "status": "Published on official website",
-  "notes": "",
+  "notes": "Rental manager listing confirms the property identity, photos, description and address. Original domain has a certificate problem.",
   "checkedOn": "2026-10-25"
  },
  {
@@ -3131,10 +3126,19 @@
  },
  {
   "id": "ME-0180",
-  "address": null,
-  "type": "",
-  "status": "Not found publicly",
-  "notes": "No reliable public street or mailing address found in the checked website and search results.",
+  "address": {
+   "street": "245 Aroostook Ave",
+   "city": "Millinocket",
+   "state": "ME",
+   "postal_code": "",
+   "full_address": "245 Aroostook Ave, Millinocket, ME",
+   "source_url": "https://www.abolproperties.com/baxter-place/",
+   "evidence": "Baxter Place promotional image: 245 Aroostook Ave; DOWNTOWN MILLINOCKET. Companion property page identifies the apartment in Millinocket.",
+   "method": "Address printed in property image on official website"
+  },
+  "type": "One listed property (Baxter Place)",
+  "status": "Published on official website",
+  "notes": "Operator represents several rentals. This address is Baxter Place, not every property. ZIP not published in this evidence.",
   "checkedOn": "2026-10-25"
  },
  {
@@ -4464,20 +4468,18 @@
  {
   "id": "ME-0265",
   "address": {
-   "street": "P.O. Box 254",
+   "street": "101 Union Ave",
    "city": "Old Orchard Beach",
    "state": "ME",
    "postal_code": "04064",
-   "full_address": "P.O. Box 254, Old Orchard Beach, ME 04064",
-   "method": "Structured address on official website",
-   "score": 94,
-   "source_url": "https://beachgirlpropertyrentals.com/",
-   "evidence": "{\"@type\": \"PostalAddress\", \"streetAddress\": \"P.O. Box 254\", \"addressLocality\": \"Old Orchard Beach\", \"addressRegion\": \"ME\", \"postalCode\": \"04064\", \"addressCountry\": \"US\"}",
-   "owner": "Beach Girl Property Rentals"
+   "full_address": "101 Union Ave, Old Orchard Beach, ME 04064",
+   "source_url": "https://beachgirlpropertyrentals.com/listings-index.json",
+   "evidence": "Beach Vacation Unit A; address: 101 Union Ave, Old Orchard Beach, ME 04064. Units B, C and D list the same building.",
+   "method": "Public property JSON referenced by official website"
   },
-  "type": "Mailing address (PO Box)",
+  "type": "Published property / business contact address",
   "status": "Published on official website",
-  "notes": "",
+  "notes": "Physical building address published for the four listed units. Former PO Box mailing contact retained among candidates.",
   "checkedOn": "2026-10-25"
  },
  {

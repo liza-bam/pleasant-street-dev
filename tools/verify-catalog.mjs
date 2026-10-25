@@ -17,7 +17,11 @@ const original=read('data/sources/lazy.json');
 for(const h of original)assert(homes.some(x=>key(x.url)===key(h.url)),'Existing entry lost: '+h.name);
 for(const s of source){
  const h=homes.find(x=>x.id===s.id);assert(h,'Missing '+s.id);
- for(const field of ['name','url','description','rooms','bedrooms','bathrooms','guests','kids','pets','capacityDetails','priceDetails','address','photos','logo','sourceDetails','listingStatus'])assert.deepEqual(h[field],s[field],s.id+' '+field);
+ for(const field of ['name','url','description','descriptionSource','descriptionStatus','collectionStatus','missingRequiredFields','rooms','bedrooms','bathrooms','guests','kids','pets','capacityDetails','priceDetails','address','photos','logo','sourceDetails','listingStatus'])assert.deepEqual(h[field],s[field],s.id+' '+field);
+ if(h.collectionStatus==='Complete'){
+  assert.equal(h.photos.length,4);assert.equal(h.descriptionStatus,'Collected from source website');
+  assert.equal(h.missingRequiredFields.length,0);assert.notEqual(h.address.full,'Unknown');assert.match(h.descriptionSource,/^https?:\/\//);
+ }
  for(const field of ['rooms','bedrooms','bathrooms','guests','kids','pets','type','description'])assert(h[field]!=='' && h[field]!=null,h.id+' empty '+field);
  for(const field of ['kids','pets'])assert(['Yes','No','Conditional','Unknown'].includes(h[field]));
 }

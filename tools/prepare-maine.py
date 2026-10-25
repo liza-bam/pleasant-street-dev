@@ -46,6 +46,8 @@ for row in rows:
     homes.append({'id':ident,'name':row['Property / operator'],'url':row['Website URL'],
       'town':town,'state':'ME','place':location+', ME','type':kind(row['Property / operator'],row['Candidate category']),
       'recordType':record_type,'description':fact(row['Description']),'rooms':UNKNOWN,'bedrooms':UNKNOWN,'bathrooms':UNKNOWN,
+      'descriptionSource':fact(row.get('Description source URL','')),'descriptionStatus':row.get('Description status','Not collected'),
+      'collectionStatus':row.get('Collection status','Incomplete'),'missingRequiredFields':[v.strip() for v in row.get('Missing required fields','').split(';') if v.strip()],
       'guests':guests,'capacityDetails':fact(capacity),'priceFrom':price,'currency':'USD' if rate else UNKNOWN,
       'priceDetails':fact(' '.join(v for v in [row['Published price'],row['Price details']] if v)),
       'kids':policy(row['Kids OK']),'pets':policy(row['Pets OK']),'kidsDetails':fact(row['Kids OK']),'petsDetails':fact(row['Pets OK']),
@@ -64,4 +66,6 @@ selected=[{'id':r['id'],'photos':[{k:p.get(k,'') for k in ['file','role','url','
 (DEST/'photo-sources.json').write_text(json.dumps(selected,ensure_ascii=False,indent=1)+'\n')
 addresses=json.loads((SRC/'address-manifest.json').read_text())
 (DEST/'address-sources.json').write_text(json.dumps([{'id':r['id'],'address':{k:v for k,v in r['address'].items() if k!='cache'} if r['address'] else None,'type':r['address_type'],'status':r['status'],'notes':r['notes'],'checkedOn':r['checked_on']} for r in addresses],ensure_ascii=False,indent=1)+'\n')
+shutil.copyfile(SRC/'collection-status.json',DEST/'collection-status.json')
+(DEST/'description-sources.json').write_text(json.dumps([json.loads(f.read_text()) for f in sorted((SRC/'logs/descriptions').glob('ME-*.json'))],ensure_ascii=False,indent=1)+'\n')
 print(json.dumps({'records':len(homes),'selectedMedia':len(copied),'source':str(target)}))

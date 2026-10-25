@@ -18,6 +18,23 @@ The normalized Maine source is `data/sources/maine/catalog.json`; the original c
 
 The richer fields are available for Claude's app controls. The import preserves the current app's state-name search and filter behavior. `featured: true` and `demo: true` identify the 15 existing LAZY demos independently of names or display labels.
 
+## Collected material requirements
+
+The Maine CSV and source records retain description source URLs, description status, collection status and explicit missing required fields. A record is Complete only with four property photographs, a physical Maine property/business address verified on its official website, and a collected source description. PO boxes, partial addresses, out-of-state offices and arrival marinas remain labeled and do not pass the physical-address requirement. A collected address is not automatically an independently geocoded rental entrance.
+
+Descriptions use source website text. Missing source descriptions are Unknown rather than generated filler. Photo completeness is a separate field: a photo-complete record can still need an address or description. Logos remain separate from the four property photos. AI processing alone does not disqualify a photograph presented on the property's site; unrelated portraits, logos, screenshots and promotional layouts are excluded.
+
+To refresh reviewed material from the local package without resetting Claude's address-level coordinates or other app fields:
+
+```
+python3 tools/prepare-maine.py /Users/sandy/Documents/GitHub/offline-street-db
+python3 tools/sync-maine-materials.py
+node tools/build-index.mjs
+node tools/verify-catalog.mjs
+```
+
+The narrow refresh reuses the existing importer's card-image function. The general importer assigns town coordinates, so it is not used for this material-only refresh. Source evidence is under `data/sources/maine/`. `data/templates/State_Websites_template.csv` is the blank state-neutral collection format; its Location header replaces Maine location. The Maine preparation script remains specific to the current Maine package.
+
 ## Sync and checks
 
 ```

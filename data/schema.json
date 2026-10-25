@@ -1,10 +1,15 @@
 {
- "version": 2,
+ "version": 3,
  "database": "data/homes.json",
  "record": "One website / operator or property, matched by URL. An operator may represent multiple rentals.",
  "primaryKey": "id",
  "missingFacts": "Unknown",
- "policyValues": ["Yes", "No", "Conditional", "Unknown"],
+ "policyValues": [
+  "Yes",
+  "No",
+  "Conditional",
+  "Unknown"
+ ],
  "fields": {
   "id": "Stable identifier: ME-0001 etc. Existing entries use LAZY-<slug>.",
   "slug": "Stable path-safe name",
@@ -48,13 +53,20 @@
   "added": "Import date",
   "checked": "Last available website check date or Unknown; import itself is not a live website check",
   "alive": "Website health boolean or Unknown",
-  "listingStatus": "Active or Needs review; Needs review entries stay in the database but out of recommendations"
+  "listingStatus": "Active or Needs review; Needs review entries stay in the database but out of recommendations",
+  "descriptionSource": "Public source URL for the collected description, or Unknown",
+  "descriptionStatus": "Collected from source website or Not collected",
+  "collectionStatus": "Complete, Incomplete or Needs review; independent of website health and publication",
+  "missingRequiredFields": "Explicit shortages. Complete requires a physical Maine property/business address verified on the official site, four property photographs and a source description. PO boxes, arrival points and out-of-state contacts do not satisfy physical address completeness."
  },
  "downloads": {
   "csv": "data/sources/maine/catalog.csv",
   "csvSchema": "data/sources/maine/csv-schema.json",
   "normalizedImport": "data/sources/maine/catalog.json",
   "photoProvenance": "data/sources/maine/photo-sources.json",
-  "addressProvenance": "data/sources/maine/address-sources.json"
+  "addressProvenance": "data/sources/maine/address-sources.json",
+  "descriptionProvenance": "data/sources/maine/description-sources.json",
+  "collectionStatus": "data/sources/maine/collection-status.json",
+  "nextStateTemplate": "data/templates/State_Websites_template.csv"
  }
 }

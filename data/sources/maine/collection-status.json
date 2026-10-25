@@ -1,0 +1,2826 @@
+[
+  {
+    "id": "ME-0001",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0002",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0003",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0004",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0005",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0006",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0007",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0008",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0009",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0010",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0011",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0012",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0013",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0014",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0015",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0016",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0017",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0018",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0019",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0020",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0021",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0022",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0023",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0024",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0025",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0026",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0027",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0028",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0029",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0030",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0031",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0032",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0033",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0034",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0035",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0036",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0037",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0038",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0039",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0040",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0041",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0042",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0043",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0044",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0045",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0046",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0047",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0048",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0049",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0050",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0051",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0052",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0053",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0054",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0055",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0056",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0057",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0058",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0059",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0060",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0061",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0062",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0063",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0064",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0065",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0066",
+    "status": "Needs review",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0067",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0068",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0069",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0070",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0071",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0072",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0073",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0074",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0075",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0076",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0077",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0078",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0079",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0080",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0081",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0082",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0083",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0084",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0085",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0086",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0087",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0088",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0089",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0090",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Partial street address (no house number)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0091",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0092",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0093",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0094",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0095",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0096",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0097",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0098",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0099",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0100",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0101",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0102",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0103",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0104",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0105",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0106",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0107",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0108",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0109",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0110",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0111",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0112",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0113",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0114",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0115",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0116",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0117",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0118",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0119",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0120",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0121",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0122",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0123",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0124",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0125",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0126",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0127",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0128",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0129",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0130",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0131",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0132",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0133",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0134",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0135",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0136",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0137",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0138",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0139",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0140",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0141",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0142",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0143",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0144",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0145",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0146",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0147",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0148",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0149",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0150",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0151",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0152",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0153",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0154",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "One listed property (Lakeside House)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0155",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0156",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Arrival marina (not property address)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0157",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0158",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0159",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0160",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0161",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0162",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0163",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0164",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0165",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0166",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0167",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0168",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0169",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0170",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0171",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0172",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0173",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0174",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0175",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0176",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0177",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0178",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0179",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0180",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "One listed property (Baxter Place)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0181",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0182",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0183",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0184",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0185",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0186",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0187",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0188",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0189",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0190",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0191",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0192",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0193",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0194",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0195",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0196",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0197",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0198",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0199",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0200",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0201",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0202",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0203",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0204",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0205",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0206",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0207",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0208",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0209",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0210",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0211",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0212",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0213",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0214",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0215",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0216",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0217",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0218",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0219",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0220",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0221",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0222",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0223",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0224",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0225",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0226",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0227",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0228",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0229",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0230",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0231",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0232",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0233",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0234",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0235",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0236",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0237",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0238",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0239",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0240",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0241",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0242",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0243",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0244",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0245",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0246",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0247",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0248",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 1,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0249",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0250",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0251",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0252",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0253",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0254",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0255",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Published contact address outside Maine",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0256",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0257",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0258",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0259",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 2,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0260",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0261",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0262",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0263",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0264",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0265",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0266",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0267",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0268",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0269",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0270",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Parent company office outside Maine",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0271",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0272",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0273",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0274",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0275",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0276",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "source description"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0277",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0278",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address"
+    ],
+    "propertyPhotoCount": 4,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0279",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 3,
+    "addressType": "",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0280",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0281",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0282",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0283",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0284",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address",
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Mailing address (PO Box)",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0285",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0286",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0287",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0288",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0289",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Operator contact / office address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0290",
+    "status": "Complete",
+    "missingRequiredFields": [],
+    "propertyPhotoCount": 4,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  },
+  {
+    "id": "ME-0291",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "address verification",
+      "property photos (4 required)",
+      "source description"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Not collected"
+  },
+  {
+    "id": "ME-0292",
+    "status": "Incomplete",
+    "missingRequiredFields": [
+      "property photos (4 required)"
+    ],
+    "propertyPhotoCount": 0,
+    "addressType": "Published property / business contact address",
+    "descriptionStatus": "Collected from source website"
+  }
+]
