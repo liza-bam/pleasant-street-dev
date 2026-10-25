@@ -40,11 +40,8 @@
       var out = (t && !matches(h.place, t)) || (area && !area.contains(h.marker.getLatLng()));
       if (!out && n) { if (h.guests == null || h.guests === '') h.missing.push('how many it sleeps'); else if (+h.guests < n) out = true; }
       if (!out && types.length) { if (!h.type) h.missing.push('type'); else if (types.indexOf(h.type) < 0) out = true; }
-      needs.forEach(function (k) {
-        if (out) return;
-        if (!h[k]) h.missing.push(k === 'kids' ? 'kids OK' : 'pets OK');
-        else if (!/^y/i.test(h[k])) out = true;
-      });
+      /* Kids and pets are yes or no: a home that does not say counts as no. */
+      needs.forEach(function (k) { if (!out && !/^y/i.test(h[k] || '')) out = true; });
       if (out) map.removeLayer(h.marker);
       else { h.marker.addTo(map); h.marker.setOpacity(h.missing.length ? 0.55 : 1); (h.missing.length ? maybe : fits).push(h); }
     });
