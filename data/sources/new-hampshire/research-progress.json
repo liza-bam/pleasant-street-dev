@@ -95,7 +95,7 @@
     "Strafford",
     "Sullivan"
   ],
-  "publication": "First three records verified live on 2026-10-26; fourth checked property prepared locally, not deployed yet",
+  "publication": "Four verified New Hampshire records deployed and visibly checked in Map and Cards on 2026-10-26",
   "limitations": [
     "The DOM snapshot did not expose directory results that were visible in the screenshot and native accessibility tree; use the native accessibility state for these category pages.",
     "Deepwood cottage-detail widget failed; direct contact and main website remain available.",
@@ -109,5 +109,43 @@
     "confirmedDuplicateAuditRows": 1,
     "propertiesWithFourPhotos": 4,
     "savedAuthenticPhotographs": 16
+  },
+  "checks": {
+    "checkedOn": "2026-10-26",
+    "commands": {
+      "node tools/verify-catalog.mjs": "Passed: 535 records; 521 mapped; media hashes, unknown handling and field preservation passed",
+      "python3 tools/verify-cards.py": "Passed: 528 active cards; three distinct photos each; descriptions at most 150 characters; platform CSV evidence matched",
+      "Regional CSV parse/reconciliation": "Passed: 77 master, 73 candidate/audit, 4 approved, all 49 columns and cells match research JSON",
+      "Existing inventory preservation": "Passed: all 531 pre-existing database records unchanged"
+    },
+    "photographs": {
+      "properties": 4,
+      "authenticPhotos": 16,
+      "visuallyReviewed": true,
+      "generated": 0
+    },
+    "researchCompletion": "Incomplete; regional coverage, towns, aggregator/platform discovery and remaining candidates require further passes",
+    "nextStates": {
+      "Massachusetts": "Not started",
+      "Rhode Island": "Not started"
+    }
+  },
+  "liveVerification": {
+    "checkedOn": "2026-10-26",
+    "commit": "ad44630",
+    "deploymentRun": "https://github.com/liza-bam/pleasant-street-dev/actions/runs/40404523329",
+    "deploymentStatus": "Success",
+    "cardsUrl": "https://liza-bam.github.io/pleasant-street-dev/?view=cards&size=large&place=NH",
+    "mapUrl": "https://liza-bam.github.io/pleasant-street-dev/?place=NH",
+    "visibleRecordIds": [
+      "NH-0001",
+      "NH-0003",
+      "NH-0004",
+      "NH-0077"
+    ],
+    "visibleCount": 4,
+    "displayedPhotographsLoaded": 12,
+    "airbnbBadge": "The Conscious Cabin; nonclickable logo only",
+    "remainingStateResearch": "Incomplete"
   }
 }
