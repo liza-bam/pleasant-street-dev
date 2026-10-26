@@ -12,7 +12,15 @@ const street=read('street.json'),index=read('index.json');
 const excluded=read('data/sources/maine/bad-websites.json').map(h=>h.id);
 const replaced=read('data/sources/maine/operator-replacements.json').map(h=>h.id);
 const operators=read('data/sources/maine/operator-catalog.json');
-assert.equal(source.length,292-new Set([...excluded,...replaced]).size+operators.length);
+const aggregatorApproved=read('data/sources/maine/aggregator-approved.json');
+assert.equal(source.length,292-new Set([...excluded,...replaced]).size+operators.length+aggregatorApproved.length);
+const eligibility=read('data/sources/maine/aggregator-verification.json');
+for(const h of aggregatorApproved){
+ assert.equal(h.state,'ME');assert.equal(h.photos.length,4);
+ assert.equal(eligibility.find(r=>r.id===h.id)?.qualificationStatus,'Verified operator property');
+ assert(h.contactPagesChecked.length && h.bookingMethod && h.operatorEvidenceUrl);
+}
+for(const h of eligibility.filter(h=>h.qualificationStatus!=='Verified operator property'))assert(!homes.some(x=>x.id===h.id),'Unapproved research lead imported: '+h.id);
 assert.equal(homes.length,source.length+15+vermont.length);
 assert.equal(new Set(homes.map(h=>h.id)).size,homes.length);
 const key=url=>{const u=new URL(url);return u.host.replace(/^www\./,'')+u.pathname.replace(/\/$/,'')+(u.searchParams.has('PageDataID')?'?PageDataID='+u.searchParams.get('PageDataID'):(u.searchParams.has('reservation_unitId')?'?reservation_unitId='+u.searchParams.get('reservation_unitId'):''));};

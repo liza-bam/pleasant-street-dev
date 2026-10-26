@@ -3743,5 +3743,716 @@
   "propertyPhotoCount": 4,
   "addressType": "Operator contact / office address",
   "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0297",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "actual mooring / arrival arrangements confirmed by operator"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Shore/homeport contact; actual mooring arranged by operator",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0308",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "actual mooring / arrival arrangements confirmed by operator"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Shore/homeport contact; actual mooring arranged by operator",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0309",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Shared estate / property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0317",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0318",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0319",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0320",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0321",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0322",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0323",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0324",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0325",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0326",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0327",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0328",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0329",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0330",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0331",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0332",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0333",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0334",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0335",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0336",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0337",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0338",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0340",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0341",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0342",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0351",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0353",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0354",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0355",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0358",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0363",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed",
+   "Property description says 3.5 baths; listing schema says 4. Bathroom count left Unknown."
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0364",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0365",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0366",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0367",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0368",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0369",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0370",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0371",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0372",
+  "status": "Incomplete",
+  "missingRequiredFields": [
+   "rental street address not publicly disclosed"
+  ],
+  "propertyPhotoCount": 4,
+  "addressType": "Unknown",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0374",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0375",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0376",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0377",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0378",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0381",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0382",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0383",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0384",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0385",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0386",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0387",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0388",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0390",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0391",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0393",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0394",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0395",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0397",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0398",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0399",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0400",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0401",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0402",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0403",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0404",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0405",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0406",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0407",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0408",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0409",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0410",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0411",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0414",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0415",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0416",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
+ },
+ {
+  "id": "ME-0417",
+  "status": "Complete",
+  "missingRequiredFields": [],
+  "propertyPhotoCount": 4,
+  "addressType": "Property address",
+  "descriptionStatus": "Collected from source website"
  }
 ]

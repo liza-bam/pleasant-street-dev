@@ -72,7 +72,19 @@ for h in homes:
     report=audit[h['id']]
     h['contactPagesChecked']=report.get('contactPagesChecked',[])
     h['addressReassessment']={'checkedOn':report['checkedOn'],'status':report['status'],'openedUrls':report.get('openedUrls',[]),'errors':report.get('errors',[])}
+approved_file=SRC/'aggregator-sweep/approved-catalog.json'
+approved=json.loads(approved_file.read_text()) if approved_file.exists() else []
+assert not {h['id'] for h in homes}&{h['id'] for h in approved}
+for h in approved:
+    assert h['id'] not in excluded and h['state']=='ME'
+    for photo in h['photos']:
+        filename=pathlib.Path(photo['file']).name
+        target=MEDIA/filename
+        if not target.exists():shutil.copyfile(SRC/'aggregator-sweep/images'/filename,target)
+        copied.add(filename)
+homes.extend(approved)
 target=DEST/'catalog.json';target.write_text(json.dumps(homes,ensure_ascii=False,indent=1)+'\n')
+(DEST/'aggregator-approved.json').write_text(json.dumps(approved,ensure_ascii=False,indent=1)+'\n')
 (DEST/'operator-catalog.json').write_text(json.dumps(operators,ensure_ascii=False,indent=1)+'\n')
 shutil.copyfile(SRC/'bad-websites.md',ROOT/'bad-websites.md')
 shutil.copyfile(SRC/'bad-websites.json',DEST/'bad-websites.json')
@@ -85,12 +97,12 @@ manifest=json.loads((SRC/'image-manifest.json').read_text())
 active_ids={h['id'] for h in homes}
 selected=[{'id':r['id'],'photos':[{k:p.get(k,'') for k in ['file','role','url','page','sha256','width','height']} for p in r['photos']],
  'logo':{k:r['logo'].get(k,'') for k in ['file','url','page','sha256']} if r.get('logo') else None} for r in manifest if r['id'] in active_ids]
-selected.extend({'id':h['id'],'photos':h['photos'],'logo':None} for h in operators)
+selected.extend({'id':h['id'],'photos':h['photos'],'logo':None} for h in operators+approved)
 (DEST/'photo-sources.json').write_text(json.dumps(selected,ensure_ascii=False,indent=1)+'\n')
 addresses=json.loads((SRC/'address-manifest.json').read_text())
-(DEST/'address-sources.json').write_text(json.dumps([{'id':r['id'],'address':{k:v for k,v in r['address'].items() if k!='cache'} if r['address'] else None,'type':r['address_type'],'status':r['status'],'notes':r['notes'],'checkedOn':r['checked_on']} for r in addresses if r['id'] in active_ids]+[{'id':h['id'],'address':h['address']} for h in operators],ensure_ascii=False,indent=1)+'\n')
+(DEST/'address-sources.json').write_text(json.dumps([{'id':r['id'],'address':{k:v for k,v in r['address'].items() if k!='cache'} if r['address'] else None,'type':r['address_type'],'status':r['status'],'notes':r['notes'],'checkedOn':r['checked_on']} for r in addresses if r['id'] in active_ids]+[{'id':h['id'],'address':h['address'],'contactPagesChecked':h.get('contactPagesChecked',[])} for h in operators+approved],ensure_ascii=False,indent=1)+'\n')
 statuses=json.loads((SRC/'collection-status.json').read_text())
-statuses.extend({'id':h['id'],'status':h['collectionStatus'],'missingRequiredFields':h['missingRequiredFields'],'propertyPhotoCount':len(h['photos']),'addressType':h['address']['type'],'descriptionStatus':h['descriptionStatus']} for h in operators)
+statuses.extend({'id':h['id'],'status':h['collectionStatus'],'missingRequiredFields':h['missingRequiredFields'],'propertyPhotoCount':len(h['photos']),'addressType':h['address']['type'],'descriptionStatus':h['descriptionStatus']} for h in operators+approved)
 (DEST/'collection-status.json').write_text(json.dumps(statuses,ensure_ascii=False,indent=1)+'\n')
-(DEST/'description-sources.json').write_text(json.dumps([json.loads(f.read_text()) for f in sorted((SRC/'logs/descriptions').glob('ME-*.json')) if f.stem in active_ids]+[{'id':h['id'],'description':h['description'],'sourceUrl':h['descriptionSource'],'status':h['descriptionStatus']} for h in operators],ensure_ascii=False,indent=1)+'\n')
+(DEST/'description-sources.json').write_text(json.dumps([json.loads(f.read_text()) for f in sorted((SRC/'logs/descriptions').glob('ME-*.json')) if f.stem in active_ids]+[{'id':h['id'],'description':h['description'],'sourceUrl':h['descriptionSource'],'status':h['descriptionStatus']} for h in operators+approved],ensure_ascii=False,indent=1)+'\n')
 print(json.dumps({'records':len(homes),'selectedMedia':len(copied),'source':str(target)}))

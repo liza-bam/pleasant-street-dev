@@ -59,7 +59,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0294",
@@ -118,7 +121,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0295",
@@ -183,7 +189,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0296",
@@ -242,14 +251,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0297",
   "name": "Houseboat ROAM in Lakeville, Maine",
   "url": "https://www.houfy.com/lodging/houseboat-roam-in-lakeville-maine/365870",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "The Floating Nomad",
   "discoverySource": "https://www.houfy.com/d/maine",
   "state": "ME",
   "town": "Springfield",
@@ -301,11 +313,33 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "actual mooring / arrival arrangements confirmed by operator"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://thefloatingnomad.com/roam/",
+  "identityEvidence": "The operator names ROAM and NOMAD individually and publishes its current Lakeville homeport, direct booking links and contact/inquiry form.",
+  "contactPagesChecked": [
+   "https://thefloatingnomad.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://thefloatingnomad.com/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "481 Fox Run",
+   "city": "Lakeville",
+   "state": "ME",
+   "postalCode": "04487",
+   "full": "481 Fox Run, Lakeville, ME 04487",
+   "sourceUrl": "https://thefloatingnomad.com/contact/",
+   "type": "Shore/homeport contact; actual mooring arranged by operator",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published shore/homeport contact, not a fixed houseboat mooring; confirm arrival with the operator."
+  },
+  "verifiedDescription": "Spend the night aboard ROAM on Junior Lake, with room for two, a kitchenette, private wet bath, and outdoor lounging areas. This seasonal houseboat stay uses an operator-arranged mooring near the Lakeville homeport.",
+  "verifiedDescriptionSource": "https://thefloatingnomad.com/roam/"
  },
  {
   "id": "ME-0298",
@@ -371,7 +405,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0299",
@@ -439,7 +476,10 @@
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/the-cabin-maine-experience-walk-downtown/152593"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0300",
@@ -499,7 +539,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0301",
@@ -562,7 +605,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sundayriverrentals.com",
+  "existingCatalogId": "ME-0186"
  },
  {
   "id": "ME-0302",
@@ -621,7 +668,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0303",
@@ -672,7 +722,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0304",
@@ -732,7 +785,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0305",
@@ -786,7 +842,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0306",
@@ -845,7 +904,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0307",
@@ -904,14 +966,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0308",
   "name": "Houseboat NOMAD in Lakeville, Maine",
   "url": "https://www.houfy.com/lodging/houseboat-nomad-in-lakeville-maine/359229",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "The Floating Nomad",
   "discoverySource": "https://www.houfy.com/d/maine",
   "state": "ME",
   "town": "Springfield",
@@ -960,17 +1025,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
+   "actual mooring / arrival arrangements confirmed by operator"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://thefloatingnomad.com/nomad/",
+  "identityEvidence": "The operator names ROAM and NOMAD individually and publishes its current Lakeville homeport, direct booking links and contact/inquiry form.",
+  "contactPagesChecked": [
+   "https://thefloatingnomad.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://thefloatingnomad.com/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "481 Fox Run",
+   "city": "Lakeville",
+   "state": "ME",
+   "postalCode": "04487",
+   "full": "481 Fox Run, Lakeville, ME 04487",
+   "sourceUrl": "https://thefloatingnomad.com/contact/",
+   "type": "Shore/homeport contact; actual mooring arranged by operator",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published shore/homeport contact, not a fixed houseboat mooring; confirm arrival with the operator."
+  },
+  "verifiedDescription": "NOMAD offers seasonal houseboat stays for four on Junior Lake. Guests sleep aboard a moored boat with communal sleeping quarters and a private bathroom; the Lakeville shore address is the homeport, rather than a fixed mooring.",
+  "verifiedDescriptionSource": "https://thefloatingnomad.com/nomad/"
  },
  {
   "id": "ME-0309",
   "name": "River Winds Farm & Estate - Austin House",
   "url": "https://www.houfy.com/lodging/river-winds-farm-and-estate-austin-house/427427",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "River Winds Farm & Estate",
   "discoverySource": "https://www.houfy.com/d/maine",
   "state": "ME",
   "town": "Saco",
@@ -1017,13 +1105,33 @@
     "height": 900
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://www.riverwindsfarmandestate.com/destination-properties/austin-house/",
+  "identityEvidence": "Official Austin House page explicitly offers vacation lodging with eight bedrooms and direct booking; contact page establishes the Saco estate address.",
+  "contactPagesChecked": [
+   "https://www.riverwindsfarmandestate.com/contact-us/"
+  ],
+  "operatorEvidenceUrl": "https://www.riverwindsfarmandestate.com/about-us/river-winds-farm/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "121 Louden Road",
+   "city": "Saco",
+   "state": "ME",
+   "postalCode": "04072",
+   "full": "121 Louden Road, Saco, ME 04072",
+   "sourceUrl": "https://www.riverwindsfarmandestate.com/destination-properties/austin-house/",
+   "type": "Shared estate / property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Gather at a historic Saco farmhouse with eight bedrooms, an indoor heated pool, and a kitchen equipped for group meals. Austin House sits within the River Winds estate, with lawns, a pond, and trails toward the river.",
+  "verifiedDescriptionSource": "https://www.riverwindsfarmandestate.com/destination-properties/austin-house/"
  },
  {
   "id": "ME-0310",
@@ -1083,7 +1191,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0311",
@@ -1145,7 +1256,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0312",
@@ -1208,7 +1322,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0313",
@@ -1274,7 +1391,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0314",
@@ -1342,7 +1462,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0315",
@@ -1403,7 +1526,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0316",
@@ -1472,14 +1598,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0317",
   "name": "Lakeshore Retreat",
   "url": "https://www.houfy.com/lodging/lakeshore-retreat/427406",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/maine",
   "state": "ME",
   "town": "Monson",
@@ -1537,18 +1666,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/330502",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "A two-bedroom Monson stay beside the water, with town amenities within walking distance. Dogs are welcome, and guests can access ATV and snowmobile routes from the property.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/330502"
  },
  {
   "id": "ME-0318",
   "name": "Bear's Den",
   "url": "https://www.houfy.com/lodging/bear's-den/427390",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -1597,18 +1748,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/280093",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "This Greenville studio combines a queen bed, compact dining area, and private bathroom with access to riding trails. The grill and outdoor seating are shared, and Red Cross Beach is about a mile away.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280093"
  },
  {
   "id": "ME-0319",
   "name": "Mason's Mountain View",
   "url": "https://www.houfy.com/lodging/mason's-mountain-view/427391",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -1657,18 +1830,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/280570",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Take in Moosehead Lake and Big Moose Mountain from the porch, then relax in a private hot tub. The cabin has direct riding-trail access and welcomes one pet within the operator's stated size limit.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280570"
  },
  {
   "id": "ME-0320",
   "name": "Moose Hollow Apartment",
   "url": "https://www.houfy.com/lodging/moose-hollow-apartment/427392",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -1717,18 +1912,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/281613",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Stay near downtown Greenville in an apartment with an electric fireplace and access to ATV and snowmobile routes. Outdoor seating and a grill are shared; Red Cross Beach is nearby.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/281613"
  },
  {
   "id": "ME-0321",
   "name": "Deer Run Apartment",
   "url": "https://www.houfy.com/lodging/deer-run-apartment/427395",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -1777,18 +1994,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/284198",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Deer Run is a two-bedroom apartment near Greenville's shops, restaurants, and waterfront. Guests have access to riding trails, a shared grill, and nearby Red Cross Beach.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/284198"
  },
  {
   "id": "ME-0322",
   "name": "WinterFell",
   "url": "https://www.houfy.com/lodging/winterfell/427356",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -1843,18 +2082,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/232559",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "WinterFell provides a wooded base for exploring the Moosehead region with pets. Riding routes begin at the property, while lake access and the deeded dock are a short walk or drive away.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232559"
  },
  {
   "id": "ME-0323",
   "name": "Wicked Moose Cabin",
   "url": "https://www.houfy.com/lodging/wicked-moose-cabin/427396",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Beaver Cove",
@@ -1909,18 +2170,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/301541",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Wicked Moose Cabin overlooks Moosehead Lake in Beaver Cove and accommodates groups of up to twelve. A dock, waterfront swimming access, hot tub, fireplace, and game room offer plenty to do at the property.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/301541"
  },
  {
   "id": "ME-0324",
   "name": "Mischief Maker",
   "url": "https://www.houfy.com/lodging/mischief-maker/427401",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -1975,18 +2258,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/325878",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Mischief Maker pairs a secluded Greenville woodland setting with mountain scenery and modern interiors. This pet-friendly cabin accommodates eight and connects directly to ATV and snowmobile trails.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/325878"
  },
  {
   "id": "ME-0325",
   "name": "West Cove Lower Left Apartment",
   "url": "https://www.houfy.com/lodging/west-cove-lower-left-apartment/427466",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2038,18 +2343,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/484845",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "A three-bedroom apartment with views across the lake and mountains. Waterfront access and a dock slip are provided through the Juniper Motel, rather than an exclusively private shoreline at the apartment.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/484845"
  },
  {
   "id": "ME-0326",
   "name": "Trails Edge",
   "url": "https://www.houfy.com/lodging/trails-edge/427360",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2098,18 +2425,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/232735",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Trails Edge offers a dog-friendly Greenville apartment close to shops and the lake. Direct access to ATV and snowmobile routes, plus trailer parking, makes it a practical base for riding trips.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232735"
  },
  {
   "id": "ME-0327",
   "name": "The Pritham House | Pet-Friendly, Public Beach & Dining",
   "url": "https://www.houfy.com/lodging/the-pritham-house-or-pet-friendly-public-beach-and-dining/427477",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2161,18 +2510,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/505120",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "The Pritham House accommodates eight near downtown Greenville, across from Red Cross Public Beach. Spend time on the porch or around the fire pit, with ATV and snowmobile routes accessible from the property.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/505120"
  },
  {
   "id": "ME-0328",
   "name": "Mystic Nights",
   "url": "https://www.houfy.com/lodging/mystic-nights/427409",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2230,18 +2601,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/347043",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Spread out over three levels at Mystic Nights, a Greenville cabin with a hot tub and dock access. Riding trails connect to the property, while downtown shops and restaurants are around ten minutes away.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/347043"
  },
  {
   "id": "ME-0329",
   "name": "Oasis on Wilson Pond*Waterfront*Boat launch*Pet Friendly",
   "url": "https://www.houfy.com/lodging/oasis-on-wilson-pond*waterfront*boat-launch*pet-friendly/427470",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2296,18 +2689,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/494624",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "This two-bedroom cabin sits on Wilson Pond at Sanders Point and welcomes pets. Lake access, a fire pit, a pizza oven, and outdoor space make it suited to relaxed days around the water.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/494624"
  },
  {
   "id": "ME-0330",
   "name": "Black Bear Cabin",
   "url": "https://www.houfy.com/lodging/black-bear-cabin/427358",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2362,18 +2777,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/232714",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Black Bear Cabin occupies a secluded two-acre setting with riding trails close to the driveway. Guests have a fire pit, grill, Wi-Fi, and heat-pump cooling, with pets welcome under the listing's rules.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232714"
  },
  {
   "id": "ME-0331",
   "name": "Burnt Jacket Lodge",
   "url": "https://www.houfy.com/lodging/burnt-jacket-lodge/427378",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2425,18 +2862,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/233037",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Burnt Jacket Lodge offers a large-group retreat on a private hundred-acre property overlooking Moosehead Lake. Its lake-facing hot tub, broad mountain views, and winter trail access complement the lodge's secluded setting.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/233037"
  },
  {
   "id": "ME-0332",
   "name": "*Lake/Mtn View*Hot Tub*Fireplace*Game Room*",
   "url": "https://www.houfy.com/lodging/*lakemtn-view*hot-tub*fireplace*game-room*/427388",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Greenville",
@@ -2491,18 +2950,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/279061",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Camp Fred is a log lodge with three bedrooms, additional sleeping space, and three bathrooms. A game room, hot tub, and views toward the lake and mountains provide options for time together indoors and out.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/279061"
  },
  {
   "id": "ME-0333",
   "name": "Hartford's Point Lodge Spacious Log Cabin *Perfect for families*",
   "url": "https://www.houfy.com/lodging/hartford's-point-lodge-spacious-log-cabin-*perfect-for-families*/427471",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "North Woods Maine Cabins",
   "discoverySource": "https://www.houfy.com/d/greenville-maine",
   "state": "ME",
   "town": "Piscataquis County",
@@ -2557,18 +3038,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://northwoodsmainecabins.holidayfuture.com/listings/495228",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://northwoodsmainecabins.holidayfuture.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "A three-bedroom log home on Hartford's Point in Greenville Junction, with a short path to its waterfront. Guests can enjoy the dock, fire pit, and Moosehead Lake shoreline; pets are welcome.",
+  "verifiedDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/495228"
  },
  {
   "id": "ME-0334",
   "name": "The Barnhaus | Unique 5-Star Experience | Luxe",
   "url": "https://www.houfy.com/lodging/the-barnhaus-unique-5-star-experience-luxe/117153",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Bridgton",
@@ -2623,20 +3126,42 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/the-barnhaus-unique-5-star-experience-hot-tub/152591"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/205268",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "The Barnhaus is a purpose-built vacation cabin on a quiet hillside near Moose Pond and Pleasant Mountain. Wood furnishings, bedroom televisions, and an outdoor hot tub make it a comfortable base between outings.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/205268"
  },
  {
   "id": "ME-0335",
   "name": "Bridgton Bungalow | Brand New, Central & Spacious",
   "url": "https://www.houfy.com/lodging/bridgton-bungalow-brand-new-central-spacious/117162",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Bridgton",
@@ -2688,20 +3213,42 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/bridgton-bungalow-brand-new-central-spacious/152599"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/222685",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "A modern Bridgton home with four bedrooms, three bathrooms, and open gathering space. A sauna, hot tub, fire pit, and outdoor cooking area offer ways to unwind after exploring nearby lakes or ski slopes.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/222685"
  },
  {
   "id": "ME-0336",
   "name": "Fowler Farmhouse |Downtown | Beach | Hot tub | Outdoor Oasis!",
   "url": "https://www.houfy.com/lodging/fowler-farmhouse-downtown-beach-hot-tub-outdoor-oasis/117178",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Bridgton",
@@ -2759,18 +3306,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/227399",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Stay in an 1860s farmhouse within walking distance of downtown Bridgton. Four bedrooms accommodate up to twelve, with a seasonal porch, backyard hot tub, and fire pit for gathering after a day out.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/227399"
  },
  {
   "id": "ME-0337",
   "name": "Long Lake Oasis | Private Lake Access + Views",
   "url": "https://www.houfy.com/lodging/long-lake-oasis-private-lake-access-views/117198",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Bridgton",
@@ -2825,20 +3394,42 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/long-lake-oasis-private-lake-access-views/152628"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/229378",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Long Lake Oasis combines two accommodations with seven bedrooms and four bathrooms for a group stay. Guests can gather on the porch or by the waterfront, where the listing includes dock access and a fire pit.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/229378"
  },
  {
   "id": "ME-0338",
   "name": "Pine Haven | Peaceful Nature Retreat on 10 Acres",
   "url": "https://www.houfy.com/lodging/pine-haven-peaceful-nature-retreat-on-10-acres/117252",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Sweden",
@@ -2893,13 +3484,35 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/pine-haven-peaceful-nature-retreat-on-10-acres/152666"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/274741",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Pine Haven offers a two-bedroom cabin on ten wooded acres in Sweden, with mountain scenery and Starlink internet. Separate porches, a patio, and a gazebo provide several places to relax outdoors.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/274741"
  },
  {
   "id": "ME-0339",
@@ -2959,14 +3572,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0340",
   "name": "The Mountain House | Hot Tub, Close to Moose Pond",
   "url": "https://www.houfy.com/lodging/the-mountain-house-hot-tub-close-to-moose-pond/152690",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Bridgton",
@@ -3021,20 +3637,42 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/the-mountain-house-hot-tub-close-to-moose-pond/127903"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/354244",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "This three-bedroom Bridgton home accommodates up to ten near Pleasant Mountain and Moose Pond. A wood stove, hot tub, and games including pool, air hockey, and table tennis provide entertainment between outdoor adventures.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/354244"
  },
  {
   "id": "ME-0341",
   "name": "MOOSE CABIN | 5-Star Maine Experience | Hot Tub",
   "url": "https://www.houfy.com/lodging/moose-cabin-5-star-maine-experience-hot-tub/152594",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Denmark",
@@ -3092,18 +3730,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/205653",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Moose Cabin sits among two and a half acres of woodland and offers a four-season retreat. Guests can settle beside the wood stove, play downstairs games, or use the backyard hot tub and fire pit.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/205653"
  },
  {
   "id": "ME-0342",
   "name": "Big Moose Lodge | Brand New, Pool and Lake Access",
   "url": "https://www.houfy.com/lodging/big-moose-lodge-brand-new-pool-and-lake-access/162127",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Bridgton",
@@ -3155,18 +3815,40 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/404923",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "A modern three-bedroom Bridgton house with a finished lower level and outdoor gathering space. The community's seasonal pool is walkable, while the private Moose Pond beach is a short drive away.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/404923"
  },
  {
   "id": "ME-0343",
   "name": "Fowler Farmhouse | Downtown | Beach | Hot tub +Bar",
   "url": "https://www.houfy.com/lodging/fowler-farmhouse-downtown-beach-hot-tub-bar/152613",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/bridgton-maine",
   "state": "ME",
   "town": "Bridgton",
@@ -3228,7 +3910,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Duplicate of verified lead",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/227399",
+  "samePropertyAs": "ME-0336",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted"
  },
  {
   "id": "ME-0349",
@@ -3300,7 +3992,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0350",
@@ -3360,14 +4055,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0351",
   "name": "White Mountain Dream Cabin | 4 Acres  + Hot Tub",
   "url": "https://www.houfy.com/lodging/white-mountain-dream-cabin-4-acres-hot-tub/117154",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/fryeburg-maine",
   "state": "ME",
   "town": "Fryeburg",
@@ -3419,13 +4117,35 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/white-mountain-dream-cabin-4-acres-hot-tub/152592"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/205638",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "A four-season cabin on four acres, with air conditioning and a hot tub available throughout the year. Its Fryeburg setting offers access to snowmobile trails and trips to Bridgton or North Conway.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/205638"
  },
  {
   "id": "ME-0352",
@@ -3497,14 +4217,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0353",
   "name": "Gorgeous Family Lakefront Cabin | Incredible Views",
   "url": "https://www.houfy.com/lodging/gorgeous-family-lakefront-cabin-incredible-views/117171",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/fryeburg-maine",
   "state": "ME",
   "town": "Fryeburg",
@@ -3556,20 +4279,42 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/gorgeous-family-lakefront-cabin-incredible-views/152606"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/225602",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "A lakefront cabin with space for family gatherings, water views, and a lawn for outdoor time. The property offers a quieter setting within driving distance of Bridgton, Pleasant Mountain, and North Conway.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/225602"
  },
  {
   "id": "ME-0354",
   "name": "The Bellemark | Lakefront Cabin + Incredible Views",
   "url": "https://www.houfy.com/lodging/the-bellemark-lakefront-cabin-incredible-views/117216",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/fryeburg-maine",
   "state": "ME",
   "town": "Fryeburg",
@@ -3624,20 +4369,42 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/the-bellemark-lakefront-cabin-incredible-views/152644"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/230724",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "The Bellemark is a Fryeburg log cabin beside the lake, with an open kitchen and living area for gathering. Enjoy water and mountain scenery from the porch or settle indoors by the fire.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/230724"
  },
  {
   "id": "ME-0355",
   "name": "October Farm | 1810 Farmhouse set on 30+ Acres",
   "url": "https://www.houfy.com/lodging/october-farm-1810-farmhouse-set-on-30-acres/117264",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/fryeburg-maine",
   "state": "ME",
   "town": "Fryeburg",
@@ -3686,11 +4453,33 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/287639",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "October Farm is an 1810 farmhouse on thirty private acres in Fryeburg. Three bedrooms, a screened porch, a nature path, and a deck for outdoor meals combine historic surroundings with space to spread out.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/287639"
  },
  {
   "id": "ME-0356",
@@ -3758,14 +4547,17 @@
   "alternateListingUrls": [
    "https://www.houfy.com/lodging/lovewell-lodge-cozy-cabin-w-firepit-and-kayaks/130706"
   ],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0358",
   "name": "Dreamland | Luxe Waterfront Villa, Hot tub + Sauna",
   "url": "https://www.houfy.com/lodging/dreamland-luxe-waterfront-villa-hot-tub-sauna/152687",
   "platform": "Houfy",
-  "operator": "Unknown",
+  "operator": "Birch Rentals",
   "discoverySource": "https://www.houfy.com/d/fryeburg-maine",
   "state": "ME",
   "town": "Fryeburg",
@@ -3826,11 +4618,33 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://book.birchrentals.com/listings/337167",
+  "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
+  "contactPagesChecked": [
+   "https://www.birchrentals.com/contact"
+  ],
+  "operatorEvidenceUrl": "https://www.birchrentals.com/about",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Dreamland overlooks Lovewell Pond in Fryeburg, with a sandy shoreline and private waterfront. The three-bedroom home accommodates ten and includes a hot tub, infrared sauna, pool table, and well-equipped kitchen.",
+  "verifiedDescriptionSource": "https://book.birchrentals.com/listings/337167"
  },
  {
   "id": "ME-0363",
@@ -3898,11 +4712,34 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed",
+   "Property description says 3.5 baths; listing schema says 4. Bathroom count left Unknown."
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://www.justhappyhomes.com/the-retreat-in-bethel-maine",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://www.justhappyhomes.com/contact-us"
+  ],
+  "operatorEvidenceUrl": "https://www.justhappyhomes.com/about-us",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "The Retreat is a five-bedroom home on a private wooded road near Bethel and the area's ski mountains. Several gathering spaces give families and friends room to spend time together.",
+  "verifiedDescriptionSource": "https://www.justhappyhomes.com/the-retreat-in-bethel-maine"
  },
  {
   "id": "ME-0364",
@@ -3968,13 +4805,33 @@
     "originalHeight": 1080
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/carriage-road-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "6 Wetlands Way",
+   "city": "Seal Harbor",
+   "state": "ME",
+   "postalCode": "Unknown",
+   "full": "6 Wetlands Way, Seal Harbor, ME",
+   "sourceUrl": "https://acadiavacationrentals.com/carriage-road-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Carriage Road Cottage accommodates twelve in five bedrooms, with Acadia's carriage-road network accessible from the property. It offers a base for walking, cycling, and exploring the park around Seal Harbor.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/carriage-road-cottage/"
  },
  {
   "id": "ME-0365",
@@ -4033,11 +4890,33 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/quietside-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Quietside Cottage has three bedrooms and space for seven on a residential street in Southwest Harbor. Guests can walk to Main Street and drive to nearby Acadia trails and attractions.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/quietside-cottage/"
  },
  {
   "id": "ME-0366",
@@ -4097,13 +4976,33 @@
     "height": 768
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/acadia-sound-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "275 Sound Dr",
+   "city": "Mount Desert",
+   "state": "ME",
+   "postalCode": "Unknown",
+   "full": "275 Sound Dr, Mount Desert, ME",
+   "sourceUrl": "https://acadiavacationrentals.com/acadia-sound-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Acadia Sound Cottage accommodates seven across two bedrooms near the national park's walking and cycling routes. After exploring Mount Desert Island, guests can return to a deck with a fire pit.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/acadia-sound-cottage/"
  },
  {
   "id": "ME-0367",
@@ -4169,13 +5068,33 @@
     "originalHeight": 1893
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/pine-meadow-hideaway/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "100 Bass Harbor Rd",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postalCode": "Unknown",
+   "full": "100 Bass Harbor Rd, Southwest Harbor, ME",
+   "sourceUrl": "https://acadiavacationrentals.com/pine-meadow-hideaway/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Pine Meadow Hideaway sleeps ten in three bedrooms amid eight acres of pine woodland beside Acadia National Park. The property offers a quieter setting near the Ship Harbor and Wonderland trail areas.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/pine-meadow-hideaway/"
  },
  {
   "id": "ME-0368",
@@ -4241,13 +5160,33 @@
     "originalHeight": 1365
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/blueberry-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "24 Forest Ave",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postalCode": "Unknown",
+   "full": "24 Forest Ave, Southwest Harbor, ME",
+   "sourceUrl": "https://acadiavacationrentals.com/blueberry-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Blueberry Cottage offers a renovated, three-bedroom base for up to ten in Southwest Harbor. Main Street is close by, with Acadia's hiking routes and swimming destinations a drive away.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/blueberry-cottage/"
  },
  {
   "id": "ME-0369",
@@ -4313,13 +5252,33 @@
     "originalHeight": 1365
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/bayside-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "120 Mountain View Dr",
+   "city": "Trenton",
+   "state": "ME",
+   "postalCode": "Unknown",
+   "full": "120 Mountain View Dr, Trenton, ME",
+   "sourceUrl": "https://acadiavacationrentals.com/bayside-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Bayside Cottage accommodates eight in four bedrooms on private waterfront in Trenton. Guests can enjoy sunrise scenery toward Acadia's mountains and take day trips onto Mount Desert Island.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/bayside-cottage/"
  },
  {
   "id": "ME-0370",
@@ -4385,13 +5344,33 @@
     "originalHeight": 2028
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/harbor-watch-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "466 Main St",
+   "city": "Southwest Harbor",
+   "state": "ME",
+   "postalCode": "Unknown",
+   "full": "466 Main St, Southwest Harbor, ME",
+   "sourceUrl": "https://acadiavacationrentals.com/harbor-watch-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Harbor Watch Cottage provides three bedrooms for six guests near downtown Southwest Harbor. Shops and restaurants are walkable, with Bass Harbor Lighthouse and the national park within driving reach.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/harbor-watch-cottage/"
  },
  {
   "id": "ME-0371",
@@ -4445,13 +5424,33 @@
     "height": 800
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/acadia-trailside-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "41 Jordan Pond Rd",
+   "city": "Seal Harbor",
+   "state": "ME",
+   "postalCode": "Unknown",
+   "full": "41 Jordan Pond Rd, Seal Harbor, ME",
+   "sourceUrl": "https://acadiavacationrentals.com/acadia-trailside-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Acadia Access Cottage has six bedrooms and accommodates groups of up to twenty-one in Seal Harbor. Alongside nearby beach and carriage-road access, guests have a games room, gym, and fire pit.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/acadia-trailside-cottage/"
  },
  {
   "id": "ME-0372",
@@ -4519,11 +5518,33 @@
   ],
   "collectionStatus": "Incomplete",
   "missingRequiredFields": [
-   "address",
-   "independent host website / direct inquiry verification"
+   "rental street address not publicly disclosed"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://acadiavacationrentals.com/seal-harbor-cottage/",
+  "identityEvidence": "Savvy names the operator; matching official property name/capacity and Maine location on that operator’s site. Historical Carriage Road Cabin / Harbor Watch names are retained as aliases.",
+  "contactPagesChecked": [
+   "https://acadiavacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://acadiavacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "Unknown",
+   "city": "Unknown",
+   "state": "Unknown",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "Unknown",
+   "type": "Unknown",
+   "status": "Not found publicly",
+   "checkedOn": "2026-10-25",
+   "notes": "Official property and contact pages checked. Rental street address not publicly disclosed; not inferred from the map."
+  },
+  "verifiedDescription": "Seal Harbor Cottage accommodates eighteen in six bedrooms near Acadia's carriage roads. Its location suits groups planning park walks, cycling trips, and visits to Seal Harbor Beach or Bar Harbor.",
+  "verifiedDescriptionSource": "https://acadiavacationrentals.com/seal-harbor-cottage/"
  },
  {
   "id": "ME-0373",
@@ -4575,14 +5596,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0374",
   "name": "Family Tides",
   "url": "https://www.findrentals.com/bayley/p148418",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -4629,19 +5653,40 @@
     "height": 430
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/family-tides/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "36 King Street",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "36 King Street, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/family-tides/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Family Tides has five bedrooms, several dining spaces, and an updated kitchen for group meals. A ground-floor main suite and additional upstairs recreation space give larger groups room to gather and spread out.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/family-tides/"
  },
  {
   "id": "ME-0375",
   "name": "The Hidden Cove",
   "url": "https://www.findrentals.com/bayley/p164115",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -4688,19 +5733,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/the-hidden-cove/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "48a Jones Creek",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "48a Jones Creek, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/the-hidden-cove/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "The Hidden Cove accommodates four near Pine Point Beach, overlooking the Scarborough marsh. A sun porch, laundry facilities, outdoor space, and off-street parking support a relaxed coastal stay.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/the-hidden-cove/"
  },
  {
   "id": "ME-0376",
   "name": "Niblet Cottage",
   "url": "https://www.findrentals.com/bayley/p148414",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -4747,19 +5813,40 @@
     "height": 431
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/niblet-cottage/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "2a Sea Rose Street",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "2a Sea Rose Street, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/niblet-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Niblet Cottage offers room for four near Pine Point Beach, with an updated kitchen and bathroom. Outdoor cooking and dining space adds to the seaside setting; the neighboring Hank's Hideaway can be booked separately for a larger group.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/niblet-cottage/"
  },
  {
   "id": "ME-0377",
   "name": "Gull's Nest",
   "url": "https://www.findrentals.com/bayley/p172118",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -4806,19 +5893,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/gulls-nest/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "64 Saco Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "64 Saco Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/gulls-nest/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Gull's Nest is a pet-friendly, one-bedroom stay about a mile from Old Orchard Beach. A queen bed and bunk bed provide sleeping options, while a deck and laundry facilities add convenience.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/gulls-nest/"
  },
  {
   "id": "ME-0378",
   "name": "Oceanview Oasis",
   "url": "https://www.findrentals.com/bayley/p164109",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -4865,12 +5973,33 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/oceanview-oasis/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "1 Cleaves Street",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "1 Cleaves Street, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/oceanview-oasis/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Oceanview Oasis puts guests close to Old Orchard Beach's sand, pier, restaurants, and amusement attractions. The vacation rental also offers access to a shared indoor pool for time away from the shoreline.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/oceanview-oasis/"
  },
  {
   "id": "ME-0379",
@@ -4929,7 +6058,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Conflicting location data",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Operator structured address region al contradicts the Maine discovery/location evidence. Held for review; not promoted."
  },
  {
   "id": "ME-0380",
@@ -4981,14 +6113,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0381",
   "name": "Beachwood Cottage",
   "url": "https://www.findrentals.com/bayley/p164097",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -5035,19 +6170,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/beachwood-cottage/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "13 East Grand Avenue",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "13 East Grand Avenue, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/beachwood-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Beachwood Cottage accommodates eight in three bedrooms near Pine Point Beach. An open living area and sun porch provide gathering space, with coastal restaurants and Old Orchard Beach within reach.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/beachwood-cottage/"
  },
  {
   "id": "ME-0382",
   "name": "Beachside Abode 1A",
   "url": "https://www.findrentals.com/bayley/p148427",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5094,19 +6250,40 @@
     "height": 512
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/beachside-abode-1a/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "21 Union Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "21 Union Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/beachside-abode-1a/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "A ground-floor, two-bedroom condo near the beach and Old Orchard's downtown attractions. The second bedroom includes bunks with a full-sized lower bed; this unit has one bathroom.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/beachside-abode-1a/"
  },
  {
   "id": "ME-0383",
   "name": "Hank's Hideaway",
   "url": "https://www.findrentals.com/bayley/p148407",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -5153,19 +6330,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/hanks-hideaway/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "2 SEAROSE LANE",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "2 SEAROSE LANE, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/hanks-hideaway/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Hank's Hideaway has four bedrooms, two bathrooms, and two living spaces for a family beach trip. Guests can walk to the shore and nearby businesses or use the trolley to reach Old Orchard Beach.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/hanks-hideaway/"
  },
  {
   "id": "ME-0384",
   "name": "Sand Life #1",
   "url": "https://www.findrentals.com/bayley/p172614",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5212,19 +6410,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/sand-life-1/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "12 Camp Comfort Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "12 Camp Comfort Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/sand-life-1/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Sand Life #1 is a duplex accommodation a few houses back from Old Orchard Beach. It offers an indoor gathering space close to the shore; neighboring units can be reserved separately when more space is needed.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/sand-life-1/"
  },
  {
   "id": "ME-0385",
   "name": "Sandy Beach at Port",
   "url": "https://www.findrentals.com/bayley/p148416",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5271,19 +6490,40 @@
     "height": 512
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/sandy-beach-at-port/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "3 Durocher ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "3 Durocher ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/sandy-beach-at-port/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Sandy Beach at Port accommodates four with water views through its bay windows. A private access channel leads toward the beach, and the neighboring Starboard accommodation offers a separate option for larger parties.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/sandy-beach-at-port/"
  },
  {
   "id": "ME-0386",
   "name": "The Lookout",
   "url": "https://www.findrentals.com/bayley/p172119",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Saco",
@@ -5330,19 +6570,40 @@
     "height": 512
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/the-lookout/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "27 Sunrise Ave",
+   "city": "Saco",
+   "state": "ME",
+   "postalCode": "04072",
+   "full": "27 Sunrise Ave, Saco, ME 04072",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/the-lookout/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "The Lookout is a four-bedroom coastal home with ocean scenery, a sunroom, and outdoor gathering space. Guests can relax in the backyard or on the deck between beach outings.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/the-lookout/"
  },
  {
   "id": "ME-0387",
   "name": "Salt Life #2",
   "url": "https://www.findrentals.com/bayley/p172613",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5378,22 +6639,52 @@
     "sha256": "5ec05c638e0a23b497af82538a37d16f9922fa0c5a70c75d697333f7fbce2b5c",
     "width": 768,
     "height": 432
+   },
+   {
+    "file": "images/ME-0387-002.jpg",
+    "role": "photo",
+    "url": "https://bayleyvacationrentals.com/wp-content/uploads/2024/02/550fa914-2901-4ae7-8136-cd2cf991454c.jpg",
+    "page": "https://bayleyvacationrentals.com/property/salt-life-2/",
+    "sha256": "f599728fac9d96b8922ef6a75e3f9d4a64d633235a5aa0fde5fc1a932e02535b",
+    "width": 1000,
+    "height": 562,
+    "original": "cache/photo-originals/f599728fac9d96b8922ef6a75e3f9d4a64d633235a5aa0fde5fc1a932e02535b.jpg"
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 distinct required)",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/salt-life-2/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "10 Camp Comfort Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "10 Camp Comfort Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/salt-life-2/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Salt Life #2 offers a beach-neighborhood stay with a kitchen, living area, and bedrooms close to the shore. Additional neighboring units can be booked separately for groups that need more room.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/salt-life-2/"
  },
  {
   "id": "ME-0388",
   "name": "Coastal Life Beach House",
   "url": "https://www.findrentals.com/bayley/p180638",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5440,12 +6731,33 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/coastal-life-beach-house/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "7 Myrtle Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "7 Myrtle Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/coastal-life-beach-house/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Coastal Life Beach House provides a bright sun porch and indoor space for a coastal getaway. Its setting offers access to nearby beach-area attractions while keeping a place to retreat between outings.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/coastal-life-beach-house/"
  },
  {
   "id": "ME-0389",
@@ -5497,14 +6809,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0390",
   "name": "Sandy Beach at Star Board",
   "url": "https://www.findrentals.com/bayley/p148417",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5551,19 +6866,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/sandy-beach-at-star-board/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "3 Durocher ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "3 Durocher ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/sandy-beach-at-star-board/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Sandy Beach at Starboard has room for four and beach access through a private channel. Downtown Old Orchard Beach is nearby, and the Port accommodation can be reserved separately for additional guests.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/sandy-beach-at-star-board/"
  },
  {
   "id": "ME-0391",
   "name": "On Par for the Beach",
   "url": "https://www.findrentals.com/bayley/p166575",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5610,12 +6946,33 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/on-par-for-the-beach/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "9 Woods Lane",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "9 Woods Lane, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/on-par-for-the-beach/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "On Par for the Beach sits within Dunegrass Country Club, with a deck for relaxing outdoors. The listing highlights nearby golf facilities and dining, plus a roughly mile-long walk to Old Orchard Beach.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/on-par-for-the-beach/"
  },
  {
   "id": "ME-0392",
@@ -5667,14 +7024,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0393",
   "name": "Beachside Abode 2B",
   "url": "https://www.findrentals.com/bayley/p148421",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5721,19 +7081,40 @@
     "height": 512
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/beachside-abode-2b/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "21 Union Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "21 Union Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/beachside-abode-2b/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "This upstairs, two-bedroom condo has an open kitchen and living area leading to a private balcony. Guests are close to the beach and a short distance from Old Orchard's pier and amusements.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/beachside-abode-2b/"
  },
  {
   "id": "ME-0394",
   "name": "Cottages by the Sea #1",
   "url": "https://www.findrentals.com/bayley/p164098",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5780,19 +7161,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-1/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "195 East Grand Avenue",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "195 East Grand Avenue, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-1/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Cottages by the Sea #1 offers a one-bedroom stay with two queen beds and shared private-beach access. The open living and dining area has ocean scenery, with downtown Old Orchard Beach about a mile away.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-1/"
  },
  {
   "id": "ME-0395",
   "name": "Nautical Point",
   "url": "https://www.findrentals.com/bayley/p148413",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -5839,12 +7241,33 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/nautical-point/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "2 Tunis Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "2 Tunis Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/nautical-point/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Nautical Point spreads its accommodation across several levels, including a ground-floor bedroom with an en-suite bathroom. Upstairs gathering spaces, a deck, and outdoor dining take advantage of the coastal views.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/nautical-point/"
  },
  {
   "id": "ME-0396",
@@ -5896,14 +7319,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0397",
   "name": "Driftwood Cottage",
   "url": "https://www.findrentals.com/bayley/p165919",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -5950,19 +7376,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/driftwood-cottage/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "36 East Grand Avenue",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "36 East Grand Avenue, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/driftwood-cottage/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Driftwood Cottage has four bedrooms across two levels near the beach. A furnished seasonal porch, two bathrooms, and a fenced backyard provide space for family time indoors and outside.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/driftwood-cottage/"
  },
  {
   "id": "ME-0398",
   "name": "Dancing Queen",
   "url": "https://www.findrentals.com/bayley/p164102",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6009,19 +7456,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/dancing-queen/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "15 fort hill ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "15 fort hill ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/dancing-queen/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Dancing Queen is a four-bedroom Maine house near Old Orchard Beach with a fenced yard and updated appliances. Dogs are welcome under the property's rules, and events require prior approval.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/dancing-queen/"
  },
  {
   "id": "ME-0399",
   "name": "A Wave from it All",
   "url": "https://www.findrentals.com/bayley/p164095",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -6068,19 +7536,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/a-wave-from-it-all/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "50 Jones Creek Drive",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "50 Jones Creek Drive, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/a-wave-from-it-all/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "A Wave from it All has four bedrooms and three bathrooms beside Pine Point Marsh. Several decks and a yard offer marsh views, while the beach is a short walk from the property.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/a-wave-from-it-all/"
  },
  {
   "id": "ME-0400",
   "name": "Blue Doors by the Sea",
   "url": "https://www.findrentals.com/bayley/p148405",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -6116,22 +7605,52 @@
     "sha256": "3d9e0c1af244b9e87f1b32de1be7b2d12fa48a8e3a4198f75bf01ea7b39fff5d",
     "width": 683,
     "height": 512
+   },
+   {
+    "file": "images/ME-0400-002.jpg",
+    "role": "photo",
+    "url": "https://bayleyvacationrentals.com/wp-content/uploads/2021/11/a2eb90be-9ca5-4b26-9181-0602eb93939f.jpg",
+    "page": "https://bayleyvacationrentals.com/property/blue-doors-by-the-sea/",
+    "sha256": "3ffa18b29d1e4d564424434c3ce622ecc2e583a7972e017baf7adb6b21abb57e",
+    "width": 1000,
+    "height": 562,
+    "original": "cache/photo-originals/3ffa18b29d1e4d564424434c3ce622ecc2e583a7972e017baf7adb6b21abb57e.jpg"
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 distinct required)",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/blue-doors-by-the-sea/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "3 Lane by the Sea",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "3 Lane by the Sea, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/blue-doors-by-the-sea/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Blue Doors by the Sea is arranged for multigenerational groups, with a ground-floor bedroom and an in-law unit. Grand Beach is within walking reach, and guests can cook indoors or use the outdoor grill.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/blue-doors-by-the-sea/"
  },
  {
   "id": "ME-0401",
   "name": "Knotty Nauti",
   "url": "https://www.findrentals.com/bayley/p148408",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -6178,19 +7697,40 @@
     "height": 512
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/knotty-nauti/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "76 EAST GRAND AVE",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "76 EAST GRAND AVE, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/knotty-nauti/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Knotty Nauti combines a wood-finished cottage interior with a sunroom overlooking the ocean. Beach access, an outdoor rinse-off shower, and nearby trolley service support days around Old Orchard Beach.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/knotty-nauti/"
  },
  {
   "id": "ME-0402",
   "name": "Beachside Abode 2A",
   "url": "https://www.findrentals.com/bayley/p148426",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6237,19 +7777,40 @@
     "height": 512
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/beachside-abode-2a/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "21 Union Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "21 Union Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/beachside-abode-2a/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "An upstairs, two-bedroom condo with a private balcony and open kitchen-living space. The second room has a bunk bed, and guests can walk to the beach and downtown Old Orchard attractions.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/beachside-abode-2a/"
  },
  {
   "id": "ME-0403",
   "name": "Dream House",
   "url": "https://www.findrentals.com/bayley/p187420",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6296,19 +7857,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/dream-house/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "6 Myrtle Avenue",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "6 Myrtle Avenue, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/dream-house/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Dream House offers three bedrooms in a residential neighborhood about half a mile from the beach. Guests can walk toward Old Orchard's restaurants, shops, and entertainment, then return to a quieter setting.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/dream-house/"
  },
  {
   "id": "ME-0404",
   "name": "Cottages By The Sea #2",
   "url": "https://www.findrentals.com/bayley/p164099",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6355,19 +7937,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-2/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "195 East Grand Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "195 East Grand Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-2/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Cottages by the Sea #2 is intended for two guests near the shoreline. Ocean views and access to the property's private beach make it a compact base for a coastal stay.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-2/"
  },
  {
   "id": "ME-0405",
   "name": "The Cove",
   "url": "https://www.findrentals.com/bayley/p164114",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -6414,19 +8017,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/the-cove/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "48 Jones Creek Drive",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "48 Jones Creek Drive, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/the-cove/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "The Cove has updated indoor gathering spaces and a deck with outdoor dining and grilling facilities. Guests can walk toward Pine Point Beach, restaurants, and trolley stops; a neighboring property is separately available for larger groups.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/the-cove/"
  },
  {
   "id": "ME-0406",
   "name": "Grand Victorian #403",
   "url": "https://www.findrentals.com/bayley/p164104",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6473,19 +8097,40 @@
     "height": 431
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/grand-victorian-403/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "1 East Grand Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "1 East Grand Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/grand-victorian-403/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Grand Victorian #403 is an ocean-view condo in central Old Orchard Beach. Guests have beach access, a kitchen, climate-controlled indoor space, and use of a communal indoor pool.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/grand-victorian-403/"
  },
  {
   "id": "ME-0407",
   "name": "Salty Dolphin",
   "url": "https://www.findrentals.com/bayley/p185528",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -6532,19 +8177,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/salty-dolphin/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "17 Driftwood Lane",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074`",
+   "full": "17 Driftwood Lane, Scarborough, ME 04074`",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/salty-dolphin/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Salty Dolphin combines a three-bedroom main home with a separate one-bedroom in-law space in Pine Point. A backyard and two outdoor showers provide useful space after trips to the beach.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/salty-dolphin/"
  },
  {
   "id": "ME-0408",
   "name": "A Shore Thing",
   "url": "https://www.findrentals.com/bayley/p178829",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Scarborough",
@@ -6594,19 +8260,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/a-shore-thing/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "22 King St",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "22 King St, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/a-shore-thing/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "A Shore Thing offers a recently introduced coastal rental with a kitchen and comfortable indoor gathering space. It provides a place to cook and unwind between outings around the beach area.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/a-shore-thing/"
  },
  {
   "id": "ME-0409",
   "name": "Sand Life #2",
   "url": "https://www.findrentals.com/bayley/p172615",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6653,19 +8340,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/sand-life-2/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "12 Camp Comfort AVe",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "12 Camp Comfort AVe, Old Orchard Beach, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/sand-life-2/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Sand Life #2 is a duplex accommodation near the beach with its own roof deck overlooking the ocean. Neighboring units are available as separate reservations for groups needing additional accommodation.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/sand-life-2/"
  },
  {
   "id": "ME-0410",
   "name": "Tide & Timber",
   "url": "https://www.findrentals.com/bayley/p180639",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6712,19 +8420,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/tidetimber/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "42 Evergreen",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "42 Evergreen, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/tidetimber/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Tide & Timber has two bedrooms, a kitchen, and living space for a smaller group or couple. The property offers a base for visiting Old Orchard Beach's shops, restaurants, and attractions.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/tidetimber/"
  },
  {
   "id": "ME-0411",
   "name": "Salt Life #1",
   "url": "https://www.findrentals.com/bayley/p172612",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6760,15 +8489,45 @@
     "sha256": "745ea5f4fc6c8934128492ba11c44859db547280d3db372283a926c360d9aca2",
     "width": 768,
     "height": 432
+   },
+   {
+    "file": "images/ME-0411-002.jpg",
+    "role": "photo",
+    "url": "https://bayleyvacationrentals.com/wp-content/uploads/2024/02/31050b2e-d05a-45b6-b23b-b777394ab71a.jpeg",
+    "page": "https://bayleyvacationrentals.com/property/salt-life-1/",
+    "sha256": "a475cba75029ef35056007396e5f6e3f6d7228527b11150aac27780774cc6dc1",
+    "width": 1000,
+    "height": 563,
+    "original": "cache/photo-originals/a475cba75029ef35056007396e5f6e3f6d7228527b11150aac27780774cc6dc1.jpg"
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 distinct required)",
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/salt-life-1/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "10 Camp Comfort",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "10 Camp Comfort, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/salt-life-1/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Salt Life #1 has four bedrooms and a bathroom a few houses from the beach. Guests can use the kitchen, grill, and deck; neighboring units are separately bookable for larger parties.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/salt-life-1/"
  },
  {
   "id": "ME-0412",
@@ -6820,7 +8579,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0413",
@@ -6880,14 +8642,17 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Unresolved direct website",
+  "verificationCheckedOn": "2026-10-25",
+  "verificationNotes": "Not promoted. No unique verified operator property page found in this pass; direct-link failures and missing facts remain recorded."
  },
  {
   "id": "ME-0414",
   "name": "Cottages by the Sea #3",
   "url": "https://www.findrentals.com/bayley/p164100",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -6934,19 +8699,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-3/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "195 East Grand Avenue",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "195 East Grand Avenue, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-3/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Cottages by the Sea #3 includes a kitchen, living space, and laundry facilities downstairs. Upstairs bedrooms include an ocean-view queen room with its own bathroom, with downtown Old Orchard Beach around a mile away.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-3/"
  },
  {
   "id": "ME-0415",
   "name": "Sea Breeze",
   "url": "https://www.findrentals.com/bayley/p148429",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610?page=2",
   "state": "ME",
   "town": "Scarborough",
@@ -6993,19 +8779,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/sea-breeze/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "3 Claudia Way",
+   "city": "Scarborough",
+   "state": "ME",
+   "postalCode": "04074",
+   "full": "3 Claudia Way, Scarborough, ME 04074",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/sea-breeze/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Sea Breeze offers multiple gathering spaces and two decks near Pine Point Beach. Ocean scenery and access to nearby trolley service make it suited to a family coastal trip.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/sea-breeze/"
  },
  {
   "id": "ME-0416",
   "name": "Sunshine Daydream",
   "url": "https://www.findrentals.com/bayley/p177451",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610?page=2",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -7052,19 +8859,40 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/beachy-keen/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "5 Washington Ave",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "5 Washington Ave, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/beachy-keen/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Sunshine Daydream has five bedrooms and a sizable backyard about half a mile from Old Orchard Beach. The property offers room for a larger group to gather between shoreline visits and local outings.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/beachy-keen/"
  },
  {
   "id": "ME-0417",
   "name": "Nautical View",
   "url": "https://www.findrentals.com/bayley/p148412",
   "platform": "Find Rentals",
-  "operator": "Unknown",
+  "operator": "Bayley Vacation Rentals",
   "discoverySource": "https://www.findrentals.com/vacation-rentals/united-states/maine/l1956610?page=2",
   "state": "ME",
   "town": "Old Orchard Beach",
@@ -7111,12 +8939,33 @@
     "height": 432
    }
   ],
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "independent host website / direct inquiry verification"
-  ],
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Verified operator property",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://bayleyvacationrentals.com/property/nautical-view/",
+  "identityEvidence": "Aggregator explicitly links this operator-controlled property page; published property name and Maine location agree.",
+  "contactPagesChecked": [
+   "https://bayleyvacationrentals.com/contact/"
+  ],
+  "operatorEvidenceUrl": "https://bayleyvacationrentals.com/about/",
+  "bookingMethod": "Public operator booking page and/or published direct phone/email inquiry; no inquiry submitted",
+  "officialAddress": {
+   "street": "4 TUNIS AVENUE",
+   "city": "Old Orchard Beach",
+   "state": "ME",
+   "postalCode": "04064",
+   "full": "4 TUNIS AVENUE, Old Orchard Beach, ME 04064",
+   "sourceUrl": "https://bayleyvacationrentals.com/property/nautical-view/",
+   "type": "Property address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-25",
+   "notes": "Published by the operator for this property; operator contact/office address is recorded separately."
+  },
+  "verifiedDescription": "Nautical View accommodates four near the beach, with a kitchen, central air conditioning, and laundry facilities. A large deck provides outdoor space for enjoying the coastal setting.",
+  "verifiedDescriptionSource": "https://bayleyvacationrentals.com/property/nautical-view/"
  },
  {
   "id": "ME-0419",
@@ -7175,7 +9024,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=461",
+  "existingCatalogId": "ME-0559"
  },
  {
   "id": "ME-0420",
@@ -7234,7 +9087,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=253",
+  "existingCatalogId": "ME-0516"
  },
  {
   "id": "ME-0421",
@@ -7293,7 +9150,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=320",
+  "existingCatalogId": "ME-0527"
  },
  {
   "id": "ME-0422",
@@ -7352,7 +9213,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=311",
+  "existingCatalogId": "ME-0525"
  },
  {
   "id": "ME-0423",
@@ -7411,7 +9276,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=438",
+  "existingCatalogId": "ME-0555"
  },
  {
   "id": "ME-0424",
@@ -7470,7 +9339,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=102",
+  "existingCatalogId": "ME-0497"
  },
  {
   "id": "ME-0425",
@@ -7529,7 +9402,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=171",
+  "existingCatalogId": "ME-0507"
  },
  {
   "id": "ME-0426",
@@ -7588,7 +9465,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=105",
+  "existingCatalogId": "ME-0498"
  },
  {
   "id": "ME-0427",
@@ -7647,7 +9528,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=330",
+  "existingCatalogId": "ME-0531"
  },
  {
   "id": "ME-0428",
@@ -7706,7 +9591,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=452",
+  "existingCatalogId": "ME-0557"
  },
  {
   "id": "ME-0429",
@@ -7765,7 +9654,11 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=108",
+  "existingCatalogId": "ME-0499"
  },
  {
   "id": "ME-0430",
@@ -7824,6 +9717,10 @@
    "independent host website / direct inquiry verification"
   ],
   "alternateListingUrls": [],
-  "photoReview": "Reviewed"
+  "photoReview": "Reviewed",
+  "qualificationStatus": "Already in active catalog",
+  "verificationCheckedOn": "2026-10-25",
+  "directSiteUrl": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=423",
+  "existingCatalogId": "ME-0552"
  }
 ]

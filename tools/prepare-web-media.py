@@ -13,6 +13,7 @@ old=json.loads(manifest.read_text()) if manifest.exists() else {}
 paths=[p for p in (ROOT/'images').glob('ME-*') if p.name[3:7].isdigit() and int(p.name[3:7])>=293 and '-card.' not in p.name and '-logo.' not in p.name]
 def resize(path):
     raw=path.read_bytes();before=hashlib.sha256(raw).hexdigest()
+    if old.get(path.name,{}).get('sha256')==before:return None
     with Image.open(io.BytesIO(raw)) as img:
         img=ImageOps.exif_transpose(img);w,h=img.size
         if len(raw)<=400_000 and max(w,h)<=1800:return None
@@ -35,7 +36,7 @@ def update_photo(p):
     value=old.get(pathlib.Path(p.get('file','')).name)
     if value:
         for k in ['originalSha256','originalWidth','originalHeight','sha256','width','height']:p[k]=value[k]
-for name in ['catalog.json','operator-catalog.json','photo-sources.json','aggregator-research.json']:
+for name in ['catalog.json','operator-catalog.json','aggregator-approved.json','photo-sources.json','aggregator-research.json']:
     target=SOURCE/name;records=json.loads(target.read_text())
     for record in records:
         for p in record.get('photos',[]):update_photo(p)
