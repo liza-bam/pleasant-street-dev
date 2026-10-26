@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Read the existing demo websites into the same import contract as the Maine catalog.
+"""Read the LAZY websites (data/sources/lazy.json) into the same import contract as the Maine catalog.
+They are real properties, featured on the street; a site not yet in the database is added.
 
 Only allowlisted public facts are retained. Never save widget config, calendar feeds,
 API keys or booking tokens. Unknown and conflicting facts remain Unknown.
@@ -20,7 +21,8 @@ def number(value):
 def text(value):return BeautifulSoup(str(value or ''),'html.parser').get_text(' ',strip=True)
 def fact(value):return value if value not in (None,'') else UNKNOWN
 def sync(seed):
-    previous=bykey[imp.key(seed['url'])];ident=previous['id'];notes=[]
+    previous=bykey.get(imp.key(seed['url']),{});notes=[]
+    ident=previous.get('id') or 'LAZY-'+re.sub(r'[^a-z0-9]+','-',seed['name'].lower()).strip('-')
     raw=imp.get(seed['url']);soup=BeautifulSoup(raw,'html.parser')
     match=re.search(r'window\.LV_CONFIG\s*=\s*',raw.decode('utf-8'))
     if not match:raise ValueError('No public LV_CONFIG snapshot for '+seed['url'])
@@ -50,11 +52,12 @@ def sync(seed):
     if re.search(r'\b(?:adults only|no children|children (?:are )?not (?:allowed|permitted))\b',visible,re.I):kids='No'
     if any(facts.get(k) is False for k in ['kids','pets']):notes.append('Unshown welcome badges are not treated as confirmed No policies.')
     name=cfg.get('propertyName') or hero.get('name') or previous['name']
-    city=prop.get('city') or previous.get('town') or UNKNOWN
+    seedtown,_,seedstate=seed.get('place','').partition(', ')
+    city=prop.get('city') or previous.get('town') or seedtown or UNKNOWN
     if city=='Sn Francisco':notes.append('Normalized published city typo Sn Francisco to San Francisco.');city='San Francisco'
-    state=prop.get('state') or previous.get('state') or UNKNOWN
-    lat=prop.get('lat') if isinstance(prop.get('lat'),(int,float)) else previous.get('lat',UNKNOWN)
-    lng=prop.get('lng') if isinstance(prop.get('lng'),(int,float)) else previous.get('lng',UNKNOWN)
+    state=prop.get('state') or previous.get('state') or seedstate or UNKNOWN
+    lat=prop.get('lat') if isinstance(prop.get('lat'),(int,float)) else previous.get('lat',seed.get('lat',UNKNOWN))
+    lng=prop.get('lng') if isinstance(prop.get('lng'),(int,float)) else previous.get('lng',seed.get('lng',UNKNOWN))
     if isinstance(lat,(int,float)):lat=round(lat,2)
     if isinstance(lng,(int,float)):lng=round(lng,2)
     meta=soup.find('meta',attrs={'name':'description'})
@@ -65,11 +68,11 @@ def sync(seed):
             if len(candidate)>40:description=candidate;break
     if not description:description=previous.get('description',UNKNOWN)
     if notes and any('Conflicting' in n for n in notes):syncstatus='Checked; source facts conflict'
-    else:syncstatus='Synced from public demo website'
+    else:syncstatus='Synced from the property website'
     street=prop.get('address');postal=prop.get('zip');full=', '.join(str(v) for v in [street,city if city!=UNKNOWN else None,' '.join(str(v) for v in [state if state!=UNKNOWN else None,postal] if v)] if v)
     address={'street':fact(street),'city':city,'state':state,'postalCode':fact(postal),'full':full or UNKNOWN,
-      'type':'Fictional demo address' if street else UNKNOWN,'status':'Published demo content; not a verified rental address' if street else 'Unknown',
-      'sourceUrl':seed['url'],'checkedOn':TODAY,'notes':'Demo data. Map position remains approximate.'}
+      'type':'Published property address' if street else UNKNOWN,'status':'Published on the property website' if street else 'Unknown',
+      'sourceUrl':seed['url'],'checkedOn':TODAY,'notes':'Map position is approximate; the address is never shown.'}
     # Property sections only, not guidebook attraction photographs.
     candidates=[]
     def photo(p):
@@ -105,8 +108,8 @@ def sync(seed):
     kind='House' if re.search(r'rowhome|house|cottage',published_type,re.I) else 'Apartment' if re.search(r'apartment|loft|studio',published_type,re.I) else previous.get('type',UNKNOWN)
     result={'id':ident,'name':name,'url':seed['url'],'town':city,'state':state,'place':f'{city}, {state}',
       'lat':lat,'lng':lng,'locationSource':seed['url'],'description':fact(description),'type':kind,'rooms':UNKNOWN,'bedrooms':fact(bedrooms),'bathrooms':fact(bathrooms),
-      'guests':guests,'capacityDetails':capacity,'kids':kids,'pets':pets,'kidsDetails':'Published demo policy: '+kids,'petsDetails':'Published demo policy: '+pets,
-      'address':address,'demo':True,'featured':True,'recordType':'Demo property','listingStatus':'Active','checked':TODAY,'alive':True,
+      'guests':guests,'capacityDetails':capacity,'kids':kids,'pets':pets,'kidsDetails':'Published policy: '+kids,'petsDetails':'Published policy: '+pets,
+      'address':address,'demo':False,'featured':True,'recordType':'LAZY property','listingStatus':'Active','checked':TODAY,'alive':True,
       'sourceFacts':{'sourceUrl':seed['url'],'checkedOn':TODAY,'heroFacts':{k:v for k,v in facts.items() if k in ['bedrooms','bathrooms','guests','kids','pets','type']},'notes':notes},
       'syncStatus':syncstatus,'syncNotes':' '.join(notes)}
     if photos:result.update(photo=photos[0]['file'],coverPhoto=photos[0]['file'],photos=photos,photoStatus='Complete' if len(photos)==4 else 'Partial')

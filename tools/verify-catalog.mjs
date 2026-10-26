@@ -22,7 +22,8 @@ for(const h of aggregatorApproved){
  assert(h.contactPagesChecked.length && h.bookingMethod && h.operatorEvidenceUrl);
 }
 for(const h of eligibility.filter(h=>h.qualificationStatus!=='Verified operator property'))assert(!homes.some(x=>x.id===h.id),'Unapproved research lead imported: '+h.id);
-assert.equal(homes.length,source.length+15+vermont.length+newHampshire.length);
+const lazySeeds=read('data/sources/lazy.json');
+assert.equal(homes.length,source.length+lazySeeds.length+vermont.length+newHampshire.length);
 assert.equal(new Set(homes.map(h=>h.id)).size,homes.length);
 const key=url=>{const u=new URL(url);return u.host.replace(/^www\./,'')+u.pathname.replace(/\/$/,'')+(u.searchParams.has('PageDataID')?'?PageDataID='+u.searchParams.get('PageDataID'):(u.searchParams.has('reservation_unitId')?'?reservation_unitId='+u.searchParams.get('reservation_unitId'):''));};
 assert.equal(new Set(homes.map(h=>key(h.url))).size,homes.length);
@@ -124,11 +125,12 @@ assert.equal(media,photos+logos);
 for(const h of homes.filter(h=>h.id.startsWith('ME-') && typeof h.lat==='number')){
  assert(h.lat>42.9 && h.lat<47.6 && h.lng>-71.2 && h.lng<-66.8,h.id+' coordinates outside Maine');
 }
-const demos=read('data/sources/demos/catalog.json');assert.equal(demos.length,15);
+// The LAZY homes: real properties, featured, synced from their websites.
+const demos=read('data/sources/demos/catalog.json');assert.equal(demos.length,lazySeeds.length);
 for(const s of demos){
  const h=homes.find(h=>h.id===s.id);assert(h);
  for(const k of ['name','url','place','bedrooms','bathrooms','guests','kids','pets','description','syncStatus','demo'])assert.deepEqual(h[k],s[k],s.id+' '+k);
- assert.equal(h.demo,true);assert.equal(h.recordType,'Demo property');
+ assert.equal(h.demo,false);assert.equal(h.featured,true);assert.equal(h.recordType,'LAZY property');
 }
 for(const h of street){
  assert(Number.isFinite(h.lat) && Number.isFinite(h.lng));

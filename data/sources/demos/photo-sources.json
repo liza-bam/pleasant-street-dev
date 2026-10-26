@@ -1,401 +1,114 @@
 [
  {
-  "file": "images/demos/LAZY-florida-pool-home-cover.webp",
-  "sourceUrl": "https://florida.lazy.vacations/assets/sites/394d2875-ac48-4b6a-862a-2bbebc49aea8/9892646e-9e7c-43fd-aa89-30366bda1024-1024.webp",
-  "sourcePage": "https://florida.lazy.vacations/",
-  "label": "Palm-lined entrance to the Florida home  ",
-  "sha256": "d037d8b2f60614924bc9152389b73d7ab83f19b52d2b80673a7aa41abe84d5f8"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-cover.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/55926dc4-0382-4f4d-9e22-fef716230fb7-1024.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Swimming pool with curved water slide and hillside backdrop  ",
+  "sha256": "121097d3dcc53668b756e021984833803812ec7571bdb9d31deedf851f43de82"
  },
  {
-  "file": "images/demos/LAZY-florida-pool-home-000.webp",
-  "sourceUrl": "https://florida.lazy.vacations/assets/sites/394d2875-ac48-4b6a-862a-2bbebc49aea8/e5a71323-45fa-445c-98d9-76f604fd1879-1024.webp",
-  "sourcePage": "https://florida.lazy.vacations/",
-  "label": "Pool and sun loungers beside the water  ",
-  "sha256": "3f1f521de32762d118c33e136facbba6d000dfbf7779de722cd1bdd0a01240af"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-000.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/bea16434-f07d-4442-88d8-58c848af41cb-720.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Sunlit swimming pool with lake and mountain views  ",
+  "sha256": "d68a44247a047a37c138d8d9cf92aeb1af7d2051ddf05f1de9fa60b42f968ed4"
  },
  {
-  "file": "images/demos/LAZY-florida-pool-home-001.webp",
-  "sourceUrl": "https://florida.lazy.vacations/assets/sites/394d2875-ac48-4b6a-862a-2bbebc49aea8/165e90d0-d1f9-4710-8417-8526c4d004e3-1024.webp",
-  "sourcePage": "https://florida.lazy.vacations/",
-  "label": "Water-view king bedroom with soft coastal linens  Water-view king bedroom with soft coastal linens",
-  "sha256": "7b9a9dd2f2dbcbf337860d0bda1a529c828338d2d91ab3d3259913f0fe448d08"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-001.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/7bc4d4ce-2472-4178-8a48-7c2ebbe96f69-720.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Pool lit purple at dusk beside a flame table  ",
+  "sha256": "9d5d6db16857b5233142ec48dd7c489d8342a2ffa2df5392e78347cc0e571059"
  },
  {
-  "file": "images/demos/LAZY-florida-pool-home-002.webp",
-  "sourceUrl": "https://florida.lazy.vacations/assets/sites/394d2875-ac48-4b6a-862a-2bbebc49aea8/78b374aa-01de-49d3-ab06-3cad34cc0fa7-1024.webp",
-  "sourcePage": "https://florida.lazy.vacations/",
-  "label": "Guest bedroom with white linens  Guest bedroom with white linens",
-  "sha256": "470b781c9eaeeb526695aae8cd8af20ee28f206c5b9bad5dfe362bfb6074cb56"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-002.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/5c8435a3-a5bb-4ed3-b16e-65b901899751-720.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Covered outdoor seating beside the swimming pool  ",
+  "sha256": "747673134f3c2b1fccb99457294820b7b1e1c4340f529d021115d4dd78e121e0"
  },
  {
-  "file": "images/demos/LAZY-nyc-midtown-city-loft-cover.webp",
-  "sourceUrl": "https://nyc-midtown.lazy.vacations/assets/sites/fca2923f-93ba-4610-9295-c00d41bca457/a3b7443f-fe83-4472-bdc8-a9ac16414f56-1024.webp",
-  "sourcePage": "https://nyc-midtown.lazy.vacations/",
-  "label": "A modern kitchen with a white island, black cabinets, and a stainless steel fridge.  ",
-  "sha256": "adec3e9cfaa171c4138e0bbadacb0880bb663fe088cae9be7a02b0b5bde20650"
+  "file": "images/demos/LAZY-cozy-retreat-in-lisbon-falls-cover.webp",
+  "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/assets/sites/290e70f5-4afc-42ef-88e8-c323625b1a19/4f65bded-4cbd-4f55-8d7a-19b5263441ca-1024.webp",
+  "sourcePage": "https://lisbon-falls-retreat.lazy.vacations/",
+  "label": "Kitchen with dark cabinets, refrigerator and stove.  ",
+  "sha256": "7f2ddff429b9c1ab2d6cd74630b53304b201ce5261f870a27531e84991fa9343"
  },
  {
-  "file": "images/demos/LAZY-nyc-midtown-city-loft-000.webp",
-  "sourceUrl": "https://nyc-midtown.lazy.vacations/assets/sites/fca2923f-93ba-4610-9295-c00d41bca457/9eea80d3-16f8-4c85-a513-ed85687560ff-1024.webp",
-  "sourcePage": "https://nyc-midtown.lazy.vacations/",
-  "label": "A modern living room with a gray sectional sofa, a coffee table, and a brick wall.  ",
-  "sha256": "8d115e5a926cbc19bbc039be4dfdff1f3ce7ebecefb8fceaf123f7fc23687876"
+  "file": "images/demos/LAZY-cozy-retreat-in-lisbon-falls-000.webp",
+  "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/assets/sites/290e70f5-4afc-42ef-88e8-c323625b1a19/c20c8157-fa87-47cf-b3cc-cdab8d801285-720.webp",
+  "sourcePage": "https://lisbon-falls-retreat.lazy.vacations/",
+  "label": "Living room with an orange couch.  ",
+  "sha256": "dc811c358d6ab34edd3a2317b9d76b4bd4a2f77b0b0cfacb83cc6edaa4112741"
  },
  {
-  "file": "images/demos/LAZY-nyc-midtown-city-loft-001.webp",
-  "sourceUrl": "https://nyc-midtown.lazy.vacations/assets/sites/fca2923f-93ba-4610-9295-c00d41bca457/746c8773-c12a-4dd0-bf61-5118a1ec4c3f-1024.webp",
-  "sourcePage": "https://nyc-midtown.lazy.vacations/",
-  "label": "A hallway with a rug, a console table, a mirror, and a lamp.  ",
-  "sha256": "03c93b762fa3417599452a2ba41c14fd52e2293a91c78fcef83d3ec4c457e667"
+  "file": "images/demos/LAZY-cozy-retreat-in-lisbon-falls-001.webp",
+  "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/assets/sites/290e70f5-4afc-42ef-88e8-c323625b1a19/aabacbcf-0e5f-4b04-9734-e3ace3a8712b-720.webp",
+  "sourcePage": "https://lisbon-falls-retreat.lazy.vacations/",
+  "label": "Bedroom with a made bed, ceiling fan and curtained window.  King bedroom",
+  "sha256": "b3226bbbfff5831f47239dcc40bdc3fada08fde01444de9fd100903238dea0b2"
  },
  {
-  "file": "images/demos/LAZY-nyc-midtown-city-loft-002.webp",
-  "sourceUrl": "https://nyc-midtown.lazy.vacations/assets/sites/fca2923f-93ba-4610-9295-c00d41bca457/2dc93bd6-66b0-4624-8a18-7bee3c989573-1024.webp",
-  "sourcePage": "https://nyc-midtown.lazy.vacations/",
-  "label": "A bedroom with a bed, rug, desk, and city view from the window.  bedroom 1",
-  "sha256": "439d021ae749f816503938198b952083ba88689a58009a0dcf9f4276245adc63"
+  "file": "images/demos/LAZY-cozy-retreat-in-lisbon-falls-002.webp",
+  "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/assets/sites/290e70f5-4afc-42ef-88e8-c323625b1a19/e40a704a-e085-435c-bd70-00a1a7618fee-1024.webp",
+  "sourcePage": "https://lisbon-falls-retreat.lazy.vacations/",
+  "label": "Bedroom with a bed and pillows.  Queen bedroom",
+  "sha256": "39490c823598670460bf54a0f455af3eaba59383691b3eb2d39c12aa5cfe6871"
  },
  {
-  "file": "images/demos/LAZY-virginia-cottage-cover.webp",
-  "sourceUrl": "https://virginia-cottage.lazy.vacations/assets/sites/02cc01ee-03ca-4049-90b6-43f35dd82d81/beac0386-f742-4f16-97e3-6e155b35dbba-1024.webp",
-  "sourcePage": "https://virginia-cottage.lazy.vacations/",
-  "label": "A white house with a porch, surrounded by greenery and a wooden fence.  ",
-  "sha256": "a20ed4b8e5a3994dfce95230fa1d7bfe4d77453659b9c3d00c8bcfb946ddf00b"
+  "file": "images/demos/LAZY-clearlake-paradise-cover.webp",
+  "sourceUrl": "https://clearlake-paradise.lazy.vacations/assets/sites/436ff83e-83f6-48ad-acc2-374f2fb0a3da/8748f8d3-6c8f-4f24-a287-99031d756afa-1024.webp",
+  "sourcePage": "https://clearlake-paradise.lazy.vacations/",
+  "label": "Two lounge chairs on a wooden deck with a tree and house in the background.  ",
+  "sha256": "3dcca3b0c076ee3bace7983e9bd3aa5d6595191066b6900f1c9071917507c9de"
  },
  {
-  "file": "images/demos/LAZY-virginia-cottage-000.webp",
-  "sourceUrl": "https://virginia-cottage.lazy.vacations/assets/sites/02cc01ee-03ca-4049-90b6-43f35dd82d81/766e5543-0c9e-4a84-b280-2caf9ef16997-1024.webp",
-  "sourcePage": "https://virginia-cottage.lazy.vacations/",
-  "label": "A cozy cottage with a porch, surrounded by greenery and flowers.  ",
-  "sha256": "0372710df0cedba38a722f5fd725db0e5b6d83ed39c605fc00dd24e726e70606"
+  "file": "images/demos/LAZY-clearlake-paradise-000.webp",
+  "sourceUrl": "https://clearlake-paradise.lazy.vacations/assets/sites/436ff83e-83f6-48ad-acc2-374f2fb0a3da/498865b9-3143-445c-a27d-5f36a1e05d95-1024.webp",
+  "sourcePage": "https://clearlake-paradise.lazy.vacations/",
+  "label": "A living room with a stone fireplace, flat screen TV, and a wooden coffee table.  ",
+  "sha256": "aa626f6a0d017047856a3471edd1443661b70e6e2c2d96a31452dd32ea6f4d2a"
  },
  {
-  "file": "images/demos/LAZY-virginia-cottage-001.webp",
-  "sourceUrl": "https://virginia-cottage.lazy.vacations/assets/sites/02cc01ee-03ca-4049-90b6-43f35dd82d81/7bc15647-bf7e-44f7-9d4c-3063e43ae5ca-1024.webp",
-  "sourcePage": "https://virginia-cottage.lazy.vacations/",
-  "label": "A cozy living room with a fireplace, white couch, and a view of trees outside.  ",
-  "sha256": "7ccd8b17f191939d3588fc5f3ce2e0e17fedd4517c572447957e546239c22a56"
+  "file": "images/demos/LAZY-clearlake-paradise-001.webp",
+  "sourceUrl": "https://clearlake-paradise.lazy.vacations/assets/sites/436ff83e-83f6-48ad-acc2-374f2fb0a3da/0eb5b368-6a2c-436a-8d93-79eaeeb0fc64-1024.webp",
+  "sourcePage": "https://clearlake-paradise.lazy.vacations/",
+  "label": "Covered patio with a table, chairs, and a lounge chair.  ",
+  "sha256": "03822e3abc23d80b28159d6f8a6b285f38f15bc3063bad9bfc406174c2f3a62a"
  },
  {
-  "file": "images/demos/LAZY-virginia-cottage-002.webp",
-  "sourceUrl": "https://virginia-cottage.lazy.vacations/assets/sites/02cc01ee-03ca-4049-90b6-43f35dd82d81/2ca1ad0f-f3c9-4d53-847a-328b6e434b2a-1024.webp",
-  "sourcePage": "https://virginia-cottage.lazy.vacations/",
-  "label": "A cozy bedroom with a bed, lamps, and a window with curtains.  ",
-  "sha256": "836e7ca850eccb56fcfc9a7fb2d2d8c0d1e1160797978632098d06794e64e360"
+  "file": "images/demos/LAZY-clearlake-paradise-002.webp",
+  "sourceUrl": "https://clearlake-paradise.lazy.vacations/assets/sites/436ff83e-83f6-48ad-acc2-374f2fb0a3da/6b8e59ec-2543-4e2f-9de4-601e6e3b5764-1024.webp",
+  "sourcePage": "https://clearlake-paradise.lazy.vacations/",
+  "label": "A living room with a fireplace, brown leather sofa, and a TV.  ",
+  "sha256": "795e03896a5e8c45e5a50bb954ec47f3118ae3c887e4e99f5d0a447abc01bb93"
  },
  {
-  "file": "images/demos/LAZY-cape-cod-coastal-cottage-cover.webp",
-  "sourceUrl": "https://capecod.lazy.vacations/assets/sites/9f82fe15-1d7e-4286-9722-25cafb6134b9/01edb571-4799-4954-8004-9abcc4316a3c-1024.webp",
-  "sourcePage": "https://capecod.lazy.vacations/",
-  "label": "Cedar-shingled Cape cottage behind flowering borders and a stone path  ",
-  "sha256": "9d1bcdaf9962a9075753a16b79b81c0952d21da1e69d968b1d27afb19d42f5cd"
+  "file": "images/demos/LAZY-sabattus-shalomus-cover.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/72cc55ba-87ab-4fad-8918-4eb52a4f17ab-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "A small house with a blue door and white railings.  ",
+  "sha256": "926c58cad849ac6fecc3b8f778a2438b131ffd5481948a5d2ab57631cc77a67d"
  },
  {
-  "file": "images/demos/LAZY-cape-cod-coastal-cottage-000.webp",
-  "sourceUrl": "https://capecod.lazy.vacations/assets/sites/9f82fe15-1d7e-4286-9722-25cafb6134b9/e2239249-be92-44f7-95f9-0e687725ad7b-1024.webp",
-  "sourcePage": "https://capecod.lazy.vacations/",
-  "label": "Cape cottage with dormer windows and a colorful front garden  ",
-  "sha256": "b5cb887c673e7b716349e0eab6729a799814ed33ab6d214537c531eb5a18c615"
+  "file": "images/demos/LAZY-sabattus-shalomus-000.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/3033e58e-8324-4a88-b34a-1a10592263cd-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "Open-plan kitchen and living area with wooden furniture, a dining table, and large windows.  ",
+  "sha256": "c9b1b276bd863ec982e2860323708ebada16846b8668c3d461b3df2d74d0883a"
  },
  {
-  "file": "images/demos/LAZY-cape-cod-coastal-cottage-001.webp",
-  "sourceUrl": "https://capecod.lazy.vacations/assets/sites/9f82fe15-1d7e-4286-9722-25cafb6134b9/c66b888e-c88c-4c21-a09b-d0a8ec736955-1024.webp",
-  "sourcePage": "https://capecod.lazy.vacations/",
-  "label": "Symmetrical Cape cottage framed by hydrangeas and mature trees  ",
-  "sha256": "4e0fe1b3da05479639eed5d4f52da95e04449f03573ea10d6f5a9ec181370674"
+  "file": "images/demos/LAZY-sabattus-shalomus-001.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/686d54a1-f4d6-4a07-8293-da6f6ce45c8d-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "A small dining area with a wooden bench, a table, and a play kitchen.  ",
+  "sha256": "caaef9dc976905678d84f3f31f8288a106cc8e59c2132e430a62a6fb4363495a"
  },
  {
-  "file": "images/demos/LAZY-cape-cod-coastal-cottage-002.webp",
-  "sourceUrl": "https://capecod.lazy.vacations/assets/sites/9f82fe15-1d7e-4286-9722-25cafb6134b9/c72e4f1c-1173-412a-a907-e8aa1c58fd8b-1024.webp",
-  "sourcePage": "https://capecod.lazy.vacations/",
-  "label": "Sage cabinetry and a farmhouse dining table in a sunny kitchen  ",
-  "sha256": "5cac069ff4e15afd12763d4a94a37e9e84c38f8981f24463fb22856968af4108"
- },
- {
-  "file": "images/demos/LAZY-kawaii-beach-house-cover.webp",
-  "sourceUrl": "https://kawaii.lazy.vacations/assets/sites/ab6ebefb-3976-4052-ba13-eda10650f41b/fd28906c-53d9-42a4-9eb7-21fb4310b271-1024.webp",
-  "sourcePage": "https://kawaii.lazy.vacations/",
-  "label": "A white house with a porch, surrounded by lush greenery and a clear blue sky.  ",
-  "sha256": "c25313b6fafa8c175ca89b82e5d949b586b4b5921c8a844eee2d1667f1d3512d"
- },
- {
-  "file": "images/demos/LAZY-kawaii-beach-house-000.webp",
-  "sourceUrl": "https://kawaii.lazy.vacations/assets/sites/ab6ebefb-3976-4052-ba13-eda10650f41b/fb182627-417f-4a2a-9ee6-e3638a564663-1024.webp",
-  "sourcePage": "https://kawaii.lazy.vacations/",
-  "label": "Aerial view of a house with a pool, surrounded by lush greenery and ocean views.  ",
-  "sha256": "619372842b869d88865281f770e386dc1a5988b7b4f00cb15b224e3b3ae03746"
- },
- {
-  "file": "images/demos/LAZY-kawaii-beach-house-001.webp",
-  "sourceUrl": "https://kawaii.lazy.vacations/assets/sites/ab6ebefb-3976-4052-ba13-eda10650f41b/86d30d00-6404-45be-958e-6375deb24387-1024.webp",
-  "sourcePage": "https://kawaii.lazy.vacations/",
-  "label": "A large house with many windows and lights on, surrounded by palm trees and mountains.  ",
-  "sha256": "b4eb2f65e1d098017e6ad20d897dd5dd8785b8c04822b63bb900a34ded828858"
- },
- {
-  "file": "images/demos/LAZY-kawaii-beach-house-002.webp",
-  "sourceUrl": "https://kawaii.lazy.vacations/assets/sites/ab6ebefb-3976-4052-ba13-eda10650f41b/0972f195-a03f-4b94-b2ac-d2e70f0a7e1f-1024.webp",
-  "sourcePage": "https://kawaii.lazy.vacations/",
-  "label": "A beachfront house with a patio, surrounded by lush greenery and mountains in the distance.  ",
-  "sha256": "bf2b661e9fffc0e6de44c395c701881a415d23dfbed1abbdf101cc45fb7d1d47"
- },
- {
-  "file": "images/demos/LAZY-philly-home-cover.webp",
-  "sourceUrl": "https://philly-home.lazy.vacations/assets/sites/9ba2f231-2e01-456a-a0d2-6f445ddea5bf/413ccb60-e57d-4156-bb85-f7db4c02edaf-1024.webp",
-  "sourcePage": "https://philly-home.lazy.vacations/",
-  "label": "A bathroom with a glass shower, wooden cabinet, white sink, and toilet.  ",
-  "sha256": "2ff1161716a772d7548ff10637638aca037c89d58c438e6ec12e41d3beb21e2b"
- },
- {
-  "file": "images/demos/LAZY-philly-home-001.webp",
-  "sourceUrl": "https://philly-home.lazy.vacations/assets/sites/9ba2f231-2e01-456a-a0d2-6f445ddea5bf/5ef46b91-356c-4299-8b09-0651e3b2d90c-1024.webp",
-  "sourcePage": "https://philly-home.lazy.vacations/",
-  "label": "Modern kitchen with white marble island, stainless steel appliances, and wooden floors.  ",
-  "sha256": "389907f2d88d976003f9aef173c2d6125838d6f7f6d10094a4d0898f314ccb97"
- },
- {
-  "file": "images/demos/LAZY-philly-home-002.webp",
-  "sourceUrl": "https://philly-home.lazy.vacations/assets/sites/9ba2f231-2e01-456a-a0d2-6f445ddea5bf/5310c068-0b93-40ad-9a41-e57eb7d8c607-1024.webp",
-  "sourcePage": "https://philly-home.lazy.vacations/",
-  "label": "A living room with a white couch, wooden coffee table, and large windows.  ",
-  "sha256": "60e7b43dc7fa2d08c0829fd94fcfd43e68ab19571172d2175adbf7131983d57d"
- },
- {
-  "file": "images/demos/LAZY-nashville-crow-nest-cover.webp",
-  "sourceUrl": "https://nashville-crow-nest.lazy.vacations/assets/sites/8b815fe4-d99b-40e2-afbf-c0aaeaf01b06/71804a87-9131-4968-86bd-240a936b8949-1024.webp",
-  "sourcePage": "https://nashville-crow-nest.lazy.vacations/",
-  "label": "Bedroom with dark bedding and city windows  Bedroom with dark bedding and city windows",
-  "sha256": "7891100288dccba392f479ecc281e9c1d53bb161afe2f5eb14558474b82277b9"
- },
- {
-  "file": "images/demos/LAZY-nashville-crow-nest-000.webp",
-  "sourceUrl": "https://nashville-crow-nest.lazy.vacations/assets/sites/8b815fe4-d99b-40e2-afbf-c0aaeaf01b06/8861f3c0-be8c-4f3e-897c-b92ab384e4cd-1024.webp",
-  "sourcePage": "https://nashville-crow-nest.lazy.vacations/",
-  "label": "Bedroom with Nashville artwork and warm lamps  Bedroom with Nashville artwork and warm lamps",
-  "sha256": "47a23167ce7cbf9e259fca3a58d7efb68f0b7706c724a6063ed84869c30e9fca"
- },
- {
-  "file": "images/demos/LAZY-nashville-crow-nest-001.webp",
-  "sourceUrl": "https://nashville-crow-nest.lazy.vacations/assets/sites/8b815fe4-d99b-40e2-afbf-c0aaeaf01b06/adf54186-012e-4ee2-8804-0933c984d970-1024.webp",
-  "sourcePage": "https://nashville-crow-nest.lazy.vacations/",
-  "label": "Dark tiled bathroom with illuminated vanity  Dark tiled bathroom with illuminated vanity",
-  "sha256": "ce327b4a776336be640014c7975ae28ba33ead899853dfd280b07907fc708ec1"
- },
- {
-  "file": "images/demos/LAZY-boston-commonwealth-cover.webp",
-  "sourceUrl": "https://commonwealth.lazy.vacations/assets/sites/d23f3ee1-abb5-483c-b9ee-654821390d44/b070126e-d2a6-4cde-9d96-323c1b06b1d6-1024.webp",
-  "sourcePage": "https://commonwealth.lazy.vacations/",
-  "label": "Brownstone exterior with a planted front garden  ",
-  "sha256": "3ab645f9720c84e40627f2a43f1179ed1da0e2858278bda5216512780141764a"
- },
- {
-  "file": "images/demos/LAZY-boston-commonwealth-000.webp",
-  "sourceUrl": "https://commonwealth.lazy.vacations/assets/sites/d23f3ee1-abb5-483c-b9ee-654821390d44/720a9687-6b53-45ec-a314-2ed8aa391235-1024.webp",
-  "sourcePage": "https://commonwealth.lazy.vacations/",
-  "label": "King bedroom with white linen and exposed brick  King bedroom with white linen and exposed brick",
-  "sha256": "d3b1fc94704d036268fa2b4fcdf7e7aa5ad5524969678d626a066d0ccb559963"
- },
- {
-  "file": "images/demos/LAZY-boston-commonwealth-001.webp",
-  "sourceUrl": "https://commonwealth.lazy.vacations/assets/sites/d23f3ee1-abb5-483c-b9ee-654821390d44/06ab9af2-a8e5-4ed3-9d1e-1cca6f8310b7-1024.webp",
-  "sourcePage": "https://commonwealth.lazy.vacations/",
-  "label": "Bedroom with glass sliding doors  Bedroom with glass sliding doors",
-  "sha256": "5fd6c8693d689e15cadf90695d0dc7970acb77e7d40dd9ea847da528d32f32de"
- },
- {
-  "file": "images/demos/LAZY-boston-commonwealth-002.webp",
-  "sourceUrl": "https://commonwealth.lazy.vacations/assets/sites/d23f3ee1-abb5-483c-b9ee-654821390d44/bf9f22b1-b8b4-4fcd-af7b-b3477fb90497-1024.webp",
-  "sourcePage": "https://commonwealth.lazy.vacations/",
-  "label": "Brick-walled patio and outdoor seating  Brick-walled patio and outdoor seating",
-  "sha256": "e0493d3ccb4f03fa127c7940cdda0f1fbe93fb7bef5afb2c57fcd65ebd23b2bd"
- },
- {
-  "file": "images/demos/LAZY-cape-ann-special-cover.webp",
-  "sourceUrl": "https://loon-cottage.pleasant.vacations/assets/sites/0f06601f-dcea-4507-94a6-45b807bbf288/24d2b935-0c4f-492a-aa0c-1764b1530a56-1024.webp",
-  "sourcePage": "https://loon-cottage.pleasant.vacations/",
-  "label": "A large white house with lit windows and outdoor lights on a dark night.  ",
-  "sha256": "e835dabb95bd41a0a58fe63d1d15f7a38d10ff3316a4352a2916cd4c96ffbfae"
- },
- {
-  "file": "images/demos/LAZY-cape-ann-special-000.webp",
-  "sourceUrl": "https://loon-cottage.pleasant.vacations/assets/sites/0f06601f-dcea-4507-94a6-45b807bbf288/a9e25cc3-d01b-46df-b404-56e5a9413003-1024.webp",
-  "sourcePage": "https://loon-cottage.pleasant.vacations/",
-  "label": "A large white house with black shutters and a gray roof, surrounded by a green lawn.  ",
-  "sha256": "e1d33ec8b347cf373874a038d50c8f67a1580bcc4c74f2b897109d8ce123e7e6"
- },
- {
-  "file": "images/demos/LAZY-cape-ann-special-001.webp",
-  "sourceUrl": "https://loon-cottage.pleasant.vacations/assets/sites/0f06601f-dcea-4507-94a6-45b807bbf288/452b3180-3e8f-4be3-8406-43a8f4e1f758-1024.webp",
-  "sourcePage": "https://loon-cottage.pleasant.vacations/",
-  "label": "A white house with black shutters and a chimney, surrounded by autumn foliage.  ",
-  "sha256": "c4328b6b3be548fcd669061be736d06a15a551072e75e59c8a1e8f9cea661b38"
- },
- {
-  "file": "images/demos/LAZY-cape-ann-special-002.webp",
-  "sourceUrl": "https://loon-cottage.pleasant.vacations/assets/sites/0f06601f-dcea-4507-94a6-45b807bbf288/5fa7a1d1-eb49-4dab-9994-c58556cdbb43-1024.webp",
-  "sourcePage": "https://loon-cottage.pleasant.vacations/",
-  "label": "Two twin beds with pillows in a cabin with wooden walls and a rug.  ",
-  "sha256": "5cfaf5d502b7c68e7f8b45ca399f8772c3272424e02b19a767f5fe72fd38c4b5"
- },
- {
-  "file": "images/demos/LAZY-tahoe-cabin-cover.webp",
-  "sourceUrl": "https://tahoe-cabin.lazy.vacations/assets/sites/6d4945da-31a2-464b-81e3-a0773b0d53a5/e1644b4b-e973-47e0-bc47-69841e7f5fb0-1024.webp",
-  "sourcePage": "https://tahoe-cabin.lazy.vacations/",
-  "label": "Timber cabin and deck beneath tall pine trees  ",
-  "sha256": "68c3dd1ef66ea5bed1dbf05efa3db2cb9161c58618f3604ea26446be8daf10e4"
- },
- {
-  "file": "images/demos/LAZY-tahoe-cabin-000.webp",
-  "sourceUrl": "https://tahoe-cabin.lazy.vacations/assets/sites/6d4945da-31a2-464b-81e3-a0773b0d53a5/fce26822-5ed5-4232-8c00-6f2eff203734-1024.webp",
-  "sourcePage": "https://tahoe-cabin.lazy.vacations/",
-  "label": "Open-plan cabin kitchen, dining table, and living room  Open-plan cabin kitchen, dining table, and living room",
-  "sha256": "5116d3f2675f703aefd8a550a9fe0055e327720e47d714c2e5be71999cd14ea1"
- },
- {
-  "file": "images/demos/LAZY-tahoe-cabin-001.webp",
-  "sourceUrl": "https://tahoe-cabin.lazy.vacations/assets/sites/6d4945da-31a2-464b-81e3-a0773b0d53a5/cb68574d-4bf8-403e-8529-757f9babe80c-1024.webp",
-  "sourcePage": "https://tahoe-cabin.lazy.vacations/",
-  "label": "Barrel sauna beside the cabin in a pine garden  ",
-  "sha256": "88afd0c8ce8829955e44a2e08a1693a98eadf6fde07f17a4917868c7c3eaf82d"
- },
- {
-  "file": "images/demos/LAZY-tahoe-cabin-002.webp",
-  "sourceUrl": "https://tahoe-cabin.lazy.vacations/assets/sites/6d4945da-31a2-464b-81e3-a0773b0d53a5/677ad776-9ddb-42cf-bf64-9e62f241cc0b-1024.webp",
-  "sourcePage": "https://tahoe-cabin.lazy.vacations/",
-  "label": "Wood-lined living room with stove and glass doors  ",
-  "sha256": "ac0cef18e86a8a6a7cd788e8b07707de9192256679c58ac61e40d997ed0620f3"
- },
- {
-  "file": "images/demos/LAZY-chicago-mcm-cover.webp",
-  "sourceUrl": "https://chicago-mcm.lazy.vacations/assets/sites/3460b21b-3ec4-44de-a610-609964e16402/028467ee-6654-4a12-a672-a73a1ddf89e4-1024.webp",
-  "sourcePage": "https://chicago-mcm.lazy.vacations/",
-  "label": "Living room with gray sofa, red throw, and mustard chair  ",
-  "sha256": "573aa04ab876f0d7c04e9f9a352f4106444033f38c7a6a007e45015811279b0f"
- },
- {
-  "file": "images/demos/LAZY-chicago-mcm-000.webp",
-  "sourceUrl": "https://chicago-mcm.lazy.vacations/assets/sites/3460b21b-3ec4-44de-a610-609964e16402/0291de1d-5e24-407f-97be-66142ab0acaf-1024.webp",
-  "sourcePage": "https://chicago-mcm.lazy.vacations/",
-  "label": "Dinner being served around the apartment dining table  ",
-  "sha256": "50a25ad86ac1cbdc822873fe1979f73c9659168ab90d257d7128c53140878d1e"
- },
- {
-  "file": "images/demos/LAZY-chicago-mcm-001.webp",
-  "sourceUrl": "https://chicago-mcm.lazy.vacations/assets/sites/3460b21b-3ec4-44de-a610-609964e16402/8af01e2e-c10d-41ab-940f-ca6bfb41b581-1024.webp",
-  "sourcePage": "https://chicago-mcm.lazy.vacations/",
-  "label": "Private terrace beneath string lights  ",
-  "sha256": "3c248bb8c8ae821d4eca00b89a5239babfd34efd4c615d4ea875dfb61339f1ca"
- },
- {
-  "file": "images/demos/LAZY-chicago-mcm-002.webp",
-  "sourceUrl": "https://chicago-mcm.lazy.vacations/assets/sites/3460b21b-3ec4-44de-a610-609964e16402/12e815a1-625c-40df-880a-19eba2236f33-1024.webp",
-  "sourcePage": "https://chicago-mcm.lazy.vacations/",
-  "label": "Bedroom with mustard bedding and exposed brick  Bedroom with mustard bedding and exposed brick",
-  "sha256": "c2b328b89d4ef17917a47dae15b92c0a39eafb79c51bcfeef36c9a14be9dc0ef"
- },
- {
-  "file": "images/demos/LAZY-lake-champlain-place-cover.webp",
-  "sourceUrl": "https://lake-champlain.lazy.vacations/assets/sites/1455c650-9b61-464e-9393-679873bd151b/e1ca0989-514d-49ae-b448-9772e6393474-1024.webp",
-  "sourcePage": "https://lake-champlain.lazy.vacations/",
-  "label": "The lakeside cabin  ",
-  "sha256": "32504e5662d63fce5433fdbb2e21a2ce7a19e27aa205742b028cdff006857890"
- },
- {
-  "file": "images/demos/LAZY-lake-champlain-place-000.webp",
-  "sourceUrl": "https://lake-champlain.lazy.vacations/assets/sites/1455c650-9b61-464e-9393-679873bd151b/f2b83a5d-a4c8-40c5-9cfb-baa238197b2b-1024.webp",
-  "sourcePage": "https://lake-champlain.lazy.vacations/",
-  "label": "The cabin bathroom  ",
-  "sha256": "eb78df8552a611401cbcd91fb90a39e45ad0e09592f191af01b68cf482508408"
- },
- {
-  "file": "images/demos/LAZY-lake-champlain-place-001.webp",
-  "sourceUrl": "https://lake-champlain.lazy.vacations/assets/sites/1455c650-9b61-464e-9393-679873bd151b/222d3156-8ab5-4374-8b3f-20249b38babf-1024.webp",
-  "sourcePage": "https://lake-champlain.lazy.vacations/",
-  "label": "The cabin kitchen  ",
-  "sha256": "fb971d14289395e9161ffba0cff0adc47da1fef1ea90cd56881ad8b5c63abd59"
- },
- {
-  "file": "images/demos/LAZY-lake-champlain-place-002.webp",
-  "sourceUrl": "https://lake-champlain.lazy.vacations/assets/sites/1455c650-9b61-464e-9393-679873bd151b/1c01585e-c5e0-4b3c-9d22-df26c19acf02-1024.webp",
-  "sourcePage": "https://lake-champlain.lazy.vacations/",
-  "label": "The warm living room  ",
-  "sha256": "98624a4c79d68cd074bbba20b9ccbfd496ef672aef008f4d46a0b2456f071e4b"
- },
- {
-  "file": "images/demos/LAZY-mission-base-cover.webp",
-  "sourceUrl": "https://mission-sf.lazy.vacations/assets/sites/3bfa07c7-13aa-4bb3-bff4-c14ab33f6964/a29e4ca3-15e7-478a-94dc-8cfd2d89e932-1024.webp",
-  "sourcePage": "https://mission-sf.lazy.vacations/",
-  "label": "Your studio entrance  ",
-  "sha256": "54ce50c4a4b8e2c7db46d4715a934bce8ce44b102b44880c0cc8673489f0db1b"
- },
- {
-  "file": "images/demos/LAZY-mission-base-000.webp",
-  "sourceUrl": "https://mission-sf.lazy.vacations/assets/sites/3bfa07c7-13aa-4bb3-bff4-c14ab33f6964/4e87c222-df0c-4e68-bdf3-d22b813ee41c-1024.webp",
-  "sourcePage": "https://mission-sf.lazy.vacations/",
-  "label": "The studio bathroom  ",
-  "sha256": "33b005f2780201bfd6f4ecd4f6d2e9af2dc313d05ab439ca04b8407379d118a3"
- },
- {
-  "file": "images/demos/LAZY-mission-base-001.webp",
-  "sourceUrl": "https://mission-sf.lazy.vacations/assets/sites/3bfa07c7-13aa-4bb3-bff4-c14ab33f6964/3f6a198b-fc8d-4755-9c0d-0acac76ff67c-1024.webp",
-  "sourcePage": "https://mission-sf.lazy.vacations/",
-  "label": "Your kitchenette  ",
-  "sha256": "ae54905d53bee2117085456dc5aee4d1630bed8075ab9b93e8ea0898440aabe8"
- },
- {
-  "file": "images/demos/LAZY-noe-valley-studio-cover.webp",
-  "sourceUrl": "https://noe-valley-sf.lazy.vacations/assets/sites/7604f171-c318-465f-9c56-577f3ffc98bb/91fd1d54-e980-4cf0-8774-c872648bfbe9-1024.webp",
-  "sourcePage": "https://noe-valley-sf.lazy.vacations/",
-  "label": "Your garden patio  ",
-  "sha256": "296834c26a6b31224380810d0e355aba00c51c557dcf08af99ec2db59e942a86"
- },
- {
-  "file": "images/demos/LAZY-noe-valley-studio-000.webp",
-  "sourceUrl": "https://noe-valley-sf.lazy.vacations/assets/sites/7604f171-c318-465f-9c56-577f3ffc98bb/41a5c6ae-4b48-4a73-9ddc-25beede965d0-1024.webp",
-  "sourcePage": "https://noe-valley-sf.lazy.vacations/",
-  "label": "The garden-view bedroom  The garden-view bedroom",
-  "sha256": "3c1f31ff3b90974c26d77f135a4699dae0fe01ca994d3f59c7c317d933ece56f"
- },
- {
-  "file": "images/demos/LAZY-noe-valley-studio-001.webp",
-  "sourceUrl": "https://noe-valley-sf.lazy.vacations/assets/sites/7604f171-c318-465f-9c56-577f3ffc98bb/fb54ced9-d5c5-4c11-95a2-ce64802127ba-1024.webp",
-  "sourcePage": "https://noe-valley-sf.lazy.vacations/",
-  "label": "The cozy sitting room  ",
-  "sha256": "6f60a211124d18de88e5e801186c1a19043ca5634e18e97539481d5490dec46c"
- },
- {
-  "file": "images/demos/LAZY-noe-valley-studio-002.webp",
-  "sourceUrl": "https://noe-valley-sf.lazy.vacations/assets/sites/7604f171-c318-465f-9c56-577f3ffc98bb/ca19973e-227b-4aba-aac0-3cc1af45fc68-1024.webp",
-  "sourcePage": "https://noe-valley-sf.lazy.vacations/",
-  "label": "Breakfast at the counter  ",
-  "sha256": "037278c5d402703696df0f15ede52a72145508fa45e1f57f2e4180530c4160f0"
- },
- {
-  "file": "images/demos/LAZY-miami-fam-stay-cover.webp",
-  "sourceUrl": "https://miami-fam.lazy.vacations/assets/sites/27d79436-f1d0-49d9-a917-2cf398b452c4/24cc8b88-1b15-41ee-83a5-0a5f4e4c4a5e-1024.webp",
-  "sourcePage": "https://miami-fam.lazy.vacations/",
-  "label": "  Queen bedroom",
-  "sha256": "2cd7daec126cf78763424ff144c878c1bcc81694f29496c4e80433ae6afcaa73"
- },
- {
-  "file": "images/demos/LAZY-miami-fam-stay-000.webp",
-  "sourceUrl": "https://miami-fam.lazy.vacations/assets/sites/27d79436-f1d0-49d9-a917-2cf398b452c4/066cbb12-5611-4f72-9c67-7397132515ea-1024.webp",
-  "sourcePage": "https://miami-fam.lazy.vacations/",
-  "label": "  Twin bedroom",
-  "sha256": "2184cb0bfbd2deff3fcfccc7fc3800c1188ad6eed70c7c7b51928216cdc4a3a9"
- },
- {
-  "file": "images/demos/LAZY-miami-fam-stay-001.webp",
-  "sourceUrl": "https://miami-fam.lazy.vacations/assets/sites/27d79436-f1d0-49d9-a917-2cf398b452c4/11b61ad9-29f8-47e0-b519-3f7e43f05385-1024.webp",
-  "sourcePage": "https://miami-fam.lazy.vacations/",
-  "label": "A sunny Miami beach beneath palm trees  ",
-  "sha256": "6343cf7efdbdac29649694f6b0d9d575fbb6ae7a2f1c7c420ab7b435413b22d4"
- },
- {
-  "file": "images/demos/LAZY-miami-fam-stay-002.webp",
-  "sourceUrl": "https://miami-fam.lazy.vacations/assets/sites/27d79436-f1d0-49d9-a917-2cf398b452c4/e3bdde4f-6f60-4bb0-82e4-69ec02694bf1-1024.webp",
-  "sourcePage": "https://miami-fam.lazy.vacations/",
-  "label": "Two twin beds with blue blankets and white pillows in a room with a window.  ",
-  "sha256": "121db4c48179fb0ac47e35f12a9afef56c7b5ded509fead851b88db7a4473cfa"
+  "file": "images/demos/LAZY-sabattus-shalomus-002.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/6791468a-ce46-4c20-87c8-f38c1172a0a9-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "A bedroom with a bed, pillows, and a chair with a bag.  bedroom 1",
+  "sha256": "49dc8091557b7dbda3bd59e8c699b473bf1e96a5d3dc6c1c6d27a2287522bae1"
  }
 ]

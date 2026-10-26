@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-566 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+555 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1848 Inn
 
@@ -909,6 +909,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/280093
 
+## Beautyview Lakeview suite
+
+- ID: LAZY-beautyview-lakeview-suite
+- Town / area (approximate map location): West Kelowna, BC
+- Type: House
+- Description: A 1,300 sq ft walkout suite in West Kelowna with a private seasonal pool, hot tub, infrared sauna, covered deck and lake views.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 8
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Published policy: Unknown
+- Pet policy: Published policy: Unknown
+- Website (book here, directly with the host): https://beautyview.lazy.vacations/
+
 ## Beehive Cottage
 
 - ID: ME-0148
@@ -1223,23 +1240,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family vacations
 - Pet policy: Yes — up to 2 dogs, 35 lb limit (exceptions inquire)
 - Website (book here, directly with the host): https://boothbayvacationhomes.com
-
-## Boston Commonwealth
-
-- ID: LAZY-boston-commonwealth
-- Town / area (approximate map location): Boston, MA
-- Type: House
-- Description: Behind the iron gate, blue-gray rooms open into a comfortable place to pause between city adventures. A king bed invites a late start; the planted terrace calls for a second cup of coffee.
-- Rooms: Unknown
-- Bedrooms: 1
-- Bathrooms: 1
-- Sleeps: Conflicting published capacities: 2, 3
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Unknown
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://commonwealth.lazy.vacations/
 
 ## Boyce's Motel & Apartments
 
@@ -1556,40 +1556,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
 
-## Cape Ann Special
-
-- ID: LAZY-cape-ann-special
-- Town / area (approximate map location): Holbrook, MA
-- Type: House
-- Description: Everything you need for a smooth, easy stay — arrival, the house, and the little things.
-- Rooms: Unknown
-- Bedrooms: 6
-- Bathrooms: 4
-- Sleeps: 10
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: yes
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Yes
-- Website (book here, directly with the host): https://loon-cottage.pleasant.vacations/
-
-## Cape Cod Cottage
-
-- ID: LAZY-cape-cod-coastal-cottage
-- Town / area (approximate map location): Holbrook, MA
-- Type: House
-- Description: Weathered shingles outside; soft color, generous seating and familiar comforts within. Follow the house from its garden path to the fireplace, the kitchen table and the terrace.
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: 1
-- Sleeps: Conflicting published capacities: 1, 4
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Unknown
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://capecod.lazy.vacations/
-
 ## CARDINAL LIMIT 3
 
 - ID: ME-0585
@@ -1668,23 +1634,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Homepage welcomes all couples and families
 - Website (book here, directly with the host): https://www.channelcottages.com/
 
-## Chicago MCM
-
-- ID: LAZY-chicago-mcm
-- Town / area (approximate map location): Chicago, IL
-- Type: Apartment
-- Description: A gray sofa, a bright accent chair, warm wood, and exposed brick make the living room comfortable from the moment you arrive.
-- Rooms: Unknown
-- Bedrooms: 1
-- Bathrooms: 1
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://chicago-mcm.lazy.vacations/
-
 ## CHICKADEE LIMIT 4
 
 - ID: ME-0591
@@ -1730,6 +1679,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=182761
+
+## Clearlake Paradise
+
+- ID: LAZY-clearlake-paradise
+- Town / area (approximate map location): Clearlake Oaks, CA
+- Type: Unknown
+- Description: The private Finnish sauna seats four and sits in the backyard. After time on the water, enjoy the warmth, then step outside for fresh air and the view.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Children policy: Published policy: Unknown
+- Pet policy: Published policy: Yes
+- Website (book here, directly with the host): https://clearlake-paradise.lazy.vacations/
 
 ## CLEARVIEW LIMIT 6
 
@@ -2000,6 +1966,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=500
+
+## Cozy Retreat in Lisbon Falls
+
+- ID: LAZY-cozy-retreat-in-lisbon-falls
+- Town / area (approximate map location): Lisbon, ME
+- Type: Unknown
+- Description: A welcoming two-bedroom home on a quiet one-acre lot in Lisbon Falls, Maine. The entire home sleeps up to four, with room to gather indoors and an open grassy yard outside.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Children policy: Published policy: Unknown
+- Pet policy: Published policy: Yes
+- Website (book here, directly with the host): https://lisbon-falls-retreat.lazy.vacations/
 
 ## Cranmore Condominiums
 
@@ -2649,23 +2632,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=285
-
-## Florida Paradise
-
-- ID: LAZY-florida-pool-home
-- Town / area (approximate map location): Tampa, FL
-- Type: House
-- Description: Open the doors to bright rooms, comfortable corners, and water views that keep drawing you outside. The pool sets the pace; the screened terrace keeps everyone together for lunch.
-- Rooms: Unknown
-- Bedrooms: 3
-- Bathrooms: 2
-- Sleeps: 6
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: yes
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Yes
-- Website (book here, directly with the host): https://florida.lazy.vacations/
 
 ## Flower Brook Farm
 
@@ -3525,23 +3491,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://katahdinshadows.com
 
-## Kawaii Beach House
-
-- ID: LAZY-kawaii-beach-house
-- Town / area (approximate map location): Anahola, HI
-- Type: House
-- Description: A bright great room, a kitchen ready for shared meals, and a lanai made for lingering. Take a look around, then choose where to enjoy your first quiet moment.
-- Rooms: Unknown
-- Bedrooms: 3
-- Bathrooms: 2
-- Sleeps: 5
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Unknown
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://kawaii.lazy.vacations/
-
 ## KENDALL COTTAGE LIMIT 6
 
 - ID: ME-0524
@@ -3710,23 +3659,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=155199
-
-## Lake Champlain Place
-
-- ID: LAZY-lake-champlain-place
-- Town / area (approximate map location): Lake Champlain, VT
-- Type: Cabin
-- Description: Arrive through the trees and settle into rooms made for quiet days. The kitchen is close at hand, the sofa catches the afternoon light, and the lake keeps drawing you outside.
-- Rooms: Unknown
-- Bedrooms: 1
-- Bathrooms: 1
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://lake-champlain.lazy.vacations/
 
 ## Lake Megunticook Vacation Rental
 
@@ -4763,23 +4695,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196366
 
-## Miami Fam Stay
-
-- ID: LAZY-miami-fam-stay
-- Town / area (approximate map location): Miami, FL
-- Type: House
-- Description: A queen bedroom, a twin bedroom, and one full bathroom. Cook a favorite meal, wash the beach clothes, and keep the routines that make everyone feel at home.
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: 1
-- Sleeps: 4
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://miami-fam.lazy.vacations/
-
 ## Middle Way Cottage/Newcastle
 
 - ID: ME-0464
@@ -4811,23 +4726,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/325878
-
-## Mission Base
-
-- ID: LAZY-mission-base
-- Town / area (approximate map location): San Francisco, CA
-- Type: Apartment
-- Description: Start at the window with coffee. Come back for a shower and a rest. The studio keeps the practical side of a city break simple.
-- Rooms: Unknown
-- Bedrooms: 0
-- Bathrooms: 1
-- Sleeps: 2
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://mission-sf.lazy.vacations/
 
 ## Moody Beach Vacation Rentals
 
@@ -5082,23 +4980,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/347043
 
-## Nashville Crow Nest
-
-- ID: LAZY-nashville-crow-nest
-- Town / area (approximate map location): Nashville, TN
-- Type: Apartment
-- Description: Leather worn soft, brick that catches the lamplight, and a turntable ready for the first side. Crow Nest gives you a comfortable place to listen, recharge, and watch the city change after dark.
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: 1
-- Sleeps: 4
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://nashville-crow-nest.lazy.vacations/
-
 ## Nautical Point
 
 - ID: ME-0395
@@ -5163,23 +5044,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/427524
 
-## New York Midtown Place
-
-- ID: LAZY-nyc-midtown-city-loft
-- Town / area (approximate map location): New York, NY
-- Type: Apartment
-- Description: Tucked on a quiet floor of a prewar building, this one-bedroom is the kind of place you sink into after a long day of walking the city. Original hardwood floors, tall windows, plenty of space.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: 1
-- Sleeps: 2
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://nyc-midtown.lazy.vacations/
-
 ## Newfound Lake & Ski House
 
 - ID: NH-0072
@@ -5226,23 +5090,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/niblet-cottage/
-
-## Noe Valley Studio
-
-- ID: LAZY-noe-valley-studio
-- Town / area (approximate map location): San Francisco, CA
-- Type: Apartment
-- Description: Plants soften the entrance and make the patio feel tucked away from the city. Inside, warm wood, comfortable seating, and a compact kitchen give you the everyday comforts of home.
-- Rooms: Unknown
-- Bedrooms: 1
-- Bathrooms: 1
-- Sleeps: 4
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://noe-valley-sf.lazy.vacations/
 
 ## North Camps
 
@@ -5755,23 +5602,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=355
-
-## Philly Home
-
-- ID: LAZY-philly-home
-- Town / area (approximate map location): Philadelphia, PA
-- Type: House
-- Description: Come in from the brick-lined street and leave the day at the door. Sunlit rooms, warm wood floors, and a generous kitchen make this fictional rowhome a welcoming base for four curious travelers.
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: 2
-- Sleeps: 4
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Unknown
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://philly-home.lazy.vacations/
 
 ## PHOEBE LIMIT 3
 
@@ -6350,6 +6180,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family/kids explicitly welcome
 - Pet policy: Yes — dogs stay free
 - Website (book here, directly with the host): https://ryanestaterentals.com
+
+## Sabattus Shalomus
+
+- ID: LAZY-sabattus-shalomus
+- Town / area (approximate map location): Sabattus, ME
+- Type: House
+- Description: A freshly renovated waterfront house with a private dock, a motor boat, and a fantastic view of the water. Kids and pets are welcome, and there are no cleaning fees.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Published policy: Yes
+- Pet policy: Published policy: Yes
+- Website (book here, directly with the host): https://sabattus.lazy.vacations/
 
 ## Sally Mountain Cabins
 
@@ -7433,23 +7280,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=410
-
-## Tahoe Cabin
-
-- ID: LAZY-tahoe-cabin
-- Town / area (approximate map location): Lake Tahoe, CA
-- Type: Cabin
-- Description: Wood-lined rooms, generous windows, and a deck made for lingering. Follow the path from the living room to the garden sauna, then down toward the lake.
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: 2
-- Sleeps: 4
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Children policy: Published demo policy: Unknown
-- Pet policy: Published demo policy: Unknown
-- Website (book here, directly with the host): https://tahoe-cabin.lazy.vacations/
 
 ## Tapley Farm
 
@@ -8557,23 +8387,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Marketing to families
 - Pet policy: Designated dog-friendly accommodation; separate dog policy not yet read
 - Website (book here, directly with the host): https://easternslopeinn.com/lodging/village-place/
-
-## Virginia Cottage
-
-- ID: LAZY-virginia-cottage
-- Town / area (approximate map location): Crozet, VA
-- Type: House
-- Description: Clover Hill is a small country cottage, not a grand house, and that is exactly the point.
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: 1
-- Sleeps: 4
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: yes
-- Children policy: Published demo policy: Yes
-- Pet policy: Published demo policy: Yes
-- Website (book here, directly with the host): https://virginia-cottage.lazy.vacations/
 
 ## Visit Sunday River Vacation Rentals
 
