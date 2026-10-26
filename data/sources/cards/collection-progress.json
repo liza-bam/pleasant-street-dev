@@ -1,6 +1,8 @@
 {
-  "properties": 531,
-  "missingDescriptions": [
+  "checkedOn": "2026-10-25",
+  "retainedRecords": 531,
+  "activeCards": 524,
+  "initialMissingDescriptions": [
     "ME-0071",
     "ME-0148",
     "ME-0040",
@@ -15,7 +17,7 @@
     "ME-0189",
     "ME-0023"
   ],
-  "needTwoExtraPhotos": [
+  "initialPhotoGaps": [
     "ME-0101",
     "VT-0071",
     "ME-0003",
@@ -75,5 +77,21 @@
     "VT-0042",
     "VT-0035",
     "VT-0069"
-  ]
+  ],
+  "activeMissingDescriptions": [],
+  "activePhotoGaps": [],
+  "heldRecords": [
+    "ME-0076",
+    "ME-0175",
+    "ME-0218",
+    "ME-0228",
+    "ME-0259",
+    "ME-0261",
+    "ME-0270"
+  ],
+  "platformLinkCheckUnavailable": [
+    "ME-0098",
+    "ME-0043"
+  ],
+  "notes": "All active cards have a source-based summary and three saved photographs. Two held records remain without a full three-photo card set; they are excluded from the directory."
 }
