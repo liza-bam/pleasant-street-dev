@@ -174,7 +174,7 @@
     "Strafford",
     "Sullivan"
   ],
-  "publication": "42 verified photo-ready NH listings prepared locally; live verification pending",
+  "publication": "42 verified photo-ready NH listings deployed and checked live in Map, Tiny and Large Cards on 2026-10-26; 16 verified records remain media-pending",
   "limitations": [
     "The DOM snapshot did not expose directory results that were visible in the screenshot and native accessibility tree; use the native accessibility state for these category pages.",
     "Deepwood cottage-detail widget failed; direct contact and main website remain available.",
@@ -205,19 +205,25 @@
   },
   "liveVerification": {
     "checkedOn": "2026-10-26",
-    "commit": "ce4f64f",
-    "cardsUrl": "https://liza-bam.github.io/pleasant-street-dev/?view=cards&size=tiny&place=NH",
+    "commit": "60dcd52",
+    "cardsUrl": "https://liza-bam.github.io/pleasant-street-dev/?view=cards&place=NH",
     "mapUrl": "https://liza-bam.github.io/pleasant-street-dev/?place=NH",
-    "visibleCount": 36,
-    "tinyCoverPhotosLoaded": 36,
-    "largePropertyPhotographsLoaded": 108,
-    "largeExtraThumbnails": 72,
+    "visibleCount": 42,
+    "tinyCoverPhotosLoaded": 42,
+    "largePropertyPhotographsLoaded": 126,
+    "largeExtraThumbnails": 84,
     "extrasFourByThree": true,
     "brokenPhotos": 0,
     "unresolvedRecordsExcludedFromPublicDirectory": true,
     "reviewedInventory": 77,
-    "verifiedEligible": 52,
-    "remainingUnverified": 12
+    "verifiedEligible": 58,
+    "remainingUnverified": 2,
+    "deferredIds": [
+      "NH-0064"
+    ],
+    "unresolvedIds": [
+      "NH-0076"
+    ]
   },
   "verificationAudit": {
     "reviewed": 77,
@@ -244,7 +250,7 @@
       "NH-0074"
     ],
     "checkedOn": "2026-10-26",
-    "publication": "Updated package prepared locally; new audit batch not yet deployed"
+    "publication": "Deployed in commit 60dcd52; live cards and map verified"
   },
   "agentWork": {
     "agents": 3,
