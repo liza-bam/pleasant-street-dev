@@ -14,12 +14,15 @@
   var destinationsEl = document.getElementById('ps-destinations');
   var filterToggle = document.getElementById('ps-filter-toggle'), filterCount = document.getElementById('ps-filter-count');
   var headerEl = document.querySelector('.app-header'), resultsEl = document.querySelector('.app-results');
+  var controlsRow = document.getElementById('ps-controls'), headerActions = document.querySelector('.app-header-actions');
+  var cardControls = document.querySelector('.app-card-controls'), appBar = document.querySelector('.app-bar');
   var bodyEl = document.querySelector('.app-body'), filterPanel = document.getElementById('ps-filter-panel');
   var sheetHandle = document.getElementById('ps-sheet-handle'), sheetRatio = 0.48, sheetDrag = null;
   var sheetCount = document.getElementById('ps-sheet-count');
   var selectedEl = document.getElementById('ps-selected'), selectedBody = document.getElementById('ps-selected-content');
   var selectedTitle = document.getElementById('ps-selected-title'), selectedClose = document.getElementById('ps-selected-close');
   var selectedHome = null, priorSheetRatio = 0.48;
+  var mapHeaderCompact = false;
   var searchDialog = document.getElementById('ps-search'), searchWhere = document.getElementById('ps-search-where');
   var guestValue = document.getElementById('ps-guests-value'), guestLess = document.getElementById('ps-guests-less'), guestMore = document.getElementById('ps-guests-more');
   var searchGuests = 1, clearSearchFilters = false;
@@ -65,11 +68,15 @@
   function syncMapScroll() {
     if (phoneLayout.matches) {
       map.scrollWheelZoom.disable();
+      if (headerActions.parentElement !== controlsRow) controlsRow.appendChild(headerActions);
+      if (cardControls.parentElement !== controlsRow) controlsRow.appendChild(cardControls);
       if (filterPanel.parentElement !== headerEl) headerEl.appendChild(filterPanel);
       q.placeholder = 'Where to?';
       q.readOnly = true; q.setAttribute('aria-haspopup', 'dialog');
     } else {
       map.scrollWheelZoom.enable();
+      if (headerActions.parentElement !== appBar) appBar.appendChild(headerActions);
+      if (cardControls.parentElement !== filterPanel) filterPanel.appendChild(cardControls);
       if (filterPanel.parentElement !== resultsEl) resultsEl.insertBefore(filterPanel, listEl);
       q.placeholder = 'Where to? City or state';
       q.readOnly = false; q.removeAttribute('aria-haspopup');
@@ -78,9 +85,21 @@
     }
     (homes || []).forEach(syncMarkerPopup);
     if (loaded) show();
+    syncHeaderFold();
   }
   phoneLayout.addEventListener('change', syncMapScroll);
   syncMapScroll();
+  function syncHeaderFold() {
+    if (!phoneLayout.matches) return;
+    app.style.setProperty('--header-fold', Math.max(0, controlsRow.getBoundingClientRect().top - headerEl.getBoundingClientRect().top) + 'px');
+  }
+  if (window.ResizeObserver) new ResizeObserver(syncHeaderFold).observe(headerEl);
+  function syncCompactHeader() {
+    app.classList.toggle('app--map-compact', phoneLayout.matches && view === 'map' && (sheetRatio >= 0.99 || mapHeaderCompact));
+  }
+  listEl.addEventListener('scroll', function () {
+    if (phoneLayout.matches && view === 'map' && listEl.scrollTop > 16 && !selectedHome) { mapHeaderCompact = true; syncCompactHeader(); }
+  }, { passive: true });
   /* Every home but the featured ones gathers into a circle with its count; a circle splits as the map
      zooms in, and homes on one spot fan out when it is clicked. Featured homes stay pins, on the map itself,
      so pins and circles always add up to the homes in the list. */
@@ -99,6 +118,10 @@
   });
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function known(v) { return v !== undefined && v !== null && v !== '' && v !== 'Unknown'; }
+  // Count confirmed card features; conditional policies remain incomplete.
+  function featureCompleteness(h) {
+    return ['guests', 'bedrooms', 'bathrooms', 'pets', 'kids'].filter(function (key) { return known(h[key]) && h[key] !== 'Conditional'; }).length;
+  }
   function factIcon(kind) {
     var paths = {
       guests: '<circle cx="9" cy="7" r="3"/><path d="M3 21v-3a6 6 0 0 1 12 0v3M16 4a3 3 0 0 1 0 6M21 21v-3a6 6 0 0 0-4-5"/>',
@@ -148,12 +171,11 @@
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
       '<div class="ps-gallery">' + listingBadge(h) + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
-      (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true">1 / ' + Math.max(images.length, 1) + '</span>' : gallery) + '</div>' +
+      (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true"' + (images.length <= 1 ? ' hidden' : '') + '>' + images.map(function (_, i) { return '<span' + (i ? '' : ' class="is-active"') + '></span>'; }).join('') + '</span>' : gallery) + '</div>' +
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(h.place) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(h.place) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
-      (!tiny && (/operator|manager/i.test(h.recordType || '') || h.cardPhotoLabel) ? '<p class="ps-home__operator">' + esc(h.cardPhotoLabel || 'Rental operator') + '</p>' : '') +
       (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
-      (tiny ? '' : factRows(h)) +
-      (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
+      (tiny ? '' : factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
+      (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : tiny || detail ? '' : '<p class="ps-home__missing" aria-hidden="true"></p>') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       (detail ? '' : '<a class="ps-action ps-action--claim" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' by email">Claim my house</a>') + '</div></div></article>';
   }
@@ -256,11 +278,18 @@
     return shown;
   }
   function setSheetRatio(ratio) {
-    sheetRatio = Math.max(0.12, Math.min(0.94, ratio));
+    var minimum = selectedHome ? 0.28 : 0.12;
+    sheetRatio = Math.max(minimum, Math.min(1, ratio));
     app.style.setProperty('--sheet-height', (sheetRatio * 100) + '%');
     app.classList.toggle('app--sheet-collapsed', sheetRatio < 0.24);
+    app.classList.toggle('app--sheet-expanded', sheetRatio >= 0.99);
+    app.classList.toggle('app--detail-peek', !!selectedHome && sheetRatio < 0.55);
+    if (sheetRatio < 0.8) mapHeaderCompact = false;
+    syncCompactHeader();
+    sheetHandle.setAttribute('aria-label', selectedHome ? 'Property card height' : 'Results panel height');
+    sheetHandle.setAttribute('aria-valuemin', Math.round(minimum * 100));
     sheetHandle.setAttribute('aria-valuenow', Math.round(sheetRatio * 100));
-    sheetHandle.setAttribute('aria-valuetext', 'Results panel ' + Math.round(sheetRatio * 100) + '% open');
+    sheetHandle.setAttribute('aria-valuetext', (selectedHome ? 'Property card ' : 'Results panel ') + Math.round(sheetRatio * 100) + '% open');
   }
   sheetHandle.addEventListener('pointerdown', function (e) {
     if (e.button !== 0 || !phoneLayout.matches || view !== 'map') return;
@@ -276,19 +305,20 @@
   function endSheetDrag(e) {
     if (!sheetDrag || e.pointerId !== sheetDrag.id) return;
     var delta = e.clientY - sheetDrag.y, start = sheetDrag.ratio;
-    var stops = [0.12, 0.48, 0.94];
+    var stops = selectedHome ? [0.28, 0.72, 1] : [0.12, 0.48, 1];
     var next = stops.reduce(function (best, stop) { return Math.abs(stop - sheetRatio) < Math.abs(best - sheetRatio) ? stop : best; }, stops[0]);
-    if (Math.abs(delta) < 4) next = sheetRatio < 0.3 ? 0.48 : sheetRatio < 0.7 ? 0.94 : 0.12;
-    else if (Math.abs(delta) > 35 && Math.abs(next - start) < 0.05) next = delta > 0 ? stops.filter(function (s) { return s < start - 0.05; }).pop() || 0.12 : stops.find(function (s) { return s > start + 0.05; }) || 0.94;
+    if (Math.abs(delta) < 4) next = sheetRatio < stops[1] - 0.05 ? stops[1] : sheetRatio < 0.95 ? 1 : stops[0];
+    else if (Math.abs(delta) > 35 && Math.abs(next - start) < 0.05) next = delta > 0 ? stops.filter(function (s) { return s < start - 0.05; }).pop() || stops[0] : stops.find(function (s) { return s > start + 0.05; }) || 1;
     sheetDrag = null;
     app.classList.remove('app--sheet-dragging');
     setSheetRatio(next);
+    frameSelected();
   }
   sheetHandle.addEventListener('pointerup', endSheetDrag);
   sheetHandle.addEventListener('pointercancel', function () { sheetDrag = null; app.classList.remove('app--sheet-dragging'); });
   sheetHandle.addEventListener('keydown', function (e) {
-    var next = e.key === 'ArrowUp' ? sheetRatio + 0.1 : e.key === 'ArrowDown' ? sheetRatio - 0.1 : e.key === 'Home' ? 0.12 : e.key === 'End' ? 0.94 : null;
-    if (next !== null) { e.preventDefault(); setSheetRatio(next); }
+    var next = e.key === 'ArrowUp' ? sheetRatio + 0.1 : e.key === 'ArrowDown' ? sheetRatio - 0.1 : e.key === 'Home' ? (selectedHome ? 0.28 : 0.12) : e.key === 'End' ? 1 : null;
+    if (next !== null) { e.preventDefault(); setSheetRatio(next); frameSelected(); }
   });
   function closeSelected(collapse, focus) {
     if (!selectedHome) return;
@@ -311,14 +341,18 @@
     selectedBody.scrollTop = 0;
     selectedEl.hidden = false; listEl.hidden = true;
     app.classList.add('app--detail-open');
+    setSheetRatio(0.28);
     map.closePopup();
-    if (h.marker) {
-      h.marker.setZIndexOffset(2000);
-      map.setView(h.marker.getLatLng(), Math.max(map.getZoom(), 11), { animate: false });
-      map.panBy([0, resultsEl.getBoundingClientRect().height / 2], { animate: false });
-      var icon = h.marker.getElement(); if (icon) icon.classList.add('ps-marker--selected');
-    }
+    frameSelected();
     selectedClose.focus({ preventScroll: true });
+  }
+  function frameSelected() {
+    var h = selectedHome;
+    if (!h || !h.marker || sheetRatio >= 0.99) return;
+    h.marker.setZIndexOffset(2000);
+    map.setView(h.marker.getLatLng(), Math.max(map.getZoom(), 11), { animate: false });
+    map.panBy([0, bodyEl.clientHeight * sheetRatio / 2], { animate: false });
+    var icon = h.marker.getElement(); if (icon) icon.classList.add('ps-marker--selected');
   }
   document.getElementById('ps-selected-back').addEventListener('click', function () { closeSelected(false); });
   selectedClose.addEventListener('click', function () { closeSelected(true); });
@@ -339,7 +373,10 @@
     var strip = e.target;
     if (!strip.classList || !strip.classList.contains('ps-photo-strip')) return;
     var count = strip.parentElement.querySelector('.ps-photo-count');
-    if (count && strip.clientWidth) count.textContent = Math.round(strip.scrollLeft / strip.clientWidth + 1) + ' / ' + strip.children.length;
+    if (count && strip.clientWidth) {
+      var index = Math.round(strip.scrollLeft / strip.clientWidth);
+      Array.from(count.children).forEach(function (dot, i) { dot.classList.toggle('is-active', i === index); });
+    }
   }, { capture: true, passive: true });
   function syncArea() {
     if (view !== 'map') return;
@@ -376,7 +413,7 @@
       counts[h.place] = (counts[h.place] || 0) + 1;
     });
     var places = Object.keys(counts).filter(function (p) { return counts[p] >= POPULAR_MIN_LISTINGS; }).sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); }).slice(0, POPULAR_MAX_DESTINATIONS);
-    destinationsEl.hidden = !places.length;
+    destinationsEl.hidden = true; // Popular destinations are deferred until the catalog is ready.
     destinationsEl.innerHTML = '<span class="app-destinations__label">Popular destinations</span><button type="button" data-place="" aria-pressed="false">All places</button>' + places.map(function (p) {
       return '<button type="button" data-place="' + esc(p) + '" aria-pressed="false" title="' + counts[p] + ' real listings before filters">' + esc(p.split(',')[0]) + '<span>' + counts[p] + '</span></button>';
     }).join('');
@@ -412,6 +449,7 @@
   function setView(next) {
     if (next === 'cards') closeSelected(false, false);
     view = next;
+    syncCompactHeader();
     app.classList.toggle('app--cards', view === 'cards');
     viewSwitch.querySelectorAll('[data-view]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.view === view)); });
     var params = new URLSearchParams(location.search);
@@ -449,7 +487,7 @@
   /* The homes: index.json, written from the database by tools/build-index.mjs. */
   fetch(map.getContainer().dataset.src || 'index.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (list) {
     homes = list.slice().sort(function (a, b) {
-      return Number(b.featured === true) - Number(a.featured === true) || a.name.localeCompare(b.name);
+      return Number(b.featured === true) - Number(a.featured === true) || featureCompleteness(b) - featureCompleteness(a) || a.name.localeCompare(b.name);
     }).map(function (h) {
       var markerOptions = { title: h.name, alt: h.name, zIndexOffset: h.featured === true ? 1000 : 0 };
       if (h.featured === true) markerOptions.icon = featuredIcon;

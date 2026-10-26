@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=22">
+<link rel="stylesheet" href="assets/app.css?v=23">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
@@ -35,10 +35,11 @@
     </div>
     </div>
     <nav class="app-destinations" id="ps-destinations" aria-label="Popular destinations" hidden></nav>
+    <div class="app-control-row" id="ps-controls"></div>
   </header>
   <main class="app-body">
     <section class="app-results" aria-label="Homes">
-      <div class="ps-sheet-handle" id="ps-sheet-handle" role="slider" tabindex="0" aria-label="Results panel height" aria-orientation="vertical" aria-valuemin="12" aria-valuemax="94" aria-valuenow="48" aria-valuetext="Results panel 48% open" title="Drag down for a larger map, or up for more results"><span class="ps-sheet-grip"></span><span class="ps-sheet-count" id="ps-sheet-count">Homes</span></div>
+      <div class="ps-sheet-handle" id="ps-sheet-handle" role="slider" tabindex="0" aria-label="Results panel height" aria-orientation="vertical" aria-valuemin="12" aria-valuemax="100" aria-valuenow="48" aria-valuetext="Results panel 48% open" title="Drag down for a larger map, or up for more results"><span class="ps-sheet-grip"></span><span class="ps-sheet-count" id="ps-sheet-count">Homes</span></div>
       <div class="app-filters" id="ps-filter-panel">
         <div class="app-filter-fields" id="ps-filter-fields">
         <label class="app-sleeps"><span class="app-sleeps__head">Sleeps <b id="ps-sleeps-out">any</b></span>
@@ -89,6 +90,6 @@
 </dialog>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-<script src="assets/map.js?v=22"></script>
+<script src="assets/map.js?v=23"></script>
 </body>
 </html>
