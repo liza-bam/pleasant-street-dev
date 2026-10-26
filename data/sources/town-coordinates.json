@@ -1223,5 +1223,12 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Twin+Mountain%2C+NH%2C+USA&format=json&limit=1",
   "label": "Twin Mountain, Carroll, Coös County, New Hampshire, 03595, United States",
   "checked": "2026-10-26"
+ },
+ "Conway, NH, USA": {
+  "lat": 44.0005,
+  "lng": -71.073,
+  "source": "https://nominatim.openstreetmap.org/search?q=Conway%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Conway, Carroll County, New Hampshire, United States",
+  "checked": "2026-10-26"
  }
 }

@@ -72,5 +72,38 @@
     "remainingGaps": [
       "Unit-specific capacity and bedrooms; operator record spans multiple cabins"
     ]
+  },
+  "NH-0077": {
+    "id": "NH-0077",
+    "state": "NH",
+    "checkedOn": "2026-10-26",
+    "canonicalUrl": "https://www.theconsciouscabin.com/",
+    "openedUrls": [
+      "https://www.theconsciouscabin.com/",
+      "https://www.theconsciouscabin.com/faqs",
+      "https://www.theconsciouscabin.com/about",
+      "https://theconsciouscabin.holidayfuture.com/listings/440133"
+    ],
+    "contactPagesChecked": [
+      "https://www.theconsciouscabin.com/about",
+      "https://www.theconsciouscabin.com/faqs"
+    ],
+    "operatorEvidenceUrl": "https://www.theconsciouscabin.com/about",
+    "bookingMethod": "Operator-controlled Hostaway/Holidayfuture direct-booking page and direct contact form/email",
+    "bookingUrl": "https://theconsciouscabin.holidayfuture.com/listings/440133",
+    "eligibilityStatus": "Verified independent website",
+    "notes": "Woman-owned and managed by Cassouki Chouramanis; owner story describes purchase and renovation of this Conway property. Only the main cabin is rented; other on-site structures serve retreats. FAQ says ideally 2 guests, up to 4 with one bedroom and a ladder-access loft; direct booking summary says 2 guests and 2 bedrooms. Capacity and bedroom count are held Unknown because of this conflict. Direct booking calendar, Book now controls and contact email inspected without booking. No separate Contact page is linked; the About page has a contact form and published street address, also repeated in FAQ/footer. Airbnb link opened and resolved to matching Conscious Cabin listing in Conway, New Hampshire. Research eligibility only; no owner participation established.",
+    "remainingGaps": [
+      "Capacity and bedroom terminology conflict between FAQ and booking header",
+      "Published current dated rate",
+      "ZIP code verified only in tourism directory, not on checked operator pages"
+    ],
+    "faqObservations": {
+      "pets": "Up to two well-behaved dogs, $99 pet fee; no cats. Crate required if left alone; caution near busy road.",
+      "capacity": "Conflicting official sources: FAQ says ideally 2, maximum 4 using bedroom plus ladder-access loft; direct-booking header says 2 guests and 2 bedrooms. Ask host to resolve before using numeric capacity/bedrooms.",
+      "location": "1684 NH-16 Conway NH",
+      "minimumStay": "Two nights; occasional single-night gaps",
+      "rentalIdentity": "Only the main cabin is rented"
+    }
   }
 }

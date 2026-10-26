@@ -92,18 +92,21 @@ Reapply reviewed facts/media with `python3 tools/prepare-vermont.py`, then impor
 ## New Hampshire research — first checked batch
 
 `data/sources/new-hampshire/new_hampshire_independent_rental_websites.csv` retains 76 statewide
-directory candidates in the existing 49-column format. Its separate approved export currently
-contains three checked operators: Deepwood Lodges, Ames Farm Inn and The Patio Cabins. The
+directory candidates and one regional addition in the existing 49-column format. Its separate
+approved export contains Deepwood Lodges, Ames Farm Inn, The Patio Cabins and The Conscious Cabin. The
 candidate export retains 72 unverified leads and one confirmed duplicate-name audit row.
 This is an initial batch, not completed statewide research. Regional, town, aggregator and
 platform discovery passes remain tracked in `research-progress.json`; Massachusetts and Rhode
 Island follow New Hampshire.
 
-The three checked operators each have four saved authentic photos, source-based descriptions,
+The four checked records each have four saved authentic photos, source-based descriptions,
 official campus/contact addresses and inspected direct inquiry or booking paths. Capacity and
 bedrooms remain Unknown where they vary by unit. Shared-campus photos are labeled; the Patio
 set specifically shows Cabin 1. Source URLs, eligibility, address and photo provenance are
-saved beside the CSV. No qualifying Airbnb/Vrbo/Booking.com links were found on the checked pages.
+saved beside the CSV. The Conscious Cabin has an attributable Airbnb badge; its actual link
+is retained in the CSV. Its FAQ and booking page disagree about capacity/bedroom terminology,
+so those conflicting numeric facts remain Unknown. The other three checked sites had no
+qualifying Airbnb/Vrbo/Booking.com links on the opened pages.
 
 Reimport with `python3 tools/import.py data/sources/new-hampshire/approved-import.json --source found`,
 then `python3 tools/prepare-cards.py`, `node tools/build-index.mjs`, `node tools/verify-catalog.mjs`

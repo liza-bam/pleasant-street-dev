@@ -7164,5 +7164,32 @@
     ],
     "checkedOn": "2026-10-26",
     "status": "Checked opened pages; no qualifying links found"
+  },
+  {
+    "id": "NH-0077",
+    "name": "The Conscious Cabin",
+    "website": "https://www.theconsciouscabin.com/",
+    "platformLinks": {
+      "airbnb": [
+        "https://airbnb.com/h/theconsciouscabin"
+      ]
+    },
+    "evidence": [
+      {
+        "platform": "airbnb",
+        "url": "https://airbnb.com/h/theconsciouscabin",
+        "sourceUrl": "https://www.theconsciouscabin.com/",
+        "resolvedUrl": "https://www.airbnb.com/rooms/23238793?source_impression_id=p3_1793049901_P35e6Gf75ZpVh_UG",
+        "identity": "Matching Conscious Cabin listing in Conway, New Hampshire, title checked on opened Airbnb page"
+      }
+    ],
+    "checkedPages": [
+      "https://www.theconsciouscabin.com/",
+      "https://www.theconsciouscabin.com/faqs",
+      "https://www.theconsciouscabin.com/about",
+      "https://theconsciouscabin.holidayfuture.com/listings/440133"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked; attributable Airbnb listing link found"
   }
 ]

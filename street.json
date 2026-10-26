@@ -8177,6 +8177,26 @@
   "demo": false
  },
  {
+  "id": "NH-0077",
+  "name": "The Conscious Cabin",
+  "url": "https://www.theconsciouscabin.com/",
+  "place": "Conway, NH",
+  "lat": 44.0005,
+  "lng": -71.073,
+  "photo": "images/NH-0077-card.webp",
+  "capacityDetails": "Conflicting official sources: FAQ says ideally 2, maximum 4 using bedroom plus ladder-access loft; direct-booking header says 2 guests and 2 bedrooms. Ask host to resolve before using numeric capacity/bedrooms.",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Owner-run log cabin in Conway with a fireplace, kitchen and private wooded backyard, offering direct bookings and optional retreats.",
+  "bathrooms": 1,
+  "kids": "Yes",
+  "kidsDetails": "Suitable for children on direct-booking amenities; loft accessed by secured ladder.",
+  "petsDetails": "Up to two well-behaved dogs, $99 pet fee; no cats. Crate required if left alone; caution near busy road.",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0574",
   "name": "THE COTTAGE LIMIT 6",
   "url": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=537",

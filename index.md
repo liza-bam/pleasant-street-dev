@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-527 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+528 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1901 HOUSE LIMIT 10
 
@@ -7095,6 +7095,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: The expanded Stay-page FAQ explicitly welcomes children.
 - Pet policy: Expanded Stay-page FAQ says pets are by arrangement; contact the operator at 802-216-8866.
 - Website (book here, directly with the host): https://thecobblehouse.com/
+
+## The Conscious Cabin
+
+- ID: NH-0077
+- Town / area (approximate map location): Conway, NH
+- Type: Cabin
+- Description: Owner-run log cabin in Conway with a fireplace, kitchen and private wooded backyard, offering direct bookings and optional retreats.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Conflicting official sources: FAQ says ideally 2, maximum 4 using bedroom plus ladder-access loft; direct-booking header says 2 guests and 2 bedrooms. Ask host to resolve before using numeric capacity/bedrooms.
+- Price: Choose dates on direct-booking site for total nightly price. FAQ states two-night minimum, with occasional single-night gaps.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children on direct-booking amenities; loft accessed by secured ladder.
+- Pet policy: Up to two well-behaved dogs, $99 pet fee; no cats. Crate required if left alone; caution near busy road.
+- Website (book here, directly with the host): https://www.theconsciouscabin.com/
 
 ## THE COTTAGE LIMIT 6
 

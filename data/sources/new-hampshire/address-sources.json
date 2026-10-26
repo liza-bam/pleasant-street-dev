@@ -37,5 +37,18 @@
     "notes": "Official website uses Twin Mountain; direct booking uses Carroll, the encompassing municipality, at 952 US-3 North. No separate Contact page is linked: contact footer on accommodation page and Address and Contact section of direct booking page both checked. Directory alias gives PO Box 147, not the rental entrance.",
     "checkedOn": "2026-10-26",
     "status": "Published on official website"
+  },
+  {
+    "id": "NH-0077",
+    "street": "1684 NH-16",
+    "city": "Conway",
+    "state": "NH",
+    "postalCode": "03818",
+    "full": "1684 NH-16, Conway, NH 03818",
+    "type": "Individual rental property",
+    "status": "Street and town published on official website; ZIP from tourism directory",
+    "sourceUrl": "https://www.theconsciouscabin.com/about",
+    "checkedOn": "2026-10-26",
+    "notes": "About contact form/footer and expanded location FAQ publish 1684 NH-16, Conway NH. ZIP 03818 comes from White Mountains regional profile, not the opened operator pages. The tourism office address is unrelated and was not assigned to this cabin."
   }
 ]

@@ -33676,6 +33676,75 @@
   "demo": false
  },
  {
+  "id": "NH-0077",
+  "name": "The Conscious Cabin",
+  "url": "https://www.theconsciouscabin.com/",
+  "place": "Conway, NH",
+  "town": "Conway",
+  "state": "NH",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Owner-run log cabin in Conway with a fireplace, kitchen and private wooded backyard, offering direct bookings and optional retreats.",
+  "descriptionSource": "https://www.theconsciouscabin.com/",
+  "descriptionStatus": "Paraphrased from verified source website",
+  "cardDescription": "Owner-run log cabin in Conway with a fireplace, kitchen and private wooded backyard, offering direct bookings and optional retreats.",
+  "cardDescriptionSource": "https://www.theconsciouscabin.com/",
+  "cardPhotos": [
+   "images/NH-0077-cover.webp",
+   "images/NH-0077-000.webp",
+   "images/NH-0077-001.webp"
+  ],
+  "platformLinks": {
+   "airbnb": [
+    "https://airbnb.com/h/theconsciouscabin"
+   ]
+  },
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Capacity and bedroom terminology conflict between FAQ and booking header",
+   "Published current dated rate",
+   "ZIP code verified only in tourism directory, not on checked operator pages"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Conflicting official sources: FAQ says ideally 2, maximum 4 using bedroom plus ladder-access loft; direct-booking header says 2 guests and 2 bedrooms. Ask host to resolve before using numeric capacity/bedrooms.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Choose dates on direct-booking site for total nightly price. FAQ states two-night minimum, with occasional single-night gaps.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Suitable for children on direct-booking amenities; loft accessed by secured ladder.",
+  "petsDetails": "Up to two well-behaved dogs, $99 pet fee; no cats. Crate required if left alone; caution near busy road.",
+  "lat": 44.0005,
+  "lng": -71.073,
+  "photo": "images/NH-0077-card.webp",
+  "coverPhoto": "images/NH-0077-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0077-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0077-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0077-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0077-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0574",
   "name": "THE COTTAGE LIMIT 6",
   "url": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=537",

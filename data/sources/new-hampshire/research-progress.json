@@ -32,7 +32,10 @@
         "https://www.visitwhitemountains.com/places-to-stay/vacation-rentals/"
       ],
       "listedLeads": 20,
-      "note": "Regional leads need merge/dedup and own-website checks."
+      "note": "Regional leads need merge/dedup and own-website checks.",
+      "processedLeadIds": [
+        "NH-0077"
+      ]
     },
     "townSearch": {
       "status": "Pending"
@@ -45,7 +48,8 @@
       "reviewedIds": [
         "NH-0001",
         "NH-0003",
-        "NH-0004"
+        "NH-0004",
+        "NH-0077"
       ]
     },
     "details": {
@@ -53,7 +57,8 @@
       "reviewedIds": [
         "NH-0001",
         "NH-0003",
-        "NH-0004"
+        "NH-0004",
+        "NH-0077"
       ]
     },
     "photosAndAddresses": {
@@ -61,7 +66,8 @@
       "reviewedIds": [
         "NH-0001",
         "NH-0003",
-        "NH-0004"
+        "NH-0004",
+        "NH-0077"
       ]
     },
     "gapReview": {
@@ -89,7 +95,7 @@
     "Strafford",
     "Sullivan"
   ],
-  "publication": "Three eligible records prepared locally; not deployed",
+  "publication": "First three records verified live on 2026-10-26; fourth checked property prepared locally, not deployed yet",
   "limitations": [
     "The DOM snapshot did not expose directory results that were visible in the screenshot and native accessibility tree; use the native accessibility state for these category pages.",
     "Deepwood cottage-detail widget failed; direct contact and main website remain available.",
@@ -97,11 +103,11 @@
     "All seven regional searches, individual towns, aggregators and platform discovery are not yet complete."
   ],
   "counts": {
-    "master": 76,
-    "verifiedEligible": 3,
+    "master": 77,
+    "verifiedEligible": 4,
     "sourceOnly": 72,
     "confirmedDuplicateAuditRows": 1,
-    "propertiesWithFourPhotos": 3,
-    "savedAuthenticPhotographs": 12
+    "propertiesWithFourPhotos": 4,
+    "savedAuthenticPhotographs": 16
   }
 }

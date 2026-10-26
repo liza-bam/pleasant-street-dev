@@ -226,5 +226,81 @@
     "sha256": "ef4f2e908f76509f01c8d3c358cf99fb2b22a6340654e079e3f4ef44bc684d14",
     "generated": false,
     "checkedOn": "2026-10-26"
+  },
+  {
+    "id": "NH-0077",
+    "role": "cover",
+    "url": "https://bookingenginecdn.hostaway.com/listing/168155-440133-LF--sK3eLVuLJMtuFovjB34XNF42MAYWNr42scXNGVvk-68e5236708680?width=1920&quality=70&format=webp&v=2",
+    "observedImageUrl": "https://bookingenginecdn.hostaway.com/listing/168155-440133-LF--sK3eLVuLJMtuFovjB34XNF42MAYWNr42scXNGVvk-68e5236708680?width=1920&quality=70&format=webp&v=2",
+    "sourcePage": "https://theconsciouscabin.holidayfuture.com/listings/440133",
+    "alt": "The Conscious Cabin \u2014 official direct-booking listing photo",
+    "file": "images/NH-0077-cover.webp",
+    "width": 1600,
+    "height": 1068,
+    "originalDimensions": [
+      1920,
+      1281
+    ],
+    "originalSha256": "d2de5761c7a4ea2af87efd9a53731d88804a7126a9ffd6450f91771f6f474ad6",
+    "sha256": "1124c1ca834b5f98f39e3376fbaca3e0fa8abbe21c6e27ac78f4632d2b75b275",
+    "generated": false,
+    "checkedOn": "2026-10-26"
+  },
+  {
+    "id": "NH-0077",
+    "role": "000",
+    "url": "https://bookingenginecdn.hostaway.com/listing/168155-440133-yukDXQYjy82jESuCVBxrHFNwY3p8RXKZ7y1QUBk4R8E-68e52365d9c24?width=1080&quality=70&format=webp&v=2",
+    "observedImageUrl": "https://bookingenginecdn.hostaway.com/listing/168155-440133-yukDXQYjy82jESuCVBxrHFNwY3p8RXKZ7y1QUBk4R8E-68e52365d9c24?width=1080&quality=70&format=webp&v=2",
+    "sourcePage": "https://theconsciouscabin.holidayfuture.com/listings/440133",
+    "alt": "The Conscious Cabin \u2014 official direct-booking listing photo",
+    "file": "images/NH-0077-000.webp",
+    "width": 1080,
+    "height": 1350,
+    "originalDimensions": [
+      1080,
+      1350
+    ],
+    "originalSha256": "55e97ca31545c0654f277d4c8f0e8727e198ffa4a97f0d68765182a7d47b76a2",
+    "sha256": "5d11c51941bcaa2f0a7c01af746e74b540b3e6b9ed95b328cb303be59e340e5a",
+    "generated": false,
+    "checkedOn": "2026-10-26"
+  },
+  {
+    "id": "NH-0077",
+    "role": "001",
+    "url": "https://bookingenginecdn.hostaway.com/listing/168155-440133-FXICqxXbmRzNddmwbkPLgE0SsTSPM4U5eUMcR6RPmz0-68e5236448ace?width=1080&quality=70&format=webp&v=2",
+    "observedImageUrl": "https://bookingenginecdn.hostaway.com/listing/168155-440133-FXICqxXbmRzNddmwbkPLgE0SsTSPM4U5eUMcR6RPmz0-68e5236448ace?width=1080&quality=70&format=webp&v=2",
+    "sourcePage": "https://theconsciouscabin.holidayfuture.com/listings/440133",
+    "alt": "The Conscious Cabin \u2014 official direct-booking listing photo",
+    "file": "images/NH-0077-001.webp",
+    "width": 1080,
+    "height": 1350,
+    "originalDimensions": [
+      1080,
+      1350
+    ],
+    "originalSha256": "e70f7534ddf4396ac653fdeed738ad5a93d1ccd560d8503669202158e406d185",
+    "sha256": "50b769853c3a5008a832b699c349bb53aa11463997b2cb2d9f814b82491284ba",
+    "generated": false,
+    "checkedOn": "2026-10-26"
+  },
+  {
+    "id": "NH-0077",
+    "role": "002",
+    "url": "https://bookingenginecdn.hostaway.com/listing/168155-440133-TgRKIylL7oHM--JfJNBUHdNzl--sxBdEMPeuHm6iZvpE4-68e536f33633b?width=1080&quality=70&format=webp&v=2",
+    "observedImageUrl": "https://bookingenginecdn.hostaway.com/listing/168155-440133-TgRKIylL7oHM--JfJNBUHdNzl--sxBdEMPeuHm6iZvpE4-68e536f33633b?width=1080&quality=70&format=webp&v=2",
+    "sourcePage": "https://theconsciouscabin.holidayfuture.com/listings/440133",
+    "alt": "The Conscious Cabin \u2014 official direct-booking listing photo",
+    "file": "images/NH-0077-002.webp",
+    "width": 1080,
+    "height": 721,
+    "originalDimensions": [
+      1080,
+      721
+    ],
+    "originalSha256": "75d5090a5ca8a7f2c8ab7ef5b1a67bf4431c04f50a137e5b69029018e118b487",
+    "sha256": "fbf8f4124e23f620bd10d3767805722654e43403b55c31853f01803ed336a1ef",
+    "generated": false,
+    "checkedOn": "2026-10-26"
   }
 ]
