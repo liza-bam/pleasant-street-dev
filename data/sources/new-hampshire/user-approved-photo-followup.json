@@ -1,0 +1,346 @@
+[
+  {
+    "id": "NH-0024",
+    "name": "Fernhill Cottages",
+    "sourcepages": [
+      "https://fernhillcottages.com/the-point-cottage/"
+    ],
+    "unitOrCampus": "Point Cottage",
+    "photos": [
+      {
+        "file": "images/NH-0024-cover.webp",
+        "url": "https://fernhillcottages.com/wp-content/uploads/2026/04/Point-cottage-mid-dock-1024x577.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "sha256": "d5f7fe5136400e4c419d8a480823b860dd08111132c1f735337d568787046cfc",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1024,
+        "originalHeight": 577,
+        "role": "cover",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0024-000.webp",
+        "url": "https://fernhillcottages.com/wp-content/uploads/2023/09/2023-point-sitting-room-1024x768.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "sha256": "beeec9d27671527aa8715cdab272d4f9b96a8ec2141fc0c39ed9266ebf196af8",
+        "width": 1024,
+        "height": 768,
+        "originalWidth": 1024,
+        "originalHeight": 768,
+        "role": "additional",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0024-001.webp",
+        "url": "https://fernhillcottages.com/wp-content/uploads/2025/08/Point-master-bedroom-1-1024x768.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "sha256": "ed23d3e80ffceb5d4f371be18e3cefda96de348eae2c1d562ea7e0a15d673924",
+        "width": 1024,
+        "height": 768,
+        "originalWidth": 1024,
+        "originalHeight": 768,
+        "role": "additional",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0024-002.webp",
+        "url": "https://fernhillcottages.com/wp-content/uploads/2020/09/point-front-window-2048x1536.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "sha256": "c4a2d6617c04ab07611aced07e9894809da8962dbb6a80597f1c05426860456d",
+        "width": 1600,
+        "height": 1200,
+        "originalWidth": 1600,
+        "originalHeight": 1200,
+        "role": "additional",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://fernhillcottages.com/wp-content/uploads/2026/04/Point-cottage-mid-dock-1024x577.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "alt": "Point Cottage exterior from dock",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://fernhillcottages.com/wp-content/uploads/2023/09/2023-point-sitting-room-1024x768.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "alt": "Point Cottage sitting room",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://fernhillcottages.com/wp-content/uploads/2025/08/Point-master-bedroom-1-1024x768.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "alt": "Point Cottage primary bedroom",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://fernhillcottages.com/wp-content/uploads/2020/09/point-front-window-2048x1536.jpg",
+        "sourcePage": "https://fernhillcottages.com/the-point-cottage/",
+        "alt": "Point Cottage lake-view windows",
+        "unitOrCampus": "Point Cottage",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "supportedUnitFacts": {
+      "unit": "Point Cottage",
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": "Unknown",
+      "capacityDetails": "Queen room and twin bunk room",
+      "pets": "No",
+      "priceFrom": 2090,
+      "currency": "USD",
+      "priceDetails": "$2090/week summer 2026, Saturday-Saturday, mid-June to Labor Day; includes8.5% NH room tax",
+      "source": "https://fernhillcottages.com/the-point-cottage/"
+    },
+    "notes": "All selected photos depict Point Cottage, not other Fernhill cottages. These facts apply only to Point Cottage.",
+    "checkedOn": "2026-10-26",
+    "verificationMethod": "Opened official galleries in connected Chrome1; rendered DOM and visible slideshow image URLs; ordinary image-asset downloads. No ownership review or inquiries.",
+    "sourcePages": [
+      "https://fernhillcottages.com/the-point-cottage/"
+    ],
+    "photoLabel": "Point Cottage photos",
+    "photoStatus": "3-4 authentic official-source images saved and locally visually reviewed; unit/campus identities retained",
+    "remainingGaps": []
+  },
+  {
+    "id": "NH-0026",
+    "name": "Weirs Beach Motel and Cottages",
+    "sourcepages": [
+      "https://www.weirsbeachmotel.com/rooms",
+      "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1"
+    ],
+    "unitOrCampus": "One Bedroom Cottage / Cottage9",
+    "photos": [
+      {
+        "file": "images/NH-0026-cover.webp",
+        "url": "https://static.wixstatic.com/media/b8cf1a_2b8ed1c4778c4542973171e6bce751a1~mv2.jpg/v1/fill/w_778,h_416,al_c,lg_1,q_80,enc_avif,quality_auto/b8cf1a_2b8ed1c4778c4542973171e6bce751a1~mv2.jpg",
+        "sourcePage": "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1",
+        "sha256": "7f941b5af4694a65bbe44d4356c6dfec767f77d7aa56859358da9e873235d8be",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 778,
+        "originalHeight": 416,
+        "role": "cover",
+        "unitOrCampus": "One Bedroom Cottage / Cottage9",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0026-000.webp",
+        "url": "https://static.wixstatic.com/media/b8cf1a_bbaa67d6919947ae9dfaa87e900ebc8c~mv2.jpg/v1/fill/w_960,h_514,al_c,lg_1,q_85,enc_avif,quality_auto/b8cf1a_bbaa67d6919947ae9dfaa87e900ebc8c~mv2.jpg",
+        "sourcePage": "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1",
+        "sha256": "d09929b2e4600dcdcc91cd695a65233f34016c494bf9fe2e2430400263214685",
+        "width": 960,
+        "height": 514,
+        "originalWidth": 960,
+        "originalHeight": 514,
+        "role": "additional",
+        "unitOrCampus": "One Bedroom Cottage / Cottage9",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0026-001.webp",
+        "url": "https://static.wixstatic.com/media/b8cf1a_816e58abd6b544b280a33e5ecaf5bf38~mv2.jpg/v1/fill/w_1636,h_876,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8cf1a_816e58abd6b544b280a33e5ecaf5bf38~mv2.jpg",
+        "sourcePage": "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1",
+        "sha256": "5586a549ad06102748f7f60549dce11f344529808d24e105d3c1add70efcb798",
+        "width": 1600,
+        "height": 857,
+        "originalWidth": 1636,
+        "originalHeight": 876,
+        "role": "additional",
+        "unitOrCampus": "One Bedroom Cottage / Cottage9",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/b8cf1a_2b8ed1c4778c4542973171e6bce751a1~mv2.jpg/v1/fill/w_778,h_416,al_c,lg_1,q_80,enc_avif,quality_auto/b8cf1a_2b8ed1c4778c4542973171e6bce751a1~mv2.jpg",
+        "sourcePage": "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1",
+        "alt": "Cottage9 outside",
+        "unitOrCampus": "One Bedroom Cottage / Cottage9",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/b8cf1a_bbaa67d6919947ae9dfaa87e900ebc8c~mv2.jpg/v1/fill/w_960,h_514,al_c,lg_1,q_85,enc_avif,quality_auto/b8cf1a_bbaa67d6919947ae9dfaa87e900ebc8c~mv2.jpg",
+        "sourcePage": "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1",
+        "alt": "Cottage9 kitchen/seating area",
+        "unitOrCampus": "One Bedroom Cottage / Cottage9",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/b8cf1a_816e58abd6b544b280a33e5ecaf5bf38~mv2.jpg/v1/fill/w_1636,h_876,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8cf1a_816e58abd6b544b280a33e5ecaf5bf38~mv2.jpg",
+        "sourcePage": "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1",
+        "alt": "P8280114.JPG; Cottage9 third slide",
+        "unitOrCampus": "One Bedroom Cottage / Cottage9",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "supportedUnitFacts": {
+      "unit": "One Bedroom Cottage / Cottage9",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "guests": "Unknown",
+      "capacityDetails": "Double bed in separate bedroom; no numeric occupancy inferred",
+      "amenities": "Mini-fridge, microwave, coffee maker, separate seating area, screened porch, AC/heat, full bathroom with shower",
+      "source": "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1"
+    },
+    "notes": "Clicked visible slideshow Next and Slide3 controls, captured actual URLs. All images from exact Cottage9 gallery; no other unit interiors combined.",
+    "checkedOn": "2026-10-26",
+    "verificationMethod": "Opened official galleries in connected Chrome1; rendered DOM and visible slideshow image URLs; ordinary image-asset downloads. No ownership review or inquiries.",
+    "sourcePages": [
+      "https://www.weirsbeachmotel.com/rooms",
+      "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1"
+    ],
+    "photoLabel": "Cottage9 photos",
+    "photoStatus": "3-4 authentic official-source images saved and locally visually reviewed; unit/campus identities retained",
+    "remainingGaps": []
+  },
+  {
+    "id": "NH-0056",
+    "name": "Cranmore Condominiums",
+    "sourcepages": [
+      "https://www.cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/gallery"
+    ],
+    "unitOrCampus": "Cranmore shared condominium campus",
+    "photos": [
+      {
+        "file": "images/NH-0056-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/5d4c611c-6cd8-4a11-81c6-ecda2583d0cd/CranmoreCondosExterior2024_2_shrunk.jpg?format=2500w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "role": "cover",
+        "sha256": "9c8f319b77d23311db3776535cfa5e68dca16735018a7079d40c039fb46aa4b0",
+        "width": 1600,
+        "height": 900,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cranmore shared campus",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0056-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/b573eba2-41ab-4288-8c5f-8e86bc21aea4/Pool+1.jpg?format=1000w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "role": "additional",
+        "sha256": "d7c3064d30e8f6e1da8e247c6831d04ba737c648b912c9846fb58ac4b2602ce5",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cranmore shared campus",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0056-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/4d1dd18b-4aec-4a43-bd01-dbfc84741022/5d37864dcbfc2.image.jpg",
+        "sourcePage": "https://www.cranmorecondominiums.com/gallery",
+        "sha256": "3590e0274e862c719db51346ee37063afd33ec8a9b6260c0d6951a305fc7a56e",
+        "width": 1600,
+        "height": 1066,
+        "originalWidth": 1763,
+        "originalHeight": 1175,
+        "role": "additional",
+        "unitOrCampus": "Cranmore shared condominium campus",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      },
+      {
+        "file": "images/NH-0056-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/4288ee56-a8fe-4735-975a-e5b93ea4b8ba/Exterior+1.jpg",
+        "sourcePage": "https://www.cranmorecondominiums.com/gallery",
+        "sha256": "a2b8fe408abbe76a9051828aae3dfb3a45da02d2afba4d8aa6e5bba2a989b07e",
+        "width": 1600,
+        "height": 1200,
+        "originalWidth": 2500,
+        "originalHeight": 1875,
+        "role": "additional",
+        "unitOrCampus": "Cranmore shared condominium campus",
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "visuallyCheckedOn": "2026-10-26",
+        "visualVerification": "Reviewed in local contact sheet; authentic photographed exterior/interior/setting matches one named unit or shared campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/5d4c611c-6cd8-4a11-81c6-ecda2583d0cd/CranmoreCondosExterior2024_2_shrunk.jpg?format=2500w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "alt": "Cranmore condo building exterior",
+        "unitOrCampus": "Cranmore shared campus"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/b573eba2-41ab-4288-8c5f-8e86bc21aea4/Pool+1.jpg?format=1000w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "alt": "Shared pool and hot tub",
+        "unitOrCampus": "Cranmore shared campus"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/4d1dd18b-4aec-4a43-bd01-dbfc84741022/5d37864dcbfc2.image.jpg",
+        "sourcePage": "https://www.cranmorecondominiums.com/gallery",
+        "alt": "Condominium building in snow",
+        "unitOrCampus": "Cranmore shared condominium campus",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/4288ee56-a8fe-4735-975a-e5b93ea4b8ba/Exterior+1.jpg",
+        "sourcePage": "https://www.cranmorecondominiums.com/gallery",
+        "alt": "Condominium building exterior orange roof",
+        "unitOrCampus": "Cranmore shared condominium campus",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "notes": "Reuse existing building cover and pool assets; add shared-campus exterior views. Gallery interiors carry different unit identifiers2303,1205,2202,1301,1403,2402 and are not combined.",
+    "checkedOn": "2026-10-26",
+    "verificationMethod": "Opened official galleries in connected Chrome1; rendered DOM and visible slideshow image URLs; ordinary image-asset downloads. No ownership review or inquiries.",
+    "sourcePages": [
+      "https://www.cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/gallery"
+    ],
+    "photoLabel": "Shared condominium campus photos",
+    "photoStatus": "3-4 authentic official-source images saved and locally visually reviewed; unit/campus identities retained",
+    "remainingGaps": []
+  }
+]

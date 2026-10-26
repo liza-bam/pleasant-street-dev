@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-560 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+566 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1848 Inn
 
@@ -2001,6 +2001,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=500
 
+## Cranmore Condominiums
+
+- ID: NH-0056
+- Town / area (approximate map location): North Conway, NH
+- Type: Apartment
+- Description: Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Official About2/3bed residences sleep6-8; official terms2bed6,3bed10,1bedlockout2. Preserve conflict and unit distinctions.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Official rental terms prohibit rental guests pets; owners may previously have brought pets into units, so units are not necessarily allergen-free.
+- Website (book here, directly with the host): https://www.cranmorecondominiums.com/
+
 ## CROOKED RIVER COTTAGE LIMIT 5
 
 - ID: ME-0511
@@ -2062,6 +2078,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://crossroadcabins.com
+
+## Crows Nest Campground
+
+- ID: NH-0036
+- Town / area (approximate map location): Newport, NH
+- Type: Cabin
+- Description: Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Deluxe Cabin has one fullbed and one set of twin bunkbeds;do not infer published guest maximum from beds. One cabin site location.
+- Price: No dates or quote requested in this expansion. Earlier followup catalog recorded from$173/night;not re-quoted on unit detail.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Booking property description explicitly family-friendly and activities for all ages.
+- Pet policy: Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.
+- Website (book here, directly with the host): https://camphappygrounds.com/crows-nest/
 
 ## Dale Camp/Damariscotta
 
@@ -2507,6 +2540,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Children welcome; adult supervision required on the working farm. Sunrise page says children aged two and under stay free.
 - Pet policy: Dogs only in Sunrise, Ascutney and Lull Brook cabins, on the reservation and leashed. Sunrise pet cleaning fee: $30/night per pet.
 - Website (book here, directly with the host): https://www.fatsheepfarmvermont.com/
+
+## Fernhill Cottages
+
+- ID: NH-0024
+- Town / area (approximate map location): Alton, NH
+- Type: Cabin
+- Description: Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Full-week only summer2026 incl8.5%NH room tax; no amount adopted
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: All cottages No Pets, official cottage overview
+- Website (book here, directly with the host): https://fernhillcottages.com/
 
 ## Ferry Cottage
 
@@ -5963,6 +6012,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No — explicit property rule
 - Website (book here, directly with the host): https://powderhillfarm.com
 
+## Presidential Mountain Resort
+
+- ID: NH-0023
+- Town / area (approximate map location): Bethlehem, NH
+- Type: Cabin
+- Description: Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Official cabins page lists 37 log cabins, studio to six bedrooms; direct search displayed 48 accommodation listings. Pictured Chestnut Premier14 is separately identified as two adults, one bedroom and one bathroom, not operator-wide capacity.
+- Price: A date selection is required for the pictured unit price; no quote requested.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Family stays offered at resort; pictured Chestnut Premier14 is exclusively for two adults.
+- Pet policy: Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.
+- Website (book here, directly with the host): https://presidentialmountainresort.com/
+
 ## Quietside Cottage
 
 - ID: ME-0365
@@ -7005,6 +7071,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://songbirdstudiovt.lovable.app/
+
+## Spacious Skies French Pond
+
+- ID: NH-0042
+- Town / area (approximate map location): Henniker, NH
+- Type: Camp
+- Description: Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Rental lodgings include retro RVs with full bed or full bed and bunks, and Pegasus Bungalow; no operator-wide guest maximum assigned.
+- Price: No dates selected; no live rate quote requested.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Official site describes family-friendly stays and campground activities.
+- Pet policy: Rental-unit pet permission not established in this pass.
+- Website (book here, directly with the host): https://spaciousskiescampgrounds.com/french-pond/
 
 ## Squabetty
 
@@ -8576,6 +8659,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — child rates/policies published
 - Pet policy: No — all listed units
 - Website (book here, directly with the host): https://webhannetbythesea.com
+
+## Weirs Beach Motel and Cottages
+
+- ID: NH-0026
+- Town / area (approximate map location): Laconia, NH
+- Type: Cabin
+- Description: Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Pet policy: Max2pets/room,35lb max each,$30/night; dogs restricted by listed breed/aggression; never unattended; vaccination/leash/waste rules
+- Website (book here, directly with the host): https://www.weirsbeachmotel.com/
 
 ## West Bay Acadia
 

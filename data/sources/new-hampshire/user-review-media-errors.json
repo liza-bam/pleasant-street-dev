@@ -1,0 +1,30 @@
+[
+  {
+    "id": "NH-0042",
+    "role": "000",
+    "url": "https://spaciousskiescampgrounds.com/wp-content/uploads/elementor/thumbs/asset-26-rq2nxldy86tk0866tpmxw43ze3ljxa68x8k0mdz24o.jpeg",
+    "error": "cannot identify image file <_io.BytesIO object at 0x10276c450>",
+    "resolution": "Resolved: same observed asset saved via connected-browser pageAssets; four JPEGs acquired successfully."
+  },
+  {
+    "id": "NH-0042",
+    "role": "002",
+    "url": "https://spaciousskiescampgrounds.com/wp-content/uploads/elementor/thumbs/asset-25-rq2nxcxeiohz3qih73zaro8u1mr9008nw2onawbloo.jpeg",
+    "error": "cannot identify image file <_io.BytesIO object at 0x10276c130>",
+    "resolution": "Resolved: same observed asset saved via connected-browser pageAssets; four JPEGs acquired successfully."
+  },
+  {
+    "id": "NH-0042",
+    "role": "cover",
+    "url": "https://spaciousskiescampgrounds.com/wp-content/uploads/elementor/thumbs/asset-11-rq2nvwafvyhx1kmxqh86w1j0s1yp0yfp0u5gfehnd4.jpeg",
+    "error": "cannot identify image file <_io.BytesIO object at 0x10271f3d0>",
+    "resolution": "Resolved: same observed asset saved via connected-browser pageAssets; four JPEGs acquired successfully."
+  },
+  {
+    "id": "NH-0042",
+    "role": "001",
+    "url": "https://spaciousskiescampgrounds.com/wp-content/uploads/elementor/thumbs/asset-28-rq2ny2b1n7gpt7hm2wy84zua31a5ru1ezkar9d9z0o.jpeg",
+    "error": "cannot identify image file <_io.BytesIO object at 0x10432a160>",
+    "resolution": "Resolved: same observed asset saved via connected-browser pageAssets; four JPEGs acquired successfully."
+  }
+]

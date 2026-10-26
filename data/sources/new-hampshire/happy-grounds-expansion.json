@@ -1,0 +1,472 @@
+{
+  "catalogSource": "https://camphappygrounds.com/campgrounds/",
+  "checkedOn": "2026-10-26",
+  "parentOperator": {
+    "name": "Happy Grounds Management LLC",
+    "brand": "Happy Grounds",
+    "classification": "Regional campground operator with individually identifiable campuses;operator-owned booking site",
+    "website": "https://camphappygrounds.com/",
+    "catalogCount": 18,
+    "stateCounts": {
+      "NY": 8,
+      "MA": 5,
+      "NH": 2,
+      "CT": 2,
+      "VT": 1
+    },
+    "scopeDecision": "User explicitly accepted this operator for property discovery;do not reject solely for18-location regional footprint.",
+    "evidence": [
+      "Official catalog publishes18distinct campground names/towns/property URLs.",
+      "Official footer identifies Happy Grounds Management LLC.",
+      "Direct campground booking links usebook.camphappygrounds.com."
+    ]
+  },
+  "leads": [
+    {
+      "name": "Willowemoc",
+      "city": "Livingston Manor",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/willowemoc",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV sites | glamping | pop-ups | tents",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Ausable Pines",
+      "city": "Peru",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/ausable-pines",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "30 amp RV sites | 20 amp RV sites | tent sites",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Ausable River",
+      "city": "Keeseville",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/ausable-river",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "Standard/deluxe RVs | tent sites",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Berrys Grove",
+      "city": "Tyngsborough",
+      "state": "MA",
+      "propertyUrl": "https://camphappygrounds.com/berrys-grove",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV | open year round | seasonals available",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Bonnie Brae",
+      "city": "Pittsfield",
+      "state": "MA",
+      "propertyUrl": "https://camphappygrounds.com/bonnie-brae",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV sites | cabins | tents | seasonal sites",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Circle CG",
+      "city": "Bellingham",
+      "state": "MA",
+      "propertyUrl": "https://camphappygrounds.com/circle-cg",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV | tent | open year round | seasonals available",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Crown Point",
+      "city": "Perkinsville",
+      "state": "VT",
+      "propertyUrl": "https://camphappygrounds.com/crown-point",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV sites | pop-ups | tents | seasonal sites",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Crows Nest",
+      "city": "Newport",
+      "state": "NH",
+      "propertyUrl": "https://camphappygrounds.com/crows-nest",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV | tent | cabin | open year round | seasonals available",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "NH property separately verified below",
+      "existingId": "NH-0036"
+    },
+    {
+      "name": "Field & Stream",
+      "city": "Brookline",
+      "state": "NH",
+      "propertyUrl": "https://camphappygrounds.com/field-and-stream",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RVs only | pop-ups welcome | open year round | seasonals available",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "NH property separately verified below",
+      "existingId": null
+    },
+    {
+      "name": "Gibson Hill",
+      "city": "Sterling",
+      "state": "CT",
+      "propertyUrl": "https://camphappygrounds.com/gibson-hill",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV | tent | pop-ups welcome | seasonal stays",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Glen Hudson",
+      "city": "Warrensburg",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/glen-hudson",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV sites | pop-ups | tents | seasonal sites",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Heritage Acres",
+      "city": "Galway",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/heritage-acres",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "30 amp RV sites | dog-friendly | seasonal sites",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Highview",
+      "city": "West Brookfield",
+      "state": "MA",
+      "propertyUrl": "https://camphappygrounds.com/highview",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "All sites are30amp | RVs only | no tents",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Kings Bay",
+      "city": "Champlain",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/kings-bay",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "50amp–30amp RV sites | cottages | seasonal stays",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Peaceful Pines",
+      "city": "Templeton",
+      "state": "MA",
+      "propertyUrl": "https://camphappygrounds.com/peaceful-pines",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV | seasonals available | open year round",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Riverbend East",
+      "city": "Blossvale",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/riverbend-east",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "50amp RV sites | 30amp RV sites",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "Riverbend West",
+      "city": "Blossvale",
+      "state": "NY",
+      "propertyUrl": "https://camphappygrounds.com/riverbend-west",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "50amp RV sites | 30amp RV sites | cabins",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    },
+    {
+      "name": "White Pines",
+      "city": "Barkhamsted",
+      "state": "CT",
+      "propertyUrl": "https://camphappygrounds.com/white-pines",
+      "catalogSource": "https://camphappygrounds.com/campgrounds/",
+      "catalogOfferingText": "RV | tent | cabins | yurts | seasonals available",
+      "evidenceStatus": "Source found in web research",
+      "reviewStatus": "Off-state discovery lead only; property site not reviewed in this expansion",
+      "existingId": null
+    }
+  ],
+  "nhVerification": [
+    {
+      "existingId": "NH-0036",
+      "name": "Crows Nest Campground",
+      "website": "https://camphappygrounds.com/crows-nest/",
+      "city": "Newport",
+      "state": "NH",
+      "checkedOn": "2026-10-26",
+      "evidenceStatus": "Verified independent website",
+      "eligibilityReason": "Operator-controlled site identifies Newport campground,actual furnished overnight Deluxe Cabin and direct booking/inquiry. User accepted Happy Grounds regional operator scope;18-campus footprint is disclosed,not an exclusion.",
+      "classification": "Individual campground campus operated by Happy Grounds Management LLC",
+      "recordType": "Property / shared campground campus",
+      "type": "Cabin / campground",
+      "parentOperator": "Happy Grounds Management LLC",
+      "deduplication": "Preserve existing NH-0036;do not create a duplicate Crows Nest record or merge with Field & Stream.",
+      "openedUrls": [
+        "https://camphappygrounds.com/campgrounds/",
+        "https://camphappygrounds.com/crows-nest",
+        "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "https://camphappygrounds.com/contact/"
+      ],
+      "contactPagesChecked": [
+        "https://camphappygrounds.com/contact/",
+        "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+      ],
+      "contactAddress": {
+        "role": "shared camp/campus",
+        "street": "529 S Main St",
+        "city": "Newport",
+        "state": "NH",
+        "zip": "03773",
+        "source": "https://camphappygrounds.com/contact/",
+        "corroboratingSources": [
+          "https://camphappygrounds.com/crows-nest/",
+          "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+        ],
+        "notes": "Official Crows Nest contact block and unit Address & Contact both publish this campground address. This is campus contact/arrival location,not a separately numbered cabin entrance."
+      },
+      "bookingMethod": "Operator direct reservation engine with site/date/guest selectors;direct telephone and email also published",
+      "bookingUrl": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+      "bookingUrlSource": "https://camphappygrounds.com/crows-nest/",
+      "contactMethods": [
+        {
+          "kind": "phone",
+          "value": "603-945-1142",
+          "source": "https://camphappygrounds.com/contact/"
+        },
+        {
+          "kind": "email",
+          "value": "Crowsnest@camphappygrounds.com",
+          "source": "https://camphappygrounds.com/contact/"
+        },
+        {
+          "kind": "email",
+          "value": "team@camphappygrounds.com",
+          "source": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+        }
+      ],
+      "accommodationEvidence": [
+        {
+          "url": "https://camphappygrounds.com/campgrounds/",
+          "observation": "Catalog expressly lists Crows Nest,NewportNH:RV|tent|cabin|open year round|seasonals available."
+        },
+        {
+          "url": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+          "observation": "Opened title Deluxe Cabin(YR)|Crows Nest|Happy Grounds. Detail identifies Cabin Site and1Site Location. Lists fullbed,one set of twin bunkbeds,private bathroom,microwave,mini fridge,coffee maker,air conditioning,propane wall heater,deck,grill and fire ring. Linens/basic utensils not provided;no indoor cooking. Reservation Details,date/guest/site-location selectors andAddToCart control present;no reservation submitted."
+        },
+        {
+          "url": "https://camphappygrounds.com/contact/",
+          "observation": "Current contact-page stay-type label omits cabin,listingRV/seasonal/tent. Catalog and actual cabin-detail reservation page establish cabin offering;retain this labeling difference."
+        }
+      ],
+      "supportedFacts": {
+        "guests": "Unknown",
+        "bedrooms": "Unknown",
+        "bathrooms": "Unknown",
+        "rooms": "Unknown",
+        "kids": "Yes",
+        "pets": "Unknown",
+        "capacityDetails": "Deluxe Cabin has one fullbed and one set of twin bunkbeds;do not infer published guest maximum from beds. One cabin site location.",
+        "kidsDetails": "Booking property description explicitly family-friendly and activities for all ages.",
+        "petsDetails": "Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.",
+        "priceFrom": "Unknown",
+        "currency": "USD",
+        "priceDetails": "No dates or quote requested in this expansion. Earlier followup catalog recorded from$173/night;not re-quoted on unit detail.",
+        "amenities": [
+          "Private bathroom",
+          "Microwave",
+          "Mini fridge",
+          "Coffee maker",
+          "Air conditioning",
+          "Propane wall heater",
+          "Deck",
+          "Wi-Fi"
+        ],
+        "source": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+      },
+      "description": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
+      "descriptionSource": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+      "photoCandidates": [
+        {
+          "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/FAElGY5GnHulbLx/width=1000,height=467,quality=undefined,fit=crop,dpr=2",
+          "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+          "alt": "Image Promotion",
+          "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+          "candidateRole": "cover candidate",
+          "generated": false,
+          "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+          "checkedOn": "2026-10-26"
+        },
+        {
+          "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/tjC4ApKHkJLxAa9/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+          "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+          "alt": "Image Promotion",
+          "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+          "candidateRole": "additional photo candidate",
+          "generated": false,
+          "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+          "checkedOn": "2026-10-26"
+        },
+        {
+          "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/uAax5AOQY_kzgbl/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+          "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+          "alt": "Image Promotion",
+          "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+          "candidateRole": "additional photo candidate",
+          "generated": false,
+          "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+          "checkedOn": "2026-10-26"
+        },
+        {
+          "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/RXlG6BK1vuIxIQo/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+          "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+          "alt": "Image Promotion",
+          "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+          "candidateRole": "additional photo candidate",
+          "generated": false,
+          "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+          "checkedOn": "2026-10-26"
+        },
+        {
+          "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/pDaORBNT8rUo6Ym/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+          "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+          "alt": "Image Promotion",
+          "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+          "candidateRole": "additional photo candidate",
+          "generated": false,
+          "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+          "checkedOn": "2026-10-26"
+        }
+      ],
+      "photos": [],
+      "remainingGaps": [
+        "Download and visually validate observed same-cabin photographs",
+        "Published cabin guest maximum,room counts and specific pet policy"
+      ],
+      "accessFailures": []
+    },
+    {
+      "existingId": null,
+      "name": "Field & Stream",
+      "website": "https://camphappygrounds.com/field-and-stream/",
+      "city": "Brookline",
+      "state": "NH",
+      "checkedOn": "2026-10-26",
+      "evidenceStatus": "Not eligible",
+      "eligibilityReason": "Current official catalog explicitly says RVs only and direct booking inventory contains54RV sites,with no lodging/cabin category. Vacant RV pitches do not qualify as furnished vacation accommodation under current inventory scope. This is an active campground,not a closure.",
+      "classification": "RV-only campground campus operated by Happy Grounds Management LLC",
+      "recordType": "Property / shared campground campus",
+      "type": "RV pitches",
+      "parentOperator": "Happy Grounds Management LLC",
+      "openedUrls": [
+        "https://camphappygrounds.com/campgrounds/",
+        "https://camphappygrounds.com/field-and-stream",
+        "https://book.camphappygrounds.com/campgrounds/field-and-stream",
+        "https://camphappygrounds.com/field-and-stream/faq/",
+        "https://camphappygrounds.com/contact/"
+      ],
+      "contactPagesChecked": [
+        "https://camphappygrounds.com/contact/",
+        "https://camphappygrounds.com/field-and-stream/faq/"
+      ],
+      "contactAddress": {
+        "role": "shared camp/campus",
+        "street": "7 Dupaw Gould Rd",
+        "city": "Brookline",
+        "state": "NH",
+        "zip": "03033",
+        "source": "https://camphappygrounds.com/contact/",
+        "corroboratingSources": [
+          "https://camphappygrounds.com/field-and-stream/",
+          "https://book.camphappygrounds.com/campgrounds/field-and-stream",
+          "https://camphappygrounds.com/field-and-stream/faq/"
+        ],
+        "notes": "Official FAQ also gives this as package-delivery campground address. Do not use for Crows Nest or other campuses."
+      },
+      "bookingMethod": "Direct RV-site booking engine and published campground telephone/email;no qualifying furnished lodging found",
+      "bookingUrl": "https://book.camphappygrounds.com/campgrounds/field-and-stream",
+      "contactMethods": [
+        {
+          "kind": "phone",
+          "value": "603-673-4677",
+          "source": "https://camphappygrounds.com/field-and-stream/"
+        },
+        {
+          "kind": "phone",
+          "value": "603-945-1117",
+          "source": "https://camphappygrounds.com/contact/"
+        },
+        {
+          "kind": "email",
+          "value": "Fieldandstream@camphappygrounds.com",
+          "source": "https://camphappygrounds.com/contact/"
+        }
+      ],
+      "accommodationEvidence": [
+        {
+          "url": "https://camphappygrounds.com/campgrounds/",
+          "observation": "Published card:BrooklineNH,RVs only,pop-ups welcome,open year round,seasonals available."
+        },
+        {
+          "url": "https://camphappygrounds.com/field-and-stream/",
+          "observation": "Describes54full-sized full-hookup RV sites;WaysToStay specifies20/30/50amps and no tents. Daily,weekly,monthly andextended RV stays offered."
+        },
+        {
+          "url": "https://book.camphappygrounds.com/campgrounds/field-and-stream",
+          "observation": "After initial loading,renderedWaysToStay showsAll54andRVSites54only. Listing cards are DeluxeRV20/30/50A andStandardRV20/30A,not lodging. NoLodging category."
+        },
+        {
+          "url": "https://camphappygrounds.com/field-and-stream/faq/",
+          "observation": "Official FAQ says year-round recreational campground,not residence;no tenting permitted. Confirms package address7DupawGouldRd."
+        }
+      ],
+      "photoCandidates": [],
+      "photos": [],
+      "photoNotes": "No qualifying furnished accommodation found;no property photographs selected. Do not reuse another campus cabin photos.",
+      "remainingGaps": [],
+      "accessFailures": [],
+      "notes": "Published contact phone differs between main property page6036734677 and booking/contact6039451117;both retained. No exclusion based on regional operator size."
+    }
+  ],
+  "offStateHandling": "16off-state campuses retained only as source leads;not opened or approved in this NH-focused expansion. NonewIDs assigned.",
+  "verificationNotes": [
+    "Catalog read using connected Chrome1 native accessibility and public DOM.",
+    "Contact/FAQ navigation sometimes timed out but native AX confirmed fully loaded pages;not website failures.",
+    "No forms,bookings,inquiries,subscriptions or messages submitted.",
+    "Photos remain observed URL candidates,not saved/visually validated media."
+  ]
+}

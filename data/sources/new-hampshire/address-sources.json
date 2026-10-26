@@ -261,16 +261,16 @@
   },
   {
     "id": "NH-0023",
-    "street": "Unknown",
+    "street": "1108 Main Street",
     "city": "Bethlehem",
     "state": "NH",
-    "postalCode": "Unknown",
-    "full": "Unknown",
-    "type": "partial location",
+    "postalCode": "03574",
+    "full": "1108 Main Street, Bethlehem, NH 03574",
+    "type": "shared camp/campus",
     "status": "Published on official website",
     "sourceUrl": "https://presidentialmountainresort.com/contact/",
     "checkedOn": "2026-10-26",
-    "notes": "Contact access blocked Directory-only address (not an established rental entrance): 1108 Main Street Rt. 302, Bethlehem, NH 03574. https://www.visitnh.gov/business/detail/548"
+    "notes": "Shared resort contact/campus address; not a separately numbered cabin entrance."
   },
   {
     "id": "NH-0024",
@@ -413,7 +413,7 @@
     "status": "Published on official website",
     "sourceUrl": "https://camphappygrounds.com/contact/",
     "checkedOn": "2026-10-26",
-    "notes": "Crows Nest block explicitly labels this address."
+    "notes": "Official Crows Nest contact block and unit Address & Contact both publish this campground address. This is campus contact/arrival location,not a separately numbered cabin entrance."
   },
   {
     "id": "NH-0037",
@@ -963,16 +963,16 @@
   },
   {
     "id": "NH-0042",
-    "street": "Unknown",
+    "street": "479 Old W. Hopkinton Road",
     "city": "Henniker",
     "state": "NH",
-    "postalCode": "Unknown",
-    "full": "Unknown",
-    "type": "Unknown",
-    "status": "Not verified on official operator Contact page",
-    "sourceUrl": "Unknown",
+    "postalCode": "03242",
+    "full": "479 Old W. Hopkinton Road, Henniker, NH 03242",
+    "type": "shared camp/campus",
+    "status": "Published on official website",
+    "sourceUrl": "https://spaciousskiescampgrounds.com/french-pond/contact/",
     "checkedOn": "2026-10-26",
-    "notes": "Address is not publicly established; retain directory address separately. Directory-only address (not an established rental entrance): 479 OLD W. HOPKINTON ROAD, Henniker, NH 03242. https://www.visitnh.gov/business/detail/1504"
+    "notes": "Shared campground contact/arrival address; not a particular rental-unit entrance."
   },
   {
     "id": "NH-0043",

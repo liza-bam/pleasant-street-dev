@@ -105,8 +105,7 @@ def main():
             facts = {**audit.get('supportedFacts', {}), **followup.get('supportedFactsUpdate', {})}
             audit.update(followup)
             audit.update(openedUrls=urls, contactPagesChecked=contacts, supportedFacts=facts)
-    # A resort developer is not automatically the contracting vacation-rental operator.
-    audits['NH-0056']['notes'] += ' Final review: Fairbank resort-development ownership does not establish ownership of contracting operator LH North Conway Holdings LLC; retain candidate pending that connection.'
+    # User-confirmed inclusion is retained with its own provenance; it is not invented web evidence.
     audits['NH-0047'].update(evidenceStatus='Website unavailable',
         eligibilityReason='Published dedicated operator domain fails DNS. Public social contact remains available, but no working independent rental website was established; business closure is not claimed.')
 
@@ -115,6 +114,11 @@ def main():
         for photo in audit.get('photos', []):
             manifests[photo['file']] = {**photo, 'id': audit['id']}
     for photo in read(DEST / 'root-media-sources.json', []):
+        manifests[photo['file']] = photo
+    for result in read(DEST / 'user-approved-photo-followup.json', []):
+        for photo in result.get('photos', []):
+            manifests[photo['file']] = {**photo, 'id': result['id']}
+    for photo in read(DEST / 'user-review-media.json', []):
         manifests[photo['file']] = photo
     for photo in manifests.values():
         file = ROOT / photo['file']

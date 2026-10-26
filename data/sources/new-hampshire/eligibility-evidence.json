@@ -1613,32 +1613,36 @@
     "name": "Presidential Mountain Resort",
     "website": "https://presidentialmountainresort.com/",
     "checkedOn": "2026-10-26",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Own homepage and contact route blocked by connection-security/robot CAPTCHA; official tourism listing supports Bethlehem accommodation but independence/direct path not verified.",
-    "classification": "Cabins / small operator",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official cabins, About, Contact and operator-controlled reservation pages opened; identifiable Bethlehem cabin resort offers vacation stays and direct booking/inquiry. User confirmed PMR inclusion and provided contact details, corroborated on Contact page.",
+    "classification": "Lakeside log-cabin resort operator",
     "recordType": "operator",
     "openedUrls": [
       "https://presidentialmountainresort.com/",
       "https://presidentialmountainresort.com/contact/",
-      "https://www.visitnh.gov/business/detail/548"
+      "https://www.visitnh.gov/business/detail/548",
+      "https://presidentialmountainresort.com/cabins/",
+      "https://presidentialmountainresort.com/about-presidential-mountain-resort/",
+      "https://book.presidentialmountainresort.com/listings/372084"
     ],
     "contactPagesChecked": [
       "https://presidentialmountainresort.com/contact/"
     ],
     "contactAddress": {
-      "role": "partial location",
-      "fullAddress": "Unknown",
+      "role": "shared camp/campus",
+      "street": "1108 Main Street",
       "city": "Bethlehem",
       "state": "NH",
+      "zip": "03574",
       "source": "https://presidentialmountainresort.com/contact/",
-      "notes": "Contact access blocked"
+      "notes": "Shared resort contact/campus address; not a separately numbered cabin entrance."
     },
-    "bookingMethod": "Unknown",
-    "bookingUrl": "https://presidentialmountainresort.com/contact/",
-    "operatorEvidenceUrl": "Unknown",
-    "description": "Unknown",
-    "descriptionSource": "https://presidentialmountainresort.com/",
-    "notes": "Opened VisitNH548 identifies resort cabins/glamping at1108 Main St Rt302 Bethlehem NH03574; homepage progressed to Robot Challenge asking CAPTCHA. Second attempt official search-discovered Contact also security check. No CAPTCHA attempted; this is automation access limitation, not down website.",
+    "bookingMethod": "Operator direct booking with date/guest selectors and Send Inquiry; official contact form, telephone and email also available. No inquiry or reservation submitted.",
+    "bookingUrl": "https://book.presidentialmountainresort.com/listings/372084",
+    "operatorEvidenceUrl": "https://presidentialmountainresort.com/about-presidential-mountain-resort/",
+    "description": "Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.",
+    "descriptionSource": "https://presidentialmountainresort.com/cabins/",
+    "notes": "Source-site access now succeeds. Photos all belong to Chestnut Premier14 (adults-only); do not apply its unit facts to all cabins. Eligibility does not imply owner participation.",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": "Unknown",
@@ -1646,44 +1650,60 @@
       "rooms": "Unknown",
       "kids": "Unknown",
       "pets": "Unknown",
-      "capacityDetails": "Unknown",
-      "kidsDetails": "Unknown",
-      "petsDetails": "Unknown",
+      "capacityDetails": "Official cabins page lists 37 log cabins, studio to six bedrooms; direct search displayed 48 accommodation listings. Pictured Chestnut Premier14 is separately identified as two adults, one bedroom and one bathroom, not operator-wide capacity.",
+      "kidsDetails": "Family stays offered at resort; pictured Chestnut Premier14 is exclusively for two adults.",
+      "petsDetails": "Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.",
       "priceFrom": "Unknown",
       "currency": "Unknown",
-      "priceDetails": "Unknown"
+      "priceDetails": "A date selection is required for the pictured unit price; no quote requested."
     },
     "platformLinks": [],
-    "platformCheckStatus": "Access limited",
+    "platformCheckStatus": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
     "photos": [],
     "photoCandidates": [],
     "remainingGaps": [
-      "Independent/local ownership evidence",
-      "Photos",
-      "Own website contact/address and direct booking verification"
+      "Optional per-unit capacity, rates and policies remain distinct from operator facts."
     ],
-    "accessFailures": [
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabin",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website",
+    "contactMethods": [
       {
-        "url": "https://presidentialmountainresort.com/",
-        "observed": "Connection security check then Robot Challenge CAPTCHA"
+        "kind": "phone",
+        "value": "+1 (603) 253-2222"
       },
       {
-        "url": "https://presidentialmountainresort.com/contact/",
-        "observed": "Connection security check"
+        "kind": "email",
+        "value": "info@pmrnh.com"
       }
     ],
-    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
-    "type": "Cabins / small operator",
-    "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "PMR cabins and contact details supplied for inclusion."
+    },
+    "supportedFactsUpdate": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Official cabins page lists 37 log cabins, studio to six bedrooms; direct search displayed 48 accommodation listings. Pictured Chestnut Premier14 is separately identified as two adults, one bedroom and one bathroom, not operator-wide capacity.",
+      "kidsDetails": "Family stays offered at resort; pictured Chestnut Premier14 is exclusively for two adults.",
+      "petsDetails": "Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.",
+      "priceFrom": "Unknown",
+      "priceDetails": "A date selection is required for the pictured unit price; no quote requested."
+    }
   },
   "NH-0024": {
     "id": "NH-0024",
     "name": "Fernhill Cottages",
     "website": "https://fernhillcottages.com/",
     "checkedOn": "2026-10-26",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Own cottage/contact pages and official tourism profile support local Alton accommodation and direct inquiry, but no opened page identifies the owner or expressly establishes independent/local operation. Retain candidate.",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own cottage/contact pages and direct inquiry checked; user confirmed independent operation. A named individual owner is not required.",
     "classification": "Cabins / small operator",
     "recordType": "operator",
     "openedUrls": [
@@ -1692,7 +1712,8 @@
       "https://fernhillcottages.com/view-our-cottages/",
       "https://fernhillcottages.com/about-the-area/",
       "https://www.google.com/search?q=%22Fernhill+Cottages%22+owners+family+Alton",
-      "https://www.visitnh.gov/business/detail/151"
+      "https://www.visitnh.gov/business/detail/151",
+      "https://fernhillcottages.com/the-point-cottage/"
     ],
     "contactPagesChecked": [
       "https://fernhillcottages.com/contact/"
@@ -1707,10 +1728,10 @@
     },
     "bookingMethod": "Direct availability inquiry form",
     "bookingUrl": "https://fernhillcottages.com/contact/",
-    "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/151",
+    "operatorEvidenceUrl": "https://fernhillcottages.com/",
     "description": "Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.",
     "descriptionSource": "https://fernhillcottages.com/",
-    "notes": "One focused ownership query reviewed; no source snippet used as verification. Municipal/private property-owner search results were not pursued because they do not establish actual vacation operator identity. Existing own-site address limitations preserved.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": "Unknown",
@@ -1746,9 +1767,7 @@
         "generated": false
       }
     ],
-    "remainingGaps": [
-      "Named owner or explicit independent/local operator evidence"
-    ],
+    "remainingGaps": [],
     "accessFailures": [],
     "verificationMethod": "Opened pages in connected Chrome browser ID1(Sandy profile); rendered DOM/native accessibility. One focused ownership query per unresolved property; snippets used only as leads. No inquiries submitted.",
     "type": "Cabins / small operator",
@@ -1763,7 +1782,13 @@
       }
     ],
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Verified independent website",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Fernhill is independent."
+    },
+    "photoReviewNotes": "All selected photos depict Point Cottage, not other Fernhill cottages. These facts apply only to Point Cottage."
   },
   "NH-0025": {
     "id": "NH-0025",
@@ -1881,8 +1906,8 @@
     "name": "Weirs Beach Motel and Cottages",
     "website": "https://www.weirsbeachmotel.com/",
     "checkedOn": "2026-10-26",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Opened2010 article supports historical Petrini-family ownership, but current official profile/previously reviewed own About do not confirm present ownership. Broker sale listing creates continuity uncertainty; retain candidate.",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own accommodation, contact/address and direct inquiry previously checked; user confirms this property. Historical sale information is not used to block the accepted rental operator.",
     "classification": "Cabins / small operator",
     "recordType": "operator",
     "openedUrls": [
@@ -1892,7 +1917,9 @@
       "https://www.google.com/search?q=%22Weirs+Beach+Motel+and+Cottages%22+owners+family",
       "https://www.fosters.com/story/business/2010/06/08/family-roots-center-weirs-beach/51578790007/",
       "https://www.hospitalityrealestate.com/properties/weirs-beach-motel-cottages-2/",
-      "https://www.visitnh.gov/business/detail/1538"
+      "https://www.visitnh.gov/business/detail/1538",
+      "https://www.weirsbeachmotel.com/rooms",
+      "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1"
     ],
     "contactPagesChecked": [
       "https://www.weirsbeachmotel.com/contact"
@@ -1907,10 +1934,10 @@
     },
     "bookingMethod": "Phone6033664604 or info@weirsbeachmotel.com",
     "bookingUrl": "https://www.weirsbeachmotel.com/contact",
-    "operatorEvidenceUrl": "https://www.weirsbeachmotel.com/about",
+    "operatorEvidenceUrl": "https://www.weirsbeachmotel.com/",
     "description": "Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.",
     "descriptionSource": "https://www.weirsbeachmotel.com/about",
-    "notes": "No ownership transferred from nearby Channel Waterfront Cottages or NASWA results. Existing direct-contact/accommodation/address checks remain supported; present ownership gap persists.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": "Unknown",
@@ -1938,9 +1965,7 @@
         "generated": false
       }
     ],
-    "remainingGaps": [
-      "Current independent/local ownership continuity evidence"
-    ],
+    "remainingGaps": [],
     "accessFailures": [],
     "verificationMethod": "Opened pages in connected Chrome browser ID1(Sandy profile); rendered DOM/native accessibility. One focused ownership query per unresolved property; snippets used only as leads. No inquiries submitted.",
     "type": "Cabins / small operator",
@@ -1959,7 +1984,13 @@
       }
     ],
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Verified independent website",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Weirs is confirmed."
+    },
+    "photoReviewNotes": "Clicked visible slideshow Next and Slide3 controls, captured actual URLs. All images from exact Cottage9 gallery; no other unit interiors combined."
   },
   "NH-0028": {
     "id": "NH-0028",
@@ -2722,20 +2753,24 @@
     "name": "Crows Nest Campground",
     "website": "https://camphappygrounds.com/crows-nest/",
     "checkedOn": "2026-10-26",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Current short-term cabin accommodation and direct booking are now verified. Hold only for independent/local operator scope: official site presents an18-location branded campground portfolio across5states; ownership/local independence not established in this bounded pass.",
-    "classification": "Regional branded campground group",
-    "recordType": "Operator",
-    "type": "Cottage",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Operator-controlled site identifies Newport campground,actual furnished overnight Deluxe Cabin and direct booking/inquiry. User accepted Happy Grounds regional operator scope;18-campus footprint is disclosed,not an exclusion.",
+    "classification": "Individual campground campus operated by Happy Grounds Management LLC",
+    "recordType": "operator",
+    "type": "Cabin",
     "openedUrls": [
       "https://camphappygrounds.com/crows-nest/",
       "https://camphappygrounds.com/contact/",
       "https://camphappygrounds.com/crows-nest/rates/",
       "https://book.camphappygrounds.com/campgrounds/crows-nest",
-      "https://camphappygrounds.com/"
+      "https://camphappygrounds.com/",
+      "https://camphappygrounds.com/campgrounds/",
+      "https://camphappygrounds.com/crows-nest",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
     ],
     "contactPagesChecked": [
-      "https://camphappygrounds.com/contact/"
+      "https://camphappygrounds.com/contact/",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
     ],
     "contactAddress": {
       "role": "shared camp/campus",
@@ -2744,17 +2779,15 @@
       "state": "NH",
       "zip": "03773",
       "source": "https://camphappygrounds.com/contact/",
-      "notes": "Crows Nest block explicitly labels this address.",
-      "components": {
-        "street": "529 S Main St",
-        "city": "Newport",
-        "state": "NH",
-        "zip": "03773"
-      }
+      "corroboratingSources": [
+        "https://camphappygrounds.com/crows-nest/",
+        "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+      ],
+      "notes": "Official Crows Nest contact block and unit Address & Contact both publish this campground address. This is campus contact/arrival location,not a separately numbered cabin entrance."
     },
-    "bookingMethod": "Direct operator booking engine and published phone/email",
+    "bookingMethod": "Operator direct reservation engine with site/date/guest selectors;direct telephone and email also published",
     "bookingUrl": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
-    "operatorEvidenceUrl": "https://camphappygrounds.com/crows-nest/",
+    "operatorEvidenceUrl": "https://camphappygrounds.com/campgrounds/",
     "notes": "Group-home navigation timed out,but fresh native AX showed complete rendered home;not an access failure.",
     "supportedFacts": {
       "guests": "Unknown",
@@ -2762,27 +2795,85 @@
       "bathrooms": "Unknown",
       "rooms": "Unknown",
       "kids": "Yes",
-      "pets": "Conditional",
-      "capacityDetails": "Unknown",
-      "kidsDetails": "Unknown",
-      "petsDetails": "Dog-friendly banner; restrictions not checked.",
+      "pets": "Unknown",
+      "capacityDetails": "Deluxe Cabin has one fullbed and one set of twin bunkbeds;do not infer published guest maximum from beds. One cabin site location.",
+      "kidsDetails": "Booking property description explicitly family-friendly and activities for all ages.",
+      "petsDetails": "Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.",
       "priceFrom": "Unknown",
-      "currency": "Unknown",
-      "priceDetails": "Unknown"
+      "currency": "USD",
+      "priceDetails": "No dates or quote requested in this expansion. Earlier followup catalog recorded from$173/night;not re-quoted on unit detail.",
+      "amenities": [
+        "Private bathroom",
+        "Microwave",
+        "Mini fridge",
+        "Coffee maker",
+        "Air conditioning",
+        "Propane wall heater",
+        "Deck",
+        "Wi-Fi"
+      ],
+      "source": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
     },
-    "description": "Campground by the Sugar River near Mount Sunapee.",
-    "descriptionSource": "https://camphappygrounds.com/crows-nest/",
-    "platformLinks": {
-      "airbnb": [],
-      "vrbo": [],
-      "booking": []
-    },
+    "description": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
+    "descriptionSource": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+    "platformLinks": [],
     "platformLinkEvidence": [],
-    "platformCheckStatus": "Checked opened official pages; none found",
-    "photoCandidates": [],
+    "platformCheckStatus": "Checked official campground and direct booking pages; no matching Airbnb, Vrbo or Booking.com listing links found",
+    "photoCandidates": [
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/FAElGY5GnHulbLx/width=1000,height=467,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "cover candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/tjC4ApKHkJLxAa9/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/uAax5AOQY_kzgbl/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/RXlG6BK1vuIxIQo/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/pDaORBNT8rUo6Ym/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      }
+    ],
     "photos": [],
     "remainingGaps": [
-      "Independent ownership/local-operation scope determination;do not infer national-chain exclusion solely from multiple states."
+      "Optional published maximum occupancy and unit-specific pet policy"
     ],
     "accessFailures": [],
     "factSources": [
@@ -2862,7 +2953,73 @@
       ]
     },
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Verified independent website",
+    "city": "Newport",
+    "state": "NH",
+    "parentOperator": "Happy Grounds Management LLC",
+    "deduplication": "Preserve existing NH-0036;do not create a duplicate Crows Nest record or merge with Field & Stream.",
+    "bookingUrlSource": "https://camphappygrounds.com/crows-nest/",
+    "contactMethods": [
+      {
+        "kind": "phone",
+        "value": "603-945-1142",
+        "source": "https://camphappygrounds.com/contact/"
+      },
+      {
+        "kind": "email",
+        "value": "Crowsnest@camphappygrounds.com",
+        "source": "https://camphappygrounds.com/contact/"
+      },
+      {
+        "kind": "email",
+        "value": "team@camphappygrounds.com",
+        "source": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+      }
+    ],
+    "accommodationEvidence": [
+      {
+        "url": "https://camphappygrounds.com/campgrounds/",
+        "observation": "Catalog expressly lists Crows Nest,NewportNH:RV|tent|cabin|open year round|seasonals available."
+      },
+      {
+        "url": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "observation": "Opened title Deluxe Cabin(YR)|Crows Nest|Happy Grounds. Detail identifies Cabin Site and1Site Location. Lists fullbed,one set of twin bunkbeds,private bathroom,microwave,mini fridge,coffee maker,air conditioning,propane wall heater,deck,grill and fire ring. Linens/basic utensils not provided;no indoor cooking. Reservation Details,date/guest/site-location selectors andAddToCart control present;no reservation submitted."
+      },
+      {
+        "url": "https://camphappygrounds.com/contact/",
+        "observation": "Current contact-page stay-type label omits cabin,listingRV/seasonal/tent. Catalog and actual cabin-detail reservation page establish cabin offering;retain this labeling difference."
+      }
+    ],
+    "supportedFactsUpdate": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Deluxe Cabin has one fullbed and one set of twin bunkbeds;do not infer published guest maximum from beds. One cabin site location.",
+      "kidsDetails": "Booking property description explicitly family-friendly and activities for all ages.",
+      "petsDetails": "Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "No dates or quote requested in this expansion. Earlier followup catalog recorded from$173/night;not re-quoted on unit detail.",
+      "amenities": [
+        "Private bathroom",
+        "Microwave",
+        "Mini fridge",
+        "Coffee maker",
+        "Air conditioning",
+        "Propane wall heater",
+        "Deck",
+        "Wi-Fi"
+      ],
+      "source": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+    },
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Crows Nest is an operator; use Happy Grounds campground catalog."
+    }
   },
   "NH-0037": {
     "id": "NH-0037",
@@ -4840,9 +4997,9 @@
     "id": "NH-0056",
     "name": "Cranmore Condominiums",
     "website": "https://www.cranmorecondominiums.com/",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Own rental terms identify legal operator LH North Conway Holdings LLC. Official tourism profile publishes LaFrance email; LaFrance official history establishes family-led regional company, but opened portfolio does not explicitly connect Cranmore condominium rentals to it. Retain candidate pending actual operator/parent relationship evidence.",
-    "classification": "condominium lodging campus",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened condo accommodation, contact, rental terms and direct booking establish a vacation-rental operator; user confirms skier condominium rentals are in scope. No corporate-parent proof required.",
+    "classification": "Vacation condominium rental operator",
     "openedUrls": [
       "https://www.visitnh.gov/business/detail/948",
       "https://cranmorecondominiums.com/",
@@ -4855,7 +5012,8 @@
       "https://www.lafrancehospitality.com/",
       "https://www.lafrancehospitality.com/hotels",
       "https://www.lafrancehospitality.com/history",
-      "https://lafrancehospitality.com/?page_id=152"
+      "https://lafrancehospitality.com/?page_id=152",
+      "https://www.cranmorecondominiums.com/gallery"
     ],
     "contactPagesChecked": [
       "https://www.cranmorecondominiums.com/contact-us",
@@ -4873,16 +5031,13 @@
     "bookingMethod": "Direct inquiry form and (866)422-0585; Webrez booking link",
     "bookingUrl": "https://secure.webrez.com/hotel/3528",
     "operatorEvidenceUrl": "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
-    "notes": "Berry Companies exact homepage resort list does not list Cranmore Condominiums; no Berry ownership assumed. Direct booking/contact/accommodation prior checks retained. Official rental terms newly support No rental guest pets. About says2/3bed units sleep6-8, terms say2bed6/3bed10/1bedlockout2; numeric aggregate occupancy remains Unknown, retain source conflict. Final review: Fairbank resort-development ownership does not establish ownership of contracting operator LH North Conway Holdings LLC; retain candidate pending that connection.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "description": "Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.",
     "descriptionSource": "https://www.cranmorecondominiums.com/about",
-    "remainingGaps": [
-      "Explicit legal operator ownership/independent local parent relationship",
-      "Saved authentic photos"
-    ],
+    "remainingGaps": [],
     "checkedOn": "2026-10-26",
-    "recordType": "property",
-    "type": "condominium lodging campus",
+    "recordType": "operator",
+    "type": "Apartment",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": "Unknown",
@@ -4978,7 +5133,13 @@
     ],
     "verificationMethod": "Opened pages in connected Chrome browser ID1(Sandy profile); rendered DOM/native accessibility. One focused ownership query per unresolved property; snippets used only as leads. No inquiries submitted.",
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Verified independent website",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Cranmore is a condo, acceptable because it rents to skiers."
+    },
+    "photoReviewNotes": "Reuse existing building cover and pool assets; add shared-campus exterior views. Gallery interiors carry different unit identifiers2303,1205,2202,1301,1403,2402 and are not combined."
   },
   "NH-0057": {
     "id": "NH-0057",
@@ -5653,7 +5814,7 @@
     "name": "Trailhead Getaway",
     "website": "Unknown",
     "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Opened state-listed Airbnb destination verifies Gorham rental identity/local host; no operator-controlled direct site or direct inquiry destination verified outside booking platform.",
+    "eligibilityReason": "User deferred further Trailhead verification. No independent direct website established; remains unpublished.",
     "classification": "individual property candidate; platform listing only",
     "openedUrls": [
       "https://www.visitnh.gov/business/detail/1138",
@@ -5673,7 +5834,7 @@
     "bookingMethod": "Airbnb booking/message host; directory email trailheadgetaway@gmail.com not independently verified",
     "bookingUrl": "https://www.airbnb.com/rooms/17367994",
     "operatorEvidenceUrl": "https://www.airbnb.com/rooms/17367994",
-    "notes": "Airbnb title Trailhead Getaway! Park your car for the weekend! Entire home Gorham; hosted Megan lives Raymond NH. Platform listing alone does not qualify as operator direct site.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "description": "Gorham vacation house listed on Airbnb with three bedrooms and a fenced yard.",
     "descriptionSource": "https://www.airbnb.com/rooms/17367994",
     "platformLinks": [
@@ -5706,9 +5867,7 @@
       ]
     },
     "remainingGaps": [
-      "Operator-controlled direct website",
-      "Official Contact/address review",
-      "Direct booking/inquiry outside platform"
+      "Deferred by user; not approved or published"
     ],
     "checkedOn": "2026-10-26",
     "recordType": "property",
@@ -5717,7 +5876,13 @@
     "photos": [],
     "accessFailures": [],
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Source found in web research",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Do not worry about Trailhead."
+    },
+    "reviewDisposition": "Deferred by user"
   },
   "NH-0065": {
     "id": "NH-0065",
@@ -5853,8 +6018,8 @@
     "id": "NH-0066",
     "name": "Dolan Real Estate",
     "website": "https://www.dolanre.com/",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Own local family-operated brokerage website works,but bounded targeted follow-up did not establish a Dolan-controlled short-term vacation rental. The strongest rental result is a third-party IDX listing by Gray Ledges Rentals.",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Real estate brokerage, not the vacation accommodation website sought for this directory.",
     "classification": "Local brokerage;vacation-rental operator role unresolved",
     "recordType": "operator",
     "openedUrls": [
@@ -5880,12 +6045,10 @@
     "bookingMethod": "Dolan general brokerage contact available;vacation-specific direct path not established",
     "bookingUrl": "https://www.dolanre.com/contact-us/",
     "operatorEvidenceUrl": "https://www.dolanre.com/",
-    "notes": "One focused domain rental search performed;opened strongest result rather than rely on snippets. No invented rental ownership or closure.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "description": "Family-owned Sunapee real estate firm; vacation-rental offerings remain unverified on its current site.",
     "descriptionSource": "https://www.dolanre.com/",
-    "remainingGaps": [
-      "Dolan-specific current short-term vacation offering and direct vacation inquiry destination"
-    ],
+    "remainingGaps": [],
     "checkedOn": "2026-10-26",
     "type": "local real estate/rental-manager candidate",
     "supportedFacts": {
@@ -5930,7 +6093,13 @@
       }
     ],
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Not eligible",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Dolan is not a vacation house."
+    },
+    "reviewDisposition": "Excluded by user"
   },
   "NH-0067": {
     "id": "NH-0067",
@@ -6074,8 +6243,8 @@
     "id": "NH-0068",
     "name": "Enchanted Forest Retreat(Turner Holding Company LLC)",
     "website": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Current overnight accommodation exists on opened Vrbo1817955 matching EnchantedForest/Newbury. Educise page markets retreat and provides contact,but direct overnight-rental inquiry relationship to that platform listing remains incomplete. URL wording alone cannot establish no current overnight offering.",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "User requested exclusion of Enchanted Forest Retreat. This does not claim closure of its active platform listing.",
     "classification": "Independent retreat candidate;operator identity/direct-rental connection pending",
     "openedUrls": [
       "https://www.visitnh.gov/business/detail/1295",
@@ -6100,14 +6269,10 @@
     "bookingMethod": "Vrbo booking path available;Educise general contact displayed,but direct accommodation-inquiry purpose not verified",
     "bookingUrl": "https://www.vrbo.com/1817955",
     "operatorEvidenceUrl": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
-    "notes": "Do not treat a matching platform lead alone as an approved operator-controlled direct website. Keep candidate while preserving verified overnight evidence.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "description": "Newbury retreat lead with a related wellness-operator website; current overnight-rental eligibility remains incomplete.",
     "descriptionSource": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
-    "remainingGaps": [
-      "Explicit link/named owner evidence connecting Educise/Turner operator toVrbo1817955",
-      "Direct overnight rental inquiry purpose on operator website",
-      "Official rental address"
-    ],
+    "remainingGaps": [],
     "checkedOn": "2026-10-26",
     "recordType": "property",
     "type": "wellness retreat/accommodation candidate",
@@ -6164,7 +6329,13 @@
       }
     ],
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Not eligible",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Exclude Enchanted Forest."
+    },
+    "reviewDisposition": "Excluded by user"
   },
   "NH-0069": {
     "id": "NH-0069",
@@ -6716,8 +6887,8 @@
     "id": "NH-0073",
     "name": "Roper Real Estate LLC",
     "website": "https://www.roperre.com/",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Working family-owned local brokerage has published rental catalogs,but inspected actual WatervilleValley andCampton catalogs show seasonal/monthly framing and settle to0results. Focused weekly-vacation search did not establish current short-stay offering.",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "User confirms this rental brokerage website is not a vacation-rental website for this inventory.",
     "classification": "Local real estate/rental-manager candidate",
     "recordType": "operator",
     "openedUrls": [
@@ -6743,12 +6914,10 @@
     "bookingMethod": "General direct brokerage phone6032363636 andContact page;short-stay-specific path unverified",
     "bookingUrl": "https://www.roperre.com/contact",
     "operatorEvidenceUrl": "https://www.roperre.com/",
-    "notes": "One focused domain weekly-vacation search gave sale/investment-oriented pages,not a stronger rental lead. Those snippets are not used as verification.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "description": "Family-owned White Mountains real estate firm with seasonal rental listings and a Waterville Valley office.",
     "descriptionSource": "https://www.roperre.com/homes-for-rent-in-waterville-valley-nh",
-    "remainingGaps": [
-      "Current Roper-controlled nightly/weekly vacation rental catalog or explicit short-stay inquiry offer"
-    ],
+    "remainingGaps": [],
     "checkedOn": "2026-10-26",
     "type": "local real estate/rental manager candidate",
     "supportedFacts": {
@@ -6799,7 +6968,13 @@
       }
     ],
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Not eligible",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Roper rental is not a vacation website."
+    },
+    "reviewDisposition": "Excluded by user"
   },
   "NH-0074": {
     "id": "NH-0074",
@@ -6873,8 +7048,8 @@
     "id": "NH-0075",
     "name": "Super Host Solutions",
     "website": "Unknown",
-    "evidenceStatus": "Source found in web research",
-    "eligibilityReason": "Opened state record has phone/location only, no operator website. One focused search did not establish operator-controlled lodging site or actual rental offering.",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "User requested exclusion of Super Host Solutions; no matching operator-controlled accommodation website established.",
     "classification": "hosting/property-service candidate",
     "recordType": "operator candidate",
     "openedUrls": [
@@ -6894,16 +7069,11 @@
     "bookingMethod": "Directory6034088020; accommodation inquiry destination not verified",
     "bookingUrl": "Unknown",
     "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/1109",
-    "notes": "Search leads describe cleaning/cohosting/handyman; snippets not used as confirmed exclusion. No independent website discovered.",
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
     "description": "Berlin hosting/property-service lead; an operator-controlled accommodation website remains unverified.",
     "descriptionSource": "https://www.visitnh.gov/business/detail/1109",
     "platformCheckStatus": "No operator website found to check",
-    "remainingGaps": [
-      "Operator website",
-      "Accommodation offering",
-      "Independence/direct booking",
-      "Official contact/address"
-    ],
+    "remainingGaps": [],
     "checkedOn": "2026-10-26",
     "type": "hosting/property-service candidate",
     "supportedFacts": {
@@ -6925,7 +7095,13 @@
     "photos": [],
     "accessFailures": [],
     "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "eligibilityStatus": "Not eligible",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Exclude Super Host Solutions."
+    },
+    "reviewDisposition": "Excluded by user"
   },
   "NH-0076": {
     "id": "NH-0076",
@@ -7166,43 +7342,85 @@
     "name": "Spacious Skies French Pond",
     "website": "https://spaciousskiescampgrounds.com/french-pond/",
     "checkedOn": "2026-10-26",
-    "evidenceStatus": "Source found in web research",
-    "classification": "Excluded operator/source",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Campground and vacation-lodging operator",
     "recordType": "operator",
-    "type": "Unknown",
+    "type": "Camp",
     "openedUrls": [
       "https://spaciousskiescampgrounds.com/french-pond/",
-      "https://spaciousskiescampgrounds.com/"
+      "https://spaciousskiescampgrounds.com/",
+      "https://spaciousskiescampgrounds.com/french-pond/contact/",
+      "https://camp.spaciousskiescampgrounds.com/french-pond/"
     ],
-    "contactPagesChecked": [],
-    "contactAddress": {},
-    "bookingMethod": "",
-    "bookingUrl": "",
-    "operatorEvidenceUrl": "",
-    "notes": "Access limitation only. No CAPTCHA solved and no claim of DNS failure, permanent closure or confirmed bad website. Tourism-directory address remains unverified.",
-    "supportedFacts": {},
-    "description": "",
-    "descriptionSource": "",
-    "platformLinks": {},
-    "platformCheckStatus": "Not checked; operator site robot challenge",
+    "contactPagesChecked": [
+      "https://spaciousskiescampgrounds.com/french-pond/contact/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "479 Old W. Hopkinton Road",
+      "city": "Henniker",
+      "state": "NH",
+      "zip": "03242",
+      "source": "https://spaciousskiescampgrounds.com/french-pond/contact/",
+      "notes": "Shared campground contact/arrival address; not a particular rental-unit entrance."
+    },
+    "bookingMethod": "Campground direct Newbook reservation engine with arrival/departure, nights, guests and accommodation/equipment controls; phone and email also published. No booking submitted.",
+    "bookingUrl": "https://camp.spaciousskiescampgrounds.com/french-pond/",
+    "operatorEvidenceUrl": "https://spaciousskiescampgrounds.com/french-pond/",
+    "notes": "Working website and direct booking checked in connected browser. Saved photographs show the shared campground setting; no unrelated rental interiors used. Asset HTTP challenge resolved through connected-browser pageAssets.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Rental lodgings include retro RVs with full bed or full bed and bunks, and Pegasus Bungalow; no operator-wide guest maximum assigned.",
+      "kidsDetails": "Official site describes family-friendly stays and campground activities.",
+      "petsDetails": "Rental-unit pet permission not established in this pass.",
+      "priceFrom": "Unknown",
+      "priceDetails": "No dates selected; no live rate quote requested."
+    },
+    "description": "Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.",
+    "descriptionSource": "https://spaciousskiescampgrounds.com/french-pond/",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
     "photoCandidates": [],
     "photos": [],
     "remainingGaps": [
-      "Accessible official accommodation, Contact/About and direct-booking/ownership evidence"
+      "Optional per-unit capacity, rates and policies remain distinct from operator facts."
     ],
-    "accessFailures": [
+    "accessFailures": [],
+    "eligibilityReason": "Official campground, Contact and direct booking pages opened. Furnished rental lodgings (retro RVs and Pegasus Bungalow) establish vacation accommodation alongside RV/tent sites. User explicitly accepted this campground.",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website",
+    "contactMethods": [
       {
-        "url": "https://spaciousskiescampgrounds.com/french-pond/",
-        "observation": "Robot Challenge Screen; security gateway"
+        "kind": "phone",
+        "value": "603-995-4133"
       },
       {
-        "url": "https://spaciousskiescampgrounds.com/",
-        "observation": "Robot Challenge Screen; security gateway"
+        "kind": "email",
+        "value": "info@campatfrenchpond.com",
+        "source": "https://spaciousskiescampgrounds.com/french-pond/contact/"
       }
     ],
-    "eligibilityReason": "Website evaluation attempted but both campground and brand-home routes showed robot challenges; independent ownership/direct stay/contact details not verified.",
-    "reviewed": true,
-    "eligibilityStatus": "Source found in web research"
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "French Pond is a legitimate campground; include it."
+    },
+    "supportedFactsUpdate": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Rental lodgings include retro RVs with full bed or full bed and bunks, and Pegasus Bungalow; no operator-wide guest maximum assigned.",
+      "kidsDetails": "Official site describes family-friendly stays and campground activities.",
+      "petsDetails": "Rental-unit pet permission not established in this pass.",
+      "priceFrom": "Unknown",
+      "priceDetails": "No dates selected; no live rate quote requested."
+    }
   },
   "NH-0043": {
     "id": "NH-0043",

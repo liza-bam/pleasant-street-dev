@@ -7804,5 +7804,124 @@
     "checkedOn": "2026-10-26",
     "status": "Checked opened pages; no qualifying links found",
     "foundLinks": {}
+  },
+  {
+    "id": "NH-0023",
+    "name": "Presidential Mountain Resort",
+    "website": "https://presidentialmountainresort.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://presidentialmountainresort.com/",
+      "https://presidentialmountainresort.com/contact/",
+      "https://www.visitnh.gov/business/detail/548",
+      "https://presidentialmountainresort.com/cabins/",
+      "https://presidentialmountainresort.com/about-presidential-mountain-resort/",
+      "https://book.presidentialmountainresort.com/listings/372084"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0024",
+    "name": "Fernhill Cottages",
+    "website": "https://fernhillcottages.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://fernhillcottages.com/",
+      "https://fernhillcottages.com/contact/",
+      "https://fernhillcottages.com/view-our-cottages/",
+      "https://fernhillcottages.com/about-the-area/",
+      "https://www.google.com/search?q=%22Fernhill+Cottages%22+owners+family+Alton",
+      "https://www.visitnh.gov/business/detail/151",
+      "https://fernhillcottages.com/the-point-cottage/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0026",
+    "name": "Weirs Beach Motel and Cottages",
+    "website": "https://www.weirsbeachmotel.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.weirsbeachmotel.com/",
+      "https://www.weirsbeachmotel.com/contact",
+      "https://www.weirsbeachmotel.com/about",
+      "https://www.google.com/search?q=%22Weirs+Beach+Motel+and+Cottages%22+owners+family",
+      "https://www.fosters.com/story/business/2010/06/08/family-roots-center-weirs-beach/51578790007/",
+      "https://www.hospitalityrealestate.com/properties/weirs-beach-motel-cottages-2/",
+      "https://www.visitnh.gov/business/detail/1538",
+      "https://www.weirsbeachmotel.com/rooms",
+      "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Opened official pages checked; no verified badges",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0036",
+    "name": "Crows Nest Campground",
+    "website": "https://camphappygrounds.com/crows-nest/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://camphappygrounds.com/crows-nest/",
+      "https://camphappygrounds.com/contact/",
+      "https://camphappygrounds.com/crows-nest/rates/",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest",
+      "https://camphappygrounds.com/",
+      "https://camphappygrounds.com/campgrounds/",
+      "https://camphappygrounds.com/crows-nest",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked official campground and direct booking pages; no matching Airbnb, Vrbo or Booking.com listing links found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0056",
+    "name": "Cranmore Condominiums",
+    "website": "https://www.cranmorecondominiums.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/948",
+      "https://cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/contact-us",
+      "https://www.cranmorecondominiums.com/about",
+      "https://cranmore.com/news/cranmore-breaks-ground-on-new-20-million-dollar-base-lodge",
+      "https://www.cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
+      "https://www.google.com/search?q=site%3Alafrancehospitality.com+Cranmore+Condominiums+family",
+      "https://www.lafrancehospitality.com/",
+      "https://www.lafrancehospitality.com/hotels",
+      "https://www.lafrancehospitality.com/history",
+      "https://lafrancehospitality.com/?page_id=152",
+      "https://www.cranmorecondominiums.com/gallery"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0042",
+    "name": "Spacious Skies French Pond",
+    "website": "https://spaciousskiescampgrounds.com/french-pond/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://spaciousskiescampgrounds.com/french-pond/",
+      "https://spaciousskiescampgrounds.com/",
+      "https://spaciousskiescampgrounds.com/french-pond/contact/",
+      "https://camp.spaciousskiescampgrounds.com/french-pond/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
+    "foundLinks": {}
   }
 ]

@@ -44,7 +44,7 @@
       "status": "Pending"
     },
     "eligibility": {
-      "status": "Existing77records reviewed;12remain explicitly unverified",
+      "status": "All 77 reviewed; user decisions applied; one unresolved lead and one user-deferred lead remain",
       "reviewedIds": [
         "NH-0002",
         "NH-0005",
@@ -144,20 +144,12 @@
       ]
     },
     "gapReview": {
-      "status": "Ownership and current-offering follow-ups completed;access/missing-evidence gaps retained",
+      "status": "User-reviewed inclusions, exclusions and deferral applied; Lakes Region remains unresolved",
       "unresolvedIds": [
-        "NH-0023",
-        "NH-0024",
-        "NH-0026",
-        "NH-0036",
-        "NH-0056",
-        "NH-0064",
-        "NH-0066",
-        "NH-0068",
-        "NH-0073",
-        "NH-0075",
-        "NH-0076",
-        "NH-0042"
+        "NH-0076"
+      ],
+      "deferredIds": [
+        "NH-0064"
       ]
     }
   },
@@ -182,7 +174,7 @@
     "Strafford",
     "Sullivan"
   ],
-  "publication": "36 verified photo-ready NH listings deployed and checked live in Map,Tiny and Large Cards on2026-10-26;16 eligible records remain media-pending",
+  "publication": "42 verified photo-ready NH listings prepared locally; live verification pending",
   "limitations": [
     "The DOM snapshot did not expose directory results that were visible in the screenshot and native accessibility tree; use the native accessibility state for these category pages.",
     "Deepwood cottage-detail widget failed; direct contact and main website remain available.",
@@ -192,24 +184,24 @@
   "counts": {
     "master": 77,
     "reviewed": 77,
-    "verifiedEligible": 52,
-    "sourceOnly": 12,
-    "notEligible": 7,
+    "verifiedEligible": 58,
+    "sourceOnly": 2,
+    "notEligible": 11,
     "websiteUnavailable": 6,
     "confirmedDuplicateAuditRows": 1,
-    "photoReadyPublishedPackage": 36,
-    "propertiesWithSavedPhotos": 48,
-    "savedAuthenticPhotographs": 146
+    "photoReadyPublishedPackage": 42,
+    "propertiesWithSavedPhotos": 53,
+    "savedAuthenticPhotographs": 167
   },
   "checks": {
     "checkedOn": "2026-10-26",
     "commands": {
-      "node tools/verify-catalog.mjs": "Passed:567records,553mapped;catalog/media/eligibility/field preservation",
-      "python3 tools/verify-cards.py": "Passed:560active cards,3distinct photos each,descriptions<=150,evidence/CSVlinks",
-      "Regional CSV parse/reconciliation": "Passed:77master,25candidate/audit,52approved;all49columns/cells",
-      "Existing inventory preservation": "All535 previously retained records unchanged"
+      "node tools/verify-catalog.mjs": "Passed: 573 records, 559 mapped; catalog/media/eligibility/field preservation",
+      "python3 tools/verify-cards.py": "Passed: 566 active cards; 3 distinct photos each, descriptions <=150, evidence/CSV links",
+      "Regional CSV parse/reconciliation": "Passed: 77 master, 19 candidate/audit, 58 approved; all 49 columns and cells match JSON",
+      "Existing inventory preservation": "All 567 prior records unchanged"
     },
-    "researchCompletion": "All77 existing records reviewed;12still lack eligible verification;broader statewide discovery incomplete"
+    "researchCompletion": "Existing 77 reviewed; Lakes Region remains unresolved and Trailhead deferred by user. Broader statewide discovery incomplete."
   },
   "liveVerification": {
     "checkedOn": "2026-10-26",
@@ -231,27 +223,17 @@
     "reviewed": 77,
     "total": 77,
     "statuses": {
-      "Verified independent website": 48,
+      "Verified independent website": 54,
       "Website unavailable": 6,
-      "Source found in web research": 12,
-      "Not eligible": 7,
-      "Verified platform-hosted website": 4
+      "Not eligible": 11,
+      "Verified platform-hosted website": 4,
+      "Source found in web research": 2
     },
-    "eligible": 52,
-    "photoReadyImport": 36,
+    "eligible": 58,
+    "photoReadyImport": 42,
     "unresolvedIds": [
-      "NH-0023",
-      "NH-0024",
-      "NH-0026",
-      "NH-0036",
-      "NH-0056",
       "NH-0064",
-      "NH-0066",
-      "NH-0068",
-      "NH-0073",
-      "NH-0075",
-      "NH-0076",
-      "NH-0042"
+      "NH-0076"
     ],
     "unavailableIds": [
       "NH-0017",
@@ -262,7 +244,7 @@
       "NH-0074"
     ],
     "checkedOn": "2026-10-26",
-    "publication": "36 verified photo-ready NH listings deployed and checked live in Map,Tiny and Large Cards on2026-10-26;16 eligible records remain media-pending"
+    "publication": "Updated package prepared locally; new audit batch not yet deployed"
   },
   "agentWork": {
     "agents": 3,
@@ -270,5 +252,30 @@
     "batchReviewedIds": 72,
     "coordinatorReconciledAll": 77,
     "globalAgentsCleanup": "App computer-use access blocked; no global archive/delete performed"
+  },
+  "userReview": {
+    "checkedOn": "2026-10-26",
+    "source": "verification-followup-user-decisions.json",
+    "acceptedIds": [
+      "NH-0023",
+      "NH-0024",
+      "NH-0026",
+      "NH-0036",
+      "NH-0042",
+      "NH-0056"
+    ],
+    "excludedIds": [
+      "NH-0066",
+      "NH-0068",
+      "NH-0073",
+      "NH-0075"
+    ],
+    "deferredIds": [
+      "NH-0064"
+    ],
+    "remainingUnresolvedIds": [
+      "NH-0076"
+    ],
+    "catalogExpansion": "happy-grounds-expansion.json: 18 campuses; Crows Nest matched existing NH record, Field & Stream RV-only; 16 off-state leads retained separately"
   }
 }

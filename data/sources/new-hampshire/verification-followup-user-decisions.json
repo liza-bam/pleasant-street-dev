@@ -1,0 +1,441 @@
+[
+  {
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "operator",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
+    "remainingGaps": [
+      "Optional per-unit capacity, rates and policies remain distinct from operator facts."
+    ],
+    "id": "NH-0023",
+    "name": "Presidential Mountain Resort",
+    "website": "https://presidentialmountainresort.com/",
+    "classification": "Lakeside log-cabin resort operator",
+    "type": "Cabin",
+    "openedUrls": [
+      "https://presidentialmountainresort.com/cabins/",
+      "https://presidentialmountainresort.com/about-presidential-mountain-resort/",
+      "https://presidentialmountainresort.com/contact/",
+      "https://book.presidentialmountainresort.com/listings/372084"
+    ],
+    "contactPagesChecked": [
+      "https://presidentialmountainresort.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "1108 Main Street",
+      "city": "Bethlehem",
+      "state": "NH",
+      "zip": "03574",
+      "source": "https://presidentialmountainresort.com/contact/",
+      "notes": "Shared resort contact/campus address; not a separately numbered cabin entrance."
+    },
+    "contactMethods": [
+      {
+        "kind": "phone",
+        "value": "+1 (603) 253-2222"
+      },
+      {
+        "kind": "email",
+        "value": "info@pmrnh.com"
+      }
+    ],
+    "bookingUrl": "https://book.presidentialmountainresort.com/listings/372084",
+    "bookingMethod": "Operator direct booking with date/guest selectors and Send Inquiry; official contact form, telephone and email also available. No inquiry or reservation submitted.",
+    "operatorEvidenceUrl": "https://presidentialmountainresort.com/about-presidential-mountain-resort/",
+    "eligibilityReason": "Official cabins, About, Contact and operator-controlled reservation pages opened; identifiable Bethlehem cabin resort offers vacation stays and direct booking/inquiry. User confirmed PMR inclusion and provided contact details, corroborated on Contact page.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "PMR cabins and contact details supplied for inclusion."
+    },
+    "supportedFactsUpdate": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Official cabins page lists 37 log cabins, studio to six bedrooms; direct search displayed 48 accommodation listings. Pictured Chestnut Premier14 is separately identified as two adults, one bedroom and one bathroom, not operator-wide capacity.",
+      "kidsDetails": "Family stays offered at resort; pictured Chestnut Premier14 is exclusively for two adults.",
+      "petsDetails": "Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.",
+      "priceFrom": "Unknown",
+      "priceDetails": "A date selection is required for the pictured unit price; no quote requested."
+    },
+    "description": "Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.",
+    "descriptionSource": "https://presidentialmountainresort.com/cabins/",
+    "notes": "Source-site access now succeeds. Photos all belong to Chestnut Premier14 (adults-only); do not apply its unit facts to all cabins. Eligibility does not imply owner participation.",
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0024",
+    "name": "Fernhill Cottages",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own cottage/contact pages and direct inquiry checked; user confirmed independent operation. A named individual owner is not required.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Fernhill is independent."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "operatorEvidenceUrl": "https://fernhillcottages.com/",
+    "remainingGaps": [],
+    "openedUrls": [
+      "https://fernhillcottages.com/the-point-cottage/"
+    ],
+    "photoReviewNotes": "All selected photos depict Point Cottage, not other Fernhill cottages. These facts apply only to Point Cottage."
+  },
+  {
+    "id": "NH-0026",
+    "name": "Weirs Beach Motel and Cottages",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own accommodation, contact/address and direct inquiry previously checked; user confirms this property. Historical sale information is not used to block the accepted rental operator.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Weirs is confirmed."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "operatorEvidenceUrl": "https://www.weirsbeachmotel.com/",
+    "remainingGaps": [],
+    "openedUrls": [
+      "https://www.weirsbeachmotel.com/rooms",
+      "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1"
+    ],
+    "photoReviewNotes": "Clicked visible slideshow Next and Slide3 controls, captured actual URLs. All images from exact Cottage9 gallery; no other unit interiors combined."
+  },
+  {
+    "name": "Crows Nest Campground",
+    "website": "https://camphappygrounds.com/crows-nest/",
+    "city": "Newport",
+    "state": "NH",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Operator-controlled site identifies Newport campground,actual furnished overnight Deluxe Cabin and direct booking/inquiry. User accepted Happy Grounds regional operator scope;18-campus footprint is disclosed,not an exclusion.",
+    "classification": "Individual campground campus operated by Happy Grounds Management LLC",
+    "recordType": "operator",
+    "type": "Cabin",
+    "parentOperator": "Happy Grounds Management LLC",
+    "deduplication": "Preserve existing NH-0036;do not create a duplicate Crows Nest record or merge with Field & Stream.",
+    "openedUrls": [
+      "https://camphappygrounds.com/campgrounds/",
+      "https://camphappygrounds.com/crows-nest",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+      "https://camphappygrounds.com/contact/"
+    ],
+    "contactPagesChecked": [
+      "https://camphappygrounds.com/contact/",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "529 S Main St",
+      "city": "Newport",
+      "state": "NH",
+      "zip": "03773",
+      "source": "https://camphappygrounds.com/contact/",
+      "corroboratingSources": [
+        "https://camphappygrounds.com/crows-nest/",
+        "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+      ],
+      "notes": "Official Crows Nest contact block and unit Address & Contact both publish this campground address. This is campus contact/arrival location,not a separately numbered cabin entrance."
+    },
+    "bookingMethod": "Operator direct reservation engine with site/date/guest selectors;direct telephone and email also published",
+    "bookingUrl": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+    "bookingUrlSource": "https://camphappygrounds.com/crows-nest/",
+    "contactMethods": [
+      {
+        "kind": "phone",
+        "value": "603-945-1142",
+        "source": "https://camphappygrounds.com/contact/"
+      },
+      {
+        "kind": "email",
+        "value": "Crowsnest@camphappygrounds.com",
+        "source": "https://camphappygrounds.com/contact/"
+      },
+      {
+        "kind": "email",
+        "value": "team@camphappygrounds.com",
+        "source": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+      }
+    ],
+    "accommodationEvidence": [
+      {
+        "url": "https://camphappygrounds.com/campgrounds/",
+        "observation": "Catalog expressly lists Crows Nest,NewportNH:RV|tent|cabin|open year round|seasonals available."
+      },
+      {
+        "url": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "observation": "Opened title Deluxe Cabin(YR)|Crows Nest|Happy Grounds. Detail identifies Cabin Site and1Site Location. Lists fullbed,one set of twin bunkbeds,private bathroom,microwave,mini fridge,coffee maker,air conditioning,propane wall heater,deck,grill and fire ring. Linens/basic utensils not provided;no indoor cooking. Reservation Details,date/guest/site-location selectors andAddToCart control present;no reservation submitted."
+      },
+      {
+        "url": "https://camphappygrounds.com/contact/",
+        "observation": "Current contact-page stay-type label omits cabin,listingRV/seasonal/tent. Catalog and actual cabin-detail reservation page establish cabin offering;retain this labeling difference."
+      }
+    ],
+    "description": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
+    "descriptionSource": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+    "photoCandidates": [
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/FAElGY5GnHulbLx/width=1000,height=467,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "cover candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/tjC4ApKHkJLxAa9/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/uAax5AOQY_kzgbl/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/RXlG6BK1vuIxIQo/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://imagedelivery.net/JnqMpVa3NYr_VOKJ2vD5Pg/happy-grounds/pDaORBNT8rUo6Ym/width=500,height=267,quality=undefined,fit=crop,dpr=2",
+        "sourcePage": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+        "alt": "Image Promotion",
+        "unitOrCampus": "Crows Nest Deluxe Cabin(YR),one site location",
+        "candidateRole": "additional photo candidate",
+        "generated": false,
+        "status": "Observed image src inside Deluxe Cabin gallery;not downloaded or visually validated",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photos": [],
+    "remainingGaps": [
+      "Optional published maximum occupancy and unit-specific pet policy"
+    ],
+    "accessFailures": [],
+    "id": "NH-0036",
+    "supportedFactsUpdate": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Deluxe Cabin has one fullbed and one set of twin bunkbeds;do not infer published guest maximum from beds. One cabin site location.",
+      "kidsDetails": "Booking property description explicitly family-friendly and activities for all ages.",
+      "petsDetails": "Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "No dates or quote requested in this expansion. Earlier followup catalog recorded from$173/night;not re-quoted on unit detail.",
+      "amenities": [
+        "Private bathroom",
+        "Microwave",
+        "Mini fridge",
+        "Coffee maker",
+        "Air conditioning",
+        "Propane wall heater",
+        "Deck",
+        "Wi-Fi"
+      ],
+      "source": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
+    },
+    "operatorEvidenceUrl": "https://camphappygrounds.com/campgrounds/",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked official campground and direct booking pages; no matching Airbnb, Vrbo or Booking.com listing links found",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Crows Nest is an operator; use Happy Grounds campground catalog."
+    }
+  },
+  {
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "operator",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
+    "remainingGaps": [
+      "Optional per-unit capacity, rates and policies remain distinct from operator facts."
+    ],
+    "id": "NH-0042",
+    "name": "Spacious Skies French Pond",
+    "website": "https://spaciousskiescampgrounds.com/french-pond/",
+    "classification": "Campground and vacation-lodging operator",
+    "type": "Camp",
+    "openedUrls": [
+      "https://spaciousskiescampgrounds.com/french-pond/",
+      "https://spaciousskiescampgrounds.com/french-pond/contact/",
+      "https://camp.spaciousskiescampgrounds.com/french-pond/"
+    ],
+    "contactPagesChecked": [
+      "https://spaciousskiescampgrounds.com/french-pond/contact/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "479 Old W. Hopkinton Road",
+      "city": "Henniker",
+      "state": "NH",
+      "zip": "03242",
+      "source": "https://spaciousskiescampgrounds.com/french-pond/contact/",
+      "notes": "Shared campground contact/arrival address; not a particular rental-unit entrance."
+    },
+    "contactMethods": [
+      {
+        "kind": "phone",
+        "value": "603-995-4133"
+      },
+      {
+        "kind": "email",
+        "value": "info@campatfrenchpond.com",
+        "source": "https://spaciousskiescampgrounds.com/french-pond/contact/"
+      }
+    ],
+    "bookingUrl": "https://camp.spaciousskiescampgrounds.com/french-pond/",
+    "bookingMethod": "Campground direct Newbook reservation engine with arrival/departure, nights, guests and accommodation/equipment controls; phone and email also published. No booking submitted.",
+    "operatorEvidenceUrl": "https://spaciousskiescampgrounds.com/french-pond/",
+    "eligibilityReason": "Official campground, Contact and direct booking pages opened. Furnished rental lodgings (retro RVs and Pegasus Bungalow) establish vacation accommodation alongside RV/tent sites. User explicitly accepted this campground.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "French Pond is a legitimate campground; include it."
+    },
+    "supportedFactsUpdate": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Rental lodgings include retro RVs with full bed or full bed and bunks, and Pegasus Bungalow; no operator-wide guest maximum assigned.",
+      "kidsDetails": "Official site describes family-friendly stays and campground activities.",
+      "petsDetails": "Rental-unit pet permission not established in this pass.",
+      "priceFrom": "Unknown",
+      "priceDetails": "No dates selected; no live rate quote requested."
+    },
+    "description": "Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.",
+    "descriptionSource": "https://spaciousskiescampgrounds.com/french-pond/",
+    "notes": "Working website and direct booking checked in connected browser. Saved photographs show the shared campground setting; no unrelated rental interiors used. Asset HTTP challenge resolved through connected-browser pageAssets.",
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0056",
+    "name": "Cranmore Condominiums",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened condo accommodation, contact, rental terms and direct booking establish a vacation-rental operator; user confirms skier condominium rentals are in scope. No corporate-parent proof required.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Cranmore is a condo, acceptable because it rents to skiers."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "operatorEvidenceUrl": "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
+    "classification": "Vacation condominium rental operator",
+    "recordType": "operator",
+    "type": "Apartment",
+    "remainingGaps": [],
+    "openedUrls": [
+      "https://www.cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/gallery"
+    ],
+    "photoReviewNotes": "Reuse existing building cover and pool assets; add shared-campus exterior views. Gallery interiors carry different unit identifiers2303,1205,2202,1301,1403,2402 and are not combined."
+  },
+  {
+    "id": "NH-0064",
+    "name": "Trailhead Getaway",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "User deferred further Trailhead verification. No independent direct website established; remains unpublished.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Do not worry about Trailhead."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "reviewDisposition": "Deferred by user",
+    "remainingGaps": [
+      "Deferred by user; not approved or published"
+    ]
+  },
+  {
+    "id": "NH-0066",
+    "name": "Dolan Real Estate",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Real estate brokerage, not the vacation accommodation website sought for this directory.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Dolan is not a vacation house."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "reviewDisposition": "Excluded by user",
+    "remainingGaps": []
+  },
+  {
+    "id": "NH-0068",
+    "name": "Enchanted Forest Retreat(Turner Holding Company LLC)",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "User requested exclusion of Enchanted Forest Retreat. This does not claim closure of its active platform listing.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Exclude Enchanted Forest."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "reviewDisposition": "Excluded by user",
+    "remainingGaps": []
+  },
+  {
+    "id": "NH-0073",
+    "name": "Roper Real Estate LLC",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "User confirms this rental brokerage website is not a vacation-rental website for this inventory.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Roper rental is not a vacation website."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "reviewDisposition": "Excluded by user",
+    "remainingGaps": []
+  },
+  {
+    "id": "NH-0075",
+    "name": "Super Host Solutions",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "User requested exclusion of Super Host Solutions; no matching operator-controlled accommodation website established.",
+    "userConfirmation": {
+      "date": "2026-10-26",
+      "source": "User confirmation in research conversation",
+      "confirmation": "Exclude Super Host Solutions."
+    },
+    "notes": "User-reviewed inclusion/exclusion. Previous evidence and any unresolved optional details remain in original audit batches. This decision does not imply owner participation in Pleasant Street.",
+    "reviewDisposition": "Excluded by user",
+    "remainingGaps": []
+  }
+]

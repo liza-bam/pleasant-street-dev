@@ -328,10 +328,13 @@
     "checkedPages": [
       "https://presidentialmountainresort.com/",
       "https://presidentialmountainresort.com/contact/",
-      "https://www.visitnh.gov/business/detail/548"
+      "https://www.visitnh.gov/business/detail/548",
+      "https://presidentialmountainresort.com/cabins/",
+      "https://presidentialmountainresort.com/about-presidential-mountain-resort/",
+      "https://book.presidentialmountainresort.com/listings/372084"
     ],
     "checkedOn": "2026-10-26",
-    "status": "Access limited",
+    "status": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
     "foundLinks": {}
   },
   {
@@ -346,7 +349,8 @@
       "https://fernhillcottages.com/view-our-cottages/",
       "https://fernhillcottages.com/about-the-area/",
       "https://www.google.com/search?q=%22Fernhill+Cottages%22+owners+family+Alton",
-      "https://www.visitnh.gov/business/detail/151"
+      "https://www.visitnh.gov/business/detail/151",
+      "https://fernhillcottages.com/the-point-cottage/"
     ],
     "checkedOn": "2026-10-26",
     "status": "Checked opened pages; none found",
@@ -385,7 +389,9 @@
       "https://www.google.com/search?q=%22Weirs+Beach+Motel+and+Cottages%22+owners+family",
       "https://www.fosters.com/story/business/2010/06/08/family-roots-center-weirs-beach/51578790007/",
       "https://www.hospitalityrealestate.com/properties/weirs-beach-motel-cottages-2/",
-      "https://www.visitnh.gov/business/detail/1538"
+      "https://www.visitnh.gov/business/detail/1538",
+      "https://www.weirsbeachmotel.com/rooms",
+      "https://www.weirsbeachmotel.com/copy-3-of-motel-room-3/1"
     ],
     "checkedOn": "2026-10-26",
     "status": "Opened official pages checked; no verified badges",
@@ -505,10 +511,13 @@
       "https://camphappygrounds.com/contact/",
       "https://camphappygrounds.com/crows-nest/rates/",
       "https://book.camphappygrounds.com/campgrounds/crows-nest",
-      "https://camphappygrounds.com/"
+      "https://camphappygrounds.com/",
+      "https://camphappygrounds.com/campgrounds/",
+      "https://camphappygrounds.com/crows-nest",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825"
     ],
     "checkedOn": "2026-10-26",
-    "status": "Checked opened official pages; none found",
+    "status": "Checked official campground and direct booking pages; no matching Airbnb, Vrbo or Booking.com listing links found",
     "foundLinks": {}
   },
   {
@@ -845,7 +854,8 @@
       "https://www.lafrancehospitality.com/",
       "https://www.lafrancehospitality.com/hotels",
       "https://www.lafrancehospitality.com/history",
-      "https://lafrancehospitality.com/?page_id=152"
+      "https://lafrancehospitality.com/?page_id=152",
+      "https://www.cranmorecondominiums.com/gallery"
     ],
     "checkedOn": "2026-10-26",
     "status": "Checked opened official pages; none found",
@@ -1325,10 +1335,12 @@
     "evidence": [],
     "checkedPages": [
       "https://spaciousskiescampgrounds.com/french-pond/",
-      "https://spaciousskiescampgrounds.com/"
+      "https://spaciousskiescampgrounds.com/",
+      "https://spaciousskiescampgrounds.com/french-pond/contact/",
+      "https://camp.spaciousskiescampgrounds.com/french-pond/"
     ],
     "checkedOn": "2026-10-26",
-    "status": "Not checked; operator site robot challenge",
+    "status": "Checked opened official pages; no Airbnb, Vrbo or Booking.com listing links found",
     "foundLinks": {}
   },
   {

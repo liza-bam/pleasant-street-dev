@@ -98,20 +98,22 @@ Reapply reviewed facts/media with `python3 tools/prepare-vermont.py`, then impor
 
 `data/sources/new-hampshire/new_hampshire_independent_rental_websites.csv` retains 76 statewide
 directory records and one regional addition in the existing 49-column format. All 77 have
-opened-source review outcomes in `website-audit.json`: 52 verified eligible websites, seven
-exclusions (including one duplicate), six unavailable sites and 12 unresolved candidates.
-The approved export contains all 52 eligible records. The candidate/audit export retains the
-other 25 with precise statuses; review is not the same as verified eligibility.
+opened-source review outcomes in `website-audit.json`: 58 verified eligible websites, 11
+exclusions (including one duplicate), six unavailable sites and two unverified candidates (Trailhead deferred by the user; Lakes Region unresolved).
+The approved export contains all 58 eligible records. The candidate/audit export retains the
+other 19 with precise statuses; review is not the same as verified eligibility.
 
-The publication package contains 36 eligible records with three distinct saved card photos;
+The publication package contains 42 eligible records with three distinct saved card photos;
 16 additional verified records await sufficient attributable media. Contact/property address
 reviews distinguish actual rentals, shared campuses, offices, PO boxes and undisclosed addresses.
 Source-based descriptions, unit/operator fact distinctions, disagreements and actual platform
 links are preserved. Badges require matching destination identity. `bad-websites.md` and the
 regional `bad-websites.json` retain failed URLs and Robie's recovered replacement domain.
 
-Unresolved records include robot challenges, missing direct websites and incomplete operator
-or short-stay evidence. Do not import them as approved. This completes review of the existing
+User-reviewed decisions are retained separately from website evidence in
+`verification-followup-user-decisions.json`; acceptance does not imply owner participation.
+Trailhead is deferred and Lakes Region remains unresolved; neither is imported.
+`happy-grounds-expansion.json` retains all 18 operator campuses and their scope decisions. This completes review of the existing
 77-record inventory, not comprehensive statewide discovery: regional, town, aggregator and
 platform expansion remain in `research-progress.json`. Massachusetts and Rhode Island follow.
 

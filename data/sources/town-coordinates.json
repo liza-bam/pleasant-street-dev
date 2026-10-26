@@ -1363,5 +1363,33 @@
   "source": "https://nominatim.openstreetmap.org/search?q=North+Conway%2C+NH%2C+USA&format=json&limit=1",
   "label": "North Conway, Conway, Carroll County, New Hampshire, 03860, United States",
   "checked": "2026-10-26"
+ },
+ "Bethlehem, NH, USA": {
+  "lat": 44.2805,
+  "lng": -71.687,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bethlehem%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Bethlehem, Grafton County, New Hampshire, 03574, United States",
+  "checked": "2026-10-26"
+ },
+ "Alton, NH, USA": {
+  "lat": 43.4925,
+  "lng": -71.2498,
+  "source": "https://nominatim.openstreetmap.org/search?q=Alton%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Alton, Belknap County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Newport, NH, USA": {
+  "lat": 43.3653,
+  "lng": -72.1974,
+  "source": "https://nominatim.openstreetmap.org/search?q=Newport%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Newport, Sullivan County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Henniker, NH, USA": {
+  "lat": 43.1797,
+  "lng": -71.8225,
+  "source": "https://nominatim.openstreetmap.org/search?q=Henniker%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Henniker, Merrimack County, New Hampshire, 03242, United States",
+  "checked": "2026-10-26"
  }
 }

@@ -9328,6 +9328,68 @@
   "demo": false
  },
  {
+  "id": "NH-0056",
+  "name": "Cranmore Condominiums",
+  "url": "https://www.cranmorecondominiums.com/",
+  "place": "North Conway, NH",
+  "town": "North Conway",
+  "state": "NH",
+  "type": "Apartment",
+  "recordType": "Rental operator",
+  "description": "Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.",
+  "descriptionSource": "https://www.cranmorecondominiums.com/about",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.",
+  "cardDescriptionSource": "https://www.cranmorecondominiums.com/about",
+  "cardPhotos": [
+   "images/NH-0056-cover.webp",
+   "images/NH-0056-000.webp",
+   "images/NH-0056-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Cranmore shared campus; Cranmore shared condominium campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Official About2/3bed residences sleep6-8; official terms2bed6,3bed10,1bedlockout2. Preserve conflict and unit distinctions.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Official rental terms prohibit rental guests pets; owners may previously have brought pets into units, so units are not necessarily allergen-free.",
+  "lat": 44.0378,
+  "lng": -71.1238,
+  "photo": "images/NH-0056-card.webp",
+  "coverPhoto": "images/NH-0056-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0056-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0056-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0056-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0056-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0511",
   "name": "CROOKED RIVER COTTAGE LIMIT 5",
   "url": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=201",
@@ -9596,6 +9658,70 @@
    },
    {
     "file": "images/ME-0039-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0036",
+  "name": "Crows Nest Campground",
+  "url": "https://camphappygrounds.com/crows-nest/",
+  "place": "Newport, NH",
+  "town": "Newport",
+  "state": "NH",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
+  "descriptionSource": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
+  "cardDescriptionSource": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+  "cardPhotos": [
+   "images/NH-0036-cover.webp",
+   "images/NH-0036-000.webp",
+   "images/NH-0036-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Crows Nest Deluxe Cabin(YR),one site location",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Optional published maximum occupancy and unit-specific pet policy"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Deluxe Cabin has one fullbed and one set of twin bunkbeds;do not infer published guest maximum from beds. One cabin site location.",
+  "priceFrom": "Unknown",
+  "priceDetails": "No dates or quote requested in this expansion. Earlier followup catalog recorded from$173/night;not re-quoted on unit detail.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Booking property description explicitly family-friendly and activities for all ages.",
+  "petsDetails": "Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.",
+  "lat": 43.3653,
+  "lng": -72.1974,
+  "photo": "images/NH-0036-card.webp",
+  "coverPhoto": "images/NH-0036-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0036-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0036-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0036-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0036-002.webp",
     "role": "photo"
    }
   ],
@@ -11779,6 +11905,68 @@
    }
   ],
   "logo": "images/VT-0001-logo.jpg",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0024",
+  "name": "Fernhill Cottages",
+  "url": "https://fernhillcottages.com/",
+  "place": "Alton, NH",
+  "town": "Alton",
+  "state": "NH",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.",
+  "descriptionSource": "https://fernhillcottages.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.",
+  "cardDescriptionSource": "https://fernhillcottages.com/",
+  "cardPhotos": [
+   "images/NH-0024-cover.webp",
+   "images/NH-0024-000.webp",
+   "images/NH-0024-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Point Cottage",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Full-week only summer2026 incl8.5%NH room tax; no amount adopted",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "All cottages No Pets, official cottage overview",
+  "lat": 43.4925,
+  "lng": -71.2498,
+  "photo": "images/NH-0024-card.webp",
+  "coverPhoto": "images/NH-0024-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0024-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0024-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0024-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0024-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
@@ -28242,6 +28430,70 @@
   "demo": false
  },
  {
+  "id": "NH-0023",
+  "name": "Presidential Mountain Resort",
+  "url": "https://presidentialmountainresort.com/",
+  "place": "Bethlehem, NH",
+  "town": "Bethlehem",
+  "state": "NH",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.",
+  "descriptionSource": "https://presidentialmountainresort.com/cabins/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.",
+  "cardDescriptionSource": "https://presidentialmountainresort.com/cabins/",
+  "cardPhotos": [
+   "images/NH-0023-cover.webp",
+   "images/NH-0023-000.webp",
+   "images/NH-0023-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Chestnut Premier14 (adults-only unit)",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Optional per-unit capacity, rates and policies remain distinct from operator facts."
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Official cabins page lists 37 log cabins, studio to six bedrooms; direct search displayed 48 accommodation listings. Pictured Chestnut Premier14 is separately identified as two adults, one bedroom and one bathroom, not operator-wide capacity.",
+  "priceFrom": "Unknown",
+  "priceDetails": "A date selection is required for the pictured unit price; no quote requested.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Family stays offered at resort; pictured Chestnut Premier14 is exclusively for two adults.",
+  "petsDetails": "Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.",
+  "lat": 44.2805,
+  "lng": -71.687,
+  "photo": "images/NH-0023-card.webp",
+  "coverPhoto": "images/NH-0023-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0023-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0023-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0023-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0023-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0365",
   "name": "Quietside Cottage",
   "url": "https://acadiavacationrentals.com/quietside-cottage/",
@@ -33044,6 +33296,70 @@
    {
     "file": "images/VT-0025-cover.jpg",
     "role": "cover"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0042",
+  "name": "Spacious Skies French Pond",
+  "url": "https://spaciousskiescampgrounds.com/french-pond/",
+  "place": "Henniker, NH",
+  "town": "Henniker",
+  "state": "NH",
+  "type": "Camp",
+  "recordType": "Rental operator",
+  "description": "Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.",
+  "descriptionSource": "https://spaciousskiescampgrounds.com/french-pond/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.",
+  "cardDescriptionSource": "https://spaciousskiescampgrounds.com/french-pond/",
+  "cardPhotos": [
+   "images/NH-0042-cover.webp",
+   "images/NH-0042-000.webp",
+   "images/NH-0042-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: French Pond shared campground campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Optional per-unit capacity, rates and policies remain distinct from operator facts."
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Rental lodgings include retro RVs with full bed or full bed and bunks, and Pegasus Bungalow; no operator-wide guest maximum assigned.",
+  "priceFrom": "Unknown",
+  "priceDetails": "No dates selected; no live rate quote requested.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Official site describes family-friendly stays and campground activities.",
+  "petsDetails": "Rental-unit pet permission not established in this pass.",
+  "lat": 43.1797,
+  "lng": -71.8225,
+  "photo": "images/NH-0042-card.webp",
+  "coverPhoto": "images/NH-0042-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0042-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0042-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0042-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0042-002.webp",
+    "role": "photo"
    }
   ],
   "logo": "Unknown",
@@ -40251,6 +40567,66 @@
   ],
   "logo": "images/ME-0224-logo.png",
   "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0026",
+  "name": "Weirs Beach Motel and Cottages",
+  "url": "https://www.weirsbeachmotel.com/",
+  "place": "Laconia, NH",
+  "town": "Laconia",
+  "state": "NH",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.",
+  "descriptionSource": "https://www.weirsbeachmotel.com/about",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.",
+  "cardDescriptionSource": "https://www.weirsbeachmotel.com/about",
+  "cardPhotos": [
+   "images/NH-0026-cover.webp",
+   "images/NH-0026-000.webp",
+   "images/NH-0026-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: One Bedroom Cottage / Cottage9",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Max2pets/room,35lb max each,$30/night; dogs restricted by listed breed/aggression; never unattended; vaccination/leash/waste rules",
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "photo": "images/NH-0026-card.webp",
+  "coverPhoto": "images/NH-0026-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0026-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0026-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0026-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
