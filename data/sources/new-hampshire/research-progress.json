@@ -182,7 +182,7 @@
     "Strafford",
     "Sullivan"
   ],
-  "publication": "Four previous NH records live;32new photo-ready records prepared and tested locally, not deployed yet",
+  "publication": "36 verified photo-ready NH listings deployed and checked live in Map,Tiny and Large Cards on2026-10-26;16 eligible records remain media-pending",
   "limitations": [
     "The DOM snapshot did not expose directory results that were visible in the screenshot and native accessibility tree; use the native accessibility state for these category pages.",
     "Deepwood cottage-detail widget failed; direct contact and main website remain available.",
@@ -213,21 +213,19 @@
   },
   "liveVerification": {
     "checkedOn": "2026-10-26",
-    "commit": "ad44630",
-    "deploymentRun": "https://github.com/liza-bam/pleasant-street-dev/actions/runs/40404523329",
-    "deploymentStatus": "Success",
-    "cardsUrl": "https://liza-bam.github.io/pleasant-street-dev/?view=cards&size=large&place=NH",
+    "commit": "ce4f64f",
+    "cardsUrl": "https://liza-bam.github.io/pleasant-street-dev/?view=cards&size=tiny&place=NH",
     "mapUrl": "https://liza-bam.github.io/pleasant-street-dev/?place=NH",
-    "visibleRecordIds": [
-      "NH-0001",
-      "NH-0003",
-      "NH-0004",
-      "NH-0077"
-    ],
-    "visibleCount": 4,
-    "displayedPhotographsLoaded": 12,
-    "airbnbBadge": "The Conscious Cabin; nonclickable logo only",
-    "remainingStateResearch": "Incomplete"
+    "visibleCount": 36,
+    "tinyCoverPhotosLoaded": 36,
+    "largePropertyPhotographsLoaded": 108,
+    "largeExtraThumbnails": 72,
+    "extrasFourByThree": true,
+    "brokenPhotos": 0,
+    "unresolvedRecordsExcludedFromPublicDirectory": true,
+    "reviewedInventory": 77,
+    "verifiedEligible": 52,
+    "remainingUnverified": 12
   },
   "verificationAudit": {
     "reviewed": 77,
@@ -264,6 +262,13 @@
       "NH-0074"
     ],
     "checkedOn": "2026-10-26",
-    "publication": "Updated package prepared locally; new audit batch not yet deployed"
+    "publication": "36 verified photo-ready NH listings deployed and checked live in Map,Tiny and Large Cards on2026-10-26;16 eligible records remain media-pending"
+  },
+  "agentWork": {
+    "agents": 3,
+    "status": "All completed; no research worker running",
+    "batchReviewedIds": 72,
+    "coordinatorReconciledAll": 77,
+    "globalAgentsCleanup": "App computer-use access blocked; no global archive/delete performed"
   }
 }
