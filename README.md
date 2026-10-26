@@ -6,8 +6,9 @@ own website. Public, not indexed (robots.txt disallows all, the page says noinde
 ## Map and cards views
 
 On phones, the compact header stays at the top: icon-only filter and view controls, then destination
-search and the live result count on one line. Search opens a focused Where/Who panel, with no dates
-or search history. Filters retain the existing type, capacity and welcome controls.
+search and the live result count on one line. Search opens a compact floating Where/Who panel,
+with consistent small headings, no extra headline, no dates and no search history. It leaves the
+map visible around it. Filters retain the existing type, capacity and welcome controls.
 
 Map view uses a draggable results tray over a full-height map. Drag down for more map, up for more
 results; the handle also supports arrow keys and Home/End. A marker, result or card address opens a

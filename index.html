@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=21">
+<link rel="stylesheet" href="assets/app.css?v=22">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
@@ -72,12 +72,11 @@
     <div class="app-map" id="ps-map" data-src="index.json" role="region" aria-label="Map of homes"></div>
   </main>
 </div>
-<dialog class="ps-search" id="ps-search" aria-labelledby="ps-search-title">
+<dialog class="ps-search" id="ps-search" aria-label="Search">
   <form id="ps-search-form" class="ps-search__form">
-    <div class="ps-search__head"><h2 id="ps-search-title">Find your place</h2><button type="button" id="ps-search-close" aria-label="Close search"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
     <div class="ps-search__body">
       <section class="ps-search__section" aria-labelledby="ps-where-title">
-        <h3 id="ps-where-title">Where</h3>
+        <div class="ps-search__section-head"><h3 id="ps-where-title">Where</h3><button type="button" id="ps-search-close" aria-label="Close search"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
         <label class="ps-search__where"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="ps-search-where" type="search" aria-label="Search destinations" placeholder="City or state" autocomplete="off"></label>
       </section>
       <section class="ps-search__section ps-search__who" aria-labelledby="ps-who-title">
@@ -90,6 +89,6 @@
 </dialog>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-<script src="assets/map.js?v=21"></script>
+<script src="assets/map.js?v=22"></script>
 </body>
 </html>
