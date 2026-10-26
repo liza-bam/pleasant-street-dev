@@ -130,6 +130,13 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home__facts div { display: flex; align-items: center; gap: 6px; min-width: 0; }
 .ps-home__facts dt { display: flex; color: var(--mute); }
 .ps-home__facts svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.ps-home__facts .ps-fact { display: inline-flex; align-items: center; gap: 4px; }
+.ps-home__facts .ps-fact__value { font-size: 12px; font-weight: 650; }
+.ps-card .ps-home__facts { margin: auto 12px 12px; min-height: 0; padding: 9px 0 0; gap: 7px 10px; border-bottom: 0; }
+.ps-card .ps-home__facts svg { width: 17px; height: 17px; color: var(--mute); }
+.ps-home--tiny .ps-home__facts { min-height: 40px; gap: 6px 9px; padding: 9px 0; }
+.ps-home--tiny .ps-home__facts svg { width: 16px; height: 16px; }
+.ps-home--tiny .ps-home__facts dd { font-size: 11px; }
 .ps-home__facts dd { font-size: 13px; margin: 0; font-weight: 650; }
 .ps-home__place { display: flex; align-items: center; gap: 5px; }
 .ps-home__place svg { flex: none; width: 13px; height: 13px; fill: none; stroke: currentColor; stroke-width: 1.7; }
@@ -236,12 +243,16 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app:not(.app--cards) .ps-results-grid { grid-template-columns: minmax(0, 1fr); gap: 16px; }
   .app:not(.app--cards) .ps-card__name { padding-top: 12px; font-size: 16px; line-height: 1.35; white-space: nowrap; }
   .app.app--tiny:not(.app--cards) .ps-results-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .app.app--tiny:not(.app--cards) .ps-home__facts { margin: auto 9px 10px; gap: 6px; }
+  .app.app--tiny:not(.app--cards) .ps-home__facts svg { width: 15px; height: 15px; }
+  .app.app--tiny:not(.app--cards) .ps-fact__value { font-size: 11px; }
   .app.app--tiny:not(.app--cards) .ps-card__name { font-size: 13px; padding: 8px 9px 0; }
   .app.app--tiny:not(.app--cards) .ps-card__place { font-size: 11px; padding: 2px 9px 10px; }
   .app.app--sheet-expanded:not(.app--cards) .app-results { height: 100%; max-height: 100%; border-radius: 0; }
   .app:not(.app--cards) .ps-card__place { padding-bottom: 14px; font-size: 13px; }
-  .app:not(.app--cards) .ps-sheet-handle { display: flex; flex: none; flex-direction: column; align-items: center; justify-content: flex-start; gap: 11px; height: 68px; padding-top: 10px; cursor: grab; touch-action: none; user-select: none; }
-  .ps-sheet-grip { width: 36px; height: 4px; border-radius: 999px; background: #17363c40; }
+  .app:not(.app--cards) .ps-sheet-handle { display: flex; flex: none; flex-direction: column; align-items: center; justify-content: flex-start; gap: 10px; height: 76px; min-height: 48px; padding-top: 14px; cursor: grab; touch-action: none; user-select: none; }
+  .ps-sheet-grip { width: 56px; height: 6px; flex: none; border-radius: 999px; background: #17363c70; pointer-events: none; }
+  .ps-sheet-handle:hover .ps-sheet-grip, .ps-sheet-handle:focus-visible .ps-sheet-grip, .app--sheet-dragging .ps-sheet-grip { background: var(--green); }
   .ps-sheet-count { font-size: 15px; font-weight: 700; }
   .ps-sheet-handle:focus-visible { outline: 3px solid var(--coral); outline-offset: -4px; border-radius: 24px 24px 0 0; }
   .app--sheet-dragging .app-results { transition: none; }
@@ -249,7 +260,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app--sheet-collapsed:not(.app--cards) .app-list { visibility: hidden; }
 
   .app.app--detail-open:not(.app--cards) .app-results { left: 12px; right: 12px; bottom: max(12px, env(safe-area-inset-bottom)); height: var(--sheet-height, 28%); min-height: 0; max-height: calc(100% - 24px); border-radius: 20px; background: white; animation: ps-card-arrive .22s ease-out; }
-  .app.app--detail-open:not(.app--cards) .ps-sheet-handle { display: flex; height: 24px; padding-top: 10px; }
+  .app.app--detail-open:not(.app--cards) .ps-sheet-handle { display: flex; height: 48px; min-height: 48px; padding-top: 16px; }
   .app--detail-open .ps-sheet-count { display: none; }
   .app--detail-peek .ps-selected__content { overflow-y: hidden; }
   .app.app--detail-open.app--sheet-expanded:not(.app--cards) .app-results { inset: 0; height: 100%; max-height: 100%; border-radius: 0; }

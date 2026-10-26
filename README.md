@@ -11,7 +11,8 @@ with consistent small headings, no extra headline, no dates and no search histor
 map visible around it. Filters retain the existing type, capacity and welcome controls.
 
 Map view uses a draggable results tray over a full-height map. Drag down for more map, up for more
-results; the handle also supports arrow keys and Home/End. A marker, result or card address opens a
+results; the full-width handle has at least a 48px touch area, a larger visible grip and
+also supports arrow keys and Home/End. A marker, result or card address opens a
 floating property card initially showing its top. Pull the handle up to reveal the full card with
 swipeable photos and its website link. Fully expanding results covers the map entirely. Close returns to the map with
 the results tray collapsed. Cards view retains normal page scrolling, with one Large or two Tiny
@@ -21,9 +22,9 @@ The header switch selects Map or Cards. Both share the place, capacity, type and
 Map results follow the visible map; Cards shows all matching locations, including listings without
 coordinates. `?view=cards&place=VT` opens Vermont cards directly. The Tiny/Large switch applies
 to Cards and the phone map results; `&size=tiny` opens the compact version. Tiny has one photograph, name, location and
-website button and a secondary claim badge, with no fact grid or description. Large has a cover and two 4:3 extra photos,
+website button, a secondary claim badge and compact feature icons, with no description. Large has a cover and two 4:3 extra photos,
 a source-based summary of at most 150 characters and available property facts shown as icons and
-values. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. A small white claim badge at the photo’s
+values. Feature icons also stay visible in both map card sizes. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. A small white claim badge at the photo’s
 top-right says “Claim your house” beside the existing LAZY L logo and opens a prefilled email draft
 to `sandy@lazy.vacations`. Open website is the larger primary action, with an independent-host
 notice underneath for non-LAZY listings.

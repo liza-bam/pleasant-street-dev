@@ -133,15 +133,16 @@
     };
     return '<svg viewBox="0 0 24 24" aria-hidden="true">' + paths[kind] + '</svg>';
   }
-  function factRows(h) {
+  function factRows(h, inline) {
     var fields = [['guests', 'Guests'], ['bedrooms', 'Bedrooms'], ['bathrooms', 'Bathrooms'], ['pets', 'Pets'], ['kids', 'Children']];
     var rows = fields.filter(function (f) { return known(h[f[0]]); }).map(function (f) {
       var value = h[f[0]], isPolicy = f[0] === 'pets' || f[0] === 'kids';
       var display = isPolicy ? value === 'Yes' ? '✓' : value === 'No' ? '×' : '?' : value;
       var label = f[1] + ': ' + (value === 'Conditional' ? 'Ask host' : value);
+      if (inline) return '<span class="ps-fact" title="' + esc(label) + '" aria-label="' + esc(label) + '">' + factIcon(f[0]) + '<span class="app-hide">' + f[1] + '</span><span class="ps-fact__value">' + esc(display) + '</span></span>';
       return '<div title="' + esc(label) + '" aria-label="' + esc(label) + '"><dt>' + factIcon(f[0]) + '<span class="app-hide">' + f[1] + '</span></dt><dd>' + esc(display) + '</dd></div>';
     }).join('');
-    return rows ? '<dl class="ps-home__facts">' + rows + '</dl>' : '';
+    return rows ? inline ? '<span class="ps-home__facts ps-home__facts--inline">' + rows + '</span>' : '<dl class="ps-home__facts">' + rows + '</dl>' : '';
   }
   function policy(v) { return v === 'Conditional' ? 'Ask host' : known(v) ? v : 'Unknown'; }
   function shortDescription(s) {
@@ -174,7 +175,7 @@
       (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true"' + (images.length <= 1 ? ' hidden' : '') + '>' + images.map(function (_, i) { return '<span' + (i ? '' : ' class="is-active"') + '></span>'; }).join('') + '</span>' : gallery) + '</div>' +
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(h.place) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(h.place) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
-      (tiny ? '' : factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
+      (factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : tiny || detail ? '' : '<p class="ps-home__missing" aria-hidden="true"></p>') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Independent property listing. This host is not affiliated with LAZY.</p>') + '</div></article>';
@@ -189,7 +190,7 @@
       (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="View ' + esc(h.name) + ' details"' : ' href="' + esc(h.url) + '" target="_blank" rel="noopener"') + '>' +
       listingBadge(h) +
       '<img src="' + esc(h.photo) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
-      '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' +
+      '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>';
   }
   function syncMarkerPopup(h) {
