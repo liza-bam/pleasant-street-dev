@@ -5,6 +5,11 @@ own website. Public, not indexed (robots.txt disallows all, the page says noinde
 
 ## Map and cards views
 
+On phones, the page scrolls normally instead of trapping results in a small scrolling pane.
+Large cards use one column; Tiny cards use two. The compact Filters button reveals the existing
+capacity/type/welcome controls and shows the active filter count. Map appears above the results;
+wheel scrolling over it continues down the page. Desktop keeps its separate map and result panes.
+
 The header switch selects Map or Cards. Both share the place, capacity, type and welcome filters.
 Map results follow the visible map; Cards shows all matching locations, including listings without
 coordinates. `?view=cards&place=VT` opens Vermont cards directly. The Tiny/Large switch applies

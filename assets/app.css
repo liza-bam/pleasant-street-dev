@@ -1,5 +1,5 @@
 /* PLEASANT STREET: a web app. A bar on top (title, search, count), then the list and the map filling
-   the window; the page itself never scrolls. A phone gets the map on top and the list under it. */
+   the window. On phones, the whole page scrolls with the map above the results. */
 @font-face { font-family: "Noto Serif"; font-weight: 400 900; font-display: swap; src: url(fonts/noto-serif-latin.woff2) format("woff2"); }
 @font-face { font-family: "Lobster"; font-weight: 400; font-display: swap; src: url(fonts/lobster-latin.woff2) format("woff2"); }
 :root {
@@ -12,12 +12,13 @@
 html, body { height: 100%; margin: 0; overflow: hidden; }
 body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 
-.app { display: grid; grid-template-rows: auto minmax(0, 1fr); height: 100svh; }
+.app { display: grid; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto minmax(0, 1fr); height: 100svh; }
+.app-header, .app-body, .app-results, .app-filters, .app-list { min-width: 0; }
 
 /* The bar. */
 .app-bar { display: flex; align-items: center; gap: 12px 16px; padding: 10px 16px; background: var(--water); box-shadow: var(--shadow); z-index: 1; }
 .app-title { margin: 0; font-family: var(--script); font-weight: 400; font-size: 28px; line-height: 1; color: var(--ink); white-space: nowrap; }
-.app-search { flex: 1 1 auto; max-width: 520px; }
+.app-search { flex: 1 1 auto; min-width: 0; max-width: 520px; }
 .app-search input { width: 100%; height: 40px; padding: 0 16px; font: inherit; font-size: 16px; color: var(--ink);
                     background: var(--white); border: 1.5px solid transparent; border-radius: 999px; outline: none; }
 .app-search input:focus { border-color: var(--teal); }
@@ -42,6 +43,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 /* The results: the extra filters on top, the homes under them. */
 .app-results { display: grid; grid-template-rows: auto minmax(0, 1fr); min-height: 0; }
 .app-filters { display: grid; gap: 12px; padding: 12px 14px 4px; border-bottom: 1px solid var(--line); }
+.app-filter-fields { display: contents; }
+.app-filter-toggle { display: none; }
 /* Sleeps: a slider from 1 to 8, the numbers under it. */
 .app-sleeps { display: grid; gap: 2px; }
 .app-sleeps__head { font-size: 14px; color: var(--mute); }
@@ -142,21 +145,55 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home--tiny .ps-card__featured { top: 8px; left: 8px; padding: 3px 7px; font-size: 10px; }
 
 @media (max-width: 760px) {
-  .app-bar { flex-wrap: wrap; }
-  .app-search { order: 3; flex-basis: 100%; max-width: none; }
-  .app-body { grid-template-columns: minmax(0, 1fr); grid-template-rows: 45% minmax(0, 1fr); }
-  .app-map { grid-row: 1; }
-  .app-results { grid-row: 2; }
+  html, body { height: auto; overflow: visible; }
+  .app { height: auto; min-height: 100dvh; grid-template-rows: auto auto; align-content: start; }
+  .app-bar { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px; padding: 14px 14px 10px; }
+  .app-title { font-size: clamp(22px, 6vw, 28px); }
+  .app-search { grid-column: 1 / -1; grid-row: 2; min-width: 0; max-width: none; }
+  .app-search input { height: 44px; }
+  .app-count { grid-column: 1 / -1; grid-row: 3; margin: 0; font-size: 12px; white-space: normal; }
+  .app-view-switch { grid-column: 2; grid-row: 1; margin: 0; }
+  .app-view-switch button { min-height: 38px; padding: 7px 9px; font-size: 12px; }
+  .app-view-switch svg { width: 14px; height: 14px; }
+  .app-destinations { gap: 7px; padding: 8px 14px; overscroll-behavior-x: contain; scrollbar-width: none; }
+  .app-destinations::-webkit-scrollbar { display: none; }
+  .app-destinations__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .app-destinations button { min-height: 38px; padding: 7px 12px; }
+  .app-body { display: flex; flex-direction: column; }
+  .app-map { order: -1; height: clamp(230px, 38svh, 340px); flex: none; }
+  .app-results { display: block; }
   .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
-  .app-view-switch { margin-left: auto; }
-  .app-view-switch button { padding: 7px 9px; font-size: 12px; }
-  .app-count { margin-left: 0; }
-  .app--cards .app-results { grid-row: auto; }
-  .app--cards .app-filters { padding: 12px 16px; gap: 10px 16px; }
-  .app--cards .app-sleeps { width: 100%; }
-  .app--cards .app-list { padding: 8px 16px 24px; }
-  .app--cards .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 18px; }
+  .app-filters, .app--cards .app-filters { position: sticky; top: 0; z-index: 5; display: flex; flex-wrap: wrap; align-items: center; gap: 8px; padding: 9px 14px; background: #f3fbf8; }
+  .app-filter-toggle { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 44px; padding: 8px 14px; border: 1px solid #cadfd9; border-radius: 999px; background: white; color: var(--ink); font: inherit; font-size: 13px; cursor: pointer; }
+  .app-filter-toggle svg { width: 17px; height: 17px; fill: white; stroke: currentColor; stroke-width: 1.7; }
+  .app-filter-toggle[aria-expanded="true"] { border-color: var(--green); color: var(--green); }
+  .app-filter-toggle span { min-width: 22px; padding: 2px 5px; border-radius: 999px; background: var(--green); color: white; font-size: 11px; }
+  .app-filter-toggle span[hidden] { display: none; }
+  .app-filter-fields { display: none; }
+  .app--filters-open .app-filter-fields { display: grid; order: 3; flex-basis: 100%; min-width: 0; gap: 12px; padding: 10px 0 2px; }
+  .app-sleeps, .app--cards .app-sleeps { width: 100%; }
+  .app-sleeps input { min-height: 28px; }
+  .app-pills, .app--cards .app-pills { padding: 0; gap: 7px; }
+  .app-pills button { min-height: 42px; padding: 0 12px; font-size: 13px; }
+  .app--cards .app-results { height: auto; }
+  .app--cards .app-card-controls { margin-left: auto; }
+  .app-card-controls > span { display: none; }
+  .app-size-switch button { min-height: 38px; padding: 7px 12px; font-size: 12px; }
+  .app-list, .app--cards .app-list { overflow: visible; padding: 4px 14px max(24px, env(safe-area-inset-bottom)); overscroll-behavior-y: auto; }
+  .ps-results-group summary { position: static; min-height: 46px; margin-bottom: 10px; }
+  .app--cards .ps-results-grid { grid-template-columns: minmax(0, 1fr); gap: 18px; }
+  .ps-home__body { padding: 15px 16px 16px; }
+  .ps-home h2 { white-space: normal; overflow-wrap: anywhere; }
+  .ps-home__description { font-size: 14px; min-height: 0; }
+  .ps-home__facts { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px 8px; }
+  .ps-home__facts dt { font-size: 10px; }
+  .ps-home__facts dd { font-size: 12px; }
+  .ps-action { min-height: 44px; font-size: 12px; }
   .app--cards.app--tiny .ps-results-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   .ps-home--tiny .ps-home__body { padding: 9px; }
-  .ps-home--tiny .ps-action { padding: 6px 3px; }
+  .ps-home--tiny h2 { font-size: 14px; }
+  .ps-home--tiny .ps-home__actions { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+  .ps-home--tiny .ps-action { min-height: 40px; padding: 7px 5px; font-size: 11px; }
+  .leaflet-control-zoom a { min-width: 36px; min-height: 36px; line-height: 36px; }
+  .leaflet-popup-content { max-width: calc(100vw - 70px); }
 }

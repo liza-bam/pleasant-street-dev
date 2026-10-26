@@ -12,6 +12,12 @@
   var cardSize = new URLSearchParams(location.search).get('size') === 'tiny' ? 'tiny' : 'large';
   var sizeSwitch = document.querySelector('.app-size-switch');
   var destinationsEl = document.getElementById('ps-destinations');
+  var filterToggle = document.getElementById('ps-filter-toggle'), filterCount = document.getElementById('ps-filter-count');
+  filterToggle.addEventListener('click', function () {
+    var open = filterToggle.getAttribute('aria-expanded') !== 'true';
+    filterToggle.setAttribute('aria-expanded', String(open));
+    app.classList.toggle('app--filters-open', open);
+  });
   var groupState = { featured: true, fit: true, potential: false };
   var POPULAR_MIN_LISTINGS = 10, POPULAR_MAX_DESTINATIONS = 6;
   var initialPlace = new URLSearchParams(location.search).get('place');
@@ -19,6 +25,11 @@
   /* A pinch on the trackpad and the wheel zoom the map itself, like + and -, never the page around it.
      The circles need the top zoom up front. */
   var map = L.map('ps-map', { scrollWheelZoom: true, maxZoom: 18 }).setView([39.5, -98.5], 4);
+  // On a phone layout, wheel/trackpad scrolling continues down the page over the map.
+  var phoneLayout = window.matchMedia('(max-width: 760px)');
+  function syncMapScroll() { if (phoneLayout.matches) map.scrollWheelZoom.disable(); else map.scrollWheelZoom.enable(); }
+  phoneLayout.addEventListener('change', syncMapScroll);
+  syncMapScroll();
   /* Every home but the featured ones gathers into a circle with its count; a circle splits as the map
      zooms in, and homes on one spot fan out when it is clicked. Featured homes stay pins, on the map itself,
      so pins and circles always add up to the homes in the list. */
@@ -121,6 +132,9 @@
     }
     var t = q ? q.value.trim().toLowerCase() : '';
     var n = sleeps && +sleeps.value > 1 ? +sleeps.value : 0;   /* 1 on the slider is every home */
+    var activeFilters = (n ? 1 : 0) + types.length + needs.length;
+    filterCount.textContent = activeFilters;
+    filterCount.hidden = !activeFilters;
     var fits = [], maybe = [];
     homes.forEach(function (h) {
       h.missing = [];

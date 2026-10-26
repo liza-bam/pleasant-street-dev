@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=19">
+<link rel="stylesheet" href="assets/app.css?v=20">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
@@ -34,6 +34,8 @@
   <main class="app-body">
     <section class="app-results" aria-label="Homes">
       <div class="app-filters">
+        <button class="app-filter-toggle" id="ps-filter-toggle" type="button" aria-expanded="false" aria-controls="ps-filter-fields"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3"/><circle cx="15" cy="17" r="3"/></svg>Filters<span id="ps-filter-count" hidden></span></button>
+        <div class="app-filter-fields" id="ps-filter-fields">
         <label class="app-sleeps"><span class="app-sleeps__head">Sleeps <b id="ps-sleeps-out">any</b></span>
           <input type="range" id="ps-sleeps" min="1" max="8" step="1" value="1">
           <span class="app-sleeps__ticks" aria-hidden="true"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8+</span></span></label>
@@ -42,6 +44,7 @@
         </div>
         <div class="app-pills" id="ps-welcome" role="group" aria-label="Welcome">
           <button type="button" data-need="kids" aria-pressed="false">Kids OK</button><button type="button" data-need="pets" aria-pressed="false">Pets OK</button>
+        </div>
         </div>
         <div class="app-card-controls">
           <span>Card size</span>
@@ -58,6 +61,6 @@
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-<script src="assets/map.js?v=19"></script>
+<script src="assets/map.js?v=20"></script>
 </body>
 </html>
