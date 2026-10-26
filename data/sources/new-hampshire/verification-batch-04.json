@@ -1,0 +1,285 @@
+[
+  {
+    "id": "NH-0007",
+    "name": "Huttopia White Mountains",
+    "website": "https://americas.huttopia.com/en/site/white-mountains/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "classification": "Excluded operator/source",
+    "recordType": "operator",
+    "type": "Unknown",
+    "openedUrls": [
+      "https://americas.huttopia.com/en/site/white-mountains/",
+      "https://americas.huttopia.com/en/contact-directions-huttopia-white-mountains-campsite/",
+      "https://americas.huttopia.com/en/"
+    ],
+    "contactPagesChecked": [
+      "https://americas.huttopia.com/en/contact-directions-huttopia-white-mountains-campsite/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "57 Pine Knoll Rd",
+      "city": "Albany",
+      "state": "NH",
+      "zip": "03818",
+      "fullAddress": "57 Pine Knoll Rd, Albany, NH 03818",
+      "source": "https://americas.huttopia.com/en/contact-directions-huttopia-white-mountains-campsite/"
+    },
+    "bookingMethod": "Official arrival/departure accommodation search; telephone +16034473131",
+    "bookingUrl": "https://americas.huttopia.com/en/site/white-mountains/",
+    "operatorEvidenceUrl": "https://americas.huttopia.com/en/",
+    "notes": "Original canada-usa.huttopia.com URL redirects to current americas host. Website works; exclusion concerns branded multi-country operator, not website quality.",
+    "supportedFacts": {},
+    "description": "Branded glamping tents and chalets at a lakeside Albany campsite in Huttopia’s USA/Canada network.",
+    "descriptionSource": "https://americas.huttopia.com/en/site/white-mountains/",
+    "platformLinks": {},
+    "platformCheckStatus": "Not checked; excluded from independent directory",
+    "photoCandidates": [],
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "eligibilityReason": "Branded international glamping/camping chain; official home advertises9 destinations across USA and Canada, outside small independent/local operator scope."
+  },
+  {
+    "id": "NH-0015",
+    "name": "Bretton Woods Ski Area & Skyway Gondola",
+    "website": "https://www.brettonwoods.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "classification": "Excluded operator/source",
+    "recordType": "operator",
+    "type": "Unknown",
+    "openedUrls": [
+      "https://www.brettonwoods.com/",
+      "https://www.brettonwoods.com/contact-us/"
+    ],
+    "contactPagesChecked": [
+      "https://www.brettonwoods.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "ski-area business/contact address",
+      "street": "99 Ski Area Rd",
+      "city": "Bretton Woods",
+      "state": "NH",
+      "zip": "03575",
+      "fullAddress": "99 Ski Area Rd, Bretton Woods, NH 03575",
+      "source": "https://www.brettonwoods.com/contact-us/",
+      "notes": "Resort lodging contact310 Mount Washington Hotel Road is a separate Omni address; do not merge with NH0016 independent manager."
+    },
+    "bookingMethod": "Ski-area contact form and published phone6032783320",
+    "bookingUrl": "https://www.brettonwoods.com/contact-us/",
+    "operatorEvidenceUrl": "https://www.brettonwoods.com/",
+    "notes": "Opened homepage identifies historic Omni Mount Washington Hotel & Spa, Townhomes and Omni Bretton Arms Inn under resort lodging. Distinct independent Bretton Woods Vacations remains separate NH0016.",
+    "supportedFacts": {},
+    "description": "Bretton Woods ski area and gondola with nearby Omni resort lodging; retained as an excluded research source.",
+    "descriptionSource": "https://www.brettonwoods.com/",
+    "platformLinks": {},
+    "platformCheckStatus": "Not checked; excluded from independent directory",
+    "photoCandidates": [],
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "eligibilityReason": "Ski-area/attraction and Omni-branded resort portfolio, rather than an independent local vacation rental operator."
+  },
+  {
+    "id": "NH-0022",
+    "name": "Postcard Cabins Blake Brook",
+    "website": "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/overview/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "classification": "Excluded operator/source",
+    "recordType": "operator",
+    "type": "Unknown",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1610",
+      "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/plan-your-stay/"
+    ],
+    "contactPagesChecked": [
+      "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/plan-your-stay/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "76 Mountain Road",
+      "city": "Epsom",
+      "state": "NH",
+      "zip": "03234",
+      "fullAddress": "76 Mountain Road, Epsom, NH 03234",
+      "source": "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/plan-your-stay/",
+      "notes": "No separate contact page linked; official property guest-information footer and Contact us phone inspected."
+    },
+    "bookingMethod": "Marriott View Rates controls and direct phone+18882362427",
+    "bookingUrl": "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/plan-your-stay/",
+    "operatorEvidenceUrl": "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/plan-your-stay/",
+    "notes": "Overview initial load blank/failed browser state; the published Plan Your Stay page opened fully and confirmed property identity, address and national-brand affiliation. Not a dead website.",
+    "supportedFacts": {},
+    "description": "Marriott Bonvoy Postcard Cabins in Epsom, part of the brand’s national29-destination collection.",
+    "descriptionSource": "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/plan-your-stay/",
+    "platformLinks": {},
+    "platformCheckStatus": "Not checked; excluded from independent directory",
+    "photoCandidates": [],
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "eligibilityReason": "National Marriott Bonvoy Postcard Cabins hospitality brand; opened official page advertises29 Postcard destinations."
+  },
+  {
+    "id": "NH-0027",
+    "name": "Gunstock Campground",
+    "website": "https://www.gunstock.com/summer/camping/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "classification": "Excluded operator/source",
+    "recordType": "operator",
+    "type": "Unknown",
+    "openedUrls": [
+      "https://www.gunstock.com/community/gunstock-area-commission/faq/",
+      "https://www.gunstock.com/contact/"
+    ],
+    "contactPagesChecked": [
+      "https://www.gunstock.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "resort mailing/shipping and business address",
+      "street": "719 Cherry Valley Road",
+      "city": "Gilford",
+      "state": "NH",
+      "zip": "03249",
+      "fullAddress": "719 Cherry Valley Road, Gilford, NH 03249",
+      "source": "https://www.gunstock.com/contact/",
+      "notes": "Official contact labels mailing/shipping address; not an individual cabin entrance."
+    },
+    "bookingMethod": "Direct campground inquiry camping@gunstock.com and main telephone6032934341",
+    "bookingUrl": "https://www.gunstock.com/contact/",
+    "operatorEvidenceUrl": "https://www.gunstock.com/community/gunstock-area-commission/faq/",
+    "notes": "Camping route initially showed a robot challenge, but official governance and contact pages opened. Do not log entire website as down.",
+    "supportedFacts": {},
+    "description": "County-owned Gunstock resort campground in Gilford; retained as a public-operator exclusion.",
+    "descriptionSource": "https://www.gunstock.com/community/gunstock-area-commission/faq/",
+    "platformLinks": {},
+    "platformCheckStatus": "Not checked; excluded from independent directory",
+    "photoCandidates": [],
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [
+      {
+        "url": "https://www.gunstock.com/summer/camping/",
+        "observation": "Robot challenge on campground route; governance/contact pages accessible."
+      }
+    ],
+    "eligibilityReason": "Official governance FAQ establishes Belknap County ownership and municipal-corporation/agency operation, outside independent private rental scope."
+  },
+  {
+    "id": "NH-0042",
+    "name": "Spacious Skies French Pond",
+    "website": "https://spaciousskiescampgrounds.com/french-pond/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "classification": "Excluded operator/source",
+    "recordType": "operator",
+    "type": "Unknown",
+    "openedUrls": [
+      "https://spaciousskiescampgrounds.com/french-pond/",
+      "https://spaciousskiescampgrounds.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {},
+    "bookingMethod": "",
+    "bookingUrl": "",
+    "operatorEvidenceUrl": "",
+    "notes": "Access limitation only. No CAPTCHA solved and no claim of DNS failure, permanent closure or confirmed bad website. Tourism-directory address remains unverified.",
+    "supportedFacts": {},
+    "description": "",
+    "descriptionSource": "",
+    "platformLinks": {},
+    "platformCheckStatus": "Not checked; operator site robot challenge",
+    "photoCandidates": [],
+    "photos": [],
+    "remainingGaps": [
+      "Accessible official accommodation, Contact/About and direct-booking/ownership evidence"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://spaciousskiescampgrounds.com/french-pond/",
+        "observation": "Robot Challenge Screen; security gateway"
+      },
+      {
+        "url": "https://spaciousskiescampgrounds.com/",
+        "observation": "Robot Challenge Screen; security gateway"
+      }
+    ],
+    "eligibilityReason": "Website evaluation attempted but both campground and brand-home routes showed robot challenges; independent ownership/direct stay/contact details not verified."
+  },
+  {
+    "id": "NH-0043",
+    "name": "AMC Cardigan Lodge",
+    "website": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Regional nonprofit mountain lodge",
+    "recordType": "lodge",
+    "type": "Unknown",
+    "openedUrls": [
+      "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+      "https://www.outdoors.org/contact-us/",
+      "https://www.outdoors.org/about/",
+      "https://www.outdoors.org/destinations/book-now/#/room?resultFilterValue=20527"
+    ],
+    "contactPagesChecked": [
+      "https://www.outdoors.org/contact-us/",
+      "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/"
+    ],
+    "contactAddress": {
+      "role": "lodge property/campus",
+      "street": "774 Shem Valley Rd",
+      "city": "Alexandria",
+      "state": "NH",
+      "zip": "03222",
+      "fullAddress": "774 Shem Valley Rd, Alexandria, NH 03222",
+      "source": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+      "notes": "Specific lodge Contact block verified.10 City Square Boston MA is AMC corporate contact and is not this lodge address."
+    },
+    "bookingMethod": "AMC property-filtered Book Now page and direct6034662727 / amclodging@outdoors.org",
+    "bookingUrl": "https://www.outdoors.org/destinations/book-now/#/room?resultFilterValue=20527",
+    "operatorEvidenceUrl": "https://www.outdoors.org/about/",
+    "notes": "Official property page says AMC owns the1200-acre reservation. Private rooms and seasonal full/self service verified. Nonprofit status alone is not an exclusion in existing SOP; regional nonprofit operator disclosed rather than labeled individual homeowner. Capacities vary by room; no lodge-wide beds assigned as one rental capacity.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Official property page links family getaway stays.",
+      "pets": "Conditional",
+      "petsDetails": "Lodge page explicitly says no dogs overnight; other animal/service policies not inferred.",
+      "capacityDetails": "Private overnight rooms and shared mountain lodge; per-room occupancy not checked.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Direct reservations for dates and seasonal service; no fixed rate collected."
+    },
+    "description": "AMC-owned mountain lodge in Alexandria with private rooms, seasonal meal service and direct reservations near Mount Cardigan.",
+    "descriptionSource": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+    "platformLinks": {},
+    "platformCheckStatus": "Checked opened pages; no qualifying links found",
+    "photoCandidates": [
+      {
+        "url": "https://cdn.outdoors.org/wp-content/uploads/2026/09/17161318/Cardigan.png",
+        "sourcePage": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+        "alt": "Cardigan",
+        "unitOrCampus": "Cardigan Lodge campus"
+      },
+      {
+        "url": "https://cdn.outdoors.org/wp-content/uploads/2020/02/22122424/Cardigan-1.png",
+        "sourcePage": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+        "alt": "Cardigan (1)",
+        "unitOrCampus": "Cardigan Lodge campus"
+      }
+    ],
+    "photos": [],
+    "remainingGaps": [
+      "Three or four lodge-specific photos",
+      "Room-specific capacity and current dated price"
+    ],
+    "accessFailures": [],
+    "eligibilityReason": "AMC-owned NH mountain lodge with private overnight rooms, direct reservation page and contact phone/email. AMC is a self-operating independent nonprofit, not a national hotel brand or aggregator; broader multi-state nonprofit network disclosed."
+  }
+]

@@ -71,5 +71,1280 @@
     ],
     "checkedOn": "2026-10-26",
     "status": "Checked; attributable Airbnb listing link found"
+  },
+  {
+    "id": "NH-0002",
+    "name": "The Preserve at Chocorua",
+    "website": "https://www.reservethepreserve.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.reservethepreserve.com/",
+      "https://www.reservethepreserve.com/contact",
+      "https://www.reservethepreserve.com/our-story",
+      "https://www.reservethepreserve.com/cottages"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0005",
+    "name": "Baker Rocks",
+    "website": "https://bakerrocks.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://bakerrocks.com/",
+      "https://bakerrocks.com/contact/",
+      "https://bakerrocks.com/accommodation-types/",
+      "https://bakerrocks.com/accommodation-types/cabins/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0006",
+    "name": "Mt. Liberty Lodging",
+    "website": "https://www.mtlibertylodging.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.mtlibertylodging.com/",
+      "https://www.mtlibertylodging.com/contact-us-directions"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked homepage and contact; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0008",
+    "name": "The Innstead Mountain Getaway",
+    "website": "https://theinnsteadgetaway.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://theinnsteadgetaway.com/",
+      "https://theinnsteadgetaway.com/contact-us/",
+      "https://theinnsteadgetaway.com/about-us/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0009",
+    "name": "Cottage Place on Squam Lake",
+    "website": "https://www.cottageplaceonsquam.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.cottageplaceonsquam.com/",
+      "https://www.cottageplaceonsquam.com/about"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0010",
+    "name": "Shamrock Grove",
+    "website": "https://shamrockmotelnh.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://shamrockmotelnh.com/",
+      "https://shamrockmotelnh.com/contact-directions/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0011",
+    "name": "Alpine Garden",
+    "website": "https://www.alpinegardenglamping.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.alpinegardenglamping.com/",
+      "https://www.alpinegardenglamping.com/contact-6",
+      "https://www.alpinegardenglamping.com/about",
+      "https://www.alpinegardenglamping.com/book-a-campsite"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0012",
+    "name": "At Bear Tree",
+    "website": "https://www.atbeartree.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.atbeartree.com/",
+      "https://www.atbeartree.com/the-legacy",
+      "https://www.atbeartree.com/the-glen"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0013",
+    "name": "Channel Waterfront Cottages",
+    "website": "https://www.channelcottages.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.channelcottages.com/",
+      "https://www.channelcottages.com/contact.html"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0014",
+    "name": "The Cottages of Wolfeboro",
+    "website": "https://cottagesnh.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://cottagesnh.com/",
+      "https://cottagesnh.com/contact",
+      "https://cottagesnh.com/about"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0016",
+    "name": "Bretton Woods Vacations",
+    "website": "https://www.brettonwoodsvacations.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.brettonwoodsvacations.com/",
+      "https://www.brettonwoodsvacations.com/contact-us/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked home/contact; no actual listing links found (Booking.com award text is not a listing).",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0017",
+    "name": "Maple Moose Lodge and Cottages",
+    "website": "https://maplemoosenh.godaddysites.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://maplemoosenh.godaddysites.com/",
+      "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/",
+      "https://www.visitnh.gov/business/detail/768"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Official links discovered; destination identity verification pending",
+    "foundLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/h/maplemoosecabin",
+        "https://www.airbnb.com/h/maplemoosecottage"
+      ],
+      "vrbo": [
+        "https://www.vrbo.com/2245181?unitId=2809746",
+        "https://www.vrbo.com/2245230?unitId=2809795"
+      ]
+    }
+  },
+  {
+    "id": "NH-0018",
+    "name": "The Cabins At Temple",
+    "website": "https://www.thecabinsattemple.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.thecabinsattemple.com/",
+      "https://www.thecabinsattemple.com/terms-and-conditions",
+      "https://www.visitnh.gov/business/detail/1189"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Unknown",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0019",
+    "name": "The Partridge Cabins & Lodge",
+    "website": "https://partridgecabins.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://partridgecabins.com/",
+      "https://partridgecabins.com/contact-us/",
+      "https://partridgecabins.com/about-us/general-info/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0020",
+    "name": "Purity Spring Resort",
+    "website": "https://www.purityspring.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.purityspring.com/",
+      "https://www.purityspring.com/blog/king-pine-and-purity-spring-resort-announce-new-managing-partners/",
+      "https://www.purityspring.com/rooms/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Opened official pages checked; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0021",
+    "name": "Sugar Hill Inn",
+    "website": "https://sugarhillinn.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://sugarhillinn.com/",
+      "https://sugarhillinn.com/innkeeper-staff/",
+      "https://sugarhillinn.com/new-hampshire-vacation-cottages/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Opened pages checked; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0023",
+    "name": "Presidential Mountain Resort",
+    "website": "https://presidentialmountainresort.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://presidentialmountainresort.com/",
+      "https://presidentialmountainresort.com/contact/",
+      "https://www.visitnh.gov/business/detail/548"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Access limited",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0024",
+    "name": "Fernhill Cottages",
+    "website": "https://fernhillcottages.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://fernhillcottages.com/",
+      "https://fernhillcottages.com/contact/",
+      "https://fernhillcottages.com/view-our-cottages/",
+      "https://fernhillcottages.com/about-the-area/",
+      "https://www.google.com/search?q=%22Fernhill+Cottages%22+owners+family+Alton",
+      "https://www.visitnh.gov/business/detail/151"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0025",
+    "name": "Trailside Stays",
+    "website": "https://www.trailsidestays.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.trailsidestays.com/",
+      "https://www.trailsidestays.com/contact",
+      "https://www.trailsidestays.com/about"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Opened official pages checked; no verified badges",
+    "foundLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/users/profile/1469808001897555009?previous_page_name=PdpHomeMarketplace",
+        "https://www.airbnb.com/users/show/390565007"
+      ]
+    }
+  },
+  {
+    "id": "NH-0026",
+    "name": "Weirs Beach Motel and Cottages",
+    "website": "https://www.weirsbeachmotel.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.weirsbeachmotel.com/",
+      "https://www.weirsbeachmotel.com/contact",
+      "https://www.weirsbeachmotel.com/about",
+      "https://www.google.com/search?q=%22Weirs+Beach+Motel+and+Cottages%22+owners+family",
+      "https://www.fosters.com/story/business/2010/06/08/family-roots-center-weirs-beach/51578790007/",
+      "https://www.hospitalityrealestate.com/properties/weirs-beach-motel-cottages-2/",
+      "https://www.visitnh.gov/business/detail/1538"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Opened official pages checked; no verified badges",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0028",
+    "name": "AMC Highland Center",
+    "website": "https://www.outdoors.org/destinations/new-hampshire/highland-center/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.outdoors.org/destinations/new-hampshire/highland-center/",
+      "https://www.outdoors.org/contact-us/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0029",
+    "name": "The NASWA Resort",
+    "website": "https://naswa.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://naswa.com/",
+      "https://naswa.com/contact-us/",
+      "https://naswa.com/about-us/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0030",
+    "name": "Lake View Cabins",
+    "website": "https://www.lakeviewcabinsnh.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.lakeviewcabinsnh.com/",
+      "https://www.lakeviewcabinsnh.com/about-us"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0031",
+    "name": "Lodges at Coleman State Park",
+    "website": "https://www.nhstateparks.org/find-parks-trails/lodges-at-coleman-state-park",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.nhstateparks.org/find-parks-trails/coleman-state-park",
+      "https://www.nhstateparks.org/find-parks-trails/lodges-at-coleman-state-park"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0032",
+    "name": "Sunset Lodges on Lake Winnipesaukee",
+    "website": "https://sunsetlodges.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://sunsetlodges.com/",
+      "https://sunsetlodges.com/contact-us/",
+      "https://sunsetlodges.com/cabin-1/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0034",
+    "name": "Akers Pond Inn Cabins & RV Sites",
+    "website": "https://akerspondinn.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://akerspondinn.com/",
+      "https://akerspondinn.com/contactus.html",
+      "https://akerspondinn.com/accomodations.html",
+      "https://akerspondinn.com/cabin1.html"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0035",
+    "name": "Seaside Village Resort",
+    "website": "https://www.seasidevillageresort.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.seasidevillageresort.com/",
+      "https://www.seasidevillageresort.com/contact",
+      "https://www.seasidevillageresort.com/reserverates"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0036",
+    "name": "Crows Nest Campground",
+    "website": "https://camphappygrounds.com/crows-nest/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://camphappygrounds.com/crows-nest/",
+      "https://camphappygrounds.com/contact/",
+      "https://camphappygrounds.com/crows-nest/rates/",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest",
+      "https://camphappygrounds.com/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0037",
+    "name": "Half Moon Motel and Cottages",
+    "website": "https://www.halfmoonmotel.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.halfmoonmotel.com/",
+      "https://www.halfmoonmotel.com/contact-us/",
+      "https://www.visitnh.gov/business/detail/325"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0038",
+    "name": "Loch Lyme Lodge",
+    "website": "https://www.lochlymelodge.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.lochlymelodge.com/",
+      "https://www.lochlymelodge.com/about-us",
+      "https://www.visitnh.gov/business/detail/1313"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0039",
+    "name": "Ember Escapes — Quietude",
+    "website": "https://www.emberescapes.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.emberescapes.com/",
+      "https://www.emberescapes.com/inquire",
+      "https://www.emberescapes.com/meet-quietude"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0040",
+    "name": "1848 Inn",
+    "website": "https://www.1848inn.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.1848inn.com/",
+      "https://www.1848inn.com/contact.html"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0041",
+    "name": "Abakee Cottages",
+    "website": "https://www.abakeecottages.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.abakeecottages.com/",
+      "https://www.abakeecottages.com/contact-us/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0044",
+    "name": "Robie’s Cabins",
+    "website": "https://robiescabinsnh.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://robiescabinsnh.com/",
+      "https://robiescabinsnh.com/about/",
+      "https://robiescabinsnh.com/cabins/",
+      "http://www.robiescabins.com/",
+      "https://naga138gacor2.com/",
+      "https://www.visitnh.gov/business/detail/327"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0045",
+    "name": "Pemi Cabins",
+    "website": "https://www.pemicabins.com/",
+    "platformLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/users/show/539192379"
+      ]
+    },
+    "evidence": [
+      {
+        "platform": "airbnb",
+        "url": "https://www.airbnb.com/users/show/539192379",
+        "sourcePage": "https://www.pemicabins.com/",
+        "verifiedMatchingIdentity": true,
+        "sourceUrl": "https://www.pemicabins.com/"
+      }
+    ],
+    "checkedPages": [
+      "https://www.pemicabins.com/",
+      "https://www.pemicabins.com/contact-us",
+      "https://www.pemicabins.com/our-story",
+      "https://www.airbnb.com/users/show/539192379"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Verified official outgoing Airbnb operator host profile;no Vrbo/Booking.com links on inspected official pages",
+    "foundLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/users/show/539192379"
+      ]
+    }
+  },
+  {
+    "id": "NH-0046",
+    "name": "Highland House and Cottages",
+    "website": "https://www.highlandhouseandcottages.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.highlandhouseandcottages.com/",
+      "https://www.highlandhouseandcottages.com/contact",
+      "https://www.highlandhouseandcottages.com/about-us",
+      "https://www.highlandhouseandcottages.com/rooms"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0047",
+    "name": "Melhem Enterprises Retreats,LLC",
+    "website": "https://www.melhementerprisesretreats.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "http://airbnb.com/h/best-of-the-white-mountains",
+      "https://www.facebook.com/MelhemEntRetreats/",
+      "https://www.visitnh.gov/business/detail/591",
+      "https://www.airbnb.com/rooms/21437814",
+      "http://www.melhementerprisesretreats.com/",
+      "https://www.melhementerprisesretreats.com/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Directory Airbnb listing removed; no attributable active link verified",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0048",
+    "name": "Winterfell-NH",
+    "website": "https://winterfell-nh.com/",
+    "platformLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/h/winterfell-nh"
+      ],
+      "vrbo": [
+        "https://www.vrbo.com/9258524ha?referrerId=HOT.HIS.Share.Landed.Copy_Link"
+      ]
+    },
+    "evidence": [
+      {
+        "platform": "airbnb",
+        "url": "https://www.airbnb.com/h/winterfell-nh",
+        "sourcePage": "https://winterfell-nh.com/",
+        "verifiedMatchingIdentity": true,
+        "sourceUrl": "https://winterfell-nh.com/"
+      },
+      {
+        "platform": "vrbo",
+        "url": "https://www.vrbo.com/9258524ha?referrerId=HOT.HIS.Share.Landed.Copy_Link",
+        "sourcePage": "https://winterfell-nh.com/",
+        "verifiedMatchingIdentity": true,
+        "sourceUrl": "https://winterfell-nh.com/"
+      }
+    ],
+    "checkedPages": [
+      "https://winterfell-nh.com/",
+      "https://winterfell-nh.com/#contact-us",
+      "https://www.airbnb.com/h/winterfell-nh",
+      "https://www.airbnb.com/rooms/40343838",
+      "https://www.vrbo.com/9258524ha?referrerId=HOT.HIS.Share.Landed.Copy_Link"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Airbnb and Vrbo official outgoing links opened and identity verified;no Booking.com link found",
+    "foundLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/h/winterfell-nh"
+      ],
+      "vrbo": [
+        "https://www.vrbo.com/9258524ha?referrerId=HOT.HIS.Share.Landed.Copy_Link"
+      ]
+    }
+  },
+  {
+    "id": "NH-0049",
+    "name": "RuffhouseNH",
+    "website": "https://www.ruffhousenh.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.ruffhousenh.com/",
+      "https://www.ruffhousenh.com/contact",
+      "https://www.ruffhousenh.com/about-us",
+      "https://www.ruffhousenh.com/dog-friendly-house-by-lake-winnipesauke-15"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0050",
+    "name": "Pond Life Vacation Rentals",
+    "website": "https://pondliferentals.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://pondliferentals.com/",
+      "https://pondliferentals.com/en/contact-us",
+      "https://pondliferentals.com/en/honeymoon-cabin-cozy-waterfront-access-retreat"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0051",
+    "name": "Seacoast2Summit Vacation Rentals",
+    "website": "https://seacoast2summit.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://seacoast2summit.com/",
+      "https://seacoast2summit.com/about",
+      "https://seacoast2summit.com/property/thesistercottages"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0052",
+    "name": "Attitash Mountain Village Resort",
+    "website": "https://attitashvillage.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://attitashvillage.com/",
+      "https://attitashvillage.com/about-us/contact-us/",
+      "https://attitashvillage.com/about-us/directions/",
+      "https://www.attitashmtvillage.com/",
+      "https://berry-cos.com/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0053",
+    "name": "All Mountain Rentals",
+    "website": "https://www.allmountainrentals.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/2063",
+      "https://www.allmountainrentals.com/",
+      "https://www.allmountainrentals.com/contact-information/",
+      "https://www.allmountainrentals.com/properties/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked home and contact; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0054",
+    "name": "The Bray Hill House",
+    "website": "https://brayhillhouse.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/530",
+      "https://brayhillhouse.com/",
+      "https://brayhillhouse.com/en/2875460/contact",
+      "https://brayhillhouse.com/en/2875465/gallery"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0055",
+    "name": "Waterville Valley Resort",
+    "website": "https://www.waterville.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/512",
+      "https://www.waterville.com/",
+      "https://www.waterville.com/lodging",
+      "https://www.waterville.com/about-waterville-valley",
+      "https://www.waterville.com/departments-people",
+      "https://www.waterville.com/lodging"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0056",
+    "name": "Cranmore Condominiums",
+    "website": "https://www.cranmorecondominiums.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/948",
+      "https://cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/contact-us",
+      "https://www.cranmorecondominiums.com/about",
+      "https://cranmore.com/news/cranmore-breaks-ground-on-new-20-million-dollar-base-lodge",
+      "https://www.cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
+      "https://www.google.com/search?q=site%3Alafrancehospitality.com+Cranmore+Condominiums+family",
+      "https://www.lafrancehospitality.com/",
+      "https://www.lafrancehospitality.com/hotels",
+      "https://www.lafrancehospitality.com/history",
+      "https://lafrancehospitality.com/?page_id=152"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0057",
+    "name": "NH Vacation Rental & Tourism Association",
+    "website": "https://nhvrta.org/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1497",
+      "https://nhvrta.org/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0058",
+    "name": "TuckAway Suites at East Branch",
+    "website": "https://www.tuckawaystays.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1201",
+      "https://tuckawaystays.com/",
+      "https://www.tuckawaystays.com/policies",
+      "https://www.tuckawaystays.com/suites"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0059",
+    "name": "Oceanside Real Estate Sales/Rentals/Insurance",
+    "website": "https://oceansiderealestate.net/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/298",
+      "https://oceansiderealestate.net/",
+      "http://oceansiderealestate.net/",
+      "https://www.google.com/search?q=Oceanside+Real+Estate+Hampton+vacation+rentals+official"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Unable to check operator site",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0060",
+    "name": "Blue Granite Properties, LLC / Blue Granite Experiences",
+    "website": "https://www.bluegraniteproperties.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1400",
+      "https://bluegraniteproperties.holidayfuture.com/",
+      "https://www.bluegraniteproperties.com/",
+      "https://www.bluegraniteproperties.com/contact/",
+      "https://www.bluegraniteproperties.com/about/",
+      "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0061",
+    "name": "OTC Rentals",
+    "website": "https://otc-rentals.com/unit-2/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1240",
+      "https://www.google.com/search?q=OTC+Rentals+Colebrook+NH+official",
+      "https://otc-rentals.com/unit-2/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Unable to check operator site",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0062",
+    "name": "Red Brook Retreat LLC / Red Brook Mountain Retreat",
+    "website": "https://www.slopestoshoresvaca.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1084",
+      "https://www.slopestoshoresvaca.com/",
+      "https://www.slopestoshoresvaca.com/properties",
+      "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+      "https://www.slopestoshoresvaca.com/map"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0063",
+    "name": "Golden Eagle Lodge",
+    "website": "https://goldeneaglelodge.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/168",
+      "https://goldeneaglelodge.com/",
+      "https://goldeneaglelodge.com/about/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0064",
+    "name": "Trailhead Getaway",
+    "website": "",
+    "platformLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/17367994?guests=1&adults=1&s=40&unique_share_id=8944f918-fdd0-4d91-b5ce-b034c9dc8cc2&fbclid=IwZXh0bgNhZW0CMTAAAR1TcGglcvy8E84K82mivfkvWCIKJHeeH4V7lDV_cA8kNPoYn1tnuM2c2uM_aem_AYQDR5FjsvqvBVvJ5-hHjo8XcovZR9L6gjFWRxXNQ2qokJA-PodIox1SgnJeQrBT2owhxH9R4LJWkURWcJDSUg6H&_branch_match_id=1324353381199669053&_branch_referrer=H4sIAAAAAAAAAwXBbXOCIAAA4F%2FUTM4a7W63o1wipZdkYn7xBAnyjVVG9u%2F3PHoc%2Fx5fjlPxgX%2F00gnQfQymqs5r%2FnPhorvW3%2BGryPWcq1gXbL6JUoQQdVMRqE7YN%2FyF3g6C%2FmovrWWbcEewlNjLPjs%2FKwWCbXww58Edh2cEBHhGZSX7Ep0Tny62zcPe7DqzZDHTuDEwF8YWdLVfqmbL6JTHCbiZlqDZwdShmdyjGohM7usUmJee8Ip6e8LaE2WC%2BMeTWuJ%2FscrtS80AAAA%3D&source_impression_id=p3_1716988740_Oc2coZAGs5iuvtd8"
+      ]
+    },
+    "evidence": [
+      {
+        "platform": "airbnb",
+        "url": "https://www.airbnb.com/rooms/17367994?guests=1&adults=1&s=40&unique_share_id=8944f918-fdd0-4d91-b5ce-b034c9dc8cc2&fbclid=IwZXh0bgNhZW0CMTAAAR1TcGglcvy8E84K82mivfkvWCIKJHeeH4V7lDV_cA8kNPoYn1tnuM2c2uM_aem_AYQDR5FjsvqvBVvJ5-hHjo8XcovZR9L6gjFWRxXNQ2qokJA-PodIox1SgnJeQrBT2owhxH9R4LJWkURWcJDSUg6H&_branch_match_id=1324353381199669053&_branch_referrer=H4sIAAAAAAAAAwXBbXOCIAAA4F%2FUTM4a7W63o1wipZdkYn7xBAnyjVVG9u%2F3PHoc%2Fx5fjlPxgX%2F00gnQfQymqs5r%2FnPhorvW3%2BGryPWcq1gXbL6JUoQQdVMRqE7YN%2FyF3g6C%2FmovrWWbcEewlNjLPjs%2FKwWCbXww58Edh2cEBHhGZSX7Ep0Tny62zcPe7DqzZDHTuDEwF8YWdLVfqmbL6JTHCbiZlqDZwdShmdyjGohM7usUmJee8Ip6e8LaE2WC%2BMeTWuJ%2FscrtS80AAAA%3D&source_impression_id=p3_1716988740_Oc2coZAGs5iuvtd8",
+        "sourcePage": "https://www.visitnh.gov/business/detail/1138",
+        "checkedOn": "2026-10-26",
+        "verifiedMatchingIdentity": true,
+        "notes": "Exact source link includes query parameters; identity matched opened Trailhead Getaway in Gorham. Canonical room id retained; full source query in native directory evidence.",
+        "canonicalUrl": "https://www.airbnb.com/rooms/17367994",
+        "sourceUrl": "https://www.visitnh.gov/business/detail/1138"
+      }
+    ],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1138",
+      "https://www.airbnb.com/rooms/17367994?guests=1&adults=1&s=40&unique_share_id=8944f918-fdd0-4d91-b5ce-b034c9dc8cc2&fbclid=IwZXh0bgNhZW0CMTAAAR1TcGglcvy8E84K82mivfkvWCIKJHeeH4V7lDV_cA8kNPoYn1tnuM2c2uM_aem_AYQDR5FjsvqvBVvJ5-hHjo8XcovZR9L6gjFWRxXNQ2qokJA-PodIox1SgnJeQrBT2owhxH9R4LJWkURWcJDSUg6H&_branch_match_id=1324353381199669053&_branch_referrer=H4sIAAAAAAAAAwXBbXOCIAAA4F%2FUTM4a7W63o1wipZdkYn7xBAnyjVVG9u%2F3PHoc%2Fx5fjlPxgX%2F00gnQfQymqs5r%2FnPhorvW3%2BGryPWcq1gXbL6JUoQQdVMRqE7YN%2FyF3g6C%2FmovrWWbcEewlNjLPjs%2FKwWCbXww58Edh2cEBHhGZSX7Ep0Tny62zcPe7DqzZDHTuDEwF8YWdLVfqmbL6JTHCbiZlqDZwdShmdyjGohM7usUmJee8Ip6e8LaE2WC%2BMeTWuJ%2FscrtS80AAAA%3D&source_impression_id=p3_1716988740_Oc2coZAGs5iuvtd8",
+      "https://www.google.com/search?q=%22Trailhead+Getaway%22+Gorham+direct+booking"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Verified matching Airbnb; no operator-controlled website found",
+    "foundLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/17367994?guests=1&adults=1&s=40&unique_share_id=8944f918-fdd0-4d91-b5ce-b034c9dc8cc2&fbclid=IwZXh0bgNhZW0CMTAAAR1TcGglcvy8E84K82mivfkvWCIKJHeeH4V7lDV_cA8kNPoYn1tnuM2c2uM_aem_AYQDR5FjsvqvBVvJ5-hHjo8XcovZR9L6gjFWRxXNQ2qokJA-PodIox1SgnJeQrBT2owhxH9R4LJWkURWcJDSUg6H&_branch_match_id=1324353381199669053&_branch_referrer=H4sIAAAAAAAAAwXBbXOCIAAA4F%2FUTM4a7W63o1wipZdkYn7xBAnyjVVG9u%2F3PHoc%2Fx5fjlPxgX%2F00gnQfQymqs5r%2FnPhorvW3%2BGryPWcq1gXbL6JUoQQdVMRqE7YN%2FyF3g6C%2FmovrWWbcEewlNjLPjs%2FKwWCbXww58Edh2cEBHhGZSX7Ep0Tny62zcPe7DqzZDHTuDEwF8YWdLVfqmbL6JTHCbiZlqDZwdShmdyjGohM7usUmJee8Ip6e8LaE2WC%2BMeTWuJ%2FscrtS80AAAA%3D&source_impression_id=p3_1716988740_Oc2coZAGs5iuvtd8"
+      ]
+    }
+  },
+  {
+    "id": "NH-0065",
+    "name": "Big Bear Log Home at Newfound Lake",
+    "website": "https://www.newfoundlakeloghomerentals.com/bigbear",
+    "platformLinks": {
+      "airbnb": [
+        "http://airbnb.com/h/bigbearloghome"
+      ]
+    },
+    "evidence": [
+      {
+        "platform": "airbnb",
+        "url": "http://airbnb.com/h/bigbearloghome",
+        "resolvedUrl": "https://www.airbnb.com/rooms/1030985500800947213?source_impression_id=p3_1793051615_P3W3u8DlD8yQqYBV",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "checkedOn": "2026-10-26",
+        "verifiedMatchingIdentity": true,
+        "sourceUrl": "https://www.newfoundlakeloghomerentals.com/bigbear"
+      }
+    ],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1161",
+      "https://www.newfoundlakeloghomerentals.com/bigbear",
+      "https://www.newfoundlakeloghomerentals.com/your-hosts",
+      "http://airbnb.com/h/bigbearloghome",
+      "https://www.airbnb.com/rooms/1030985500800947213?source_impression_id=p3_1793051615_P3W3u8DlD8yQqYBV"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Matching Big Bear Airbnb verified; reused Eagle Ridge Airbnb/Vrbo links excluded",
+    "foundLinks": {
+      "airbnb": [
+        "http://airbnb.com/h/bigbearloghome"
+      ]
+    }
+  },
+  {
+    "id": "NH-0066",
+    "name": "Dolan Real Estate",
+    "website": "https://www.dolanre.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1192",
+      "https://dolanre.com/",
+      "https://www.dolanre.com/contact-us/",
+      "https://www.dolanre.com/",
+      "https://www.google.com/search?q=site%3Adolanre.com+vacation+rentals+weekly",
+      "https://www.dolanre.com/listing/5081130/150-woodcrest-springfield-nh-03284/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0067",
+    "name": "The Crimson Cocoa Chalet",
+    "website": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1440",
+      "https://dmtravelvibes.holidayfuture.com/listings/415400",
+      "https://dmtravelvibes.holidayfuture.com/about-us"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0068",
+    "name": "Enchanted Forest Retreat(Turner Holding Company LLC)",
+    "website": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1295",
+      "https://www.google.com/search?q=%22Enchanted+Forest+Retreat%22+Newbury+NH",
+      "https://www.educise.com/tag/newbury/",
+      "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+      "https://www.educise.com/contact/",
+      "https://www.vrbo.com/1817955"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0069",
+    "name": "Northstead Retreat",
+    "website": "https://northsteadretreat.com/",
+    "platformLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/1627662823619305043"
+      ]
+    },
+    "evidence": [
+      {
+        "platform": "airbnb",
+        "url": "https://www.airbnb.com/rooms/1627662823619305043",
+        "sourcePage": "https://northsteadretreat.com/",
+        "checkedOn": "2026-10-26",
+        "verifiedMatchingIdentity": true,
+        "sourceUrl": "https://northsteadretreat.com/"
+      }
+    ],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/2098",
+      "https://northsteadretreat.com/",
+      "https://northsteadretreat.com/flexible-retreat-access",
+      "https://www.airbnb.com/rooms/1627662823619305043?source_impression_id=p3_1793051746_P3E6dffA0n7Eg_p8"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Matching Airbnb verified; no Vrbo/Booking found",
+    "foundLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/1627662823619305043"
+      ]
+    }
+  },
+  {
+    "id": "NH-0070",
+    "name": "Eagle Ridge Log Home",
+    "website": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+    "platformLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/51761764?federated_search_id=4c77ab70-e306-46ae-adae-b6a2b3ecb0b9&source_impression_id=p3_1636305866_5ze1JzL7%2BF6yKo6w&guests=1&adults=1"
+      ],
+      "vrbo": [
+        "https://www.vrbo.com/2510514?noDates=true&unitId=3080376"
+      ]
+    },
+    "evidence": [
+      {
+        "platform": "airbnb",
+        "url": "https://www.airbnb.com/rooms/51761764?federated_search_id=4c77ab70-e306-46ae-adae-b6a2b3ecb0b9&source_impression_id=p3_1636305866_5ze1JzL7%2BF6yKo6w&guests=1&adults=1",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "verifiedMatchingIdentity": true,
+        "checkedOn": "2026-10-26",
+        "notes": "Opened destination explicitly names Eagle Ridge in Hebron,6guests/3bedrooms/2baths; hostJen/JenReardon.",
+        "sourceUrl": "https://www.newfoundlakeloghomerentals.com/eagle-ridge"
+      },
+      {
+        "platform": "vrbo",
+        "url": "https://www.vrbo.com/2510514?noDates=true&unitId=3080376",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "verifiedMatchingIdentity": true,
+        "checkedOn": "2026-10-26",
+        "notes": "Opened destination explicitly names Eagle Ridge in Hebron,6guests/3bedrooms/2baths; hostJen/JenReardon.",
+        "sourceUrl": "https://www.newfoundlakeloghomerentals.com/eagle-ridge"
+      }
+    ],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1034",
+      "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+      "https://www.newfoundlakeloghomerentals.com/your-hosts",
+      "https://www.airbnb.com/rooms/51761764?federated_search_id=4c77ab70-e306-46ae-adae-b6a2b3ecb0b9&source_impression_id=p3_1636305866_5ze1JzL7%2BF6yKo6w&guests=1&adults=1",
+      "https://www.vrbo.com/2510514?noDates=true&unitId=3080376"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Matching Airbnb and Vrbo verified; unrelated BigBear gallery links excluded",
+    "foundLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/51761764?federated_search_id=4c77ab70-e306-46ae-adae-b6a2b3ecb0b9&source_impression_id=p3_1636305866_5ze1JzL7%2BF6yKo6w&guests=1&adults=1"
+      ],
+      "vrbo": [
+        "https://www.vrbo.com/2510514?noDates=true&unitId=3080376"
+      ]
+    }
+  },
+  {
+    "id": "NH-0071",
+    "name": "Village Place at the Eastern Slope Inn Resort",
+    "website": "https://easternslopeinn.com/lodging/village-place/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/428",
+      "https://easternslopeinn.com/lodging/village-place/",
+      "https://easternslopeinn.com/about/contact-us/",
+      "https://berry-cos.com/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Official site links Airbnb host profile126932712; individual Village Place attribution unverified, no badge",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0072",
+    "name": "Newfound Lake & Ski House",
+    "website": "https://staynewfoundlake.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/2085",
+      "https://staynewfoundlake.com/",
+      "https://staynewfoundlake.com/en/contact",
+      "https://staynewfoundlake.com/en/our-story",
+      "https://staynewfoundlake.com/en/map"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0073",
+    "name": "Roper Real Estate LLC",
+    "website": "https://www.roperre.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/628",
+      "https://www.roperre.com/",
+      "https://www.roperre.com/homes-for-rent-in-waterville-valley-nh",
+      "https://www.roperre.com/contact",
+      "https://www.google.com/search?q=site%3Aroperre.com+weekly+vacation+rentals",
+      "https://www.roperre.com/homes-for-rent-in-campton-nh"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened official pages; none found",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0074",
+    "name": "Russ-Tee Bucket Ranch",
+    "website": "https://www.russteebucketranch.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/377",
+      "https://fourseasonslodge.com/",
+      "https://www.google.com/search?q=%22Russ-Tee+Bucket+Ranch%22+official",
+      "https://www.russteebucketranch.com/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Operator sites inaccessible",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0075",
+    "name": "Super Host Solutions",
+    "website": "",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1109",
+      "https://www.google.com/search?q=%22Super+Host+Solutions%22+Berlin+NH"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "No operator website found to check",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0076",
+    "name": "Lakes Region Vacation Rentals",
+    "website": "",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/665",
+      "https://www.google.com/search?q=%22Lakes+Region+Vacation+Rentals%22+%22603%22"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "No operator website found to check",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0007",
+    "name": "Huttopia White Mountains",
+    "website": "https://americas.huttopia.com/en/site/white-mountains/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://americas.huttopia.com/en/site/white-mountains/",
+      "https://americas.huttopia.com/en/contact-directions-huttopia-white-mountains-campsite/",
+      "https://americas.huttopia.com/en/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Not checked; excluded from independent directory",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0015",
+    "name": "Bretton Woods Ski Area & Skyway Gondola",
+    "website": "https://www.brettonwoods.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.brettonwoods.com/",
+      "https://www.brettonwoods.com/contact-us/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Not checked; excluded from independent directory",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0022",
+    "name": "Postcard Cabins Blake Brook",
+    "website": "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/overview/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.visitnh.gov/business/detail/1610",
+      "https://www.marriott.com/en-us/hotels/mhtbb-postcard-cabins-blake-brook-outdoor-collection-bonvoy/plan-your-stay/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Not checked; excluded from independent directory",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0027",
+    "name": "Gunstock Campground",
+    "website": "https://www.gunstock.com/summer/camping/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.gunstock.com/community/gunstock-area-commission/faq/",
+      "https://www.gunstock.com/contact/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Not checked; excluded from independent directory",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0042",
+    "name": "Spacious Skies French Pond",
+    "website": "https://spaciousskiescampgrounds.com/french-pond/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://spaciousskiescampgrounds.com/french-pond/",
+      "https://spaciousskiescampgrounds.com/"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Not checked; operator site robot challenge",
+    "foundLinks": {}
+  },
+  {
+    "id": "NH-0043",
+    "name": "AMC Cardigan Lodge",
+    "website": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+      "https://www.outdoors.org/contact-us/",
+      "https://www.outdoors.org/about/",
+      "https://www.outdoors.org/destinations/book-now/#/room?resultFilterValue=20527"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; no qualifying links found",
+    "foundLinks": {}
   }
 ]

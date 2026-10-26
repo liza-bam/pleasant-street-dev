@@ -74,6 +74,13 @@ if(vermont.length){
 if(newHampshire.length){
  const evidence=read('data/sources/new-hampshire/eligibility-evidence.json');
  const research=read('data/sources/new-hampshire/research-records.json');
+ const reviewed=read('data/sources/new-hampshire/website-audit.json');
+ assert.equal(research.length,77);assert.equal(new Set(reviewed.map(r=>r.id)).size,77);
+ for(const row of research){
+  const audit=reviewed.find(a=>a.id===row.ID);assert(audit?.reviewed,'Unreviewed NH record '+row.ID);
+  assert.equal(row['Evidence status'],audit.evidenceStatus);
+  if(['Verified independent website','Verified platform-hosted website'].includes(audit.evidenceStatus))assert(audit.contactPagesChecked.length && audit.bookingUrl && audit.operatorEvidenceUrl,row.ID+' incomplete NH verification');
+ }
  const approvedIds=new Set(newHampshire.map(h=>h.id));
  for(const s of newHampshire){
   const h=homes.find(x=>x.id===s.id);assert(h,'Missing New Hampshire record '+s.id);
@@ -87,6 +94,11 @@ if(newHampshire.length){
  for(const p of read('data/sources/new-hampshire/photo-sources.json')){
   assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,p.file))).digest('hex'),p.sha256,p.file);
   assert.equal(p.generated,false);assert(p.sourcePage.startsWith('https://'));
+ }
+ for(const bad of read('data/sources/new-hampshire/bad-websites.json')){
+  assert(bad.reason && bad.checkedOn && bad.evidence.length);
+  if(bad.excludedFromDirectory)assert(!homes.some(h=>h.id===bad.id),'Unavailable NH record imported: '+bad.id);
+  else assert(!homes.some(h=>key(h.url)===key(bad.url)),'Retired NH URL reintroduced: '+bad.url);
  }
 }
 const active=homes.filter(h=>h.alive!==false && h.listingStatus!=='Needs review');

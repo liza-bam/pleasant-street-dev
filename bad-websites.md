@@ -104,3 +104,78 @@ Removed from list and map results at Sandy’s request on 2026-10-25. These 36 r
 | ME-0284 | Vinalhaven Vacation Rentals | [https://vinalhavenvacationrentals.com](https://vinalhavenvacationrentals.com) | Missing property photos / cover; excluded by request. |
 | ME-0291 | Green Gables Inn | [https://greengablesinnmaine.com](https://greengablesinnmaine.com) | Missing property photos / cover; excluded by request. |
 | ME-0292 | Glenmoor by the Sea | [https://glenmoorbythesea.com](https://glenmoorbythesea.com) | Missing property photos / cover; excluded by request. |
+
+<!-- NH-VERIFICATION-AUDIT -->
+## New Hampshire website audit — 2026-10-26
+
+Robot challenges remain research limitations and are not listed here as dead websites. Business closure is not inferred from access failure.
+
+### NH-0017 — Maple Moose Lodge and Cottages (Laconia, NH)
+
+- URL: https://maplemoosenh.godaddysites.com/
+- Checked: 2026-10-26
+- Observation: Official Facebook Contact Us points to GoDaddy site serving File not found(404) on opening and reload; no functioning own site verified.
+- Access detail: [{"url": "https://maplemoosenh.godaddysites.com/", "observed": "GoDaddy File not found(404 error), confirmed reload", "attempts": 2}]
+- Evidence: https://maplemoosenh.godaddysites.com/; https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/; https://www.visitnh.gov/business/detail/768
+- Replacement: No working independent replacement verified
+- Directory state: Website access could not be verified; this does not establish business closure.
+
+### NH-0018 — The Cabins At Temple (Temple, NH)
+
+- URL: https://www.thecabinsattemple.com/
+- Checked: 2026-10-26
+- Observation: Published operator host redirects to www homepage serving Chrome HTTP ERROR404; search-discovered official terms page also HTTP response failure.
+- Access detail: [{"url": "https://www.thecabinsattemple.com/", "observed": "Chrome page cannot be found; HTTP ERROR404"}, {"url": "https://www.thecabinsattemple.com/terms-and-conditions", "observed": "net::ERR_HTTP_RESPONSE_CODE_FAILURE"}]
+- Evidence: https://www.thecabinsattemple.com/; https://www.thecabinsattemple.com/terms-and-conditions; https://www.visitnh.gov/business/detail/1189
+- Replacement: No working independent replacement verified
+- Directory state: Website access could not be verified; this does not establish business closure.
+
+### NH-0044 — Robie’s Cabins (Pittsburg, NH)
+
+- URL: http://www.robiescabins.com/
+- Checked: 2026-10-26
+- Observation: Unrelated gambling redirect to https://naga138gacor2.com/
+- Access detail: []
+- Evidence: https://robiescabinsnh.com/; https://robiescabinsnh.com/about/; https://robiescabinsnh.com/cabins/; http://www.robiescabins.com/; https://naga138gacor2.com/; https://www.visitnh.gov/business/detail/327
+- Replacement: https://robiescabinsnh.com/
+- Directory state: Retired URL excluded; working replacement operator site remains eligible.
+
+### NH-0047 — Melhem Enterprises Retreats,LLC (Whitefield, NH)
+
+- URL: https://www.melhementerprisesretreats.com/
+- Checked: 2026-10-26
+- Observation: Published dedicated operator domain fails DNS. Public social contact remains available, but no working independent rental website was established; business closure is not claimed.
+- Access detail: [{"url": "http://www.melhementerprisesretreats.com/", "finalUrl": "https://www.melhementerprisesretreats.com/", "observed": "DNS_PROBE_FINISHED_NXDOMAIN", "checkedOn": "2026-10-26"}]
+- Evidence: http://airbnb.com/h/best-of-the-white-mountains; https://www.facebook.com/MelhemEntRetreats/; https://www.visitnh.gov/business/detail/591; https://www.airbnb.com/rooms/21437814; http://www.melhementerprisesretreats.com/; https://www.melhementerprisesretreats.com/
+- Replacement: No working independent replacement verified
+- Directory state: Website access could not be verified; this does not establish business closure.
+
+### NH-0059 — Oceanside Real Estate Sales/Rentals/Insurance (Hampton, NH)
+
+- URL: https://oceansiderealestate.net/
+- Checked: 2026-10-26
+- Observation: Published operator host failed SSL; HTTP also blocked by client. No usable operator website verified.
+- Access detail: [{"url": "https://oceansiderealestate.net/", "cause": "net::ERR_SSL_UNRECOGNIZED_NAME_ALERT"}, {"url": "http://oceansiderealestate.net/", "cause": "net::ERR_BLOCKED_BY_CLIENT; may be browser access limitation"}]
+- Evidence: https://www.visitnh.gov/business/detail/298; https://oceansiderealestate.net/; http://oceansiderealestate.net/; https://www.google.com/search?q=Oceanside+Real+Estate+Hampton+vacation+rentals+official
+- Replacement: No working independent replacement verified
+- Directory state: Website access could not be verified; this does not establish business closure.
+
+### NH-0061 — OTC Rentals (Colebrook, NH)
+
+- URL: https://otc-rentals.com/unit-2/
+- Checked: 2026-10-26
+- Observation: Tourism listing has no website link. One focused reverse search identified published operator unit URL, which failed DNS.
+- Access detail: [{"url": "https://otc-rentals.com/unit-2/", "cause": "net::ERR_NAME_NOT_RESOLVED"}]
+- Evidence: https://www.visitnh.gov/business/detail/1240; https://www.google.com/search?q=OTC+Rentals+Colebrook+NH+official; https://otc-rentals.com/unit-2/
+- Replacement: No working independent replacement verified
+- Directory state: Website access could not be verified; this does not establish business closure.
+
+### NH-0074 — Russ-Tee Bucket Ranch (Conway, NH)
+
+- URL: https://www.russteebucketranch.com/
+- Checked: 2026-10-26
+- Observation: State-linked fourseasonslodge.com failedDNS; reverse-search replacement russteebucketranch.com refused connection. No accessible rental website.
+- Access detail: [{"url": "https://fourseasonslodge.com/", "cause": "net::ERR_NAME_NOT_RESOLVED"}, {"url": "https://www.russteebucketranch.com/", "cause": "net::ERR_CONNECTION_REFUSED"}]
+- Evidence: https://www.visitnh.gov/business/detail/377; https://fourseasonslodge.com/; https://www.google.com/search?q=%22Russ-Tee+Bucket+Ranch%22+official; https://www.russteebucketranch.com/
+- Replacement: No working independent replacement verified
+- Directory state: Website access could not be verified; this does not establish business closure.

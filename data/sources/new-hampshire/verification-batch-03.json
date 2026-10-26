@@ -1,0 +1,2291 @@
+[
+  {
+    "id": "NH-0053",
+    "name": "All Mountain Rentals",
+    "website": "https://www.allmountainrentals.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator and contact pages establish locally owned and managed White Mountain vacation rentals with direct phone, email and inquiry form.",
+    "classification": "local rental manager",
+    "recordType": "operator",
+    "type": "Vacation rental manager",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/2063",
+      "https://www.allmountainrentals.com/",
+      "https://www.allmountainrentals.com/contact-information/",
+      "https://www.allmountainrentals.com/properties/"
+    ],
+    "contactPagesChecked": [
+      "https://www.allmountainrentals.com/contact-information/"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "441 NH Route 49",
+      "city": "Campton",
+      "state": "NH",
+      "zip": "03223",
+      "source": "https://www.allmountainrentals.com/contact-information/",
+      "notes": "Contact page calls this office; rental street addresses vary. Footer also identifies Ledgeview corporate contact at 157 Amory St, West Manchester NH 03102."
+    },
+    "bookingMethod": "Phone 603-726-3344, email info@allmountainrentals.com, contact form and online rentals search",
+    "bookingUrl": "https://www.allmountainrentals.com/contact-information/",
+    "operatorEvidenceUrl": "https://www.allmountainrentals.com/contact-information/",
+    "notes": "Locally Owned and Managed stated on Contact page. Do not use stock category photos as rental photographs.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "description": "Locally owned manager offering White Mountain vacation homes and apartments.",
+    "descriptionSource": "https://www.allmountainrentals.com/contact-information/",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked home and contact; none found",
+    "photoCandidates": [
+      {
+        "url": "https://images.rezfusion.com/cdn-cgi/image/quality=75/https://gallery.streamlinevrs.com/units-gallery/00/10/7C/image_172019922.jpeg",
+        "alt": "Beechwood3 Lincoln ski condo next to Loon Mountain",
+        "sourcePage": "https://www.allmountainrentals.com/properties/",
+        "unitOrCampus": "Beechwood3,Lincoln only; operator representative rental"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/NH-0053-cover.webp",
+        "url": "https://images.rezfusion.com/cdn-cgi/image/quality=75/https://gallery.streamlinevrs.com/units-gallery/00/10/7C/image_172019922.jpeg",
+        "sourcePage": "https://www.allmountainrentals.com/properties/",
+        "role": "cover",
+        "sha256": "cb26b6745886f2e31e034d0a232c3ae17f43ac11d2d51ea47281eeec42d2c33e",
+        "width": 1200,
+        "height": 675,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Beechwood3,Lincoln only; operator representative rental",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0054",
+    "name": "The Bray Hill House",
+    "website": "https://brayhillhouse.com/",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Lodgify-powered operator site identifies Jefferson vacation home, local sibling host and direct inquiry/booking.",
+    "classification": "individual property/host",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/530",
+      "https://brayhillhouse.com/",
+      "https://brayhillhouse.com/en/2875460/contact",
+      "https://brayhillhouse.com/en/2875465/gallery"
+    ],
+    "contactPagesChecked": [
+      "https://brayhillhouse.com/en/2875460/contact"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "87 Albert's Drive",
+      "city": "Jefferson",
+      "state": "NH",
+      "zip": "03583",
+      "source": "https://brayhillhouse.com/en/2875460/contact",
+      "notes": "Published in operator footer."
+    },
+    "bookingMethod": "Direct inquiry form, email thebrayhillhouse@gmail.com and phone +16038372101; Lodgify checkout",
+    "bookingUrl": "https://checkout.lodgify.com/en/israel-maykut/186374/reservation?currency=USD",
+    "operatorEvidenceUrl": "https://brayhillhouse.com/en/2875460/contact",
+    "notes": "About host says operated by four siblings who grew up on Bray Hill; Israel Maykut lives on Bray Hill. Home says 3 bedrooms, families with kids and dogs welcomed.",
+    "description": "Three-bedroom family vacation home on 30 acres in Jefferson with mountain views and an indoor sauna.",
+    "descriptionSource": "https://brayhillhouse.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 3,
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Home welcomes families with kids",
+      "petsDetails": "Dog friendly; other species Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "sources": [
+        "https://brayhillhouse.com/"
+      ]
+    },
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property/host",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/67b30268-a6aa-413f-8d39-e42af8eb14fc.jpg?w=960",
+        "alt": "House Lit up at Dusk",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "unitOrCampus": "Bray Hill House"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/6f757c20-2799-4bf6-b155-a9d3de51d574.jpg?w=960",
+        "alt": "Aga Stove in Chefs Kitchen",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "unitOrCampus": "Bray Hill House"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/e5fc9ae7-2905-4a25-ad79-2bebe4bbe823.jpg?w=960",
+        "alt": "Thomas Moser dining table",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "unitOrCampus": "Bray Hill House"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/28606003-25a7-4407-9357-9f87235a6760.jpg?w=960",
+        "alt": "Two-story living room",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "unitOrCampus": "Bray Hill House"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/NH-0054-cover.webp",
+        "url": "https://l.icdbcdn.com/oh/67b30268-a6aa-413f-8d39-e42af8eb14fc.jpg?w=960",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "role": "cover",
+        "sha256": "c9b0340879782c8fe5d31811b8a14b8921a8bea43f53a715afe4957f2e99956d",
+        "width": 960,
+        "height": 425,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Bray Hill House",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0054-000.webp",
+        "url": "https://l.icdbcdn.com/oh/6f757c20-2799-4bf6-b155-a9d3de51d574.jpg?w=960",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "role": "additional",
+        "sha256": "1aa64ac6e92d03b2f8e4278ce3de78751a9347f70fca716557c9eb1834797d53",
+        "width": 960,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Bray Hill House",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0054-001.webp",
+        "url": "https://l.icdbcdn.com/oh/e5fc9ae7-2905-4a25-ad79-2bebe4bbe823.jpg?w=960",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "role": "additional",
+        "sha256": "752456b4d9eb726801f9dcc547ca356d3517deb39770bca343144ba8e627d36c",
+        "width": 960,
+        "height": 1440,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Bray Hill House",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0054-002.webp",
+        "url": "https://l.icdbcdn.com/oh/28606003-25a7-4407-9357-9f87235a6760.jpg?w=960",
+        "sourcePage": "https://brayhillhouse.com/en/2875465/gallery",
+        "role": "additional",
+        "sha256": "7af2f216d618bb828e6197b352e1c16e072fc4ec19a13644f3d0376631fe6c18",
+        "width": 960,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Bray Hill House",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0055",
+    "name": "Waterville Valley Resort",
+    "website": "https://www.waterville.com/",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "About page expressly independently owned and operated; lodging page offers resort-owned Town Square Condos and direct reservations contact.",
+    "classification": "local resort operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/512",
+      "https://www.waterville.com/",
+      "https://www.waterville.com/lodging",
+      "https://www.waterville.com/about-waterville-valley",
+      "https://www.waterville.com/departments-people",
+      "https://www.waterville.com/lodging"
+    ],
+    "contactPagesChecked": [
+      "https://www.waterville.com/departments-people",
+      "https://www.waterville.com/about-waterville-valley"
+    ],
+    "contactAddress": {
+      "role": "not publicly disclosed",
+      "street": "Unknown",
+      "city": "Waterville Valley",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://www.waterville.com/departments-people",
+      "notes": "Contact departments page gives phones/emails, no central street address. Lodging page separately identifies Town Square Condos at 33 Village Road and Silver Fox Inn at 70 Packards Road; do not assign ski base address to lodgings."
+    },
+    "bookingMethod": "Central lodging reservations wvlodging@waterville.com, 1.800.GO.VALLEY; Town Square 603-236-8175",
+    "bookingUrl": "https://www.waterville.com/departments-people",
+    "operatorEvidenceUrl": "https://www.waterville.com/about-waterville-valley",
+    "notes": "Operator record covers resort-owned condos and inn; site also lists separate partner lodges. Town Square condos 3 bedrooms/2 baths, sleeps6-8, advertised from$315/night; not applied to all operator inventory. Goto timeouts on About and Departments resolved by reading loaded pages.",
+    "description": "Independent White Mountains resort offering Town Square condominium lodging in Waterville Valley.",
+    "descriptionSource": "https://www.waterville.com/lodging",
+    "checkedOn": "2026-10-26",
+    "type": "local resort operator",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/62503704223b711a550b3e6f/1e4a7f45-c186-45b5-a4a3-a29a33af9321/Town+Square-05.jpg",
+        "alt": "Town Square05",
+        "sourcePage": "https://www.waterville.com/lodging",
+        "unitOrCampus": "Town Square Condos shared campus only"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/62503704223b711a550b3e6f/1729697440608-NU5JIBJVQGM0AKOLVMON/NIGHT+-+Town+Square+TSQ+Village+.jpg",
+        "alt": "Town Square at night",
+        "sourcePage": "https://www.waterville.com/lodging",
+        "unitOrCampus": "Town Square Condos shared campus only"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/NH-0055-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/62503704223b711a550b3e6f/1e4a7f45-c186-45b5-a4a3-a29a33af9321/Town+Square-05.jpg",
+        "sourcePage": "https://www.waterville.com/lodging",
+        "role": "cover",
+        "sha256": "9379fc189df780f30b323fb6eb478b919cd5f8fad7216950de58dbfe1052bfa8",
+        "width": 1600,
+        "height": 1066,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Town Square Condos shared campus only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0055-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/62503704223b711a550b3e6f/1729697440608-NU5JIBJVQGM0AKOLVMON/NIGHT+-+Town+Square+TSQ+Village+.jpg",
+        "sourcePage": "https://www.waterville.com/lodging",
+        "role": "additional",
+        "sha256": "04f4b5588fa5b6c7f8806c0c0a8f587905e682851c0b9f8a1030288eefaf0c32",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Town Square Condos shared campus only",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0056",
+    "name": "Cranmore Condominiums",
+    "website": "https://www.cranmorecondominiums.com/",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own condominium site establishes NH residences and direct inquiry; linked Cranmore official history identifies father-and-son Fairbank regional resort ownership.",
+    "classification": "condominium lodging campus",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/948",
+      "https://cranmorecondominiums.com/",
+      "https://www.cranmorecondominiums.com/contact-us",
+      "https://www.cranmorecondominiums.com/about",
+      "https://cranmore.com/news/cranmore-breaks-ground-on-new-20-million-dollar-base-lodge",
+      "https://www.cranmorecondominiums.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.cranmorecondominiums.com/contact-us",
+      "https://www.cranmorecondominiums.com/about"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "235 Skimobile Road",
+      "city": "North Conway",
+      "state": "NH",
+      "zip": "03860",
+      "source": "https://www.cranmorecondominiums.com/contact-us",
+      "notes": "Contact and About pages agree; shared condominium site."
+    },
+    "bookingMethod": "Direct inquiry form and (866)422-0585; Webrez booking link",
+    "bookingUrl": "https://secure.webrez.com/hotel/3528",
+    "operatorEvidenceUrl": "https://cranmore.com/news/cranmore-breaks-ground-on-new-20-million-dollar-base-lodge",
+    "notes": "Kearsarge Brook slopeside residences with full kitchens and laundry; About advertises2/3-bedroom units sleeping6-8 and smaller hotel-style rooms. Tourism source email references LaFrance Hospitality; ownership not resolved. Contact/About navigation timed out but pages loaded and were read. Ownership follow-up: opened official Cranmore March16,2022 news identifies Brian and Tyler Fairbank plus Joseph ODonnell as resort owners since2010 and KearsargeBrook condominium developments. LaFrance reference relates to separately owned neighboring Fairfield Marriott hotel; not evidence that these condos are chain hotel.",
+    "description": "Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.",
+    "descriptionSource": "https://www.cranmorecondominiums.com/about",
+    "remainingGaps": [
+      "Unit-specific policies/rates"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "condominium lodging campus",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/5d4c611c-6cd8-4a11-81c6-ecda2583d0cd/CranmoreCondosExterior2024_2_shrunk.jpg?format=2500w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "alt": "Cranmore condo building exterior",
+        "unitOrCampus": "Cranmore shared campus"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/b573eba2-41ab-4288-8c5f-8e86bc21aea4/Pool+1.jpg?format=1000w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "alt": "Shared pool and hot tub",
+        "unitOrCampus": "Cranmore shared campus"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/NH-0056-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/5d4c611c-6cd8-4a11-81c6-ecda2583d0cd/CranmoreCondosExterior2024_2_shrunk.jpg?format=2500w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "role": "cover",
+        "sha256": "9c8f319b77d23311db3776535cfa5e68dca16735018a7079d40c039fb46aa4b0",
+        "width": 1600,
+        "height": 900,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cranmore shared campus",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0056-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/632bc39704c8a81b752a9df9/b573eba2-41ab-4288-8c5f-8e86bc21aea4/Pool+1.jpg?format=1000w",
+        "sourcePage": "https://www.cranmorecondominiums.com/",
+        "role": "additional",
+        "sha256": "d7c3064d30e8f6e1da8e247c6831d04ba737c648b912c9846fb58ac4b2602ce5",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cranmore shared campus",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0057",
+    "name": "NH Vacation Rental & Tourism Association",
+    "website": "https://nhvrta.org/",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Opened site is an advocacy/membership association for rental operators, not a rental property or accommodation operator.",
+    "classification": "trade association/discovery source",
+    "recordType": "discovery source",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1497",
+      "https://nhvrta.org/"
+    ],
+    "contactPagesChecked": [
+      "https://nhvrta.org/"
+    ],
+    "contactAddress": {
+      "role": "not publicly disclosed",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://nhvrta.org/",
+      "notes": "Home has Contact Us form but no street address; Derry directory address remains unverified official contact address."
+    },
+    "bookingMethod": "None; association membership/contact form only",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://nhvrta.org/",
+    "notes": "Mission advocates for responsible vacation and short-term rental operators. No accommodation offered by association.",
+    "description": "New Hampshire vacation-rental advocacy and membership association.",
+    "descriptionSource": "https://nhvrta.org/",
+    "remainingGaps": [],
+    "checkedOn": "2026-10-26",
+    "type": "trade association/discovery source",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0058",
+    "name": "TuckAway Suites at East Branch",
+    "website": "https://www.tuckawaystays.com/",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Policies expressly independently owned boutique inn; home and policies establish7 self-check-in units in Intervale and direct phone/email/Cloudbeds booking.",
+    "classification": "small inn/villas campus",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1201",
+      "https://tuckawaystays.com/",
+      "https://www.tuckawaystays.com/policies",
+      "https://www.tuckawaystays.com/suites"
+    ],
+    "contactPagesChecked": [
+      "https://www.tuckawaystays.com/",
+      "https://www.tuckawaystays.com/policies"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "372 NH Route 16A",
+      "city": "Intervale",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://www.tuckawaystays.com/policies",
+      "notes": "No standalone Contact/About link present in published navigation/footer; contact footer reviewed on both pages. ZIP not published in official footer."
+    },
+    "bookingMethod": "Phone617-990-5683, email info@tuckawaystays.com, Cloudbeds booking",
+    "bookingUrl": "https://us2.cloudbeds.com/reservation/kxO4rC",
+    "operatorEvidenceUrl": "https://www.tuckawaystays.com/policies",
+    "notes": "7 self-check-in units; Garden and Riverside Villas have full kitchens. Policies explicitly owner-operator and independently owned. Pets only Garden Villa with approval/$100 fee/max2dogs. Policies goto timed out but page loaded and was read. Official Suites page says whole-property takeover sleeps24; tourism source22 is older/conflicting. Do not apply to individual suites.",
+    "description": "Independent seven-unit riverside inn in Intervale with suites and villas, including full-kitchen options.",
+    "descriptionSource": "https://www.tuckawaystays.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": 7,
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Whole campus takeover:24on official Suites page vs22tourism directory; per-unit varies.",
+      "kidsDetails": "Home describes kids enjoying riverside lawn",
+      "petsDetails": "Only Garden Villa; prior host approval; $100 fee; maximum2dogs",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "sources": [
+        "https://www.tuckawaystays.com/",
+        "https://www.tuckawaystays.com/policies"
+      ]
+    },
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small inn/villas campus",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/7e0ceeb5-fb1a-4eb9-ac05-5f0da232810d/frontrevised.jpg?format=2500w",
+        "alt": "Shared building exterior",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/39a83875-7174-4547-bf38-f1ae47b69615/livingroom3.jpg",
+        "alt": "Riverside Villa living room",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/b086ff5a-b74d-4c70-b928-15f1d8f34a0a/masterbedroomrevised.jpg",
+        "alt": "Riverside Villa bedroom",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/1351a5fd-e589-4963-b01a-1a49402aa8b8/gameroom.jpg",
+        "alt": "Riverside Villa game room",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/NH-0058-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/7e0ceeb5-fb1a-4eb9-ac05-5f0da232810d/frontrevised.jpg?format=2500w",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "role": "cover",
+        "sha256": "c59e669ec359c8f366b0a60377ee3204e0b3aa98bab7a177e25ffd320804a1e9",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0058-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/39a83875-7174-4547-bf38-f1ae47b69615/livingroom3.jpg",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "role": "additional",
+        "sha256": "e83e5eec3c58c9ecace5dbc91f784c3d7fd04e683f9cac25c84c2e997bbe90a1",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0058-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/b086ff5a-b74d-4c70-b928-15f1d8f34a0a/masterbedroomrevised.jpg",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "role": "additional",
+        "sha256": "4618a60a99dbfc17171050a0f881e3b61a2da24220af5d1023b69dfe977f875f",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0058-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/67b62f224457cd256fdfc731/1351a5fd-e589-4963-b01a-1a49402aa8b8/gameroom.jpg",
+        "sourcePage": "https://www.tuckawaystays.com/suites",
+        "role": "additional",
+        "sha256": "760a647473ce9215395d8dd40a87697770b5557506c0c6b2056f1b4031f7908e",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "TuckAway shared building cover; Riverside Villa interiors only",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0059",
+    "name": "Oceanside Real Estate Sales/Rentals/Insurance",
+    "website": "https://oceansiderealestate.net/",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Published operator host failed SSL; HTTP also blocked by client. No usable operator website verified.",
+    "classification": "local rental manager candidate",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/298",
+      "https://oceansiderealestate.net/",
+      "http://oceansiderealestate.net/",
+      "https://www.google.com/search?q=Oceanside+Real+Estate+Hampton+vacation+rentals+official"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "operator office (directory only)",
+      "street": "365 Ocean Blvd",
+      "city": "Hampton",
+      "state": "NH",
+      "zip": "03842",
+      "source": "https://www.visitnh.gov/business/detail/298",
+      "notes": "Official operator Contact unavailable; retained tourism-directory office address, not rental entrance."
+    },
+    "bookingMethod": "Directory gives603-926-3542 and info@oceansiderealestate.net; operator destination not verified",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/298",
+    "notes": "Directory describes1-4bedroom weekly summer rentals; focused reverse search surfaced same host and official Facebook, no replacement direct website.",
+    "description": "Hampton real estate office listed by VisitNH as handling weekly summer vacation rentals.",
+    "descriptionSource": "https://www.visitnh.gov/business/detail/298",
+    "platformCheckStatus": "Unable to check operator site",
+    "accessFailures": [
+      {
+        "url": "https://oceansiderealestate.net/",
+        "cause": "net::ERR_SSL_UNRECOGNIZED_NAME_ALERT"
+      },
+      {
+        "url": "http://oceansiderealestate.net/",
+        "cause": "net::ERR_BLOCKED_BY_CLIENT; may be browser access limitation"
+      }
+    ],
+    "remainingGaps": [
+      "Working operator website",
+      "Official Contact/address review",
+      "Eligibility"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "local rental manager candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "photoCandidates": [],
+    "photos": []
+  },
+  {
+    "id": "NH-0060",
+    "name": "Blue Granite Properties, LLC / Blue Granite Experiences",
+    "website": "https://www.bluegraniteproperties.com/",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Replacement site identifies small Lakes Region collection run by hosts Keegan and Sean with local partnerships and direct email/contact/booking.",
+    "classification": "small local rental manager",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1400",
+      "https://bluegraniteproperties.holidayfuture.com/",
+      "https://www.bluegraniteproperties.com/",
+      "https://www.bluegraniteproperties.com/contact/",
+      "https://www.bluegraniteproperties.com/about/",
+      "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/"
+    ],
+    "contactPagesChecked": [
+      "https://www.bluegraniteproperties.com/contact/",
+      "https://www.bluegraniteproperties.com/about/"
+    ],
+    "contactAddress": {
+      "role": "not publicly disclosed",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://www.bluegraniteproperties.com/contact/",
+      "notes": "Contact has form/email, no street address. Beech Pond page explicitly says exact address/details to be added once confirmed. Do not reuse13Ethan Allen Rd directory address as operator-office or all-rental address."
+    },
+    "bookingMethod": "Contact form, hello@bluegraniteexperiences.com; direct property booking",
+    "bookingUrl": "https://book.bluegraniteproperties.com/listings/367606",
+    "operatorEvidenceUrl": "https://www.bluegraniteproperties.com/about/",
+    "notes": "Small collection of handpicked NH Lakes Region stays; hosts Keegan and Sean. Beech Pond cabin Tuftonboro sleeps7/2bed/1bath and Gunstock Cabin Gilford12/3bed/1.5bath; not operator-wide facts. Old holidayfuture site visibly404. No actual Airbnb/Vrbo listing URLs in checked pages despite review text mentioning platforms.",
+    "description": "Small Lakes Region rental operator offering Beech Pond Cabin in Tuftonboro and The Gunstock Cabin in Gilford.",
+    "descriptionSource": "https://www.bluegraniteproperties.com/",
+    "photoCandidates": [
+      {
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/living-kitchen-hero.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "alt": "Hero",
+        "unitOrCampus": "Beech Pond Cabin only"
+      },
+      {
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/primary-bedroom.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "alt": "Primary bedroom queen bed",
+        "unitOrCampus": "Beech Pond Cabin only"
+      },
+      {
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/bunk-room.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "alt": "Loft bunk room",
+        "unitOrCampus": "Beech Pond Cabin only"
+      },
+      {
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/kitchen.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "alt": "Kitchen",
+        "unitOrCampus": "Beech Pond Cabin only"
+      }
+    ],
+    "accessFailures": [
+      {
+        "url": "https://bluegraniteproperties.holidayfuture.com/",
+        "cause": "HTTP404 verified rendered Chrome error; working replacement retained"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "small local rental manager",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0060-cover.webp",
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/living-kitchen-hero.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "role": "cover",
+        "sha256": "86511e5bcbf7390b765b0270084879eff7c7f87431a857a9945cca36ed1c9c7d",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Beech Pond Cabin only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0060-000.webp",
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/primary-bedroom.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "role": "additional",
+        "sha256": "44194d56224a87cbf9f0d31cf8ad5f18f4e5c28b9f949683bf9f36deb042f3d9",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Beech Pond Cabin only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0060-001.webp",
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/bunk-room.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "role": "additional",
+        "sha256": "8a8612c978e81c3dbfda79db2ed7f7fff235b5b1ed140eed1e661a5b25dc687e",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Beech Pond Cabin only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0060-002.webp",
+        "url": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/kitchen.jpg",
+        "sourcePage": "https://www.bluegraniteproperties.com/properties/beech-pond-cabin/",
+        "role": "additional",
+        "sha256": "a20bd3ced51b6d5277f00fee6a27668398bc030dfb9c570865403e52be18f4ab",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Beech Pond Cabin only",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": []
+  },
+  {
+    "id": "NH-0061",
+    "name": "OTC Rentals",
+    "website": "https://otc-rentals.com/unit-2/",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Tourism listing has no website link. One focused reverse search identified published operator unit URL, which failed DNS.",
+    "classification": "small rental operator candidate",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1240",
+      "https://www.google.com/search?q=OTC+Rentals+Colebrook+NH+official",
+      "https://otc-rentals.com/unit-2/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "unverified directory address",
+      "street": "120 Main Street",
+      "city": "Colebrook",
+      "state": "NH",
+      "zip": "03576",
+      "source": "https://www.visitnh.gov/business/detail/1240",
+      "notes": "Search leads give121Main, conflict with120 directory. Official Contact inaccessible; address unresolved."
+    },
+    "bookingMethod": "Directory phone603-819-3643 only; direct website unavailable",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/1240",
+    "notes": "Search showed official Facebook snippet publishing otc-rentals.com/unit-2; snippet used only to find attempted operator URL, not verify facts.",
+    "description": "Colebrook rental operator listed in the state tourism directory.",
+    "descriptionSource": "https://www.visitnh.gov/business/detail/1240",
+    "platformCheckStatus": "Unable to check operator site",
+    "accessFailures": [
+      {
+        "url": "https://otc-rentals.com/unit-2/",
+        "cause": "net::ERR_NAME_NOT_RESOLVED"
+      }
+    ],
+    "remainingGaps": [
+      "Working operator website",
+      "Official Contact/address and eligibility checks"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "small rental operator candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "photoCandidates": [],
+    "photos": []
+  },
+  {
+    "id": "NH-0062",
+    "name": "Red Brook Retreat LLC / Red Brook Mountain Retreat",
+    "website": "https://www.slopestoshoresvaca.com/",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "OwnerRez-powered direct site describes owners' cabin in Jefferson with eight-guest vacation rental, contact email and direct book/inquiry controls.",
+    "classification": "individual property/host",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1084",
+      "https://www.slopestoshoresvaca.com/",
+      "https://www.slopestoshoresvaca.com/properties",
+      "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+      "https://www.slopestoshoresvaca.com/map"
+    ],
+    "contactPagesChecked": [
+      "https://www.slopestoshoresvaca.com/",
+      "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+      "https://www.slopestoshoresvaca.com/map"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Jefferson",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+      "notes": "Published Contact Us is mailto:info@slopestoshoresvaca.com, no separate Contact/About page. Property and map reviewed; exact street not shown.85RedBrookRd is directory-only, not independently established."
+    },
+    "bookingMethod": "Email info@slopestoshoresvaca.com, Book Now and property inquiry",
+    "bookingUrl": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx#inquire",
+    "operatorEvidenceUrl": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+    "notes": "Single-property direct catalog. First-person 'we love our cabin' and owner's closets establish small host context; Jeffrey Jefferson location described. Booking terms must be27or older. No messages sent.",
+    "description": "Three-bedroom Jefferson log cabin for eight guests with mountain views, hot tub, sauna and a game loft.",
+    "descriptionSource": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "8guests maximum;3full and1half bathrooms",
+      "kidsDetails": "Family friendly, playground/toys/toddler bed",
+      "petsDetails": "NO PETS expressly stated",
+      "priceFrom": 490,
+      "currency": "USD",
+      "priceDetails": "Published$490-824/night; variable dates;5+nights10%discount(max7nights)",
+      "sources": [
+        "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx"
+      ]
+    },
+    "photoCandidates": [
+      {
+        "url": "https://uc.orez.io/i/1bb5ab9e269b43268e89d5cfc012577d-Large",
+        "sourcePage": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+        "alt": "Covered porch and mountain views",
+        "unitOrCampus": "Red Brook Retreat"
+      },
+      {
+        "url": "https://uc.orez.io/i/cb5437ad372749468efaabfecc69cf11-Large",
+        "sourcePage": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+        "alt": "Outdoor sauna",
+        "unitOrCampus": "Red Brook Retreat"
+      },
+      {
+        "url": "https://uc.orez.io/i/f279d15858714e11aa211c2b71195686-Large",
+        "sourcePage": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+        "alt": "Main living dining and kitchen",
+        "unitOrCampus": "Red Brook Retreat"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property/host",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0062-cover.webp",
+        "url": "https://uc.orez.io/i/1bb5ab9e269b43268e89d5cfc012577d-Large",
+        "sourcePage": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+        "role": "cover",
+        "sha256": "a842761cee070ac62e85c6bf4d11118746fc03b83496671cede969aa207a0625",
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Red Brook Retreat",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0062-000.webp",
+        "url": "https://uc.orez.io/i/cb5437ad372749468efaabfecc69cf11-Large",
+        "sourcePage": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+        "role": "additional",
+        "sha256": "4a743e2f7b50fbed66ea44eb81c795dc8bf366742ed02be39fe3e923d846eaed",
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Red Brook Retreat",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0062-001.webp",
+        "url": "https://uc.orez.io/i/f279d15858714e11aa211c2b71195686-Large",
+        "sourcePage": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
+        "role": "additional",
+        "sha256": "6e91d5bdd64bd36cf2d84486cfd8774ec640cd3e82246b78cfb5f3eade161cda",
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Red Brook Retreat",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0063",
+    "name": "Golden Eagle Lodge",
+    "website": "https://goldeneaglelodge.com/",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Operator site offers individually owned condominium suites in Waterville Valley with full kitchens and direct phone/email/reservations.",
+    "classification": "individually owned condominium lodge campus",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/168",
+      "https://goldeneaglelodge.com/",
+      "https://goldeneaglelodge.com/about/"
+    ],
+    "contactPagesChecked": [
+      "https://goldeneaglelodge.com/",
+      "https://goldeneaglelodge.com/about/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "28 Packards Road",
+      "city": "Waterville Valley",
+      "state": "NH",
+      "zip": "03215",
+      "source": "https://goldeneaglelodge.com/about/",
+      "notes": "Published Contact Us footer; no separate contact page linked. Separately labeled mailing address POBox495, Waterville Valley NH03215."
+    },
+    "bookingMethod": "603-236-4600, info@goldeneaglelodgeresort.com and direct reservation portal",
+    "bookingUrl": "https://goldeneaglelodgereservations.com/irmng/#/",
+    "operatorEvidenceUrl": "https://goldeneaglelodge.com/",
+    "notes": "Home says suites individually owned and decorated;1bedroom,2bedroom,lofts/towers. About says139condominium suites. Do not use unit facts as campus capacity.",
+    "description": "Individually owned condominium suites with full kitchens in the center of Waterville Valley.",
+    "descriptionSource": "https://goldeneaglelodge.com/",
+    "photoCandidates": [
+      {
+        "url": "https://goldeneaglelodge.com/wp-content/uploads/2017/09/IMG_1688-e1507730762643.jpg",
+        "sourcePage": "https://goldeneaglelodge.com/about/",
+        "alt": "About",
+        "unitOrCampus": "Golden Eagle Lodge shared campus"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individually owned condominium lodge campus",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0063-cover.webp",
+        "url": "https://goldeneaglelodge.com/wp-content/uploads/2017/09/IMG_1688-e1507730762643.jpg",
+        "sourcePage": "https://goldeneaglelodge.com/about/",
+        "role": "cover",
+        "sha256": "ef3f9f75242576e6ae5fc82a17e78da4fd6e7f2626697a283e8f72df810ab188",
+        "width": 676,
+        "height": 551,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Golden Eagle Lodge shared campus",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0064",
+    "name": "Trailhead Getaway",
+    "website": "Unknown",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Opened state-listed Airbnb destination verifies Gorham rental identity/local host; no operator-controlled direct site or direct inquiry destination verified outside booking platform.",
+    "classification": "individual property candidate; platform listing only",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1138",
+      "https://www.airbnb.com/rooms/17367994?guests=1&adults=1&s=40&unique_share_id=8944f918-fdd0-4d91-b5ce-b034c9dc8cc2&fbclid=IwZXh0bgNhZW0CMTAAAR1TcGglcvy8E84K82mivfkvWCIKJHeeH4V7lDV_cA8kNPoYn1tnuM2c2uM_aem_AYQDR5FjsvqvBVvJ5-hHjo8XcovZR9L6gjFWRxXNQ2qokJA-PodIox1SgnJeQrBT2owhxH9R4LJWkURWcJDSUg6H&_branch_match_id=1324353381199669053&_branch_referrer=H4sIAAAAAAAAAwXBbXOCIAAA4F%2FUTM4a7W63o1wipZdkYn7xBAnyjVVG9u%2F3PHoc%2Fx5fjlPxgX%2F00gnQfQymqs5r%2FnPhorvW3%2BGryPWcq1gXbL6JUoQQdVMRqE7YN%2FyF3g6C%2FmovrWWbcEewlNjLPjs%2FKwWCbXww58Edh2cEBHhGZSX7Ep0Tny62zcPe7DqzZDHTuDEwF8YWdLVfqmbL6JTHCbiZlqDZwdShmdyjGohM7usUmJee8Ip6e8LaE2WC%2BMeTWuJ%2FscrtS80AAAA%3D&source_impression_id=p3_1716988740_Oc2coZAGs5iuvtd8",
+      "https://www.google.com/search?q=%22Trailhead+Getaway%22+Gorham+direct+booking"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "not publicly disclosed on operator website",
+      "street": "Unknown",
+      "city": "Gorham",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://www.airbnb.com/rooms/17367994",
+      "notes": "Airbnb exact location after booking. Directory364MainSt not verified on operator Contact. No independent Contact/About page found."
+    },
+    "bookingMethod": "Airbnb booking/message host; directory email trailheadgetaway@gmail.com not independently verified",
+    "bookingUrl": "https://www.airbnb.com/rooms/17367994",
+    "operatorEvidenceUrl": "https://www.airbnb.com/rooms/17367994",
+    "notes": "Airbnb title Trailhead Getaway! Park your car for the weekend! Entire home Gorham; hosted Megan lives Raymond NH. Platform listing alone does not qualify as operator direct site.",
+    "description": "Gorham vacation house listed on Airbnb with three bedrooms and a fenced yard.",
+    "descriptionSource": "https://www.airbnb.com/rooms/17367994",
+    "platformLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/rooms/17367994?guests=1&adults=1&s=40&unique_share_id=8944f918-fdd0-4d91-b5ce-b034c9dc8cc2&fbclid=IwZXh0bgNhZW0CMTAAAR1TcGglcvy8E84K82mivfkvWCIKJHeeH4V7lDV_cA8kNPoYn1tnuM2c2uM_aem_AYQDR5FjsvqvBVvJ5-hHjo8XcovZR9L6gjFWRxXNQ2qokJA-PodIox1SgnJeQrBT2owhxH9R4LJWkURWcJDSUg6H&_branch_match_id=1324353381199669053&_branch_referrer=H4sIAAAAAAAAAwXBbXOCIAAA4F%2FUTM4a7W63o1wipZdkYn7xBAnyjVVG9u%2F3PHoc%2Fx5fjlPxgX%2F00gnQfQymqs5r%2FnPhorvW3%2BGryPWcq1gXbL6JUoQQdVMRqE7YN%2FyF3g6C%2FmovrWWbcEewlNjLPjs%2FKwWCbXww58Edh2cEBHhGZSX7Ep0Tny62zcPe7DqzZDHTuDEwF8YWdLVfqmbL6JTHCbiZlqDZwdShmdyjGohM7usUmJee8Ip6e8LaE2WC%2BMeTWuJ%2FscrtS80AAAA%3D&source_impression_id=p3_1716988740_Oc2coZAGs5iuvtd8",
+        "sourcePage": "https://www.visitnh.gov/business/detail/1138",
+        "checkedOn": "2026-10-26",
+        "verifiedMatchingIdentity": true,
+        "notes": "Exact source link includes query parameters; identity matched opened Trailhead Getaway in Gorham. Canonical room id retained; full source query in native directory evidence.",
+        "canonicalUrl": "https://www.airbnb.com/rooms/17367994"
+      }
+    ],
+    "platformCheckStatus": "Verified matching Airbnb; no operator-controlled website found",
+    "supportedFacts": {
+      "guests": 12,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Airbnb header12guests/3bedrooms/5beds/2baths",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Airbnb Pets allowed",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Dates required",
+      "sources": [
+        "https://www.airbnb.com/rooms/17367994"
+      ]
+    },
+    "remainingGaps": [
+      "Operator-controlled direct website",
+      "Official Contact/address review",
+      "Direct booking/inquiry outside platform"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property candidate; platform listing only",
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0065",
+    "name": "Big Bear Log Home at Newfound Lake",
+    "website": "https://www.newfoundlakeloghomerentals.com/bigbear",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Property and Your Hosts pages establish personally built/owned vacation log home with direct email, phone and inquiry form.",
+    "classification": "individual property/host",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1161",
+      "https://www.newfoundlakeloghomerentals.com/bigbear",
+      "https://www.newfoundlakeloghomerentals.com/your-hosts",
+      "http://airbnb.com/h/bigbearloghome",
+      "https://www.airbnb.com/rooms/1030985500800947213?source_impression_id=p3_1793051615_P3W3u8DlD8yQqYBV"
+    ],
+    "contactPagesChecked": [
+      "https://www.newfoundlakeloghomerentals.com/bigbear",
+      "https://www.newfoundlakeloghomerentals.com/your-hosts"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Hebron",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://www.newfoundlakeloghomerentals.com/bigbear",
+      "notes": "No standalone Contact link; official email/phone and Let's Connect form on property/Your Hosts pages. Exact street not published;60GeorgeRoad is directory only."
+    },
+    "bookingMethod": "Email newfoundlakeloghomerentals@gmail.com, call/text6035568350, Let's Connect form; Airbnb pricing link",
+    "bookingUrl": "mailto:newfoundlakeloghomerentals@gmail.com?subject=Newfound%20Lake%20Log%20Home%20Rental%20Inquiry",
+    "operatorEvidenceUrl": "https://www.newfoundlakeloghomerentals.com/your-hosts",
+    "notes": "Your Hosts describes building personal retirement home Eagle Ridge then Big Bear on nearby6+acres. Big Bear page has reused Eagle Ridge social/footer Airbnb51761764 and Vrbo2510514 links; do NOT badge Big Bear with those. Correct Big Bear pricing link airbnb.com/h/bigbearloghome opened to1030985500800947213, matched cabin10guests/4br/3bath.",
+    "description": "Four-bedroom Hebron log home for ten guests on 6.7 acres overlooking Newfound Lake.",
+    "descriptionSource": "https://www.newfoundlakeloghomerentals.com/bigbear",
+    "supportedFacts": {
+      "guests": 10,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Max10including children",
+      "kidsDetails": "Designed for families; kids bunk room/toddler bed",
+      "petsDetails": "NO PETS",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Dates required",
+      "sources": [
+        "https://www.newfoundlakeloghomerentals.com/bigbear"
+      ]
+    },
+    "platformLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "http://airbnb.com/h/bigbearloghome",
+        "resolvedUrl": "https://www.airbnb.com/rooms/1030985500800947213?source_impression_id=p3_1793051615_P3W3u8DlD8yQqYBV",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "checkedOn": "2026-10-26",
+        "verifiedMatchingIdentity": true
+      }
+    ],
+    "platformCheckStatus": "Matching Big Bear Airbnb verified; reused Eagle Ridge Airbnb/Vrbo links excluded",
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/d1b0ce_e5b47c7fbff4408c9fc4b8a6d486a799~mv2.jpg/v1/fill/w_3534,h_1340,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/d1b0ce_e5b47c7fbff4408c9fc4b8a6d486a799~mv2.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "alt": "Big-Big-Log-Home-1.jpg",
+        "unitOrCampus": "Big Bear only"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/d1b0ce_5527bdc5271247899f9304e058d5f146~mv2.jpg/v1/crop/x_0,y_106,w_2250,h_2787/fill/w_536,h_664,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5628_edited_edited.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "alt": "Bedroom",
+        "unitOrCampus": "Big Bear only"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/d1b0ce_17a8d87a9bb34196955563b5b4af329a~mv2.jpg/v1/crop/x_0,y_106,w_2250,h_2787/fill/w_536,h_664,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5573_edited.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "alt": "Living room",
+        "unitOrCampus": "Big Bear only"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property/host",
+    "photos": [
+      {
+        "file": "images/NH-0065-cover.webp",
+        "url": "https://static.wixstatic.com/media/d1b0ce_e5b47c7fbff4408c9fc4b8a6d486a799~mv2.jpg/v1/fill/w_3534,h_1340,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/d1b0ce_e5b47c7fbff4408c9fc4b8a6d486a799~mv2.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "role": "cover",
+        "sha256": "857c7197558707bc3424234499d01be541fbccafe7caaf649169c386ef851951",
+        "width": 1600,
+        "height": 607,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Big Bear only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0065-000.webp",
+        "url": "https://static.wixstatic.com/media/d1b0ce_5527bdc5271247899f9304e058d5f146~mv2.jpg/v1/crop/x_0,y_106,w_2250,h_2787/fill/w_536,h_664,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5628_edited_edited.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "role": "additional",
+        "sha256": "2b79a39adb3aadc860d174efe76a95539b20a738c42a08b06dea19106d5d170a",
+        "width": 536,
+        "height": 664,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Big Bear only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0065-001.webp",
+        "url": "https://static.wixstatic.com/media/d1b0ce_17a8d87a9bb34196955563b5b4af329a~mv2.jpg/v1/crop/x_0,y_106,w_2250,h_2787/fill/w_536,h_664,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_5573_edited.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "role": "additional",
+        "sha256": "8f0a8c6a7cb101bf75dadd36c6250b23395e655957e51af5fcc889b19e9465f2",
+        "width": 536,
+        "height": 664,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Big Bear only",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0066",
+    "name": "Dolan Real Estate",
+    "website": "https://www.dolanre.com/",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Working family-owned local real estate site and office contact verified, but current opened operator pages advertise sales and did not verify vacation rental offerings.",
+    "classification": "local real estate/rental-manager candidate",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1192",
+      "https://dolanre.com/",
+      "https://www.dolanre.com/contact-us/"
+    ],
+    "contactPagesChecked": [
+      "https://www.dolanre.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "474 RT11",
+      "city": "Sunapee",
+      "state": "NH",
+      "zip": "03782",
+      "source": "https://www.dolanre.com/contact-us/",
+      "notes": "Explicit Office Location; separately POBox61 SunapeeNH03782 mailing. Not rental entrance."
+    },
+    "bookingMethod": "Contact form/6037636033/manager@dolanre.com; vacation-specific destination not verified",
+    "bookingUrl": "https://www.dolanre.com/contact-us/",
+    "operatorEvidenceUrl": "https://www.dolanre.com/",
+    "notes": "Directory has malformed relative Website(dolanre.com) corrected to published host. Directory describes short/longterm rental services; current official home explicitly family owned/locally owned but no rental links found among DOM anchors. Preserve candidate rather than infer closure.",
+    "description": "Family-owned Sunapee real estate firm; vacation-rental offerings remain unverified on its current site.",
+    "descriptionSource": "https://www.dolanre.com/",
+    "remainingGaps": [
+      "Current short-term rental catalog/offering",
+      "Vacation booking/inquiry destination",
+      "Rental-specific facts/photos"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "local real estate/rental-manager candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0067",
+    "name": "The Crimson Cocoa Chalet",
+    "website": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Hostaway direct site verifies Bartlett vacation chalet and host Daniella & Patrick; direct footer email available.",
+    "classification": "individual property/small host",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1440",
+      "https://dmtravelvibes.holidayfuture.com/listings/415400",
+      "https://dmtravelvibes.holidayfuture.com/about-us"
+    ],
+    "contactPagesChecked": [
+      "https://dmtravelvibes.holidayfuture.com/about-us",
+      "https://dmtravelvibes.holidayfuture.com/listings/415400"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Bartlett",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+      "notes": "No standalone Contact link; About and official email footer reviewed. Exact address not publicly visible;168LinderhofStrasse directory-only."
+    },
+    "bookingMethod": "Direct email daniellamorganelli@gmail.com; site availability calendar",
+    "bookingUrl": "mailto:daniellamorganelli@gmail.com",
+    "operatorEvidenceUrl": "https://dmtravelvibes.holidayfuture.com/about-us",
+    "notes": "About heading Daniella & Patrick matches state-directory small hosts with4properties/7years experience. Listing suitable children/pets allowed. Direct availability widget initially skeleton; email provides working inquiry path.",
+    "description": "Four-bedroom Swiss-style Bartlett chalet for twelve guests, with a hot tub and game room near Story Land.",
+    "descriptionSource": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+    "supportedFacts": {
+      "guests": 12,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Listing header12guests4br2bath",
+      "kidsDetails": "Suitable for children",
+      "petsDetails": "Pets allowed; full restrictions not checked",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "sources": [
+        "https://dmtravelvibes.holidayfuture.com/listings/415400"
+      ]
+    },
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-x4pECI-ub0RGpHiAd6EAyUHQxe8oDqeHsNVHj4yjkj8-6acf94a688896?width=1920&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "alt": "Property gallery1",
+        "unitOrCampus": "Crimson Cocoa Chalet"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-ISlIovtBXPnmLV6IIhoW7cHq-F--MY8Ltp--8PzFhCgO8-6acf94aaa5418?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "alt": "Property gallery2",
+        "unitOrCampus": "Crimson Cocoa Chalet"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-nzODbw0EpJL808TGOZi1fVupDCAY9qf6G-UU1So-FHQ-6acf94ac9eb3f?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "alt": "Property gallery3",
+        "unitOrCampus": "Crimson Cocoa Chalet"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-6--wfeNJsgMHSgx5rNlv-idDkN8ywqytb9WCiP-cnm2U-6acf94ae96bd8?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "alt": "Property gallery4",
+        "unitOrCampus": "Crimson Cocoa Chalet"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property/small host",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0067-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-x4pECI-ub0RGpHiAd6EAyUHQxe8oDqeHsNVHj4yjkj8-6acf94a688896?width=1920&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "role": "cover",
+        "sha256": "355a33e168a29a618e03530ebd85962adda1c7938eb378b6eb4f20b4299dbd79",
+        "width": 1600,
+        "height": 1068,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Crimson Cocoa Chalet",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0067-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-ISlIovtBXPnmLV6IIhoW7cHq-F--MY8Ltp--8PzFhCgO8-6acf94aaa5418?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "role": "additional",
+        "sha256": "e27066ed098bd6112df2f85168340e6a648f913c4009c2f84e6d2630afbf6240",
+        "width": 1080,
+        "height": 721,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Crimson Cocoa Chalet",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0067-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-nzODbw0EpJL808TGOZi1fVupDCAY9qf6G-UU1So-FHQ-6acf94ac9eb3f?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "role": "additional",
+        "sha256": "6277cb7630eb5c752c3fa8577db55e41c46aacd78be76e8fb9e928cbab016815",
+        "width": 1080,
+        "height": 721,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Crimson Cocoa Chalet",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0067-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/158158-415400-6--wfeNJsgMHSgx5rNlv-idDkN8ywqytb9WCiP-cnm2U-6acf94ae96bd8?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "role": "additional",
+        "sha256": "16d39403395afb6c4abc9c46ce3bd120d602ee75de88c7e4dd3cc2825da4bb1e",
+        "width": 1080,
+        "height": 721,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Crimson Cocoa Chalet",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0068",
+    "name": "Enchanted Forest Retreat (Turner Holding Company LLC)",
+    "website": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Directory gives no website. Related operator wellness page matches property name/region and telephone, but opened page does not establish current overnight rental offer or accommodation booking.",
+    "classification": "wellness retreat/accommodation candidate",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1295",
+      "https://www.google.com/search?q=%22Enchanted+Forest+Retreat%22+Newbury+NH",
+      "https://www.educise.com/tag/newbury/",
+      "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+      "https://www.educise.com/contact/"
+    ],
+    "contactPagesChecked": [
+      "https://www.educise.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "mailing address",
+      "street": "POBox498",
+      "city": "Newbury",
+      "state": "NH",
+      "zip": "03255",
+      "source": "https://www.educise.com/contact/",
+      "notes": "Educise PC mailing address, not rental entrance. Directory104RichardsRd not verified on operator website."
+    },
+    "bookingMethod": "Related operator email Info@Educise.com and6318278219; overnight booking not established",
+    "bookingUrl": "https://www.educise.com/contact/",
+    "operatorEvidenceUrl": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+    "notes": "Current Educise page markets nature/healing retreat in Sunapee region, not overnight rental details. Same6318278219 as state tourism. Search yielded Vrbo1817955 lead but no independent lodging detail verified. Initial automated browser-check page resolved without intervention.",
+    "description": "Newbury retreat lead with a related wellness-operator website; current overnight-rental eligibility remains incomplete.",
+    "descriptionSource": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+    "remainingGaps": [
+      "Current overnight accommodation offer",
+      "Independent rental identity and booking evidence",
+      "Rental property address",
+      "Photos"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "wellness retreat/accommodation candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0069",
+    "name": "Northstead Retreat",
+    "website": "https://northsteadretreat.com/",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own site identifies Goshen private retreat and direct email inquiry; linked Airbnb confirms host Andrew's private retreat and matching27-acre home.",
+    "classification": "individual property/host",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/2098",
+      "https://northsteadretreat.com/",
+      "https://northsteadretreat.com/flexible-retreat-access",
+      "https://www.airbnb.com/rooms/1627662823619305043?source_impression_id=p3_1793051746_P3E6dffA0n7Eg_p8"
+    ],
+    "contactPagesChecked": [
+      "https://northsteadretreat.com/",
+      "https://northsteadretreat.com/flexible-retreat-access"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Goshen",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://northsteadretreat.com/",
+      "notes": "Published CONNECT email, no Contact/About link. Access page and footer reviewed. Airbnb exact location after booking.119LempsterCoachRd only directory, not official site published."
+    },
+    "bookingMethod": "support@admiralventures.co direct inquiry; Airbnb for standard stays; direct access-program inquiry",
+    "bookingUrl": "mailto:support@admiralventures.co",
+    "operatorEvidenceUrl": "https://www.airbnb.com/rooms/1627662823619305043",
+    "notes": "Airbnb host Andrew describes this as my private retreat. Own site offers flexible14/21/28annual-day program as well as standard Airbnb stays; do not confuse annual allocations with capacity. Automated browser check resolved; one CDP observation timeout then native AX read.",
+    "description": "Scandinavian-inspired three-bedroom cabin on 27 wooded acres in Goshen near Mount Sunapee.",
+    "descriptionSource": "https://northsteadretreat.com/",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Airbnb7guests3br5beds1bath",
+      "kidsDetails": "Own site markets families",
+      "petsDetails": "Access marketing mentions dogs but formal policy unverified",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "sources": [
+        "https://www.airbnb.com/rooms/1627662823619305043",
+        "https://northsteadretreat.com/"
+      ]
+    },
+    "platformLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/rooms/1627662823619305043",
+        "sourcePage": "https://northsteadretreat.com/",
+        "checkedOn": "2026-10-26",
+        "verifiedMatchingIdentity": true
+      }
+    ],
+    "platformCheckStatus": "Matching Airbnb verified; no Vrbo/Booking found",
+    "photoCandidates": [
+      {
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/9064e0e890097d876996592596acb77d.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "alt": "Open concept living space",
+        "unitOrCampus": "Northstead"
+      },
+      {
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/370a67b20f9a971c00ba7bd6bb22776d.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "alt": "Bedroom vaulted ceiling",
+        "unitOrCampus": "Northstead"
+      },
+      {
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/e431436697db4dce348caf88794a6dab.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "alt": "27 Private Acres",
+        "unitOrCampus": "Northstead"
+      },
+      {
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/bf3a29ca3ec501833bc81b17e581d8ff.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "alt": "Gather Without Effort",
+        "unitOrCampus": "Northstead"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property/host",
+    "photos": [
+      {
+        "file": "images/NH-0069-cover.webp",
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/9064e0e890097d876996592596acb77d.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "role": "cover",
+        "sha256": "a745b5571be770621299d873729ddaec2a315add842bb05d162acc6872b678f4",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Northstead",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0069-000.webp",
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/370a67b20f9a971c00ba7bd6bb22776d.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "role": "additional",
+        "sha256": "407cff64b3db864d4a592c9ecc2fe06d02493de728c91241450fd810bbce6d1e",
+        "width": 1600,
+        "height": 1066,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Northstead",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0069-001.webp",
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/e431436697db4dce348caf88794a6dab.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "role": "additional",
+        "sha256": "fa1095efd8b621087b4219290d6090c920aaf032ac9ce5dd7f5996faa91de290",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Northstead",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0069-002.webp",
+        "url": "https://horizons-cdn.hostinger.com/ffa2bfad-b72d-4ba5-8b48-bec92bf68df7/bf3a29ca3ec501833bc81b17e581d8ff.jpg",
+        "sourcePage": "https://northsteadretreat.com/",
+        "role": "additional",
+        "sha256": "96979d267fcf771fc380af1eb0dba5f8d0366dfd7888c048727d7f8e37bfbd80",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Northstead",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0070",
+    "name": "Eagle Ridge Log Home",
+    "website": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own property and shared Your Hosts pages establish personally owned retirement log home vacation rental with direct email/phone/inquiry.",
+    "classification": "individual property/host",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1034",
+      "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+      "https://www.newfoundlakeloghomerentals.com/your-hosts",
+      "https://www.airbnb.com/rooms/51761764?federated_search_id=4c77ab70-e306-46ae-adae-b6a2b3ecb0b9&source_impression_id=p3_1636305866_5ze1JzL7%2BF6yKo6w&guests=1&adults=1",
+      "https://www.vrbo.com/2510514?noDates=true&unitId=3080376"
+    ],
+    "contactPagesChecked": [
+      "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+      "https://www.newfoundlakeloghomerentals.com/your-hosts"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Hebron",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+      "notes": "Official property/Your Hosts email/phone and inquiry form reviewed; no standalone Contact page.80GeorgeRoad directory only; exact official street unavailable."
+    },
+    "bookingMethod": "Email newfoundlakeloghomerentals@gmail.com, call/text6035568350 and Let's Connect form",
+    "bookingUrl": "mailto:newfoundlakeloghomerentals@gmail.com?subject=Newfound%20Lake%20Log%20Home%20Rental%20Inquiry",
+    "operatorEvidenceUrl": "https://www.newfoundlakeloghomerentals.com/your-hosts",
+    "notes": "Distinct property from nearby Big Bear, same owner. Main Eagle pricing Airbnb51761764 and footerVrbo2510514. Some gallery outbound links point to Big Bear1030985500800947213; do not assign to Eagle. Direct site street not public.",
+    "description": "Three-bedroom Hebron log home for six guests on 3.5 acres overlooking Newfound Lake.",
+    "descriptionSource": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Maximum6guests",
+      "kidsDetails": "Property described for families",
+      "petsDetails": "NO PETS",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Dates required",
+      "sources": [
+        "https://www.newfoundlakeloghomerentals.com/eagle-ridge"
+      ]
+    },
+    "platformLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/rooms/51761764?federated_search_id=4c77ab70-e306-46ae-adae-b6a2b3ecb0b9&source_impression_id=p3_1636305866_5ze1JzL7%2BF6yKo6w&guests=1&adults=1",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "verifiedMatchingIdentity": true,
+        "checkedOn": "2026-10-26",
+        "notes": "Opened destination explicitly names Eagle Ridge in Hebron,6guests/3bedrooms/2baths; hostJen/JenReardon."
+      },
+      {
+        "platform": "Vrbo",
+        "url": "https://www.vrbo.com/2510514?noDates=true&unitId=3080376",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "verifiedMatchingIdentity": true,
+        "checkedOn": "2026-10-26",
+        "notes": "Opened destination explicitly names Eagle Ridge in Hebron,6guests/3bedrooms/2baths; hostJen/JenReardon."
+      }
+    ],
+    "platformCheckStatus": "Matching Airbnb and Vrbo verified; unrelated BigBear gallery links excluded",
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/6406a2_a340c25eb21d4e86a917309d9de541e3~mv2.jpg/v1/fill/w_3534,h_1360,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6406a2_a340c25eb21d4e86a917309d9de541e3~mv2.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "alt": "Eagle Ridge-2.jpg",
+        "unitOrCampus": "Eagle Ridge only"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/d1b0ce_a7f8983e4d2a4c0d94b8aed1e6477628~mv2.jpg/v1/crop/x_0,y_143,w_3024,h_3747/fill/w_516,h_642,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20Oct%2023%2C%202%2023%2005%20PM.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "alt": "Kitchen and living area",
+        "unitOrCampus": "Eagle Ridge only"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/d1b0ce_33e10ebbd8634675a3569c9074d0e9ac~mv2.jpg/v1/crop/x_796,y_0,w_2441,h_3024/fill/w_516,h_642,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20May%2030%2C%2012%2014%2027%20PM.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "alt": "Kitchen",
+        "unitOrCampus": "Eagle Ridge only"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property/host",
+    "photos": [
+      {
+        "file": "images/NH-0070-cover.webp",
+        "url": "https://static.wixstatic.com/media/6406a2_a340c25eb21d4e86a917309d9de541e3~mv2.jpg/v1/fill/w_3534,h_1360,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/6406a2_a340c25eb21d4e86a917309d9de541e3~mv2.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "role": "cover",
+        "sha256": "fe87efa5d6de91115038c37b31c2c53a3eae296f32ae164c354ecd4a402e24ce",
+        "width": 1600,
+        "height": 616,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Eagle Ridge only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0070-000.webp",
+        "url": "https://static.wixstatic.com/media/d1b0ce_a7f8983e4d2a4c0d94b8aed1e6477628~mv2.jpg/v1/crop/x_0,y_143,w_3024,h_3747/fill/w_516,h_642,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20Oct%2023%2C%202%2023%2005%20PM.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "role": "additional",
+        "sha256": "be9cc5aa0ac05f80c8008bcc5137c60eaf72e18659d0433bdaeba54db2d5fc2b",
+        "width": 516,
+        "height": 642,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Eagle Ridge only",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0070-001.webp",
+        "url": "https://static.wixstatic.com/media/d1b0ce_33e10ebbd8634675a3569c9074d0e9ac~mv2.jpg/v1/crop/x_796,y_0,w_2441,h_3024/fill/w_516,h_642,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Photo%20May%2030%2C%2012%2014%2027%20PM.jpg",
+        "sourcePage": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "role": "additional",
+        "sha256": "18d4253b840b15a3a171150f445365a2c5a75f9c7b40b4a0fc3b06e3001ea6aa",
+        "width": 516,
+        "height": 642,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Eagle Ridge only",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0071",
+    "name": "Village Place at the Eastern Slope Inn Resort",
+    "website": "https://easternslopeinn.com/lodging/village-place/",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own site offers Village Place cottage suites in North Conway with direct reservations/contact. Linked operator Berry Companies expressly family-run regional business.",
+    "classification": "small lodge/cottage-suite campus",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/428",
+      "https://easternslopeinn.com/lodging/village-place/",
+      "https://easternslopeinn.com/about/contact-us/",
+      "https://berry-cos.com/"
+    ],
+    "contactPagesChecked": [
+      "https://easternslopeinn.com/about/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "operator main resort/contact campus",
+      "street": "2760 White Mountain Highway",
+      "city": "North Conway",
+      "state": "NH",
+      "zip": "03860",
+      "source": "https://easternslopeinn.com/about/contact-us/",
+      "notes": "This is Eastern Slope main resort address. Village Place page explicitly half-mile from main resort. Do not assign this address to Village Place entrance;170KearsargeSt only tourism source."
+    },
+    "bookingMethod": "Direct reservation phone1-833-Stay-ESI and contact form, reservation portal",
+    "bookingUrl": "https://rdp.amscoinc.net/irmng/index.html?resort=01&newSession=true",
+    "operatorEvidenceUrl": "https://berry-cos.com/",
+    "notes": "Berry family-run business developed MtWashingtonValley lodging since1976. Village Place offers StandardQueen2-4guests/mini kitchen and CottageSuite2-4guests/partial kitchen. Decor/layout can vary. Footer Airbnb host-profile126932712 is operator-level, not verified Village Place listing.",
+    "description": "North Conway lodging campus with dog-friendly rooms and cottage suites with partial kitchens, near Eastern Slope Inn.",
+    "descriptionSource": "https://easternslopeinn.com/lodging/village-place/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Listed Standard Queen and Cottage Suite options2-4guests each; not campus total",
+      "kidsDetails": "Marketing to families",
+      "petsDetails": "Designated dog-friendly accommodation; separate dog policy not yet read",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "sources": [
+        "https://easternslopeinn.com/lodging/village-place/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Official site links Airbnb host profile126932712; individual Village Place attribution unverified, no badge",
+    "photoCandidates": [
+      {
+        "url": "https://easternslopeinn.com/wp-content/uploads/2023/06/IMG_1781-Canva-edited.webp",
+        "sourcePage": "https://easternslopeinn.com/lodging/village-place/",
+        "alt": "Cottage King Bed",
+        "unitOrCampus": "Village Place Cottage Suite category; exact unit can vary"
+      },
+      {
+        "url": "https://easternslopeinn.com/wp-content/uploads/2023/06/DSC_0160-HDR-Canva-edited.webp",
+        "sourcePage": "https://easternslopeinn.com/lodging/village-place/",
+        "alt": "Cottage kitchen",
+        "unitOrCampus": "Village Place Cottage Suite category; exact unit can vary"
+      },
+      {
+        "url": "https://easternslopeinn.com/wp-content/uploads/2023/06/DSC_0186-HDR-Canva-edited.webp",
+        "sourcePage": "https://easternslopeinn.com/lodging/village-place/",
+        "alt": "Cottage layout",
+        "unitOrCampus": "Village Place Cottage Suite category; exact unit can vary"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small lodge/cottage-suite campus",
+    "photos": [
+      {
+        "file": "images/NH-0071-cover.webp",
+        "url": "https://easternslopeinn.com/wp-content/uploads/2023/06/IMG_1781-Canva-edited.webp",
+        "sourcePage": "https://easternslopeinn.com/lodging/village-place/",
+        "role": "cover",
+        "sha256": "9eb2a985272267de7112c6a18f5bcf4dc597890701acef3197993daaaaca1a54",
+        "width": 800,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Village Place Cottage Suite category; exact unit can vary",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0071-000.webp",
+        "url": "https://easternslopeinn.com/wp-content/uploads/2023/06/DSC_0160-HDR-Canva-edited.webp",
+        "sourcePage": "https://easternslopeinn.com/lodging/village-place/",
+        "role": "additional",
+        "sha256": "a1a53338df4b24216c315723d937c64957a9392489817581035d0f60e1c674d0",
+        "width": 800,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Village Place Cottage Suite category; exact unit can vary",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0071-001.webp",
+        "url": "https://easternslopeinn.com/wp-content/uploads/2023/06/DSC_0186-HDR-Canva-edited.webp",
+        "sourcePage": "https://easternslopeinn.com/lodging/village-place/",
+        "role": "additional",
+        "sha256": "554d8e92a7a42ac3e2b2b0f4b3c0ede72e0b73328f168a5e8dd58ad91335a576",
+        "width": 800,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Village Place Cottage Suite category; exact unit can vary",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0072",
+    "name": "Newfound Lake & Ski House",
+    "website": "https://staynewfoundlake.com/",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Lodgify own site gives contact host Vanessa Wilson, direct inquiry form/checkout and personal family ownership story for Newfound Lake vacation home.",
+    "classification": "individual property/host",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/2085",
+      "https://staynewfoundlake.com/",
+      "https://staynewfoundlake.com/en/contact",
+      "https://staynewfoundlake.com/en/our-story",
+      "https://staynewfoundlake.com/en/map"
+    ],
+    "contactPagesChecked": [
+      "https://staynewfoundlake.com/en/contact",
+      "https://staynewfoundlake.com/en/our-story",
+      "https://staynewfoundlake.com/en/map"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Hebron",
+      "state": "NH",
+      "zip": "Unknown",
+      "source": "https://staynewfoundlake.com/en/map",
+      "notes": "Contact/OurStory/map opened; map heading Location but no street in rendered text.16LoonIslandLane remains directory-only, not official property address."
+    },
+    "bookingMethod": "Booking inquiry form, host email vanla227@gmail.com, Lodgify checkout",
+    "bookingUrl": "https://checkout.lodgify.com/en/loonlifecove/735590/reservation?currency=USD",
+    "operatorEvidenceUrl": "https://staynewfoundlake.com/en/our-story",
+    "notes": "Personal family home shared when family absent; named host Vanessa Wilson. Home says4bedrooms/2full baths, private beach/kayaks/paddleboards/hot tub. Capacity/pets not checked.",
+    "description": "Family-owned four-bedroom Newfound Lake waterfront house with a private beach, hot tub and paddling equipment.",
+    "descriptionSource": "https://staynewfoundlake.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Home says family-friendly spaces",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "sources": [
+        "https://staynewfoundlake.com/"
+      ]
+    },
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/5a3cc008-18e5-41c6-9631-a23a47fd9bca.png?w=1920",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "alt": "Hero1",
+        "unitOrCampus": "Newfound Lake & Ski House"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/cf7bd812-b8d8-4012-bf2e-bb66b7ce2f8f.png?w=1920",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "alt": "Hero2",
+        "unitOrCampus": "Newfound Lake & Ski House"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/7a7d2dfe-2511-4afa-ac08-6a0f4db002fc.jpg?w=1920",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "alt": "Hero3",
+        "unitOrCampus": "Newfound Lake & Ski House"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/b1e88c95-91fe-464c-9e1c-b5093fe2b8ac.jpg?w=992",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "alt": "Property image",
+        "unitOrCampus": "Newfound Lake & Ski House"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual property/host",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0072-cover.webp",
+        "url": "https://l.icdbcdn.com/oh/5a3cc008-18e5-41c6-9631-a23a47fd9bca.png?w=1920",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "role": "cover",
+        "sha256": "59c027a76f48fec1fd5c9126cd2db00f0f7071b7a56141a813891b627160141b",
+        "width": 1600,
+        "height": 675,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Newfound Lake & Ski House",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0072-000.webp",
+        "url": "https://l.icdbcdn.com/oh/cf7bd812-b8d8-4012-bf2e-bb66b7ce2f8f.png?w=1920",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "role": "additional",
+        "sha256": "9fcd6c1fc6fb5a0e8e439e71409351c2e14025c36beda8713df87af80ff33498",
+        "width": 1600,
+        "height": 675,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Newfound Lake & Ski House",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0072-001.webp",
+        "url": "https://l.icdbcdn.com/oh/7a7d2dfe-2511-4afa-ac08-6a0f4db002fc.jpg?w=1920",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "role": "additional",
+        "sha256": "df954925544fdc4caef7d9e2ac22af9401dd7d8df4953473605c89675bcadb1e",
+        "width": 1200,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Newfound Lake & Ski House",
+        "visuallyCheckedOn": "2026-10-26"
+      },
+      {
+        "file": "images/NH-0072-002.webp",
+        "url": "https://l.icdbcdn.com/oh/b1e88c95-91fe-464c-9e1c-b5093fe2b8ac.jpg?w=992",
+        "sourcePage": "https://staynewfoundlake.com/",
+        "role": "additional",
+        "sha256": "04e1e451012a5c1ed676144f8b18bffc7e36126e12a4d419dadabe5e8fa6c301",
+        "width": 992,
+        "height": 620,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Newfound Lake & Ski House",
+        "visuallyCheckedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0073",
+    "name": "Roper Real Estate LLC",
+    "website": "https://www.roperre.com/",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Family-owned local operator/contact verified, but opened rentals catalog advertises seasonal escapes and monthly rentals, without verified short-term vacation stay offering.",
+    "classification": "local real estate/rental manager candidate",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/628",
+      "https://www.roperre.com/",
+      "https://www.roperre.com/homes-for-rent-in-waterville-valley-nh",
+      "https://www.roperre.com/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.roperre.com/contact"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "8 Davos Way,2nd Floor",
+      "city": "Waterville Valley",
+      "state": "NH",
+      "zip": "03215",
+      "source": "https://www.roperre.com/contact",
+      "notes": "Office/contact address; POBox334 separately mailing. Not rental entrance."
+    },
+    "bookingMethod": "6032363636/contact inquiry form; vacation-specific path unverified",
+    "bookingUrl": "https://www.roperre.com/contact",
+    "operatorEvidenceUrl": "https://www.roperre.com/",
+    "notes": "Home expressly Family Owned & Operated. Rental page says seasonal escape and median monthly rent; no verified nightly/weekly offer. Current catalog returned0results with secondary MLS seasonal leads. Tourism relative website www.roperre.com corrected to host.",
+    "description": "Family-owned White Mountains real estate firm with seasonal rental listings and a Waterville Valley office.",
+    "descriptionSource": "https://www.roperre.com/homes-for-rent-in-waterville-valley-nh",
+    "remainingGaps": [
+      "Current short-term vacation accommodation offering",
+      "Unit-specific facts and photos"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "local real estate/rental manager candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0074",
+    "name": "Russ-Tee Bucket Ranch",
+    "website": "https://www.russteebucketranch.com/",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "State-linked fourseasonslodge.com failedDNS; reverse-search replacement russteebucketranch.com refused connection. No accessible rental website.",
+    "classification": "individual farm/cabin rental candidate",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/377",
+      "https://fourseasonslodge.com/",
+      "https://www.google.com/search?q=%22Russ-Tee+Bucket+Ranch%22+official",
+      "https://www.russteebucketranch.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "mailing address (directory only)",
+      "street": "POBox133",
+      "city": "Conway",
+      "state": "NH",
+      "zip": "03818",
+      "source": "https://www.visitnh.gov/business/detail/377",
+      "notes": "Official Contact unavailable; directory is mailing address, not rental entrance."
+    },
+    "bookingMethod": "Directory6036625391/Teena@FourSeasonsLodge.com only; operator website inaccessible",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/377",
+    "notes": "State description restored1700farmhouse/EaglesPerch nearSacoRiver. Search lead LinkedIn publishes replacement www.RussTeeBucketRanch.com; direct open refused connection.",
+    "description": "Conway farmhouse/cabin rental lead listed by VisitNH; both published and replacement sites failed to open.",
+    "descriptionSource": "https://www.visitnh.gov/business/detail/377",
+    "accessFailures": [
+      {
+        "url": "https://fourseasonslodge.com/",
+        "cause": "net::ERR_NAME_NOT_RESOLVED"
+      },
+      {
+        "url": "https://www.russteebucketranch.com/",
+        "cause": "net::ERR_CONNECTION_REFUSED"
+      }
+    ],
+    "platformCheckStatus": "Operator sites inaccessible",
+    "remainingGaps": [
+      "Working operator site",
+      "Official contact/address",
+      "Eligibility"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual farm/cabin rental candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "photoCandidates": [],
+    "photos": []
+  },
+  {
+    "id": "NH-0075",
+    "name": "Super Host Solutions",
+    "website": "Unknown",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Opened state record has phone/location only, no operator website. One focused search did not establish operator-controlled lodging site or actual rental offering.",
+    "classification": "hosting/property-service candidate",
+    "recordType": "operator candidate",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/1109",
+      "https://www.google.com/search?q=%22Super+Host+Solutions%22+Berlin+NH"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "not publicly disclosed",
+      "street": "Unknown",
+      "city": "Berlin",
+      "state": "NH",
+      "zip": "03570",
+      "source": "https://www.visitnh.gov/business/detail/1109",
+      "notes": "Directory street literally Dependent on Vacation Home; not usable street address. No official Contact/About found."
+    },
+    "bookingMethod": "Directory6034088020; accommodation inquiry destination not verified",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/1109",
+    "notes": "Search leads describe cleaning/cohosting/handyman; snippets not used as confirmed exclusion. No independent website discovered.",
+    "description": "Berlin hosting/property-service lead; an operator-controlled accommodation website remains unverified.",
+    "descriptionSource": "https://www.visitnh.gov/business/detail/1109",
+    "platformCheckStatus": "No operator website found to check",
+    "remainingGaps": [
+      "Operator website",
+      "Accommodation offering",
+      "Independence/direct booking",
+      "Official contact/address"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "hosting/property-service candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  },
+  {
+    "id": "NH-0076",
+    "name": "Lakes Region Vacation Rentals",
+    "website": "Unknown",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Opened state record has no website link. Focused reverse search yielded regional directories and differently named operators; no matching operator-controlled site established.",
+    "classification": "rental-manager candidate",
+    "recordType": "operator candidate",
+    "openedUrls": [
+      "https://www.visitnh.gov/business/detail/665",
+      "https://www.google.com/search?q=%22Lakes+Region+Vacation+Rentals%22+%22603%22"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "unverified operator office (directory only)",
+      "street": "15 Glidden Rd Suite9",
+      "city": "Moultonborough",
+      "state": "NH",
+      "zip": "03254",
+      "source": "https://www.visitnh.gov/business/detail/665",
+      "notes": "No official Contact/About site found. Office-like suite retained as directory-only; not rental entrance."
+    },
+    "bookingMethod": "Directory6036772565 only; operator booking destination unverified",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/665",
+    "notes": "Do not substitute AtTheLakeVacationRentals/lakesregionrentals.com or regional tourism association without identity match: names/phones/addresses differ.",
+    "description": "Moultonborough vacation-rental-manager lead from VisitNH; matching operator site has not been established.",
+    "descriptionSource": "https://www.visitnh.gov/business/detail/665",
+    "platformCheckStatus": "No operator website found to check",
+    "remainingGaps": [
+      "Matching operator website",
+      "Accommodation and ownership evidence",
+      "Official Contact/address"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "rental-manager candidate",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  }
+]

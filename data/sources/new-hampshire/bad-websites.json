@@ -1,0 +1,180 @@
+[
+  {
+    "id": "NH-0017",
+    "name": "Maple Moose Lodge and Cottages",
+    "state": "NH",
+    "town": "Laconia",
+    "url": "https://maplemoosenh.godaddysites.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "Official Facebook Contact Us points to GoDaddy site serving File not found(404) on opening and reload; no functioning own site verified.",
+    "observations": [
+      {
+        "url": "https://maplemoosenh.godaddysites.com/",
+        "observed": "GoDaddy File not found(404 error), confirmed reload",
+        "attempts": 2
+      }
+    ],
+    "evidence": [
+      "https://maplemoosenh.godaddysites.com/",
+      "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/",
+      "https://www.visitnh.gov/business/detail/768"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": "",
+    "note": "Website access could not be verified; this does not establish business closure."
+  },
+  {
+    "id": "NH-0018",
+    "name": "The Cabins At Temple",
+    "state": "NH",
+    "town": "Temple",
+    "url": "https://www.thecabinsattemple.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "Published operator host redirects to www homepage serving Chrome HTTP ERROR404; search-discovered official terms page also HTTP response failure.",
+    "observations": [
+      {
+        "url": "https://www.thecabinsattemple.com/",
+        "observed": "Chrome page cannot be found; HTTP ERROR404"
+      },
+      {
+        "url": "https://www.thecabinsattemple.com/terms-and-conditions",
+        "observed": "net::ERR_HTTP_RESPONSE_CODE_FAILURE"
+      }
+    ],
+    "evidence": [
+      "https://www.thecabinsattemple.com/",
+      "https://www.thecabinsattemple.com/terms-and-conditions",
+      "https://www.visitnh.gov/business/detail/1189"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": "",
+    "note": "Website access could not be verified; this does not establish business closure."
+  },
+  {
+    "id": "NH-0044",
+    "name": "Robie’s Cabins",
+    "state": "NH",
+    "town": "Pittsburg",
+    "url": "http://www.robiescabins.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "Unrelated gambling redirect to https://naga138gacor2.com/",
+    "evidence": [
+      "https://robiescabinsnh.com/",
+      "https://robiescabinsnh.com/about/",
+      "https://robiescabinsnh.com/cabins/",
+      "http://www.robiescabins.com/",
+      "https://naga138gacor2.com/",
+      "https://www.visitnh.gov/business/detail/327"
+    ],
+    "excludedFromDirectory": false,
+    "alternateUrl": "https://robiescabinsnh.com/",
+    "note": "Retired URL excluded; working replacement operator site remains eligible."
+  },
+  {
+    "id": "NH-0047",
+    "name": "Melhem Enterprises Retreats,LLC",
+    "state": "NH",
+    "town": "Whitefield",
+    "url": "https://www.melhementerprisesretreats.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "Published dedicated operator domain fails DNS. Public social contact remains available, but no working independent rental website was established; business closure is not claimed.",
+    "observations": [
+      {
+        "url": "http://www.melhementerprisesretreats.com/",
+        "finalUrl": "https://www.melhementerprisesretreats.com/",
+        "observed": "DNS_PROBE_FINISHED_NXDOMAIN",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "evidence": [
+      "http://airbnb.com/h/best-of-the-white-mountains",
+      "https://www.facebook.com/MelhemEntRetreats/",
+      "https://www.visitnh.gov/business/detail/591",
+      "https://www.airbnb.com/rooms/21437814",
+      "http://www.melhementerprisesretreats.com/",
+      "https://www.melhementerprisesretreats.com/"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": "",
+    "note": "Website access could not be verified; this does not establish business closure."
+  },
+  {
+    "id": "NH-0059",
+    "name": "Oceanside Real Estate Sales/Rentals/Insurance",
+    "state": "NH",
+    "town": "Hampton",
+    "url": "https://oceansiderealestate.net/",
+    "checkedOn": "2026-10-26",
+    "reason": "Published operator host failed SSL; HTTP also blocked by client. No usable operator website verified.",
+    "observations": [
+      {
+        "url": "https://oceansiderealestate.net/",
+        "cause": "net::ERR_SSL_UNRECOGNIZED_NAME_ALERT"
+      },
+      {
+        "url": "http://oceansiderealestate.net/",
+        "cause": "net::ERR_BLOCKED_BY_CLIENT; may be browser access limitation"
+      }
+    ],
+    "evidence": [
+      "https://www.visitnh.gov/business/detail/298",
+      "https://oceansiderealestate.net/",
+      "http://oceansiderealestate.net/",
+      "https://www.google.com/search?q=Oceanside+Real+Estate+Hampton+vacation+rentals+official"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": "",
+    "note": "Website access could not be verified; this does not establish business closure."
+  },
+  {
+    "id": "NH-0061",
+    "name": "OTC Rentals",
+    "state": "NH",
+    "town": "Colebrook",
+    "url": "https://otc-rentals.com/unit-2/",
+    "checkedOn": "2026-10-26",
+    "reason": "Tourism listing has no website link. One focused reverse search identified published operator unit URL, which failed DNS.",
+    "observations": [
+      {
+        "url": "https://otc-rentals.com/unit-2/",
+        "cause": "net::ERR_NAME_NOT_RESOLVED"
+      }
+    ],
+    "evidence": [
+      "https://www.visitnh.gov/business/detail/1240",
+      "https://www.google.com/search?q=OTC+Rentals+Colebrook+NH+official",
+      "https://otc-rentals.com/unit-2/"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": "",
+    "note": "Website access could not be verified; this does not establish business closure."
+  },
+  {
+    "id": "NH-0074",
+    "name": "Russ-Tee Bucket Ranch",
+    "state": "NH",
+    "town": "Conway",
+    "url": "https://www.russteebucketranch.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "State-linked fourseasonslodge.com failedDNS; reverse-search replacement russteebucketranch.com refused connection. No accessible rental website.",
+    "observations": [
+      {
+        "url": "https://fourseasonslodge.com/",
+        "cause": "net::ERR_NAME_NOT_RESOLVED"
+      },
+      {
+        "url": "https://www.russteebucketranch.com/",
+        "cause": "net::ERR_CONNECTION_REFUSED"
+      }
+    ],
+    "evidence": [
+      "https://www.visitnh.gov/business/detail/377",
+      "https://fourseasonslodge.com/",
+      "https://www.google.com/search?q=%22Russ-Tee+Bucket+Ranch%22+official",
+      "https://www.russteebucketranch.com/"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": "",
+    "note": "Website access could not be verified; this does not establish business closure."
+  }
+]

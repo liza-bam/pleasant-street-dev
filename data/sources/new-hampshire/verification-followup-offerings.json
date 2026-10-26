@@ -1,0 +1,296 @@
+[
+  {
+    "id": "NH-0036",
+    "name": "Crows Nest Campground",
+    "website": "https://camphappygrounds.com/crows-nest/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Current short-term cabin accommodation and direct booking are now verified. Hold only for independent/local operator scope: official site presents an18-location branded campground portfolio across5states; ownership/local independence not established in this bounded pass.",
+    "classification": "Regional branded campground group",
+    "currentOfferingStatus": "Current nightly cabin offer verified",
+    "currentAccommodationVerified": true,
+    "closureStatus": "No closure evidence; operating campground with current booking catalog.",
+    "openedUrls": [
+      "https://camphappygrounds.com/crows-nest/",
+      "https://camphappygrounds.com/crows-nest/rates/",
+      "https://book.camphappygrounds.com/campgrounds/crows-nest",
+      "https://camphappygrounds.com/"
+    ],
+    "bookingMethod": "Direct operator booking engine and published phone/email",
+    "bookingUrl": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+    "bookingUrlObservation": "Exact Deluxe Cabin URL observed as the catalog listing and Book Now destination; unit-detail route was not separately opened. Catalog itself fully rendered and established overnight lodging.",
+    "evidence": [
+      {
+        "url": "https://book.camphappygrounds.com/campgrounds/crows-nest",
+        "facts": [
+          "Rendered Ways To Stay has Lodging1,alongside RV/Tent categories.",
+          "Deluxe Cabin(YR) offered from$173/night.",
+          "Cabin amenities explicitly include private bathroom,fullbed,one set of twin bunkbeds,microwave,mini fridge,coffee maker,air conditioning,deck and propane wall heater.",
+          "Linens and basic utensils not provided; no indoor cooking permitted.",
+          "529SMainSt,Newport,NH03773 and6039451142 published."
+        ]
+      },
+      {
+        "url": "https://camphappygrounds.com/crows-nest/rates/",
+        "facts": [
+          "Rates page expressly offers shorter visits under one month.",
+          "Daily/weekly/monthly stays distinguished; numerical displayed monthly rates are RV sites,not cabin nightly rates."
+        ]
+      },
+      {
+        "url": "https://camphappygrounds.com/",
+        "facts": [
+          "Group home explicitly includes Crows Nest:RV|TENT|CABIN|OPEN YEAR ROUND|SEASONALS AVAILABLE.",
+          "Footer identifies Happy Grounds Management LLC.",
+          "18named branded campground locations:8NY,5MA,2NH,2CT,1VT."
+        ]
+      }
+    ],
+    "operatorFootprint": {
+      "count": 18,
+      "states": {
+        "NY": 8,
+        "MA": 5,
+        "NH": 2,
+        "CT": 2,
+        "VT": 1
+      },
+      "names": [
+        "Ausable Pines",
+        "Ausable River",
+        "Berrys Grove",
+        "Bonnie Brae",
+        "Circle CG",
+        "Crown Point",
+        "Crows Nest",
+        "Field & Stream",
+        "Gibson Hill",
+        "Glen Hudson",
+        "Heritage Acres",
+        "Highview",
+        "Kings Bay",
+        "Peaceful Pines",
+        "Riverbend East",
+        "Riverbend West",
+        "Willowemoc",
+        "White Pines"
+      ]
+    },
+    "remainingGaps": [
+      "Independent ownership/local-operation scope determination;do not infer national-chain exclusion solely from multiple states."
+    ],
+    "accessFailures": [],
+    "notes": "Group-home navigation timed out,but fresh native AX showed complete rendered home;not an access failure."
+  },
+  {
+    "id": "NH-0047",
+    "name": "Melhem Enterprises Retreats,LLC",
+    "website": "https://www.melhementerprisesretreats.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Operator Facebook page now opens and advertises a Whitefield vacation home with direct phone/email. Its newly disclosed dedicated domain fails DNS; current short-stay reservation details and working independent rental website remain unverified.",
+    "classification": "Individual vacation-home candidate;dedicated domain unavailable",
+    "currentOfferingStatus": "Official social page markets vacation-home rental;current short-stay terms not verified",
+    "currentAccommodationVerified": "Partial",
+    "closureStatus": "No closure established. Dead dedicated domain and removed Airbnb listing do not prove business closure.",
+    "openedUrls": [
+      "https://www.facebook.com/MelhemEntRetreats/",
+      "http://www.melhementerprisesretreats.com/",
+      "https://www.melhementerprisesretreats.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.facebook.com/MelhemEntRetreats/"
+    ],
+    "contactAddress": {
+      "role": "published rental/business contact address",
+      "street": "90 Forest Lake Road",
+      "city": "Whitefield",
+      "state": "NH",
+      "zip": "03598",
+      "source": "https://www.facebook.com/MelhemEntRetreats/",
+      "notes": "Official operator social page now readable. Conflicts with VisitNH88ForestLakeRoad;retain conflict,do not silently choose exact rental entrance."
+    },
+    "bookingMethod": "Operator social page publishes6037708621 and lindajlacroix@comcast.net;short-stay booking purpose not separately confirmed",
+    "bookingUrl": "mailto:lindajlacroix@comcast.net",
+    "evidence": [
+      {
+        "url": "https://www.facebook.com/MelhemEntRetreats/",
+        "facts": [
+          "Public operator page labels itself Vacation Home Rental and Always open.",
+          "Intro markets upscale waterfront vacation home on211private acres.",
+          "Contact details:90ForestLakeRoad,Whitefield,NH03598;(603)770-8621;lindajlacroix@comcast.net.",
+          "Published Website link is melhementerprisesretreats.com.",
+          "Visible posts discuss improvements for guests;reliable post dates were not established,so no date-based activity claim."
+        ]
+      },
+      {
+        "url": "https://www.melhementerprisesretreats.com/",
+        "facts": [
+          "Connected Chrome displays This site cannot be reached and DNS_PROBE_FINISHED_NXDOMAIN."
+        ]
+      }
+    ],
+    "accessFailures": [
+      {
+        "url": "http://www.melhementerprisesretreats.com/",
+        "finalUrl": "https://www.melhementerprisesretreats.com/",
+        "observed": "DNS_PROBE_FINISHED_NXDOMAIN",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Working independent rental website",
+      "Current short-term rental reservation offer/terms",
+      "Resolve88versus90ForestLakeRoad address conflict"
+    ],
+    "notes": "Earlier blank Facebook result was transient rendering;fresh DOM after native initial blank successfully showed public profile. Earlier removed Airbnb21437814 retained in batch02;not re-opened in this pass."
+  },
+  {
+    "id": "NH-0066",
+    "name": "Dolan Real Estate",
+    "website": "https://www.dolanre.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Own local family-operated brokerage website works,but bounded targeted follow-up did not establish a Dolan-controlled short-term vacation rental. The strongest rental result is a third-party IDX listing by Gray Ledges Rentals.",
+    "classification": "Local brokerage;vacation-rental operator role unresolved",
+    "currentOfferingStatus": "Current seasonal rental content present through IDX;Dolan-controlled short-term offering unverified",
+    "currentAccommodationVerified": "Unknown for Dolan operation",
+    "closureStatus": "No closure evidence;working brokerage. Missing vacation proof is not confirmed closure.",
+    "openedUrls": [
+      "https://www.dolanre.com/",
+      "https://www.google.com/search?q=site%3Adolanre.com+vacation+rentals+weekly",
+      "https://www.dolanre.com/listing/5081130/150-woodcrest-springfield-nh-03284/"
+    ],
+    "bookingMethod": "Dolan general brokerage contact available;vacation-specific direct path not established",
+    "bookingUrl": "https://www.dolanre.com/contact-us/",
+    "evidence": [
+      {
+        "url": "https://www.dolanre.com/",
+        "facts": [
+          "Site describes locally owned,family-owned firm;current public navigation focuses Search,Buyers,Sellers,Commercial,About andContact.",
+          "No vacation/nightly/weekly rental catalog link found in inspected navigation."
+        ]
+      },
+      {
+        "url": "https://www.dolanre.com/listing/5081130/150-woodcrest-springfield-nh-03284/",
+        "facts": [
+          "FOR RENT150Woodcrest,Springfield,NH03284.",
+          "Furnished seasonal LakeKolelemook home advertises summer$10500,winter$4000,and short-term rentals subject toNHtax+$300cleaning.",
+          "Page expressly credits MelissaAllen ofGrayLedgesRentals.",
+          "Footer explicitly states IDX content fromPrimeMLS;therefore cannot treat property as Dolan-controlled rental.",
+          "Dolan general Contact controls appear,not proof of rental management ownership."
+        ]
+      }
+    ],
+    "remainingGaps": [
+      "Dolan-specific current short-term vacation offering and direct vacation inquiry destination"
+    ],
+    "accessFailures": [],
+    "notes": "One focused domain rental search performed;opened strongest result rather than rely on snippets. No invented rental ownership or closure."
+  },
+  {
+    "id": "NH-0068",
+    "name": "Enchanted Forest Retreat(Turner Holding Company LLC)",
+    "website": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Current overnight accommodation exists on opened Vrbo1817955 matching EnchantedForest/Newbury. Educise page markets retreat and provides contact,but direct overnight-rental inquiry relationship to that platform listing remains incomplete. URL wording alone cannot establish no current overnight offering.",
+    "classification": "Independent retreat candidate;operator identity/direct-rental connection pending",
+    "currentOfferingStatus": "Current named Newbury overnight platform listing verified;operator-direct lodging connection incomplete",
+    "currentAccommodationVerified": true,
+    "closureStatus": "No closure or not-yet-open statement found in rendered operator text. Do not exclude merely because URL contains coming-in-the-future.",
+    "openedUrls": [
+      "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+      "https://www.vrbo.com/1817955"
+    ],
+    "bookingMethod": "Vrbo booking path available;Educise general contact displayed,but direct accommodation-inquiry purpose not verified",
+    "bookingUrl": "https://www.vrbo.com/1817955",
+    "evidence": [
+      {
+        "url": "https://www.educise.com/enchanted-forest-retreat-coming-in-the-future/",
+        "facts": [
+          "Rendered title EnchantedForestRetreat!;markets nature relaxation/healing retreat inSunapeeNHregion.",
+          "Rendered text has no coming soon,not yet open,closed or no-overnight statement.",
+          "Footer publishesPOBox498NewburyNH03255,6318278219,Info@Educise.com.",
+          "No lodging units,overnight rates,availability or accommodation booking link on this opened page."
+        ]
+      },
+      {
+        "url": "https://www.vrbo.com/1817955",
+        "facts": [
+          "Opened title SUNAPEE RETREAT AT ENCHANTED FOREST-BRING KIDS-NEAR LAKE AND MOUNTAIN!,NewburyNH.",
+          "Entirehome listing:2bedrooms,1bathroom,sleeps8;described as2-level townhouse/private-entrance duplex in shared country home.",
+          "Owner stated onsite;healthy retreat/spa with licensed-therapist appointments described.",
+          "Published no-pets rule;child/family accommodation explicit.",
+          "Check availability and date-selection booking controls available.",
+          "No exact address or named host-to-Educise identity corroboration established in this bounded pass."
+        ]
+      }
+    ],
+    "platformLinkEvidence": [
+      {
+        "platform": "Vrbo",
+        "url": "https://www.vrbo.com/1817955",
+        "source": "Prior research lead;destination opened directly",
+        "identityStatus": "Name,Newbury/Sunapee location and wellness retreat concept match;exact legal operator identity not confirmed"
+      }
+    ],
+    "remainingGaps": [
+      "Explicit link/named owner evidence connecting Educise/Turner operator toVrbo1817955",
+      "Direct overnight rental inquiry purpose on operator website",
+      "Official rental address"
+    ],
+    "accessFailures": [],
+    "notes": "Do not treat a matching platform lead alone as an approved operator-controlled direct website. Keep candidate while preserving verified overnight evidence."
+  },
+  {
+    "id": "NH-0073",
+    "name": "Roper Real Estate LLC",
+    "website": "https://www.roperre.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Working family-owned local brokerage has published rental catalogs,but inspected actual WatervilleValley andCampton catalogs show seasonal/monthly framing and settle to0results. Focused weekly-vacation search did not establish current short-stay offering.",
+    "classification": "Local real estate/rental-manager candidate",
+    "currentOfferingStatus": "Short-term vacation offering remains unverified;not proven absent business-wide",
+    "currentAccommodationVerified": "Unknown for short-stay operation",
+    "closureStatus": "No closure evidence;working brokerage. Empty catalogs and seasonal framing do not establish permanent closure.",
+    "openedUrls": [
+      "https://www.roperre.com/",
+      "https://www.roperre.com/homes-for-rent-in-waterville-valley-nh",
+      "https://www.google.com/search?q=site%3Aroperre.com+weekly+vacation+rentals",
+      "https://www.roperre.com/homes-for-rent-in-campton-nh"
+    ],
+    "bookingMethod": "General direct brokerage phone6032363636 andContact page;short-stay-specific path unverified",
+    "bookingUrl": "https://www.roperre.com/contact",
+    "evidence": [
+      {
+        "url": "https://www.roperre.com/",
+        "facts": [
+          "Home explicitly FamilyOwned&Operated.",
+          "Actual Rentals menu links WatervilleValley,Campton,Thornton,Ashland,Holderness catalogs;no separate weekly-vacation catalog shown."
+        ]
+      },
+      {
+        "url": "https://www.roperre.com/homes-for-rent-in-waterville-valley-nh",
+        "facts": [
+          "Intro offers seasonal escape with viewing/contact.",
+          "Displayed median monthly-rent analytics;rendered0results."
+        ]
+      },
+      {
+        "url": "https://www.roperre.com/homes-for-rent-in-campton-nh",
+        "facts": [
+          "Actual second Rentals-menu catalog opened.",
+          "Intro offers seasonal escape and viewing/contact.",
+          "After initial loading text,fresh DOM settled to0results;no unit-detail links to inspect.",
+          "Monthly-rent analytics,not nightly/weekly offer."
+        ]
+      }
+    ],
+    "remainingGaps": [
+      "Current Roper-controlled nightly/weekly vacation rental catalog or explicit short-stay inquiry offer"
+    ],
+    "accessFailures": [],
+    "notes": "One focused domain weekly-vacation search gave sale/investment-oriented pages,not a stronger rental lead. Those snippets are not used as verification."
+  }
+]

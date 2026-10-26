@@ -7,7 +7,7 @@
     "Massachusetts",
     "Rhode Island"
   ],
-  "currentPass": "Regional discovery and first eligibility/detail/photo batch",
+  "currentPass": "All77 records reviewed; unresolved cases retained explicitly",
   "templateColumns": 49,
   "passes": {
     "statewideDiscovery": {
@@ -44,12 +44,85 @@
       "status": "Pending"
     },
     "eligibility": {
-      "status": "In progress",
+      "status": "Existing77records reviewed;12remain explicitly unverified",
       "reviewedIds": [
+        "NH-0002",
+        "NH-0005",
+        "NH-0006",
+        "NH-0008",
+        "NH-0009",
+        "NH-0010",
+        "NH-0011",
+        "NH-0012",
+        "NH-0013",
+        "NH-0014",
+        "NH-0016",
+        "NH-0017",
+        "NH-0018",
+        "NH-0019",
+        "NH-0020",
+        "NH-0021",
+        "NH-0023",
+        "NH-0024",
+        "NH-0025",
+        "NH-0026",
+        "NH-0028",
+        "NH-0029",
+        "NH-0030",
+        "NH-0031",
+        "NH-0032",
+        "NH-0034",
+        "NH-0035",
+        "NH-0036",
+        "NH-0037",
+        "NH-0038",
+        "NH-0039",
+        "NH-0040",
+        "NH-0041",
+        "NH-0044",
+        "NH-0045",
+        "NH-0046",
+        "NH-0047",
+        "NH-0048",
+        "NH-0049",
+        "NH-0050",
+        "NH-0051",
+        "NH-0052",
+        "NH-0053",
+        "NH-0054",
+        "NH-0055",
+        "NH-0056",
+        "NH-0057",
+        "NH-0058",
+        "NH-0059",
+        "NH-0060",
+        "NH-0061",
+        "NH-0062",
+        "NH-0063",
+        "NH-0064",
+        "NH-0065",
+        "NH-0066",
+        "NH-0067",
+        "NH-0068",
+        "NH-0069",
+        "NH-0070",
+        "NH-0071",
+        "NH-0072",
+        "NH-0073",
+        "NH-0074",
+        "NH-0075",
+        "NH-0076",
+        "NH-0007",
+        "NH-0015",
+        "NH-0022",
+        "NH-0027",
+        "NH-0042",
+        "NH-0043",
         "NH-0001",
         "NH-0003",
         "NH-0004",
-        "NH-0077"
+        "NH-0077",
+        "NH-0033"
       ]
     },
     "details": {
@@ -71,7 +144,21 @@
       ]
     },
     "gapReview": {
-      "status": "Pending"
+      "status": "Ownership and current-offering follow-ups completed;access/missing-evidence gaps retained",
+      "unresolvedIds": [
+        "NH-0023",
+        "NH-0024",
+        "NH-0026",
+        "NH-0036",
+        "NH-0056",
+        "NH-0064",
+        "NH-0066",
+        "NH-0068",
+        "NH-0073",
+        "NH-0075",
+        "NH-0076",
+        "NH-0042"
+      ]
     }
   },
   "regionsToCheck": [
@@ -95,7 +182,7 @@
     "Strafford",
     "Sullivan"
   ],
-  "publication": "Four verified New Hampshire records deployed and visibly checked in Map and Cards on 2026-10-26",
+  "publication": "Four previous NH records live;32new photo-ready records prepared and tested locally, not deployed yet",
   "limitations": [
     "The DOM snapshot did not expose directory results that were visible in the screenshot and native accessibility tree; use the native accessibility state for these category pages.",
     "Deepwood cottage-detail widget failed; direct contact and main website remain available.",
@@ -104,31 +191,25 @@
   ],
   "counts": {
     "master": 77,
-    "verifiedEligible": 4,
-    "sourceOnly": 72,
+    "reviewed": 77,
+    "verifiedEligible": 52,
+    "sourceOnly": 12,
+    "notEligible": 7,
+    "websiteUnavailable": 6,
     "confirmedDuplicateAuditRows": 1,
-    "propertiesWithFourPhotos": 4,
-    "savedAuthenticPhotographs": 16
+    "photoReadyPublishedPackage": 36,
+    "propertiesWithSavedPhotos": 48,
+    "savedAuthenticPhotographs": 146
   },
   "checks": {
     "checkedOn": "2026-10-26",
     "commands": {
-      "node tools/verify-catalog.mjs": "Passed: 535 records; 521 mapped; media hashes, unknown handling and field preservation passed",
-      "python3 tools/verify-cards.py": "Passed: 528 active cards; three distinct photos each; descriptions at most 150 characters; platform CSV evidence matched",
-      "Regional CSV parse/reconciliation": "Passed: 77 master, 73 candidate/audit, 4 approved, all 49 columns and cells match research JSON",
-      "Existing inventory preservation": "Passed: all 531 pre-existing database records unchanged"
+      "node tools/verify-catalog.mjs": "Passed:567records,553mapped;catalog/media/eligibility/field preservation",
+      "python3 tools/verify-cards.py": "Passed:560active cards,3distinct photos each,descriptions<=150,evidence/CSVlinks",
+      "Regional CSV parse/reconciliation": "Passed:77master,25candidate/audit,52approved;all49columns/cells",
+      "Existing inventory preservation": "All535 previously retained records unchanged"
     },
-    "photographs": {
-      "properties": 4,
-      "authenticPhotos": 16,
-      "visuallyReviewed": true,
-      "generated": 0
-    },
-    "researchCompletion": "Incomplete; regional coverage, towns, aggregator/platform discovery and remaining candidates require further passes",
-    "nextStates": {
-      "Massachusetts": "Not started",
-      "Rhode Island": "Not started"
-    }
+    "researchCompletion": "All77 existing records reviewed;12still lack eligible verification;broader statewide discovery incomplete"
   },
   "liveVerification": {
     "checkedOn": "2026-10-26",
@@ -147,5 +228,42 @@
     "displayedPhotographsLoaded": 12,
     "airbnbBadge": "The Conscious Cabin; nonclickable logo only",
     "remainingStateResearch": "Incomplete"
+  },
+  "verificationAudit": {
+    "reviewed": 77,
+    "total": 77,
+    "statuses": {
+      "Verified independent website": 48,
+      "Website unavailable": 6,
+      "Source found in web research": 12,
+      "Not eligible": 7,
+      "Verified platform-hosted website": 4
+    },
+    "eligible": 52,
+    "photoReadyImport": 36,
+    "unresolvedIds": [
+      "NH-0023",
+      "NH-0024",
+      "NH-0026",
+      "NH-0036",
+      "NH-0056",
+      "NH-0064",
+      "NH-0066",
+      "NH-0068",
+      "NH-0073",
+      "NH-0075",
+      "NH-0076",
+      "NH-0042"
+    ],
+    "unavailableIds": [
+      "NH-0017",
+      "NH-0018",
+      "NH-0047",
+      "NH-0059",
+      "NH-0061",
+      "NH-0074"
+    ],
+    "checkedOn": "2026-10-26",
+    "publication": "Updated package prepared locally; new audit batch not yet deployed"
   }
 }

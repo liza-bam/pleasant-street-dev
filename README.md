@@ -89,26 +89,30 @@ The Vermont research starts from the Maine CSV's 41-column structure, with `Verm
 
 Reapply reviewed facts/media with `python3 tools/prepare-vermont.py`, then import with `python3 tools/import.py data/sources/vermont/approved-import.json --source found`, rebuild with `node tools/build-index.mjs`, and check with `node tools/verify-catalog.mjs`. The existing Maine and demo records are preserved.
 
-## New Hampshire research — first checked batch
+## New Hampshire research — 77-record verification audit
 
 `data/sources/new-hampshire/new_hampshire_independent_rental_websites.csv` retains 76 statewide
-directory candidates and one regional addition in the existing 49-column format. Its separate
-approved export contains Deepwood Lodges, Ames Farm Inn, The Patio Cabins and The Conscious Cabin. The
-candidate export retains 72 unverified leads and one confirmed duplicate-name audit row.
-This is an initial batch, not completed statewide research. Regional, town, aggregator and
-platform discovery passes remain tracked in `research-progress.json`; Massachusetts and Rhode
-Island follow New Hampshire.
+directory records and one regional addition in the existing 49-column format. All 77 have
+opened-source review outcomes in `website-audit.json`: 52 verified eligible websites, seven
+exclusions (including one duplicate), six unavailable sites and 12 unresolved candidates.
+The approved export contains all 52 eligible records. The candidate/audit export retains the
+other 25 with precise statuses; review is not the same as verified eligibility.
 
-The four checked records each have four saved authentic photos, source-based descriptions,
-official campus/contact addresses and inspected direct inquiry or booking paths. Capacity and
-bedrooms remain Unknown where they vary by unit. Shared-campus photos are labeled; the Patio
-set specifically shows Cabin 1. Source URLs, eligibility, address and photo provenance are
-saved beside the CSV. The Conscious Cabin has an attributable Airbnb badge; its actual link
-is retained in the CSV. Its FAQ and booking page disagree about capacity/bedroom terminology,
-so those conflicting numeric facts remain Unknown. The other three checked sites had no
-qualifying Airbnb/Vrbo/Booking.com links on the opened pages.
+The publication package contains 36 eligible records with three distinct saved card photos;
+16 additional verified records await sufficient attributable media. Contact/property address
+reviews distinguish actual rentals, shared campuses, offices, PO boxes and undisclosed addresses.
+Source-based descriptions, unit/operator fact distinctions, disagreements and actual platform
+links are preserved. Badges require matching destination identity. `bad-websites.md` and the
+regional `bad-websites.json` retain failed URLs and Robie's recovered replacement domain.
 
-Reimport with `python3 tools/import.py data/sources/new-hampshire/approved-import.json --source found`,
+Unresolved records include robot challenges, missing direct websites and incomplete operator
+or short-stay evidence. Do not import them as approved. This completes review of the existing
+77-record inventory, not comprehensive statewide discovery: regional, town, aggregator and
+platform expansion remain in `research-progress.json`. Massachusetts and Rhode Island follow.
+
+Merge reviewed evidence with `python3 tools/prepare-new-hampshire.py`, then rebuild the three
+regional CSV exports using the existing Artifact Tool workbook workflow. Reimport with
+`python3 tools/import.py data/sources/new-hampshire/approved-import.json --source found`,
 then `python3 tools/prepare-cards.py`, `node tools/build-index.mjs`, `node tools/verify-catalog.mjs`
 and `python3 tools/verify-cards.py`. Preserve the reviewed card CSV export when adding records.
 The map uses approximate town coordinates, not individual cottage entrances.

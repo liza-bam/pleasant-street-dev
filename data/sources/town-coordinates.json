@@ -1230,5 +1230,138 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Conway%2C+NH%2C+USA&format=json&limit=1",
   "label": "Conway, Carroll County, New Hampshire, United States",
   "checked": "2026-10-26"
+ },
+ "Tamworth, NH, USA": {
+  "lat": 43.8603,
+  "lng": -71.2635,
+  "source": "https://nominatim.openstreetmap.org/search?q=Tamworth%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Tamworth, Carroll County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Holderness, NH, USA": {
+  "lat": 43.7324,
+  "lng": -71.589,
+  "source": "https://nominatim.openstreetmap.org/search?q=Holderness%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Holderness, Grafton County, New Hampshire, 03245, United States",
+  "checked": "2026-10-26"
+ },
+ "Laconia, NH, USA": {
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "source": "https://nominatim.openstreetmap.org/search?q=Laconia%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Laconia, Belknap County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Bretton Woods, NH, USA": {
+  "lat": 44.26,
+  "lng": -71.443,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bretton+Woods%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Bretton Woods, Carroll, Coös County, New Hampshire, 03575, United States",
+  "checked": "2026-10-26"
+ },
+ "Pittsburg, NH, USA": {
+  "lat": 45.0515,
+  "lng": -71.3915,
+  "source": "https://nominatim.openstreetmap.org/search?q=Pittsburg%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Pittsburg, Coös County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Tuftonboro, NH, USA": {
+  "lat": 43.6893,
+  "lng": -71.3039,
+  "source": "https://nominatim.openstreetmap.org/search?q=Tuftonboro%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Tuftonboro, Carroll County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Errol, NH, USA": {
+  "lat": 44.7811,
+  "lng": -71.1382,
+  "source": "https://nominatim.openstreetmap.org/search?q=Errol%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Errol, Coös County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "North Hampton, NH, USA": {
+  "lat": 42.969,
+  "lng": -70.8359,
+  "source": "https://nominatim.openstreetmap.org/search?q=North+Hampton%2C+NH%2C+USA&format=json&limit=1",
+  "label": "North Hampton, Rockingham County, New Hampshire, 03862, United States",
+  "checked": "2026-10-26"
+ },
+ "Lyme, NH, USA": {
+  "lat": 43.8104,
+  "lng": -72.1551,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lyme%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Lyme, Grafton County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Alexandria, NH, USA": {
+  "lat": 43.6117,
+  "lng": -71.7929,
+  "source": "https://nominatim.openstreetmap.org/search?q=Alexandria%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Alexandria, Grafton County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Lincoln, NH, USA": {
+  "lat": 44.0445,
+  "lng": -71.6684,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lincoln%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Lincoln, Grafton County, New Hampshire, 03251, United States",
+  "checked": "2026-10-26"
+ },
+ "Croydon, NH, USA": {
+  "lat": 43.4509,
+  "lng": -72.1622,
+  "source": "https://nominatim.openstreetmap.org/search?q=Croydon%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Croydon, Sullivan County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Portsmouth, NH, USA": {
+  "lat": 43.0751,
+  "lng": -70.7602,
+  "source": "https://nominatim.openstreetmap.org/search?q=Portsmouth%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Portsmouth, Rockingham County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Jefferson, NH, USA": {
+  "lat": 44.4194,
+  "lng": -71.4747,
+  "source": "https://nominatim.openstreetmap.org/search?q=Jefferson%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Jefferson, Coös County, New Hampshire, 03583, United States",
+  "checked": "2026-10-26"
+ },
+ "Intervale, NH, USA": {
+  "lat": 44.0744,
+  "lng": -71.14,
+  "source": "https://nominatim.openstreetmap.org/search?q=Intervale%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Intervale, Conway, Carroll County, New Hampshire, 03845, United States",
+  "checked": "2026-10-26"
+ },
+ "Hebron, NH, USA": {
+  "lat": 43.694,
+  "lng": -71.8056,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hebron%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Hebron, Grafton County, New Hampshire, 03241, United States",
+  "checked": "2026-10-26"
+ },
+ "Bartlett, NH, USA": {
+  "lat": 44.078,
+  "lng": -71.2821,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bartlett%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Bartlett, Carroll County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Goshen, NH, USA": {
+  "lat": 43.3011,
+  "lng": -72.1487,
+  "source": "https://nominatim.openstreetmap.org/search?q=Goshen%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Goshen, Sullivan County, New Hampshire, 03752, United States",
+  "checked": "2026-10-26"
+ },
+ "North Conway, NH, USA": {
+  "lat": 44.0378,
+  "lng": -71.1238,
+  "source": "https://nominatim.openstreetmap.org/search?q=North+Conway%2C+NH%2C+USA&format=json&limit=1",
+  "label": "North Conway, Conway, Carroll County, New Hampshire, 03860, United States",
+  "checked": "2026-10-26"
  }
 }

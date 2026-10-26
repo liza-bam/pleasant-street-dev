@@ -1,0 +1,1770 @@
+[
+  {
+    "id": "NH-0002",
+    "name": "The Preserve at Chocorua",
+    "website": "https://www.reservethepreserve.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened family story, cottage accommodations and direct email inquiry/contact pages support NH independent accommodation.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.reservethepreserve.com/",
+      "https://www.reservethepreserve.com/contact",
+      "https://www.reservethepreserve.com/our-story",
+      "https://www.reservethepreserve.com/cottages"
+    ],
+    "contactPagesChecked": [
+      "https://www.reservethepreserve.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "fullAddress": "88 Philbrick Neighborhood Road, Tamworth, NH 03886",
+      "source": "https://www.reservethepreserve.com/contact",
+      "notes": "Official contact footer/address reviewed.",
+      "street": "88 Philbrick Neighborhood Road",
+      "city": "Tamworth",
+      "state": "NH",
+      "zip": "03886"
+    },
+    "bookingMethod": "Phone 603-323-8333 or info@reservethepreserve.com; inquiry page",
+    "bookingUrl": "https://www.reservethepreserve.com/contact",
+    "operatorEvidenceUrl": "https://www.reservethepreserve.com/our-story",
+    "description": "Family-run Tamworth estate with guest cottages, farmhouse rooms and event space.",
+    "descriptionSource": "https://www.reservethepreserve.com/cottages",
+    "notes": "Cottages page: Lilac/Veery/Maple sleep4, Locust6, Whip-Poor-Will10; campus operator, not one cottage. Directory malformed bare host used as published.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0002-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/5689a18da128e63c0adb9b3a/1736697204027-BVLTGUEIQIXMP0ZHYGZ2/Final+Maple+Cottage+Photo-05.jpg",
+        "sourcePage": "https://www.reservethepreserve.com/cottages",
+        "role": "cover",
+        "sha256": "7da2898a1d64bf6de86fbca83384c1fa5b3a2a2daff6673e04eb893f57a1978b",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 2500,
+        "originalHeight": 1667,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Maple Cottage",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      },
+      {
+        "file": "images/NH-0002-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/5689a18da128e63c0adb9b3a/1736697271513-K2C6KOJD0BNNRVUG0T8B/Final+Maple+Cottage+Photo-02.jpg",
+        "sourcePage": "https://www.reservethepreserve.com/cottages",
+        "role": "additional",
+        "sha256": "498be3bd73a66814166e280720d703f051d9296aa353c6d457e2afcda0f4efc0",
+        "width": 1600,
+        "height": 1067,
+        "originalWidth": 2500,
+        "originalHeight": 1667,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Maple Cottage",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      },
+      {
+        "file": "images/NH-0002-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/5689a18da128e63c0adb9b3a/1736785581466-WF33K6WGSU9HO32UXAEO/Final+Maple+Cottage+Photo-01.jpg",
+        "sourcePage": "https://www.reservethepreserve.com/cottages",
+        "role": "additional",
+        "sha256": "7154ebf030e88a1e07d449d70f88b86a4d70155ee7e52384ca4b67470bbef849",
+        "width": 1600,
+        "height": 1066,
+        "originalWidth": 2500,
+        "originalHeight": 1666,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Maple Cottage",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5689a18da128e63c0adb9b3a/1736697204027-BVLTGUEIQIXMP0ZHYGZ2/Final+Maple+Cottage+Photo-05.jpg",
+        "sourcePage": "https://www.reservethepreserve.com/cottages",
+        "alt": "Maple Cottage Photo05",
+        "unitOrCampus": "Maple Cottage",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5689a18da128e63c0adb9b3a/1736697271513-K2C6KOJD0BNNRVUG0T8B/Final+Maple+Cottage+Photo-02.jpg",
+        "sourcePage": "https://www.reservethepreserve.com/cottages",
+        "alt": "Maple Cottage Photo02",
+        "unitOrCampus": "Maple Cottage",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5689a18da128e63c0adb9b3a/1736785581466-WF33K6WGSU9HO32UXAEO/Final+Maple+Cottage+Photo-01.jpg",
+        "sourcePage": "https://www.reservethepreserve.com/cottages",
+        "alt": "Maple Cottage Photo01",
+        "unitOrCampus": "Maple Cottage",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit facts and policies",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0005",
+    "name": "Baker Rocks",
+    "website": "https://bakerrocks.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened lodging page identifies small women-owned family business living/working onsite; cabins and glamping in Rumney; direct contact available.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://bakerrocks.com/",
+      "https://bakerrocks.com/contact/",
+      "https://bakerrocks.com/accommodation-types/",
+      "https://bakerrocks.com/accommodation-types/cabins/"
+    ],
+    "contactPagesChecked": [
+      "https://bakerrocks.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "fullAddress": "262 Depot St, Rumney, NH 03266",
+      "source": "https://bakerrocks.com/contact/",
+      "notes": "Official contact footer/address reviewed.",
+      "street": "262 Depot Street",
+      "city": "Rumney",
+      "state": "NH",
+      "zip": "03266"
+    },
+    "bookingMethod": "Phone/text +1-202-509-3622, info@bakerrocks.com or contact form; Cloudbeds Book Now link",
+    "bookingUrl": "https://bakerrocks.com/contact/",
+    "operatorEvidenceUrl": "https://bakerrocks.com/accommodation-types/",
+    "description": "Family-run Rumney retreat with cabins, yurts, a dome and other nature stays.",
+    "descriptionSource": "https://bakerrocks.com/accommodation-types/",
+    "notes": "Homepage initially connection-security challenge, contact and accommodation pages opened successfully. No whole-site outage. Cabins sleep2-8 $179-$750/night; other unit rates vary. Book Now observed https://us2.cloudbeds.com/reservation/1iQLS8; direct inquiry verified; widget not required.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Conditional",
+      "capacityDetails": "Cabins page units up to8; overview unit capacities vary",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Most rentals permit pets for fee; BR Acres excludes pets",
+      "priceFrom": 169,
+      "currency": "USD",
+      "priceDetails": "Cabins page Akwaaba from$169/night; accommodation overview cabins$179-$750 conflicts; unit-specific rates vary"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened pages; none found",
+    "photos": [],
+    "photoCandidates": [
+      {
+        "url": "https://bakerrocks.com/wp-content/uploads/2025/01/IMG_1229.jpeg",
+        "sourcePage": "https://bakerrocks.com/accommodation-types/cabins/",
+        "alt": "Observed cabin-page background",
+        "unitOrCampus": "unidentified representative cabin",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Photos",
+      "Per-unit facts and policies",
+      "Observed image asset download did not succeed; exact URL retained for browser download fallback"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0006",
+    "name": "Mt. Liberty Lodging",
+    "website": "https://www.mtlibertylodging.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Homepage explicitly proudly independent family-operated; NH cabins with kitchenettes and direct inquiry verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.mtlibertylodging.com/",
+      "https://www.mtlibertylodging.com/contact-us-directions"
+    ],
+    "contactPagesChecked": [
+      "https://www.mtlibertylodging.com/contact-us-directions"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "10 Liberty Road",
+      "city": "Lincoln",
+      "state": "NH",
+      "zip": "03251",
+      "source": "https://www.mtlibertylodging.com/contact-us-directions"
+    },
+    "bookingMethod": "Phone 603-745-3600 or info@mtlibertylodging.com; official inquiry form. Sirvoy Book Now link observed.",
+    "bookingUrl": "https://583f3d7932514.sirvoy.me/",
+    "operatorEvidenceUrl": "https://www.mtlibertylodging.com/",
+    "notes": "Seasonal May-October; closed for season but always accepting reservations.",
+    "description": "Family-operated Lincoln cabins and motel beside the Pemigewasset River, open May through October.",
+    "descriptionSource": "https://www.mtlibertylodging.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked homepage and contact; none found",
+    "photos": [
+      {
+        "file": "images/NH-0006-cover.webp",
+        "url": "https://static.wixstatic.com/media/337312_695a3df55eb74a8f91e96a053c63039b~mv2.jpg/v1/fill/w_1650,h_827,al_c,q_85,enc_avif,quality_auto/337312_695a3df55eb74a8f91e96a053c63039b~mv2.jpg",
+        "sourcePage": "https://www.mtlibertylodging.com/",
+        "role": "cover",
+        "sha256": "2c4e0ddba67fa3265c87803886393ee6704dfb453df0920311d8f0c72c767d2f",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1650,
+        "originalHeight": 827,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      },
+      {
+        "file": "images/NH-0006-000.webp",
+        "url": "https://static.wixstatic.com/media/337312_dba95136d44b4ee4a22f9d7fe3301529~mv2.jpeg/v1/fill/w_1536,h_770,al_c,q_85,enc_avif,quality_auto/337312_dba95136d44b4ee4a22f9d7fe3301529~mv2.jpeg",
+        "sourcePage": "https://www.mtlibertylodging.com/",
+        "role": "additional",
+        "sha256": "f183d5512602c9c0964470652d22f921f8f855892ba9da55e5ea39c8c024188c",
+        "width": 1536,
+        "height": 770,
+        "originalWidth": 1536,
+        "originalHeight": 770,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/337312_695a3df55eb74a8f91e96a053c63039b~mv2.jpg/v1/fill/w_1650,h_827,al_c,q_85,enc_avif,quality_auto/337312_695a3df55eb74a8f91e96a053c63039b~mv2.jpg",
+        "sourcePage": "https://www.mtlibertylodging.com/",
+        "alt": "Homepage campus photo",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://static.wixstatic.com/media/337312_dba95136d44b4ee4a22f9d7fe3301529~mv2.jpeg/v1/fill/w_1536,h_770,al_c,q_85,enc_avif,quality_auto/337312_dba95136d44b4ee4a22f9d7fe3301529~mv2.jpeg",
+        "sourcePage": "https://www.mtlibertylodging.com/",
+        "alt": "Homepage photo",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://static.wixstatic.com/media/337312_efbadcfd8769472b8e9984a291c975ca~mv2.jpg/v1/fill/w_1896,h_950,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/337312_efbadcfd8769472b8e9984a291c975ca~mv2.jpg",
+        "sourcePage": "https://www.mtlibertylodging.com/",
+        "alt": "Homepage photo",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false,
+        "photoWarning": "Visual review shows guest group portrait, not usable property photo; exclude."
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit facts/policies/rates",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0008",
+    "name": "The Innstead Mountain Getaway",
+    "website": "https://theinnsteadgetaway.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Hosts Marley and William and Wolter family land collaboration described on About; cabins in NH.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://theinnsteadgetaway.com/",
+      "https://theinnsteadgetaway.com/contact-us/",
+      "https://theinnsteadgetaway.com/about-us/"
+    ],
+    "contactPagesChecked": [
+      "https://theinnsteadgetaway.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "fullAddress": "112 Dean Hill Road, Pike, NH",
+      "source": "https://theinnsteadgetaway.com/contact-us/",
+      "street": "112 Dean Hill Road",
+      "city": "Pike",
+      "state": "NH",
+      "zip": "Unknown"
+    },
+    "bookingMethod": "Phone6039014088, info@theinnsteadgetaway.com; official contact/FAQ page",
+    "bookingUrl": "https://hotels.cloudbeds.com/en/reservation/SahvNg?currency=usd",
+    "operatorEvidenceUrl": "https://theinnsteadgetaway.com/about-us/",
+    "notes": "www homepage initially security check; non-www official contact and About opened. Contact page doubles as FAQ. Exact ZIP not printed on contact.",
+    "description": "Cabin retreat on 2,000 acres in Pike near the White Mountains.",
+    "descriptionSource": "https://theinnsteadgetaway.com/about-us/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [],
+    "photoCandidates": [
+      {
+        "url": "https://theinnsteadgetaway.com/wp-content/uploads/2023/05/title11.jpg",
+        "sourcePage": "https://theinnsteadgetaway.com/about-us/",
+        "alt": "About banner",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://theinnsteadgetaway.com/wp-content/uploads/2023/03/i12-1024x764.jpg",
+        "sourcePage": "https://theinnsteadgetaway.com/about-us/",
+        "alt": "About image",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Photos",
+      "Unit facts and policies",
+      "Observed image asset download did not succeed; exact URL retained for browser download fallback"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0009",
+    "name": "Cottage Place on Squam Lake",
+    "website": "https://www.cottageplaceonsquam.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Single-site cottage vacation-rental community with local contact and family history; official lodging and About opened.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.cottageplaceonsquam.com/",
+      "https://www.cottageplaceonsquam.com/about"
+    ],
+    "contactPagesChecked": [
+      "https://www.cottageplaceonsquam.com/about"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "fullAddress": "1132 US Route3, Holderness, NH03245",
+      "source": "https://www.cottageplaceonsquam.com/about",
+      "street": "1132 US Route3",
+      "city": "Holderness",
+      "state": "NH",
+      "zip": "03245"
+    },
+    "bookingMethod": "Phone6039687116 or cottageplace@gmail.com. About Contact Us is mailto; no standalone contact page linked.",
+    "bookingUrl": "https://resnexus.com/resnexus/reservations/book/EEC110A0-C2A4-493C-8026-359A40966CC5/?NewSearch=1",
+    "operatorEvidenceUrl": "https://www.cottageplaceonsquam.com/about",
+    "notes": "Operator-level campus. Contact Us link inspected resolves to mailto; About reach-out section/footer inspected.",
+    "description": "Cabins and vacation rentals at Squam Lake with shared beach and outdoor amenities.",
+    "descriptionSource": "https://www.cottageplaceonsquam.com/about",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0009-cover.webp",
+        "url": "https://irp.cdn-website.com/13c0eabf/dms3rep/multi/opt/IMG_7509-cf57032f-2304w.jpg",
+        "sourcePage": "https://www.cottageplaceonsquam.com/",
+        "role": "cover",
+        "sha256": "a3cfc898f6d2c29a76ab7cfe695067a4eaf6d09f0be3280e8cdb0dc28802180f",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1920,
+        "originalHeight": 1440,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      },
+      {
+        "file": "images/NH-0009-000.webp",
+        "url": "https://irp.cdn-website.com/13c0eabf/dms3rep/multi/opt/IMG_1861-349a3c8c-1612w.jpeg",
+        "sourcePage": "https://www.cottageplaceonsquam.com/",
+        "role": "additional",
+        "sha256": "8142663db41fee1d60978ee02cf55f79388933345ee83618a38b86ebd284316d",
+        "width": 1600,
+        "height": 1200,
+        "originalWidth": 1610,
+        "originalHeight": 1208,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      },
+      {
+        "file": "images/NH-0009-001.webp",
+        "url": "https://irp.cdn-website.com/13c0eabf/dms3rep/multi/opt/IMG_5144-1612w.jpeg",
+        "sourcePage": "https://www.cottageplaceonsquam.com/",
+        "role": "additional",
+        "sha256": "e140582f6dddb62f02f826b4e03a637c8da462c1ae694ca2879c0481b12a59f8",
+        "width": 1600,
+        "height": 1200,
+        "originalWidth": 1610,
+        "originalHeight": 1208,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://irp.cdn-website.com/13c0eabf/dms3rep/multi/opt/IMG_7509-cf57032f-2304w.jpg",
+        "sourcePage": "https://www.cottageplaceonsquam.com/",
+        "alt": "Lake surrounded by trees",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://irp.cdn-website.com/13c0eabf/dms3rep/multi/opt/3L7A0012--281-29-2304w.png",
+        "sourcePage": "https://www.cottageplaceonsquam.com/",
+        "alt": "Squam Lake",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://irp.cdn-website.com/13c0eabf/dms3rep/multi/opt/IMG_1861-349a3c8c-1612w.jpeg",
+        "sourcePage": "https://www.cottageplaceonsquam.com/",
+        "alt": "Camp Store",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://irp.cdn-website.com/13c0eabf/dms3rep/multi/opt/IMG_5144-1612w.jpeg",
+        "sourcePage": "https://www.cottageplaceonsquam.com/",
+        "alt": "Beach access and guest boats",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Unit facts and policies",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0010",
+    "name": "Shamrock Grove",
+    "website": "https://shamrockmotelnh.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Family owned and operated by hosts Byron and Donna O\u2019Donnell; small local motel with adjoining suites and onsite farm/cidery.",
+    "classification": "Small inn / lodge",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://shamrockmotelnh.com/",
+      "https://shamrockmotelnh.com/contact-directions/"
+    ],
+    "contactPagesChecked": [
+      "https://shamrockmotelnh.com/contact-directions/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "fullAddress": "2913 U.S. Route3, Thornton, NH03285",
+      "source": "https://shamrockmotelnh.com/contact-directions/",
+      "street": "2913 U.S. Route3",
+      "city": "Thornton",
+      "state": "NH",
+      "zip": "03285"
+    },
+    "bookingMethod": "Phone6037263534; contact page explicitly assists booking stays",
+    "bookingUrl": "https://www.availabilityonline.com/availability_search.php?un=shamrockmotel",
+    "operatorEvidenceUrl": "https://shamrockmotelnh.com/",
+    "notes": "Rooms have microwave, refrigerator and coffee maker; adjoining rooms form suites. Direct phone inquiry verified.",
+    "description": "Family-run Thornton motel with adjoining suites, pool, cidery and a small farm.",
+    "descriptionSource": "https://shamrockmotelnh.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0010-cover.webp",
+        "url": "https://shamrockmotelnh.com/wp-content/uploads/2024/05/shamrock-amenities-02-new.jpg",
+        "sourcePage": "https://shamrockmotelnh.com/",
+        "role": "cover",
+        "sha256": "86cdbe7607ab34218c7377f6705135de4777333adc687f04baf4853fb6a1e3ce",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 700,
+        "originalHeight": 1000,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://shamrockmotelnh.com/wp-content/uploads/2024/04/shamrock-amenities-03.jpg",
+        "sourcePage": "https://shamrockmotelnh.com/",
+        "alt": "Shamrock Grove Sign",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://shamrockmotelnh.com/wp-content/uploads/2024/05/shamrock-amenities-02-new.jpg",
+        "sourcePage": "https://shamrockmotelnh.com/",
+        "alt": "Pool with mountain view",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Unit facts and policies",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Small inn / lodge"
+  },
+  {
+    "id": "NH-0011",
+    "name": "Alpine Garden",
+    "website": "https://www.alpinegardenglamping.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened home/About identify locally handcrafted cabin/treehouse village and family-run operation; contact page provides direct lodging assistance.",
+    "classification": "Camp / glamping",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.alpinegardenglamping.com/",
+      "https://www.alpinegardenglamping.com/contact-6",
+      "https://www.alpinegardenglamping.com/about",
+      "https://www.alpinegardenglamping.com/book-a-campsite"
+    ],
+    "contactPagesChecked": [
+      "https://www.alpinegardenglamping.com/contact-6"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "1255 US RTE302",
+      "city": "Bartlett",
+      "state": "NH",
+      "zip": "03812",
+      "source": "https://www.alpinegardenglamping.com/contact-6"
+    },
+    "bookingMethod": "Phone6033745154, Breezy@alpinegardenglamping.com or direct contact form",
+    "bookingUrl": "https://www.alpinegardenglamping.com/contact-6",
+    "operatorEvidenceUrl": "https://www.alpinegardenglamping.com/",
+    "description": "Bartlett cabin and treehouse village with an onsite winery and heated pool.",
+    "descriptionSource": "https://www.alpinegardenglamping.com/about",
+    "notes": "Book a Campsite page opened; booking widget not exposed in DOM, but direct phone/email inquiry verified. Cabin described as deluxe hotel-style bedroom with private bath.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0011-cover.webp",
+        "url": "https://static.wixstatic.com/media/cef419_ddadc4826706481093edf8e21a7ab7f5~mv2.jpg/v1/fill/w_1180,h_2196,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/cef419_ddadc4826706481093edf8e21a7ab7f5~mv2.jpg",
+        "sourcePage": "https://www.alpinegardenglamping.com/",
+        "role": "cover",
+        "sha256": "fe6c5ed8bfc29690b7e78aee799b8a6b57365b321a4192350fbcfd4130d2b506",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1180,
+        "originalHeight": 2196,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Treehouse",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/cef419_ddadc4826706481093edf8e21a7ab7f5~mv2.jpg/v1/fill/w_1180,h_2196,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/cef419_ddadc4826706481093edf8e21a7ab7f5~mv2.jpg",
+        "sourcePage": "https://www.alpinegardenglamping.com/",
+        "alt": "Alpine Garden Treehouse",
+        "unitOrCampus": "Treehouse",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit capacity and policies",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Camp / glamping"
+  },
+  {
+    "id": "NH-0012",
+    "name": "At Bear Tree",
+    "website": "https://www.atbeartree.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Cabins/inn in Pittsburg; Legacy page establishes Lyons family stewardship and named current hosts; phone and official contact form verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.atbeartree.com/",
+      "https://www.atbeartree.com/the-legacy",
+      "https://www.atbeartree.com/the-glen"
+    ],
+    "contactPagesChecked": [
+      "https://www.atbeartree.com/",
+      "https://www.atbeartree.com/the-legacy"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "118 Glen Road",
+      "city": "Pittsburg",
+      "state": "NH",
+      "zip": "03592",
+      "source": "https://www.atbeartree.com/the-legacy",
+      "notes": "The Glen/contact campus; not address of every outpost cabin."
+    },
+    "bookingMethod": "Phone6035389995 or official footer inquiry form. Direct bookings.atbeartree.com link observed.",
+    "bookingUrl": "https://bookings.atbeartree.com/",
+    "operatorEvidenceUrl": "https://www.atbeartree.com/the-legacy",
+    "description": "Family-stewarded Pittsburg cabins and inn on First Connecticut Lake and nearby woodland sites.",
+    "descriptionSource": "https://www.atbeartree.com/",
+    "notes": "No separate Contact link in full published navigation; actual contact form/address reviewed on homepage and Legacy. Legacy navigation timed out but loaded page read successfully. Home lists10 lakeside cabins,6 outposts,4-bedroom inn; operator-level capacities must not be merged.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; none found",
+    "photos": [],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/2140db_813ae8336a094db8932c373ddc7f832e~mv2.png/v1/fill/w_1210,h_700,al_c,q_90,enc_avif,quality_auto/1785117827877.png",
+        "sourcePage": "https://www.atbeartree.com/the-glen",
+        "alt": "Aerial view The Glen campus and lakeside cabins",
+        "unitOrCampus": "The Glen campus",
+        "checkedOn": "2026-10-26",
+        "generated": "Unknown",
+        "photoWarning": "Local visual review shows stylized grayscale campus plan/rendering, not established as authentic photograph. Do not publish as genuine photo."
+      }
+    ],
+    "remainingGaps": [
+      "Photos",
+      "Per-unit facts and policies",
+      "Authentic photograph needed; campus aerial candidate is source-provided rendering/illustration"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0013",
+    "name": "Channel Waterfront Cottages",
+    "website": "https://www.channelcottages.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official homepage says DeMatos-family operated since1992;15 vacation cottages in Weirs Beach; contact page confirms direct reservation phone.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.channelcottages.com/",
+      "https://www.channelcottages.com/contact.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.channelcottages.com/contact.html"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "1192 Weirs Blvd Rt3",
+      "city": "Weirs Beach",
+      "state": "NH",
+      "zip": "03247",
+      "source": "https://www.channelcottages.com/contact.html",
+      "notes": "Contact also publishes PO Box5106; preserve separately as mailing, not cottage entrance."
+    },
+    "bookingMethod": "Call6033664673 for reservations/rates/availability; Jose@ChannelCottages.com",
+    "bookingUrl": "https://www.channelcottages.com/contact.html",
+    "operatorEvidenceUrl": "https://www.channelcottages.com/",
+    "description": "Family-operated Lake Winnipesaukee cottage campus with a private beach and boat dock.",
+    "descriptionSource": "https://www.channelcottages.com/",
+    "notes": "15 cottages with1,2 and3+ bedrooms; most full kitchen. Homepage welcomes couples and families. Campus record, not one rental.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "15 cottages;1,2,3+ bedrooms by unit",
+      "kidsDetails": "Homepage welcomes all couples and families",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Call for rates"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0013-cover.webp",
+        "url": "https://www.channelcottages.com/images/01.jpg",
+        "sourcePage": "https://www.channelcottages.com/",
+        "role": "cover",
+        "sha256": "21dd901545f38b49bebe789d87987ef283a0a9916b1215db171fa5bbbddaf7cf",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 299,
+        "originalHeight": 221,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      },
+      {
+        "file": "images/NH-0013-000.webp",
+        "url": "https://www.channelcottages.com/images/02.jpg",
+        "sourcePage": "https://www.channelcottages.com/",
+        "role": "additional",
+        "sha256": "0f4dd5633f2aa0b1d5ffb5f4b3292be7304862df25739c9b52ab460f378cf527",
+        "width": 300,
+        "height": 221,
+        "originalWidth": 300,
+        "originalHeight": 221,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      },
+      {
+        "file": "images/NH-0013-001.webp",
+        "url": "https://www.channelcottages.com/images/04.jpg",
+        "sourcePage": "https://www.channelcottages.com/",
+        "role": "additional",
+        "sha256": "27afd4c5d49e762a1fdf615d0faff8ee6fec60961de672c965a342b09066f081",
+        "width": 299,
+        "height": 221,
+        "originalWidth": 299,
+        "originalHeight": 221,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://www.channelcottages.com/images/01.jpg",
+        "sourcePage": "https://www.channelcottages.com/",
+        "alt": "Private Sandy Beach",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://www.channelcottages.com/images/02.jpg",
+        "sourcePage": "https://www.channelcottages.com/",
+        "alt": "Amenities",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://www.channelcottages.com/images/04.jpg",
+        "sourcePage": "https://www.channelcottages.com/",
+        "alt": "Boat Dock",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit facts/pet policies",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0014",
+    "name": "The Cottages of Wolfeboro",
+    "website": "https://cottagesnh.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Locally operated cottage campus by White Dog Rentals with named contact Melissa, Wolfeboro cottage accommodation and direct reservation inquiry verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://cottagesnh.com/",
+      "https://cottagesnh.com/contact",
+      "https://cottagesnh.com/about"
+    ],
+    "contactPagesChecked": [
+      "https://cottagesnh.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "54 Center Street",
+      "city": "Wolfeboro",
+      "state": "NH",
+      "zip": "03894",
+      "source": "https://cottagesnh.com/contact",
+      "notes": "Separate mailing35 Center Street, PO Box846, Wolfeboro Falls NH03896-7633."
+    },
+    "bookingMethod": "Call/text6035690999, Melissa@CottagesNH.com or official reservation inquiry form",
+    "bookingUrl": "https://cottagesnh.com/contact",
+    "operatorEvidenceUrl": "https://cottagesnh.com/",
+    "description": "Year-round pet-friendly cottage campus near downtown Wolfeboro and Lake Winnipesaukee.",
+    "descriptionSource": "https://cottagesnh.com/",
+    "notes": "Site brought to you by White Dog Rentals. Do not mix its Tuftonboro lake houses with cottage photos/facts. About says campus hosts up to75; not individual-unit occupancy. Contact navigation timeout but loaded content read.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Campus up to75; unit capacity Unknown",
+      "kidsDetails": "Family gatherings and children in inquiry form",
+      "petsDetails": "Official home pet-friendly; restrictions not reviewed",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0014-cover.webp",
+        "url": "https://img1.wsimg.com/isteam/ip/3944a1b7-95f5-4e0f-8f33-d48fbfe58378/Front%20picture%20of%20the%20cottage%202023%20Summer.JPEG/:/rs=w:667,h:500,cg:true,m/cr=w:667,h:500",
+        "sourcePage": "https://cottagesnh.com/",
+        "role": "cover",
+        "sha256": "77dbcb17d9b8a610b4b6c24fe50bdb5d7559c5341b93a15e05fe3567b8defe8c",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 667,
+        "originalHeight": 500,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Wolfeboro campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/3944a1b7-95f5-4e0f-8f33-d48fbfe58378/Front%20picture%20of%20the%20cottage%202023%20Summer.JPEG/:/rs=w:667,h:500,cg:true,m/cr=w:667,h:500",
+        "sourcePage": "https://cottagesnh.com/",
+        "alt": "Cottage front",
+        "unitOrCampus": "Wolfeboro campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit facts and policy details",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0016",
+    "name": "Bretton Woods Vacations",
+    "website": "https://www.brettonwoodsvacations.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official home explicitly family-owned local vacation rental company; NH town rental catalog and direct contact verified.",
+    "classification": "Local rental manager",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.brettonwoodsvacations.com/",
+      "https://www.brettonwoodsvacations.com/contact-us/"
+    ],
+    "contactPagesChecked": [
+      "https://www.brettonwoodsvacations.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "fullAddress": "9 Remick Lane, Bretton Woods, NH03575",
+      "source": "https://www.brettonwoodsvacations.com/contact-us/",
+      "street": "9 Remick Lane",
+      "city": "Bretton Woods",
+      "state": "NH",
+      "zip": "03575"
+    },
+    "bookingMethod": "Phone6033892121, info@brettonwoodsvacations.com",
+    "bookingUrl": "https://www.brettonwoodsvacations.com/contact-us/",
+    "operatorEvidenceUrl": "https://www.brettonwoodsvacations.com/",
+    "description": "Family-owned manager of vacation homes and cabins in Bretton Woods and nearby White Mountains towns.",
+    "descriptionSource": "https://www.brettonwoodsvacations.com/",
+    "notes": "Local manager record with125+ homes; never treat office as rental entrance or combine managed-home photos. Contact navigation timed out but full loaded contact content read.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked home/contact; no actual listing links found (Booking.com award text is not a listing).",
+    "photos": [],
+    "photoCandidates": [],
+    "remainingGaps": [
+      "Photos",
+      "Per-unit facts",
+      "Attributable individual rental/campus photo needed; homepage area photos not used"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Local rental manager"
+  },
+  {
+    "id": "NH-0017",
+    "name": "Maple Moose Lodge and Cottages",
+    "website": "https://maplemoosenh.godaddysites.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Official Facebook Contact Us points to GoDaddy site serving File not found(404) on opening and reload; no functioning own site verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://maplemoosenh.godaddysites.com/",
+      "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/",
+      "https://www.visitnh.gov/business/detail/768"
+    ],
+    "contactPagesChecked": [
+      "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/"
+    ],
+    "contactAddress": {
+      "role": "property; official website unverified",
+      "fullAddress": "12 Maple St, Laconia, NH03246-1804",
+      "source": "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://maplemoosenh.godaddysites.com/",
+    "description": "Unknown",
+    "descriptionSource": "https://maplemoosenh.godaddysites.com/",
+    "notes": "VisitNH768 has no website; one focused reverse search found official Facebook. Official Facebook directly opened and reviewed public contact:6033669100, two units each sleeps4, links to cabin/cottage Airbnb/Vrbo. Search snippets were not used as verification. Contact site404 prevents independent-website eligibility.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [
+      {
+        "url": "https://www.airbnb.com/h/maplemoosecabin",
+        "sourcePage": "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/",
+        "identity": "Official public post labels cabin/cottage; destination not yet opened; do not badge until checked"
+      },
+      {
+        "url": "https://www.airbnb.com/h/maplemoosecottage",
+        "sourcePage": "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/",
+        "identity": "Official public post labels cabin/cottage; destination not yet opened; do not badge until checked"
+      },
+      {
+        "url": "https://www.vrbo.com/2245181?unitId=2809746",
+        "sourcePage": "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/",
+        "identity": "Official public post labels cabin/cottage; destination not yet opened; do not badge until checked"
+      },
+      {
+        "url": "https://www.vrbo.com/2245230?unitId=2809795",
+        "sourcePage": "https://www.facebook.com/p/Maple-Moose-Lodge-and-cottages-100065046037168/",
+        "identity": "Official public post labels cabin/cottage; destination not yet opened; do not badge until checked"
+      }
+    ],
+    "platformCheckStatus": "Official links discovered; destination identity verification pending",
+    "photos": [],
+    "photoCandidates": [],
+    "remainingGaps": [
+      "Working independent website",
+      "Own website contact/address check unavailable",
+      "Ownership confirmation",
+      "Photos"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://maplemoosenh.godaddysites.com/",
+        "observed": "GoDaddy File not found(404 error), confirmed reload",
+        "attempts": 2
+      }
+    ],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0018",
+    "name": "The Cabins At Temple",
+    "website": "https://www.thecabinsattemple.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Published operator host redirects to www homepage serving Chrome HTTP ERROR404; search-discovered official terms page also HTTP response failure.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.thecabinsattemple.com/",
+      "https://www.thecabinsattemple.com/terms-and-conditions",
+      "https://www.visitnh.gov/business/detail/1189"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "property; official website unverified",
+      "fullAddress": "Unknown",
+      "source": "https://www.thecabinsattemple.com/terms-and-conditions"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://www.thecabinsattemple.com/",
+    "description": "Unknown",
+    "descriptionSource": "https://www.thecabinsattemple.com/",
+    "notes": "VisitNH1189 opened:16 Cabins RD, Temple NH01824 (directory ZIP inconsistent with NH; not adopted). Bare domain is malformed directory relative URL; published host used. One focused reverse-search found same host terms page; it also fails. No verified working own website/contact.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Unknown",
+    "photos": [],
+    "photoCandidates": [],
+    "remainingGaps": [
+      "Working operator website",
+      "Own contact/address/booking/ownership checks",
+      "Photos"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://www.thecabinsattemple.com/",
+        "observed": "Chrome page cannot be found; HTTP ERROR404"
+      },
+      {
+        "url": "https://www.thecabinsattemple.com/terms-and-conditions",
+        "observed": "net::ERR_HTTP_RESPONSE_CODE_FAILURE"
+      }
+    ],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0019",
+    "name": "The Partridge Cabins & Lodge",
+    "website": "https://partridgecabins.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Small onsite operator (General Info explicitly We live here), vacation cabins in Pittsburg, direct reservation phone/email verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://partridgecabins.com/",
+      "https://partridgecabins.com/contact-us/",
+      "https://partridgecabins.com/about-us/general-info/"
+    ],
+    "contactPagesChecked": [
+      "https://partridgecabins.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "3 Partridge Road",
+      "city": "Pittsburg",
+      "state": "NH",
+      "zip": "03592",
+      "source": "https://partridgecabins.com/contact-us/"
+    },
+    "bookingMethod": "Call8005386380 for reservations; PartridgeCabins@PartridgeCabins.com or info@partridgecabins.com",
+    "bookingUrl": "https://partridgecabins.com/contact-us/",
+    "operatorEvidenceUrl": "https://partridgecabins.com/about-us/general-info/",
+    "description": "Year-round Pittsburg cabin campus at First Connecticut Lake with full kitchens and outdoor access.",
+    "descriptionSource": "https://partridgecabins.com/",
+    "notes": "Cabin capacities/prices differ: Hubbard6-8 $180/night; Webster/Carlisle2-4 $155; others vary. General Info states holiday3-night stays and pet rules.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Conditional",
+      "capacityDetails": "Unit ranges2-8; operator record",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Dogs/cats $15/night/pet; leash, crate when left, keep off furniture; damage charged",
+      "priceFrom": 155,
+      "currency": "USD",
+      "priceDetails": "Website static nightly Webster/Carlisle rate$155; other units$170-$200; rates subject to change/tax;3-night holiday stays"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened pages; none found",
+    "photos": [
+      {
+        "file": "images/NH-0019-cover.webp",
+        "url": "https://partridgecabins.com/wp-content/themes/partridge-2020/images/backgrounds-lake.jpg",
+        "sourcePage": "https://partridgecabins.com/",
+        "role": "cover",
+        "sha256": "37bb205609af8da0468a2764a93a3e66fbf2053868525be4148876056eba359c",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1800,
+        "originalHeight": 836,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "campus",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://partridgecabins.com/wp-content/themes/partridge-2020/images/backgrounds-lake.jpg",
+        "sourcePage": "https://partridgecabins.com/",
+        "alt": "lake setting",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://partridgecabins.com/wp-content/themes/partridge-2020/images/backgrounds-winter.jpg",
+        "sourcePage": "https://partridgecabins.com/",
+        "alt": "winter setting",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://partridgecabins.com/wp-content/uploads/2020/09/hubbard-img-1-2vtk0qbqg17glqqzriehvu.jpg",
+        "sourcePage": "https://partridgecabins.com/",
+        "alt": "Hubbard cabin",
+        "unitOrCampus": "Hubbard; do not mix other units",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Individual-unit facts",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0020",
+    "name": "Purity Spring Resort",
+    "website": "https://www.purityspring.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened current October16,2026 official news confirms Hoyt-family ownership and local family managing partners; Madison cottages/condos and direct phone/email verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.purityspring.com/",
+      "https://www.purityspring.com/blog/king-pine-and-purity-spring-resort-announce-new-managing-partners/",
+      "https://www.purityspring.com/rooms/"
+    ],
+    "contactPagesChecked": [
+      "https://www.purityspring.com/rooms/",
+      "https://www.purityspring.com/blog/king-pine-and-purity-spring-resort-announce-new-managing-partners/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "1256 Eaton Road",
+      "city": "Madison",
+      "state": "NH",
+      "zip": "03849",
+      "source": "https://www.purityspring.com/rooms/",
+      "notes": "Official Directions footer explicitly distinguishes mailing1251 Eaton Road."
+    },
+    "bookingMethod": "Phone6033678896 or info@purityspring.com; official reservation link",
+    "bookingUrl": "https://reservations.purityspring.com/purityspring/#openWidget",
+    "operatorEvidenceUrl": "https://www.purityspring.com/blog/king-pine-and-purity-spring-resort-announce-new-managing-partners/",
+    "description": "Hoyt-family Madison lake resort with cottages, condos, lodges and year-round outdoor activities.",
+    "descriptionSource": "https://www.purityspring.com/rooms/",
+    "notes": "No separate Contact page link; published Contact Us section contains direct phone/mailto; Directions/address reviewed on official lodging and ownership pages. Footer still says managed by Highway West Vacations, but current October16 news explicitly identifies local Hoyt family owners/managing partners. Preserve management distinction.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Multiple unit types; family lodging varies",
+      "kidsDetails": "Official rooms page expressly accommodates family vacations",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Opened official pages checked; none found",
+    "photos": [
+      {
+        "file": "images/NH-0020-cover.webp",
+        "url": "https://www.purityspring.com/wp-content/uploads/2022/03/DSC_881-3-scaled.jpg.webp",
+        "sourcePage": "https://www.purityspring.com/rooms/",
+        "role": "cover",
+        "sha256": "670680aea34b12e96ee43e003984f23536aba18f1b264fd73f2aa2b3799193af",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1920,
+        "originalHeight": 1282,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Premium Lake View Family Unit only; do not combine other room types",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://www.purityspring.com/wp-content/uploads/2022/03/DSC_881-3-scaled.jpg.webp",
+        "sourcePage": "https://www.purityspring.com/rooms/",
+        "alt": "Premium Lake View Family Unit at The Inn",
+        "unitOrCampus": "Premium Lake View Family Unit only; do not combine other room types",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit facts/policies",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0021",
+    "name": "Sugar Hill Inn",
+    "website": "https://sugarhillinn.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Innkeeper page identifies Chris/Lisa family operating local inn; vacation cottages in Sugar Hill and direct phone/email/inn booking links verified.",
+    "classification": "Small inn / lodge",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://sugarhillinn.com/",
+      "https://sugarhillinn.com/innkeeper-staff/",
+      "https://sugarhillinn.com/new-hampshire-vacation-cottages/"
+    ],
+    "contactPagesChecked": [
+      "https://sugarhillinn.com/innkeeper-staff/",
+      "https://sugarhillinn.com/new-hampshire-vacation-cottages/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "116 NH-117 Sugar Hill Rd",
+      "city": "Sugar Hill",
+      "state": "NH",
+      "zip": "03586",
+      "source": "https://sugarhillinn.com/new-hampshire-vacation-cottages/",
+      "notes": "Do not use printed GPS34.108010,-84.037410: clearly conflicts with official NH text address."
+    },
+    "bookingMethod": "info@sugarhillinn.com or phone; official ThinkReservations Inn Reservations link",
+    "bookingUrl": "https://secure.thinkreservations.com/sugarhillinn/reservations",
+    "operatorEvidenceUrl": "https://sugarhillinn.com/innkeeper-staff/",
+    "description": "Family-operated Sugar Hill inn with romantic vacation cottages, private baths and mountain access.",
+    "descriptionSource": "https://sugarhillinn.com/new-hampshire-vacation-cottages/",
+    "notes": "No separate Contact page found in full published navigation; direct phone/mailto and address reviewed on staff/cottage pages. Home/staff phone6038235621; cottages phone6038383229\u2014preserve conflict. Do not use erroneous GPS. Cottage rates vary by season/day.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Conditional",
+      "pets": "Unknown",
+      "capacityDetails": "Seven cottage rooms plus main inn; individual occupancy Unknown",
+      "kidsDetails": "Official cottage page says inn not suitable for children under14",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Daily rates on reservation page; vary by season/day; no numeric lodging rate adopted"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Opened pages checked; none found",
+    "photos": [
+      {
+        "file": "images/NH-0021-cover.webp",
+        "url": "https://sugarhillinn.com/wp-content/uploads/2020/03/new-hampshire-vacation-cottage.jpg",
+        "sourcePage": "https://sugarhillinn.com/new-hampshire-vacation-cottages/",
+        "role": "cover",
+        "sha256": "1fab515597b7a816c3cbf23348da20b233dd061f8c35b3b4825a0321ff96966f",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 600,
+        "originalHeight": 600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Dream Cottage",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://sugarhillinn.com/wp-content/uploads/2020/03/new-hampshire-vacation-cottage.jpg",
+        "sourcePage": "https://sugarhillinn.com/new-hampshire-vacation-cottages/",
+        "alt": "Sugar Hill Inn Dream Cottage",
+        "unitOrCampus": "Dream Cottage",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit capacity",
+      "Pet policy",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Small inn / lodge"
+  },
+  {
+    "id": "NH-0023",
+    "name": "Presidential Mountain Resort",
+    "website": "https://presidentialmountainresort.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Own homepage and contact route blocked by connection-security/robot CAPTCHA; official tourism listing supports Bethlehem accommodation but independence/direct path not verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://presidentialmountainresort.com/",
+      "https://presidentialmountainresort.com/contact/",
+      "https://www.visitnh.gov/business/detail/548"
+    ],
+    "contactPagesChecked": [
+      "https://presidentialmountainresort.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "partial location",
+      "fullAddress": "Unknown",
+      "city": "Bethlehem",
+      "state": "NH",
+      "source": "https://presidentialmountainresort.com/contact/",
+      "notes": "Contact access blocked"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "https://presidentialmountainresort.com/contact/",
+    "operatorEvidenceUrl": "Unknown",
+    "description": "Unknown",
+    "descriptionSource": "https://presidentialmountainresort.com/",
+    "notes": "Opened VisitNH548 identifies resort cabins/glamping at1108 Main St Rt302 Bethlehem NH03574; homepage progressed to Robot Challenge asking CAPTCHA. Second attempt official search-discovered Contact also security check. No CAPTCHA attempted; this is automation access limitation, not down website.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Access limited",
+    "photos": [],
+    "photoCandidates": [],
+    "remainingGaps": [
+      "Independent/local ownership evidence",
+      "Photos",
+      "Own website contact/address and direct booking verification"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://presidentialmountainresort.com/",
+        "observed": "Connection security check then Robot Challenge CAPTCHA"
+      },
+      {
+        "url": "https://presidentialmountainresort.com/contact/",
+        "observed": "Connection security check"
+      }
+    ],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0024",
+    "name": "Fernhill Cottages",
+    "website": "https://fernhillcottages.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Official Alton cottage, direct inquiry and contact pages opened; independent/local ownership evidence remains incomplete.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://fernhillcottages.com/",
+      "https://fernhillcottages.com/contact/",
+      "https://fernhillcottages.com/view-our-cottages/",
+      "https://fernhillcottages.com/about-the-area/"
+    ],
+    "contactPagesChecked": [
+      "https://fernhillcottages.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "partial location",
+      "fullAddress": "Unknown",
+      "city": "Alton",
+      "state": "NH",
+      "source": "https://fernhillcottages.com/contact/",
+      "notes": "Exact rental address not publicly disclosed on reviewed own pages"
+    },
+    "bookingMethod": "Direct availability inquiry form",
+    "bookingUrl": "https://fernhillcottages.com/contact/",
+    "operatorEvidenceUrl": "Unknown",
+    "description": "Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.",
+    "descriptionSource": "https://fernhillcottages.com/",
+    "notes": "Official Contact form accepts dates/questions for availability. Contact and About the Area reviewed; no exact street address published there. Do not adopt60 Fernhill Dr from directory as officially verified entrance. Three named cottages; no smoking/no pets; full-week stays midJune-LaborDay. Owner identity/independence needs supporting source before approval.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "All cottages No Pets, official cottage overview",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Full-week only summer2026 incl8.5%NH room tax; no amount adopted"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened pages; none found",
+    "photos": [],
+    "photoCandidates": [
+      {
+        "url": "https://fernhillcottages.com/wp-content/uploads/2026/04/View-of-dock-from-beach-scaled.jpg",
+        "sourcePage": "https://fernhillcottages.com/",
+        "alt": "Dock from beach",
+        "unitOrCampus": "campus",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://fernhillcottages.com/wp-content/uploads/2020/09/point-front-window-2048x1536.jpg",
+        "sourcePage": "https://fernhillcottages.com/view-our-cottages/",
+        "alt": "Point front",
+        "unitOrCampus": "Point Cottage; never combine other cottages",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Independent/local ownership evidence",
+      "Photos"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0025",
+    "name": "Trailside Stays",
+    "website": "https://www.trailsidestays.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "About explicitly creators local to area; year-round Dorchester cabins and direct email contact verified.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.trailsidestays.com/",
+      "https://www.trailsidestays.com/contact",
+      "https://www.trailsidestays.com/about"
+    ],
+    "contactPagesChecked": [
+      "https://www.trailsidestays.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "14 Trailside Lane",
+      "city": "Dorchester",
+      "state": "NH",
+      "zip": "03266",
+      "source": "https://www.trailsidestays.com/contact"
+    },
+    "bookingMethod": "info@trailsidestays.com",
+    "bookingUrl": "https://book.trailsidestays.com/",
+    "operatorEvidenceUrl": "https://www.trailsidestays.com/about",
+    "description": "Locally created Dorchester cabins with kitchenettes, private bathrooms and access to Green Woodlands trails.",
+    "descriptionSource": "https://www.trailsidestays.com/about",
+    "notes": "Original bare-domain directory URL corrected to its published host. Contact email verified; profile links discovered, not yet badge verified.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "1 or2 queen beds; occupancy not inferred",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Strict no pets to keep cabins allergen-free",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [
+      {
+        "url": "https://www.airbnb.com/users/profile/1469808001897555009?previous_page_name=PdpHomeMarketplace",
+        "sourcePage": "https://www.trailsidestays.com/about",
+        "identity": "Official profile link; destination not opened; no badge until attributable identity verified"
+      },
+      {
+        "url": "https://www.airbnb.com/users/show/390565007",
+        "sourcePage": "https://www.trailsidestays.com/about",
+        "identity": "Official profile link; destination not opened; no badge until attributable identity verified"
+      }
+    ],
+    "platformCheckStatus": "Opened official pages checked; no verified badges",
+    "photos": [
+      {
+        "file": "images/NH-0025-cover.webp",
+        "url": "https://static.wixstatic.com/media/f694bd_44b00c8eecb84ba59c60b714f1dd756f~mv2.jpg/v1/fill/w_1960,h_1038,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/f694bd_44b00c8eecb84ba59c60b714f1dd756f~mv2.jpg",
+        "sourcePage": "https://www.trailsidestays.com/",
+        "role": "cover",
+        "sha256": "372cd1a55ccc391c0a4d6ea12c69c7f269cfb6760692e4879dcff81bacebf96e",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1960,
+        "originalHeight": 1038,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Representative cabin feature; unidentified unit; avoid assembling different named cabins",
+        "verification": "Saved asset visually inspected in local contact sheet2026-10-26; loads and matches cited source/property or campus context."
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/f694bd_44b00c8eecb84ba59c60b714f1dd756f~mv2.jpg/v1/fill/w_1960,h_1038,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/f694bd_44b00c8eecb84ba59c60b714f1dd756f~mv2.jpg",
+        "sourcePage": "https://www.trailsidestays.com/",
+        "alt": "woman sitting on bed in tiny house",
+        "unitOrCampus": "Representative cabin feature; unidentified unit; avoid assembling different named cabins",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://static.wixstatic.com/media/f694bd_583654d3fc0640e99d6ff3683c48213d~mv2.jpg/v1/fill/w_666,h_572,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_7607.jpg",
+        "sourcePage": "https://www.trailsidestays.com/",
+        "alt": "Kitchen",
+        "unitOrCampus": "Representative cabin feature; unidentified unit; avoid assembling different named cabins",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      },
+      {
+        "url": "https://static.wixstatic.com/media/f694bd_5bf25bb040e4402e965fbcf97914a040~mv2.jpg/v1/crop/x_0,y_427,w_1816,h_2934/fill/w_354,h_572,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20211212_132150.jpg",
+        "sourcePage": "https://www.trailsidestays.com/",
+        "alt": "Bathroom",
+        "unitOrCampus": "Representative cabin feature; unidentified unit; avoid assembling different named cabins",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Unit capacities",
+      "Four-photo set incomplete"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  },
+  {
+    "id": "NH-0026",
+    "name": "Weirs Beach Motel and Cottages",
+    "website": "https://www.weirsbeachmotel.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Accommodation/site identity, Laconia location and direct contact verified; About gives policies but owner/local independence evidence remains incomplete.",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.weirsbeachmotel.com/",
+      "https://www.weirsbeachmotel.com/contact",
+      "https://www.weirsbeachmotel.com/about"
+    ],
+    "contactPagesChecked": [
+      "https://www.weirsbeachmotel.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "396 Lakeside Ave.",
+      "city": "Laconia",
+      "state": "NH",
+      "zip": "03246",
+      "source": "https://www.weirsbeachmotel.com/contact"
+    },
+    "bookingMethod": "Phone6033664604 or info@weirsbeachmotel.com",
+    "bookingUrl": "https://www.weirsbeachmotel.com/contact",
+    "operatorEvidenceUrl": "https://www.weirsbeachmotel.com/about",
+    "description": "Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.",
+    "descriptionSource": "https://www.weirsbeachmotel.com/about",
+    "notes": "Contact warns navigation maps may direct guests four doors away; look for property sign. Ownership evidence not established on reviewed pages; hold candidate.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Max2pets/room,35lb max each,$30/night; dogs restricted by listed breed/aggression; never unattended; vaccination/leash/waste rules",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Opened official pages checked; no verified badges",
+    "photos": [],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/b8cf1a_e7d720ff21ee4d5e842eaa0b31881844~mv2.jpg/v1/fill/w_147,h_69,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/b8cf1a_e7d720ff21ee4d5e842eaa0b31881844~mv2.jpg",
+        "sourcePage": "https://www.weirsbeachmotel.com/",
+        "alt": "Small cottages front walk view2",
+        "unitOrCampus": "Campus; low-res placeholder needs gallery full-size",
+        "checkedOn": "2026-10-26",
+        "generated": false
+      }
+    ],
+    "remainingGaps": [
+      "Downloaded photos",
+      "Unit capacities",
+      "Independent/local ownership evidence"
+    ],
+    "accessFailures": [],
+    "verificationMethod": "Connected Chrome browser ID1 (Sandy profile), opened operator/directory pages; read rendered DOM and native accessibility where needed. No forms submitted.",
+    "type": "Cabins / small operator"
+  }
+]

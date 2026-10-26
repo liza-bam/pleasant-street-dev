@@ -1,0 +1,149 @@
+{
+  "NH-0024": {
+    "id": "NH-0024",
+    "name": "Fernhill Cottages",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Own cottage/contact pages and official tourism profile support local Alton accommodation and direct inquiry, but no opened page identifies the owner or expressly establishes independent/local operation. Retain candidate.",
+    "operatorEvidenceUrl": "https://www.visitnh.gov/business/detail/151",
+    "openedUrls": [
+      "https://www.google.com/search?q=%22Fernhill+Cottages%22+owners+family+Alton",
+      "https://www.visitnh.gov/business/detail/151",
+      "https://fernhillcottages.com/contact/"
+    ],
+    "ownerEvidence": [
+      {
+        "url": "https://www.visitnh.gov/business/detail/151",
+        "observation": "Official business profile identifies Fernhill Cottages at60FernhillDr Alton NH03809, phone6034903795, operator host fernhillcottages.com, and published business email fernhillcorporation@gmail.com; no owner/local operation statement."
+      },
+      {
+        "url": "https://fernhillcottages.com/contact/",
+        "observation": "Opened current official form offers date/availability inquiries; navigation has cottages and About the Area, with no owner/legal identity on this page."
+      }
+    ],
+    "notes": "One focused ownership query reviewed; no source snippet used as verification. Municipal/private property-owner search results were not pursued because they do not establish actual vacation operator identity. Existing own-site address limitations preserved.",
+    "remainingGaps": [
+      "Named owner or explicit independent/local operator evidence"
+    ],
+    "verificationMethod": "Opened pages in connected Chrome browser ID1(Sandy profile); rendered DOM/native accessibility. One focused ownership query per unresolved property; snippets used only as leads. No inquiries submitted."
+  },
+  "NH-0026": {
+    "id": "NH-0026",
+    "name": "Weirs Beach Motel and Cottages",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Opened2010 article supports historical Petrini-family ownership, but current official profile/previously reviewed own About do not confirm present ownership. Broker sale listing creates continuity uncertainty; retain candidate.",
+    "operatorEvidenceUrl": "https://www.weirsbeachmotel.com/about",
+    "openedUrls": [
+      "https://www.google.com/search?q=%22Weirs+Beach+Motel+and+Cottages%22+owners+family",
+      "https://www.fosters.com/story/business/2010/06/08/family-roots-center-weirs-beach/51578790007/",
+      "https://www.hospitalityrealestate.com/properties/weirs-beach-motel-cottages-2/",
+      "https://www.visitnh.gov/business/detail/1538"
+    ],
+    "ownerEvidence": [
+      {
+        "url": "https://www.fosters.com/story/business/2010/06/08/family-roots-center-weirs-beach/51578790007/",
+        "observation": "Opened June8,2010 article identifies Dan Petrini as purchaser at foreclosure auction, children/families living onsite and family business; article explicitly names weirsbeachmotel.com. Historical ownership only, not assumed current."
+      },
+      {
+        "url": "https://www.hospitalityrealestate.com/properties/weirs-beach-motel-cottages-2/",
+        "observation": "Opened broker property listing at396LakesideAve matches exact property and says Under Agreement; no listing date or buyer/current owner identified. Therefore no inference that a transaction has completed."
+      },
+      {
+        "url": "https://www.visitnh.gov/business/detail/1538",
+        "observation": "Official current tourism profile confirms name,396LakesideAve Laconia NH03246 and6033664604; no ownership statement."
+      }
+    ],
+    "notes": "No ownership transferred from nearby Channel Waterfront Cottages or NASWA results. Existing direct-contact/accommodation/address checks remain supported; present ownership gap persists.",
+    "remainingGaps": [
+      "Current independent/local ownership continuity evidence"
+    ],
+    "verificationMethod": "Opened pages in connected Chrome browser ID1(Sandy profile); rendered DOM/native accessibility. One focused ownership query per unresolved property; snippets used only as leads. No inquiries submitted."
+  },
+  "NH-0052": {
+    "id": "NH-0052",
+    "name": "Attitash Mountain Village Resort",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened Berry Companies official page explicitly identifies family-run regional MtWashingtonValley business and directly links Attitash Village as its resort. Opened linked Attitash site matches existing NH condominium accommodation/direct-contact checks; independent local operation now supported.",
+    "operatorEvidenceUrl": "https://berry-cos.com/",
+    "openedUrls": [
+      "https://berry-cos.com/",
+      "https://attitashvillage.com/"
+    ],
+    "ownerEvidence": [
+      {
+        "url": "https://berry-cos.com/",
+        "observation": "Official company homepage describes Joe Berry developing local lodging since1976, subsidiary businesses in MtWashingtonValley and family-run business. Resorts footer explicitly labels Attitash Village with direct link https://attitashvillage.com/; same list separately labels Eastern Slope/Village Place and Alpenglow."
+      },
+      {
+        "url": "https://attitashvillage.com/",
+        "observation": "Opened exact Berry-linked resort destination: Attitash Village, four-season Bartlett NH resort; suites/condominiums with full kitchens and direct phone1-833-782-9268/Book Now. Confirms company-to-property connection rather than transferring Village Place ownership by proximity."
+      }
+    ],
+    "notes": "Ownership here denotes independent/local operator relationship, not ownership of every individually titled condominium. Existing contact/address review from batch02 remains in force. Not conflated with Attitash Ski Resort national ski operator.",
+    "remainingGaps": [
+      "Saved authentic photos",
+      "Optional per-unit details"
+    ],
+    "verificationMethod": "Opened pages in connected Chrome browser ID1(Sandy profile); rendered DOM/native accessibility. One focused ownership query per unresolved property; snippets used only as leads. No inquiries submitted."
+  },
+  "NH-0056": {
+    "id": "NH-0056",
+    "name": "Cranmore Condominiums",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Own rental terms identify legal operator LH North Conway Holdings LLC. Official tourism profile publishes LaFrance email; LaFrance official history establishes family-led regional company, but opened portfolio does not explicitly connect Cranmore condominium rentals to it. Retain candidate pending actual operator/parent relationship evidence.",
+    "operatorEvidenceUrl": "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
+    "openedUrls": [
+      "https://www.cranmorecondominiums.com/about",
+      "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
+      "https://www.visitnh.gov/business/detail/948",
+      "https://www.google.com/search?q=site%3Alafrancehospitality.com+Cranmore+Condominiums+family",
+      "https://www.lafrancehospitality.com/",
+      "https://www.lafrancehospitality.com/hotels",
+      "https://www.lafrancehospitality.com/history",
+      "https://lafrancehospitality.com/?page_id=152"
+    ],
+    "ownerEvidence": [
+      {
+        "url": "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
+        "observation": "Opened official terms expressly identify LH North Conway Holdings LLC Vacation Rentals\u2014Kearsarge Brook at Cranmore Condominium as contracting operator; recognizes separate condominium unit owners/association."
+      },
+      {
+        "url": "https://www.visitnh.gov/business/detail/948",
+        "observation": "Official profile matches Cranmore Condominiums at235SkimobileRoad/8664220585 and links own host; Email Business is cranmorecondos@lafrancehospitality.com. Email provides affiliation lead, not proof of corporate ownership."
+      },
+      {
+        "url": "https://www.lafrancehospitality.com/history",
+        "observation": "Opened company history identifies multi-generation Lafrance-family leadership, Westport MA headquarters and NewEngland/Florida hospitality portfolio. Does not name Cranmore Condominiums or LH North Conway Holdings LLC."
+      },
+      {
+        "url": "https://lafrancehospitality.com/?page_id=152",
+        "observation": "Opened official NewHampshire portfolio lists Fairfield Inn & Suites by Marriott North Conway Cranmore Mountain at165SkimobileRd; no Cranmore Condominiums at235SkimobileRoad listed. Do not transfer hotel ownership to condominiums."
+      }
+    ],
+    "notes": "Berry Companies exact homepage resort list does not list Cranmore Condominiums; no Berry ownership assumed. Direct booking/contact/accommodation prior checks retained. Official rental terms newly support No rental guest pets. About says2/3bed units sleep6-8, terms say2bed6/3bed10/1bedlockout2; numeric aggregate occupancy remains Unknown, retain source conflict.",
+    "supportedFactsUpdate": {
+      "pets": "No",
+      "petsDetails": "Official rental terms prohibit rental guests pets; owners may previously have brought pets into units, so units are not necessarily allergen-free.",
+      "guests": "Unknown",
+      "capacityDetails": "Official About2/3bed residences sleep6-8; official terms2bed6,3bed10,1bedlockout2. Preserve conflict and unit distinctions."
+    },
+    "factSourcesUpdate": [
+      {
+        "url": "https://www.cranmorecondominiums.com/vacation-rental-terms-conditions",
+        "supports": "Legal operator, guest-pet prohibition and per-unit maximum occupancy"
+      },
+      {
+        "url": "https://www.cranmorecondominiums.com/about",
+        "supports": "Published conflicting6-8 occupancy marketing"
+      }
+    ],
+    "remainingGaps": [
+      "Explicit legal operator ownership/independent local parent relationship",
+      "Saved authentic photos"
+    ],
+    "verificationMethod": "Opened pages in connected Chrome browser ID1(Sandy profile); rendered DOM/native accessibility. One focused ownership query per unresolved property; snippets used only as leads. No inquiries submitted."
+  }
+}
