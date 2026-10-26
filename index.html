@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=20">
+<link rel="stylesheet" href="assets/app.css?v=21">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
@@ -21,20 +21,25 @@
   <header class="app-header">
     <div class="app-bar">
     <h1 class="app-title">Pleasant Street</h1>
+    <div class="app-search-row">
     <label class="app-search"><span class="app-hide">Where to?</span>
       <input id="ps-q" type="search" placeholder="Where to? City or state" autocomplete="off"></label>
     <span class="app-count" id="ps-count" aria-live="polite"></span>
+    </div>
+    <div class="app-header-actions">
+    <button class="app-filter-toggle" id="ps-filter-toggle" type="button" aria-label="Filters" title="Filters" aria-expanded="false" aria-controls="ps-filter-panel"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3"/><circle cx="15" cy="17" r="3"/></svg><span id="ps-filter-count" aria-hidden="true" hidden></span></button>
     <div class="app-view-switch" role="group" aria-label="View">
-      <button type="button" data-view="map" aria-pressed="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2Z M9 3v16 M15 5v16"/></svg>Map</button>
-      <button type="button" data-view="cards" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>Cards</button>
+      <button type="button" data-view="map" aria-label="Map" title="Map" aria-pressed="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2Z M9 3v16 M15 5v16"/></svg><span class="app-switch-label">Map</span></button>
+      <button type="button" data-view="cards" aria-label="Cards" title="Cards" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg><span class="app-switch-label">Cards</span></button>
+    </div>
     </div>
     </div>
     <nav class="app-destinations" id="ps-destinations" aria-label="Popular destinations" hidden></nav>
   </header>
   <main class="app-body">
     <section class="app-results" aria-label="Homes">
-      <div class="app-filters">
-        <button class="app-filter-toggle" id="ps-filter-toggle" type="button" aria-expanded="false" aria-controls="ps-filter-fields"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3"/><circle cx="15" cy="17" r="3"/></svg>Filters<span id="ps-filter-count" hidden></span></button>
+      <div class="ps-sheet-handle" id="ps-sheet-handle" role="slider" tabindex="0" aria-label="Results panel height" aria-orientation="vertical" aria-valuemin="12" aria-valuemax="94" aria-valuenow="48" aria-valuetext="Results panel 48% open" title="Drag down for a larger map, or up for more results"><span class="ps-sheet-grip"></span><span class="ps-sheet-count" id="ps-sheet-count">Homes</span></div>
+      <div class="app-filters" id="ps-filter-panel">
         <div class="app-filter-fields" id="ps-filter-fields">
         <label class="app-sleeps"><span class="app-sleeps__head">Sleeps <b id="ps-sleeps-out">any</b></span>
           <input type="range" id="ps-sleeps" min="1" max="8" step="1" value="1">
@@ -55,12 +60,36 @@
         </div>
       </div>
       <div class="app-list" id="ps-list"></div>
+      <section class="ps-selected" id="ps-selected" role="dialog" aria-modal="false" aria-label="Property details" hidden>
+        <div class="ps-selected__toolbar">
+          <button id="ps-selected-back" type="button" aria-label="Back to search results"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg></button>
+          <span id="ps-selected-title">Property details</span>
+          <button id="ps-selected-close" type="button" aria-label="Close property details"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button>
+        </div>
+        <div class="ps-selected__content" id="ps-selected-content"></div>
+      </section>
     </section>
     <div class="app-map" id="ps-map" data-src="index.json" role="region" aria-label="Map of homes"></div>
   </main>
 </div>
+<dialog class="ps-search" id="ps-search" aria-labelledby="ps-search-title">
+  <form id="ps-search-form" class="ps-search__form">
+    <div class="ps-search__head"><h2 id="ps-search-title">Find your place</h2><button type="button" id="ps-search-close" aria-label="Close search"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
+    <div class="ps-search__body">
+      <section class="ps-search__section" aria-labelledby="ps-where-title">
+        <h3 id="ps-where-title">Where</h3>
+        <label class="ps-search__where"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="ps-search-where" type="search" aria-label="Search destinations" placeholder="City or state" autocomplete="off"></label>
+      </section>
+      <section class="ps-search__section ps-search__who" aria-labelledby="ps-who-title">
+        <div><h3 id="ps-who-title">Who</h3><p>How many guests?</p></div>
+        <div class="ps-guest-stepper"><button id="ps-guests-less" type="button" aria-label="Fewer guests">−</button><output id="ps-guests-value" aria-live="polite">1</output><button id="ps-guests-more" type="button" aria-label="More guests">+</button></div>
+      </section>
+    </div>
+    <div class="ps-search__footer"><button type="button" id="ps-search-clear">Clear all</button><button class="ps-search__submit" type="submit"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>Search</button></div>
+  </form>
+</dialog>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-<script src="assets/map.js?v=20"></script>
+<script src="assets/map.js?v=21"></script>
 </body>
 </html>

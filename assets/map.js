@@ -13,6 +13,41 @@
   var sizeSwitch = document.querySelector('.app-size-switch');
   var destinationsEl = document.getElementById('ps-destinations');
   var filterToggle = document.getElementById('ps-filter-toggle'), filterCount = document.getElementById('ps-filter-count');
+  var headerEl = document.querySelector('.app-header'), resultsEl = document.querySelector('.app-results');
+  var bodyEl = document.querySelector('.app-body'), filterPanel = document.getElementById('ps-filter-panel');
+  var sheetHandle = document.getElementById('ps-sheet-handle'), sheetRatio = 0.48, sheetDrag = null;
+  var sheetCount = document.getElementById('ps-sheet-count');
+  var selectedEl = document.getElementById('ps-selected'), selectedBody = document.getElementById('ps-selected-content');
+  var selectedTitle = document.getElementById('ps-selected-title'), selectedClose = document.getElementById('ps-selected-close');
+  var selectedHome = null, priorSheetRatio = 0.48;
+  var searchDialog = document.getElementById('ps-search'), searchWhere = document.getElementById('ps-search-where');
+  var guestValue = document.getElementById('ps-guests-value'), guestLess = document.getElementById('ps-guests-less'), guestMore = document.getElementById('ps-guests-more');
+  var searchGuests = 1, clearSearchFilters = false;
+  function syncSearchGuests() {
+    guestValue.textContent = searchGuests === 8 ? '8+' : searchGuests;
+    guestLess.disabled = searchGuests <= 1; guestMore.disabled = searchGuests >= 8;
+  }
+  function openSearch() {
+    if (!phoneLayout.matches || searchDialog.open) return;
+    searchWhere.value = q.value; searchGuests = +sleeps.value; clearSearchFilters = false;
+    syncSearchGuests(); searchDialog.showModal(); searchWhere.focus();
+  }
+  q.addEventListener('click', openSearch);
+  q.addEventListener('keydown', function (e) { if (phoneLayout.matches && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); openSearch(); } });
+  document.getElementById('ps-search-close').addEventListener('click', function () { searchDialog.close(); });
+  guestLess.addEventListener('click', function () { searchGuests = Math.max(1, searchGuests - 1); syncSearchGuests(); });
+  guestMore.addEventListener('click', function () { searchGuests = Math.min(8, searchGuests + 1); syncSearchGuests(); });
+  document.getElementById('ps-search-clear').addEventListener('click', function () { searchWhere.value = ''; searchGuests = 1; clearSearchFilters = true; syncSearchGuests(); });
+  document.getElementById('ps-search-form').addEventListener('submit', function (e) {
+    e.preventDefault();
+    q.value = searchWhere.value.trim(); sleeps.value = searchGuests;
+    sleepsOut.textContent = searchGuests === 1 ? 'any' : searchGuests === 8 ? '8+' : searchGuests + '+';
+    if (clearSearchFilters) { types = []; needs = []; [pills, welcome].forEach(function (group) { group.querySelectorAll('button').forEach(function (button) { button.setAttribute('aria-pressed', 'false'); }); }); }
+    searchDialog.close();
+    app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false');
+    searchPlace();
+    q.focus({ preventScroll: true });
+  });
   filterToggle.addEventListener('click', function () {
     var open = filterToggle.getAttribute('aria-expanded') !== 'true';
     filterToggle.setAttribute('aria-expanded', String(open));
@@ -27,7 +62,23 @@
   var map = L.map('ps-map', { scrollWheelZoom: true, maxZoom: 18 }).setView([39.5, -98.5], 4);
   // On a phone layout, wheel/trackpad scrolling continues down the page over the map.
   var phoneLayout = window.matchMedia('(max-width: 760px)');
-  function syncMapScroll() { if (phoneLayout.matches) map.scrollWheelZoom.disable(); else map.scrollWheelZoom.enable(); }
+  function syncMapScroll() {
+    if (phoneLayout.matches) {
+      map.scrollWheelZoom.disable();
+      if (filterPanel.parentElement !== headerEl) headerEl.appendChild(filterPanel);
+      q.placeholder = 'Where to?';
+      q.readOnly = true; q.setAttribute('aria-haspopup', 'dialog');
+    } else {
+      map.scrollWheelZoom.enable();
+      if (filterPanel.parentElement !== resultsEl) resultsEl.insertBefore(filterPanel, listEl);
+      q.placeholder = 'Where to? City or state';
+      q.readOnly = false; q.removeAttribute('aria-haspopup');
+      if (searchDialog.open) searchDialog.close();
+      closeSelected(false, false);
+    }
+    (homes || []).forEach(syncMarkerPopup);
+    if (loaded) show();
+  }
   phoneLayout.addEventListener('change', syncMapScroll);
   syncMapScroll();
   /* Every home but the featured ones gathers into a circle with its count; a circle splits as the map
@@ -48,6 +99,27 @@
   });
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function known(v) { return v !== undefined && v !== null && v !== '' && v !== 'Unknown'; }
+  function factIcon(kind) {
+    var paths = {
+      guests: '<circle cx="9" cy="7" r="3"/><path d="M3 21v-3a6 6 0 0 1 12 0v3M16 4a3 3 0 0 1 0 6M21 21v-3a6 6 0 0 0-4-5"/>',
+      bedrooms: '<path d="M3 18v3M21 18v3M3 18V8h18v10ZM3 14h18M7 8V5h10v3"/>',
+      bathrooms: '<path d="M3 12h18v3a5 5 0 0 1-5 5H8a5 5 0 0 1-5-5ZM6 12V5a2 2 0 0 1 4 0M7 20v2M17 20v2"/>',
+      pets: '<ellipse cx="6" cy="7" rx="2" ry="3"/><ellipse cx="18" cy="7" rx="2" ry="3"/><ellipse cx="11" cy="4" rx="1.5" ry="2"/><ellipse cx="13" cy="4" rx="1.5" ry="2"/><path d="M6 17c0-3 4-7 6-7s6 4 6 7-3 4-6 2c-3 2-6 1-6-2Z"/>',
+      kids: '<circle cx="12" cy="5" r="3"/><path d="m5 11 7 3 7-3M12 8v8M12 16l-4 6M12 16l4 6"/>',
+      location: '<path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2.5"/>'
+    };
+    return '<svg viewBox="0 0 24 24" aria-hidden="true">' + paths[kind] + '</svg>';
+  }
+  function factRows(h) {
+    var fields = [['guests', 'Guests'], ['bedrooms', 'Bedrooms'], ['bathrooms', 'Bathrooms'], ['pets', 'Pets'], ['kids', 'Children']];
+    var rows = fields.filter(function (f) { return known(h[f[0]]); }).map(function (f) {
+      var value = h[f[0]], isPolicy = f[0] === 'pets' || f[0] === 'kids';
+      var display = isPolicy ? value === 'Yes' ? '✓' : value === 'No' ? '×' : '?' : value;
+      var label = f[1] + ': ' + (value === 'Conditional' ? 'Ask host' : value);
+      return '<div title="' + esc(label) + '" aria-label="' + esc(label) + '"><dt>' + factIcon(f[0]) + '<span class="app-hide">' + f[1] + '</span></dt><dd>' + esc(display) + '</dd></div>';
+    }).join('');
+    return rows ? '<dl class="ps-home__facts">' + rows + '</dl>' : '';
+  }
   function policy(v) { return v === 'Conditional' ? 'Ask host' : known(v) ? v : 'Unknown'; }
   function shortDescription(s) {
     if (!known(s)) return 'Description not yet available.';
@@ -67,33 +139,41 @@
       return '<span class="ps-platform ps-platform--' + p + '" role="img" aria-label="' + names[p] + ' link found"><img src="assets/platforms/' + p + '.svg" alt="" width="18" height="18"></span>';
     }).join('');
   }
-  function fullCard(h, missing, tiny) {
+  function fullCard(h, missing, tiny, detail) {
     var images = photoSet(h);
-    var gallery = (tiny ? [0] : [0, 1, 2]).map(function (i) {
+    var slots = tiny ? [0] : detail ? (images.length ? images.map(function (_, i) { return i; }) : [0]) : [0, 1, 2];
+    var gallery = slots.map(function (i) {
       return images[i] ? '<img src="' + esc(images[i]) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">Photo unavailable</span>';
     }).join('');
-    var facts = [['Type', known(h.type) ? h.type : 'Unknown'], ['Sleeps', known(h.guests) ? h.guests : 'Unknown'], ['Bedrooms', known(h.bedrooms) ? h.bedrooms : 'Unknown'], ['Pets', policy(h.pets)], ['Kids', policy(h.kids)]];
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
-    return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + '" data-property="' + esc(h.id) + '">' +
-      '<div class="ps-gallery">' + listingBadge(h) + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' + gallery + '</div>' +
-      '<div class="ps-home__body"><p class="ps-home__place">' + esc(h.place) + '</p><h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
+    return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
+      '<div class="ps-gallery">' + listingBadge(h) + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
+      (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true">1 / ' + Math.max(images.length, 1) + '</span>' : gallery) + '</div>' +
+      '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(h.place) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(h.place) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (!tiny && (/operator|manager/i.test(h.recordType || '') || h.cardPhotoLabel) ? '<p class="ps-home__operator">' + esc(h.cardPhotoLabel || 'Rental operator') + '</p>' : '') +
       (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
-      (tiny ? '' : '<dl class="ps-home__facts">' + facts.map(function (f) { return '<div><dt>' + f[0] + '</dt><dd>' + esc(f[1]) + '</dd></div>'; }).join('') + '</dl>') +
+      (tiny ? '' : factRows(h)) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
-      '<a class="ps-action ps-action--claim" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' by email">Claim my house</a></div></div></article>';
+      (detail ? '' : '<a class="ps-action ps-action--claim" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' by email">Claim my house</a>') + '</div></div></article>';
   }
   function listingBadge(h) {
     if (!h.featured && !h.demo) return '';
     return '<span class="ps-card__featured">' + (h.featured ? 'Featured' : '') + (h.featured && h.demo ? ' · ' : '') + (h.demo ? 'Demo' : '') + '</span>';
   }
-  function card(h, missing) {
-    return '<a class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" href="' + esc(h.url) + '" target="_blank" rel="noopener">' +
+  function card(h, missing, selectable) {
+    var tag = selectable ? 'button' : 'a';
+    return '<' + tag + ' class="ps-card' + (selectable ? ' ps-card--select' : '') + (h.featured === true ? ' ps-card--featured' : '') + '"' +
+      (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="View ' + esc(h.name) + ' details"' : ' href="' + esc(h.url) + '" target="_blank" rel="noopener"') + '>' +
       listingBadge(h) +
       '<img src="' + esc(h.photo) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' +
-      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</a>';
+      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>';
+  }
+  function syncMarkerPopup(h) {
+    if (!h.marker) return;
+    if (phoneLayout.matches) h.marker.unbindPopup();
+    else if (!h.marker.getPopup()) h.marker.bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220, className: h.featured ? 'ps-popup ps-popup--featured' : 'ps-popup' });
   }
   /* A place matches when a word of it starts with what was typed, or the typed word is
      its state's full name: "ca" and "california" both find San Francisco, not Cape Cod. */
@@ -135,6 +215,7 @@
     var activeFilters = (n ? 1 : 0) + types.length + needs.length;
     filterCount.textContent = activeFilters;
     filterCount.hidden = !activeFilters;
+    filterToggle.setAttribute('aria-label', 'Filters' + (activeFilters ? ', ' + activeFilters + ' active' : ''));
     var fits = [], maybe = [];
     homes.forEach(function (h) {
       h.missing = [];
@@ -154,6 +235,7 @@
       (h.missing.length ? maybe : fits).push(h);
     });
     var shown = fits.concat(maybe);
+    if (selectedHome && shown.indexOf(selectedHome) < 0) closeSelected(false, false);
     if (!listEl) return shown;
     listEl.querySelectorAll('details[data-group]').forEach(function (g) { groupState[g.dataset.group] = g.open; });
     var featured = shown.filter(function (h) { return h.featured; });
@@ -166,11 +248,99 @@
       return '<details class="ps-results-group ps-results-group--' + g.key + '" data-group="' + g.key + '"' + (groupState[g.key] ? ' open' : '') + '>' +
         '<summary><span>' + g.title + '</span><span class="ps-results-group__count">' + g.homes.length + '</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>' +
         (g.key === 'potential' ? '<p class="ps-results-group__note">Some requested details are missing or need host approval. Check with the host.</p>' : '') +
-        '<div class="ps-results-grid">' + g.homes.map(function (h) { return view === 'cards' ? fullCard(h, h.missing, cardSize === 'tiny') : card(h, h.missing); }).join('') + '</div></details>';
+        '<div class="ps-results-grid">' + g.homes.map(function (h) { return view === 'cards' ? fullCard(h, h.missing, cardSize === 'tiny') : card(h, h.missing, phoneLayout.matches); }).join('') + '</div></details>';
     }).join('') || '<p class="ps-none">No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.') + '</p>';
-    countEl.textContent = (shown.length === 1 ? '1 home' : shown.length + ' homes') + (maybe.length ? ' · ' + maybe.length + (maybe.length === 1 ? ' potential fit' : ' potential fits') : '');
+    countEl.innerHTML = '<span class="app-count__total">' + (shown.length === 1 ? '1 home' : shown.length + ' homes') + '</span>' +
+      (maybe.length ? ' <span class="app-count__potential">' + maybe.length + (maybe.length === 1 ? ' potential fit' : ' potential fits') + '</span>' : '');
+    sheetCount.textContent = shown.length === 1 ? '1 home' : shown.length + ' homes';
     return shown;
   }
+  function setSheetRatio(ratio) {
+    sheetRatio = Math.max(0.12, Math.min(0.94, ratio));
+    app.style.setProperty('--sheet-height', (sheetRatio * 100) + '%');
+    app.classList.toggle('app--sheet-collapsed', sheetRatio < 0.24);
+    sheetHandle.setAttribute('aria-valuenow', Math.round(sheetRatio * 100));
+    sheetHandle.setAttribute('aria-valuetext', 'Results panel ' + Math.round(sheetRatio * 100) + '% open');
+  }
+  sheetHandle.addEventListener('pointerdown', function (e) {
+    if (e.button !== 0 || !phoneLayout.matches || view !== 'map') return;
+    sheetDrag = { id: e.pointerId, y: e.clientY, height: resultsEl.getBoundingClientRect().height, ratio: sheetRatio };
+    sheetHandle.setPointerCapture(e.pointerId);
+    app.classList.add('app--sheet-dragging');
+    e.preventDefault();
+  });
+  sheetHandle.addEventListener('pointermove', function (e) {
+    if (!sheetDrag || e.pointerId !== sheetDrag.id) return;
+    setSheetRatio((sheetDrag.height + sheetDrag.y - e.clientY) / bodyEl.clientHeight);
+  });
+  function endSheetDrag(e) {
+    if (!sheetDrag || e.pointerId !== sheetDrag.id) return;
+    var delta = e.clientY - sheetDrag.y, start = sheetDrag.ratio;
+    var stops = [0.12, 0.48, 0.94];
+    var next = stops.reduce(function (best, stop) { return Math.abs(stop - sheetRatio) < Math.abs(best - sheetRatio) ? stop : best; }, stops[0]);
+    if (Math.abs(delta) < 4) next = sheetRatio < 0.3 ? 0.48 : sheetRatio < 0.7 ? 0.94 : 0.12;
+    else if (Math.abs(delta) > 35 && Math.abs(next - start) < 0.05) next = delta > 0 ? stops.filter(function (s) { return s < start - 0.05; }).pop() || 0.12 : stops.find(function (s) { return s > start + 0.05; }) || 0.94;
+    sheetDrag = null;
+    app.classList.remove('app--sheet-dragging');
+    setSheetRatio(next);
+  }
+  sheetHandle.addEventListener('pointerup', endSheetDrag);
+  sheetHandle.addEventListener('pointercancel', function () { sheetDrag = null; app.classList.remove('app--sheet-dragging'); });
+  sheetHandle.addEventListener('keydown', function (e) {
+    var next = e.key === 'ArrowUp' ? sheetRatio + 0.1 : e.key === 'ArrowDown' ? sheetRatio - 0.1 : e.key === 'Home' ? 0.12 : e.key === 'End' ? 0.94 : null;
+    if (next !== null) { e.preventDefault(); setSheetRatio(next); }
+  });
+  function closeSelected(collapse, focus) {
+    if (!selectedHome) return;
+    if (selectedHome.marker) { selectedHome.marker.setZIndexOffset(selectedHome.featured ? 1000 : 0); var icon = selectedHome.marker.getElement(); if (icon) icon.classList.remove('ps-marker--selected'); }
+    selectedHome = null;
+    selectedEl.hidden = true; listEl.hidden = false;
+    app.classList.remove('app--detail-open');
+    setSheetRatio(collapse ? 0.12 : priorSheetRatio);
+    if (focus !== false && phoneLayout.matches && view === 'map') sheetHandle.focus({ preventScroll: true });
+  }
+  function openSelected(h) {
+    if (!phoneLayout.matches) { setView('map'); if (h.marker) { map.setView(h.marker.getLatLng(), 12); h.marker.openPopup(); } return; }
+    if (selectedHome) closeSelected(false, false);
+    if (view !== 'map') setView('map');
+    priorSheetRatio = sheetRatio;
+    selectedHome = h;
+    selectedTitle.textContent = h.name;
+    selectedEl.setAttribute('aria-label', h.name + ' details');
+    selectedBody.innerHTML = fullCard(h, h.missing, false, true);
+    selectedBody.scrollTop = 0;
+    selectedEl.hidden = false; listEl.hidden = true;
+    app.classList.add('app--detail-open');
+    map.closePopup();
+    if (h.marker) {
+      h.marker.setZIndexOffset(2000);
+      map.setView(h.marker.getLatLng(), Math.max(map.getZoom(), 11), { animate: false });
+      map.panBy([0, resultsEl.getBoundingClientRect().height / 2], { animate: false });
+      var icon = h.marker.getElement(); if (icon) icon.classList.add('ps-marker--selected');
+    }
+    selectedClose.focus({ preventScroll: true });
+  }
+  document.getElementById('ps-selected-back').addEventListener('click', function () { closeSelected(false); });
+  selectedClose.addEventListener('click', function () { closeSelected(true); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== 'Escape') return;
+    if (searchDialog.open) return;
+    if (selectedHome) closeSelected(false);
+    else if (app.classList.contains('app--filters-open')) { app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false'); filterToggle.focus(); }
+  });
+  app.addEventListener('click', function (e) {
+    var button = e.target.closest('[data-select-property], [data-address-property]');
+    if (!button) return;
+    var id = button.dataset.selectProperty || button.dataset.addressProperty;
+    var home = homes.find(function (h) { return h.id === id; });
+    if (home) openSelected(home);
+  });
+  selectedBody.addEventListener('scroll', function (e) {
+    var strip = e.target;
+    if (!strip.classList || !strip.classList.contains('ps-photo-strip')) return;
+    var count = strip.parentElement.querySelector('.ps-photo-count');
+    if (count && strip.clientWidth) count.textContent = Math.round(strip.scrollLeft / strip.clientWidth + 1) + ' / ' + strip.children.length;
+  }, { capture: true, passive: true });
   function syncArea() {
     if (view !== 'map') return;
     area = map.getBounds();
@@ -178,6 +348,7 @@
   }
   map.on('moveend', syncArea);
   function searchPlace() {
+    closeSelected(false, false);
     syncDestinations();
     var params = new URLSearchParams(location.search);
     if (q.value.trim()) params.set('place', q.value.trim()); else params.delete('place');
@@ -239,6 +410,7 @@
   });
   syncCardSize();
   function setView(next) {
+    if (next === 'cards') closeSelected(false, false);
     view = next;
     app.classList.toggle('app--cards', view === 'cards');
     viewSwitch.querySelectorAll('[data-view]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.view === view)); });
@@ -282,7 +454,8 @@
       var markerOptions = { title: h.name, alt: h.name, zIndexOffset: h.featured === true ? 1000 : 0 };
       if (h.featured === true) markerOptions.icon = featuredIcon;
       if (typeof h.lat === 'number' && typeof h.lng === 'number') h.marker = L.marker([h.lat, h.lng], markerOptions)
-        .bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220, className: h.featured ? 'ps-popup ps-popup--featured' : 'ps-popup' });
+        .on('click', function () { if (phoneLayout.matches) openSelected(h); });
+      syncMarkerPopup(h);
       return h;
     });
     loaded = true;

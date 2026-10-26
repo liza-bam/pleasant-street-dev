@@ -5,18 +5,24 @@ own website. Public, not indexed (robots.txt disallows all, the page says noinde
 
 ## Map and cards views
 
-On phones, the page scrolls normally instead of trapping results in a small scrolling pane.
-Large cards use one column; Tiny cards use two. The compact Filters button reveals the existing
-capacity/type/welcome controls and shows the active filter count. Map appears above the results;
-wheel scrolling over it continues down the page. Desktop keeps its separate map and result panes.
+On phones, the compact header stays at the top: icon-only filter and view controls, then destination
+search and the live result count on one line. Search opens a focused Where/Who panel, with no dates
+or search history. Filters retain the existing type, capacity and welcome controls.
+
+Map view uses a draggable results tray over a full-height map. Drag down for more map, up for more
+results; the handle also supports arrow keys and Home/End. A marker, result or card address opens a
+floating property card with swipeable photos and its website link. Close returns to the map with
+the results tray collapsed. Cards view retains normal page scrolling, with one Large or two Tiny
+cards per row. Desktop keeps its separate map and results panes and standard map popups.
 
 The header switch selects Map or Cards. Both share the place, capacity, type and welcome filters.
 Map results follow the visible map; Cards shows all matching locations, including listings without
 coordinates. `?view=cards&place=VT` opens Vermont cards directly. The Tiny/Large switch applies
 inside Cards; `&size=tiny` opens the compact version. Tiny has one photograph, name, location and
 website/claim buttons, with no fact grid or description. Large has a cover and two 4:3 extra photos,
-a source-based summary of at most 150 characters and five property facts. Both use one-line names
-with ellipses and show platform-logo badges on the photograph. Claim opens a prefilled email draft
+a source-based summary of at most 150 characters and available property facts shown as icons and
+values. Unknown facts remain in the database and are omitted from these icon rows. Desktop names
+use ellipses; phone names wrap. Cards show platform-logo badges on the photograph. Claim opens a prefilled email draft
 to `sandy@lazy.vacations`.
 
 Featured, Fit and Potential fit are independent accordions, with live counts. Featured and Fit
