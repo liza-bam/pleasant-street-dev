@@ -21,10 +21,12 @@ The header switch selects Map or Cards. Both share the place, capacity, type and
 Map results follow the visible map; Cards shows all matching locations, including listings without
 coordinates. `?view=cards&place=VT` opens Vermont cards directly. The Tiny/Large switch applies
 to Cards and the phone map results; `&size=tiny` opens the compact version. Tiny has one photograph, name, location and
-website/claim buttons, with no fact grid or description. Large has a cover and two 4:3 extra photos,
+website button and a secondary claim badge, with no fact grid or description. Large has a cover and two 4:3 extra photos,
 a source-based summary of at most 150 characters and available property facts shown as icons and
-values. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. Claim opens a prefilled email draft
-to `sandy@lazy.vacations`.
+values. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. A small white claim badge at the photo’s
+top-right uses the existing Pleasant Street wordmark and opens a prefilled email draft
+to `sandy@lazy.vacations`. Open website is the larger primary action, with an independent-host
+notice underneath for non-LAZY listings.
 
 Featured, Fit and Potential fit are independent accordions, with live counts. Featured and Fit
 start open; Potential fit starts closed. Collapse choices survive filtering and view changes.

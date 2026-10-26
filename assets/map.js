@@ -170,14 +170,14 @@
     }).join('');
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
-      '<div class="ps-gallery">' + listingBadge(h) + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
+      '<div class="ps-gallery">' + listingBadge(h) + (detail ? '' : '<a class="ps-claim-badge" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' on Pleasant Street by email"><span class="ps-claim-badge__logo" aria-hidden="true">Pleasant<br>Street</span><span>Claim your house<br>on Pleasant Street</span></a>') + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
       (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true"' + (images.length <= 1 ? ' hidden' : '') + '>' + images.map(function (_, i) { return '<span' + (i ? '' : ' class="is-active"') + '></span>'; }).join('') + '</span>' : gallery) + '</div>' +
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(h.place) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(h.place) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
       (tiny ? '' : factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : tiny || detail ? '' : '<p class="ps-home__missing" aria-hidden="true"></p>') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
-      (detail ? '' : '<a class="ps-action ps-action--claim" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' by email">Claim my house</a>') + '</div></div></article>';
+      '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Independent property listing. This host is not affiliated with LAZY.</p>') + '</div></article>';
   }
   function listingBadge(h) {
     if (!h.featured && !h.demo) return '';
