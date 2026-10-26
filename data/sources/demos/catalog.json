@@ -29,17 +29,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://commonwealth.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://commonwealth.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 1,
     "bathrooms": 1,
@@ -74,8 +75,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-cape-ann-special",
@@ -107,17 +107,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://loon-cottage.pleasant.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://loon-cottage.pleasant.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 6,
     "bathrooms": 4,
@@ -150,8 +151,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-cape-cod-coastal-cottage",
@@ -183,17 +183,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://capecod.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://capecod.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 1,
@@ -228,8 +229,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-chicago-mcm",
@@ -261,17 +261,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://chicago-mcm.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://chicago-mcm.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 1,
     "bathrooms": 1,
@@ -304,8 +305,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-florida-pool-home",
@@ -337,17 +337,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://florida.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://florida.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 3,
     "bathrooms": 2,
@@ -378,8 +379,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-kawaii-beach-house",
@@ -411,17 +411,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://kawaii.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://kawaii.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 3,
     "bathrooms": 2,
@@ -455,8 +456,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-lake-champlain-place",
@@ -488,17 +488,18 @@
    "type": "Unknown",
    "status": "Unknown",
    "sourceUrl": "https://lake-champlain.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://lake-champlain.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 1,
     "bathrooms": 1,
@@ -531,8 +532,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-miami-fam-stay",
@@ -564,17 +564,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://miami-fam.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://miami-fam.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 1,
@@ -609,8 +610,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-mission-base",
@@ -642,17 +642,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://mission-sf.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://mission-sf.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 0,
     "bathrooms": 1,
@@ -684,8 +685,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Partial",
-  "featured": true
+  "photoStatus": "Partial"
  },
  {
   "id": "LAZY-nashville-crow-nest",
@@ -717,17 +717,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://nashville-crow-nest.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://nashville-crow-nest.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 1,
@@ -756,8 +757,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Partial",
-  "featured": true
+  "photoStatus": "Partial"
  },
  {
   "id": "LAZY-noe-valley-studio",
@@ -789,17 +789,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://noe-valley-sf.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://noe-valley-sf.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 1,
     "bathrooms": 1,
@@ -833,8 +834,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-nyc-midtown-city-loft",
@@ -866,17 +866,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://nyc-midtown.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://nyc-midtown.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 1,
     "bathrooms": 0,
@@ -912,8 +913,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-philly-home",
@@ -945,17 +945,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://philly-home.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://philly-home.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 2,
@@ -986,8 +987,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Partial",
-  "featured": true
+  "photoStatus": "Partial"
  },
  {
   "id": "LAZY-tahoe-cabin",
@@ -1019,17 +1019,18 @@
    "type": "Unknown",
    "status": "Unknown",
    "sourceUrl": "https://tahoe-cabin.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://tahoe-cabin.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 2,
@@ -1064,8 +1065,7 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  },
  {
   "id": "LAZY-virginia-cottage",
@@ -1097,17 +1097,18 @@
    "type": "Fictional demo address",
    "status": "Published demo content; not a verified rental address",
    "sourceUrl": "https://virginia-cottage.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "notes": "Demo data. Map position remains approximate."
   },
   "demo": true,
+  "featured": true,
   "recordType": "Demo property",
   "listingStatus": "Active",
-  "checked": "2026-10-25",
+  "checked": "2026-10-26",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://virginia-cottage.lazy.vacations/",
-   "checkedOn": "2026-10-25",
+   "checkedOn": "2026-10-26",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 1,
@@ -1138,7 +1139,6 @@
     "role": "photo"
    }
   ],
-  "photoStatus": "Complete",
-  "featured": true
+  "photoStatus": "Complete"
  }
 ]
