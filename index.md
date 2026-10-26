@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-487 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+451 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1901 HOUSE LIMIT 10
 
@@ -401,36 +401,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Conditional; check unit policy
 - Pet policy: Varies (Cherry and Willow cabins yes; others no)
 - Website (book here, directly with the host): https://arborcamp.com/
-
-## Arndt's Aroostook River Lodge
-
-- ID: ME-0082
-- Town / area (approximate map location): Presque Isle, ME
-- Type: Unknown
-- Description: While the rest of the country bakes, the Aroostook River Valley stays cool. Fewer than a handful of days crack 90°F all summer. This is where serious outdoor people come to remember what camping was supposed to feel like.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://arndtscamp.com
-
-## Ascutney Lofts
-
-- ID: VT-0071
-- Town / area (approximate map location): Brownsville, VT
-- Type: Unknown
-- Description: Loft and cabin accommodations in Brownsville, with direct booking and owner contact; other operator homes have separate locations.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.ascutneylofts.com/
 
 ## Atlantic Haven
 
@@ -995,21 +965,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=412
 
-## Camden Hills Realty & Vacation Rentals
-
-- ID: ME-0263
-- Town / area (approximate map location): Northport, ME
-- Type: Unknown
-- Description: Camden Area Real Estate Agency for Buyers and Sellers. Experts in Camden/Rockport, Lincolnville, Northport and Belfast & surrounding are Real Estate.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://camdenhillsrealty.com
-
 ## Camden Village Toute-Suite
 
 - ID: ME-0143
@@ -1182,22 +1137,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — families encouraged
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
-
-## Canalside Cabins
-
-- ID: ME-0045
-- Town / area (approximate map location): Grand Lake Stream, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 2–7 per cabin
-- Price: $70/person/night Includes lodging tax; 2-person minimum; 5-person minimum in Elm; 2-night min weekends
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Yes (families welcome)
-- Website (book here, directly with the host): https://canalsidecabins.com
 
 ## Cape Ann Special
 
@@ -1375,21 +1314,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — prior approval; $10/pet/night
 - Website (book here, directly with the host): https://clearwaterescapes.com
 
-## Coastal Maine Vacations
-
-- ID: ME-0247
-- Town / area (approximate map location): Coastal Maine, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://coastalmaine.vacations
-
 ## ComfyDome Glamping
 
 - ID: ME-0168
@@ -1434,36 +1358,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://compassrosmaine.com
-
-## Conklin's Lodge and Camps
-
-- ID: ME-0078
-- Town / area (approximate map location): Patten, ME
-- Type: Camp
-- Description: Conklin's Lodge, specializing in Trophy Maine Deer Hunting, Maine Trophy Black Bear Hunting and Maine Trophy Moose Hunting
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://conklinslodge.com
-
-## Connecting Rentals
-
-- ID: ME-0232
-- Town / area (approximate map location): Bethel / Sunday River, ME
-- Type: Unknown
-- Description: Connect with hosts offering vacation and seasonal rentals near Sunday River, Maine — from weekend getaways to monthly stays and beyond.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://connectingrentals.com
 
 ## Cottages at Oak Hill Farm
 
@@ -1610,21 +1504,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes (families mentioned)
 - Website (book here, directly with the host): https://crossstonecabins.com
-
-## Crossett Hill Lodge
-
-- ID: VT-0060
-- Town / area (approximate map location): Duxbury, VT
-- Type: Unknown
-- Description: A Duxbury woodland lodge offering three separate accommodations: the Terraces, Loft and Sugarhouse.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Terraces sleeps six; Loft sleeps six; Sugarhouse sleeps two. Separate units.
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): http://lengel.net/crossetthill2/
 
 ## Crossroad Cabins
 
@@ -1812,21 +1691,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://eagleeyecabin.com
 
-## Eagle Lake & Beyond
-
-- ID: ME-0152
-- Town / area (approximate map location): Eagle Lake, ME
-- Type: Unknown
-- Description: Four seasons of fun - Barbara and William Orne own and operate Eagle Lake & Beyond, LLC. vacation home. Eagle Lake is a year-round destination offering endless activities. Whether you enjoy hunting, fishing, boating, ATV riding, ice fishing or snowmobiling. There is something for everyone to enjoy at Eagle Lake. Our rental offers the following accommodations:
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://eaglelakebeyondllc.com
-
 ## Eagle Lake Sporting Camps
 
 - ID: ME-0030
@@ -1875,21 +1739,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/440192
-
-## Edgewater Cabins
-
-- ID: ME-0107
-- Town / area (approximate map location): Sullivan, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://edgewatercabins.com/
 
 ## Elliot's Escape/Bremen
 
@@ -1954,23 +1803,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — children selectable in booking form
 - Pet policy: Yes — dogs subject to approval/fee
 - Website (book here, directly with the host): https://everett-cottage.com
-
-## Fat Sheep Farm & Cabins
-
-- ID: VT-0001
-- Town / area (approximate map location): Hartland, VT
-- Type: Cabin
-- Description: Five private cabins on a working farm in Hartland, with hill views, farm activities and family stays.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Five cabins; occupancy varies by cabin. Sunrise has a queen bedroom and a living-room futon; no explicit maximum on the checked page.
-- Price: Rates vary by date and cabin. Sunrise page lists a $55 one-time cleaning fee, $30/night for additional guests beyond two, and typical two-night weekend/three-night holiday minimums.
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: Children welcome; adult supervision required on the working farm. Sunrise page says children aged two and under stay free.
-- Pet policy: Dogs only in Sunrise, Ascutney and Lull Brook cabins, on the reservation and leashed. Sunrise pet cleaning fee: $30/night per pet.
-- Website (book here, directly with the host): https://www.fatsheepfarmvermont.com/
 
 ## Ferry Cottage
 
@@ -2082,21 +1914,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Published demo policy: Yes
 - Website (book here, directly with the host): https://florida.lazy.vacations/
 
-## Flower Brook Farm
-
-- ID: VT-0039
-- Town / area (approximate map location): Pawlet, VT
-- Type: House
-- Description: A renovated nine-bedroom farmhouse on three hundred acres in Pawlet, with two kitchens and space for large groups.
-- Rooms: Unknown
-- Bedrooms: 9
-- Bathrooms: 5
-- Sleeps: Site advertises groups 2–16+; four full and two half baths. Maximum remains unit-specific.
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.flowerbrookfarm.com/
-
 ## Fox Lane Cottage/Bremen
 
 - ID: ME-0448
@@ -2192,21 +2009,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Reported pet-friendly in host's published guest review; confirm per unit
 - Website (book here, directly with the host): https://getogetherstays.com
 
-## Glenmoor by the Sea
-
-- ID: ME-0292
-- Town / area (approximate map location): Lincolnville, ME
-- Type: Unknown
-- Description: At Glenmoor by the Sea, we understand that furry friends are part of the family. That's why we're delighted to offer dog-friendly accommodations for guests!
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://glenmoorbythesea.com
-
 ## GOOD TIMES CHALET LIMIT 19
 
 - ID: ME-0516
@@ -2222,23 +2024,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=253
-
-## Grand Lake Cottages
-
-- ID: ME-0036
-- Town / area (approximate map location): Forest City, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 3 (one-bedroom); 5 (two-bedroom)
-- Price: $155–$185/night One-bedroom $155/night; two-bedroom $185/night; extra guests over base occupancy $15/night; taxes extra
-- Children welcome: Conditional; check unit policy
-- Pets welcome: yes
-- Children policy: Yes — over age 5 counted in additional guest fee
-- Pet policy: Yes — up to 2 dogs, $10 per dog/night; some breeds excluded
-- Website (book here, directly with the host): https://grandlakecottages.net
 
 ## Grand Lake Lodge
 
@@ -2303,21 +2088,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — 2 children allowed
 - Website (book here, directly with the host): https://greatduckislandhouse.com
 
-## Green Gables Inn
-
-- ID: ME-0291
-- Town / area (approximate map location): Camden, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://greengablesinnmaine.com
-
 ## GREENS LIMIT 6
 
 - ID: ME-0497
@@ -2333,36 +2103,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=102
-
-## Gregoire Castle — Kane Realty
-
-- ID: VT-0014
-- Town / area (approximate map location): Irasburg, VT
-- Type: House
-- Description: A six-bedroom castle vacation rental on twenty acres in Vermont’s Northeast Kingdom, with private outdoor gathering spaces.
-- Rooms: Unknown
-- Bedrooms: 6
-- Bathrooms: Unknown
-- Sleeps: Sleeps 8; six bedrooms; three full and two half bathrooms.
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.kanerealty.net/vermont-castle/
-
-## HAGS Place
-
-- ID: ME-0155
-- Town / area (approximate map location): Fort Kent, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://hagsplace.com
 
 ## HALL'S HOUSE- LIMIT 8
 
@@ -2555,21 +2295,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=221
 
-## Highland Lodge
-
-- ID: VT-0024
-- Town / area (approximate map location): Greensboro, VT
-- Type: Cabin
-- Description: A historic Greensboro lodge offering rooms and seasonal cabins near Caspian Lake, with direct reservation inquiries.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): http://www.highlandlodge.com/
-
 ## Hillside Cottages
 
 - ID: ME-0075
@@ -2602,22 +2327,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family cottages)
 - Pet policy: Yes with approval (up to 2 dogs/cottage)
 - Website (book here, directly with the host): https://hiramblake.com
-
-## Hobble Inn & The Loft
-
-- ID: VT-0008
-- Town / area (approximate map location): Stowe, VT
-- Type: Unknown
-- Description: A three-bedroom vacation house and a separate one-bedroom loft in Stowe village, offered for weekly and longer stays.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Hobble Inn: three bedrooms, sleeps six, two bathrooms. The separate Loft has one bedroom; its maximum needs checking.
-- Price: Date-dependent rates; inquire or choose dates on the operator site.
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Official homepage offers the Inn for families and small groups.
-- Website (book here, directly with the host): https://hobbleinn.com/
 
 ## HOLIDAY COVE - LIMIT 8
 
@@ -2682,23 +2391,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — pack-and-play available on request
 - Pet policy: No
 - Website (book here, directly with the host): https://hutchinscottagesatacadia.com
-
-## In The Trees
-
-- ID: ME-0212
-- Town / area (approximate map location): Stoneham, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 2–7 by unit; all 6 stays approx. 21
-- Price: Cleaning fee $50–$150 per stay, not nightly rent; no nightly rates shown
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: Yes — families welcome; rustic sites have steep paths
-- Pet policy: Varies — no dogs in luxury treehouses; one dog allowed in each off-grid stay ($35)
-- Website (book here, directly with the host): https://inthetreesmaine.lodgify.com
 
 ## In the Trees Maine
 
@@ -2843,21 +2535,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family vacation and reunions)
 - Website (book here, directly with the host): https://junction19co.com
 
-## Katahdin Cabins
-
-- ID: ME-0063
-- Town / area (approximate map location): Millinocket, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://katahdincabins.com
-
 ## Katahdin Shadows Cabins
 
 - ID: ME-0060
@@ -2890,21 +2567,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Published demo policy: Unknown
 - Website (book here, directly with the host): https://kawaii.lazy.vacations/
 
-## Kebo View at Acadia
-
-- ID: ME-0127
-- Town / area (approximate map location): Bar Harbor, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://barharborweeklyrentals.com
-
 ## KENDALL COTTAGE LIMIT 6
 
 - ID: ME-0524
@@ -2920,36 +2582,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=306
-
-## Kendall Farm Cottages
-
-- ID: ME-0080
-- Town / area (approximate map location): Perry, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://kendallfarmcottages.com
-
-## Kennebec Riverside Cabins
-
-- ID: ME-0111
-- Town / area (approximate map location): The Forks, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://krcabins.com
 
 ## Kennebunkport Vacation Homes
 
@@ -2981,21 +2613,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138643
 
-## Killington Mountain Homes
-
-- ID: VT-0033
-- Town / area (approximate map location): Killington, VT
-- Type: Unknown
-- Description: A Killington vacation rental manager offering houses and condos, with direct guest inquiries and reservations.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://killingtonmountain.com/
-
 ## King's Landing
 
 - ID: ME-0160
@@ -3011,52 +2628,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — baby/child equipment
 - Website (book here, directly with the host): https://staykingslanding.com
-
-## Kinney Rentals
-
-- ID: ME-0269
-- Town / area (approximate map location): Rockland, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://kinneyrentals.com
-
-## Kismet Properties Vermont
-
-- ID: VT-0049
-- Town / area (approximate map location): Warren, VT
-- Type: Unknown
-- Description: Family-run vacation lodging in Warren offering Kismet Cabin and a separate Alpine Suite near Blueberry Lake.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Kismet Cabin sleeps 8–10; separate Alpine Suite sleeps 2–4.
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Yes
-- Website (book here, directly with the host): https://kismetpropertiesvermont.com/
-
-## Kokadjo Cabins & Trading Post
-
-- ID: ME-0057
-- Town / area (approximate map location): Kokadjo, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://kokadjo.com
 
 ## KPT Luxury Properties
 
@@ -3087,21 +2658,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://krainin.com
-
-## Kumari of the Woods
-
-- ID: VT-0034
-- Town / area (approximate map location): Strafford, VT
-- Type: Cabin
-- Description: Woodland cottage lodging and retreats in Strafford, with direct contact to the owner.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://kumariofthewoods.com/
 
 ## Kurtz Cottage/Bristol
 
@@ -3168,23 +2724,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family campground)
 - Pet policy: Varies (selected cottages yes; others no)
 - Website (book here, directly with the host): https://lakepemaquid.com/facilities/cottage-rentals/
-
-## Lake Salem Cottages
-
-- ID: VT-0067
-- Town / area (approximate map location): Derby, VT
-- Type: Cabin
-- Description: Four family-owned lakefront cottages in Derby, with private shoreline, boats and direct reservation inquiries.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Four cottages; booking page states maximum six people per cottage.
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: yes
-- Pets welcome: yes
-- Children policy: Yes
-- Pet policy: Yes
-- Website (book here, directly with the host): https://lakesalemvt.com/
 
 ## Lakefront Retreat with Private Docks & Kayaks
 
@@ -3354,23 +2893,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family lake vacations advertised
 - Website (book here, directly with the host): https://rentlakesregion.com/
 
-## Lakeshore Vermont Inn & Suites
-
-- ID: VT-0003
-- Town / area (approximate map location): Colchester, VT
-- Type: Unknown
-- Description: Locally owned lakefront suites and cottages in Colchester, with private beaches, kitchens and access to Lake Champlain.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Multiple distinct rentals. Homepage lists two-person suites/cottages and a four-person Vermonter suite; capacities differ by unit.
-- Price: Date-dependent rates; inquire or choose dates on the operator site.
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: Family-oriented accommodation in the official tourism listing; property website describes family stays.
-- Pet policy: Homepage identifies pet-friendly accommodation. Confirm the chosen unit's policy and fees.
-- Website (book here, directly with the host): https://www.lakeshorevermont.com/
-
 ## LAKEVIEW BLISS LIMIT 8
 
 - ID: ME-0567
@@ -3401,23 +2923,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=163772
-
-## Lawrence's Lakeside Cabins
-
-- ID: ME-0092
-- Town / area (approximate map location): Rockwood, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Nightly rates require date-specific booking inquiry
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: Yes — family facilities
-- Pet policy: Yes — dogs in 4 of 5 cabins
-- Website (book here, directly with the host): https://lawrenceslakesidecabins.com
 
 ## Libby Camps
 
@@ -3763,21 +3268,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://lugdonlodge.com/
 
-## Lyons Lakeside Cabins
-
-- ID: ME-0085
-- Town / area (approximate map location): Rangeley, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://lyonslakeside.com
-
 ## Macannamac Camps
 
 - ID: ME-0073
@@ -3809,21 +3299,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=525
 
-## Mad River Valley Rental Management
-
-- ID: VT-0031
-- Town / area (approximate map location): Fayston, VT
-- Type: Unknown
-- Description: A locally owned Mad River Valley rental manager offering direct reservations for vacation houses, cabins and other stays.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.mrvrm.com/
-
 ## Maebeth Vacation Rentals
 
 - ID: ME-0283
@@ -3853,36 +3328,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://mainebeachcottage.com
-
-## Maine Bella Vita Cabins
-
-- ID: ME-0142
-- Town / area (approximate map location): Byron, ME
-- Type: Cabin
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://mainebellavitacabins.com
-
-## Maine Cottage Rental (LedgeLawn Cottage)
-
-- ID: ME-0140
-- Town / area (approximate map location): Brunswick, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://mainecottages.com
 
 ## Maine Escape
 
@@ -4039,22 +3484,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Varies — one featured house explicitly no pets
 - Website (book here, directly with the host): https://mainestreetpropertymanagement.com
 
-## Maine Vacation Rentals Inc.
-
-- ID: ME-0239
-- Town / area (approximate map location): Blue Hill Peninsula, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Examples: 4–12, varies by property
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Yes — seasonal family rentals described
-- Website (book here, directly with the host): https://mainevacationrentalsonline.com
-
 ## Maineland Vacation Rentals
 
 - ID: ME-0240
@@ -4180,21 +3609,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — large family vacations offered
 - Pet policy: Varies — Kinfolk units advertise dogs welcome
 - Website (book here, directly with the host): https://mdislandvacationhomes.com
-
-## Meadowstone Manor
-
-- ID: VT-0017
-- Town / area (approximate map location): Stowe, VT
-- Type: House
-- Description: A private Stowe vacation estate with fourteen bedrooms, sixteen bathrooms, a pool, hot tubs and outdoor recreation.
-- Rooms: Unknown
-- Bedrooms: 14
-- Bathrooms: 16
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.dripcastleestatecollection.com/luxury-stowe-mountain-rental-meadowstone-manor/
 
 ## Medomak Road Cottage/Bremen
 
@@ -4386,54 +3800,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://rangeleyrentals.com
 
-## Mount Snow Yurt
-
-- ID: VT-0009
-- Town / area (approximate map location): Dover, VT
-- Type: Cabin
-- Description: An insulated, yurt-shaped cabin near Mount Snow, with two private bedrooms, a loft, hot tub and cedar sauna.
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: 1.5
-- Sleeps: Maximum eight guests. Two private queen bedrooms, loft sleeper sofa and convertible living-room sofa; four sleeping spaces are not four bedrooms.
-- Price: Date-dependent rates; inquire or choose dates on the operator site.
-- Children welcome: yes
-- Pets welcome: yes
-- Children policy: Families welcome. Hot tub is prohibited for children under twelve; older minors require direct adult supervision.
-- Pet policy: Published FAQ welcomes well-behaved pets with a $100 fee per stay.
-- Website (book here, directly with the host): https://mountsnowyurt.com/
-
-## Mountain Lake Cottages
-
-- ID: VT-0041
-- Town / area (approximate map location): Westmore, VT
-- Type: Cabin
-- Description: Seasonal cottages on Lake Willoughby in Westmore, with direct reservations through the operator.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://vermontmountainlakecottages.com/
-
-## Mountain Pines
-
-- ID: VT-0030
-- Town / area (approximate map location): Stowe, VT
-- Type: House
-- Description: A four-bedroom post-and-beam Stowe vacation house with three bathrooms, a hot tub and pet-friendly stays.
-- Rooms: Unknown
-- Bedrooms: 4
-- Bathrooms: 3
-- Sleeps: 8
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: yes
-- Pet policy: Yes
-- Website (book here, directly with the host): https://www.staymountainpines.com/
-
 ## Mountain Real Estate Company Rentals
 
 - ID: ME-0261
@@ -4463,37 +3829,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://mountainviewcottages.com
-
-## Mountain View Vacations
-
-- ID: VT-0019
-- Town / area (approximate map location): Stowe, VT
-- Type: Unknown
-- Description: A Stowe vacation rental manager offering houses, chalets and local guest support through its own reservation website.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://stowerentalhomes.com/
-
-## Mt. Chase Lodge
-
-- ID: ME-0067
-- Town / area (approximate map location): Mount Chase, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 2–8 in private cabins
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Conditional; check unit policy
-- Pet policy: Yes (private cabins only; up to 2 dogs, $30/dog/night)
-- Website (book here, directly with the host): https://mtchaselodge.com
 
 ## Nashville Crow Nest
 
@@ -4576,22 +3911,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://nextchaptercabins.com
 
-## Niftybug Rentals
-
-- ID: ME-0141
-- Town / area (approximate map location): Buckfield, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: 4–5 overnight guests (two homes)
-- Price: $125–$135/night Village House $125/night (5 guests); Cozy House $135/night (4 guests); additional cleaning/tax; studio $25/hour is not overnight rental
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Yes — family visits mentioned
-- Website (book here, directly with the host): https://niftybug.com
-
 ## Noe Valley Studio
 
 - ID: LAZY-noe-valley-studio
@@ -4640,21 +3959,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Varies (many allow; see individual property)
 - Website (book here, directly with the host): https://northwoodsmainecabins.com
 
-## Northbound Vermont
-
-- ID: VT-0026
-- Town / area (approximate map location): Lowell, VT
-- Type: Cabin
-- Description: A private cabin on twelve acres in Lowell near Jay Peak, with direct guest inquiries to the operator.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://northboundvermont.com/
-
 ## NORTHWEST EAGLE NEST LIMIT 9
 
 - ID: ME-0540
@@ -4670,23 +3974,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=368
-
-## Notch Lodges
-
-- ID: VT-0012
-- Town / area (approximate map location): Jeffersonville, VT
-- Type: Cabin
-- Description: Five family-owned chalet and cabin rentals near Smugglers' Notch, with direct booking and dog-friendly stays.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Five distinct rentals sleep four to six guests each. Blue Jay's Blue Chalet sleeps four; Charming Vermont Log Cabin sleeps six.
-- Price: Date-dependent rates; inquire or choose dates on the operator site.
-- Children welcome: Conditional; check unit policy
-- Pets welcome: yes
-- Children policy: Blue Jay's Blue Chalet welcomes children but is not suitable for infants; steep loft stairs. Check other units separately.
-- Pet policy: Official homepage offers dog-friendly chalets with no pet fee.
-- Website (book here, directly with the host): https://www.notchlodges.com/
 
 ## Nurture Through Nature Retreats
 
@@ -4847,21 +4134,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://ogunquitrentalproperties.com
 
-## On the Water in Maine
-
-- ID: ME-0271
-- Town / area (approximate map location): Rockport, ME
-- Type: Unknown
-- Description: Book the best deals on vacation rentals with On The Water In Maine for a week of waterfront relaxation and adventure. Explore coastal towns and discover nearby attractions.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://onthewaterinmaine.com
-
 ## OSSIPEE WOOD 2 LIMIT 4
 
 - ID: ME-0577
@@ -4955,23 +4227,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=503
-
-## Parker Lodge Housekeeping Cottages
-
-- ID: VT-0056
-- Town / area (approximate map location): North Hero, VT
-- Type: Cabin
-- Description: Three housekeeping cottages on Kings Bay in North Hero, each with two bedrooms, kitchen and screened porch.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Each of three cottages sleeps four. Blue Cottage page lists two bedrooms; do not treat the portfolio as one house.
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: Yes
-- Pet policy: Conditional
-- Website (book here, directly with the host): https://www.parkerlodge.org/
 
 ## PATTI ANNE LIMIT 4
 
@@ -5245,37 +4500,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No — explicit property rule
 - Website (book here, directly with the host): https://powderhillfarm.com
 
-## Quimby Country Lodge & Cottages
-
-- ID: VT-0010
-- Town / area (approximate map location): Averill, VT
-- Type: Cabin
-- Description: A traditional sporting camp in Averill with nineteen lakeside cottages, a lodge and family vacation programs.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Nineteen cottages, with checked published cabin capacities from one to eight depending on the cottage. Silver Sedge sleeps four to eight.
-- Price: Date-dependent rates; inquire or choose dates on the operator site.
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Official site explicitly offers family holidays and children's activities.
-- Website (book here, directly with the host): https://quimbycountry.com/
-
-## Quoddy Properties Vacation Rentals
-
-- ID: ME-0251
-- Town / area (approximate map location): Eastport / Lubec, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://quoddyproperties.com/vacation-rentals.html
-
 ## Rangeley Lake Resort
 
 - ID: ME-0087
@@ -5290,21 +4514,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://rangeleylakeresort.com
-
-## Rangeley Vacation Rentals
-
-- ID: ME-0267
-- Town / area (approximate map location): Rangeley, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://rangeleyvacationrentals.com
 
 ## Red's Garden Cottage
 
@@ -5417,22 +4626,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/322529
-
-## Robert Frost Mountain Cabins
-
-- ID: VT-0053
-- Town / area (approximate map location): Ripton, VT
-- Type: Cabin
-- Description: Seven timber-frame cabins in Ripton, with full kitchens, screened porches and woodland access in the Green Mountains.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Official homepage states each of the seven cabins sleeps up to six guests.
-- Price: from 237 USD a night
-- Children welcome: Unknown
-- Pets welcome: Conditional; check unit policy
-- Pet policy: Official cabin list identifies Serene Outlook, Owl's Branch and Hemlock Hideaway as pet-friendly. Confirm current unit rules and fees.
-- Website (book here, directly with the host): https://www.robertfrostmountaincabins.com/
 
 ## ROBIN LIMIT 3
 
@@ -5924,21 +5117,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — dogs permitted; $25/night
 - Website (book here, directly with the host): https://sebagolakelodge.com
 
-## Sebago Rental
-
-- ID: ME-0205
-- Town / area (approximate map location): Sebago Lake, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://sebagorental.com
-
 ## SEBAGO SUNRISE LIMIT 8
 
 - ID: ME-0566
@@ -5969,23 +5147,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://seguinmaine.com
-
-## Serene Country Cabins
-
-- ID: VT-0015
-- Town / area (approximate map location): Hyde Park, VT
-- Type: Cabin
-- Description: Cabins near Stowe operated by Vermont natives Jennifer and Craig Fowler, welcoming children and dogs.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: yes
-- Pets welcome: yes
-- Children policy: Yes
-- Pet policy: Yes
-- Website (book here, directly with the host): https://serenecountrycabins.com/
 
 ## Sharon Thoner Maine Rentals
 
@@ -6033,36 +5194,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=146966
 
-## Simple Stay Property Management
-
-- ID: VT-0063
-- Town / area (approximate map location): Lowell, VT
-- Type: Unknown
-- Description: A local Northeast Kingdom rental manager offering a collection of Vermont stays and direct guest support.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.simplestayvt.com/
-
-## Simple Vacation Rentals
-
-- ID: VT-0068
-- Town / area (approximate map location): Killington, VT
-- Type: Unknown
-- Description: A Killington-based rental manager offering vacation houses and condos, direct bookings and local guest support.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://simple.fyi/
-
 ## Snowball Hill Cottage
 
 - ID: ME-0185
@@ -6077,36 +5208,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://snowballhillcottage.com
-
-## Songbird Studio VT
-
-- ID: VT-0025
-- Town / area (approximate map location): Eden Mills, VT
-- Type: Cabin
-- Description: A small lakefront guest cabin on Lake Eden, designed for two guests, with kitchen, kayaks and a firepit.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: 1
-- Sleeps: 2
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://songbirdstudiovt.lovable.app/
-
-## Squabetty
-
-- ID: VT-0054
-- Town / area (approximate map location): Underhill, VT
-- Type: House
-- Description: A family homestead retreat on Mount Mansfield in Underhill, available for vacations, reunions and retreats.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.squabetty.com/
 
 ## Stafford Cottage/Damariscotta Lake
 
@@ -6185,113 +5286,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family vacations mentioned
 - Pet policy: Selected units only — cabins 1–6 and apartment; not cabins 7–9
 - Website (book here, directly with the host): https://steamboatwharfcabins.com
-
-## Stone City Treehouse
-
-- ID: VT-0013
-- Town / area (approximate map location): Hardwick, VT
-- Type: Cabin
-- Description: A treehouse, glamping tent and house at a woodland retreat near Hardwick, with direct inquiries and forest wellness experiences.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://stonecitytreehouse.com/
-
-## Stony Pond Farm
-
-- ID: VT-0029
-- Town / area (approximate map location): Enosburg Falls, VT
-- Type: Unknown
-- Description: A family-owned organic farm in Fairfield offering stays in its Pond House and Meadow Cottage.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.stonypondfarm.com/
-
-## Storied Stay
-
-- ID: VT-0037
-- Town / area (approximate map location): Manchester, VT
-- Type: Unknown
-- Description: A collection of three historic vacation homes in Manchester Village: Wickham House, Novel House and Lyman Cottage.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.storiedstay.com/
-
-## Stowe Area Home
-
-- ID: VT-0064
-- Town / area (approximate map location): Elmore, VT
-- Type: House
-- Description: A vacation rental near Lake Elmore and Stowe, offered through direct inquiries to owner Mary Anne Machis.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.stoweareahome.com/
-
-## Stowe Cabins in the Woods
-
-- ID: VT-0051
-- Town / area (approximate map location): Waterbury Center, VT
-- Type: Cabin
-- Description: Fully equipped woodland cabins in Waterbury Center, with direct booking and access to the Stowe area.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: yes
-- Pets welcome: yes
-- Children policy: Yes
-- Pet policy: Yes
-- Website (book here, directly with the host): https://stowecabins.com/
-
-## Stowe Country Homes
-
-- ID: VT-0007
-- Town / area (approximate map location): Stowe, VT
-- Type: Unknown
-- Description: Vacation homes and condos managed by a Stowe rental operator, with direct reservation and guest support.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://stowecountryhomes.com/
-
-## Suites by the Sea
-
-- ID: ME-0173
-- Town / area (approximate map location): Lincolnville, ME
-- Type: Apartment
-- Description: Vacations Rentals, mid-coast Maine, Lincolnville Beach, Maine. Oceanfront Suites with jetted tubs, fireplaces, full kitchen and stunning view
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://suitesbythesea.com
 
 ## SummerMaine Classic Vacation Rentals
 
@@ -6484,36 +5478,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://teelcovecottagemaine.com
 
-## The 1827 House
-
-- ID: VT-0062
-- Town / area (approximate map location): West Dover, VT
-- Type: House
-- Description: A historic West Dover vacation house available as a whole home or separate upstairs and downstairs accommodations.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.1827house.com/
-
-## The Arched Chalet
-
-- ID: VT-0058
-- Town / area (approximate map location): Plymouth, VT
-- Type: House
-- Description: A four-bedroom ski chalet in Plymouth sleeping eight, with two bathrooms, decks and a hot tub.
-- Rooms: Unknown
-- Bedrooms: 4
-- Bathrooms: 2
-- Sleeps: 8
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://archedchalet.com/
-
 ## The Blueberry House
 
 - ID: ME-0203
@@ -6528,23 +5492,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://blueberryhousemaine.com
-
-## The Cobble House
-
-- ID: VT-0005
-- Town / area (approximate map location): Gaysville, VT
-- Type: House
-- Description: A restored Victorian vacation house above the White River in Gaysville, sleeping ten in five en suite bedrooms.
-- Rooms: Unknown
-- Bedrooms: 5
-- Bathrooms: Unknown
-- Sleeps: Sleeps 10 in five en suite bedrooms, as stated on the homepage.
-- Price: Date-dependent rates; inquire or choose dates on the operator site.
-- Children welcome: yes
-- Pets welcome: Conditional; check unit policy
-- Children policy: The expanded Stay-page FAQ explicitly welcomes children.
-- Pet policy: Expanded Stay-page FAQ says pets are by arrangement; contact the operator at 802-216-8866.
-- Website (book here, directly with the host): https://thecobblehouse.com/
 
 ## THE COTTAGE LIMIT 6
 
@@ -6640,21 +5587,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family-friendly and playground
 - Website (book here, directly with the host): https://sundayriverrentals.com
 
-## The Gnome Home
-
-- ID: VT-0052
-- Town / area (approximate map location): Stockbridge, VT
-- Type: House
-- Description: A four-bedroom mountain chalet in Stockbridge sleeping eight, with decks, fireplace and sauna.
-- Rooms: Unknown
-- Bedrooms: 4
-- Bathrooms: 2
-- Sleeps: 8
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.gnomehomevt.com/
-
 ## THE GRANT CABIN LIMIT 6
 
 - ID: ME-0582
@@ -6670,21 +5602,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=606
-
-## The Heyer House
-
-- ID: ME-0220
-- Town / area (approximate map location): Waldoboro, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://whereswaldoboro.com
 
 ## The Hinsdale House / Bristol
 
@@ -6730,21 +5647,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196415
-
-## The Landmark Trust USA
-
-- ID: VT-0011
-- Town / area (approximate map location): Dummerston, VT
-- Type: Unknown
-- Description: A nonprofit preservation organization offering five restored historic Vermont properties as self-catered vacation rentals.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://landmarktrustusa.org/
 
 ## The Lodge & Cabins
 
@@ -6873,21 +5775,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — cabins marketed to families
 - Website (book here, directly with the host): https://tamaracksmaine.com/
 
-## The Vermont Treehouse
-
-- ID: VT-0059
-- Town / area (approximate map location): Johnson, VT
-- Type: Cabin
-- Description: A woodland vacation rental in Johnson near Stowe and Smugglers’ Notch, with trails and a hot tub.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.thevermonttreehouse.com/
-
 ## The Willows/Damariscotta Lake
 
 - ID: ME-0450
@@ -6997,21 +5884,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — children welcome but no extra beds/cots; 2 guests maximum
 - Pet policy: Yes — well-behaved dogs $20/night per dog
 - Website (book here, directly with the host): https://tidewatchcabins.com
-
-## Timbercrest Mansions
-
-- ID: VT-0040
-- Town / area (approximate map location): West Dover, VT
-- Type: Unknown
-- Description: A local collection of large vacation houses near Mount Snow, with direct reservations and inquiries.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://timbercrestmansions.com/
 
 ## TimbrLux Stays
 
@@ -7152,21 +6024,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138613
 
-## True Hall Vacation Rentals
-
-- ID: ME-0281
-- Town / area (approximate map location): Tenants Harbor, ME
-- Type: Unknown
-- Description: A Local Real Estate and Vacation Rental Company
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://truehall.com
-
 ## Turner Farm Guesthouse
 
 - ID: ME-0189
@@ -7231,66 +6088,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=381
 
-## Vacation Cottages
-
-- ID: ME-0237
-- Town / area (approximate map location): Blue Hill, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://vacationcottages.com
-
-## Valley View Villa
-
-- ID: VT-0042
-- Town / area (approximate map location): West Dover, VT
-- Type: House
-- Description: An eight-bedroom vacation house in West Dover sleeping sixteen, with multiple living areas, hot tub and outdoor space.
-- Rooms: Unknown
-- Bedrooms: 8
-- Bathrooms: 5
-- Sleeps: 16
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://www.valleyviewvt.com/
-
-## Vermont Huts & Trails
-
-- ID: VT-0035
-- Town / area (approximate map location): Waterbury, VT
-- Type: Cabin
-- Description: A Vermont nonprofit offering bookable backcountry huts and cabins for hiking, biking and skiing trips.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://vermonthuts.org/
-
-## Vermont Vacation Rentals — Sanctuary Homes
-
-- ID: VT-0069
-- Town / area (approximate map location): Manchester Center, VT
-- Type: Unknown
-- Description: Two owner-operated vacation houses in Manchester Center, Sanctuary and Sanctuary II, with direct booking inquiries.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Two separate houses. Sanctuary II sleeps up to eight adults; do not combine house totals.
-- Price: Choose dates or inquire directly for current rates.
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://vermontvacation-rentals.com/
-
 ## Viking Trail Cabin
 
 - ID: ME-0216
@@ -7306,21 +6103,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — guest review mentions small children
 - Website (book here, directly with the host): https://vikingtrailcabin.com
-
-## Vinalhaven Vacation Rentals
-
-- ID: ME-0284
-- Town / area (approximate map location): Vinalhaven, ME
-- Type: Unknown
-- Description: Situated ten miles off the coast of Midcoast Maine, Vinalhaven is the state's largest off-shore island community. Known for its striking natural beauty, rocky beaches, and home to one of the world's largest lobster fishing fleets, this special spot has to be on your vacation short-list. If you’re the active type, there are dozens of parks, hiking and biking trails, along with two amazing fresh water quarries to cool off. The area is truly a boating and kayaking paradise, with more coves to explore than you can shake a stick at.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://vinalhavenvacationrentals.com
 
 ## Virginia Cottage
 
@@ -7406,23 +6188,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — playground and family cottages
 - Pet policy: Varies — designated pet-friendly cottages, including Units 108 and 117
 - Website (book here, directly with the host): https://watercrestcottages.com
-
-## Weatherby's Lodge
-
-- ID: ME-0047
-- Town / area (approximate map location): Grand Lake Stream, ME
-- Type: Unknown
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: From $79/adult/night housekeeping; $269–$299/adult/day all-inclusive Published 2026 rates; minimum housekeeping $200/night; 9% tax extra; meals included in all-inclusive
-- Children welcome: Conditional; check unit policy
-- Pets welcome: yes
-- Children policy: Yes (age-based child rates; under 5 free)
-- Pet policy: Yes (dogs $20/day, October free)
-- Website (book here, directly with the host): https://weatherbys.com
 
 ## Webhannet by the Sea
 
@@ -7661,3 +6426,686 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://mainerentals.com
+
+## Ascutney Lofts
+
+- ID: VT-0071
+- Town / area (approximate map location): Brownsville, VT
+- Type: Unknown
+- Description: Loft and cabin accommodations in Brownsville, with direct booking and owner contact; other operator homes have separate locations.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.ascutneylofts.com/
+
+## Crossett Hill Lodge
+
+- ID: VT-0060
+- Town / area (approximate map location): Duxbury, VT
+- Type: Unknown
+- Description: A Duxbury woodland lodge offering three separate accommodations: the Terraces, Loft and Sugarhouse.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Terraces sleeps six; Loft sleeps six; Sugarhouse sleeps two. Separate units.
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): http://lengel.net/crossetthill2/
+
+## Fat Sheep Farm & Cabins
+
+- ID: VT-0001
+- Town / area (approximate map location): Hartland, VT
+- Type: Cabin
+- Description: Five private cabins on a working farm in Hartland, with hill views, farm activities and family stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Five cabins; occupancy varies by cabin. Sunrise has a queen bedroom and a living-room futon; no explicit maximum on the checked page.
+- Price: Rates vary by date and cabin. Sunrise page lists a $55 one-time cleaning fee, $30/night for additional guests beyond two, and typical two-night weekend/three-night holiday minimums.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Children welcome; adult supervision required on the working farm. Sunrise page says children aged two and under stay free.
+- Pet policy: Dogs only in Sunrise, Ascutney and Lull Brook cabins, on the reservation and leashed. Sunrise pet cleaning fee: $30/night per pet.
+- Website (book here, directly with the host): https://www.fatsheepfarmvermont.com/
+
+## Flower Brook Farm
+
+- ID: VT-0039
+- Town / area (approximate map location): Pawlet, VT
+- Type: House
+- Description: A renovated nine-bedroom farmhouse on three hundred acres in Pawlet, with two kitchens and space for large groups.
+- Rooms: Unknown
+- Bedrooms: 9
+- Bathrooms: 5
+- Sleeps: Site advertises groups 2–16+; four full and two half baths. Maximum remains unit-specific.
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.flowerbrookfarm.com/
+
+## Gregoire Castle — Kane Realty
+
+- ID: VT-0014
+- Town / area (approximate map location): Irasburg, VT
+- Type: House
+- Description: A six-bedroom castle vacation rental on twenty acres in Vermont’s Northeast Kingdom, with private outdoor gathering spaces.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: Unknown
+- Sleeps: Sleeps 8; six bedrooms; three full and two half bathrooms.
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.kanerealty.net/vermont-castle/
+
+## Highland Lodge
+
+- ID: VT-0024
+- Town / area (approximate map location): Greensboro, VT
+- Type: Cabin
+- Description: A historic Greensboro lodge offering rooms and seasonal cabins near Caspian Lake, with direct reservation inquiries.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): http://www.highlandlodge.com/
+
+## Hobble Inn & The Loft
+
+- ID: VT-0008
+- Town / area (approximate map location): Stowe, VT
+- Type: Unknown
+- Description: A three-bedroom vacation house and a separate one-bedroom loft in Stowe village, offered for weekly and longer stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Hobble Inn: three bedrooms, sleeps six, two bathrooms. The separate Loft has one bedroom; its maximum needs checking.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Official homepage offers the Inn for families and small groups.
+- Website (book here, directly with the host): https://hobbleinn.com/
+
+## Killington Mountain Homes
+
+- ID: VT-0033
+- Town / area (approximate map location): Killington, VT
+- Type: Unknown
+- Description: A Killington vacation rental manager offering houses and condos, with direct guest inquiries and reservations.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://killingtonmountain.com/
+
+## Kismet Properties Vermont
+
+- ID: VT-0049
+- Town / area (approximate map location): Warren, VT
+- Type: Unknown
+- Description: Family-run vacation lodging in Warren offering Kismet Cabin and a separate Alpine Suite near Blueberry Lake.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Kismet Cabin sleeps 8–10; separate Alpine Suite sleeps 2–4.
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Yes
+- Website (book here, directly with the host): https://kismetpropertiesvermont.com/
+
+## Kumari of the Woods
+
+- ID: VT-0034
+- Town / area (approximate map location): Strafford, VT
+- Type: Cabin
+- Description: Woodland cottage lodging and retreats in Strafford, with direct contact to the owner.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://kumariofthewoods.com/
+
+## Lake Salem Cottages
+
+- ID: VT-0067
+- Town / area (approximate map location): Derby, VT
+- Type: Cabin
+- Description: Four family-owned lakefront cottages in Derby, with private shoreline, boats and direct reservation inquiries.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Four cottages; booking page states maximum six people per cottage.
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Yes
+- Pet policy: Yes
+- Website (book here, directly with the host): https://lakesalemvt.com/
+
+## Lakeshore Vermont Inn & Suites
+
+- ID: VT-0003
+- Town / area (approximate map location): Colchester, VT
+- Type: Unknown
+- Description: Locally owned lakefront suites and cottages in Colchester, with private beaches, kitchens and access to Lake Champlain.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Multiple distinct rentals. Homepage lists two-person suites/cottages and a four-person Vermonter suite; capacities differ by unit.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Family-oriented accommodation in the official tourism listing; property website describes family stays.
+- Pet policy: Homepage identifies pet-friendly accommodation. Confirm the chosen unit's policy and fees.
+- Website (book here, directly with the host): https://www.lakeshorevermont.com/
+
+## Mad River Valley Rental Management
+
+- ID: VT-0031
+- Town / area (approximate map location): Fayston, VT
+- Type: Unknown
+- Description: A locally owned Mad River Valley rental manager offering direct reservations for vacation houses, cabins and other stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.mrvrm.com/
+
+## Meadowstone Manor
+
+- ID: VT-0017
+- Town / area (approximate map location): Stowe, VT
+- Type: House
+- Description: A private Stowe vacation estate with fourteen bedrooms, sixteen bathrooms, a pool, hot tubs and outdoor recreation.
+- Rooms: Unknown
+- Bedrooms: 14
+- Bathrooms: 16
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.dripcastleestatecollection.com/luxury-stowe-mountain-rental-meadowstone-manor/
+
+## Mount Snow Yurt
+
+- ID: VT-0009
+- Town / area (approximate map location): Dover, VT
+- Type: Cabin
+- Description: An insulated, yurt-shaped cabin near Mount Snow, with two private bedrooms, a loft, hot tub and cedar sauna.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Maximum eight guests. Two private queen bedrooms, loft sleeper sofa and convertible living-room sofa; four sleeping spaces are not four bedrooms.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Families welcome. Hot tub is prohibited for children under twelve; older minors require direct adult supervision.
+- Pet policy: Published FAQ welcomes well-behaved pets with a $100 fee per stay.
+- Website (book here, directly with the host): https://mountsnowyurt.com/
+
+## Mountain Lake Cottages
+
+- ID: VT-0041
+- Town / area (approximate map location): Westmore, VT
+- Type: Cabin
+- Description: Seasonal cottages on Lake Willoughby in Westmore, with direct reservations through the operator.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://vermontmountainlakecottages.com/
+
+## Mountain Pines
+
+- ID: VT-0030
+- Town / area (approximate map location): Stowe, VT
+- Type: House
+- Description: A four-bedroom post-and-beam Stowe vacation house with three bathrooms, a hot tub and pet-friendly stays.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: 8
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Yes
+- Website (book here, directly with the host): https://www.staymountainpines.com/
+
+## Mountain View Vacations
+
+- ID: VT-0019
+- Town / area (approximate map location): Stowe, VT
+- Type: Unknown
+- Description: A Stowe vacation rental manager offering houses, chalets and local guest support through its own reservation website.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://stowerentalhomes.com/
+
+## Northbound Vermont
+
+- ID: VT-0026
+- Town / area (approximate map location): Lowell, VT
+- Type: Cabin
+- Description: A private cabin on twelve acres in Lowell near Jay Peak, with direct guest inquiries to the operator.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://northboundvermont.com/
+
+## Notch Lodges
+
+- ID: VT-0012
+- Town / area (approximate map location): Jeffersonville, VT
+- Type: Cabin
+- Description: Five family-owned chalet and cabin rentals near Smugglers' Notch, with direct booking and dog-friendly stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Five distinct rentals sleep four to six guests each. Blue Jay's Blue Chalet sleeps four; Charming Vermont Log Cabin sleeps six.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: Conditional; check unit policy
+- Pets welcome: yes
+- Children policy: Blue Jay's Blue Chalet welcomes children but is not suitable for infants; steep loft stairs. Check other units separately.
+- Pet policy: Official homepage offers dog-friendly chalets with no pet fee.
+- Website (book here, directly with the host): https://www.notchlodges.com/
+
+## Parker Lodge Housekeeping Cottages
+
+- ID: VT-0056
+- Town / area (approximate map location): North Hero, VT
+- Type: Cabin
+- Description: Three housekeeping cottages on Kings Bay in North Hero, each with two bedrooms, kitchen and screened porch.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Each of three cottages sleeps four. Blue Cottage page lists two bedrooms; do not treat the portfolio as one house.
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Yes
+- Pet policy: Conditional
+- Website (book here, directly with the host): https://www.parkerlodge.org/
+
+## Quimby Country Lodge & Cottages
+
+- ID: VT-0010
+- Town / area (approximate map location): Averill, VT
+- Type: Cabin
+- Description: A traditional sporting camp in Averill with nineteen lakeside cottages, a lodge and family vacation programs.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Nineteen cottages, with checked published cabin capacities from one to eight depending on the cottage. Silver Sedge sleeps four to eight.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Official site explicitly offers family holidays and children's activities.
+- Website (book here, directly with the host): https://quimbycountry.com/
+
+## Robert Frost Mountain Cabins
+
+- ID: VT-0053
+- Town / area (approximate map location): Ripton, VT
+- Type: Cabin
+- Description: Seven timber-frame cabins in Ripton, with full kitchens, screened porches and woodland access in the Green Mountains.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Official homepage states each of the seven cabins sleeps up to six guests.
+- Price: from 237 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Pet policy: Official cabin list identifies Serene Outlook, Owl's Branch and Hemlock Hideaway as pet-friendly. Confirm current unit rules and fees.
+- Website (book here, directly with the host): https://www.robertfrostmountaincabins.com/
+
+## Serene Country Cabins
+
+- ID: VT-0015
+- Town / area (approximate map location): Hyde Park, VT
+- Type: Cabin
+- Description: Cabins near Stowe operated by Vermont natives Jennifer and Craig Fowler, welcoming children and dogs.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Yes
+- Pet policy: Yes
+- Website (book here, directly with the host): https://serenecountrycabins.com/
+
+## Simple Stay Property Management
+
+- ID: VT-0063
+- Town / area (approximate map location): Lowell, VT
+- Type: Unknown
+- Description: A local Northeast Kingdom rental manager offering a collection of Vermont stays and direct guest support.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.simplestayvt.com/
+
+## Simple Vacation Rentals
+
+- ID: VT-0068
+- Town / area (approximate map location): Killington, VT
+- Type: Unknown
+- Description: A Killington-based rental manager offering vacation houses and condos, direct bookings and local guest support.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://simple.fyi/
+
+## Songbird Studio VT
+
+- ID: VT-0025
+- Town / area (approximate map location): Eden Mills, VT
+- Type: Cabin
+- Description: A small lakefront guest cabin on Lake Eden, designed for two guests, with kitchen, kayaks and a firepit.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: 2
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://songbirdstudiovt.lovable.app/
+
+## Squabetty
+
+- ID: VT-0054
+- Town / area (approximate map location): Underhill, VT
+- Type: House
+- Description: A family homestead retreat on Mount Mansfield in Underhill, available for vacations, reunions and retreats.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.squabetty.com/
+
+## Stone City Treehouse
+
+- ID: VT-0013
+- Town / area (approximate map location): Hardwick, VT
+- Type: Cabin
+- Description: A treehouse, glamping tent and house at a woodland retreat near Hardwick, with direct inquiries and forest wellness experiences.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://stonecitytreehouse.com/
+
+## Stony Pond Farm
+
+- ID: VT-0029
+- Town / area (approximate map location): Enosburg Falls, VT
+- Type: Unknown
+- Description: A family-owned organic farm in Fairfield offering stays in its Pond House and Meadow Cottage.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.stonypondfarm.com/
+
+## Storied Stay
+
+- ID: VT-0037
+- Town / area (approximate map location): Manchester, VT
+- Type: Unknown
+- Description: A collection of three historic vacation homes in Manchester Village: Wickham House, Novel House and Lyman Cottage.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.storiedstay.com/
+
+## Stowe Area Home
+
+- ID: VT-0064
+- Town / area (approximate map location): Elmore, VT
+- Type: House
+- Description: A vacation rental near Lake Elmore and Stowe, offered through direct inquiries to owner Mary Anne Machis.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.stoweareahome.com/
+
+## Stowe Cabins in the Woods
+
+- ID: VT-0051
+- Town / area (approximate map location): Waterbury Center, VT
+- Type: Cabin
+- Description: Fully equipped woodland cabins in Waterbury Center, with direct booking and access to the Stowe area.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Yes
+- Pet policy: Yes
+- Website (book here, directly with the host): https://stowecabins.com/
+
+## Stowe Country Homes
+
+- ID: VT-0007
+- Town / area (approximate map location): Stowe, VT
+- Type: Unknown
+- Description: Vacation homes and condos managed by a Stowe rental operator, with direct reservation and guest support.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://stowecountryhomes.com/
+
+## The 1827 House
+
+- ID: VT-0062
+- Town / area (approximate map location): West Dover, VT
+- Type: House
+- Description: A historic West Dover vacation house available as a whole home or separate upstairs and downstairs accommodations.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.1827house.com/
+
+## The Arched Chalet
+
+- ID: VT-0058
+- Town / area (approximate map location): Plymouth, VT
+- Type: House
+- Description: A four-bedroom ski chalet in Plymouth sleeping eight, with two bathrooms, decks and a hot tub.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: 8
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://archedchalet.com/
+
+## The Cobble House
+
+- ID: VT-0005
+- Town / area (approximate map location): Gaysville, VT
+- Type: House
+- Description: A restored Victorian vacation house above the White River in Gaysville, sleeping ten in five en suite bedrooms.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Sleeps 10 in five en suite bedrooms, as stated on the homepage.
+- Price: Date-dependent rates; inquire or choose dates on the operator site.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: The expanded Stay-page FAQ explicitly welcomes children.
+- Pet policy: Expanded Stay-page FAQ says pets are by arrangement; contact the operator at 802-216-8866.
+- Website (book here, directly with the host): https://thecobblehouse.com/
+
+## The Gnome Home
+
+- ID: VT-0052
+- Town / area (approximate map location): Stockbridge, VT
+- Type: House
+- Description: A four-bedroom mountain chalet in Stockbridge sleeping eight, with decks, fireplace and sauna.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: 8
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.gnomehomevt.com/
+
+## The Landmark Trust USA
+
+- ID: VT-0011
+- Town / area (approximate map location): Dummerston, VT
+- Type: Unknown
+- Description: A nonprofit preservation organization offering five restored historic Vermont properties as self-catered vacation rentals.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://landmarktrustusa.org/
+
+## The Vermont Treehouse
+
+- ID: VT-0059
+- Town / area (approximate map location): Johnson, VT
+- Type: Cabin
+- Description: A woodland vacation rental in Johnson near Stowe and Smugglers’ Notch, with trails and a hot tub.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thevermonttreehouse.com/
+
+## Timbercrest Mansions
+
+- ID: VT-0040
+- Town / area (approximate map location): West Dover, VT
+- Type: Unknown
+- Description: A local collection of large vacation houses near Mount Snow, with direct reservations and inquiries.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://timbercrestmansions.com/
+
+## Valley View Villa
+
+- ID: VT-0042
+- Town / area (approximate map location): West Dover, VT
+- Type: House
+- Description: An eight-bedroom vacation house in West Dover sleeping sixteen, with multiple living areas, hot tub and outdoor space.
+- Rooms: Unknown
+- Bedrooms: 8
+- Bathrooms: 5
+- Sleeps: 16
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.valleyviewvt.com/
+
+## Vermont Huts & Trails
+
+- ID: VT-0035
+- Town / area (approximate map location): Waterbury, VT
+- Type: Cabin
+- Description: A Vermont nonprofit offering bookable backcountry huts and cabins for hiking, biking and skiing trips.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://vermonthuts.org/
+
+## Vermont Vacation Rentals — Sanctuary Homes
+
+- ID: VT-0069
+- Town / area (approximate map location): Manchester Center, VT
+- Type: Unknown
+- Description: Two owner-operated vacation houses in Manchester Center, Sanctuary and Sanctuary II, with direct booking inquiries.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Two separate houses. Sanctuary II sleeps up to eight adults; do not combine house totals.
+- Price: Choose dates or inquire directly for current rates.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://vermontvacation-rentals.com/

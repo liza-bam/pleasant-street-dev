@@ -2,7 +2,7 @@
 
 Checked: 2026-10-25.
 
-27 failed or invalid website records are excluded: 25 Maine records and 2 Vermont records. IDs remain stable; original research is retained.
+61 Maine records are excluded: 25 failed/mismatched websites and 36 listings without property photos, removed at Sandy’s request. Vermont exclusions are documented below. IDs remain stable; original research is retained.
 
 ## Unreachable websites
 
@@ -61,3 +61,46 @@ HTTP 403/429 and bot challenges are not treated as proof that a property website
 Vermont access limitations remain outside approved inventory: Sterling Ridge Resort and Wilburton show security challenges; Pie in the Sky Farm's supplied URL is browser-blocked. These are unverified access failures, not confirmed closures. Two other leads have no identified website yet.
 
 Detailed Maine check URLs and results are retained in [data/sources/maine/bad-websites.json](data/sources/maine/bad-websites.json).
+
+## Maine listings excluded because property photos are missing
+
+Removed from list and map results at Sandy’s request on 2026-10-25. These 36 records have no collected property photos; this does not establish that their websites are down. Full research records are retained in `data/sources/maine/excluded-no-photos.json`.
+
+| ID | Property / operator | Website | Reason |
+| --- | --- | --- | --- |
+| ME-0036 | Grand Lake Cottages | [https://grandlakecottages.net](https://grandlakecottages.net) | Missing property photos / cover; excluded by request. |
+| ME-0045 | Canalside Cabins | [https://canalsidecabins.com](https://canalsidecabins.com) | Missing property photos / cover; excluded by request. |
+| ME-0047 | Weatherby's Lodge | [https://weatherbys.com](https://weatherbys.com) | Missing property photos / cover; excluded by request. |
+| ME-0057 | Kokadjo Cabins & Trading Post | [https://kokadjo.com](https://kokadjo.com) | Missing property photos / cover; excluded by request. |
+| ME-0063 | Katahdin Cabins | [https://katahdincabins.com](https://katahdincabins.com) | Missing property photos / cover; excluded by request. |
+| ME-0067 | Mt. Chase Lodge | [https://mtchaselodge.com](https://mtchaselodge.com) | Missing property photos / cover; excluded by request. |
+| ME-0078 | Conklin's Lodge and Camps | [https://conklinslodge.com](https://conklinslodge.com) | Missing property photos / cover; excluded by request. |
+| ME-0080 | Kendall Farm Cottages | [https://kendallfarmcottages.com](https://kendallfarmcottages.com) | Missing property photos / cover; excluded by request. |
+| ME-0082 | Arndt's Aroostook River Lodge | [https://arndtscamp.com](https://arndtscamp.com) | Missing property photos / cover; excluded by request. |
+| ME-0085 | Lyons Lakeside Cabins | [https://lyonslakeside.com](https://lyonslakeside.com) | Missing property photos / cover; excluded by request. |
+| ME-0092 | Lawrence's Lakeside Cabins | [https://lawrenceslakesidecabins.com](https://lawrenceslakesidecabins.com) | Missing property photos / cover; excluded by request. |
+| ME-0107 | Edgewater Cabins | [https://edgewatercabins.com/](https://edgewatercabins.com/) | Missing property photos / cover; excluded by request. |
+| ME-0111 | Kennebec Riverside Cabins | [https://krcabins.com](https://krcabins.com) | Missing property photos / cover; excluded by request. |
+| ME-0127 | Kebo View at Acadia | [https://barharborweeklyrentals.com](https://barharborweeklyrentals.com) | Missing property photos / cover; excluded by request. |
+| ME-0140 | Maine Cottage Rental (LedgeLawn Cottage) | [https://mainecottages.com](https://mainecottages.com) | Missing property photos / cover; excluded by request. |
+| ME-0141 | Niftybug Rentals | [https://niftybug.com](https://niftybug.com) | Missing property photos / cover; excluded by request. |
+| ME-0142 | Maine Bella Vita Cabins | [https://mainebellavitacabins.com](https://mainebellavitacabins.com) | Missing property photos / cover; excluded by request. |
+| ME-0152 | Eagle Lake & Beyond | [https://eaglelakebeyondllc.com](https://eaglelakebeyondllc.com) | Missing property photos / cover; excluded by request. |
+| ME-0155 | HAGS Place | [https://hagsplace.com](https://hagsplace.com) | Missing property photos / cover; excluded by request. |
+| ME-0173 | Suites by the Sea | [https://suitesbythesea.com](https://suitesbythesea.com) | Missing property photos / cover; excluded by request. |
+| ME-0205 | Sebago Rental | [https://sebagorental.com](https://sebagorental.com) | Missing property photos / cover; excluded by request. |
+| ME-0212 | In The Trees | [https://inthetreesmaine.lodgify.com](https://inthetreesmaine.lodgify.com) | Missing property photos / cover; excluded by request. |
+| ME-0220 | The Heyer House | [https://whereswaldoboro.com](https://whereswaldoboro.com) | Missing property photos / cover; excluded by request. |
+| ME-0232 | Connecting Rentals | [https://connectingrentals.com](https://connectingrentals.com) | Missing property photos / cover; excluded by request. |
+| ME-0237 | Vacation Cottages | [https://vacationcottages.com](https://vacationcottages.com) | Missing property photos / cover; excluded by request. |
+| ME-0239 | Maine Vacation Rentals Inc. | [https://mainevacationrentalsonline.com](https://mainevacationrentalsonline.com) | Missing property photos / cover; excluded by request. |
+| ME-0247 | Coastal Maine Vacations | [https://coastalmaine.vacations](https://coastalmaine.vacations) | Missing property photos / cover; excluded by request. |
+| ME-0251 | Quoddy Properties Vacation Rentals | [https://quoddyproperties.com/vacation-rentals.html](https://quoddyproperties.com/vacation-rentals.html) | Missing property photos / cover; excluded by request. |
+| ME-0263 | Camden Hills Realty & Vacation Rentals | [https://camdenhillsrealty.com](https://camdenhillsrealty.com) | Missing property photos / cover; excluded by request. |
+| ME-0267 | Rangeley Vacation Rentals | [https://rangeleyvacationrentals.com](https://rangeleyvacationrentals.com) | Missing property photos / cover; excluded by request. |
+| ME-0269 | Kinney Rentals | [https://kinneyrentals.com](https://kinneyrentals.com) | Missing property photos / cover; excluded by request. |
+| ME-0271 | On the Water in Maine | [https://onthewaterinmaine.com](https://onthewaterinmaine.com) | Missing property photos / cover; excluded by request. |
+| ME-0281 | True Hall Vacation Rentals | [https://truehall.com](https://truehall.com) | Missing property photos / cover; excluded by request. |
+| ME-0284 | Vinalhaven Vacation Rentals | [https://vinalhavenvacationrentals.com](https://vinalhavenvacationrentals.com) | Missing property photos / cover; excluded by request. |
+| ME-0291 | Green Gables Inn | [https://greengablesinnmaine.com](https://greengablesinnmaine.com) | Missing property photos / cover; excluded by request. |
+| ME-0292 | Glenmoor by the Sea | [https://glenmoorbythesea.com](https://glenmoorbythesea.com) | Missing property photos / cover; excluded by request. |

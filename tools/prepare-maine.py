@@ -6,6 +6,8 @@ SRC=pathlib.Path(sys.argv[1]).resolve()
 DEST=ROOT/'data/sources/maine';DEST.mkdir(parents=True,exist_ok=True)
 MEDIA=ROOT/'images';MEDIA.mkdir(parents=True,exist_ok=True)
 with (SRC/'Maine_Rental_Websites_updated.csv').open(encoding='utf-8-sig',newline='') as file:rows=list(csv.DictReader(file))
+excluded={r['id'] for r in json.loads((SRC/'bad-websites.json').read_text())}
+rows=[r for r in rows if r['ID'] not in excluded]
 UNKNOWN='Unknown'
 def fact(value):return value.strip() or UNKNOWN
 def policy(value):
@@ -82,7 +84,7 @@ shutil.copyfile(SRC/'schema.json',DEST/'csv-schema.json')
 manifest=json.loads((SRC/'image-manifest.json').read_text())
 active_ids={h['id'] for h in homes}
 selected=[{'id':r['id'],'photos':[{k:p.get(k,'') for k in ['file','role','url','page','sha256','width','height']} for p in r['photos']],
- 'logo':{k:r['logo'].get(k,'') for k in ['file','url','page','sha256']} if r.get('logo') else None} for r in manifest]
+ 'logo':{k:r['logo'].get(k,'') for k in ['file','url','page','sha256']} if r.get('logo') else None} for r in manifest if r['id'] in active_ids]
 selected.extend({'id':h['id'],'photos':h['photos'],'logo':None} for h in operators)
 (DEST/'photo-sources.json').write_text(json.dumps(selected,ensure_ascii=False,indent=1)+'\n')
 addresses=json.loads((SRC/'address-manifest.json').read_text())
