@@ -7,9 +7,26 @@ own website. Public, not indexed (robots.txt disallows all, the page says noinde
 
 The header switch selects Map or Cards. Both share the place, capacity, type and welcome filters.
 Map results follow the visible map; Cards shows all matching locations, including listings without
-coordinates. `?view=cards&place=VT` opens Vermont cards directly. Cards have a cover and two 4:3
-extra photographs, a source-based summary of at most 150 characters, five property facts and
-website/claim buttons. Claim opens a prefilled email draft to `sandy@lazy.vacations`.
+coordinates. `?view=cards&place=VT` opens Vermont cards directly. The Tiny/Large switch applies
+inside Cards; `&size=tiny` opens the compact version. Tiny has one photograph, name, location and
+website/claim buttons, with no fact grid or description. Large has a cover and two 4:3 extra photos,
+a source-based summary of at most 150 characters and five property facts. Both use one-line names
+with ellipses and show platform-logo badges on the photograph. Claim opens a prefilled email draft
+to `sandy@lazy.vacations`.
+
+Featured, Fit and Potential fit are independent accordions, with live counts. Featured and Fit
+start open; Potential fit starts closed. Collapse choices survive filtering and view changes.
+Each listing belongs to one group. Featured follows the same location and hard filters, and
+retains an uncertainty note when relevant facts are missing. A confirmed mismatch excludes a
+listing; unknown capacity/type or unknown/conditional requested pet/child policies need a host
+check. Collapsing a group does not remove map pins or change the result count.
+
+Popular destination pills count real published listings with an identifiable town, excluding
+demos and vague locations. The default threshold is 10 listings and the maximum is six pills;
+`POPULAR_MIN_LISTINGS` and `POPULAR_MAX_DESTINATIONS` in `assets/map.js` control these values.
+Counts are catalog totals before guest/type/policy filters. Clicking a pill applies the exact
+published destination in any view. Coastal-region groupings require explicit regional metadata;
+the app does not infer those from approximate town coordinates.
 
 `data/sources/cards/cards_inventory.csv` is a derived export of all retained records, including
 the seven explicitly held records. The existing Maine and Vermont CSVs also retain actual Airbnb,

@@ -9,6 +9,11 @@
   var welcome = document.getElementById('ps-welcome'), needs = [];
   var app = document.querySelector('.app'), viewSwitch = document.querySelector('.app-view-switch');
   var view = new URLSearchParams(location.search).get('view') === 'cards' ? 'cards' : 'map';
+  var cardSize = new URLSearchParams(location.search).get('size') === 'tiny' ? 'tiny' : 'large';
+  var sizeSwitch = document.querySelector('.app-size-switch');
+  var destinationsEl = document.getElementById('ps-destinations');
+  var groupState = { featured: true, fit: true, potential: false };
+  var POPULAR_MIN_LISTINGS = 10, POPULAR_MAX_DESTINATIONS = 6;
   var initialPlace = new URLSearchParams(location.search).get('place');
   if (q && initialPlace) q.value = initialPlace;
   /* A pinch on the trackpad and the wheel zoom the map itself, like + and -, never the page around it.
@@ -25,7 +30,7 @@
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
-  var homes = [], area = null;
+  var homes = [], area = null, loaded = false;
   var featuredIcon = L.divIcon({
     className: 'ps-featured-pin', iconSize: [32, 44], iconAnchor: [16, 43], popupAnchor: [0, -37],
     html: '<svg viewBox="0 0 32 44" width="32" height="44" aria-hidden="true"><path class="ps-featured-pin__shape" d="M16 1C7.7 1 1 7.7 1 16c0 11 15 26 15 26s15-15 15-26C31 7.7 24.3 1 16 1Z"/><circle cx="16" cy="16" r="5" fill="white"/></svg>'
@@ -48,24 +53,23 @@
   function platformBadges(h) {
     var names = { airbnb: 'Airbnb', vrbo: 'Vrbo', booking: 'Booking.com' };
     return ['airbnb', 'vrbo', 'booking'].filter(function (p) { return h.platformLinks && h.platformLinks[p] && h.platformLinks[p].length; }).map(function (p) {
-      return '<span class="ps-platform ps-platform--' + p + '" aria-label="' + names[p] + ' link found" title="Link found on the property website"><img src="assets/platforms/' + p + '.svg" alt="" width="18" height="18">' + (p === 'vrbo' ? '' : names[p]) + '</span>';
+      return '<span class="ps-platform ps-platform--' + p + '" role="img" aria-label="' + names[p] + ' link found"><img src="assets/platforms/' + p + '.svg" alt="" width="18" height="18"></span>';
     }).join('');
   }
-  function fullCard(h, missing) {
+  function fullCard(h, missing, tiny) {
     var images = photoSet(h);
-    var gallery = [0, 1, 2].map(function (i) {
+    var gallery = (tiny ? [0] : [0, 1, 2]).map(function (i) {
       return images[i] ? '<img src="' + esc(images[i]) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">Photo unavailable</span>';
     }).join('');
     var facts = [['Type', known(h.type) ? h.type : 'Unknown'], ['Sleeps', known(h.guests) ? h.guests : 'Unknown'], ['Bedrooms', known(h.bedrooms) ? h.bedrooms : 'Unknown'], ['Pets', policy(h.pets)], ['Kids', policy(h.kids)]];
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
-    return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + '" data-property="' + esc(h.id) + '">' +
-      '<div class="ps-gallery">' + listingBadge(h) + gallery + '</div>' +
-      '<div class="ps-home__body"><p class="ps-home__place">' + esc(h.place) + '</p><h2>' + esc(h.name) + '</h2>' +
-      (/operator|manager/i.test(h.recordType || '') || h.cardPhotoLabel ? '<p class="ps-home__operator">' + esc(h.cardPhotoLabel || 'Rental operator') + '</p>' : '') +
-      '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>' +
-      '<dl class="ps-home__facts">' + facts.map(function (f) { return '<div><dt>' + f[0] + '</dt><dd>' + esc(f[1]) + '</dd></div>'; }).join('') + '</dl>' +
-      '<div class="ps-home__platforms">' + platformBadges(h) + '</div>' +
-      (missing && missing.length ? '<p class="ps-home__missing">May fit · check ' + esc(missing.join(', ')) + '</p>' : '') +
+    return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + '" data-property="' + esc(h.id) + '">' +
+      '<div class="ps-gallery">' + listingBadge(h) + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' + gallery + '</div>' +
+      '<div class="ps-home__body"><p class="ps-home__place">' + esc(h.place) + '</p><h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
+      (!tiny && (/operator|manager/i.test(h.recordType || '') || h.cardPhotoLabel) ? '<p class="ps-home__operator">' + esc(h.cardPhotoLabel || 'Rental operator') + '</p>' : '') +
+      (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
+      (tiny ? '' : '<dl class="ps-home__facts">' + facts.map(function (f) { return '<div><dt>' + f[0] + '</dt><dd>' + esc(f[1]) + '</dd></div>'; }).join('') + '</dl>') +
+      (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       '<a class="ps-action ps-action--claim" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' by email">Claim my house</a></div></div></article>';
   }
@@ -77,7 +81,7 @@
     return '<a class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" href="' + esc(h.url) + '" target="_blank" rel="noopener">' +
       listingBadge(h) +
       '<img src="' + esc(h.photo) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
-      '<span class="ps-card__name">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' +
+      '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</a>';
   }
   /* A place matches when a word of it starts with what was typed, or the typed word is
@@ -101,6 +105,7 @@
   }
   function matches(place, t) {
     var st = stateOf(place), p = place.toLowerCase();
+    if (p === t) return true;
     if (t.length <= 2) return st === t;
     if (st && STATES[st].indexOf(t) === 0) return true;               /* "mai", "maine", "new y" */
     if (ABBR[t] && ABBR[t] === st) return true;
@@ -109,6 +114,11 @@
   /* Each filter sorts a home three ways: it says yes (a match), it says no (left out), or it does not
      say (it may fit). Location and the map area are always known, so they only include or leave out. */
   function show() {
+    if (!loaded) {
+      listEl.innerHTML = '<p class="ps-none">Loading homes…</p>';
+      countEl.textContent = '';
+      return [];
+    }
     var t = q ? q.value.trim().toLowerCase() : '';
     var n = sleeps && +sleeps.value > 1 ? +sleeps.value : 0;   /* 1 on the slider is every home */
     var fits = [], maybe = [];
@@ -117,8 +127,11 @@
       var out = (t && !matches(h.place, t)) || (view === 'map' && (!h.marker || (area && !area.contains(h.marker.getLatLng()))));
       if (!out && n) { if (!known(h.guests)) h.missing.push('how many it sleeps'); else if (+h.guests < n) out = true; }
       if (!out && types.length) { if (!known(h.type)) h.missing.push('type'); else if (types.indexOf(h.type) < 0) out = true; }
-      /* Kids and pets are yes or no: a home that does not say counts as no. */
-      needs.forEach(function (k) { if (!out && !/^y/i.test(h[k] || '')) out = true; });
+      /* A confirmed No excludes a home; missing or conditional policies need a host check. */
+      needs.forEach(function (k) {
+        if (out || /^y/i.test(h[k] || '')) return;
+        if (h[k] === 'No') out = true; else h.missing.push(k === 'kids' ? 'kids policy' : 'pets policy');
+      });
       if (out) { if (h.marker) (h.featured === true ? map : cluster).removeLayer(h.marker); return; }
       if (h.marker) {
         h.marker.setOpacity(h.missing.length ? 0.55 : 1);
@@ -128,11 +141,20 @@
     });
     var shown = fits.concat(maybe);
     if (!listEl) return shown;
-    var renderCard = view === 'cards' ? fullCard : card;
-    listEl.innerHTML = (fits.map(function (h) { return renderCard(h); }).join('') ||
-        (maybe.length ? '' : '<p class="ps-none">No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.') + '</p>')) +
-      (maybe.length ? '<h2 class="ps-group">May fit: not every fact is listed</h2>' + maybe.map(function (h) { return renderCard(h, h.missing); }).join('') : '');
-    countEl.textContent = (fits.length === 1 ? '1 home' : fits.length + ' homes') + (maybe.length ? ' · ' + maybe.length + ' may fit' : '');
+    listEl.querySelectorAll('details[data-group]').forEach(function (g) { groupState[g.dataset.group] = g.open; });
+    var featured = shown.filter(function (h) { return h.featured; });
+    var groups = [
+      { key: 'featured', title: 'Featured', homes: featured },
+      { key: 'fit', title: 'Fit', homes: fits.filter(function (h) { return !h.featured; }) },
+      { key: 'potential', title: 'Potential fit', homes: maybe.filter(function (h) { return !h.featured; }) }
+    ];
+    listEl.innerHTML = groups.filter(function (g) { return g.homes.length; }).map(function (g) {
+      return '<details class="ps-results-group ps-results-group--' + g.key + '" data-group="' + g.key + '"' + (groupState[g.key] ? ' open' : '') + '>' +
+        '<summary><span>' + g.title + '</span><span class="ps-results-group__count">' + g.homes.length + '</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>' +
+        (g.key === 'potential' ? '<p class="ps-results-group__note">Some requested details are missing or need host approval. Check with the host.</p>' : '') +
+        '<div class="ps-results-grid">' + g.homes.map(function (h) { return view === 'cards' ? fullCard(h, h.missing, cardSize === 'tiny') : card(h, h.missing); }).join('') + '</div></details>';
+    }).join('') || '<p class="ps-none">No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.') + '</p>';
+    countEl.textContent = (shown.length === 1 ? '1 home' : shown.length + ' homes') + (maybe.length ? ' · ' + maybe.length + (maybe.length === 1 ? ' potential fit' : ' potential fits') : '');
     return shown;
   }
   function syncArea() {
@@ -141,7 +163,8 @@
     show();
   }
   map.on('moveend', syncArea);
-  if (q) q.addEventListener('input', function () {
+  function searchPlace() {
+    syncDestinations();
     var params = new URLSearchParams(location.search);
     if (q.value.trim()) params.set('place', q.value.trim()); else params.delete('place');
     history.replaceState(null, '', location.pathname + (params.size ? '?' + params.toString() : ''));
@@ -149,10 +172,58 @@
     if (!q.value.trim()) { syncArea(); return; }
     // Search every location before moving the map, including places outside the current view.
     area = null;
-    var shown = show();
-    if (shown.length) { map.fitBounds(L.latLngBounds(shown.filter(function (h) { return h.marker; }).map(function (h) { return h.marker.getLatLng(); })).pad(0.3), { maxZoom: 10, animate: false }); }
+    var shown = show().filter(function (h) { return h.marker; });
+    if (shown.length) { map.fitBounds(L.latLngBounds(shown.map(function (h) { return h.marker.getLatLng(); })).pad(0.3), { maxZoom: 10, animate: false }); }
     syncArea();
+  }
+  if (q) q.addEventListener('input', searchPlace);
+  function syncDestinations() {
+    var value = q.value.trim().toLowerCase();
+    destinationsEl.querySelectorAll('button[data-place]').forEach(function (b) {
+      var place = b.dataset.place.toLowerCase();
+      b.setAttribute('aria-pressed', String(value === place || (place && value === place.split(',')[0].trim())));
+    });
+  }
+  function popularDestinations() {
+    var counts = Object.create(null);
+    homes.forEach(function (h) {
+      if (h.demo || !known(h.town) || !known(h.state)) return;
+      counts[h.place] = (counts[h.place] || 0) + 1;
+    });
+    var places = Object.keys(counts).filter(function (p) { return counts[p] >= POPULAR_MIN_LISTINGS; }).sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); }).slice(0, POPULAR_MAX_DESTINATIONS);
+    destinationsEl.hidden = !places.length;
+    destinationsEl.innerHTML = '<span class="app-destinations__label">Popular destinations</span><button type="button" data-place="" aria-pressed="false">All places</button>' + places.map(function (p) {
+      return '<button type="button" data-place="' + esc(p) + '" aria-pressed="false" title="' + counts[p] + ' real listings before filters">' + esc(p.split(',')[0]) + '<span>' + counts[p] + '</span></button>';
+    }).join('');
+    syncDestinations();
+  }
+  destinationsEl.addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-place]'); if (!b) return;
+    q.value = b.dataset.place;
+    searchPlace();
+    if (!q.value && view === 'map') {
+      area = null;
+      var all = show().filter(function (h) { return h.marker && h.lng > -130; });
+      if (all.length) map.fitBounds(L.latLngBounds(all.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false });
+      syncArea();
+    }
+    listEl.scrollTop = 0;
   });
+  function syncCardSize() {
+    app.classList.toggle('app--tiny', cardSize === 'tiny');
+    sizeSwitch.querySelectorAll('[data-card-size]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.cardSize === cardSize)); });
+  }
+  sizeSwitch.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-card-size]'); if (!b) return;
+    cardSize = b.dataset.cardSize;
+    syncCardSize();
+    var params = new URLSearchParams(location.search);
+    if (cardSize === 'tiny') params.set('size', 'tiny'); else params.delete('size');
+    history.replaceState(null, '', location.pathname + (params.size ? '?' + params.toString() : ''));
+    show();
+    listEl.scrollTop = 0;
+  });
+  syncCardSize();
   function setView(next) {
     view = next;
     app.classList.toggle('app--cards', view === 'cards');
@@ -182,7 +253,7 @@
     types = [].map.call(pills.querySelectorAll('button[aria-pressed="true"]'), function (x) { return x.dataset.type; });
     show();
   });
-  /* Kids OK, Pets OK: each pressed on and off; pressed shows only homes that welcome them. */
+  /* Welcome filters exclude confirmed No policies and retain uncertain policies as potential fits. */
   if (welcome) welcome.addEventListener('click', function (e) {
     var b = e.target.closest('button[data-need]'); if (!b) return;
     b.setAttribute('aria-pressed', b.getAttribute('aria-pressed') === 'true' ? 'false' : 'true');
@@ -200,6 +271,8 @@
         .bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220, className: h.featured ? 'ps-popup ps-popup--featured' : 'ps-popup' });
       return h;
     });
+    loaded = true;
+    popularDestinations();
     /* Open on the mainland: Hawaii in the same view zooms the map out past the edge of the tiles. */
     var mapped = homes.filter(function (h) { return h.marker; });
     var main = mapped.filter(function (h) { return h.lng > -130; });
