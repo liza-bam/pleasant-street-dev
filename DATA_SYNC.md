@@ -1,5 +1,13 @@
 # Data handoff
 
+The Map/Cards UI now reads `index.json`; `street.json` remains a compatibility export. Card-owned
+fields are `cardDescription`, `cardDescriptionSource`, `cardPhotos`, `cardPhotoLabel` and
+`platformLinks`. Preserve these on imports. `data/sources/cards/website-review.json` documents
+seven newly held redirects, duplicate operators and sites without a current vacation offering.
+They remain in the database/CSV with `listingStatus: "Needs review"` and stay out of both views.
+The card export and regional CSVs include actual platform URLs; the UI displays badges only.
+Run `tools/prepare-cards.py` after material imports and `tools/verify-cards.py` before publishing.
+
 The catalog import covers data, media, source evidence and sync/index tooling. Claude owns ongoing app/schema development. The additional UI change requested by Sandy marks the 15 LAZY demos Featured, with coral card borders and coral pins; imported entries use the same existing cards and their selected covers.
 
 ## Shared contract

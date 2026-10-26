@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ME-0175",
+    "name": "Lubec Bay Cottage",
+    "website": "https://lubecbaycottage.com",
+    "observedDestination": "https://www.vrbo.com/207410ha",
+    "reason": "Own domain redirects to a Vrbo-only listing; no independent booking/inquiry page at the saved URL.",
+    "checkedOn": "2026-10-25",
+    "status": "Needs review",
+    "excludedFromDirectory": true
+  },
+  {
+    "id": "ME-0218",
+    "name": "Affordable Vinalhaven Rentals",
+    "website": "https://affordablevinalhavenrentals.com",
+    "observedDestination": "https://www.airbnb.com/users/show/2284349",
+    "reason": "Own domain redirects to an Airbnb host profile; independent website no longer available at the saved URL.",
+    "checkedOn": "2026-10-25",
+    "status": "Needs review",
+    "excludedFromDirectory": true
+  },
+  {
+    "id": "ME-0270",
+    "name": "SummerMaine Classic Vacation Rentals",
+    "website": "https://summermaine.com",
+    "observedDestination": "https://www.vacasa.com/usa/Maine/Rockland",
+    "reason": "Saved independent operator domain redirects to national aggregator Vacasa.",
+    "checkedOn": "2026-10-25",
+    "status": "Needs review",
+    "excludedFromDirectory": true
+  },
+  {
+    "id": "ME-0076",
+    "name": "Lookout Resort Rentals",
+    "website": "https://thelookoutinogunquit.com",
+    "observedDestination": "https://thelookoutinogunquit.com",
+    "reason": "Current site is the Lookout condominium association; no vacation accommodation or direct rental inquiry offering found.",
+    "checkedOn": "2026-10-25",
+    "status": "Needs review",
+    "excludedFromDirectory": true
+  },
+  {
+    "id": "ME-0228",
+    "name": "Holland Ave Vacation Rentals",
+    "website": "https://hollandavevacationrentals.com",
+    "observedDestination": "https://mdislandvacationhomes.com",
+    "reason": "Redirect duplicates existing primary operator ME-0128.",
+    "checkedOn": "2026-10-25",
+    "status": "Needs review",
+    "excludedFromDirectory": true
+  },
+  {
+    "id": "ME-0261",
+    "name": "Mountain Real Estate Company Rentals",
+    "website": "https://mainescapemanagement.com",
+    "observedDestination": "https://www.visitsundayriver.com",
+    "reason": "Redirect duplicates existing primary operator ME-0233.",
+    "checkedOn": "2026-10-25",
+    "status": "Needs review",
+    "excludedFromDirectory": true
+  },
+  {
+    "id": "ME-0259",
+    "name": "Maine Real Estate Management",
+    "website": "https://rentmaine.com",
+    "observedDestination": "https://www.rentmaine.com/rentals/",
+    "reason": "Current residential rental catalog offers monthly leases; no vacation rental offering found in this review.",
+    "checkedOn": "2026-10-25",
+    "status": "Needs review",
+    "excludedFromDirectory": true
+  }
+]

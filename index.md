@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-531 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+524 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1901 HOUSE LIMIT 10
 
@@ -308,21 +308,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — pack-and-play and toys available
 - Pet policy: Varies — only Flying and Sargent yurts allow dogs, $20/dog/day
 - Website (book here, directly with the host): https://acadiayurts.com
-
-## Affordable Vinalhaven Rentals
-
-- ID: ME-0218
-- Town / area (approximate map location): Vinalhaven, ME
-- Type: Unknown
-- Description: Oct 25, 2026 · Entire cottage · Island Cottage in town location with an easy walk to Main Street.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://affordablevinalhavenrentals.com
 
 ## Alice's Dream/Bristol
 
@@ -3033,21 +3018,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=388
 
-## Holland Ave Vacation Rentals
-
-- ID: ME-0228
-- Town / area (approximate map location): Bar Harbor, ME
-- Type: Unknown
-- Description: Home rentals in the heart of Bar Harbor, Maine.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://hollandavevacationrentals.com
-
 ## Houseboat NOMAD
 
 - ID: ME-0308
@@ -3964,21 +3934,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://thelookoutinn.com
 
-## Lookout Resort Rentals
-
-- ID: ME-0076
-- Town / area (approximate map location): Ogunquit, ME
-- Type: Unknown
-- Description: Explore The Lookout Ogunquit Maine for stunning condos, property management, and beautiful seaside living. Book your appointment today!
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://thelookoutinogunquit.com
-
 ## Loon Call/Pemaquid Lake
 
 - ID: ME-0451
@@ -4086,21 +4041,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://loveatfirstlightlubec.com
-
-## Lubec Bay Cottage
-
-- ID: ME-0175
-- Town / area (approximate map location): Lubec, ME
-- Type: House
-- Description: Unknown
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://lubecbaycottage.com
 
 ## Lugdon Lodge
 
@@ -4284,21 +4224,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=320
-
-## Maine Real Estate Management
-
-- ID: ME-0259
-- Town / area (approximate map location): Naples, ME
-- Type: Unknown
-- Description: Property management & rental listings from Maine Real Estate Management in the Bangor, Maine area. Landlord services, rental units, & condo management.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://rentmaine.com
 
 ## Maine Retreats Collection
 
@@ -4792,21 +4717,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://www.staymountainpines.com/
-
-## Mountain Real Estate Company Rentals
-
-- ID: ME-0261
-- Town / area (approximate map location): Newry, ME
-- Type: Unknown
-- Description: Find vacation rentals in the Sunday River and Bethel area. Browse locally managed homes. Pet friendly options, hot tubs, amazing views, waterfront properties.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://mainescapemanagement.com
 
 ## Mountain View Cottages
 
@@ -6865,21 +6775,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://stowecountryhomes.com/
-
-## SummerMaine Classic Vacation Rentals
-
-- ID: ME-0270
-- Town / area (approximate map location): Rockland, ME
-- Type: Unknown
-- Description: Rockland vacation rentals offer the best cruising bays and coastal life experience. Book your Maine getaway today.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Unknown
-- Website (book here, directly with the host): https://summermaine.com
 
 ## SUNNY BREAK- LIMIT 4
 

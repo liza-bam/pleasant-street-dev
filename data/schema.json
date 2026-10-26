@@ -57,7 +57,13 @@
   "descriptionSource": "Public source URL for the collected description, or Unknown",
   "descriptionStatus": "Collected from source website or Not collected",
   "collectionStatus": "Complete, Incomplete or Needs review; independent of website health and publication",
-  "missingRequiredFields": "Explicit shortages. Complete requires a physical Maine property/business address verified on the official site, four property photographs and a source description. PO boxes, arrival points and out-of-state contacts do not satisfy physical address completeness."
+  "missingRequiredFields": "Explicit shortages. Complete requires a physical Maine property/business address verified on the official site, four property photographs and a source description. PO boxes, arrival points and out-of-state contacts do not satisfy physical address completeness.",
+  "cardDescription": "Source-based card summary, at most 150 characters",
+  "cardDescriptionSource": "Official source URL supporting the card summary",
+  "cardPhotos": "Three saved photographs for cards mode, with stable ID and provenance in data/sources/cards",
+  "cardPhotoLabel": "Optional named rental or campus identifying an operator card photo set",
+  "platformLinks": "Verified attributable outgoing Airbnb, Vrbo and Booking.com URLs; badges are not clickable",
+  "listingReview": "Reason, observed destination and check date for a held record"
  },
  "downloads": {
   "csv": "data/sources/maine/catalog.csv",
@@ -67,6 +73,8 @@
   "addressProvenance": "data/sources/maine/address-sources.json",
   "descriptionProvenance": "data/sources/maine/description-sources.json",
   "collectionStatus": "data/sources/maine/collection-status.json",
-  "nextStateTemplate": "data/templates/State_Websites_template.csv"
+  "nextStateTemplate": "data/templates/State_Websites_template.csv",
+  "cardsInventory": "data/sources/cards/cards_inventory.csv",
+  "platformLinks": "data/sources/cards/platform-links.json"
  }
 }

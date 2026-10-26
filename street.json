@@ -360,20 +360,6 @@
   "demo": false
  },
  {
-  "id": "ME-0218",
-  "name": "Affordable Vinalhaven Rentals",
-  "url": "https://affordablevinalhavenrentals.com",
-  "place": "Vinalhaven, ME",
-  "lat": 44.0481,
-  "lng": -68.8317,
-  "photo": "images/ME-0218-card.webp",
-  "recordType": "Property",
-  "description": "Oct 25, 2026 · Entire cottage · Island Cottage in town location with an easy walk to Main Street.",
-  "locationPrecision": "Town / area approximate",
-  "featured": false,
-  "demo": false
- },
- {
   "id": "ME-0455",
   "name": "Alice's Dream/Bristol",
   "url": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196141",
@@ -3533,20 +3519,6 @@
   "demo": false
  },
  {
-  "id": "ME-0228",
-  "name": "Holland Ave Vacation Rentals",
-  "url": "https://hollandavevacationrentals.com",
-  "place": "Bar Harbor, ME",
-  "lat": 44.3876,
-  "lng": -68.2043,
-  "photo": "images/ME-0228-card.webp",
-  "recordType": "Rental operator",
-  "description": "Home rentals in the heart of Bar Harbor, Maine.",
-  "locationPrecision": "Town / area approximate",
-  "featured": false,
-  "demo": false
- },
- {
   "id": "ME-0308",
   "name": "Houseboat NOMAD",
   "url": "https://thefloatingnomad.com/nomad/",
@@ -4615,20 +4587,6 @@
   "demo": false
  },
  {
-  "id": "ME-0076",
-  "name": "Lookout Resort Rentals",
-  "url": "https://thelookoutinogunquit.com",
-  "place": "Ogunquit, ME",
-  "lat": 43.249,
-  "lng": -70.5992,
-  "photo": "images/ME-0076-card.webp",
-  "recordType": "Property / small operator",
-  "description": "Explore The Lookout Ogunquit Maine for stunning condos, property management, and beautiful seaside living. Book your appointment today!",
-  "locationPrecision": "Town / area approximate",
-  "featured": false,
-  "demo": false
- },
- {
   "id": "ME-0451",
   "name": "Loon Call/Pemaquid Lake",
   "url": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138667",
@@ -4735,20 +4693,6 @@
   "type": "House",
   "recordType": "Property",
   "description": "Easternmost town in the USA~ Vacation Home Rental & Maine Gift Shop & Ice Cream Stop",
-  "locationPrecision": "Address",
-  "featured": false,
-  "demo": false
- },
- {
-  "id": "ME-0175",
-  "name": "Lubec Bay Cottage",
-  "url": "https://lubecbaycottage.com",
-  "place": "Lubec, ME",
-  "lat": 44.81983,
-  "lng": -66.99073,
-  "photo": "images/ME-0175-card.webp",
-  "type": "House",
-  "recordType": "Property",
   "locationPrecision": "Address",
   "featured": false,
   "demo": false
@@ -4910,20 +4854,6 @@
   "pets": "No",
   "petsDetails": "No",
   "locationPrecision": "Published listing map (approximate)",
-  "featured": false,
-  "demo": false
- },
- {
-  "id": "ME-0259",
-  "name": "Maine Real Estate Management",
-  "url": "https://rentmaine.com",
-  "place": "Naples, ME",
-  "lat": 43.9695,
-  "lng": -70.6051,
-  "photo": "images/ME-0259-card.webp",
-  "recordType": "Rental operator",
-  "description": "Property management & rental listings from Maine Real Estate Management in the Bangor, Maine area. Landlord services, rental units, & condo management.",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -5492,20 +5422,6 @@
   "bathrooms": 3,
   "pets": "Yes",
   "petsDetails": "Yes",
-  "locationPrecision": "Town / area approximate",
-  "featured": false,
-  "demo": false
- },
- {
-  "id": "ME-0261",
-  "name": "Mountain Real Estate Company Rentals",
-  "url": "https://mainescapemanagement.com",
-  "place": "Newry, ME",
-  "lat": 44.4877,
-  "lng": -70.7877,
-  "photo": "images/ME-0261-card.webp",
-  "recordType": "Rental operator",
-  "description": "Find vacation rentals in the Sunday River and Bethel area. Browse locally managed homes. Pet friendly options, hot tubs, amazing views, waterfront properties.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
@@ -7875,20 +7791,6 @@
   "photo": "images/VT-0007-card.webp",
   "recordType": "Local rental operator",
   "description": "Vacation homes and condos managed by a Stowe rental operator, with direct reservation and guest support.",
-  "locationPrecision": "Town / area approximate",
-  "featured": false,
-  "demo": false
- },
- {
-  "id": "ME-0270",
-  "name": "SummerMaine Classic Vacation Rentals",
-  "url": "https://summermaine.com",
-  "place": "Rockland, ME",
-  "lat": 44.1048,
-  "lng": -69.1092,
-  "photo": "images/ME-0270-card.webp",
-  "recordType": "Rental operator",
-  "description": "Rockland vacation rentals offer the best cruising bays and coastal life experience. Book your Maine getaway today.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false

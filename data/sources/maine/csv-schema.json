@@ -66,7 +66,15 @@
       "Incomplete",
       "Needs review"
     ],
-    "Missing required fields": "Semicolon-separated shortages. Complete requires a physical Maine address verified on the official website, four property photographs, and a collected source description."
+    "Missing required fields": "Semicolon-separated shortages. Complete requires a physical Maine address verified on the official website, four property photographs, and a collected source description.",
+    "Airbnb URLs": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks.",
+    "Vrbo URLs": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks.",
+    "Booking.com URLs": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks.",
+    "Platform link source URLs": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks.",
+    "Platform links checked on": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks.",
+    "Platform link status": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks.",
+    "Directory status": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks.",
+    "Directory review notes": "Booking-platform pass; actual URLs, source pages and explicit verification/publication status. Multiple URLs use line breaks."
   },
   "image_names": "ID-cover.ext, ID-000.ext, ID-001.ext, ID-002.ext; optional ID-logo.ext",
   "images_directory": "images",

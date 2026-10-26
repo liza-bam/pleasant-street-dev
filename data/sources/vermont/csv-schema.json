@@ -42,7 +42,15 @@
     "Description source URL",
     "Description status",
     "Collection status",
-    "Missing required fields"
+    "Missing required fields",
+    "Airbnb URLs",
+    "Vrbo URLs",
+    "Booking.com URLs",
+    "Platform link source URLs",
+    "Platform links checked on",
+    "Platform link status",
+    "Directory status",
+    "Directory review notes"
   ],
   "header_mapping": {
     "Maine location": "Vermont location"

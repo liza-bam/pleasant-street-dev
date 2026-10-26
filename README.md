@@ -3,6 +3,28 @@
 A web app: vacation homes run by independent hosts, on a map and in a list. Each home opens its
 own website. Public, not indexed (robots.txt disallows all, the page says noindex).
 
+## Map and cards views
+
+The header switch selects Map or Cards. Both share the place, capacity, type and welcome filters.
+Map results follow the visible map; Cards shows all matching locations, including listings without
+coordinates. `?view=cards&place=VT` opens Vermont cards directly. Cards have a cover and two 4:3
+extra photographs, a source-based summary of at most 150 characters, five property facts and
+website/claim buttons. Claim opens a prefilled email draft to `sandy@lazy.vacations`.
+
+`data/sources/cards/cards_inventory.csv` is a derived export of all retained records, including
+the seven explicitly held records. The existing Maine and Vermont CSVs also retain actual Airbnb,
+Vrbo and Booking.com URLs, source pages, check date and result. Badges are nonclickable and only
+appear for attributable listing or operator-profile links. No Booking.com listing link was found
+in this pass. Two websites could not be checked for platform links; the CSV identifies them.
+
+Reviewed card descriptions, photo selections, new image provenance, platform-link evidence and
+website review decisions are in `data/sources/cards/`. Imported core facts and original photo
+sets remain intact. An operator card can identify the named rental or campus shown in its photos;
+its unit facts are not assigned to the operator as a whole. To reapply reviewed card material,
+run `python3 tools/prepare-cards.py`, `node tools/build-index.mjs`, then
+`python3 tools/verify-cards.py` and `node tools/verify-catalog.mjs`. New records require their own
+card descriptions, three photos and explicit platform-link review status before claiming coverage.
+
 - `index.html`, `assets/` — the app: `app.css`, `map.js` (Leaflet), the two fonts.
 - `data/homes.json` — the database: one record per website, including individual properties and rental operators. `data/schema.json` describes its fields.
 - `data/sources/maine/` — the reviewed Maine source CSV, normalized import JSON, CSV schema and selected photo/address provenance. Original source notes remain intact.

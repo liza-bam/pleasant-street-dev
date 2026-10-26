@@ -1,0 +1,44 @@
+{
+  "checkedOn": "2026-10-25",
+  "method": "Reviewed saved official property/operator page captures, contact/booking evidence and targeted connected-browser follow-ups. Search snippets were not used to verify links. This is not a fresh health check of every website.",
+  "retainedRecords": 531,
+  "activeCards": 524,
+  "activeMaine": 465,
+  "realVermont": 44,
+  "demos": 15,
+  "newSelectedPhotos": 113,
+  "newlyCompletedThreePhotoSets": 57,
+  "activeCardsWithPlatformBadges": 25,
+  "bookingComLinksFound": 0,
+  "platformCheckUnavailable": [
+    "ME-0098",
+    "ME-0043"
+  ],
+  "heldRecords": 7,
+  "checks": {
+    "python3 tools/verify-cards.py": "passed",
+    "node tools/verify-catalog.mjs": "passed",
+    "node --check assets/map.js": "passed",
+    "git diff --check": "passed",
+    "skill validator": "passed in existing pleasant-street-skill-validation environment"
+  },
+  "browserChecks": {
+    "desktop": "Map/Cards switching, VT-only map results, Stowe search, no-results state, nonclickable Airbnb/Vrbo badges, three images per rendered card and claim email draft destinations checked.",
+    "extraPhotoDimensions": "183.875 × 137.90625 CSS px in the desktop preview; 4:3 aspect ratio.",
+    "mobile": "Unverified: the connected browser viewport override did not change the actual viewport width. Override reset."
+  },
+  "excludedOutgoingLinks": [
+    {
+      "id": "ME-0170",
+      "url": "https://airbnb.com/h/deadwoodcozylogcabin",
+      "sourceUrl": "https://www.kennebunkportvacationhomes.com/",
+      "reason": "South Dakota property; no badge assigned to the Maine operator."
+    },
+    {
+      "id": "ME-0050",
+      "url": "http://airbnb.com/h/riverwindsfarmestate",
+      "sourceUrl": "https://northwoodsmainecabins.com/",
+      "reason": "Different property, River Winds Farm & Estate; no badge assigned to North Woods Maine Cabins."
+    }
+  ]
+}
