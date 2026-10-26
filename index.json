@@ -1511,6 +1511,70 @@
   "demo": false
  },
  {
+  "id": "NH-0003",
+  "name": "Ames Farm Inn",
+  "url": "https://www.amesfarminn.com/",
+  "place": "Gilford, NH",
+  "town": "Gilford",
+  "state": "NH",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Family-run Lake Winnipesaukee cottages, apartments and rooms on 135 acres, with a sandy beach, boat facilities and direct inquiries.",
+  "descriptionSource": "https://www.amesfarminn.com/",
+  "descriptionStatus": "Paraphrased from verified source website",
+  "cardDescription": "Family-run Lake Winnipesaukee cottages, apartments and rooms on 135 acres, with a sandy beach, boat facilities and direct inquiries.",
+  "cardDescriptionSource": "https://www.amesfarminn.com/",
+  "cardPhotos": [
+   "images/NH-0003-cover.webp",
+   "images/NH-0003-000.webp",
+   "images/NH-0003-001.webp"
+  ],
+  "cardPhotoLabel": "Shared Ames Farm Inn campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific numeric capacity and bedrooms; operator offers multiple accommodation types"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Operator offers 17 lakeside cottages, 14 apartments, 4 rooms and 2 additional cottages. Lakeside cottages include one- and two-bedroom types; another cottage is three bedrooms. Do not apply any one unit size to the operator.",
+  "priceFrom": 270,
+  "priceDetails": "Published approximate 2026 rates: rooms from $270/night spring/fall; lakeside cottages $2300-$2600/week spring/fall or $3400-$3800/week summer, varying by cottage. Selected spring/fall cottage nightly rates $479-$589. Subject to change; stated 8.5% NH tax additional.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Official website describes family vacations and policies refer to children on the shared grounds.",
+  "petsDetails": "Published policy: no pets for overnight rentals, weekly rentals or restaurant customers.",
+  "lat": 43.5481,
+  "lng": -71.407,
+  "photo": "images/NH-0003-card.webp",
+  "coverPhoto": "images/NH-0003-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0003-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0003-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0003-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0003-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0442",
   "name": "Amore| Romantic Coastal Cottage | Near Spruce Point Inn",
   "url": "https://booking.rockycoastrentals.com/listings/490449",
@@ -9398,6 +9462,73 @@
    }
   ],
   "logo": "images/ME-0206-logo.webp",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0001",
+  "name": "Deepwood Lodges",
+  "url": "https://www.deepwoodlodges.net/",
+  "place": "Moultonborough, NH",
+  "town": "Moultonborough",
+  "state": "NH",
+  "type": "Cabin",
+  "recordType": "Cabins / small operator",
+  "description": "Seasonal Lake Winnipesaukee cottages with a shared sandy beach, guest boats and direct availability inquiries.",
+  "descriptionSource": "https://www.deepwoodlodges.net/",
+  "descriptionStatus": "Paraphrased from verified source website",
+  "cardDescription": "Seasonal Lake Winnipesaukee cottages with a shared sandy beach, guest boats and direct availability inquiries.",
+  "cardDescriptionSource": "https://www.deepwoodlodges.net/",
+  "cardPhotos": [
+   "images/NH-0001-cover.webp",
+   "images/NH-0001-000.webp",
+   "images/NH-0001-001.webp"
+  ],
+  "cardPhotoLabel": "Shared Deepwood Lodges campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific capacity and bedrooms; operator record spans different cottages",
+   "Pet policy",
+   "Current published rates",
+   "Cottage-detail widget unavailable"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "17 unique cottages on the current official site; unit sizes and capacities vary. Cottage 5/6 sleep 7, Cottage 7 sleeps 6, Cottage 8/14/16 sleep 8 and Cottage 12 sleeps 10; these are not an operator-wide capacity.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Rates not published on checked pages; direct inquiry required.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Official amenities page describes beach fun for all ages and shallow swimming.",
+  "petsDetails": "Unknown",
+  "lat": 43.7552,
+  "lng": -71.396,
+  "photo": "images/NH-0001-card.webp",
+  "coverPhoto": "images/NH-0001-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0001-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0001-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0001-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0001-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
@@ -35113,6 +35244,70 @@
   ],
   "logo": "Unknown",
   "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0004",
+  "name": "The Patio Cabins",
+  "url": "https://thepatio.com/",
+  "place": "Twin Mountain, NH",
+  "town": "Twin Mountain",
+  "state": "NH",
+  "type": "Cabin",
+  "recordType": "Cabins / small operator",
+  "description": "Locally owned year-round Twin Mountain cabins with kitchenettes, porches, a seasonal pool and direct Cloudbeds booking.",
+  "descriptionSource": "https://thepatio.com/",
+  "descriptionStatus": "Paraphrased from verified source website",
+  "cardDescription": "Locally owned year-round Twin Mountain cabins with kitchenettes, porches, a seasonal pool and direct Cloudbeds booking.",
+  "cardDescriptionSource": "https://thepatio.com/",
+  "cardPhotos": [
+   "images/NH-0004-cover.webp",
+   "images/NH-0004-000.webp",
+   "images/NH-0004-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: The Patio Cabins — Cabin 1",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific capacity and bedrooms; operator record spans multiple cabins"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "11 cabins and 1 suite. Two-room cabins 1, 6 and 11 sleep up to 5; two-bed cabins sleep 4; Suite 12 sleeps 4. Capacity and bedroom count vary by unit.",
+  "priceFrom": 99,
+  "priceDetails": "Published cabin starting rates: queen $99, two-bed $115, two-room $130, Suite $155. Midweek stays of at least two nights; NH tax, add-ons and promotions excluded. Actual dated price in booking engine.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Published playground policy permits children with supervision; family stays described.",
+  "petsDetails": "Only cabins 4, 5 and 6, subject to direct approval, availability and breed restrictions; $30 flat pet fee. Pets cannot be left alone and must be leashed.",
+  "lat": 44.2711,
+  "lng": -71.54,
+  "photo": "images/NH-0004-card.webp",
+  "coverPhoto": "images/NH-0004-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0004-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0004-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0004-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0004-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },

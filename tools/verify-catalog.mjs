@@ -8,6 +8,7 @@ const root=path.resolve(path.dirname(new URL(import.meta.url).pathname),'..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
 const homes=read('data/homes.json'),source=read('data/sources/maine/catalog.json');
 const vermont=fs.existsSync(path.join(root,'data/sources/vermont/approved-import.json'))?read('data/sources/vermont/approved-import.json'):[];
+const newHampshire=fs.existsSync(path.join(root,'data/sources/new-hampshire/approved-import.json'))?read('data/sources/new-hampshire/approved-import.json'):[];
 const street=read('street.json'),index=read('index.json');
 const excluded=read('data/sources/maine/bad-websites.json').map(h=>h.id);
 const replaced=read('data/sources/maine/operator-replacements.json').map(h=>h.id);
@@ -21,7 +22,7 @@ for(const h of aggregatorApproved){
  assert(h.contactPagesChecked.length && h.bookingMethod && h.operatorEvidenceUrl);
 }
 for(const h of eligibility.filter(h=>h.qualificationStatus!=='Verified operator property'))assert(!homes.some(x=>x.id===h.id),'Unapproved research lead imported: '+h.id);
-assert.equal(homes.length,source.length+15+vermont.length);
+assert.equal(homes.length,source.length+15+vermont.length+newHampshire.length);
 assert.equal(new Set(homes.map(h=>h.id)).size,homes.length);
 const key=url=>{const u=new URL(url);return u.host.replace(/^www\./,'')+u.pathname.replace(/\/$/,'')+(u.searchParams.has('PageDataID')?'?PageDataID='+u.searchParams.get('PageDataID'):(u.searchParams.has('reservation_unitId')?'?reservation_unitId='+u.searchParams.get('reservation_unitId'):''));};
 assert.equal(new Set(homes.map(h=>key(h.url))).size,homes.length);
@@ -68,6 +69,24 @@ if(vermont.length){
   const file=path.join(root,p.file);assert(fs.existsSync(file),'Missing Vermont media '+p.file);
   assert.equal(crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex'),p.sha256,p.file);
   assert.equal(p.generated,false,'Actual property photo provenance must distinguish generated imagery');
+ }
+}
+if(newHampshire.length){
+ const evidence=read('data/sources/new-hampshire/eligibility-evidence.json');
+ const research=read('data/sources/new-hampshire/research-records.json');
+ const approvedIds=new Set(newHampshire.map(h=>h.id));
+ for(const s of newHampshire){
+  const h=homes.find(x=>x.id===s.id);assert(h,'Missing New Hampshire record '+s.id);
+  for(const field of ['name','url','place','state','description','guests','kids','pets','capacityDetails','address','photos','sourceDetails','cardPhotos'])assert.deepEqual(h[field],s[field],s.id+' '+field);
+  assert.equal(h.state,'NH');assert.equal(h.demo,false);
+  assert(h.lat>42.6 && h.lat<45.4 && h.lng>-72.6 && h.lng<-70.5,h.id+' coordinates outside New Hampshire');
+  assert(evidence[h.id].contactPagesChecked.length && evidence[h.id].bookingUrl && evidence[h.id].operatorEvidenceUrl,h.id+' incomplete eligibility evidence');
+  assert(['Verified independent website','Verified platform-hosted website'].includes(h.sourceDetails['Evidence status']));
+ }
+ for(const row of research)if(!approvedIds.has(row.ID))assert(!homes.some(h=>h.id===row.ID),'Unapproved New Hampshire lead imported: '+row.ID);
+ for(const p of read('data/sources/new-hampshire/photo-sources.json')){
+  assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,p.file))).digest('hex'),p.sha256,p.file);
+  assert.equal(p.generated,false);assert(p.sourcePage.startsWith('https://'));
  }
 }
 const active=homes.filter(h=>h.alive!==false && h.listingStatus!=='Needs review');

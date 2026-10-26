@@ -1202,5 +1202,26 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Brownsville%2C+VT%2C+USA&format=json&limit=1",
   "label": "West Windsor, Windsor County, Vermont, 05037, United States",
   "checked": "2026-10-25"
+ },
+ "Moultonborough, NH, USA": {
+  "lat": 43.7552,
+  "lng": -71.396,
+  "source": "https://nominatim.openstreetmap.org/search?q=Moultonborough%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Moultonborough, Carroll County, New Hampshire, United States",
+  "checked": "2026-10-26"
+ },
+ "Gilford, NH, USA": {
+  "lat": 43.5481,
+  "lng": -71.407,
+  "source": "https://nominatim.openstreetmap.org/search?q=Gilford%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Gilford, Belknap County, New Hampshire, 03249, United States",
+  "checked": "2026-10-26"
+ },
+ "Twin Mountain, NH, USA": {
+  "lat": 44.2711,
+  "lng": -71.54,
+  "source": "https://nominatim.openstreetmap.org/search?q=Twin+Mountain%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Twin Mountain, Carroll, Coös County, New Hampshire, 03595, United States",
+  "checked": "2026-10-26"
  }
 }

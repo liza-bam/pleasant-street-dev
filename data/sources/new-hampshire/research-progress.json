@@ -1,0 +1,107 @@
+{
+  "targetState": "New Hampshire",
+  "stateCode": "NH",
+  "updatedOn": "2026-10-26",
+  "queue": [
+    "New Hampshire",
+    "Massachusetts",
+    "Rhode Island"
+  ],
+  "currentPass": "Regional discovery and first eligibility/detail/photo batch",
+  "templateColumns": 49,
+  "passes": {
+    "statewideDiscovery": {
+      "status": "Two directory categories captured completely; statewide expansion remains ongoing",
+      "sources": [
+        {
+          "url": "https://www.visitnh.gov/plan-your-trip/where-to-stay/cabins-cottages",
+          "displayedResults": 46
+        },
+        {
+          "url": "https://www.visitnh.gov/plan-your-trip/where-to-stay/condos-vacation-rentals",
+          "displayedResults": 34
+        }
+      ],
+      "note": "Wait for actual business IDs to change after pagination; the page range updates before the results.",
+      "sourceAppearances": 80,
+      "uniqueDirectoryCandidates": 76
+    },
+    "regionalDiscovery": {
+      "status": "In progress",
+      "sources": [
+        "https://www.visitwhitemountains.com/places-to-stay/vacation-rentals/"
+      ],
+      "listedLeads": 20,
+      "note": "Regional leads need merge/dedup and own-website checks."
+    },
+    "townSearch": {
+      "status": "Pending"
+    },
+    "aggregatorsAndPlatforms": {
+      "status": "Pending"
+    },
+    "eligibility": {
+      "status": "In progress",
+      "reviewedIds": [
+        "NH-0001",
+        "NH-0003",
+        "NH-0004"
+      ]
+    },
+    "details": {
+      "status": "In progress",
+      "reviewedIds": [
+        "NH-0001",
+        "NH-0003",
+        "NH-0004"
+      ]
+    },
+    "photosAndAddresses": {
+      "status": "In progress",
+      "reviewedIds": [
+        "NH-0001",
+        "NH-0003",
+        "NH-0004"
+      ]
+    },
+    "gapReview": {
+      "status": "Pending"
+    }
+  },
+  "regionsToCheck": [
+    "Dartmouth-Lake Sunapee",
+    "Great North Woods",
+    "Lakes",
+    "Merrimack Valley",
+    "Monadnock",
+    "Seacoast",
+    "White Mountains"
+  ],
+  "countiesToCheck": [
+    "Belknap",
+    "Carroll",
+    "Cheshire",
+    "Coos",
+    "Grafton",
+    "Hillsborough",
+    "Merrimack",
+    "Rockingham",
+    "Strafford",
+    "Sullivan"
+  ],
+  "publication": "Three eligible records prepared locally; not deployed",
+  "limitations": [
+    "The DOM snapshot did not expose directory results that were visible in the screenshot and native accessibility tree; use the native accessibility state for these category pages.",
+    "Deepwood cottage-detail widget failed; direct contact and main website remain available.",
+    "No distinct Contact page linked for Patio; accommodation footer and direct-booking Address and Contact checked instead.",
+    "All seven regional searches, individual towns, aggregators and platform discovery are not yet complete."
+  ],
+  "counts": {
+    "master": 76,
+    "verifiedEligible": 3,
+    "sourceOnly": 72,
+    "confirmedDuplicateAuditRows": 1,
+    "propertiesWithFourPhotos": 3,
+    "savedAuthenticPhotographs": 12
+  }
+}

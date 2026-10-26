@@ -7118,5 +7118,51 @@
     ],
     "checkedOn": "2026-10-25",
     "status": "Checked; no qualifying links found"
+  },
+  {
+    "id": "NH-0001",
+    "name": "Deepwood Lodges",
+    "website": "https://www.deepwoodlodges.net/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.deepwoodlodges.net/",
+      "https://www.deepwoodlodges.net/contact",
+      "https://www.deepwoodlodges.net/cottages",
+      "https://www.deepwoodlodges.net/gallery",
+      "https://www.deepwoodlodges.net/explore-deepwood-lodges"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; no qualifying links found"
+  },
+  {
+    "id": "NH-0003",
+    "name": "Ames Farm Inn",
+    "website": "https://www.amesfarminn.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://www.amesfarminn.com/",
+      "https://www.amesfarminn.com/contact-us",
+      "https://www.amesfarminn.com/accommodations/lakeside-cottages",
+      "https://www.amesfarminn.com/policies",
+      "https://www.amesfarminn.com/rates"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; no qualifying links found"
+  },
+  {
+    "id": "NH-0004",
+    "name": "The Patio Cabins",
+    "website": "https://thepatio.com/",
+    "platformLinks": {},
+    "evidence": [],
+    "checkedPages": [
+      "https://thepatio.com/",
+      "https://thepatio.com/cabins.html",
+      "https://us2.cloudbeds.com/en/reservation/tixPQ0?currency=usd"
+    ],
+    "checkedOn": "2026-10-26",
+    "status": "Checked opened pages; no qualifying links found"
   }
 ]

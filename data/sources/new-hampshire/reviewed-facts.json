@@ -1,0 +1,134 @@
+{
+  "NH-0001": {
+    "name": "Deepwood Lodges",
+    "url": "https://www.deepwoodlodges.net/",
+    "town": "Moultonborough",
+    "type": "Cabin",
+    "recordType": "Cabins / small operator",
+    "description": "Seasonal Lake Winnipesaukee cottages with a shared sandy beach, guest boats and direct availability inquiries.",
+    "address": {
+      "street": "11 Senna Way",
+      "city": "Moultonborough",
+      "state": "NH",
+      "postalCode": "03254",
+      "full": "11 Senna Way, Moultonborough, NH 03254",
+      "type": "Shared camp/campus",
+      "sourceUrl": "https://www.deepwoodlodges.net/contact",
+      "notes": "Shared cottage-community contact/campus address; not an individual cottage entrance."
+    },
+    "kids": "Yes",
+    "kidsDetails": "Official amenities page describes beach fun for all ages and shallow swimming.",
+    "capacityDetails": "17 unique cottages on the current official site; unit sizes and capacities vary. Cottage 5/6 sleep 7, Cottage 7 sleeps 6, Cottage 8/14/16 sleep 8 and Cottage 12 sleeps 10; these are not an operator-wide capacity.",
+    "bookingMethod": "Direct availability inquiry by telephone, email or contact form",
+    "bookingUrl": "https://www.deepwoodlodges.net/contact",
+    "contactPagesChecked": [
+      "https://www.deepwoodlodges.net/contact"
+    ],
+    "operatorEvidenceUrl": "https://www.deepwoodlodges.net/",
+    "notes": "Official footer identifies Deepwood Lodges Home Owners Assoc.; seasonal guests Memorial Day to Columbus Day, with returning-guest priority and limited peak availability. Official site says 17 cottages, tourism profile says 12 units. The cottage-detail widget failed after opening Cottage 1, but the main website, public amenities and direct-contact method work. Photos show the shared campus, not one individual cottage.",
+    "detailsSource": "https://www.deepwoodlodges.net/cottages\nhttps://www.deepwoodlodges.net/contact\nhttps://www.deepwoodlodges.net/explore-deepwood-lodges",
+    "photoLabel": "Shared Deepwood Lodges campus",
+    "captures": [
+      "home",
+      "contact",
+      "cottages",
+      "gallery-loaded",
+      "amenities-loaded"
+    ],
+    "gaps": [
+      "Unit-specific capacity and bedrooms; operator record spans different cottages",
+      "Pet policy",
+      "Current published rates",
+      "Cottage-detail widget unavailable"
+    ]
+  },
+  "NH-0003": {
+    "name": "Ames Farm Inn",
+    "url": "https://www.amesfarminn.com/",
+    "town": "Gilford",
+    "type": "Unknown",
+    "recordType": "Rental operator",
+    "description": "Family-run Lake Winnipesaukee cottages, apartments and rooms on 135 acres, with a sandy beach, boat facilities and direct inquiries.",
+    "address": {
+      "street": "2800 Lake Shore Road",
+      "city": "Gilford",
+      "state": "NH",
+      "postalCode": "03249",
+      "full": "2800 Lake Shore Road, Gilford, NH 03249",
+      "type": "Shared camp/campus",
+      "sourceUrl": "https://www.amesfarminn.com/contact-us",
+      "notes": "Shared lakeside resort/cottage campus; unit entrances not separately established."
+    },
+    "kids": "Yes",
+    "kidsDetails": "Official website describes family vacations and policies refer to children on the shared grounds.",
+    "pets": "No",
+    "petsDetails": "Published policy: no pets for overnight rentals, weekly rentals or restaurant customers.",
+    "capacityDetails": "Operator offers 17 lakeside cottages, 14 apartments, 4 rooms and 2 additional cottages. Lakeside cottages include one- and two-bedroom types; another cottage is three bedrooms. Do not apply any one unit size to the operator.",
+    "priceFrom": 270,
+    "currency": "USD",
+    "priceDetails": "Published approximate 2026 rates: rooms from $270/night spring/fall; lakeside cottages $2300-$2600/week spring/fall or $3400-$3800/week summer, varying by cottage. Selected spring/fall cottage nightly rates $479-$589. Subject to change; stated 8.5% NH tax additional.",
+    "bookingMethod": "Book Now opens direct Contact Us page with form, telephone and email",
+    "bookingUrl": "https://www.amesfarminn.com/contact-us",
+    "contactPagesChecked": [
+      "https://www.amesfarminn.com/contact-us"
+    ],
+    "operatorEvidenceUrl": "https://www.amesfarminn.com/",
+    "notes": "Official site describes fifth-generation operation, established in 1890 on Ames-family land held since 1777. Cottage/apartment vacation offerings qualify beyond the inn rooms. Photos show shared campus and shoreline, not a fabricated single rental. Generic Bosque escondido text appears in a secondary footer; primary contact and all accommodation content consistently identify Ames Farm Inn in Gilford.",
+    "detailsSource": "https://www.amesfarminn.com/accommodations/lakeside-cottages\nhttps://www.amesfarminn.com/policies\nhttps://www.amesfarminn.com/rates\nhttps://www.amesfarminn.com/contact-us",
+    "photoLabel": "Shared Ames Farm Inn campus",
+    "captures": [
+      "home",
+      "contact",
+      "cottages",
+      "policies",
+      "rates"
+    ],
+    "gaps": [
+      "Unit-specific numeric capacity and bedrooms; operator offers multiple accommodation types"
+    ]
+  },
+  "NH-0004": {
+    "name": "The Patio Cabins",
+    "url": "https://thepatio.com/",
+    "town": "Twin Mountain",
+    "type": "Cabin",
+    "recordType": "Cabins / small operator",
+    "description": "Locally owned year-round Twin Mountain cabins with kitchenettes, porches, a seasonal pool and direct Cloudbeds booking.",
+    "address": {
+      "street": "952 Route 3 N",
+      "city": "Twin Mountain",
+      "state": "NH",
+      "postalCode": "03595",
+      "full": "952 Route 3 N, Twin Mountain, NH 03595",
+      "type": "Shared camp/campus",
+      "sourceUrl": "https://thepatio.com/cabins.html",
+      "notes": "Official website uses Twin Mountain; direct booking uses Carroll, the encompassing municipality, at 952 US-3 North. No separate Contact page is linked: contact footer on accommodation page and Address and Contact section of direct booking page both checked. Directory alias gives PO Box 147, not the rental entrance."
+    },
+    "kids": "Yes",
+    "kidsDetails": "Published playground policy permits children with supervision; family stays described.",
+    "pets": "Conditional",
+    "petsDetails": "Only cabins 4, 5 and 6, subject to direct approval, availability and breed restrictions; $30 flat pet fee. Pets cannot be left alone and must be leashed.",
+    "capacityDetails": "11 cabins and 1 suite. Two-room cabins 1, 6 and 11 sleep up to 5; two-bed cabins sleep 4; Suite 12 sleeps 4. Capacity and bedroom count vary by unit.",
+    "priceFrom": 99,
+    "currency": "USD",
+    "priceDetails": "Published cabin starting rates: queen $99, two-bed $115, two-room $130, Suite $155. Midweek stays of at least two nights; NH tax, add-ons and promotions excluded. Actual dated price in booking engine.",
+    "bookingMethod": "Operator-linked Cloudbeds direct booking; availability controls and property identity/contact inspected without selecting dates or submitting a reservation",
+    "bookingUrl": "https://us2.cloudbeds.com/en/reservation/tixPQ0?currency=usd",
+    "contactPagesChecked": [
+      "https://thepatio.com/cabins.html",
+      "https://us2.cloudbeds.com/en/reservation/tixPQ0?currency=usd"
+    ],
+    "operatorEvidenceUrl": "https://thepatio.com/",
+    "notes": "Official Meet the Hosts identifies local owners Chelsie and Nick, who bought the property in 2023. Direct booking identifies The Patio Cabins and matching address/phone/email. Patio Motor Court is the earlier name; same domain, place and Facebook identity. Preserve NH-0033 as duplicate audit row; do not publish twice. The four photos are all labeled Cabin 1 in the official accommodation gallery; unit facts are not assigned to this operator card.",
+    "detailsSource": "https://thepatio.com/cabins.html\nhttps://us2.cloudbeds.com/en/reservation/tixPQ0?currency=usd",
+    "photoLabel": "Photos: The Patio Cabins — Cabin 1",
+    "captures": [
+      "home",
+      "cabins",
+      "booking-loaded"
+    ],
+    "gaps": [
+      "Unit-specific capacity and bedrooms; operator record spans multiple cabins"
+    ]
+  }
+}

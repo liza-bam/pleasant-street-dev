@@ -1,0 +1,76 @@
+{
+  "NH-0001": {
+    "id": "NH-0001",
+    "checkedOn": "2026-10-26",
+    "state": "NH",
+    "canonicalUrl": "https://www.deepwoodlodges.net/",
+    "openedUrls": [
+      "https://www.deepwoodlodges.net/",
+      "https://www.deepwoodlodges.net/contact",
+      "https://www.deepwoodlodges.net/cottages",
+      "https://www.deepwoodlodges.net/gallery",
+      "https://www.deepwoodlodges.net/explore-deepwood-lodges"
+    ],
+    "contactPagesChecked": [
+      "https://www.deepwoodlodges.net/contact"
+    ],
+    "operatorEvidenceUrl": "https://www.deepwoodlodges.net/",
+    "bookingMethod": "Direct availability inquiry by telephone, email or contact form",
+    "bookingUrl": "https://www.deepwoodlodges.net/contact",
+    "eligibilityStatus": "Verified independent website",
+    "notes": "Official footer identifies Deepwood Lodges Home Owners Assoc.; seasonal guests Memorial Day to Columbus Day, with returning-guest priority and limited peak availability. Official site says 17 cottages, tourism profile says 12 units. The cottage-detail widget failed after opening Cottage 1, but the main website, public amenities and direct-contact method work. Photos show the shared campus, not one individual cottage.",
+    "remainingGaps": [
+      "Unit-specific capacity and bedrooms; operator record spans different cottages",
+      "Pet policy",
+      "Current published rates",
+      "Cottage-detail widget unavailable"
+    ]
+  },
+  "NH-0003": {
+    "id": "NH-0003",
+    "checkedOn": "2026-10-26",
+    "state": "NH",
+    "canonicalUrl": "https://www.amesfarminn.com/",
+    "openedUrls": [
+      "https://www.amesfarminn.com/",
+      "https://www.amesfarminn.com/contact-us",
+      "https://www.amesfarminn.com/accommodations/lakeside-cottages",
+      "https://www.amesfarminn.com/policies",
+      "https://www.amesfarminn.com/rates"
+    ],
+    "contactPagesChecked": [
+      "https://www.amesfarminn.com/contact-us"
+    ],
+    "operatorEvidenceUrl": "https://www.amesfarminn.com/",
+    "bookingMethod": "Book Now opens direct Contact Us page with form, telephone and email",
+    "bookingUrl": "https://www.amesfarminn.com/contact-us",
+    "eligibilityStatus": "Verified independent website",
+    "notes": "Official site describes fifth-generation operation, established in 1890 on Ames-family land held since 1777. Cottage/apartment vacation offerings qualify beyond the inn rooms. Photos show shared campus and shoreline, not a fabricated single rental. Generic Bosque escondido text appears in a secondary footer; primary contact and all accommodation content consistently identify Ames Farm Inn in Gilford.",
+    "remainingGaps": [
+      "Unit-specific numeric capacity and bedrooms; operator offers multiple accommodation types"
+    ]
+  },
+  "NH-0004": {
+    "id": "NH-0004",
+    "checkedOn": "2026-10-26",
+    "state": "NH",
+    "canonicalUrl": "https://thepatio.com/",
+    "openedUrls": [
+      "https://thepatio.com/",
+      "https://thepatio.com/cabins.html",
+      "https://us2.cloudbeds.com/en/reservation/tixPQ0?currency=usd"
+    ],
+    "contactPagesChecked": [
+      "https://thepatio.com/cabins.html",
+      "https://us2.cloudbeds.com/en/reservation/tixPQ0?currency=usd"
+    ],
+    "operatorEvidenceUrl": "https://thepatio.com/",
+    "bookingMethod": "Operator-linked Cloudbeds direct booking; availability controls and property identity/contact inspected without selecting dates or submitting a reservation",
+    "bookingUrl": "https://us2.cloudbeds.com/en/reservation/tixPQ0?currency=usd",
+    "eligibilityStatus": "Verified independent website",
+    "notes": "Official Meet the Hosts identifies local owners Chelsie and Nick, who bought the property in 2023. Direct booking identifies The Patio Cabins and matching address/phone/email. Patio Motor Court is the earlier name; same domain, place and Facebook identity. Preserve NH-0033 as duplicate audit row; do not publish twice. The four photos are all labeled Cabin 1 in the official accommodation gallery; unit facts are not assigned to this operator card.",
+    "remainingGaps": [
+      "Unit-specific capacity and bedrooms; operator record spans multiple cabins"
+    ]
+  }
+}

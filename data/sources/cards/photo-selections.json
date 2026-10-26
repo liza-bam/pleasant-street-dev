@@ -4243,5 +4243,29 @@
       "images/ME-0226-001.jpg"
     ],
     "label": ""
+  },
+  "NH-0001": {
+    "files": [
+      "images/NH-0001-cover.webp",
+      "images/NH-0001-000.webp",
+      "images/NH-0001-001.webp"
+    ],
+    "label": "Shared Deepwood Lodges campus"
+  },
+  "NH-0003": {
+    "files": [
+      "images/NH-0003-cover.webp",
+      "images/NH-0003-000.webp",
+      "images/NH-0003-001.webp"
+    ],
+    "label": "Shared Ames Farm Inn campus"
+  },
+  "NH-0004": {
+    "files": [
+      "images/NH-0004-cover.webp",
+      "images/NH-0004-000.webp",
+      "images/NH-0004-001.webp"
+    ],
+    "label": "Photos: The Patio Cabins — Cabin 1"
   }
 }

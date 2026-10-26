@@ -1,0 +1,41 @@
+[
+  {
+    "id": "NH-0001",
+    "street": "11 Senna Way",
+    "city": "Moultonborough",
+    "state": "NH",
+    "postalCode": "03254",
+    "full": "11 Senna Way, Moultonborough, NH 03254",
+    "type": "Shared camp/campus",
+    "sourceUrl": "https://www.deepwoodlodges.net/contact",
+    "notes": "Shared cottage-community contact/campus address; not an individual cottage entrance.",
+    "checkedOn": "2026-10-26",
+    "status": "Published on official website"
+  },
+  {
+    "id": "NH-0003",
+    "street": "2800 Lake Shore Road",
+    "city": "Gilford",
+    "state": "NH",
+    "postalCode": "03249",
+    "full": "2800 Lake Shore Road, Gilford, NH 03249",
+    "type": "Shared camp/campus",
+    "sourceUrl": "https://www.amesfarminn.com/contact-us",
+    "notes": "Shared lakeside resort/cottage campus; unit entrances not separately established.",
+    "checkedOn": "2026-10-26",
+    "status": "Published on official website"
+  },
+  {
+    "id": "NH-0004",
+    "street": "952 Route 3 N",
+    "city": "Twin Mountain",
+    "state": "NH",
+    "postalCode": "03595",
+    "full": "952 Route 3 N, Twin Mountain, NH 03595",
+    "type": "Shared camp/campus",
+    "sourceUrl": "https://thepatio.com/cabins.html",
+    "notes": "Official website uses Twin Mountain; direct booking uses Carroll, the encompassing municipality, at 952 US-3 North. No separate Contact page is linked: contact footer on accommodation page and Address and Contact section of direct booking page both checked. Directory alias gives PO Box 147, not the rental entrance.",
+    "checkedOn": "2026-10-26",
+    "status": "Published on official website"
+  }
+]

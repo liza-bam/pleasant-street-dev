@@ -42,7 +42,7 @@ for p in read("data/sources/cards/photo-sources.json"):
     assert hashlib.sha256((ROOT / p["file"]).read_bytes()).hexdigest() == p["sha256"]
 for review in reviews:
     assert review["id"] not in indexed, review["id"]
-for name in ["maine/catalog", "vermont/vermont_independent_rental_websites", "vermont/vermont_approved", "vermont/vermont_candidates"]:
+for name in ["maine/catalog", "vermont/vermont_independent_rental_websites", "vermont/vermont_approved", "vermont/vermont_candidates", "new-hampshire/new_hampshire_independent_rental_websites", "new-hampshire/new_hampshire_approved", "new-hampshire/new_hampshire_candidates"]:
     with (ROOT / f"data/sources/{name}.csv").open(encoding="utf-8-sig", newline="") as f:
         regional = list(csv.DictReader(f))
     assert len({r["ID"] for r in regional}) == len(regional)

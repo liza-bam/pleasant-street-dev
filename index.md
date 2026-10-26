@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-524 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+527 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## 1901 HOUSE LIMIT 10
 
@@ -323,6 +323,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196141
+
+## Ames Farm Inn
+
+- ID: NH-0003
+- Town / area (approximate map location): Gilford, NH
+- Type: Unknown
+- Description: Family-run Lake Winnipesaukee cottages, apartments and rooms on 135 acres, with a sandy beach, boat facilities and direct inquiries.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Operator offers 17 lakeside cottages, 14 apartments, 4 rooms and 2 additional cottages. Lakeside cottages include one- and two-bedroom types; another cottage is three bedrooms. Do not apply any one unit size to the operator.
+- Price: from 270 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Official website describes family vacations and policies refer to children on the shared grounds.
+- Pet policy: Published policy: no pets for overnight rentals, weekly rentals or restaurant customers.
+- Website (book here, directly with the host): https://www.amesfarminn.com/
 
 ## Amore| Romantic Coastal Cottage | Near Spruce Point Inn
 
@@ -1982,6 +1999,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://deckercove.com
+
+## Deepwood Lodges
+
+- ID: NH-0001
+- Town / area (approximate map location): Moultonborough, NH
+- Type: Cabin
+- Description: Seasonal Lake Winnipesaukee cottages with a shared sandy beach, guest boats and direct availability inquiries.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 17 unique cottages on the current official site; unit sizes and capacities vary. Cottage 5/6 sleep 7, Cottage 7 sleeps 6, Cottage 8/14/16 sleep 8 and Cottage 12 sleeps 10; these are not an operator-wide capacity.
+- Price: Rates not published on checked pages; direct inquiry required.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Official amenities page describes beach fun for all ages and shallow swimming.
+- Website (book here, directly with the host): https://www.deepwoodlodges.net/
 
 ## Deer Run Apartment
 
@@ -7391,6 +7424,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196363
+
+## The Patio Cabins
+
+- ID: NH-0004
+- Town / area (approximate map location): Twin Mountain, NH
+- Type: Cabin
+- Description: Locally owned year-round Twin Mountain cabins with kitchenettes, porches, a seasonal pool and direct Cloudbeds booking.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 11 cabins and 1 suite. Two-room cabins 1, 6 and 11 sleep up to 5; two-bed cabins sleep 4; Suite 12 sleeps 4. Capacity and bedroom count vary by unit.
+- Price: from 99 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Published playground policy permits children with supervision; family stays described.
+- Pet policy: Only cabins 4, 5 and 6, subject to direct approval, availability and breed restrictions; $30 flat pet fee. Pets cannot be left alone and must be leashed.
+- Website (book here, directly with the host): https://thepatio.com/
 
 ## The Pritham House
 
