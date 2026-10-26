@@ -1006,5 +1006,201 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Ripton%2C+VT%2C+USA&format=json&limit=1",
   "label": "Ripton, Addison County, Vermont, 05766, United States",
   "checked": "2026-10-25"
+ },
+ "Dummerston, VT, USA": {
+  "lat": 42.9324,
+  "lng": -72.5865,
+  "source": "https://nominatim.openstreetmap.org/search?q=Dummerston%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Dummerston, Windham County, Vermont, 05357, United States",
+  "checked": "2026-10-25"
+ },
+ "Hardwick, VT, USA": {
+  "lat": 44.5043,
+  "lng": -72.366,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hardwick%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Hardwick, Caledonia County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Irasburg, VT, USA": {
+  "lat": 44.8034,
+  "lng": -72.2791,
+  "source": "https://nominatim.openstreetmap.org/search?q=Irasburg%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Irasburg, Orleans County, Vermont, 05845, United States",
+  "checked": "2026-10-25"
+ },
+ "Hyde Park, VT, USA": {
+  "lat": 44.5936,
+  "lng": -72.6171,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hyde+Park%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Hyde Park, Lamoille County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Greensboro, VT, USA": {
+  "lat": 44.576,
+  "lng": -72.2957,
+  "source": "https://nominatim.openstreetmap.org/search?q=Greensboro%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Greensboro, Orleans County, Vermont, 05841, United States",
+  "checked": "2026-10-25"
+ },
+ "Eden Mills, VT, USA": {
+  "lat": 44.7138,
+  "lng": -72.5212,
+  "source": "https://nominatim.openstreetmap.org/search?q=Eden+Mills%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Eden Mills, Eden, Lamoille County, Vermont, 05653, United States",
+  "checked": "2026-10-25"
+ },
+ "Lowell, VT, USA": {
+  "lat": 44.7993,
+  "lng": -72.4475,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lowell%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Lowell, Orleans County, Vermont, 05847, United States",
+  "checked": "2026-10-25"
+ },
+ "Enosburg Falls, VT, USA": {
+  "lat": 44.9067,
+  "lng": -72.8046,
+  "source": "https://nominatim.openstreetmap.org/search?q=Enosburg+Falls%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Enosburgh, Franklin County, Vermont, 05450, United States",
+  "checked": "2026-10-25"
+ },
+ "Fayston, VT, USA": {
+  "lat": 44.242,
+  "lng": -72.8382,
+  "source": "https://nominatim.openstreetmap.org/search?q=Fayston%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Fayston, Washington County, Vermont, 05673, United States",
+  "checked": "2026-10-25"
+ },
+ "Killington, VT, USA": {
+  "lat": 43.6743,
+  "lng": -72.7784,
+  "source": "https://nominatim.openstreetmap.org/search?q=Killington%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Killington, Rutland County, Vermont, 05751, United States",
+  "checked": "2026-10-25"
+ },
+ "Strafford, VT, USA": {
+  "lat": 43.8663,
+  "lng": -72.3776,
+  "source": "https://nominatim.openstreetmap.org/search?q=Strafford%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Strafford, Orange County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Waterbury, VT, USA": {
+  "lat": 44.3379,
+  "lng": -72.7564,
+  "source": "https://nominatim.openstreetmap.org/search?q=Waterbury%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Waterbury, Washington County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Manchester, VT, USA": {
+  "lat": 43.1769,
+  "lng": -73.0569,
+  "source": "https://nominatim.openstreetmap.org/search?q=Manchester%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Manchester, Bennington County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Pawlet, VT, USA": {
+  "lat": 43.3463,
+  "lng": -73.1773,
+  "source": "https://nominatim.openstreetmap.org/search?q=Pawlet%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Pawlet, Rutland County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "West Dover, VT, USA": {
+  "lat": 42.9395,
+  "lng": -72.8531,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Dover%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Dover, Windham County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Westmore, VT, USA": {
+  "lat": 44.7711,
+  "lng": -72.0549,
+  "source": "https://nominatim.openstreetmap.org/search?q=Westmore%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Westmore, Orleans County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Warren, VT, USA": {
+  "lat": 44.1139,
+  "lng": -72.8555,
+  "source": "https://nominatim.openstreetmap.org/search?q=Warren%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Warren, Washington County, Vermont, 05674, United States",
+  "checked": "2026-10-25"
+ },
+ "Waterbury Center, VT, USA": {
+  "lat": 44.3786,
+  "lng": -72.7193,
+  "source": "https://nominatim.openstreetmap.org/search?q=Waterbury+Center%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Waterbury Center, Waterbury, Washington County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Stockbridge, VT, USA": {
+  "lat": 43.7865,
+  "lng": -72.7547,
+  "source": "https://nominatim.openstreetmap.org/search?q=Stockbridge%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Stockbridge, Windsor County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Underhill, VT, USA": {
+  "lat": 44.5071,
+  "lng": -72.901,
+  "source": "https://nominatim.openstreetmap.org/search?q=Underhill%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Underhill, Chittenden County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "North Hero, VT, USA": {
+  "lat": 44.8171,
+  "lng": -73.2901,
+  "source": "https://nominatim.openstreetmap.org/search?q=North+Hero%2C+VT%2C+USA&format=json&limit=1",
+  "label": "North Hero, Grand Isle County, Vermont, 05474, United States",
+  "checked": "2026-10-25"
+ },
+ "Plymouth, VT, USA": {
+  "lat": 43.5356,
+  "lng": -72.7218,
+  "source": "https://nominatim.openstreetmap.org/search?q=Plymouth%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Plymouth, Windsor County, Vermont, 05056, United States",
+  "checked": "2026-10-25"
+ },
+ "Johnson, VT, USA": {
+  "lat": 44.6354,
+  "lng": -72.6793,
+  "source": "https://nominatim.openstreetmap.org/search?q=Johnson%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Johnson, Lamoille County, Vermont, 05656, United States",
+  "checked": "2026-10-25"
+ },
+ "Duxbury, VT, USA": {
+  "lat": 44.3271,
+  "lng": -72.7526,
+  "source": "https://nominatim.openstreetmap.org/search?q=Duxbury%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Duxbury, Washington County, Vermont, 05676, United States",
+  "checked": "2026-10-25"
+ },
+ "Elmore, VT, USA": {
+  "lat": 44.5412,
+  "lng": -72.5237,
+  "source": "https://nominatim.openstreetmap.org/search?q=Elmore%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Elmore, Lamoille County, Vermont, 05657, United States",
+  "checked": "2026-10-25"
+ },
+ "Derby, VT, USA": {
+  "lat": 44.9474,
+  "lng": -72.1339,
+  "source": "https://nominatim.openstreetmap.org/search?q=Derby%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Derby, Orleans County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Manchester Center, VT, USA": {
+  "lat": 43.1769,
+  "lng": -73.0569,
+  "source": "https://nominatim.openstreetmap.org/search?q=Manchester+Center%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Manchester, Bennington County, Vermont, United States",
+  "checked": "2026-10-25"
+ },
+ "Brownsville, VT, USA": {
+  "lat": 43.468,
+  "lng": -72.4713,
+  "source": "https://nominatim.openstreetmap.org/search?q=Brownsville%2C+VT%2C+USA&format=json&limit=1",
+  "label": "West Windsor, Windsor County, Vermont, 05037, United States",
+  "checked": "2026-10-25"
  }
 }

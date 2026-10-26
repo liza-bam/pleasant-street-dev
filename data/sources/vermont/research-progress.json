@@ -7,7 +7,7 @@
   "geographicHeaderMapping": {
     "Maine location": "Vermont location"
   },
-  "currentPass": "Website weeding pass completed for the 71-record statewide seed; broader research, details, photos and addresses continue",
+  "currentPass": "Verified publication batch completed; unresolved candidates retained separately",
   "passes": {
     "statewideDiscovery": {
       "status": "Completed for official Cabins & Vacation Rentals category",
@@ -53,20 +53,21 @@
       "note": "Searches are discovery only. No site qualifies from snippets alone."
     },
     "eligibility": {
-      "status": "In progress",
-      "verified": 8,
-      "remainingCandidates": 63
+      "status": "Reviewed publication batch; unresolved candidates retained",
+      "verified": 44,
+      "remainingCandidates": 27
     },
     "details": {
       "status": "In progress",
-      "reviewedRecords": 8
+      "reviewedRecords": 44
     },
     "photosAndAddresses": {
       "status": "In progress",
-      "recordsWithPhotos": 8,
+      "recordsWithPhotos": 44,
       "totalResearchRecords": 71,
       "priority": "Any usable, correctly attributed photos for every property; variety on later scans",
-      "notes": "Official contact/location pages reviewed for initial batch. Notch Lodges street address remains directory-only and is labeled accordingly."
+      "notes": "Every approved listing has a sourced cover. Exact addresses and remaining details are explicit Unknown where not published. Additional images and variety remain later-pass work.",
+      "contactPagesReviewed": 44
     },
     "gapReview": {
       "status": "Pending"

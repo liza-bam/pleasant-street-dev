@@ -9,7 +9,7 @@
     "currentWebsiteUrl": "https://www.fatsheepfarmvermont.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -37,7 +37,7 @@
     "currentWebsiteUrl": "https://www.lakeshorevermont.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -65,7 +65,7 @@
     "currentWebsiteUrl": "https://thecobblehouse.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -92,10 +92,10 @@
     "finalUrl": "https://stowecountryhomes.com/",
     "currentWebsiteUrl": "https://stowecountryhomes.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0008",
@@ -107,7 +107,7 @@
     "currentWebsiteUrl": "https://hobbleinn.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -121,7 +121,7 @@
     "currentWebsiteUrl": "https://mountsnowyurt.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -135,7 +135,7 @@
     "currentWebsiteUrl": "https://quimbycountry.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -148,10 +148,10 @@
     "finalUrl": "https://landmarktrustusa.org/",
     "currentWebsiteUrl": "https://landmarktrustusa.org/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0012",
@@ -163,7 +163,7 @@
     "currentWebsiteUrl": "https://www.notchlodges.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -176,10 +176,10 @@
     "finalUrl": "https://www.stonecitytreehouse.com/",
     "currentWebsiteUrl": "https://stonecitytreehouse.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0014",
@@ -190,10 +190,10 @@
     "finalUrl": "https://www.kanerealty.net/vermont-castle/",
     "currentWebsiteUrl": "https://www.kanerealty.net/vermont-castle/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0015",
@@ -204,10 +204,10 @@
     "finalUrl": "https://serenecountrycabins.com/",
     "currentWebsiteUrl": "https://serenecountrycabins.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0016",
@@ -230,12 +230,12 @@
     "discoveryUrl": "https://plan.vermontvacation.com/listings/9762",
     "requestedUrl": "https://dripcastleestatecollection.com/",
     "finalUrl": "https://www.dripcastleestatecollection.com/",
-    "currentWebsiteUrl": "https://dripcastleestatecollection.com/",
+    "currentWebsiteUrl": "https://www.dripcastleestatecollection.com/luxury-stowe-mountain-rental-meadowstone-manor/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0018",
@@ -260,10 +260,10 @@
     "finalUrl": "https://stowerentalhomes.com/",
     "currentWebsiteUrl": "https://stowerentalhomes.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0020",
@@ -330,10 +330,10 @@
     "finalUrl": "https://www.highlandlodge.com/",
     "currentWebsiteUrl": "http://www.highlandlodge.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0025",
@@ -344,10 +344,10 @@
     "finalUrl": "https://songbirdstudiovt.lovable.app/",
     "currentWebsiteUrl": "https://songbirdstudiovt.lovable.app/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0026",
@@ -358,10 +358,10 @@
     "finalUrl": "https://northboundvermont.com/",
     "currentWebsiteUrl": "https://northboundvermont.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0027",
@@ -400,10 +400,10 @@
     "finalUrl": "https://www.stonypondfarm.com/",
     "currentWebsiteUrl": "https://www.stonypondfarm.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0030",
@@ -414,10 +414,10 @@
     "finalUrl": "https://www.staymountainpines.com/",
     "currentWebsiteUrl": "https://www.staymountainpines.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0031",
@@ -428,10 +428,10 @@
     "finalUrl": "https://www.mrvrm.com/",
     "currentWebsiteUrl": "https://www.mrvrm.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0032",
@@ -442,7 +442,7 @@
     "finalUrl": "https://www.highlinelodge.com/",
     "currentWebsiteUrl": "https://www.highlinelodge.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
+    "evidenceStatus": "Not eligible",
     "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
     "excludedFromApproval": true,
     "published": false
@@ -456,10 +456,10 @@
     "finalUrl": "https://www.killingtonmountain.com/",
     "currentWebsiteUrl": "https://killingtonmountain.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0034",
@@ -470,10 +470,10 @@
     "finalUrl": "https://kumariofthewoods.com/",
     "currentWebsiteUrl": "https://kumariofthewoods.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0035",
@@ -484,10 +484,10 @@
     "finalUrl": "https://vermonthuts.org/",
     "currentWebsiteUrl": "https://vermonthuts.org/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0036",
@@ -512,10 +512,10 @@
     "finalUrl": "https://www.storiedstay.com/",
     "currentWebsiteUrl": "https://www.storiedstay.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0038",
@@ -540,10 +540,10 @@
     "finalUrl": "https://www.flowerbrookfarm.com/",
     "currentWebsiteUrl": "https://www.flowerbrookfarm.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0040",
@@ -554,10 +554,10 @@
     "finalUrl": "https://timbercrestmansions.com/",
     "currentWebsiteUrl": "https://timbercrestmansions.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0041",
@@ -568,10 +568,10 @@
     "finalUrl": "https://vermontmountainlakecottages.com/",
     "currentWebsiteUrl": "https://vermontmountainlakecottages.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0042",
@@ -582,10 +582,10 @@
     "finalUrl": "https://www.valleyviewvt.com/",
     "currentWebsiteUrl": "https://www.valleyviewvt.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0043",
@@ -680,10 +680,10 @@
     "finalUrl": "https://kismetpropertiesvermont.com/",
     "currentWebsiteUrl": "https://kismetpropertiesvermont.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0050",
@@ -708,10 +708,10 @@
     "finalUrl": "https://stowecabins.com/",
     "currentWebsiteUrl": "https://stowecabins.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0052",
@@ -722,10 +722,10 @@
     "finalUrl": "https://gnomehomevt.com/",
     "currentWebsiteUrl": "https://www.gnomehomevt.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified platform-hosted website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0053",
@@ -737,7 +737,7 @@
     "currentWebsiteUrl": "https://www.robertfrostmountaincabins.com/",
     "accessStatus": "Opened",
     "evidenceStatus": "Verified independent website",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
     "excludedFromApproval": false,
     "published": true
   },
@@ -750,10 +750,10 @@
     "finalUrl": "https://www.squabetty.com/",
     "currentWebsiteUrl": "https://www.squabetty.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0055",
@@ -778,10 +778,10 @@
     "finalUrl": "https://parkerlodge.org/",
     "currentWebsiteUrl": "https://www.parkerlodge.org/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified platform-hosted website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0057",
@@ -806,10 +806,10 @@
     "finalUrl": "https://archedchalet.com/",
     "currentWebsiteUrl": "https://archedchalet.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified platform-hosted website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0059",
@@ -820,10 +820,10 @@
     "finalUrl": "https://www.thevermonttreehouse.com/",
     "currentWebsiteUrl": "https://www.thevermonttreehouse.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0060",
@@ -834,10 +834,10 @@
     "finalUrl": "https://lengel.net/crossetthill2/",
     "currentWebsiteUrl": "http://lengel.net/crossetthill2/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0061",
@@ -862,10 +862,10 @@
     "finalUrl": "https://www.1827house.com/",
     "currentWebsiteUrl": "https://www.1827house.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0063",
@@ -876,10 +876,10 @@
     "finalUrl": "https://www.simplestayvt.com/",
     "currentWebsiteUrl": "https://www.simplestayvt.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0064",
@@ -890,10 +890,10 @@
     "finalUrl": "https://www.stoweareahome.com/",
     "currentWebsiteUrl": "https://www.stoweareahome.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0065",
@@ -932,10 +932,10 @@
     "finalUrl": "https://lakesalemvt.com/",
     "currentWebsiteUrl": "https://lakesalemvt.com/",
     "accessStatus": "Working replacement",
-    "evidenceStatus": "Source found in web research",
-    "observation": "The directory-linked http://lakesalemcottages.com/ was blocked by the browser, but reverse-search found the working family-owned replacement https://lakesalemvt.com/. Opened its homepage, Book and Contact pages. Direct email inquiry is available. New official contact address is 191 Hayward Hollow Rd, Derby, VT 05829; the legacy directory says 48 Hayward Road. Resolve the address/continuity discrepancy and finish detail/media review before approval. Do not discard the property because of its obsolete URL.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0068",
@@ -946,10 +946,10 @@
     "finalUrl": "https://simple.fyi/",
     "currentWebsiteUrl": "https://simple.fyi/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0069",
@@ -960,10 +960,10 @@
     "finalUrl": "https://www.vermontvacation-rentals.com/",
     "currentWebsiteUrl": "https://vermontvacation-rentals.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   },
   {
     "id": "VT-0070",
@@ -988,9 +988,9 @@
     "finalUrl": "https://www.ascutneylofts.com/",
     "currentWebsiteUrl": "https://www.ascutneylofts.com/",
     "accessStatus": "Opened",
-    "evidenceStatus": "Source found in web research",
-    "observation": "Site content opened in the connected browser. Access alone does not establish rental eligibility.",
-    "excludedFromApproval": true,
-    "published": false
+    "evidenceStatus": "Verified independent website",
+    "observation": "Opened official accommodation and direct reservation/inquiry evidence; reviewed contact/address source and attributed cover. See publication-review.json and sourceDetails. Collection gaps remain explicit.",
+    "excludedFromApproval": false,
+    "published": true
   }
 ]

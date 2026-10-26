@@ -1,0 +1,326 @@
+[
+  {
+    "id": "VT-0007",
+    "contactPage": "https://stowecountryhomes.com/about-us/contact-us/",
+    "website": "https://stowecountryhomes.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://stowecountryhomes.com/",
+    "addressRole": "Operator contact; rental street addresses vary"
+  },
+  {
+    "id": "VT-0011",
+    "contactPage": "https://landmarktrustusa.org/contact",
+    "website": "https://landmarktrustusa.org/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://landmarktrustusa.org/",
+    "addressRole": "Operator office; individual rental addresses vary"
+  },
+  {
+    "id": "VT-0013",
+    "contactPage": "https://www.stonecitytreehouse.com/stay-connected",
+    "website": "https://stonecitytreehouse.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.stonecitytreehouse.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0014",
+    "contactPage": "https://www.kanerealty.net/contact/",
+    "website": "https://www.kanerealty.net/vermont-castle/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.kanerealty.net/vermont-castle/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0015",
+    "contactPage": "https://serenecountrycabins.com/about-us/",
+    "website": "https://serenecountrycabins.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://serenecountrycabins.com/",
+    "addressRole": "Cabin campus; street number not published"
+  },
+  {
+    "id": "VT-0017",
+    "contactPage": "https://www.dripcastleestatecollection.com/contact/meadowstone/",
+    "website": "https://www.dripcastleestatecollection.com/luxury-stowe-mountain-rental-meadowstone-manor/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.dripcastleestatecollection.com/luxury-stowe-mountain-rental-meadowstone-manor/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0019",
+    "contactPage": "https://stowerentalhomes.com/contact-us/",
+    "website": "https://stowerentalhomes.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://stowerentalhomes.com/",
+    "addressRole": "Mailing address; not a rental entrance"
+  },
+  {
+    "id": "VT-0024",
+    "contactPage": "https://www.highlandlodge.com/contact",
+    "website": "http://www.highlandlodge.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.highlandlodge.com/",
+    "addressRole": "Lodge office / accommodation campus"
+  },
+  {
+    "id": "VT-0025",
+    "contactPage": "https://songbirdstudiovt.lovable.app/#booking",
+    "website": "https://songbirdstudiovt.lovable.app/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://songbirdstudiovt.lovable.app/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0026",
+    "contactPage": "https://northboundvermont.com/contact/",
+    "website": "https://northboundvermont.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://northboundvermont.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0029",
+    "contactPage": "https://www.stonypondfarm.com/contact-us",
+    "website": "https://www.stonypondfarm.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.stonypondfarm.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0030",
+    "contactPage": "https://www.staymountainpines.com/contact",
+    "website": "https://www.staymountainpines.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.staymountainpines.com/",
+    "addressRole": "Partial property location; exact address not publicly disclosed"
+  },
+  {
+    "id": "VT-0031",
+    "contactPage": "https://www.mrvrm.com/about-us",
+    "website": "https://www.mrvrm.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.mrvrm.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0033",
+    "contactPage": "https://www.killingtonmountain.com/contact-us",
+    "website": "https://killingtonmountain.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.killingtonmountain.com/",
+    "addressRole": "Operator office; not each rental"
+  },
+  {
+    "id": "VT-0034",
+    "contactPage": "https://kumariofthewoods.com/contact/",
+    "website": "https://kumariofthewoods.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://kumariofthewoods.com/",
+    "addressRole": "Lodging property / retreat campus"
+  },
+  {
+    "id": "VT-0035",
+    "contactPage": "https://vermonthuts.org/contact/",
+    "website": "https://vermonthuts.org/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://vermonthuts.org/",
+    "addressRole": "Operator office; not a hut address"
+  },
+  {
+    "id": "VT-0037",
+    "contactPage": "https://www.storiedstay.com/contact/",
+    "website": "https://www.storiedstay.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.storiedstay.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0039",
+    "contactPage": "https://www.flowerbrookfarm.com/about",
+    "website": "https://www.flowerbrookfarm.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.flowerbrookfarm.com/",
+    "addressRole": "Partial property location; exact address not published on checked pages"
+  },
+  {
+    "id": "VT-0040",
+    "contactPage": "https://timbercrestmansions.com/contact-us/",
+    "website": "https://timbercrestmansions.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://timbercrestmansions.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0041",
+    "contactPage": "https://vermontmountainlakecottages.com/contact",
+    "website": "https://vermontmountainlakecottages.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://vermontmountainlakecottages.com/",
+    "addressRole": "Cottage accommodation campus"
+  },
+  {
+    "id": "VT-0042",
+    "contactPage": "https://www.valleyviewvt.com/#Location",
+    "website": "https://www.valleyviewvt.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.valleyviewvt.com/",
+    "addressRole": "Property address; ZIP not published on checked page"
+  },
+  {
+    "id": "VT-0049",
+    "contactPage": "https://kismetpropertiesvermont.com/kismet-cabin/",
+    "website": "https://kismetpropertiesvermont.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://kismetpropertiesvermont.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0051",
+    "contactPage": "https://stowecabins.com/#footer",
+    "website": "https://stowecabins.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://stowecabins.com/",
+    "addressRole": "Cabin accommodation campus; PO Box 128 is mailing only"
+  },
+  {
+    "id": "VT-0052",
+    "contactPage": "https://gnomehomevt.com/en/contact",
+    "website": "https://www.gnomehomevt.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://gnomehomevt.com/",
+    "addressRole": "Property address"
+  },
+  {
+    "id": "VT-0054",
+    "contactPage": "https://www.squabetty.com/contact",
+    "website": "https://www.squabetty.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.squabetty.com/",
+    "addressRole": "Partial property location; visits by appointment only"
+  },
+  {
+    "id": "VT-0056",
+    "contactPage": "https://parkerlodge.org/en/blue-cottage",
+    "website": "https://www.parkerlodge.org/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://parkerlodge.org/en/blue-cottage",
+    "addressRole": "Cottage campus; individual cottage locations differ"
+  },
+  {
+    "id": "VT-0058",
+    "contactPage": "https://archedchalet.com/en/contact",
+    "website": "https://archedchalet.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://archedchalet.com/",
+    "addressRole": "Property address"
+  },
+  {
+    "id": "VT-0059",
+    "contactPage": "https://www.thevermonttreehouse.com/contact",
+    "website": "https://www.thevermonttreehouse.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.thevermonttreehouse.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0060",
+    "contactPage": "https://lengel.net/crossetthill2/location/",
+    "website": "http://lengel.net/crossetthill2/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://lengel.net/crossetthill2/",
+    "addressRole": "Shared accommodation property; ZIP not published on checked page"
+  },
+  {
+    "id": "VT-0062",
+    "contactPage": "https://www.1827house.com/about",
+    "website": "https://www.1827house.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.1827house.com/",
+    "addressRole": "Partial location; exact street not published on checked Contact/About pages"
+  },
+  {
+    "id": "VT-0063",
+    "contactPage": "https://www.simplestayvt.com/contact",
+    "website": "https://www.simplestayvt.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.simplestayvt.com/",
+    "addressRole": "Operator service region; rental addresses vary"
+  },
+  {
+    "id": "VT-0064",
+    "contactPage": "https://www.stoweareahome.com/contact-us",
+    "website": "https://www.stoweareahome.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.stoweareahome.com/",
+    "addressRole": "Partial property location; exact address not published on Contact page"
+  },
+  {
+    "id": "VT-0067",
+    "contactPage": "https://lakesalemvt.com/contact/",
+    "website": "https://lakesalemvt.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://lakesalemvt.com/",
+    "addressRole": "Published operator / cottage campus contact; legacy directory address differs"
+  },
+  {
+    "id": "VT-0068",
+    "contactPage": "https://simple.fyi/contact-us/",
+    "website": "https://simple.fyi/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://simple.fyi/",
+    "addressRole": "Operator office; not each rental"
+  },
+  {
+    "id": "VT-0069",
+    "contactPage": "https://www.vermontvacation-rentals.com/",
+    "website": "https://vermontvacation-rentals.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.vermontvacation-rentals.com/",
+    "addressRole": "Partial location; individual house street addresses not published"
+  },
+  {
+    "id": "VT-0071",
+    "contactPage": "https://www.ascutneylofts.com/home",
+    "website": "https://www.ascutneylofts.com/",
+    "directMethod": "Operator reservation interface and/or published email/phone/inquiry form",
+    "checkedOn": "2026-10-25",
+    "sourceImagePage": "https://www.ascutneylofts.com/",
+    "addressRole": "Brownsville accommodation campus; separate Springfield homes not assigned here"
+  }
+]
