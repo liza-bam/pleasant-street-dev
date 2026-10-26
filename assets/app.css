@@ -51,7 +51,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .app-map { height: 100%; isolation: isolate; }
 
 /* One home: its picture, name and place. The whole card opens the home's website. */
-.ps-card { display: flex; flex-direction: column; background: var(--white); border-radius: var(--r); box-shadow: var(--shadow);
+.ps-card { position: relative; display: flex; flex-direction: column; background: var(--white); border-radius: var(--r); box-shadow: var(--shadow);
            overflow: hidden; text-decoration: none; color: var(--ink); }
 .ps-card:hover { box-shadow: var(--shadow-up); }
 .ps-card--featured { position: relative; border: 2px solid var(--coral); }
@@ -64,7 +64,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-card__name { padding: 8px 12px 0; font-size: 16px; font-weight: 700; color: var(--green); }
 .ps-card__place { padding: 2px 12px 10px; font-size: 14px; color: var(--mute); }
 .ps-pop .ps-card { box-shadow: none; }
-.ps-pop .ps-card__name, .ps-pop .ps-card__place { padding-left: 0; padding-right: 0; }
+.ps-popup--featured .leaflet-popup-content-wrapper { border: 2px solid var(--coral); }
+.ps-popup--featured .ps-card--featured { border: 0; }
 .leaflet-popup-content { margin: 10px 12px; }
 .ps-card__missing { margin: -4px 12px 10px; font-size: 13px; color: var(--mute); font-style: italic; }
 /* The second group's heading: homes that may fit, across the whole list. */

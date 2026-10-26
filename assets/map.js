@@ -59,7 +59,7 @@
     var facts = [['Type', known(h.type) ? h.type : 'Unknown'], ['Sleeps', known(h.guests) ? h.guests : 'Unknown'], ['Bedrooms', known(h.bedrooms) ? h.bedrooms : 'Unknown'], ['Pets', policy(h.pets)], ['Kids', policy(h.kids)]];
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + '" data-property="' + esc(h.id) + '">' +
-      '<div class="ps-gallery">' + (h.featured ? '<span class="ps-card__featured">Featured</span>' : '') + gallery + '</div>' +
+      '<div class="ps-gallery">' + listingBadge(h) + gallery + '</div>' +
       '<div class="ps-home__body"><p class="ps-home__place">' + esc(h.place) + '</p><h2>' + esc(h.name) + '</h2>' +
       (/operator|manager/i.test(h.recordType || '') || h.cardPhotoLabel ? '<p class="ps-home__operator">' + esc(h.cardPhotoLabel || 'Rental operator') + '</p>' : '') +
       '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>' +
@@ -69,9 +69,13 @@
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       '<a class="ps-action ps-action--claim" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' by email">Claim my house</a></div></div></article>';
   }
+  function listingBadge(h) {
+    if (!h.featured && !h.demo) return '';
+    return '<span class="ps-card__featured">' + (h.featured ? 'Featured' : '') + (h.featured && h.demo ? ' · ' : '') + (h.demo ? 'Demo' : '') + '</span>';
+  }
   function card(h, missing) {
     return '<a class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" href="' + esc(h.url) + '" target="_blank" rel="noopener">' +
-      (h.featured === true ? '<span class="ps-card__featured">Featured</span>' : '') +
+      listingBadge(h) +
       '<img src="' + esc(h.photo) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
       '<span class="ps-card__name">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</a>';
@@ -193,7 +197,7 @@
       var markerOptions = { title: h.name, alt: h.name, zIndexOffset: h.featured === true ? 1000 : 0 };
       if (h.featured === true) markerOptions.icon = featuredIcon;
       if (typeof h.lat === 'number' && typeof h.lng === 'number') h.marker = L.marker([h.lat, h.lng], markerOptions)
-        .bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220 });
+        .bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220, className: h.featured ? 'ps-popup ps-popup--featured' : 'ps-popup' });
       return h;
     });
     /* Open on the mainland: Hawaii in the same view zooms the map out past the edge of the tiles. */
