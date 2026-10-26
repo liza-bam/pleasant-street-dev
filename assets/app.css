@@ -146,12 +146,12 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home--tiny .ps-home__independent { font-size: 9px; }
 .ps-action--primary { border: 1px solid var(--green); background: var(--green); color: white; }
 .ps-action--primary:hover { background: #066662; }
-/* The existing Pleasant Street wordmark keeps claiming secondary to the property. */
-.ps-claim-badge { position: absolute; z-index: 2; top: 10px; right: 10px; max-width: calc(100% - 20px); display: inline-flex; align-items: center; gap: 8px; padding: 6px 9px; border: 1px solid #17363c12; border-radius: 9px; background: #fffffff5; color: #50676b; box-shadow: 0 2px 7px #17363c16; font-size: 10px; line-height: 1.35; text-decoration: none; }
+/* The LAZY lettermark keeps claiming secondary to the property. */
+.ps-claim-badge { position: absolute; z-index: 2; top: 10px; right: 10px; max-width: calc(100% - 20px); display: inline-flex; align-items: center; gap: 8px; padding: 6px 9px; border: 1px solid #17363c12; border-radius: 9px; background: #fffffff5; color: #50676b; box-shadow: 0 2px 7px #17363c16; font-size: 11px; line-height: 1.35; text-decoration: none; }
 .ps-claim-badge:hover { background: white; color: var(--green); }
-.ps-claim-badge__logo { flex: none; font-family: var(--script); font-size: 14px; line-height: .95; color: var(--green); }
+.ps-claim-badge__logo { display: block; flex: none; width: 20px; height: 20px; border-radius: 50%; object-fit: contain; }
 .ps-home--tiny .ps-claim-badge { top: 8px; right: 8px; max-width: calc(100% - 16px); gap: 5px; padding: 5px 6px; font-size: 9px; }
-.ps-home--tiny .ps-claim-badge__logo { font-size: 12px; }
+.ps-home--tiny .ps-claim-badge__logo { width: 16px; height: 16px; }
 .ps-home--featured.ps-home--tiny .ps-claim-badge { top: 38px; }
 .ps-home--tiny { border-radius: 12px; }
 .ps-home--tiny .ps-home__body { padding: 11px 12px 12px; }

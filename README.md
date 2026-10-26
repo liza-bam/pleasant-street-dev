@@ -24,7 +24,7 @@ to Cards and the phone map results; `&size=tiny` opens the compact version. Tiny
 website button and a secondary claim badge, with no fact grid or description. Large has a cover and two 4:3 extra photos,
 a source-based summary of at most 150 characters and available property facts shown as icons and
 values. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. A small white claim badge at the photo’s
-top-right uses the existing Pleasant Street wordmark and opens a prefilled email draft
+top-right says “Claim your house” beside the existing LAZY L logo and opens a prefilled email draft
 to `sandy@lazy.vacations`. Open website is the larger primary action, with an independent-host
 notice underneath for non-LAZY listings.
 
