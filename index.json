@@ -6364,7 +6364,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s wareham category",
   "featured": false,
   "demo": false
  },
@@ -8566,7 +8566,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s fairhaven category",
   "featured": false,
   "demo": false
  },
@@ -12383,7 +12383,7 @@
   "id": "MA-0276",
   "name": "Casa Isla",
   "url": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -12419,8 +12419,8 @@
   "pets": "No",
   "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
   "petsDetails": "Pets not allowed.",
-  "lat": 41.6376,
-  "lng": -70.9036,
+  "lat": 41.5964,
+  "lng": -70.8319,
   "photo": "images/MA-0276-card.webp",
   "coverPhoto": "images/MA-0276-cover.webp",
   "photos": [
@@ -12442,7 +12442,8 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationLabel": "West Island",
   "featured": false,
   "demo": false
  },
@@ -17145,7 +17146,7 @@
   "id": "MA-0275",
   "name": "Cozy Quahog",
   "url": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -17181,8 +17182,8 @@
   "pets": "No",
   "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
   "petsDetails": "Pets not allowed.",
-  "lat": 41.6376,
-  "lng": -70.9036,
+  "lat": 41.5964,
+  "lng": -70.8319,
   "photo": "images/MA-0275-card.webp",
   "coverPhoto": "images/MA-0275-cover.webp",
   "photos": [
@@ -17204,7 +17205,8 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationLabel": "West Island",
   "featured": false,
   "demo": false
  },
@@ -35832,7 +35834,7 @@
   "id": "MA-0281",
   "name": "Lovely Day Oceanside",
   "url": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -35868,8 +35870,8 @@
   "pets": "No",
   "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
   "petsDetails": "Pets not allowed.",
-  "lat": 41.6376,
-  "lng": -70.9036,
+  "lat": 41.5964,
+  "lng": -70.8319,
   "photo": "images/MA-0281-card.webp",
   "coverPhoto": "images/MA-0281-cover.webp",
   "photos": [
@@ -35891,7 +35893,8 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationLabel": "West Island",
   "featured": false,
   "demo": false
  },
@@ -37698,7 +37701,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s fairhaven category",
   "featured": false,
   "demo": false
  },
@@ -80282,7 +80285,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s mattapoisett category",
   "featured": false,
   "demo": false
  },
@@ -80721,7 +80724,7 @@
   "id": "MA-0277",
   "name": "Oceanview Oasis",
   "url": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -80757,8 +80760,8 @@
   "pets": "No",
   "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
   "petsDetails": "Pets not allowed.",
-  "lat": 41.6376,
-  "lng": -70.9036,
+  "lat": 41.5964,
+  "lng": -70.8319,
   "photo": "images/MA-0277-card.webp",
   "coverPhoto": "images/MA-0277-cover.webp",
   "photos": [
@@ -80780,7 +80783,8 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationLabel": "West Island",
   "featured": false,
   "demo": false
  },
@@ -98447,7 +98451,7 @@
   "id": "MA-0283",
   "name": "Strawberry Moon – West Island",
   "url": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -98483,8 +98487,8 @@
   "pets": "No",
   "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
   "petsDetails": "Pets not allowed.",
-  "lat": 41.6376,
-  "lng": -70.9036,
+  "lat": 41.5964,
+  "lng": -70.8319,
   "photo": "images/MA-0283-card.webp",
   "coverPhoto": "images/MA-0283-cover.webp",
   "photos": [
@@ -98506,7 +98510,8 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationLabel": "West Island",
   "featured": false,
   "demo": false
  },
@@ -101612,7 +101617,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Town centre, per operator’s fairhaven category",
   "featured": false,
   "demo": false
  },

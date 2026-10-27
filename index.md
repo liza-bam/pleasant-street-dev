@@ -2953,7 +2953,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 ## Casa Isla
 
 - ID: MA-0276
-- Town / area (approximate map location): Fairhaven, MA
+- Town / area (approximate map location): West Island, Fairhaven, MA
 - Type: Unknown
 - Description: West Island beach cottage with two bedrooms, a kitchen, grill, outdoor dining and an outdoor shower.
 - Rooms: Unknown
@@ -4164,7 +4164,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 ## Cozy Quahog
 
 - ID: MA-0275
-- Town / area (approximate map location): Fairhaven, MA
+- Town / area (approximate map location): West Island, Fairhaven, MA
 - Type: Unknown
 - Description: West Island cottage with two bedrooms, ocean views, a stocked kitchen and easy beach access.
 - Rooms: Unknown
@@ -8389,7 +8389,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 ## Lovely Day Oceanside
 
 - ID: MA-0281
-- Town / area (approximate map location): Fairhaven, MA
+- Town / area (approximate map location): West Island, Fairhaven, MA
 - Type: Unknown
 - Description: West Island beachfront cottage with two bedrooms, central air, a kitchen, backyard and patio.
 - Rooms: Unknown
@@ -19800,7 +19800,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 ## Oceanview Oasis
 
 - ID: MA-0277
-- Town / area (approximate map location): Fairhaven, MA
+- Town / area (approximate map location): West Island, Fairhaven, MA
 - Type: Unknown
 - Description: West Island home with ocean views, two bedrooms, a backyard grill and deck near the beach.
 - Rooms: Unknown
@@ -24038,7 +24038,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 ## Strawberry Moon – West Island
 
 - ID: MA-0283
-- Town / area (approximate map location): Fairhaven, MA
+- Town / area (approximate map location): West Island, Fairhaven, MA
 - Type: Unknown
 - Description: West Island home with two bedrooms, a gourmet kitchen, landscaped yard and covered deck near beaches.
 - Rooms: Unknown
