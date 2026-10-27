@@ -46629,16 +46629,16 @@
   "logo": "Unknown",
   "photoStatus": "Complete",
   "address": {
-   "street": "Unknown",
-   "city": "Unknown",
-   "state": "Unknown",
-   "postalCode": "Unknown",
-   "full": "Unknown",
-   "type": "Unknown",
-   "status": "Not found publicly",
-   "sourceUrl": "Unknown",
-   "checkedOn": "2026-10-25",
-   "notes": "No reliable public street or mailing address found in the checked website and search results."
+   "street": "2673 U.S. Rte. 1",
+   "city": "Sullivan",
+   "state": "ME",
+   "postalCode": "04664",
+   "full": "2673 U.S. Rte. 1, Sullivan, ME 04664",
+   "sourceUrl": "https://www.flandersbay.com/",
+   "type": "Cabin accommodation campus",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Address shown in the site header beside the phone number; the cabins share this waterfront campus."
   },
   "sourceDetails": {
    "ID": "ME-0109",
@@ -46691,10 +46691,8 @@
   "descriptionSource": "https://www.flandersbay.com",
   "descriptionStatus": "Collected from source website",
   "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "contactPagesChecked": [],
+  "missingRequiredFields": [],
+  "contactPagesChecked": "https://www.flandersbay.com/",
   "addressReassessment": {
    "checkedOn": "2026-10-25",
    "status": "No official contact page found in opened source",
