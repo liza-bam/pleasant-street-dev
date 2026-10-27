@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-3886 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+4115 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -21,6 +21,55 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit child policy established.
 - Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony
+
+## 0.2 Mi to Village St Dock + Modern Styling + 3 Bed
+
+- ID: MA-14010
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Located a few blocks away from the Salem Harbor and Village Street Dock. Modern, fully updated home.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists the home as pet/dog-friendly.
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/modern-cape-walking-distance-from-public-dock
+
+## 1-Bed, Old Town MHD, Walkable to Harbor & Shopping
+
+- ID: MA-14016
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Right in the Middle of Old Town Marblehead; Parking Pass Included; 700 Feet to Crocker Park.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 2.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/new-listing-special-apartment-in-old-town
+
+## 10 McLeod – Marsh View
+
+- ID: MA-14023
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: This cottage coaxes you into a state of relaxation once you walk through the door.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/10-mcleod-marsh-view/
 
 ## 100 at University Park — 1 Bedroom Category
 
@@ -57,6 +106,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit staying-child/infant age policy found.
 - Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
 - Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/100-Landsdowne-Street-8448
+
+## 101 N Reservation Terrace
+
+- ID: MA-14053
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: 101 North Reservation Terrace is a sun filled 3 Level Home, steps to the beach on beautiful Plum Island.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 3
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: PET FEE.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/101-n-reservation-terrace/
 
 ## 109S14 The Strathmore 14
 
@@ -166,6 +232,55 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en
 
+## 10R Old Point – Pine Island
+
+- ID: MA-14025
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Walk into this island getaway and it will feel like a home away from home with a spacious living area, comfortable furniture, and three bedrooms to…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/10r-old-point-pine-island/
+
+## 11 78th Street
+
+- ID: MA-14056
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Nicely renovated 2 Bedroom 2 full bath house with an open kitchen, island, granite counters, open to a living room with vaulted ceilings, 1 queen…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Well behaved Dog is considered, must be Pre-approved and $150.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/11-78th-street/
+
+## 12 McLeod – High View
+
+- ID: MA-14024
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: High View is one of the premier cottages in our portfolio.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/12-mcleod-high-view/
+
 ## 12P The Sky View
 
 - ID: MA-0604
@@ -184,6 +299,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets allowed case-by-case with additional fees; seek operator approval.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4733?currency=USD&lang=en
 
+## 12R Old Point – Ice Breaker
+
+- ID: MA-14026
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Enjoy this newly renovated home that sits high on a hill with two decks overlooking the Plum Island Sound, the Merrimack River and the great salt…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/12r-old-point-ice-breaker/
+
 ## 14P The Grand View Redline
 
 - ID: MA-0603
@@ -201,6 +332,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
 - Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en
+
+## 15 49th Street
+
+- ID: MA-14055
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Wake up every morning to the salty sea breezes on Plum Island.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/15-49th-street-oceanfront-winter-rental/
 
 ## 15 Cottage Park
 
@@ -222,7 +370,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0017
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: Apartment
 - Description: Plymouth vacation-apartment lead;official website verification blocked.
 - Rooms: Unknown
@@ -233,6 +381,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://1620hospitality.com/
+
+## 17 82nd St.
+
+- ID: MA-14043
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The "Arctic" cottage is located on one of the most popular beaches on Plum Island.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/17-82nd-st/
 
 ## 17 Cottage Park
 
@@ -249,6 +413,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mvcma.org/17-cottage-park
+
+## 17 L Street
+
+- ID: MA-14035
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Cool 3 bedroom house, with 1 bath, large living room and GREAT water view deck. The house off of Old Point Rd and L Street.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/17-l-street/
 
 ## 1848 Inn
 
@@ -441,6 +621,55 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking. Alameda description requires advance approval and extra cleaning fees; private yard not open to guests/pets.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en
 
+## 2BR Coastal Home Across From Beach
+
+- ID: MA-14095
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Beach Rental Across From The Ocean. Renovated 2BR Home With Full Kitchen, Fast WiFi, Laundry, And Walkable Access To Local Restaurants…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/thenest
+
+## 2BR Cottage Near Basin & Beach
+
+- ID: MA-14088
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Vacation Rental Near The Basin. Charming 2BR Cottage With Screened Porch, Deck, Hammock, WiFi, Laundry, And Easy Access To Beach And…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/plumpuddin
+
+## 2BR Home With Private Yard
+
+- ID: MA-14089
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Perfect for holiday getaways, long weekends, and extended summer stays, The Garden offers a peaceful retreat just steps from downtown Newburyport.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/thegarden
+
 ## 2BR Penthouse Boston Common DT
 
 - ID: MA-0826
@@ -477,6 +706,91 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets allowed with additional fee; contact host for amount.
 - Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a5815ea410f470014cbab35?minOccupancy=1&adults=1
 
+## 30 Annapolis Way
+
+- ID: MA-14058
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: A unique opportunity to spend your vacation at a beautiful, newly renovated oceanfront home with additional oceanfront property and direct beach…
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/30-annapolis-way/
+
+## 32 Southern Blvd.
+
+- ID: MA-14041
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Amazing OCEAN VIEWS from this lovely Beach house. 3 + bedrooms with large master suite, 2.5 bathrooms! Ocean Views from every room.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/32-southern/
+
+## 34 Old Point Rd
+
+- ID: MA-14034
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: WONDERFUL LOCATION, with Sunset views over the marsh. Large one bedroom with Queen sized bed and one bathroom.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: -Pet friendly.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/34-old-point-rd/
+
+## 35 Sunset Drive
+
+- ID: MA-14050
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Close to Harvard way which goes directly to the Ocean Beach Access. Two bedrooms, both Queen beds, one bathroom.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/35-sunset-drive/
+
+## 36 Old Point Rd
+
+- ID: MA-14037
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: ENJOY SUNSETS from your private patio area, with seating and Grill. This completely updated large 2 bedroom, 1 bath unit has room for 4 to 6 people.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: -Pet friendly.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/36-old-point-rd/
+
 ## 39S1 The Strathmore 1
 
 - ID: MA-0612
@@ -494,6 +808,169 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
 - Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en
+
+## 3BR Coastal Home Near The Ocean
+
+- ID: MA-14100
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Vacation Rental Steps From The Ocean. 3BR Coastal Home With Deck, Porch, Laundry, And Parking.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/secretbeachhouseoutdoorshowerupdated
+
+## 3BR Historic Townhouse Near Waterfront
+
+- ID: MA-14102
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Newburyport Vacation Rental In The Historic South End.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/historicdowntowntownhouse
+
+## 3BR Home Near Lighthouse
+
+- ID: MA-14091
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Beach Cottage Rental On The North End.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/thelighthouse
+
+## 3BR Home With Basin Views
+
+- ID: MA-14086
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Time is a relaxed coastal retreat designed for classic New England summers.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/basinbreezecottageacdeckswaterviews
+
+## 3BR Retreat Near Boardwalk
+
+- ID: MA-14082
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Salisbury Beach Vacation Home Just Steps From The Sand. 3BR Coastal Stay With Balcony, Marsh And River Views, And Easy Walk To Boardwalk Fun.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/blissonbrissettemarshviewsstepstobeach
+
+## 4 28th Street
+
+- ID: MA-14048
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Located in the center of the basin, with amazing views. Walk across the street to the public accessway leading to the beach.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/4-28th-street/
+
+## 4 39th St.
+
+- ID: MA-14051
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Oceanfront Cottage, Right on the Dune. Steps from the Ocean Beach ! 3 bedrooms, 1 Queen bed, 1 Full, 1 single bed.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/4-39th-st-oceanfront/
+
+## 4 McLeod – The Basin
+
+- ID: MA-14027
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The Basin is a recently-renovated, spacious home with room for 10 people.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/4-mcleod-the-basin/
+
+## 4-Bed Home w/Pool, Walking Trails, Dog-Friendly
+
+- ID: MA-14009
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This pet-friendly home features a large in-ground pool, exposed beams, walking trails that are located next to the home.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists the home as pet/dog-friendly.
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/4-bed-with-large-pool-nature-trails-redds-pond
+
+## 4BR Home Steps From The Beach
+
+- ID: MA-14099
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Beach Vacation Rental Steps From The Sand. 4BR Coastal Home With Porch, Deck, Office, Fast WiFi, And Easy Access To Downtown Newburyport.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/seasideserenity
 
 ## 4BR Mid-Century Glam Retreat | Near T
 
@@ -531,6 +1008,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Generally yes (confirm for unit/season)
 - Website (book here, directly with the host): https://debsconeaglakecamps.com
 
+## 5 39th Street
+
+- ID: MA-14052
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: 3 bedrooms, 2 full bathrooms. 2 Queen beds, 1 full bed, one day bed. Plus two pull out couches.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/5-39th-oceanfront/
+
 ## 5 LOONS LIMIT 8
 
 - ID: ME-0560
@@ -547,6 +1040,121 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=464
+
+## 5B Plum Island Blvd – South Jetty
+
+- ID: MA-14028
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: This quaint little cottage sleeps 4 and is a terrific spot to enjoy the sun and surf at Plum Island.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/5b-plum-island-blvd-south-jetty/
+
+## 5BR Home Steps From The Beach
+
+- ID: MA-14080
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Beach House Rental Steps From The Sand.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/itsallgoodhottubstepstobeachyard
+
+## 6 2nd St.
+
+- ID: MA-14054
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: ( Cleaning fee applied) All rentals include all utilities, cable/WiFi and regular trash/recycle pick-up. parking for up to 3 cars.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/6-2nd-street/
+
+## 6 46th Street
+
+- ID: MA-14046
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Exceptionally Cute Plum Island Retreat with basin water views. Easy Ocean Beach and Basin waterfront access.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: ONE DOG NEGOTIABLE: PET FEE $200.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/6-46th-street/
+
+## 6 4th St.
+
+- ID: MA-14045
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: LOVELY HOME SO Close to the beach! The easy flow of the open kitchen, living, dining space lends itself to entertaining.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/6-4th-street/
+
+## 64 Northern Blvd
+
+- ID: MA-14044
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: There are 4 Bedrooms (3 Queen beds with ocean views), 4th one on the lower level with a full bed, full bathroom and it's own entrance.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/64-northern-blvd/
+
+## 68 Southern Blvd
+
+- ID: MA-14040
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: 2 bedrooms, 1 updated bathroom, front porch, back porch and small yard area, with Grill.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/68-southern-blvd/
 
 ## 6BR Boston Home | Near T
 
@@ -583,6 +1191,154 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
 - Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
 - Website (book here, directly with the host): https://stayheirloom.com/listing/65bd02ffd16e3c0014a49aed
+
+## 8 McLeod – North Jetty
+
+- ID: MA-14029
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: North Jetty is a quaint, 2-bedroom cottage situated in the heart of Plum Island, just 2 blocks from the beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/8-mcleod-north-jetty/
+
+## 8 Point Rd.
+
+- ID: MA-14049
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: 2 bedrooms 1.5 baths, plus pull out sofa in living room. Large water view deck, over looking your own beach and Newburyport city.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/8-point/
+
+## 81 NORTHERN
+
+- ID: MA-14057
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This three bed, two bath home has both ocean and basin views, and direct beach access!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/81-northern-water-views/
+
+## 8R Old Point – Halfway Rocks
+
+- ID: MA-14030
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Halfway Rocks is a quaint two-bedroom single family home with room for 6.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandproperties.com/8r-old-point-halfway-rocks/
+
+## 9 16th St.
+
+- ID: MA-14039
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Enjoy the Beach and stay at this beautiful Plum Island beach house is located on 16th street by Mad Martha’s restaurant.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/9-16th-street/
+
+## 9 43rd St.
+
+- ID: MA-14038
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Experience gorgeous Sunrises every morning. Spend days on the beach and family time on the porch and deck. FIRST FLOOR Master suite with King bed.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 11.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/9-43rd-street/
+
+## 9 Brock Ave.
+
+- ID: MA-14047
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: WATERFRONT on the BASIN looking towards the SUNRISE LOVELY Newer 2 Bedroom, 2.5 bath home, directly on the Waterfront of the Basin.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2.5
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/9-brock-ave__trashed/
+
+## 9 Southern Blvd
+
+- ID: MA-14036
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The newest addition to Plum Island Beach Rentals, this wonderful 3-bedroom house is your perfect getaway, only two houses away (roughly 100 steps)…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/9-southern-blvd/
+
+## 99 N Reservation Terr.
+
+- ID: MA-14042
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Summer rental on Plum Island with amazing panoramic views of the Ocean.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://plumislandbeachrentals.com/product/99-n-reservation-terr/
 
 ## A SENSE OF PLACE LIMIT 17
 
@@ -838,6 +1594,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.rockyneckaccommodations.com/
 
+## Addie Shack & Cammie Cabana
+
+- ID: MA-14094
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The "Addie Shack & Cammie Cabana" is a pet-friendly 2-family property, with 4 bedrooms, 2 bathrooms, 1 block to the beach & available to book as a…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/addieshackcammiecabana
+
+## Afternoon Delight
+
+- ID: MA-14109
+- Town / area (approximate map location): Beverly, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Nestled in a cul de sac and fronting on the Crane River, Afternoon Delight in historic Beverly is the perfect place to watch the river currents…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Afternoon_Delight-4-15
+
 ## Akers Pond Inn Cabins & RV Sites
 
 - ID: NH-0034
@@ -1039,6 +1829,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482
+
+## Annisquam Singing Pines
+
+- ID: MA-14110
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Imagine spending your days swimming from the private tidal dock at high tide or exploring the sandy shoreline at low tide.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Annisquam_Singing_Pines-8-15
 
 ## ANY SEASON ESCAPE LIMIT 10
 
@@ -1439,6 +2246,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family home
 - Website (book here, directly with the host): https://boothbayharborrental.com
 
+## Back Beach
+
+- ID: MA-14069
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Step inside this thoughtfully restored coastal home in the heart of Rockport.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a15c44dcfc6510014964e06
+
 ## Back-Bay 2BR Condo w Roof top, Gym, Parking
 
 - ID: MA-0836
@@ -1665,6 +2488,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.basecampnek.com/book-a-stay
 
+## Basin House With Water Views
+
+- ID: MA-14103
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Vacation Rental With Basin Views. Peaceful 2BR Home With Workspace, Laundry, Mini-Splits, And Easy Access To Basin And Downtown…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/thebasinhousestepstowatersunsetviews
+
 ## Bass Harbor Cottages
 
 - ID: ME-0009
@@ -1687,7 +2526,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0279
 - Town / area (approximate map location): Wareham, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Wareham riverside home with three bedrooms, a screened porch, galley kitchen and private dock.
 - Rooms: Unknown
@@ -1821,6 +2660,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill
 
+## Beach Bound
+
+- ID: MA-14111
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: New for 2026! This beautifully renovated 3-bedroom, 1.5-bath home offers the perfect blend of modern comfort and coastal charm.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Beach_Bound-318-15
+
+## Beach Bungalow
+
+- ID: MA-14112
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This sweet vacation rental cottage is a short distance to two of Rockport's finest beaches - Cape Hedge and Long Beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Beach_Bungalow-9-15
+
 ## Beach Cottage Inn & Beach House Suites
 
 - ID: ME-0058
@@ -1854,6 +2727,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — advertises families and reunions
 - Pet policy: Varies — only Unit A allows dogs, B/C/D no pets
 - Website (book here, directly with the host): https://beachgirlpropertyrentals.com/
+
+## Beach Retreat
+
+- ID: MA-14022
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Six-bedroom, two-bath Gloucester home for up to 10 guests, steps from Good Harbor Beach.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.bookwithhaven.com/properties/7b33a1d3
 
 ## Beach Road Vacation Rentals — BOUORL: Orleans Resort Style Living
 
@@ -2672,6 +3561,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/280093
+
+## Bearskin Neck
+
+- ID: MA-14068
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Set directly on Bearskin Neck, this classic Rockport cottage puts one of Cape Ann’s most recognizable neighborhoods right outside the door.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a8f8eaca4a9df0011764b00
 
 ## Beautiful Sea Captain's Home in Falmouth Village
 
@@ -3760,6 +4665,38 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Property page lists pets allowed/considered.
 - Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/652653052188166680/timpani-corners-private-pond-ac
 
+## Between 2 Beaches
+
+- ID: MA-14000
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Newly renovated 3-level beach-themed condo with 3 bedrooms, 2.5 baths, two outdoor spaces and parking; walk to Good Harbor and Long Beach.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://between2beaches.com/
+
+## Beverly Shops
+
+- ID: MA-14076
+- Town / area (approximate map location): Beverly, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This warm and stylish home is set in the heart of North Beverly, close to local shops, dining, and commuter rail access.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/679fb9709addc3003096a14a
+
 ## Big Bear Log Home at Newfound Lake
 
 - ID: NH-0065
@@ -3834,7 +4771,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0280
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: East Fairhaven waterfront cottage with three bedrooms, a full kitchen, upper deck and marsh views.
 - Rooms: Unknown
@@ -3916,6 +4853,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.bluegraniteproperties.com/
+
+## Blue Heron Farm — Log Cabin
+
+- ID: MA-18000
+- Town / area (approximate map location): Charlemont, MA
+- Tourist destination: Pioneer Valley
+- Type: Cabin
+- Description: One-bedroom log cabin on a 130-acre organic farm, sleeping up to 4, with full bath, kitchen, washer/dryer and porch gas grill.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Rates page: pets welcomed by pre-arrangement with a cleaning fee.
+- Website (book here, directly with the host): https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/
 
 ## Blue Hill Bay Property Rentals
 
@@ -4049,6 +5003,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=518
+
+## Booth Cottage
+
+- ID: MA-14113
+- Town / area (approximate map location): Manchester-by-the-Sea, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Known as "Booth Cottage", this charming and historic vacation rental home once belonged to actor Junius Brutus Booth, Jr., a Lincoln supporter but…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed on a case-by-case basis.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Booth_Cottage-14-15
 
 ## Booth Cottages & Beach
 
@@ -4579,6 +5550,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://campskoglund.com
 
+## Camp46 Beach House
+
+- ID: MA-14097
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The property is perfectly located right across the street from the highly popular Mad Martha's, a cozy breakfast joint serving a unique and…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/camp46
+
 ## Campfire Booking
 
 - ID: ME-0275
@@ -4647,6 +5634,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No pets allowed.
 - Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1
 
+## Cape Hedge House
+
+- ID: MA-14114
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Panoramic views of Long Beach, Cape Hedge Beach and Saratoga Creek in Rockport!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Cape_Hedge_House-300-15
+
 ## Cape Truro Cottages
 
 - ID: MA-1842
@@ -4663,6 +5667,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Amenities: full size futons for the kids.
 - Website (book here, directly with the host): https://capetrurocottages.com/
+
+## Captain John Butman House
+
+- ID: MA-14115
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Step back in time at Captain John Butman House, a beautifully restored colonial home.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Captain_John_Butman_House-31-15
 
 ## CARDINAL LIMIT 3
 
@@ -4734,7 +5755,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0276
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: West Island beach cottage with two bedrooms, a kitchen, grill, outdoor dining and an outdoor shower.
 - Rooms: Unknown
@@ -5018,6 +6039,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
 - Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a580a074cdff30014f4beb4?minOccupancy=1&adults=1
 
+## Central Old Town 2-Bed Apt, Shopping, Restaurants
+
+- ID: MA-14017
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Stay in a historic 1727 home built by loyalist Thomas Robie.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/1700s-apartment-2bd2bth-in-the-middle-of-old-town
+
 ## Central Penthouse & balcony in Boston Chinatown
 
 - ID: MA-0810
@@ -5175,6 +6212,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://chamberyinn.com/
+
+## Changes In Latitude
+
+- ID: MA-14116
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Changes in Latitude is a perfectly located vacation rental home for your Gloucester beach getaway.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Changes_In_Latitude-17-15
 
 ## Channel Waterfront Cottages
 
@@ -7991,6 +9045,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
 - Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/255-Massachusetts-Avenue-7411
 
+## Circa 1789 South End Home
+
+- ID: MA-14093
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Historic Newburyport Vacation Rental In The South End. Restored Home With A/C, WiFi, Workspace, Parking, And Walkable Access To Waterfront And Dining.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/circa1789downtown
+
 ## City Views~Close 2 Salem~Balcony
 
 - ID: MA-0441
@@ -8168,6 +9238,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
 - Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2432526
 
+## Coastal Guest House
+
+- ID: MA-14021
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Two-family, two-level Marblehead vacation home with 5 guest rooms for up to 14 guests, steps to the harbor, beach and shops.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 14.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://coastalguesthouse.com/
+
 ## Coastal Haven in West Dennis -15
 
 - ID: MA-0512
@@ -8251,6 +9337,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://compassrosmaine.com
 
+## Condo With Private Beach Access
+
+- ID: MA-14107
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Salisbury Beach Oceanfront Rental With Private Beach Access.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property description states no pets.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/salisburybeachretreat
+
 ## Contemporary Boston Duplex — Two-Apartment Combined Rental
 
 - ID: MA-0718
@@ -8269,6 +9372,362 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
 - Website (book here, directly with the host): https://stayheirloom.com/listing/67b619b40497ce0042dd7cac
 
+## Converse Company — Short-Term Rental, 166 Front Street, Second Floor
+
+- ID: MA-16038
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: High-end rental with water views and conveniently located in the heart of Marion Village!
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/the-village-mooring/
+
+## Converse Company — Short-Term Rental, 62 Water Street, Marion
+
+- ID: MA-16039
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Charming Cape located on beautiful Water Street in the sleepy town of Marion.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/winter-rental-23/
+
+## Converse Company — Short-Term Rental, 63 Pleasant Street, Marion
+
+- ID: MA-16019
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Stunning home nestled in the heart of Marion Village.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/short-term-rental-2/
+
+## Converse Company — Short-Term Rental, 9 Cove Street, Marion
+
+- ID: MA-16020
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Newly renovated 3 bedroom, 3 bathroom Cape Cod Style home within walking distance to Silvershell Beach and Marion Village.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/short-term-rental/
+
+## Converse Company — Summer Rental, 1 Water Street, Mattapoisett
+
+- ID: MA-16028
+- Town / area (approximate map location): Mattapoisett, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: The newly updated iconic Mattapoisett home sits across the street from the Town Wharf and includes easy access to the town beach located just steps.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Available for $5,000 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-18/
+
+## Converse Company — Summer Rental, 102 Point Road, Marion
+
+- ID: MA-16032
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Stunning and meticulously renovated waterfront home in East Marion. Take in views of the neighboring Kittansett Club and of Buzzards Bay.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Unknown
+- Price: Available for $5,500 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-23/
+
+## Converse Company — Summer Rental, 14 Taunton Avenue, Marion
+
+- ID: MA-16022
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Waterfront home on outer Sippican Harbor with private beach!
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Unknown
+- Price: Available for $5,500 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-11/
+
+## Converse Company — Summer Rental, 15 Hiller Street, Marion
+
+- ID: MA-16030
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Renovated historic home known as “The Ice House” located in the heart of Marion Village with views of Barden’s Boatyard and Sippican Harbor.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1.5
+- Sleeps: Unknown
+- Price: Available for $2,500 per week
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-2/
+
+## Converse Company — Summer Rental, 17 Hastings Road, Marion
+
+- ID: MA-16024
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Newly remodeled one-bedroom, one bath cottage with water views of Hammett’s Cove and Sippican Harbor!
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Available for $2,000 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-13/
+
+## Converse Company — Summer Rental, 18 East Avenue, Marion
+
+- ID: MA-16023
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Fresh, bright and open water view home on Planting Island!
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Available for $3,600 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-12/
+
+## Converse Company — Summer Rental, 2 Jenney Lane, Marion
+
+- ID: MA-16037
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Lovely, bright and spacious townhouse located in The Cove in Marion.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-8/
+
+## Converse Company — Summer Rental, 25 Main Street, Unit 2, Marion
+
+- ID: MA-16034
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Bright and sunny first floor condominium unit located in the center of town, just steps from the waterfront, private clubs and Village amenities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Available for $2,500 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-25/
+
+## Converse Company — Summer Rental, 3 Pleasant Street, Marion
+
+- ID: MA-16025
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Newly renovated and expanded Marion Village home, ideally located within walking distance to Marion Village amenities such as Sippican Harbor.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3.5
+- Sleeps: Unknown
+- Price: Available for $4,500 per week
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-14/
+
+## Converse Company — Summer Rental, 4 Howland Road, Marion
+
+- ID: MA-16029
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Newly built in 2016, this 2,300 +/- square foot home offers an open floor plan and modern layout and finishes.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Unknown
+- Price: Available for $3,800 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-19/
+
+## Converse Company — Summer Rental, 43 Allen Street, Marion
+
+- ID: MA-16035
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Spend your summer in this bright and sunny one-story home located in the heart of all things Marion Village!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Available for $3,850 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-5/
+
+## Converse Company — Summer Rental, 465 Point Road, Marion
+
+- ID: MA-16031
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Charming 2,590 square foot East Marion Colonial!
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Unknown
+- Price: Available for $3,800 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-21/
+
+## Converse Company — Summer Rental, 522C Point Road, Marion
+
+- ID: MA-16033
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Spend your summer vacation relaxing in this 3,200 square foot mid-century modern 3-bedroom, 3-bathroom waterfront home.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Unknown
+- Price: Available for $5,500 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-24/
+
+## Converse Company — Summer Rental, 54 Main Street, Marion
+
+- ID: MA-16021
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Charming Antique located in the heart of Marion Village!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Unknown
+- Price: Available for $3,800 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-10/
+
+## Converse Company — Summer Rental, 596 Point Road, Marion
+
+- ID: MA-16026
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Truly a one-of-a-kind property located on an exclusive waterfront compound along Blankenship Cove.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 4
+- Sleeps: Unknown
+- Price: Available for $6,000 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-16/
+
+## Converse Company — Summer Rental, 70 Allen Street, Marion
+
+- ID: MA-16018
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Charming 4 bedroom, 2.5 bath home in Marion Village, close to Silvershell Beach and town center.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Unknown
+- Price: Available for $3,650 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/3701/
+
+## Converse Company — Summer Rental, 8 Island Court, Marion
+
+- ID: MA-16036
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Spend your summer vacation at this one-of-a-kind home located at the tip of Planting Island with views of Sippican Harbor and Buzzards Bay!
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Unknown
+- Price: Available for $3,700 per week
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-7/
+
+## Converse Company — The Moorings, 100 Moorings Road, Marion
+
+- ID: MA-16027
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Stunning waterfront property located on the tip of Converse Point, with stunning water views of Buzzards Bay.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-17/
+
 ## Copley on the Park Studio — M325
 
 - ID: MA-1001
@@ -8286,6 +9745,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: One extra child may use a single air mattress; published nightly surcharge $30; double-occupancy base.
 - Pet policy: Shared policy generally prohibits pets but also identifies a few exceptions; no specific guest-pet exception established for this unit. Resident host dog at M465 is not guest-pet permission.
 - Website (book here, directly with the host): https://bostonextendedstay.com/m325-copley-vacation-rental-on-the-park/
+
+## Cottage on the Lane
+
+- ID: MA-14003
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Three bedrooms are situated on the upper floor take advantage of the ocean views while the downstairs living space is a relaxing place to enjoy a…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: "All of our cottages are pet friendly".
+- Website (book here, directly with the host): https://www.rockportcottages.com/the-cottages-2/cottage-on-the-lane
+
+## Cottage on the Pond
+
+- ID: MA-14004
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Cottage on Mill Pond is perfect for a family wishing for a vacation home within walking distance of Rockport’s galleries and Shoppe's.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: "All of our cottages are pet friendly".
+- Website (book here, directly with the host): https://www.rockportcottages.com/the-cottages-2/cottage-on-the-pond
 
 ## Cottage Place on Squam Lake
 
@@ -8425,7 +9918,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0262
 - Town / area (approximate map location): Scituate, MA
-- Tourist destination: South Shore
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Humarock cottage near the beach with two bedrooms, a full kitchen, outdoor shower and decks for grilling.
 - Rooms: Unknown
@@ -8585,7 +10078,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0275
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: West Island cottage with two bedrooms, ocean views, a stocked kitchen and easy beach access.
 - Rooms: Unknown
@@ -8906,6 +10399,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Booking property description explicitly family-friendly and activities for all ages.
 - Pet policy: Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.
 - Website (book here, directly with the host): https://camphappygrounds.com/crows-nest/
+
+## Cute Onset Beach Cottage
+
+- ID: MA-16004
+- Town / area (approximate map location): Onset, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Unknown
+- Description: Built in 1873 and designated historic, this 618-square-foot 2-bedroom cottage for up to 4 people is steps from Onset Beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Dog-friendly (on request)
+- Website (book here, directly with the host): https://www.cuteonsetbeachcottage.com/
 
 ## Daisy Cottage (Days' Cottages)
 
@@ -15962,6 +17472,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=333
 
+## Dot's Place
+
+- ID: MA-14117
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: Apartment
+- Description: Welcome to Dot’s Place, a bright and comfortable one-bedroom apartment in the heart of Rockport.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 2.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Dots_Place-274-15
+
 ## Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals)
 
 - ID: ME-0250
@@ -17201,6 +18728,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.earthwisefarmandforest.com/
 
+## East Gloucester
+
+- ID: MA-14075
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This charming East Gloucester home blends coastal character with family-friendly comfort in a quiet, convenient neighborhood close to beaches…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/689f6ee9c6571b0042f08d7a
+
 ## Eastham Getaway
 
 - ID: MA-5003
@@ -17236,6 +18779,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.
 - Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
 - Website (book here, directly with the host): https://mvyvacations.com/listing/edgartown-house/
+
+## Egg Rock House · Oceanfront 4BR · Kings Beach · 30 min to Boston
+
+- ID: MA-14006
+- Town / area (approximate map location): Swampscott, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: An oceanfront home right on Kings Beach — one of the North Shore’s liveliest stretches of coastline.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://littlenahantroad.com/property/egg-rock-house-%c2%b7-oceanfront-4br-%c2%b7-kings-beach-%c2%b7-30-min-to-boston/
 
 ## Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5
 
@@ -17286,6 +18845,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.emberescapes.com/
+
+## Enchanting 1800s Cottage · Old Town Marblehead · Walk to Everything
+
+- ID: MA-14007
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Step into a little piece of history. This lovingly restored 1800s single-family cottage sits in the heart of Old Town Marblehead — one of the most…
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://littlenahantroad.com/property/enchanting-1800s-cottage-%c2%b7-old-town-marblehead-%c2%b7-walk-to-everything/
 
 ## Enchanting Hidden Door Escape
 
@@ -17766,6 +19341,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — dogs subject to approval/fee
 - Website (book here, directly with the host): https://everett-cottage.com
 
+## Exposed Beams, Gas Fireplace, Fire Pit, Porch
+
+- ID: MA-14019
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The Oyster Cottage is a fully renovated shiplap cutie with exposed beams that is located right in the center of Marblehead...
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/exposed-beams-gas-fireplace-fire-pit-porch
+
 ## Family Tides
 
 - ID: ME-0374
@@ -17867,6 +19458,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=706
+
+## First Light
+
+- ID: MA-14118
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Escape to this charming 3-bedroom vacation home, nestled among the trees with ocean views.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/First_Light-301-15
 
 ## First Settlers Lodge
 
@@ -19463,6 +21071,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=119
 
+## Front Beach
+
+- ID: MA-14066
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Step inside and the water is everywhere you look. This bright, classic coastal home sits directly above Front Beach, with walls of windows that…
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 3.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a15a22e15ed3c002357cdd2
+
 ## Front Row City Views: 1BR Suite with King Bed | Suite 3
 
 - ID: MA-1110
@@ -19497,6 +21121,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=603
+
+## Garden by the Sea
+
+- ID: MA-14119
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: Apartment
+- Description: Relax and take in wonderful views of Gloucester's beautiful Good Harbor Beach, with Thatcher Island beyond, from this bright and comfortably…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Garden_by_the_Sea-24-15
 
 ## GetAway Vacations
 
@@ -19547,6 +21188,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://gloucesterbeachhouse.com/
+
+## Gloucester Harbor
+
+- ID: MA-14062
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Set directly on Wonson’s Cove in Gloucester’s iconic Rocky Neck neighborhood, this renovated waterfront cottage offers sweeping harbor views and…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a29be20de3a68001b5d15d8
 
 ## Godwin's Vacation Rentals — **Tranquil Tides
 
@@ -20744,6 +22401,55 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://goldeneaglelodge.com/
 
+## Golden Sands
+
+- ID: MA-14120
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Golden Sands is the quintessential turn of the century Gloucester beach "cottage." With views of Good Harbor Beach, the twin lighthouses of Rockport…
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Golden_Sands-25-15
+
+## Good Harbor Beach
+
+- ID: MA-14064
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Completed in 2026, this custom-built coastal home combines thoughtful architecture, refined finishes, and an exceptional location just a 3-minute…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a426ea57c49910013b37ea0
+
+## Good Harbor Beach
+
+- ID: MA-14071
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Step inside this fully renovated coastal retreat just a 4-minute walk to Good Harbor Beach.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 4.5
+- Sleeps: Property page lists sleeps 18.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/695d5c8afb0a0500153d5d1c
+
 ## GOOD TIMES CHALET LIMIT 19
 
 - ID: ME-0516
@@ -20814,6 +22520,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/grand-victorian-403/
 
+## Granite Cottage
+
+- ID: MA-14121
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Granite Cottage, just renovated in 2025, affords plenty of peace and privacy in Pigeon Cove.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Granite_Cottage-26-15
+
+## Granite Pier
+
+- ID: MA-14122
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Granite Pier, with its unparalleled ocean views, is a traditional Cape Ann home with an unusual history.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Granite_Pier-27-15
+
 ## Gray Ghost Camps
 
 - ID: ME-0091
@@ -20881,6 +22621,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Our pet policy is for dogs only.; We welcome dogs weighing 75 lbs. and under.; There's a $50 fee per dog per night, with a two-dog maximum per room. Only pre-approved dogs in select vacation cottages/rooms; contact reservationsbeforearrival; Max2dogs;75lb;50USD/dog/night plus applicabletax;500USDcleaningfee forunapproveddogs; Dogs prohibited resortbeaches MemorialDayweekend–LaborDayweekend; lobbies/dining/pools offlimits; Dogs unattended max2hours, avoid leavingdogs thatdisturbothers
 - Website (book here, directly with the host): https://www.redjacketresorts.com/resorts/green-harbor
 
+## Greenery & Waves
+
+- ID: MA-14101
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The Primary Bedroom is located in its own wing off the kitchen and bathroom.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/largeoutdoorspaceacgreenerywaves
+
 ## GREENS LIMIT 6
 
 - ID: ME-0497
@@ -20913,6 +22670,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.kanerealty.net/vermont-castle/
+
+## Gull's Nest
+
+- ID: MA-14123
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Perched on a hill overlooking Ipswich Bay, this inviting coastal retreat is the perfect place to slow down and enjoy the quieter side of Cape Ann in…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Gulls_Nest-319-15
 
 ## Gull’s Nest
 
@@ -21014,6 +22788,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — children explicitly count toward max guests
 - Website (book here, directly with the host): https://harboroasis.me
 
+## Harbor Peeks, Rooftop Deck, Old Town, Near Shops
+
+- ID: MA-14014
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Enjoy this renovated penthouse condo in Old Town Marblehead with peek views of the harbor.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/penthouse-condo-old-town-harbor-views-office
+
 ## Harbor Watch Cottage
 
 - ID: ME-0370
@@ -21048,6 +22838,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family-oriented
 - Pet policy: Yes
 - Website (book here, directly with the host): https://harborfields.com
+
+## Harbortown Hideaway
+
+- ID: MA-14124
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: Apartment
+- Description: Located in Gloucester's Harbortown neighborhood, the name Harbortown Hideaway perfectly suits this vacation rental.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Harbortown_Hideaway-121-15
 
 ## Harborview Nantucket
 
@@ -21174,6 +22981,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: House rules: no pets allowed on premises.
 - Website (book here, directly with the host): https://harwichportbeachhouse.com/
 
+## Hastings Haven
+
+- ID: MA-14125
+- Town / area (approximate map location): Beverly, MA
+- Tourist destination: North Shore
+- Type: Apartment
+- Description: Welcome to your peaceful getaway in the heart of Beverly Cove.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 2.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Hastings_Haven-317-15
+
 ## HATE TO LEAVE IT LIMIT 6
 
 - ID: ME-0512
@@ -21244,6 +23067,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Families or child amenities explicitly mentioned on own-unit page.
 - Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount
+
+## Helena House
+
+- ID: MA-14126
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Situated on a knoll in Gloucester's Bay View neighborhood, Helena House offers peekaboo views of Ipswich Bay from the second floor bedroom with deck.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Helena_House-29-15
 
 ## Heron Cottage / Cove Meadow
 
@@ -21436,7 +23276,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0272
 - Town / area (approximate map location): Westport, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Westport Point waterfront home with four bedrooms, a full kitchen, deck and lawn extending to a dock.
 - Rooms: Unknown
@@ -21483,6 +23323,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Official homepage offers the Inn for families and small groups.
 - Website (book here, directly with the host): https://hobbleinn.com/
+
+## Holbrook House
+
+- ID: MA-14127
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: New for 2026! Recently updated and thoughtfully designed, this inviting three bedroom home offers peaceful views overlooking Mill Pond Park…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Holbrook_House-324-15
 
 ## HOLIDAY COVE - LIMIT 8
 
@@ -22860,7 +24717,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0271
 - Town / area (approximate map location): Westport, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Westport farm cottage with one bedroom, a full kitchen and porch near Horseneck Beach.
 - Rooms: Unknown
@@ -22910,7 +24767,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0263
 - Town / area (approximate map location): Marshfield, MA
-- Tourist destination: South Shore
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Humarock cottage overlooking the South River, with two bedrooms, a full kitchen, decks and an outdoor shower.
 - Rooms: Unknown
@@ -22923,6 +24780,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Suitable for children ages 2–12 and infants under 2.
 - Pet policy: Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.
 - Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1
+
+## Humarock Memory Maker Beach House
+
+- ID: MA-17023
+- Town / area (approximate map location): Scituate, MA
+- Tourist destination: Plymouth & South Shore
+- Type: House
+- Description: Four-bedroom, 2.5-bath beach house in Humarock steps from the beach, with wraparound deck, ocean views and air conditioning; sleeps 9.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 9.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page states pets not allowed.
+- Website (book here, directly with the host): https://humarockmemorymakerbeachhouse.com/
+
+## Humarock Oceanfront Vacation Home
+
+- ID: MA-17024
+- Town / area (approximate map location): Scituate, MA
+- Tourist destination: Plymouth & South Shore
+- Type: House
+- Description: Remodeled three-bedroom, one-bath oceanfront home on a private beach in Humarock, with central A/C and outdoor shower; weekly rentals.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page states pets not allowed.
+- Website (book here, directly with the host): https://www.humarockoceanfrontvacationhome.com/
 
 ## HUMMINGBIRD LIMIT 3
 
@@ -23078,6 +24969,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=337
 
+## Joseph's Way
+
+- ID: MA-14128
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Close to Gloucester's sandy Good Harbor Beach, Joseph's Way is a delightful two-bedroom rental nestled on a quiet wooded lot on a hidden side street…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Josephs_Way-32-15
+
 ## JOYFULL CAMP LIMIT 10
 
 - ID: ME-0547
@@ -23129,6 +25037,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family vacation and reunions)
 - Website (book here, directly with the host): https://junction19co.com
 
+## Just For the Halibut
+
+- ID: MA-14129
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Just for the Halibut is a delightful coastal retreat, perfectly situated between Folly Cove and Halibut Point State Park in Rockport.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Just_For_the_Halibut-298-15
+
 ## Katahdin Shadows Cabins
 
 - ID: ME-0060
@@ -23162,6 +25087,74 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.
 - Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
 - Website (book here, directly with the host): https://mvyvacations.com/listing/katama-house/
+
+## Kathy Santos — Rental #2: Westport Harbor
+
+- ID: MA-16000
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Enjoy an old-fashioned family vacation at the beach. This 3 BR 2 B family home is just steps to the beach with ACCESS TO ATLANTIC BEACH CLUB.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Rent: $5250 a week, $350 cleaning, $500 security
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.kathy-santos.com/rental--2---westport-harbor.html
+
+## Kathy Santos — Rental #6: Riverfront Cottage, South Westport
+
+- ID: MA-16001
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Drive through a private farm, three gates, and arrive at this charming classic cottage.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Unknown
+- Price: Rent: Rents Friday to Friday $2750.00 a week
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.kathy-santos.com/rental6---south-westport.html
+
+## Kathy Santos — Rental #7: Great Island
+
+- ID: MA-16002
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Enjoy an island with a beach and two miles of walking trails all to yourself. This home offers modern amenities and a spacious screened porch.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Rent: TBD
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.kathy-santos.com/rental7-great-island.html
+
+## Kathy Santos — Rental #8: Barn Studio, Westport Point
+
+- ID: MA-16003
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Escape to a newly renovated barn studio filled with natural light and peaceful pastoral views.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Rent: $4300 minimum of 32 day stay, plus $150 for cleaning. $250 security deposit
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.kathy-santos.com/rental--8-main-road.html
 
 ## Kendall and Central Square Condo near MIT Parking
 
@@ -25323,6 +27316,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Property page states pets not allowed.
 - Website (book here, directly with the host): https://www.lamacchiavacationrentals.com/vacation-rentals/rental/7758/
 
+## Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth
+
+- ID: MA-17022
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: House
+- Description: Updated three-bedroom Cape in Plymouth with access to a private section of Sagamore Beach; sleeps 6.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page states pets not allowed.
+- Website (book here, directly with the host): https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/
+
 ## Lamacchia Vacation Rentals — 6 Hillside Ave - Falmouth
 
 - ID: MA-7044
@@ -25850,6 +27860,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Booking widget labels adults/children but no explicit child-age acceptance policy/age bands found inHouseRules.
 - Pet policy: No Pets Allowed No pets; bookingwidget reiteratespetban
 - Website (book here, directly with the host): https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/
+
+## Ledgewood
+
+- ID: MA-14130
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Escape to this spacious 2-bedroom, 2-bath home tucked away in the tranquil woods of East Gloucester.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Ledgewood-312-15
 
 ## Leighton Rentals — Barnstable Home BA0729
 
@@ -26650,6 +28677,39 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — owner website welcomes pets; confirm individual cottage
 - Website (book here, directly with the host): https://liberty-rentals.com/
 
+## Life of Reilly
+
+- ID: MA-14131
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Life of Reilly is a stylish 2-bedroom, 1.5-bathroom vacation home tucked away on a serene 4.5-acre lot in the woodlands of Rockport.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Life_of_Reilly-313-15
+
+## Life on Deck
+
+- ID: MA-14132
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: New for 2026! Stroll to Long Beach or Good Harbor Beach, or simply relax on the large deck.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Life_on_Deck-325-15
+
 ## Lighthouse Lane Cottages
 
 - ID: MA-0201
@@ -26751,6 +28811,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=615
 
+## Little River
+
+- ID: MA-14061
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Set directly on Little River, this fully renovated waterfront home blends modern comfort with classic coastal charm.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/67746de6846e4a0011527356
+
 ## LITTLE SANDY-LIMIT 8
 
 - ID: ME-0501
@@ -26820,6 +28896,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Suitable for children and infants listed.
 - Pet policy: Pets allowed on own-unit detail; restrictions/fees not established on checked pages.
 - Website (book here, directly with the host): https://www.75locustfalmouth.com/rentals/loft-hideaway-in-falmouth-village
+
+## Lofty Views
+
+- ID: MA-14133
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Lofty Views is a lovely cottage situated in a quiet neighborhood, overlooking the marsh.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Lofty_Views-270-15
+
+## Long Beach House
+
+- ID: MA-14134
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This large and comfortable vacation home is just steps from the white sands of Long Beach--a perfect summer location!
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Long_Beach_House-36-15
 
 ## Long Cove Cottages
 
@@ -27007,7 +29117,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0281
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: West Island beachfront cottage with two bedrooms, central air, a kitchen, backyard and patio.
 - Rooms: Unknown
@@ -27463,7 +29573,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0282
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Fairhaven home near Fort Phoenix with three bedrooms, a full kitchen, porch and backyard grill.
 - Rooms: Unknown
@@ -32402,6 +34512,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196461
 
+## Mill Brook House
+
+- ID: MA-14135
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Nestled in the heart of historic Rockport, Mill Brook House beautifully blends timeless charm with modern conveniences.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Mill_Brook_House-310-15
+
+## Mill Lane
+
+- ID: MA-14136
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Stroll the quaint lanes of Rockport, browsing its many art galleries and boutiques on famed Bearskin Neck, or catch a performance at the nearby…
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 3.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Mill_Lane-38-15
+
+## Mill Pond Cottage
+
+- ID: MA-14137
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Mill Pond Cottage offers a unique blend of old-world charm and modern comfort.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Mill_Pond_Cottage-289-15
+
 ## Minutes To Berkshire East With Hot Tub & Views
 
 - ID: MA-0253
@@ -32678,6 +34839,142 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://rangeleyrentals.com
+
+## Mothertree Farm House
+
+- ID: MA-14081
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Newburyport Pet-Friendly Vacation Rental Near Plum Island Beaches. Spacious 3BR Farmhouse With Workspaces, Sunset Views, And Easy Access To Downtown.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/mothertreefarmhouse
+
+## Mott & Chace — 20 Atlantic Avenue, Westport
+
+- ID: MA-16011
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: This stunning contemporary vacation rental is located in Westport Harbor and offers direct ocean access.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7186/
+
+## Mott & Chace — 200 Atlantic Avenue, Westport
+
+- ID: MA-16012
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: 4-bedroom, 2-bath summer rental at 200 Atlantic Avenue, Westport; sleeps 8.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7178/
+
+## Mott & Chace — 23 Deacon Road, Westport
+
+- ID: MA-16013
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Amazing Beach Cottage just Steps to the Ocean! Looking for a relaxing vacation without sitting in traffic?
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7182/
+
+## Mott & Chace — 32 Cape Bial Lane, Westport
+
+- ID: MA-16014
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Darling summer cottage on Westport Point with distant views of the Westport River. House looks over a lovely meadow.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7174/
+
+## Mott & Chace — 327 Brayton Point Road, Westport
+
+- ID: MA-16015
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: 4-bedroom, 1-bath summer rental at 327 Brayton Point Road, Westport; sleeps 8.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7177/
+
+## Mott & Chace — 78 Howland Road, Westport
+
+- ID: MA-16016
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Enjoy this pastoral summer rental in Westport's Acoaxet neighborhood.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7167/
+
+## Mott & Chace — 830 River Road, Westport
+
+- ID: MA-16017
+- Town / area (approximate map location): Westport, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: 6-bedroom summer rental at 830 River Road, Westport; sleeps 12.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: Unknown
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets
+- Website (book here, directly with the host): https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7163/
 
 ## Mount Snow Yurt
 
@@ -35395,6 +37692,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Property page lists "Pets Allowed".
 - Website (book here, directly with the host): https://www.nausetrental.com/rentals/new-2026-spectacular-cape-cod-retreat-under-10-minutes-from-mayflower-beach
 
+## Nautical Boat House + Dog-Friendly
+
+- ID: MA-14011
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This tiny home-style boat house that is located around the corner from several restaurants, coffee shops and shops.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists the home as pet/dog-friendly.
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/adorable-boat-house-with-covered-deck-courtyard
+
 ## Nautical Point
 
 - ID: ME-0395
@@ -37467,7 +39781,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-4120
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: House
 - Description: 3-bedroom, 2-bath Plymouth home sleeping 6, with water views, a deck and a grill.
 - Rooms: Unknown
@@ -37484,7 +39798,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-4117
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: House
 - Description: 4-bedroom, 4-bath Plymouth home sleeping 8, with private beach access, a pool and a hot tub.
 - Rooms: Unknown
@@ -39674,7 +41988,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-4247
 - Town / area (approximate map location): Wareham, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: House
 - Description: 2-bedroom, 2-bath Wareham home sleeping 6.
 - Rooms: Unknown
@@ -40413,6 +42727,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Property page states no pets.
 - Website (book here, directly with the host): https://newenglandvacationrentals.com/Zephyr-ESN-SMR12-New-England-Vacation-Rentals/
 
+## Newburyport Urban Loft
+
+- ID: MA-14098
+- Town / area (approximate map location): Newburyport, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Downtown Newburyport Vacation Rental Steps From State Street. 3BR Loft Townhouse With Patio, Parking, WiFi, Chef’s Kitchen, And Walkable Waterfront.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/newburyporturbanloft
+
 ## Newfound Lake & Ski House
 
 - ID: NH-0072
@@ -40462,6 +42792,39 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/niblet-cottage/
+
+## Niles Beach
+
+- ID: MA-14070
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This newly renovated East Gloucester home is set just a 3-minute walk from Niles Beach, offering a comfortable coastal stay between Rocky Neck and…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/667980491a7c6f0053df5745
+
+## Niles Beach House
+
+- ID: MA-14138
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Take in the amazing view of Gloucester Harbor and the Boston skyline from this modern, fully air-conditioned vacation rental.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Niles_Beach_House-296-15
 
 ## North Camps
 
@@ -40650,6 +43013,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/494624
 
+## Ocean Bay Nantasket — One-Bedroom Vacation Rental
+
+- ID: MA-17025
+- Town / area (approximate map location): Hull, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Apartment
+- Description: One-bedroom, one-bath unit on Nantasket Beach in Hull with ocean and bay views and a large wraparound balcony; sleeps 4.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.oceanbaynantasket.com/short-term-rental/
+
 ## Ocean Dunes Condominiums / Garnsey Rentals
 
 - ID: ME-0222
@@ -40670,7 +43049,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0284
 - Town / area (approximate map location): Mattapoisett, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Mattapoisett home with two bedrooms, a full kitchen, covered deck and brick courtyard near the beach.
 - Rooms: Unknown
@@ -40738,6 +43117,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy:
 - Website (book here, directly with the host): https://www.ocean-view-cottages.com/
 
+## Oceanfront Penthouse · Kings Beach · Breathtaking Views
+
+- ID: MA-14008
+- Town / area (approximate map location): Swampscott, MA
+- Tourist destination: North Shore
+- Type: Apartment
+- Description: The penthouse occupies the entire top floor — an airy, light-filled open plan with direct ocean views.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://littlenahantroad.com/property/oceanfront-penthouse-%c2%b7-kings-beach-%c2%b7-breathtaking-views/
+
 ## Oceansedge
 
 - ID: ME-0129
@@ -40755,11 +43150,28 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — marketed as family stay
 - Website (book here, directly with the host): https://oceansedgemaine.com
 
+## OceanSong Plum Island Beach House
+
+- ID: MA-14020
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island beach house on a quiet lane with direct beach access, three decks and views of both the ocean and the marsh.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Home page: no smoking and no pets.
+- Website (book here, directly with the host): http://plumislandrealty.com/
+
 ## Oceanview Getaway Near Nantasket Beach
 
 - ID: MA-0257
 - Town / area (approximate map location): Hull, MA
-- Tourist destination: South Shore
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Hull coastal house with four bedrooms, ocean views, a private dock, fireplace and updated kitchen.
 - Rooms: Unknown
@@ -40794,7 +43206,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0277
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: West Island home with ocean views, two bedrooms, a backyard grill and deck near the beach.
 - Rooms: Unknown
@@ -40875,6 +43287,72 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://ogunquitrentalproperties.com
 
+## Old Deerfield Treasure
+
+- ID: MA-18003
+- Town / area (approximate map location): Deerfield, MA
+- Tourist destination: Pioneer Valley
+- Type: House
+- Description: Colonial cape reproduction with antique furnishings, 2 bedrooms and 1 bath, sleeping 6, within walking distance of Historic Deerfield.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Overview page: pets not allowed.
+- Website (book here, directly with the host): https://olddeerfieldtreasure.com/
+
+## Old Garden Beach
+
+- ID: MA-14073
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Step inside this newly built, architect-designed home and you will immediately feel the difference.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/690bfe9228e766001365321c
+
+## Old Town Antique + Ocean Peeks
+
+- ID: MA-14018
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: A 300 year old antique home with peeks of the ocean from the second and third floors!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists the home as pet/dog-friendly.
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/the-seaside-saltbox-old-town-mhd-ocean-views-1
+
+## Old Town+Shops+Restaurants+Crocker Park
+
+- ID: MA-14015
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Stay in this quaint Old Town cottage with shiplap walls, hardwood floors, and vaulted second-floor ceilings.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/old-town-cottage-next-to-crocker-park-parking
+
 ## On Par for the Beach
 
 - ID: ME-0391
@@ -40891,6 +43369,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/on-par-for-the-beach/
+
+## One Block From Harbor + Exposed Beams + Garage
+
+- ID: MA-14013
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Stay steps from Marblehead Harbor in this renovated antique home featuring exposed beams, skylights, a spiral staircase and a unique layout.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/historic-home-with-exposed-beams-old-town-charm
 
 ## Open-Concept 5BR Condo | Jamaica Plain & T Walk
 
@@ -40977,6 +43471,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=175429
 
+## Over By Good Harbor
+
+- ID: MA-14139
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Just up the street from Good Harbor Beach, this well-appointed and perfectly located vacation rental is the ideal home base for your Gloucester…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Over_By_Good_Harbor-40-15
+
 ## Overlook Motel & Lakeside Cottages
 
 - ID: ME-0033
@@ -41026,6 +43537,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Booking request form has Children and Infants fields.
 - Website (book here, directly with the host): https://oysterpondchatham.com/
+
+## Painter's Perch
+
+- ID: MA-14140
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Sitting high above Rocky Neck, Painter’s Perch offers stunning views of the Neck and picturesque Smith Cove.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Pet-Friendly Vacation Rentals.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Painters_Perch-307-15
 
 ## PARADISE POINT LIMIT 10
 
@@ -41165,6 +43693,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=355
 
+## Perrywinkle
+
+- ID: MA-14141
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Waterfront on Gloucester’s Rocky Neck. Swim from your private beach or from your tidal dock and enjoy the waters of scenic Gloucester Harbor.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Perrywinkle-41-15
+
+## Pet Friendly Rental Near Beach
+
+- ID: MA-14090
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Salisbury Beach Vacation Home 1 Block From The Ocean. Pet Friendly 4BR Property With Balconies, Fire Pit, Lawn Games, And Parking.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/salisburysurfsolpetfriendlysleeps12pp
+
 ## PHOEBE LIMIT 3
 
 - ID: ME-0586
@@ -41181,6 +43743,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=702
+
+## Pigeon Hill
+
+- ID: MA-14142
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Steeped in history, this traditional two-family, early Victorian home is newly remodeled and renovated -blending original details and modern…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Pigeon_Hill-42-15
 
 ## Pine Acres Family Camping Resort
 
@@ -41306,7 +43885,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0006
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: Cabin
 - Description: Lakeside Plymouth campground with cabins,tiny houses and yurts.
 - Rooms: Unknown
@@ -41388,6 +43967,91 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Farm day visits for scouts/schools do not establish overnight child admission; policy Unknown.
 - Pet policy: No overnight pet policy published.
 - Website (book here, directly with the host): https://plainviewfarmalpacas.com/
+
+## Pleasant House in Rockport
+
+- ID: MA-14143
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This gorgeous in-town Victorian vacation rental home offers the best of all worlds, blending old-world charm with a fun, eclectic LA/Hollywood theme…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Pleasant_House_in_Rockport-44-15
+
+## Plum Central Unit A, 5 Northern Unit A
+
+- ID: MA-14031
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Location is everything and if you love the beach, this little cottage is for you! Don't judge a book by it's cover!
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: With a bright, comfortable and newly furnished interior, and space for up to six guests and one dog, you will be in vacation mode as soon as you step inside.
+- Website (book here, directly with the host): https://plumislandproperties.com/plum-central-unit-a-5-northern-unit-a/
+
+## Plum Central Unit B, 5 Northern Unit B
+
+- ID: MA-14032
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Location is everything and if you love the beach, this little cottage is for you and directly across the street from the beach!
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: With a bright, comfortable and newly furnished interior, and space for up to six guests and one dog, you will be in vacation mode as soon as you step inside.
+- Website (book here, directly with the host): https://plumislandproperties.com/plum-central-unit-b-5-northern-unit-b/
+
+## Plum Central Unit C, 5 Northern Unit C
+
+- ID: MA-14033
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Location is everything and if you love the beach, this little cottage is for you! Don't judge a book by it's cover!
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: With a bright, comfortable and newly furnished interior, and space for up to six guests and one dog, you will be in vacation mode as soon as you step inside.
+- Website (book here, directly with the host): https://plumislandproperties.com/plum-central-unit-c-5-northern-unit-c/
+
+## Plum Island Beach Cottage Rental
+
+- ID: MA-14106
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Designed for easy summer living, Beach Plum Cottage offers space to gather, unwind, and enjoy everything Plum Island has to offer.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/beachplumcottagestepstobeachloftac
 
 ## Point of Views Cottage/Jefferson
 
@@ -46845,6 +49509,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — age-based children rates
 - Website (book here, directly with the host): https://rideouts.com
 
+## River Watch
+
+- ID: MA-14144
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Experience river life at its best along the banks of Mill River when you stay at this spectacular waterfront rental home with exquisite water views…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/River_Watch-47-15
+
 ## Riverfront Log Home on 44 Acres with Sauna
 
 - ID: MA-0259
@@ -46881,6 +49562,56 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/322529
 
+## Riverside Getaway
+
+- ID: MA-14079
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Welcome to the Riverside Getaway, a peaceful and fully furnished bottom floor unit that was just recently renovated.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/riversidegetawaynewlyrenovatedwasherdryer
+
+## Riverside Retreat Near Beach
+
+- ID: MA-14096
+- Town / area (approximate map location): Newbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Plum Island Cottage Rental Near The Beach. Renovated Single-Level Home With Deck, Yard, Outdoor Shower, WiFi, And Easy Access To Basin, Beach, And…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property description states no pets.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/riversideretreat
+
+## Robbin's Nest
+
+- ID: MA-14145
+- Town / area (approximate map location): Essex, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Few places on the North Shore stop you in your tracks quite like this.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Robbins_Nest-326-15
+
 ## Robert Frost Mountain Cabins
 
 - ID: VT-0053
@@ -46897,6 +49628,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Conditional; check unit policy
 - Pet policy: Official cabin list identifies Serene Outlook, Owl's Branch and Hemlock Hideaway as pet-friendly. Confirm current unit rules and fees.
 - Website (book here, directly with the host): https://www.robertfrostmountaincabins.com/
+
+## Robert Paul Vacation Rentals — 3 Main Street, Marion
+
+- ID: MA-16010
+- Town / area (approximate map location): Marion, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Renovated antique in Marion village steps from the Beverly Yacht Club and Sippican Harbor, close to Silver Shell beach; 4 bedrooms, 3.5 baths.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 8.
+- Price: $5,500 week (Aug 7 - 14 listing)
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Pet policy: Pets considered
+- Website (book here, directly with the host): https://www.robertpaul.com/real-estate/3-main-street-marion-ma-02738/3main/24018532
 
 ## Robert Paul Vacations
 
@@ -46966,6 +49714,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://rocklandtalbothouse.com
 
+## Rockport House
+
+- ID: MA-14002
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Come escape to Rockport House, located in Gloucester MA, home of America’s historic fishing town and the best of New England beaches!
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: Pets not allowed.
+- Website (book here, directly with the host): https://www.rockport-house.com/
+
 ## Rockwood Cottages
 
 - ID: ME-0093
@@ -47001,6 +49766,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=326
 
+## Rocky Neck
+
+- ID: MA-14060
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Perched directly on the water in Gloucester’s iconic Rocky Neck neighborhood, this rare waterfront retreat offers panoramic ocean views, a private…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/67a1355216416a00122e976f
+
 ## RONKOMA LIMIT 10
 
 - ID: ME-0514
@@ -47035,6 +49816,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: All houses child-equipped with crib/highchair/stroller,games.
 - Pet policy: Dog-friendly; detailed fees/restrictions not reviewed.
 - Website (book here, directly with the host): https://www.ruffhousenh.com/
+
+## Ryal Side Hideaway Cove
+
+- ID: MA-14146
+- Town / area (approximate map location): Beverly, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Ryal Side Hideaway Cove is a sunny and inviting vacation rental home nestled in the quiet residential neighborhood of Beverly’s Ryal Side.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Ryal_Side_Hideaway_Cove-50-15
 
 ## Ryan Estate Rentals
 
@@ -47108,6 +49906,89 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: OwnHomeRules saysNopets.
 - Website (book here, directly with the host): https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621
 
+## Salisbury Sleeps 11
+
+- ID: MA-14087
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Welcome to The Coastal Grand Koz. a 4-bed, 3.5 bath, new build luxury condo located in the heart of Salisbury beach.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 11.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/coastalgrandkozstepstobeachoceanview
+
+## Salisbury Sleeps 6
+
+- ID: MA-14105
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Experience coastal bliss at Rooftop Tide, a charming 2-bedroom condo in Salisbury Beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/oceanhideaway
+
+## Salisbury Sleeps 6
+
+- ID: MA-14108
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Salisbury Surf is a 2 bedroom, 1 bath, ~850 sqft, pet-friendly, ground-level apartment located 1 block from the beach, and 3 blocks to the…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/salisburysurfgowiththeflowpetfriendly
+
+## Salisbury Sleeps 8
+
+- ID: MA-14083
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Beachfront Bliss is a 3 bedroom condo offering comfortable beach front living in Salisbury MA.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property description states no pets.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/beachfrontbliss
+
+## Salisbury Sol | Pet Friendly | Private Balconies
+
+- ID: MA-14085
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Pet Friendly Salisbury Beach Vacation Rental 1 Block From The Beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property description states pet-friendly.
+- Website (book here, directly with the host): https://seacoast2summit.com/property/salisburysolherecomesthesunpetfriendly
+
 ## Sally Mountain Cabins
 
 - ID: ME-0054
@@ -47172,6 +50053,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://saltairmaine.com
 
+## Salt Island Views
+
+- ID: MA-14147
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Good Harbor Beach, one of Gloucester's finest stretches of sand, is just a five minute walk from this comfortable ocean-view vacation rental home.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Salt_Island_Views-52-15
+
 ## Salt Life #1
 
 - ID: ME-0411
@@ -47205,6 +50103,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/salt-life-2/
+
+## Salt Marsh Cottage
+
+- ID: MA-14148
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Salt Marsh is a large and comfortable vacation home with lush views that stretch across Farm Creek Marsh.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Salt_Marsh_Cottage-293-15
 
 ## Salt Spray/New Harbor
 
@@ -47903,7 +50818,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-4491
 - Town / area (approximate map location): Wareham, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: House
 - Description: 6-bedroom, 3.5-bath Wareham home sleeping 20, with private beach access, water views and a grill.
 - Rooms: Unknown
@@ -47920,7 +50835,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-4493
 - Town / area (approximate map location): Wareham, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: 2-bedroom, 1-bath Wareham cottage sleeping 7, with private beach access, water views and an outdoor shower.
 - Rooms: Unknown
@@ -48022,7 +50937,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-4492
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: House
 - Description: 6-bedroom, 3-bath Plymouth home sleeping 12, with private beach access, a hot tub and water views.
 - Rooms: Unknown
@@ -49161,7 +52076,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0251
 - Town / area (approximate map location): Scituate, MA
-- Tourist destination: South Shore
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Scituate house with three bedrooms, a full kitchen, deck and outdoor shower within walking distance of the beach.
 - Rooms: Unknown
@@ -49246,6 +52161,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes (well-behaved; $25/pet)
 - Website (book here, directly with the host): https://seaescapecottages.com
 
+## Sea For Miles
+
+- ID: MA-14149
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Escape to Lanesville and enjoy breathtaking ocean views from this charming 3-bedroom, 2-bathroom house.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Sea_For_Miles-280-15
+
 ## Sea Lion Motel & Cottages
 
 - ID: MA-0203
@@ -49301,7 +52233,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0285
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: House
 - Description: Fairhaven vacation cottage operator lead; browser access failed and current accommodation remains unverified.
 - Rooms: Unknown
@@ -49361,6 +52293,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=191935
+
+## Seacroft
+
+- ID: MA-14150
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This updated and well-cared for Victorian home, featuring 7 bedrooms to accommodate larger groups, sits high on two private acres at the end of a…
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 16.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Seacroft-53-15
 
 ## Seaglass Village
 
@@ -49481,6 +52430,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes (family cottages)
 - Website (book here, directly with the host): https://seasidemaine.com
+
+## Seaside House
+
+- ID: MA-14151
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Location, location, location! This vacation home is large and comfortable and is just steps to the white sands and surf of Good Harbor Beach.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Seaside_House-55-15
 
 ## Seaside Summer Rentals (Thacher Realty) — 116 Shore Drive
 
@@ -49925,6 +52891,70 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://seguinmaine.com
 
+## Serendipity Beach Retreat - Entire House
+
+- ID: MA-14092
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Luxury Salisbury Beach Vacation Rental Steps From The Ocean. Spacious Home With Rooftop Decks, Fire Pit, And Outdoor Lounge Area.
+- Rooms: Unknown
+- Bedrooms: 10
+- Bathrooms: 6
+- Sleeps: Property page lists sleeps 25.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/serendipitybeachretreatentirehouse
+
+## Serendipity Beach Retreat - Namaste Unit
+
+- ID: MA-14078
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: New Hampshire Beach Rentals Vacation Rental, Just Steps from Salisbury Beach. Secure Your Dates Now.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 9.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/serendipitybeachretreatnamasteunit
+
+## Serendipity Beach Retreat - Nautical Retreat
+
+- ID: MA-14104
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Salisbury MA Beach Condo With Water Views. Comfortable 2BR Stay With WiFi, Kitchen, And Parking Near Salisbury Beach And Newburyport.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/serendipitybeachretreatnauticalretreat
+
+## Serendipity Beach Retreat - Penthouse & Yoga
+
+- ID: MA-14084
+- Town / area (approximate map location): Salisbury, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Salisbury Beach Penthouse Steps From The Sand. Spacious 4BR Retreat With Ocean Views, Deck, And Easy Access To Hampton Beach And Newburyport.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://seacoast2summit.com/property/serendipitybeachretreatpenthouseandyoga
+
 ## Serene Country Cabins
 
 - ID: VT-0015
@@ -50180,11 +53210,27 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://simple.fyi/
 
+## Single Level Old Town Apt Across from Lee Mansion
+
+- ID: MA-14012
+- Town / area (approximate map location): Marblehead, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: First Floor Single-level Condo; Outdoor Patio Sitting Area; Across the Street from the Jeremiah Lee Mansion.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 3.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://marbleheadvacationrentals.com/property/little-red-retreat-in-old-town-xmas-walk-central
+
 ## SISU a boutique motel
 
 - ID: MA-0014
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Small Plymouth motel with private-entry cottage rooms, patios and group buyouts.
 - Rooms: Unknown
@@ -50215,6 +53261,39 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
 - Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
 - Website (book here, directly with the host): https://stayheirloom.com/listing/670ebb96c55e5e0012a5448c
+
+## Slice of Heaven
+
+- ID: MA-14152
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: Welcome to this modern two-story condo located in the desirable Bass Rocks neighborhood, it boasts beautiful views of the golf course while being…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Slice_of_Heaven-314-15
+
+## Smith Cove
+
+- ID: MA-14065
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Perched above the harbor in Gloucester’s iconic Rocky Neck neighborhood, this rare waterfront retreat offers soaring ceilings, expansive windows…
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/68517adfe37e420021fc233b
 
 ## Snowball Hill Cottage
 
@@ -50342,7 +53421,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0252
 - Town / area (approximate map location): Mattapoisett, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Mattapoisett home near Crescent Beach with three bedrooms, a large deck, outdoor shower and fire pit.
 - Rooms: Unknown
@@ -50371,6 +53450,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.squabetty.com/
+
+## Squam Light
+
+- ID: MA-14153
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Located in the heart of the quaint and charming village of Annisquam, this newly renovated Gloucester cottage offers the perfect vacation spot.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 9.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Squam_Light-58-15
 
 ## Stafford Cottage/Damariscotta Lake
 
@@ -50436,6 +53532,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://stayhygge.com
+
+## Stay in Central Gloucester
+
+- ID: MA-14074
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Historic character meets fresh, modern comfort in this beautifully restored Gloucester Victorian.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 11.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a79f91a320f1200145873de
 
 ## Steamboat Wharf Cabins
 
@@ -50553,11 +53665,27 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://stowecountryhomes.com/
 
+## Straitsmouth Cove
+
+- ID: MA-14154
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Straitsmouth Cove is a classic seaside “cottage” in a sublime location on Rockport’s Gap Cove.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 9.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Straitsmouth_Cove-59-15
+
 ## Strawberry Moon – West Island
 
 - ID: MA-0283
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: West Island home with two bedrooms, a gourmet kitchen, landscaped yard and covered deck near beaches.
 - Rooms: Unknown
@@ -50575,7 +53703,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0421
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: House
 - Description: Five-bedroom Plymouth vacation house with a large yard, deck and kitchen, a short walk from the beach.
 - Rooms: Unknown
@@ -50642,6 +53770,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Official cottage page says inn not suitable for children under14
 - Website (book here, directly with the host): https://sugarhillinn.com/
 
+## Summer Stuga
+
+- ID: MA-14155
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Nestled among the trees on an expansive wooded property in Rockport, Summer Stuga is your private escape, just steps from the beach and minutes from…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Summer_Stuga-327-15
+
 ## SUNNY BREAK- LIMIT 4
 
 - ID: ME-0553
@@ -50658,6 +53803,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=430
+
+## Sunrise on the Cove
+
+- ID: MA-14156
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: From its waterfront perch, this vacation rental home overlooks Rockport's picturesque Pigeon Cove harbor and has spectacular, unobstructed views of…
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Sunrise_on_the_Cove-60-15
 
 ## Sunset Cabins
 
@@ -50676,6 +53838,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family cabins
 - Pet policy: No
 - Website (book here, directly with the host): https://sunsetcabinsmaine.com
+
+## Sunset Cove
+
+- ID: MA-14157
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Waterfront on the Annisquam River in Gloucester, this exceptional vacation rental boasts wonderful views of the river and of Ipswich Bay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Sunset_Cove-61-15
 
 ## SUNSET HAVEN LIMIT 8
 
@@ -50744,6 +53923,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/beachy-keen/
+
+## Sur la Mer
+
+- ID: MA-14158
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Welcome to a truly enchanting getaway – Sur la Mer is a beautiful 5-bedroom Victorian house in Rockport with timeless architecture and abundant…
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Sur_la_Mer-288-15
 
 ## Surf Side Cottages
 
@@ -50899,6 +54095,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://teelcovecottagemaine.com
 
+## Terra Nova Cottage
+
+- ID: MA-14159
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Greet each day with inspiring views of the Annisquam River from this charming vacation home and enjoy the most spectacular sunsets each evening.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Terra_Nova_Cottage-62-15
+
 ## The 1827 House
 
 - ID: VT-0062
@@ -50947,6 +54160,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://book.birchrentals.com/listings/205268
+
+## The Beach Hive, West Island
+
+- ID: MA-16006
+- Town / area (approximate map location): Fairhaven, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Renovated oceanfront 3-bedroom, 2-bath beach house on West Island sleeping 10, with fenced yard, beach access, fire pit and ocean-facing deck.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 10.
+- Price: Sat-to-Sat weekly summer rentals; 3-4 day stays off season
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.beachhivema.com/
 
 ## The Bellemark
 
@@ -51040,7 +54269,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0207
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Themed beach bungalows and a main house near White Horse Beach, with kitchens and a shared fire pit.
 - Rooms: Unknown
@@ -51053,6 +54282,125 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Operator-wide policy not established; Sintra explicitly welcomes children.
 - Pet policy: Operator-wide policy not established; Sintra dogs with prior approval and fee.
 - Website (book here, directly with the host): https://thecalicoseahorse.com/
+
+## The Calico Seahorse — Mayflower Bungalow
+
+- ID: MA-17002
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Unknown
+- Description: Nautical-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with fire pit and grill.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill
+
+## The Calico Seahorse — Moana Bungalow
+
+- ID: MA-17006
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Unknown
+- Description: Moana-themed two-bedroom bungalow at The Calico Seahorse that sleeps 7, a 5-minute walk to White Horse Beach, with a full kitchen.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana
+
+## The Calico Seahorse — Oahu Bungalow
+
+- ID: MA-17005
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Unknown
+- Description: Hawaiian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, near White Horse Beach, with outdoor shower and gas grill.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill
+
+## The Calico Seahorse — Santorini Bungalow
+
+- ID: MA-17004
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Unknown
+- Description: Two-bedroom themed bungalow with a private yard at The Calico Seahorse that sleeps 7, near White Horse Beach, with fire pit and outdoor shower.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr
+
+## The Calico Seahorse — SeaGlass Bungalow
+
+- ID: MA-17000
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Unknown
+- Description: Four-bedroom bungalow at The Calico Seahorse near White Horse Beach that sleeps 12, with patio, gas grill, outdoor shower and central air.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets
+
+## The Calico Seahorse — Sintra Bungalow
+
+- ID: MA-17001
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Unknown
+- Description: Bungalow for two at The Calico Seahorse, a 5-minute walk to White Horse Beach, with kitchen, private outdoor shower and gas grill.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 2.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower
+
+## The Calico Seahorse — Tahiti Bungalow
+
+- ID: MA-17003
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Unknown
+- Description: Polynesian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with outdoor shower.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill
 
 ## The Cape Cod Cottage (1985 Massasoit Road)
 
@@ -51301,7 +54649,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-1306
 - Town / area (approximate map location): Marshfield, MA
-- Tourist destination: South Shore
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Renovated three-bedroom Marshfield home with South River marsh views, a sunroom, deck and outdoor shower, near Rexhame Beach.
 - Rooms: Unknown
@@ -51337,7 +54685,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0278
 - Town / area (approximate map location): Fairhaven, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Fairhaven waterfront home with three bedrooms, a full kitchen, backyard and panoramic ocean views.
 - Rooms: Unknown
@@ -51368,6 +54716,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Porches FAQ offers Pack ’n Plays on advance request, but Annex-specific occupancy/infant permission not established on its two-person room pages. Retained Unknown for Annex.
 - Pet policy: Porches-wide FAQ permits pets only in Building 2 designated rooms for $40/pet/night, with leash/crate rules; other lodging buildings prohibited. Annex page does not establish its rooms are eligible; confirm Annex-specific booking before admission claim.
 - Website (book here, directly with the host): https://porches.com/stay/freshgrass-annex/
+
+## The Gallery
+
+- ID: MA-14160
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Welcome to The Gallery, a stunning waterfront multi-level property on Rocky Neck, America's oldest art colony.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/The_Gallery-308-15
 
 ## The Gathering Place/Jefferson
 
@@ -51434,6 +54799,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=606
+
+## the Harbor
+
+- ID: MA-14063
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Set directly on Gloucester Harbor at the edge of Rocky Neck, this classic waterfront home gives you a front-row seat to one of New England’s most…
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 14.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6ab8149422b3be001060c44e
 
 ## The Hidden Cove
 
@@ -51634,6 +55015,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://the-maine-house-on-dingley.hosted.ownerrez.com
 
+## the Marina
+
+- ID: MA-14077
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Experience Gloucester’s waterfront from a private unit located within a small private marina in the heart of Rocky Neck.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a5901c72c67be0014f88484
+
 ## The Masthead Resort & Cottages
 
 - ID: MA-1843
@@ -51654,7 +55051,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0405
 - Town / area (approximate map location): Wareham / Onset, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: House
 - Description: Waterfront Onset vacation house for eight with two bedrooms, a sea deck and shared access to a hot tub, beach and kayaks.
 - Rooms: Unknown
@@ -51667,6 +55064,54 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Children welcome on own-unit policies.
 - Pet policy: Only pre-approved dogs up to40lb; leash required. Other animals not permitted.
 - Website (book here, directly with the host): https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge
+
+## The Millie Group — Arnold's
+
+- ID: MA-16009
+- Town / area (approximate map location): New Bedford, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Renovated 950 sq ft second-floor apartment with 2 bedrooms, 1 bath, open kitchen, off-street parking and a large back yard; sleeps 4.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.millie-group.com/arnold-s
+
+## The Millie Group — Henry's on William
+
+- ID: MA-16008
+- Town / area (approximate map location): New Bedford, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Four-bedroom, 2,500 sq ft second-floor residence with soaring ceilings, exposed brick, gas fireplace and open-concept kitchen; sleeps 8.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.millie-group.com/henry-s
+
+## The Millie Group — Millie's Penthouse
+
+- ID: MA-16007
+- Town / area (approximate map location): New Bedford, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: Apartment
+- Description: Two-level, 2,500 sq ft 2-bedroom, 2-bath penthouse in the 1836 Taber Building with stone walls, exposed beams and a private roof deck.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.millie-group.com/millie-s
 
 ## The Mountain House
 
@@ -51704,6 +55149,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Select rooms and cottages accept dogs.
 - Website (book here, directly with the host): https://naswa.com/
 
+## The Neck
+
+- ID: MA-14067
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Perched above Smith Cove in Gloucester’s beloved Rocky Neck neighborhood, this distinctive coastal home offers panoramic harbor views, generous…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/686c38be681e57001084f81d
+
 ## The Nest
 
 - ID: ME-0166
@@ -51720,6 +55181,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes — responsible renters cover resulting carpet cleaning
 - Website (book here, directly with the host): https://thenestmaine.com/
+
+## The Nest at Pigeon Cove
+
+- ID: MA-14001
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: An oasis between Rockport’s beaches, Bearskin Neck, and Halibut Point, The Nest at Pigeon Cove is your home base for exploring Cape Ann, Salem, and…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: Pets not allowed.
+- Website (book here, directly with the host): https://the-nest-at-pigeon-cove.hosted.ownerrez.com/
 
 ## The Old Mill Inn
 
@@ -51912,6 +55390,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets not permitted; ADA service animals welcome.
 - Website (book here, directly with the host): https://therockporthouse.com/
 
+## The Rockporter
+
+- ID: MA-14161
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Welcome to The Rockporter, a beautifully renovated waterfront retreat in the heart of Rockport’s historic Pigeon Cove.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/The_Rockporter-64-15
+
 ## The Sailor's Retreat
 
 - ID: MA-1304
@@ -51934,7 +55429,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0273
 - Town / area (approximate map location): Marion, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: House
 - Description: Marion cottage with two bedrooms, a kitchen and private beach access on Buzzards Bay.
 - Rooms: Unknown
@@ -51979,6 +55474,39 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Prior owner approval; $50/week; pets must be quiet/clean, furniture protected and damage paid by guest.
 - Website (book here, directly with the host): https://theseawardrockport.com/
 
+## The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River
+
+- ID: MA-18001
+- Town / area (approximate map location): Charlemont, MA
+- Tourist destination: Pioneer Valley
+- Type: House
+- Description: Renovated 5-bedroom Charlemont home for up to 12, under 3 miles from Berkshire East, with large back deck, fire pit, grill and shuffleboard.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.theshirehomes.com/property/shirebasecamp413
+
+## The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254)
+
+- ID: MA-18002
+- Town / area (approximate map location): Colrain, MA
+- Tourist destination: Pioneer Valley
+- Type: House
+- Description: Historic 5-bedroom former mill-worker home 5 minutes from Shelburne Falls, with hot tub, game room and an accessible main-floor suite.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 11.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: pet free home.
+- Website (book here, directly with the host): https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat
+
 ## THE SHOPPE LIMIT 3
 
 - ID: ME-0526
@@ -51995,6 +55523,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=313
+
+## The Sound House
+
+- ID: MA-14005
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: Unknown
+- Description: The Sound house is the cutest cottage we have available.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: "All of our cottages are pet friendly".
+- Website (book here, directly with the host): https://www.rockportcottages.com/the-cottages-2/the-sound-house
 
 ## The Tamaracks
 
@@ -52136,6 +55681,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.thevermonttreehouse.com/
+
+## The View
+
+- ID: MA-14162
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: The View is a quintessential one-story New England cottage with stunning views of Pigeon Cove.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/The_View-65-15
 
 ## The Viridian — Apartment ID 1721
 
@@ -53072,7 +56634,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0008
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Waterfront Plymouth condo suites and penthouses with full kitchens and separate living areas.
 - Rooms: Unknown
@@ -53085,6 +56647,91 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Pack-n-plays available on request; homepage explicitly welcomes families.
 - Pet policy: Pets considered subject to confirmation; maximum 30 pounds; $200 per pet per stay.
 - Website (book here, directly with the host): https://www.thomasseasuites.com/
+
+## Thomas Sea Suites — Kingston Residences
+
+- ID: MA-17020
+- Town / area (approximate map location): Kingston, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Apartment
+- Description: Two apartments in Kingston, a 2-bedroom and a 3-bedroom, each with full kitchen, in-unit laundry and private entrance.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.thomasseasuites.com/homes/maple.html
+
+## Thomas Sea Suites — Lakefront Oasis (White Island Pond)
+
+- ID: MA-17018
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: House
+- Description: Renovated three-bedroom West Plymouth home across from White Island Pond, with private beach access and complimentary kayaks; sleeps 8.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.thomasseasuites.com/homes/sandybeach.html
+
+## Thomas Sea Suites — The Estate (South Plymouth)
+
+- ID: MA-17017
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: House
+- Description: Five-bedroom, 4.5-bath South Plymouth estate of 4,000 sq ft with a heated saltwater pool; sleeps 12.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4.5
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.thomasseasuites.com/homes/book1636.html
+
+## Thomas Sea Suites — Warren House Suites
+
+- ID: MA-17021
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: Apartment
+- Description: Small building of self-contained one- and two-bedroom suites on Warren Avenue, Plymouth, each with private entrance and full kitchen.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.thomasseasuites.com/homes/warrenhouse.html
+
+## Thomas Sea Suites — Wildwood Beach House (Cedarville)
+
+- ID: MA-17019
+- Town / area (approximate map location): Plymouth, MA
+- Tourist destination: Plymouth & South Shore
+- Type: House
+- Description: Three-bedroom, 2.5-bath Cedarville house a short walk from Sagamore Beach; a one-bedroom apartment below can be rented with it.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.thomasseasuites.com/homes/wildwood.html
 
 ## Thompson House & Cottages
 
@@ -53121,6 +56768,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — pets stay free
 - Website (book here, directly with the host): https://3birdscottages.com
 
+## Thurston Point Cottage
+
+- ID: MA-14163
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Get away from it all and unwind at this comfortable riverfront vacation retreat.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Thurston_Point_Cottage-66-15
+
 ## Tide & Timber
 
 - ID: ME-0410
@@ -53155,6 +56819,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — children welcome but no extra beds/cots; 2 guests maximum
 - Pet policy: Yes — well-behaved dogs $20/night per dog
 - Website (book here, directly with the host): https://tidewatchcabins.com
+
+## Tidebend
+
+- ID: MA-14164
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Welcome to Tidebend, your next Gloucester escape! This stunning 6-bedroom, 2.5-bath home overlooks the picturesque Annisquam River and offers a…
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs Allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Tidebend-311-15
 
 ## Timbercrest Mansions
 
@@ -53663,6 +57344,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing
 
+## Turner Fairhaven Beach House
+
+- ID: MA-16005
+- Town / area (approximate map location): Fairhaven, MA
+- Tourist destination: South Coast & Buzzards Bay
+- Type: House
+- Description: Beachfront rental in Fairhaven, MA, located directly on the beach; 4 bedrooms, 2 bathrooms, sleeps 10.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fairhavenbeachhouserentals.booksterhq.com/
+
 ## Turner Farm Guesthouse
 
 - ID: ME-0189
@@ -53678,6 +57375,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://turnerfarm.lodgify.com
+
+## Twin Lights
+
+- ID: MA-14165
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Enjoy coastal living in the beautiful historical town of Rockport.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Twin_Lights-120-15
 
 ## Twin XL Bed|Boston|RM 1
 
@@ -53696,6 +57410,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
 - Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items. Resident dog Molly lives on site.
 - Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2271
+
+## Two Beaches Cottage
+
+- ID: MA-14166
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Ideally situated between two of Cape Ann's most beautiful beaches, this charming vacation rental home is a mere 3-minute walk to Long Beach and an…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Two_Beaches_Cottage-1-15
 
 ## UNUSUAL LATITUDE LIMIT 7
 
@@ -55298,7 +59029,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-3418
 - Town / area (approximate map location): Plymouth, MA
-- Tourist destination: Plymouth
+- Tourist destination: Plymouth & South Shore
 - Type: Unknown
 - Description: Six-bedroom, 2.5-bath Plymouth rental sleeping 14, with hot tub, A/C and washer/dryer.
 - Rooms: Unknown
@@ -56861,7 +60592,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-3348
 - Town / area (approximate map location): Mattapoisett, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Two-bedroom, 2.5-bath Mattapoisett rental sleeping 4, with washer/dryer and outdoor shower; private beach access; Saturday-to-Saturday stays.
 - Rooms: Unknown
@@ -57999,7 +61730,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-3099
 - Town / area (approximate map location): Mattapoisett, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Five-bedroom, 4.5-bath Mattapoisett rental sleeping 10, with A/C, deck and washer/dryer; public beach access; Saturday-to-Saturday stays.
 - Rooms: Unknown
@@ -58186,7 +61917,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-3367
 - Town / area (approximate map location): Onset, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Five-bedroom, 2-bath Onset rental sleeping 8, with A/C, deck and washer/dryer; public beach access; Saturday-to-Saturday stays.
 - Rooms: Unknown
@@ -59798,7 +63529,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-3408
 - Town / area (approximate map location): Onset, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Five-bedroom, 5-bath Onset rental sleeping 14, with A/C, washer/dryer and outdoor shower; public beach access; Saturday-to-Saturday stays.
 - Rooms: Unknown
@@ -60121,7 +63852,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-3239
 - Town / area (approximate map location): Mattapoisett, MA
-- Tourist destination: Buzzards Bay
+- Tourist destination: South Coast & Buzzards Bay
 - Type: Unknown
 - Description: Three-bedroom, 1-bath Mattapoisett rental sleeping 6, with A/C, deck and washer/dryer; association beach access; Saturday-to-Saturday stays.
 - Rooms: Unknown
@@ -61746,6 +65477,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family/group rentals
 - Pet policy: Varies — many units allow up to two dogs ($100/stay)
 - Website (book here, directly with the host): https://visitsundayriver.com
+
+## Vista Mare
+
+- ID: MA-14167
+- Town / area (approximate map location): Rockport, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Vista Mare (Latin for ocean view) sits high above the coastline with ocean views and sea breezes.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page: no pets.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Vista_Mare-329-15
 
 ## Walk to Pemaquid Beach by Rocky Coast Rentals
 
@@ -65533,6 +69281,55 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — children prices by age
 - Pet policy: Yes — selected cabins only; prior approval, $15/day; not Driftwood/Somerset/Penobscot
 - Website (book here, directly with the host): https://wilsonsonmooseheadlake.com
+
+## Windward Point
+
+- ID: MA-14059
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Set at the water’s edge on a quiet point in East Gloucester, this extraordinary coastal home feels almost surrounded by the sea.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a6d0e71a37391009dab9abb
+
+## Wingaerchic
+
+- ID: MA-14168
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: This very private contemporary house is perched on a shady hilltop near Gloucester's sandy Wingaersheek Beach.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page: Dogs allowed.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Wingaerchic-69-15
+
+## Wingaersheek
+
+- ID: MA-14072
+- Town / area (approximate map location): Gloucester, MA
+- Tourist destination: North Shore
+- Type: House
+- Description: Tucked away on Gloucester's coveted Wingaersheek peninsula, this three-story coastal retreat was designed to showcase the water from nearly every…
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://staycapeann.com/stays/6a2f2cc22a54770014fbe5de
 
 ## Winslow Creek
 

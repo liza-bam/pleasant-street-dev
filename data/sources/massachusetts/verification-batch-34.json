@@ -1,0 +1,459 @@
+[
+ {
+  "id": "MA-18000",
+  "name": "Blue Heron Farm — Log Cabin",
+  "website": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+  "checkedOn": "2026-10-27",
+  "evidenceStatus": "Verified independent website",
+  "recordType": "Property",
+  "type": "Cabin",
+  "city": "Charlemont",
+  "state": "MA",
+  "platformLinks": {},
+  "platformLinkEvidence": [],
+  "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "photos": [],
+  "directoryReady": true,
+  "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+  "remainingGaps": [],
+  "accessFailures": [],
+  "operator": "Blue Heron Farm",
+  "operatorClassification": "Farm vacation-rental owner with own website",
+  "classification": "Individual vacation rental on operator/owner website",
+  "eligibilityReason": "Individual property page on Blue Heron Farm own farm rental website, with Massachusetts (Pioneer Valley / Mohawk Trail) rental, direct booking/inquiry controls and contact page.",
+  "openedUrls": [
+   "https://www.blueheronfarm.com/farm-vacation-rentals/",
+   "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+   "https://www.blueheronfarm.com/farm-vacation-rentals/blue-heron-farm-lodging-rates/",
+   "https://www.blueheronfarm.com/farm-vacation-rentals/availability/",
+   "https://www.blueheronfarm.com/contact-blue-heron-farm/"
+  ],
+  "contactPagesChecked": [
+   "https://www.blueheronfarm.com/contact-blue-heron-farm/"
+  ],
+  "contactAddress": {
+   "role": "Operator business address (farm office; rentals are on the farm)",
+   "street": "8 Warner Hill Road #1",
+   "city": "Charlemont",
+   "state": "MA",
+   "zip": "01339",
+   "source": "https://www.blueheronfarm.com/contact-blue-heron-farm/",
+   "notes": "Published farm postal address."
+  },
+  "rentalAddress": {
+   "role": "Rental property address",
+   "street": "8 Warner Hill Road",
+   "city": "Charlemont",
+   "state": "MA",
+   "zip": "01339",
+   "source": "https://www.blueheronfarm.com/contact-blue-heron-farm/",
+   "notes": ""
+  },
+  "bookingMethod": "Availability calendar and booking inquiry on the farm website; deposit by check",
+  "bookingUrl": "https://www.blueheronfarm.com/farm-vacation-rentals/availability/",
+  "directContact": {
+   "email": "info@blueheronfarm.com",
+   "phones": [
+    "413-339-4045"
+   ],
+   "source": "https://www.blueheronfarm.com/contact-blue-heron-farm/"
+  },
+  "operatorEvidenceUrl": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+  "notes": "Pioneer Valley / Mohawk Trail batch 2026-10-27; facts from the property page.",
+  "supportedFacts": {
+   "guests": 4,
+   "bedrooms": 1,
+   "bathrooms": 1,
+   "rooms": "Unknown",
+   "kids": "Unknown",
+   "pets": "Yes",
+   "capacityDetails": "Property page lists sleeps 4.",
+   "kidsDetails": "Unknown",
+   "petsDetails": "Rates page: pets welcomed by pre-arrangement with a cleaning fee.",
+   "priceFrom": "Unknown",
+   "currency": "Unknown",
+   "priceDetails": "Unknown"
+  },
+  "factSources": {
+   "guests": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+   "bedrooms": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+   "bathrooms": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+   "pets": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/"
+  },
+  "description": "One-bedroom log cabin on a 130-acre organic farm, sleeping up to 4, with full bath, kitchen, washer/dryer and porch gas grill.",
+  "descriptionSource": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+  "photoCandidates": [
+   {
+    "url": "https://www.blueheronfarm.com/wp-content/uploads/2021/09/cabin-daylillies.jpg",
+    "sourcePage": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+    "alt": "Blue Heron Farm — Log Cabin gallery photograph",
+    "unitOrCampus": "Log Cabin property gallery"
+   },
+   {
+    "url": "https://www.blueheronfarm.com/wp-content/uploads/2021/09/cabinlivingroom_0.jpg",
+    "sourcePage": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+    "alt": "Blue Heron Farm — Log Cabin gallery photograph",
+    "unitOrCampus": "Log Cabin property gallery"
+   },
+   {
+    "url": "https://www.blueheronfarm.com/wp-content/uploads/2021/09/cabinkitchen_0.jpg",
+    "sourcePage": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+    "alt": "Blue Heron Farm — Log Cabin gallery photograph",
+    "unitOrCampus": "Log Cabin property gallery"
+   },
+   {
+    "url": "https://www.blueheronfarm.com/wp-content/uploads/2021/09/cabinbedroom_1.jpg",
+    "sourcePage": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
+    "alt": "Blue Heron Farm — Log Cabin gallery photograph",
+    "unitOrCampus": "Log Cabin property gallery"
+   }
+  ],
+  "discoveryMethod": "Shelburne Falls Alliance and Town of Charlemont business directories; farm rental pages opened",
+  "sourceUrl": "https://www.blueheronfarm.com/farm-vacation-rentals/",
+  "lat": 42.661984,
+  "lng": -72.863719,
+  "locationPrecision": "Street address",
+  "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=8+Warner+Hill+Road,+Charlemont,+MA"
+ },
+ {
+  "id": "MA-18001",
+  "name": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River",
+  "website": "https://www.theshirehomes.com/property/shirebasecamp413",
+  "checkedOn": "2026-10-27",
+  "evidenceStatus": "Verified independent website",
+  "recordType": "Property",
+  "type": "House",
+  "city": "Charlemont",
+  "state": "MA",
+  "platformLinks": {},
+  "platformLinkEvidence": [],
+  "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "photos": [],
+  "directoryReady": true,
+  "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+  "remainingGaps": [],
+  "accessFailures": [],
+  "operator": "The Shire Homes",
+  "operatorClassification": "Boutique vacation-rental company with own Hospitable direct-booking website",
+  "classification": "Individual vacation rental on operator/owner website",
+  "eligibilityReason": "Individual property page on The Shire Homes own Hospitable direct-booking website, with Massachusetts (Pioneer Valley / Mohawk Trail) rental, direct booking/inquiry controls and contact page.",
+  "openedUrls": [
+   "https://www.theshirehomes.com/",
+   "https://www.theshirehomes.com/property/shirebasecamp413"
+  ],
+  "contactPagesChecked": [
+   "https://www.theshirehomes.com/"
+  ],
+  "contactAddress": {
+   "role": "Operator business address (chamber listing; not published on operator site)",
+   "street": "767 South Shirkshire Road",
+   "city": "Conway",
+   "state": "MA",
+   "zip": "01341",
+   "source": "https://www.moretofranklincounty.com/stay/vacation-rentals",
+   "notes": "Operator site publishes only an email; business address from the Franklin County Chamber listing."
+  },
+  "rentalAddress": {
+   "role": "Rental property address",
+   "street": "Unknown",
+   "city": "Charlemont",
+   "state": "MA",
+   "zip": "Unknown",
+   "source": "Unknown",
+   "notes": ""
+  },
+  "bookingMethod": "Direct online booking with dates and quote on the property page",
+  "bookingUrl": "https://www.theshirehomes.com/property/shirebasecamp413",
+  "directContact": {
+   "email": "shirehomesolutions@gmail.com",
+   "phones": [
+    "413-522-6699"
+   ],
+   "source": "https://www.theshirehomes.com/"
+  },
+  "operatorEvidenceUrl": "https://www.theshirehomes.com/property/shirebasecamp413",
+  "notes": "Pioneer Valley / Mohawk Trail batch 2026-10-27; facts from the property page.",
+  "supportedFacts": {
+   "guests": 12,
+   "bedrooms": 5,
+   "bathrooms": 2.5,
+   "rooms": "Unknown",
+   "kids": "Unknown",
+   "pets": "Unknown",
+   "capacityDetails": "Property page lists sleeps 12.",
+   "kidsDetails": "Unknown",
+   "petsDetails": "Unknown",
+   "priceFrom": "Unknown",
+   "currency": "Unknown",
+   "priceDetails": "Unknown"
+  },
+  "factSources": {
+   "guests": "https://www.theshirehomes.com/property/shirebasecamp413",
+   "bedrooms": "https://www.theshirehomes.com/property/shirebasecamp413",
+   "bathrooms": "https://www.theshirehomes.com/property/shirebasecamp413"
+  },
+  "description": "Renovated 5-bedroom Charlemont home for up to 12, under 3 miles from Berkshire East, with large back deck, fire pit, grill and shuffleboard.",
+  "descriptionSource": "https://www.theshirehomes.com/property/shirebasecamp413",
+  "photoCandidates": [
+   {
+    "url": "https://assets.hospitable.com/property_images/2039026/ENT9iGjMcvtGsMI9Pmz8ly2An5VK76VgDWkOaEd9.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/shirebasecamp413",
+    "alt": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River gallery photograph",
+    "unitOrCampus": "5BR Berkshire Home Mins To The Mountain & River property gallery"
+   },
+   {
+    "url": "https://assets.hospitable.com/property_images/2039026/pTW5J1ooqhAyNihJRPyn6Q6CtmqYz2VA9yLbI0aO.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/shirebasecamp413",
+    "alt": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River gallery photograph",
+    "unitOrCampus": "5BR Berkshire Home Mins To The Mountain & River property gallery"
+   },
+   {
+    "url": "https://assets.hospitable.com/property_images/2039026/P2UqLlFDwUpR1aeQmSIhSIGqup2x5kiGe2PYNKdz.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/shirebasecamp413",
+    "alt": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River gallery photograph",
+    "unitOrCampus": "5BR Berkshire Home Mins To The Mountain & River property gallery"
+   },
+   {
+    "url": "https://assets.hospitable.com/property_images/2039026/bkZVNSqFIL6QfYsoo8lPeaHOd5F4M29WEK6Q3o8e.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/shirebasecamp413",
+    "alt": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River gallery photograph",
+    "unitOrCampus": "5BR Berkshire Home Mins To The Mountain & River property gallery"
+   }
+  ],
+  "discoveryMethod": "Franklin County Chamber of Commerce vacation-rental listing; operator property pages opened",
+  "sourceUrl": "https://www.theshirehomes.com/",
+  "lat": 42.627585,
+  "lng": -72.86693,
+  "locationPrecision": "Exact (operator page coordinates)",
+  "locationSource": "https://www.theshirehomes.com/property/shirebasecamp413"
+ },
+ {
+  "id": "MA-18002",
+  "name": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254)",
+  "website": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+  "checkedOn": "2026-10-27",
+  "evidenceStatus": "Verified independent website",
+  "recordType": "Property",
+  "type": "House",
+  "city": "Colrain",
+  "state": "MA",
+  "platformLinks": {},
+  "platformLinkEvidence": [],
+  "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "photos": [],
+  "directoryReady": true,
+  "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+  "remainingGaps": [],
+  "accessFailures": [],
+  "operator": "The Shire Homes",
+  "operatorClassification": "Boutique vacation-rental company with own Hospitable direct-booking website",
+  "classification": "Individual vacation rental on operator/owner website",
+  "eligibilityReason": "Individual property page on The Shire Homes own Hospitable direct-booking website, with Massachusetts (Pioneer Valley / Mohawk Trail) rental, direct booking/inquiry controls and contact page.",
+  "openedUrls": [
+   "https://www.theshirehomes.com/",
+   "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat"
+  ],
+  "contactPagesChecked": [
+   "https://www.theshirehomes.com/"
+  ],
+  "contactAddress": {
+   "role": "Operator business address (chamber listing; not published on operator site)",
+   "street": "767 South Shirkshire Road",
+   "city": "Conway",
+   "state": "MA",
+   "zip": "01341",
+   "source": "https://www.moretofranklincounty.com/stay/vacation-rentals",
+   "notes": "Operator site publishes only an email; business address from the Franklin County Chamber listing."
+  },
+  "rentalAddress": {
+   "role": "Rental property address",
+   "street": "Unknown",
+   "city": "Colrain",
+   "state": "MA",
+   "zip": "Unknown",
+   "source": "Unknown",
+   "notes": ""
+  },
+  "bookingMethod": "Direct online booking with dates and quote on the property page",
+  "bookingUrl": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+  "directContact": {
+   "email": "shirehomesolutions@gmail.com",
+   "phones": [
+    "413-522-6699"
+   ],
+   "source": "https://www.theshirehomes.com/"
+  },
+  "operatorEvidenceUrl": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+  "notes": "Pioneer Valley / Mohawk Trail batch 2026-10-27; facts from the property page.",
+  "supportedFacts": {
+   "guests": 11,
+   "bedrooms": 5,
+   "bathrooms": 2,
+   "rooms": "Unknown",
+   "kids": "Unknown",
+   "pets": "No",
+   "capacityDetails": "Property page lists sleeps 11.",
+   "kidsDetails": "Unknown",
+   "petsDetails": "Property page: pet free home.",
+   "priceFrom": "Unknown",
+   "currency": "Unknown",
+   "priceDetails": "Unknown"
+  },
+  "factSources": {
+   "guests": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+   "bedrooms": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+   "bathrooms": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+   "pets": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat"
+  },
+  "description": "Historic 5-bedroom former mill-worker home 5 minutes from Shelburne Falls, with hot tub, game room and an accessible main-floor suite.",
+  "descriptionSource": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+  "photoCandidates": [
+   {
+    "url": "https://assets.hospitable.com/property_images/925252/dbhc1j5ET04TekXqSqNuJrarlq8v5Kph3OSm3OSG.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+    "alt": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254) gallery photograph",
+    "unitOrCampus": "Spacious 5BR w/ Hot Tub & Games (Millhouse 254) property gallery"
+   },
+   {
+    "url": "https://assets.hospitable.com/property_images/925252/LaHZrukbMR8NMsbU6gih7tDBzgCz0dhrhkYyuakv.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+    "alt": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254) gallery photograph",
+    "unitOrCampus": "Spacious 5BR w/ Hot Tub & Games (Millhouse 254) property gallery"
+   },
+   {
+    "url": "https://assets.hospitable.com/property_images/925252/CfXAtSMMbJjDLtLBwfyEfJPB2SHzDLw7acA1w8zS.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+    "alt": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254) gallery photograph",
+    "unitOrCampus": "Spacious 5BR w/ Hot Tub & Games (Millhouse 254) property gallery"
+   },
+   {
+    "url": "https://assets.hospitable.com/property_images/925252/IjmQojA8Mz4zHoRsHB2Vfo9FqeoixynHNQKFma1P.jpg",
+    "sourcePage": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
+    "alt": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254) gallery photograph",
+    "unitOrCampus": "Spacious 5BR w/ Hot Tub & Games (Millhouse 254) property gallery"
+   }
+  ],
+  "discoveryMethod": "Franklin County Chamber of Commerce vacation-rental listing; operator property pages opened",
+  "sourceUrl": "https://www.theshirehomes.com/",
+  "lat": 42.654789,
+  "lng": -72.713913,
+  "locationPrecision": "Exact (operator page coordinates)",
+  "locationSource": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat"
+ },
+ {
+  "id": "MA-18003",
+  "name": "Old Deerfield Treasure",
+  "website": "https://olddeerfieldtreasure.com/",
+  "checkedOn": "2026-10-27",
+  "evidenceStatus": "Verified independent website",
+  "recordType": "Property",
+  "type": "House",
+  "city": "Deerfield",
+  "state": "MA",
+  "platformLinks": {},
+  "platformLinkEvidence": [],
+  "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "photos": [],
+  "directoryReady": true,
+  "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+  "remainingGaps": [],
+  "accessFailures": [],
+  "operator": "Old Deerfield Treasure",
+  "operatorClassification": "Single-property owner website (Lodgify)",
+  "classification": "Individual vacation rental on operator/owner website",
+  "eligibilityReason": "Individual property page on Old Deerfield Treasure own Lodgify owner website, with Massachusetts (Pioneer Valley / Mohawk Trail) rental, direct booking/inquiry controls and contact page.",
+  "openedUrls": [
+   "https://olddeerfieldtreasure.com/",
+   "https://olddeerfieldtreasure.com/en/overview",
+   "https://olddeerfieldtreasure.com/en/gallery",
+   "https://olddeerfieldtreasure.com/en/map",
+   "https://olddeerfieldtreasure.com/en/contact"
+  ],
+  "contactPagesChecked": [
+   "https://olddeerfieldtreasure.com/en/contact"
+  ],
+  "contactAddress": {
+   "role": "Owner contact (no business street address published)",
+   "street": "Unknown",
+   "city": "Deerfield",
+   "state": "MA",
+   "zip": "Unknown",
+   "source": "https://olddeerfieldtreasure.com/en/contact",
+   "notes": "Contact page lists host name, email and phone only."
+  },
+  "rentalAddress": {
+   "role": "Rental property address",
+   "street": "51 Steam Mill Road",
+   "city": "Deerfield",
+   "state": "MA",
+   "zip": "01342",
+   "source": "https://olddeerfieldtreasure.com/en/map",
+   "notes": ""
+  },
+  "bookingMethod": "Direct online booking with dates (Lodgify checkout) and booking inquiry form",
+  "bookingUrl": "https://checkout.lodgify.com/en/jaime-billings/725994/reservation?currency=EUR",
+  "directContact": {
+   "email": "Unknown",
+   "phones": [
+    "603-494-1279"
+   ],
+   "source": "https://olddeerfieldtreasure.com/en/contact"
+  },
+  "operatorEvidenceUrl": "https://olddeerfieldtreasure.com/",
+  "notes": "Pioneer Valley / Mohawk Trail batch 2026-10-27; facts from the property page.",
+  "supportedFacts": {
+   "guests": 6,
+   "bedrooms": 2,
+   "bathrooms": 1,
+   "rooms": "Unknown",
+   "kids": "Unknown",
+   "pets": "No",
+   "capacityDetails": "Property page lists sleeps 6.",
+   "kidsDetails": "Unknown",
+   "petsDetails": "Overview page: pets not allowed.",
+   "priceFrom": "Unknown",
+   "currency": "Unknown",
+   "priceDetails": "Unknown"
+  },
+  "factSources": {
+   "guests": "https://olddeerfieldtreasure.com/",
+   "bedrooms": "https://olddeerfieldtreasure.com/",
+   "bathrooms": "https://olddeerfieldtreasure.com/",
+   "pets": "https://olddeerfieldtreasure.com/"
+  },
+  "description": "Colonial cape reproduction with antique furnishings, 2 bedrooms and 1 bath, sleeping 6, within walking distance of Historic Deerfield.",
+  "descriptionSource": "https://olddeerfieldtreasure.com/",
+  "photoCandidates": [
+   {
+    "url": "https://l.icdbcdn.com/oh/86ee5ca2-6269-4139-9fda-943b2aac2ec0.jpg",
+    "sourcePage": "https://olddeerfieldtreasure.com/",
+    "alt": "Old Deerfield Treasure gallery photograph",
+    "unitOrCampus": "Old Deerfield Treasure property gallery"
+   },
+   {
+    "url": "https://l.icdbcdn.com/oh/3e9cbc15-c4f4-4bab-b43d-6cc4924c4787.jpg",
+    "sourcePage": "https://olddeerfieldtreasure.com/",
+    "alt": "Old Deerfield Treasure gallery photograph",
+    "unitOrCampus": "Old Deerfield Treasure property gallery"
+   },
+   {
+    "url": "https://l.icdbcdn.com/oh/5c35d299-9892-4883-8d48-7ad741578e65.jpg",
+    "sourcePage": "https://olddeerfieldtreasure.com/",
+    "alt": "Old Deerfield Treasure gallery photograph",
+    "unitOrCampus": "Old Deerfield Treasure property gallery"
+   },
+   {
+    "url": "https://l.icdbcdn.com/oh/361721ad-ae72-4f07-bdbb-4d3759bf24e3.jpg",
+    "sourcePage": "https://olddeerfieldtreasure.com/",
+    "alt": "Old Deerfield Treasure gallery photograph",
+    "unitOrCampus": "Old Deerfield Treasure property gallery"
+   }
+  ],
+  "discoveryMethod": "Historic Deerfield local-accommodations page; owner site opened",
+  "sourceUrl": "https://olddeerfieldtreasure.com/",
+  "lat": 42.529041,
+  "lng": -72.597536,
+  "locationPrecision": "Exact (operator page coordinates)",
+  "locationSource": "https://olddeerfieldtreasure.com/en/map"
+ }
+]

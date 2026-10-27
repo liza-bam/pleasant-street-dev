@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Plymouth Area Property Management — vacation rentals",
+    "url": "http://www.plymouthareapm.com/vacation-rentals",
+    "town": "Plymouth",
+    "operator": "Plymouth Area Property Management",
+    "reason": "Operator: no rental pages of its own (links to HomeAway/Vrbo only)",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Red Sky Vacation Rentals",
+    "url": "https://www.redskyvacationrentals.com/",
+    "town": "Plymouth",
+    "operator": "Red Sky Vacation Rentals",
+    "reason": "Operator: no rental pages of its own",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "1620 Hospitality — rental units",
+    "url": "https://1620hospitality.com/",
+    "town": "Plymouth",
+    "operator": "1620 Hospitality",
+    "reason": "Website blocks access (bot challenge); operator already listed",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Oceanfront Summer Rentals at Manomet Point",
+    "url": "https://staymanometpoint.com/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Website dead, parked, placeholder or not loading",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Humarock Beach Rentals",
+    "url": "https://www.humarockbeachrentals.com/index.html",
+    "town": "Scituate",
+    "operator": "",
+    "reason": "Website dead, parked, placeholder or not loading",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Oasis at Plymouth",
+    "url": "https://www.oasisatplymouth.com/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Website dead, parked, placeholder or not loading",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Nantasket Beach Vacation Rentals — King Suite",
+    "url": "https://nantasketbeachvacationrentals.com/pages/king-suite",
+    "town": "Hull",
+    "operator": "Nantasket Beach Vacation Rentals",
+    "reason": "Inn, B&B or suite in host-occupied house, not a whole rental",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Nantasket Beach Vacation Rentals — Penthouse Suite",
+    "url": "https://nantasketbeachvacationrentals.com/pages/penthouse-suite",
+    "town": "Hull",
+    "operator": "Nantasket Beach Vacation Rentals",
+    "reason": "Inn, B&B or suite in host-occupied house, not a whole rental",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "The Beacon Waterfront Inn — whole house rental",
+    "url": "https://www.beaconhull.com/nantasket-beach-whole-house-rental/",
+    "town": "Hull",
+    "operator": "The Beacon Waterfront Inn",
+    "reason": "Inn, B&B, motel or realty office, not a vacation rental",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Thomas Sea Suites — Harbourtown Penthouses",
+    "url": "https://www.thomasseasuites.com/pent.html",
+    "town": "Plymouth",
+    "operator": "Thomas Sea Suites",
+    "reason": "Hotel suites of an operator already listed (Thomas Sea Suites at Harbourtown)",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Thomas Sea Suites — Wildwood Coastal Apartment",
+    "url": "https://www.thomasseasuites.com/homes/wildwood.html",
+    "town": "Plymouth",
+    "operator": "Thomas Sea Suites",
+    "reason": "Second unit on a page already listed",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Ocean Bay Nantasket — Studio vacation rental",
+    "url": "https://www.oceanbaynantasket.com/short-term-rental/",
+    "town": "Hull",
+    "operator": "Ocean Bay Nantasket",
+    "reason": "Second unit on a page already listed",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Kornerstone Real Estate — 99 Bay Avenue (Weekly Summer Rent)",
+    "url": "https://kornerstonebrokerage.com/properties/99-bay-avenue-weekly-summer-rent-marshfield-ma-us-02050-73321117",
+    "town": "Marshfield",
+    "operator": "Kornerstone Real Estate Brokerage",
+    "reason": "Listing outdated (2025 season only)",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Kornerstone Real Estate — 230 Central Ave (Weekly Summer)",
+    "url": "https://kornerstonebrokerage.com/properties/230-central-ave-weekly-summer-scituate-ma-us-02066-73321119",
+    "town": "Scituate",
+    "operator": "Kornerstone Real Estate Brokerage",
+    "reason": "Listing outdated (2025 season only)",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Evolve — Idyllic Plymouth Vacation Rental",
+    "url": "https://evolve.com/vacation-rentals/us/ma/plymouth/517173",
+    "town": "Plymouth",
+    "operator": "Evolve",
+    "reason": "Marketplace, not an operator",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Evolve — Oceanfront Marshfield Home on Brant Rock Beach",
+    "url": "https://evolve.com/vacation-rentals/us/ma/marshfield/495917",
+    "town": "Marshfield",
+    "operator": "Evolve",
+    "reason": "Marketplace, not an operator",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Evolve — Scituate Vacation Rental",
+    "url": "https://evolve.com/vacation-rentals/us/ma/scituate/507081",
+    "town": "Scituate",
+    "operator": "Evolve",
+    "reason": "Marketplace, not an operator",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Vacasa — Plymouth vacation rentals",
+    "url": "https://www.vacasa.com/usa/Massachusetts/Plymouth/",
+    "town": "Plymouth",
+    "operator": "Vacasa",
+    "reason": "Marketplace, not an operator",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 15095",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Plymouth-Vacation-Rental-15095/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 31182",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Plymouth-Vacation-Rental-31182/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 31397",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Plymouth-Vacation-Rental-31397/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 26159",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Plymouth-Vacation-Rental-26159/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 6521",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Plymouth-Vacation-Rental-6521/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 27280",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Plymouth-Vacation-Rental-27280/",
+    "town": "Plymouth",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 26427",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Duxbury-Vacation-Rental-26427/",
+    "town": "Duxbury",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "WeNeedAVacation listing 20156",
+    "url": "https://www.weneedavacation.com/Cape-Cod/Marshfield-Vacation-Rental-20156/",
+    "town": "Marshfield",
+    "operator": "",
+    "reason": "Aggregator listing only; no own website found",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "Plymouth Area Property Management (alt domain)",
+    "url": "http://plymouthareapropertymanagement.com/vacation-rentals",
+    "town": "Plymouth",
+    "operator": "Plymouth Area Property Management",
+    "reason": "Operator: no rental pages of its own (links to HomeAway/Vrbo only)",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — White Horse Beach House: Plymouth",
+    "url": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+    "town": "Plymouth",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Clara's Retreat: Rocky Nook Kingston",
+    "url": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+    "town": "Kingston",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Glades Manor - Minot Beach in Scituate",
+    "url": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+    "town": "Scituate",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Sunset Sanctuary - Minot Beach in Scituate",
+    "url": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+    "town": "Scituate",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Downtown Plymouth Gem",
+    "url": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+    "town": "Plymouth",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Seabird Lookout: White Horse Beach Plymouth",
+    "url": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+    "town": "Plymouth",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Brookside Bungalow",
+    "url": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+    "town": "Plymouth",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Stunning and Stilted - Scituate",
+    "url": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+    "town": "Scituate",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — Perfectly Scitu8ed - Scituate",
+    "url": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+    "town": "Scituate",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  },
+  {
+    "name": "iTrip Boston and South Shore — White Horse Hideaway: Plymouth",
+    "url": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+    "town": "Plymouth",
+    "operator": "iTrip Boston and South Shore",
+    "reason": "National booking platform (iTrip), not an own website",
+    "checkedOn": "2026-10-27"
+  }
+]

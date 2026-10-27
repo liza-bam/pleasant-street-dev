@@ -1,0 +1,162 @@
+[
+ {
+  "name": "The Harbor House (Harbor View Suite & Harbor Hideaway)",
+  "url": "https://www.harborhousemhd.com/reservations",
+  "town": "Marblehead",
+  "operator": "The Harbor House",
+  "reason": "Airbnb-only booking (reservations page links to Airbnb)",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Beach house (Lodgify site)",
+  "url": "https://beachhouserental.lodgify.com/",
+  "town": "Gloucester",
+  "operator": "Unknown (Lodgify)",
+  "reason": "Site blocked (HTTP 403 bot challenge); facts and photos not readable",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Edgehill House, Annisquam",
+  "url": "https://www.edgehillgoods.com/annisquam_rental.html",
+  "town": "Gloucester",
+  "operator": "Edgehill Bespoke Branded Goods",
+  "reason": "Page not found (HTTP 404)",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Conomo Cottage",
+  "url": "http://conomocottage.com/",
+  "town": "Essex",
+  "operator": "Owner",
+  "reason": "Site not reachable (connection failed)",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Cape Ann Summer Rental, Conomo Point",
+  "url": "http://www1.udel.edu/chem/bahnson/conomo/cottage.htm",
+  "town": "Essex",
+  "operator": "Owner",
+  "reason": "Page blocked (HTTP 403)",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Seaside Vacay",
+  "url": "https://seasidevacay.com/",
+  "town": "Rockport",
+  "operator": "Seaside Vacay",
+  "reason": "Domain parked; no rental site",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Seas The Day Realty — Plum Island rentals",
+  "url": "https://seasthedayrealty.com/plumb-island/",
+  "town": "Newbury",
+  "operator": "Seas The Day Realty",
+  "reason": "Same operator as Plum Island Beach Rentals (same phone); listings recorded from plumislandbeachrentals.com",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Sea Breeze Vacation Homes",
+  "url": "https://www.facebook.com/SeaBreezeVacationHomes/",
+  "town": "Salisbury",
+  "operator": "Sea Breeze",
+  "reason": "Facebook page only; no own booking website found",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Wilkuma Vacation Rental Management (Guesty)",
+  "url": "https://wilkuma.guestybookings.com/engine-sitemap-0.xml",
+  "town": "Gloucester",
+  "operator": "Wilkuma",
+  "reason": "All 14 sitemap listings already in directory",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "StaySpace Vacation Rentals (Hospitable)",
+  "url": "https://stayspace.hospitable.rentals/sitemap.xml",
+  "town": "Salem",
+  "operator": "StaySpace",
+  "reason": "All North Shore listings already in directory; 40 other listings outside Massachusetts",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Rising Tide (management site)",
+  "url": "https://risingtidestr.com/",
+  "town": "Gloucester",
+  "operator": "Rising Tide",
+  "reason": "Management site; rentals recorded from its Stay Cape Ann booking site",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Vrbo/Airbnb/aggregator listings (Rockport, Gloucester, Ipswich, Salisbury, Manchester, Beverly)",
+  "url": "https://www.vrbo.com/vacation-rentals/usa/massachusetts/north-boston-greater",
+  "town": "Various",
+  "operator": "Platforms",
+  "reason": "Platform-only listings (Airbnb/Vrbo/aggregators); no own website",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "7 54th Street",
+  "url": "https://plumislandbeachrentals.com/product/7-54th-street/",
+  "town": "Plum Island",
+  "operator": "Plum Island Beach Rentals",
+  "reason": "No property description on page",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "4BR Home Near Downtown",
+  "url": "https://seacoast2summit.com/property/boardmanstreet",
+  "town": "Newburyport",
+  "operator": "Seacoast 2 Summit Vacation Rentals",
+  "reason": "Long-term/monthly or winter-only listing",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Winter Rental With Deck",
+  "url": "https://seacoast2summit.com/property/oceanfrontoasis",
+  "town": "Salisbury",
+  "operator": "Seacoast 2 Summit Vacation Rentals",
+  "reason": "Long-term/monthly or winter-only listing",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "2BR Pet Friendly Apartment",
+  "url": "https://seacoast2summit.com/property/thecammiecabana",
+  "town": "Salisbury",
+  "operator": "Seacoast 2 Summit Vacation Rentals",
+  "reason": "Long-term/monthly or winter-only listing",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Oceanfront 3BR Condo",
+  "url": "https://seacoast2summit.com/property/beachsidebliss",
+  "town": "Salisbury",
+  "operator": "Seacoast 2 Summit Vacation Rentals",
+  "reason": "Long-term/monthly or winter-only listing",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Pet Friendly 2BR Apartment",
+  "url": "https://seacoast2summit.com/property/theaddieshack",
+  "town": "Salisbury",
+  "operator": "Seacoast 2 Summit Vacation Rentals",
+  "reason": "Long-term/monthly or winter-only listing",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Sage Hill",
+  "url": "https://www.atlanticvacationhomes.com/vrp/unit/Sage_Hill-51-15",
+  "town": "Rockport",
+  "operator": "Atlantic Vacation Homes",
+  "reason": "Already in directory",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Oceanfront Suite w/ Deck, Fireplace & King Bed",
+  "url": "https://littlenahantroad.com/property/oceanfront-suite-w-deck-fireplace-king-bed/",
+  "town": "Swampscott",
+  "operator": "Little Nahant Road (Egg Rock House rentals)",
+  "reason": "Fewer than 3 usable property photos (1)",
+  "checkedOn": "2026-10-27"
+ }
+]

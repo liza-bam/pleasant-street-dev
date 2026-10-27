@@ -1,0 +1,2949 @@
+[
+  {
+    "id": "MA-17000",
+    "name": "The Calico Seahorse — SeaGlass Bungalow",
+    "website": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Calico Seahorse",
+    "operatorClassification": "White Horse Beach bungalow colony with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on The Calico Seahorse own Lodgify direct-booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://thecalicoseahorse.com/sitemap.xml",
+      "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address (bungalow colony office)",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/",
+      "notes": "Published colony address; the bungalows share this address."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "90 White Horse Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+    "directContact": {
+      "email": "thecalicoseahorse@gmail.com",
+      "phones": [
+        "508-889-1997"
+      ],
+      "source": "https://thecalicoseahorse.com/"
+    },
+    "operatorEvidenceUrl": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 12,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 12.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+      "bedrooms": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+      "bathrooms": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+      "pets": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets"
+    },
+    "description": "Four-bedroom bungalow at The Calico Seahorse near White Horse Beach that sleeps 12, with patio, gas grill, outdoor shower and central air.",
+    "descriptionSource": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/797970a9-6894-402e-9435-8f2737e2593b.png",
+        "sourcePage": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+        "alt": "The Calico Seahorse — SeaGlass Bungalow gallery photograph",
+        "unitOrCampus": "SeaGlass Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/de7b8c18-5143-4e6d-abbc-d3f84ed5e315.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+        "alt": "The Calico Seahorse — SeaGlass Bungalow gallery photograph",
+        "unitOrCampus": "SeaGlass Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/e7190ebc-14cc-4562-8c01-b414eacd23ae.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+        "alt": "The Calico Seahorse — SeaGlass Bungalow gallery photograph",
+        "unitOrCampus": "SeaGlass Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/4df8f944-f7e0-47a3-ae9e-a00dbd055f0d.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+        "alt": "The Calico Seahorse — SeaGlass Bungalow gallery photograph",
+        "unitOrCampus": "SeaGlass Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://thecalicoseahorse.com/sitemap.xml",
+    "sourceUrl": "https://thecalicoseahorse.com/sitemap.xml",
+    "lat": 41.931221,
+    "lng": -70.564537,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets"
+  },
+  {
+    "id": "MA-17001",
+    "name": "The Calico Seahorse — Sintra Bungalow",
+    "website": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Calico Seahorse",
+    "operatorClassification": "White Horse Beach bungalow colony with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on The Calico Seahorse own Lodgify direct-booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://thecalicoseahorse.com/sitemap.xml",
+      "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address (bungalow colony office)",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/",
+      "notes": "Published colony address; the bungalows share this address."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Unit 4, 90 White Horse Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+    "directContact": {
+      "email": "thecalicoseahorse@gmail.com",
+      "phones": [
+        "508-889-1997"
+      ],
+      "source": "https://thecalicoseahorse.com/"
+    },
+    "operatorEvidenceUrl": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 2.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+      "bathrooms": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+      "pets": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower"
+    },
+    "description": "Bungalow for two at The Calico Seahorse, a 5-minute walk to White Horse Beach, with kitchen, private outdoor shower and gas grill.",
+    "descriptionSource": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/cb161fce-c480-429a-bf2d-6a2fd664ddfa.png",
+        "sourcePage": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+        "alt": "The Calico Seahorse — Sintra Bungalow gallery photograph",
+        "unitOrCampus": "Sintra Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/106f4393-860e-4322-84e3-682dcc3f71a5.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+        "alt": "The Calico Seahorse — Sintra Bungalow gallery photograph",
+        "unitOrCampus": "Sintra Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/7be1aef7-e9cc-4621-9132-9ad9c03402e1.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+        "alt": "The Calico Seahorse — Sintra Bungalow gallery photograph",
+        "unitOrCampus": "Sintra Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/a356432e-baf6-4699-a631-5493a5866b27.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+        "alt": "The Calico Seahorse — Sintra Bungalow gallery photograph",
+        "unitOrCampus": "Sintra Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://thecalicoseahorse.com/sitemap.xml",
+    "sourceUrl": "https://thecalicoseahorse.com/sitemap.xml",
+    "lat": 41.931221,
+    "lng": -70.564537,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower"
+  },
+  {
+    "id": "MA-17002",
+    "name": "The Calico Seahorse — Mayflower Bungalow",
+    "website": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Calico Seahorse",
+    "operatorClassification": "White Horse Beach bungalow colony with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on The Calico Seahorse own Lodgify direct-booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://thecalicoseahorse.com/sitemap.xml",
+      "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address (bungalow colony office)",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/",
+      "notes": "Published colony address; the bungalows share this address."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Mayflower 90 White Horse Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+    "directContact": {
+      "email": "thecalicoseahorse@gmail.com",
+      "phones": [
+        "508-889-1997"
+      ],
+      "source": "https://thecalicoseahorse.com/"
+    },
+    "operatorEvidenceUrl": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 5.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+      "bedrooms": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+      "bathrooms": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+      "pets": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill"
+    },
+    "description": "Nautical-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with fire pit and grill.",
+    "descriptionSource": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/70612fbb-84d9-49cd-915d-d4c8a7dac6fb.png",
+        "sourcePage": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+        "alt": "The Calico Seahorse — Mayflower Bungalow gallery photograph",
+        "unitOrCampus": "Mayflower Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/0bab8ec9-580b-4fbb-804b-3de9a7441340.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+        "alt": "The Calico Seahorse — Mayflower Bungalow gallery photograph",
+        "unitOrCampus": "Mayflower Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/8713d426-d94b-436e-9029-2202e657df1f.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+        "alt": "The Calico Seahorse — Mayflower Bungalow gallery photograph",
+        "unitOrCampus": "Mayflower Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/421cfefe-7f92-45d0-ba47-4287673ca8fd.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+        "alt": "The Calico Seahorse — Mayflower Bungalow gallery photograph",
+        "unitOrCampus": "Mayflower Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://thecalicoseahorse.com/sitemap.xml",
+    "sourceUrl": "https://thecalicoseahorse.com/sitemap.xml",
+    "lat": 41.931274,
+    "lng": -70.564667,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill"
+  },
+  {
+    "id": "MA-17003",
+    "name": "The Calico Seahorse — Tahiti Bungalow",
+    "website": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Calico Seahorse",
+    "operatorClassification": "White Horse Beach bungalow colony with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on The Calico Seahorse own Lodgify direct-booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://thecalicoseahorse.com/sitemap.xml",
+      "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address (bungalow colony office)",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/",
+      "notes": "Published colony address; the bungalows share this address."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "90 White Horse Rd unit 2",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+    "directContact": {
+      "email": "thecalicoseahorse@gmail.com",
+      "phones": [
+        "508-889-1997"
+      ],
+      "source": "https://thecalicoseahorse.com/"
+    },
+    "operatorEvidenceUrl": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 5.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+      "bedrooms": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+      "bathrooms": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+      "pets": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill"
+    },
+    "description": "Polynesian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with outdoor shower.",
+    "descriptionSource": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/4f3b2259-7be9-4562-8609-0768b755e994.png",
+        "sourcePage": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+        "alt": "The Calico Seahorse — Tahiti Bungalow gallery photograph",
+        "unitOrCampus": "Tahiti Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/494d0603-618c-4302-a1f5-1a32c78bb198.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+        "alt": "The Calico Seahorse — Tahiti Bungalow gallery photograph",
+        "unitOrCampus": "Tahiti Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/3d3fbd91-5571-4313-ad81-2566eca0b364.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+        "alt": "The Calico Seahorse — Tahiti Bungalow gallery photograph",
+        "unitOrCampus": "Tahiti Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/104fef4c-119b-4286-850c-9099d4094d04.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+        "alt": "The Calico Seahorse — Tahiti Bungalow gallery photograph",
+        "unitOrCampus": "Tahiti Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://thecalicoseahorse.com/sitemap.xml",
+    "sourceUrl": "https://thecalicoseahorse.com/sitemap.xml",
+    "lat": 41.931223,
+    "lng": -70.564546,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill"
+  },
+  {
+    "id": "MA-17004",
+    "name": "The Calico Seahorse — Santorini Bungalow",
+    "website": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Calico Seahorse",
+    "operatorClassification": "White Horse Beach bungalow colony with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on The Calico Seahorse own Lodgify direct-booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://thecalicoseahorse.com/sitemap.xml",
+      "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address (bungalow colony office)",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/",
+      "notes": "Published colony address; the bungalows share this address."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Unit 5 90 White Horse Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+    "directContact": {
+      "email": "thecalicoseahorse@gmail.com",
+      "phones": [
+        "508-889-1997"
+      ],
+      "source": "https://thecalicoseahorse.com/"
+    },
+    "operatorEvidenceUrl": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 7.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+      "bedrooms": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+      "bathrooms": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+      "pets": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr"
+    },
+    "description": "Two-bedroom themed bungalow with a private yard at The Calico Seahorse that sleeps 7, near White Horse Beach, with fire pit and outdoor shower.",
+    "descriptionSource": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/a71b1392-ba93-42ed-915f-78ceb3059d17.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+        "alt": "The Calico Seahorse — Santorini Bungalow gallery photograph",
+        "unitOrCampus": "Santorini Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/d412d044-9927-4004-9d73-5ce7eed1beb6.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+        "alt": "The Calico Seahorse — Santorini Bungalow gallery photograph",
+        "unitOrCampus": "Santorini Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/784c7913-0684-45e1-9321-0517ca7c703e.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+        "alt": "The Calico Seahorse — Santorini Bungalow gallery photograph",
+        "unitOrCampus": "Santorini Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/f6e01d42-1222-4bda-9df0-18d9bd142081.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+        "alt": "The Calico Seahorse — Santorini Bungalow gallery photograph",
+        "unitOrCampus": "Santorini Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://thecalicoseahorse.com/sitemap.xml",
+    "sourceUrl": "https://thecalicoseahorse.com/sitemap.xml",
+    "lat": 41.931221,
+    "lng": -70.564285,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr"
+  },
+  {
+    "id": "MA-17005",
+    "name": "The Calico Seahorse — Oahu Bungalow",
+    "website": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Calico Seahorse",
+    "operatorClassification": "White Horse Beach bungalow colony with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on The Calico Seahorse own Lodgify direct-booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://thecalicoseahorse.com/sitemap.xml",
+      "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address (bungalow colony office)",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/",
+      "notes": "Published colony address; the bungalows share this address."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Unit 3 OAHU 90 White Horse Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+    "directContact": {
+      "email": "thecalicoseahorse@gmail.com",
+      "phones": [
+        "508-889-1997"
+      ],
+      "source": "https://thecalicoseahorse.com/"
+    },
+    "operatorEvidenceUrl": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 5.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+      "bedrooms": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+      "bathrooms": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+      "pets": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill"
+    },
+    "description": "Hawaiian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, near White Horse Beach, with outdoor shower and gas grill.",
+    "descriptionSource": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/0026aba7-1a5d-4a79-b894-7952532084b9.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+        "alt": "The Calico Seahorse — Oahu Bungalow gallery photograph",
+        "unitOrCampus": "Oahu Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/13c08671-bca8-4d6a-9e91-7f9261695e6c.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+        "alt": "The Calico Seahorse — Oahu Bungalow gallery photograph",
+        "unitOrCampus": "Oahu Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/c518f80f-cb5a-43ee-b02e-d1dfdc3089ca.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+        "alt": "The Calico Seahorse — Oahu Bungalow gallery photograph",
+        "unitOrCampus": "Oahu Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/00588152-621d-48d2-a468-5a98e2221570.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+        "alt": "The Calico Seahorse — Oahu Bungalow gallery photograph",
+        "unitOrCampus": "Oahu Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://thecalicoseahorse.com/sitemap.xml",
+    "sourceUrl": "https://thecalicoseahorse.com/sitemap.xml",
+    "lat": 41.931221,
+    "lng": -70.564285,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill"
+  },
+  {
+    "id": "MA-17006",
+    "name": "The Calico Seahorse — Moana Bungalow",
+    "website": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Calico Seahorse",
+    "operatorClassification": "White Horse Beach bungalow colony with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on The Calico Seahorse own Lodgify direct-booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://thecalicoseahorse.com/sitemap.xml",
+      "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://thecalicoseahorse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address (bungalow colony office)",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/",
+      "notes": "Published colony address; the bungalows share this address."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "90 White Horse Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+    "directContact": {
+      "email": "thecalicoseahorse@gmail.com",
+      "phones": [
+        "508-889-1997"
+      ],
+      "source": "https://thecalicoseahorse.com/"
+    },
+    "operatorEvidenceUrl": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 7.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+      "bedrooms": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+      "bathrooms": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+      "pets": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana"
+    },
+    "description": "Moana-themed two-bedroom bungalow at The Calico Seahorse that sleeps 7, a 5-minute walk to White Horse Beach, with a full kitchen.",
+    "descriptionSource": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+    "photoCandidates": [
+      {
+        "url": "https://l.icdbcdn.com/oh/80a34ed5-1ffa-4bea-883b-a9b05e00f605.png",
+        "sourcePage": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+        "alt": "The Calico Seahorse — Moana Bungalow gallery photograph",
+        "unitOrCampus": "Moana Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/a3e67495-54a1-44d8-b69b-577956a4bda9.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+        "alt": "The Calico Seahorse — Moana Bungalow gallery photograph",
+        "unitOrCampus": "Moana Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/e1863632-bc81-490d-b4fb-6015b2ef75f2.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+        "alt": "The Calico Seahorse — Moana Bungalow gallery photograph",
+        "unitOrCampus": "Moana Bungalow property gallery"
+      },
+      {
+        "url": "https://l.icdbcdn.com/oh/64b89792-2dee-4aa4-b9e8-2c3f276d7e32.jpg",
+        "sourcePage": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+        "alt": "The Calico Seahorse — Moana Bungalow gallery photograph",
+        "unitOrCampus": "Moana Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://thecalicoseahorse.com/sitemap.xml",
+    "sourceUrl": "https://thecalicoseahorse.com/sitemap.xml",
+    "lat": 41.932137,
+    "lng": -70.563749,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana"
+  },
+  {
+    "id": "MA-17007",
+    "name": "iTrip Boston and South Shore — White Horse Beach House: Plymouth",
+    "website": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "71G Taylor Ave",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 8.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+      "bedrooms": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+      "bathrooms": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+      "pets": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth"
+    },
+    "description": "Three-bedroom Plymouth home with ocean views about 20 steps from White Horse Beach; sleeps 8.",
+    "descriptionSource": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/32img-523.1669752515.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Beach House: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Beach House: Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/18img-474.1669752505.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Beach House: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Beach House: Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/22img-488.1669752508.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Beach House: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Beach House: Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/20img-481.1669752506.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Beach House: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Beach House: Plymouth property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 41.92798,
+    "lng": -70.550698,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/plymouth-vacation-rental/white-horse-beach-house-plymouth",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17008",
+    "name": "iTrip Boston and South Shore — Clara's Retreat: Rocky Nook Kingston",
+    "website": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Kingston",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "37 Rocky Nook Ave",
+      "city": "Kingston",
+      "state": "MA",
+      "zip": "02364",
+      "source": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 8.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+      "bedrooms": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+      "bathrooms": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+      "pets": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston"
+    },
+    "description": "Oceanfront three-bedroom family beach house at Rocky Nook in Kingston, with upstairs renovated for 2025; sleeps 8.",
+    "descriptionSource": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/09img-5327.1685136190.jpg",
+        "sourcePage": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+        "alt": "iTrip Boston and South Shore — Clara's Retreat: Rocky Nook Kingston gallery photograph",
+        "unitOrCampus": "Clara's Retreat: Rocky Nook Kingston property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img1586.1685539128.jpg",
+        "sourcePage": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+        "alt": "iTrip Boston and South Shore — Clara's Retreat: Rocky Nook Kingston gallery photograph",
+        "unitOrCampus": "Clara's Retreat: Rocky Nook Kingston property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/01img-5351.1685136166.jpg",
+        "sourcePage": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+        "alt": "iTrip Boston and South Shore — Clara's Retreat: Rocky Nook Kingston gallery photograph",
+        "unitOrCampus": "Clara's Retreat: Rocky Nook Kingston property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/beach_house-2.1764961542.jpg",
+        "sourcePage": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+        "alt": "iTrip Boston and South Shore — Clara's Retreat: Rocky Nook Kingston gallery photograph",
+        "unitOrCampus": "Clara's Retreat: Rocky Nook Kingston property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 41.995661,
+    "lng": -70.700387,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/kingston-vacation-rental/claras-retreat-rocky-nook-kingston",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17009",
+    "name": "iTrip Boston and South Shore — Glades Manor - Minot Beach in Scituate",
+    "website": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Scituate",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "153R Glades Rd",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "02066",
+      "source": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 6.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+      "bedrooms": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+      "bathrooms": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+      "pets": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate"
+    },
+    "description": "Three-bedroom, two-bath beach house on a private street with access to a private area of Minot Beach and wraparound porches; sleeps 6.",
+    "descriptionSource": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img1574.1685539768.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Glades Manor - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Glades Manor - Minot Beach in Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/15img-5834.1685647938.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Glades Manor - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Glades Manor - Minot Beach in Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/10img-5849.1685647934.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Glades Manor - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Glades Manor - Minot Beach in Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/20img-5817.1685647942.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Glades Manor - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Glades Manor - Minot Beach in Scituate property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 42.244061,
+    "lng": -70.76654,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/scituate-vacation-rental/glades-manor-minot-beach-in-scituate",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17010",
+    "name": "iTrip Boston and South Shore — Sunset Sanctuary - Minot Beach in Scituate",
+    "website": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Scituate",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "163R Glades Rd",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "02066",
+      "source": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 7.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+      "bedrooms": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+      "bathrooms": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+      "pets": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate"
+    },
+    "description": "Three-bedroom Cape house near Minot Beach in Scituate with a screened deck, marsh views, fire pit and outdoor shower; sleeps 7.",
+    "descriptionSource": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/15img-7990.1695046088.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Sunset Sanctuary - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Sunset Sanctuary - Minot Beach in Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/13img-79842.1695046090.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Sunset Sanctuary - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Sunset Sanctuary - Minot Beach in Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/23img-80282.1695046078.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Sunset Sanctuary - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Sunset Sanctuary - Minot Beach in Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/22img_8025edit.1695046080.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+        "alt": "iTrip Boston and South Shore — Sunset Sanctuary - Minot Beach in Scituate gallery photograph",
+        "unitOrCampus": "Sunset Sanctuary - Minot Beach in Scituate property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 42.244755,
+    "lng": -70.766805,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/scituate-vacation-rental/sunset-sanctuary-minot-beach-in-scituate",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17011",
+    "name": "iTrip Boston and South Shore — Downtown Plymouth Gem",
+    "website": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "31 Russell St",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 8.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+      "bedrooms": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+      "bathrooms": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+      "pets": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem"
+    },
+    "description": "Four-bedroom New England home in historic downtown Plymouth near the harbor, with yard, fire pit and fenced dog area; sleeps 8.",
+    "descriptionSource": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/41img_88902edit.1717429152.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+        "alt": "iTrip Boston and South Shore — Downtown Plymouth Gem gallery photograph",
+        "unitOrCampus": "Downtown Plymouth Gem property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/31_russell_overhead.1717429382.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+        "alt": "iTrip Boston and South Shore — Downtown Plymouth Gem gallery photograph",
+        "unitOrCampus": "Downtown Plymouth Gem property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/08img-9143.1717429123.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+        "alt": "iTrip Boston and South Shore — Downtown Plymouth Gem gallery photograph",
+        "unitOrCampus": "Downtown Plymouth Gem property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/26img-89772.1717429139.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+        "alt": "iTrip Boston and South Shore — Downtown Plymouth Gem gallery photograph",
+        "unitOrCampus": "Downtown Plymouth Gem property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 41.95641,
+    "lng": -70.667929,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/plymouth-vacation-rental/downtown-plymouth-gem",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17012",
+    "name": "iTrip Boston and South Shore — Seabird Lookout: White Horse Beach Plymouth",
+    "website": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "29 Pearl St",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 5.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+      "bedrooms": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+      "bathrooms": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+      "pets": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth"
+    },
+    "description": "Two-bedroom, two-bath beach home in Manomet steps from White Horse Beach; sleeps 5, one dog allowed with a fee.",
+    "descriptionSource": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-7210_2.1759336501.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+        "alt": "iTrip Boston and South Shore — Seabird Lookout: White Horse Beach Plymouth gallery photograph",
+        "unitOrCampus": "Seabird Lookout: White Horse Beach Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-7858_3.1759512233.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+        "alt": "iTrip Boston and South Shore — Seabird Lookout: White Horse Beach Plymouth gallery photograph",
+        "unitOrCampus": "Seabird Lookout: White Horse Beach Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-7863_2.1759512232.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+        "alt": "iTrip Boston and South Shore — Seabird Lookout: White Horse Beach Plymouth gallery photograph",
+        "unitOrCampus": "Seabird Lookout: White Horse Beach Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-7169_2.1759336493.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+        "alt": "iTrip Boston and South Shore — Seabird Lookout: White Horse Beach Plymouth gallery photograph",
+        "unitOrCampus": "Seabird Lookout: White Horse Beach Plymouth property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 41.925348,
+    "lng": -70.552511,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/plymouth-vacation-rental/seabird-lookout-white-horse-beach-plymouth",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17013",
+    "name": "iTrip Boston and South Shore — Brookside Bungalow",
+    "website": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "16 Brookside Ave",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 5.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+      "bedrooms": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+      "bathrooms": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+      "pets": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow"
+    },
+    "description": "Two-bedroom, two-bath home a short walk from the downtown Plymouth waterfront, with gas grill and in-unit laundry; sleeps 5.",
+    "descriptionSource": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/01img-2498.1730474317.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+        "alt": "iTrip Boston and South Shore — Brookside Bungalow gallery photograph",
+        "unitOrCampus": "Brookside Bungalow property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/09img_2574edit.1730474324.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+        "alt": "iTrip Boston and South Shore — Brookside Bungalow gallery photograph",
+        "unitOrCampus": "Brookside Bungalow property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/24img_2700edit.1730474342.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+        "alt": "iTrip Boston and South Shore — Brookside Bungalow gallery photograph",
+        "unitOrCampus": "Brookside Bungalow property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/29img_2744edit.1730474349.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+        "alt": "iTrip Boston and South Shore — Brookside Bungalow gallery photograph",
+        "unitOrCampus": "Brookside Bungalow property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 41.948627,
+    "lng": -70.654837,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/plymouth-vacation-rental/brookside-bungalow",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17014",
+    "name": "iTrip Boston and South Shore — Stunning and Stilted - Scituate",
+    "website": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Scituate",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "8 Stanton Ln",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "02066",
+      "source": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 8.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+      "bedrooms": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+      "bathrooms": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+      "pets": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate"
+    },
+    "description": "Four-bedroom oceanfront home on a bluff between Egypt Beach and Barrier Beach in Scituate, with panoramic ocean views; sleeps 8.",
+    "descriptionSource": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/02dji_fly_20250516_133630_153_1747417142734_photo.1747597822.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+        "alt": "iTrip Boston and South Shore — Stunning and Stilted - Scituate gallery photograph",
+        "unitOrCampus": "Stunning and Stilted - Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/26img-4764.1747597842.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+        "alt": "iTrip Boston and South Shore — Stunning and Stilted - Scituate gallery photograph",
+        "unitOrCampus": "Stunning and Stilted - Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/21img-4794.1747597838.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+        "alt": "iTrip Boston and South Shore — Stunning and Stilted - Scituate gallery photograph",
+        "unitOrCampus": "Stunning and Stilted - Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/10dji_fly_20250516_133134_144_1747417145122_photo.1747597829.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+        "alt": "iTrip Boston and South Shore — Stunning and Stilted - Scituate gallery photograph",
+        "unitOrCampus": "Stunning and Stilted - Scituate property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 42.222225,
+    "lng": -70.749329,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/scituate-vacation-rental/stunning-and-stilted-scituate",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17015",
+    "name": "iTrip Boston and South Shore — Perfectly Scitu8ed - Scituate",
+    "website": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Scituate",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "48 Moorland Rd",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "02066",
+      "source": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 9,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Property page lists sleeps 9.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+      "bedrooms": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+      "bathrooms": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate"
+    },
+    "description": "Updated four-bedroom, three-bath Scituate home with marsh sunset and golf course views; sleeps 9.",
+    "descriptionSource": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/image_22726_at_149pm.1772218233.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+        "alt": "iTrip Boston and South Shore — Perfectly Scitu8ed - Scituate gallery photograph",
+        "unitOrCampus": "Perfectly Scitu8ed - Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-1191.1772216615.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+        "alt": "iTrip Boston and South Shore — Perfectly Scitu8ed - Scituate gallery photograph",
+        "unitOrCampus": "Perfectly Scitu8ed - Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/image_22726_at_154pm.1772218512.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+        "alt": "iTrip Boston and South Shore — Perfectly Scitu8ed - Scituate gallery photograph",
+        "unitOrCampus": "Perfectly Scitu8ed - Scituate property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-1183.1772216679.jpg",
+        "sourcePage": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+        "alt": "iTrip Boston and South Shore — Perfectly Scitu8ed - Scituate gallery photograph",
+        "unitOrCampus": "Perfectly Scitu8ed - Scituate property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 42.172895,
+    "lng": -70.717509,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/scituate-vacation-rental/perfectly-scitu8ed-scituate",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17016",
+    "name": "iTrip Boston and South Shore — White Horse Hideaway: Plymouth",
+    "website": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "iTrip Boston and South Shore",
+    "operatorClassification": "South Shore vacation-rental manager (iTrip franchise office)",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on iTrip Boston and South Shore own iTrip franchise rental website (itrip.net), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.itrip.net/property-management/boston-and-south-shore",
+      "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "35 Thomas Drive",
+      "city": "Marlborough",
+      "state": "MA",
+      "zip": "01752",
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "27 Hilltop Ave",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates and quote on the property page",
+    "bookingUrl": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-744-3390"
+      ],
+      "source": "https://www.itrip.net/property-management/boston-and-south-shore/contact"
+    },
+    "operatorEvidenceUrl": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 1.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Property page lists sleeps 8.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+      "bedrooms": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+      "bathrooms": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth"
+    },
+    "description": "Four-bedroom home near White Horse Beach in Plymouth with room for families and groups; sleeps 8.",
+    "descriptionSource": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+    "photoCandidates": [
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-5282_2.1782571989.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Hideaway: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Hideaway: Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-5293_3.1782571880.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Hideaway: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Hideaway: Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-5300_5.1782571817.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Hideaway: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Hideaway: Plymouth property gallery"
+      },
+      {
+        "url": "https://s3.amazonaws.com/st1.itrip.net/upload/1200/img-5295_5.1782571862.jpg",
+        "sourcePage": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+        "alt": "iTrip Boston and South Shore — White Horse Hideaway: Plymouth gallery photograph",
+        "unitOrCampus": "White Horse Hideaway: Plymouth property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.itrip.net/property-management/boston-and-south-shore",
+    "sourceUrl": "https://www.itrip.net/property-management/boston-and-south-shore",
+    "lat": 41.92541,
+    "lng": -70.551679,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.itrip.net/plymouth-vacation-rental/white-horse-hideaway-plymouth",
+    "publicationHoldReason": "National booking platform (iTrip franchise), not an own website"
+  },
+  {
+    "id": "MA-17017",
+    "name": "Thomas Sea Suites — The Estate (South Plymouth)",
+    "website": "https://www.thomasseasuites.com/homes/book1636.html",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Thomas Sea Suites",
+    "operatorClassification": "Plymouth owner-operator of vacation homes with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on Thomas Sea Suites own vacation homes website (thomasseasuites.com/homes), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.thomasseasuites.com/homes/",
+      "https://www.thomasseasuites.com/homes/book1636.html",
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "150 Water Street",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.thomasseasuites.com/homes/book.html",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "1636 State Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.thomasseasuites.com/homes/book1636.html",
+      "notes": ""
+    },
+    "bookingMethod": "Live availability calendar and direct booking for each home (Check Availability)",
+    "bookingUrl": "https://www.thomasseasuites.com/homes/book1636.html",
+    "directContact": {
+      "email": "info@thomasseasuites.com",
+      "phones": [
+        "508-746-1588"
+      ],
+      "source": "https://www.thomasseasuites.com/homes/book.html"
+    },
+    "operatorEvidenceUrl": "https://www.thomasseasuites.com/homes/book1636.html",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 12,
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 12.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.thomasseasuites.com/homes/book1636.html",
+      "bedrooms": "https://www.thomasseasuites.com/homes/book1636.html",
+      "bathrooms": "https://www.thomasseasuites.com/homes/book1636.html",
+      "pets": "https://www.thomasseasuites.com/homes/book1636.html"
+    },
+    "description": "Five-bedroom, 4.5-bath South Plymouth estate of 4,000 sq ft with a heated saltwater pool; sleeps 12.",
+    "descriptionSource": "https://www.thomasseasuites.com/homes/book1636.html",
+    "photoCandidates": [
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/1636/1.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/book1636.html",
+        "alt": "Thomas Sea Suites — The Estate (South Plymouth) gallery photograph",
+        "unitOrCampus": "The Estate (South Plymouth) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/1636/2.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/book1636.html",
+        "alt": "Thomas Sea Suites — The Estate (South Plymouth) gallery photograph",
+        "unitOrCampus": "The Estate (South Plymouth) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/1636/3.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/book1636.html",
+        "alt": "Thomas Sea Suites — The Estate (South Plymouth) gallery photograph",
+        "unitOrCampus": "The Estate (South Plymouth) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/1636/4.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/book1636.html",
+        "alt": "Thomas Sea Suites — The Estate (South Plymouth) gallery photograph",
+        "unitOrCampus": "The Estate (South Plymouth) property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.thomasseasuites.com/homes/",
+    "sourceUrl": "https://www.thomasseasuites.com/homes/",
+    "lat": 41.860062,
+    "lng": -70.534861,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.thomasseasuites.com/homes/"
+  },
+  {
+    "id": "MA-17018",
+    "name": "Thomas Sea Suites — Lakefront Oasis (White Island Pond)",
+    "website": "https://www.thomasseasuites.com/homes/sandybeach.html",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Thomas Sea Suites",
+    "operatorClassification": "Plymouth owner-operator of vacation homes with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on Thomas Sea Suites own vacation homes website (thomasseasuites.com/homes), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.thomasseasuites.com/homes/",
+      "https://www.thomasseasuites.com/homes/sandybeach.html",
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "150 Water Street",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.thomasseasuites.com/homes/book.html",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "144 Sandy Beach Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.thomasseasuites.com/homes/sandybeach.html",
+      "notes": ""
+    },
+    "bookingMethod": "Live availability calendar and direct booking for each home (Check Availability)",
+    "bookingUrl": "https://www.thomasseasuites.com/homes/sandybeach.html",
+    "directContact": {
+      "email": "info@thomasseasuites.com",
+      "phones": [
+        "508-746-1588"
+      ],
+      "source": "https://www.thomasseasuites.com/homes/book.html"
+    },
+    "operatorEvidenceUrl": "https://www.thomasseasuites.com/homes/sandybeach.html",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 8.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.thomasseasuites.com/homes/sandybeach.html",
+      "bedrooms": "https://www.thomasseasuites.com/homes/sandybeach.html",
+      "pets": "https://www.thomasseasuites.com/homes/sandybeach.html"
+    },
+    "description": "Renovated three-bedroom West Plymouth home across from White Island Pond, with private beach access and complimentary kayaks; sleeps 8.",
+    "descriptionSource": "https://www.thomasseasuites.com/homes/sandybeach.html",
+    "photoCandidates": [
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/sandybeach/3.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/sandybeach.html",
+        "alt": "Thomas Sea Suites — Lakefront Oasis (White Island Pond) gallery photograph",
+        "unitOrCampus": "Lakefront Oasis (White Island Pond) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/sandybeach/1.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/sandybeach.html",
+        "alt": "Thomas Sea Suites — Lakefront Oasis (White Island Pond) gallery photograph",
+        "unitOrCampus": "Lakefront Oasis (White Island Pond) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/sandybeach/2.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/sandybeach.html",
+        "alt": "Thomas Sea Suites — Lakefront Oasis (White Island Pond) gallery photograph",
+        "unitOrCampus": "Lakefront Oasis (White Island Pond) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/sandybeach/4.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/sandybeach.html",
+        "alt": "Thomas Sea Suites — Lakefront Oasis (White Island Pond) gallery photograph",
+        "unitOrCampus": "Lakefront Oasis (White Island Pond) property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.thomasseasuites.com/homes/",
+    "sourceUrl": "https://www.thomasseasuites.com/homes/",
+    "lat": 41.813228,
+    "lng": -70.62179,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.thomasseasuites.com/homes/"
+  },
+  {
+    "id": "MA-17019",
+    "name": "Thomas Sea Suites — Wildwood Beach House (Cedarville)",
+    "website": "https://www.thomasseasuites.com/homes/wildwood.html",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Thomas Sea Suites",
+    "operatorClassification": "Plymouth owner-operator of vacation homes with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on Thomas Sea Suites own vacation homes website (thomasseasuites.com/homes), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.thomasseasuites.com/homes/",
+      "https://www.thomasseasuites.com/homes/wildwood.html",
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "150 Water Street",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.thomasseasuites.com/homes/book.html",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "7 Wildwood Road",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.thomasseasuites.com/homes/wildwood.html",
+      "notes": ""
+    },
+    "bookingMethod": "Live availability calendar and direct booking for each home (Check Availability)",
+    "bookingUrl": "https://www.thomasseasuites.com/homes/wildwood.html",
+    "directContact": {
+      "email": "info@thomasseasuites.com",
+      "phones": [
+        "508-746-1588"
+      ],
+      "source": "https://www.thomasseasuites.com/homes/book.html"
+    },
+    "operatorEvidenceUrl": "https://www.thomasseasuites.com/homes/wildwood.html",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Property page lists sleeps 6.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.thomasseasuites.com/homes/wildwood.html",
+      "bedrooms": "https://www.thomasseasuites.com/homes/wildwood.html",
+      "bathrooms": "https://www.thomasseasuites.com/homes/wildwood.html",
+      "pets": "https://www.thomasseasuites.com/homes/wildwood.html"
+    },
+    "description": "Three-bedroom, 2.5-bath Cedarville house a short walk from Sagamore Beach; a one-bedroom apartment below can be rented with it.",
+    "descriptionSource": "https://www.thomasseasuites.com/homes/wildwood.html",
+    "photoCandidates": [
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/wildwood/upstairs/16.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/wildwood.html",
+        "alt": "Thomas Sea Suites — Wildwood Beach House (Cedarville) gallery photograph",
+        "unitOrCampus": "Wildwood Beach House (Cedarville) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/wildwood/upstairs/18.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/wildwood.html",
+        "alt": "Thomas Sea Suites — Wildwood Beach House (Cedarville) gallery photograph",
+        "unitOrCampus": "Wildwood Beach House (Cedarville) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/wildwood/upstairs/6.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/wildwood.html",
+        "alt": "Thomas Sea Suites — Wildwood Beach House (Cedarville) gallery photograph",
+        "unitOrCampus": "Wildwood Beach House (Cedarville) property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/wildwood/upstairs/3.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/wildwood.html",
+        "alt": "Thomas Sea Suites — Wildwood Beach House (Cedarville) gallery photograph",
+        "unitOrCampus": "Wildwood Beach House (Cedarville) property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.thomasseasuites.com/homes/",
+    "sourceUrl": "https://www.thomasseasuites.com/homes/",
+    "lat": 41.813317,
+    "lng": -70.543366,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.thomasseasuites.com/homes/"
+  },
+  {
+    "id": "MA-17020",
+    "name": "Thomas Sea Suites — Kingston Residences",
+    "website": "https://www.thomasseasuites.com/homes/maple.html",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Apartment",
+    "city": "Kingston",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Thomas Sea Suites",
+    "operatorClassification": "Plymouth owner-operator of vacation homes with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on Thomas Sea Suites own vacation homes website (thomasseasuites.com/homes), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.thomasseasuites.com/homes/",
+      "https://www.thomasseasuites.com/homes/maple.html",
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "150 Water Street",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.thomasseasuites.com/homes/book.html",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Unknown",
+      "city": "Kingston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": ""
+    },
+    "bookingMethod": "Live availability calendar and direct booking for each home (Check Availability)",
+    "bookingUrl": "https://www.thomasseasuites.com/homes/maple.html",
+    "directContact": {
+      "email": "info@thomasseasuites.com",
+      "phones": [
+        "508-746-1588"
+      ],
+      "source": "https://www.thomasseasuites.com/homes/book.html"
+    },
+    "operatorEvidenceUrl": "https://www.thomasseasuites.com/homes/maple.html",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "bathrooms": "https://www.thomasseasuites.com/homes/maple.html",
+      "pets": "https://www.thomasseasuites.com/homes/maple.html"
+    },
+    "description": "Two apartments in Kingston, a 2-bedroom and a 3-bedroom, each with full kitchen, in-unit laundry and private entrance.",
+    "descriptionSource": "https://www.thomasseasuites.com/homes/maple.html",
+    "photoCandidates": [
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/maple/1.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/maple.html",
+        "alt": "Thomas Sea Suites — Kingston Residences gallery photograph",
+        "unitOrCampus": "Kingston Residences property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/maple/2.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/maple.html",
+        "alt": "Thomas Sea Suites — Kingston Residences gallery photograph",
+        "unitOrCampus": "Kingston Residences property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/maple/3.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/maple.html",
+        "alt": "Thomas Sea Suites — Kingston Residences gallery photograph",
+        "unitOrCampus": "Kingston Residences property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/maple/4.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/maple.html",
+        "alt": "Thomas Sea Suites — Kingston Residences gallery photograph",
+        "unitOrCampus": "Kingston Residences property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.thomasseasuites.com/homes/",
+    "sourceUrl": "https://www.thomasseasuites.com/homes/",
+    "lat": 41.99336,
+    "lng": -70.7375,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.thomasseasuites.com/homes/"
+  },
+  {
+    "id": "MA-17021",
+    "name": "Thomas Sea Suites — Warren House Suites",
+    "website": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Apartment",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Thomas Sea Suites",
+    "operatorClassification": "Plymouth owner-operator of vacation homes with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on Thomas Sea Suites own vacation homes website (thomasseasuites.com/homes), with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.thomasseasuites.com/homes/",
+      "https://www.thomasseasuites.com/homes/warrenhouse.html",
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.thomasseasuites.com/homes/book.html"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "150 Water Street",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.thomasseasuites.com/homes/book.html",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Unknown",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": ""
+    },
+    "bookingMethod": "Live availability calendar and direct booking for each home (Check Availability)",
+    "bookingUrl": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+    "directContact": {
+      "email": "info@thomasseasuites.com",
+      "phones": [
+        "508-746-1588"
+      ],
+      "source": "https://www.thomasseasuites.com/homes/book.html"
+    },
+    "operatorEvidenceUrl": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page lists pets allowed/considered.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "pets": "https://www.thomasseasuites.com/homes/warrenhouse.html"
+    },
+    "description": "Small building of self-contained one- and two-bedroom suites on Warren Avenue, Plymouth, each with private entrance and full kitchen.",
+    "descriptionSource": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+    "photoCandidates": [
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/warrenhouse/exterior/warrenhouse.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+        "alt": "Thomas Sea Suites — Warren House Suites gallery photograph",
+        "unitOrCampus": "Warren House Suites property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/warrenhouse/suite2b/1.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+        "alt": "Thomas Sea Suites — Warren House Suites gallery photograph",
+        "unitOrCampus": "Warren House Suites property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/warrenhouse/suite2b/2.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+        "alt": "Thomas Sea Suites — Warren House Suites gallery photograph",
+        "unitOrCampus": "Warren House Suites property gallery"
+      },
+      {
+        "url": "https://www.thomasseasuites.com/homes/images/icons/warrenhouse/suite2b/3.webp",
+        "sourcePage": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+        "alt": "Thomas Sea Suites — Warren House Suites gallery photograph",
+        "unitOrCampus": "Warren House Suites property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.thomasseasuites.com/homes/",
+    "sourceUrl": "https://www.thomasseasuites.com/homes/",
+    "lat": 41.945196,
+    "lng": -70.635109,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.thomasseasuites.com/homes/"
+  },
+  {
+    "id": "MA-17022",
+    "name": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth",
+    "website": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Plymouth",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Lamacchia Vacation Rentals",
+    "operatorClassification": "Cape Cod and Plymouth vacation-rental manager with own booking website",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on Lamacchia Vacation Rentals own Streamline booking website, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.lamacchiavacationrentals.com/sitemap_index.xml",
+      "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+      "https://www.lamacchiavacationrentals.com/contact-us/"
+    ],
+    "contactPagesChecked": [
+      "https://www.lamacchiavacationrentals.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "Operator business office, not the individual rental",
+      "street": "703 Main Street",
+      "city": "Falmouth",
+      "state": "MA",
+      "zip": "02540",
+      "source": "https://www.lamacchiavacationrentals.com/contact-us/",
+      "notes": "Published operator office address; not the rental location."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "59 Nonantum Rd",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking with dates, quote and inquiry on the property page",
+    "bookingUrl": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+    "directContact": {
+      "email": "info@lamacchiavacationrentals.com",
+      "phones": [
+        "508-548-3415"
+      ],
+      "source": "https://www.lamacchiavacationrentals.com/contact-us/"
+    },
+    "operatorEvidenceUrl": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 6.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+      "bedrooms": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+      "bathrooms": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+      "pets": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/"
+    },
+    "description": "Updated three-bedroom Cape in Plymouth with access to a private section of Sagamore Beach; sleeps 6.",
+    "descriptionSource": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+    "photoCandidates": [
+      {
+        "url": "https://www.lamacchiavacationrentals.com/unitimages/8259/59%2Bext%2B1.jpg",
+        "sourcePage": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+        "alt": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth gallery photograph",
+        "unitOrCampus": "59 Nonantum Rd - Plymouth property gallery"
+      },
+      {
+        "url": "https://www.lamacchiavacationrentals.com/unitimages/8259/59%2Bext%2B2.jpg",
+        "sourcePage": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+        "alt": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth gallery photograph",
+        "unitOrCampus": "59 Nonantum Rd - Plymouth property gallery"
+      },
+      {
+        "url": "https://www.lamacchiavacationrentals.com/unitimages/8259/59%2Bexterior.jpg",
+        "sourcePage": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+        "alt": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth gallery photograph",
+        "unitOrCampus": "59 Nonantum Rd - Plymouth property gallery"
+      },
+      {
+        "url": "https://www.lamacchiavacationrentals.com/unitimages/8259/001_jim01986.jpg",
+        "sourcePage": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+        "alt": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth gallery photograph",
+        "unitOrCampus": "59 Nonantum Rd - Plymouth property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.lamacchiavacationrentals.com/sitemap_index.xml",
+    "sourceUrl": "https://www.lamacchiavacationrentals.com/sitemap_index.xml",
+    "lat": 41.813663,
+    "lng": -70.54737,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/"
+  },
+  {
+    "id": "MA-17023",
+    "name": "Humarock Memory Maker Beach House",
+    "website": "https://humarockmemorymakerbeachhouse.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Scituate",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Humarock Memory Maker Beach House",
+    "operatorClassification": "Single-property owner website",
+    "classification": "Single vacation rental with own owner website",
+    "eligibilityReason": "Own website of a single Massachusetts (South Shore) vacation rental, with direct booking/inquiry contact.",
+    "openedUrls": [
+      "https://humarockmemorymakerbeachhouse.com/"
+    ],
+    "contactPagesChecked": [
+      "https://humarockmemorymakerbeachhouse.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address not published",
+      "street": "Unknown",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://humarockmemorymakerbeachhouse.com/",
+      "notes": "Owner site publishes email/phone contact only."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Unknown",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": ""
+    },
+    "bookingMethod": "Weekly rates on the site; reservation request form and email inquiry",
+    "bookingUrl": "https://humarockmemorymakerbeachhouse.com/",
+    "directContact": {
+      "email": "memorymaker02047@gmail.com",
+      "phones": [],
+      "source": "https://humarockmemorymakerbeachhouse.com/"
+    },
+    "operatorEvidenceUrl": "https://humarockmemorymakerbeachhouse.com/",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 9,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Property page lists sleeps 9.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://humarockmemorymakerbeachhouse.com/",
+      "bedrooms": "https://humarockmemorymakerbeachhouse.com/",
+      "bathrooms": "https://humarockmemorymakerbeachhouse.com/",
+      "pets": "https://humarockmemorymakerbeachhouse.com/"
+    },
+    "description": "Four-bedroom, 2.5-bath beach house in Humarock steps from the beach, with wraparound deck, ocean views and air conditioning; sleeps 9.",
+    "descriptionSource": "https://humarockmemorymakerbeachhouse.com/",
+    "photoCandidates": [
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/78b4184d-3220-4618-8261-5768c3ae8533/front%20view.jpg",
+        "sourcePage": "https://humarockmemorymakerbeachhouse.com/",
+        "alt": "Humarock Memory Maker Beach House gallery photograph",
+        "unitOrCampus": "Humarock Memory Maker Beach House property gallery"
+      },
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/78b4184d-3220-4618-8261-5768c3ae8533/Great%20Room.webp",
+        "sourcePage": "https://humarockmemorymakerbeachhouse.com/",
+        "alt": "Humarock Memory Maker Beach House gallery photograph",
+        "unitOrCampus": "Humarock Memory Maker Beach House property gallery"
+      },
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/78b4184d-3220-4618-8261-5768c3ae8533/Kitchen.webp",
+        "sourcePage": "https://humarockmemorymakerbeachhouse.com/",
+        "alt": "Humarock Memory Maker Beach House gallery photograph",
+        "unitOrCampus": "Humarock Memory Maker Beach House property gallery"
+      },
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/78b4184d-3220-4618-8261-5768c3ae8533/Main%20Level.webp",
+        "sourcePage": "https://humarockmemorymakerbeachhouse.com/",
+        "alt": "Humarock Memory Maker Beach House gallery photograph",
+        "unitOrCampus": "Humarock Memory Maker Beach House property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://humarockmemorymakerbeachhouse.com/",
+    "sourceUrl": "https://humarockmemorymakerbeachhouse.com/"
+  },
+  {
+    "id": "MA-17024",
+    "name": "Humarock Oceanfront Vacation Home",
+    "website": "https://www.humarockoceanfrontvacationhome.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Scituate",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Humarock Oceanfront Vacation Home",
+    "operatorClassification": "Single-property owner website",
+    "classification": "Single vacation rental with own owner website",
+    "eligibilityReason": "Own website of a single Massachusetts (South Shore) vacation rental, with direct booking/inquiry contact.",
+    "openedUrls": [
+      "https://www.humarockoceanfrontvacationhome.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.humarockoceanfrontvacationhome.com/"
+    ],
+    "contactAddress": {
+      "role": "Operator business address not published",
+      "street": "Unknown",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.humarockoceanfrontvacationhome.com/",
+      "notes": "Owner site publishes email/phone contact only."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "Unknown",
+      "city": "Scituate",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": ""
+    },
+    "bookingMethod": "Saturday-to-Saturday weekly rentals booked by email",
+    "bookingUrl": "https://www.humarockoceanfrontvacationhome.com/",
+    "directContact": {
+      "email": "fouts525@gmail.com",
+      "phones": [],
+      "source": "https://www.humarockoceanfrontvacationhome.com/"
+    },
+    "operatorEvidenceUrl": "https://www.humarockoceanfrontvacationhome.com/",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Property page states pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "bedrooms": "https://www.humarockoceanfrontvacationhome.com/",
+      "bathrooms": "https://www.humarockoceanfrontvacationhome.com/",
+      "pets": "https://www.humarockoceanfrontvacationhome.com/"
+    },
+    "description": "Remodeled three-bedroom, one-bath oceanfront home on a private beach in Humarock, with central A/C and outdoor shower; weekly rentals.",
+    "descriptionSource": "https://www.humarockoceanfrontvacationhome.com/",
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/885864_c283c75331fb4582b58d1a35289ea30d~mv2.jpg",
+        "sourcePage": "https://www.humarockoceanfrontvacationhome.com/",
+        "alt": "Humarock Oceanfront Vacation Home gallery photograph",
+        "unitOrCampus": "Humarock Oceanfront Vacation Home property gallery"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/885864_f1d7459516754131920dec87aff16522~mv2.jpg",
+        "sourcePage": "https://www.humarockoceanfrontvacationhome.com/",
+        "alt": "Humarock Oceanfront Vacation Home gallery photograph",
+        "unitOrCampus": "Humarock Oceanfront Vacation Home property gallery"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/885864_e162002efc5349cf82224f873bf5b62a~mv2.jpg",
+        "sourcePage": "https://www.humarockoceanfrontvacationhome.com/",
+        "alt": "Humarock Oceanfront Vacation Home gallery photograph",
+        "unitOrCampus": "Humarock Oceanfront Vacation Home property gallery"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/885864_218ba457f10945f989fa872fc4e4a85a~mv2.jpg",
+        "sourcePage": "https://www.humarockoceanfrontvacationhome.com/",
+        "alt": "Humarock Oceanfront Vacation Home gallery photograph",
+        "unitOrCampus": "Humarock Oceanfront Vacation Home property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.humarockoceanfrontvacationhome.com/",
+    "sourceUrl": "https://www.humarockoceanfrontvacationhome.com/"
+  },
+  {
+    "id": "MA-17025",
+    "name": "Ocean Bay Nantasket — One-Bedroom Vacation Rental",
+    "website": "https://www.oceanbaynantasket.com/short-term-rental/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Apartment",
+    "city": "Hull",
+    "state": "MA",
+    "platformLinks": {},
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own property/contact pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": true,
+    "directoryDisposition": "Active candidate; 4 operator gallery photos saved",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Ocean Bay Nantasket",
+    "operatorClassification": "Nantasket Beach apartment building with own vacation-rental page",
+    "classification": "Individual vacation rental managed by local operator",
+    "eligibilityReason": "Individual property page on Ocean Bay Nantasket own apartment building website with vacation-rental page, with Massachusetts (South Shore) rental, direct booking/inquiry controls and official contact page.",
+    "openedUrls": [
+      "https://www.oceanbaynantasket.com/",
+      "https://www.oceanbaynantasket.com/short-term-rental/",
+      "https://www.oceanbaynantasket.com/contact/"
+    ],
+    "contactPagesChecked": [
+      "https://www.oceanbaynantasket.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "Operator building address (rental building)",
+      "street": "163 Nantasket Ave",
+      "city": "Hull",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.oceanbaynantasket.com/",
+      "notes": "Published building address; leasing office is in the building."
+    },
+    "rentalAddress": {
+      "role": "Rental property address",
+      "street": "163 Nantasket Ave",
+      "city": "Hull",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.oceanbaynantasket.com/",
+      "notes": ""
+    },
+    "bookingMethod": "Availability calendars on the page; booking inquiries by email/phone",
+    "bookingUrl": "https://www.oceanbaynantasket.com/short-term-rental/",
+    "directContact": {
+      "email": "office@oceanbaynantasket.com",
+      "phones": [
+        "781-773-1501"
+      ],
+      "source": "https://www.oceanbaynantasket.com/contact/"
+    },
+    "operatorEvidenceUrl": "https://www.oceanbaynantasket.com/short-term-rental/",
+    "notes": "South Shore operator/owner-site scrape 2026-10-27; facts from the property page.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Property page lists sleeps 4.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "factSources": {
+      "guests": "https://www.oceanbaynantasket.com/short-term-rental/",
+      "bedrooms": "https://www.oceanbaynantasket.com/short-term-rental/",
+      "bathrooms": "https://www.oceanbaynantasket.com/short-term-rental/"
+    },
+    "description": "One-bedroom, one-bath unit on Nantasket Beach in Hull with ocean and bay views and a large wraparound balcony; sleeps 4.",
+    "descriptionSource": "https://www.oceanbaynantasket.com/short-term-rental/",
+    "photoCandidates": [
+      {
+        "url": "https://www.oceanbaynantasket.com/wp-content/uploads/2022/05/408-1.jpg",
+        "sourcePage": "https://www.oceanbaynantasket.com/short-term-rental/",
+        "alt": "Ocean Bay Nantasket — One-Bedroom Vacation Rental gallery photograph",
+        "unitOrCampus": "One-Bedroom Vacation Rental property gallery"
+      },
+      {
+        "url": "https://www.oceanbaynantasket.com/wp-content/uploads/2022/05/408-lr.jpg",
+        "sourcePage": "https://www.oceanbaynantasket.com/short-term-rental/",
+        "alt": "Ocean Bay Nantasket — One-Bedroom Vacation Rental gallery photograph",
+        "unitOrCampus": "One-Bedroom Vacation Rental property gallery"
+      },
+      {
+        "url": "https://www.oceanbaynantasket.com/wp-content/uploads/2022/05/408-kit.jpg",
+        "sourcePage": "https://www.oceanbaynantasket.com/short-term-rental/",
+        "alt": "Ocean Bay Nantasket — One-Bedroom Vacation Rental gallery photograph",
+        "unitOrCampus": "One-Bedroom Vacation Rental property gallery"
+      },
+      {
+        "url": "https://www.oceanbaynantasket.com/wp-content/uploads/2022/05/408-BR.jpg",
+        "sourcePage": "https://www.oceanbaynantasket.com/short-term-rental/",
+        "alt": "Ocean Bay Nantasket — One-Bedroom Vacation Rental gallery photograph",
+        "unitOrCampus": "One-Bedroom Vacation Rental property gallery"
+      }
+    ],
+    "discoveryMethod": "Plymouth & South Shore town web search and chamber/aggregator outbound links; operator inventory from https://www.oceanbaynantasket.com/",
+    "sourceUrl": "https://www.oceanbaynantasket.com/",
+    "lat": 42.267831,
+    "lng": -70.852892,
+    "locationPrecision": "Street address",
+    "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=163%20Nantasket%20Ave%2C%20Hull%2C%20MA"
+  }
+]

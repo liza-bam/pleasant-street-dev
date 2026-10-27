@@ -2154,5 +2154,12 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Craigville%2C+MA%2C+USA&format=json&limit=1",
   "label": "Craigville, Centerville, Barnstable, Barnstable County, Massachusetts, 02672, United States",
   "checked": "2026-10-27"
+ },
+ "Newbury, MA, USA": {
+  "lat": 42.7665,
+  "lng": -70.8458,
+  "source": "https://nominatim.openstreetmap.org/search?q=Newbury%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Newbury, Essex County, Massachusetts, United States",
+  "checked": "2026-10-27"
  }
 }
