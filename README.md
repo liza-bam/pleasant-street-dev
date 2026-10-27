@@ -11,8 +11,7 @@ active view/size/filter switches use neutral gray. Home clears the place, filter
 welcome/search screen with the LAZY water background, white LAZY logo, Lobster Pleasant Street
 heading and direct-booking copy. Desktop reuses the LAZY contour-water component with Sandy’s illustrated island map
 in a compact split hero; the same illustration appears below the search on phones. A white, dense Tiny-card grid follows. The homepage shows 100 cards when
-available: featured stays first, followed by a shuffled sample of individual Property records with
-photos. The random sample changes on reload and never changes which houses are featured. A URL without a place or view starts on that home screen. Add your
+available: featured stays first, followed by individual Property records with photos, prioritizing complete guest, bedroom, bathroom, child and pet details. Equal-completeness records are shuffled, so the sample changes on reload and never changes which houses are featured. A URL without a place or view starts on that home screen. Add your
 house opens an email inquiry; recent searches are saved on this device and restore their place,
 group size and filters. The floating search bar shows the selected group size beside the place,
 including when restoring a recent search. A manual map pan or zoom clears the destination and
@@ -38,7 +37,7 @@ website button, a secondary claim badge and compact feature icons, with no descr
 a source-based summary of at most 150 characters and available property facts shown as icons and
 values. Feature icons also stay visible in both map card sizes. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. A small white claim badge at the photo’s
 top-right says “Claim your house” beside the existing LAZY L logo and opens a prefilled email draft
-to `sandy@lazy.vacations`. Open website is the larger primary action, with an independent-host
+to `sandy@lazy.vacations`. Open website is the larger primary action, neutral gray by default and coral on hover, with an independent-host
 notice underneath for non-LAZY listings. Featured houses show Made with LAZY instead of a claim
 badge, linking to the existing free website request at https://lazy.vacations/start/. On Tiny
 cards, claim and Made with LAZY badges show only the LAZY logo; accessible labels and links remain.

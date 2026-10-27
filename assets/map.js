@@ -596,6 +596,8 @@
     var featuredHomes = homes.filter(function (h) { return h.featured; });
     var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && photoSet(h).length; });
     for (var i = homePool.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), temp = homePool[i]; homePool[i] = homePool[j]; homePool[j] = temp; }
+    // Keep complete facts first; the shuffle above only randomizes equal-score homes.
+    homePool.sort(function (a, b) { return featureCompleteness(b) - featureCompleteness(a); });
     var homeSelection = featuredHomes.concat(homePool.slice(0, Math.max(0, 100 - featuredHomes.length)));
     landingFeatured.innerHTML = homeSelection.map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Stays are coming soon.</p>';
     if (initialPlace) rememberSearch();
