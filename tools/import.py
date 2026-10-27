@@ -50,7 +50,7 @@ def key(url):
     # Ignore tracking/search queries, but retain this actual property identity.
     params=urllib.parse.parse_qs(u.query)
     # Operator sites that serve every rental from one page with an id parameter.
-    ids=[n for n in ['PageDataID','reservation_unitId','idProduct','Id','rental','rentalID'] if params.get(n)]
+    ids=[n for n in ['PageDataID','reservation_unitId','idProduct','Id','rental','rentalID','PID'] if params.get(n)]
     suffix='?'+ids[0]+'='+params[ids[0]][0] if ids else ''
     return (u.netloc.lower().removeprefix('www.') + u.path.rstrip('/')).lower()+suffix
 
