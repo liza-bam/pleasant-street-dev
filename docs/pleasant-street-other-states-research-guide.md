@@ -131,7 +131,7 @@ Save price with currency, per-night/week/month basis, dates/season, minimum stay
 
 For every property/operator, follow the published Contact/Contact Us link and inspect the actual property page. If no separate contact page is linked, record that and inspect its visible contact/footer/booking location fallback. Do not invent a route and treat a guessed404 as a failed Contact check.
 
-Save address components, role, source URL, check date, supporting observation and conflicts. Distinguish individual rental, shared building/campus, operator office, PO box/mail, arrival point and partial location. Preserve rental and contact addresses separately. An office address must not be assigned as every managed house's entrance. Keep an unpublished rental street Unknown; approximate map coordinates cannot reveal a verified street number.
+Save address components, role, source URL, check date, supporting observation and conflicts. Distinguish individual rental, shared building/campus, operator office, PO box/mail, arrival point and partial location. Preserve rental and contact addresses separately. An office address must not be assigned as every managed house's entrance. Keep an unpublished rental street Unknown; approximate map coordinates cannot reveal a verified street number. Inspect the actual own property-location map before assigning a point. Preserve own-published approximate area centers with their precision and public label; never spread a city-center fallback into pins presented as rental addresses. Keep conflicting/unverified locations in Cards without a map pin until resolved. Save `locationCoordinates` with lat/lng/precision/source URL and supporting observations.
 
 ### Pet and child policies
 
