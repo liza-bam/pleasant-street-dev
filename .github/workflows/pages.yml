@@ -26,7 +26,7 @@ jobs:
           # ONE switch: when IMAGE_BASE (repo variable) is set, every photo comes from that host (the LAZY bucket)
           # and the shards below are ignored. Until then the four pleasant-street-images shards serve them.
           BASE='${{ vars.IMAGE_BASE }}'
-          SHARDS='{"MA-1":"https://liza-bam.github.io/pleasant-street-images-1","MA-6":"https://liza-bam.github.io/pleasant-street-images-2","MA-7":"https://liza-bam.github.io/pleasant-street-images-2","ME-":"https://liza-bam.github.io/pleasant-street-images-3","MA-0":"https://liza-bam.github.io/pleasant-street-images-3","*":"https://liza-bam.github.io/pleasant-street-images-4"}'
+          SHARDS='{"MA-10":"https://liza-bam.github.io/pleasant-street-images-5","MA-11":"https://liza-bam.github.io/pleasant-street-images-6","MA-1":"https://liza-bam.github.io/pleasant-street-images-1","MA-6":"https://liza-bam.github.io/pleasant-street-images-2","MA-7":"https://liza-bam.github.io/pleasant-street-images-2","ME-":"https://liza-bam.github.io/pleasant-street-images-3","MA-0":"https://liza-bam.github.io/pleasant-street-images-3","*":"https://liza-bam.github.io/pleasant-street-images-4"}'
           sed -i "s#data-image-base=\"\" data-image-shards=''#data-image-base=\"$BASE\" data-image-shards='$SHARDS'#" site/index.html
           grep -o 'data-image-base="[^"]*"' site/index.html
           du -sh site
