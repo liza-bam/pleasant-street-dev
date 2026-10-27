@@ -104,6 +104,19 @@ Revisit eligible/ready entries to fill supported fields. Open property details a
 
 Do not stop after the first batch merely because it is large. Maintain geography and named-source coverage, plus exact next queues, throughout the work.
 
+## Lessons from Cape Cod (2026-10-27)
+
+- **Order:** list the state's tourist destinations first, then work one destination at a time; small operators and single-owner sites first, large managers after.
+- **Property managers are the bulk.** A local manager or rental agency whose site gives every rental its own page counts as that rental's own website. Scrape the whole inventory with a script: `sitemap.xml`, listing pages, or the booking engine's JSON (Ciirus, Escapia, Streamline, Track, LiveRez, VRP, OwnerRez, Hostaway, Guesty, Lodgify, TenantWiz). One Cape manager gave 200–550 homes.
+- **Pin from the map on the property page, never the office.** Take coordinates from the page itself: booking-engine JSON (`geocode`, `unitsAll`), JSON-LD `geo`, map markers, map iframes, Mapbox/Google static map URLs (`…/static/<lng>,<lat>,…`, `center=`). The approximate location of that map is enough. Otherwise geocode the street address the page shows (Nominatim, accept only hits inside the stated town). Reject 0,0 and points in the ocean. Never pin at the operator's office: 90 homes stacked on one town point.
+- **Photos:** 3–4 from the rental's own page. Drop images shared across listings, logos, maps, floor plans, aerial area shots and signs. Fewer than 3 real photos: leave it out.
+- **One home per rental page.** Sites that serve every rental from one path with an id parameter (`?Id=`, `?rental=`, `?rentalID=`, `?idProduct=`, `?PageDataID=`) are separate homes; keep the parameter when matching.
+- **Leave out:** inns, B&Bs, hotels, motels; winter, monthly or long-term only; combined listings of units already listed; Airbnb/Vrbo/Booking-only; national managers and platforms (Vacasa, Evolve, Marriott Homes & Villas); off-destination towns.
+- **Aggregators are discovery only.** Use them for outbound links to owners' own sites. On Cape Cod only CapeCodVacationRentals.com had such links; WeNeedaVacation, OwnerDirect, ByOwner and A1VacationHomes did not.
+- **Tourist destination:** every listing carries one (Cape Cod, Martha's Vineyard, Sebago, Portland…).
+- **Not online, with a reason:** every site or listing found but left out goes to the bad-sites list with its reason (dead, no photos, long-term only, inn, duplicate…).
+- **Web searches are capped per session** (200 by default). Finish discovery from known catalogs and managers before searching town by town.
+
 ## Required evidence rules
 
 ### Exact status vocabulary

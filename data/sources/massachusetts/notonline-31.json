@@ -1,0 +1,138 @@
+[
+ {
+  "name": "Benton One+ (Long Term)",
+  "url": "https://www.berkrentals.com/property/636377509251777585/benton-one-long-term",
+  "town": "Great Barrington",
+  "operator": "Berkshire Rental Properties",
+  "reason": "Long-term rental only",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Crossbridge – Full Property (House + Apartment)",
+  "url": "https://redcottage.com/property/crossbridge-full-property-house-apartment/",
+  "town": "West Stockbridge",
+  "operator": "Red Cottage",
+  "reason": "Combined booking of units already listed separately (Crossbridge Main House)",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Meadow Top Cottage and Cabin",
+  "url": "https://redcottage.com/property/meadow-top-cottage-and-cabin/",
+  "town": "New Marlborough",
+  "operator": "Red Cottage",
+  "reason": "Combined booking of units already listed separately (Meadow Top Cottage, Meadow Top Cabin)",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Misty Pines Cabin",
+  "url": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna",
+  "town": "Unknown",
+  "operator": "Berkshire Vacation Rental Co.",
+  "reason": "Already in directory",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Evergreen Home Vacation Rentals (about 30 listings)",
+  "url": "https://book.evergreenhomevacationrentals.com/",
+  "town": "Lenox / Great Barrington / Pittsfield",
+  "operator": "Evergreen Home Vacation Rentals",
+  "reason": "Hostfully booking app renders listings by script only; property data not readable from its pages",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Secluded Family Home in Serene Stockbridge Woods",
+  "url": "https://stayberkshires.com/stockbridge/",
+  "town": "Stockbridge",
+  "operator": "Stay Berkshires",
+  "reason": "Unfinished template site: dead booking button, placeholder phone, 2 photos",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Berkshire Home Rentals (Stockbridge Cape)",
+  "url": "https://www.berkshirehomerentals.com/",
+  "town": "Stockbridge",
+  "operator": "Berkshire Home Rentals",
+  "reason": "Booking only through Airbnb",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Sojourn Properties (Berkshire County home)",
+  "url": "https://sojournma.com/berkshire-county-properties/",
+  "town": "Unknown",
+  "operator": "Sojourn Properties",
+  "reason": "Booking only through Airbnb",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Berkshire Hosts",
+  "url": "https://www.berkshirehosts.com/",
+  "town": "Unknown",
+  "operator": "Berkshire Hosts",
+  "reason": "Management company site with no rental listings",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Red Cottage (Berkshires inventory, non-MA)",
+  "url": "https://redcottage.com/properties/",
+  "town": "Hillsdale NY / Salisbury CT",
+  "operator": "Red Cottage",
+  "reason": "Outside Massachusetts",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "The Trail in Adams",
+  "url": "https://www.thetrailinadams.com/",
+  "town": "Adams",
+  "operator": "The Trail",
+  "reason": "Hotel / inn rooms",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Williamstown Rentals",
+  "url": "https://williamstownrentals.com/",
+  "town": "Williamstown",
+  "operator": "Williamstown Rentals",
+  "reason": "Long-term rental only",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Jiminy Peak Rentals",
+  "url": "https://jiminypeakrentals.com/",
+  "town": "Hancock",
+  "operator": "Unknown",
+  "reason": "Site blocked by bot challenge; listings not readable",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Berkshire Vacation (catalog)",
+  "url": "https://www.berkshirevacation.com/vacation-rentals/",
+  "town": "Berkshires",
+  "operator": "berkshirevacation.com",
+  "reason": "Aggregator of Vrbo affiliate links; no own booking",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Just The Berkshires (catalog)",
+  "url": "https://justtheberkshires.com/berkshire-vacation-rentals-page-1/",
+  "town": "Berkshires",
+  "operator": "justtheberkshires.com",
+  "reason": "Aggregator of Vrbo affiliate links; no own booking",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Chambery Inn Berkshires rental",
+  "url": "https://www.chamberyinn.com/berkshires-rental",
+  "town": "Lee",
+  "operator": "Chambery Inn",
+  "reason": "Hotel / inn rooms",
+  "checkedOn": "2026-10-27"
+ },
+ {
+  "name": "Vacation Village in the Berkshires",
+  "url": "https://berkshires.org/business-directory/vacation-rentals/vacation-village-in-the-berkshires-2/",
+  "town": "Hancock",
+  "operator": "Vacation Village",
+  "reason": "Timeshare resort, not a vacation rental",
+  "checkedOn": "2026-10-27"
+ }
+]

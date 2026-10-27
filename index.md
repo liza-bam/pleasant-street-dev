@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-3814 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+3886 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -2807,6 +2807,958 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit child admission rule found in checked pages.
 - Pet policy: Dogs negotiable with $60 per dog fee; no puppies and no cats. Dog rules referenced as text without an exposed link; confirm full restrictions with operator.
 - Website (book here, directly with the host): https://berkshirefarmhousevacation.com/
+
+## Berkshire Rental Properties — Aberdeen
+
+- ID: MA-15024
+- Town / area (approximate map location): New Marlborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Aberdeen: Sparkling contemporary, sitting on 6+ acres, one-level living + privacy.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377530382681742/aberdeen
+
+## Berkshire Rental Properties — Casa Mia with Pool
+
+- ID: MA-15000
+- Town / area (approximate map location): New Marlborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Amenities include 5+ bedrooms, 4 full baths, sleeps 12 in beds and 14 max, with a heated seasonal pool, hot tub and sauna.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4
+- Sleeps: Property page lists sleeps 14.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377516533089471/casa-mia-with-pool
+
+## Berkshire Rental Properties — Castle Townhouse
+
+- ID: MA-15015
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: Apartment
+- Description: Renovated 3-bedroom, 1.5-bath townhouse steps from the center of Great Barrington and a short walk to Lake Mansfield.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377463655497807/castle-townhouse
+
+## Berkshire Rental Properties — Cherry View
+
+- ID: MA-15018
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Cherry View Amenities: 4+ bedrooms, 3.5 baths, sleeps 8 in beds or 10 max.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/700517978424215169/cherry-view
+
+## Berkshire Rental Properties — Conway House
+
+- ID: MA-15021
+- Town / area (approximate map location): Housatonic, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Conway House sits overlooking the sparkling Housatonic River, with vast views.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377514981196912/conway-house
+
+## Berkshire Rental Properties — Creamery
+
+- ID: MA-15009
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Fully renovated 5-bedroom home that sleeps 12, with large screened porch, hot tub, fire pit and billiards.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377522245731709/creamery-road
+
+## Berkshire Rental Properties — Dixon Cottage
+
+- ID: MA-15022
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Renovated cottage with vast mountain views. 3 bedrooms, 2 full baths, sleeps 6.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377482131407340/dixon-cottage
+
+## Berkshire Rental Properties — Garden House
+
+- ID: MA-15027
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: The Garden House, Quiet Elegance with One-Level Living, in a Park-Like Setting.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377547008903209/garden-house
+
+## Berkshire Rental Properties — Hadley House
+
+- ID: MA-15026
+- Town / area (approximate map location): Stockbridge, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Hadley House with lush gardens in Stockbridge, MA with Hot Tub, sleeps 7 in beds.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377487168766598/hadley-house
+
+## Berkshire Rental Properties — Highland
+
+- ID: MA-15008
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Highland: Epic GB location: walk-to the Green River, fully fenced yard, with hot tub.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377540046358380/highland
+
+## Berkshire Rental Properties — Hill House Modern
+
+- ID: MA-15025
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Hill House Modern: a lovely mid-century modern boasting one-level living
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377524753925599/prospect-on-the-hill
+
+## Berkshire Rental Properties — Hummingbird House
+
+- ID: MA-15003
+- Town / area (approximate map location): Sheffield, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: One-level Mid-Century Modern retreat on 4+ acres in the Southern Berkshires, with heated pool and screened-in porch.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/692954662403309740/hummingbird-house
+
+## Berkshire Rental Properties — Interlaken Cross
+
+- ID: MA-15010
+- Town / area (approximate map location): Stockbridge, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Interlaken Cross: Easy 1 level living with 2 additional bedrooms on the second floor. Sunny open floor-plan and well set up sun deck.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377519959835945/interlaken-cross
+
+## Berkshire Rental Properties — Lake Garfield Waterfront
+
+- ID: MA-15006
+- Town / area (approximate map location): Monterey, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Lake Garfield Waterfront is a dynamic, adorable, cozy and exhilarating rental experience directly on the water!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377479304446355/lake-garfield-waterfront
+
+## Berkshire Rental Properties — Lakeside Cottage
+
+- ID: MA-15002
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: The Lakeside Cottage is a wonderful waterfront retreat with direct access to Prospect Lake.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377484660572729/lakeside-cottage
+
+## Berkshire Rental Properties — Laurel Banks Waterfront
+
+- ID: MA-15016
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Laurel Banks Waterfront: Amenities include 4 bedrooms, 2 full baths, all new mattresses and linens, high-speed fiber optic internet
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377506714223584/laurel-banks-waterfront
+
+## Berkshire Rental Properties — Laurel Cottage
+
+- ID: MA-15014
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Laurel Cottage: A whimsical 3 bedroom cottage, with delightful outdoor spaces, close to all Berkshire events!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377460807565315/laurel-cottage
+
+## Berkshire Rental Properties — Long Pond Views
+
+- ID: MA-15028
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Long Pond Views: New Built Contemporary with 4 bedroom, 4 full baths, sleeps 8 in beds.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377501400040320/long-pond-views
+
+## Berkshire Rental Properties — Red House
+
+- ID: MA-15005
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: The Red House: Exclusive, Modern Farmhouse with Big Views, Heated Pool and Hot Tub. 5 bedrooms, 3 full baths, Sleeps 12, or a max of 14.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 14.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/659430242158380025/red-house
+
+## Berkshire Rental Properties — Riverside
+
+- ID: MA-15017
+- Town / area (approximate map location): Sheffield, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Riverside Amenities: 4 bedrooms (King, Queen, Queen, King), 2.5 baths. sleeps 8 guests in beds, with a max of 10 guests.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 11.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377497516114718/riverside
+
+## Berkshire Rental Properties — Rose Cottage
+
+- ID: MA-15013
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Rose Cottage, Egremont MA: Cozy, enchanting 3 bedroom cottage with 1.5 baths in lush, sprawling, rural location.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/670439084904155538/rose-cottage
+
+## Berkshire Rental Properties — Rosecliff Estate
+
+- ID: MA-15023
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Rosecliff Amenities: Main House, Heated Pool with Pool house, Sleeps 13 in beds or 15 max.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 7
+- Sleeps: Property page lists sleeps 15.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377537156482783/rosecliff-estate-with-pool
+
+## Berkshire Rental Properties — Seventeen
+
+- ID: MA-15001
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Seventeen is a beautifully Updated light-filled Berkshire Farmhouse with Thoughtful Touches Throughout!
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 12.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377543397607358/seventeen
+
+## Berkshire Rental Properties — Sweetwater
+
+- ID: MA-15012
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Immaculate Waterfront Lake House with Direct Access to Lake Buel.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377493569274584/sweetwater
+
+## Berkshire Rental Properties — The Meadows
+
+- ID: MA-15011
+- Town / area (approximate map location): Mill River, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: The Meadows: An architectural blend of modern and rustic, with vast meadow views, marrying what was once a log cabin with contemporary stone
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 9.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/692501240155734328/the-meadows
+
+## Berkshire Rental Properties — The Novogratz
+
+- ID: MA-15019
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Designed by The Novogratz: This revered sun-filled antique Colonial makes it's return!
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 16.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/665672418169194190/the-novogratz-with-pool
+
+## Berkshire Rental Properties — West View
+
+- ID: MA-15020
+- Town / area (approximate map location): Alford, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: West View: Chic, modern, log cabin with lovely sun deck and forest views!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377550678919290/west-view-long-term
+
+## Berkshire Rental Properties — White Birch
+
+- ID: MA-15004
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: White Birch amenities include 4 bedrooms, 3 baths, Sleep 12+ a main floor master suite with a large walk in shower, hot tub, high speed internet
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 14.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/636377470978752732/white-birch
+
+## Berkshire Rental Properties — Woodland
+
+- ID: MA-15007
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Sparkling Renovation, top to bottom, on quiet cul-du-sac: 5 bedrooms, 3.5 baths, sleeps 14 in beds. Max of 9 adults, preferred.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 14.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkrentals.com/property/668197974664282254/woodland
+
+## Berkshire Vacation Rental Co. — Belden Farm - WALK to Tanglewood !
+
+- ID: MA-15032
+- Town / area (approximate map location): Lenox, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Step in to Belden Farm, circa 1881.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/671186753268223239/the-belden-house-walk-to-tanglewood
+
+## Berkshire Vacation Rental Co. — Bidwell Landing
+
+- ID: MA-15038
+- Town / area (approximate map location): Monterey, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Enjoy this spacious 4 bed, 4 bath home nestled on Lake Garfield in the beautiful Berkshires.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825472626133775/bidwell-landing-lakefront-spacious
+
+## Berkshire Vacation Rental Co. — Cheshire Cove
+
+- ID: MA-15037
+- Town / area (approximate map location): Cheshire, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Escape to this charming lakeside oasis on Cheshire Lake in the heart of The Berkshires.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825474937195374/cheshire-cove-waterfront-kayak-firepit
+
+## Berkshire Vacation Rental Co. — Corey Road Condo
+
+- ID: MA-15044
+- Town / area (approximate map location): Hancock, MA
+- Tourist destination: The Berkshires
+- Type: Apartment
+- Description: Perfectly situated for the ski season, you'll enjoy quick access to both the slopes and apres ski.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825476744940468/corey-road-condo-jiminy-peak-pool-hot-tub
+
+## Berkshire Vacation Rental Co. — Dharma Grove - Bask in the Light
+
+- ID: MA-15046
+- Town / area (approximate map location): Pittsfield, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Set on sprawling open grounds in Richmond, this Berkshire retreat has a quiet magic to it.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/655232155693089093/dharma-hollow-grounded-w-a-whiff-of-mystical
+
+## Berkshire Vacation Rental Co. — Forest Hollow
+
+- ID: MA-15033
+- Town / area (approximate map location): Monterey, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Take a step out of everyday life and enjoy some rest and relaxation at this cozy home on the lake nestled in the hills of The Berkshires.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825478447827948/forest-hollow-waterfront-kayaks-wood-stove
+
+## Berkshire Vacation Rental Co. — Friendly Hills
+
+- ID: MA-15039
+- Town / area (approximate map location): Pittsfield, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Welcome to Friendly Hills, a one-of-a-kind Mid-Century home nestled on 6 private acres. Built in the 1950s by GE engineer Willard F.M.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825479706119208/friendly-hills-passive-home-ev-charger
+
+## Berkshire Vacation Rental Co. — Garfield Grounds
+
+- ID: MA-15035
+- Town / area (approximate map location): Monterey, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: This spacious house features a stunning private dock perfect for swimming and vast open grounds ideal for entertaining.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825481761328244/garfield-grounds-lakeside-guest-cottage-dock
+
+## Berkshire Vacation Rental Co. — Gilbert Ski Chalet
+
+- ID: MA-15043
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: With large picture windows framing stunning views, the open design feels airy and inviting—perfect for gathering after a day on the slopes.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825483669736652/gilbert-ski-chalet-3-min-to-catamount
+
+## Berkshire Vacation Rental Co. — Goose Pond Landings
+
+- ID: MA-15042
+- Town / area (approximate map location): Tyringham, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: This spacious 3BR/3BA home offers stunning lake views, kayaks for exploring the lake, and a backyard perfect for time spent with the whole family.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825484957388034/goose-pond-landings-private-dock-kayaks
+
+## Berkshire Vacation Rental Co. — Hearth House
+
+- ID: MA-15045
+- Town / area (approximate map location): Stockbridge, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: This charming, sun-filled home offers 3 comfortable bedrooms and 2.5 baths, perfect for relaxing with family or friends.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825486651886919/hearth-house-private-sauna-prime-location
+
+## Berkshire Vacation Rental Co. — Hupi Hideaway
+
+- ID: MA-15054
+- Town / area (approximate map location): Monterey, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Hupi Hideaway is a cozy Monterey retreat with an easy, old-school Berkshires feel, and it’s barely a 5-minute walk to the Lake Garfield town beach.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/723356519826983912/hupi-hideaway-fireplace-5-min-walk-to-the-lake
+
+## Berkshire Vacation Rental Co. — Hupi House
+
+- ID: MA-15055
+- Town / area (approximate map location): Monterey, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Set on eight acres of pristine sugar maple forest in Monterey, Hupi House is the kind of place you settle into fast.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/723356535819862268/hupi-house-stylish-hideaway-near-lake-garfield
+
+## Berkshire Vacation Rental Co. — Jug End Crest
+
+- ID: MA-15034
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Nestled beside Jug End Reservation and the Appalachian Trail, this modern home boasts valley views and a cozy fireplace in the main living area.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825491836046871/jug-end-crest-fireplace-sunroom-central-air
+
+## Berkshire Vacation Rental Co. — Mac Shores
+
+- ID: MA-15052
+- Town / area (approximate map location): Stockbridge, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Welcome to our funky little summer cottage!
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825494780448406/mac-shores-5-min-to-tanglewood-shared-beach
+
+## Berkshire Vacation Rental Co. — Meadow's Edge - Modern Retreat w/ In Law Suite
+
+- ID: MA-15031
+- Town / area (approximate map location): Stockbridge, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Welcome to Meadow's Edge, a modern 4 bed, 3.5 bath luxury retreat in historic Stockbridge, MA, just 5 minutes from Tanglewood.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/671086456592138591/mosss-muse-a-modern-summer-retreat
+
+## Berkshire Vacation Rental Co. — Pine & Paddle
+
+- ID: MA-15050
+- Town / area (approximate map location): Pittsfield, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Imagine relaxing by the cozy wood stove after a day spent exploring. With two bedrooms and a fresh bathroom, it’s perfect for a peaceful getaway.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825500119797527/pine-paddle-pond-access-kayaks
+
+## Berkshire Vacation Rental Co. — Pixley Forest
+
+- ID: MA-15041
+- Town / area (approximate map location): Housatonic, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Get away to this peaceful Berkshire escape tucked into the woods of Pixley Hill in West Stockbridge!
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825503995334547/pixley-forest-15-mins-to-tanglewood-fireplace
+
+## Berkshire Vacation Rental Co. — Scribe's Stable
+
+- ID: MA-15029
+- Town / area (approximate map location): Monterey, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Escape to a renovated barn that blends rustic charm with modern comfort.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825508059611204/scribes-stable-ac-screened-porch-sleeps-6
+
+## Berkshire Vacation Rental Co. — St Anne's Manor
+
+- ID: MA-15048
+- Town / area (approximate map location): Lenox, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Step back in time into this beautifully curated victorian built in the late 1800's right in downtown Lenox.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825509385011316/st-annes-manor-walk-to-downtown-sleeps-8
+
+## Berkshire Vacation Rental Co. — Stockbridge Landings
+
+- ID: MA-15051
+- Town / area (approximate map location): Stockbridge, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Nestled right at the Stockbridge Bowl in the Berkshires, it’s the spot for water lovers and Tanglewood fans alike.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825511008207058/stockbridge-landings-3-mins-to-tanglewood
+
+## Berkshire Vacation Rental Co. — Stonebridge Landing
+
+- ID: MA-15049
+- Town / area (approximate map location): Tyringham, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Escape to Hillside Haven, a cozy Berkshire retreat perfect for families.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825512652374287/stoneridge-landing-hot-tub-fire-pit
+
+## Berkshire Vacation Rental Co. — The Docent's House - Honoring a Legacy
+
+- ID: MA-15040
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Welcome to The Docent's House, a home with a story worth staying for.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/657335118330855603/the-docents-house-honoring-a-legacy
+
+## Berkshire Vacation Rental Co. — The Haystack
+
+- ID: MA-15053
+- Town / area (approximate map location): Mill River, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Small house, big personality.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 4.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/723356503410475069/the-haystack-tiny-house-retreat-on-hayes-hill
+
+## Berkshire Vacation Rental Co. — The Reel Retreat
+
+- ID: MA-15047
+- Town / area (approximate map location): Pittsfield, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: This home comes designed specifically as the perfect getaway.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825515470946702/the-reel-retreat-theatre-firepit-game-room
+
+## Berkshire Vacation Rental Co. — The Summerwood Hideout
+
+- ID: MA-15030
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: This recently renovated home features a 3bd / 3 bath main house and a charming pool house for the inlaws or the teenagers that want their own space.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825517006062056/the-summerwood-hideout-mins-to-downtown-pool
+
+## Berkshire Vacation Rental Co. — Timpani Corners
+
+- ID: MA-15036
+- Town / area (approximate map location): Lenox, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Tucked beside a brook on a private quarry pond in Lenox adjacent to Pleasant Valley Wildlife Sanctuary
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 5.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/652653052188166680/timpani-corners-private-pond-ac
 
 ## Big Bear Log Home at Newfound Lake
 
@@ -22565,6 +23517,118 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/167594
+
+## Lakehouse Guest Cottages of the Berkshires — Artists Cottage
+
+- ID: MA-15069
+- Town / area (approximate map location): Lanesborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Two bedroom, two bathroom waterfront cottage.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.berkshirelakehouse.com/the-cottages/artists-cottage.html
+
+## Lakehouse Guest Cottages of the Berkshires — Berkshire Cottage
+
+- ID: MA-15066
+- Town / area (approximate map location): Lanesborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Four bedrooms, four full baths.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.berkshirelakehouse.com/the-cottages/berkshire-cottage.html
+
+## Lakehouse Guest Cottages of the Berkshires — Dock Masters Cottage
+
+- ID: MA-15071
+- Town / area (approximate map location): Lanesborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Two bedroom, two bathroom waterfront cottage.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.berkshirelakehouse.com/the-cottages/dock-masters-cottage.html
+
+## Lakehouse Guest Cottages of the Berkshires — Greylock Cottage
+
+- ID: MA-15067
+- Town / area (approximate map location): Lanesborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Three bedrooms, three and a half bathroom waterfront cottage.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3.5
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.berkshirelakehouse.com/the-cottages/greylock-cottage.html
+
+## Lakehouse Guest Cottages of the Berkshires — Holiday Cottage
+
+- ID: MA-15068
+- Town / area (approximate map location): Lanesborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Three bedroom, three and a half bathroom cottage. Each bedroom offers a king size bed and en-suite bathroom.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3.5
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.berkshirelakehouse.com/the-cottages/holiday-cottage.html
+
+## Lakehouse Guest Cottages of the Berkshires — Lakehouse Lodge
+
+- ID: MA-15065
+- Town / area (approximate map location): Lanesborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Waterfront with exceptional views. This house has it all, massive 1100 square floor living room with window wall overlooking the lake.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.berkshirelakehouse.com/the-cottages/lakehouse-lodge.html
+
+## Lakehouse Guest Cottages of the Berkshires — Writers Cottage
+
+- ID: MA-15070
+- Town / area (approximate map location): Lanesborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Two bedroom, two bathroom waterfront cottage.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.berkshirelakehouse.com/the-cottages/writers-cottage.html
 
 ## Lakehurst — Boathouse Bottom
 
@@ -45490,6 +46554,159 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Family friendly, playground/toys/toddler bed
 - Pet policy: NO PETS expressly stated
 - Website (book here, directly with the host): https://www.slopestoshoresvaca.com/
+
+## Red Cottage — Butterfly Cottage
+
+- ID: MA-15056
+- Town / area (approximate map location): Lee, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Butterfly Cottage is a 3 bed, 2.5 bath mountain escape 2.5 hours from Boston and 3.5 hours from NYC.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://redcottage.com/property/butterfly-cottage/
+
+## Red Cottage — Chalet des Collines
+
+- ID: MA-15064
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Chalet Des Collines is a gorgeous country escape set on 2 pastoral acres of a lovely meadow in the Taconic Range.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://redcottage.com/property/chalet-des-collines/
+
+## Red Cottage — Crossbridge – Main House
+
+- ID: MA-15058
+- Town / area (approximate map location): West Stockbridge, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Crossbridge is a spacious 4 bed, 5 bath property 2.5 hrs from Boston & under 3 hrs from NYC.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 5
+- Sleeps: Property page lists sleeps 7.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://redcottage.com/property/crossbridge-main-house/
+
+## Red Cottage — Fernbrook
+
+- ID: MA-15063
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Fernbrook is a stylish 5 bed, 4.5 bath Scandinavian-inspired sanctuary 2.5 hrs from Boston & under 3 hrs from NYC.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://redcottage.com/property/fernbrook/
+
+## Red Cottage — Hillside Haven
+
+- ID: MA-15061
+- Town / area (approximate map location): Egremont, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Hillside Haven is a contemporary and spacious family retreat, with 4 bedrooms and 3.5 bathrooms
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Property page lists sleeps 10.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://redcottage.com/property/hillside-haven/
+
+## Red Cottage — Meadow Top Cabin
+
+- ID: MA-15057
+- Town / area (approximate map location): New Marlborough, MA
+- Tourist destination: The Berkshires
+- Type: Cabin
+- Description: Set amidst the rolling beauty of New Marlborough, MA, Meadow Top Cabin is a charming 1-bed, 1-bath retreat on a sprawling 72-acre estate.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Property page lists sleeps 2.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://redcottage.com/property/meadow-top-cabin/
+
+## Red Cottage — Meadow Top Cottage
+
+- ID: MA-15059
+- Town / area (approximate map location): New Marlborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Meadow Top Cottage is charming and cozy 3-bed, 2-bath cottage in the quiet hamlet of Mill River, MA.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://redcottage.com/property/meadow-top-cottage/
+
+## Red Cottage — River Cottage
+
+- ID: MA-15062
+- Town / area (approximate map location): Great Barrington, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Welcome to River Cottage, a beautifully renovated 3-bedroom, 2-bathroom riverfront gem in the heart of Great Barrington.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 6.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Property page lists pets allowed/considered.
+- Website (book here, directly with the host): https://redcottage.com/property/river-cottage/
+
+## Red Cottage — Steepletop Lodge
+
+- ID: MA-15060
+- Town / area (approximate map location): New Marlborough, MA
+- Tourist destination: The Berkshires
+- Type: House
+- Description: Welcome to Steepletop Lodge, a beautiful 4 bed/ 2 bath modern retreat with endless opportunities to unplug and forest bathe.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Property page lists sleeps 8.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Property page lists no pets.
+- Website (book here, directly with the host): https://redcottage.com/property/steepletop-lodge/
 
 ## Red Jacket Beach Resort & Spa
 
