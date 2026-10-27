@@ -174,6 +174,9 @@
     className: 'ps-featured-pin', iconSize: [32, 44], iconAnchor: [16, 43], popupAnchor: [0, -37],
     html: '<svg viewBox="0 0 32 44" width="32" height="44" aria-hidden="true"><path class="ps-featured-pin__shape" d="M16 1C7.7 1 1 7.7 1 16c0 11 15 26 15 26s15-15 15-26C31 7.7 24.3 1 16 1Z"/><circle cx="16" cy="16" r="5" fill="white"/></svg>'
   });
+  /* Photos live where <html data-image-base> says (the LAZY bucket); unset, they are the repo's own images/ folder. */
+  var IMAGE_BASE = (document.documentElement.dataset.imageBase || '').replace(/\/$/, '');
+  function src(path) { return IMAGE_BASE && /^images\//.test(path) ? IMAGE_BASE + '/' + path : path; }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function known(v) { return v !== undefined && v !== null && v !== '' && v !== 'Unknown'; }
   // Count confirmed card features; conditional policies remain incomplete.
@@ -227,7 +230,7 @@
     var displayPlace = h.place + (h.locationLabel ? ' · ' + h.locationLabel : '');
     var slots = tiny ? [0] : detail ? (images.length ? images.map(function (_, i) { return i; }) : [0]) : [0, 1, 2];
     var gallery = slots.map(function (i) {
-      return images[i] ? '<img src="' + esc(images[i]) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">Photo unavailable</span>';
+      return images[i] ? '<img src="' + esc(src(images[i])) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">Photo unavailable</span>';
     }).join('');
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
@@ -250,7 +253,7 @@
     return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '"><' + tag + ' class="ps-card__select-body"' +
       (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="View ' + esc(h.name) + ' details"' : ' href="' + esc(h.url) + '" target="_blank" rel="noopener"') + '>' +
       listingBadge(h) +
-      '<img src="' + esc(h.photo) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
+      '<img src="' + esc(src(h.photo)) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + (h.featured ? madeBadge() : '') + '</article>';
   }

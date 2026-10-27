@@ -1,0 +1,31 @@
+# THE SITE, PUBLISHED. GitHub Pages gets everything except images/ (3 GB+, over Pages' 1 GB limit);
+# the photos are served from the LAZY publish bucket at https://pleasant-street.lazy.vacations/images/.
+# Upload them with: aws s3 sync images/ s3://site-builder-sites-583057901773/pleasant-street/images/
+name: pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency: pages
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - name: Site without the photos
+        run: |
+          mkdir -p site
+          rsync -a --exclude images --exclude .git --exclude site ./ site/
+          mkdir -p site/images && cp images/photo-unknown.svg site/images/
+          sed -i 's#data-image-base=""#data-image-base="https://pleasant-street.lazy.vacations"#' site/index.html
+          du -sh site
+      - uses: actions/configure-pages@v5
+        with: { enablement: true }
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site }
+      - uses: actions/deploy-pages@v4
