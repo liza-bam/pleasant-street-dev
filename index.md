@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-4115 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+4118 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -23306,6 +23306,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Suitable for children ages 2–12 and infants under 2.
 - Pet policy: Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.
 - Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1
+
+## Hither House Cottages
+
+- ID: NY-0031
+- Town / area (approximate map location): Montauk, NY
+- Tourist destination: The Hamptons
+- Type: Cabin
+- Description: Cottage colony in Montauk a short walk from the beach, with separate cottages, a sea-view unit and a guest suite; each with kitchen and outdoor space.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.hitherhouse.com/
 
 ## Hobble Inn & The Loft
 
@@ -54112,6 +54128,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Property page: no pets.
 - Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Terra_Nova_Cottage-62-15
 
+## Terrace Cottage Colony
+
+- ID: NY-0030
+- Town / area (approximate map location): Southold, NY
+- Tourist destination: North Fork
+- Type: Cabin
+- Description: Family-run colony of rental cottages on the North Fork of Long Island in Southold, with a shared lawn and beach nearby; each cottage has its own kitchen and porch.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://terracecottagecolony.com/
+
 ## The 1827 House
 
 - ID: VT-0062
@@ -65865,6 +65897,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://quoddyvacation.com
+
+## Westhampton Vacation Rentals — Waterfront Estate
+
+- ID: NY-0029
+- Town / area (approximate map location): Westhampton, NY
+- Tourist destination: The Hamptons
+- Type: House
+- Description: Secluded three-acre waterfront house in Westhampton with heated pool, hot tub, dock with kayaks and water views over Beaverdam Creek; four bedrooms, sleeps 10.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 10
+- Price: Nightly rates shown on the site's Rates & Amenities page; not recorded.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.westhamptonvacations.com/
 
 ## WESTVIEW LIMIT 8
 

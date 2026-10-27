@@ -28927,6 +28927,22 @@
   "demo": false
  },
  {
+  "id": "NY-0031",
+  "name": "Hither House Cottages",
+  "url": "https://www.hitherhouse.com/",
+  "place": "Montauk, NY",
+  "destination": "The Hamptons",
+  "lat": 41.02933,
+  "lng": -71.96945,
+  "photo": "images/NY-0031-card.webp",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Cottage colony in Montauk a short walk from the beach, with separate cottages, a sea-view unit and a guest suite; each with kitchen and outdoor space.",
+  "locationPrecision": "Published street address (geocoded building)",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "VT-0008",
   "name": "Hobble Inn & The Loft",
   "url": "https://hobbleinn.com/",
@@ -67166,6 +67182,22 @@
   "demo": false
  },
  {
+  "id": "NY-0030",
+  "name": "Terrace Cottage Colony",
+  "url": "https://terracecottagecolony.com/",
+  "place": "Southold, NY",
+  "destination": "North Fork",
+  "lat": 41.087815,
+  "lng": -72.41486,
+  "photo": "images/NY-0030-card.webp",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Family-run colony of rental cottages on the North Fork of Long Island in Southold, with a shared lawn and beach nearby; each cottage has its own kitchen and porch.",
+  "locationPrecision": "Published directory map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "VT-0062",
   "name": "The 1827 House",
   "url": "https://www.1827house.com/",
@@ -81414,6 +81446,24 @@
   "recordType": "Property",
   "description": "Discover West Quoddy Station in Lubec, Maine—offering historic vacation rentals with ocean views near the iconic West Quoddy Lighthouse. Choose from cozy cabins, charming cottages, and spacious lodges. Perfect for family getaways, nature enthusiasts, and anyone seeking a serene coastal escape.",
   "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0029",
+  "name": "Westhampton Vacation Rentals — Waterfront Estate",
+  "url": "https://www.westhamptonvacations.com/",
+  "place": "Westhampton, NY",
+  "destination": "The Hamptons",
+  "lat": 40.82124,
+  "lng": -72.6606,
+  "photo": "images/NY-0029-card.webp",
+  "guests": 10,
+  "capacityDetails": "10",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Secluded three-acre waterfront house in Westhampton with heated pool, hot tub, dock with kayaks and water views over Beaverdam Creek; four bedrooms, sleeps 10.",
+  "locationPrecision": "Published street address (geocoded building)",
   "featured": false,
   "demo": false
  },

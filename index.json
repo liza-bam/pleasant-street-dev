@@ -89587,6 +89587,66 @@
   "demo": false
  },
  {
+  "id": "NY-0031",
+  "name": "Hither House Cottages",
+  "url": "https://www.hitherhouse.com/",
+  "place": "Montauk, NY",
+  "town": "Montauk",
+  "state": "NY",
+  "destination": "The Hamptons",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Cottage colony in Montauk a short walk from the beach, with separate cottages, a sea-view unit and a guest suite; each with kitchen and outdoor space.",
+  "descriptionSource": "https://www.hitherhouse.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 41.02933,
+  "lng": -71.96945,
+  "photo": "images/NY-0031-card.webp",
+  "coverPhoto": "images/NY-0031-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0031-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0031-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0031-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0031-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published street address (geocoded building)",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "VT-0008",
   "name": "Hobble Inn & The Loft",
   "url": "https://hobbleinn.com/",
@@ -208342,6 +208402,66 @@
   "demo": false
  },
  {
+  "id": "NY-0030",
+  "name": "Terrace Cottage Colony",
+  "url": "https://terracecottagecolony.com/",
+  "place": "Southold, NY",
+  "town": "Southold",
+  "state": "NY",
+  "destination": "North Fork",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Family-run colony of rental cottages on the North Fork of Long Island in Southold, with a shared lawn and beach nearby; each cottage has its own kitchen and porch.",
+  "descriptionSource": "https://terracecottagecolony.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit-specific guests",
+   "Published pets policy",
+   "Published kids policy"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 41.087815,
+  "lng": -72.41486,
+  "photo": "images/NY-0030-card.webp",
+  "coverPhoto": "images/NY-0030-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0030-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0030-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0030-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0030-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published directory map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "VT-0062",
   "name": "The 1827 House",
   "url": "https://www.1827house.com/",
@@ -252542,6 +252662,65 @@
   ],
   "logo": "images/ME-0176-logo.avif",
   "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0029",
+  "name": "Westhampton Vacation Rentals — Waterfront Estate",
+  "url": "https://www.westhamptonvacations.com/",
+  "place": "Westhampton, NY",
+  "town": "Westhampton",
+  "state": "NY",
+  "destination": "The Hamptons",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Secluded three-acre waterfront house in Westhampton with heated pool, hot tub, dock with kayaks and water views over Beaverdam Creek; four bedrooms, sleeps 10.",
+  "descriptionSource": "https://www.westhamptonvacations.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": 10,
+  "capacityDetails": "10",
+  "priceFrom": "Unknown",
+  "priceDetails": "Nightly rates shown on the site's Rates & Amenities page; not recorded.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 40.82124,
+  "lng": -72.6606,
+  "photo": "images/NY-0029-card.webp",
+  "coverPhoto": "images/NY-0029-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0029-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0029-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0029-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0029-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published street address (geocoded building)",
   "featured": false,
   "demo": false
  },
