@@ -51,7 +51,8 @@ def key(url):
     params=urllib.parse.parse_qs(u.query)
     property_id=params.get('PageDataID')
     unit_id=params.get('reservation_unitId')
-    suffix='?PageDataID='+property_id[0] if property_id else ('?reservation_unitId='+unit_id[0] if unit_id else '')
+    product_id=params.get('idProduct')  # TenantWiz property pages
+    suffix='?PageDataID='+property_id[0] if property_id else ('?reservation_unitId='+unit_id[0] if unit_id else ('?idProduct='+product_id[0] if product_id else ''))
     return (u.netloc.lower().removeprefix('www.') + u.path.rstrip('/')).lower()+suffix
 
 
