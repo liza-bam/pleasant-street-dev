@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-4118 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+4124 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -53193,6 +53193,102 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=146966
+
+## Shorecrest Property Management — Greenport 67 Steps Beach House
+
+- ID: NY-0032
+- Town / area (approximate map location): Greenport, NY
+- Tourist destination: North Fork
+- Type: House
+- Description: Renovated three-bedroom house a stone's throw from 67 Steps Beach in Greenport, with fireplace, modern kitchen, 1.5 baths and a large garden backing onto farm fields.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shorecrestpm.com/greenport-67-steps-beach-house/
+
+## Shorecrest Property Management — Mattituck Estate
+
+- ID: NY-0033
+- Town / area (approximate map location): Mattituck, NY
+- Tourist destination: North Fork
+- Type: House
+- Description: Farmhouse-modern 4,800 sq ft home on five secluded acres of lawn, meadow and woodland in Mattituck wine country, fully renovated with new kitchen and bathrooms.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shorecrestpm.com/mattituck-estate/
+
+## Shorecrest Property Management — North Fork Waterfront
+
+- ID: NY-0034
+- Town / area (approximate map location): Southold, NY
+- Tourist destination: North Fork
+- Type: House
+- Description: Newly built three-bedroom house with wrap-around decks, 120 feet of waterfront on Hashamomuck inlet, sunset views, two living areas and 2.5 baths; handicapped accessible.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shorecrestpm.com/north-fork-waterfront/
+
+## Shorecrest Property Management — Peconic Bay Beach Front
+
+- ID: NY-0035
+- Town / area (approximate map location): Southold, NY
+- Tourist destination: North Fork
+- Type: House
+- Description: Five-bedroom waterfront house in Southold steps from a private sandy beach on Peconic Bay, laid out for large families or groups.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shorecrestpm.com/peconic-bay-beach-front/
+
+## Shorecrest Property Management — Shelter Bay Cove Waterfront
+
+- ID: NY-0036
+- Town / area (approximate map location): Southold, NY
+- Tourist destination: North Fork
+- Type: House
+- Description: Restored 1920s three-bedroom house with 70 feet of waterfront on the Arshamomuck inlet of Shelter Bay in Southold; fireplace, new kitchen, central air.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shorecrestpm.com/shelter-bay-cove-waterfront/
+
+## Shorecrest Property Management — Shorecrest Beach House
+
+- ID: NY-0037
+- Town / area (approximate map location): Southold, NY
+- Tourist destination: North Fork
+- Type: House
+- Description: Renovated beach house right on the Long Island Sound shore in Southold: kitchen overlooking the water, three bedrooms and two full baths downstairs, open-plan second floor with extra sleeping.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shorecrestpm.com/shorecrest-beach-house/
 
 ## Simple Stay Property Management
 

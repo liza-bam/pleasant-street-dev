@@ -87,6 +87,11 @@ Sources read: I LOVE NY cabins & cottages directory (Long Island, 17 entries) an
 | Hamptons Vacation Inn; The 1770 House; The 1708 House; The Baker House 1650; The Belvedere Guest House; Pines Point; The Reform Club; Shelter Island House; The Chequit; House On Chase Creek; Shou Sugi Ban House; Three Village Inn; The Inn Spot On The Bay; Dune Point; Fire Island Beach House | various | Discover Long Island "Vacation Rental" type | Inns, hotels and guest houses — left out by type. |
 | Mari Manor; Southampton Cottages | Westhampton Beach / Southampton | rentbyowner.com, tripadvisor.com | No own website. |
 | StayMarquis; The Mainstay | Hamptons | https://staymarquis.com/ | Large manager catalog — queued for the manager pass, not a single home. |
+| The Montauk Soundview; Breakers MTK; Kenny's Tipperary Motel; other Montauk chamber lodging | Montauk | https://visitmontauk.org/members/ | Motels, hotels and a cottage resort with heated pool — left out by type. Ocean End Apartments: Facebook only, no website. |
+| Fire Island Retreat; Bauhaus Fire Island | Fire Island | fireislandretreat.com, bauhausfireisland.com | Domains do not resolve (DNS). |
+| Pines Bluff Overlook | Fire Island Pines | https://www.pinesbluffoverlook.com | Inn with rooms (ResNexus) — left out by type. |
+| Kismet Rental | Kismet | http://www.kismetrental.com/ | Page renders blank in Chrome and curl (2 KB frameset); nothing to verify. |
+| Luxury Beach Getaway (North Fork mid-term) | North Fork | https://luxurybeachgetaway.com/properties/north-fork/ | 30-night minimum — mid/long-term only. |
 | Heckscher State Park; Surf Club at Montauk; The Surf Lodge; North Fork Resort; Windward Shores Ocean Resort; Wainscott Inn; Pridwin Hotel & Cottages | various | I LOVE NY directory | State park, hotels, resorts, inn — left out by type. |
 
 ## Access blocks kept separate
