@@ -13,8 +13,17 @@
   }
   var landing = document.getElementById('ps-landing'), landingFeatured = document.getElementById('ps-home-featured');
   var startOnHome = !new URLSearchParams(location.search).has('place') && !new URLSearchParams(location.search).has('view');
+  function syncHomeWater() {
+    var host = document.getElementById('ps-home-water'), existing = host.querySelector('water-surface');
+    var active = app.classList.contains('app--home') && !phoneLayout.matches;
+    if (active && !existing) {
+      var water = document.createElement('water-surface');
+      var attrs = { water: '#74e3d1', light: '#74e3d1', line: '#8eeddf', scale: '6.5', density: '26', weight: '1.4', speed: '0.035' };
+      Object.keys(attrs).forEach(function (key) { water.setAttribute(key, attrs[key]); }); host.appendChild(water);
+    } else if (!active && existing) existing.remove();
+  }
   function setHomeMode(home) {
-    app.classList.toggle('app--home', home); landing.hidden = !home;
+    app.classList.toggle('app--home', home); landing.hidden = !home; syncHomeWater();
     if (!home && map) map.invalidateSize();
   }
   var sleeps = document.getElementById('ps-sleeps'), sleepsOut = document.getElementById('ps-sleeps-out');
@@ -139,6 +148,7 @@
     }
     (homes || []).forEach(syncMarkerPopup);
     if (loaded) show();
+    syncHomeWater();
   }
   phoneLayout.addEventListener('change', syncMapScroll);
   syncMapScroll();
@@ -583,7 +593,11 @@
     });
     loaded = true;
     homes.forEach(function (h) { var town = h.town || h.place.split(',')[0]; if (h.marker && known(town) && town.length <= 40 && town.indexOf('/') < 0 && town.toLowerCase() !== 'other') mapAreaPoints.push({ name: town, lat: h.lat, lng: h.lng }); });
-    landingFeatured.innerHTML = homes.filter(function (h) { return h.featured; }).slice(0, 6).map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Featured stays are coming soon.</p>';
+    var featuredHomes = homes.filter(function (h) { return h.featured; });
+    var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && photoSet(h).length; });
+    for (var i = homePool.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), temp = homePool[i]; homePool[i] = homePool[j]; homePool[j] = temp; }
+    var homeSelection = featuredHomes.concat(homePool.slice(0, Math.max(0, 100 - featuredHomes.length)));
+    landingFeatured.innerHTML = homeSelection.map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Stays are coming soon.</p>';
     if (initialPlace) rememberSearch();
     popularDestinations();
     /* Open on the mainland: Hawaii in the same view zooms the map out past the edge of the tiles. */

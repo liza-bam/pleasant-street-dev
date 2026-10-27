@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=30">
+<link rel="stylesheet" href="assets/app.css?v=31">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
@@ -46,14 +46,21 @@
   </header>
   <main class="app-body">
     <section id="ps-landing" class="ps-landing" aria-label="Pleasant Street home" hidden>
+      <div class="ps-landing__hero">
+      <div id="ps-home-water" class="ps-landing__water" aria-hidden="true"></div>
       <div class="ps-landing__intro">
+      <div class="ps-landing__copy">
         <img class="ps-landing__logo" src="assets/lazy-logo.svg" alt="LAZY" width="86" height="50">
         <h2>Pleasant Street</h2>
         <p class="ps-landing__tagline">The largest listing of independent vacation rentals.</p>
         <p>Each card takes you to the owner’s website. Book directly.</p>
         <button id="ps-home-search" class="ps-landing__search" type="button" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Where to?</span><span>Who’s coming?</span></button>
       </div>
-      <section class="ps-landing__featured" aria-labelledby="ps-featured-title"><h2 id="ps-featured-title">Featured stays</h2><div id="ps-home-featured" class="ps-landing__grid"></div></section>
+      <img class="ps-landing__art" src="assets/lazy-cat-float.webp" alt="LAZY cat relaxing on a pool float" width="394" height="363" decoding="async">
+      </div>
+      <svg class="ps-landing__wave" viewBox="0 0 1440 72" preserveAspectRatio="none" aria-hidden="true"><path fill="white" d="M0,50 C60,58 120,20 210,26 C290,31 330,52 420,50 C520,48 560,24 660,26 C760,28 800,44 880,42 C960,40 1010,16 1110,18 C1200,20 1260,54 1340,52 C1390,51 1420,36 1440,32 L1440,72 L0,72 Z"/></svg>
+      </div>
+      <section class="ps-landing__featured" aria-labelledby="ps-featured-title"><h2 id="ps-featured-title">Explore stays</h2><div id="ps-home-featured" class="ps-landing__grid"></div></section>
     </section>
     <section class="app-results" aria-label="Homes">
       <div class="ps-sheet-handle" id="ps-sheet-handle" role="slider" tabindex="0" aria-label="Results panel height" aria-orientation="vertical" aria-valuemin="12" aria-valuemax="100" aria-valuenow="48" aria-valuetext="Results panel 48% open" title="Drag down for a larger map, or up for more results"><span class="ps-sheet-grip"></span><span class="ps-sheet-count" id="ps-sheet-count">Homes</span></div>
@@ -113,6 +120,7 @@
 </dialog>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-<script src="assets/map.js?v=30"></script>
+<script src="assets/lazy-water.js?v=1"></script>
+<script src="assets/map.js?v=31"></script>
 </body>
 </html>
