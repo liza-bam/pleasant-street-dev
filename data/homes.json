@@ -2037,13 +2037,14 @@
   "platformLinks": {},
   "demo": false,
   "featured": false,
-  "lat": 41.4536,
-  "lng": -70.5684,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Oak+Bluffs%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.45483,
+  "lng": -70.5592,
+  "locationPrecision": "Published street address (geocoded building)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=15+Cottage+Park,+Oak+Bluffs,+MA+02557",
   "photo": "Unknown",
   "checked": "Unknown",
-  "alive": "Unknown"
+  "alive": "Unknown",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "1620-hospitality",
@@ -2175,13 +2176,14 @@
   "platformLinks": {},
   "demo": false,
   "featured": false,
-  "lat": 41.4536,
-  "lng": -70.5684,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Oak+Bluffs%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.45489,
+  "lng": -70.55916,
+  "locationPrecision": "Published street address (geocoded building)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=17+Cottage+Park,+Oak+Bluffs,+MA+02557",
   "photo": "Unknown",
   "checked": "Unknown",
-  "alive": "Unknown"
+  "alive": "Unknown",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "1848-inn",
@@ -68684,10 +68686,10 @@
   "pets": "Conditional",
   "priceFrom": 2700,
   "currency": "USD",
-  "lat": 41.3894,
-  "lng": -70.513,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Edgartown%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.35845,
+  "lng": -70.50697,
+  "locationPrecision": "Published street address; Katama neighbourhood (street not in OpenStreetMap)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Katama%2C+Edgartown%2C+MA&format=json&limit=1",
   "photo": "images/MA-0413-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -68696,7 +68698,8 @@
    "Totalrooms",
    "Specificpetapproval",
    "Datetotalquote"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "kendall-and-central-square-condo-near-mit-parking",
@@ -303368,10 +303371,10 @@
   "pets": "Conditional",
   "priceFrom": 2800,
   "currency": "USD",
-  "lat": 41.3894,
-  "lng": -70.513,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Edgartown%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.35885,
+  "lng": -70.50697,
+  "locationPrecision": "Published street address; Katama neighbourhood (street not in OpenStreetMap)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Katama%2C+Edgartown%2C+MA&format=json&limit=1",
   "photo": "images/MA-0411-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -303380,7 +303383,8 @@
    "Totalrooms",
    "Specificpetapproval",
    "Datetotalquote"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "visit-sunday-river-vacation-rentals",

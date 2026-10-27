@@ -729,13 +729,13 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 41.4536,
-  "lng": -70.5684,
+  "lat": 41.45483,
+  "lng": -70.5592,
   "photo": "Unknown",
   "coverPhoto": "Unknown",
   "photos": [],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Published street address (geocoded building)",
   "featured": false,
   "demo": false
  },
@@ -811,13 +811,13 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 41.4536,
-  "lng": -70.5684,
+  "lat": 41.45489,
+  "lng": -70.55916,
   "photo": "Unknown",
   "coverPhoto": "Unknown",
   "photos": [],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Published street address (geocoded building)",
   "featured": false,
   "demo": false
  },
@@ -31293,8 +31293,8 @@
   "pets": "Conditional",
   "kidsDetails": "Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.",
   "petsDetails": "Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.",
-  "lat": 41.3894,
-  "lng": -70.513,
+  "lat": 41.35845,
+  "lng": -70.50697,
   "photo": "images/MA-0413-card.webp",
   "coverPhoto": "images/MA-0413-cover.webp",
   "photos": [
@@ -31316,7 +31316,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Published street address; Katama neighbourhood (street not in OpenStreetMap)",
   "featured": false,
   "demo": false
  },
@@ -136672,8 +136672,8 @@
   "pets": "Conditional",
   "kidsDetails": "Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.",
   "petsDetails": "Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.",
-  "lat": 41.3894,
-  "lng": -70.513,
+  "lat": 41.35885,
+  "lng": -70.50697,
   "photo": "images/MA-0411-card.webp",
   "coverPhoto": "images/MA-0411-cover.webp",
   "photos": [
@@ -136695,7 +136695,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
+  "locationPrecision": "Published street address; Katama neighbourhood (street not in OpenStreetMap)",
   "featured": false,
   "demo": false
  },
