@@ -286,6 +286,12 @@
     if (ABBR[t] && ABBR[t] === st) return true;
     return p.split(/,\s*/)[0].indexOf(t) === 0 || p.split(/[\s,]+/).some(function (w) { return w.indexOf(t) === 0; });
   }
+  /* The tourist destination counts as a place too: "catskills" and "hamptons" find the homes labelled so. */
+  function matchesHome(h, t) {
+    if (matches(h.place, t)) return true;
+    var d = (h.destination || '').toLowerCase();
+    return !!d && (d.indexOf(t) === 0 || d.split(/[\s,]+/).some(function (w) { return w.indexOf(t) === 0; }));
+  }
   /* Each filter sorts a home three ways: it says yes (a match), it says no (left out), or it does not
      say (it may fit). Location and the map area are always known, so they only include or leave out. */
   function show() {
@@ -304,7 +310,7 @@
     var fits = [], maybe = [];
     homes.forEach(function (h) {
       h.missing = [];
-      var out = (t && !matches(h.place, t)) || ((view === 'map' || mapAreaMode) && (!h.marker || (area && !area.contains(h.marker.getLatLng()))));
+      var out = (t && !matchesHome(h, t)) || ((view === 'map' || mapAreaMode) && (!h.marker || (area && !area.contains(h.marker.getLatLng()))));
       if (!out && n) { if (!known(h.guests)) h.missing.push('how many it sleeps'); else if (+h.guests < n) out = true; }
       if (!out && types.length) { if (!known(h.type)) h.missing.push('type'); else if (types.indexOf(h.type) < 0) out = true; }
       /* A confirmed No excludes a home; missing or conditional policies need a host check. */
@@ -608,7 +614,7 @@
     var mapped = homes.filter(function (h) { return h.marker; });
     var main = mapped.filter(function (h) { return h.lng > -130; });
     if (view === 'map' && mapped.length) {
-      var initial = q.value.trim() ? mapped.filter(function (h) { return matches(h.place, q.value.trim().toLowerCase()); }) : (main.length ? main : mapped);
+      var initial = q.value.trim() ? mapped.filter(function (h) { return matchesHome(h, q.value.trim().toLowerCase()); }) : (main.length ? main : mapped);
       if (initial.length) map.fitBounds(L.latLngBounds(initial.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false });
       syncArea();
     } else show();
