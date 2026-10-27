@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-904 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+912 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -4543,6 +4543,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/440192
 
+## Eastham Getaway
+
+- ID: MA-5003
+- Town / area (approximate map location): Eastham, MA
+- Type: House
+- Description: New 2026-built five-bedroom Eastham home in the National Seashore with hot tub, sauna and game room, minutes from Coast Guard Beach.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: Overview: 12 guests.
+- Price: Nightly rates in booking engine.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Indoor kids play area and pack n play provided.
+- Pet policy: House rules: pets not allowed.
+- Website (book here, directly with the host): https://easthamgetaway.com/
+
 ## Edgartown House
 
 - ID: MA-0415
@@ -4753,6 +4770,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://ferrycottage.com
+
+## Fiddler Crab Cove House
+
+- ID: MA-5006
+- Town / area (approximate map location): Mashpee, MA
+- Type: House
+- Description: Five-bedroom waterfront home on Ockway Bay in Mashpee with a heated pool, private dock, two kitchens and central AC.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: Sleeps 10.
+- Price: Fall-spring $500-$900/night; summer $8,500-$13,000/week.
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No animals; house is 100% animal free.
+- Website (book here, directly with the host): https://www.fiddlercrabcove.com/
 
 ## FINCH LIMIT 4
 
@@ -5362,6 +5395,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/495228
 
+## Harwich Getaway
+
+- ID: MA-5004
+- Town / area (approximate map location): Harwich, MA
+- Type: House
+- Description: Renovated four-bedroom Harwich home with hot tub, gazebo bar, fire pit and game room on a dead-end street by the Cape Cod Rail Trail.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Overview: 9 guests.
+- Price: Nightly rates in booking engine.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: House rules: children welcome.
+- Pet policy: House rules: pets not allowed.
+- Website (book here, directly with the host): https://harwichgetaway.com/
+
+## Harwichport Beach House
+
+- ID: MA-5000
+- Town / area (approximate map location): Harwich Port, MA
+- Type: House
+- Description: Four-bedroom Harwich Port house in the Campgrounds neighborhood, a walk to Nantucket Sound beaches, with central AC and an outdoor shower.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Sleeps 8; 8 person maximum occupancy.
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Back bedroom includes a full size crib.
+- Pet policy: House rules: no pets allowed on premises.
+- Website (book here, directly with the host): https://harwichportbeachhouse.com/
+
 ## HATE TO LEAVE IT LIMIT 6
 
 - ID: ME-0512
@@ -5669,6 +5736,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=388
+
+## Holly Road CC
+
+- ID: MA-5001
+- Town / area (approximate map location): Mashpee, MA
+- Type: House
+- Description: Three-bedroom Mashpee home with a loft, large porch, hot tub and outdoor shower, a short walk to the beach and Popponesset Marketplace.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: 3 bedrooms, 2 full bathrooms and a loft; maximum guests not stated.
+- Price: Weekly peak-season rentals; monthly off-season rentals.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://hollyroadcc.com/
 
 ## Horseneck Farms Cottage
 
@@ -9267,6 +9349,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=145
 
+## Our Great Gatsby
+
+- ID: MA-5007
+- Town / area (approximate map location): South Chatham, MA
+- Type: House
+- Description: Nine-bedroom South Chatham estate sleeping 19, with a great room, formal dining room, butler's pantry and two outdoor showers.
+- Rooms: Unknown
+- Bedrooms: 9
+- Bathrooms: 3.5
+- Sleeps: Sleeps 19.
+- Price: Winter from $4,500/week, summer from $12,000/week.
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets allowed.
+- Website (book here, directly with the host): https://ourgreatgatsby.com/
+
 ## Our Maine House/New Harbor
 
 - ID: ME-0483
@@ -12061,6 +12159,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Operator-wide policy not established; Sintra dogs with prior approval and fee.
 - Website (book here, directly with the host): https://thecalicoseahorse.com/
 
+## The Cape Cod Cottage (1985 Massasoit Road)
+
+- ID: MA-5002
+- Town / area (approximate map location): Eastham, MA
+- Type: Unknown
+- Description: Classic three-bedroom Eastham cottage on a quiet one-acre lot near Wellfleet Bay sanctuary, with paddleboards, bikes and bodyboards included.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: FAQ: sleeps 5, no more.
+- Price: Weekly Saturday-to-Saturday rentals; seasonal weekly rates on site.
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: FAQ: absolutely no pets allowed.
+- Website (book here, directly with the host): https://capecodcottage.wixsite.com/rental
+
 ## The Captain's Quarters
 
 - ID: MA-1303
@@ -14618,6 +14732,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit child-age policy checked; own site provides board games.
 - Pet policy: Pets allowed for non-refundable fee.
 - Website (book here, directly with the host): https://winterfell-nh.com/
+
+## Wish Me Luck Cottage
+
+- ID: MA-5005
+- Town / area (approximate map location): Brewster, MA
+- Type: Unknown
+- Description: Renovated three-bedroom, dog-friendly Brewster cottage on an acre of woods, 0.6 miles from Saints Landing Beach on Cape Cod Bay.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: from 2800 USD a night
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Dog friendly; dogs welcome, no pet fee.
+- Website (book here, directly with the host): https://wishmeluckcottage.com/
 
 ## WOOD THRUSH LIMIT 3
 

@@ -19145,6 +19145,69 @@
   "demo": false
  },
  {
+  "id": "MA-5003",
+  "name": "Eastham Getaway",
+  "url": "https://easthamgetaway.com/",
+  "place": "Eastham, MA",
+  "town": "Eastham",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "New 2026-built five-bedroom Eastham home in the National Seashore with hot tub, sauna and game room, minutes from Coast Guard Beach.",
+  "descriptionSource": "https://easthamgetaway.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "New 2026-built five-bedroom Eastham home in the National Seashore with hot tub, sauna and game room, minutes from Coast Guard Beach.",
+  "cardDescriptionSource": "https://easthamgetaway.com/",
+  "cardPhotos": [
+   "images/MA-5003-cover.webp",
+   "images/MA-5003-000.webp",
+   "images/MA-5003-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 12,
+  "capacityDetails": "Overview: 12 guests.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Nightly rates in booking engine.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Indoor kids play area and pack n play provided.",
+  "petsDetails": "House rules: pets not allowed.",
+  "lat": 41.8306,
+  "lng": -69.974,
+  "photo": "images/MA-5003-card.webp",
+  "coverPhoto": "images/MA-5003-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5003-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5003-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5003-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5003-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "MA-0415",
   "name": "Edgartown House",
   "url": "https://mvyvacations.com/listing/edgartown-house/",
@@ -20069,6 +20132,69 @@
    }
   ],
   "logo": "images/ME-0172-logo.png",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-5006",
+  "name": "Fiddler Crab Cove House",
+  "url": "https://www.fiddlercrabcove.com/",
+  "place": "Mashpee, MA",
+  "town": "Mashpee",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Five-bedroom waterfront home on Ockway Bay in Mashpee with a heated pool, private dock, two kitchens and central AC.",
+  "descriptionSource": "https://www.fiddlercrabcove.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Five-bedroom waterfront home on Ockway Bay in Mashpee with a heated pool, private dock, two kitchens and central AC.",
+  "cardDescriptionSource": "https://www.fiddlercrabcove.com/",
+  "cardPhotos": [
+   "images/MA-5006-cover.webp",
+   "images/MA-5006-000.webp",
+   "images/MA-5006-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 10,
+  "capacityDetails": "Sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Fall-spring $500-$900/night; summer $8,500-$13,000/week.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "No animals; house is 100% animal free.",
+  "lat": 41.6484,
+  "lng": -70.4811,
+  "photo": "images/MA-5006-card.webp",
+  "coverPhoto": "images/MA-5006-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5006-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5006-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5006-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5006-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
@@ -22925,6 +23051,132 @@
   "demo": false
  },
  {
+  "id": "MA-5004",
+  "name": "Harwich Getaway",
+  "url": "https://harwichgetaway.com/",
+  "place": "Harwich, MA",
+  "town": "Harwich",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Renovated four-bedroom Harwich home with hot tub, gazebo bar, fire pit and game room on a dead-end street by the Cape Cod Rail Trail.",
+  "descriptionSource": "https://harwichgetaway.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Renovated four-bedroom Harwich home with hot tub, gazebo bar, fire pit and game room on a dead-end street by the Cape Cod Rail Trail.",
+  "cardDescriptionSource": "https://harwichgetaway.com/",
+  "cardPhotos": [
+   "images/MA-5004-cover.webp",
+   "images/MA-5004-000.webp",
+   "images/MA-5004-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 9,
+  "capacityDetails": "Overview: 9 guests.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Nightly rates in booking engine.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "House rules: children welcome.",
+  "petsDetails": "House rules: pets not allowed.",
+  "lat": 41.6862,
+  "lng": -70.0759,
+  "photo": "images/MA-5004-card.webp",
+  "coverPhoto": "images/MA-5004-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5004-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5004-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5004-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5004-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-5000",
+  "name": "Harwichport Beach House",
+  "url": "https://harwichportbeachhouse.com/",
+  "place": "Harwich Port, MA",
+  "town": "Harwich Port",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Four-bedroom Harwich Port house in the Campgrounds neighborhood, a walk to Nantucket Sound beaches, with central AC and an outdoor shower.",
+  "descriptionSource": "https://harwichportbeachhouse.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom Harwich Port house in the Campgrounds neighborhood, a walk to Nantucket Sound beaches, with central AC and an outdoor shower.",
+  "cardDescriptionSource": "https://harwichportbeachhouse.com/",
+  "cardPhotos": [
+   "images/MA-5000-cover.webp",
+   "images/MA-5000-000.webp",
+   "images/MA-5000-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "guests": 8,
+  "capacityDetails": "Sleeps 8; 8 person maximum occupancy.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Back bedroom includes a full size crib.",
+  "petsDetails": "House rules: no pets allowed on premises.",
+  "lat": 41.668,
+  "lng": -70.074,
+  "photo": "images/MA-5000-card.webp",
+  "coverPhoto": "images/MA-5000-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5000-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5000-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5000-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5000-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0512",
   "name": "HATE TO LEAVE IT LIMIT 6",
   "url": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=218",
@@ -24234,6 +24486,69 @@
   ],
   "logo": "Unknown",
   "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-5001",
+  "name": "Holly Road CC",
+  "url": "https://hollyroadcc.com/",
+  "place": "Mashpee, MA",
+  "town": "Mashpee",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Three-bedroom Mashpee home with a loft, large porch, hot tub and outdoor shower, a short walk to the beach and Popponesset Marketplace.",
+  "descriptionSource": "https://hollyroadcc.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom Mashpee home with a loft, large porch, hot tub and outdoor shower, a short walk to the beach and Popponesset Marketplace.",
+  "cardDescriptionSource": "https://hollyroadcc.com/",
+  "cardPhotos": [
+   "images/MA-5001-cover.webp",
+   "images/MA-5001-000.webp",
+   "images/MA-5001-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": "Unknown",
+  "capacityDetails": "3 bedrooms, 2 full bathrooms and a loft; maximum guests not stated.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Weekly peak-season rentals; monthly off-season rentals.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 41.6484,
+  "lng": -70.4811,
+  "photo": "images/MA-5001-card.webp",
+  "coverPhoto": "images/MA-5001-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5001-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5001-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5001-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5001-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -39777,6 +40092,67 @@
   "demo": false
  },
  {
+  "id": "MA-5007",
+  "name": "Our Great Gatsby",
+  "url": "https://ourgreatgatsby.com/",
+  "place": "South Chatham, MA",
+  "town": "South Chatham",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Nine-bedroom South Chatham estate sleeping 19, with a great room, formal dining room, butler's pantry and two outdoor showers.",
+  "descriptionSource": "https://ourgreatgatsby.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Nine-bedroom South Chatham estate sleeping 19, with a great room, formal dining room, butler's pantry and two outdoor showers.",
+  "cardDescriptionSource": "https://ourgreatgatsby.com/",
+  "cardPhotos": [
+   "images/MA-5007-cover.webp",
+   "images/MA-5007-000.webp",
+   "images/MA-5007-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 9,
+  "bathrooms": 3.5,
+  "guests": 19,
+  "capacityDetails": "Sleeps 19.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Winter from $4,500/week, summer from $12,000/week.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "No pets allowed.",
+  "lat": 41.6792,
+  "lng": -70.0245,
+  "photo": "images/MA-5007-card.webp",
+  "coverPhoto": "images/MA-5007-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5007-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5007-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5007-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5007-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0483",
   "name": "Our Maine House/New Harbor",
   "url": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=175429",
@@ -52122,6 +52498,67 @@
   "demo": false
  },
  {
+  "id": "MA-5002",
+  "name": "The Cape Cod Cottage (1985 Massasoit Road)",
+  "url": "https://capecodcottage.wixsite.com/rental",
+  "place": "Eastham, MA",
+  "town": "Eastham",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Classic three-bedroom Eastham cottage on a quiet one-acre lot near Wellfleet Bay sanctuary, with paddleboards, bikes and bodyboards included.",
+  "descriptionSource": "https://capecodcottage.wixsite.com/rental",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Classic three-bedroom Eastham cottage on a quiet one-acre lot near Wellfleet Bay sanctuary, with paddleboards, bikes and bodyboards included.",
+  "cardDescriptionSource": "https://capecodcottage.wixsite.com/rental",
+  "cardPhotos": [
+   "images/MA-5002-cover.webp",
+   "images/MA-5002-000.webp",
+   "images/MA-5002-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1.5,
+  "guests": 5,
+  "capacityDetails": "FAQ: sleeps 5, no more.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Weekly Saturday-to-Saturday rentals; seasonal weekly rates on site.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "FAQ: absolutely no pets allowed.",
+  "lat": 41.8306,
+  "lng": -69.974,
+  "photo": "images/MA-5002-card.webp",
+  "coverPhoto": "images/MA-5002-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5002-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5002-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5002-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5002-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "MA-1303",
   "name": "The Captain's Quarters",
   "url": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
@@ -62799,6 +63236,69 @@
    },
    {
     "file": "images/NH-0048-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-5005",
+  "name": "Wish Me Luck Cottage",
+  "url": "https://wishmeluckcottage.com/",
+  "place": "Brewster, MA",
+  "town": "Brewster",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Renovated three-bedroom, dog-friendly Brewster cottage on an acre of woods, 0.6 miles from Saints Landing Beach on Cape Cod Bay.",
+  "descriptionSource": "https://wishmeluckcottage.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Renovated three-bedroom, dog-friendly Brewster cottage on an acre of woods, 0.6 miles from Saints Landing Beach on Cape Cod Bay.",
+  "cardDescriptionSource": "https://wishmeluckcottage.com/",
+  "cardPhotos": [
+   "images/MA-5005-cover.webp",
+   "images/MA-5005-000.webp",
+   "images/MA-5005-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": 2800,
+  "priceDetails": "Summer 2027 weekly rates $2,800-$3,100, Saturday to Saturday, plus tax.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Dog friendly; dogs welcome, no pet fee.",
+  "lat": 41.7601,
+  "lng": -70.0828,
+  "photo": "images/MA-5005-card.webp",
+  "coverPhoto": "images/MA-5005-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-5005-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-5005-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5005-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-5005-002.webp",
     "role": "photo"
    }
   ],

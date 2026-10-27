@@ -72264,5 +72264,584 @@
     "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
     "reviewed": true,
     "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5000": {
+    "id": "MA-5000",
+    "name": "Harwichport Beach House",
+    "website": "https://harwichportbeachhouse.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Harwich Port",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Harwichport Beach House",
+    "classification": "Owner-run single vacation house",
+    "eligibilityReason": "Owner website for one Harwich Port house with facts, house rules, availability and an Inquire Now email link.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/452/",
+      "https://harwichportbeachhouse.com/",
+      "https://harwichportbeachhouse.com/video"
+    ],
+    "contactPagesChecked": [
+      "https://harwichportbeachhouse.com/"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Harwich Port",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": "No street address published on the owner website."
+    },
+    "bookingMethod": "Owner email inquiry (Inquire Now)",
+    "bookingUrl": "mailto:sudbury16@sbcglobal.net?subject=Inquiry%20from%20HarwichportBeachHouse.com",
+    "directContact": {
+      "email": "sudbury16@sbcglobal.net",
+      "phones": [],
+      "source": "https://harwichportbeachhouse.com/"
+    },
+    "operatorEvidenceUrl": "https://harwichportbeachhouse.com/",
+    "notes": "",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Sleeps 8; 8 person maximum occupancy.",
+      "kidsDetails": "Back bedroom includes a full size crib.",
+      "petsDetails": "House rules: no pets allowed on premises.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "description": "Four-bedroom Harwich Port house in the Campgrounds neighborhood, a walk to Nantucket Sound beaches, with central AC and an outdoor shower.",
+    "descriptionSource": "https://harwichportbeachhouse.com/",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/452/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5001": {
+    "id": "MA-5001",
+    "name": "Holly Road CC",
+    "website": "https://hollyroadcc.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Mashpee",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Holly Road CC",
+    "classification": "Owner LLC single vacation house",
+    "eligibilityReason": "Owner LLC website for one Mashpee (Popponesset) house with description, contact form and email; weekly summer rentals.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/640/",
+      "https://hollyroadcc.com/"
+    ],
+    "contactPagesChecked": [
+      "https://hollyroadcc.com/#contact"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Mashpee",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": "No street address published on the owner website."
+    },
+    "bookingMethod": "Owner contact form and email; booking button links to the WeNeedaVacation listing",
+    "bookingUrl": "https://hollyroadcc.com/#contact",
+    "directContact": {
+      "email": "hollyroadcc@gmail.com",
+      "phones": [],
+      "source": "https://hollyroadcc.com/"
+    },
+    "operatorEvidenceUrl": "https://hollyroadcc.com/",
+    "notes": "Book buttons point to https://www.weneedavacation.com/Cape-Cod/Popponesset-Vacation-Rental-41230/.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "3 bedrooms, 2 full bathrooms and a loft; maximum guests not stated.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Weekly peak-season rentals; monthly off-season rentals."
+    },
+    "description": "Three-bedroom Mashpee home with a loft, large porch, hot tub and outdoor shower, a short walk to the beach and Popponesset Marketplace.",
+    "descriptionSource": "https://hollyroadcc.com/",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/640/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5002": {
+    "id": "MA-5002",
+    "name": "The Cape Cod Cottage (1985 Massasoit Road)",
+    "website": "https://capecodcottage.wixsite.com/rental",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Eastham",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Cape Cod Cottage (1985 Massasoit Road)",
+    "classification": "Owner-run single vacation cottage",
+    "eligibilityReason": "Owner Wix website for one Eastham cottage with FAQ, rates, availability and a rental contact form; owner phone listed.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/214/",
+      "https://capecodcottage.wixsite.com/rental"
+    ],
+    "contactPagesChecked": [
+      "https://capecodcottage.wixsite.com/rental"
+    ],
+    "contactAddress": {
+      "role": "Rental property",
+      "street": "1985 Massasoit Road",
+      "city": "Eastham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://capecodcottage.wixsite.com/rental",
+      "notes": "Street address shown on the owner website header."
+    },
+    "bookingMethod": "Owner contact form (Schedule a Rental) and phone",
+    "bookingUrl": "https://capecodcottage.wixsite.com/rental",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "617-968-3248"
+      ],
+      "source": "https://capecodcottage.wixsite.com/rental"
+    },
+    "operatorEvidenceUrl": "https://capecodcottage.wixsite.com/rental",
+    "notes": "",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "FAQ: sleeps 5, no more.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "FAQ: absolutely no pets allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Weekly Saturday-to-Saturday rentals; seasonal weekly rates on site."
+    },
+    "description": "Classic three-bedroom Eastham cottage on a quiet one-acre lot near Wellfleet Bay sanctuary, with paddleboards, bikes and bodyboards included.",
+    "descriptionSource": "https://capecodcottage.wixsite.com/rental",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/214/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5003": {
+    "id": "MA-5003",
+    "name": "Eastham Getaway",
+    "website": "https://easthamgetaway.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Eastham",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Eastham Getaway",
+    "classification": "Owner-operated single vacation house (Lodgify site)",
+    "eligibilityReason": "Own Lodgify-powered website for one Eastham house with Book Now engine, rates, availability and contact page.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/668/",
+      "https://easthamgetaway.com/",
+      "https://easthamgetaway.com/en/overview",
+      "https://easthamgetaway.com/en/rates",
+      "https://easthamgetaway.com/en/contact"
+    ],
+    "contactPagesChecked": [
+      "https://easthamgetaway.com/en/contact"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Eastham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": "No street address published on the owner website."
+    },
+    "bookingMethod": "Direct online booking (Book Now) and booking inquiry form",
+    "bookingUrl": "https://easthamgetaway.com/en/availability",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "+17817271086"
+      ],
+      "source": "https://easthamgetaway.com/en/contact"
+    },
+    "operatorEvidenceUrl": "https://easthamgetaway.com/",
+    "notes": "Site states it is managed by Zilberman Properties LLC.",
+    "supportedFacts": {
+      "guests": 12,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Overview: 12 guests.",
+      "kidsDetails": "Indoor kids play area and pack n play provided.",
+      "petsDetails": "House rules: pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Nightly rates in booking engine."
+    },
+    "description": "New 2026-built five-bedroom Eastham home in the National Seashore with hot tub, sauna and game room, minutes from Coast Guard Beach.",
+    "descriptionSource": "https://easthamgetaway.com/",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/668/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5004": {
+    "id": "MA-5004",
+    "name": "Harwich Getaway",
+    "website": "https://harwichgetaway.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Harwich",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Harwich Getaway",
+    "classification": "Owner-operated single vacation house (Lodgify site)",
+    "eligibilityReason": "Own Lodgify-powered website for one Harwich house with Book Now engine, rates, availability and contact page.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/57/",
+      "https://harwichgetaway.com/",
+      "https://harwichgetaway.com/en/overview",
+      "https://harwichgetaway.com/en/rates",
+      "https://harwichgetaway.com/en/contact"
+    ],
+    "contactPagesChecked": [
+      "https://harwichgetaway.com/en/contact"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Harwich",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": "No street address published on the owner website."
+    },
+    "bookingMethod": "Direct online booking (Book Now) and booking inquiry form",
+    "bookingUrl": "https://harwichgetaway.com/en/availability",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "+17817271086"
+      ],
+      "source": "https://harwichgetaway.com/en/contact"
+    },
+    "operatorEvidenceUrl": "https://harwichgetaway.com/",
+    "notes": "Site states it is managed by Zilberman Properties LLC.",
+    "supportedFacts": {
+      "guests": 9,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Overview: 9 guests.",
+      "kidsDetails": "House rules: children welcome.",
+      "petsDetails": "House rules: pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Nightly rates in booking engine."
+    },
+    "description": "Renovated four-bedroom Harwich home with hot tub, gazebo bar, fire pit and game room on a dead-end street by the Cape Cod Rail Trail.",
+    "descriptionSource": "https://harwichgetaway.com/",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/57/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5005": {
+    "id": "MA-5005",
+    "name": "Wish Me Luck Cottage",
+    "website": "https://wishmeluckcottage.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Brewster",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Wish Me Luck Cottage",
+    "classification": "Owner-run single vacation cottage",
+    "eligibilityReason": "Owner website for one Brewster cottage with rates, photo gallery, Book Now and owner phone/email.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/388/",
+      "https://wishmeluckcottage.com/",
+      "https://wishmeluckcottage.com/blog"
+    ],
+    "contactPagesChecked": [
+      "https://wishmeluckcottage.com/"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Brewster",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": "No street address published on the owner website."
+    },
+    "bookingMethod": "Owner text/phone and email inquiry",
+    "bookingUrl": "https://wishmeluckcottage.com/",
+    "directContact": {
+      "email": "Shannon@wishmeluckcottage.com",
+      "phones": [
+        "772-245-9039"
+      ],
+      "source": "https://wishmeluckcottage.com/"
+    },
+    "operatorEvidenceUrl": "https://wishmeluckcottage.com/",
+    "notes": "",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 3,
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Dog friendly; dogs welcome, no pet fee.",
+      "priceFrom": 2800,
+      "currency": "USD",
+      "priceDetails": "Summer 2027 weekly rates $2,800-$3,100, Saturday to Saturday, plus tax."
+    },
+    "description": "Renovated three-bedroom, dog-friendly Brewster cottage on an acre of woods, 0.6 miles from Saints Landing Beach on Cape Cod Bay.",
+    "descriptionSource": "https://wishmeluckcottage.com/",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/388/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5006": {
+    "id": "MA-5006",
+    "name": "Fiddler Crab Cove House",
+    "website": "https://www.fiddlercrabcove.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Mashpee",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Fiddler Crab Cove House",
+    "classification": "Owner-run single waterfront vacation house",
+    "eligibilityReason": "Owner book-direct website for one Mashpee waterfront house with rates, FAQ, booking page and owner phone/email.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/425/",
+      "https://www.fiddlercrabcove.com/",
+      "https://www.fiddlercrabcove.com/about-our-home/",
+      "https://www.fiddlercrabcove.com/photos/",
+      "https://www.fiddlercrabcove.com/faq/",
+      "https://www.fiddlercrabcove.com/contact-us/",
+      "https://www.fiddlercrabcove.com/book-now/"
+    ],
+    "contactPagesChecked": [
+      "https://www.fiddlercrabcove.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Mashpee",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": "No street address published on the owner website."
+    },
+    "bookingMethod": "Direct booking page and owner phone/email",
+    "bookingUrl": "https://www.fiddlercrabcove.com/book-now/",
+    "directContact": {
+      "email": "info@fiddlercrabcove.com",
+      "phones": [
+        "(617) 830-2624"
+      ],
+      "source": "https://www.fiddlercrabcove.com/contact-us/"
+    },
+    "operatorEvidenceUrl": "https://www.fiddlercrabcove.com/",
+    "notes": "",
+    "supportedFacts": {
+      "guests": 10,
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Sleeps 10.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "No animals; house is 100% animal free.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Fall-spring $500-$900/night; summer $8,500-$13,000/week."
+    },
+    "description": "Five-bedroom waterfront home on Ockway Bay in Mashpee with a heated pool, private dock, two kitchens and central AC.",
+    "descriptionSource": "https://www.fiddlercrabcove.com/",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/425/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-5007": {
+    "id": "MA-5007",
+    "name": "Our Great Gatsby",
+    "website": "https://ourgreatgatsby.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "South Chatham",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Our Great Gatsby",
+    "classification": "Owner-run single large vacation house",
+    "eligibilityReason": "Own website for one South Chatham estate with rates, booking request page and contact phone/email.",
+    "openedUrls": [
+      "https://www.capecodvacationrentals.com/3/",
+      "https://ourgreatgatsby.com/",
+      "https://ourgreatgatsby.com/rates",
+      "https://ourgreatgatsby.com/booking"
+    ],
+    "contactPagesChecked": [
+      "https://ourgreatgatsby.com/"
+    ],
+    "contactAddress": {
+      "role": "Rental property (GPS directions)",
+      "street": "41 Sea Change Lane",
+      "city": "South Chatham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://ourgreatgatsby.com/",
+      "notes": "Shown on the owner website as Best Directions (GPS)."
+    },
+    "bookingMethod": "Booking request page; contact phone/email",
+    "bookingUrl": "https://ourgreatgatsby.com/booking",
+    "directContact": {
+      "email": "John@oldeforgerealty.com",
+      "phones": [
+        "+1-617-293-2356"
+      ],
+      "source": "https://ourgreatgatsby.com/"
+    },
+    "operatorEvidenceUrl": "https://ourgreatgatsby.com/",
+    "notes": "",
+    "supportedFacts": {
+      "guests": 19,
+      "bedrooms": 9,
+      "bathrooms": 3.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Sleeps 19.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "No pets allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Winter from $4,500/week, summer from $12,000/week."
+    },
+    "description": "Nine-bedroom South Chatham estate sleeping 19, with a great room, formal dining room, butler's pantry and two outdoor showers.",
+    "descriptionSource": "https://ourgreatgatsby.com/",
+    "discoveryMethod": "CapeCodVacationRentals.com Cape listing crawl (owner website link); own website opened 2026-10-27",
+    "sourceUrl": "https://www.capecodvacationrentals.com/3/",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
   }
 }

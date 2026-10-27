@@ -1888,5 +1888,33 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Truro%2C+MA%2C+USA&format=json&limit=1",
   "label": "Truro, Barnstable County, Massachusetts, United States",
   "checked": "2026-10-27"
+ },
+ "Harwich Port, MA, USA": {
+  "lat": 41.668,
+  "lng": -70.074,
+  "source": "https://nominatim.openstreetmap.org/search?q=Harwich+Port%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Harwich Port, Harwich, Barnstable County, Massachusetts, 02646, United States",
+  "checked": "2026-10-27"
+ },
+ "Mashpee, MA, USA": {
+  "lat": 41.6484,
+  "lng": -70.4811,
+  "source": "https://nominatim.openstreetmap.org/search?q=Mashpee%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Mashpee, Barnstable County, Massachusetts, 02649, United States",
+  "checked": "2026-10-27"
+ },
+ "Harwich, MA, USA": {
+  "lat": 41.6862,
+  "lng": -70.0759,
+  "source": "https://nominatim.openstreetmap.org/search?q=Harwich%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Harwich, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-27"
+ },
+ "South Chatham, MA, USA": {
+  "lat": 41.6792,
+  "lng": -70.0245,
+  "source": "https://nominatim.openstreetmap.org/search?q=South+Chatham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "South Chatham, Chatham, Barnstable County, Massachusetts, 02659, United States",
+  "checked": "2026-10-27"
  }
 }

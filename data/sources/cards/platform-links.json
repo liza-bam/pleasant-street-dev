@@ -13915,5 +13915,132 @@
   "checkedOn": "2026-10-27",
   "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
   "foundLinks": {}
+ },
+ {
+  "id": "MA-5000",
+  "name": "Harwichport Beach House",
+  "website": "https://harwichportbeachhouse.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/452/",
+   "https://harwichportbeachhouse.com/",
+   "https://harwichportbeachhouse.com/video"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-5001",
+  "name": "Holly Road CC",
+  "website": "https://hollyroadcc.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/640/",
+   "https://hollyroadcc.com/"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-5002",
+  "name": "The Cape Cod Cottage (1985 Massasoit Road)",
+  "website": "https://capecodcottage.wixsite.com/rental",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/214/",
+   "https://capecodcottage.wixsite.com/rental"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-5003",
+  "name": "Eastham Getaway",
+  "website": "https://easthamgetaway.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/668/",
+   "https://easthamgetaway.com/",
+   "https://easthamgetaway.com/en/overview",
+   "https://easthamgetaway.com/en/rates",
+   "https://easthamgetaway.com/en/contact"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-5004",
+  "name": "Harwich Getaway",
+  "website": "https://harwichgetaway.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/57/",
+   "https://harwichgetaway.com/",
+   "https://harwichgetaway.com/en/overview",
+   "https://harwichgetaway.com/en/rates",
+   "https://harwichgetaway.com/en/contact"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-5005",
+  "name": "Wish Me Luck Cottage",
+  "website": "https://wishmeluckcottage.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/388/",
+   "https://wishmeluckcottage.com/",
+   "https://wishmeluckcottage.com/blog"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-5006",
+  "name": "Fiddler Crab Cove House",
+  "website": "https://www.fiddlercrabcove.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/425/",
+   "https://www.fiddlercrabcove.com/",
+   "https://www.fiddlercrabcove.com/about-our-home/",
+   "https://www.fiddlercrabcove.com/photos/",
+   "https://www.fiddlercrabcove.com/faq/",
+   "https://www.fiddlercrabcove.com/contact-us/",
+   "https://www.fiddlercrabcove.com/book-now/"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-5007",
+  "name": "Our Great Gatsby",
+  "website": "https://ourgreatgatsby.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.capecodvacationrentals.com/3/",
+   "https://ourgreatgatsby.com/",
+   "https://ourgreatgatsby.com/rates",
+   "https://ourgreatgatsby.com/booking"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no Airbnb/Vrbo/Booking.com listing URLs linked from the owner website.",
+  "foundLinks": {}
  }
 ]
