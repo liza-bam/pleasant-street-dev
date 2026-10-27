@@ -2196,5 +2196,12 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Prattsville%2C+NY%2C+USA&format=json&limit=1",
   "label": "Town of Prattsville, Greene County, New York, 12468, United States",
   "checked": "2026-10-27"
+ },
+ "Aquinnah, MA, USA": {
+  "lat": 41.3431,
+  "lng": -70.8137,
+  "source": "https://nominatim.openstreetmap.org/search?q=Aquinnah%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Aquinnah, Dukes County, Massachusetts, United States",
+  "checked": "2026-10-27"
  }
 }
