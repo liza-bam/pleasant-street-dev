@@ -134,8 +134,11 @@ def main():
     for filename in ['root-media-sources.json','stayspace-media-sources.json','extra-media-sources.json','mermaid-media-sources.json','vineyard-media-sources.json','cape-media-sources.json'] + sorted(f.name for f in DEST.glob('managers-*-media-sources.json') if args.through_batch is None or int(f.name.split('-')[1]) <= args.through_batch or int(f.name.split('-')[1]) in args.extra_batches):
         for photo in read(DEST / filename, []):
             manifests[photo['file']] = photo
-    for photo in manifests.values():
+    published = {h['id'] for h in read(ROOT / 'data/homes.json', [])}
+    for key, photo in list(manifests.items()):
         file = ROOT / photo['file']
+        if not file.exists() and photo['id'] not in published:  # research row dropped with its images
+            del manifests[key]; continue
         assert file.exists(), file
         assert hashlib.sha256(file.read_bytes()).hexdigest() == photo['sha256'], file
         assert not photo.get('generated')
