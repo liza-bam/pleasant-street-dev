@@ -174,9 +174,19 @@
     className: 'ps-featured-pin', iconSize: [32, 44], iconAnchor: [16, 43], popupAnchor: [0, -37],
     html: '<svg viewBox="0 0 32 44" width="32" height="44" aria-hidden="true"><path class="ps-featured-pin__shape" d="M16 1C7.7 1 1 7.7 1 16c0 11 15 26 15 26s15-15 15-26C31 7.7 24.3 1 16 1Z"/><circle cx="16" cy="16" r="5" fill="white"/></svg>'
   });
-  /* Photos live where <html data-image-base> says (the LAZY bucket); unset, they are the repo's own images/ folder. */
-  var IMAGE_BASE = (document.documentElement.dataset.imageBase || '').replace(/\/$/, '');
-  function src(path) { return IMAGE_BASE && /^images\//.test(path) ? IMAGE_BASE + '/' + path : path; }
+  /* Photos live where <html data-image-base> says (one host, the LAZY bucket). While that is empty, the stopgap
+     shards in data-image-shards apply: a JSON map from ID prefix to host (the four pleasant-street-images repos).
+     Neither set: the repo's own images/ folder. Moving to the bucket is setting data-image-base and nothing else. */
+  var root = document.documentElement, IMAGE_BASE = (root.dataset.imageBase || '').replace(/\/$/, '');
+  var SHARDS = {}; try { SHARDS = JSON.parse(root.dataset.imageShards || '{}'); } catch (e) {}
+  var SHARD_KEYS = Object.keys(SHARDS).sort(function (a, b) { return b.length - a.length; });
+  function src(path) {
+    if (!/^images\//.test(path)) return path;
+    if (IMAGE_BASE) return IMAGE_BASE + '/' + path;
+    var file = path.slice(7);
+    for (var i = 0; i < SHARD_KEYS.length; i++) if (file.indexOf(SHARD_KEYS[i]) === 0) return SHARDS[SHARD_KEYS[i]].replace(/\/$/, '') + '/' + path;
+    return SHARDS['*'] ? SHARDS['*'].replace(/\/$/, '') + '/' + path : path;
+  }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function known(v) { return v !== undefined && v !== null && v !== '' && v !== 'Unknown'; }
   // Count confirmed card features; conditional policies remain incomplete.
