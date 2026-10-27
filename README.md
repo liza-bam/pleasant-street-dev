@@ -156,3 +156,11 @@ The map uses approximate town coordinates, not individual cottage entrances.
 Names, descriptions, location labels, bedroom/bathroom facts, policies and selected property photos are refreshed. Conflicting published facts become Unknown with evidence in `syncNotes` and `data/sources/demos/sync-report.json`. A hidden welcome badge is not a confirmed No policy. Demo addresses are labeled fictional demo content, never verified rental addresses.
 
 The importer preserves additional fields owned by the app/schema and keeps stable IDs and URLs across both sources. A general-list Unknown does not erase an already known database fact. See `DATA_SYNC.md` for the handoff to app development.
+
+## Link previews
+
+The app homepage includes Open Graph and Twitter large-image metadata with an absolute
+1200×630 LAZY-style image at `assets/og/pleasant-street-20261026.jpg`. The artwork uses the
+existing brand fonts, contour-water background and supplied island map. Its editable source is
+`tools/og-artwork.html`; render that 1200×630 canvas in connected Chrome to refresh the image.
+Use a new image filename for future revisions so social preview caches can request fresh media.
