@@ -2161,5 +2161,26 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Newbury%2C+MA%2C+USA&format=json&limit=1",
   "label": "Newbury, Essex County, Massachusetts, United States",
   "checked": "2026-10-27"
+ },
+ "Greenport, NY, USA": {
+  "lat": 41.1033,
+  "lng": -72.3593,
+  "source": "https://nominatim.openstreetmap.org/search?q=Greenport%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Village of Greenport, Town of Southold, Suffolk County, New York, 11944, United States",
+  "checked": "2026-10-27"
+ },
+ "Mattituck, NY, USA": {
+  "lat": 41.0119,
+  "lng": -72.5505,
+  "source": "https://nominatim.openstreetmap.org/search?q=Mattituck%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Mattituck, Town of Southold, Suffolk County, New York, United States",
+  "checked": "2026-10-27"
+ },
+ "Southold, NY, USA": {
+  "lat": 41.0672,
+  "lng": -72.4408,
+  "source": "https://nominatim.openstreetmap.org/search?q=Southold%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Southold, Town of Southold, Suffolk County, New York, 11971, United States",
+  "checked": "2026-10-27"
  }
 }

@@ -24,7 +24,7 @@ for u in urls:
         raw = fetch(u); im = Image.open(io.BytesIO(raw)).convert('RGB')
     except Exception as e:
         saved.append({'url': u, 'error': str(e)[:80]}); continue
-    if im.width < 600: continue
+    if im.width < int(__import__("os").environ.get("MIN_WIDTH", 600)): continue
     im.thumbnail((1600, 1600), Image.LANCZOS)
     role = roles[len([s for s in saved if 'file' in s])]
     out = ROOT / 'images' / f'{home}-{role}.webp'
