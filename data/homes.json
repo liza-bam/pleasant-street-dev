@@ -26436,17 +26436,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.6572,
-  "lng": -70.6177,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.657345,
+  "lng": -70.612386,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
   "photo": "images/MA-0258-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "boomfish-limit-5",
@@ -31925,17 +31926,18 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.5515,
-  "lng": -70.6148,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Falmouth%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.638107,
+  "lng": -70.626226,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1",
   "photo": "images/MA-0264-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "cape-truro-cottages",
@@ -63341,17 +63343,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.1924,
-  "lng": -70.7262,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Scituate%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.136012,
+  "lng": -70.690447,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
   "photo": "images/MA-0262-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "cowgers-lakefront-cabins",
@@ -173635,17 +173638,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.1939,
-  "lng": -73.3628,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Great+Barrington%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.199008,
+  "lng": -73.358816,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
   "photo": "images/MA-0261-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "hobble-inn-the-loft",
@@ -186228,17 +186232,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.0918,
-  "lng": -70.7056,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Marshfield%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.129761,
+  "lng": -70.685866,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
   "photo": "images/MA-0263-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "hummingbird-limit-3",
@@ -265644,17 +265649,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.5644,
-  "lng": -72.8776,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Hawley%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.61054,
+  "lng": -72.883042,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
   "photo": "images/MA-0253-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "mischief-maker",
@@ -278345,10 +278351,10 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.1671,
-  "lng": -73.4439,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Egremont%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.19711,
+  "lng": -73.441713,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
   "photo": "images/MA-0256-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -278356,7 +278362,8 @@
   "researchGaps": [
    "Exact rental street not publicly disclosed",
    "Guest capacity conflict: catalog 10 versus current description 11"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "nauset-rental-anchor-down",
@@ -334885,17 +334892,18 @@
   "pets": "Unknown",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.302,
-  "lng": -70.9078,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Hull%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.276592,
+  "lng": -70.870928,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
   "photo": "images/MA-0257-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "oceanview-oasis",
@@ -381529,17 +381537,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.396,
-  "lng": -72.9358,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Worthington%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.416917,
+  "lng": -72.954883,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
   "photo": "images/MA-0255-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "prohost-beach-n-bunks-walk-to-beach-old-school-cape",
@@ -385274,17 +385283,18 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.7883,
-  "lng": -69.99,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Orleans%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.793414,
+  "lng": -69.960372,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
   "photo": "images/MA-0260-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "renee-s-rentals",
@@ -386254,17 +386264,18 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.4608,
-  "lng": -72.8938,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Cummington%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.493141,
+  "lng": -72.973299,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
   "photo": "images/MA-0259-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "riverfront-retreat-for-families-creatives-dock-views",
@@ -405758,17 +405769,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.1924,
-  "lng": -70.7262,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Scituate%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.240189,
+  "lng": -70.765053,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
   "photo": "images/MA-0251-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "sea-acres-cottages",
@@ -415251,17 +415263,18 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 42.3568,
-  "lng": -73.2851,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lenox%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 42.34311,
+  "lng": -73.260997,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
   "photo": "images/MA-0254-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "spacious-skies-french-pond",
@@ -415537,17 +415550,18 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.658,
-  "lng": -70.8135,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mattapoisett%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.654466,
+  "lng": -70.779667,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
   "photo": "images/MA-0252-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Exact rental street not publicly disclosed"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "squabetty",
