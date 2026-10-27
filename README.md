@@ -79,7 +79,7 @@ card descriptions, three photos and explicit platform-link review status before 
 - `index.md`, `index.json`, `street.json` — written from the database by `node tools/build-index.mjs`.
   `index.md` is what the street assistant reads; `street.json` is what the map reads.
 
-Add homes: `python3 tools/import.py <source.json> --source list|form|found|lazy` (needs Pillow), then `node tools/build-index.mjs` and push.
+Add homes: `python3 tools/import.py <source.json> --source list|form|found|lazy` (needs Pillow), then `python3 tools/destinations.py` (tourist destination per town, from `data/sources/destinations.json`), `node tools/build-index.mjs` and push.
 The workflow rebuilds the index on every push to the database, and every Monday checks that each
 website still answers (`tools/check.mjs`); a site down two weeks running leaves the street until it answers again.
 

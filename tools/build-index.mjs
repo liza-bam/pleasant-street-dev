@@ -22,7 +22,7 @@ for (const h of homes) if (askAddress(h)) h.askAddress = true;
 
 const blocks = homes.map((h) => {
   const facts = [
-    `ID: ${h.id}`, `Town / area (approximate map location): ${h.place}`, `Type: ${h.type || 'Unknown'}`,
+    `ID: ${h.id}`, `Town / area (approximate map location): ${h.place}`, `Tourist destination: ${h.destination || 'Unknown'}`, `Type: ${h.type || 'Unknown'}`,
     `Description: ${h.description || 'Unknown'}`, `Rooms: ${h.rooms ?? 'Unknown'}`, `Bedrooms: ${h.bedrooms ?? 'Unknown'}`, `Bathrooms: ${h.bathrooms ?? 'Unknown'}`,
     `Sleeps: ${known(h.capacityDetails) ? h.capacityDetails : h.guests || 'Unknown'}`,
     `Price: ${price(h)}`, `Children welcome: ${yes(h.kids)}`, `Pets welcome: ${yes(h.pets)}`,
@@ -43,11 +43,11 @@ ${blocks.join('\n')}`;
 const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefined && h[k] !== '').map((k) => [k, h[k]]));
 fs.writeFileSync(path.join(ROOT, 'index.md'), md.replace(/[ \t]+$/gm, ''));
 fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(homes.map((h) =>
-  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','cardDescription','cardDescriptionSource','cardPhotos','cardPhotoLabel','platformLinks','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','locationLabel','askAddress','featured','demo'])), null, 1) + '\n');
+  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'destination', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','cardDescription','cardDescriptionSource','cardPhotos','cardPhotoLabel','platformLinks','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','locationLabel','askAddress','featured','demo'])), null, 1) + '\n');
 // Compatibility adapter for the current app. The canonical database keeps explicit
 // Unknown values; this older UI expects absent unknowns and numeric map coordinates.
 const street=homes.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>{
- const row=pick(h, ['id','name', 'url', 'place', 'lat', 'lng', 'photo', 'guests', 'capacityDetails', 'type', 'recordType', 'description', 'rooms', 'bedrooms', 'bathrooms', 'kids', 'pets', 'kidsDetails', 'petsDetails','locationPrecision','locationLabel','featured','demo']);
+ const row=pick(h, ['id','name', 'url', 'place', 'destination', 'lat', 'lng', 'photo', 'guests', 'capacityDetails', 'type', 'recordType', 'description', 'rooms', 'bedrooms', 'bathrooms', 'kids', 'pets', 'kidsDetails', 'petsDetails','locationPrecision','locationLabel','featured','demo']);
  for(const [k,v] of Object.entries(row))if(v==='Unknown')delete row[k];
  for(const k of ['kids','pets'])if(row[k]==='Conditional')delete row[k];
  if(!row.photo)row.photo='images/photo-unknown.svg';
