@@ -2007,5 +2007,61 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Waterville+Valley%2C+NH%2C+USA&format=json&limit=1",
   "label": "Waterville Valley, Grafton County, New Hampshire, 03215, United States",
   "checked": "2026-10-27"
+ },
+ "Marion, MA, USA": {
+  "lat": 41.7001,
+  "lng": -70.7628,
+  "source": "https://nominatim.openstreetmap.org/search?q=Marion%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Marion, Plymouth County, Massachusetts, 02738, United States",
+  "checked": "2026-10-27"
+ },
+ "Cheshire, MA, USA": {
+  "lat": 42.5622,
+  "lng": -73.1616,
+  "source": "https://nominatim.openstreetmap.org/search?q=Cheshire%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Cheshire, Berkshire County, Massachusetts, 01225, United States",
+  "checked": "2026-10-27"
+ },
+ "St. Johnsbury, VT, USA": {
+  "lat": 44.4195,
+  "lng": -72.0157,
+  "source": "https://nominatim.openstreetmap.org/search?q=St.+Johnsbury%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Saint Johnsbury, Caledonia County, Vermont, United States",
+  "checked": "2026-10-27"
+ },
+ "Morrisville, VT, USA": {
+  "lat": 44.5615,
+  "lng": -72.5983,
+  "source": "https://nominatim.openstreetmap.org/search?q=Morrisville%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Morristown, Lamoille County, Vermont, 05661, United States",
+  "checked": "2026-10-27"
+ },
+ "Ludlow, VT, USA": {
+  "lat": 43.3961,
+  "lng": -72.7012,
+  "source": "https://nominatim.openstreetmap.org/search?q=Ludlow%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Ludlow, Windsor County, Vermont, United States",
+  "checked": "2026-10-27"
+ },
+ "Bethel, VT, USA": {
+  "lat": 43.8325,
+  "lng": -72.6342,
+  "source": "https://nominatim.openstreetmap.org/search?q=Bethel%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Bethel, Windsor County, Vermont, United States",
+  "checked": "2026-10-27"
+ },
+ "Royalton, VT, USA": {
+  "lat": 43.8203,
+  "lng": -72.5213,
+  "source": "https://nominatim.openstreetmap.org/search?q=Royalton%2C+VT%2C+USA&format=json&limit=1",
+  "label": "Royalton, Windsor County, Vermont, 05068, United States",
+  "checked": "2026-10-27"
+ },
+ "West Addison, VT, USA": {
+  "lat": 44.0818,
+  "lng": -73.3943,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Addison%2C+VT%2C+USA&format=json&limit=1",
+  "label": "West Addison, Addison, Addison County, Vermont, United States",
+  "checked": "2026-10-27"
  }
 }

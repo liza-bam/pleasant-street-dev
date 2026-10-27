@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-1124 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+1143 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -1509,6 +1509,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=367
 
+## Base Camp Nek
+
+- ID: VT-0004
+- Town / area (approximate map location): St. Johnsbury, VT
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.basecampnek.com/book-a-stay
+
 ## Bass Harbor Cottages
 
 - ID: ME-0009
@@ -2400,6 +2415,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — selected rooms (7–11) with $15/stay pet fee
 - Website (book here, directly with the host): https://boycesmotel.com
 
+## Brant Point Courtyard
+
+- ID: MA-0114
+- Town / area (approximate map location): Nantucket, MA
+- Type: House
+- Description: Fully equipped vacation units near Brant Point on Nantucket.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: no
+- Pets welcome: Unknown
+- Children policy: No child/infant age policy found inRentalPolicies.
+- Pet policy: Sorry, only service animals are permitted at the resort
+- Website (book here, directly with the host): https://brantpointcourtyard.com/
+
 ## Breakwater Vacation Rental
 
 - ID: ME-0145
@@ -3248,6 +3280,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Primary page says not suitable for children/infants, while overlapping private-unit alternate pages say suitable. Confirm current policy with operator.
 - Pet policy: Conflict: House rules prohibit pets, but Other things to note says all apartments are pet-friendly. Confirm with operator.
 - Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a5809b1e1fa4d001135039d?minOccupancy=1&adults=1
+
+## Century 21 Farm & Forest
+
+- ID: VT-0048
+- Town / area (approximate map location): Derby, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): http://www.farmandforest.com/
 
 ## Channel Waterfront Cottages
 
@@ -4329,6 +4376,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/284198
 
+## Deerfield Valley Real Estate
+
+- ID: VT-0045
+- Town / area (approximate map location): West Dover, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://deerfieldvalleyrealestate.com/
+
 ## Dennis Seashores — 10 Ocean Park East
 
 - ID: MA-1413
@@ -4633,6 +4695,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/440192
+
+## Earthwise Farm & Forest
+
+- ID: VT-0047
+- Town / area (approximate map location): Bethel, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.earthwisefarmandforest.com/
 
 ## Eastham Getaway
 
@@ -4970,6 +5047,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.flowerbrookfarm.com/
+
+## Four Springs Farm, Campground & Learning Center
+
+- ID: VT-0050
+- Town / area (approximate map location): Royalton, VT
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.fourspringsfarm.com/
 
 ## Fowler Farmhouse
 
@@ -5450,6 +5542,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No child/infant acceptance or minimumage policy found in reservationpolicies/Water’sEdge unit.
 - Pet policy: Pets are not permitted. Pet ban inReservationPolicies; contactpropertyforserviceanimalaccommodation
 - Website (book here, directly with the host): https://www.harborviewnantucket.com/
+
+## Harbour House Inn Bed and Breakfast
+
+- ID: MA-0302
+- Town / area (approximate map location): Cheshire, MA
+- Type: House
+- Description: Six-room Georgian Colonial bed and breakfast in Cheshire, with gourmet breakfast and gardens in the Berkshire hills.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Child admission policy not published on checked home or Property Policies page.
+- Pet policy: Pet-free establishment; registered service animals welcome.
+- Website (book here, directly with the host): https://www.harbourhouseinn.com/
 
 ## HARMON'S BEACH LIMIT 5
 
@@ -6367,6 +6476,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
 - Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2803
 
+## Lake Champlain Escape Vermont
+
+- ID: VT-0065
+- Town / area (approximate map location): West Addison, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.lakechamplainescape.com/
+
 ## Lake Megunticook Vacation Rental
 
 - ID: ME-0244
@@ -6400,6 +6524,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family campground)
 - Pet policy: Varies (selected cottages yes; others no)
 - Website (book here, directly with the host): https://lakepemaquid.com/facilities/cottage-rentals/
+
+## Lake Rescue Chalet
+
+- ID: VT-0070
+- Town / area (approximate map location): Ludlow, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): http://www.vtskihouse.com/
 
 ## Lake Salem Cottages
 
@@ -11127,6 +11266,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://stowerentalhomes.com/
 
+## Mountainside Resort At Stowe
+
+- ID: VT-0046
+- Town / area (approximate map location): Stowe, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://mountainsideresort.com/
+
 ## Mt. Liberty Lodging
 
 - ID: NH-0006
@@ -13287,6 +13441,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Official site explicitly offers family holidays and children's activities.
 - Website (book here, directly with the host): https://quimbycountry.com/
 
+## RadFarm (formerly Humble Heart Homestead)
+
+- ID: VT-0016
+- Town / area (approximate map location): Morrisville, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.radfarm.org/
+
 ## Radian — Apartment ID 2947
 
 - ID: MA-0932
@@ -14193,6 +14362,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://seameadowcottage.com
 
+## Sea Space Fairhaven
+
+- ID: MA-0285
+- Town / area (approximate map location): Fairhaven, MA
+- Type: House
+- Description: Fairhaven vacation cottage operator lead; browser access failed and current accommodation remains unverified.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): http://seaspacefairhaven.com/
+
 ## Sea Spray Cottages
 
 - ID: ME-0119
@@ -14303,6 +14487,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family stays featured
 - Pet policy: Yes — dogs only (max 2 Seanook; max 1 Paradise); fee/deposit
 - Website (book here, directly with the host): https://seanookcottagerentals.com
+
+## Seascape Vacation Rental — three-home compound
+
+- ID: MA-1434
+- Town / area (approximate map location): Dennis Port, MA
+- Type: House
+- Description: Oceanfront Dennis Port compound with three homes, seven bedrooms, four bathrooms and a private beach, accommodating up to16 guests.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 16
+- Price: No current quoted price verified.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: FAQ explicitly permits/counts children of all ages. Signing renter must be28+ and stay at property.
+- Pet policy: FAQ prohibits animals of any kind due severe allergies.
+- Website (book here, directly with the host): https://253oldwharf.com/
 
 ## Seashore Property Management
 
@@ -14594,6 +14795,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — family resort
 - Website (book here, directly with the host): https://shinpond.com
+
+## Shore Acres Inn & Restaurant
+
+- ID: VT-0006
+- Town / area (approximate map location): North Hero, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shoreacres.com/
 
 ## Shore Cottage/ Nobleboro
 
@@ -15628,6 +15844,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/the-cove/
 
+## The Cove at Rockport
+
+- ID: MA-0212
+- Town / area (approximate map location): Rockport, MA
+- Type: House
+- Description: Rockport waterfront property offering rooms, suites and apartments with furnished kitchens.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.coveatrockport.com/
+
 ## The Crimson Cocoa Chalet
 
 - ID: NH-0067
@@ -15867,6 +16098,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://theislandagency.com
+
+## The Killington Group
+
+- ID: VT-0022
+- Town / area (approximate map location): Killington, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.killingtongroup.com/
 
 ## The Lake House/Nobleboro
 
@@ -16257,6 +16503,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Children and infants welcome. Primary renter minimum25.
 - Pet policy: Individual House Rules: Pets not allowed.
 - Website (book here, directly with the host): https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x
+
+## The Salt House Marion
+
+- ID: MA-0273
+- Town / area (approximate map location): Marion, MA
+- Type: House
+- Description: Marion cottage with two bedrooms, a kitchen and private beach access on Buzzards Bay.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thesalthousemarion.com/
 
 ## The Satanic Suite
 
@@ -17437,6 +17698,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://vermontvacation-rentals.com/
 
+## Vermontvacation4U
+
+- ID: VT-0061
+- Town / area (approximate map location): West Dover, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://vermontvacation4u.com/
+
 ## VIA — Apartment ID 1041
 
 - ID: MA-0906
@@ -18048,6 +18324,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (families welcome)
 - Pet policy: Yes ($25/pet; friendly pets)
 - Website (book here, directly with the host): https://wildwoodsme.com
+
+## William Raveis Vermont Properties
+
+- ID: VT-0018
+- Town / area (approximate map location): Ludlow, VT
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.vtprop.com/
 
 ## Wilsons on Moosehead Lake
 
