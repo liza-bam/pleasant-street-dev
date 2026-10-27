@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-1143 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+1145 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -190,6 +190,36 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
 - Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en
+
+## 15 Cottage Park
+
+- ID: MA-0111
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: House
+- Description: Owner-advertised historic Oak Bluffs cottage at 15 Cottage Park.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 6
+- Price: from 3000 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.mvcma.org/15-cottage-park
+
+## 17 Cottage Park
+
+- ID: MA-0112
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: House
+- Description: Owner-advertised historic Oak Bluffs cottage at 17 Cottage Park.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 6
+- Price: from 3300 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.mvcma.org/17-cottage-park
 
 ## 1848 Inn
 
