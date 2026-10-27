@@ -1,0 +1,825 @@
+[
+ {
+  "id": "NY-0038",
+  "name": "Catskills Cabin Retreat (catskills.house)",
+  "url": "https://www.catskills.house/",
+  "town": "West Kill",
+  "state": "NY",
+  "place": "West Kill, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Cozy three-bedroom cabin on the mountainside in the Spruceton Valley at West Kill, near Hunter, Windham and Phoenicia, with valley views and hiking from the door.",
+  "descriptionSource": "https://www.catskills.house/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0038-cover.webp",
+  "coverPhoto": "images/NY-0038-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0038-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0038-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0038-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Three authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "West Kill",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.catskills.house/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Site names West Kill only."
+  },
+  "contactPagesChecked": "https://www.catskills.house/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Catskills cabin own website book direct)",
+   "sourceUrl": "https://www.catskills.house/",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Single three-bedroom cabin in the Spruceton Valley, West Kill; own Wix site with Book A Stay and contact form; an Airbnb link also present. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false
+ },
+ {
+  "id": "NY-0039",
+  "name": "Clove Cottages",
+  "url": "https://www.clovecottages.com/",
+  "town": "High Falls",
+  "state": "NY",
+  "place": "High Falls, NY",
+  "type": "Cabin",
+  "recordType": "Cabins / small operator",
+  "description": "Eight cozy, fully furnished pet-friendly guest cottages on a country road in the Mid-Hudson Valley near New Paltz, Kingston, Woodstock and Rhinebeck.",
+  "descriptionSource": "https://www.clovecottages.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0039-cover.webp",
+  "coverPhoto": "images/NY-0039-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0039-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0039-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0039-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0039-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "High Falls",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.clovecottages.com/contact-us-directions/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Address in site footer; geocoded (Nominatim, place)."
+  },
+  "contactPagesChecked": "https://www.clovecottages.com/contact-us-directions/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley cottage rental owner website)",
+   "sourceUrl": "https://www.clovecottages.com/",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-operated colony of eight pet-friendly guest cottages near New Paltz and Kingston; own site with reservations and contact pages; 200 Rock Hill Road, High Falls. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific guests",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.78127,
+  "lng": -74.17804,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=200+Rock+Hill+Road,+High+Falls,+NY+12440",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0040",
+  "name": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature",
+  "url": "https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/",
+  "town": "Esopus",
+  "state": "NY",
+  "place": "Esopus, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Four-bedroom house set in woods in the Town of Esopus between Kingston and New Paltz, with outdoor living space and nature on all sides.",
+  "descriptionSource": "https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0040-cover.webp",
+  "coverPhoto": "images/NY-0040-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0040-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0040-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0040-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0040-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Esopus",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Page carries a map pin; town from reverse-geocoding the pin."
+  },
+  "contactPagesChecked": "https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley owner website); operator catalog Properties",
+   "sourceUrl": "https://homesweethudson.com/properties",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-run Hudson Valley rental company (Hostfully) with one page per home, direct booking, contact page; map pin on the page. Checked 2026-10-27. Bedrooms: 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.822102,
+  "lng": -74.0339827,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0041",
+  "name": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway",
+  "url": "https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/",
+  "town": "Gardiner",
+  "state": "NY",
+  "place": "Gardiner, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Four-bedroom getaway in Gardiner at the edge of the Mohonk Preserve, with cliffs and trails nearby.",
+  "descriptionSource": "https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0041-cover.webp",
+  "coverPhoto": "images/NY-0041-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0041-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0041-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0041-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0041-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Gardiner",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Page carries a map pin; town from reverse-geocoding the pin."
+  },
+  "contactPagesChecked": "https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley owner website); operator catalog Properties",
+   "sourceUrl": "https://homesweethudson.com/properties",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-run Hudson Valley rental company (Hostfully) with one page per home, direct booking, contact page; map pin on the page. Checked 2026-10-27. Bedrooms: 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.7348874,
+  "lng": -74.1659477,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0042",
+  "name": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway",
+  "url": "https://homesweethudson.com/property/luna-cove-premier-hudson-valley-getaway/",
+  "town": "Cairo",
+  "state": "NY",
+  "place": "Cairo, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Seven-bedroom house in Cairo at the northern Catskills' edge, built for large groups.",
+  "descriptionSource": "https://homesweethudson.com/property/luna-cove-premier-hudson-valley-getaway/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 7,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0042-cover.webp",
+  "coverPhoto": "images/NY-0042-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0042-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0042-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0042-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0042-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Cairo",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://homesweethudson.com/property/luna-cove-premier-hudson-valley-getaway/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Page carries a map pin; town from reverse-geocoding the pin."
+  },
+  "contactPagesChecked": "https://homesweethudson.com/property/luna-cove-premier-hudson-valley-getaway/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley owner website); operator catalog Properties",
+   "sourceUrl": "https://homesweethudson.com/properties",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-run Hudson Valley rental company (Hostfully) with one page per home, direct booking, contact page; map pin on the page. Checked 2026-10-27. Bedrooms: 7."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.26819,
+  "lng": -73.9401411,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://homesweethudson.com/property/luna-cove-premier-hudson-valley-getaway/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0043",
+  "name": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape",
+  "url": "https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/",
+  "town": "Kerhonkson",
+  "state": "NY",
+  "place": "Kerhonkson, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Three-bedroom A-frame in the hills above Kerhonkson, with mountain views and modern interiors.",
+  "descriptionSource": "https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0043-cover.webp",
+  "coverPhoto": "images/NY-0043-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0043-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0043-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0043-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0043-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Kerhonkson",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Page carries a map pin; town from reverse-geocoding the pin."
+  },
+  "contactPagesChecked": "https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley owner website); operator catalog Properties",
+   "sourceUrl": "https://homesweethudson.com/properties",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-run Hudson Valley rental company (Hostfully) with one page per home, direct booking, contact page; map pin on the page. Checked 2026-10-27. Bedrooms: 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.8321867,
+  "lng": -74.3136889,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0044",
+  "name": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury",
+  "url": "https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/",
+  "town": "Rosendale",
+  "state": "NY",
+  "place": "Rosendale, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Three-bedroom Rosendale home with private pool, gym and media room near the Rondout Creek.",
+  "descriptionSource": "https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0044-cover.webp",
+  "coverPhoto": "images/NY-0044-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0044-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0044-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0044-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0044-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Rosendale",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Page carries a map pin; town from reverse-geocoding the pin."
+  },
+  "contactPagesChecked": "https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley owner website); operator catalog Properties",
+   "sourceUrl": "https://homesweethudson.com/properties",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-run Hudson Valley rental company (Hostfully) with one page per home, direct booking, contact page; map pin on the page. Checked 2026-10-27. Bedrooms: 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.8390603,
+  "lng": -74.0760692,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0045",
+  "name": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway",
+  "url": "https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/",
+  "town": "Kerhonkson",
+  "state": "NY",
+  "place": "Kerhonkson, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Three-bedroom cabin by the Stony Kill in Kerhonkson, close to Minnewaska and the Shawangunks.",
+  "descriptionSource": "https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0045-cover.webp",
+  "coverPhoto": "images/NY-0045-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0045-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0045-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0045-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0045-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Kerhonkson",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Page carries a map pin; town from reverse-geocoding the pin."
+  },
+  "contactPagesChecked": "https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley owner website); operator catalog Properties",
+   "sourceUrl": "https://homesweethudson.com/properties",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-run Hudson Valley rental company (Hostfully) with one page per home, direct booking, contact page; map pin on the page. Checked 2026-10-27. Bedrooms: 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.735661,
+  "lng": -74.295454,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0046",
+  "name": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse",
+  "url": "https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/",
+  "town": "Accord",
+  "state": "NY",
+  "place": "Accord, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Three-bedroom farmhouse on a quiet road in Accord, Rondout Valley, with porch and gardens.",
+  "descriptionSource": "https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0046-cover.webp",
+  "coverPhoto": "images/NY-0046-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0046-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0046-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0046-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0046-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Accord",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Page carries a map pin; town from reverse-geocoding the pin."
+  },
+  "contactPagesChecked": "https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Hudson Valley owner website); operator catalog Properties",
+   "sourceUrl": "https://homesweethudson.com/properties",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner-run Hudson Valley rental company (Hostfully) with one page per home, direct booking, contact page; map pin on the page. Checked 2026-10-27. Bedrooms: 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.7797726,
+  "lng": -74.226473,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0047",
+  "name": "Catskill Cottage (Prattsville)",
+  "url": "https://www.catskillcottages.com/index.html",
+  "town": "Prattsville",
+  "state": "NY",
+  "place": "Prattsville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Cottage on a hillside at Prattsville near Pratt Rock, close to Windham and Hunter ski areas, with porch, full kitchen and two bedrooms; owner-run.",
+  "descriptionSource": "https://www.catskillcottages.com/index.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0047-cover.webp",
+  "coverPhoto": "images/NY-0047-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0047-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0047-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0047-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0047-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Prattsville",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.catskillcottages.com/index.html",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Site gives a Location Map page but no street."
+  },
+  "contactPagesChecked": "https://www.catskillcottages.com/index.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Catskills cabin own website book direct)",
+   "sourceUrl": "https://www.catskillcottages.com/index.html",
+   "verification": "Fetched own page 2026-10-27: description, bedrooms, photos, booking/contact path.",
+   "notes": "Owner Ella's cottage rental near Pratt Rock, Prattsville, close to Windham and Hunter; own site with Prices & Reservations, phone (518) 412-2299; a dome and bungalow also shown. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit guests",
+   "Published pets policy",
+   "Published kids policy"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false
+ }
+]
