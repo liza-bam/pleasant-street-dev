@@ -58,7 +58,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -6364,7 +6364,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s wareham category",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -6762,7 +6762,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -6825,7 +6825,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -9366,7 +9366,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -9429,7 +9429,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -10922,7 +10922,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s fairhaven category",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -14739,7 +14739,7 @@
   "id": "MA-0276",
   "name": "Casa Isla",
   "url": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
-  "place": "West Island, Fairhaven, MA",
+  "place": "Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -14798,7 +14798,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -16426,7 +16426,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -16615,7 +16615,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -16678,7 +16678,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -26101,7 +26101,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -26572,7 +26572,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -27190,7 +27190,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -27253,7 +27253,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -28862,7 +28862,7 @@
   "id": "MA-0275",
   "name": "Cozy Quahog",
   "url": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
-  "place": "West Island, Fairhaven, MA",
+  "place": "Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -28921,7 +28921,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -56217,8 +56217,8 @@
   "pets": "No",
   "kidsDetails": "Contact inquiry instructions explicitly include children; children count toward occupancy unless in a crib.",
   "petsDetails": "Rental Information: pets not allowed in cottages or on property.",
-  "lat": 41.6557,
-  "lng": -70.12378,
+  "lat": 41.65626,
+  "lng": -70.12314,
   "photo": "images/MA-1413-card.webp",
   "coverPhoto": "images/MA-1413-cover.webp",
   "photos": [
@@ -56236,7 +56236,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -56614,7 +56614,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -56677,7 +56677,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -61637,7 +61637,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -69658,7 +69658,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -76798,7 +76798,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -77424,7 +77424,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -84326,7 +84326,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published street address; Katama neighbourhood (street not in OpenStreetMap)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -84703,7 +84703,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -85309,7 +85309,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -86973,7 +86973,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -98762,7 +98762,7 @@
   "id": "MA-0281",
   "name": "Lovely Day Oceanside",
   "url": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
-  "place": "West Island, Fairhaven, MA",
+  "place": "Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -98821,7 +98821,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -100629,7 +100629,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s fairhaven category",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -119370,7 +119370,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -119433,7 +119433,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -119496,7 +119496,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -119559,7 +119559,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -121604,7 +121604,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -121666,7 +121666,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -121728,7 +121728,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -121790,7 +121790,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -121852,7 +121852,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -121914,7 +121914,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -121976,7 +121976,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122038,7 +122038,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122100,7 +122100,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122162,7 +122162,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122224,7 +122224,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122286,7 +122286,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122348,7 +122348,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122410,7 +122410,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122472,7 +122472,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122534,7 +122534,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122596,7 +122596,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122658,7 +122658,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122720,7 +122720,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122782,7 +122782,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122844,7 +122844,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122906,7 +122906,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -122968,7 +122968,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123030,7 +123030,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123092,7 +123092,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123154,7 +123154,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123216,7 +123216,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123278,7 +123278,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123340,7 +123340,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123402,7 +123402,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123464,7 +123464,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123526,7 +123526,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123588,7 +123588,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123650,7 +123650,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123712,7 +123712,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123774,7 +123774,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123836,7 +123836,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123898,7 +123898,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -123960,7 +123960,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124022,7 +124022,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124084,7 +124084,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124146,7 +124146,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124208,7 +124208,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124270,7 +124270,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124332,7 +124332,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124394,7 +124394,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124456,7 +124456,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124518,7 +124518,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124580,7 +124580,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -124642,7 +124642,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -130392,7 +130392,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -149537,7 +149537,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s mattapoisett category",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -149976,7 +149976,7 @@
   "id": "MA-0277",
   "name": "Oceanview Oasis",
   "url": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
-  "place": "West Island, Fairhaven, MA",
+  "place": "Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -150035,7 +150035,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -171554,7 +171554,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -171617,7 +171617,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -171680,7 +171680,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -171743,7 +171743,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -181915,7 +181915,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -186011,7 +186011,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -187058,7 +187058,7 @@
   "id": "MA-0283",
   "name": "Strawberry Moon – West Island",
   "url": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
-  "place": "West Island, Fairhaven, MA",
+  "place": "Fairhaven, MA",
   "town": "Fairhaven",
   "state": "MA",
   "type": "Unknown",
@@ -187117,7 +187117,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -187181,7 +187181,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -187244,7 +187244,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -189227,7 +189227,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -190095,7 +190095,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -190224,7 +190224,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Town centre, per operator’s fairhaven category",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -191510,7 +191510,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -192579,7 +192579,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -193904,7 +193904,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -199147,7 +199147,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -199274,7 +199274,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -228593,7 +228593,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published street address; Katama neighbourhood (street not in OpenStreetMap)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -228903,7 +228903,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -228966,7 +228966,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -229092,7 +229092,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -243158,7 +243158,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
