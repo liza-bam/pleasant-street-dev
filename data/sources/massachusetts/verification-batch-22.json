@@ -65,7 +65,19 @@
     },
     "description": "Two-bedroom East Sandwich cottage for up to five on a private Cape Cod Bay beach, with a deck, galley kitchen and Wi-Fi.",
     "descriptionSource": "https://capecodcozy.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "111A Salt Marsh Road",
+      "city": "East Sandwich",
+      "state": "MA",
+      "zip": "02537",
+      "source": "https://capecodcozy.com/",
+      "role": "Rental property address"
+    },
+    "lat": 41.75441,
+    "lng": -70.45052,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://capecodcozy.com/"
   },
   {
     "id": "MA-1834",
@@ -136,7 +148,19 @@
     },
     "description": "Three two-bedroom housekeeping units on East Sandwich Beach, with patios or decks, outdoor shower and a sandy path to Cape Cod Bay.",
     "descriptionSource": "https://dunetootin.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "113 North Shore Boulevard",
+      "city": "East Sandwich",
+      "state": "MA",
+      "zip": "02537",
+      "source": "https://dunetootin.com/",
+      "role": "Rental property address"
+    },
+    "lat": 41.75124,
+    "lng": -70.44083,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://dunetootin.com/"
   },
   {
     "id": "MA-1835",
@@ -281,7 +305,19 @@
     },
     "description": "Three waterfront townhomes on Oyster Pond in Chatham, two to four bedrooms, with shared pool, tennis, pickleball and a private dock.",
     "descriptionSource": "https://oysterpondchatham.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "1233 Main Street",
+      "city": "Chatham",
+      "state": "MA",
+      "zip": "02633",
+      "source": "https://oysterpondchatham.com/",
+      "role": "Rental property address"
+    },
+    "lat": 41.68412,
+    "lng": -69.97863,
+    "locationPrecision": "Street address",
+    "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=1233%20Main%20Street%2C%20Chatham%2C%20MA%2002633"
   },
   {
     "id": "MA-1837",
@@ -352,7 +388,19 @@
     },
     "description": "Eight 1940s-era Brewster cottages with a private Cape Cod Bay beach; no Wi-Fi or TV, pets free, bring your own linens.",
     "descriptionSource": "https://www.boothcottagesandbeach.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "297 Robbins Hill Road",
+      "city": "Brewster",
+      "state": "MA",
+      "zip": "02631",
+      "source": "https://www.boothcottagesandbeach.com/",
+      "role": "Rental property address"
+    },
+    "lat": 41.7618,
+    "lng": -70.10612,
+    "locationPrecision": "Street address",
+    "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=297%20Robbins%20Hill%20Road%2C%20Brewster%2C%20MA%2002631"
   },
   {
     "id": "MA-1838",
@@ -423,7 +471,19 @@
     },
     "description": "Five family-owned Eastham cottages near Cape Cod Bay beaches, with Wi-Fi, gas grills, fire pits and outdoor showers.",
     "descriptionSource": "https://www.offshorebreezes.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "735A Campground Road",
+      "city": "Eastham",
+      "state": "MA",
+      "zip": "02642",
+      "source": "https://www.offshorebreezes.com/",
+      "role": "Rental property address"
+    },
+    "lat": 41.85208,
+    "lng": -70.00545,
+    "locationPrecision": "Street address",
+    "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=735%20Campground%20Road%2C%20Eastham%2C%20MA"
   },
   {
     "id": "MA-1839",
@@ -573,7 +633,19 @@
     },
     "description": "Renovated Days' Cottages cottage on Beach Point, North Truro, with a private beach and bay views toward Provincetown.",
     "descriptionSource": "https://www.dayscottages.rentals/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "276 N Shore Rd, Daisy, Unit 1",
+      "city": "North Truro",
+      "state": "MA",
+      "zip": "02652",
+      "source": "https://www.dayscottages.rentals/",
+      "role": "Rental property address"
+    },
+    "lat": 42.04819,
+    "lng": -70.1155,
+    "locationPrecision": "Street address",
+    "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=276%20Shore%20Road%2C%20North%20Truro%2C%20MA"
   },
   {
     "id": "MA-1841",
@@ -644,7 +716,19 @@
     },
     "description": "Renovated Truro cottages with kitchenettes and private decks, a shared fire pit and dog park, minutes from Provincetown.",
     "descriptionSource": "https://www.princeofwhalestruro.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "104 Shore Road",
+      "city": "Truro",
+      "state": "MA",
+      "zip": "02652",
+      "source": "https://www.princeofwhalestruro.com/",
+      "role": "Rental property address"
+    },
+    "lat": 42.0393,
+    "lng": -70.09489,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://www.princeofwhalestruro.com/"
   },
   {
     "id": "MA-1842",
@@ -713,7 +797,19 @@
     },
     "description": "North Truro cottages in the Pines with kitchens, Wi-Fi and two parking spaces each, on the Cape Cod shuttle bus route.",
     "descriptionSource": "https://capetrurocottages.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "95 Shore Road",
+      "city": "North Truro",
+      "state": "MA",
+      "zip": "02652",
+      "source": "https://capetrurocottages.com/",
+      "role": "Rental property address"
+    },
+    "lat": 42.03935,
+    "lng": -70.09183,
+    "locationPrecision": "Exact (operator page coordinates)",
+    "locationSource": "https://capetrurocottages.com/"
   },
   {
     "id": "MA-1843",
@@ -784,6 +880,18 @@
     },
     "description": "Family-owned since 1959: Provincetown West End cottages, suites and rooms with harbor views and a 450-foot private beach deck.",
     "descriptionSource": "https://www.themasthead.com/",
-    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27"
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "rentalAddress": {
+      "street": "31-41 Commercial Street",
+      "city": "Provincetown",
+      "state": "MA",
+      "zip": "02657",
+      "source": "https://www.themasthead.com/",
+      "role": "Rental property address"
+    },
+    "lat": 42.04086,
+    "lng": -70.19403,
+    "locationPrecision": "Street address",
+    "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=41%20Commercial%20Street%2C%20Provincetown%2C%20MA%2002657"
   }
 ]

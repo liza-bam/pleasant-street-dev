@@ -49,13 +49,12 @@
       "notes": "Keep shared office/mailing address distinct from10OceanParkEast rental."
     },
     "rentalAddress": {
-      "role": "Individual named rental cottage",
       "street": "10 Ocean Park East",
       "city": "Dennis Port",
       "state": "MA",
       "zip": "Unknown",
       "source": "https://dennisseashores.com/details.aspx?PropertyID=283993",
-      "notes": "Named street/cottage address on official unit page; office ZIP not transferred."
+      "role": "Rental property address"
     },
     "bookingMethod": "Direct arrival/departure Get a Quote controls; operator phone/email inquiry",
     "bookingUrl": "https://dennisseashores.com/details.aspx?PropertyID=283993",
@@ -117,7 +116,11 @@
         "alt": "Cottage bedroom",
         "unitOrCampus": "10 Ocean Park East"
       }
-    ]
+    ],
+    "lat": 41.65626,
+    "lng": -70.12314,
+    "locationPrecision": "Street address",
+    "locationSource": "https://nominatim.openstreetmap.org/search?format=json&countrycodes=us&q=10%20Ocean%20Park%20East%2C%20Dennis%20Port%2C%20MA"
   },
   {
     "id": "MA-1434",
