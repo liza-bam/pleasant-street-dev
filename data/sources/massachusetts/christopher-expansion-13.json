@@ -1,0 +1,96 @@
+{
+  "checkedOn": "2026-10-26",
+  "sourceUrl": "https://bostonchristopher.com/",
+  "catalogUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+  "displayedOfferCount": 9,
+  "fullDisplayedCatalogCaptured": true,
+  "pagination": "All nine offers displayed; no pagination control found.",
+  "reviewedOffers": 9,
+  "physicalUnitCount": "Unknown; three bookable categories retained, not nine physical apartments.",
+  "leads": [
+    {
+      "id": "MA-0952",
+      "name": "Boston Christopher Grand Studio Suite — Offer 9fcf0b",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b"
+    },
+    {
+      "id": "MA-0953",
+      "name": "Boston Christopher Grand Studio Suite — Offer 9fccfb",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb"
+    },
+    {
+      "id": "MA-0954",
+      "name": "Boston Christopher One Bedroom — Offer 9fccc1",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1"
+    },
+    {
+      "id": "MA-0955",
+      "name": "Boston Christopher One Bedroom — Offer 9fcc95",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95"
+    },
+    {
+      "id": "MA-0956",
+      "name": "Boston Christopher Grand Studio Suite — Offer 9fcc8b",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b"
+    },
+    {
+      "id": "MA-0957",
+      "name": "Boston Christopher Studio Suite — Offer 9fcc7f",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f"
+    },
+    {
+      "id": "MA-0958",
+      "name": "Boston Christopher Studio Suite — Offer 9fca5f",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f"
+    },
+    {
+      "id": "MA-0959",
+      "name": "Boston Christopher Studio Suite — Offer 26f87d",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d"
+    },
+    {
+      "id": "MA-0960",
+      "name": "Boston Christopher One Bedroom — Offer 26f867",
+      "url": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867"
+    }
+  ],
+  "sourceRelationships": [
+    {
+      "from": "https://bostonchristopher.com/",
+      "link": "Reserve",
+      "to": "https://bostonchristopher.guestybookings.com/"
+    },
+    {
+      "from": "https://bostonchristopher.com/",
+      "link": "The Newbury",
+      "to": "http://www.bostonnewbury.com"
+    },
+    {
+      "from": "https://bostonchristopher.com/faq/",
+      "link": "Pet-friendly sister property",
+      "to": "http://www.backbaybeacon.com"
+    }
+  ],
+  "remainingQueues": [],
+  "policyNotes": [
+    "The three Studio Suite offers exclude children ages 2–12 and infants under 2; ages 13–17 are unspecified. Grand Studio and One Bedroom offers allow children and infants.",
+    "One Bedroom offer ending fccc1 allows pets, conflicting with the operator FAQ; its pets value remains Unknown. Rules are not transferred between offer IDs."
+  ],
+  "remainingGaps": [
+    "Physical suite assignments and door numbers are not published.",
+    "Fourth photo pending for the three ready categories.",
+    "Published Newbury and Back Bay Beacon hosts were inaccessible; no official replacement verified.",
+    "Official rental street and minimum stay not found.",
+    "One alternate one-bedroom offer allows pets, conflicting with the operator FAQ."
+  ],
+  "readyAccommodationCategories": 3,
+  "candidateOfferVariants": 6,
+  "savedImages": 27,
+  "readyCategoryImages": 9,
+  "legacySisterLeadsFollowed": 2,
+  "queries": [
+    "Boston Newbury furnished apartment rentals official",
+    "Back Bay Beacon furnished apartment rentals official"
+  ],
+  "scopeNotes": "Distinct Guesty IDs and image asset IDs were not treated as proof of physical apartments. Visual review found repeated room-type imagery. One selected offer represents each category; six alternatives retain separate policy evidence and remain candidates."
+}

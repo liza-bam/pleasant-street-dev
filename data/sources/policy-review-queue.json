@@ -5,7 +5,9 @@
     "MA",
     "ME",
     "VT",
-    "NH"
+    "NH",
+    "BC",
+    "CA"
   ],
   "olderReadyInventories": {
     "ME": [
@@ -783,6 +785,13 @@
         "id": "ME-0563",
         "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=500",
         "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "LAZY-cozy-retreat-in-lisbon-falls",
+        "website": "https://lisbon-falls-retreat.lazy.vacations/",
+        "pets": "Yes",
         "kids": "Unknown",
         "policyStatus": "Pending mandatory ready-list policy recheck"
       },
@@ -2362,6 +2371,13 @@
         "policyStatus": "Pending mandatory ready-list policy recheck"
       },
       {
+        "id": "LAZY-sabattus-shalomus",
+        "website": "https://sabattus.lazy.vacations/",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
         "id": "ME-0054",
         "website": "https://sallymtcabins.com",
         "pets": "Unknown",
@@ -3867,6 +3883,24 @@
         "id": "NH-0048",
         "website": "https://winterfell-nh.com/",
         "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      }
+    ],
+    "BC": [
+      {
+        "id": "LAZY-beautyview-lakeview-suite",
+        "website": "https://beautyview.lazy.vacations/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      }
+    ],
+    "CA": [
+      {
+        "id": "LAZY-clearlake-paradise",
+        "website": "https://clearlake-paradise.lazy.vacations/",
+        "pets": "Yes",
         "kids": "Unknown",
         "policyStatus": "Pending mandatory ready-list policy recheck"
       }

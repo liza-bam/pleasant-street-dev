@@ -221,15 +221,15 @@
   },
   {
     "alt": "Mermaid Cottage",
-    "height": 1600,
+    "height": 1200,
     "url": "https://l.icdbcdn.com/oh/1458cf62-6134-4ce3-8974-2b03f248c70b.jpg?w=1920",
-    "width": 1067,
+    "width": 800,
     "sourcePage": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
     "unitOrCampus": "Mermaid Cottage",
     "id": "MA-0405",
     "role": "002",
     "file": "images/MA-0405-002.webp",
-    "sha256": "7c649d580a62227263ea3979de205730567895389165496d54b956329f2cec8a",
+    "sha256": "f8daa69067fc260612e89b22595e16e7218869ddab7ea39f84cb6581ca4d7151",
     "originalDimensions": [
       1366,
       2048
@@ -237,6 +237,9 @@
     "originalSha256": "f43c70b9600a3690738fdb297042b63d3f50c130510b12cfc7f2501dc4642c21",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected final same-unit contact sheets2026-10-26; logo/promotional previews rejected, authentic current-gallery photographs retained."
+    "verification": "Visually inspected final same-unit contact sheets2026-10-26; logo/promotional previews rejected, authentic current-gallery photographs retained.",
+    "originalWidth": 1067,
+    "originalHeight": 1600,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   }
 ]

@@ -1,0 +1,1643 @@
+{
+  "checkedOn": "2026-10-26",
+  "operator": "Mass Living",
+  "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+  "originalDiscoverySource": "https://staythere.ai/stay/guesty-massliving-69fbe14977e4df00133a66a7/central-boston-2br-retreat-near-harvard-and-transit",
+  "catalogReportedCount": 62,
+  "catalogPages": [
+    {
+      "page": 1,
+      "visibleRange": "1–50 of 62",
+      "url": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    {
+      "page": 2,
+      "visibleRange": "51–62 of 62",
+      "url": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "navigation": "Published Go to next page button; URL unchanged"
+    }
+  ],
+  "catalogUniqueGuestyIds": 62,
+  "massachusettsCatalogLeads": 53,
+  "offStateLeads": 9,
+  "scope": "Boston, Cambridge and Somerville Massachusetts metro rentals; out-of-state pages excluded",
+  "contactEvidence": {
+    "source": "https://massliving.guestybookings.com/en/contact",
+    "email": "Stay@massliving.com",
+    "phones": [
+      "+1 774-508-0508",
+      "+1 9494915436"
+    ],
+    "street": "Unknown",
+    "notes": "Opened Contact form/footer and Terms; neither publishes office street. Unit-advertised nearby hotel address is not an apartment entrance."
+  },
+  "termsEvidence": {
+    "source": "https://massliving.guestybookings.com/en/terms",
+    "notes": "Website users must be18+; not interpreted as child restriction. Property-specific House rules control children/pets."
+  },
+  "status": "Frozen:53 Massachusetts target-city booking pages reviewed;48 ready records;5 overlapping private-unit variants held;53 policy audits;187 retained source images",
+  "reviewedIds": [
+    "MA-0801",
+    "MA-0802",
+    "MA-0803",
+    "MA-0804",
+    "MA-0805",
+    "MA-0806",
+    "MA-0807",
+    "MA-0808",
+    "MA-0809",
+    "MA-0810",
+    "MA-0811",
+    "MA-0812",
+    "MA-0813",
+    "MA-0814",
+    "MA-0815",
+    "MA-0816",
+    "MA-0817",
+    "MA-0818",
+    "MA-0819",
+    "MA-0820",
+    "MA-0821",
+    "MA-0822",
+    "MA-0823",
+    "MA-0824",
+    "MA-0825",
+    "MA-0826",
+    "MA-0827",
+    "MA-0828",
+    "MA-0829",
+    "MA-0830",
+    "MA-0831",
+    "MA-0832",
+    "MA-0833",
+    "MA-0834",
+    "MA-0835",
+    "MA-0836",
+    "MA-0837",
+    "MA-0838",
+    "MA-0839",
+    "MA-0840",
+    "MA-0841",
+    "MA-0842",
+    "MA-0843",
+    "MA-0844",
+    "MA-0845",
+    "MA-0846",
+    "MA-0847",
+    "MA-0848",
+    "MA-0849",
+    "MA-0850",
+    "MA-0851",
+    "MA-0852",
+    "MA-0853"
+  ],
+  "savedCount": 53,
+  "pendingCatalogUnits": 0,
+  "individualProperties": [
+    {
+      "id": "MA-0801",
+      "name": "Cozy 2BR near Harvard with Gym, Golf & Work Space",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a627b1eb1cdbf0051b0df0f?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a627b1eb1cdbf0051b0df0f",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0802",
+      "name": "Central Boston 2BR Retreat near Harvard & Transit",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a627ac646a973005bb515e4?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a627ac646a973005bb515e4",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0803",
+      "name": "Central 4BR Penthouse in Boston DT TUFTS Parking",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a627abc06ef0200152a52dd?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a627abc06ef0200152a52dd",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0804",
+      "name": "Central 2BR Boston w/ Workspace & Game Room",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a6126c06a757a001ba8130f?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a6126c06a757a001ba8130f",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0805",
+      "name": "Cozy Studio Near MIT and Harvard 0249",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/6a58171accab850013d43355?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a58171accab850013d43355",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0806",
+      "name": "Central Serene Condo near MIT/Harvard w/King GYM",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/6a58160860ff1b0013759c04?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a58160860ff1b0013759c04",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0807",
+      "name": "3 BR in Cambridge/MIT/Harvard",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/6a5815ea410f470014cbab35?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a5815ea410f470014cbab35",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0808",
+      "name": "Kendall and Central Square Condo near MIT Parking",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/6a5815c871a171000fc8d83e?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a5815c871a171000fc8d83e",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0809",
+      "name": "Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a580cfa6d68cf001c59fb60?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a580cfa6d68cf001c59fb60",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0810",
+      "name": "Central Penthouse & balcony in Boston Chinatown",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a580cbcf82e52001a5844df?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a580cbcf82e52001a5844df",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0811",
+      "name": "Central Condo Fenway near RedSox Green Line w Gym",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a580a074cdff30014f4beb4?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a580a074cdff30014f4beb4",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0812",
+      "name": "Central Upscale 2BR Condo wGym Office & Parking",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/6a5809b1e1fa4d001135039d?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a5809b1e1fa4d001135039d",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0813",
+      "name": "Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a444f40b7a3f80014485789?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a444f40b7a3f80014485789",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0814",
+      "name": "Central 2BR in Boston w Pool, Gym, Washer Dryer",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a444eb8471cbe0014c04cee?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a444eb8471cbe0014c04cee",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0815",
+      "name": "Cozy 2BR near Harvard with Gym, Golf & Work Space",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6a444eb21e71bb0016a29ef8?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6a444eb21e71bb0016a29ef8",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0816",
+      "name": "Central Boston 2BR Retreat Gym W&D Golf",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/69fbe1555a9c35001b4f0eb1?minOccupancy=1&adults=1",
+      "guestyPropertyId": "69fbe1555a9c35001b4f0eb1",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0817",
+      "name": "Central Boston 2BR Retreat near Harvard & Transit",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/69fbe14977e4df00133a66a7?minOccupancy=1&adults=1",
+      "guestyPropertyId": "69fbe14977e4df00133a66a7",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0818",
+      "name": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer",
+      "city": "Somerville",
+      "url": "https://massliving.guestybookings.com/en/properties/69e932c253a5aa001234aab2?minOccupancy=1&adults=1",
+      "guestyPropertyId": "69e932c253a5aa001234aab2",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0819",
+      "name": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7",
+      "city": "Somerville",
+      "url": "https://massliving.guestybookings.com/en/properties/69e9311a7019930013e14164?minOccupancy=1&adults=1",
+      "guestyPropertyId": "69e9311a7019930013e14164",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0820",
+      "name": "Central 2BR Den Fenway Walk to BU Longwood Red Sox",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/69e9310a7019930013e13cb4?minOccupancy=1&adults=1",
+      "guestyPropertyId": "69e9310a7019930013e13cb4",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0821",
+      "name": "Central 2BR Boston Pool views near Public Garden",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/69e930f213d9b40011a16b9b?minOccupancy=1&adults=1",
+      "guestyPropertyId": "69e930f213d9b40011a16b9b",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0822",
+      "name": "Central 2BR Condo in Downtown Boston & T-Station",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/690ff08569fb6300139b723c?minOccupancy=1&adults=1",
+      "guestyPropertyId": "690ff08569fb6300139b723c",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0823",
+      "name": "Central 3BR & Den Penthouse Boston Common MGH & TUFTS",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/690ff07c0bade50011061abb?minOccupancy=1&adults=1",
+      "guestyPropertyId": "690ff07c0bade50011061abb",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0824",
+      "name": "Pool View Central Condo Assembly Row W/D Gym & Pool Sleep 5",
+      "city": "Somerville",
+      "url": "https://massliving.guestybookings.com/en/properties/68f5806e7b1961002a8c177c?minOccupancy=1&adults=1",
+      "guestyPropertyId": "68f5806e7b1961002a8c177c",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0825",
+      "name": "Lux 2BR w Gym Pool sleep 6 in Assembly Square",
+      "city": "Somerville",
+      "url": "https://massliving.guestybookings.com/en/properties/68f580687b1961002a8c15e9?minOccupancy=1&adults=1",
+      "guestyPropertyId": "68f580687b1961002a8c15e9",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0826",
+      "name": "2BR Penthouse Boston Common DT",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/68ec1ec99be33400120e5715?minOccupancy=1&adults=1",
+      "guestyPropertyId": "68ec1ec99be33400120e5715",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0827",
+      "name": "Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5",
+      "city": "Somerville",
+      "url": "https://massliving.guestybookings.com/en/properties/68ec01c9532e710013d67adb?minOccupancy=1&adults=1",
+      "guestyPropertyId": "68ec01c9532e710013d67adb",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0828",
+      "name": "Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/68070de836a81400130f45b3?minOccupancy=1&adults=1",
+      "guestyPropertyId": "68070de836a81400130f45b3",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0829",
+      "name": "Central Square 3BR Condo with Downtown View, Gym and Parking! 8 Sleeps",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/68070cea56afff0013c6ea96?minOccupancy=1&adults=1",
+      "guestyPropertyId": "68070cea56afff0013c6ea96",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0830",
+      "name": "Upscale 1 BR Penthouse with Balcony in Boston Theater District near MGH & TUFTS & Boston Common! Sleeps 5!",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e7e936a81400130e97ee?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6806e7e936a81400130e97ee",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0831",
+      "name": "Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e7d7627f4b00125824d9?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6806e7d7627f4b00125824d9",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0832",
+      "name": "Back-Bay Penthouse Public Garden Down Town Rooftop and Parking",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e59679ba110013942bb4?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6806e59679ba110013942bb4",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0833",
+      "name": "Back-Bay Lux Central 2BR Condo with Rooftop and Parking",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e4513c0a6a001255fd87?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6806e4513c0a6a001255fd87",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0834",
+      "name": "Back-Bay Upscale Central Condo Rooftop & Parking",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e43e1703750014983ff4?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6806e43e1703750014983ff4",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0835",
+      "name": "Back-Bay Central Condo w Roof top, Gym & Parking",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e41a0f97b90013194298?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6806e41a0f97b90013194298",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0836",
+      "name": "Back-Bay 2BR Condo w Roof top, Gym, Parking",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/670ee77db5425100b7acef8f?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670ee77db5425100b7acef8f",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0837",
+      "name": "Luxury Apartment w King Bed, Shared Pool & Rooftop",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670403664d5fe800103b8d56?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670403664d5fe800103b8d56",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0838",
+      "name": "Back-Bay 2BR Penthouse w Roof top and GYM",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/67040298865b1300136e2b56?minOccupancy=1&adults=1",
+      "guestyPropertyId": "67040298865b1300136e2b56",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0839",
+      "name": "Back-Bay Upscale Central Condo Bos Common Downtown",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/670402179d038300116221f0?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670402179d038300116221f0",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0840",
+      "name": "Back-Bay Upscale Central Penthouse W Roof-top",
+      "city": "Boston",
+      "url": "https://massliving.guestybookings.com/en/properties/670401fcb485c600109b6ef2?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670401fcb485c600109b6ef2",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0841",
+      "name": "Upscale Penthouse near MIT & Harvard in Central Square!",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/67040194b485c600109b6b80?minOccupancy=1&adults=1",
+      "guestyPropertyId": "67040194b485c600109b6b80",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0842",
+      "name": "High Rise 3 BR Retreat w City Skyline Views, Shared Gym",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/67040184b485c600109b672e?minOccupancy=1&adults=1",
+      "guestyPropertyId": "67040184b485c600109b672e",
+      "evidenceStatus": "Source found in web research",
+      "directoryDisposition": "Duplicate review hold",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0843",
+      "name": "Central Serene 2BR Penthouse Near MIT & Harvard with King bed GYM Parking",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670401639d03830011621ca9?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670401639d03830011621ca9",
+      "evidenceStatus": "Source found in web research",
+      "directoryDisposition": "Duplicate review hold",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0844",
+      "name": "Central Square 2BR Condo near Harvard & MIT Spacious Gym & Work",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670401467df7250012570236?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670401467df7250012570236",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0845",
+      "name": "Central Space 2 BR Condo to Balance Life, Work Play! 7 Sleeps",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/6704013d9d03830011621945?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6704013d9d03830011621945",
+      "evidenceStatus": "Source found in web research",
+      "directoryDisposition": "Duplicate review hold",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0846",
+      "name": "Central Square Penthouse near MIT Harvard Wi-Fi & GYM",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670401358c2ede0010e535f1?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670401358c2ede0010e535f1",
+      "evidenceStatus": "Source found in web research",
+      "directoryDisposition": "Duplicate review hold",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0847",
+      "name": "Upscale 1BR near MIT Harvard with Parking!",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670401242f8df80010c467fd?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670401242f8df80010c467fd",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0848",
+      "name": "Upscale 1BR MIT Harvard WiFi Gym W D Parking!",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/6704011bfad97f00122a330b?minOccupancy=1&adults=1",
+      "guestyPropertyId": "6704011bfad97f00122a330b",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0849",
+      "name": "Central Penthouse City Skyline Views, Gym sleep 8",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/67040107f449160071e0628e?minOccupancy=1&adults=1",
+      "guestyPropertyId": "67040107f449160071e0628e",
+      "evidenceStatus": "Source found in web research",
+      "directoryDisposition": "Duplicate review hold",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0850",
+      "name": "Central Square 2BR Penthouse near MIT & Harvard to Balance Life, Work Play Sleep 7!",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670400feddc62600126bfcb5?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670400feddc62600126bfcb5",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0851",
+      "name": "Central Serene Condo King Bed by MIT Harvard GYM",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670400e2b485c600109b5fd7?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670400e2b485c600109b5fd7",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0852",
+      "name": "Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670400d38db5e9006ab42960?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670400d38db5e9006ab42960",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 4,
+      "policyChecked": true
+    },
+    {
+      "id": "MA-0853",
+      "name": "Luxury Studio with King bed Gym near MIT Harvard in Central Square!",
+      "city": "Cambridge",
+      "url": "https://massliving.guestybookings.com/en/properties/670400bc7df725001256fe61?minOccupancy=1&adults=1",
+      "guestyPropertyId": "670400bc7df725001256fe61",
+      "evidenceStatus": "Verified platform-hosted website",
+      "directoryDisposition": "Eligible individual property",
+      "photoCount": 3,
+      "policyChecked": true
+    }
+  ],
+  "catalogLeads": [
+    {
+      "reservedId": "MA-0801",
+      "guestyPropertyId": "6a627b1eb1cdbf0051b0df0f",
+      "name": "Cozy 2BR near Harvard with Gym, Golf & Work Space",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a627b1eb1cdbf0051b0df0f?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0802",
+      "guestyPropertyId": "6a627ac646a973005bb515e4",
+      "name": "Central Boston 2BR Retreat near Harvard & Transit",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a627ac646a973005bb515e4?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0803",
+      "guestyPropertyId": "6a627abc06ef0200152a52dd",
+      "name": "Central 4BR Penthouse in Boston DT TUFTS Parking",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a627abc06ef0200152a52dd?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0804",
+      "guestyPropertyId": "6a6126c06a757a001ba8130f",
+      "name": "Central 2BR Boston w/ Workspace & Game Room",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a6126c06a757a001ba8130f?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0805",
+      "guestyPropertyId": "6a58171accab850013d43355",
+      "name": "Cozy Studio Near MIT and Harvard 0249",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a58171accab850013d43355?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0806",
+      "guestyPropertyId": "6a58160860ff1b0013759c04",
+      "name": "Central Serene Condo near MIT/Harvard w/King GYM",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a58160860ff1b0013759c04?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0807",
+      "guestyPropertyId": "6a5815ea410f470014cbab35",
+      "name": "3 BR in Cambridge/MIT/Harvard",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a5815ea410f470014cbab35?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0808",
+      "guestyPropertyId": "6a5815c871a171000fc8d83e",
+      "name": "Kendall and Central Square Condo near MIT Parking",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a5815c871a171000fc8d83e?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0809",
+      "guestyPropertyId": "6a580cfa6d68cf001c59fb60",
+      "name": "Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a580cfa6d68cf001c59fb60?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0810",
+      "guestyPropertyId": "6a580cbcf82e52001a5844df",
+      "name": "Central Penthouse & balcony in Boston Chinatown",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a580cbcf82e52001a5844df?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0811",
+      "guestyPropertyId": "6a580a074cdff30014f4beb4",
+      "name": "Central Condo Fenway near RedSox Green Line w Gym",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a580a074cdff30014f4beb4?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0812",
+      "guestyPropertyId": "6a5809b1e1fa4d001135039d",
+      "name": "Central Upscale 2BR Condo wGym Office & Parking",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a5809b1e1fa4d001135039d?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0813",
+      "guestyPropertyId": "6a444f40b7a3f80014485789",
+      "name": "Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a444f40b7a3f80014485789?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0814",
+      "guestyPropertyId": "6a444eb8471cbe0014c04cee",
+      "name": "Central 2BR in Boston w Pool, Gym, Washer Dryer",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a444eb8471cbe0014c04cee?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0815",
+      "guestyPropertyId": "6a444eb21e71bb0016a29ef8",
+      "name": "Cozy 2BR near Harvard with Gym, Golf & Work Space",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6a444eb21e71bb0016a29ef8?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0816",
+      "guestyPropertyId": "69fbe1555a9c35001b4f0eb1",
+      "name": "Central Boston 2BR Retreat Gym W&D Golf",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/69fbe1555a9c35001b4f0eb1?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0817",
+      "guestyPropertyId": "69fbe14977e4df00133a66a7",
+      "name": "Central Boston 2BR Retreat near Harvard & Transit",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/69fbe14977e4df00133a66a7?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0818",
+      "guestyPropertyId": "69e932c253a5aa001234aab2",
+      "name": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer",
+      "city": "Somerville",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/69e932c253a5aa001234aab2?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0819",
+      "guestyPropertyId": "69e9311a7019930013e14164",
+      "name": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7",
+      "city": "Somerville",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/69e9311a7019930013e14164?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0820",
+      "guestyPropertyId": "69e9310a7019930013e13cb4",
+      "name": "Central 2BR Den Fenway Walk to BU Longwood Red Sox",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/69e9310a7019930013e13cb4?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0821",
+      "guestyPropertyId": "69e930f213d9b40011a16b9b",
+      "name": "Central 2BR Boston Pool views near Public Garden",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/69e930f213d9b40011a16b9b?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0822",
+      "guestyPropertyId": "690ff08569fb6300139b723c",
+      "name": "Central 2BR Condo in Downtown Boston & T-Station",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/690ff08569fb6300139b723c?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0823",
+      "guestyPropertyId": "690ff07c0bade50011061abb",
+      "name": "Central 3BR & Den Penthouse Boston Common MGH & TUFTS",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/690ff07c0bade50011061abb?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0824",
+      "guestyPropertyId": "68f5806e7b1961002a8c177c",
+      "name": "Pool View Central Condo Assembly Row W/D Gym & Pool Sleep 5",
+      "city": "Somerville",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/68f5806e7b1961002a8c177c?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0825",
+      "guestyPropertyId": "68f580687b1961002a8c15e9",
+      "name": "Lux 2BR w Gym Pool sleep 6 in Assembly Square",
+      "city": "Somerville",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/68f580687b1961002a8c15e9?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0826",
+      "guestyPropertyId": "68ec1ec99be33400120e5715",
+      "name": "2BR Penthouse Boston Common DT",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/68ec1ec99be33400120e5715?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0827",
+      "guestyPropertyId": "68ec01c9532e710013d67adb",
+      "name": "Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5",
+      "city": "Somerville",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/68ec01c9532e710013d67adb?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0828",
+      "guestyPropertyId": "68070de836a81400130f45b3",
+      "name": "Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/68070de836a81400130f45b3?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0829",
+      "guestyPropertyId": "68070cea56afff0013c6ea96",
+      "name": "Central Square 3BR Condo with Downtown View, Gym and Parking! 8 Sleeps",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/68070cea56afff0013c6ea96?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0830",
+      "guestyPropertyId": "6806e7e936a81400130e97ee",
+      "name": "Upscale 1 BR Penthouse with Balcony in Boston Theater District near MGH & TUFTS & Boston Common! Sleeps 5!",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e7e936a81400130e97ee?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0831",
+      "guestyPropertyId": "6806e7d7627f4b00125824d9",
+      "name": "Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e7d7627f4b00125824d9?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0832",
+      "guestyPropertyId": "6806e59679ba110013942bb4",
+      "name": "Back-Bay Penthouse Public Garden Down Town Rooftop and Parking",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e59679ba110013942bb4?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0833",
+      "guestyPropertyId": "6806e4513c0a6a001255fd87",
+      "name": "Back-Bay Lux Central 2BR Condo with Rooftop and Parking",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e4513c0a6a001255fd87?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0834",
+      "guestyPropertyId": "6806e43e1703750014983ff4",
+      "name": "Back-Bay Upscale Central Condo Rooftop & Parking",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e43e1703750014983ff4?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0835",
+      "guestyPropertyId": "6806e41a0f97b90013194298",
+      "name": "Back-Bay Central Condo w Roof top, Gym & Parking",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6806e41a0f97b90013194298?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0836",
+      "guestyPropertyId": "670ee77db5425100b7acef8f",
+      "name": "Back-Bay 2BR Condo w Roof top, Gym, Parking",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670ee77db5425100b7acef8f?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0837",
+      "guestyPropertyId": "670403664d5fe800103b8d56",
+      "name": "Luxury Apartment w King Bed, Shared Pool & Rooftop",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670403664d5fe800103b8d56?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0838",
+      "guestyPropertyId": "67040298865b1300136e2b56",
+      "name": "Back-Bay 2BR Penthouse w Roof top and GYM",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/67040298865b1300136e2b56?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0839",
+      "guestyPropertyId": "670402179d038300116221f0",
+      "name": "Back-Bay Upscale Central Condo Bos Common Downtown",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670402179d038300116221f0?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0840",
+      "guestyPropertyId": "670401fcb485c600109b6ef2",
+      "name": "Back-Bay Upscale Central Penthouse W Roof-top",
+      "city": "Boston",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670401fcb485c600109b6ef2?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0841",
+      "guestyPropertyId": "67040194b485c600109b6b80",
+      "name": "Upscale Penthouse near MIT & Harvard in Central Square!",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/67040194b485c600109b6b80?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0842",
+      "guestyPropertyId": "67040184b485c600109b672e",
+      "name": "High Rise 3 BR Retreat w City Skyline Views, Shared Gym",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/67040184b485c600109b672e?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Duplicate review hold"
+    },
+    {
+      "reservedId": "MA-0843",
+      "guestyPropertyId": "670401639d03830011621ca9",
+      "name": "Central Serene 2BR Penthouse Near MIT & Harvard with King bed GYM Parking",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670401639d03830011621ca9?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Duplicate review hold"
+    },
+    {
+      "reservedId": "MA-0844",
+      "guestyPropertyId": "670401467df7250012570236",
+      "name": "Central Square 2BR Condo near Harvard & MIT Spacious Gym & Work",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670401467df7250012570236?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0845",
+      "guestyPropertyId": "6704013d9d03830011621945",
+      "name": "Central Space 2 BR Condo to Balance Life, Work Play! 7 Sleeps",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6704013d9d03830011621945?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Duplicate review hold"
+    },
+    {
+      "reservedId": "MA-0846",
+      "guestyPropertyId": "670401358c2ede0010e535f1",
+      "name": "Central Square Penthouse near MIT Harvard Wi-Fi & GYM",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670401358c2ede0010e535f1?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Duplicate review hold"
+    },
+    {
+      "reservedId": "MA-0847",
+      "guestyPropertyId": "670401242f8df80010c467fd",
+      "name": "Upscale 1BR near MIT Harvard with Parking!",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670401242f8df80010c467fd?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0848",
+      "guestyPropertyId": "6704011bfad97f00122a330b",
+      "name": "Upscale 1BR MIT Harvard WiFi Gym W D Parking!",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/6704011bfad97f00122a330b?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0849",
+      "guestyPropertyId": "67040107f449160071e0628e",
+      "name": "Central Penthouse City Skyline Views, Gym sleep 8",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/67040107f449160071e0628e?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Duplicate review hold"
+    },
+    {
+      "reservedId": "MA-0850",
+      "guestyPropertyId": "670400feddc62600126bfcb5",
+      "name": "Central Square 2BR Penthouse near MIT & Harvard to Balance Life, Work Play Sleep 7!",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670400feddc62600126bfcb5?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0851",
+      "guestyPropertyId": "670400e2b485c600109b5fd7",
+      "name": "Central Serene Condo King Bed by MIT Harvard GYM",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670400e2b485c600109b5fd7?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0852",
+      "guestyPropertyId": "670400d38db5e9006ab42960",
+      "name": "Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670400d38db5e9006ab42960?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    },
+    {
+      "reservedId": "MA-0853",
+      "guestyPropertyId": "670400bc7df725001256fe61",
+      "name": "Luxury Studio with King bed Gym near MIT Harvard in Central Square!",
+      "city": "Cambridge",
+      "state": "MA",
+      "url": "https://massliving.guestybookings.com/en/properties/670400bc7df725001256fe61?minOccupancy=1&adults=1",
+      "catalogSource": "https://massliving.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "detailReviewStatus": "Reviewed",
+      "directoryDisposition": "Eligible individual property"
+    }
+  ],
+  "physicalUnitCountQualification": "53 distinct Massachusetts Guesty booking-page IDs reviewed; not asserted to be53 proven unique physical apartments. Five private-image variants held pending reconciliation.",
+  "geographyCounts": {
+    "Boston": 28,
+    "Cambridge": 20,
+    "Somerville": 5
+  },
+  "duplicateReviewClusters": [
+    {
+      "primary": "MA-0806",
+      "held": [
+        "MA-0845"
+      ],
+      "reason": "Same two private living/dining photographs appear in opposite order; both pages are Cambridge two-bedroom/two-bathroom units.",
+      "comparison": [
+        {
+          "a": "MA-0806 original photo0",
+          "b": "MA-0845 original photo1",
+          "normalizedPixelRms": 1.141
+        },
+        {
+          "a": "MA-0806 original photo1",
+          "b": "MA-0845 original photo0",
+          "normalizedPixelRms": 1.044
+        }
+      ],
+      "evidence": [
+        {
+          "id": "MA-0806",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/6a58160860ff1b0013759c04/cb2e8cf3-e10d-45-Fztw9",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/6a58160860ff1b0013759c04?minOccupancy=1&adults=1",
+          "file": "images/MA-0806-cover.webp"
+        },
+        {
+          "id": "MA-0806",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/6a58160860ff1b0013759c04/75d102a1-946d-49-jbAH1",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/6a58160860ff1b0013759c04?minOccupancy=1&adults=1",
+          "file": "images/MA-0806-000.webp"
+        },
+        {
+          "id": "MA-0845",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/6704013d9d03830011621945-954346445825347560_1999825483",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/6704013d9d03830011621945?minOccupancy=1&adults=1",
+          "file": "images/MA-0845-cover.webp"
+        },
+        {
+          "id": "MA-0845",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/6704013d9d03830011621945-954346445825347560_1999825465",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/6704013d9d03830011621945?minOccupancy=1&adults=1",
+          "file": "images/MA-0845-000.webp"
+        }
+      ]
+    },
+    {
+      "primary": "MA-0812",
+      "held": [
+        "MA-0843",
+        "MA-0846"
+      ],
+      "reason": "Same private green-sofa living-room photograph appears on all three Cambridge two-bedroom/two-bathroom pages; MA0812 and MA0843 additionally share the same private bedroom photograph. Physical-unit independence unresolved.",
+      "comparison": [
+        {
+          "a": "MA-0812 original photo0",
+          "b": "MA-0843 original photo0",
+          "normalizedPixelRms": 1.1
+        },
+        {
+          "a": "MA-0812 original photo2",
+          "b": "MA-0843 original photo1",
+          "normalizedPixelRms": 1.0
+        },
+        {
+          "a": "MA-0812 original photo0",
+          "b": "MA-0846 original photo0",
+          "normalizedPixelRms": 1.477
+        }
+      ],
+      "evidence": [
+        {
+          "id": "MA-0812",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/6a5809b1e1fa4d001135039d/c25d5bb4-a7f9-40-aO2DN",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/6a5809b1e1fa4d001135039d?minOccupancy=1&adults=1",
+          "file": "images/MA-0812-cover.webp"
+        },
+        {
+          "id": "MA-0812",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/6a5809b1e1fa4d001135039d/c465b66a-276c-40-L4Kue",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/6a5809b1e1fa4d001135039d?minOccupancy=1&adults=1",
+          "file": "images/MA-0812-001.webp"
+        },
+        {
+          "id": "MA-0843",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/670401639d03830011621ca9-967756760501396898_1958902291",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/670401639d03830011621ca9?minOccupancy=1&adults=1",
+          "file": "images/MA-0843-cover.webp"
+        },
+        {
+          "id": "MA-0843",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/670401639d03830011621ca9-967756760501396898_1958902785",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/670401639d03830011621ca9?minOccupancy=1&adults=1",
+          "file": "images/MA-0843-000.webp"
+        },
+        {
+          "id": "MA-0846",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/670401358c2ede0010e535f1-1025502931161999381_1904253892",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/670401358c2ede0010e535f1?minOccupancy=1&adults=1",
+          "file": "images/MA-0846-cover.webp"
+        }
+      ]
+    },
+    {
+      "primary": "MA-0829",
+      "held": [
+        "MA-0842",
+        "MA-0849"
+      ],
+      "reason": "MA0829 and MA0849 share the same private green-sofa living-room photograph. MA0842 and MA0849 share the same private dining-table/window photograph. All three are published Cambridge three-bedroom/two-bathroom units.",
+      "comparison": [
+        {
+          "a": "MA-0829 original photo0",
+          "b": "MA-0849 original photo0",
+          "normalizedPixelRms": 1.067
+        },
+        {
+          "a": "MA-0842 original photo3",
+          "b": "MA-0849 original photo1",
+          "normalizedPixelRms": 1.384
+        }
+      ],
+      "evidence": [
+        {
+          "id": "MA-0829",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/68070cea56afff0013c6ea96/6ede2d49-e3a2-45-xq0O0",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/68070cea56afff0013c6ea96?minOccupancy=1&adults=1",
+          "file": "images/MA-0829-cover.webp"
+        },
+        {
+          "id": "MA-0849",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/67040107f449160071e0628e-1231218849312160323_1998558758",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/67040107f449160071e0628e?minOccupancy=1&adults=1",
+          "file": "images/MA-0849-cover.webp"
+        },
+        {
+          "id": "MA-0842",
+          "imageUrl": "https://assets.guesty.com/image/upload/v1747104762/production/66e90cd226dd45c415d4bac2/hbxhxljsjjmtlaaijyhc.jpg",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/67040184b485c600109b672e?minOccupancy=1&adults=1",
+          "file": "images/MA-0842-002.webp"
+        },
+        {
+          "id": "MA-0849",
+          "imageUrl": "https://assets.guesty.com/image/upload/listing_images_s3/production/property-photos/37f5d989516a8493ca40268908e2678163d5c4d403c68bc6/67040107f449160071e0628e-1231218849312160323_1998558709",
+          "sourcePage": "https://massliving.guestybookings.com/en/properties/67040107f449160071e0628e?minOccupancy=1&adults=1",
+          "file": "images/MA-0849-000.webp"
+        }
+      ]
+    }
+  ],
+  "readyIds": [
+    "MA-0801",
+    "MA-0802",
+    "MA-0803",
+    "MA-0804",
+    "MA-0805",
+    "MA-0806",
+    "MA-0807",
+    "MA-0808",
+    "MA-0809",
+    "MA-0810",
+    "MA-0811",
+    "MA-0812",
+    "MA-0813",
+    "MA-0814",
+    "MA-0815",
+    "MA-0816",
+    "MA-0817",
+    "MA-0818",
+    "MA-0819",
+    "MA-0820",
+    "MA-0821",
+    "MA-0822",
+    "MA-0823",
+    "MA-0824",
+    "MA-0825",
+    "MA-0826",
+    "MA-0827",
+    "MA-0828",
+    "MA-0829",
+    "MA-0830",
+    "MA-0831",
+    "MA-0832",
+    "MA-0833",
+    "MA-0834",
+    "MA-0835",
+    "MA-0836",
+    "MA-0837",
+    "MA-0838",
+    "MA-0839",
+    "MA-0840",
+    "MA-0841",
+    "MA-0844",
+    "MA-0847",
+    "MA-0848",
+    "MA-0850",
+    "MA-0851",
+    "MA-0852",
+    "MA-0853"
+  ],
+  "heldIds": [
+    "MA-0842",
+    "MA-0843",
+    "MA-0845",
+    "MA-0846",
+    "MA-0849"
+  ],
+  "policyReviewedIds": [
+    "MA-0801",
+    "MA-0802",
+    "MA-0803",
+    "MA-0804",
+    "MA-0805",
+    "MA-0806",
+    "MA-0807",
+    "MA-0808",
+    "MA-0809",
+    "MA-0810",
+    "MA-0811",
+    "MA-0812",
+    "MA-0813",
+    "MA-0814",
+    "MA-0815",
+    "MA-0816",
+    "MA-0817",
+    "MA-0818",
+    "MA-0819",
+    "MA-0820",
+    "MA-0821",
+    "MA-0822",
+    "MA-0823",
+    "MA-0824",
+    "MA-0825",
+    "MA-0826",
+    "MA-0827",
+    "MA-0828",
+    "MA-0829",
+    "MA-0830",
+    "MA-0831",
+    "MA-0832",
+    "MA-0833",
+    "MA-0834",
+    "MA-0835",
+    "MA-0836",
+    "MA-0837",
+    "MA-0838",
+    "MA-0839",
+    "MA-0840",
+    "MA-0841",
+    "MA-0842",
+    "MA-0843",
+    "MA-0844",
+    "MA-0845",
+    "MA-0846",
+    "MA-0847",
+    "MA-0848",
+    "MA-0849",
+    "MA-0850",
+    "MA-0851",
+    "MA-0852",
+    "MA-0853"
+  ],
+  "policyPendingIds": [],
+  "policyAuditSource": "data/sources/massachusetts/policy-audit-09.json",
+  "photoCount": 187,
+  "unitsWithThreeOrMorePhotos": 53,
+  "fourthPhotoGapIds": [
+    "MA-0806",
+    "MA-0807",
+    "MA-0811",
+    "MA-0814",
+    "MA-0822",
+    "MA-0824",
+    "MA-0825",
+    "MA-0826",
+    "MA-0827",
+    "MA-0829",
+    "MA-0830",
+    "MA-0832",
+    "MA-0834",
+    "MA-0835",
+    "MA-0838",
+    "MA-0839",
+    "MA-0840",
+    "MA-0843",
+    "MA-0844",
+    "MA-0847",
+    "MA-0848",
+    "MA-0849",
+    "MA-0850",
+    "MA-0851",
+    "MA-0853"
+  ],
+  "privateUnitPhotoGapIds": [
+    "MA-0804"
+  ],
+  "mediaLimits": "All retained derivatives are proportional WebP, maximum1200px, quality78; originals/hashes and observed source URLs retained. Shared campus imagery labeled. Three images accepted for current card where fourth is a gap.",
+  "offStateCatalogLeads": [
+    {
+      "name": "TDY/Nurse Ready in Medical & Arsenal District",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf943f0706ba007916e13a?minOccupancy=1&adults=1",
+      "city": "Huntsville",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "Medical District Quiet Studio 2mi to Crestwood",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf94380706ba007916dea3?minOccupancy=1&adults=1",
+      "city": "Huntsville",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "FAST WiFi + Workspace | Arsenal & Space Center",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf94320706ba007916da20?minOccupancy=1&adults=1",
+      "city": "Huntsville",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "Next to St Camillus, Froedtert, MCW & Childrens",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf942c0706ba007916d4b8?minOccupancy=1&adults=1",
+      "city": "Wauwatosa",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "MCW/Froedtert | King Bed | Quiet Stay | WiFi | Pkg",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf94250706ba007916cf42?minOccupancy=1&adults=1",
+      "city": "Wauwatosa",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "Walk to Tosa Village | Cafés & Shops | King Bed",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf941f0706ba007916cc9e?minOccupancy=1&adults=1",
+      "city": "Wauwatosa",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "Froedtert MCW Sanctuary King Bed + Covered Parking",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf94130706ba007916c57e?minOccupancy=1&adults=1",
+      "city": "Wauwatosa",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "Medical District Apt King Bed Free Parking Laundry",
+      "url": "https://massliving.guestybookings.com/en/properties/6adf940dc3b355009507625d?minOccupancy=1&adults=1",
+      "city": "Wauwatosa",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    },
+    {
+      "name": "Cozy Cottage w Free Parking & Laundry in Glendale",
+      "url": "https://massliving.guestybookings.com/en/properties/6add73e4206df80011fba9ac?minOccupancy=1&adults=1",
+      "city": "Glendale",
+      "status": "Off-state discovery lead only; excluded from Massachusetts unit inventory"
+    }
+  ],
+  "crossOperatorDuplicateAudit": {
+    "checkedOn": "2026-10-26",
+    "comparedBatches": [
+      "verification-batch-10.json",
+      "verification-batch-11.json"
+    ],
+    "ownRecords": 53,
+    "otherRecords": 75,
+    "ownImagesCompared": 187,
+    "otherImagesCompared": 252,
+    "exactSharedAssetUrls": [],
+    "nearImageMatches": [],
+    "method": "All saved retained photos compared using256bit average hashes; candidate pairs at distance<=8 then128px normalizedRGB pixel RMS. Names/building addresses alone do not merge properties.",
+    "exactNormalizedNameMatches": [],
+    "publishedRentalStreetMatches": [],
+    "conclusion": "No cross-operator duplicate established in the saved FQ/Heirloom evidence. No shared asset URL or near-identical image match found among187 retained MassLiving and252 other photos. Building/neighborhood/style similarities are not treated as duplicate proof. MassLiving rental entrances remain undisclosed, so street comparison is incomplete."
+  },
+  "outsideMetroLeadQualification": "Nine catalog leads outside Boston/Cambridge/Somerville retained only as leads. Their individual pages/states were not separately verified; Glendale state is unresolved."
+}

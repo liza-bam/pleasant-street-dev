@@ -153,7 +153,8 @@
       "priceFrom": "Unknown",
       "priceDetails": "No dated quote requested."
     },
-    "notes": "Photographs restricted to StudioSuite gallery; exact suite number not identified. Accommodation types and operator-level facts are not merged. Staythere served as discovery only; verification from operator ownsite."
+    "notes": "Photographs restricted to StudioSuite gallery; exact suite number not identified. Accommodation types and operator-level facts are not merged. Staythere served as discovery only; verification from operator ownsite. Parent operator summary replaced by three verified bookable accommodation categories in batch13; preserve former operator sources.",
+    "directoryDisposition": "Superseded by individual properties"
   },
   {
     "checkedOn": "2026-10-26",
@@ -303,7 +304,7 @@
     "contactEmail": "Stay@massliving.com",
     "contactPhone": "+1 774-508-0508; +1 9494915436",
     "eligibilityReason": "Own operator site opens with direct search and contact details; individual unit scope, policy and photo verification remain pending, so not approved from aggregator membership.",
-    "notes": "Staythere host advertises53stays. Own Contact and Terms render footer/contact details but no substantive terms content; no security bypass. Portfolio includes weeks-to-six-month stays and explicit vacation accommodation. Never assign directory-only40WesternAve to every managed apartment.",
+    "notes": "Staythere host advertises53stays. Own Contact and Terms render footer/contact details but no substantive terms content; no security bypass. Portfolio includes weeks-to-six-month stays and explicit vacation accommodation. Never assign directory-only40WesternAve to every managed apartment. MA0801–0853 retain the individually reviewed Massachusetts catalog; this source/operator summary is not an additional rental.",
     "description": "Furnished apartment operator with direct-booking apartments in Boston and Cambridge; individual rental verification remains pending.",
     "descriptionSource": "https://massliving.guestybookings.com/",
     "photos": [],
@@ -313,6 +314,7 @@
       "Individual property catalog expansion",
       "Unit eligibility, policies and gallery verification",
       "Exact rental addresses"
-    ]
+    ],
+    "directoryDisposition": "Superseded by individual properties"
   }
 ]

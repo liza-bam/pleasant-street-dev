@@ -1,0 +1,197 @@
+[
+  {
+    "id": "MA-1201",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.serenitysuitehomes.com/ebsuite-1",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD"
+    ],
+    "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+    "applicability": "This named apartment only; no policy copied from another apartment.",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets not allowed",
+        "source": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD"
+      },
+      {
+        "topic": "kids",
+        "text": "Children are welcome",
+        "source": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD"
+      },
+      {
+        "topic": "reservation age",
+        "text": "Must be 18+ years to make a reservation",
+        "source": "https://www.serenitysuitehomes.com/ebsuite-1"
+      }
+    ],
+    "restrictions": [
+      "Booker must be18 or older; not a child ban.",
+      "Smoking prohibited."
+    ],
+    "noneFound": [
+      "Published minimum stay on direct site"
+    ],
+    "conflicts": [],
+    "notes": "Matching Booking.com destination corroborates children of all ages welcome and pets prohibited."
+  },
+  {
+    "id": "MA-1202",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.serenitysuitehomes.com/bh-suite-1",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/rentals"
+    ],
+    "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+    "applicability": "This named apartment only; no policy copied from another apartment.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "stay duration",
+        "text": "Not available for less than 30 days",
+        "source": "https://www.serenitysuitehomes.com/rentals"
+      },
+      {
+        "topic": "booking",
+        "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+        "source": "https://www.serenitysuitehomes.com/bh-suite-1"
+      },
+      {
+        "topic": "contact prompt",
+        "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+        "source": "https://www.serenitysuitehomes.com/contact-us"
+      }
+    ],
+    "restrictions": [
+      "Minimum30 nights; monthly furnished accommodation."
+    ],
+    "noneFound": [
+      "Explicit child-admission policy",
+      "Explicit pet-admission policy"
+    ],
+    "conflicts": [],
+    "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+  },
+  {
+    "id": "MA-1203",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.serenitysuitehomes.com/bh-suite-2",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/rentals"
+    ],
+    "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+    "applicability": "This named apartment only; no policy copied from another apartment.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "stay duration",
+        "text": "Not available for less than 30 days",
+        "source": "https://www.serenitysuitehomes.com/rentals"
+      },
+      {
+        "topic": "booking",
+        "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+        "source": "https://www.serenitysuitehomes.com/bh-suite-2"
+      },
+      {
+        "topic": "contact prompt",
+        "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+        "source": "https://www.serenitysuitehomes.com/contact-us"
+      }
+    ],
+    "restrictions": [
+      "Minimum30 nights; monthly furnished accommodation."
+    ],
+    "noneFound": [
+      "Explicit child-admission policy",
+      "Explicit pet-admission policy"
+    ],
+    "conflicts": [],
+    "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+  },
+  {
+    "id": "MA-1204",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.serenitysuitehomes.com/bh-suite-3",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/rentals"
+    ],
+    "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+    "applicability": "This named apartment only; no policy copied from another apartment.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "stay duration",
+        "text": "Not available for less than 30 days",
+        "source": "https://www.serenitysuitehomes.com/rentals"
+      },
+      {
+        "topic": "booking",
+        "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+        "source": "https://www.serenitysuitehomes.com/bh-suite-3"
+      },
+      {
+        "topic": "contact prompt",
+        "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+        "source": "https://www.serenitysuitehomes.com/contact-us"
+      }
+    ],
+    "restrictions": [
+      "Minimum30 nights; monthly furnished accommodation."
+    ],
+    "noneFound": [
+      "Explicit child-admission policy",
+      "Explicit pet-admission policy"
+    ],
+    "conflicts": [],
+    "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+  },
+  {
+    "id": "MA-1205",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.serenitysuitehomes.com/bh-suite-4",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/rentals"
+    ],
+    "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+    "applicability": "This named apartment only; no policy copied from another apartment.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "stay duration",
+        "text": "Not available for less than 30 days",
+        "source": "https://www.serenitysuitehomes.com/rentals"
+      },
+      {
+        "topic": "booking",
+        "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+        "source": "https://www.serenitysuitehomes.com/bh-suite-4"
+      },
+      {
+        "topic": "contact prompt",
+        "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+        "source": "https://www.serenitysuitehomes.com/contact-us"
+      }
+    ],
+    "restrictions": [
+      "Minimum30 nights; monthly furnished accommodation."
+    ],
+    "noneFound": [
+      "Explicit child-admission policy",
+      "Explicit pet-admission policy"
+    ],
+    "conflicts": [],
+    "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+  }
+]

@@ -1790,5 +1790,33 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Swampscott%2C+MA%2C+USA&format=json&limit=1",
   "label": "Swampscott, Essex County, Massachusetts, 01907, United States",
   "checked": "2026-10-26"
+ },
+ "Cambridge, MA, USA": {
+  "lat": 42.3656,
+  "lng": -71.104,
+  "source": "https://nominatim.openstreetmap.org/search?q=Cambridge%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Cambridge, Middlesex County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Somerville, MA, USA": {
+  "lat": 42.3876,
+  "lng": -71.0995,
+  "source": "https://nominatim.openstreetmap.org/search?q=Somerville%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Somerville, Middlesex County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Charlestown, MA, USA": {
+  "lat": 42.3779,
+  "lng": -71.062,
+  "source": "https://nominatim.openstreetmap.org/search?q=Charlestown%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Charlestown, Boston, Suffolk County, Massachusetts, 02129, United States",
+  "checked": "2026-10-26"
+ },
+ "Malden, MA, USA": {
+  "lat": 42.4268,
+  "lng": -71.0684,
+  "source": "https://nominatim.openstreetmap.org/search?q=Malden%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Malden, Middlesex County, Massachusetts, United States",
+  "checked": "2026-10-26"
  }
 }

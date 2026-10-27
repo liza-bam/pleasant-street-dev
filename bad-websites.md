@@ -220,3 +220,21 @@ Client blocking and browser security warnings are retained as research limitatio
 - Access detail: [{"url": "https://colonialhomeswatch.com/", "result": "DNS_PROBE_FINISHED_NXDOMAIN"}]
 - Evidence: https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b35; https://colonialhomeswatch.com/
 - Directory state: Excluded; no working replacement verified.
+
+### MA-0961 — The Newbury — legacy Boston Christopher sister-property lead (Boston, MA)
+
+- URL: http://www.bostonnewbury.com
+- Checked: 2026-10-26
+- Observation: The published HTTP site showed a blank browser error. HTTPS navigation timed out and left the prior page. One focused reverse search found other Newbury providers, without a verified operator connection.
+- Access detail: [{"url": "http://www.bostonnewbury.com", "result": "Blank browser error page."}, {"url": "https://www.bostonnewbury.com/", "result": "Navigation timed out; prior Google page and URL remained, confirmed through native accessibility. This does not establish permanent closure."}]
+- Evidence: https://bostonchristopher.com/; http://www.bostonnewbury.com; https://www.bostonnewbury.com/; https://www.google.com/search?q=Boston%20Newbury%20furnished%20apartment%20rentals%20official
+- Directory state: Excluded; no working replacement verified.
+
+### MA-0962 — Back Bay Beacon — legacy sister-property lead (Boston, MA)
+
+- URL: http://www.backbaybeacon.com
+- Checked: 2026-10-26
+- Observation: The published domain returned DNS_PROBE_FINISHED_NXDOMAIN. One focused reverse search found no corresponding working official operator site. Permanent closure was not established.
+- Access detail: [{"url": "http://www.backbaybeacon.com", "result": "DNS_PROBE_FINISHED_NXDOMAIN"}]
+- Evidence: https://bostonchristopher.com/faq/; http://www.backbaybeacon.com; https://www.google.com/search?q=Back%20Bay%20Beacon%20furnished%20apartment%20rentals%20official
+- Directory state: Excluded; no working replacement verified.

@@ -1,0 +1,85 @@
+{
+  "checkedOn": "2026-10-26",
+  "sourceUrl": "https://www.serenitysuitehomes.com/rentals",
+  "originalDiscoveryUrl": "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+  "discoveryProvenance": "Agent03 handoff from opened official catalog; no new search required in this bounded followup.",
+  "catalogDisplayed": 6,
+  "fullDisplayedCatalogCaptured": true,
+  "pagination": "All six named rentals displayed; no pagination observed.",
+  "reviewed": 6,
+  "eligibleMA": 5,
+  "excluded": 1,
+  "leads": [
+    {
+      "id": "MA-1201",
+      "name": "Serenity Suite Homes — East Boston Suite #1",
+      "url": "https://www.serenitysuitehomes.com/ebsuite-1",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-1202",
+      "name": "Serenity Suite Homes — Beacon Hill Suite #1",
+      "url": "https://www.serenitysuitehomes.com/bh-suite-1",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-1203",
+      "name": "Serenity Suite Homes — Beacon Hill Suite #2",
+      "url": "https://www.serenitysuitehomes.com/bh-suite-2",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-1204",
+      "name": "Serenity Suite Homes — Beacon Hill Suite #3",
+      "url": "https://www.serenitysuitehomes.com/bh-suite-3",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-1205",
+      "name": "Serenity Suite Homes — Beacon Hill Suite #4",
+      "url": "https://www.serenitysuitehomes.com/bh-suite-4",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-1206",
+      "name": "Serenity Suite Homes — North Providence Suite #1",
+      "url": "https://www.serenitysuitehomes.com/ri-suite-1",
+      "status": "Not eligible"
+    }
+  ],
+  "openedSharedPages": [
+    "https://www.serenitysuitehomes.com/",
+    "https://www.serenitysuitehomes.com/contact-us"
+  ],
+  "queries": [],
+  "remainingQueues": [],
+  "remainingGaps": [
+    "Beacon Hill pet/child policies and exact streets are not published on checked pages.",
+    "Beacon Hill Suite1 catalog/detail bathroom and price conflicts retained.",
+    "East Boston exact direct minimum stay and date-specific price were not requested.",
+    "Beacon Hill maximum occupancy remains unpublished."
+  ],
+  "scopeNotes": "Five individually named Boston apartment pages; one East Boston short-stay and four Beacon Hill monthly apartments. No claims of exact doors or building addresses for Beacon Hill. No further discovery outside catalog.",
+  "originalDiscoveryQuery": "Serenity Suite Homes Boston official",
+  "queryProvenance": "Query and Houfy source supplied by agent03; this agent followed the already observed official catalog.",
+  "savedImages": 20,
+  "photoReadyIds": [
+    "MA-1201",
+    "MA-1202",
+    "MA-1203",
+    "MA-1204",
+    "MA-1205"
+  ],
+  "validation": {
+    "checkedOn": "2026-10-26",
+    "result": "PASS",
+    "checks": [
+      "JSON readback",
+      "Five eligible named apartment records and one off-state lease exclusion",
+      "Twenty image paths, SHA256 hashes and dimensions",
+      "Description length at most150",
+      "Pets/kids facts consistent with five separate policy audits",
+      "Contact address role preserved"
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "checkedOn": "2026-10-26",
+  "discoverySource": "https://staythere.ai/stay/guesty-stayloom-5a6095671a70371b007a8fe5/charming-3br-savin-hill-home-near-the-t",
+  "hostWebsiteButtonDestination": "https://stayloom.guestybookings.com/",
+  "operatorBrand": "Heirloom / Stay Heirloom",
+  "operatorContact": {
+    "url": "https://stayheirloom.com/contact",
+    "role": "operator inquiry, no postal address published",
+    "email": "info@stayheirloom.com",
+    "phone": "+15045070523"
+  },
+  "sources": [
+    {
+      "url": "https://stayloom.guestybookings.com/en/properties?city=Boston&country=United+States&minOccupancy=1&adults=1",
+      "status": "Reviewed catalog",
+      "method": "Destination Boston, no dates, all property/amenity filters; thirteen cards on one page, no pagination exposed.",
+      "offerCount": 13
+    },
+    {
+      "url": "https://stayheirloom.com/search?city=Boston&country=United+States&autosuggest=1&guests=1",
+      "status": "Reviewed for this pass: all twenty-four offer pages opened and classified; seventeen ready and seven duplicate configurations excluded.",
+      "method": "Guesty Home link followed to current main site, Boston selected. Twenty initial cards, then native page scroll loaded all twenty-four matching displayed total. No dates requested; site autosuggested quote dates per card.",
+      "offerCount": 24,
+      "openedCount": 24
+    }
+  ],
+  "leads": [
+    {
+      "guestyId": "69c2ed5778b7790012597cba",
+      "name": "Essential Boston Home, Near South End",
+      "url": "https://stayheirloom.com/listing/69c2ed5778b7790012597cba",
+      "legacyGuestyCard": true,
+      "status": "Not eligible",
+      "id": "MA-0715",
+      "classification": "overlapping booking configuration",
+      "reason": "Overlapping reservation configuration for independently cataloged apartments; excluded from additional property count to avoid duplicate inventory. The Space explicitly assigns either Unit A + Unit Four or a second-floor layout whose bedrooms match Unit B. Those are MA0708, MA0702 and MA0709; no additional property counted.",
+      "opened": true
+    },
+    {
+      "guestyId": "68011731bb5bee0013ff9c6c",
+      "name": "15BR Boston Entire Building | 3 Living Spaces",
+      "url": "https://stayheirloom.com/listing/68011731bb5bee0013ff9c6c",
+      "legacyGuestyCard": true,
+      "status": "Not eligible",
+      "id": "MA-0716",
+      "classification": "overlapping booking configuration",
+      "reason": "Overlapping reservation configuration for independently cataloged apartments; excluded from additional property count to avoid duplicate inventory. Entire-building buyout comprises three five-bedroom units on second, third and fourth floors. Second-floor MA0704 and assigned upper-floor MA0713 are retained; buyout is an alternate booking configuration, not extra physical property.",
+      "opened": true
+    },
+    {
+      "guestyId": "68011716f78a4a0011a251b5",
+      "name": "Grand 10BR Jamaica Plain | Dual Floor Combo",
+      "url": "https://stayheirloom.com/listing/68011716f78a4a0011a251b5",
+      "legacyGuestyCard": true,
+      "status": "Not eligible",
+      "id": "MA-0717",
+      "classification": "overlapping booking configuration",
+      "reason": "Overlapping reservation configuration for independently cataloged apartments; excluded from additional property count to avoid duplicate inventory. Combo consists of third- and fourth-floor five-bedroom units reached by shared stairs, not internally connected. These upper floors are already represented by assigned-category MA0713; no extra properties counted.",
+      "opened": true
+    },
+    {
+      "guestyId": "67fd434a84c3790013bcb06f",
+      "name": "Cozy 5BR Jamaica Plain | Walk to T & Downtown",
+      "url": "https://stayheirloom.com/listing/67fd434a84c3790013bcb06f",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0713",
+      "classification": "assigned apartment category",
+      "reason": "Official upper-floor apartment category, direct booking, contact, policies and unit gallery verified. Retained as one category; contradictory lower layout floor label disclosed, not treated as proof of duplicate.",
+      "opened": true
+    },
+    {
+      "guestyId": "67f0004ba344fe001385c5db",
+      "name": "6BR Boston Home | Near T",
+      "url": "https://stayheirloom.com/listing/67f0004ba344fe001385c5db",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0714",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "67b619b40497ce0042dd7cac",
+      "name": "Contemporary Boston Duplex | Near the T",
+      "url": "https://stayheirloom.com/listing/67b619b40497ce0042dd7cac",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0718",
+      "classification": "two-apartment combined rental",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "67ae3db404abc100118fe877",
+      "name": "Cozy 2BR Fort Hill Apartment | Near the T",
+      "url": "https://stayheirloom.com/listing/67ae3db404abc100118fe877",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0702",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "67ae3910bce5d600119976d5",
+      "name": "Expansive Essential Triplex, near T",
+      "url": "https://stayheirloom.com/listing/67ae3910bce5d600119976d5",
+      "legacyGuestyCard": false,
+      "status": "Not eligible",
+      "id": "MA-0719",
+      "classification": "overlapping booking configuration",
+      "reason": "Overlapping reservation configuration for independently cataloged apartments; excluded from additional property count to avoid duplicate inventory. Whole-property buyout explicitly includes Unit A, Unit B and Unit Four, independently represented by MA0708, MA0709 and MA0702.",
+      "opened": true
+    },
+    {
+      "guestyId": "67ae34b19e84620013e78520",
+      "name": "Cozy Oasis, Near South End",
+      "url": "https://stayheirloom.com/listing/67ae34b19e84620013e78520",
+      "legacyGuestyCard": false,
+      "status": "Not eligible",
+      "id": "MA-0720",
+      "classification": "overlapping booking configuration",
+      "reason": "Overlapping reservation configuration for independently cataloged apartments; excluded from additional property count to avoid duplicate inventory. The Space expressly combines Unit A and Unit B. These are independently cataloged as MA0708 and MA0709; Unit Four may be separately occupied.",
+      "opened": true
+    },
+    {
+      "guestyId": "67ad13df65803c0011723f07",
+      "name": "Cozy Duplex, Near T",
+      "url": "https://stayheirloom.com/listing/67ad13df65803c0011723f07",
+      "legacyGuestyCard": false,
+      "status": "Not eligible",
+      "id": "MA-0721",
+      "classification": "overlapping booking configuration",
+      "reason": "Overlapping reservation configuration for independently cataloged apartments; excluded from additional property count to avoid duplicate inventory. The Space expressly combines Unit A and Unit Four, independently cataloged as MA0708 and MA0702; Unit B may be separately occupied.",
+      "opened": true
+    },
+    {
+      "guestyId": "67ad0dae54770d0012df9e36",
+      "name": "Essential Boston Home, Near South End",
+      "url": "https://stayheirloom.com/listing/67ad0dae54770d0012df9e36",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0709",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "670ebb96c55e5e0012a5448c",
+      "name": "Sleek Boston Condo, near South End",
+      "url": "https://stayheirloom.com/listing/670ebb96c55e5e0012a5448c",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0708",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "65bd02ffd16e3c0014a49aed",
+      "name": "6BR Classic Boston Home, Near Savin Hill T",
+      "url": "https://stayheirloom.com/listing/65bd02ffd16e3c0014a49aed",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0722",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "652ff8cd14a63e002bef688f",
+      "name": "Bright Jamaica Plain Home | Near Green St T",
+      "url": "https://stayheirloom.com/listing/652ff8cd14a63e002bef688f",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0703",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "64945ae30b3f6a0035aaf263",
+      "name": "Charming Boston Home, Near T",
+      "url": "https://stayheirloom.com/listing/64945ae30b3f6a0035aaf263",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0707",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "6486f3204053760061e3b87b",
+      "name": "Spacious & Renovated 6BR | Near T + Parking",
+      "url": "https://stayheirloom.com/listing/6486f3204053760061e3b87b",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0723",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "640bb1ea252d270038eb9eeb",
+      "name": "Open-Concept 5BR Condo | Jamaica Plain & T Walk",
+      "url": "https://stayheirloom.com/listing/640bb1ea252d270038eb9eeb",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0704",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "6077e0fe772e05003005345d",
+      "name": "Tasteful & Luminous Refuge | Near T",
+      "url": "https://stayheirloom.com/listing/6077e0fe772e05003005345d",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0711",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "5fee124f7d4eb80030e7b360",
+      "name": "Bright JP Unit | Private Deck & Near the T",
+      "url": "https://stayheirloom.com/listing/5fee124f7d4eb80030e7b360",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0705",
+      "classification": "assigned apartment category",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "5fe4c089e2cac30031037e04",
+      "name": "4BR Mid-Century Glam Retreat | Near T",
+      "url": "https://stayheirloom.com/listing/5fe4c089e2cac30031037e04",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0706",
+      "classification": "assigned apartment category",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "5e67dc068de0cf0039cb4b00",
+      "name": "Cute Boston Condo, Near T",
+      "url": "https://stayheirloom.com/listing/5e67dc068de0cf0039cb4b00",
+      "legacyGuestyCard": true,
+      "status": "Not eligible",
+      "id": "MA-0724",
+      "classification": "overlapping booking configuration",
+      "reason": "Overlapping reservation configuration for independently cataloged apartments; excluded from additional property count to avoid duplicate inventory. Combined two-unit booking. Unit One sleeping layout matches MA0701 (first/lower-level three bedrooms); Unit Two matches four-bedroom MA0707 (second/third levels). Alternate whole-building configuration, no extra physical home counted.",
+      "opened": true
+    },
+    {
+      "guestyId": "5e25f90f3711ab0087404bf7",
+      "name": "Clean, Contemporary Escape | Near T",
+      "url": "https://stayheirloom.com/listing/5e25f90f3711ab0087404bf7",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0712",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "5a6095671a70371b007a8fe5",
+      "name": "Charming 3BR Savin Hill Home | Near the T",
+      "url": "https://stayheirloom.com/listing/5a6095671a70371b007a8fe5",
+      "legacyGuestyCard": true,
+      "status": "Verified independent website",
+      "id": "MA-0701",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    },
+    {
+      "guestyId": "59b2f0e9a84a7c04003b9635",
+      "name": "Stylish, Comfortable Luxury | Near T",
+      "url": "https://stayheirloom.com/listing/59b2f0e9a84a7c04003b9635",
+      "legacyGuestyCard": false,
+      "status": "Verified independent website",
+      "id": "MA-0710",
+      "classification": "entire rental unit",
+      "reason": "Opened operator-controlled Boston accommodation page, individual house rules, unit gallery, direct reservation and concierge inquiry; operator Contact page reviewed.",
+      "opened": true
+    }
+  ],
+  "scopeNotes": [
+    "Twenty-four booking offers are not necessarily twenty-four physical rental units. Combination/whole-building and assigned-category offers require overlap audit.",
+    "Staythere reports 289 host-wide stays across multiple states; this pass covers only Boston catalog. Nantucket is a separate Massachusetts queue.",
+    "Current custom site exposes eleven offers absent from legacy Guesty Boston feed; do not stop at the older thirteen-card catalog."
+  ],
+  "remainingQueues": [
+    "Nantucket operator catalog is a separate geographic queue, not reviewed in this Boston pass.",
+    "Some catalog offers show no upcoming availability, but retain property-specific direct inquiry. Confirm current dates directly.",
+    "Cozy5BR lower sleeping-layout floor label conflicts with primary third/fourth-floor assignment; category retained once with restriction."
+  ],
+  "coverageComplete": true,
+  "currentBostonOfferCount": 24,
+  "openedBostonOfferCount": 24,
+  "readyBookingRecordCount": 17,
+  "excludedOverlappingOfferCount": 7,
+  "readyRecordComposition": {
+    "specificSingleUnits": 13,
+    "assignedUnitCategories": 3,
+    "twoApartmentCombinedRentals": 1
+  },
+  "crossBatchDedupe": {
+    "checkedOn": "2026-10-26",
+    "otherEligibleRecordsCompared": 236,
+    "method": "Normalized names, known location/role and exact image asset identity across all current Massachusetts batch files, including Swank, MassLiving and FurnishedQuarters.",
+    "exactNameHits": [],
+    "exactImageAssetHits": [],
+    "limitations": "Most Heirloom rental street addresses withheld. No claim of exhaustive street-level deduplication where unpublished. Same-building distinct units preserved; explicit combinations audited separately."
+  },
+  "mediaSummary": {
+    "readyRecords": 17,
+    "recordsWithFourPhotos": 17,
+    "photoCount": 68,
+    "derivativeBytes": 4077886,
+    "maximumDimension": 1200,
+    "format": "WebP quality 78",
+    "originalAssetHashesRetained": true,
+    "contactSheetsVisuallyReviewed": true
+  }
+}

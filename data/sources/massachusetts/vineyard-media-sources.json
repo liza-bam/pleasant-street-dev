@@ -9,7 +9,7 @@
     "sourcePage": "https://mvyvacations.com/listing/vineyard-house/",
     "unitOrCampus": "Vineyard House",
     "file": "images/MA-0411-cover.webp",
-    "sha256": "74a73c18269612786d190e092968ca799f94582d75f31f42f4c4f033229f8dea",
+    "sha256": "a31b7f9b60f447fb7b1c7d94eb06d2d0129d2a74fd4befcff2975a1ce96bcd6c",
     "originalDimensions": [
       800,
       600
@@ -17,7 +17,10 @@
     "originalSha256": "3ec85af3d9ccd8ed078b94db928324043c089b3469d5f5a7b8c5687b65d7c8fc",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 800,
+    "originalHeight": 600,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",
@@ -87,9 +90,9 @@
     "id": "MA-0412",
     "role": "cover",
     "sourcePage": "https://mvyvacations.com/listing/marthas-vineyard-house/",
-    "unitOrCampus": "Martha\u2019s Vineyard House",
+    "unitOrCampus": "Martha’s Vineyard House",
     "file": "images/MA-0412-cover.webp",
-    "sha256": "096b923c0900470aea99cef64538ad1718a6b562dcb9b9028553b250a81a469d",
+    "sha256": "fd3659834338d8be37f2ef7b904a65c2e1bade8e60cb86c48f63f0d49c9009c9",
     "originalDimensions": [
       800,
       600
@@ -97,7 +100,10 @@
     "originalSha256": "ab8e78c8834f1b621fb100bf2a4c21822b53056f0c62137fdb03aa4b42befe3e",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 800,
+    "originalHeight": 600,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",
@@ -107,9 +113,9 @@
     "id": "MA-0412",
     "role": "000",
     "sourcePage": "https://mvyvacations.com/listing/marthas-vineyard-house/",
-    "unitOrCampus": "Martha\u2019s Vineyard House",
+    "unitOrCampus": "Martha’s Vineyard House",
     "file": "images/MA-0412-000.webp",
-    "sha256": "1f25b734d7bff4a91e3446973373b96eacfeec96938b4ee5563fa8beba74caa6",
+    "sha256": "700c2e9db2ff5e84c48263d7b40005c632f759c56e9ee4f149759f45bcdc8091",
     "originalDimensions": [
       800,
       600
@@ -117,7 +123,10 @@
     "originalSha256": "858f3f55e9ccb66092603d1f35702115bd900a73bc4e3fe0ae5da99c8fa153ea",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 800,
+    "originalHeight": 600,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",
@@ -127,9 +136,9 @@
     "id": "MA-0412",
     "role": "001",
     "sourcePage": "https://mvyvacations.com/listing/marthas-vineyard-house/",
-    "unitOrCampus": "Martha\u2019s Vineyard House",
+    "unitOrCampus": "Martha’s Vineyard House",
     "file": "images/MA-0412-001.webp",
-    "sha256": "c1edfe5dd6284ff2d959849d71cad106cacae0212b15afc5fc71f41584674f0c",
+    "sha256": "a850b331d3e08b1adf850c78653433bd01b8c7cf14c177a9dc9e69c3373bfa48",
     "originalDimensions": [
       800,
       600
@@ -137,7 +146,10 @@
     "originalSha256": "1cb6534601831bcf4172842ebe0a33d2ca2f2b0257368edd61f704dbe90f788a",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 800,
+    "originalHeight": 600,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",
@@ -147,7 +159,7 @@
     "id": "MA-0412",
     "role": "002",
     "sourcePage": "https://mvyvacations.com/listing/marthas-vineyard-house/",
-    "unitOrCampus": "Martha\u2019s Vineyard House",
+    "unitOrCampus": "Martha’s Vineyard House",
     "file": "images/MA-0412-002.webp",
     "sha256": "b125194f17d218680b529ad5b3fbc5510ad6b914b4027f22d22e9acc010e91f9",
     "originalDimensions": [
@@ -181,15 +193,15 @@
   },
   {
     "alt": "Gallery Image",
-    "height": 1201,
+    "height": 901,
     "url": "https://mvyvacations.com/wp-content/uploads/2025/03/IMG_0318-scaled.webp",
-    "width": 1600,
+    "width": 1200,
     "id": "MA-0413",
     "role": "000",
     "sourcePage": "https://mvyvacations.com/listing/katama-house/",
     "unitOrCampus": "Katama House",
     "file": "images/MA-0413-000.webp",
-    "sha256": "0eed7c807717f46e0e6a321ea6ce0248d9332493f6080e48a953788e72ed32aa",
+    "sha256": "4d85a24becb5b317d776f7d3b4d2c7194aa6545b0daa0bb70ff96b8ff485445e",
     "originalDimensions": [
       2560,
       1921
@@ -197,19 +209,22 @@
     "originalSha256": "1fc70c5b558ec77cd8146cbec001f263f449d3c73a1f5baa86b6e48b0db59fc9",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 1600,
+    "originalHeight": 1201,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",
-    "height": 1224,
+    "height": 918,
     "url": "https://mvyvacations.com/wp-content/uploads/2025/03/IMG_0280-scaled.webp",
-    "width": 1600,
+    "width": 1200,
     "id": "MA-0413",
     "role": "001",
     "sourcePage": "https://mvyvacations.com/listing/katama-house/",
     "unitOrCampus": "Katama House",
     "file": "images/MA-0413-001.webp",
-    "sha256": "c60f3f88fbcf1d3d557ae8e67ab8bfde377121700e2ab08ae1c1ad0b40ac0883",
+    "sha256": "aa2b80acd86568bf8530396d584fd2d88e09610c02e14a1ee91c8bb04376128c",
     "originalDimensions": [
       2560,
       1958
@@ -217,19 +232,22 @@
     "originalSha256": "2cc7e0ea5a76803398ca0c6402a64b6a2001454cf8f727dd4c5c7e97157cf101",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 1600,
+    "originalHeight": 1224,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",
-    "height": 1261,
+    "height": 946,
     "url": "https://mvyvacations.com/wp-content/uploads/2025/03/IMG_0281-scaled.webp",
-    "width": 1600,
+    "width": 1200,
     "id": "MA-0413",
     "role": "002",
     "sourcePage": "https://mvyvacations.com/listing/katama-house/",
     "unitOrCampus": "Katama House",
     "file": "images/MA-0413-002.webp",
-    "sha256": "c0f22af5bae417a8664335ccc109c002cb138a05f6a16826ce791b4184cf35d0",
+    "sha256": "6ec8463afc5283b56fc6839365e99e2fc275c9d68241d38bf18983cb07a932c5",
     "originalDimensions": [
       2560,
       2017
@@ -237,7 +255,10 @@
     "originalSha256": "f42d81230c92f5d8a73d75cde111c764b0c90f040dfecdcde66255af7b63ea79",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 1600,
+    "originalHeight": 1261,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",
@@ -329,7 +350,7 @@
     "sourcePage": "https://mvyvacations.com/listing/edgartown-house/",
     "unitOrCampus": "Edgartown House",
     "file": "images/MA-0415-cover.webp",
-    "sha256": "0d3a89d5b0759ed5f408a2c3f7d5ca99b058b63d06b59ba7a0401be68b65307a",
+    "sha256": "791396287ccca3cdb3d773aa08123d91e434f8de0f31369868d5f5608997e8e7",
     "originalDimensions": [
       800,
       600
@@ -337,7 +358,10 @@
     "originalSha256": "b46b6bee9ffd493bfe82f93c501d68befd8fb9f870c95537d49d1fe6319fdb02",
     "generated": false,
     "checkedOn": "2026-10-26",
-    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos."
+    "verification": "Visually inspected saved five-house contact sheet on 2026-10-26; exact current house gallery, no cross-property photos.",
+    "originalWidth": 800,
+    "originalHeight": 600,
+    "webDerivative": "Proportional max1200px WebP quality78; original retained"
   },
   {
     "alt": "Gallery Image",

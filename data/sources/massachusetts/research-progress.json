@@ -2,7 +2,7 @@
   "targetState": "Massachusetts",
   "stateCode": "MA",
   "updatedOn": "2026-10-26",
-  "currentPass": "190 outcomes consolidated locally; policy follow-up and publication checks in progress; additional discovery queues retained",
+  "currentPass": "362 outcomes consolidated through batch16;268 photo-ready listings preparing second publication; observed source queues continue",
   "sourceSchema": "Maine repository template with existing NH49-column extensions; Massachusetts location mapping",
   "statewideDiscovery": {
     "url": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/",
@@ -29,7 +29,21 @@
       "status": "Discoveryqueue retained separately; own-site reverse verification underway"
     }
   },
-  "publication": "First142 checked listings queued for publication; Boston individual-catalog expansion continuing",
+  "publication": {
+    "status": "First cohort live and verified in connected Chrome",
+    "commit": "17e780531e12b6aaada072c125226b4f8a0f39e1",
+    "checkedOn": "2026-10-26",
+    "liveCount": 142,
+    "mapUrl": "https://liza-bam.github.io/pleasant-street-dev/?place=Massachusetts",
+    "cardsUrl": "https://liza-bam.github.io/pleasant-street-dev/?view=cards&place=Massachusetts",
+    "viewsChecked": [
+      "Map",
+      "Tiny cards",
+      "Large cards"
+    ],
+    "photos": "Visible covers and all three photographs on the first large card loaded; extra images rendered 183.875×137.906 pixels (4:3).",
+    "remaining": "Three additional Boston catalog expansion batches in progress; first cohort is not statewide completion."
+  },
   "agentAssignments": {
     "01": "Boston expansion: Furnished Quarters individual units MA0901+",
     "02": "Boston expansion: MassLiving individual units MA0801+",
@@ -44,7 +58,7 @@
     {
       "step": 1,
       "name": "Statewide tourism directory",
-      "status": "Vacation Rentals category all3pages/22leads captured; eligibility outcomes under review",
+      "status": "All3 statewide vacation-rental pages/22 source seeds reviewed; statuses retained in master",
       "urls": [
         "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/"
       ]
@@ -97,7 +111,7 @@
     {
       "step": 10,
       "name": "Master/candidate/approved consolidation",
-      "status": "Pending current-pass reconciliation"
+      "status": "Master/candidate/approved exports reconciled through cohort16; later batches remain in progress"
     }
   ],
   "sourceCoverage": {
@@ -120,7 +134,7 @@
       "destinationsExposedForMA": 1,
       "advertisedBostonListings": 25,
       "featuredLeadsCaptured": 12,
-      "remaining": "Boston direct-host websites and search result inventory review underway"
+      "remaining": "BostonChristopher expanded9 offers into3categories and6 unresolved variants; MassLiving53MA pages reviewed/48ready/5duplicate holds. Other destination discovery can still expand."
     },
     "Stay With Stay": {
       "status": "Reviewed for this pass",
@@ -161,7 +175,7 @@
         "dtravel-discovery-06.json",
         "dtravel-discovery-07.json"
       ],
-      "remaining": "Vacations Simplified/Bluegreen resort-broker scope unresolved; statewide index can change. Private-room overlaps separated from whole-unit offers."
+      "remaining": "All45 exposed Massachusetts search cards and matched WAZE/Swank portfolios reviewed; Bluegreen/VacationsSimplified national assigned-resort-studio lead read and held for independent-operator scope."
     },
     "DirectBookingHost": {
       "status": "Reviewed for this pass",
@@ -195,7 +209,7 @@
         "https://wilkumalodging.com/",
         "https://massliving.guestybookings.com/"
       ],
-      "remaining": "Wilkuma14 distinct units expanded; MassLiving53 advertised stays discovered, own operator website/Contact/Terms opened; individual units still queued. Boston Christopher current unit types reviewed as operator."
+      "remaining": "BostonChristopher, Wilkuma and MassLiving catalog passes consolidated; broader operators not claimed complete."
     },
     "OwnerRez": {
       "status": "Search attempted",
@@ -232,16 +246,16 @@
     }
   },
   "verificationAudit": {
-    "reviewed": 191,
+    "reviewed": 362,
     "statuses": {
-      "Not eligible": 7,
-      "Verified independent website": 75,
-      "Source found in web research": 34,
-      "Website unavailable": 4,
-      "Verified platform-hosted website": 71
+      "Not eligible": 21,
+      "Verified independent website": 152,
+      "Source found in web research": 61,
+      "Website unavailable": 6,
+      "Verified platform-hosted website": 122
     },
-    "eligible": 146,
-    "photoReadyImport": 142,
+    "eligible": 274,
+    "photoReadyImport": 268,
     "unresolvedIds": [
       "MA-0001",
       "MA-0005",
@@ -276,24 +290,52 @@
       "MA-0404",
       "MA-0407",
       "MA-0410",
-      "MA-0416"
+      "MA-0842",
+      "MA-0843",
+      "MA-0845",
+      "MA-0846",
+      "MA-0849",
+      "MA-0930",
+      "MA-0933",
+      "MA-0934",
+      "MA-0935",
+      "MA-0939",
+      "MA-0953",
+      "MA-0954",
+      "MA-0955",
+      "MA-0956",
+      "MA-0958",
+      "MA-0959",
+      "MA-1011",
+      "MA-1012",
+      "MA-1013",
+      "MA-1014",
+      "MA-1015",
+      "MA-1016",
+      "MA-1017",
+      "MA-1018",
+      "MA-1019",
+      "MA-1020",
+      "MA-1021",
+      "MA-1022"
     ],
     "unavailableIds": [
       "MA-0103",
       "MA-0106",
       "MA-0113",
-      "MA-0123"
+      "MA-0123",
+      "MA-0961",
+      "MA-0962"
     ],
     "checkedOn": "2026-10-26",
-    "publication": "142 imported locally; catalog/cards/CSV checks passed; deployment pending"
+    "publication": "Prepared locally; not yet deployed"
   },
   "policyReview": {
-    "status": "All eligible first-cohort websites reviewed; missing or conflicting policies retained explicitly",
-    "reviewedCount": 146,
+    "status": "Ready-list audit coverage recorded per property",
+    "reviewedCount": 274,
     "reviewedIds": [
       "MA-0002",
       "MA-0003",
-      "MA-0004",
       "MA-0006",
       "MA-0007",
       "MA-0008",
@@ -326,9 +368,7 @@
       "MA-0205",
       "MA-0206",
       "MA-0207",
-      "MA-0208",
       "MA-0209",
-      "MA-0214",
       "MA-0251",
       "MA-0252",
       "MA-0253",
@@ -345,7 +385,6 @@
       "MA-0264",
       "MA-0271",
       "MA-0272",
-      "MA-0274",
       "MA-0275",
       "MA-0276",
       "MA-0277",
@@ -377,7 +416,6 @@
       "MA-0402",
       "MA-0403",
       "MA-0405",
-      "MA-0406",
       "MA-0408",
       "MA-0411",
       "MA-0412",
@@ -436,9 +474,157 @@
       "MA-0611",
       "MA-0612",
       "MA-0613",
-      "MA-0614"
+      "MA-0614",
+      "MA-0701",
+      "MA-0702",
+      "MA-0703",
+      "MA-0704",
+      "MA-0705",
+      "MA-0706",
+      "MA-0707",
+      "MA-0708",
+      "MA-0709",
+      "MA-0710",
+      "MA-0711",
+      "MA-0712",
+      "MA-0713",
+      "MA-0714",
+      "MA-0718",
+      "MA-0722",
+      "MA-0723",
+      "MA-0801",
+      "MA-0802",
+      "MA-0803",
+      "MA-0804",
+      "MA-0805",
+      "MA-0806",
+      "MA-0807",
+      "MA-0808",
+      "MA-0809",
+      "MA-0810",
+      "MA-0811",
+      "MA-0812",
+      "MA-0813",
+      "MA-0814",
+      "MA-0815",
+      "MA-0816",
+      "MA-0817",
+      "MA-0818",
+      "MA-0819",
+      "MA-0820",
+      "MA-0821",
+      "MA-0822",
+      "MA-0823",
+      "MA-0824",
+      "MA-0825",
+      "MA-0826",
+      "MA-0827",
+      "MA-0828",
+      "MA-0829",
+      "MA-0830",
+      "MA-0831",
+      "MA-0832",
+      "MA-0833",
+      "MA-0834",
+      "MA-0835",
+      "MA-0836",
+      "MA-0837",
+      "MA-0838",
+      "MA-0839",
+      "MA-0840",
+      "MA-0841",
+      "MA-0844",
+      "MA-0847",
+      "MA-0848",
+      "MA-0850",
+      "MA-0851",
+      "MA-0852",
+      "MA-0853",
+      "MA-0901",
+      "MA-0902",
+      "MA-0903",
+      "MA-0904",
+      "MA-0905",
+      "MA-0906",
+      "MA-0907",
+      "MA-0908",
+      "MA-0909",
+      "MA-0910",
+      "MA-0911",
+      "MA-0912",
+      "MA-0913",
+      "MA-0914",
+      "MA-0915",
+      "MA-0916",
+      "MA-0917",
+      "MA-0918",
+      "MA-0919",
+      "MA-0920",
+      "MA-0921",
+      "MA-0922",
+      "MA-0923",
+      "MA-0924",
+      "MA-0925",
+      "MA-0926",
+      "MA-0927",
+      "MA-0928",
+      "MA-0929",
+      "MA-0931",
+      "MA-0932",
+      "MA-0936",
+      "MA-0937",
+      "MA-0938",
+      "MA-0940",
+      "MA-0941",
+      "MA-0942",
+      "MA-0943",
+      "MA-0944",
+      "MA-0945",
+      "MA-0946",
+      "MA-0947",
+      "MA-0948",
+      "MA-0949",
+      "MA-0950",
+      "MA-0951",
+      "MA-0952",
+      "MA-0957",
+      "MA-0960",
+      "MA-1001",
+      "MA-1002",
+      "MA-1003",
+      "MA-1004",
+      "MA-1101",
+      "MA-1102",
+      "MA-1103",
+      "MA-1104",
+      "MA-1105",
+      "MA-1106",
+      "MA-1107",
+      "MA-1108",
+      "MA-1109",
+      "MA-1110",
+      "MA-1201",
+      "MA-1202",
+      "MA-1203",
+      "MA-1204",
+      "MA-1205"
     ],
     "pendingIds": [],
+    "completedAuditFiles": [
+      "policy-audit-00.json",
+      "policy-audit-01.json",
+      "policy-audit-02.json",
+      "policy-audit-03.json",
+      "policy-audit-09.json",
+      "policy-audit-10.json",
+      "policy-audit-11.json",
+      "policy-audit-12.json",
+      "policy-audit-13.json",
+      "policy-audit-14.json",
+      "policy-audit-16.json",
+      "policy-audit-17.json",
+      "policy-audit-18.json"
+    ],
     "olderInventoriesNext": [
       "Maine",
       "Vermont",
@@ -477,5 +663,54 @@
     "publicImport": 142,
     "policyReviewed": 146,
     "notStatewideComplete": true
-  }
+  },
+  "publicationPending": {
+    "throughBatch": 16,
+    "researchRecords": 362,
+    "eligible": 274,
+    "publicImport": 268,
+    "policyReviewed": 274,
+    "retiredOperatorSummaryIds": [
+      "MA-0004",
+      "MA-0208",
+      "MA-0406"
+    ],
+    "checks": [
+      "python3 tools/verify-cards.py",
+      "node tools/verify-catalog.mjs",
+      "CSV values/headers/IDs reconciled",
+      "562 prior non-Massachusetts records unchanged"
+    ],
+    "remainingMediaIds": [
+      "MA-0114",
+      "MA-0302",
+      "MA-1102",
+      "MA-1104",
+      "MA-1105",
+      "MA-1109"
+    ]
+  },
+  "ongoingQueues": [
+    {
+      "owner": "agent01",
+      "source": "Martha Vineyard Vacation Rentals and Sales",
+      "url": "https://www.mvvacationrentals.com/",
+      "observedOffers": 332,
+      "scope": "IDsMA1501–1832; per-property verification in progress; agent01 currently1501–1600"
+    },
+    {
+      "owner": "agent02",
+      "source": "WeNeedaVacation grouped-property listings",
+      "url": "https://www.weneedavacation.com/propertygroups/",
+      "observedLeads": 86,
+      "scope": "Reverse independent websites, existing aliases and DennisSeashores unit expansion"
+    },
+    {
+      "owner": "agent03",
+      "source": "Houfy Boston",
+      "url": "https://www.houfy.com/d/boston-massachusetts",
+      "observedLeads": 61,
+      "scope": "Close exact-name reverse checks and SandyBay/OwnerRez unit expansion"
+    }
+  ]
 }

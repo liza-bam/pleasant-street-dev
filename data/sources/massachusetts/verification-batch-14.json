@@ -1,0 +1,2153 @@
+[
+  {
+    "id": "MA-1101",
+    "name": "The Urban Hideout Loft: Sleeps 4 | Private Entrance",
+    "website": "https://www.symple.live/listings/516170",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516170",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516170",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Garden-level open loft with king bed and privacy curtains plus queen convertible sofa; no enclosed-bedroom count established.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516170"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516170"
+      ]
+    },
+    "description": "Garden-level Beacon Street loft with a private entrance, king bed, queen sofa bed, kitchenette and in-suite laundry.",
+    "descriptionSource": "https://www.symple.live/listings/516170",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-TXmRyzIXL--WLQScg4lI1p4Zvn9ntobICigZeIzEuNeA-69f89f6c9cf0e",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "alt": "The Urban Hideout Loft: Sleeps 4 | Private Entrance gallery Image 1",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-V112QP1pQ-VwAS0FdaXI7yaBrgWUIy5ZnRIxea7UW5M-69f89f6b33d54",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "alt": "The Urban Hideout Loft: Sleeps 4 | Private Entrance gallery Image 2",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-GOS9--21ri8TWTlDQZ-rJEnInz0wq5PCSjYQ--rLjYfCU-69f8b77189a21",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "alt": "The Urban Hideout Loft: Sleeps 4 | Private Entrance gallery Image 3",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-Eou9CshpkRnWlcaWr92Gr2NeXtVhwQtlIGYstEjNf3A-69f89f731ee2f",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "alt": "The Urban Hideout Loft: Sleeps 4 | Private Entrance gallery Image 4",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1101-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-TXmRyzIXL--WLQScg4lI1p4Zvn9ntobICigZeIzEuNeA-69f89f6c9cf0e",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "role": "cover",
+        "sha256": "ca44ba1651540936b6992f90ab20412e975fe83cdbbdc3eeb8a860f36c384608",
+        "originalSha256": "51b48740faca1ba232df9983a9878065ac1fdd2efaad94ae061a8d304916fb43",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1101-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-V112QP1pQ-VwAS0FdaXI7yaBrgWUIy5ZnRIxea7UW5M-69f89f6b33d54",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "role": "additional",
+        "sha256": "4cf297da02dbf97a1cfac69eccae067b8c9c29b66a24ad04c6e7c57f27518507",
+        "originalSha256": "c46b74058ee1eafb215ffe3fc4649ec9e084a84f2567f4efc7bb2e63e828b302",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1101-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-GOS9--21ri8TWTlDQZ-rJEnInz0wq5PCSjYQ--rLjYfCU-69f8b77189a21",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "role": "additional",
+        "sha256": "778fe7d27544b62045d617394f6d0a55b730406d8a1ed70e6f35ad2414580011",
+        "originalSha256": "6c71b89c5f69cb3f3012c5e5b3d612d1efa49e35f59ea9347322e59f1f69965c",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1101-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516170-Eou9CshpkRnWlcaWr92Gr2NeXtVhwQtlIGYstEjNf3A-69f89f731ee2f",
+        "sourcePage": "https://www.symple.live/listings/516170",
+        "role": "additional",
+        "sha256": "97837ff319b7a632ee3a5ce667e2ec32e7627eb5bd1bc73abdd5f7f89cf05c31",
+        "originalSha256": "93b75b8005b52534594b69c4ff4d637cc50184c59a7f45ee1f718863356fad40",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Urban Hideout Loft: Sleeps 4 | Private Entrance only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/the-urban-hideout-loft%3A-sleeps-4-or-private-entrance/456655",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": true,
+    "photoStatus": "Four source-gallery photographs visually inspected; no cross-unit repeat identified in current pass"
+  },
+  {
+    "id": "MA-1102",
+    "name": "Sleek Modern 2 Bed: King + Queen | Suite 6",
+    "website": "https://www.symple.live/listings/516176",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516176",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516176",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Second-floor suite with king bedroom and separate queen guest room; no elevator.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516176"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516176"
+      ]
+    },
+    "description": "Beacon Street suite with king and queen bedrooms, a kitchenette, in-suite laundry and stairs to the second floor.",
+    "descriptionSource": "https://www.symple.live/listings/516176",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-3Ylh7--FySRkqL--WCIEzw2--WvwemzSWr4Pz74f--5r5Kc-69f8a7d8d37cd",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "alt": "Sleek Modern 2 Bed: King + Queen | Suite 6 gallery Image 1",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-9QJnH0pZ-RKuyhgCjockQLUSw--QmNNVAEZOWr7ewG2U-69f8b0497e110",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "alt": "Sleek Modern 2 Bed: King + Queen | Suite 6 gallery Image 2",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-mVdyqwRQBpgKTh1nKKpBBkxlsmvhesrbPT73BMk7Eys-69f8b04859852",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "alt": "Sleek Modern 2 Bed: King + Queen | Suite 6 gallery Image 3",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-3aqH-TlAtV--MUNilS4AOqQ5as5ROeavafT30b1WwV4c-69f8a7deb6bb9",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "alt": "Sleek Modern 2 Bed: King + Queen | Suite 6 gallery Image 4",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1102-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-3Ylh7--FySRkqL--WCIEzw2--WvwemzSWr4Pz74f--5r5Kc-69f8a7d8d37cd",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "role": "cover",
+        "sha256": "b53611e0272bc739e7d1f2119581eeed84f00578338364f641e3311a1e066653",
+        "originalSha256": "1f616442be299da81a479115f9694d0bbb001b7760231f0c10b86964b68d6b6d",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1102-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-9QJnH0pZ-RKuyhgCjockQLUSw--QmNNVAEZOWr7ewG2U-69f8b0497e110",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "role": "additional",
+        "sha256": "59117b4060d0792a73f0e22f5d34304ba64f11ceccc7264dd01466b13ea695b6",
+        "originalSha256": "770025abe50437f9ead6c048f6d5fb92f64eed0db828efce26973cd8e0c41523",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1102-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-mVdyqwRQBpgKTh1nKKpBBkxlsmvhesrbPT73BMk7Eys-69f8b04859852",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "role": "additional",
+        "sha256": "46e5404af6d14756c01dd6a4bfa33ef4406959d4733066286091e26bf5ac07ea",
+        "originalSha256": "d396a3ccaa6fa69daed5361bfa5df2d3c6fd14feb63402e6c63d66be967bdaae",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1102-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516176-3aqH-TlAtV--MUNilS4AOqQ5as5ROeavafT30b1WwV4c-69f8a7deb6bb9",
+        "sourcePage": "https://www.symple.live/listings/516176",
+        "role": "additional",
+        "sha256": "dc6463bd9316847940e51ff43d32f8c88451cc002fc2d59fe8002c0680693199",
+        "originalSha256": "c2c629809a7811abf8515d3284d35dae8a8cf033b0231743bafd42faee8696c7",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sleek Modern 2 Bed: King + Queen | Suite 6 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published",
+      "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending."
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/sleek-modern-2-bed%3A-king-%2B-queen-or-suite-6/456661",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": false,
+    "publicationHoldReason": "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending.",
+    "photoStatus": "Publication pending: saved private interiors have verifiedForProperty:false",
+    "photoScopeAudit": {
+      "checkedOn": "2026-10-26",
+      "openedUnitGallery": "https://www.symple.live/listings/516176",
+      "observation": "Opened complete gallery and scrolled lower images; saved asset inventory/contact sheet reviewed. Two clear shared-building views observed (exterior and staircase); repeated private interiors unresolved; no set of three reliably scoped images established in this pass.",
+      "status": "Publication media pending, website eligible",
+      "galleryEvidenceLocal": "research-artifacts/massachusetts/agent-14/gallery-audit.json"
+    }
+  },
+  {
+    "id": "MA-1103",
+    "name": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5",
+    "website": "https://www.symple.live/listings/516174",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516174",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516174",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established. Current usable images show only the shared building exterior and common staircase/landing. Private interiors moved to unverified evidence; no exact-suite appearance claimed.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Conflict: structured header says two bedrooms; title and narrative describe one king bedroom plus queen sofa in living room. Retained Unknown. One floor above entry via stairs.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516174"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516174"
+      ]
+    },
+    "description": "Beacon Street suite with a king bed, queen sofa bed, bay-window views, kitchen and in-suite laundry, one floor above entry.",
+    "descriptionSource": "https://www.symple.live/listings/516174",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-uapmO2MwR103qhR5bHhVW3vbtFjtDGS2o2JW0Sqnpaw-69f8a82dc9303",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "alt": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 gallery Image 1",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-3r3Xyq89Io8VbObUDl--15L98SAT0n--i--u2QwbWaD5Ig-69f8a8259b3b8",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "alt": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 gallery Image 2",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-iFukcvWA3-sFOwYgUvikJKoC--7N--iAhSbE76vv6hSgk-69f8a82b5ce96",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "alt": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 gallery Image 3",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-Xm7aHbqpAlDsVKuR--SCnX7JcpT15V--IOoWDZjIN5ydE-69f8b05869471",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "alt": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 gallery Image 4",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1103-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-fslu---wxgC7TS-jS1HZsUy6Kblzy-ciqKZ3DbVluM9o-6a0e28b26de51",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "role": "cover",
+        "sha256": "71f16292d5e53672d91c647d1d94ffcebe99758a7eb40fbe1725a8f4ae2bc0c0",
+        "originalSha256": "5d174eb2a89d6b605cb07e6390bc8602ef0eecb2830a1216ff6ba029d544675d",
+        "originalWidth": 1352,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 799,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared SympleLive Beacon Street building exterior",
+        "verifiedForProperty": true,
+        "scope": "shared accommodation building, not private suite appearance",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "visualReview": "Shared exterior and staircase/landing photographs inspected from individually opened suite gallery2026-10-26. Distinct source scenes, no illustrative floorplans or city attractions."
+      },
+      {
+        "file": "images/MA-1103-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-1XhDKNuQJTTpnQf1efX6HeIoRtL1zO4d8DrcY7HI1fA-6a0e28be17b62",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "role": "additional",
+        "sha256": "430042a97caffa8644b74961058301cdf290199b70e293930404448a6c07563c",
+        "originalSha256": "a2ead789ed0e42d240155fe8ea9650e78bbfd18f409ebf70a6e689a764937a4c",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared SympleLive building staircase/landing; no private-suite interior",
+        "verifiedForProperty": true,
+        "scope": "shared accommodation building, not private suite appearance",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "visualReview": "Shared exterior and staircase/landing photographs inspected from individually opened suite gallery2026-10-26. Distinct source scenes, no illustrative floorplans or city attractions."
+      },
+      {
+        "file": "images/MA-1103-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-ysnCNtp7r735Evdti714zE4CdjYjSl19J4gOSwscSwA-69f8a81ba931f",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "role": "additional",
+        "sha256": "17feae8a518bb42c3d4c3b164df77779249c8987378d5537d88cfff86505ebd1",
+        "originalSha256": "6469f54c0ba707ec923ef9ff66308c6e84e1f1315886c4cf333ce8692fde3560",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared SympleLive building staircase/landing; no private-suite interior",
+        "verifiedForProperty": true,
+        "scope": "shared accommodation building, not private suite appearance",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "visualReview": "Shared exterior and staircase/landing photographs inspected from individually opened suite gallery2026-10-26. Distinct source scenes, no illustrative floorplans or city attractions."
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published",
+      "Exact private-suite interior photo attribution unresolved; public images show shared building only"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/elegant-1br-plus%3A-cityscape-views-%2B-king-and-pull-out-queenor-suite-5/456659",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": true,
+    "unverifiedPhotoEvidence": [
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1103-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-uapmO2MwR103qhR5bHhVW3vbtFjtDGS2o2JW0Sqnpaw-69f8a82dc9303",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "role": "cover",
+        "sha256": "28c72487c1e650b1cd71f63baa1d50910b64a532ea2ff1702a856fc655a6704d",
+        "originalSha256": "28f38a5d48203418b9af3e7d01fd9dd40dedfe3b73f11bfd64908e3e1a770594",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1103-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-3r3Xyq89Io8VbObUDl--15L98SAT0n--i--u2QwbWaD5Ig-69f8a8259b3b8",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "role": "additional",
+        "sha256": "15464cf151c62e07404af5a73ac52368792433d4b4b009e6b833b4fed8c4eebc",
+        "originalSha256": "f23961939c777db17e930e208eef6ea63a6a586afc80b11c1f5927321907ed0f",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1103-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-iFukcvWA3-sFOwYgUvikJKoC--7N--iAhSbE76vv6hSgk-69f8a82b5ce96",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "role": "additional",
+        "sha256": "f566dcbfa14fe7063b14f5d35546e2f15579384bfcac8728fbb185b3ebe0b390",
+        "originalSha256": "8000f529381608f3a1e1d6a2d66bd718ff43b9e02edd98ae2461819d08e2ee74",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1103-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516174-Xm7aHbqpAlDsVKuR--SCnX7JcpT15V--IOoWDZjIN5ydE-69f8b05869471",
+        "sourcePage": "https://www.symple.live/listings/516174",
+        "role": "additional",
+        "sha256": "6f5d454b064ae8f3fc1a6905fb599d96ce36b4e7cad67ef4a6266dfdc4207b2a",
+        "originalSha256": "2d19117d3d73f5d3b473335d792871154e5806ed553365a9c271392c480538d3",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      }
+    ],
+    "photoStatus": "Scoped shared-building coverage; private-suite interiors unresolved",
+    "publicPhotoLabel": "Photos: shared building exterior and common areas."
+  },
+  {
+    "id": "MA-1104",
+    "name": "Modern Luxury 2BR | King + Queen | Suite 8",
+    "website": "https://www.symple.live/listings/516178",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516178",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516178",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "King master and separate queen guest room, private bath and kitchenette; no elevator.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516178"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516178"
+      ]
+    },
+    "description": "Beacon Street two-bedroom suite with king and queen beds, a kitchenette and in-suite laundry, reached by a historic staircase.",
+    "descriptionSource": "https://www.symple.live/listings/516178",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178---i5BNqurR1SMziKiXeSoV--Cteh4nWQKTf1C9PbxndpE-69f8b042c20d3",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "alt": "Modern Luxury 2BR | King + Queen | Suite 8 gallery Image 1",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178-pn1fHOY1NwBwhEO--VvVoAtiPTJRKW0wgKZnpy7p287I-69f8a7ca690e8",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "alt": "Modern Luxury 2BR | King + Queen | Suite 8 gallery Image 2",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178-y10UK38H--N-AwuRtnIlpobZqHQpb15MEuAEdmTbp4us-69f8a7c2973d9",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "alt": "Modern Luxury 2BR | King + Queen | Suite 8 gallery Image 3",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178-NBdhTcs2pBvCaxRQab-D--LuOJCCWTYv1d3jXo5zSNao-69f8a7c63cdad",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "alt": "Modern Luxury 2BR | King + Queen | Suite 8 gallery Image 4",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1104-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178---i5BNqurR1SMziKiXeSoV--Cteh4nWQKTf1C9PbxndpE-69f8b042c20d3",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "role": "cover",
+        "sha256": "b53611e0272bc739e7d1f2119581eeed84f00578338364f641e3311a1e066653",
+        "originalSha256": "1f616442be299da81a479115f9694d0bbb001b7760231f0c10b86964b68d6b6d",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1104-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178-pn1fHOY1NwBwhEO--VvVoAtiPTJRKW0wgKZnpy7p287I-69f8a7ca690e8",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "role": "additional",
+        "sha256": "81f2a7941dd1dfec5bfafe0bb766704514080caa0493e193f0f5693eacb52e61",
+        "originalSha256": "afeb16897e0dd1173371d930e21b8cf893f4bfe30149cc2b80bb98106cc508b6",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1104-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178-y10UK38H--N-AwuRtnIlpobZqHQpb15MEuAEdmTbp4us-69f8a7c2973d9",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "role": "additional",
+        "sha256": "46e5404af6d14756c01dd6a4bfa33ef4406959d4733066286091e26bf5ac07ea",
+        "originalSha256": "d396a3ccaa6fa69daed5361bfa5df2d3c6fd14feb63402e6c63d66be967bdaae",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1104-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516178-NBdhTcs2pBvCaxRQab-D--LuOJCCWTYv1d3jXo5zSNao-69f8a7c63cdad",
+        "sourcePage": "https://www.symple.live/listings/516178",
+        "role": "additional",
+        "sha256": "dc6463bd9316847940e51ff43d32f8c88451cc002fc2d59fe8002c0680693199",
+        "originalSha256": "c2c629809a7811abf8515d3284d35dae8a8cf033b0231743bafd42faee8696c7",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Modern Luxury 2BR | King + Queen | Suite 8 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published",
+      "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending."
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/modern-luxury-2br-or-king-%2B-queen-or-suite-8/456663",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": false,
+    "publicationHoldReason": "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending.",
+    "photoStatus": "Publication pending: saved private interiors have verifiedForProperty:false",
+    "photoScopeAudit": {
+      "checkedOn": "2026-10-26",
+      "openedUnitGallery": "https://www.symple.live/listings/516178",
+      "observation": "Opened complete gallery and scrolled lower images; saved asset inventory/contact sheet reviewed. Two clear shared-building views observed (exterior and staircase); repeated private interiors unresolved; no set of three reliably scoped images established in this pass.",
+      "status": "Publication media pending, website eligible",
+      "galleryEvidenceLocal": "research-artifacts/massachusetts/agent-14/gallery-audit.json"
+    }
+  },
+  {
+    "id": "MA-1105",
+    "name": "Family Cove: Quiet & Modern 2 bed | Suite 10",
+    "website": "https://www.symple.live/listings/516177",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516177",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516177",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Top-floor king and queen bedrooms; stairs, no elevator.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516177"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516177"
+      ]
+    },
+    "description": "Top-floor Beacon Street suite with king and queen bedrooms, a kitchenette, in-suite laundry and stairs without an elevator.",
+    "descriptionSource": "https://www.symple.live/listings/516177",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-rTZMzQ1O1U2xXJyhplFhRNOwuDmUblhSn6ndR9BofSw-69f8a7ccace53",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "alt": "Family Cove: Quiet & Modern 2 bed | Suite 10 gallery Image 1",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-vE6w9c26i-okp9OEroX6cBl9vQfqL7e0q--PR2gE2yG8-69f8a7d64d9b2",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "alt": "Family Cove: Quiet & Modern 2 bed | Suite 10 gallery Image 2",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-WQutRoje7--iDrMUf9gtBL--fCfJy2mDy5fSL1AiTozyI-69f8a7cddbf11",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "alt": "Family Cove: Quiet & Modern 2 bed | Suite 10 gallery Image 3",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-HMW--YSIA98oNAR8hcmY1Tary8lTOWEMCdpbMbvH-lC8-69f8a7d3320b7",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "alt": "Family Cove: Quiet & Modern 2 bed | Suite 10 gallery Image 4",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1105-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-rTZMzQ1O1U2xXJyhplFhRNOwuDmUblhSn6ndR9BofSw-69f8a7ccace53",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "role": "cover",
+        "sha256": "b53611e0272bc739e7d1f2119581eeed84f00578338364f641e3311a1e066653",
+        "originalSha256": "1f616442be299da81a479115f9694d0bbb001b7760231f0c10b86964b68d6b6d",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1105-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-vE6w9c26i-okp9OEroX6cBl9vQfqL7e0q--PR2gE2yG8-69f8a7d64d9b2",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "role": "additional",
+        "sha256": "81f2a7941dd1dfec5bfafe0bb766704514080caa0493e193f0f5693eacb52e61",
+        "originalSha256": "afeb16897e0dd1173371d930e21b8cf893f4bfe30149cc2b80bb98106cc508b6",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1105-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-WQutRoje7--iDrMUf9gtBL--fCfJy2mDy5fSL1AiTozyI-69f8a7cddbf11",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "role": "additional",
+        "sha256": "46e5404af6d14756c01dd6a4bfa33ef4406959d4733066286091e26bf5ac07ea",
+        "originalSha256": "d396a3ccaa6fa69daed5361bfa5df2d3c6fd14feb63402e6c63d66be967bdaae",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1105-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516177-HMW--YSIA98oNAR8hcmY1Tary8lTOWEMCdpbMbvH-lC8-69f8a7d3320b7",
+        "sourcePage": "https://www.symple.live/listings/516177",
+        "role": "additional",
+        "sha256": "dc6463bd9316847940e51ff43d32f8c88451cc002fc2d59fe8002c0680693199",
+        "originalSha256": "c2c629809a7811abf8515d3284d35dae8a8cf033b0231743bafd42faee8696c7",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Family Cove: Quiet & Modern 2 bed | Suite 10 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published",
+      "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending."
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/family-cove%3A-quiet-and-modern-2-bed-or-suite-10/456662",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": false,
+    "publicationHoldReason": "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending.",
+    "photoStatus": "Publication pending: saved private interiors have verifiedForProperty:false",
+    "photoScopeAudit": {
+      "checkedOn": "2026-10-26",
+      "openedUnitGallery": "https://www.symple.live/listings/516177",
+      "observation": "Opened complete gallery and scrolled lower images; saved asset inventory/contact sheet reviewed. Two clear shared-building views observed (exterior and staircase); repeated private interiors unresolved; no set of three reliably scoped images established in this pass.",
+      "status": "Publication media pending, website eligible",
+      "galleryEvidenceLocal": "research-artifacts/massachusetts/agent-14/gallery-audit.json"
+    }
+  },
+  {
+    "id": "MA-1106",
+    "name": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7",
+    "website": "https://www.symple.live/listings/516173",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516173",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516173",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established. Current usable images show only the shared building exterior and common staircase/landing. Private interiors moved to unverified evidence; no exact-suite appearance claimed.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Conflict: header2BR; title/narrative one king bedroom plus queen sofa in living area. Bedroom count Unknown. Stairs, no elevator.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516173"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516173"
+      ]
+    },
+    "description": "Beacon Street suite with a king bed, queen sofa bed, bay-window views, kitchenette and laundry, reached by stairs.",
+    "descriptionSource": "https://www.symple.live/listings/516173",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-hccGMh9THvdQAleVskxYlagwtol9mqcqQ5jx1BJndzc-69f8b0572d52e",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "alt": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 gallery Image 1",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-f8c80VqoniK0sh24RdZ9Ztwm--20j7EqnJLBhv7OIkLU-69f8a82ea8c59",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "alt": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 gallery Image 2",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-x--bcvwExkP--HZFOAJTE9KB-gphkbpOcLCnLqXh282PY-69f8a831d700e",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "alt": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 gallery Image 3",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-YdN7EeDZ7jskjMFMVucAihelk9uTJks7Gef8LshZTk4-69f8a8305743a",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "alt": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 gallery Image 4",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1106-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-xx0v3CKkre--d7VSN5LTIc7sv6gWJ2vUsEOFxxxcddhg-6a0e2adea18bf",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "cover",
+        "sha256": "71f16292d5e53672d91c647d1d94ffcebe99758a7eb40fbe1725a8f4ae2bc0c0",
+        "originalSha256": "5d174eb2a89d6b605cb07e6390bc8602ef0eecb2830a1216ff6ba029d544675d",
+        "originalWidth": 1352,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 799,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared SympleLive Beacon Street building exterior",
+        "verifiedForProperty": true,
+        "scope": "shared accommodation building, not private suite appearance",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "visualReview": "Shared exterior and staircase/landing photographs inspected from individually opened suite gallery2026-10-26. Distinct source scenes, no illustrative floorplans or city attractions."
+      },
+      {
+        "file": "images/MA-1106-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-hL-MQa--wPGmh0HrygHiRgJYeJKS2UWmk4IdK5Ss--9vM-6a0e2aea0e20c",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "additional",
+        "sha256": "430042a97caffa8644b74961058301cdf290199b70e293930404448a6c07563c",
+        "originalSha256": "a2ead789ed0e42d240155fe8ea9650e78bbfd18f409ebf70a6e689a764937a4c",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared SympleLive building staircase/landing; no private-suite interior",
+        "verifiedForProperty": true,
+        "scope": "shared accommodation building, not private suite appearance",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "visualReview": "Shared exterior and staircase/landing photographs inspected from individually opened suite gallery2026-10-26. Distinct source scenes, no illustrative floorplans or city attractions."
+      },
+      {
+        "file": "images/MA-1106-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-RfYqysiNGdoOPUrx6ud0NBcVIVpOjS3nx7yq5HaHIfk-69f8a81c7d66d",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "additional",
+        "sha256": "17feae8a518bb42c3d4c3b164df77779249c8987378d5537d88cfff86505ebd1",
+        "originalSha256": "6469f54c0ba707ec923ef9ff66308c6e84e1f1315886c4cf333ce8692fde3560",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared SympleLive building staircase/landing; no private-suite interior",
+        "verifiedForProperty": true,
+        "scope": "shared accommodation building, not private suite appearance",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "visualReview": "Shared exterior and staircase/landing photographs inspected from individually opened suite gallery2026-10-26. Distinct source scenes, no illustrative floorplans or city attractions."
+      },
+      {
+        "file": "images/MA-1106-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-Vsw4P6hae2TNxBmsNx2vMRqKhXlW-XivpYtLUVWxofo-69f8a81b0f8fe",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "additional",
+        "sha256": "5a91d09a4874ca5a96626c239dc2e7d3af25d3196f6f595f25003940bf1d60d9",
+        "originalSha256": "f6efda0c890a69d8cbf928da83d6925f4c881a183b19347a2de621fc51c14451",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared SympleLive building staircase/landing; no private-suite interior",
+        "verifiedForProperty": true,
+        "scope": "shared accommodation building, not private suite appearance",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "visualReview": "Shared exterior and staircase/landing photographs inspected from individually opened suite gallery2026-10-26. Distinct source scenes, no illustrative floorplans or city attractions."
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published",
+      "Exact private-suite interior photo attribution unresolved; public images show shared building only"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/cityscape-1br-plus%3A-king-%2B-queen-pull-out-or-suite-7/456658",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": true,
+    "unverifiedPhotoEvidence": [
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1106-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-hccGMh9THvdQAleVskxYlagwtol9mqcqQ5jx1BJndzc-69f8b0572d52e",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "cover",
+        "sha256": "15464cf151c62e07404af5a73ac52368792433d4b4b009e6b833b4fed8c4eebc",
+        "originalSha256": "f23961939c777db17e930e208eef6ea63a6a586afc80b11c1f5927321907ed0f",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1106-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-f8c80VqoniK0sh24RdZ9Ztwm--20j7EqnJLBhv7OIkLU-69f8a82ea8c59",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "additional",
+        "sha256": "f566dcbfa14fe7063b14f5d35546e2f15579384bfcac8728fbb185b3ebe0b390",
+        "originalSha256": "8000f529381608f3a1e1d6a2d66bd718ff43b9e02edd98ae2461819d08e2ee74",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1106-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-x--bcvwExkP--HZFOAJTE9KB-gphkbpOcLCnLqXh282PY-69f8a831d700e",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "additional",
+        "sha256": "07dcbc8d2a82ba59b0f8f4ea00a591e12a81c8fc88a0b6cfe39d6b1e280f167b",
+        "originalSha256": "6f77ad4664eb1b3628c92445ab5b175f85f170b5c4244a7abd65d198989af90e",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "research-artifacts/massachusetts/agent-14/quarantined-derivatives/MA-1106-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516173-YdN7EeDZ7jskjMFMVucAihelk9uTJks7Gef8LshZTk4-69f8a8305743a",
+        "sourcePage": "https://www.symple.live/listings/516173",
+        "role": "additional",
+        "sha256": "6f5d454b064ae8f3fc1a6905fb599d96ce36b4e7cad67ef4a6266dfdc4207b2a",
+        "originalSha256": "2d19117d3d73f5d3b473335d792871154e5806ed553365a9c271392c480538d3",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      }
+    ],
+    "photoStatus": "Scoped shared-building coverage; private-suite interiors unresolved",
+    "publicPhotoLabel": "Photos: shared building exterior and common areas."
+  },
+  {
+    "id": "MA-1107",
+    "name": "Trendy 2BR Plus Family Getaway | Suite 4",
+    "website": "https://www.symple.live/listings/516172",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516172",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516172",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded.",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Parlor-level king and queen bedrooms plus convertible queen sofa; header occupancy5.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516172"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516172"
+      ]
+    },
+    "description": "Parlor-level Beacon Street suite with king and queen bedrooms, a sofa bed, kitchenette and in-suite laundry.",
+    "descriptionSource": "https://www.symple.live/listings/516172",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-crrId5SRG-omcBeRCzmRTgrQ8s3-uFtzYX--SXMO9ChI-69f8b05f606e2",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "alt": "Trendy 2BR Plus Family Getaway | Suite 4 gallery Image 1",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-bz1GZaLaIB9wNO8myXEPubQC6aU603CFxfZYuHLhRLE-69f8a833d12c0",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "alt": "Trendy 2BR Plus Family Getaway | Suite 4 gallery Image 2",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-S3mEuoHh3eRw9EknPPdHdfZ4y5CU9uvlhTMnnJJFY-c-69f8b05dad97f",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "alt": "Trendy 2BR Plus Family Getaway | Suite 4 gallery Image 3",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-IokolFys5zpG2k-mSJKV7FnVvHeRIbHz3u1dOsJfTrY-69f8a83adf01e",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "alt": "Trendy 2BR Plus Family Getaway | Suite 4 gallery Image 4",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1107-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-crrId5SRG-omcBeRCzmRTgrQ8s3-uFtzYX--SXMO9ChI-69f8b05f606e2",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "role": "cover",
+        "sha256": "3ca23b09058fc0bce99d64beec6ae2ba110fd21569cc27061cb752c5e6c99fdd",
+        "originalSha256": "379dbf937cf94816213389e522d7804128af0f1c9b2b0e798d25a3e340e3de47",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1107-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-bz1GZaLaIB9wNO8myXEPubQC6aU603CFxfZYuHLhRLE-69f8a833d12c0",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "role": "additional",
+        "sha256": "88b115e67a04655c88801251b181b53ae146d284e6ecdcc6c6efbf040a5fb87d",
+        "originalSha256": "26aed6cb7ef1d7fcd8d3e59c1f079da1da082175968ef255ec2ee3b949612b25",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1107-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-S3mEuoHh3eRw9EknPPdHdfZ4y5CU9uvlhTMnnJJFY-c-69f8b05dad97f",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "role": "additional",
+        "sha256": "b680e666da8ea6d385d308273ffea2e44dfe5a9c8894c9d74b4cc2e4454d9160",
+        "originalSha256": "c5b1a389a1b9827d1731d5cee8a1498e1c61dc9f1fcbc4cac72a1967dea174bd",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1107-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516172-IokolFys5zpG2k-mSJKV7FnVvHeRIbHz3u1dOsJfTrY-69f8a83adf01e",
+        "sourcePage": "https://www.symple.live/listings/516172",
+        "role": "additional",
+        "sha256": "894074550c8756091092beb17ffc5fc542350b43044b5eff2cd828cc40582597",
+        "originalSha256": "bfcd907436097960ac518ad769db065e31de777c7732de7b9652b64d585d4684",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Trendy 2BR Plus Family Getaway | Suite 4 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/trendy-2br-plus-family-getaway-or-suite-4/456657",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": true,
+    "photoStatus": "Four source-gallery photographs visually inspected; no cross-unit repeat identified in current pass"
+  },
+  {
+    "id": "MA-1108",
+    "name": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2",
+    "website": "https://www.symple.live/listings/516175",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516175",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516175",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded.",
+    "supportedFacts": {
+      "guests": 3,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "King bedroom and living room with convertible full-size sofa; one flight below lobby, parking entrance level.",
+      "kidsDetails": "Expanded individual Policy section lists long-term stays and Pets allowed; no child or infant suitability/restriction stated. Silence remains Unknown.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516175"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516175"
+      ]
+    },
+    "description": "Beacon Street one-bedroom suite with a king bed, convertible sofa, kitchenette and laundry, one flight below the main lobby.",
+    "descriptionSource": "https://www.symple.live/listings/516175",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-HoAvpPjg0GfnmDiS1YLX1d77PoxRccd4set--YoZRXwM-69f8a7ef63026",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "alt": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 gallery Image 1",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-gik6LjkqfAtBEXJqGHw08I7Vu1RMqAV7TrPSbUsJMLU-69f8a7ebeb633",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "alt": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 gallery Image 2",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-hmXYqkxo--aT2H4GxTgGkGdPd025cZndvcCK-B95o110-69f8b76ed8479",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "alt": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 gallery Image 3",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-ijsvzcTMW79SgH8R3NdwJlwsXOtL4r--wTdtJ5mRQqJk-69f8a7f071674",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "alt": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 gallery Image 4",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1108-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-HoAvpPjg0GfnmDiS1YLX1d77PoxRccd4set--YoZRXwM-69f8a7ef63026",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "role": "cover",
+        "sha256": "a47c2b9756cf9f1756075d7c5d61c12c9188d4367efd445d671ab02ef998e15f",
+        "originalSha256": "05baf1a859a9f14f79389a033c0043e2a555e9062e49ad61eabc13c01a44b182",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1108-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-gik6LjkqfAtBEXJqGHw08I7Vu1RMqAV7TrPSbUsJMLU-69f8a7ebeb633",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "role": "additional",
+        "sha256": "dd8efd456867fd15f4109aeb87db7a36ef53591522b77b23080a1c5bac8c6a6a",
+        "originalSha256": "1c8529d9877bbe7eb3b7b5596ab6bbade056729e93df6c3a79cc8526d042f83f",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1108-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-hmXYqkxo--aT2H4GxTgGkGdPd025cZndvcCK-B95o110-69f8b76ed8479",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "role": "additional",
+        "sha256": "a55c6c4c328caf7691c9307f83567151ab4bceb684e0db7479aaac48ac876353",
+        "originalSha256": "988a72b153a545868ff928233ddd84eaca72d818555dc2e8730a78eb835d0bce",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1108-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516175-ijsvzcTMW79SgH8R3NdwJlwsXOtL4r--wTdtJ5mRQqJk-69f8a7f071674",
+        "sourcePage": "https://www.symple.live/listings/516175",
+        "role": "additional",
+        "sha256": "f6fa9685fe4ab7eec081bd381a164a177ba099595770f2f20c36ee31697b2525",
+        "originalSha256": "b319d7f45d3463fd1362b9f998b8a788c4c35263880409f5067c1f1259f67c91",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/luxury-1br%3A-sleek-kitchen-%2B-city-charm-or-suite-2/456660",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": true,
+    "photoStatus": "Four source-gallery photographs visually inspected; no cross-unit repeat identified in current pass"
+  },
+  {
+    "id": "MA-1109",
+    "name": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9",
+    "website": "https://www.symple.live/listings/516191",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516191",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516191",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Yes",
+      "capacityDetails": "Conflict: header2BR; title/narrative king bedroom and queen sofa in living area. Bedroom count Unknown. Three flights up, no elevator.",
+      "kidsDetails": "Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516191"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516191"
+      ]
+    },
+    "description": "Beacon Street suite with a king bed, queen sofa bed, eat-in kitchenette and laundry, three flights up without an elevator.",
+    "descriptionSource": "https://www.symple.live/listings/516191",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-1eVdgyc-XMHJDRkZvvuq5oP4GZrInuQ7v692ybqPtf4-69f8a801d8eae",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "alt": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 gallery Image 1",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-mV0yglh2JtQkEUGvTcstZ9oGV11OyCN5iYM9Z1ZH3--Y-69f8a7fc32daf",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "alt": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 gallery Image 2",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-nuFGmr4bCoIUvn4qd7WVspP55--c5xaeJY6ZSmWxVLNA-69f8a7f76c219",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "alt": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 gallery Image 3",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-FbdoRAsBtAwSuOEJxuhC40-N6sZJJHS1u2jedXTzlDM-69f8a7f9d0e84",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "alt": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 gallery Image 4",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1109-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-1eVdgyc-XMHJDRkZvvuq5oP4GZrInuQ7v692ybqPtf4-69f8a801d8eae",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "role": "cover",
+        "sha256": "6a745f55939a1cd1dd8dd9221f019c679aad7490b4ca63957989e7290d989b89",
+        "originalSha256": "b73277f8e859c0af97fd9da95f48242a5c6fbb1c8e625820966478a64cca0aa7",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1109-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-mV0yglh2JtQkEUGvTcstZ9oGV11OyCN5iYM9Z1ZH3--Y-69f8a7fc32daf",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "role": "additional",
+        "sha256": "0947012a4448b9fcf2990c3c5f0a0d88616bba78e0068de2301a40cefd1303e8",
+        "originalSha256": "6c068b123febafc197250f73d61b9200a035508e1277c4dc221d1a8edec38cca",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1109-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-nuFGmr4bCoIUvn4qd7WVspP55--c5xaeJY6ZSmWxVLNA-69f8a7f76c219",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "role": "additional",
+        "sha256": "8ad9f5742e304406265a61822f68d502f6923623947143478e2f1f4b9c104904",
+        "originalSha256": "c484126027a3b7894b85a5eb93597b3057245ec30318bb04780ada9b9d9f8275",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      },
+      {
+        "file": "images/MA-1109-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516191-FbdoRAsBtAwSuOEJxuhC40-N6sZJJHS1u2jedXTzlDM-69f8a7f9d0e84",
+        "sourcePage": "https://www.symple.live/listings/516191",
+        "role": "additional",
+        "sha256": "2bcb09178e9b8c41873ba54154518565dd1c7a7318106f7e5989379ff10d9cd7",
+        "originalSha256": "1a67221843bd4160673cc3cf08e6fbd14b3030886d2a68b5582e3b4b4eb057ab",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Elegant 1BR Plus: Sky-High City Views + King | Suite 9 only; opened individual gallery; representative images reused by operator among same-layout numbered suites",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery. Operator repeats visually identical interior imagery across separately advertised numbered suites; retained as operator-published representative suite imagery. Exact room appearance not independently established.",
+        "verifiedForProperty": false,
+        "scopeConcern": "Private interior photograph reused under multiple separately numbered suite galleries; exact suite attribution unresolved."
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published",
+      "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending."
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/elegant-1br-plus%3A-sky-high-city-views-%2B-king-or-suite-9/456664",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": false,
+    "publicationHoldReason": "Repeated private interiors across separately numbered suites; no set of three individually scoped private-suite/shared-building photos established. Website eligibility retained; media publication pending.",
+    "photoStatus": "Publication pending: saved private interiors have verifiedForProperty:false",
+    "photoScopeAudit": {
+      "checkedOn": "2026-10-26",
+      "openedUnitGallery": "https://www.symple.live/listings/516191",
+      "observation": "Opened complete gallery and scrolled lower images; saved asset inventory/contact sheet reviewed. Two clear shared-building views observed (exterior and staircase); repeated private interiors unresolved; no set of three reliably scoped images established in this pass.",
+      "status": "Publication media pending, website eligible",
+      "galleryEvidenceLocal": "research-artifacts/massachusetts/agent-14/gallery-audit.json"
+    }
+  },
+  {
+    "id": "MA-1110",
+    "name": "Front Row City Views: 1BR Suite with King Bed | Suite 3",
+    "website": "https://www.symple.live/listings/516171",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened operator-controlled Boston unit page, direct booking/inquiry controls, expanded individual Policy amenities and current-unit gallery. Operator Contact route checked;404 fallback footer phone/email preserves direct inquiry.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment/suite rental",
+    "openedUrls": [
+      "https://www.symple.live/listings/516171",
+      "https://www.symple.live/",
+      "https://www.symple.live/all-listings",
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://symple.live/contact-us",
+      "https://www.symple.live/contact-us",
+      "https://symplelive.holidayfuture.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator contact address at shared Beacon Street accommodation building; no suite entrance assigned",
+      "street": "851 Beacon St.",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215",
+      "source": "https://www.symple.live/",
+      "notes": "Own site footer publishes this host contact address. Unit narrative establishes Beacon Street accommodation but no individual suite street entrance; avoid treating office/host contact as independently verified rental entrance."
+    },
+    "bookingMethod": "Individual Book now and Send Inquiry controls; operator telephone +1(239)398-2698 and published hello@symple.live fallback. Inquiry requires dates; none submitted.",
+    "bookingUrl": "https://www.symple.live/listings/516171",
+    "operatorEvidenceUrl": "https://www.symple.live/",
+    "notes": "SympleLive local ten-suite Boston operator; footer identifies host Peter. Published Contact pages render404, not closure of working rental website. Published legacy holidayfuture contact also404 but footer publishes email. Unpopulated What you need to know section; actual individual Policy amenities expanded.",
+    "supportedFacts": {
+      "guests": 3,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Parlor-level king bedroom plus full-size convertible sofa.",
+      "kidsDetails": "Expanded individual Policy section lists long-term stays and Pets allowed; no child or infant suitability/restriction stated. Silence remains Unknown.",
+      "petsDetails": "Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Dates required for quote; no evergreen nightly price inferred.",
+      "sources": [
+        "https://www.symple.live/listings/516171"
+      ],
+      "policySources": [
+        "https://www.symple.live/listings/516171"
+      ]
+    },
+    "description": "Parlor-level Beacon Street suite with a king bed, convertible sofa, bay-window streetscape views, kitchenette and laundry.",
+    "descriptionSource": "https://www.symple.live/listings/516171",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb, Vrbo or Booking.com destination links found.",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-T7k--doJRpPVQHscmzUiU7Za34niYR6O8A--yCE5e3Q4Y-69f8b062c4555",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "alt": "Front Row City Views: 1BR Suite with King Bed | Suite 3 gallery Image 1",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-0EW5-JPpzCbu1--O6eFu3Lv--cgiGXGiQi-3ew4ZMde3M-69f8b061e3df6",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "alt": "Front Row City Views: 1BR Suite with King Bed | Suite 3 gallery Image 2",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-sbH16pY9odHM6yCLkB8Eynesd07Z3C87Q1Mqoahxhxw-69f8a8427d8b6",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "alt": "Front Row City Views: 1BR Suite with King Bed | Suite 3 gallery Image 3",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-HNnPMqmT6a-dFwreVqLScnal8aibJOSS1EmIIGWnCsI-69f8a8436e9b9",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "alt": "Front Row City Views: 1BR Suite with King Bed | Suite 3 gallery Image 4",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1110-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-T7k--doJRpPVQHscmzUiU7Za34niYR6O8A--yCE5e3Q4Y-69f8b062c4555",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "role": "cover",
+        "sha256": "9e5c009959e2804db7f038c941b5bb8da7fd3e0c028d804b77a34652138535fb",
+        "originalSha256": "ea71649f03383faec2c1c1dfe0b7aca8356f2b4a77d7098ec25f199fe22f59d5",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1110-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-0EW5-JPpzCbu1--O6eFu3Lv--cgiGXGiQi-3ew4ZMde3M-69f8b061e3df6",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "role": "additional",
+        "sha256": "4027b764e136cc17d9f49216fa67b06030b7e1943eaa631a61b15d57382a77fe",
+        "originalSha256": "2670386b5f3c3d252cba12c78563d78db9ce0e0154152832137342ee12fb8d16",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1110-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-sbH16pY9odHM6yCLkB8Eynesd07Z3C87Q1Mqoahxhxw-69f8a8427d8b6",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "role": "additional",
+        "sha256": "965e1f4d31edf7588449cf831697714288aed3d759401f2521322ac4f3d2f620",
+        "originalSha256": "7459fd1378aa65195704a386365a7b3670556664d21b35ec4936605967f9e194",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      },
+      {
+        "file": "images/MA-1110-002.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/102741-516171-HNnPMqmT6a-dFwreVqLScnal8aibJOSS1EmIIGWnCsI-69f8a8436e9b9",
+        "sourcePage": "https://www.symple.live/listings/516171",
+        "role": "additional",
+        "sha256": "68f51f5c8cb84ce075563942dd55d094b1705be15635a0640318df732edd5e84",
+        "originalSha256": "6b901a301d0a91985b8992f31848eaa4f5035e6858f003bcff6e27b9cdaed16f",
+        "originalWidth": 1350,
+        "originalHeight": 900,
+        "width": 1200,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Front Row City Views: 1BR Suite with King Bed | Suite 3 only; opened individual gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "visualReview": "Saved contact sheets inspected2026-10-26; authentic source interior photograph matching opened numbered-suite gallery.",
+        "verifiedForProperty": true
+      }
+    ],
+    "remainingGaps": [
+      "Individual entrance address not separately published",
+      "Contact route404; host footer inquiry fallback checked",
+      "Pet restrictions/fees not published"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://www.symple.live/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "url": "https://symplelive.holidayfuture.com/contact-us",
+        "observation": "Rendered Page Not Found/404; rental homepage and unit pages work",
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "dedupe": {
+      "status": "Distinct numbered suite/open loft in own ten-unit catalog; no SympleLive brand/domain existing in other MA batches; repeated source gallery imagery disclosed, not used to prove physical-unit identity.",
+      "crossBatchCheck": "Compared352 other MA batch records for SympleLive brand/domain,851Beacon address and current usable derivative hashes; no match. Distinct published suite numbers and floors retained; repeated private interiors not treated as proof of duplicate rental."
+    },
+    "discoveryUrl": "https://www.houfy.com/lodging/front-row-city-views%3A-1br-suite-with-king-bed-or-suite-3/456656",
+    "discoveryMethod": "Houfy Boston catalog to exact brand reverse lookup to own operator catalog",
+    "photoScopeVerified": true,
+    "photoStatus": "Four source-gallery photographs visually inspected; no cross-unit repeat identified in current pass"
+  }
+]

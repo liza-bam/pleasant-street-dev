@@ -255,13 +255,17 @@
         "url": "https://images.dtravel.com/676d349c-7d77-499b-a60e-bfd337aea03f//533152/KUEoYEBDt?w=1080",
         "sourcePage": "https://swankpropertiesboston.dtravel.com/property/4732?currency=USD&lang=en",
         "role": "cover",
-        "sha256": "619fa32d74acd57d63f009e83c4dd26f3fef2e547abe4acc8684df7625b31140",
+        "sha256": "025e9e99b6441d6bb9e195e5132e158ffa482c83af1cd186566cf4cba0ba7d67",
         "width": 1024,
         "height": 683,
         "generated": false,
         "checkedOn": "2026-10-26",
         "unitOrCampus": "230B4 The Penthouse only",
-        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery.",
+        "originalSha256": "619fa32d74acd57d63f009e83c4dd26f3fef2e547abe4acc8684df7625b31140",
+        "originalWidth": 1024,
+        "originalHeight": 683,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0602-000.webp",
@@ -362,7 +366,7 @@
     "factSources": [
       "https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en"
     ],
-    "description": "Victorian home near Boston\u2019s Savin Hill with five bedrooms, two bathrooms and a full kitchen.",
+    "description": "Victorian home near Boston’s Savin Hill with five bedrooms, two bathrooms and a full kitchen.",
     "descriptionSource": "https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en",
     "platformLinks": [
       {
@@ -829,7 +833,7 @@
     "factSources": [
       "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en"
     ],
-    "description": "Two-bedroom Boston apartment near Upham\u2019s Corner with central air, a full kitchen and in-unit laundry.",
+    "description": "Two-bedroom Boston apartment near Upham’s Corner with central air, a full kitchen and in-unit laundry.",
     "descriptionSource": "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en",
     "platformLinks": [
       {
@@ -890,13 +894,17 @@
         "url": "https://images.dtravel.com/676d349c-7d77-499b-a60e-bfd337aea03f//579605/1xJEPt5RX?w=1080",
         "sourcePage": "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en",
         "role": "additional",
-        "sha256": "191b1765054ff37c2fec6e5e15be1f4d8330d28aaa94523461c4f56338932c8d",
+        "sha256": "f0db8dd0499f155b3c360721f1f1cbae3eeb8c1103ba4df1566dc9339f1fcada",
         "width": 1024,
         "height": 683,
         "generated": false,
         "checkedOn": "2026-10-26",
         "unitOrCampus": "230B3 The Mayhew only",
-        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery.",
+        "originalSha256": "191b1765054ff37c2fec6e5e15be1f4d8330d28aaa94523461c4f56338932c8d",
+        "originalWidth": 1024,
+        "originalHeight": 683,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0606-001.webp",
@@ -1653,13 +1661,17 @@
         "url": "https://images.dtravel.com/676d349c-7d77-499b-a60e-bfd337aea03f//54051307/8khGvk7B0?w=1080",
         "sourcePage": "https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en",
         "role": "cover",
-        "sha256": "bf814320a448019285c34dc8d5c97972bd8de6280e486d01821193a4f7a2a1a7",
+        "sha256": "ed05f8318500a7c6d4ca0346bc15f666154f7965c3d32734480b1cd39b49f592",
         "width": 768,
         "height": 1024,
         "generated": false,
         "checkedOn": "2026-10-26",
         "unitOrCampus": "109S9 The Strathmore 9 only",
-        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery.",
+        "originalSha256": "bf814320a448019285c34dc8d5c97972bd8de6280e486d01821193a4f7a2a1a7",
+        "originalWidth": 768,
+        "originalHeight": 1024,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0611-000.webp",

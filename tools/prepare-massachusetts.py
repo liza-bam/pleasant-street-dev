@@ -9,6 +9,7 @@ import hashlib
 import json
 import re
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 DEST = ROOT / 'data/sources/massachusetts'
@@ -76,13 +77,16 @@ def address_data(audit, row):
         match = re.search(r'\b(0\d{4})(?:-\d{4})?\b', full)
         postal = match[1] if match else ''
     source = contact.get('source') or contact.get('sourceUrl') or ''
-    official = source in audit.get('contactPagesChecked', []) and 'visitma.com' not in source and 'facebook.com' not in source
+    own_hosts = {urlparse(u).hostname for u in [audit.get('website', ''), audit.get('bookingUrl', ''), audit.get('operatorEvidenceUrl', ''), *audit.get('contactPagesChecked', [])] if isinstance(u, str) and u.startswith('http')}
+    official = bool(source and urlparse(source).hostname in own_hosts) and 'visitma.com' not in source and 'facebook.com' not in source
+    address_state = contact.get('state') or audit.get('state') or 'MA'
+    if address_state == 'Unknown': address_state = 'MA'
     if not full and street and street != 'Unknown':
-        full = ', '.join(x for x in [street, city, 'MA ' + postal if postal else 'MA'] if x)
-    return {'street': street or 'Unknown', 'city': city or 'Unknown', 'state': contact.get('state', 'MA'),
+        full = ', '.join(x for x in [street, city, address_state + ' ' + postal if postal else address_state] if x)
+    return {'street': street or 'Unknown', 'city': city or 'Unknown', 'state': address_state,
             'postalCode': postal or 'Unknown', 'full': full or 'Unknown',
             'type': contact.get('role') or 'Unknown',
-            'status': 'Published on official website' if official else 'Not verified on official operator Contact page',
+            'status': 'Published on official website' if official and street and street != 'Unknown' else 'Not publicly disclosed' if not street or street == 'Unknown' else 'Not verified on official operator website',
             'sourceUrl': source or 'Unknown', 'checkedOn': audit.get('checkedOn', TODAY),
             'notes': contact.get('notes') or ('Address is not publicly established; retain directory address separately.' if not street else '')}
 
@@ -98,7 +102,13 @@ def main():
             continue
         for audit in read(path):
             assert audit['id'] not in audits, audit['id']
-            audits[audit['id']] = dict(audit)
+            audit = dict(audit)
+            if audit.get('directoryDisposition', '').lower().startswith('superseded'):
+                audit['priorEvidenceStatus'] = audit['evidenceStatus']
+                audit['evidenceStatus'] = 'Not eligible'
+                audit['notes'] = join(audit.get('notes', '')) + ' Prior website audit: ' + audit['priorEvidenceStatus'] + '. ' + audit['eligibilityReason']
+                audit['eligibilityReason'] = 'Operator summary superseded by individually verified rentals; retained as a discovery/source record, not an additional duplicate directory listing.'
+            audits[audit['id']] = audit
     seeds = {r['id']: r for r in read(DEST / 'discovery-records.json')}
     source_map = read(DEST / 'discovery-source-map.json', {})
     rows = []
@@ -139,6 +149,7 @@ def main():
         if website == 'Unknown':
             website = ''
         if status in VERIFIED:
+            assert (audit.get('state') or 'MA') == 'MA', ident
             assert website.startswith(('http://', 'https://')) and audit.get('bookingUrl')
             assert audit.get('contactPagesChecked') and audit.get('operatorEvidenceUrl'), ident
         address = address_data(audit, row)
@@ -147,7 +158,7 @@ def main():
         platform_reviews[ident] = {'id': ident, 'name': audit['name'], 'website': website,
             'platformLinks': badges, 'evidence': link_evidence, 'checkedPages': audit.get('openedUrls', []),
             'checkedOn': audit.get('checkedOn', TODAY), 'status': platform_status, 'foundLinks': found}
-        photos = sorted([p for p in manifests.values() if p['id'] == ident],
+        photos = sorted([p for p in manifests.values() if p['id'] == ident and p.get('verifiedForProperty') is not False],
                         key=lambda p: (not Path(p['file']).stem.endswith('-cover'), p['file']))
         unique = list({p['sha256']: p for p in photos}.values())
         facts = {key: (value.strip() or 'Unknown') if isinstance(value, str) else value for key, value in audit.get('supportedFacts', {}).items()}
@@ -157,11 +168,22 @@ def main():
         description = audit.get('description', '')
         if description == 'Unknown': description = ''
         assert len(description) <= 150, ident
-        publish = status in VERIFIED and len(unique) >= 3 and bool(description) and not audit.get('directoryDisposition', '').lower().startswith('superseded')
+        required_gaps = []
+        if len(unique) < 4: required_gaps.append('Four authentic property photos')
+        if address['street'] == 'Unknown' or address['status'] != 'Published on official website' or re.search(r'mail|box|arrival|marina|partial|withheld', address['type'], re.I):
+            required_gaps.append('Official physical rental or operator-business address; correct address role')
+        if not description: required_gaps.append('Source-supported description')
+        if audit.get('publicationHoldReason'): required_gaps.append(audit['publicationHoldReason'])
+        if status not in VERIFIED: required_gaps.append('Website eligibility verification')
+        collection_status = 'Complete' if not required_gaps else 'Incomplete'
+        publish = status in VERIFIED and len(unique) >= 3 and bool(description) and not audit.get('directoryDisposition', '').lower().startswith('superseded') and not audit.get('publicationHoldReason')
         notes = join(audit.get('notes', ''))
         if audit.get('contactEmail'): notes += ' Contact email: ' + audit['contactEmail'] + '.'
         if audit.get('contactPhone'): notes += ' Contact phone: ' + audit['contactPhone'] + '.'
         failures = audit.get('accessFailures', []) + audit.get('failedUrls', [])
+        if audit.get('publicationHoldReason'): notes += ' Publication hold: ' + audit['publicationHoldReason'] + '.'
+        if gaps:
+            notes += ' Remaining research gaps: ' + '; '.join(dict.fromkeys(gaps)) + '.'
         if failures:
             notes += ' Access/retired URL observations: ' + json.dumps(failures, ensure_ascii=False)
         row.update({'Property / operator': audit['name'], 'Website URL': website,
@@ -181,10 +203,10 @@ def main():
             'Photo status': 'Four authentic photos saved' if len(unique) >= 4 else f'{len(unique)} authentic photos saved; incomplete',
             'Cover selection': unique[0].get('unitOrCampus', '') if unique else '',
             'Street address': '' if address['street'] == 'Unknown' else address['street'],
-            'City': address['city'], 'State': 'MA', 'ZIP code': '' if address['postalCode'] == 'Unknown' else address['postalCode'],
+            'City': address['city'], 'State': address['state'], 'ZIP code': '' if address['postalCode'] == 'Unknown' else address['postalCode'],
             'Full address': '' if address['full'] == 'Unknown' else address['full'], 'Address type': address['type'],
             'Address status': address['status'], 'Address source URL': address['sourceUrl'], 'Address checked on': TODAY,
-            'Address notes': address['notes'], 'Collection status': 'Incomplete', 'Missing required fields': '; '.join(dict.fromkeys(gaps)),
+            'Address notes': address['notes'], 'Collection status': collection_status, 'Missing required fields': '; '.join(required_gaps),
             'Airbnb URLs': '\n'.join(found.get('airbnb', [])), 'Vrbo URLs': '\n'.join(found.get('vrbo', [])),
             'Booking.com URLs': '\n'.join(found.get('booking', [])),
             'Platform link source URLs': '\n'.join(link_sources),
@@ -199,9 +221,9 @@ def main():
         if not publish:
             continue
         kind = audit.get('recordType', '').lower()
-        record_type = 'Rental operator' if 'operator' in kind or 'manager' in audit.get('classification', '').lower() else 'Cabins / small operator' if 'campus' in kind else 'Property'
+        record_type = 'Accommodation category' if 'category' in kind or 'category' in audit.get('classification', '').lower() else 'Rental operator' if 'operator' in kind or 'manager' in audit.get('classification', '').lower() else 'Cabins / small operator' if 'campus' in kind else 'Property'
         typ = audit.get('type', 'Unknown')
-        if typ == 'vacation rental' and 'apartment' in audit.get('classification', '').lower(): typ = 'Apartment'
+        if 'apartment' in typ.lower() or typ == 'vacation rental' and 'apartment' in audit.get('classification', '').lower(): typ = 'Apartment'
         if typ not in ['House', 'Cabin', 'Camp', 'Apartment']:
             typ = 'Cabin' if 'cabin' in typ.lower() and 'candidate' not in typ.lower() else 'Unknown'
         labels = list(dict.fromkeys(p.get('unitOrCampus', '') for p in unique if p.get('unitOrCampus')))
@@ -217,8 +239,8 @@ def main():
             'contactPagesChecked': audit['contactPagesChecked'], 'bookingMethod': audit.get('bookingMethod', ''),
             'bookingUrl': audit['bookingUrl'], 'operatorEvidenceUrl': audit['operatorEvidenceUrl'],
             'cardDescription': description, 'cardDescriptionSource': audit.get('descriptionSource') or website,
-            'cardPhotos': [p['file'] for p in unique[:3]], 'cardPhotoLabel': audit.get('publicPhotoLabel') or (label if record_type != 'Property' else ''), 'platformLinks': badges,
-            'collectionStatus': 'Incomplete', 'missingRequiredFields': list(dict.fromkeys(gaps)),
+            'cardPhotos': [p['file'] for p in unique[:3]], 'cardPhotoLabel': audit.get('publicPhotoLabel') or ('Photos: advertised apartment category; unit assigned by operator.' if record_type == 'Accommodation category' else label if record_type != 'Property' else ''), 'platformLinks': badges,
+            'collectionStatus': collection_status, 'missingRequiredFields': required_gaps, 'researchGaps': list(dict.fromkeys(gaps)),
             'listingStatus': 'Active', 'checked': TODAY, 'alive': True, 'demo': False, 'featured': False}
         for field in ['rooms', 'bedrooms', 'bathrooms', 'guests', 'kids', 'pets', 'priceFrom', 'currency']:
             home[field] = facts.get(field, 'Unknown')
@@ -248,8 +270,13 @@ def main():
         'unresolvedIds': [a['id'] for a in audits.values() if a['evidenceStatus'] == 'Source found in web research'],
         'unavailableIds': [a['id'] for a in audits.values() if a['evidenceStatus'] == 'Website unavailable'],
         'checkedOn': TODAY, 'publication': 'Prepared locally; not yet deployed'}
-    progress['policyReview'] = {'status': 'In progress: mandatory per-ready-listing audit',
-        'completedAuditFiles': [f.name for f in DEST.glob('policy-audit-*.json')],
+    policy_audits = {a['id']: a for f in DEST.glob('policy-audit-*.json') for a in read(f)}
+    eligible_ids = {a['id'] for a in audits.values() if a['evidenceStatus'] in VERIFIED}
+    progress['policyReview'] = {'status': 'Ready-list audit coverage recorded per property',
+        'reviewedCount': len(eligible_ids & policy_audits.keys()),
+        'reviewedIds': sorted(eligible_ids & policy_audits.keys()),
+        'pendingIds': sorted(eligible_ids - policy_audits.keys()),
+        'completedAuditFiles': [f.name for f in sorted(DEST.glob('policy-audit-*.json'))],
         'olderInventoriesNext': ['Maine','Vermont','New Hampshire']}
     save(DEST / 'research-progress.json', progress)
     bad = [{'id': a['id'], 'name': a['name'], 'state': 'MA', 'town': by_id[a['id']]['Massachusetts location'],

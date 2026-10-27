@@ -1,0 +1,1229 @@
+[
+  {
+    "id": "MA-1201",
+    "name": "Serenity Suite Homes — East Boston Suite #1",
+    "website": "https://www.serenitysuitehomes.com/ebsuite-1",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official named apartment page verifies Boston furnished accommodation and a direct reservation or operator inquiry destination.",
+    "classification": "Individual apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "operatorName": "Serenity Suite Homes",
+    "operatorEvidenceUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "sourceUrl": "https://www.serenitysuitehomes.com/rentals",
+    "discoverySourceUrls": [
+      "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/ebsuite-1"
+    ],
+    "discoveryMethod": "Agent03 discovered the operator through Houfy and opened its own catalog; this pass reviewed every displayed apartment.",
+    "openedUrls": [
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/ebsuite-1",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/",
+      "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD",
+      "https://www.airbnb.com/h/serenitysuitehomes",
+      "https://www.vrbo.com/3731467?dateless=true",
+      "https://www.booking.com/Share-mxxexr9"
+    ],
+    "contactPagesChecked": [
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/ebsuite-1"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "160 Saratoga St",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02128",
+      "source": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD",
+      "notes": "Own direct checkout More details publishes this rental address; Contact publishes no postal address. Booking.com separately gives apartment B, not transferred into own-source address."
+    },
+    "contactPhone": "+16174609408",
+    "bookingMethod": "Own Lodgify checkout with date/guest controls and reservation details; no submission.",
+    "bookingUrl": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD",
+    "description": "East Boston two-bedroom apartment with full kitchen, media room, workspace and self check-in.",
+    "descriptionSource": "https://www.serenitysuitehomes.com/ebsuite-1",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Direct Lodgify details publish 6 guests, 2 bedrooms and 1 bathroom.",
+      "kidsDetails": "Own direct Lodgify details state Children are welcome. The 18+ reservation requirement applies to the booker.",
+      "petsDetails": "Own direct Lodgify details state Pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "No date-specific rate requested. Own page advertises a USD25 direct booking discount using code25OFF."
+    },
+    "factSources": {
+      "capacity": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD",
+      "bedrooms": "https://www.serenitysuitehomes.com/ebsuite-1",
+      "bathrooms": "https://www.serenitysuitehomes.com/ebsuite-1",
+      "kids": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD",
+      "pets": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD",
+      "price": "https://www.serenitysuitehomes.com/ebsuite-1"
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://www.serenitysuitehomes.com/rentals",
+      "notes": "Catalog advertises direct STR for less than29 days; seasonal month-to-month inquiries Dec2026–Mar2027 also offered. Exact direct minimum not published."
+    },
+    "policyAudit": {
+      "id": "MA-1201",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.serenitysuitehomes.com/ebsuite-1",
+        "https://www.serenitysuitehomes.com/contact-us",
+        "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD"
+      ],
+      "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+      "applicability": "This named apartment only; no policy copied from another apartment.",
+      "pets": "No",
+      "kids": "Yes",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "Pets not allowed",
+          "source": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD"
+        },
+        {
+          "topic": "kids",
+          "text": "Children are welcome",
+          "source": "https://checkout.lodgify.com/en/serenitysuitehomes/524107/reservation?currency=USD"
+        },
+        {
+          "topic": "reservation age",
+          "text": "Must be 18+ years to make a reservation",
+          "source": "https://www.serenitysuitehomes.com/ebsuite-1"
+        }
+      ],
+      "restrictions": [
+        "Booker must be18 or older; not a child ban.",
+        "Smoking prohibited."
+      ],
+      "noneFound": [
+        "Published minimum stay on direct site"
+      ],
+      "conflicts": [],
+      "notes": "Matching Booking.com destination corroborates children of all ages welcome and pets prohibited."
+    },
+    "platformLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/h/serenitysuitehomes",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "checkedOn": "2026-10-26",
+        "status": "Identity matched on opened destination",
+        "identityEvidence": "Serene Suite near Logan Intl/MBTA Airport station; Boston;6guests2BR1BA; host Cynthia; Serenity Suite Homes in description.",
+        "resolvedIdentityUrl": "https://www.airbnb.com/rooms/52635273"
+      },
+      {
+        "platform": "Vrbo",
+        "url": "https://www.vrbo.com/3731467?dateless=true",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "checkedOn": "2026-10-26",
+        "status": "Identity matched on opened destination",
+        "identityEvidence": "Serenity Suite Homes2BD/1BA nearLoganIntl/Metro; Boston; matching current photos."
+      },
+      {
+        "platform": "Booking.com",
+        "url": "https://www.booking.com/Share-mxxexr9",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "checkedOn": "2026-10-26",
+        "status": "Identity matched on opened destination",
+        "identityEvidence": "Serene Suite Home nearLoganInternationalAirport;160SaratogaStreetB;2BR1BA;Cynthia;SerenitySuiteHomes host text.",
+        "resolvedIdentityUrl": "https://www.booking.com/hotel/us/serene-suite-home-near-logan-international-airport.html"
+      }
+    ],
+    "platformCheckStatus": "Own-page links opened; all three match the East Boston unit identity.",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/3391351d-5fe6-4ad4-80bf-d60b3a99c55e/IMG_8260.jpeg",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "alt": "IMG_8260.jpeg",
+        "unitOrCampus": "East Boston Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/ccaad805-4ffa-4080-8276-59319a8a41ec/IMG_7380.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "alt": "IMG_7380.jpg",
+        "unitOrCampus": "East Boston Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bbda39f4-0dc6-49aa-9b93-dd78789be7e5/IMG_7379.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "alt": "IMG_7379.jpg",
+        "unitOrCampus": "East Boston Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/174810e8-8fb4-474a-ae8c-ee91f47e846e/IMG_6654.jpeg",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "alt": "IMG_6654.jpeg",
+        "unitOrCampus": "East Boston Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bfffd573-ed40-4ddd-9abd-c67a95f7202a/Front+of+House+Pic.png",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "alt": "Front+of+House+Pic.png",
+        "unitOrCampus": "Exterior of the shared building housing East Boston Suite#1; published in its own gallery."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1201-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bfffd573-ed40-4ddd-9abd-c67a95f7202a/Front+of+House+Pic.png",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "unitOrCampus": "Exterior of the shared building housing East Boston Suite#1; published in its own gallery.",
+        "role": "cover",
+        "sha256": "da9edce356d872a69eabd14fe3858b9b65df699cb9a89adf3bd91a531fde12b8",
+        "originalSha256": "c4c0b9fd063c0edc23bd691c6000c939708110f2c2296ae12659b78d302ac509",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1355,
+        "originalHeight": 2048,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1201-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/ccaad805-4ffa-4080-8276-59319a8a41ec/IMG_7380.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "unitOrCampus": "East Boston Suite #1 own page gallery",
+        "role": "gallery",
+        "sha256": "98c0291cffda5d3b363fb7fbb503ee954fee1c35580bb67fc5bef25086adcf57",
+        "originalSha256": "4a7e612bae2b04a86f34fc0fe22b0d4c684ea905d9ee0566a86ab057f2356f53",
+        "width": 1200,
+        "height": 900,
+        "originalWidth": 2500,
+        "originalHeight": 1875,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1201-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bbda39f4-0dc6-49aa-9b93-dd78789be7e5/IMG_7379.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "unitOrCampus": "East Boston Suite #1 own page gallery",
+        "role": "gallery",
+        "sha256": "8633dc819ff007905dcdf4f10a7bb15dc875e3f59fefcf8801b58a1ad6d86d01",
+        "originalSha256": "e5ac995c74d457e7cae4323e88933af8f0a9db75e5556b2a14d51311f6dc7075",
+        "width": 1200,
+        "height": 900,
+        "originalWidth": 2500,
+        "originalHeight": 1875,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1201-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/174810e8-8fb4-474a-ae8c-ee91f47e846e/IMG_6654.jpeg",
+        "sourcePage": "https://www.serenitysuitehomes.com/ebsuite-1",
+        "unitOrCampus": "East Boston Suite #1 own page gallery",
+        "role": "gallery",
+        "sha256": "89b07ef2be830203d21c8ce0c1ec5b78589749fece0c599f834599abde9f0d2a",
+        "originalSha256": "88f18f46dc23c71483adaa11a41e145e3456853751b2c949138117c1f7cfee4b",
+        "width": 1200,
+        "height": 900,
+        "originalWidth": 2500,
+        "originalHeight": 1875,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Exact direct minimum stay",
+      "Published nightly price"
+    ],
+    "accessFailures": [],
+    "notes": "Own footer states veteran and woman owned business. Footer About link is tel:6174609408, not a separate About page. Contact form was inspected but not submitted. Four saved photos use only this named apartment gallery; source URLs and original hashes retained. Booking.com initial DOM inspection timed out, but native accessibility showed the loaded matching property and house rules; the site was accessible.",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "Opened the final twenty-image contact sheet. Each set is scoped to its named official apartment page; East Boston exterior is labeled shared building. Four distinct genuine images per eligible apartment."
+    }
+  },
+  {
+    "id": "MA-1202",
+    "name": "Serenity Suite Homes — Beacon Hill Suite #1",
+    "website": "https://www.serenitysuitehomes.com/bh-suite-1",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official named apartment page verifies Boston furnished accommodation and a direct reservation or operator inquiry destination.",
+    "classification": "Individual apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "operatorName": "Serenity Suite Homes",
+    "operatorEvidenceUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "sourceUrl": "https://www.serenitysuitehomes.com/rentals",
+    "discoverySourceUrls": [
+      "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-1"
+    ],
+    "discoveryMethod": "Agent03 discovered the operator through Houfy and opened its own catalog; this pass reviewed every displayed apartment.",
+    "openedUrls": [
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-1",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/bh-suite-1"
+    ],
+    "contactAddress": {
+      "role": "rental city only; street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.serenitysuitehomes.com/contact-us",
+      "notes": "Mandatory official Contact page inspected: inquiry form, no postal address. Property page gives Beacon Hill, Boston without a street."
+    },
+    "contactPhone": "+16174609408",
+    "bookingMethod": "Direct operator Contact inquiry form and published telephone; no submission.",
+    "bookingUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "description": "Beacon Hill 2-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
+    "descriptionSource": "https://www.serenitysuitehomes.com/bh-suite-1",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 2,
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "The own Rooms accordion publishes2 bedrooms; maximum occupancy is not specified. Bathroom conflict: catalog says1 bath, while Rooms says2BD/2BA and describes two bathrooms. No correction is stated; normalized bathrooms Unknown.",
+      "kidsDetails": "No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.",
+      "petsDetails": "No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.",
+      "priceFrom": 5500,
+      "currency": "USD",
+      "priceDetails": "Unit page: USD6000 for one month; USD5500/month for two or more months. Catalog range USD6000–6500 conflicts with detailed pricing; detailed page retained."
+    },
+    "factSources": {
+      "capacity": "https://www.serenitysuitehomes.com/bh-suite-1",
+      "bedrooms": "https://www.serenitysuitehomes.com/bh-suite-1",
+      "bathrooms": "https://www.serenitysuitehomes.com/bh-suite-1",
+      "kids": "https://www.serenitysuitehomes.com/bh-suite-1",
+      "pets": "https://www.serenitysuitehomes.com/bh-suite-1",
+      "price": "https://www.serenitysuitehomes.com/bh-suite-1"
+    },
+    "minimumStay": {
+      "days": 30,
+      "source": "https://www.serenitysuitehomes.com/rentals",
+      "notes": "Catalog explicitly says not available for less than30 days."
+    },
+    "policyAudit": {
+      "id": "MA-1202",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.serenitysuitehomes.com/bh-suite-1",
+        "https://www.serenitysuitehomes.com/contact-us",
+        "https://www.serenitysuitehomes.com/rentals"
+      ],
+      "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+      "applicability": "This named apartment only; no policy copied from another apartment.",
+      "pets": "Unknown",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "stay duration",
+          "text": "Not available for less than 30 days",
+          "source": "https://www.serenitysuitehomes.com/rentals"
+        },
+        {
+          "topic": "booking",
+          "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+          "source": "https://www.serenitysuitehomes.com/bh-suite-1"
+        },
+        {
+          "topic": "contact prompt",
+          "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+          "source": "https://www.serenitysuitehomes.com/contact-us"
+        }
+      ],
+      "restrictions": [
+        "Minimum30 nights; monthly furnished accommodation."
+      ],
+      "noneFound": [
+        "Explicit child-admission policy",
+        "Explicit pet-admission policy"
+      ],
+      "conflicts": [],
+      "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked own detail and Contact links; no matching Airbnb, Vrbo or Booking.com URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/a57524cf-8dda-4be5-8685-f3d979fdfa57/IMG_1542.JPG",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "alt": "IMG_1542.JPG",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/f3778db0-e419-44a3-b5f0-a1da15088446/IMG_1543.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "alt": "IMG_1543.jpg",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/b8eb92df-3fad-4351-9882-1504024bcb59/IMG_1544.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "alt": "IMG_1544.jpg",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/c8a9c902-0bb8-4e77-bcf9-8a3ec7884961/IMG_1545.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "alt": "IMG_1545.jpg",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/f5077329-68d4-408f-899f-f8d00fbb9838/IMG_1550.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "alt": "IMG_1550.jpg",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1202-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/a57524cf-8dda-4be5-8685-f3d979fdfa57/IMG_1542.JPG",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery",
+        "role": "cover",
+        "sha256": "6a8b84ebfdd5be0d20f814c0632291daee1360a48e3b183342f08e1384eccb8d",
+        "originalSha256": "9e714322c57b2f0d22bb0f50eec02fd965d22fc3d475434cbe1ca77fc0ca1701",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1202-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/f3778db0-e419-44a3-b5f0-a1da15088446/IMG_1543.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery",
+        "role": "gallery",
+        "sha256": "d37f0602e62e39f9a4744fee118c34eb5956bfd1d549583027293edf5366d46f",
+        "originalSha256": "5ee644d99264090febebdc7ceca5314d08d1ba8dc7f71fee16717489156bd6c4",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1202-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/b8eb92df-3fad-4351-9882-1504024bcb59/IMG_1544.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery",
+        "role": "gallery",
+        "sha256": "f56539519b0e0f954d01c197db803ad06fb06606c4db876c4b0357719396949a",
+        "originalSha256": "0eba041662e9c66bd338c74867c5efe9a6a585513904a80fe094228f99a7d971",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1202-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/f5077329-68d4-408f-899f-f8d00fbb9838/IMG_1550.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "unitOrCampus": "Beacon Hill Suite #1 own page gallery",
+        "role": "gallery",
+        "sha256": "3f2f17d44daf27d5ef9dd957c8fba9b0fc8f13b284a349c9fd3e6f58151290c5",
+        "originalSha256": "7534f9e699065d16cc1d83abae49e2e8b340e8dba58686b902b49db44638b21f",
+        "width": 800,
+        "height": 1200,
+        "originalWidth": 1533,
+        "originalHeight": 2300,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Official rental street and ZIP",
+      "Maximum guest capacity",
+      "Pet policy",
+      "Child policy",
+      "Conflicting official bathroom counts"
+    ],
+    "accessFailures": [],
+    "notes": "Own footer states veteran and woman owned business. Footer About link is tel:6174609408, not a separate About page. Contact form was inspected but not submitted. Four saved photos use only this named apartment gallery; source URLs and original hashes retained. Catalog/detail bathroom values conflict without an explicit correction; neither count preferred.",
+    "conflictingFacts": [
+      {
+        "field": "bathrooms",
+        "value": 1,
+        "source": "https://www.serenitysuitehomes.com/rentals"
+      },
+      {
+        "field": "bathrooms",
+        "value": 2,
+        "source": "https://www.serenitysuitehomes.com/bh-suite-1",
+        "section": "Expanded Rooms accordion"
+      }
+    ],
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "Opened the final twenty-image contact sheet. Each set is scoped to its named official apartment page; East Boston exterior is labeled shared building. Four distinct genuine images per eligible apartment."
+    }
+  },
+  {
+    "id": "MA-1203",
+    "name": "Serenity Suite Homes — Beacon Hill Suite #2",
+    "website": "https://www.serenitysuitehomes.com/bh-suite-2",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official named apartment page verifies Boston furnished accommodation and a direct reservation or operator inquiry destination.",
+    "classification": "Individual apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "operatorName": "Serenity Suite Homes",
+    "operatorEvidenceUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "sourceUrl": "https://www.serenitysuitehomes.com/rentals",
+    "discoverySourceUrls": [
+      "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-2"
+    ],
+    "discoveryMethod": "Agent03 discovered the operator through Houfy and opened its own catalog; this pass reviewed every displayed apartment.",
+    "openedUrls": [
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-2",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/bh-suite-2"
+    ],
+    "contactAddress": {
+      "role": "rental city only; street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.serenitysuitehomes.com/contact-us",
+      "notes": "Mandatory official Contact page inspected: inquiry form, no postal address. Property page gives Beacon Hill, Boston without a street."
+    },
+    "contactPhone": "+16174609408",
+    "bookingMethod": "Direct operator Contact inquiry form and published telephone; no submission.",
+    "bookingUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "description": "Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
+    "descriptionSource": "https://www.serenitysuitehomes.com/bh-suite-2",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Own Rooms accordion publishes the bedroom count. Maximum occupancy is not specified; bed and dining-chair counts are not treated as guest capacity.",
+      "kidsDetails": "No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.",
+      "petsDetails": "No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.",
+      "priceFrom": 4500,
+      "currency": "USD",
+      "priceDetails": "Unit page: USD5000 for one month; USD4500/month for two or more months. Catalog range USD4500–5000. Prices are monthly, not nightly."
+    },
+    "factSources": {
+      "capacity": "https://www.serenitysuitehomes.com/bh-suite-2",
+      "bedrooms": "https://www.serenitysuitehomes.com/bh-suite-2",
+      "bathrooms": "https://www.serenitysuitehomes.com/bh-suite-2",
+      "kids": "https://www.serenitysuitehomes.com/bh-suite-2",
+      "pets": "https://www.serenitysuitehomes.com/bh-suite-2",
+      "price": "https://www.serenitysuitehomes.com/bh-suite-2"
+    },
+    "minimumStay": {
+      "days": 30,
+      "source": "https://www.serenitysuitehomes.com/rentals",
+      "notes": "Catalog explicitly says not available for less than30 days."
+    },
+    "policyAudit": {
+      "id": "MA-1203",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.serenitysuitehomes.com/bh-suite-2",
+        "https://www.serenitysuitehomes.com/contact-us",
+        "https://www.serenitysuitehomes.com/rentals"
+      ],
+      "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+      "applicability": "This named apartment only; no policy copied from another apartment.",
+      "pets": "Unknown",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "stay duration",
+          "text": "Not available for less than 30 days",
+          "source": "https://www.serenitysuitehomes.com/rentals"
+        },
+        {
+          "topic": "booking",
+          "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+          "source": "https://www.serenitysuitehomes.com/bh-suite-2"
+        },
+        {
+          "topic": "contact prompt",
+          "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+          "source": "https://www.serenitysuitehomes.com/contact-us"
+        }
+      ],
+      "restrictions": [
+        "Minimum30 nights; monthly furnished accommodation."
+      ],
+      "noneFound": [
+        "Explicit child-admission policy",
+        "Explicit pet-admission policy"
+      ],
+      "conflicts": [],
+      "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked own detail and Contact links; no matching Airbnb, Vrbo or Booking.com URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/85630d09-cb12-417c-8278-f793eae3cdbc/IMG_1558.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "alt": "IMG_1558.jpg",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/ade3b281-f8bf-4eb2-a690-25d7b69d0643/IMG_1560.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "alt": "IMG_1560.jpg",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bf107299-f5ab-4664-aad4-14f401d62805/IMG_1561.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "alt": "IMG_1561.jpg",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/87309d71-8e54-45e7-a559-6ea03e667b92/IMG_1562.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "alt": "IMG_1562.jpg",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/d0372c5f-709a-43d4-a3ae-4746a83da1fd/IMG_1566.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "alt": "IMG_1566.jpg",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1203-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/85630d09-cb12-417c-8278-f793eae3cdbc/IMG_1558.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery",
+        "role": "cover",
+        "sha256": "441d690e6eebc5fe859658470b164aa76dad086f952049a4b85849477289a1ba",
+        "originalSha256": "36188c41227ef65369a94989f6f6557d5f0b4f51062d4a2d355b18c6b1d105bd",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1203-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/ade3b281-f8bf-4eb2-a690-25d7b69d0643/IMG_1560.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery",
+        "role": "gallery",
+        "sha256": "d19c4757f553a0793ab471cfe938b32aef8286ff0dd9d548d81c0887bc635f54",
+        "originalSha256": "1976e7c5d63cb241a8e5ddc1a832fe61d02d688631635a92009a9bd22148d5a5",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1203-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bf107299-f5ab-4664-aad4-14f401d62805/IMG_1561.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery",
+        "role": "gallery",
+        "sha256": "d6faff53cfe537418c4512789e0ff78435c29e982a143d6569aec397ef004157",
+        "originalSha256": "48a45a97be970a95e937c29852257b6739fd1219d2bbc72b9df7f70df5dc859f",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1203-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/d0372c5f-709a-43d4-a3ae-4746a83da1fd/IMG_1566.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-2",
+        "unitOrCampus": "Beacon Hill Suite #2 own page gallery",
+        "role": "gallery",
+        "sha256": "47d5d118d0c1d11fae09d3f21773803c12496e4f7bdd2a883d905de0058b714e",
+        "originalSha256": "27511b27831044ff240e37a1839f522741fdf549a79573ed6b60f3261bbf58ae",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Official rental street and ZIP",
+      "Maximum guest capacity",
+      "Pet policy",
+      "Child policy"
+    ],
+    "accessFailures": [],
+    "notes": "Own footer states veteran and woman owned business. Footer About link is tel:6174609408, not a separate About page. Contact form was inspected but not submitted. Four saved photos use only this named apartment gallery; source URLs and original hashes retained.",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "Opened the final twenty-image contact sheet. Each set is scoped to its named official apartment page; East Boston exterior is labeled shared building. Four distinct genuine images per eligible apartment."
+    }
+  },
+  {
+    "id": "MA-1204",
+    "name": "Serenity Suite Homes — Beacon Hill Suite #3",
+    "website": "https://www.serenitysuitehomes.com/bh-suite-3",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official named apartment page verifies Boston furnished accommodation and a direct reservation or operator inquiry destination.",
+    "classification": "Individual apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "operatorName": "Serenity Suite Homes",
+    "operatorEvidenceUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "sourceUrl": "https://www.serenitysuitehomes.com/rentals",
+    "discoverySourceUrls": [
+      "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-3"
+    ],
+    "discoveryMethod": "Agent03 discovered the operator through Houfy and opened its own catalog; this pass reviewed every displayed apartment.",
+    "openedUrls": [
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-3",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/bh-suite-3"
+    ],
+    "contactAddress": {
+      "role": "rental city only; street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.serenitysuitehomes.com/contact-us",
+      "notes": "Mandatory official Contact page inspected: inquiry form, no postal address. Property page gives Beacon Hill, Boston without a street."
+    },
+    "contactPhone": "+16174609408",
+    "bookingMethod": "Direct operator Contact inquiry form and published telephone; no submission.",
+    "bookingUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "description": "Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
+    "descriptionSource": "https://www.serenitysuitehomes.com/bh-suite-3",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Own Rooms accordion publishes the bedroom count. Maximum occupancy is not specified; bed and dining-chair counts are not treated as guest capacity.",
+      "kidsDetails": "No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.",
+      "petsDetails": "No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.",
+      "priceFrom": 4500,
+      "currency": "USD",
+      "priceDetails": "Unit page: USD5000 for one month; USD4500/month for two or more months. Catalog range USD4500–5000. Prices are monthly, not nightly."
+    },
+    "factSources": {
+      "capacity": "https://www.serenitysuitehomes.com/bh-suite-3",
+      "bedrooms": "https://www.serenitysuitehomes.com/bh-suite-3",
+      "bathrooms": "https://www.serenitysuitehomes.com/bh-suite-3",
+      "kids": "https://www.serenitysuitehomes.com/bh-suite-3",
+      "pets": "https://www.serenitysuitehomes.com/bh-suite-3",
+      "price": "https://www.serenitysuitehomes.com/bh-suite-3"
+    },
+    "minimumStay": {
+      "days": 30,
+      "source": "https://www.serenitysuitehomes.com/rentals",
+      "notes": "Catalog explicitly says not available for less than30 days."
+    },
+    "policyAudit": {
+      "id": "MA-1204",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.serenitysuitehomes.com/bh-suite-3",
+        "https://www.serenitysuitehomes.com/contact-us",
+        "https://www.serenitysuitehomes.com/rentals"
+      ],
+      "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+      "applicability": "This named apartment only; no policy copied from another apartment.",
+      "pets": "Unknown",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "stay duration",
+          "text": "Not available for less than 30 days",
+          "source": "https://www.serenitysuitehomes.com/rentals"
+        },
+        {
+          "topic": "booking",
+          "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+          "source": "https://www.serenitysuitehomes.com/bh-suite-3"
+        },
+        {
+          "topic": "contact prompt",
+          "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+          "source": "https://www.serenitysuitehomes.com/contact-us"
+        }
+      ],
+      "restrictions": [
+        "Minimum30 nights; monthly furnished accommodation."
+      ],
+      "noneFound": [
+        "Explicit child-admission policy",
+        "Explicit pet-admission policy"
+      ],
+      "conflicts": [],
+      "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked own detail and Contact links; no matching Airbnb, Vrbo or Booking.com URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/eb9b9df9-6659-4d24-ae74-be3a9c50b045/IMG_1575.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "alt": "IMG_1575.jpg",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/a15b976e-34a7-4e6c-a925-c0878c1c36af/IMG_1576.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "alt": "IMG_1576.jpg",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/efe603ea-ce41-4ec7-9e05-8d4e311280ac/IMG_1577.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "alt": "IMG_1577.jpg",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/3183eee4-a2c4-4f0c-b6a3-b02aa79c5110/IMG_1578.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "alt": "IMG_1578.jpg",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/e8b599b9-ad1c-4d29-ad75-18bc7ef19a74/IMG_1581.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "alt": "IMG_1581.jpg",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1204-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/eb9b9df9-6659-4d24-ae74-be3a9c50b045/IMG_1575.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery",
+        "role": "cover",
+        "sha256": "7d8fbcd9dda9a1af28715997c5638011eddafbee2ce44457427dd8c44e947fa4",
+        "originalSha256": "02d1cc2f1203e1c641f4c0ac6dbd5d26cfc653b81d078c66f74d32d9eca6172a",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1204-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/a15b976e-34a7-4e6c-a925-c0878c1c36af/IMG_1576.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery",
+        "role": "gallery",
+        "sha256": "93a6e9508d9e04af554ad3999acc740ea5e9cf18195b2f8792e662d0d14f49e4",
+        "originalSha256": "285c78575da3ef8499ad00b8c801b56e05fe538924453752ad4feed18568e2c2",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1204-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/efe603ea-ce41-4ec7-9e05-8d4e311280ac/IMG_1577.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery",
+        "role": "gallery",
+        "sha256": "0fac42d8b62e411ffe523e9648bc45731a531c1c64365762e1f6f9ec9a67a8ef",
+        "originalSha256": "e2b0c5319e99d4d3c725f4b9e62c3efd14adf2b67a01bd9aad037e7c1b865969",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1204-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/e8b599b9-ad1c-4d29-ad75-18bc7ef19a74/IMG_1581.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-3",
+        "unitOrCampus": "Beacon Hill Suite #3 own page gallery",
+        "role": "gallery",
+        "sha256": "392bad69d337ab00e5ae65f30c09fa63f8a0ff08822794b12251c94b1e9d78c5",
+        "originalSha256": "43fd4e53c7a72cedc2a8df298ed03fea2c9d3bb4a545424af66a7bdfe56c793a",
+        "width": 800,
+        "height": 1200,
+        "originalWidth": 1533,
+        "originalHeight": 2300,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Official rental street and ZIP",
+      "Maximum guest capacity",
+      "Pet policy",
+      "Child policy"
+    ],
+    "accessFailures": [],
+    "notes": "Own footer states veteran and woman owned business. Footer About link is tel:6174609408, not a separate About page. Contact form was inspected but not submitted. Four saved photos use only this named apartment gallery; source URLs and original hashes retained.",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "Opened the final twenty-image contact sheet. Each set is scoped to its named official apartment page; East Boston exterior is labeled shared building. Four distinct genuine images per eligible apartment."
+    }
+  },
+  {
+    "id": "MA-1205",
+    "name": "Serenity Suite Homes — Beacon Hill Suite #4",
+    "website": "https://www.serenitysuitehomes.com/bh-suite-4",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Official named apartment page verifies Boston furnished accommodation and a direct reservation or operator inquiry destination.",
+    "classification": "Individual apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "operatorName": "Serenity Suite Homes",
+    "operatorEvidenceUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "sourceUrl": "https://www.serenitysuitehomes.com/rentals",
+    "discoverySourceUrls": [
+      "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-4"
+    ],
+    "discoveryMethod": "Agent03 discovered the operator through Houfy and opened its own catalog; this pass reviewed every displayed apartment.",
+    "openedUrls": [
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/bh-suite-4",
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/bh-suite-4"
+    ],
+    "contactAddress": {
+      "role": "rental city only; street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.serenitysuitehomes.com/contact-us",
+      "notes": "Mandatory official Contact page inspected: inquiry form, no postal address. Property page gives Beacon Hill, Boston without a street."
+    },
+    "contactPhone": "+16174609408",
+    "bookingMethod": "Direct operator Contact inquiry form and published telephone; no submission.",
+    "bookingUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "description": "Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
+    "descriptionSource": "https://www.serenitysuitehomes.com/bh-suite-4",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Own Rooms accordion publishes the bedroom count. Maximum occupancy is not specified; bed and dining-chair counts are not treated as guest capacity.",
+      "kidsDetails": "No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.",
+      "petsDetails": "No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.",
+      "priceFrom": 4500,
+      "currency": "USD",
+      "priceDetails": "Unit page: USD5000 for one month; USD4500/month for two or more months. Catalog range USD4500–5000. Prices are monthly, not nightly."
+    },
+    "factSources": {
+      "capacity": "https://www.serenitysuitehomes.com/bh-suite-4",
+      "bedrooms": "https://www.serenitysuitehomes.com/bh-suite-4",
+      "bathrooms": "https://www.serenitysuitehomes.com/bh-suite-4",
+      "kids": "https://www.serenitysuitehomes.com/bh-suite-4",
+      "pets": "https://www.serenitysuitehomes.com/bh-suite-4",
+      "price": "https://www.serenitysuitehomes.com/bh-suite-4"
+    },
+    "minimumStay": {
+      "days": 30,
+      "source": "https://www.serenitysuitehomes.com/rentals",
+      "notes": "Catalog explicitly says not available for less than30 days."
+    },
+    "policyAudit": {
+      "id": "MA-1205",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.serenitysuitehomes.com/bh-suite-4",
+        "https://www.serenitysuitehomes.com/contact-us",
+        "https://www.serenitysuitehomes.com/rentals"
+      ],
+      "method": "Opened official property page; expanded each Reservations, Rooms, Amenities and Neighborhood accordion, then checked Contact. East Boston direct Lodgify More details was also opened.",
+      "applicability": "This named apartment only; no policy copied from another apartment.",
+      "pets": "Unknown",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "stay duration",
+          "text": "Not available for less than 30 days",
+          "source": "https://www.serenitysuitehomes.com/rentals"
+        },
+        {
+          "topic": "booking",
+          "text": "Available for month-to-month booking. Please inquire for reservations by clicking here.",
+          "source": "https://www.serenitysuitehomes.com/bh-suite-4"
+        },
+        {
+          "topic": "contact prompt",
+          "text": "Rentals (please include dates, budget, total number of people, and if any pets)",
+          "source": "https://www.serenitysuitehomes.com/contact-us"
+        }
+      ],
+      "restrictions": [
+        "Minimum30 nights; monthly furnished accommodation."
+      ],
+      "noneFound": [
+        "Explicit child-admission policy",
+        "Explicit pet-admission policy"
+      ],
+      "conflicts": [],
+      "notes": "No published policy/FAQ/house-rule links found on checked Beacon Hill detail and Contact pages; Unknown values are deliberate."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked own detail and Contact links; no matching Airbnb, Vrbo or Booking.com URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bb67152a-fb83-470c-a9e8-f0b9bc9e1631/IMG_1587.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "alt": "IMG_1587.jpg",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/816ab354-f7a4-467d-8015-f217759298a8/IMG_1584.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "alt": "IMG_1584.jpg",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/1ba886a9-442e-40ee-8cae-0b59a59ccb16/IMG_1586.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "alt": "IMG_1586.jpg",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/26422f6c-c222-4295-b04d-24aee467b8c5/IMG_1585.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "alt": "IMG_1585.jpg",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/65c7f6e6-6655-4012-b6be-491b060508f2/IMG_1593.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "alt": "IMG_1593.jpg",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1205-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/bb67152a-fb83-470c-a9e8-f0b9bc9e1631/IMG_1587.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery",
+        "role": "cover",
+        "sha256": "b8ae60b01089579b66852c1b6a698d2823ca2c4610458153524a6f95c3727074",
+        "originalSha256": "e424d1460076b3cbd049296ca9b91ff2ffc12366000b30064e2ca60be034fd76",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1205-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/816ab354-f7a4-467d-8015-f217759298a8/IMG_1584.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery",
+        "role": "gallery",
+        "sha256": "0d1988c41b33b67d55a76db3f2a56045262d74908135b54b2418d694f44aa649",
+        "originalSha256": "031fcad74184a696227d70b5b0c873654951172ee8c53f4ed61576227c407dbe",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 2300,
+        "originalHeight": 1533,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1205-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/1ba886a9-442e-40ee-8cae-0b59a59ccb16/IMG_1586.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery",
+        "role": "gallery",
+        "sha256": "9ed69706dfd3d166969e1e11d4529cb16b455ec513e901c3c6a5b676303a29fd",
+        "originalSha256": "0c291d56e3b3117d71eab05f487e6e2d6c092d184b346f832ba96bdc4bf22dcf",
+        "width": 800,
+        "height": 1200,
+        "originalWidth": 1533,
+        "originalHeight": 2300,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-1205-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/639546c76518da3f459b7720/65c7f6e6-6655-4012-b6be-491b060508f2/IMG_1593.jpg",
+        "sourcePage": "https://www.serenitysuitehomes.com/bh-suite-4",
+        "unitOrCampus": "Beacon Hill Suite #4 own page gallery",
+        "role": "gallery",
+        "sha256": "8bd60cba58314c2fe152aa8580a395564a6d9374e7a78d2d808519ac8fd7319a",
+        "originalSha256": "72cf829a284b5701d4063d0d49143b9287cd3e0b17242f392d5724a69f493c22",
+        "width": 800,
+        "height": 1200,
+        "originalWidth": 1533,
+        "originalHeight": 2300,
+        "generated": false,
+        "derivativeQuality": 78,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Official rental street and ZIP",
+      "Maximum guest capacity",
+      "Pet policy",
+      "Child policy"
+    ],
+    "accessFailures": [],
+    "notes": "Own footer states veteran and woman owned business. Footer About link is tel:6174609408, not a separate About page. Contact form was inspected but not submitted. Four saved photos use only this named apartment gallery; source URLs and original hashes retained.",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "Opened the final twenty-image contact sheet. Each set is scoped to its named official apartment page; East Boston exterior is labeled shared building. Four distinct genuine images per eligible apartment."
+    }
+  },
+  {
+    "id": "MA-1206",
+    "name": "Serenity Suite Homes — North Providence Suite #1",
+    "website": "https://www.serenitysuitehomes.com/ri-suite-1",
+    "city": "North Providence",
+    "state": "RI",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Outside Massachusetts and offered as an unfurnished residential lease. Catalog says one year; own detail offers six or twelve months. Neither qualifies for this MA vacation-accommodation batch.",
+    "classification": "Out-of-state residential lease",
+    "recordType": "excluded candidate",
+    "type": "Apartment",
+    "operatorName": "Serenity Suite Homes",
+    "operatorEvidenceUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "sourceUrl": "https://www.serenitysuitehomes.com/rentals",
+    "openedUrls": [
+      "https://www.serenitysuitehomes.com/rentals",
+      "https://www.serenitysuitehomes.com/ri-suite-1",
+      "https://www.serenitysuitehomes.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://www.serenitysuitehomes.com/contact-us",
+      "https://www.serenitysuitehomes.com/ri-suite-1"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "2160 Mineral Springs Ave",
+      "city": "North Providence",
+      "state": "RI",
+      "zip": "Unknown",
+      "source": "https://www.serenitysuitehomes.com/ri-suite-1",
+      "notes": "Own leasing detail publishes this address."
+    },
+    "bookingMethod": "Direct lease inquiry through Contact",
+    "bookingUrl": "https://www.serenitysuitehomes.com/contact-us",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "description": "North Providence unfurnished apartment offered on six- or twelve-month leases.",
+    "descriptionSource": "https://www.serenitysuitehomes.com/ri-suite-1",
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Not applicable to excluded MA candidate.",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "notes": "Catalog annual-only wording conflicts with detail six/twelve-month options; both are residential lease terms. No RI expansion performed."
+  }
+]

@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-697 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+823 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -20,6 +20,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit child policy established.
 - Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony
+
+## 100 at University Park — 1 Bedroom Category
+
+- ID: MA-0913
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: One-bedroom furnished apartment category at University Park in Cambridge, with a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 199 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/100-Landsdowne-Street-4788
+
+## 100 at University Park — Apartment ID 8448
+
+- ID: MA-0943
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 199 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/100-Landsdowne-Street-8448
 
 ## 109S14 The Strathmore 14
 
@@ -172,6 +206,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.1848inn.com/
 
+## 1898 Fire House Vacation Rental — M960
+
+- ID: MA-1004
+- Town / area (approximate map location): Malden, MA
+- Type: Apartment
+- Description: Two-bedroom duplex in a restored Malden firehouse, with a kitchen, central air, parking and steep stairs to the bedrooms.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Published maximum 6 guests; bed/bath layout checked. M960 bathroom header has a typo, but body explicitly describes one full bath and one half bath.
+- Price: from 285 USD a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Family-friendly vacation rental explicitly described; steep bedroom stairs disclosed.
+- Pet policy: Shared policy generally prohibits pets but also identifies a few exceptions; no specific guest-pet exception established for this unit. Resident host dog at M465 is not guest-pet permission.
+- Website (book here, directly with the host): https://bostonextendedstay.com/m960-1898-boston-cambridge-fire-house-vacation-rental/
+
 ## 1901 HOUSE LIMIT 10
 
 - ID: ME-0573
@@ -320,6 +371,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking. Alameda description requires advance approval and extra cleaning fees; private yard not open to guests/pets.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en
 
+## 2BR Penthouse Boston Common DT
+
+- ID: MA-0826
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Downtown Boston two-bedroom penthouse near Boston Common with full kitchen, laundry and shared gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 971 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/68ec1ec99be33400120e5715?minOccupancy=1&adults=1
+
+## 3 BR in Cambridge/MIT/Harvard
+
+- ID: MA-0807
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge three-bedroom, two-bathroom apartment near MIT and Harvard.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: 8
+- Price: from 955 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: Not suitable for children ages 2–12 or infants under 2.
+- Pet policy: Pets allowed with additional fee; contact host for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a5815ea410f470014cbab35?minOccupancy=1&adults=1
+
 ## 39S1 The Strathmore 1
 
 - ID: MA-0612
@@ -336,6 +421,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
 - Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
 - Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en
+
+## 4BR Mid-Century Glam Retreat | Near T
+
+- ID: MA-0706
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Four-bedroom Jamaica Plain apartment category with a chef’s kitchen, two baths and shared rear porch.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/5fe4c089e2cac30031037e04
 
 ## 4th Debsconeag Lake Camps
 
@@ -369,6 +471,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=464
+
+## 6BR Boston Home | Near T
+
+- ID: MA-0714
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Six-bedroom Savin Hill apartment with three baths, kitchen, lower-level kitchenette, deck and shared backyard.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 3
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/67f0004ba344fe001385c5db
+
+## 6BR Classic Boston Home, Near Savin Hill T
+
+- ID: MA-0722
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Six-bedroom Savin Hill Unit One with three full baths, a half bath, full kitchen and patio dining area.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 3.5
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/65bd02ffd16e3c0014a49aed
 
 ## A SENSE OF PLACE LIMIT 17
 
@@ -848,6 +984,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Own site does not publish a pet admission rule.
 - Website (book here, directly with the host): https://www.ashintullycottage.com/
 
+## Asteria — Apartment ID 6014
+
+- ID: MA-0922
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 269 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/4-Emerson-Place-6014
+
+## Asteria — Apartment ID 7492
+
+- ID: MA-0905
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/4-Emerson-Place-7492
+
 ## Atlantic Haven
 
 - ID: ME-0191
@@ -895,6 +1065,176 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.riverwindsfarmandestate.com/destination-properties/austin-house/
 
+## AVA Back Bay — Apartment ID 1070
+
+- ID: MA-0938
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 329 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/790-Boylston-Street-1070
+
+## AVA Back Bay — Apartment ID 1602
+
+- ID: MA-0948
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 199 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/790-Boylston-Street-1602
+
+## AVA Back Bay — Apartment ID 5477
+
+- ID: MA-0946
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 199 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/790-Boylston-Street-5477
+
+## Avalon at Prudential – Boylston Building — Apartment ID 3903
+
+- ID: MA-0909
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/780-Boylston-Street-3903
+
+## Avalon at Prudential – Boylston Building — Apartment ID 4151
+
+- ID: MA-0908
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/780-Boylston-Street-4151
+
+## Avalon at Prudential – Gloucester Building — Apartment ID 1050
+
+- ID: MA-0931
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 249 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/770-Boylston-Street-1050
+
+## Avalon at Prudential – Gloucester Building — Apartment ID 4848
+
+- ID: MA-0951
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/770-Boylston-Street-4848
+
+## Avalon at Prudential – Gloucester Building — Apartment ID 7000
+
+- ID: MA-0916
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 249 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/770-Boylston-Street-7000
+
+## Avalon at Prudential – Gloucester Building — Apartment ID 8856
+
+- ID: MA-0950
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/770-Boylston-Street-8856
+
+## Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer
+
+- ID: MA-0813
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom penthouse with a full kitchen, in-unit laundry and shared gym access.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 687 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a444f40b7a3f80014485789?minOccupancy=1&adults=1
+
 ## Back Bay Cottage Portside
 
 - ID: ME-0133
@@ -910,6 +1250,142 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — family home
 - Website (book here, directly with the host): https://boothbayharborrental.com
+
+## Back-Bay 2BR Condo w Roof top, Gym, Parking
+
+- ID: MA-0836
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom condo with a full kitchen, laundry and shared rooftop and fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with general two-bedroom max five unless agreed. No rental street published in checked official pages.
+- Price: from 700 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670ee77db5425100b7acef8f?minOccupancy=1&adults=1
+
+## Back-Bay 2BR Penthouse w Roof top and GYM
+
+- ID: MA-0838
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom penthouse with a full kitchen, laundry and access to shared rooftop and gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with general two-bedroom max five unless agreed. Child/infant suitability explicitly stated.
+- Price: from 1382 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/67040298865b1300136e2b56?minOccupancy=1&adults=1
+
+## Back-Bay Central Condo w Roof top, Gym & Parking
+
+- ID: MA-0835
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom condo with full kitchen, laundry and access to shared rooftop and gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 1382 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6806e41a0f97b90013194298?minOccupancy=1&adults=1
+
+## Back-Bay Lux Central 2BR Condo with Rooftop and Parking
+
+- ID: MA-0833
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom condo with full kitchen, laundry and access to shared rooftop and gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 499 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6806e4513c0a6a001255fd87?minOccupancy=1&adults=1
+
+## Back-Bay Penthouse Public Garden Down Town Rooftop and Parking
+
+- ID: MA-0832
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom penthouse with a full kitchen, laundry and access to shared rooftop and gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with generic two-bedroom max five unless agreed. Back Bay neighborhood described; no exact rental street verified.
+- Price: from 629 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6806e59679ba110013942bb4?minOccupancy=1&adults=1
+
+## Back-Bay Upscale Central Condo Bos Common Downtown
+
+- ID: MA-0839
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom condo with full kitchen, skyline views and access to shared rooftop and gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with general two-bedroom max five unless agreed. Back Bay neighborhood stated; exact rental entrance undisclosed.
+- Price: from 509 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670402179d038300116221f0?minOccupancy=1&adults=1
+
+## Back-Bay Upscale Central Condo Rooftop & Parking
+
+- ID: MA-0834
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom condo with full kitchen, skyline views and access to shared rooftop and gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with generic two-bedroom max five unless agreed. House rules publish no child/infant suitability statement; checked Terms age18 website-user requirement is not a child ban.
+- Price: from 700 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit current child policy verified.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6806e43e1703750014983ff4?minOccupancy=1&adults=1
+
+## Back-Bay Upscale Central Penthouse W Roof-top
+
+- ID: MA-0840
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Back Bay two-bedroom penthouse with full kitchen, skyline views and access to shared rooftop and gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with general two-bedroom max five unless agreed. No explicit child policy in House rules/Terms; crib amenity does not independently establish permission.
+- Price: from 1397 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit current child policy verified.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670401fcb485c600109b6ef2?minOccupancy=1&adults=1
 
 ## Bald Mountain Camps
 
@@ -1529,7 +2005,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0309
 - Town / area (approximate map location): Shelburne Falls, MA
-- Type: Unknown
+- Type: Apartment
 - Description: Victorian Shelburne Falls inn with private-bath rooms and suites, a short walk from the Bridge of Flowers.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -1748,22 +2224,56 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — up to 2 dogs, 35 lb limit (exceptions inquire)
 - Website (book here, directly with the host): https://boothbayvacationhomes.com
 
-## Boston Extended Stay / Bed and Breakfast Associates Bay Colony
+## Boston Christopher — Grand Studio Suite Category
 
-- ID: MA-0208
+- ID: MA-0952
 - Town / area (approximate map location): Boston, MA
 - Type: Unknown
-- Description: Boston area furnished studios and apartments for vacations of three days to a few weeks.
+- Description: Grand Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.
 - Rooms: Unknown
 - Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Conditional; check unit policy
-- Children policy: Operator-wide children policy Unknown; M325 accommodates one child at a published $30/night charge.
-- Pet policy: Most accommodations do not allow pets; a small number accept them by arrangement. Confirm specific property.
-- Website (book here, directly with the host): https://bostonextendedstay.com/
+- Bathrooms: 1
+- Sleeps: Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.
+- Price: from 200 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised.
+- Pet policy: This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.
+- Website (book here, directly with the host): https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b
+
+## Boston Christopher — One Bedroom Category
+
+- ID: MA-0960
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: One Bedroom offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments.
+- Price: from 229 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised. An additional airbed costs USD 150 per stay and requires 24 hours notice.
+- Pet policy: This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.
+- Website (book here, directly with the host): https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867
+
+## Boston Christopher — Studio Suite Category
+
+- ID: MA-0957
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.
+- Price: from 149 USD a night
+- Children welcome: no
+- Pets welcome: no
+- Children policy: House Rules state not suitable for children ages 2–12 or infants under 2. The generic free Pack N Play and family FAQ do not override the offer restriction. Ages 13–17 are not explicitly addressed.
+- Pet policy: This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.
+- Website (book here, directly with the host): https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f
 
 ## Boston Historical Urban Oasis
 
@@ -1859,6 +2369,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://book.birchrentals.com/listings/222685
+
+## Bright Jamaica Plain Home | Near Green St T
+
+- ID: MA-0703
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Three-bedroom Jamaica Plain apartment with two baths, private rear porch and designated parking near Green Street T.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/652ff8cd14a63e002bef688f
+
+## Bright JP Unit | Private Deck & Near the T
+
+- ID: MA-0705
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Four-bedroom Jamaica Plain apartment category with two baths, private front and rear decks and designated parking.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/5fee124f7d4eb80030e7b360
 
 ## Burke's Properties and Rentals
 
@@ -2193,6 +2737,380 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets not allowed.
 - Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/casa-isla/
 
+## Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5
+
+- ID: MA-0827
+- Town / area (approximate map location): Somerville, MA
+- Type: Apartment
+- Description: Somerville Assembly Square one-bedroom condo with a king bed, full kitchen and access to shared pool and gym.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 5
+- Price: from 389 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules prohibit pets.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/68ec01c9532e710013d67adb?minOccupancy=1&adults=1
+
+## Central 2BR Boston Pool views near Public Garden
+
+- ID: MA-0821
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom condo near the Public Garden with full kitchen, laundry, pool views and shared gym access.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 429 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/69e930f213d9b40011a16b9b?minOccupancy=1&adults=1
+
+## Central 2BR Boston w/ Workspace & Game Room
+
+- ID: MA-0804
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom corner apartment near Harvard Business School, with a kitchen and shared workspace, gym and game room.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 5
+- Price: from 500 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules say not suitable for children ages 2–12 or infants under 2 and explicitly No children allowed.
+- Pet policy: Pets allowed with additional fee; contact host for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a6126c06a757a001ba8130f?minOccupancy=1&adults=1
+
+## Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer
+
+- ID: MA-0818
+- Town / area (approximate map location): Somerville, MA
+- Type: Apartment
+- Description: Somerville Assembly Square two-bedroom condo with full kitchen, laundry and access to shared pool and fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 600 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/69e932c253a5aa001234aab2?minOccupancy=1&adults=1
+
+## Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7
+
+- ID: MA-0819
+- Town / area (approximate map location): Somerville, MA
+- Type: Apartment
+- Description: Somerville Assembly Square two-bedroom condo with kitchen, laundry and access to shared pool and fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Capacity conflict: title sleeps seven but catalog six. Exact address withheld until1–2 days before arrival; advertised address partner hotel. Shares three initial photo filenames with MA0818; private-unit reconciliation pending.
+- Price: from 249 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/69e9311a7019930013e14164?minOccupancy=1&adults=1
+
+## Central 2BR Condo in Downtown Boston & T-Station
+
+- ID: MA-0822
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Downtown Boston two-bedroom condo with a full kitchen, laundry and access to shared gym and rooftop facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog seven guests conflicts with general published two-bedroom max five unless agreed with host. Exact address shared two days before arrival.
+- Price: from 599 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/690ff08569fb6300139b723c?minOccupancy=1&adults=1
+
+## Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room
+
+- ID: MA-0809
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom corner condo near Harvard Business School, with kitchen, workspace and access to shared game room.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 5
+- Price: from 600 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2 and explicitly No children allowed.
+- Pet policy: Pets allowed with additional fee; contact host for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a580cfa6d68cf001c59fb60?minOccupancy=1&adults=1
+
+## Central 2BR Den Fenway Walk to BU Longwood Red Sox
+
+- ID: MA-0820
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Fenway two-bedroom apartment with a den, full kitchen and access to shared fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Capacity conflict: catalog six guests, additional generic rule caps two-bedroom at five unless agreed. Two-bedroom plus den described; no exact rental entrance published.
+- Price: from 429 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/69e9310a7019930013e13cb4?minOccupancy=1&adults=1
+
+## Central 2BR in Boston w Pool, Gym, Washer Dryer
+
+- ID: MA-0814
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom condo with a full kitchen, in-unit laundry, pool views and shared gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 460 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a444eb8471cbe0014c04cee?minOccupancy=1&adults=1
+
+## Central 3BR & Den Penthouse Boston Common MGH & TUFTS
+
+- ID: MA-0823
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston penthouse near Boston Common with three bedrooms plus a den, full kitchen and shared fitness facilities.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 2
+- Sleeps: Bedroom conflict: title/description three bedrooms plus den, features four bedrooms. Catalog eight guests; generic rule caps three-bedroom at seven unless agreed. Confirm private-bedroom and guest counts.
+- Price: from 911 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/690ff07c0bade50011061abb?minOccupancy=1&adults=1
+
+## Central 4BR Penthouse in Boston DT TUFTS Parking
+
+- ID: MA-0803
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Downtown Boston four-bedroom penthouse with a full kitchen, laundry, workspace and shared gym and rooftop.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: 8
+- Price: from 576 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules explicitly not suitable for children ages 2–12 or infants under 2. Description mentions crib/high-chair amenities; do not infer allowance from amenities.
+- Pet policy: Pets allowed with additional fee; contact host for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a627abc06ef0200152a52dd?minOccupancy=1&adults=1
+
+## Central Boston 2BR Retreat Gym W&D Golf
+
+- ID: MA-0816
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom apartment near Harvard with a kitchen, laundry and access to shared fitness and work facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 5
+- Price: from 600 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/69fbe1555a9c35001b4f0eb1?minOccupancy=1&adults=1
+
+## Central Boston 2BR Retreat near Harvard & Transit
+
+- ID: MA-0802
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom corner apartment near Harvard Business School, with a full kitchen, laundry and shared fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with description max five for two-bedroom unless agreed. Exact rental address provided 1–2 days before arrival.
+- Price: from 487 USD a night
+- Children welcome: no
+- Pets welcome: Unknown
+- Children policy: House rules explicitly not suitable for children ages 2–12 or infants under 2.
+- Pet policy: Conflict: House rules prohibit pets, but Other things to note says all apartments are pet-friendly. Confirm with operator.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a627ac646a973005bb515e4?minOccupancy=1&adults=1
+
+## Central Boston 2BR Retreat near Harvard & Transit
+
+- ID: MA-0817
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom apartment near Harvard with a full kitchen and access to shared gym, workspace and game room.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 5
+- Price: from 500 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/69fbe14977e4df00133a66a7?minOccupancy=1&adults=1
+
+## Central Condo Fenway near RedSox Green Line w Gym
+
+- ID: MA-0811
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Fenway apartment with a full kitchen, two bathrooms and access to shared fitness facilities.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 2
+- Sleeps: Capacity conflict: catalog six guests versus description sleeps seven; bedroom conflict: title/features three bedrooms versus description two bedrooms plus den. Hold both Unknown. Pet fee applies; child prohibitions remain despite high-chair amenity.
+- Price: from 447 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a580a074cdff30014f4beb4?minOccupancy=1&adults=1
+
+## Central Penthouse & balcony in Boston Chinatown
+
+- ID: MA-0810
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Chinatown one-bedroom penthouse with a balcony.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Catalog five guests conflicts with published max three for one-bedroom unless agreed. Listing address is nearby hotel partner; exact entrance shared two days before arrival.
+- Price: from 429 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Pets allowed with additional fee; contact host for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a580cbcf82e52001a5844df?minOccupancy=1&adults=1
+
+## Central Serene Condo King Bed by MIT Harvard GYM
+
+- ID: MA-0851
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge two-bedroom condo near MIT and Harvard with full kitchen, king bed, workspace and shared gym access.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog seven guests conflicts with generic two-bedroom max five unless agreed. Exact rental entrance not published.
+- Price: from 799 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670400e2b485c600109b5fd7?minOccupancy=1&adults=1
+
+## Central Serene Condo near MIT/Harvard w/King GYM
+
+- ID: MA-0806
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge two-bedroom condo near MIT and Harvard with a king bed, full kitchen and access to shared gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog eight guests conflicts with general published limit of five for two-bedroom unless agreed with host.
+- Price: from 942 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: Primary page says not suitable for children/infants, while overlapping private-unit alternate pages say suitable. Confirm current policy with operator.
+- Pet policy: Pets allowed with additional fee; contact host for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a58160860ff1b0013759c04?minOccupancy=1&adults=1
+
+## Central Square 2BR Condo near Harvard & MIT Spacious Gym & Work
+
+- ID: MA-0844
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge Central Square two-bedroom condo with a workspace and access to shared terrace and fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog seven guests conflicts with generic two-bedroom max five unless agreed. Exact rental entrance not published.
+- Price: from 541 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670401467df7250012570236?minOccupancy=1&adults=1
+
+## Central Square 2BR Penthouse near MIT & Harvard to Balance Life, Work Play Sleep 7!
+
+- ID: MA-0850
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge Central Square two-bedroom penthouse with a workspace and shared gym access near MIT and Harvard.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Capacity conflicts: title sleep seven, catalog eight guests and generic two-bedroom max five unless agreed. Exact rental entrance not published.
+- Price: from 596 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670400feddc62600126bfcb5?minOccupancy=1&adults=1
+
+## Central Square 3BR Condo with Downtown View, Gym and Parking! 8 Sleeps
+
+- ID: MA-0829
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge Central Square three-bedroom condo with a full kitchen, skyline views and shared gym access.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Primary catalog/title says eight; overlapping page MA0849 applies generic three-bedroom maximum seven unless agreed. Confirm current capacity.
+- Price: from 699 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/68070cea56afff0013c6ea96?minOccupancy=1&adults=1
+
+## Central Upscale 2BR Condo wGym Office & Parking
+
+- ID: MA-0812
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge two-bedroom condo with a full kitchen, workspace and access to shared gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 5
+- Price: from 675 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Primary page says not suitable for children/infants, while overlapping private-unit alternate pages say suitable. Confirm current policy with operator.
+- Pet policy: Conflict: House rules prohibit pets, but Other things to note says all apartments are pet-friendly. Confirm with operator.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a5809b1e1fa4d001135039d?minOccupancy=1&adults=1
+
 ## Channel Waterfront Cottages
 
 - ID: NH-0013
@@ -2208,6 +3126,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Homepage welcomes all couples and families
 - Website (book here, directly with the host): https://www.channelcottages.com/
+
+## Charlestown Furnished Apartment — M465
+
+- ID: MA-1003
+- Town / area (approximate map location): Charlestown, MA
+- Type: Apartment
+- Description: One-bedroom apartment in a Charlestown brick townhouse, with a kitchen and patio outlook near the Freedom Trail.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published maximum 4 guests; unit sleeping layout checked.
+- Price: from 285 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Official unit page, shared policies and inquiry reviewed; no unit-specific child eligibility/age policy published. Generic inquiry child fields are not an admission rule.
+- Pet policy: Shared policy generally prohibits pets but also identifies a few exceptions; no specific guest-pet exception established for this unit. Resident host dog at M465 is not guest-pet permission.
+- Website (book here, directly with the host): https://bostonextendedstay.com/m465-charlestown-furnished-apartment-vacation-rental-boston/
 
 ## Charming 2BR•Walk to Harbor & Downtown•Close2Salem
 
@@ -2225,6 +3160,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Families or child amenities explicitly mentioned on own-unit page.
 - Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown
+
+## Charming 3BR Savin Hill Home | Near the T
+
+- ID: MA-0701
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Three-bedroom Savin Hill home across two levels with a kitchen, laundry and shared patio, near the Red Line.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/5a6095671a70371b007a8fe5
+
+## Charming Boston Home, Near T
+
+- ID: MA-0707
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Four-bedroom Boston apartment with two bathrooms, a full kitchen and shared outdoor patio near the T.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/64945ae30b3f6a0035aaf263
 
 ## Charming Design~Walk to Salem~Pvt Balcony
 
@@ -2308,6 +3277,74 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://chillvacationrentals.com
 
+## Church Park 199 — Apartment ID 3728
+
+- ID: MA-0944
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 169 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/199-Massachusetts-Avenue-3728
+
+## Church Park 199 — Apartment ID 6686
+
+- ID: MA-0925
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/199-Massachusetts-Avenue-6686
+
+## Church Park 221 — Apartment ID 4314
+
+- ID: MA-0924
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/221-Massachusetts-Avenue-4314
+
+## Church Park 255 — Apartment ID 7411
+
+- ID: MA-0915
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 279 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/255-Massachusetts-Avenue-7411
+
 ## City Views~Close 2 Salem~Balcony
 
 - ID: MA-0441
@@ -2324,6 +3361,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit child policy established.
 - Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony
+
+## Cityscape 1BR Plus: King + Queen Pull-out | Suite 7
+
+- ID: MA-1106
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Beacon Street suite with a king bed, queen sofa bed, bay-window views, kitchenette and laundry, reached by stairs.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Conflict: header2BR; title/narrative one king bedroom plus queen sofa in living area. Bedroom count Unknown. Stairs, no elevator.
+- Price: Dates required for quote; no evergreen nightly price inferred.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.
+- Pet policy: Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.
+- Website (book here, directly with the host): https://www.symple.live/listings/516173
 
 ## Clamber Hill Inn and Restaurant
 
@@ -2356,6 +3410,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=182761
+
+## Clean, Contemporary Escape | Near T
+
+- ID: MA-0712
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Four-bedroom Fort Hill apartment with three baths, a full kitchen and private outdoor patio.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/5e25f90f3711ab0087404bf7
 
 ## Clearlake Paradise
 
@@ -2519,6 +3590,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://compassrosmaine.com
 
+## Contemporary Boston Duplex — Two-Apartment Combined Rental
+
+- ID: MA-0718
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Combined rental of two Boston apartments with six bedrooms, three baths, two kitchens, two decks and shared backyard.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 3
+- Sleeps: One combined booking for Units Two and Three only: seventeen guests, six bedrooms and three bathrooms total.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/67b619b40497ce0042dd7cac
+
+## Copley on the Park Studio — M325
+
+- ID: MA-1001
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: South End studio with a kitchen, in-unit laundry and private patio; nightly stays are seasonal, with monthly winter rentals.
+- Rooms: 1
+- Bedrooms: 0
+- Bathrooms: 1
+- Sleeps: Two adults plus one additional child; source has editorial delete text beside maximum3, retained as a qualification.
+- Price: from 285 USD a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: One extra child may use a single air mattress; published nightly surcharge $30; double-occupancy base.
+- Pet policy: Shared policy generally prohibits pets but also identifies a few exceptions; no specific guest-pet exception established for this unit. Resident host dog at M465 is not guest-pet permission.
+- Website (book here, directly with the host): https://bostonextendedstay.com/m325-copley-vacation-rental-on-the-park/
+
 ## Cottage Place on Squam Lake
 
 - ID: NH-0009
@@ -2679,6 +3784,74 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes (dogs; $5/day)
 - Website (book here, directly with the host): https://cowgerscabins.com
 
+## Cozy 2BR Fort Hill Apartment | Near the T
+
+- ID: MA-0702
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Two-bedroom Fort Hill apartment across three levels with a full kitchen and two bathrooms, near the T.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/67ae3db404abc100118fe877
+
+## Cozy 2BR near Harvard with Gym, Golf & Work Space
+
+- ID: MA-0801
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom corner apartment near Harvard Business School, with a kitchen, laundry and shared gym and workspace.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 5
+- Price: from 487 USD a night
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with no additional fee.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a627b1eb1cdbf0051b0df0f?minOccupancy=1&adults=1
+
+## Cozy 2BR near Harvard with Gym, Golf & Work Space
+
+- ID: MA-0815
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom, two-bathroom apartment near Harvard, with kitchen and shared gym, workspace and game room.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 5
+- Price: from 301 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a444eb21e71bb0016a29ef8?minOccupancy=1&adults=1
+
+## Cozy 5BR Jamaica Plain | Walk to T & Downtown
+
+- ID: MA-0713
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Five-bedroom Jamaica Plain apartment category with two full baths, a half bath and open kitchen and living areas.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2.5
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/67fd434a84c3790013bcb06f
+
 ## Cozy Cove Cabins
 
 - ID: ME-0052
@@ -2745,6 +3918,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Published policy: Unknown
 - Pet policy: Published policy: Yes
 - Website (book here, directly with the host): https://lisbon-falls-retreat.lazy.vacations/
+
+## Cozy South End Apartment — M365-2
+
+- ID: MA-1002
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: South End one-bedroom apartment with a kitchen, living room, shared laundry and a dog-friendly option near Copley Square.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published maximum 4 guests; unit sleeping layout checked.
+- Price: from 325 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: Official unit page, shared policies and inquiry reviewed; no unit-specific child eligibility/age policy published. Generic inquiry child fields are not an admission rule.
+- Pet policy: One dog welcome on this unit page; $100 pet fee for monthly rentals. Short-stay fee/other pets require confirmation.
+- Website (book here, directly with the host): https://bostonextendedstay.com/m365-2-boston-south-end-suite-vacation-rental/
+
+## Cozy Studio Near MIT and Harvard 0249
+
+- ID: MA-0805
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge studio accommodation near MIT and Harvard.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: 4
+- Price: from 499 USD a night
+- Children welcome: no
+- Pets welcome: yes
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with no additional fee.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a58171accab850013d43355?minOccupancy=1&adults=1
 
 ## Cranmore Condominiums
 
@@ -3242,6 +4449,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
 - Website (book here, directly with the host): https://mvyvacations.com/listing/edgartown-house/
 
+## Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5
+
+- ID: MA-1103
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Beacon Street suite with a king bed, queen sofa bed, bay-window views, kitchen and in-suite laundry, one floor above entry.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Conflict: structured header says two bedrooms; title and narrative describe one king bedroom plus queen sofa in living room. Retained Unknown. One floor above entry via stairs.
+- Price: Dates required for quote; no evergreen nightly price inferred.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.
+- Pet policy: Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.
+- Website (book here, directly with the host): https://www.symple.live/listings/516174
+
 ## Elliot's Escape/Bremen
 
 - ID: ME-0479
@@ -3288,6 +4512,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
 - Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
 - Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/1490680
+
+## Essential Boston Home, Near South End — Unit B
+
+- ID: MA-0709
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Four-bedroom Fort Hill Unit B with two bathrooms, a full kitchen and open living and dining space.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/67ad0dae54770d0012df9e36
 
 ## ESTATE HOUSE LIMIT 12
 
@@ -3576,21 +4817,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=119
 
-## Furnished Quarters
+## Front Row City Views: 1BR Suite with King Bed | Suite 3
 
-- ID: MA-0004
-- Town / area (approximate map location): Boston / Cambridge, MA
-- Type: Unknown
-- Description: Privately operated furnished Boston and Cambridge apartments for stays of one month or longer.
+- ID: MA-1110
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Parlor-level Beacon Street suite with a king bed, convertible sofa, bay-window streetscape views, kitchenette and laundry.
 - Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Multiple apartment sizes;operator facts not unit values.
-- Price: Monthly stays;minimum1month on MA landingpage.
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Parlor-level king bedroom plus full-size convertible sofa.
+- Price: Dates required for quote; no evergreen nightly price inferred.
 - Children welcome: Unknown
-- Pets welcome: Conditional; check unit policy
-- Pet policy: Pet-friendly apartments in some buildings; breed/weight restrictions, nonrefundable cleaning fee and advance arrangements apply.
-- Website (book here, directly with the host): https://www.furnishedquarters.com/
+- Pets welcome: yes
+- Children policy: Expanded individual Policy section lists long-term stays and Pets allowed; no child or infant suitability/restriction stated. Silence remains Unknown.
+- Pet policy: Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.
+- Website (book here, directly with the host): https://www.symple.live/listings/516171
 
 ## GAGE FARMHOUSE LIMIT 6
 
@@ -4606,6 +5848,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
 - Website (book here, directly with the host): https://mvyvacations.com/listing/katama-house/
 
+## Kendall and Central Square Condo near MIT Parking
+
+- ID: MA-0808
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge two-bedroom condo between Central and Kendall squares, with a full kitchen, laundry and shared gym.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog seven guests conflicts with general published limit of five for two-bedroom unless agreed with host.
+- Price: from 518 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: Not suitable for children ages 2–12 or infants under 2.
+- Pet policy: Pets allowed with additional fee; contact host for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6a5815c871a171000fc8d83e?minOccupancy=1&adults=1
+
 ## KENDALL COTTAGE LIMIT 6
 
 - ID: ME-0524
@@ -5556,11 +6815,45 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://lugdonlodge.com/
 
+## Lux 2BR w Gym Pool sleep 6 in Assembly Square
+
+- ID: MA-0825
+- Town / area (approximate map location): Somerville, MA
+- Type: Apartment
+- Description: Somerville Assembly Square two-bedroom apartment with full kitchen, laundry and access to shared pool and gym.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog/title six guests conflicts with general two-bedroom max five unless agreed. Pets no additional fee; quiet18:00–09:00. Exact address shared1–2days before arrival; current listed address is nearby partner hotel.
+- Price: from 329 USD a night
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with no additional fee.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/68f580687b1961002a8c15e9?minOccupancy=1&adults=1
+
+## Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square
+
+- ID: MA-0852
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge Central Square studio with two queen beds and access to shared fitness facilities near MIT and Harvard.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: 4
+- Price: from 398 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit current child policy verified.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670400d38db5e9006ab42960?minOccupancy=1&adults=1
+
 ## Luxo Executive Rentals
 
 - ID: MA-0020
 - Town / area (approximate map location): Worcester / Central Massachusetts, MA
-- Type: Unknown
+- Type: Apartment
 - Description: Furnished apartments and townhouses across Worcester,Westborough and Auburn for temporary stays.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -5571,6 +6864,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Pet policy: Portfolio-wide policy Unknown; selected Westborough Unit 2 allows pets.
 - Website (book here, directly with the host): https://luxoexecutiverentals.com/
+
+## Luxury 1BR: Sleek Kitchen + City Charm | Suite 2
+
+- ID: MA-1108
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Beacon Street one-bedroom suite with a king bed, convertible sofa, kitchenette and laundry, one flight below the main lobby.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: King bedroom and living room with convertible full-size sofa; one flight below lobby, parking entrance level.
+- Price: Dates required for quote; no evergreen nightly price inferred.
+- Children welcome: Unknown
+- Pets welcome: yes
+- Children policy: Expanded individual Policy section lists long-term stays and Pets allowed; no child or infant suitability/restriction stated. Silence remains Unknown.
+- Pet policy: Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.
+- Website (book here, directly with the host): https://www.symple.live/listings/516175
+
+## Luxury Apartment w King Bed, Shared Pool & Rooftop
+
+- ID: MA-0837
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge two-bedroom apartment with a full kitchen, balcony, laundry and access to a shared pool, rooftop and gym.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog seven guests conflicts with general two-bedroom max five unless agreed. Shared building pool and rooftop are not private unit amenities.
+- Price: from 619 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670403664d5fe800103b8d56?minOccupancy=1&adults=1
+
+## Luxury Studio with King bed Gym near MIT Harvard in Central Square!
+
+- ID: MA-0853
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge Central Square studio with a king bed and shared gym access near MIT and Harvard.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Studio title versus one-bedroom features; bedroom count held Unknown. Catalog four guests conflicts with general one-bedroom max three unless agreed. Confirm capacity.
+- Price: from 391 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670400bc7df725001256fe61?minOccupancy=1&adults=1
 
 ## Macannamac Camps
 
@@ -6915,6 +8259,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/on-par-for-the-beach/
 
+## Open-Concept 5BR Condo | Jamaica Plain & T Walk
+
+- ID: MA-0704
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Five-bedroom Jamaica Plain condo with two full baths, a half bath and an open kitchen and living area.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2.5
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/640bb1ea252d270038eb9eeb
+
 ## OSSIPEE WOOD 2 LIMIT 4
 
 - ID: ME-0577
@@ -7380,6 +8741,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=302
 
+## Pool View Central Condo Assembly Row W/D Gym & Pool Sleep 5
+
+- ID: MA-0824
+- Town / area (approximate map location): Somerville, MA
+- Type: Apartment
+- Description: Somerville Assembly Row one-bedroom condo with full kitchen, laundry and access to shared pool and gym.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Catalog/title sleep five conflicts with generic one-bedroom max three unless agreed. Exact address shared 1–2 days before check-in.
+- Price: from 222 USD a night
+- Children welcome: no
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules not suitable for children ages 2–12 or infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/68f5806e7b1961002a8c177c?minOccupancy=1&adults=1
+
 ## Powder Hill Farm Cottage
 
 - ID: ME-0135
@@ -7529,6 +8907,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Official site explicitly offers family holidays and children's activities.
 - Website (book here, directly with the host): https://quimbycountry.com/
+
+## Radian — Apartment ID 2947
+
+- ID: MA-0932
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 189 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/120-Kingston-Street-2947
+
+## Radian — Apartment ID 5934
+
+- ID: MA-0921
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 209 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/120-Kingston-Street-5934
+
+## Radian — Apartment ID 7126
+
+- ID: MA-0920
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 289 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/120-Kingston-Street-7126
 
 ## Rangeley Lake Resort
 
@@ -8588,6 +10017,91 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://serenecountrycabins.com/
 
+## Serenity Suite Homes — Beacon Hill Suite #1
+
+- ID: MA-1202
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Beacon Hill 2-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: The own Rooms accordion publishes2 bedrooms; maximum occupancy is not specified. Bathroom conflict: catalog says1 bath, while Rooms says2BD/2BA and describes two bathrooms. No correction is stated; normalized bathrooms Unknown.
+- Price: from 5500 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.
+- Pet policy: No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.
+- Website (book here, directly with the host): https://www.serenitysuitehomes.com/bh-suite-1
+
+## Serenity Suite Homes — Beacon Hill Suite #2
+
+- ID: MA-1203
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Own Rooms accordion publishes the bedroom count. Maximum occupancy is not specified; bed and dining-chair counts are not treated as guest capacity.
+- Price: from 4500 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.
+- Pet policy: No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.
+- Website (book here, directly with the host): https://www.serenitysuitehomes.com/bh-suite-2
+
+## Serenity Suite Homes — Beacon Hill Suite #3
+
+- ID: MA-1204
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Own Rooms accordion publishes the bedroom count. Maximum occupancy is not specified; bed and dining-chair counts are not treated as guest capacity.
+- Price: from 4500 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.
+- Pet policy: No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.
+- Website (book here, directly with the host): https://www.serenitysuitehomes.com/bh-suite-3
+
+## Serenity Suite Homes — Beacon Hill Suite #4
+
+- ID: MA-1205
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Own Rooms accordion publishes the bedroom count. Maximum occupancy is not specified; bed and dining-chair counts are not treated as guest capacity.
+- Price: from 4500 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No child-admission policy found in expanded Reservations, Rooms, Amenities, Neighborhood or Contact pages.
+- Pet policy: No pet-admission policy found. Contact form asks inquirers to mention pets; this does not establish that pets are allowed.
+- Website (book here, directly with the host): https://www.serenitysuitehomes.com/bh-suite-4
+
+## Serenity Suite Homes — East Boston Suite #1
+
+- ID: MA-1201
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: East Boston two-bedroom apartment with full kitchen, media room, workspace and self check-in.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Direct Lodgify details publish 6 guests, 2 bedrooms and 1 bathroom.
+- Price: No date-specific rate requested. Own page advertises a USD25 direct booking discount using code25OFF.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Own direct Lodgify details state Children are welcome. The 18+ reservation requirement applies to the booker.
+- Pet policy: Own direct Lodgify details state Pets not allowed.
+- Website (book here, directly with the host): https://www.serenitysuitehomes.com/ebsuite-1
+
 ## Sharon Thoner Maine Rentals
 
 - ID: ME-0150
@@ -8607,7 +10121,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 
 - ID: MA-0303
 - Town / area (approximate map location): Shelburne Falls, MA
-- Type: Unknown
+- Type: Apartment
 - Description: Three vacation apartments in a restored Shelburne Falls firehouse, within walking distance of downtown shops and dining.
 - Rooms: Unknown
 - Bedrooms: Unknown
@@ -8698,6 +10212,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: we have decided to not allow any pets in the guest rooms. Resident dogAugustus keptoutof guest rooms; doesnotpermitguestpets
 - Website (book here, directly with the host): https://www.sisuplymouth.com/
 
+## Sleek Boston Condo, near South End
+
+- ID: MA-0708
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: One-bedroom Fort Hill condo with a full kitchen and open living area, a short walk from the T.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/670ebb96c55e5e0012a5448c
+
 ## Snowball Hill Cottage
 
 - ID: ME-0185
@@ -8727,6 +10258,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://songbirdstudiovt.lovable.app/
+
+## Spacious & Renovated 6BR | Near T + Parking
+
+- ID: MA-0723
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Six-bedroom Dorchester apartment across two levels with four full baths, a half bath, private deck and parking.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 4.5
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/6486f3204053760061e3b87b
 
 ## Spacious Coastal Townhome | Deck & Parking
 
@@ -9049,6 +10597,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pet Policy - Pets are not allowed
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony
 
+## Stylish, Comfortable Luxury | Near T
+
+- ID: MA-0710
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Three-bedroom Fort Hill apartment with one-and-a-half baths, a full kitchen and open living and dining space.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Per named booking unit/category only; no operator-wide totals.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/59b2f0e9a84a7c04003b9635
+
 ## SUNNY BREAK- LIMIT 4
 
 - ID: ME-0553
@@ -9259,6 +10824,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — marketed for families
 - Website (book here, directly with the host): https://tapleyfarm.com
 
+## Tasteful & Luminous Refuge | Near T
+
+- ID: MA-0711
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Renovated four-bedroom Boston duplex with a chef’s kitchen, washer and dryer, and furnished outdoor patio.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Header twelve guests conflicts with The Space thirteen; confirm current permitted occupancy.
+- Price: Date-specific quote examples on catalog; no evergreen rate inferred.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
+- Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
+- Website (book here, directly with the host): https://stayheirloom.com/listing/6077e0fe772e05003005345d
+
 ## Teel Cove Cottage
 
 - ID: ME-0217
@@ -9337,6 +10919,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://book.birchrentals.com/listings/230724
 
+## The Benjamin — Apartment ID 6350
+
+- ID: MA-0907
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 259 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/25-Northern-Avenue-6350
+
+## The Benjamin — Apartment ID 6597
+
+- ID: MA-0901
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 339 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/25-Northern-Avenue-6597
+
 ## The Blueberry House
 
 - ID: ME-0203
@@ -9351,23 +10967,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://blueberryhousemaine.com
-
-## The Boston Christopher
-
-- ID: MA-0406
-- Town / area (approximate map location): Boston, MA
-- Type: Apartment
-- Description: Furnished vacation studios and one-bedroom apartments in Boston’s South End, with kitchens, laundry access and a shared roof deck.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Operatorrecord. StudioSuite typesleeps2 inopenqueenbedspace; not operator-wide occupancy.
-- Price: No dated quote requested.
-- Children welcome: yes
-- Pets welcome: no
-- Children policy: Expanded Travelingwithfamily FAQ welcomesfamilies; room-type and walk-up limitations vary.
-- Pet policy: Expanded Travelingwithdog FAQ says these properties are not petfriendly; another building’s policy not transferred.
-- Website (book here, directly with the host): https://bostonchristopher.com/
 
 ## The Bray Hill House
 
@@ -9534,6 +11133,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Suitable for children
 - Pet policy: Pets allowed; full restrictions not checked
 - Website (book here, directly with the host): https://dmtravelvibes.holidayfuture.com/listings/415400
+
+## The Devonshire — Apartment ID 5854
+
+- ID: MA-0919
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 179 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found. Children’s playroom listed as sharedbuildingamenity; no age rule stated.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/One-Devonshire-Place-5854
 
 ## The Eggemoggin Reach Inn
 
@@ -10098,6 +11714,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — cabins marketed to families
 - Website (book here, directly with the host): https://tamaracksmaine.com/
 
+## The Towers at Longfellow 1 — Apartment ID 2515
+
+- ID: MA-0918
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found. Children’s playroom listed as sharedbuildingamenity; no age rule stated.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1-Longfellow-Place-2515
+
+## The Towers at Longfellow 1 — Apartment ID 5005
+
+- ID: MA-0912
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found. Children’s playroom listed as sharedbuildingamenity; no age rule stated.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1-Longfellow-Place-5005
+
+## The Towers at Longfellow 4 — Apartment ID 5531
+
+- ID: MA-0940
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 249 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found. Children’s playroom listed as sharedbuildingamenity; no age rule stated.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/4-Longfellow-Place-5531
+
 ## The Trail in Adams
 
 - ID: MA-0301
@@ -10115,6 +11782,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No published pet policy found in checked home, room and initial booking pages.
 - Website (book here, directly with the host): https://www.thetrailinadams.com/
 
+## The Urban Hideout Loft: Sleeps 4 | Private Entrance
+
+- ID: MA-1101
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Garden-level Beacon Street loft with a private entrance, king bed, queen sofa bed, kitchenette and in-suite laundry.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Garden-level open loft with king bed and privacy curtains plus queen convertible sofa; no enclosed-bedroom count established.
+- Price: Dates required for quote; no evergreen nightly price inferred.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.
+- Pet policy: Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.
+- Website (book here, directly with the host): https://www.symple.live/listings/516170
+
 ## The Vermont Treehouse
 
 - ID: VT-0059
@@ -10129,6 +11813,142 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.thevermonttreehouse.com/
+
+## The Viridian — Apartment ID 1721
+
+- ID: MA-0937
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 329 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-1721
+
+## The Viridian — Apartment ID 2771
+
+- ID: MA-0923
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 239 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-2771
+
+## The Viridian — Apartment ID 4713
+
+- ID: MA-0926
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-4713
+
+## The Viridian — Apartment ID 4938
+
+- ID: MA-0949
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 209 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-4938
+
+## The Viridian — Apartment ID 6657
+
+- ID: MA-0947
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 209 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-6657
+
+## The Viridian — Apartment ID 7797
+
+- ID: MA-0942
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 209 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-7797
+
+## The Viridian — Apartment ID 7854
+
+- ID: MA-0910
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 229 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-7854
+
+## The Viridian — Apartment ID 9420
+
+- ID: MA-0917
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 239 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-9420
 
 ## The Whately Inn
 
@@ -10176,6 +11996,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.thewoodsmaine.com/
+
+## Third Square Apartments 285 — Apartment ID 2063
+
+- ID: MA-0914
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 269 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found. Children’s playroom listed as sharedbuildingamenity; no age rule stated.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/285-Third-Street-2063
+
+## Third Square Apartments 285 — Apartment ID 2272
+
+- ID: MA-0929
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found. Children’s playroom listed as sharedbuildingamenity; no age rule stated.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/285-Third-Street-2272
+
+## Third Square Apartments 285 — Apartment ID 3006
+
+- ID: MA-0904
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found. Children’s playroom listed as sharedbuildingamenity; no age rule stated.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/285-Third-Street-3006
 
 ## Thistledown Farm
 
@@ -10445,6 +12316,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=105
 
+## Trendy 2BR Plus Family Getaway | Suite 4
+
+- ID: MA-1107
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Parlor-level Beacon Street suite with king and queen bedrooms, a sofa bed, kitchenette and in-suite laundry.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Parlor-level king and queen bedrooms plus convertible queen sofa; header occupancy5.
+- Price: Dates required for quote; no evergreen nightly price inferred.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Expanded unit amenities Policy explicitly: Suitable for children; Suitable for infants. No age restriction published.
+- Pet policy: Expanded unit amenities Policy explicitly: Pets allowed. No count, size, approval or fee published.
+- Website (book here, directly with the host): https://www.symple.live/listings/516172
+
 ## Trexler Cottage/Damariscotta
 
 - ID: ME-0460
@@ -10559,6 +12447,108 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://upnorthcabins.com/
 
+## Upscale 1 BR Penthouse with Balcony in Boston Theater District near MGH & TUFTS & Boston Common! Sleeps 5!
+
+- ID: MA-0830
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston Theater District one-bedroom penthouse with a balcony, full kitchen, workspace and shared gym access.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Capacity conflict: title and description sleep five; catalog six guests. Confirm current capacity with operator.
+- Price: from 329 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6806e7e936a81400130e97ee?minOccupancy=1&adults=1
+
+## Upscale 1BR MIT Harvard WiFi Gym W D Parking!
+
+- ID: MA-0848
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge one-bedroom apartment near MIT and Harvard with a workspace, laundry and shared gym access.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Catalog five guests conflicts with generic one-bedroom max three unless agreed. Confirm occupancy limit with host.
+- Price: from 599 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6704011bfad97f00122a330b?minOccupancy=1&adults=1
+
+## Upscale 1BR near MIT Harvard with Parking!
+
+- ID: MA-0847
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge one-bedroom apartment near MIT and Harvard with a workspace and access to shared fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 5
+- Price: from 599 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670401242f8df80010c467fd?minOccupancy=1&adults=1
+
+## Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!
+
+- ID: MA-0828
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston penthouse near Boston Common with a full kitchen, two bathrooms, workspace and shared fitness facilities.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 2
+- Sleeps: Conflicts: title four bedrooms/sleeps ten; catalog/features three bedrooms/eight guests; generic capacity rule caps three-bedroom at seven unless agreed. Hold bedroom and guest counts Unknown.
+- Price: from 710 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/68070de836a81400130f45b3?minOccupancy=1&adults=1
+
+## Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!
+
+- ID: MA-0831
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston two-bedroom condo near Boston Common with full kitchen, laundry, workspace and shared gym facilities.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Catalog six guests conflicts with generic two-bedroom max five unless agreed. Exact rental entrance not published on checked detail/Contact/Terms.
+- Price: from 599 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/6806e7d7627f4b00125824d9?minOccupancy=1&adults=1
+
+## Upscale Penthouse near MIT & Harvard in Central Square!
+
+- ID: MA-0841
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: Cambridge Central Square one-bedroom penthouse with a workspace and access to shared terrace and fitness facilities.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Catalog five guests conflicts with generic one-bedroom max three unless agreed. No exact street disclosed on property/Contact/Terms.
+- Price: from 329 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: House rules suitable for children ages 2–12 and infants under 2.
+- Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
+- Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/67040194b485c600109b6b80?minOccupancy=1&adults=1
+
 ## UPTA CAMP LIMIT 8
 
 - ID: ME-0543
@@ -10619,6 +12609,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://vermontvacation-rentals.com/
+
+## VIA — Apartment ID 1041
+
+- ID: MA-0906
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/5-Fan-Pier-Boulevard-1041
 
 ## View Point — Michelle Sylvia Coastal Collection
 
@@ -10805,6 +12812,142 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Families or child amenities explicitly mentioned on own-unit page.
 - Pet policy: Pet Fee = $75/pet (Dogs are welcome, and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will result in a $50 clean-up fee.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex
+
+## Watermark Kendall West — Apartment ID 1623
+
+- ID: MA-0936
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-1623
+
+## Watermark Kendall West — Apartment ID 3365
+
+- ID: MA-0927
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-3365
+
+## Watermark Kendall West — Apartment ID 4548
+
+- ID: MA-0903
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-4548
+
+## Watermark Kendall West — Apartment ID 5605
+
+- ID: MA-0902
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 269 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-5605
+
+## Watermark Kendall West — Apartment ID 9019
+
+- ID: MA-0911
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-9019
+
+## Watermark Kendall West — Apartment ID 9785
+
+- ID: MA-0928
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 219 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-9785
+
+## Watermark Kendall West — Apartment ID 9845
+
+- ID: MA-0941
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 2-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 249 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-9845
+
+## Watermark Kendall West — Apartment ID 9893
+
+- ID: MA-0945
+- Town / area (approximate map location): Cambridge, MA
+- Type: Apartment
+- Description: 1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Price: from 189 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit staying-child/infant age policy found.
+- Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-9893
 
 ## Webhannet by the Sea
 

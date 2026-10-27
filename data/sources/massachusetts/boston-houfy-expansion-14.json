@@ -1,0 +1,815 @@
+{
+  "checkedOn": "2026-10-26",
+  "source": "Houfy Boston",
+  "status": "Catalog pagination reviewed; own-site reverse verification partially reviewed",
+  "entryUrl": "https://www.houfy.com/d/boston-massachusetts",
+  "landingCount": 35,
+  "landingCountNotes": "Curated page contains35 lodging links; no numeric total. Load More belongs GetYourGuide activities, not lodging. Includes MA statewide and Hampton NH spillover.",
+  "searchUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+  "pages": [
+    {
+      "url": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "count": 24,
+      "nextPageObserved": true
+    },
+    {
+      "url": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "count": 24,
+      "nextPageObserved": true
+    },
+    {
+      "url": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=3",
+      "count": 2,
+      "nextPageObserved": false
+    }
+  ],
+  "searchCount": 50,
+  "uniqueSourceLeadCount": 61,
+  "uniqueSourceLeadCountNotes": "Union of50 search detail IDs and11 additional curated landing IDs; source IDs are not physical-unit counts. Casa Castor has two ID sets for the same numbered room names; not inflated.",
+  "operatorCatalogs": [
+    {
+      "operator": "SympleLive",
+      "sourceDetailId": "456655",
+      "query": "SympleLive Boston Beacon Street official website",
+      "openedUrls": [
+        "https://www.symple.live/",
+        "https://www.symple.live/all-listings"
+      ],
+      "exposedCount": 10,
+      "countEvidence": "All(10) on fully hydrated own All listings page. All10 distinct advertised suites opened.",
+      "limitations": [
+        "Own published Contact routes404; official footer phone/address and published booking-host footer email used after checking failures.",
+        "Suite5/7/9 structured2BR vs1BR+sofa narrative conflict retained Unknown.",
+        "Official galleries reuse images among Suites6/8/10 and5/7/9; photos labeled operator-published representative imagery for those numbered suites.",
+        "Four numbered suites remain publication held for exact photo scope: MA-1102, MA-1104, MA-1105, MA-1109. Suites5/7 use only verified shared exterior/staircase/landing views; private interiors quarantined."
+      ],
+      "records": [
+        "MA-1101",
+        "MA-1102",
+        "MA-1103",
+        "MA-1104",
+        "MA-1105",
+        "MA-1106",
+        "MA-1107",
+        "MA-1108",
+        "MA-1109",
+        "MA-1110"
+      ]
+    },
+    {
+      "operator": "Serenity Suite Homes",
+      "status": "Handed to agent01 for separate verification; no completed batch14 records",
+      "discoveryUrl": "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+      "query": "Serenity Suite Homes Boston official",
+      "catalogUrl": "https://www.serenitysuitehomes.com/rentals",
+      "contactUrl": "https://www.serenitysuitehomes.com/contact-us",
+      "openedUrls": [
+        "https://www.serenitysuitehomes.com/",
+        "https://www.serenitysuitehomes.com/rentals",
+        "https://www.serenitysuitehomes.com/contact-us",
+        "https://www.serenitysuitehomes.com/ebsuite-1",
+        "https://www.serenitysuitehomes.com/bh-suite-1"
+      ],
+      "exposedCount": 6,
+      "massachusettsCount": 5,
+      "units": [
+        {
+          "url": "https://www.serenitysuitehomes.com/ebsuite-1",
+          "name": "East Boston Suite #1",
+          "scope": "2BR1BA short stays under29days; direct Lodgify524107, six adults ownpage",
+          "status": "Detail opened; remaining policies/photos to agent01"
+        },
+        {
+          "url": "https://www.serenitysuitehomes.com/bh-suite-1",
+          "name": "Beacon Hill Suite #1",
+          "scope": "2BR1BA30nightminimum",
+          "status": "Detail loaded after navigation timeout; review to agent01"
+        },
+        {
+          "url": "https://www.serenitysuitehomes.com/bh-suite-2",
+          "name": "Beacon Hill Suite #2",
+          "scope": "1BR1BA30nightminimum",
+          "status": "Catalog link, detail pending agent01"
+        },
+        {
+          "url": "https://www.serenitysuitehomes.com/bh-suite-3",
+          "name": "Beacon Hill Suite #3",
+          "scope": "1BR1BA30nightminimum",
+          "status": "Catalog link, detail pending agent01"
+        },
+        {
+          "url": "https://www.serenitysuitehomes.com/bh-suite-4",
+          "name": "Beacon Hill Suite #4",
+          "scope": "1BR1BA30nightminimum",
+          "status": "Catalog link, detail pending agent01"
+        },
+        {
+          "url": "https://www.serenitysuitehomes.com/ri-suite-1",
+          "name": "North Providence Suite #1",
+          "scope": "2BR1BA; catalog says only available one-year lease",
+          "status": "Outside Massachusetts; annual-lease-only discovery exclusion, no MA record"
+        }
+      ],
+      "contactEvidence": "Own Contact form opened. No postal address published; footer labels veteran/woman owned. Footer About anchor tel6174609408. Do not use Google160SaratogaSt as official rental street."
+    }
+  ],
+  "leads": [
+    {
+      "sourceId": "168581",
+      "name": "Studio in Heart of Beacon Hill (Downtown Boston)",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/studio-in-heart-of-beacon-hill-downtown-boston/168581",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Candidate: focused exact-name reverse search and Justin Houfy profile did not establish operator-controlled own website. Search returned aggregators/Houfy/Airbnb; no new approved record.",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "openedUrls": [
+        "https://www.houfy.com/justin7674/home",
+        "https://www.houfy.com/lodging/studio-in-heart-of-beacon-hill-downtown-boston/168581"
+      ],
+      "queries": [
+        "\"Studio in Heart of Beacon Hill (Downtown Boston)\" Boston direct booking website"
+      ]
+    },
+    {
+      "sourceId": "271205",
+      "name": "Charming Beacon Hill 1bd in Brownstone",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/charming-beacon-hill-1bd-in-brownstone/271205",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Candidate: focused exact-name reverse search and Justin Houfy profile did not establish operator-controlled own website. Search returned aggregators/Houfy/Airbnb; no new approved record.",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "openedUrls": [
+        "https://www.houfy.com/justin7674/home"
+      ],
+      "queries": [
+        "\"Charming Beacon Hill 1bd in Brownstone\" direct booking"
+      ]
+    },
+    {
+      "sourceId": "10209",
+      "name": "Superhost: King Beds! Kid Friendly. You're Home.",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/superhost-king-beds-kid-friendly-you-re-home/10209",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Candidate: focused name query returned Houfy/Airbnb/aggregators; no operator own website established",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "queries": [
+        "\"Superhost\" \"King Beds\" \"Kid Friendly\" Boston direct booking"
+      ]
+    },
+    {
+      "sourceId": "325650",
+      "name": "Serenity Suite Homes",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/serenity-suite-homes/325650",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Own operator found; five Boston-unit catalog handed to agent01 for separate verification; no completed batch14 record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "operator": "Serenity Suite Homes",
+      "ownWebsite": "https://www.serenitysuitehomes.com/",
+      "queries": [
+        "Serenity Suite Homes Boston official"
+      ]
+    },
+    {
+      "sourceId": "125002",
+      "name": "Lovely Two Bedroom Condo in South Boston",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/lovely-two-bedroom-condo-in-south-boston/125002",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0504"
+    },
+    {
+      "sourceId": "464228",
+      "name": "Clean and convenient w/patio! Walk to Boston highlights!",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/clean-and-convenient-w-patio-walk-to-boston-highlights/464228",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Candidate: focused name query returned Houfy and aggregators; no operator own website established",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "queries": [
+        "\"Clean and convenient\" \"patio\" \"Boston\" vacation rental direct"
+      ]
+    },
+    {
+      "sourceId": "468012",
+      "name": "2BR Sleeps6 Near Sullivan Sq T Boston",
+      "town": "Somerville",
+      "listingUrl": "https://www.houfy.com/lodging/2br-sleeps-6-near-sullivan-sq-t-boston/468012",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "456663",
+      "name": "Modern Luxury 2BR King+Queen Suite8",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/modern-luxury-2br-or-king-%2B-queen-or-suite-8/456663",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1104",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456662",
+      "name": "Family Cove Quiet Modern2bed Suite10",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/family-cove%3A-quiet-and-modern-2-bed-or-suite-10/456662",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1105",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456661",
+      "name": "Sleek Modern2Bed King+Queen Suite6",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/sleek-modern-2-bed%3A-king-%2B-queen-or-suite-6/456661",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1102",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456659",
+      "name": "Elegant1BR Plus Cityscape Views Suite5",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/elegant-1br-plus%3A-cityscape-views-%2B-king-and-pull-out-queenor-suite-5/456659",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1103",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456656",
+      "name": "Front Row City Views 1BR King Suite3",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/front-row-city-views%3A-1br-suite-with-king-bed-or-suite-3/456656",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1110",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456655",
+      "name": "The Urban Hideout Loft Sleeps4 Private Entrance",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/the-urban-hideout-loft%3A-sleeps-4-or-private-entrance/456655",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1101",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456664",
+      "name": "Elegant1BR Plus SkyHighCityViews Suite9",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/elegant-1br-plus%3A-sky-high-city-views-%2B-king-or-suite-9/456664",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1109",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456657",
+      "name": "Trendy2BR Plus FamilyGetaway Suite4",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/trendy-2br-plus-family-getaway-or-suite-4/456657",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1107",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456658",
+      "name": "Cityscape1BR Plus King+QueenPullout Suite7",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/cityscape-1br-plus%3A-king-%2B-queen-pull-out-or-suite-7/456658",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1106",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "456660",
+      "name": "Luxury1BR SleekKitchen CityCharm Suite2",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/luxury-1br%3A-sleek-kitchen-%2B-city-charm-or-suite-2/456660",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Operator-controlled own website verified; distinct advertised numbered suite/open loft",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "recordId": "MA-1108",
+      "operator": "SympleLive"
+    },
+    {
+      "sourceId": "248199",
+      "name": "Casa Castor PrivateRoom3",
+      "town": "Chelsea",
+      "listingUrl": "https://www.houfy.com/lodging/casa-castor-o-private-room-3/248199",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "248197",
+      "name": "Casa Castor PrivateRoom1",
+      "town": "Chelsea",
+      "listingUrl": "https://www.houfy.com/lodging/casa-castor-o-private-room-1/248197",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "248198",
+      "name": "Casa Castor PrivateRoom2",
+      "town": "Chelsea",
+      "listingUrl": "https://www.houfy.com/lodging/casa-castor-o-private-room-2/248198",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "464027",
+      "name": "Casa Castor PrivateRoom1",
+      "town": "Chelsea",
+      "listingUrl": "https://www.houfy.com/lodging/casa-castor-*-private-room-1/464027",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "464028",
+      "name": "Casa Castor PrivateRoom2",
+      "town": "Chelsea",
+      "listingUrl": "https://www.houfy.com/lodging/casa-castor-*-private-room-2/464028",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "464029",
+      "name": "Casa Castor PrivateRoom3",
+      "town": "Chelsea",
+      "listingUrl": "https://www.houfy.com/lodging/casa-castor-*-private-room-3/464029",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "125006",
+      "name": "Boston Historical Urban Oasis",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/boston-historical-urban-oasis/125006",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0508"
+    },
+    {
+      "sourceId": "101094",
+      "name": "Luxurious House Harvard/PorterT5BR4Bath Parking",
+      "town": "Somerville",
+      "listingUrl": "https://www.houfy.com/lodging/luxurious-house-harvard-portert-5br-4bath-parking/101094",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "467870",
+      "name": "3BR Retreat Sleeps8 CoolidgeCornerT",
+      "town": "Brookline",
+      "listingUrl": "https://www.houfy.com/lodging/3br-retreat-sleeps-8-coolidge-corner-t/467870",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "6130",
+      "name": "Boston's Jamaica Plain parking A/C laundry",
+      "town": "Boston",
+      "listingUrl": "https://www.houfy.com/lodging/boston-s-jamaica-plain-w-parking-a-c-laundry/6130",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "467860",
+      "name": "Spectacular Oceanfront1BedroomUnit in Winthrop",
+      "town": "Winthrop",
+      "listingUrl": "https://www.houfy.com/lodging/spectacular-oceanfront-1-bedroom-unit-in-winthrop/467860",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "312420",
+      "name": "Cambridge Studio Apartment",
+      "town": "Cambridge",
+      "listingUrl": "https://www.houfy.com/lodging/cambridge-studio-apartment/312420",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Boston/metro own-site reverse lookup pending",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "125001",
+      "name": "Modern Three Bedroom Condo Near Boston",
+      "town": "Stoneham",
+      "listingUrl": "https://www.houfy.com/lodging/modern-three-bedroom-condo-near-boston/125001",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0503"
+    },
+    {
+      "sourceId": "125004",
+      "name": "Queen Bed Boston RM3",
+      "town": "Stoneham",
+      "listingUrl": "https://www.houfy.com/lodging/queen-bed-orbostonorrm-3/125004",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0501"
+    },
+    {
+      "sourceId": "125005",
+      "name": "TwinXL Bed Boston RM1",
+      "town": "Stoneham",
+      "listingUrl": "https://www.houfy.com/lodging/twin-xl-bedorbostonorrm-1/125005",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0510"
+    },
+    {
+      "sourceId": "125003",
+      "name": "QueenBed Boston RM2",
+      "town": "Stoneham",
+      "listingUrl": "https://www.houfy.com/lodging/queen-bed-orbostonorrm-2/125003",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0507"
+    },
+    {
+      "sourceId": "125010",
+      "name": "Enchanting Hidden Door Escape",
+      "town": "Stoneham",
+      "listingUrl": "https://www.houfy.com/lodging/enchanting-hidden-door-escape/125010",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0511"
+    },
+    {
+      "sourceId": "125013",
+      "name": "Coastal Charm LobsterChateau",
+      "town": "Swampscott",
+      "listingUrl": "https://www.houfy.com/lodging/coastal-charm%3A-lobster-chateau/125013",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0513"
+    },
+    {
+      "sourceId": "89926",
+      "name": "Yachtsman Suite",
+      "town": "Marblehead",
+      "listingUrl": "https://www.houfy.com/lodging/yachtsman-suite/89926",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "90040",
+      "name": "Sea Bird Suite",
+      "town": "Marblehead",
+      "listingUrl": "https://www.houfy.com/lodging/sea-bird-suite/90040",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "98071",
+      "name": "The Sailor's Retreat",
+      "town": "Marblehead",
+      "listingUrl": "https://www.houfy.com/lodging/the-sailor%27s-retreat/98071",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "463189",
+      "name": "Turnkey furnished luxury RV getaway in New England",
+      "town": "Danvers",
+      "listingUrl": "https://www.houfy.com/lodging/turnkey-furnished-luxury-rv-getaway-in-new-england/463189",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "159455",
+      "name": "Lakeview Getaway with HotTub",
+      "town": "Billerica",
+      "listingUrl": "https://www.houfy.com/lodging/lakeview-getaway-with-hot-tub/159455",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0514"
+    },
+    {
+      "sourceId": "125007",
+      "name": "LakeAccess4Bed3Bath HotTub",
+      "town": "Billerica",
+      "listingUrl": "https://www.houfy.com/lodging/lake-access-4-bed-3-bath-hot-tub/125007",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Known WAZE same-unit alias; no new inventory record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence.",
+      "duplicateOf": "MA-0505"
+    },
+    {
+      "sourceId": "311607",
+      "name": "Carriage House",
+      "town": "Sharon",
+      "listingUrl": "https://www.houfy.com/lodging/carriage-house/311607",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "116352",
+      "name": "Oceanside FamilyFriendly Oceanfront Home",
+      "town": "Scituate",
+      "listingUrl": "https://www.houfy.com/lodging/oceanside-family-friendly-oceanfront-home/116352",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "456725",
+      "name": "CedarPoint lighthouse Oceanview",
+      "town": "Scituate",
+      "listingUrl": "https://www.houfy.com/lodging/cedar-point-lighthouse-oceanview-ocean-across-st/456725",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "333658",
+      "name": "The Spot",
+      "town": "Lawrence",
+      "listingUrl": "https://www.houfy.com/lodging/the-spot/333658",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "465583",
+      "name": "The Egret's Nest",
+      "town": "Marshfield",
+      "listingUrl": "https://www.houfy.com/lodging/the-egrets-nest/465583",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "439861",
+      "name": "Quirky Bright Spacious PrivateRoom Near Water",
+      "town": "Gloucester",
+      "listingUrl": "https://www.houfy.com/lodging/quirky-bright-spacious-private-room-near-water/439861",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "327080",
+      "name": "Calder2",
+      "town": "Gloucester",
+      "listingUrl": "https://www.houfy.com/lodging/calder-2/327080",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=2",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "327082",
+      "name": "Calder1",
+      "town": "Gloucester",
+      "listingUrl": "https://www.houfy.com/lodging/calder-1/327082",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=3",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "194458",
+      "name": "BeachBridge",
+      "town": "Gloucester",
+      "listingUrl": "https://www.houfy.com/lodging/beach-bridge/194458",
+      "discoveryUrl": "https://www.houfy.com/search/Boston--Massachusetts--United-States?page=3",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "13505",
+      "name": "SandCastleDrive Oceanfront PrivateBeach",
+      "town": "Sandwich",
+      "listingUrl": "https://www.houfy.com/lodging/sand-castle-drive-oceanfront-with-private-beach/13505",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "64696",
+      "name": "Oceanfront Penthouse Salisbury",
+      "town": "Salisbury",
+      "listingUrl": "https://www.houfy.com/lodging/oceanfront-penthouse-salisbury/64696",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "56520",
+      "name": "The SeaTurtle AshworthPlace",
+      "town": "Hampton NH",
+      "listingUrl": "https://www.houfy.com/lodging/the-seaturtle-ashworth-place/56520",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: New Hampshire; outside Massachusetts pass, no new MA record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "64449",
+      "name": "Lovely WestEnd WaterViews Spacious",
+      "town": "Provincetown",
+      "listingUrl": "https://www.houfy.com/lodging/lovely-west-end-water-views-spacious/64449",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "15878",
+      "name": "Warm Sunny AllYearRound ComeVisit",
+      "town": "Fairhaven",
+      "listingUrl": "https://www.houfy.com/lodging/warm-sunny-all-year-round-come-visit/15878",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "97165",
+      "name": "Beachfront Pool Hottub Sauna PanoramicViews",
+      "town": "Somerset",
+      "listingUrl": "https://www.houfy.com/lodging/beachfront-pool-hottub-sauna-panoramic-views/97165",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "13736",
+      "name": "BigSurf",
+      "town": "Hampton NH",
+      "listingUrl": "https://www.houfy.com/lodging/big-surf/13736",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: New Hampshire; outside Massachusetts pass, no new MA record",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "58793",
+      "name": "Decks2Sea",
+      "town": "Plymouth",
+      "listingUrl": "https://www.houfy.com/lodging/decks2sea/58793",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "90060",
+      "name": "Rockport SailLoft2Bed1Bath OceanfrontHaven",
+      "town": "Rockport",
+      "listingUrl": "https://www.houfy.com/lodging/rockport-sail-loft-2-bed-1-bath-oceanfront-haven/90060",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "326943",
+      "name": "The Captain's Quarters",
+      "town": "Rockport",
+      "listingUrl": "https://www.houfy.com/lodging/the-captain%27s-quarters/326943",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    },
+    {
+      "sourceId": "455689",
+      "name": "SeasTheDay",
+      "town": "Wareham",
+      "listingUrl": "https://www.houfy.com/lodging/seas-the-day/455689",
+      "discoveryUrl": "https://www.houfy.com/d/boston-massachusetts",
+      "checkedOn": "2026-10-26",
+      "outcome": "Geographic spillover: retained MA regional discovery queue outside focused Boston/metro pass",
+      "detailUrlNotes": "Exact published detail path preserved; suggested date/guest quote query omitted from canonical lead URL, not used as availability or rate evidence."
+    }
+  ],
+  "remainingGaps": [
+    "Other Boston/metro property exact-name reverse lookups pending; outside-metro MA leads retained geographic queue.",
+    "Houfy aggregation/discovery alone never establishes own-website eligibility.",
+    "No claim of statewide or entire Boston accommodation exhaustion."
+  ],
+  "sourcePassFreeze": {
+    "checkedOn": "2026-10-26",
+    "status": "Frozen partial reverse-verification pass on parent instruction; exposed source catalog fully paginated",
+    "verifiedEligibilityCount": 10,
+    "policyReviewedCount": 10,
+    "publicationPhotoReadyIds": [
+      "MA-1101",
+      "MA-1103",
+      "MA-1106",
+      "MA-1107",
+      "MA-1108",
+      "MA-1110"
+    ],
+    "publicationMediaPendingIds": [
+      "MA-1102",
+      "MA-1104",
+      "MA-1105",
+      "MA-1109"
+    ],
+    "usablePhotoCount": 23,
+    "limits": "Source catalog pagination complete. Remaining metro leads unresolved candidates/reverse lookup queue. Serenity own catalog handed to agent01, no duplicate batch14 count."
+  },
+  "reusableFindingsForCoordinatorSkillUpdate": [
+    "Houfy destination pages are curated and geographically broad; actual submitted search pagination may progressively expose a final page that initial paginator does not show. Follow Next until absent and retain search-vs-curated counts separately.",
+    "Duda-hosted Hostaway components can initially be absent from AX/DOM then hydrate to a working catalog; inspect hydrated snapshot before labeling component unavailable.",
+    "Hostaway asset IDs are insufficient to prove private-unit photo identity: identical photos may be copied to different numbered property IDs. Compare source gallery images visually; retain eligibility while holding uncertain photo scope.",
+    "pageAssets lists only loaded/observed assets; scroll the gallery before bundling, and do not equate bundle count with full gallery count."
+  ]
+}

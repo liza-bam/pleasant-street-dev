@@ -1,0 +1,1998 @@
+[
+  {
+    "id": "MA-0952",
+    "name": "Boston Christopher — Grand Studio Suite Category",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "The operator-hosted Guesty page verifies a bookable suite category. Repeated category photos and assigned-floor terms do not establish distinct physical apartments for every offer ID.",
+    "classification": "Bookable suite category",
+    "recordType": "accommodation category",
+    "type": "Grand Studio Suite",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+    "description": "Grand Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.",
+      "kidsDetails": "House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 200,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 200 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0952",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "Yes",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b"
+        },
+        {
+          "topic": "kids",
+          "text": "Suitable for children (2 to 12 years); Suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449477616.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+        "alt": "Room1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100fe56bad00399fcf0b; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449477637.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+        "alt": "Room2",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100fe56bad00399fcf0b; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449477658.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+        "alt": "Room3",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100fe56bad00399fcf0b; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0952-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449477616.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100fe56bad00399fcf0b; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "a48632541adea2f6585c83f072b9c18889f6c8cfe34331fce1f3c2812c2f72c6",
+        "originalSha256": "4da93138e0041c6041dbcd7e68a39f49ef2cdba08ada8c09698396219be1e055",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1416,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0952-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449477637.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100fe56bad00399fcf0b; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "cc07667a070267d19b4d0a50728d1a942bd7564b6a825be851fd10b9cbee6ad2",
+        "originalSha256": "db854ea0e069f97c2fbbb72b932e73b131d10e4826499f255534f0a99384a67a",
+        "width": 1200,
+        "height": 826,
+        "originalWidth": 1394,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0952-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449477658.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100fe56bad00399fcf0b",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100fe56bad00399fcf0b; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "2b4e219209ff29d4ca7f28c7e2f34ff67b6c1abea337e1ba7e4edf74413c1bb2",
+        "originalSha256": "cd52222aef00c7287ddd7b1ac6b4c66a78a8f10bd4820a3b0edb2a00712a65c7",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "physicalUnitCount": "Unknown",
+    "alternateOfferUrls": [
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b"
+    ],
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0953",
+    "name": "Boston Christopher Grand Studio Suite — Offer 9fccfb",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "This alternate Guesty offer has its own booking ID, but physical distinctness is unestablished. Repeated category photos and assignment uncertainty are retained as an unresolved variant.",
+    "classification": "Unresolved suite/category offer variant",
+    "recordType": "candidate",
+    "type": "Grand Studio Suite",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+    "description": "Grand Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.",
+      "kidsDetails": "House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 200,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 200 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0953",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "Yes",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb"
+        },
+        {
+          "topic": "kids",
+          "text": "Suitable for children (2 to 12 years); Suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449475559.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+        "alt": "Room1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccfb; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449475595.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+        "alt": "Room2",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccfb; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449475612.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+        "alt": "Room3",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccfb; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0953-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449475559.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccfb; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "a48632541adea2f6585c83f072b9c18889f6c8cfe34331fce1f3c2812c2f72c6",
+        "originalSha256": "4da93138e0041c6041dbcd7e68a39f49ef2cdba08ada8c09698396219be1e055",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1416,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0953-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449475595.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccfb; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "cc07667a070267d19b4d0a50728d1a942bd7564b6a825be851fd10b9cbee6ad2",
+        "originalSha256": "db854ea0e069f97c2fbbb72b932e73b131d10e4826499f255534f0a99384a67a",
+        "width": 1200,
+        "height": 826,
+        "originalWidth": 1394,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0953-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449475612.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccfb",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccfb; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "2b4e219209ff29d4ca7f28c7e2f34ff67b6c1abea337e1ba7e4edf74413c1bb2",
+        "originalSha256": "cd52222aef00c7287ddd7b1ac6b4c66a78a8f10bd4820a3b0edb2a00712a65c7",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay",
+      "Distinct physical apartment identity versus an assigned category"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "primaryRelatedId": "MA-0952",
+    "physicalUnitCount": "Unknown",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0954",
+    "name": "Boston Christopher One Bedroom — Offer 9fccc1",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "This alternate Guesty offer has its own booking ID, but physical distinctness is unestablished. Repeated category photos and assignment uncertainty are retained as an unresolved variant.",
+    "classification": "Unresolved suite/category offer variant",
+    "recordType": "candidate",
+    "type": "One Bedroom",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+    "description": "One Bedroom offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments.",
+      "kidsDetails": "House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised. An additional airbed costs USD 150 per stay and requires 24 hours notice.",
+      "petsDetails": "Conflict: this offer says pets allowed without an additional fee, while the operator FAQ says these properties are not pet friendly. Host clarification is needed; Unknown retained.",
+      "priceFrom": 229,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 229 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0954",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "Unknown",
+      "kids": "Yes",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "Pets allowed (no additional fee)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1"
+        },
+        {
+          "topic": "kids",
+          "text": "Suitable for children (2 to 12 years); Suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [
+        "Offer allows pets without an additional fee; operator FAQ prohibits pets. Unknown retained pending clarification."
+      ],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_706870802.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+        "alt": "LivingRoom",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccc1; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449472522.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+        "alt": "RoofDeck shared",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccc1; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449472523.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+        "alt": "RoofDeck shared",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccc1; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0954-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_706870802.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccc1; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "47bfbe1db074a2b2dc30b42889c9d77bd9d8c614d0ee6e575ecbf63215f4e0ac",
+        "originalSha256": "ee1abde26e60d24d3159adcc61af3464478c1df108b1e448fa885f47d6c344f0",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1438,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0954-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449472522.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccc1; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "1cee9d4127cc7b3dbd16d44662aa5691f08b01caac6f71a7e45f888770e3e26d",
+        "originalSha256": "dcbb9406893c3bbe2427c1ff8f0eaba5a91cfa30b1e8c13ffeaeb371bfb0b7af",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0954-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449472523.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fccc1; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "c633b2179377f1e049ed4ffc10401f48ae3210ccb4182099467819341bd6da52",
+        "originalSha256": "f660bba93486d9ea1656d470a87ea2bcc3b9fabbed62dd6f494e920322a34cad",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay",
+      "Conflicting official pet statements",
+      "Distinct physical apartment identity versus an assigned category"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "primaryRelatedId": "MA-0960",
+    "physicalUnitCount": "Unknown",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0955",
+    "name": "Boston Christopher One Bedroom — Offer 9fcc95",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "This alternate Guesty offer has its own booking ID, but physical distinctness is unestablished. Repeated category photos and assignment uncertainty are retained as an unresolved variant.",
+    "classification": "Unresolved suite/category offer variant",
+    "recordType": "candidate",
+    "type": "One Bedroom",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+    "description": "One Bedroom offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments.",
+      "kidsDetails": "House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised. An additional airbed costs USD 150 per stay and requires 24 hours notice.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 199,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 199 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0955",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "Yes",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95"
+        },
+        {
+          "topic": "kids",
+          "text": "Suitable for children (2 to 12 years); Suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_706872455.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+        "alt": "LivingRoom",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc95; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449471144.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+        "alt": "RoofDeck shared",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc95; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449471145.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+        "alt": "RoofDeck shared",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc95; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0955-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_706872455.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc95; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "edb565fdd76e1b9d56c0b2fe176d2b012ac5a5d4161695a0e2b45e3c0f1deacf",
+        "originalSha256": "74799393914ac64cf09506128f8a00fc39507197a9b2272da41c60f230292014",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1372,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0955-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449471144.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc95; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "1cee9d4127cc7b3dbd16d44662aa5691f08b01caac6f71a7e45f888770e3e26d",
+        "originalSha256": "dcbb9406893c3bbe2427c1ff8f0eaba5a91cfa30b1e8c13ffeaeb371bfb0b7af",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0955-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449471145.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc95; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "c633b2179377f1e049ed4ffc10401f48ae3210ccb4182099467819341bd6da52",
+        "originalSha256": "f660bba93486d9ea1656d470a87ea2bcc3b9fabbed62dd6f494e920322a34cad",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay",
+      "Distinct physical apartment identity versus an assigned category"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "primaryRelatedId": "MA-0960",
+    "physicalUnitCount": "Unknown",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0956",
+    "name": "Boston Christopher Grand Studio Suite — Offer 9fcc8b",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "This alternate Guesty offer has its own booking ID, but physical distinctness is unestablished. Repeated category photos and assignment uncertainty are retained as an unresolved variant.",
+    "classification": "Unresolved suite/category offer variant",
+    "recordType": "candidate",
+    "type": "Grand Studio Suite",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+    "description": "Grand Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.",
+      "kidsDetails": "House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 200,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 200 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0956",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "Yes",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b"
+        },
+        {
+          "topic": "kids",
+          "text": "Suitable for children (2 to 12 years); Suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449476366.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+        "alt": "Room1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc8b; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449476381.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+        "alt": "Room2",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc8b; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449476398.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+        "alt": "Room3",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc8b; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0956-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449476366.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc8b; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "a48632541adea2f6585c83f072b9c18889f6c8cfe34331fce1f3c2812c2f72c6",
+        "originalSha256": "4da93138e0041c6041dbcd7e68a39f49ef2cdba08ada8c09698396219be1e055",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1416,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0956-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449476381.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc8b; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "cc07667a070267d19b4d0a50728d1a942bd7564b6a825be851fd10b9cbee6ad2",
+        "originalSha256": "db854ea0e069f97c2fbbb72b932e73b131d10e4826499f255534f0a99384a67a",
+        "width": 1200,
+        "height": 826,
+        "originalWidth": 1394,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0956-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449476398.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc8b",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc8b; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "2b4e219209ff29d4ca7f28c7e2f34ff67b6c1abea337e1ba7e4edf74413c1bb2",
+        "originalSha256": "cd52222aef00c7287ddd7b1ac6b4c66a78a8f10bd4820a3b0edb2a00712a65c7",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay",
+      "Distinct physical apartment identity versus an assigned category"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "primaryRelatedId": "MA-0952",
+    "physicalUnitCount": "Unknown",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0957",
+    "name": "Boston Christopher — Studio Suite Category",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "The operator-hosted Guesty page verifies a bookable suite category. Repeated category photos and assigned-floor terms do not establish distinct physical apartments for every offer ID.",
+    "classification": "Bookable suite category",
+    "recordType": "accommodation category",
+    "type": "Studio Suite",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+    "description": "Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "No",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.",
+      "kidsDetails": "House Rules state not suitable for children ages 2–12 or infants under 2. The generic free Pack N Play and family FAQ do not override the offer restriction. Ages 13–17 are not explicitly addressed.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 149,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 149 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0957",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "No",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f"
+        },
+        {
+          "topic": "kids",
+          "text": "Not suitable for children (2 to 12 years); Not suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [
+        "Offer House Rules exclude children under 13, while the general operator FAQ welcomes families and generic text offers a Pack N Play. The specific offer restriction is retained; ages 13–17 are unspecified."
+      ],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449480935.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+        "alt": "Room1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc7f; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449480937.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+        "alt": "Room2",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc7f; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449480938.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+        "alt": "Room3",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc7f; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0957-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449480935.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc7f; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "98d276ed3edbf2639923664281a76bd43b10cb974bb5b0bf6d6df137a805b08b",
+        "originalSha256": "fdbcebd49b4e13888769347bcb20dc465ab72b265c15e6e6d07ee5c9d87f3175",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0957-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449480937.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc7f; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "3b5e41322cb1970c61b6e94ac058b842fc473845210d68a93f7ba596afc8a058",
+        "originalSha256": "da67fb35e371f126451f5bccb68906452d4bad027cf16aa84401c52c21b9aa0f",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0957-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449480938.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc7f",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100ee56bad00399fcc7f; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "b3c0a6470afda0ac8b4761582c7771699eb9b811ac8bcc10215492ce3e541d18",
+        "originalSha256": "46d189231143f6fa76fe7ad340d07773a9e7bcae82e2e3ec1d743c911c59f7aa",
+        "width": 1200,
+        "height": 837,
+        "originalWidth": 1376,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "physicalUnitCount": "Unknown",
+    "alternateOfferUrls": [
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+      "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d"
+    ],
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0958",
+    "name": "Boston Christopher Studio Suite — Offer 9fca5f",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "This alternate Guesty offer has its own booking ID, but physical distinctness is unestablished. Repeated category photos and assignment uncertainty are retained as an unresolved variant.",
+    "classification": "Unresolved suite/category offer variant",
+    "recordType": "candidate",
+    "type": "Studio Suite",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+    "description": "Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "No",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.",
+      "kidsDetails": "House Rules state not suitable for children ages 2–12 or infants under 2. The generic free Pack N Play and family FAQ do not override the offer restriction. Ages 13–17 are not explicitly addressed.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 149,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 149 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0958",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "No",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f"
+        },
+        {
+          "topic": "kids",
+          "text": "Not suitable for children (2 to 12 years); Not suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [
+        "Offer House Rules exclude children under 13, while the general operator FAQ welcomes families and generic text offers a Pack N Play. The specific offer restriction is retained; ages 13–17 are unspecified."
+      ],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449479260.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+        "alt": "Room1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100be56bad00399fca5f; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449479262.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+        "alt": "Room2",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100be56bad00399fca5f; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449479263.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+        "alt": "Room3",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100be56bad00399fca5f; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0958-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449479260.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100be56bad00399fca5f; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "98d276ed3edbf2639923664281a76bd43b10cb974bb5b0bf6d6df137a805b08b",
+        "originalSha256": "fdbcebd49b4e13888769347bcb20dc465ab72b265c15e6e6d07ee5c9d87f3175",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0958-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449479262.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100be56bad00399fca5f; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "3b5e41322cb1970c61b6e94ac058b842fc473845210d68a93f7ba596afc8a058",
+        "originalSha256": "da67fb35e371f126451f5bccb68906452d4bad027cf16aa84401c52c21b9aa0f",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0958-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_449479263.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5aa8100be56bad00399fca5f",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5aa8100be56bad00399fca5f; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "b3c0a6470afda0ac8b4761582c7771699eb9b811ac8bcc10215492ce3e541d18",
+        "originalSha256": "46d189231143f6fa76fe7ad340d07773a9e7bcae82e2e3ec1d743c911c59f7aa",
+        "width": 1200,
+        "height": 837,
+        "originalWidth": 1376,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay",
+      "Distinct physical apartment identity versus an assigned category"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "primaryRelatedId": "MA-0957",
+    "physicalUnitCount": "Unknown",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0959",
+    "name": "Boston Christopher Studio Suite — Offer 26f87d",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "This alternate Guesty offer has its own booking ID, but physical distinctness is unestablished. Repeated category photos and assignment uncertainty are retained as an unresolved variant.",
+    "classification": "Unresolved suite/category offer variant",
+    "recordType": "candidate",
+    "type": "Studio Suite",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+    "description": "Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "No",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments. Guesty labels the offer one bedroom, but its studio type and open sleeping/living layout conflict with a separate-bedroom interpretation; bedrooms remain Unknown.",
+      "kidsDetails": "House Rules state not suitable for children ages 2–12 or infants under 2. The generic free Pack N Play and family FAQ do not override the offer restriction. Ages 13–17 are not explicitly addressed.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 219,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 219 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0959",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "No",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d"
+        },
+        {
+          "topic": "kids",
+          "text": "Not suitable for children (2 to 12 years); Not suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [
+        "Offer House Rules exclude children under 13, while the general operator FAQ welcomes families and generic text offers a Pack N Play. The specific offer restriction is retained; ages 13–17 are unspecified."
+      ],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110078700.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+        "alt": "Room1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450e0f6e7a0b0126f87d; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110078735.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+        "alt": "Room2",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450e0f6e7a0b0126f87d; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110078685.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+        "alt": "Room3",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450e0f6e7a0b0126f87d; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0959-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110078700.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450e0f6e7a0b0126f87d; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "e3d0fc49e46af7202c4888d1f1f18b2655435d965ffe817d235a3cc71a85741a",
+        "originalSha256": "03be5b0e8f89134c2d87260a3cbbe188904938869be8c87bca2eb39e6eeb7cb8",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0959-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110078735.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450e0f6e7a0b0126f87d; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "d7d731a379dffaacb3d197979102b2c3e23ce06855d2f4e9ac239d4787df3fbb",
+        "originalSha256": "f17332f358c8711332f22c16b2c54c7e366a5cc44714d8ecb5da603b3f422e6d",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0959-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110078685.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450e0f6e7a0b0126f87d",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450e0f6e7a0b0126f87d; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "a039d17ac548a556d464f2c7cba63fd366cb7d89e138acaf3a338d3e9f4cc8ac",
+        "originalSha256": "c5a017a627b2ef2f3f334fa665636b159c0b1f64270114dc4de72bfd69bc2af4",
+        "width": 1200,
+        "height": 837,
+        "originalWidth": 1376,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay",
+      "Distinct physical apartment identity versus an assigned category"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "primaryRelatedId": "MA-0957",
+    "physicalUnitCount": "Unknown",
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0960",
+    "name": "Boston Christopher — One Bedroom Category",
+    "website": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "The operator-hosted Guesty page verifies a bookable suite category. Repeated category photos and assigned-floor terms do not establish distinct physical apartments for every offer ID.",
+    "classification": "Bookable suite category",
+    "recordType": "accommodation category",
+    "type": "One Bedroom",
+    "operatorName": "Inn Boston Reservations / The Boston Christopher",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "parentOperatorId": "MA-0406",
+    "sourceUrl": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "discoveryMethod": "Followed the operator Reserve link, captured the full nine-offer Guesty catalog, then opened this offer.",
+    "sourceCategory": "Operator-controlled Guesty direct site",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en/terms",
+      "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867?minOccupancy=1&adults=1"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867"
+    ],
+    "contactAddress": {
+      "role": "Rental city only; exact street not publicly disclosed on checked official pages.",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "The official Contact page publishes phone and email, without a street. Staythere previously listed 476 Columbus Avenue, 02118, but this was not corroborated on the official pages. FAQ address 800 Boylston Street is a parking garage, not the rental."
+    },
+    "contactEmail": "reservations@bostonchristopher.com",
+    "contactPhone": "+16173030033",
+    "bookingMethod": "Direct date/guest availability search on the own Guesty offer; phone and email inquiry also available. Interface inspected without submitting an inquiry or reservation.",
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+    "description": "One Bedroom offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
+    "descriptionSource": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Occupancy is published in the own catalog. The operator does not publish a suite door number or guarantee a floor assignment. This record does not establish the number of physical apartments.",
+      "kidsDetails": "House Rules allow children ages 2–12 and infants under 2. A free Pack N Play is advertised. An additional airbed costs USD 150 per stay and requires 24 hours notice.",
+      "petsDetails": "This offer prohibits pets, consistent with the operator FAQ. This fact applies to the selected offer, not every category variant.",
+      "priceFrom": 229,
+      "currency": "USD",
+      "priceDetails": "Selected offer catalog rate starts at USD 229 per night without dates selected; additional charges may apply. Alternative offers can have different rates. No published minimum stay found."
+    },
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+      "notes": "No published minimum stay found. The FAQ recommendation about transport for stays of three or more nights is not a minimum-stay rule."
+    },
+    "factSources": {
+      "capacity": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "bedrooms": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+      "bathrooms": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+      "pets": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+      "kids": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+      "price": "https://bostonchristopher.guestybookings.com/en/properties?minOccupancy=1&adults=1"
+    },
+    "policyAudit": {
+      "id": "MA-0960",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+        "https://bostonchristopher.com/faq/",
+        "https://bostonchristopher.guestybookings.com/en/terms"
+      ],
+      "pets": "No",
+      "kids": "Yes",
+      "method": "Opened the individual official Guesty offer and read House Rules and Additional Rules; also opened the own operator FAQ and booking terms.",
+      "applicability": "Selected original Guesty offer https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867. Physical allocation is unknown; do not transfer rules to alternative offer IDs.",
+      "supportingText": [
+        {
+          "topic": "pets",
+          "text": "No pets are allowed",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867"
+        },
+        {
+          "topic": "kids",
+          "text": "Suitable for children (2 to 12 years); Suitable for infants (under 2 years)",
+          "source": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867"
+        },
+        {
+          "topic": "operator pet policy",
+          "text": "Unfortunately, these properties are not pet friendly.",
+          "source": "https://bostonchristopher.com/faq/"
+        }
+      ],
+      "restrictions": [
+        "No smoking",
+        "No parties or events",
+        "Walk-up access; no elevator",
+        "Guesty terms require website users to be 18 or older; this is not a ban on children staying."
+      ],
+      "noneFound": [
+        "Published minimum stay",
+        "Public suite or door number"
+      ],
+      "conflicts": [],
+      "notes": "Policies belong to this original offer. Category names and shared galleries do not prove that other offer IDs have the same policies."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no matching Airbnb, Vrbo or Booking.com unit URLs found.",
+    "photoCandidates": [
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110088383.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+        "alt": "Room1",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450d0f6e7a0b0126f867; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110088398.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+        "alt": "Livingarea streetview",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450d0f6e7a0b0126f867; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      },
+      {
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110088371.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+        "alt": "Room3",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450d0f6e7a0b0126f867; advertised category imagery, physical suite assignment unknown.",
+        "scope": "Current offer gallery only. Roof-deck views, where present, show a shared amenity."
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0960-cover.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110088383.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450d0f6e7a0b0126f867; advertised category imagery, physical suite assignment unknown.",
+        "role": "cover",
+        "sha256": "5909542a9ec3c2c87d1c111ea6dbe3604f8b676cf6079d5d1f9c25257d3575a8",
+        "originalSha256": "3383bdb73a0ae5700c76c1aed0c8b19af93c048b2aa47f01a1fef0c0570fbc87",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0960-000.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110088398.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450d0f6e7a0b0126f867; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "1167ea438fd49293d8d99970c20d7631219a51bd9570ee0bbb0bc2f88be2d09e",
+        "originalSha256": "5281692911084ba778d80418ebf408275468f89a3da21f493de5b8ff0b0f8da9",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0960-001.webp",
+        "url": "https://guestybookings.s3.amazonaws.com/listings/original_110088371.jpg",
+        "sourcePage": "https://bostonchristopher.guestybookings.com/en/properties/5a4e450d0f6e7a0b0126f867",
+        "unitOrCampus": "Selected Boston Christopher Guesty offer 5a4e450d0f6e7a0b0126f867; advertised category imagery, physical suite assignment unknown.",
+        "role": "gallery",
+        "sha256": "2158fa0355ff34d5cc666d212317f0f979ddf14494fcd5265e8f3993ab18bcd5",
+        "originalSha256": "ebb2632526c049e66f69e5a5d44d46c2a48a5ea51053345280e2c4118d666454",
+        "width": 1200,
+        "height": 800,
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "derivativeQuality": 78,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "remainingGaps": [
+      "Fourth authentic photo",
+      "Official rental street and ZIP",
+      "Physical suite assignment or door number",
+      "Published minimum stay"
+    ],
+    "accessFailures": [],
+    "notes": "The own FAQ does not guarantee lower-floor assignment. Visual review found repeated category interiors across offer IDs, so only one record per category is ready. Alternative offers remain candidates with their own policies and rates. Facts and the three-photo set belong to this selected offer; no interiors were mixed across offers. Fourth photo remains a gap. No inquiry or reservation was submitted.",
+    "physicalUnitCount": "Unknown",
+    "alternateOfferUrls": [
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fccc1",
+      "https://bostonchristopher.guestybookings.com/en/properties/5aa8100ee56bad00399fcc95"
+    ],
+    "photoVisualReview": {
+      "checkedOn": "2026-10-26",
+      "status": "Reviewed",
+      "method": "All 27 saved images opened in two contact sheets. Coherent offer interiors and shared roof-deck photos were checked. Repeated Studio and Grand Studio galleries were recognized and not counted as extra apartments."
+    }
+  },
+  {
+    "id": "MA-0961",
+    "name": "The Newbury — legacy Boston Christopher sister-property lead",
+    "website": "http://www.bostonnewbury.com",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "The published HTTP site showed a blank browser error. HTTPS navigation timed out and left the prior page. One focused reverse search found other Newbury providers, without a verified operator connection.",
+    "sourceUrl": "https://bostonchristopher.com/",
+    "discoveryMethod": "Followed the published sister-property domain from the operator site, then checked one focused reverse-search query.",
+    "openedUrls": [
+      "https://bostonchristopher.com/",
+      "http://www.bostonnewbury.com",
+      "https://www.bostonnewbury.com/",
+      "https://www.google.com/search?q=Boston%20Newbury%20furnished%20apartment%20rentals%20official"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "classification": "Unresolved legacy rental lead",
+    "recordType": "candidate",
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/",
+    "description": "Legacy Boston sister-property lead with an inaccessible published website.",
+    "descriptionSource": "https://bostonchristopher.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Not checked: own site inaccessible.",
+    "remainingGaps": [
+      "Working official rental website, operator identity and contact page."
+    ],
+    "accessFailures": [
+      {
+        "url": "http://www.bostonnewbury.com",
+        "result": "Blank browser error page."
+      },
+      {
+        "url": "https://www.bostonnewbury.com/",
+        "result": "Navigation timed out; prior Google page and URL remained, confirmed through native accessibility. This does not establish permanent closure."
+      }
+    ],
+    "notes": "Search results were used only for leads. Other Boston rental businesses were not merged without an identity connection. No inquiry or reservation was submitted."
+  },
+  {
+    "id": "MA-0962",
+    "name": "Back Bay Beacon — legacy sister-property lead",
+    "website": "http://www.backbaybeacon.com",
+    "city": "Boston",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "The published domain returned DNS_PROBE_FINISHED_NXDOMAIN. One focused reverse search found no corresponding working official operator site. Permanent closure was not established.",
+    "sourceUrl": "https://bostonchristopher.com/faq/",
+    "discoveryMethod": "Followed the published sister-property domain from the operator site, then checked one focused reverse-search query.",
+    "openedUrls": [
+      "https://bostonchristopher.com/faq/",
+      "http://www.backbaybeacon.com",
+      "https://www.google.com/search?q=Back%20Bay%20Beacon%20furnished%20apartment%20rentals%20official"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "classification": "Unresolved legacy rental lead",
+    "recordType": "candidate",
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "description": "Legacy Boston sister-property lead with an inaccessible published website.",
+    "descriptionSource": "https://bostonchristopher.com/faq/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Not checked: own site inaccessible.",
+    "remainingGaps": [
+      "Working official rental website, operator identity and contact page."
+    ],
+    "accessFailures": [
+      {
+        "url": "http://www.backbaybeacon.com",
+        "result": "DNS_PROBE_FINISHED_NXDOMAIN"
+      }
+    ],
+    "notes": "Search results were used only for leads. Other Boston rental businesses were not merged without an identity connection. No inquiry or reservation was submitted."
+  }
+]

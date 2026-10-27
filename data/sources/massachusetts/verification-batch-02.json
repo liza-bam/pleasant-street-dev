@@ -87,14 +87,15 @@
         "sourcePage": "https://www.pinewoodlodge.com/",
         "unitOrCampus": "Shared Pinewood campground campus",
         "role": "cover",
-        "sha256": "e61fce434361fcca2037c64d3774556496273ad56d20d7d9e758bb85db4e43d5",
+        "sha256": "ba9aa28e963ea70ea14dfa3a459420b4bf689f68a04bbea14d402ef4e5de560e",
         "originalSha256": "e9ce44ea6f9df8630d7af463277d80bd327f339181a210e4614538c3e7979c4c",
-        "width": 1600,
-        "height": 900,
+        "width": 1200,
+        "height": 675,
         "originalWidth": 1919,
         "originalHeight": 1080,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0006-000.webp",
@@ -102,14 +103,15 @@
         "sourcePage": "https://www.pinewoodlodge.com/",
         "unitOrCampus": "Shared Pinewood campground campus",
         "role": "additional",
-        "sha256": "a8e75b28ebc83c5f78cb772755e73bc8153b83412efecace82a8d8e4a675d9d9",
+        "sha256": "4dc9da8a5cd947aa4b3cc2ddc2bb3a0339073d79528712921846ee3e699687ab",
         "originalSha256": "da58dfb08df7d6a9aa98d92fc8ea0dd0520621272746211940011a616d3dc7e1",
         "width": 836,
         "height": 642,
         "originalWidth": 836,
         "originalHeight": 642,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0006-001.webp",
@@ -270,14 +272,15 @@
         "sourcePage": "https://www.thomasseasuites.com/gallery.html",
         "unitOrCampus": "Shared Thomas Sea Suites campus exterior",
         "role": "cover",
-        "sha256": "d1536ac0bb1cbabc7f1e5978fd1c19f11bef3400efa57e39ec85d304650c3708",
+        "sha256": "a65c3034dd81bbe39f93e846f47dd483e06c75364996e0342f45ea01b9cf909c",
         "originalSha256": "3ecc4f7ea8aeeae32ba8ef4dff0b1a058e6d7bf72242e9bf9d5cba5f789a59fe",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1800,
         "originalHeight": 1200,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0008-000.webp",
@@ -469,14 +472,15 @@
         "sourcePage": "https://therockporthouse.com/accommodations/",
         "unitOrCampus": "The Cottage only",
         "role": "additional",
-        "sha256": "520267a9cfc5ec0692cae236e42687c7b7817c3c51a4280acd8df24058f3a5ea",
+        "sha256": "9e859df24aea4c494521379343d5063f657f7f86e4c126e9cce1056b1c5465b2",
         "originalSha256": "191825f76af3e9f56f55a780e43c2e8a75500cd82e832f00a388f13d6cee263d",
         "width": 1200,
         "height": 901,
         "originalWidth": 1200,
         "originalHeight": 901,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0015-001.webp",
@@ -484,14 +488,15 @@
         "sourcePage": "https://therockporthouse.com/accommodations/",
         "unitOrCampus": "The Cottage only",
         "role": "additional",
-        "sha256": "be5038affa266d6b389588bf87d266d3b0bf1c451389b3bcf6a1a51cdaaa744f",
+        "sha256": "5acb440a796efc18386732a9de9d49b50ec58fa63848d49fe6162bb72a36ecd7",
         "originalSha256": "f60895b0929d3d602ace95b2d4e4466df16c9eedc996140eb1d6211298e2934f",
         "width": 1200,
         "height": 900,
         "originalWidth": 1200,
         "originalHeight": 900,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0015-002.webp",
@@ -582,7 +587,7 @@
     "bookingMethod": "Direct apartment-inquiry phone/email/form",
     "bookingUrl": "https://www.furnishedquarters.com/contact",
     "operatorEvidenceUrl": "https://www.furnishedquarters.com/",
-    "notes": "Own site identifies privately owned/operator firm,serves leisure travelers as well ascorporate stays;global portfolio disclosed. MA-specific landingpage explicitly minimum1month;not an aggregator. No unitphotos yet. Photo set explicitly Actual apartment images ID5605;30dayminimum;operator spansNY/NJ/MA/CA/CT. Photo set explicitly Actual apartment images ID5605;30dayminimum;operator spansNY/NJ/MA/CA/CT.",
+    "notes": "Own site identifies privately owned/operator firm,serves leisure travelers as well ascorporate stays;global portfolio disclosed. MA-specific landingpage explicitly minimum1month;not an aggregator. No unitphotos yet. Photo set explicitly Actual apartment images ID5605;30dayminimum;operator spansNY/NJ/MA/CA/CT. Photo set explicitly Actual apartment images ID5605;30dayminimum;operator spansNY/NJ/MA/CA/CT. Parent operator summary superseded after distinct individual apartment catalog expansion; preserve this research record and sources.",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": "Unknown",
@@ -743,7 +748,8 @@
       "kids": "https://www.furnishedquarters.com/faq"
     },
     "policyAuditSource": "data/sources/massachusetts/policy-audit-02.json",
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "directoryDisposition": "Superseded by individual properties"
   },
   {
     "id": "MA-0017",
@@ -906,14 +912,15 @@
         "sourcePage": "https://www.constitutionmarina.com/bed-and-breakfast/",
         "unitOrCampus": "Blue Waters vessel",
         "role": "cover",
-        "sha256": "fe4013540160cd3a704e3d562f107274cbdf5b1cfb939b8d006c38ce37e3dca0",
+        "sha256": "4d0776938bdb58d99bbc9b4d9b3105f131f31a1566222bea0fe7686668dcfdba",
         "originalSha256": "573ebfa3f4c1a626ff08ab5a7a24500193834d3f4de8d658de2a61cf43674124",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1920,
         "originalHeight": 1280,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0018-000.webp",
@@ -936,14 +943,15 @@
         "sourcePage": "https://www.constitutionmarina.com/bed-and-breakfast/",
         "unitOrCampus": "Blue Waters vessel",
         "role": "additional",
-        "sha256": "3464e1d04ed153a31b9899d5d1e1f21fb0030bfae2d048dccc3f97cf92c54197",
+        "sha256": "bee82ba1bf73f176654c913dd1b8e0129a703a5169da7db15a4c22b0c9aed948",
         "originalSha256": "771a334dd8831d956c7faf7ebc205b0166523a81eb2a431b3b4e6558e46249f5",
         "width": 1200,
         "height": 800,
         "originalWidth": 1200,
         "originalHeight": 800,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0018-002.webp",
@@ -951,14 +959,15 @@
         "sourcePage": "https://www.constitutionmarina.com/contact/",
         "unitOrCampus": "Shared Constitution Marina campus",
         "role": "additional",
-        "sha256": "6b49fcc7b0d0477dac04a92b10b3131212251274801596e39bc56e469ecdefc3",
+        "sha256": "5110386f79058f1a296efb647827347dada75cffe394ace3a58aa87ae68ad449",
         "originalSha256": "4e10f60cda185d14b535e6242cc99209232d8f7728e99e02f5aba20b00055dd1",
-        "width": 1600,
-        "height": 900,
+        "width": 1200,
+        "height": 675,
         "originalWidth": 1751,
         "originalHeight": 985,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -1086,14 +1095,15 @@
         "sourcePage": "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2",
         "unitOrCampus": "Westborough unit2",
         "role": "cover",
-        "sha256": "cec483ec13d6d8d01aba2bc16e5e82bdd8b99e17eaefd75bd19d783bf1ebb6eb",
+        "sha256": "87c36499ae58e780c0b623ead66e0e7e9ae3ebc2beeb4574f9535b4b23cee438",
         "originalSha256": "beb597a1dff89aff3bcef2bbe7cc55a0b152c57bded6e12849fe92b3fb565b4b",
-        "width": 1600,
-        "height": 1065,
+        "width": 1200,
+        "height": 799,
         "originalWidth": 3000,
         "originalHeight": 1996,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0020-000.webp",
@@ -1101,14 +1111,15 @@
         "sourcePage": "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2",
         "unitOrCampus": "Westborough unit2",
         "role": "additional",
-        "sha256": "d30adebe54b3253879d07f7095f2e53bff305a5d57b6a1a4aef76eb6aeeefc35",
+        "sha256": "8124dce04e456525803e30af6c022149d394abdfaf5367e43a824ab9aba2242b",
         "originalSha256": "6b49d3eeeacd4790ef57b009e0aafe59fda822a1675de02387737e30ed700da6",
-        "width": 1600,
-        "height": 1065,
+        "width": 1200,
+        "height": 799,
         "originalWidth": 3000,
         "originalHeight": 1996,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0020-001.webp",
@@ -1116,14 +1127,15 @@
         "sourcePage": "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2",
         "unitOrCampus": "Westborough unit2",
         "role": "additional",
-        "sha256": "f78cb55785a346edc309dba626120160fe40d58dccae6aefcb679f3c6ba3abf7",
+        "sha256": "fb3e022d0d544274ad76135a3ee667b2a49c792915de8b31a56eae816fbe178a",
         "originalSha256": "05f05a0d169ef2609ee847cfcb82f08f911020e0f732065809a7e83d3c1ead67",
-        "width": 1600,
-        "height": 1065,
+        "width": 1200,
+        "height": 799,
         "originalWidth": 3000,
         "originalHeight": 1996,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0020-002.webp",
@@ -1131,14 +1143,15 @@
         "sourcePage": "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2",
         "unitOrCampus": "Westborough unit2",
         "role": "additional",
-        "sha256": "6b86c697d5b279436e196e679b088d928786d02dabc3d3e1639d02fc6282d6c6",
+        "sha256": "eb293961ca0a21ccd4229a10f33cf3000e10f89aa76467a2f7be9d1a0739fc9a",
         "originalSha256": "f23d152a728e581129e3d28c6e80cce5c8620734ada237e3e12ebebb94bcb4c1",
-        "width": 1600,
-        "height": 1065,
+        "width": 1200,
+        "height": 799,
         "originalWidth": 3000,
         "originalHeight": 1996,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -1283,14 +1296,15 @@
         "sourcePage": "https://thesatanicsuite.com/pages/explore-the-suite",
         "unitOrCampus": "The Satanic Suite",
         "role": "cover",
-        "sha256": "28f48ca8cc9928011a52c1a42193f571506e1725fc6d2caab10bf8f176993a6d",
+        "sha256": "45c7564384728bd5af498fb7afaf1193aa1ae0d0e50e9d5da2f330ae9f511aac",
         "originalSha256": "f50600973e265cab7c3019576ef7122918d0299efd54a82d4433bf33b3db8a34",
-        "width": 1420,
-        "height": 947,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1420,
         "originalHeight": 947,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0022-000.webp",
@@ -1298,14 +1312,15 @@
         "sourcePage": "https://thesatanicsuite.com/pages/explore-the-suite",
         "unitOrCampus": "The Satanic Suite",
         "role": "additional",
-        "sha256": "1244632f096ce058c95b7011453a0b1d84ff33655c76ea255f17e368178d64f6",
+        "sha256": "7405af612891e88aed887cfaf31603a958ca58511bbd95b2e4e172aa79e406c1",
         "originalSha256": "8b5776cc2db349184f913cd4524041b0e04dba8f0caae83f5ab17a8aac91421b",
-        "width": 1420,
-        "height": 947,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1420,
         "originalHeight": 947,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0022-001.webp",
@@ -1313,14 +1328,15 @@
         "sourcePage": "https://thesatanicsuite.com/pages/explore-the-suite",
         "unitOrCampus": "The Satanic Suite",
         "role": "additional",
-        "sha256": "0439a036cb605291b564cc4dd5d69cdb4632f55580f76a98955d933ace8c5fb7",
+        "sha256": "c83716261896c5829cc097e34f7e65cfc80cdcae9841f05ba32e8cea4d5f2a6e",
         "originalSha256": "fa965efbc6caa3678c44290f20209facbff7852d68b1bad7874311ff1ec19d89",
-        "width": 1420,
-        "height": 947,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1420,
         "originalHeight": 947,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0022-002.webp",
@@ -1328,14 +1344,15 @@
         "sourcePage": "https://thesatanicsuite.com/pages/explore-the-suite",
         "unitOrCampus": "The Satanic Suite",
         "role": "additional",
-        "sha256": "c4a958947104365ae28b71c8ce72f076df1f968058b61097d367ee7bed7fd9f0",
+        "sha256": "75ce2b06f00d4feccd561dcac671daecb9b960310c1357d3ed655d6d8273a97d",
         "originalSha256": "4033b69728c03f5d6734fd4246a15a4b6c6db3c6ae55cb2053e351fe3eddabba",
-        "width": 1420,
-        "height": 947,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1420,
         "originalHeight": 947,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -1466,14 +1483,15 @@
         "sourcePage": "https://www.lighthouselanecottage.com/the-playhouse",
         "unitOrCampus": "The Playhouse",
         "role": "cover",
-        "sha256": "b556e0df2f45bf56a78fcc5deec9c05f550f41bf9656065a115916310f46b206",
+        "sha256": "b79aee369a29aacb9f4c8f27a4b1f42181b20af03faa75b33230857de2533c47",
         "originalSha256": "04a2b15e03daa1cf4bcf0f67e034a6480f94545a8389b6c64371fb65ea9447df",
-        "width": 1500,
-        "height": 1035,
+        "width": 1200,
+        "height": 828,
         "originalWidth": 1500,
         "originalHeight": 1035,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0201-000.webp",
@@ -1496,14 +1514,15 @@
         "sourcePage": "https://www.lighthouselanecottage.com/the-playhouse",
         "unitOrCampus": "The Playhouse",
         "role": "additional",
-        "sha256": "eb5cf9ef453ef4ca24b0d091eab51cb98892eb805ff6c97064e40e365f7385ab",
+        "sha256": "5fecda070c3b39827bf0a717a186a29096073b602c23ae6b1516b46cddb97233",
         "originalSha256": "1d3a9108e1f08f7449182e8ee1984638e4b8870cca0c2186554f50ae59cf1c9d",
-        "width": 1500,
-        "height": 1032,
+        "width": 1200,
+        "height": 826,
         "originalWidth": 1500,
         "originalHeight": 1032,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0201-002.webp",
@@ -1511,14 +1530,15 @@
         "sourcePage": "https://www.lighthouselanecottage.com/the-playhouse",
         "unitOrCampus": "The Playhouse",
         "role": "additional",
-        "sha256": "f934b79b6af57975290c26feee59674504e136f2393364216407ea60d82da15e",
+        "sha256": "0c2e9eb8a961de9802d6448248ee7507e2998406a138ee0e6f04b969cc37f69b",
         "originalSha256": "964cf1d2b21521efb6370fac51bd9f91f8e4294c95a5cd03ce4d0ec3f455a859",
-        "width": 1600,
-        "height": 1061,
+        "width": 1200,
+        "height": 796,
         "originalWidth": 2500,
         "originalHeight": 1658,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -1652,14 +1672,15 @@
         "sourcePage": "https://www.atlanticvacationhomes.com/vrp/unit/Sage_Hill-51-15",
         "unitOrCampus": "Sage Hill, Rockport",
         "role": "cover",
-        "sha256": "66468d930a05c3cb8298c9c5aef13dc3edb5adc396d3a136b890a82b28255fc9",
+        "sha256": "2995ab9ed0237de22a8f1fbda19582f1a3ebb16d685e500d45e53e92414af3d7",
         "originalSha256": "3c244a5e7a59526d68249144766601bb16ebd371b66ab23f06bfd686a22fce2f",
-        "width": 1600,
-        "height": 1069,
+        "width": 1200,
+        "height": 802,
         "originalWidth": 1617,
         "originalHeight": 1080,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0202-000.webp",
@@ -1667,14 +1688,15 @@
         "sourcePage": "https://www.atlanticvacationhomes.com/vrp/unit/Sage_Hill-51-15",
         "unitOrCampus": "Sage Hill, Rockport",
         "role": "additional",
-        "sha256": "5ceb9170c44895caf422b1267577ab0d19d80dd7ed284276002aeea2e5b0cb80",
+        "sha256": "45f4cbbe126d0ca97e895bf78ab0b412516789028e75e0184ac5509d149fc60a",
         "originalSha256": "e2fb0cac37b2a5b697dbb5a61ed5eecf2103c80b2a4fa6ff81d84d8ace8b9b9c",
-        "width": 1600,
-        "height": 1069,
+        "width": 1200,
+        "height": 802,
         "originalWidth": 1617,
         "originalHeight": 1080,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0202-001.webp",
@@ -1682,14 +1704,15 @@
         "sourcePage": "https://www.atlanticvacationhomes.com/vrp/unit/Sage_Hill-51-15",
         "unitOrCampus": "Sage Hill, Rockport",
         "role": "additional",
-        "sha256": "a6d40aecdf683a8a06a93dd1afe6e505103c689864a3f42edd3d36176189bfd9",
+        "sha256": "16ac3097dd404b574819f968acdf52c5ce8c0efb9c273c7bc43c83317871c095",
         "originalSha256": "57ea2d01a24da926118275944ab8f9f466a5a1f4a2ac3e51a43e41eaee9fd8c5",
-        "width": 1600,
-        "height": 1069,
+        "width": 1200,
+        "height": 802,
         "originalWidth": 1617,
         "originalHeight": 1080,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0202-002.webp",
@@ -1697,14 +1720,15 @@
         "sourcePage": "https://www.atlanticvacationhomes.com/vrp/unit/Sage_Hill-51-15",
         "unitOrCampus": "Sage Hill, Rockport",
         "role": "additional",
-        "sha256": "00b7dc72c28d0210b5e497dc4a717cdcc2d7fca082bf3fb7d8684111b43651b4",
+        "sha256": "0e24aeafbc53fcec88e929d24fb37092d2ff1f16e56820465d85945bb7beff51",
         "originalSha256": "e9be4c367e77b9b3730a6dac1ca1c7a1692c0a8f14f5ad4f70758599bf8a2004",
-        "width": 1600,
-        "height": 1069,
+        "width": 1200,
+        "height": 802,
         "originalWidth": 1617,
         "originalHeight": 1080,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -1846,14 +1870,15 @@
         "sourcePage": "https://sealionmotel.com/rooms/#cottage",
         "unitOrCampus": "Cottage125, two bedroom cottage",
         "role": "cover",
-        "sha256": "9ec453dfedc9087bfd4ab177146dc10f0da338389e7e96ac717c5bd8f494e755",
+        "sha256": "2db4d0ef200fcee5803893d2387d36340fa1fc615c420820866da5d5050c4a76",
         "originalSha256": "47acca5b3c82cff3c533d625bf5c9cafab5d65c0f5c7824cc0f487f62cc630bc",
         "width": 1200,
         "height": 639,
         "originalWidth": 1200,
         "originalHeight": 639,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0203-000.webp",
@@ -1861,14 +1886,15 @@
         "sourcePage": "https://sealionmotel.com/rooms/#cottage",
         "unitOrCampus": "Cottage125, two bedroom cottage",
         "role": "additional",
-        "sha256": "bd3b2662e52792336e8f3eedc5747b5639e99694edd895d33b0565248e7a651a",
+        "sha256": "f05b9fddb62bb629d849d9a9d98e55f719a57d8156ffe93c003fcc83b67987fe",
         "originalSha256": "32aa7835eae024bcdd56faf9bd6d719339427e8a3935aa04dc1e8c358f9711ab",
-        "width": 1260,
-        "height": 945,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1260,
         "originalHeight": 945,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0203-001.webp",
@@ -2077,14 +2103,15 @@
         "sourcePage": "https://www.rockyneckaccommodations.com/",
         "unitOrCampus": "Shared campus exterior",
         "role": "additional",
-        "sha256": "2ea99d0dd93b98b0c56129c5cf9e490dd45fd84f384d114fddbe2843d4ccd9e3",
+        "sha256": "78429f5a7d0b18a31e753085e776475fb754d8c45e5e6b4e62c22e5dabb2d659",
         "originalSha256": "8f951d3ed337777ea2633dad6910fee54d4c75f5c17a23327cb6af52fbd2f405",
         "width": 1200,
         "height": 700,
         "originalWidth": 1200,
         "originalHeight": 700,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -2242,14 +2269,15 @@
         "sourcePage": "https://theseawardrockport.com/rooms/spruce-cottage/",
         "unitOrCampus": "Spruce Cottage",
         "role": "cover",
-        "sha256": "34e0bb9f721ace45f04d24407c28d9452b8deba4130dc3fb1c1ee7907cf0d17b",
+        "sha256": "505cba47a0623d297da333ef99d40c570970d793768b90d928923d8f039eb7a0",
         "originalSha256": "39e435315f97f954462e3089fc652c06c1d851fc65783656729ae1771ccee398",
         "width": 1024,
         "height": 627,
         "originalWidth": 1024,
         "originalHeight": 627,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0205-000.webp",
@@ -2473,14 +2501,15 @@
         "sourcePage": "https://gloucesterbeachhouse.com/our-place/",
         "unitOrCampus": "Gloucester Beach House",
         "role": "additional",
-        "sha256": "5b4ca0b0e3fab14da4180967dddb3b618133f843b360873263a2960bf775120d",
+        "sha256": "2160a85799908e2fcdc42c6b8d12fc4be0460fe9fc393447c73b9c6bec889e09",
         "originalSha256": "d87264413ed28f5bc20c7715e9209d79d65ebcbc4cde84fd755b37c37f60f31e",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -2614,14 +2643,15 @@
         "sourcePage": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower?adults=1&children=0&pets=0&infants=0",
         "unitOrCampus": "Sintra bungalow",
         "role": "cover",
-        "sha256": "8162d319dc7f78f18f50a5e8c9b5431d47561cc36ba064528a4dcc627d406583",
+        "sha256": "929f618be14256440cd0a59657304a310aa301782e1acc9737bdd059b6557c07",
         "originalSha256": "c7ff1c0189fba14eb6e59467a2d497d1b0a8b6915a717d726e7d00d42231d9a2",
-        "width": 1600,
-        "height": 1200,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1920,
         "originalHeight": 1440,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0207-000.webp",
@@ -2644,14 +2674,15 @@
         "sourcePage": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower?adults=1&children=0&pets=0&infants=0",
         "unitOrCampus": "Sintra bungalow",
         "role": "additional",
-        "sha256": "c207cdbbb22dbf156e0fc27a2355a5dffbd2af0a7e7572803b34b5f902211c8e",
+        "sha256": "bd1e53a29314bbe7b2fb6f1dcbfea167c130558195640e63119be0ba7a8ffbde",
         "originalSha256": "e83d620dfd0adfc45338a7f2c401a20f0b9076c661d229a7f308a9e224838bbc",
         "width": 911,
         "height": 683,
         "originalWidth": 911,
         "originalHeight": 683,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0207-002.webp",
@@ -2752,7 +2783,7 @@
     "bookingMethod": "Direct phone/email/form inquiry; no submission",
     "bookingUrl": "https://bostonextendedstay.com/inquiry-reservations/",
     "operatorEvidenceUrl": "https://bostonextendedstay.com/",
-    "notes": "Own catalog represents Boston/Brookline/Cambridge apartments and accepts direct reservations. No separateContactlink; Inquiry+Reservation is published contact page. Alternate sameoperatorbnbboston.com. Photos onlyM325CopleyonPark; notoffice. M325 is nightlyApril–October/monthlywinter,3nightminimum.",
+    "notes": "Own catalog represents Boston/Brookline/Cambridge apartments and accepts direct reservations. No separateContactlink; Inquiry+Reservation is published contact page. Alternate sameoperatorbnbboston.com. Photos onlyM325CopleyonPark; notoffice. M325 is nightlyApril–October/monthlywinter,3nightminimum. Parent operator summary superseded after distinct individual apartment catalog expansion; preserve this research record and sources.",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": "Unknown",
@@ -2854,14 +2885,15 @@
         "sourcePage": "https://bostonextendedstay.com/m325-copley-vacation-rental-on-the-park/",
         "unitOrCampus": "M325 Copley on the Park",
         "role": "additional",
-        "sha256": "b07e06ef468d2d997850023f4e390fd01605b96bf6f74a79cb6edbe63bf40992",
+        "sha256": "b1835945680637aa6d117e9948325ac5b384b65bd25e11c881d14a72b407b0e2",
         "originalSha256": "d8090b5f6bb3c532b96e33ff9ee88dbd224a88cec16744e5b8adaea164422e18",
         "width": 799,
         "height": 600,
         "originalWidth": 799,
         "originalHeight": 600,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -2913,7 +2945,8 @@
       "kids": "https://bostonextendedstay.com/boston-furnished-apartments-policies/"
     },
     "policyAuditSource": "data/sources/massachusetts/policy-audit-02.json",
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "directoryDisposition": "Superseded by individual properties"
   },
   {
     "id": "MA-0209",
@@ -3003,14 +3036,15 @@
         "sourcePage": "https://thepearl.staycation.igms.com/property/HZN4IG1AMR88L2JH",
         "unitOrCampus": "Apartment1",
         "role": "cover",
-        "sha256": "c524d9b572e262f6085fdf49a8baa67a6f1bd688717f227db9ec23633f7ffbfd",
+        "sha256": "c50a35b187796ef610253061c9908412900898f378b8a079da407f4542e1d78b",
         "originalSha256": "40c8a15ee832e7a2a92e9a772fe1c3550734e65f60d4a6151a4340ecacf420a8",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1366,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0209-000.webp",
@@ -3310,14 +3344,15 @@
         "sourcePage": "https://www.coveatrockport.com/",
         "unitOrCampus": "Shared Cove atRockport campus",
         "role": "cover",
-        "sha256": "a1228630de48e2b72b4fc4d36c64dc1096159cadadfcb6e495fab4124d1b208d",
+        "sha256": "16f648113f0ca475ef21e71c194346151f14037be77a249a0276a8a8f8332f8b",
         "originalSha256": "08abdff634a13ee29abe211d5f547319ade11faed9331d0d67f702ae8b985e28",
-        "width": 1500,
-        "height": 850,
+        "width": 1200,
+        "height": 680,
         "originalWidth": 1500,
         "originalHeight": 850,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0212-000.webp",
@@ -3340,14 +3375,15 @@
         "sourcePage": "https://www.coveatrockport.com/about",
         "unitOrCampus": "Shared Cove atRockport campus",
         "role": "additional",
-        "sha256": "006f396be467df24030d37b0658910cda4af8246a4002e87b533550b67fac024",
+        "sha256": "a4864e4ed89716d20299be1ed6d052a978f025eefdeff4993056293fabd30549",
         "originalSha256": "2e7b0b8b756acd66b01814f5b61bd8d98cc1814a06388e07737d8f9f17e14752",
         "width": 990,
         "height": 1100,
         "originalWidth": 990,
         "originalHeight": 1100,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0212-002.webp",
@@ -3355,14 +3391,15 @@
         "sourcePage": "https://www.coveatrockport.com/about",
         "unitOrCampus": "Shared Cove atRockport campus",
         "role": "additional",
-        "sha256": "247c797906cc65a42593313cae26453cef740005632abe10c249457fdfe6309e",
+        "sha256": "d872d5f0a121d902005ed593827f17983de65539f9e33acf16978bdf34e1583c",
         "originalSha256": "335ff88f6cf8805162e94211daa14f648940839121b2089a0ac268266e25a1f6",
         "width": 990,
         "height": 1100,
         "originalWidth": 990,
         "originalHeight": 1100,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -3548,14 +3585,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "cover",
-        "sha256": "a27e8b8712b833f5109581b49afd72e6acd9e28f200f1a74c47c406ff85a668f",
+        "sha256": "94b94538b34097b468c27a580b5ea8b32172570a04f6d35eab652f284445885d",
         "originalSha256": "786cb2637980578dcd349d1c1c77804e4bb525204bd85d821153699478a739ae",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 1999,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0214-000.webp",
@@ -3563,14 +3601,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "additional",
-        "sha256": "5f89c2a7bb11964925c57fa0e0fddfec8de4ccf20e4064ea7554cffc0179ae54",
+        "sha256": "5fed651bd23526d06b2cf438bc74e1991a857a6e369b269be93f770199bce161",
         "originalSha256": "45e6124189907dce8367071d51ed2755748a697f97aa3f086aa3b8f51abee9b2",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0214-001.webp",
@@ -3578,14 +3617,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "additional",
-        "sha256": "88d5a889e3256910cc4405abf98d3fb506134050a442e43825b4c8b0af2c9084",
+        "sha256": "493558d0629dbcf07ae3e9ba0466bf771d3b7452eac689bbaa815bf1c9de6fbc",
         "originalSha256": "6056971c9650031452c2968a5388f6a252ee255d14bb640926bc3cea461d8012",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0214-002.webp",
@@ -3593,14 +3633,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "additional",
-        "sha256": "1943454c7de1f5aa43ec6003476b134a093d637c842417fa1227ee630a77016d",
+        "sha256": "f62c30ca35e80f5ef89a8d228b0e52c90d4d0b8fb8241e49148a59c83b4cd1e4",
         "originalSha256": "d2f46306465efe9af9156afc3a5b9131938a95cd6c2bf2bbcedc815997e9048a",
-        "width": 1600,
-        "height": 1072,
+        "width": 1200,
+        "height": 804,
         "originalWidth": 2985,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -4354,14 +4395,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "cover",
-        "sha256": "a27e8b8712b833f5109581b49afd72e6acd9e28f200f1a74c47c406ff85a668f",
+        "sha256": "94b94538b34097b468c27a580b5ea8b32172570a04f6d35eab652f284445885d",
         "originalSha256": "786cb2637980578dcd349d1c1c77804e4bb525204bd85d821153699478a739ae",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 1999,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0251-000.webp",
@@ -4369,14 +4411,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "additional",
-        "sha256": "5f89c2a7bb11964925c57fa0e0fddfec8de4ccf20e4064ea7554cffc0179ae54",
+        "sha256": "5fed651bd23526d06b2cf438bc74e1991a857a6e369b269be93f770199bce161",
         "originalSha256": "45e6124189907dce8367071d51ed2755748a697f97aa3f086aa3b8f51abee9b2",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0251-001.webp",
@@ -4384,14 +4427,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "additional",
-        "sha256": "88d5a889e3256910cc4405abf98d3fb506134050a442e43825b4c8b0af2c9084",
+        "sha256": "493558d0629dbcf07ae3e9ba0466bf771d3b7452eac689bbaa815bf1c9de6fbc",
         "originalSha256": "6056971c9650031452c2968a5388f6a252ee255d14bb640926bc3cea461d8012",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0251-002.webp",
@@ -4399,14 +4443,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
         "unitOrCampus": "Scituate by the Sea",
         "role": "additional",
-        "sha256": "1943454c7de1f5aa43ec6003476b134a093d637c842417fa1227ee630a77016d",
+        "sha256": "f62c30ca35e80f5ef89a8d228b0e52c90d4d0b8fb8241e49148a59c83b4cd1e4",
         "originalSha256": "d2f46306465efe9af9156afc3a5b9131938a95cd6c2bf2bbcedc815997e9048a",
-        "width": 1600,
-        "height": 1072,
+        "width": 1200,
+        "height": 804,
         "originalWidth": 2985,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -4523,14 +4568,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
         "unitOrCampus": "Split Rock, Easy Walk To Beach & Scenic Trails",
         "role": "cover",
-        "sha256": "f624224bf93be09b828a6334be1ffec58cb6040a54f7626ae5376bb0d4ddc59a",
+        "sha256": "07b6130d5e5683646db833fe238c974cb21f56ce20b7730307c1109579aed96e",
         "originalSha256": "51274a8976aa036b0496ebd9f4e76e5634420f2c7750ad6aa5487379db9bdefe",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0252-000.webp",
@@ -4538,14 +4584,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
         "unitOrCampus": "Split Rock, Easy Walk To Beach & Scenic Trails",
         "role": "additional",
-        "sha256": "ab2ae33bd052539b41812b4e7625cf30754a9310282293992635bdc1782c52b3",
+        "sha256": "cea0573ccf9b0ce82ea2b82b5cfb6ccd2aa155350b673a6fd64eb4b54e173207",
         "originalSha256": "55e76bc07a0f3d773a3d2d052b2c15b0b6ed01b3ebe53eb1ca073f8b0d21ac6e",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0252-001.webp",
@@ -4553,14 +4600,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
         "unitOrCampus": "Split Rock, Easy Walk To Beach & Scenic Trails",
         "role": "additional",
-        "sha256": "0e210d18ea09913ec623026dbeff40eb1860c60aa6dc001b4628ea96e93e17ac",
+        "sha256": "5cf66a63998b2c6fe439a850a47901c63721b1f870de6388720c9b164af3879a",
         "originalSha256": "88998516743b5bce854b6caf3978bdcc6035771d99cadfc8a655b1f91e3c2a67",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0252-002.webp",
@@ -4568,14 +4616,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
         "unitOrCampus": "Split Rock, Easy Walk To Beach & Scenic Trails",
         "role": "additional",
-        "sha256": "4f7b51ec1d9fee64ab856c4f9c3a5604c8a9abba39c99aa52a887986a527ae00",
+        "sha256": "f62aa7ef322fa882796f5d33b29067ae22145f8894dfd2b1512f788ada13a446",
         "originalSha256": "c51dc953126923f64d59115a437259ea95fcce6c56bfb27c54934ea8365c060b",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -4692,14 +4741,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
         "unitOrCampus": "Minutes To Berkshire East With Hot Tub & Views",
         "role": "cover",
-        "sha256": "51718f2edb85aed759ff25035315b78482dfacabbd200186d59b51c8397860ee",
+        "sha256": "24819388b32cf7d5c1e95c952fd8bf4e6831df389858a57c551d595028a74eaa",
         "originalSha256": "e2f1b4857ff99be5a2e1efc72992b366a15ba0d57eb81164429c8a1461e4100e",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1366,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0253-000.webp",
@@ -4707,14 +4757,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
         "unitOrCampus": "Minutes To Berkshire East With Hot Tub & Views",
         "role": "additional",
-        "sha256": "36a792ce04521e584427024f3730129ec654b82a29913076d449998aeaa18681",
+        "sha256": "5592a992f36d010a84e04cb50c6b42377f7ffd96528fc9e6547d9a0d8bf1ead1",
         "originalSha256": "7419b23f7ed07c8b8c52f2b9954fabc8f6e4e3b4bb41ffefdab74e856eeb3b88",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1366,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0253-001.webp",
@@ -4722,14 +4773,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
         "unitOrCampus": "Minutes To Berkshire East With Hot Tub & Views",
         "role": "additional",
-        "sha256": "fcb3f6667b54969702de694a653d9c3d8c1cb04628b4732a937c6a4a9d8bea08",
+        "sha256": "602cbb8271c0d53afa1d58678fc8d3edd3c2062853ac516fb08a9e620054945f",
         "originalSha256": "3d96322be46c5fc9c967ffe96d0d5b90cc370619f0c1559d5435371e2ed6a824",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0253-002.webp",
@@ -4737,14 +4789,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
         "unitOrCampus": "Minutes To Berkshire East With Hot Tub & Views",
         "role": "additional",
-        "sha256": "143d3b101f8faf1a5140d7c79f3b58d56dd93cf982d4cbbc940c0723077c7319",
+        "sha256": "a1ebee0fc22c6a10a2ad7abb9d14e5e5af634dec8855a2c8500d6a6f1e2fee4e",
         "originalSha256": "729ac66d415876930dc73282cdfbab6b455d1d651a8df4e66c542f4f58babc0f",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -4861,14 +4914,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
         "unitOrCampus": "Spacious Lenox Home Near Tanglewood",
         "role": "cover",
-        "sha256": "974417eca767bd19a534e7553ebd263bd5e1f5a0ec4f76b7ae2da6bc37e1598e",
+        "sha256": "095af352bfbd5fbe4598aae03cc55ef0c124d3f91df7cf94a0cd2fce5f743a90",
         "originalSha256": "467b08190d922ad8454372cfb96030ffb69ebae78024a264e0c6c0bdecbef6b0",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1366,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0254-000.webp",
@@ -4876,14 +4930,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
         "unitOrCampus": "Spacious Lenox Home Near Tanglewood",
         "role": "additional",
-        "sha256": "8daf5bbfaea6e60f27318c8f2300009b1995073bfa9b917bad03c769a9467d6f",
+        "sha256": "c6aafe2e4f5792a7caa98bd44315a3df5b85b4727a1d015f3239161f6b5de0e5",
         "originalSha256": "ca3e6caf77a4279533c5520ada7c3c5c5fc0fddaa9611bbaf3ddeebb129d1763",
-        "width": 1600,
-        "height": 1068,
+        "width": 1200,
+        "height": 801,
         "originalWidth": 2048,
         "originalHeight": 1367,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0254-001.webp",
@@ -4891,14 +4946,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
         "unitOrCampus": "Spacious Lenox Home Near Tanglewood",
         "role": "additional",
-        "sha256": "d2f5f2205cc198228ef9e2c39eb11504d99e475d0fddf46fc66f96076532572a",
+        "sha256": "fa344ded31d6dc5e7b3b6693e1b54ba45bcef11927823b86e667cf08fb7fb5eb",
         "originalSha256": "f29700757496225519e99c0c040f1249c7b4437af678e7498d3f8c5fd071dc91",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1366,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0254-002.webp",
@@ -4906,14 +4962,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
         "unitOrCampus": "Spacious Lenox Home Near Tanglewood",
         "role": "additional",
-        "sha256": "47fa8f90b7ba0f745804a39434fe48dd47b9a891acbb51f88dc18fded895cacb",
+        "sha256": "16ba3d56c1363f6a2d307dbd8b41aa9668d13c496ceab26544a0f57e447811b6",
         "originalSha256": "0959c29abd54bb936e18fcd22c1d0d7123e803b9b10a8eace038d17bdf4f9251",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -5030,14 +5087,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
         "unitOrCampus": "Private Berkshire Chalet in Worthington",
         "role": "cover",
-        "sha256": "be7744b51013436170b30016540cec0608ebebe527aa2e35ecb2eb3d3417ad0e",
+        "sha256": "f488fc9bba50ff830284147ece6735a3d6e81478dcca5eacec71cd76a8759a8e",
         "originalSha256": "a8611ff17e276a3dc16f012c84edbf9e5c087a83324dcb361dfb8b64fe8f7e2e",
-        "width": 1600,
-        "height": 1200,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 2048,
         "originalHeight": 1536,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0255-000.webp",
@@ -5045,14 +5103,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
         "unitOrCampus": "Private Berkshire Chalet in Worthington",
         "role": "additional",
-        "sha256": "1a16a1f01924563cb68f97f3d238592a9dbc8b3d032ea503d70c8fab7d58bddf",
+        "sha256": "1025fab0d01f7bb111ba572b38d2ebcdd06d0bcb3be35bb8a835d98c55e5418e",
         "originalSha256": "50d437fb6e6cf5d85f9b6e965f0169cb46110a9740527818ce563457be0e5689",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1366,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0255-001.webp",
@@ -5060,14 +5119,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
         "unitOrCampus": "Private Berkshire Chalet in Worthington",
         "role": "additional",
-        "sha256": "abcc18181414a35b3f0564022f4c182dd7aab27c9ea0d853a669ab87b838d9bd",
+        "sha256": "6c393de4d000467090925df24b8f2e9b5bf222d56b42d7bed52ef82333aef34b",
         "originalSha256": "cbb6ff6f1bbc413a4b24b1f7f19fa98e683fc28746fe131e0b8e2a0b93c6dd7e",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1366,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0255-002.webp",
@@ -5075,14 +5135,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
         "unitOrCampus": "Private Berkshire Chalet in Worthington",
         "role": "additional",
-        "sha256": "94cd383bff5e8d639da1ae8fa92851bc94a5a7f24a6af17ba7cfa16e2518ff9a",
+        "sha256": "ac3373d17ec54cedb4317205b94a020c8c25e1fc98cf5fe3e7944e12c840cee9",
         "originalSha256": "680289b2011420c2d9f96842c0075792170ddc7eeaf64d0d65d911f95f8bf099",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -5199,14 +5260,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
         "unitOrCampus": "Nature Retreat Near Prospect Lake",
         "role": "cover",
-        "sha256": "3d22c08cee36286881b8d8946f208a94292329ac6abe515114c27bb26526d50c",
+        "sha256": "1f6e3f9b124d16417f3da30fa7911cbb70829f7f229470c080f8719f5d07b79f",
         "originalSha256": "ac783b1e10bf7534ea8a75059b449183b688a920e6034b28d084e2b4128cca84",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0256-000.webp",
@@ -5214,14 +5276,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
         "unitOrCampus": "Nature Retreat Near Prospect Lake",
         "role": "additional",
-        "sha256": "f27dd63005b61506444cb1b3b2ef8572c7b8281c01df9a46f551bf1ca7ade991",
+        "sha256": "5e467023fe6a3ab3ed18cae1c2ebcfecd35bdf506eb1574ca1656a68d23787ed",
         "originalSha256": "4d5b37c493f2dd126c81927a0a66035b0cc531693c7b037e69426abd5c8ccf7b",
-        "width": 1600,
-        "height": 1200,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 3000,
         "originalHeight": 2250,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0256-001.webp",
@@ -5229,14 +5292,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
         "unitOrCampus": "Nature Retreat Near Prospect Lake",
         "role": "additional",
-        "sha256": "38e5fd4f9386343e8c370ae61f993acf701dcb19715efd677de9777cc234e5e1",
+        "sha256": "f1db72321ccea40a8c380784eb692b5a375352091c13ab8951e3c69d32ffb9ed",
         "originalSha256": "55b2b342b9163de4e907df2d5555da66762313289b3d9ae2e3af773972fe73b9",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0256-002.webp",
@@ -5244,14 +5308,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
         "unitOrCampus": "Nature Retreat Near Prospect Lake",
         "role": "additional",
-        "sha256": "d8073eb742a2a664a012a2ae41f9795833daddccaf8c25c7a463ce64395ad54d",
+        "sha256": "6c9af1c79b23a68b7eb4acaa10c4aa29a4a810eae2244f0861f349bf1941aa8b",
         "originalSha256": "0ede0992b66520289999d446145efe13feeab33ffd68442fff98ea7a3742c4fb",
-        "width": 1508,
-        "height": 1352,
+        "width": 1200,
+        "height": 1076,
         "originalWidth": 1508,
         "originalHeight": 1352,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -5369,14 +5434,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
         "unitOrCampus": "Oceanview Getaway Near Nantasket Beach",
         "role": "cover",
-        "sha256": "86adecd615e9ccd578b39cbf725c878d56e94251f323be162ff1a441fe890e61",
+        "sha256": "23f25e82e0e7dbbfad2e07d40386daaa2f12fb9a7538b11e206c47957be700a4",
         "originalSha256": "903da81d53db7607c2a06edff6536a46a7f1058d8afd6a9f22c65997276360ae",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0257-000.webp",
@@ -5384,14 +5450,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
         "unitOrCampus": "Oceanview Getaway Near Nantasket Beach",
         "role": "additional",
-        "sha256": "a4b8107574dd7880a544d019aaaa7aefb9026ea60995a3ac2fcbdcfe1c880bd5",
+        "sha256": "d7ad3ae016f501897afaba33ed0d57399bc2dbe9478d7da77e59f31b6ea4af64",
         "originalSha256": "f4a9bd5b096e269e0a9dd4e4215856876944b1f176399ce9511ff0d891acc813",
-        "width": 1561,
-        "height": 1041,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1561,
         "originalHeight": 1041,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0257-001.webp",
@@ -5399,14 +5466,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
         "unitOrCampus": "Oceanview Getaway Near Nantasket Beach",
         "role": "additional",
-        "sha256": "92d12165c0403df900c909b4eb86f40ccbfdc333764cbe18381011f64983b2f2",
+        "sha256": "79d847173d3ea89d22bd92c7102acbb81db02080706fb4c0152c19f160389f73",
         "originalSha256": "b8f9ac11b0e8aabb094fe6e287248e76163b91944f95d038d08bb722147067aa",
-        "width": 1600,
-        "height": 1068,
+        "width": 1200,
+        "height": 801,
         "originalWidth": 2995,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0257-002.webp",
@@ -5414,14 +5482,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
         "unitOrCampus": "Oceanview Getaway Near Nantasket Beach",
         "role": "additional",
-        "sha256": "b18d0b303468ef3e95f8314b63f6cac4aaeffeecd497ffca3f3767ec03b055b7",
+        "sha256": "5a401eead1391a334bd0f419da258e30d57fe31552783f14f3b48f51abaf822f",
         "originalSha256": "541dbd9dc0854084ebc1d8025515c48a3d75679fbbe5f60aadae75e224b8ac48",
-        "width": 1600,
-        "height": 1200,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 3000,
         "originalHeight": 2250,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -5538,14 +5607,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
         "unitOrCampus": "Book The Last Of Summer In Rockport!",
         "role": "cover",
-        "sha256": "8a0382bf93d5dd8cc16150f42ac54cf54c1031f88939ae14e176150fb0acc1f7",
+        "sha256": "fc1b8be96dbdc4b5acd6c5d7ff488c7ba6b2a1152fabd9b5c3be132f06b6a769",
         "originalSha256": "bdada77584c2d339d0e79c9c0d9168251d6918a37f287b59982f3b970f9b3dd3",
         "width": 1200,
         "height": 900,
         "originalWidth": 1200,
         "originalHeight": 900,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0258-000.webp",
@@ -5553,14 +5623,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
         "unitOrCampus": "Book The Last Of Summer In Rockport!",
         "role": "additional",
-        "sha256": "99b086bee8a7913312bfce6bd75ce559936839b93d66ef2e798044ebb3c5da68",
+        "sha256": "489f7f69fec455ecc68b5a4101deafd5a0c657126fbb6a6d39efa7e388092ebe",
         "originalSha256": "ccbe41c466322e450d9555f3d4fb39d30dcf667b01da9cbad6d76722c5324750",
         "width": 1200,
         "height": 900,
         "originalWidth": 1200,
         "originalHeight": 900,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0258-001.webp",
@@ -5568,14 +5639,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
         "unitOrCampus": "Book The Last Of Summer In Rockport!",
         "role": "additional",
-        "sha256": "ca085fa8ba8120d910742245b2052aa94f0d4b9752f1a81d362f93f105300fd2",
+        "sha256": "1f45acd9fa77a6aa34483269456c7cfe0f983992656598b352dc1485627c341d",
         "originalSha256": "620bbb29f7fe1d211accff0d8430e1f09ad856ab9145a86d228847762a80b2f7",
-        "width": 1600,
-        "height": 1073,
+        "width": 1200,
+        "height": 805,
         "originalWidth": 1610,
         "originalHeight": 1080,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0258-002.webp",
@@ -5583,14 +5655,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
         "unitOrCampus": "Book The Last Of Summer In Rockport!",
         "role": "additional",
-        "sha256": "87696f6761ca5cb936ac8972035ff78727bbce5e2b7e8a162263aab572bf8897",
+        "sha256": "587d2704b2ec3fbb7dfd51c41d1924f8318d98c348171fd71cbe43a0d9c55d29",
         "originalSha256": "aef8b9e53e8a64a2e33c605858578dd6f65953b9fbbf58d2a6811ad5e2086daa",
         "width": 1200,
         "height": 800,
         "originalWidth": 1200,
         "originalHeight": 800,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -5707,14 +5780,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
         "unitOrCampus": "Riverfront Log Home on 44 Acres with Sauna",
         "role": "cover",
-        "sha256": "da1fca39a59b8827ad5913a716af8f3dcb021cb3e9cfde7870adaf3c71e50c21",
+        "sha256": "d9e51c2a61dda6eea3f38da570887ce2869e8db561bac16dfa77deee4660ad04",
         "originalSha256": "8a5cdcf41291bb43efad9c762dd1bfa576be3d0678cdfec0a32742eb3e552216",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0259-000.webp",
@@ -5722,14 +5796,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
         "unitOrCampus": "Riverfront Log Home on 44 Acres with Sauna",
         "role": "additional",
-        "sha256": "962e0c609cdfdeb1340c6934353b82225cf790b4d949d49f40e9c79c78b5f479",
+        "sha256": "c554cdcf172247be727214293fda7262f83f4e3cde25f53d8880e625f9e39260",
         "originalSha256": "c8a133a162af91c13087558e14be0e681c223ece40f5369f2cda8602af3194dc",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0259-001.webp",
@@ -5737,14 +5812,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
         "unitOrCampus": "Riverfront Log Home on 44 Acres with Sauna",
         "role": "additional",
-        "sha256": "9e668cf46a75140a54288a432486f89403cde593e1626554a2271e6696e50347",
+        "sha256": "cc1f8d2f3e56bae623434ce8bf4129b524d30f5dca4632d4209b1bf3ef7935ee",
         "originalSha256": "b2bffe570526d04ab3ea4ecb013ce2c5f0f9dfa5b020d8d2e44eed3e2066c53e",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0259-002.webp",
@@ -5752,14 +5828,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
         "unitOrCampus": "Riverfront Log Home on 44 Acres with Sauna",
         "role": "additional",
-        "sha256": "9358d435939db4d99a474fc7f7424a2ca41090473777adb6f2afb4904a4fbc00",
+        "sha256": "6e54026122bac87d6ca65f5a3458ac26f841a5c5a322b7112b4bed6ed75789f0",
         "originalSha256": "e4340b007390b68a130deeda107c2c3cb32b02ac8892c66f94f6ec89ff6b7215",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 3000,
         "originalHeight": 2000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -5876,14 +5953,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
         "unitOrCampus": "Relaxing Cape Cod Hideaway with Modern Comforts",
         "role": "cover",
-        "sha256": "8ebc124cc076b2e54816fd692ce4c2bb7c4e1910020791b8fa27d4440b6f9b05",
+        "sha256": "abe89e8acf90f03ff4d1eb49d11887cc436d4cbfd8f7ae3cabf2f9c948f33a9f",
         "originalSha256": "b357e6cdc46278e5627be30aaf33da2df14233694ccc43362372c56e4aa1a8cd",
-        "width": 1600,
-        "height": 1200,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1620,
         "originalHeight": 1215,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0260-000.webp",
@@ -5891,14 +5969,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
         "unitOrCampus": "Relaxing Cape Cod Hideaway with Modern Comforts",
         "role": "additional",
-        "sha256": "577198e39d315da133a7258cd5cb4662f2c1428d6f7199d356cf17142f7bd98c",
+        "sha256": "744f09f685c68389da887a5a225c47502df30738ac9cc7ba4a2618c1e14213ad",
         "originalSha256": "dc81c3d1e316a50e1e5191603810a86a8899ac766f14c8ac1e55b400b59bb5ec",
-        "width": 1600,
-        "height": 1200,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1620,
         "originalHeight": 1215,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0260-001.webp",
@@ -5906,14 +5985,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
         "unitOrCampus": "Relaxing Cape Cod Hideaway with Modern Comforts",
         "role": "additional",
-        "sha256": "f5c5f1f237551176fd47eaabc898e1f88a5e76a11fb9f79cbf0fe45e459d9d49",
+        "sha256": "305a6232416ba7d6ab3e98b6052f4021662d85f3273117768883bfea3d7d927d",
         "originalSha256": "4a538d94e74adb6c0789a014ae6c5f71e5e7b3ab12a23eacf04e74b82db504dc",
-        "width": 1500,
-        "height": 1125,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1500,
         "originalHeight": 1125,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0260-002.webp",
@@ -5921,14 +6001,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
         "unitOrCampus": "Relaxing Cape Cod Hideaway with Modern Comforts",
         "role": "additional",
-        "sha256": "901ba6226e666d48b1c42b70431084e7da5192f281686bd73cfb55f0c30dac92",
+        "sha256": "60a244c2878d82f42f01273777ca669b984fec61369bc2be82da01d7f4a32879",
         "originalSha256": "cc6a987aaa0e55608599f7b0b6e6ca5692b4186c3935991bf6652af95459ea53",
-        "width": 1042,
-        "height": 1600,
+        "width": 781,
+        "height": 1200,
         "originalWidth": 1224,
         "originalHeight": 1880,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -6045,14 +6126,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
         "unitOrCampus": "Historic, Modern Comforts, Walk To Downtown",
         "role": "cover",
-        "sha256": "4684a1c433d0323e3f63aa26c45a2bf80766f701e6eca459d784c9a7e0141ace",
+        "sha256": "6755d3ac51ba91912867e4cff6c525f547c5538d7c7be2335edca033c02a0a3c",
         "originalSha256": "2e1c19e4fcd6244025414f503c003551b7bd336139ccc582a77ca927e00e5407",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0261-000.webp",
@@ -6060,14 +6142,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
         "unitOrCampus": "Historic, Modern Comforts, Walk To Downtown",
         "role": "additional",
-        "sha256": "33554fefdbc2febd960a9277d08a3517a1a24952899606d804998f0c1a535cd8",
+        "sha256": "7d0211a4248f003bf644807dc245e22d0df54e92a8e5508bbaa357b80d978aeb",
         "originalSha256": "427d2add2a4631af44d85984b4863234c43c9716974a9178a84d3c4320f875b9",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0261-001.webp",
@@ -6075,14 +6158,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
         "unitOrCampus": "Historic, Modern Comforts, Walk To Downtown",
         "role": "additional",
-        "sha256": "384f3a60b8a640872c5a16cd11921e1764bd3e3f48b0f1a8fe5ea29664affb42",
+        "sha256": "47a863608bb4641739bd7dee51a7334e7b762615361d70e8ffc4f36140869780",
         "originalSha256": "d288b3cf1418f97a3a113e95663be11f1dbe63515cfc98e3235f20d0da8409da",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0261-002.webp",
@@ -6090,14 +6174,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
         "unitOrCampus": "Historic, Modern Comforts, Walk To Downtown",
         "role": "additional",
-        "sha256": "806ea83baad9c5f2ea631282d4f44771c014f7e6f235cf9b491a8b3b3c0e409f",
+        "sha256": "a1cf06da830529f60e1d833dc677a8eb20d8ae9a36d1b643b7ce2ff63be9864d",
         "originalSha256": "fb8430ebee14b418603f73024cf9fa01cc47786c6840779ecfa37c3df00e67e4",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 2048,
         "originalHeight": 1365,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -6214,14 +6299,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
         "unitOrCampus": "Coveted Cottage: Humarock Beach Experience",
         "role": "cover",
-        "sha256": "e42dc1a8fa23b8bbbf3fbef94e53966b38c225fba758bf54fa7607f5f7a5916c",
+        "sha256": "93f8d49454c2e7db0974964eadbd5c3657369b5609ea609ab6c22c820ca146b3",
         "originalSha256": "eae09db5d79a9c64d1ca12a26678c39834e95daa4650b1428c86a817133842fc",
         "width": 1200,
         "height": 1200,
         "originalWidth": 1200,
         "originalHeight": 1200,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0262-000.webp",
@@ -6229,14 +6315,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
         "unitOrCampus": "Coveted Cottage: Humarock Beach Experience",
         "role": "additional",
-        "sha256": "430145d7f14b5f56076bb15f3c59bb0c05b97e8f01c954b74644cf3038df1168",
+        "sha256": "9d7a65f2c71e09ea0174849e24cc301e8f7c4003d96e4adbd504e0666d93cee2",
         "originalSha256": "96d9eac985b2f4d5df7af1cb72dc66176fb095da3c23a8848bac852eb9a00640",
         "width": 1200,
         "height": 900,
         "originalWidth": 1200,
         "originalHeight": 900,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0262-001.webp",
@@ -6259,14 +6346,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
         "unitOrCampus": "Coveted Cottage: Humarock Beach Experience",
         "role": "additional",
-        "sha256": "481361472155698d8e1c40bd097c9875fefbbe7d60dc5a8e2fdc54b19db80256",
+        "sha256": "5ca4a9b7044f765c9e719602dc0085a3d4cc156ac7b8a66fa5b23b9aaa671730",
         "originalSha256": "a4355c8de27d8155c1cd67926ccd662bbf64ab1ebf9f488fcac054feb344af5b",
-        "width": 1500,
-        "height": 1125,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1500,
         "originalHeight": 1125,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -6398,14 +6486,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
         "unitOrCampus": "Humarock Hideaway, Tranquil Cottage with River Views",
         "role": "additional",
-        "sha256": "5dc8072e703b89fc99847c29744b338f0ecb4284c60bcd28d80873499b928ced",
+        "sha256": "3428831946b5b140570908c7c9191ff37bb7eef770d19ae8ae19a93d66f997bb",
         "originalSha256": "9bfe49f0ce4606970e5d81cdb1f5e186172bfa6b9786fb128b3694554a693cd0",
-        "width": 1200,
-        "height": 1600,
+        "width": 900,
+        "height": 1200,
         "originalWidth": 1200,
         "originalHeight": 1600,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0263-001.webp",
@@ -6428,14 +6517,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
         "unitOrCampus": "Humarock Hideaway, Tranquil Cottage with River Views",
         "role": "additional",
-        "sha256": "4a6729fb1265bb897679df807110297b925c96570f40cdfc39ec18add7d1e069",
+        "sha256": "75d8963a55ebd01a1eede55c560737f859b7b29f14249c3f02a49e95e414d01e",
         "originalSha256": "809a5b21150d200326cfca2f1bfb3ba06083f35ecb688024c73d87e58318ffe2",
-        "width": 1500,
-        "height": 1125,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1500,
         "originalHeight": 1125,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -6552,14 +6642,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1",
         "unitOrCampus": "Cape Cod Haven Near Beaches & Town Center",
         "role": "cover",
-        "sha256": "974dcd304751e07789b802dfc9e719dc7e79d850de2afff61e056ae6e1f0e72c",
+        "sha256": "a88d6952fab47a76316eb634e15249d47f26a35f21ebc9de87d22904306705e3",
         "originalSha256": "b1153f1910fa19d8626435ffb659bea9bcaa9dc50c8baee3f1c6b6011f3fc417",
-        "width": 1500,
-        "height": 1125,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1500,
         "originalHeight": 1125,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0264-000.webp",
@@ -6567,14 +6658,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1",
         "unitOrCampus": "Cape Cod Haven Near Beaches & Town Center",
         "role": "additional",
-        "sha256": "1a7d1e2b489cbe223eca9b6b2b7f118be6ea14952a274cb805de9e8f2053fa48",
+        "sha256": "ecfebec478efd34a3871e73d601abe522001cde484418f3e6ee0acfea46bf2e4",
         "originalSha256": "ecf8ec40fc367efec9ecd42c4eceee4869200264c3fa677ac9fdf4743a4c0c81",
-        "width": 1500,
-        "height": 1125,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1500,
         "originalHeight": 1125,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0264-001.webp",
@@ -6582,14 +6674,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1",
         "unitOrCampus": "Cape Cod Haven Near Beaches & Town Center",
         "role": "additional",
-        "sha256": "b200dfcba0dabef4781b907799429c76fc3d0c6194162bd767a6483d5a8e2517",
+        "sha256": "eb91c0ffad5594400d9587fa6e41315a9968ea2a83f842851f6c6dc5ee349983",
         "originalSha256": "135bd5a66e47153c45ca505a9ec959219d88d00124217b7f90e65080a41f452b",
-        "width": 1500,
-        "height": 1125,
+        "width": 1200,
+        "height": 900,
         "originalWidth": 1500,
         "originalHeight": 1125,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0264-002.webp",
@@ -6597,14 +6690,15 @@
         "sourcePage": "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1",
         "unitOrCampus": "Cape Cod Haven Near Beaches & Town Center",
         "role": "additional",
-        "sha256": "38d8458a48702dad76b89cd532e95b24d82b2c4c754cadbf981397a904cd14b6",
+        "sha256": "ddabf975beeab921b1bdf0a337883df4a5b1cb76f9f7eb438f317c1f5c7be4fd",
         "originalSha256": "a91c1f2b40c1ca4edc29cc737488d46ba267b74189222050ab7c4eb5dfa63da4",
-        "width": 1200,
-        "height": 1600,
+        "width": 900,
+        "height": 1200,
         "originalWidth": 3000,
         "originalHeight": 4000,
         "generated": false,
-        "checkedOn": "2026-10-26"
+        "checkedOn": "2026-10-26",
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -7206,15 +7300,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
         "unitOrCampus": "CozyQuahog",
         "role": "additional",
-        "sha256": "37beab2f14945b1b465e0871d41054b5ce85d6ff025b895d2588a7a4262c8ea6",
+        "sha256": "447da6c763aa05dfb3ad4d2e59686ea1234be4c337f97e53c01252adac5a25fb",
         "originalSha256": "a8a8c089ff2894a2e257ead3a764a8822bfed99f4b2af496d86146bae15f96c6",
-        "width": 1600,
-        "height": 1266,
+        "width": 1200,
+        "height": 950,
         "originalWidth": 1600,
         "originalHeight": 1266,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0274-002.webp",
@@ -7396,15 +7491,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
         "unitOrCampus": "Cozy Quahog",
         "role": "additional",
-        "sha256": "37beab2f14945b1b465e0871d41054b5ce85d6ff025b895d2588a7a4262c8ea6",
+        "sha256": "447da6c763aa05dfb3ad4d2e59686ea1234be4c337f97e53c01252adac5a25fb",
         "originalSha256": "a8a8c089ff2894a2e257ead3a764a8822bfed99f4b2af496d86146bae15f96c6",
-        "width": 1600,
-        "height": 1266,
+        "width": 1200,
+        "height": 950,
         "originalWidth": 1600,
         "originalHeight": 1266,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0275-002.webp",
@@ -7547,15 +7643,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
         "unitOrCampus": "Casa Isla",
         "role": "cover",
-        "sha256": "864b1f31aaf2da05218b78cdf71f5e1de0d9f632957b214861b53afaaf235f14",
+        "sha256": "f07f466736062f7c43dd4e3493d0d37e7bb8f878814ba17e5f2237fbb86fc2b8",
         "originalSha256": "860ceaee33f384f19df38f424006fde399fec6ae1ac527b6a1467e074279504f",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0276-000.webp",
@@ -7563,15 +7660,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
         "unitOrCampus": "Casa Isla",
         "role": "additional",
-        "sha256": "f9149bd2f4359f4666af19f383f67ad6c01dee53467cd534ba9b0ec7e4e75003",
+        "sha256": "a7b821f56befb13079fcfc1da549179f3fea96275515f4b13da4ad6544aff360",
         "originalSha256": "cb42f193e47c3792ab554f94392a824bda8b1393d0099bfa74b606547e4081df",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0276-001.webp",
@@ -7579,15 +7677,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
         "unitOrCampus": "Casa Isla",
         "role": "additional",
-        "sha256": "191ecd6d9d1aa15c792cdb3634c726973b59a3d8b4ec4a939b04311c41c67f25",
+        "sha256": "5d53a7e69176df48ce2ba5b5d072278c9391b59f512a4a0273520c2860fa35f1",
         "originalSha256": "14b5c8f7c6ca4fa1026e63adc12f4e8ec33f0b0eb4cc85c649856515dad020b3",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0276-002.webp",
@@ -7595,15 +7694,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
         "unitOrCampus": "Casa Isla",
         "role": "additional",
-        "sha256": "77b89bf0032a1faecbf29ad2e78e40968d93b12812d28264f32ad8e6d8a8fa77",
+        "sha256": "0d178dab0dd41b060dff3a3915ae634d3f3e7f6207f61d5770498b12f28d2550",
         "originalSha256": "8e72d88f80b0a89279f54efc39843eafcc9c2f569df859edf2b2f09ac807b2de",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -7730,15 +7830,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
         "unitOrCampus": "Oceanview Oasis",
         "role": "cover",
-        "sha256": "047211637ca4ae10d392d637ca86471e172872ff398dd80837709f823774ffbe",
+        "sha256": "4ee34e80114d57e14535f247019c9d8ee09d74377907966687199110f79335be",
         "originalSha256": "754721e3cb85781192bb5549aebf2dff934bec7ed3ceec8360da4f0dc7045322",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0277-000.webp",
@@ -7746,15 +7847,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
         "unitOrCampus": "Oceanview Oasis",
         "role": "additional",
-        "sha256": "1f9e31bfc76a5cfefadc54e5d87d9ed3e12b1794cf2b455f94378276e49e3889",
+        "sha256": "92601721debe69637f3944fd05dfcd2e4d8b7441ea2fa8d6917280d1ebca3cbd",
         "originalSha256": "09c5387a813daa02d0b1fe2feba92766d7eb94ec319bda14b0f5a13a90bdf022",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0277-001.webp",
@@ -7762,15 +7864,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
         "unitOrCampus": "Oceanview Oasis",
         "role": "additional",
-        "sha256": "5204b44c5bfe0c41a4dc7b6e3463525d9f86d76ef882c968ba851f1fa643478a",
+        "sha256": "74f85390f10a6e283bf89a3d86fcc85d0eacafcdc9d7e4d35e3986945e71bc5a",
         "originalSha256": "fb16ff648d8cc8bdc122010d39e96463c15acecd9cad00616c95696fa3109218",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0277-002.webp",
@@ -7778,15 +7881,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
         "unitOrCampus": "Oceanview Oasis",
         "role": "additional",
-        "sha256": "857c8288c4d4e16b8af0fe83c217c7a1cbe47840a1e33f242a5a2e117d4a1ecc",
+        "sha256": "8e1d180259467344efcf3169c305eddd8f1dd7ea02febf88b0f7e2cd45753351",
         "originalSha256": "1f4485413f5051576fe5658ddcdc66d0c5e2a895ad697412ea4926a2dff406ac",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -7913,15 +8017,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
         "unitOrCampus": "The Fairview",
         "role": "cover",
-        "sha256": "a9526fe9f12efda3f0abf389a3c31f7864d47ae078a3043b9dc8dca241f37ca8",
+        "sha256": "857efd71770e21c85e4232659b550058a0a73636ee701d57e92f0e58e09df200",
         "originalSha256": "f6a092418ee6b2a5f60d914b6e663228c7200abd4e585bfb40edaa7396fd058b",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0278-000.webp",
@@ -7929,15 +8034,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
         "unitOrCampus": "The Fairview",
         "role": "additional",
-        "sha256": "59184647ba90d224ba2fac7bcff08f26ce0b6c1ece64603d87c68a5242ed310e",
+        "sha256": "5b7aaff2283f3b009cc6b2a3cc736bb81ebed07b944ef8f1fe9ee86fbebf8bef",
         "originalSha256": "a0b1ce0c40f7fd34dd16ee1092267f9082d6a2f8e05410c40f95e3f96790cc93",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0278-001.webp",
@@ -7945,15 +8051,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
         "unitOrCampus": "The Fairview",
         "role": "additional",
-        "sha256": "679f887143aa0e5074753ebd4f6b3572cd3a283e702454fb219cb39d155d76d6",
+        "sha256": "6dfb540a3e2ec355bda1f95db04d29e9fb15616fdbba959994ac6f8f8795c213",
         "originalSha256": "b0bb5ee2b8112ac15ccaf97ce217ca447ff923b6f6d9b695d422a913e818e68a",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0278-002.webp",
@@ -7961,15 +8068,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
         "unitOrCampus": "The Fairview",
         "role": "additional",
-        "sha256": "dc063d163c5f2f3dbf25c65056768a4af47ce397fdd9771273d37cd36a85d769",
+        "sha256": "a754559f981141b6c894ecce09a6c26e4a689d4128b5909bae3a0874db5f82e2",
         "originalSha256": "448490a7d2dbb3728077a1e6046c83162b2e2805dc56273c33c265a3c34681ab",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -8096,15 +8204,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
         "unitOrCampus": "Bay Breeze",
         "role": "cover",
-        "sha256": "210c471e74ab33d361f56642a19b8544acf53d73e302b21e20625eb924f37c2a",
+        "sha256": "4e3973f566e1e85e2faccdf1fd15b88c452c3c25074f5cfbf1b32645112a3b9c",
         "originalSha256": "676e4f242d83bdd56ee1a4963604324fa55971a98668fd77e595e0939de68398",
-        "width": 1600,
-        "height": 1198,
+        "width": 1200,
+        "height": 899,
         "originalWidth": 1600,
         "originalHeight": 1198,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0279-000.webp",
@@ -8112,15 +8221,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
         "unitOrCampus": "Bay Breeze",
         "role": "additional",
-        "sha256": "713c244d8384ce7b1be6e324cdb65a85edf3d615e876b7d545512fb916653ed3",
+        "sha256": "6266e92350f304374571f848d8aa4d47bda7f8ff3ba5cb6d016be2894da651ec",
         "originalSha256": "1bbfcb94b23f3563655eb5000d7b56d3a35b61ad3b5be5cf7e36d59fb0ed11ec",
-        "width": 1600,
-        "height": 1198,
+        "width": 1200,
+        "height": 899,
         "originalWidth": 1600,
         "originalHeight": 1198,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0279-001.webp",
@@ -8128,15 +8238,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
         "unitOrCampus": "Bay Breeze",
         "role": "additional",
-        "sha256": "5994d0c07f39aafc7f4f020eb8fcb20eb2ad2399358353bf334ab5711e95b624",
+        "sha256": "7007261330adf7a13541e05a49e7591efd0fcca35755d35e95ad17d0b9fa0f7b",
         "originalSha256": "6714828f4132ba84e86131ed0f55f384b4618ed108c47100f1f06f1fab536090",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0279-002.webp",
@@ -8144,15 +8255,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
         "unitOrCampus": "Bay Breeze",
         "role": "additional",
-        "sha256": "07dd50b5b794cea258539a2f4aeccfe98e7ed777e7a1b972d7eb98682e895374",
+        "sha256": "a0d47f4da7ed002612adae3348918fc1835679b24903b2e77327c827229b32c8",
         "originalSha256": "d71a3496447dbd41f98b10f950d795823dc005d4b61af681b0368c503d41075e",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -8279,7 +8391,7 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
         "unitOrCampus": "Birdseye View Oceanfront",
         "role": "cover",
-        "sha256": "097a084646da7f148249cd2de40768543a5d15d85e73c5dcd39a27f460ee80b4",
+        "sha256": "adfdb9f63f37cb94399a7e3a58f9f6ff9975a51e978121920794364dd82f7f6c",
         "originalSha256": "8ddd5cd9b82f335643e7db0fa8df707c5870089a144a58a1dadcbf51d48b8607",
         "width": 1050,
         "height": 700,
@@ -8287,7 +8399,8 @@
         "originalHeight": 700,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0280-000.webp",
@@ -8295,7 +8408,7 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
         "unitOrCampus": "Birdseye View Oceanfront",
         "role": "additional",
-        "sha256": "81ff7e2cfdea299b6fdf7ec3d5a8de1e0b828786736f1a53f1b0bfffc0429cc1",
+        "sha256": "5d1e840a1e060ec55636186509c7c5923ef38edf034d821114a6752ce1dc3620",
         "originalSha256": "9023bb736a51781a8d94724f7a14d434c21dbb1cd67c2c4bd874b2558ee61b69",
         "width": 1056,
         "height": 680,
@@ -8303,7 +8416,8 @@
         "originalHeight": 680,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0280-001.webp",
@@ -8311,7 +8425,7 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
         "unitOrCampus": "Birdseye View Oceanfront",
         "role": "additional",
-        "sha256": "fae6f0cbeca172ab99c69441c4cd2a57399af29bc4cb17424c96ddf40eca5843",
+        "sha256": "c81619faa15c7189461a082146f9a54ec2b5959283e71fa0f9679515c6c4cacb",
         "originalSha256": "3c69513003ba6f16bc4970965485e83787bb61492c2bcf5f499a838b8316abc9",
         "width": 1039,
         "height": 702,
@@ -8319,7 +8433,8 @@
         "originalHeight": 702,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0280-002.webp",
@@ -8462,7 +8577,7 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
         "unitOrCampus": "Lovely Day Oceanside",
         "role": "cover",
-        "sha256": "b1019365e2979e81d86b0deb5bf1e438b71d9c826634c6d0c3ccd66169db22be",
+        "sha256": "ca72294165d449ce6c69091376ca88b68da6c926b3397f0cfca03ea12efe9313",
         "originalSha256": "ecefeaca3f853725fc7c2d778f9970c56ac7380cf7952887f18fd0d7b8060821",
         "width": 955,
         "height": 698,
@@ -8470,7 +8585,8 @@
         "originalHeight": 698,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0281-000.webp",
@@ -8478,7 +8594,7 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
         "unitOrCampus": "Lovely Day Oceanside",
         "role": "additional",
-        "sha256": "cc6e9908fb1741f17315c587eb65d48f9a190fe88b5514f1fe374900bda886ee",
+        "sha256": "da64264bbf7398f37ee016297f88356f0e19e0d28c87feb285ce53177101877e",
         "originalSha256": "1d79d15be761819db611dc6b9445796039502ba4eea0aa68b16433937f7228a4",
         "width": 533,
         "height": 708,
@@ -8486,7 +8602,8 @@
         "originalHeight": 708,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0281-001.webp",
@@ -8494,15 +8611,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
         "unitOrCampus": "Lovely Day Oceanside",
         "role": "additional",
-        "sha256": "efff4c72d061d079094f75ddef0b1db559517a4f01bc8caa85fdee0945939953",
+        "sha256": "51aac40df536d06f980a73d9e1ceda9b6fdfeb4f31e1a4ec9566f6a45f1cf5c4",
         "originalSha256": "7d8a64056bf127170d469c6f0bf25e43aa85141d7c6bf7c3de6df210c1212f7a",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0281-002.webp",
@@ -8510,15 +8628,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
         "unitOrCampus": "Lovely Day Oceanside",
         "role": "additional",
-        "sha256": "41fd0ddd7b99fd91b97d23f63f4d79a2df4be5776d877ab82082d4f55b20e5ef",
+        "sha256": "5210879c3b395a9dbb4df28dd36adf8430ea1942ce5836bd4264cdb1a10b3d44",
         "originalSha256": "117f39f4509dd61ba440ceeb9d58a9a8aa4575be6d5e7a35cb67990c79885a47",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -8645,15 +8764,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
         "unitOrCampus": "Maple by the Bay – Fort Phoenix",
         "role": "cover",
-        "sha256": "f7db051f80bdc469e65af4063029c599670bd8b16094d977373cdbc6dd3db12f",
+        "sha256": "8d0dcc36dc4e942c169f4790837c4148a12b6484c5f4a0c9692081e221f6ee8c",
         "originalSha256": "894f7208e36c6095c3bf44411206d6894c540b96bb376f5c6e5ee09ad0886549",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0282-000.webp",
@@ -8661,15 +8781,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
         "unitOrCampus": "Maple by the Bay – Fort Phoenix",
         "role": "additional",
-        "sha256": "a9bc792ff2b0cb287526fec1d475fe7c535800c8c77320b8dfe07f730b3cb30d",
+        "sha256": "63e7ad51b9d905162d958c3e348a673acda104d8a522ab6bf11a1c9377605ae1",
         "originalSha256": "5084b7ee9b5fe036c750915aa775f944ab836712220325576abfacfddce12094",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0282-001.webp",
@@ -8677,15 +8798,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
         "unitOrCampus": "Maple by the Bay – Fort Phoenix",
         "role": "additional",
-        "sha256": "6a8c45c972295e4e1737c12bcc4d2a575cebeefd26ed74cdd9ecc04c056ad36f",
+        "sha256": "f1da0aecaa600b42e25af6ac608209fc84c5e03b2a6d7b3ec6869a1a2d87a3cd",
         "originalSha256": "55417e905ee380c17519865429bfd6415eeb008f1a2b29d0cb2139ddbd48c6d3",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0282-002.webp",
@@ -8693,15 +8815,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
         "unitOrCampus": "Maple by the Bay – Fort Phoenix",
         "role": "additional",
-        "sha256": "2786e9618541e9d59c527d1b147621b152c6814c1c431e405fc226310cd2d18d",
+        "sha256": "f5b9338b97a23c0ec2129e34f7013fc74a3f7ef41cfbdbcd38d0597f8ba639fe",
         "originalSha256": "16e01fee5e476e7e2873006a1e517435890ca0fa9689e0536f11897c3b1aca81",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -8828,15 +8951,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
         "unitOrCampus": "Strawberry Moon – West Island",
         "role": "cover",
-        "sha256": "253cd518817fd07c93b64eb6258701440598adcbf37e33834bdf8e3da03edfe9",
+        "sha256": "3d017f26cb37991b697101ca37f731f85045cbbcbfaee8fcef15bea2c886069e",
         "originalSha256": "9ca8955b579e78e6cea446c6a537d34b92fc359b641f83bab17a647d82005ef8",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0283-000.webp",
@@ -8844,15 +8968,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
         "unitOrCampus": "Strawberry Moon – West Island",
         "role": "additional",
-        "sha256": "f8ff2532b2ff4bcb22ee878b465514020ced5c8fba893c279f8428ef479b946e",
+        "sha256": "634dac54d2f0228f927368aa00b0f8a2c02856523315221fbffd6f326b1a020e",
         "originalSha256": "23465773a66721cfd1a497b0ada6d8b66b028bdbeff17e0c10c19455ba828362",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0283-001.webp",
@@ -8860,15 +8985,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
         "unitOrCampus": "Strawberry Moon – West Island",
         "role": "additional",
-        "sha256": "8275d08c333e482243e26ea9657a1125a4d59b22b2aceba317737e2bc660fd11",
+        "sha256": "4bc89fd8b0b66c81b6fedf56296821d791e947662111da03d7398ab712bc17ff",
         "originalSha256": "895a9d8cb475884679af52f712431f298008c965afe1f574c639f9b4280a320d",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0283-002.webp",
@@ -8876,15 +9002,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
         "unitOrCampus": "Strawberry Moon – West Island",
         "role": "additional",
-        "sha256": "c4f0dd84c51a8aaf701ec78b4119ad690fb407f3ac2177c5366f1b8e7d76c9d8",
+        "sha256": "f273718bc200520be3332c02b1588654601099707a4ad22c605806441ea00a3b",
         "originalSha256": "0eb94fadf5924690ccb2fbf0a9a031019ab4a47f0c1e8b39bfba9fa65a60216b",
-        "width": 1600,
-        "height": 1066,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1066,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
@@ -9011,15 +9138,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
         "unitOrCampus": "Ocean Escape",
         "role": "cover",
-        "sha256": "798607e5e7acf687ffe6fc43dc113acc7bbdab5d200954b7f5cd58bbb5f6f158",
+        "sha256": "eb284878f493df1827f1a21e18c6a1c4f07e25f30be94b533ab944dc30fd1787",
         "originalSha256": "0f361fb46b025040d6d4294d571fe4ceb6db66e3657000195c2e464aadc01ca4",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0284-000.webp",
@@ -9027,15 +9155,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
         "unitOrCampus": "Ocean Escape",
         "role": "additional",
-        "sha256": "6cb6e24e67c8921b483988c7058a34db8026c2494699d5c68c9b8743f69d1a3c",
+        "sha256": "afd87374ba00bf6482c047b83c4a627211fa9d1b923869d667cb47778c0fbf28",
         "originalSha256": "21cfb3d674f2844562eeddd0c5ad37c0de02f38a1a3091560e838c6286ebff66",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0284-001.webp",
@@ -9043,15 +9172,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
         "unitOrCampus": "Ocean Escape",
         "role": "additional",
-        "sha256": "2d1471d46ff745ffb3cef08d2b1adf1f4e28411e30f53822c07ac388f67b67c9",
+        "sha256": "b23cd4a9c278063fa25736af1fc544675a630a49815ea39e0b86a30f6e51bca4",
         "originalSha256": "6dd7abc5cf3ca9fe50f655271a0b64138bcf6b6a0c309479a67cb4336440a1ab",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       },
       {
         "file": "images/MA-0284-002.webp",
@@ -9059,15 +9189,16 @@
         "sourcePage": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
         "unitOrCampus": "Ocean Escape",
         "role": "additional",
-        "sha256": "040a2715dc30bc8864d4f25f5b984ecf3051cf65aaf8070484adcc51bf28bba3",
+        "sha256": "e414a45637ac7c48d5de14eee1d3f3aed86d14b57c004f4565164876aaa08bfa",
         "originalSha256": "ae37dc886baafa9b40804197bab64dd894f5aafc68992e0cffeb4517ed7d6fdc",
-        "width": 1600,
-        "height": 1067,
+        "width": 1200,
+        "height": 800,
         "originalWidth": 1600,
         "originalHeight": 1067,
         "generated": false,
         "checkedOn": "2026-10-26",
-        "visuallyChecked": true
+        "visuallyChecked": true,
+        "webDerivative": "Proportional max1200px WebP quality78; original retained"
       }
     ],
     "remainingGaps": [
