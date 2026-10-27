@@ -52,6 +52,19 @@ Other Vermont eligibility exclusions are kept separate from bad websites: Roll'e
 
 See [Vermont website audit](data/sources/vermont/website-audit.json) for all 71 access outcomes and [Vermont exclusion evidence](data/sources/vermont/bad-websites.json) for the two failed/invalid URLs.
 
+## Fetch and research check — 2026-10-27
+
+Sites that cannot be verified as an own rental website with a direct booking or inquiry path. Master research rows are retained; none is in the published directory.
+
+| ID | Property / operator | Location | URL | Observed on 2026-10-27 | Status |
+| --- | --- | --- | --- | --- | --- |
+| VT-0002 | Sterling Ridge Resort | Jeffersonville, VT | https://www.sterlingridgeresort.com/ | Security challenge on 2026-10-25; still unverified. | Website unavailable; excluded until it opens. |
+| VT-0020 | Pie In The Sky Farm | Marshfield, VT | http://www.pieinsky.com/ | Browser-blocked on 2026-10-25; still unverified. | Website unavailable; excluded until it opens. |
+| VT-0057 | Wilburton Inn | Manchester, VT | http://www.wilburton.com/ | Security challenge on 2026-10-25; still unverified. | Website unavailable; excluded until it opens. |
+| VT-0023 | Everstead Estates | Woodstock, VT | https://eversteadestates.com/ | Site opens (3 KB page) but no booking, contact, email or phone found. | Cannot be verified; excluded. |
+| VT-0038 | Lake Fairlee Retreat | Lake Fairlee, VT | https://www.staylakefairlee.com/ | Site opens; only Airbnb/Vrbo links, no direct path. | OTA-only; excluded. |
+| MA-0215 | Seaside Stay Rockport | Rockport, MA | https://seasidestayrockport.com/ | Site opens; all bookings via Airbnb, no phone/email/contact page. | OTA-only; excluded. |
+
 ## Access blocks kept separate
 
 Connected-browser confirmation on 2026-10-25: `bayviewcottages.com` again returned `net::ERR_NAME_NOT_RESOLVED`. `willowrentalproperties.com` displayed Wix's disconnected-domain page instead of rental content. A responding hosting placeholder is not a working property website. Both remain excluded.
