@@ -37,7 +37,7 @@ website button, a secondary claim badge and compact feature icons, with no descr
 a source-based summary of at most 150 characters and available property facts shown as icons and
 values. Feature icons also stay visible in both map card sizes. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. A small white claim badge at the photo’s
 top-right says “Claim your house” beside the existing LAZY L logo and opens a prefilled email draft
-to `sandy@lazy.vacations`. Open website is the larger primary action, neutral gray by default and coral on hover, with an independent-host
+to `sandy@lazy.vacations`. Open website is the larger primary action, a darker neutral gray by default and coral on unfocused mouse hover. Pressed/focused links stay neutral; touch devices do not retain coral hover. Pointer hover gives cards a small spring lift, disabled for reduced motion. The button remains paired with an independent-host
 notice underneath for non-LAZY listings. Featured houses show Made with LAZY instead of a claim
 badge, linking to the existing free website request at https://lazy.vacations/start/. On Tiny
 cards, claim and Made with LAZY badges show only the LAZY logo; accessible labels and links remain.
