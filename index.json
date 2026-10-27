@@ -22618,6 +22618,1206 @@
   "demo": false
  },
  {
+  "id": "NY-0054",
+  "name": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center",
+  "url": "https://www.catskillvacation.rentals/gilboa-rentals/5-br-home-between-windham-plattekill-ski-center-flNEg",
+  "place": "Gilboa, NY",
+  "town": "Gilboa",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Unknown",
+  "descriptionSource": "https://www.catskillvacation.rentals/gilboa-rentals/5-br-home-between-windham-plattekill-ski-center-flNEg",
+  "descriptionStatus": "Unknown",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.40241,
+  "lng": -74.469234,
+  "photo": "images/NY-0054-card.webp",
+  "coverPhoto": "images/NY-0054-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0054-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0054-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0054-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0054-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0049",
+  "name": "Catskill Vacation Rentals — Belleayre Mountain Views",
+  "url": "https://www.catskillvacation.rentals/pine_hill-rentals/belleayre-mountain-views-VVwPu",
+  "place": "Pine Hill, NY",
+  "town": "Pine Hill",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Beautiful high-mountain Log Home with wonderful views of the Belleayre ski slopes and the surrounding mountains.",
+  "descriptionSource": "https://www.catskillvacation.rentals/pine_hill-rentals/belleayre-mountain-views-VVwPu",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "guests": 8,
+  "capacityDetails": "8",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.169644,
+  "lng": -74.445702,
+  "photo": "images/NY-0049-card.webp",
+  "coverPhoto": "images/NY-0049-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0049-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0049-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0049-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0049-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0048",
+  "name": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue",
+  "url": "https://www.catskillvacation.rentals/roxbury-rentals/bellwood-cottage-8-14min-to-all-roxbury-wed-venue-UWIli",
+  "place": "Roxbury, NY",
+  "town": "Roxbury",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Bellwood Cottage is perfect for couples, families, or groups of friends looking to get away from it all in an private, idyllic setting.",
+  "descriptionSource": "https://www.catskillvacation.rentals/roxbury-rentals/bellwood-cottage-8-14min-to-all-roxbury-wed-venue-UWIli",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "8",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.306898,
+  "lng": -74.546758,
+  "photo": "images/NY-0048-card.webp",
+  "coverPhoto": "images/NY-0048-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0048-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0048-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0048-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0048-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0064",
+  "name": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/bluestone-log-cabin-barrel-sauna-ev-charger-bexSM",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Cozy, rustic log cabin with rocking chair porch, central AC/heat, wood stove, fast Wi-Fi, 65\" TV w/Sling (cable), Netflix & Amazon Prime, country kitchen, outdoor cedar barrel sauna, fire pit stone patio, outdoor cedar shower, picnic table with charcoal grill, Level 2 EV charger, in a private settin",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/bluestone-log-cabin-barrel-sauna-ev-charger-bexSM",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "5",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.161733,
+  "lng": -74.65311,
+  "photo": "images/NY-0064-card.webp",
+  "coverPhoto": "images/NY-0064-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0064-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0064-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0064-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0064-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0061",
+  "name": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills",
+  "url": "https://www.catskillvacation.rentals/arkville-rentals/cabin-in-the-heart-of-the-catskills-ecLzl",
+  "place": "Arkville, NY",
+  "town": "Arkville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Unknown",
+  "descriptionSource": "https://www.catskillvacation.rentals/arkville-rentals/cabin-in-the-heart-of-the-catskills-ecLzl",
+  "descriptionStatus": "Unknown",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 9,
+  "capacityDetails": "9",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.13383865,
+  "lng": -74.59423065,
+  "photo": "images/NY-0061-card.webp",
+  "coverPhoto": "images/NY-0061-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0061-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0061-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0061-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0061-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0062",
+  "name": "Catskill Vacation Rentals — Catskills Brookside Cottage",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/catskills-brookside-cottage-DPVdF",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Cross over the brook and private bridge to arrive at your all-season 3 BDR cabin.",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/catskills-brookside-cottage-DPVdF",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "5",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.152737,
+  "lng": -74.652288,
+  "photo": "images/NY-0062-card.webp",
+  "coverPhoto": "images/NY-0062-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0062-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0062-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0062-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0062-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0066",
+  "name": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/catskills-hillside-cottage-with-lovely-views-QBExX",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Tucked at the end of a long driveway in a stunning setting is our cozy, comfortable hillside cottage -- a perfect getaway in the Catskill Mountains.",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/catskills-hillside-cottage-with-lovely-views-QBExX",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1.5,
+  "guests": 4,
+  "capacityDetails": "4",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.156633,
+  "lng": -74.704831,
+  "photo": "images/NY-0066-card.webp",
+  "coverPhoto": "images/NY-0066-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0066-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0066-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0066-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0066-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0059",
+  "name": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing",
+  "url": "https://www.catskillvacation.rentals/cairo-rentals/catskills-retreat-hot-tub-atv-hiking-fishing-KBYlJ",
+  "place": "Cairo, NY",
+  "town": "Cairo",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Indulge in an escape to the Catskill Mountains and take in the breathtaking beauty of our secluded 82-acre river access home.",
+  "descriptionSource": "https://www.catskillvacation.rentals/cairo-rentals/catskills-retreat-hot-tub-atv-hiking-fishing-KBYlJ",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "guests": 16,
+  "capacityDetails": "16",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.31492615,
+  "lng": -73.9959259,
+  "photo": "images/NY-0059-card.webp",
+  "coverPhoto": "images/NY-0059-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0059-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0059-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0059-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0059-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0067",
+  "name": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskill-mountain-cabin-vWCEy",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Unknown",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskill-mountain-cabin-vWCEy",
+  "descriptionStatus": "Unknown",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.179322,
+  "lng": -74.633758,
+  "photo": "images/NY-0067-card.webp",
+  "coverPhoto": "images/NY-0067-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0067-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0067-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0067-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0067-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0050",
+  "name": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskills-a-frame-hideaway-ojCOa",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Relax with the whole family at this peaceful place to stay.",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskills-a-frame-hideaway-ojCOa",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "5",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.1920268,
+  "lng": -74.61360094,
+  "photo": "images/NY-0050-card.webp",
+  "coverPhoto": "images/NY-0050-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0050-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0050-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0050-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0050-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0052",
+  "name": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities",
+  "url": "https://www.catskillvacation.rentals/roxbury-rentals/cozy-spacious-cabin-with-kid-friendly-amenities-DQjFP",
+  "place": "Roxbury, NY",
+  "town": "Roxbury",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Unknown",
+  "descriptionSource": "https://www.catskillvacation.rentals/roxbury-rentals/cozy-spacious-cabin-with-kid-friendly-amenities-DQjFP",
+  "descriptionStatus": "Unknown",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.313623,
+  "lng": -74.551128,
+  "photo": "images/NY-0052-card.webp",
+  "coverPhoto": "images/NY-0052-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0052-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0052-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0052-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0052-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0058",
+  "name": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/escape-to-serenity-18-acre-catskill-retreat-SuabX",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Newly renovated home sprawled on 18 acres of land will give you the best the Catskills has to offer! Escape to the pristine clean air with breathtaking mountainous views.",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/escape-to-serenity-18-acre-catskill-retreat-SuabX",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "guests": 8,
+  "capacityDetails": "8",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.229844882743016,
+  "lng": -74.70035797233275,
+  "photo": "images/NY-0058-card.webp",
+  "coverPhoto": "images/NY-0058-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0058-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0058-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0058-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0058-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0051",
+  "name": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/fox-meadow-chalet-cozy-a-frame-w-hot-tub-sauna-zxNnp",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Welcome to Fox Meadow Chalet, a serene A-frame retreat tucked away on a private road in the heart of the Catskills.",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/fox-meadow-chalet-cozy-a-frame-w-hot-tub-sauna-zxNnp",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "guests": 7,
+  "capacityDetails": "7",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.212903,
+  "lng": -74.593328,
+  "photo": "images/NY-0051-card.webp",
+  "coverPhoto": "images/NY-0051-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0051-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0051-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0051-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0051-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0060",
+  "name": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze",
+  "url": "https://www.catskillvacation.rentals/cairo-rentals/lakeside-catskills-escape-soak-sip-stargaze-WSDML",
+  "place": "Cairo, NY",
+  "town": "Cairo",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Fish for bass, unwind in the hot tub as eagles soar above, or kayak on the serene lake.",
+  "descriptionSource": "https://www.catskillvacation.rentals/cairo-rentals/lakeside-catskills-escape-soak-sip-stargaze-WSDML",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 14,
+  "capacityDetails": "14",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.349839,
+  "lng": -74.035211,
+  "photo": "images/NY-0060-card.webp",
+  "coverPhoto": "images/NY-0060-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0060-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0060-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0060-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0060-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0055",
+  "name": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres",
+  "url": "https://www.catskillvacation.rentals/delancey-rentals/modern-lakeside-retreat-on-56-upstate-acres-xbFKu",
+  "place": "Delancey, NY",
+  "town": "Delancey",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Trade the noise of everyday life for birdsong, lake breezes, and the kind of quiet you can actually hear.",
+  "descriptionSource": "https://www.catskillvacation.rentals/delancey-rentals/modern-lakeside-retreat-on-56-upstate-acres-xbFKu",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "5",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.11233049,
+  "lng": -74.93299277,
+  "photo": "images/NY-0055-card.webp",
+  "coverPhoto": "images/NY-0055-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0055-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0055-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0055-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0055-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0056",
+  "name": "Catskill Vacation Rentals — Modern • Cabin in the Catskills",
+  "url": "https://www.catskillvacation.rentals/margaretville-rentals/-modern-cabin-in-the-catskills--wbEFU",
+  "place": "Margaretville, NY",
+  "town": "Margaretville",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Unplug and relax in our Industrial/Scandinavian inspired cabin!!! Escape to the iconic Catskills Mountains surrounded by amazing views, farm to table restaurants, bespoke bars and quaint towns with antiquing, hiking, fishing, apple picking, distilleries, horseback riding, skiing, yoga, golfing, gall",
+  "descriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/-modern-cabin-in-the-catskills--wbEFU",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 3,
+  "capacityDetails": "3",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.196868,
+  "lng": -74.631928,
+  "photo": "images/NY-0056-card.webp",
+  "coverPhoto": "images/NY-0056-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0056-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0056-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0056-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0056-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0057",
+  "name": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres",
+  "url": "https://www.catskillvacation.rentals/fleischmanns-rentals/private-cabin-retreat-on-10-acres-rzsWj",
+  "place": "Fleischmanns, NY",
+  "town": "Fleischmanns",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Welcome to the secluded retreat you're looking for! While we do have internet / wi-fi, our place is still the retreat from the world you need! On a quiet mountain hillside and down a private dirt road, is your cozy 3-bedroom, 1-bathroom cabin escape.",
+  "descriptionSource": "https://www.catskillvacation.rentals/fleischmanns-rentals/private-cabin-retreat-on-10-acres-rzsWj",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 6,
+  "capacityDetails": "6",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.16641998,
+  "lng": -74.57756042,
+  "photo": "images/NY-0057-card.webp",
+  "coverPhoto": "images/NY-0057-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0057-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0057-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0057-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0057-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0063",
+  "name": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views",
+  "url": "https://www.catskillvacation.rentals/roxbury-rentals/secret-catskill-cabin-spacious-house-wmtn-views-UbLTy",
+  "place": "Roxbury, NY",
+  "town": "Roxbury",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Just you and the sky. If you're looking for privacy in nature, this house is for you.",
+  "descriptionSource": "https://www.catskillvacation.rentals/roxbury-rentals/secret-catskill-cabin-spacious-house-wmtn-views-UbLTy",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 10,
+  "capacityDetails": "10",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.30070114,
+  "lng": -74.57019806,
+  "photo": "images/NY-0063-card.webp",
+  "coverPhoto": "images/NY-0063-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0063-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0063-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0063-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0063-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0065",
+  "name": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains",
+  "url": "https://www.catskillvacation.rentals/ashland-rentals/stunning-home-17-acres-in-the-catskill-mountains-iFhod",
+  "place": "Ashland, NY",
+  "town": "Ashland",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "House sits on 17 private acres in the picturesque Catskill Mountains, Ashland, NY.",
+  "descriptionSource": "https://www.catskillvacation.rentals/ashland-rentals/stunning-home-17-acres-in-the-catskill-mountains-iFhod",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 10,
+  "capacityDetails": "10",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.32679,
+  "lng": -74.340828,
+  "photo": "images/NY-0065-card.webp",
+  "coverPhoto": "images/NY-0065-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0065-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0065-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0065-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0065-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NY-0053",
+  "name": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills",
+  "url": "https://www.catskillvacation.rentals/phoenicia-rentals/waterfront-getaway-in-the-heart-of-the-catskills-yWghE",
+  "place": "Phoenicia, NY",
+  "town": "Phoenicia",
+  "state": "NY",
+  "destination": "Catskills",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Unknown",
+  "descriptionSource": "https://www.catskillvacation.rentals/phoenicia-rentals/waterfront-getaway-in-the-heart-of-the-catskills-yWghE",
+  "descriptionStatus": "Unknown",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.099378,
+  "lng": -74.302867,
+  "photo": "images/NY-0053-card.webp",
+  "coverPhoto": "images/NY-0053-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0053-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0053-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0053-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0053-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "NY-0038",
   "name": "Catskills Cabin Retreat (catskills.house)",
   "url": "https://www.catskills.house/",

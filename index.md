@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7850 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7870 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -5784,6 +5784,326 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.catskillcottages.com/index.html
+
+## Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center
+
+- ID: NY-0054
+- Town / area (approximate map location): Gilboa, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/gilboa-rentals/5-br-home-between-windham-plattekill-ski-center-flNEg
+
+## Catskill Vacation Rentals — Belleayre Mountain Views
+
+- ID: NY-0049
+- Town / area (approximate map location): Pine Hill, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Beautiful high-mountain Log Home with wonderful views of the Belleayre ski slopes and the surrounding mountains.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: 8
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/pine_hill-rentals/belleayre-mountain-views-VVwPu
+
+## Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue
+
+- ID: NY-0048
+- Town / area (approximate map location): Roxbury, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Bellwood Cottage is perfect for couples, families, or groups of friends looking to get away from it all in an private, idyllic setting.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: 8
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/roxbury-rentals/bellwood-cottage-8-14min-to-all-roxbury-wed-venue-UWIli
+
+## Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger
+
+- ID: NY-0064
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Cozy, rustic log cabin with rocking chair porch, central AC/heat, wood stove, fast Wi-Fi, 65" TV w/Sling (cable), Netflix & Amazon Prime, country kitchen, outdoor cedar barrel sauna, fire pit stone patio, outdoor cedar shower, picnic table with charcoal grill, Level 2 EV charger, in a private settin
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/bluestone-log-cabin-barrel-sauna-ev-charger-bexSM
+
+## Catskill Vacation Rentals — Cabin in the Heart of the Catskills
+
+- ID: NY-0061
+- Town / area (approximate map location): Arkville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: 9
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/arkville-rentals/cabin-in-the-heart-of-the-catskills-ecLzl
+
+## Catskill Vacation Rentals — Catskills Brookside Cottage
+
+- ID: NY-0062
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Cross over the brook and private bridge to arrive at your all-season 3 BDR cabin.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/catskills-brookside-cottage-DPVdF
+
+## Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views
+
+- ID: NY-0066
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Tucked at the end of a long driveway in a stunning setting is our cozy, comfortable hillside cottage -- a perfect getaway in the Catskill Mountains.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/catskills-hillside-cottage-with-lovely-views-QBExX
+
+## Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing
+
+- ID: NY-0059
+- Town / area (approximate map location): Cairo, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Indulge in an escape to the Catskill Mountains and take in the breathtaking beauty of our secluded 82-acre river access home.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4
+- Sleeps: 16
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/cairo-rentals/catskills-retreat-hot-tub-atv-hiking-fishing-KBYlJ
+
+## Catskill Vacation Rentals — Cozy Catskill Mountain Cabin
+
+- ID: NY-0067
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskill-mountain-cabin-vWCEy
+
+## Catskill Vacation Rentals — Cozy Catskills A-frame hideaway
+
+- ID: NY-0050
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Relax with the whole family at this peaceful place to stay.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskills-a-frame-hideaway-ojCOa
+
+## Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities
+
+- ID: NY-0052
+- Town / area (approximate map location): Roxbury, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/roxbury-rentals/cozy-spacious-cabin-with-kid-friendly-amenities-DQjFP
+
+## Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat
+
+- ID: NY-0058
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Newly renovated home sprawled on 18 acres of land will give you the best the Catskills has to offer! Escape to the pristine clean air with breathtaking mountainous views.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: 8
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/escape-to-serenity-18-acre-catskill-retreat-SuabX
+
+## Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna
+
+- ID: NY-0051
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Welcome to Fox Meadow Chalet, a serene A-frame retreat tucked away on a private road in the heart of the Catskills.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 3
+- Sleeps: 7
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/fox-meadow-chalet-cozy-a-frame-w-hot-tub-sauna-zxNnp
+
+## Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze
+
+- ID: NY-0060
+- Town / area (approximate map location): Cairo, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Fish for bass, unwind in the hot tub as eagles soar above, or kayak on the serene lake.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: 14
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/cairo-rentals/lakeside-catskills-escape-soak-sip-stargaze-WSDML
+
+## Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres
+
+- ID: NY-0055
+- Town / area (approximate map location): Delancey, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Trade the noise of everyday life for birdsong, lake breezes, and the kind of quiet you can actually hear.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/delancey-rentals/modern-lakeside-retreat-on-56-upstate-acres-xbFKu
+
+## Catskill Vacation Rentals — Modern • Cabin in the Catskills
+
+- ID: NY-0056
+- Town / area (approximate map location): Margaretville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Unplug and relax in our Industrial/Scandinavian inspired cabin!!! Escape to the iconic Catskills Mountains surrounded by amazing views, farm to table restaurants, bespoke bars and quaint towns with antiquing, hiking, fishing, apple picking, distilleries, horseback riding, skiing, yoga, golfing, gall
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 3
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/margaretville-rentals/-modern-cabin-in-the-catskills--wbEFU
+
+## Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres
+
+- ID: NY-0057
+- Town / area (approximate map location): Fleischmanns, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Welcome to the secluded retreat you're looking for! While we do have internet / wi-fi, our place is still the retreat from the world you need! On a quiet mountain hillside and down a private dirt road, is your cozy 3-bedroom, 1-bathroom cabin escape.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/fleischmanns-rentals/private-cabin-retreat-on-10-acres-rzsWj
+
+## Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views
+
+- ID: NY-0063
+- Town / area (approximate map location): Roxbury, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Just you and the sky. If you're looking for privacy in nature, this house is for you.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: 10
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/roxbury-rentals/secret-catskill-cabin-spacious-house-wmtn-views-UbLTy
+
+## Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains
+
+- ID: NY-0065
+- Town / area (approximate map location): Ashland, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: House sits on 17 private acres in the picturesque Catskill Mountains, Ashland, NY.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: 10
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/ashland-rentals/stunning-home-17-acres-in-the-catskill-mountains-iFhod
+
+## Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills
+
+- ID: NY-0053
+- Town / area (approximate map location): Phoenicia, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillvacation.rentals/phoenicia-rentals/waterfront-getaway-in-the-heart-of-the-catskills-yWghE
 
 ## Catskills Cabin Retreat (catskills.house)
 
