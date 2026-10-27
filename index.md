@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-891 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+892 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -10200,6 +10200,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Published policy: Yes
 - Pet policy: Published policy: Yes
 - Website (book here, directly with the host): https://sabattus.lazy.vacations/
+
+## Sable Rock Manor
+
+- ID: OR-0001
+- Town / area (approximate map location): Sunriver, OR
+- Type: House
+- Description: Six-bedroom private lodge in Caldera Springs, Sunriver, with nine fireplaces, a game room and a twelve-person hot tub under the pines.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: Unknown
+- Sleeps: Six bedrooms, thirteen beds, sleeps fourteen (own homepage); children 5 and under do not count toward occupancy (rental terms).
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children welcome: rental terms say children 5 years old or younger do not count toward occupancy; guest of record must be 23+.
+- Pet policy: Rental terms section 08: "Pets are strictly prohibited."
+- Website (book here, directly with the host): https://sunrivervip.com/
 
 ## Safe Studio near Hospitals in Boston
 

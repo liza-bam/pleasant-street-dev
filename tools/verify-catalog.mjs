@@ -25,7 +25,9 @@ for(const h of aggregatorApproved){
 }
 for(const h of eligibility.filter(h=>h.qualificationStatus!=='Verified operator property'))assert(!homes.some(x=>x.id===h.id),'Unapproved research lead imported: '+h.id);
 const lazySeeds=read('data/sources/lazy.json');
-assert.equal(homes.length,source.length+lazySeeds.length+vermont.length+newHampshire.length+massachusetts.length+newYork.length);
+// Single homes added at Sandy's request, outside the regional research.
+const specials=fs.existsSync(path.join(root,'data/sources/special-requests.json'))?read('data/sources/special-requests.json'):[];
+assert.equal(homes.length,source.length+lazySeeds.length+vermont.length+newHampshire.length+massachusetts.length+newYork.length+specials.length);
 assert.equal(new Set(homes.map(h=>h.id)).size,homes.length);
 const key=url=>{const u=new URL(url);return u.host.replace(/^www\./,'')+u.pathname.replace(/\/$/,'')+(u.searchParams.has('PageDataID')?'?PageDataID='+u.searchParams.get('PageDataID'):(u.searchParams.has('reservation_unitId')?'?reservation_unitId='+u.searchParams.get('reservation_unitId'):''));};
 assert.equal(new Set(homes.map(h=>key(h.url))).size,homes.length);

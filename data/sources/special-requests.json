@@ -1,0 +1,101 @@
+[
+  {
+    "id": "OR-0001",
+    "name": "Sable Rock Manor",
+    "url": "https://sunrivervip.com/",
+    "town": "Sunriver",
+    "state": "OR",
+    "place": "Sunriver, OR",
+    "lat": 43.8422,
+    "lng": -121.439,
+    "locationPrecision": "Street (Sable Rock Loop, Caldera Springs)",
+    "locationSource": "OpenStreetMap Nominatim: Sable Rock Loop, Caldera Springs, Deschutes County, OR",
+    "type": "House",
+    "recordType": "Property",
+    "description": "Six-bedroom private lodge in Caldera Springs, Sunriver, with nine fireplaces, a game room and a twelve-person hot tub under the pines.",
+    "descriptionSource": "https://sunrivervip.com/",
+    "descriptionStatus": "Paraphrased from verified website",
+    "capacityDetails": "Six bedrooms, thirteen beds, sleeps fourteen (own homepage); children 5 and under do not count toward occupancy (rental terms).",
+    "priceDetails": "Unknown",
+    "kidsDetails": "Children welcome: rental terms say children 5 years old or younger do not count toward occupancy; guest of record must be 23+.",
+    "petsDetails": "Rental terms section 08: \"Pets are strictly prohibited.\"",
+    "photo": "https://sunrivervip.com/wp-content/uploads/2021/05/56178-Sable-Rock-Loop-1-scaled.jpg",
+    "coverPhoto": "images/OR-0001-cover.webp",
+    "photos": [
+      {
+        "file": "images/OR-0001-cover.webp",
+        "role": "cover"
+      },
+      {
+        "file": "images/OR-0001-000.webp",
+        "role": "photo"
+      },
+      {
+        "file": "images/OR-0001-001.webp",
+        "role": "photo"
+      },
+      {
+        "file": "images/OR-0001-002.webp",
+        "role": "photo"
+      }
+    ],
+    "logo": "Unknown",
+    "photoStatus": "Four authentic photos saved",
+    "address": {
+      "street": "56178 Sable Rock Loop",
+      "city": "Bend",
+      "state": "OR",
+      "postalCode": "97707",
+      "full": "56178 Sable Rock Loop, Bend, OR 97707",
+      "type": "individual rental",
+      "status": "Supplied by Sandy 2026-10-27; house number also in the site photo filenames",
+      "sourceUrl": "https://sunrivervip.com/",
+      "checkedOn": "2026-10-27",
+      "notes": "Never shown publicly; map pin at the street."
+    },
+    "contactPagesChecked": [
+      "https://sunrivervip.com/contact/",
+      "https://sunrivervip.com/rentalterms/",
+      "https://sunrivervip.com/book-now/"
+    ],
+    "bookingMethod": "OwnerRez booking on the own website",
+    "bookingUrl": "https://sunrivervip.com/book-now/",
+    "operatorEvidenceUrl": "https://sunrivervip.com/",
+    "cardDescription": "Six-bedroom private lodge in Caldera Springs, Sunriver, with nine fireplaces, a game room and a twelve-person hot tub under the pines.",
+    "cardDescriptionSource": "https://sunrivervip.com/",
+    "cardPhotos": [
+      "images/OR-0001-cover.webp",
+      "images/OR-0001-000.webp",
+      "images/OR-0001-001.webp"
+    ],
+    "cardPhotoLabel": "",
+    "platformLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/578369739621347168"
+      ],
+      "vrbo": [
+        "https://www.vrbo.com/2873708"
+      ]
+    },
+    "collectionStatus": "Complete",
+    "missingRequiredFields": [],
+    "researchGaps": [
+      "Bathroom count not published",
+      "Rates in booking engine only"
+    ],
+    "listingStatus": "Active",
+    "checked": "2026-10-27",
+    "alive": true,
+    "demo": false,
+    "featured": false,
+    "rooms": "Unknown",
+    "bedrooms": 6,
+    "bathrooms": "Unknown",
+    "guests": 14,
+    "kids": "Yes",
+    "pets": "No",
+    "priceFrom": "Unknown",
+    "currency": "Unknown",
+    "specialRequest": "Added at Sandy's request 2026-10-27"
+  }
+]

@@ -12020,6 +12020,28 @@
   "demo": false
  },
  {
+  "id": "OR-0001",
+  "name": "Sable Rock Manor",
+  "url": "https://sunrivervip.com/",
+  "place": "Sunriver, OR",
+  "lat": 43.8422,
+  "lng": -121.439,
+  "photo": "images/OR-0001-card.webp",
+  "guests": 14,
+  "capacityDetails": "Six bedrooms, thirteen beds, sleeps fourteen (own homepage); children 5 and under do not count toward occupancy (rental terms).",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Six-bedroom private lodge in Caldera Springs, Sunriver, with nine fireplaces, a game room and a twelve-person hot tub under the pines.",
+  "bedrooms": 6,
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Children welcome: rental terms say children 5 years old or younger do not count toward occupancy; guest of record must be 23+.",
+  "petsDetails": "Rental terms section 08: \"Pets are strictly prohibited.\"",
+  "locationPrecision": "Street (Sable Rock Loop, Caldera Springs)",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "MA-0408",
   "name": "Safe Studio near Hospitals in Boston",
   "url": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",

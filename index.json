@@ -44149,6 +44149,74 @@
   "demo": false
  },
  {
+  "id": "OR-0001",
+  "name": "Sable Rock Manor",
+  "url": "https://sunrivervip.com/",
+  "place": "Sunriver, OR",
+  "town": "Sunriver",
+  "state": "OR",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Six-bedroom private lodge in Caldera Springs, Sunriver, with nine fireplaces, a game room and a twelve-person hot tub under the pines.",
+  "descriptionSource": "https://sunrivervip.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Six-bedroom private lodge in Caldera Springs, Sunriver, with nine fireplaces, a game room and a twelve-person hot tub under the pines.",
+  "cardDescriptionSource": "https://sunrivervip.com/",
+  "cardPhotos": [
+   "images/OR-0001-cover.webp",
+   "images/OR-0001-000.webp",
+   "images/OR-0001-001.webp"
+  ],
+  "platformLinks": {
+   "airbnb": [
+    "https://www.airbnb.com/rooms/578369739621347168"
+   ],
+   "vrbo": [
+    "https://www.vrbo.com/2873708"
+   ]
+  },
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": "Unknown",
+  "guests": 14,
+  "capacityDetails": "Six bedrooms, thirteen beds, sleeps fourteen (own homepage); children 5 and under do not count toward occupancy (rental terms).",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Children welcome: rental terms say children 5 years old or younger do not count toward occupancy; guest of record must be 23+.",
+  "petsDetails": "Rental terms section 08: \"Pets are strictly prohibited.\"",
+  "lat": 43.8422,
+  "lng": -121.439,
+  "photo": "images/OR-0001-card.webp",
+  "coverPhoto": "images/OR-0001-cover.webp",
+  "photos": [
+   {
+    "file": "images/OR-0001-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/OR-0001-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/OR-0001-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/OR-0001-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Street (Sable Rock Loop, Caldera Springs)",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "MA-0408",
   "name": "Safe Studio near Hospitals in Boston",
   "url": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
