@@ -21,8 +21,9 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 .app-home { display: flex; flex: none; align-items: center; justify-content: center; width: 30px; height: 30px; margin-right: auto; border-radius: 50%; background: var(--coral); }
 .app-home img { display: block; width: 30px; height: 30px; filter: grayscale(1) contrast(100) invert(1); mix-blend-mode: screen; }
 .app-header-link { display: inline-flex; align-items: center; justify-content: center; min-height: 30px; padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; background: white; color: var(--ink); font: 11px var(--serif); text-decoration: none; white-space: nowrap; cursor: pointer; }
-.app-header-link:hover { background: #fff3f0; border-color: var(--coral); }
-.app-header-link--add { background: var(--coral-action); border-color: var(--coral-action); color: white; }
+.app-header-link:hover { background: white; border-color: #b9c2be; }
+.app-header-link--add { background: #e8ebea; border-color: #d0d6d3; color: var(--ink); }
+.app-header-link--add:hover { background: #dde2df; border-color: #b9c2be; }
 /* The bar. */
 .app-bar { display: flex; align-items: center; gap: 12px 16px; padding: 10px 16px; background: white; box-shadow: var(--shadow); z-index: 1; }
 .app-title { margin: 0; font-family: var(--script); font-weight: 400; font-size: 28px; line-height: 1; color: var(--ink); white-space: nowrap; }
