@@ -30,7 +30,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4730?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator. Guest capacity header says seven while description comfortably fits four; capacity conflict retained.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown.",
+    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator. Guest capacity header says seven while description comfortably fits four; capacity conflict retained.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/thedorsetredlinepvtapt3br1bawacwd",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": 3,
@@ -153,7 +153,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0601",
+      "name": "230B1 The Dorset Redline",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4730?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler",
+      "ownPropertyUrl": "https://swank-properties.com/property/thedorsetredlinepvtapt3br1bawacwd",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.322120666503906,
+      "lng": -71.06095886230469,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/thedorsetredlinepvtapt3br1bawacwd",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.322120666503906,-71.06095886230469&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/thedorsetredlinepvtapt3br1bawacwd",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own exact named-property detail and published map image inspected; map northvertex latitude center+0.0027 confirms~300m shaded radius.",
+        "The Dorset Redline,3BR1BA,first floor1200sf. Same operator and named apartment as Dtravel230B1. Own map point in Dorchester/PolishTriangle area; marketing nearSouthEnd is regional, not exactaddress.",
+        "No exact rentalstreetnumber published in inspected detail/own footer; no unitcode address inference."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/thedorsetredlinepvtapt3br1bawacwd",
+    "suppressTownGeocoding": true,
+    "lat": 42.322120666503906,
+    "lng": -71.06095886230469,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0602",
@@ -186,7 +236,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4732?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/thepenthouseredlinepvtapt2brwacwd",
     "supportedFacts": {
       "guests": 5,
       "bedrooms": 2,
@@ -312,7 +362,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0602",
+      "name": "230B4 The Penthouse",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4732?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/thepenthouseredlinepvtapt2brwacwd",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.322120666503906,
+      "lng": -71.06095886230469,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/thepenthouseredlinepvtapt2brwacwd",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.322120666503906,-71.06095886230469&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/thepenthouseredlinepvtapt2brwacwd",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own exact named-property detail and published map image inspected; map northvertex latitude center+0.0027 confirms~300m shaded radius.",
+        "The Penthouse Redline,2BR1BA,fourthfloor1200sf. Same operator and named apartment/floor as Dtravel230B4. Shared ownmapcenter withDorset, separate apartment identity.",
+        "No exact rentalstreetnumber published in inspected detail/own footer; no unitcode address inference."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/thepenthouseredlinepvtapt2brwacwd",
+    "suppressTownGeocoding": true,
+    "lat": 42.322120666503906,
+    "lng": -71.06095886230469,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0603",
@@ -345,7 +445,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown.",
+    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/thegrandviewhouse5br2bawacwd",
     "supportedFacts": {
       "guests": 9,
       "bedrooms": 5,
@@ -468,7 +568,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0603",
+      "name": "14P The Grand View Redline",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/thegrandviewhouse5br2bawacwd",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.31367492675781,
+      "lng": -71.06120300292969,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/thegrandviewhouse5br2bawacwd",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.31367492675781,-71.06120300292969&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/thegrandviewhouse5br2bawacwd",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own exact named-property detail and published map image inspected; map northvertex latitude center+0.0027 confirms~300m shaded radius.",
+        "The GrandView5BR2BA9guest Victorian house. Description explicitly SavinHill; matchingnamedhouse asDtravel14P. OwnmapJonesHill/Dorchester propertyarea.",
+        "No exact rentalstreetnumber published in inspected detail/own footer; no unitcode address inference."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/thegrandviewhouse5br2bawacwd",
+    "suppressTownGeocoding": true,
+    "lat": 42.31367492675781,
+    "lng": -71.06120300292969,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0604",
@@ -501,7 +651,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4733?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/theskyviewredlinepvtapt3br1bawacwd",
     "supportedFacts": {
       "guests": 6,
       "bedrooms": 3,
@@ -623,7 +773,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0604",
+      "name": "12P The Sky View",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4733?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/theskyviewredlinepvtapt3br1bawacwd",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.3137092590332,
+      "lng": -71.06126403808594,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/theskyviewredlinepvtapt3br1bawacwd",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.3137092590332,-71.06126403808594&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/theskyviewredlinepvtapt3br1bawacwd",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own exact named-property detail and published map image inspected; map northvertex latitude center+0.0027 confirms~300m shaded radius.",
+        "The SkyViewRedline3BR1BA6guests. Description explicitly high atopJonesHill and fewblocksSavinHillT; matchingnamedapartment asDtravel12P. OwnmapnearGrandView, separate apartment/house identities.",
+        "No exact rentalstreetnumber published in inspected detail/own footer; no unitcode address inference."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/theskyviewredlinepvtapt3br1bawacwd",
+    "suppressTownGeocoding": true,
+    "lat": 42.3137092590332,
+    "lng": -71.06126403808594,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0605",
@@ -656,7 +856,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4736?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown.",
+    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/theroseclairredlinepvtapt3br1bwacwd",
     "supportedFacts": {
       "guests": 6,
       "bedrooms": 3,
@@ -779,7 +979,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0605",
+      "name": "230B2 The Roseclair",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4736?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/theroseclairredlinepvtapt3br1bwacwd",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.32212829589844,
+      "lng": -71.06094360351562,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/theroseclairredlinepvtapt3br1bwacwd",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.32212829589844,-71.06094360351562&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/theroseclairredlinepvtapt3br1bwacwd",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own named-property detail and published map inspected; map northvertex center+0.0027 confirms~300m radius.",
+        "Own named Roseclair3BR1BA,secondfloor1200sf; same named unit/floor asDtravel230B2, map clustersDorset/Penthouse.",
+        "Exact rentalstreet not published in inspected own detail/footer; Unknown, not inferred fromunitcode."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/theroseclairredlinepvtapt3br1bwacwd",
+    "suppressTownGeocoding": true,
+    "lat": 42.32212829589844,
+    "lng": -71.06094360351562,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0606",
@@ -812,7 +1062,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator. Guest capacity header says five while description comfortably fits four; capacity conflict retained.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown.",
+    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator. Guest capacity header says five while description comfortably fits four; capacity conflict retained.  Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/themayhewredlinepvtapt3br1bwacwd",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": 2,
@@ -939,7 +1189,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0606",
+      "name": "230B3 The Mayhew",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/themayhewredlinepvtapt3br1bwacwd",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.322120666503906,
+      "lng": -71.06095123291016,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/themayhewredlinepvtapt3br1bwacwd",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.322120666503906,-71.06095123291016&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/themayhewredlinepvtapt3br1bwacwd",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own named-property detail and published map inspected; map northvertex center+0.0027 confirms~300m radius.",
+        "Own named Mayhew3BR1BA,thirdfloor1200sf; same named unit/floor asDtravel230B3, map clustersDorset/Penthouse.",
+        "Exact rentalstreet not published in inspected own detail/footer; Unknown, not inferred fromunitcode."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/themayhewredlinepvtapt3br1bwacwd",
+    "suppressTownGeocoding": true,
+    "lat": 42.322120666503906,
+    "lng": -71.06095123291016,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0607",
@@ -972,7 +1272,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4737?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/109s8thestrathmore8wac1br1baprivate",
     "supportedFacts": {
       "guests": 4,
       "bedrooms": 1,
@@ -1094,7 +1394,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0607",
+      "name": "109S8 The Strathmore 8",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4737?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/109s8thestrathmore8wac1br1baprivate",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.33931350708008,
+      "lng": -71.15121459960938,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/109s8thestrathmore8wac1br1baprivate",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.33931350708008,-71.15121459960938&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Brighton",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/109s8thestrathmore8wac1br1baprivate",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Opened own exact named-unit page: 109S8,1BR1BA3guests.",
+        "Description explicitly one block from GreenLine, short walk to ClevelandCircle/BeaconSt/CommonwealthAve and walkableBostonCollege; named-unit location map image center read from renderedDOM.",
+        "Separate unit identity preserved; own map centers cluster with109S14/15 in Brighton/ClevelandCircle property area. Street not inferred fromcode."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/109s8thestrathmore8wac1br1baprivate",
+    "suppressTownGeocoding": true,
+    "lat": 42.33931350708008,
+    "lng": -71.15121459960938,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0608",
@@ -1127,7 +1477,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4738?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Infants not suitable.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Infants not suitable. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/109s2thestrathmore23br2bwacbilevel",
     "supportedFacts": {
       "guests": 7,
       "bedrooms": 3,
@@ -1249,7 +1599,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0608",
+      "name": "109S2 The Strathmore 2",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4738?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/109s2thestrathmore23br2bwacbilevel",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.33931350708008,
+      "lng": -71.15121459960938,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/109s2thestrathmore23br2bwacbilevel",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.33931350708008,-71.15121459960938&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Brighton",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/109s2thestrathmore23br2bwacbilevel",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Opened own exact named-unit page: 109S2,3BR2BA6guests,bi-level.",
+        "Description explicitly one block from GreenLine, short walk to ClevelandCircle/BeaconSt/CommonwealthAve and walkableBostonCollege; named-unit location map image center read from renderedDOM.",
+        "Separate unit identity preserved; own map centers cluster with109S14/15 in Brighton/ClevelandCircle property area. Street not inferred fromcode."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/109s2thestrathmore23br2bwacbilevel",
+    "suppressTownGeocoding": true,
+    "lat": 42.33931350708008,
+    "lng": -71.15121459960938,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0609",
@@ -1282,7 +1682,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4739?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/109s15thestrathmore151br1bwacprivate",
     "supportedFacts": {
       "guests": 4,
       "bedrooms": 1,
@@ -1404,7 +1804,58 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0609",
+      "name": "109S15 The Strathmore 15",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4739?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/109s15thestrathmore151br1bwacprivate",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.33931350708008,
+      "lng": -71.15121459960938,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/109s15thestrathmore151br1bwacprivate",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.33931350708008,-71.15121459960938&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Brighton",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/109s15thestrathmore151br1bwacprivate",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own exact109S15 title, 1BR1bath3guests; visible map center and shaded approximate300m circle verified. Description says one block to GreenLine, short walk to ClevelandCircle/BeaconSt/CommonwealthAve and BostonCollege.",
+        "109S14/15 own map centers lie about7m apart, consistent shared property area; preserve separate unit identities. No street inferred from109S code."
+      ],
+      "conflicts": [
+        "Own heading locality says Boston; nearby landmarks and own map locate Brighton/ClevelandCircle. Preserve Boston municipal city and Brighton neighborhood."
+      ],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/109s15thestrathmore151br1bwacprivate",
+    "suppressTownGeocoding": true,
+    "lat": 42.33931350708008,
+    "lng": -71.15121459960938,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0610",
@@ -1437,7 +1888,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator.  Header/title Alameda 1 two bedrooms conflicts with description Alameda 2 three bedrooms; numeric bedroom and guest counts held Unknown. Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown.",
+    "notes": "Host profile identifies Lance Swank and 28 listings. Pet policy conflict: description allows pets case-by-case for a fee, but Home rules says No pets. Confirm with operator.  Header/title Alameda 1 two bedrooms conflicts with description Alameda 2 three bedrooms; numeric bedroom and guest counts held Unknown. Policy review 2026-10-26: Individual unit rules freshly rechecked; pet conflict retained Unknown. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/25a1thealameda12br1bwacwdprivate",
     "supportedFacts": {
       "guests": "Unknown",
       "bedrooms": "Unknown",
@@ -1559,7 +2010,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0610",
+      "name": "25A1 The Alameda 1",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/25a1thealameda12br1bwacwdprivate",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.2919472,
+      "lng": -71.1540823,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/25a1thealameda12br1bwacwdprivate",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.2919472,-71.1540823&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/25a1thealameda12br1bwacwdprivate",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Own named-property detail and published map inspected; map northvertex center+0.0027 confirms~300m radius.",
+        "Own exact25A1/Alameda1,2BR1BA4guests; description explicitly WestRoxbury, nearBrookline/Newton, walktrain/bus/shopping. Distinct WestRoxbury map area.",
+        "Exact rentalstreet not published in inspected own detail/footer; Unknown, not inferred fromunitcode."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/25a1thealameda12br1bwacwdprivate",
+    "suppressTownGeocoding": true,
+    "lat": 42.2919472,
+    "lng": -71.1540823,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0611",
@@ -1592,7 +2093,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/109s9thestrathmore9wac2br1bprivate",
     "supportedFacts": {
       "guests": 4,
       "bedrooms": 2,
@@ -1718,7 +2219,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0611",
+      "name": "109S9 The Strathmore 9",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/109s9thestrathmore9wac2br1bprivate",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.33931350708008,
+      "lng": -71.15121459960938,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/109s9thestrathmore9wac2br1bprivate",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.33931350708008,-71.15121459960938&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Brighton",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/109s9thestrathmore9wac2br1bprivate",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Opened own exact named-unit page: 109S9,2BR1BA4guests.",
+        "Description explicitly one block from GreenLine, short walk to ClevelandCircle/BeaconSt/CommonwealthAve and walkableBostonCollege; named-unit location map image center read from renderedDOM.",
+        "Separate unit identity preserved; own map centers cluster with109S14/15 in Brighton/ClevelandCircle property area. Street not inferred fromcode."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/109s9thestrathmore9wac2br1bprivate",
+    "suppressTownGeocoding": true,
+    "lat": 42.33931350708008,
+    "lng": -71.15121459960938,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0612",
@@ -1751,7 +2302,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required.  Title 4BR conflicts with header 5 bedrooms. Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings. Minimum booking of 30 nights expressly required.  Title 4BR conflicts with header 5 bedrooms. Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Conflicting property location; available in Cards. https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
     "supportedFacts": {
       "guests": 6,
       "bedrooms": "Unknown",
@@ -1874,7 +2425,57 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0612",
+      "name": "39S1 The Strathmore1",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
+      "ownPropertyUrl": null,
+      "checkedOn": "2026-10-26",
+      "status": "Location conflict — hold map pin",
+      "lat": null,
+      "lng": null,
+      "precision": "unresolved_conflicting_sources",
+      "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
+      "mapURL": null,
+      "mapURLNotes": "Dtravel location renders Mapbox canvas with no DOM-published coordinate URL. Visible screenshot inspected; numeric coordinates not extracted from internal app state.",
+      "publishedAddressStatus": "Exact rentalstreet unpublished; unit code not expanded into inferred address.",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "No operator office/mail street found on inspected own footer/Contact"
+      },
+      "openedUrls": [
+        "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
+        "https://www.google.com/search?q=%2239S1%22+%22Strathmore%22+address",
+        "https://swank-properties.com/search?market=Brighton",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Actual Dtravel title39S1/TheStrathmore1, condo,6guests, header5bedrooms2baths whiletitle4BR.",
+        "Description explicitly oneblockGreenlineClevelandCircleCLine, walktoBeaconSt/BC. LocationtextBoston,exactlocationsharedbeforearrival.",
+        "Dtravel Location clicked and screenshot inspected: map marker visibly nearHillsideSt/NewEnglandBaptistHospital/MissionHill, south/east ofBrooklinePillHill; conflictswithClevelandCircle neighborhood.",
+        "Own main-site11-entryBrightoncatalog fullyread:109Ssixentireunitsplusfiveindividualrooms;39S1absent. Exactcode Google query yieldedonlyDtravel, no independentlypublished address."
+      ],
+      "conflicts": [
+        "Legacy Dtravel map shows MissionHill while propertydescription saysClevelandCircle. Neither correct entrance nor authoritativecurrentmapresolved. Do not replacecitycenterwiththis conflictingmap orcopy109Sbuildingcoordinates."
+      ],
+      "remainingGaps": [
+        "Resolve currentactualrentaladdress/location usingoperatorpublished source or verifiedproperty OTA; keep pinhidden/unresolved meanwhile."
+      ]
+    },
+    "locationSource": "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
+    "suppressTownGeocoding": true,
+    "lat": "Unknown",
+    "lng": "Unknown",
+    "locationPrecision": "Conflicting property location; available in Cards",
+    "locationLabel": "Location unverified"
   },
   {
     "id": "MA-0613",
@@ -1907,7 +2508,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/109s14thestrathmore14wac2br1bprivate",
     "supportedFacts": {
       "guests": 4,
       "bedrooms": 2,
@@ -2029,7 +2630,63 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0613",
+      "name": "109S14 The Strathmore 14",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/109s14thestrathmore14wac2br1bprivate",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.3393752,
+      "lng": -71.1512018,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/109s14thestrathmore14wac2br1bprivate",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.3393752,-71.1512018&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Published external rental address matched exact unit code/operator",
+      "rentalAddress": {
+        "street": "109 Strathmore Road",
+        "unit": "Unit3-109S14 (exact published label)",
+        "city": "Brighton",
+        "state": "MA",
+        "zip": "02135",
+        "role": "Externally published rental address; exact unit label preserved"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/109s14thestrathmore14wac2br1bprivate",
+        "https://swank-properties.com/",
+        "https://www.zillow.com/homedetails/109-Strathmore-Rd-UNIT-3-109S14-Brighton-MA-02135/447262896_zpid/"
+      ],
+      "observations": [
+        "Dtravel4752 Location opened and screenshot inspected: pin near StrathmoreRd/ChestnutHillAve/ClevelandCircle Brighton, not downtown. Exact location shared before arrival.",
+        "Own main-site title exact109S14; locality Brighton, two-bedroom1bath4guest; description ClevelandCircle/BeaconSt/CommonwealthAve/walkableBostonCollege.",
+        "Opened Zillow actual heading109StrathmoreRd,Unit3-109S14,BrightonMA02135; page lists SwankProperties as provider and two-bedroom1bath furnished apartment nearBC/Greenline. Address is rental listing, not operator office."
+      ],
+      "conflicts": [
+        "Zillow unit label is Unit3-109S14; do not silently simplify to Apartment14."
+      ],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ],
+      "addressSourceUrl": "https://www.zillow.com/homedetails/109-Strathmore-Rd-UNIT-3-109S14-Brighton-MA-02135/447262896_zpid/",
+      "dtravelLocationChecked": true
+    },
+    "locationSource": "https://swank-properties.com/property/109s14thestrathmore14wac2br1bprivate",
+    "suppressTownGeocoding": true,
+    "lat": 42.3393752,
+    "lng": -71.1512018,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   },
   {
     "id": "MA-0614",
@@ -2062,7 +2719,7 @@
     "bookingMethod": "Direct Dtravel booking controls or operator email/phone inquiry",
     "bookingUrl": "https://swankpropertiesboston.dtravel.com/property/4758?currency=USD&lang=en",
     "operatorEvidenceUrl": "https://swankpropertiesboston.dtravel.com/profile",
-    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained.",
+    "notes": "Host profile identifies Lance Swank and 28 listings.  Policy review 2026-10-26: Individual unit rules freshly rechecked; explicit child/pet rules retained. Location rechecked2026-10-26: Approximate property area from operator map; about 300m radius. https://swank-properties.com/property/109s3thestrathmore3wac2br2babilevel",
     "supportedFacts": {
       "guests": 4,
       "bedrooms": 2,
@@ -2184,6 +2841,56 @@
       "Unit-specific Airbnb URL not confirmed"
     ],
     "accessFailures": [],
-    "policyCheckedOn": "2026-10-26"
+    "policyCheckedOn": "2026-10-26",
+    "locationEvidence": {
+      "id": "MA-0614",
+      "name": "109S3 The Strathmore 3",
+      "propertyUrl": "https://swankpropertiesboston.dtravel.com/property/4758?currency=USD&lang=en",
+      "ownPropertyUrl": "https://swank-properties.com/property/109s3thestrathmore3wac2br2babilevel",
+      "checkedOn": "2026-10-26",
+      "status": "Own published approximate map verified",
+      "lat": 42.33939,
+      "lng": -71.15124,
+      "precision": "approximate_property_area",
+      "precisionDetails": "Own displayed map uses shaded circle polygon extending about0.0027 latitude degrees (~300m radius); center is a neighborhood/property-area marker, not verified rental entrance.",
+      "sourceUrl": "https://swank-properties.com/property/109s3thestrathmore3wac2br2babilevel",
+      "mapURL": "https://maps.googleapis.com/maps/api/staticmap?center=42.33939,-71.15124&zoom=13&size=1200x480&maptype=roadmap",
+      "mapURLNotes": "Observed own Property location map image src; public API key and long shaded polygon omitted here. Coordinates and zoom retained exactly. Polygon north edge is center latitude+0.0027.",
+      "publishedAddressStatus": "Exact street not published on inspected own pages; remains Unknown",
+      "rentalAddress": {
+        "street": "Unknown",
+        "city": "Brighton",
+        "state": "MA",
+        "zip": "Unknown",
+        "role": "Rental location; exact entrance unverified"
+      },
+      "officeAddress": {
+        "street": "Unknown",
+        "role": "Operator office/mailing address not published on checked own footer/Contact; never use as rental entrance"
+      },
+      "contactEvidence": {
+        "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en#contact-modal",
+        "text": "Operator Contact displays reservations@swank-properties.com and+16176579667; no postal address. Own footer says LSBMManagementLLC with matching email/phone."
+      },
+      "openedUrls": [
+        "https://swank-properties.com/property/109s3thestrathmore3wac2br2babilevel",
+        "https://swank-properties.com/"
+      ],
+      "observations": [
+        "Opened own exact named-unit page: 109S3,2BR2BA4guests,bi-level.",
+        "Description explicitly one block from GreenLine, short walk to ClevelandCircle/BeaconSt/CommonwealthAve and walkableBostonCollege; named-unit location map image center read from renderedDOM.",
+        "Separate unit identity preserved; own map centers cluster with109S14/15 in Brighton/ClevelandCircle property area. Street not inferred fromcode."
+      ],
+      "conflicts": [],
+      "remainingGaps": [
+        "Exact rental entrance coordinates unverified; keep approximate label."
+      ]
+    },
+    "locationSource": "https://swank-properties.com/property/109s3thestrathmore3wac2br2babilevel",
+    "suppressTownGeocoding": true,
+    "lat": 42.33939,
+    "lng": -71.15124,
+    "locationPrecision": "Approximate property area from operator map; about 300m radius",
+    "locationLabel": "Approx. area"
   }
 ]

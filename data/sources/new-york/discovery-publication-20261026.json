@@ -1,0 +1,877 @@
+{
+  "assignment": "NY01 statewide source discovery and NYC",
+  "checkedOn": "2026-10-26",
+  "scope": "Initial pass incomplete; not statewide verified",
+  "statewideSource": {
+    "url": "https://www.iloveny.com/places-to-stay/cabins-cottages/",
+    "observedAppearances": 556,
+    "reviewed": "First12 statewide appearances; complete4 NYC filter appearances",
+    "nycFilterUrl": "https://www.iloveny.com/places-to-stay/cabins-cottages/?sort=qualityScore&subcatids=2158&regionids=2",
+    "notes": "556 directory appearances, not unique independent eligible properties."
+  },
+  "routedLeads": [
+    {
+      "name": "Bellfire in the Catskills",
+      "region": "NY03",
+      "url": "https://www.iloveny.com/listing/bellfire-in-the-catskills/129735/"
+    },
+    {
+      "name": "Hunter House",
+      "region": "NY03",
+      "url": "https://www.iloveny.com/listing/hunter-house/136616/"
+    }
+  ],
+  "queries": [
+    {
+      "q": "site.iloveny.com vacation rentals",
+      "url": "https://www.google.com/search?q=site.iloveny.com+vacation+rentals"
+    },
+    {
+      "q": "Brooklyn Queens vacation rental book direct",
+      "url": "https://www.google.com/search?q=Brooklyn+Queens+vacation+rental+book+direct"
+    },
+    {
+      "q": "Staythere NewYorkCityvacationrentals",
+      "url": "https://www.google.com/search?q=Staythere+New+York+City+vacation+rentals",
+      "result": "Searchattempt;firstpagehadnoStaytheresource-specificresult;noStaytherecatalogsweep"
+    },
+    {
+      "q": "site:dtravel.com \"New York\" \"City\"",
+      "url": "https://www.google.com/search?q=site%3Adtravel.com+%22New+York%22+%22City%22"
+    },
+    {
+      "q": "\"Bright,Renovated1BRinHarlemBrownstone\"Larah",
+      "url": "https://www.google.com/search?q=%22Bright%2C+Renovated+1BR+in+Harlem+Brownstone%22+Larah"
+    },
+    {
+      "q": "DirectBookingHost NewYorkCity",
+      "url": "https://www.google.com/search?q=DirectBookingHost+New+York+City"
+    },
+    {
+      "q": "site:lodgify.com \"NewYork\" apartment",
+      "url": "https://www.google.com/search?q=site%3Alodgify.com+%22New+York%22+apartment"
+    },
+    {
+      "q": "site:guestybookings.com \"NewYork\"",
+      "url": "https://www.google.com/search?q=site%3Aguestybookings.com+%22New+York%22"
+    },
+    {
+      "q": "site:orez.io \"New York\" apartment",
+      "url": "https://www.google.com/search?q=site%3Aorez.io+%22New+York%22+apartment",
+      "result": "Google explicitly no results. NoOwnerRezcatalogreviewed;customdomainsnotexhaustivelysearched."
+    },
+    {
+      "q": "site:hospitable.rentals \"New York\"",
+      "url": "https://www.google.com/search?q=site%3Ahospitable.rentals+%22New+York%22"
+    },
+    {
+      "q": "StatenIslandofficialtourismbedbreakfastlodging",
+      "url": "https://www.google.com/search?q=Staten+Island+official+tourism+bed+breakfast+lodging",
+      "result": "Noofficialboroughdirectoryresultonobservedfirstpage;openedactualB&BsiteandContactUs,candidateNY-0018. Otherboroughsourcesstillunreviewed."
+    },
+    {
+      "q": "Bronx tourism chamber lodging bed breakfast",
+      "url": "https://www.google.com/search?q=Bronx+tourism+chamber+lodging+bed+breakfast"
+    },
+    {
+      "q": "Queens chamber lodging vacation rental directory",
+      "url": "https://www.google.com/search?q=Queens+chamber+lodging+vacation+rental+directory",
+      "notes": "FirstsearchresultsmostlyunrelatedQueenAnneCounty/otherstates; skipped. OpenedobviousQueensChamberhomeandfollowedpublishedDirectory."
+    },
+    {
+      "q": "site:nyctourism.com \"Staten Island\" \"bed\"",
+      "url": "https://www.google.com/search?q=site%3Anyctourism.com+%22Staten+Island%22+%22bed%22",
+      "result": "Observedfirstpageprimarilymajorhotelbrandsandotherboroughresults;noadditionalindependentStatenIslandinnsourceverified. Thissearchdoesnotestablishtherearenone."
+    }
+  ],
+  "sourceCoverage": {
+    "NYC official tourism": "Partially reviewed",
+    "town/chamber": "Partially reviewed",
+    "Houfy": "Partially reviewed",
+    "Staythere": "Search attempted",
+    "Dtravel": "Partially reviewed",
+    "DirectBookingHost": "Partially reviewed",
+    "Lodgify": "Partially reviewed",
+    "Guesty": "Partially reviewed",
+    "OwnerRez": "Search attempted",
+    "Hospitable": "Partially reviewed"
+  },
+  "remainingQueues": [
+    "NYC regional official tourism sources, all boroughs",
+    "Other I LOVE NY lodging categories",
+    "Reverse-search de Hirsch/Sutton Court",
+    "RadioCity Twin studio image identity conflicts with2bedroom photo; retain media hold",
+    "RadioCity1BR Penthouse category reusesStudioPHCbedphoto; hold until scoped image resolved",
+    "FurnishedQuarters fullNYCcatalognarrowing/contact/policies/photos",
+    "DtravelVacationsSimplifiedNYCtimeshareclaimscope/chainreview",
+    "ActualownsiteforHarlemLarahHoufyapartmentunresolved",
+    "UrbanFurnished actual249catalog expansion partly begun; no unit verified",
+    "MovaLiving9currenthomecardsplusactualUpperEastSidedetail/bookcalendaropened; unitpolicy/photo/eligibilitypasspending",
+    "OwnerRez onlyoneorez.ioquerywithnoresults;customdomainreverse-searchstillneeded",
+    "Staythereonlysearchattempt;actualStaytheredirectoryentry/catalognotopened",
+    "Namedsourcecoveragepartial;noneofthesearchattemptsconstitutesexhaustivecatalogsweep",
+    "NY-0018 StatenIslandVictorianB&B actualsiteopensbutforeignExpessInnMontgomerytemplatecopy; reviewAbout/Rooms/Reservations/photos/policies"
+  ],
+  "counts": {
+    "outcomes": 30,
+    "verifiedCategories": 9,
+    "verifiedIndividualPlatformHosted": 14,
+    "photoCoveredWith4": 21,
+    "photoCoveredWith3": 21,
+    "policyReviewed": 23,
+    "candidates": 5,
+    "websiteUnavailable": 1,
+    "notEligible": 1,
+    "publishedMediaFiles": 84,
+    "distinctOriginalByteHashes": 81,
+    "sharedBuildingMediaFiles": 5
+  },
+  "badWebsiteObservations": [
+    {
+      "id": "NY-0002",
+      "url": "https://www.athomeny.com/",
+      "checkedOn": "2026-10-26",
+      "observedFailure": "Squarespace Coming Soon under construction placeholder",
+      "replacementUrl": "Unknown",
+      "exclusion": "No accessible rental site"
+    },
+    {
+      "id": "NY-0029",
+      "name": "Mova Living main domain",
+      "url": "https://www.movaliving.com/",
+      "checkedOn": "2026-10-26",
+      "observed": "There has been a critical error on this website. WordPress troubleshootinglink only.",
+      "alternateUrl": "https://movaliving.hospitable.rentals/",
+      "exclusion": "Main domainunavailable; workingoperatorHospitablewebsiteverified, do notexcludeapartment wholesale."
+    }
+  ],
+  "automationBlocks": [
+    {
+      "id": "NY-0004",
+      "date": "2026-10-26",
+      "observed": "Browser security URL policy rejected observation after directory Visit Site click; invalid URL",
+      "siteUnavailable": false,
+      "observedTabUrl": "http://www.suttoncourt.com/"
+    }
+  ],
+  "regionalSources": [
+    {
+      "url": "https://www.nyctourism.com/where-to-stay",
+      "openedOn": "2026-10-26",
+      "filter": "Type > Show more > Furnished Apartments",
+      "observedResults": 8,
+      "reviewed": "All8filtered cards; own detail of FurnishedQuarters; other unfiltered21pages not swept.",
+      "leads": [
+        {
+          "name": "AKA Central Park",
+          "url": "https://www.nyctourism.com/hotels/aka-central-park"
+        },
+        {
+          "name": "Mint House70Pine by Kasa",
+          "url": "https://www.nyctourism.com/hotels/mint-house-70-pine-by-kasa"
+        },
+        {
+          "name": "Smyth Tribeca",
+          "url": "https://www.nyctourism.com/hotels/smyth-tribeca"
+        },
+        {
+          "name": "Loews Regency",
+          "url": "https://www.nyctourism.com/hotels/loews-regency-new-york"
+        },
+        {
+          "name": "Radio City Apartments",
+          "url": "https://www.nyctourism.com/hotels/radio-city-apartments"
+        },
+        {
+          "name": "Candlewood Suites Times Square",
+          "url": "https://www.nyctourism.com/hotels/candlewood-suites-times-square"
+        },
+        {
+          "name": "Furnished Quarters",
+          "url": "https://www.nyctourism.com/hotels/furnished-quarters"
+        },
+        {
+          "name": "AKA Times Square",
+          "url": "https://www.nyctourism.com/hotels/aka-times-square"
+        }
+      ]
+    }
+  ],
+  "operatorQueues": [
+    {
+      "name": "Furnished Quarters",
+      "source": "https://www.nyctourism.com/hotels/furnished-quarters",
+      "ownOpenedUrl": "https://stay.furnishedquarters.com/visit-ny/?utm_source=Unbounce&utm_medium=Partner+Tourism+Site&utm_campaign=NYC+Tourism",
+      "observations": "Own landing explicitly says one month or longer; full own catalog not yet expanded. Regional tourism says family owned NewYork-founded, metro600residences; never treat as600NYC units.",
+      "next": "Open ViewApartments; restrict actualNewYork units; checkContact/policies/photos."
+    }
+  ],
+  "aggregatorQueues": [
+    {
+      "source": "https://www.houfy.com/d/brooklyn-new-york",
+      "checkedOn": "2026-10-26",
+      "visibleCards": 36,
+      "scope": "TopRatedsectionincludesNYC,NJandLongIslandnearby;not36Brooklyneligibleproperties. All36cardnames/linksobserved;oneactualdetail/reversesearchinspected. Remaining35individualdetailsandownsitesqueued.",
+      "samplePending": [
+        {
+          "name": "NewlyRenovatedDuplexApartment2",
+          "url": "https://www.houfy.com/lodging/newly-renovated-duplex-apartment-2/99188"
+        },
+        {
+          "name": "1940sBrooklynTownCottage",
+          "url": "https://www.houfy.com/lodging/1940s-brooklyn-town-cottage/101428"
+        },
+        {
+          "name": "Cozytwo bedroomvacationrentalinQueens",
+          "url": "https://www.houfy.com/lodging/cozy-two-bedroom-vacation-rental-in-queens/99442"
+        },
+        {
+          "name": "Renovated1BRPenthouseOasisinBrownstone",
+          "url": "https://www.houfy.com/lodging/renovated-1br-penthouse-oasis-in-brownstone/19605"
+        }
+      ],
+      "allObservedLeads": [
+        {
+          "name": "Newly Renovated Duplex Apartment 2",
+          "url": "https://www.houfy.com/lodging/newly-renovated-duplex-apartment-2/99188",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Romantic and sunny 2-bedrooms in Brooklyn Bed-Stuy",
+          "url": "https://www.houfy.com/lodging/romantic-and-sunny-2-bedrooms-in-brooklyn-bed-stuy/99066",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Sunny Modern Loft in Prime WBG",
+          "url": "https://www.houfy.com/lodging/sunny-modern-loft-in-prime-wbg/97200",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "COZY HAVEN - Free Continental Breakfast",
+          "url": "https://www.houfy.com/lodging/cozy-haven-free-continental-breakfast/327815",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Beautiful 1BR with Private Balcony 5mins to Trains",
+          "url": "https://www.houfy.com/lodging/beautiful-1br-with-private-balcony-5mins-to-trains/96163",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Cozy 1 BR in 3 BR Loft",
+          "url": "https://www.houfy.com/lodging/cozy-1-br-in-3-br-loft/97343",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "1940s Brooklyn Town Cottage",
+          "url": "https://www.houfy.com/lodging/1940s-brooklyn-town-cottage/101428",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Beautiful Two Bedroom with Private Patio",
+          "url": "https://www.houfy.com/lodging/beautiful-two-bedroom-with-private-patio/99865",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Private, cozy studio for two",
+          "url": "https://www.houfy.com/lodging/private-cozy-studio-for-two/98964",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Cozy two bedroom vacation rental in Queens",
+          "url": "https://www.houfy.com/lodging/cozy-two-bedroom-vacation-rental-in-queens/99442",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "2 BR Brownstone Retreat, 3rd Fl.",
+          "url": "https://www.houfy.com/lodging/2-br-brownstone-retreat-3rd-fl/101194",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Clean & Comfortable 3BR in Prime Brooklyn Location",
+          "url": "https://www.houfy.com/lodging/clean-comfortable-3br-in-prime-brooklyn-location/98577",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "East Village Loft with Piano & Patio",
+          "url": "https://www.houfy.com/lodging/east-village-loft-with-piano-patio/103128",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Brooklyn Modern Brownstone/ New York City/ NYC",
+          "url": "https://www.houfy.com/lodging/brooklyn-modern-brownstone-new-york-city-nyc/461794",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Private Guest Space in Brownstone + Garden",
+          "url": "https://www.houfy.com/lodging/private-guest-space-in-brownstone-garden/102748",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "BROOKLYN APT, CLOSE TO MANHATTAN",
+          "url": "https://www.houfy.com/lodging/brooklyn-apt-close-to-manhattan/97525",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Frontbeach Love Home#Private#Free parking#cook",
+          "url": "https://www.houfy.com/lodging/frontbeach-love-home-private-free-parking-cook/97172",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Airy, modern Penthouse in a Brooklyn Brownstone",
+          "url": "https://www.houfy.com/lodging/airy-modern-penthouse-in-a-brooklyn-brownstone/97692",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Charming Coastal Retreat 1BR",
+          "url": "https://www.houfy.com/lodging/charming-coastal-retreat-1br/385771",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Beach Block Retreat w/ PrivateDeck & Parking",
+          "url": "https://www.houfy.com/lodging/beach-block-retreat-w-privatedeck-parking/385765",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Relaxing & cozy SPA. apt in Brooklyn mins to MHTN",
+          "url": "https://www.houfy.com/lodging/relaxing-cozy-spa-apt-in-brooklyn-mins-to-mhtn/97643",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Spectacular East Village Townhouse with garden",
+          "url": "https://www.houfy.com/lodging/spectacular-east-village-townhouse-with-garden/98922",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "The Brooklyn Retreat 6BR|3 Ba | Free Parking",
+          "url": "https://www.houfy.com/lodging/the-brooklyn-retreat-6br-3-ba-free-parking/166072",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Cheerful 6Bd BK Town Home 30 min. to Manhattan",
+          "url": "https://www.houfy.com/lodging/cheerful-6bd-bk-town-home-30-min-to-manhattan/123545",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Chadwick Cottage Vacation Rental Home",
+          "url": "https://www.houfy.com/lodging/chadwick-cottage-vacation-rental-home/10952",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Family Friendly Near Subway Astoria-NYC Home Share",
+          "url": "https://www.houfy.com/lodging/family-friendly-near-subway-astoria-nyc-home-share/99970",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "The Stockton- Ocean Grove Charming Apt",
+          "url": "https://www.houfy.com/lodging/the-stockton-ocean-grove-charming-apt/464769",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Bright, Renovated 1BR in Harlem Brownstone",
+          "url": "https://www.houfy.com/lodging/bright-renovated-1br-in-harlem-brownstone/19218",
+          "status": "Actual detail reviewed and reverse search attempted; own site unresolved",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Home away from Home 1st Floor Suburban Apt.",
+          "url": "https://www.houfy.com/lodging/home-away-from-home-1st-floor-suburban-apt/99196",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Historic Townhouse with Private Backyard",
+          "url": "https://www.houfy.com/lodging/historic-townhouse-with-private-backyard/97495",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Cheerful 4 Bedrooms House in Nassau county",
+          "url": "https://www.houfy.com/lodging/cheerful-4-bedrooms-house-in-nassau-county/117827",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "The Chic Boutique Cottage (1/2 duplex)",
+          "url": "https://www.houfy.com/lodging/the-chic-boutique-cottage-1-2-duplex/56314",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Renovated 1BR Penthouse Oasis In Brownstone",
+          "url": "https://www.houfy.com/lodging/renovated-1br-penthouse-oasis-in-brownstone/19605",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Superhost's Modern 2 bed | 2Bath in New York",
+          "url": "https://www.houfy.com/lodging/superhost-s-modern-2-bed-2bath-in-new-york/99105",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Beautiful Apartment in Manhattan NYC",
+          "url": "https://www.houfy.com/lodging/beautiful-apartment-in-manhattan-nyc/98483",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        },
+        {
+          "name": "Large Family Home in Dix Hills",
+          "url": "https://www.houfy.com/lodging/large-family-home-in-dix-hills/99837",
+          "status": "Catalog card observed; actual detail, location and own operator site unverified",
+          "notes": "Date/query parameters in source cards are transient suggested stays; canonical detail identity retained. Catalog includes nearby nonNYC and nonNY properties."
+        }
+      ]
+    }
+  ],
+  "directBookingHostPass": {
+    "checkedOn": "2026-10-26",
+    "openedUrls": [
+      "https://www.directbookinghost.com/vacation-rentals-no-fees/new-york",
+      "https://www.directbookinghost.com/stays/search?where=New%20York"
+    ],
+    "result": "Actual NewYorkfilterloaded0stays;thisisnotasitefailure. Noindividualpropertyeligiblefromthissearch.",
+    "remaining": "OtherNYregionscouldbesearchedbytheiragents;nostatewideexhaustivenessclaim."
+  },
+  "lodgifyPass": {
+    "openedOwnProperty": "https://uptowncosyhaven.lodgify.com/en/overview",
+    "additionalUnverifiedSearchLeads": [
+      "https://brooklyn.lodgify.com/en/636894/overview",
+      "https://empiresuites.lodgify.com/",
+      "https://nolitaproject.lodgify.com/",
+      "https://brooklynmulti.lodgify.com/en/637293/brooklyn-apartments",
+      "https://empireplaza.lodgify.com/",
+      "https://tidewaymulti.lodgify.com/",
+      "https://brooklyn2multi.lodgify.com/en/2041081/brooklyn-apartments"
+    ],
+    "notes": "OthergenericLodgifybrandnamescouldbetemplates/demos;notopenedandnoteligible. Verifyactualoperatorsbeforeanypromotion."
+  },
+  "continuationNotes": {
+    "assignedIdRange": "NY-0001\u20130999",
+    "lastAssignedId": "NY-0018",
+    "nextUnusedId": "NY-0019",
+    "workerStatus": "Active, incomplete",
+    "readyWith3OrMorePhotos": [
+      "NY-0001",
+      "NY-0005",
+      "NY-0007",
+      "NY-0008",
+      "NY-0009",
+      "NY-0010",
+      "NY-0012",
+      "NY-0014",
+      "NY-0017"
+    ],
+    "eligibleMediaHolds": [
+      "NY-0006",
+      "NY-0011"
+    ],
+    "masterIntegration": "Coordinator only; worker changed noCSV/import/app data. No deployment.",
+    "deadWebsite": "NY-0002 https://www.athomeny.com/ is a renderedSquarespaceComingSoonplaceholder, notHTTP/DNSfailure. Coordinator must merge badWebsiteObservation into root bad-websites.md.",
+    "securityBlock": "NY-0004: do not circumvent browserURLpolicy invalidURL on directoryVisitSite action; own site unverified.",
+    "assetCaches": "research-artifacts/ny_01 ignored;5contact sheets plusNY-0009fourthbathroom inspected.36publishedWebPphotos.",
+    "importantMediaConflict": "PHC Studio photos reused on1BR Penthouse detail; do not transfer. Twin Studio photo reuses2bedroom image; mediahold. Category photographs may not promise exact bedsize where captions conflict.",
+    "sharedBuildingPhotos": "NY-0007/8/10/12 include explicitlyshared RadioCitybuildingentrance photos; requiredPublicPhotoLabel mustbe retained. These areassignedcategoriesinonebuilding,notseparatephysicalhouses."
+  },
+  "urbanFurnishedExpansion": {
+    "checkedOn": "2026-10-26",
+    "homeUrl": "https://urbanfurnished.guestybookings.com/en",
+    "searchUrl": "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+    "observedCatalogCount": 249,
+    "cardsObserved": 20,
+    "unitDetailsVerified": 10,
+    "contactPagesChecked": [
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://www.urbanfurnished.com/contact"
+    ],
+    "termsUrl": "https://urbanfurnished.guestybookings.com/en/terms",
+    "operatorEvidence": "Terms identify Urban Furnished LLC as management/operator on behalf of owners.",
+    "officeAddress": {
+      "role": "operator office",
+      "street": "80 8th Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "source": "https://urbanfurnished.guestybookings.com/en/contact",
+      "notes": "Never transfer office address to individual apartment street address."
+    },
+    "contactEmail": "reservations@urbanfurnished.com",
+    "contactPhone": "+16464766643",
+    "policyConflict": {
+      "topic": "pets",
+      "normalized": "Unknown",
+      "terms": "First paragraph requires management written permission for pets; later terms state No Pets Allowed; many catalog cards show Pet Friendly.",
+      "resolution": "Open actual unit rules and preserve conflict unless current terms resolve it.",
+      "kids": "Unknown; no actual child policy checked per unit yet."
+    },
+    "remaining": [
+      "Find full catalog pagination/infinite-scroll control;249advertisedcountdoesnotestablish249NYCuniquehomes",
+      "Verify actual named units, policy exceptions, prices and minimum stays",
+      "Collect scoped unitphotos",
+      "Open linked urbanfurnished.com About operator identity when needed"
+    ],
+    "first20Leads": [
+      {
+        "name": "345-3A 2BR Newly Reno Prime UES WD in unit",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved eligibility, actual unit pet/child rules and4inspectedphotos; fact conflicts retained in unit record.",
+        "id": "NY-0019"
+      },
+      {
+        "name": "Freeman Alley SoHo 1BR",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved eligibility, actual unit pet/child rules and4inspectedphotos; fact conflicts retained in unit record.",
+        "id": "NY-0020"
+      },
+      {
+        "name": "97-1A Prime UWS 2 Bedrooms, Newly Furnished Laundry24HDoorman",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0021"
+      },
+      {
+        "name": "22-4C NEW Curated 1BR in Gramercy W&D",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0022"
+      },
+      {
+        "name": "347-4A New 2BR Upper East Side W&D",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0023"
+      },
+      {
+        "name": "22-5C New Prime Gramercy 1BR",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0024"
+      },
+      {
+        "name": "246-9 SoHo Living newly furnished 1br WD In-unit",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0025"
+      },
+      {
+        "name": "43-11E Newly2BRFullserviceDoormanGymLaundryBusinessCenter",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0026"
+      },
+      {
+        "name": "43-11D Newly1BRFullserviceDoormanGymLaundryBusinessCenter",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0027"
+      },
+      {
+        "name": "345-2A 2BR Newly Reno Prime UES WD in unit",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Saved actual unit eligibility/pet/child rules, Contact and4inspectedown-gallery photos; conflicts retained.",
+        "id": "NY-0028"
+      },
+      {
+        "name": "43-20A Newlyfurnished1BRfullserviceDoormanlaundryGymBusinessCenter",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/695a90b722dfa000141c40b0?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "43-4D Newlyfurnished2BRfullservice24HDoormanlaundryGym",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/695a74c8832d520014d1775f?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "234 Mott-9 Prime Soho Cozy New Studio WD In-unit",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6949b01de5f13c002c22cea7?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "22-3B Sleek Modern 1BR Gramercy",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6947455e1bbbe9001531acfb?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "22-4A Sleek Modern 1BR Gramercy",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/69275522d11d300012f5b8bf?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "Fifth-5B NewStudioPrimewestvillageElevatorbldg",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/6900ed0c7cc21d002966bff8?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "14-2B BrandNewModern1BRUnionSquareWDinUnit",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/68b892e909746200127179c8?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "14-4B BrandNewModern1BRUnionSquareWDinUnit",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/68b2042bba3a930013d0c064?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "Fifth-2A I BrandNew2BRHeartofGreenwichvillage",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/686e7b046c11a500461ea2f5?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      },
+      {
+        "name": "Fifth-2B I BrandNew2BRPrimeGreenwichvillage",
+        "url": "https://urbanfurnished.guestybookings.com/en/properties/686e7b032343b600529fece6?minOccupancy=1&adults=1",
+        "evidenceStatus": "Source found in web research",
+        "status": "Observedcatalogcardonly;individualdetail/contactapplicability/policy/photospending"
+      }
+    ],
+    "additionalDataConflicts": [
+      "FirstpageFifth2AandFifth2Bcardheadersshow4guestsbutdescriptionssay5;capacitymuststayUnknownuntilownunitdetailresolves.",
+      "FreemanAlley1BRcardshows0bathrooms;donotguessarealbathroomcountfromassumedapartmenttype."
+    ],
+    "resumedCheckpoint": {
+      "savedUnitIds": [
+        "NY-0019",
+        "NY-0020",
+        "NY-0021",
+        "NY-0022",
+        "NY-0023",
+        "NY-0024",
+        "NY-0025",
+        "NY-0026",
+        "NY-0027",
+        "NY-0028"
+      ],
+      "nextUnitUrl": "https://urbanfurnished.guestybookings.com/en/properties/695a90b722dfa000141c40b0?minOccupancy=1&adults=1",
+      "observations": "Saved5newunitsNY0019-23 with4photos each and actual policies. Operator30dayminimum scope. NY19bedroom conflict;NY20bathroomconflict;NY21guest4vs5;NY22knownbuilding335E22nd;NY23street347vs345map andbedroomconflicts. PetsNoNY19/20;UnknownconditionalvsTermsNY21-23;allkidsYesexplicit. Catalog5of249advertisedunitdetailschecked;249notuniqueNYCcount."
+    }
+  },
+  "movaLivingExpansion": {
+    "homeUrl": "https://movaliving.hospitable.rentals/",
+    "checkedOn": "2026-10-26",
+    "observedHomeCards": 9,
+    "detailOpened": "https://movaliving.hospitable.rentals/property/large-upper-east-side-1bd-elevator-rooftop",
+    "bookingOpened": "https://booking.hospitable.com/book/82501487/1105284?theme=boutique",
+    "detailObservations": "UpperEastSide apartment:3guests,1bedroom,1bathroom; privatebalcony; buildinggym/laundry/rooftop. OwnOtherDetails states petfee nonrefundable; petconditions/childpolicy requirefurther actualrules review. ApproximateNewYorklocationonly;fulladdressafterbooking. NoContactUs linkinhome/detailheader/footer;onlyoperatorInstagram. EmbeddedpublicHospitablecalendarReserveopened; no datesselectedorreservation submitted.",
+    "status": "Partially reviewed",
+    "remaining": "7namedMovaunitsdetail/policy/photospending; directbookingavailability/contactfallback andexplicitadmissionrules gaps forfirst2. NoContactUslinkpublished. Urban10of249advertisedunitdetailsreviewed, remainderqueued.",
+    "observedCards": [
+      {
+        "name": "*Special Offer* Luxury Full Floor Chelsea 2BD W/D",
+        "url": "https://movaliving.hospitable.rentals/property/luxury-full-floor-chelsea-2bd",
+        "id": "NY-0030",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "4photos/policyreview saved; publicationhold currentdirectbookingavailabilitynotconfirmed."
+      },
+      {
+        "name": "Beautiful Sunny Brooklyn Apt",
+        "url": "https://movaliving.hospitable.rentals/property/cozy-modern-downtown-brooklyn-studio-welevator"
+      },
+      {
+        "name": "Cozy Classic Park Slope 1BD, nr Prospect Park",
+        "url": "https://movaliving.hospitable.rentals/property/beautiful-park-slope-1bd-classic"
+      },
+      {
+        "name": "Large Upper East Side 1BD Elevator Rooftop",
+        "url": "https://movaliving.hospitable.rentals/property/large-upper-east-side-1bd-elevator-rooftop",
+        "id": "NY-0029",
+        "evidenceStatus": "Verified platform-hosted website",
+        "status": "Eligibilitysaved;4photosinspected;actualpolicyreviewUnknownexplicitadmissionrulesnotpublished."
+      },
+      {
+        "name": "Large Midtown1BD with doorman gym nrCentralPark",
+        "url": "https://movaliving.hospitable.rentals/property/full-service-midtown-1bd-gym-doorman-with-elevator"
+      },
+      {
+        "name": "Spacious Luxury2BD DowntownGymWDDoorman",
+        "url": "https://movaliving.hospitable.rentals/property/chic-luxury-2bd-apt-downtown"
+      },
+      {
+        "name": "Luxury2BD nrWallSt GymRooftopWD",
+        "url": "https://movaliving.hospitable.rentals/property/beautiful-2bd-downtown-apt-with-gym"
+      },
+      {
+        "name": "Entire LuxuryTownhouseMidtown",
+        "url": "https://movaliving.hospitable.rentals/property/entire-luxury-townhouse-midtown"
+      },
+      {
+        "name": "Stunning2BDDuplexwithPrivateBackyardWD",
+        "url": "https://movaliving.hospitable.rentals/property/stunning-2bd-duplex-w-private-backyard-wd"
+      }
+    ],
+    "unitDetailsVerified": 2,
+    "savedUnitIds": [
+      "NY-0029",
+      "NY-0030"
+    ],
+    "contactCheck": {
+      "checkedOn": "2026-10-26",
+      "notes": "No ContactUs/About/FAQ/policy links on actual Hospitable home/detailheader/footer; onlyoperatorInstagram. Mainoperatorwebsite reachedvia actualsearchWebsite link rendersWordPresscriticalerror. No inventedcontactURL or searchsnippetcontactused."
+    },
+    "nextUnitUrl": "https://movaliving.hospitable.rentals/property/cozy-modern-downtown-brooklyn-studio-welevator",
+    "reverseNameSearch": "https://www.google.com/search?q=%22Mova+Living%22+New+York+contact",
+    "mainWebsite": "https://www.movaliving.com/",
+    "mainWebsiteObservation": "WorkingHospitablealternatesite; mainmovaliving.com openedactualWordPresscriticalerror, noContactfallbackavailable."
+  },
+  "routedHospitableSearchLeads": [
+    {
+      "url": "https://10twinlakes.hospitable.rentals/",
+      "region": "Unassigned region until actual property location opened; search-only lead, not verified"
+    },
+    {
+      "url": "https://ondemandbungalows.hospitable.rentals/property/the-mist-house",
+      "region": "Unassigned region until actual property location opened; search-only lead, not verified"
+    },
+    {
+      "url": "https://repose.hospitable.rentals/property/tiny-home",
+      "region": "Unassigned region until actual property location opened; search-only lead, not verified"
+    },
+    {
+      "url": "https://wavesedge.hospitable.rentals/",
+      "region": "Unassigned region until actual property location opened; search-only lead, not verified"
+    }
+  ],
+  "validation": {
+    "checkedOn": "2026-10-26",
+    "method": "python3 research-artifacts/ny_01/validate_checkpoint.py: JSON/id/status/description/policy/contact/imagepath/dimensions/WebP/SHA256original+published audit; read saved files back. New unit contact sheets visually inspected.",
+    "result": "PASS",
+    "outcomes": 30,
+    "policyAudits": 23,
+    "mediaFiles": 84,
+    "fourPhotoRecords": 21,
+    "mediaHolds": [
+      "NY-0006",
+      "NY-0011"
+    ],
+    "newReadyIds": [
+      "NY-0019",
+      "NY-0020",
+      "NY-0021",
+      "NY-0022",
+      "NY-0023",
+      "NY-0024",
+      "NY-0025",
+      "NY-0026",
+      "NY-0027",
+      "NY-0028",
+      "NY-0029",
+      "NY-0030"
+    ],
+    "unchangedScope": "ResearchJSON/images only; no CSV/app/deploy/commit"
+  },
+  "victorianCandidateFollowup": {
+    "id": "NY-0018",
+    "openedAboutUrl": "https://www.victorianbedandbreakfastny.com/about-us.php",
+    "observations": "About page confirms1846Italianatevilla inWestNewBrighton,StatenIsland,4guestroomsandcurrentB&Boffering. WestRoomwithKitchen hasprivatekitchen; EastRoomQueen sharedbath; WestRoomPorch screenedporch; EastRoomSuite double+singlebeds,large sharedbath,familyfriendly. This supportsNYB&Bidentity despiteforeignhomepagehero. Reservations/Rooms/actualpolicies/gallerystillqueued; nofurtheroutcomepromotionafterfreeze.",
+    "nextUrls": [
+      "https://www.victorianbedandbreakfastny.com/rooms.php",
+      "https://www.victorianbedandbreakfastny.com/reservation.php",
+      "https://www.victorianbedandbreakfastny.com/gallery.php"
+    ]
+  },
+  "boroughChamberPass": {
+    "sourceUrl": "https://business.bronxchamber.org/list/ql/lodging-travel-15?o=alpha",
+    "checkedOn": "2026-10-26",
+    "actualResultCount": 4,
+    "reviewed": "All4directorycardsobserved;noeligibleownsiteverifiedfromthissourceyet.",
+    "observations": [
+      {
+        "name": "American Hotel and Lodging Association",
+        "url": "https://business.bronxchamber.org/list/member/american-hotel-and-lodging-association-4605",
+        "reason": "UnrelatedtradeassociationinWashingtonDC;notrentalpropertylead."
+      },
+      {
+        "name": "GLo Best Western Bronx NYC",
+        "url": "https://business.bronxchamber.org/list/member/glo-best-western-bronx-nyc-southern-blvd-hotel-llc-4547",
+        "reason": "Brandedchainhotelcard;notapproved."
+      },
+      {
+        "name": "Opera House Hotel",
+        "url": "https://business.bronxchamber.org/list/member/opera-house-hotel-3893",
+        "reason": "Hotelcard;ownwebsite/qualifyingvacationaccommodationnotyetchecked."
+      },
+      {
+        "name": "Residence Inn By Marriott",
+        "url": "https://business.bronxchamber.org/list/member/residence-inn-by-marriott-1805",
+        "operatorWebsitePublished": "http://www.marriott.com/nycbx",
+        "reason": "NationalMarriotthotelbrand;notapproved."
+      }
+    ],
+    "remaining": "OtherBronxtown/neighborhoodsourcesandQueens,Brooklyn,StatenIslandchambercatalogsnotreviewed."
+  },
+  "queensChamberPass": {
+    "checkedOn": "2026-10-26",
+    "openedUrls": [
+      "https://www.queenschamber.org/",
+      "https://members.queenschamber.org/atlas/directory/search",
+      "https://members.queenschamber.org/atlas/directory/results?PageSize=20&PageNumber=1&Keywords=hotel"
+    ],
+    "query": "hotel",
+    "actualResultCount": 4,
+    "observations": [
+      {
+        "name": "Sheraton LaGuardia East Hotel",
+        "reason": "Brandedchainhotel;notapproved."
+      },
+      {
+        "name": "Expedia Group",
+        "reason": "Aggregator/distributioncompany;notindividualrentaloperator."
+      },
+      {
+        "name": "Hyatt Place Flushing",
+        "publishedWebsite": "https://hyattplaceflushing.com/",
+        "reason": "Brandedchainhotel;notapproved."
+      },
+      {
+        "name": "RealtaSnap",
+        "publishedWebsite": "https://www.realtasnap.com/",
+        "reason": "Genericcompanymatch;qualifyingaccommodationunverified;notapproved."
+      }
+    ],
+    "remaining": "Keywordqueryonly,notfullQueensdirectorysweep;vacation/inn/individualQueensneighborhoodsearchesnotcompleted.",
+    "loadingLesson": "Firstpost-searchsnapshotshowed0ofResultswhileloading;freshnativeAXshowed4of4ResultsanddisabledNextPage. Usefinishedactualstate."
+  }
+}

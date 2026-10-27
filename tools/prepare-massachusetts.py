@@ -242,6 +242,9 @@ def main():
             'cardPhotos': [p['file'] for p in unique[:3]], 'cardPhotoLabel': audit.get('publicPhotoLabel') or ('Photos: advertised apartment category; unit assigned by operator.' if record_type == 'Accommodation category' else label if record_type != 'Property' else ''), 'platformLinks': badges,
             'collectionStatus': collection_status, 'missingRequiredFields': required_gaps, 'researchGaps': list(dict.fromkeys(gaps)),
             'listingStatus': 'Active', 'checked': TODAY, 'alive': True, 'demo': False, 'featured': False}
+        for field in ['lat', 'lng', 'locationPrecision', 'locationSource', 'locationEvidence', 'locationLabel', 'suppressTownGeocoding']:
+            if field in audit:
+                home[field] = audit[field]
         for field in ['rooms', 'bedrooms', 'bathrooms', 'guests', 'kids', 'pets', 'priceFrom', 'currency']:
             home[field] = facts.get(field, 'Unknown')
         imports.append(home)

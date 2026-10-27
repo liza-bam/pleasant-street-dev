@@ -126,7 +126,9 @@ def main():
             merge_fields(h, row)
             h['name'], h['url'] = name, url
             h['place'] = row.get('place') or ', '.join(x for x in [h.get('town'), h.get('state')] if x)
-            if isinstance(row.get('lat'), (float, int)) and isinstance(row.get('lng'), (float, int)): h['lat'], h['lng'] = row['lat'], row['lng']
+            if row.get('suppressTownGeocoding'):
+                h['lat'], h['lng'] = row.get('lat', 'Unknown'), row.get('lng', 'Unknown')
+            elif isinstance(row.get('lat'), (float, int)) and isinstance(row.get('lng'), (float, int)): h['lat'], h['lng'] = row['lat'], row['lng']
             elif not isinstance(h.get('lat'), (float, int)): h['lat'], h['lng'] = coordinates(h.get('town', ''), h.get('state', ''))
             h['locationPrecision'] = row.get('locationPrecision') or ('Town / area approximate' if h.get('lat') is not None else 'Unknown')
             if GEO_CACHE.exists():

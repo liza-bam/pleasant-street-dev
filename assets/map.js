@@ -224,6 +224,7 @@
   function madeBadge() { return '<a class="ps-claim-badge ps-made-badge" href="https://lazy.vacations/start/" target="_blank" rel="noopener" aria-label="Made with LAZY — get your free website"><img class="ps-claim-badge__logo" src="favicon.ico" alt="" width="20" height="20"><span>Made with LAZY</span></a>'; }
   function fullCard(h, missing, tiny, detail) {
     var images = photoSet(h);
+    var displayPlace = h.place + (h.locationLabel ? ' · ' + h.locationLabel : '');
     var slots = tiny ? [0] : detail ? (images.length ? images.map(function (_, i) { return i; }) : [0]) : [0, 1, 2];
     var gallery = slots.map(function (i) {
       return images[i] ? '<img src="' + esc(images[i]) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">Photo unavailable</span>';
@@ -232,7 +233,7 @@
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
       '<div class="ps-gallery">' + listingBadge(h) + (h.featured ? madeBadge() : detail ? '' : '<a class="ps-claim-badge" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' on Pleasant Street by email"><img class="ps-claim-badge__logo" src="favicon.ico" alt="LAZY" width="20" height="20"><span>Claim your house</span></a>') + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
       (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true"' + (images.length <= 1 ? ' hidden' : '') + '>' + images.map(function (_, i) { return '<span' + (i ? '' : ' class="is-active"') + '></span>'; }).join('') + '</span>' : gallery) + '</div>' +
-      '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(h.place) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(h.place) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
+      '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(displayPlace) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(displayPlace) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
       (factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +

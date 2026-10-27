@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "NY-0001",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/two-bedroom-apartment/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "Category explicitly accommodates5 guests plus one child12 or under.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/two-bedroom-apartment/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0005",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/penthouse-with-balcony/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "Cribs available for this room upon request.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/penthouse-with-balcony/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0006",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/penthouse-with-balcony/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "Cots and cribs available for this room upon request.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/penthouse-with-balcony/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0007",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/one-bedroom-apartment/",
+      "https://www.radiocityapartments.com/en/gallery/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "Cots and cribs available for this room upon request.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/one-bedroom-apartment/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0008",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/one-bedroom-apartment/",
+      "https://www.radiocityapartments.com/en/gallery/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "Up to4 guests plus one child12 or under; cots and cribs on request.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/one-bedroom-apartment/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0009",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/one-bedroom-apartment/",
+      "https://www.radiocityapartments.com/en/gallery/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "Up to4 guests plus one child12 or under; cots and cribs on request.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/one-bedroom-apartment/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0010",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/studio-apartment/",
+      "https://www.radiocityapartments.com/en/gallery/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "No explicit child admission policy found for this named studio.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/studio-apartment/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy",
+      "Explicit child admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0011",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/studio-apartment/",
+      "https://www.radiocityapartments.com/en/gallery/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "No explicit child admission policy found for this named studio.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/studio-apartment/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy",
+      "Explicit child admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0012",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/studio-apartment/",
+      "https://www.radiocityapartments.com/en/gallery/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/faqs/",
+      "https://www.radiocityapartments.com/en/about-the-hotel/contact/",
+      "https://radiocityapartments.book.pegsbe.com/search?locale=en&offerCode=&flow=tf&Rooms=1"
+    ],
+    "method": "Read actual category and full FAQ; no relevant accordions; opened direct engine Hotel Details. Generic child selector not used as admission evidence.",
+    "applicability": "Named assigned category; shared operator FAQ checked.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "kids",
+        "text": "Up to2 guests and1child under12.",
+        "source": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/studio-apartment/"
+      }
+    ],
+    "restrictions": [
+      "18+ check-in requirement on homepage applies to check-in guest, not a child ban.",
+      "No smoking or vaping."
+    ],
+    "noneFound": [
+      "Explicit pet admission policy"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0014",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://penthouse5b.dtravel.com/property/2303071",
+      "https://penthouse5b.dtravel.com/",
+      "https://penthouse5b.dtravel.com/profile"
+    ],
+    "method": "Read full actual Home rules and description; opened Contact us modal and host profile. No explicit child policy link found.",
+    "applicability": "This current apartment only.",
+    "pets": "Yes",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets allowed; description explicitly welcomes cats and dogs.",
+        "source": "https://penthouse5b.dtravel.com/property/2303071"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "30-night minimum stay",
+        "source": "https://penthouse5b.dtravel.com/property/2303071"
+      }
+    ],
+    "restrictions": [
+      "No parties or events",
+      "30nightminimum"
+    ],
+    "noneFound": [
+      "Explicit child admission policy",
+      "Published street address"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0017",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://uptowncosyhaven.lodgify.com/en/overview",
+      "https://uptowncosyhaven.lodgify.com/en/contact",
+      "https://uptowncosyhaven.lodgify.com/en/map",
+      "https://checkout.lodgify.com/uptowncosyhaven/en/?currency=USD#/521123"
+    ],
+    "method": "Read full actual own overview including Additional Rules, Amenities Policies and House Rules; checked Contact and Map; opened direct checkout.",
+    "applicability": "Named individual apartment.",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets not allowed",
+        "source": "https://uptowncosyhaven.lodgify.com/en/overview"
+      },
+      {
+        "topic": "kids",
+        "text": "Catering to families with a pack and play for little ones; baby crib and child high chair listed.",
+        "source": "https://uptowncosyhaven.lodgify.com/en/overview"
+      }
+    ],
+    "restrictions": [
+      "No parties",
+      "Noise curfew10pm",
+      "No smoking",
+      "Other visitorsmax4; overnight extra guests require registration andUSD25pernight"
+    ],
+    "noneFound": [
+      "Publicstreetaddress"
+    ],
+    "conflicts": []
+  },
+  {
+    "id": "NY-0019",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/345-east-78th-st"
+    ],
+    "method": "Read actual unit House rules, description and room arrangement; full shared Terms and FAQ including visible pet answer; opened both own Contact pages and linked building page. Generic booking selectors not used as policies.",
+    "applicability": "Individual apartment345-3A; shared operator policies retained with unit-specific exception.",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "No pets are allowed",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Check-in16:00/check-out11:00",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "general pet agreement",
+        "detail": "Shared Guesty Terms both allow written pet permission and later state NoPetsAllowed. Unit explicitly prohibits pets; operator FAQ conditional approval is general and does not establish an exception for345-3A.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day and14-45day language. No reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "occupancy",
+        "detail": "Shared Terms contains sole-occupant clause despite unit catalog4guest capacity; present direct inquiry scope accurately and seek confirmation before any reservation.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://urbanfurnished.guestybookings.com/en/properties"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0020",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This named apartment; shared operator policies retained with unit-specific prohibition.",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "No pets are allowed",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Check-in16:00/check-out11:00",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "general pet agreement",
+        "detail": "Shared Guesty Terms contains written pet permission and later NoPetsAllowed. This unit explicitly prohibits pets; generic FAQ conditional approval does not establish this unit exception.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day and14-45day language. No reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "occupancy",
+        "detail": "Shared Terms sole-occupant clause differs from own catalog3Guests; preserve conflict.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://urbanfurnished.guestybookings.com/en/properties"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0021",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This named individual apartment; shared operator policies with unit-specific statements and conflicts retained.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Actual unit House rules: Petsallowed(additionalfee); contactus to let us know and get feedetails.",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Check-in16:00/check-out11:00",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "Unit allows pets withadditionalfee and contact; genericTerms laterNoPetsAllowed, earlierwrittenpermission and FAQownerapprovalcasebycase. No specific signed exception established;Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Catalog5 vsactualSpace up to4; sharedTerms soleoccupant. Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0022",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/335-east-22nd-st"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This named individual apartment; shared operator policies with unit-specific statements and conflicts retained.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Actual unit House rules: Petsallowed(additionalfee); contactus to let us know and get feedetails.",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Check-in16:00/check-out11:00",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "Unit allows pets withadditionalfee and contact; genericTerms laterNoPetsAllowed, earlierwrittenpermission and FAQownerapprovalcasebycase. No specific signed exception established;Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Own catalog3Guests vs genericsharedTermssoleoccupant.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0023",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/347-east-78th-st"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This named individual apartment; shared operator policies with unit-specific statements and conflicts retained.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Actual unit House rules: Petsallowed(additionalfee); contactus to let us know and get feedetails.",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Check-in16:00/check-out11:00",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "Unit allows pets withadditionalfee and contact; genericTerms laterNoPetsAllowed, earlierwrittenpermission and FAQownerapprovalcasebycase. No specific signed exception established;Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Own catalog4Guests vs sharedTerms soleoccupant.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "address",
+        "detail": "Building heading347E78thSt vs map popup345E78thSt; streetUnknown.",
+        "sources": [
+          "https://www.urbanfurnished.com/347-east-78th-st"
+        ]
+      },
+      {
+        "topic": "bedrooms",
+        "detail": "Unit detail2BR vsbuildingoverview1BR; normalizedUnknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1",
+          "https://www.urbanfurnished.com/347-east-78th-st"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0024",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/335-east-22nd-st"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This individual apartment; shared operator policies, unit-specific statements and conflicts retained.",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "No pets are allowed",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Check-in16:00/check-out11:00",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "SharedTerms both writtenpermission andNoPetsAllowed; unitNoPets explicit; genericFAQ conditionalapproval doesnotestablishunitexception.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Own catalog3Guests vs genericsharedTermssoleoccupant.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0025",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/246-mott-street"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This individual apartment; shared operator policies, unit-specific statements and conflicts retained.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Actual unit House rules: Petsallowed(additionalfee); contactus to let us know and get feedetails.",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Unitcheck-in15:00/check-out10:00; sharedFAQ11:00checkout differs",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "Unit allows pets withadditionalfee and contact; genericTerms laterNoPetsAllowed, earlierwrittenpermission and FAQownerapprovalcasebycase. No specific signed exception established;Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Own catalog3Guests vs genericsharedTermssoleoccupant.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "checkout",
+        "detail": "Unit10:00checkout vs sharedFAQ11:00. Preserve unit-specific10:00 and broaderFAQconflict.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0026",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/350-west-43rd-st"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This individual apartment; shared operator policies, unit-specific statements and conflicts retained.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Actual unit House rules: Petsallowed(additionalfee); contactus to let us know and get feedetails.",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Unitcheck-in15:00/check-out10:00; sharedFAQ11:00checkout differs",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "Unit allows pets withadditionalfee and contact; genericTerms laterNoPetsAllowed, earlierwrittenpermission and FAQownerapprovalcasebycase. No specific signed exception established;Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Owncatalog4Guests vs genericTermssoleoccupant.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "checkout",
+        "detail": "Unit10:00checkout vs sharedFAQ11:00. Preserve unit-specific10:00 and broaderFAQconflict.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0027",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/350-west-43rd-st"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This individual apartment; shared operator policies, unit-specific statements and conflicts retained.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Actual unit House rules: Petsallowed(additionalfee); contactus to let us know and get feedetails.",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Unitcheck-in15:00/check-out10:00; sharedFAQ11:00checkout differs",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "Unit allows pets withadditionalfee and contact; genericTerms laterNoPetsAllowed, earlierwrittenpermission and FAQownerapprovalcasebycase. No specific signed exception established;Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Owncatalog4Guests vs genericTermssoleoccupant.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "checkout",
+        "detail": "Unit10:00checkout vs sharedFAQ11:00. Preserve unit-specific10:00 and broaderFAQconflict.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "NY-0028",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "https://urbanfurnished.guestybookings.com/en/contact",
+      "https://urbanfurnished.guestybookings.com/en/terms",
+      "https://www.urbanfurnished.com/",
+      "https://www.urbanfurnished.com/faq",
+      "https://www.urbanfurnished.com/contact",
+      "https://www.urbanfurnished.com/345-east-78th-st"
+    ],
+    "method": "Read full actual unit Description, Space, House rules and Room arrangement; shared Contact, Terms and main FAQ/Contact previously opened this same operator pass. Relevant FAQ pet answer visible. Generic booking selectors not used as policies.",
+    "applicability": "This individual apartment; shared operator policies, unit-specific statements and conflicts retained.",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Actual unit House rules: Petsallowed(additionalfee); contactus to let us know and get feedetails.",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "kids",
+        "text": "Suitable for children (2 to12years); Suitable for infants (under2years)",
+        "source": "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Flexible lease terms with a minimum30-daystay",
+        "source": "https://www.urbanfurnished.com/"
+      },
+      {
+        "topic": "general pet conditions",
+        "text": "Owner approval case by case; pet cleaning fee for pet-friendly apartments",
+        "source": "https://www.urbanfurnished.com/faq"
+      }
+    ],
+    "restrictions": [
+      "No smoking",
+      "No parties or events",
+      "Check-in16:00/check-out11:00",
+      "30dayminimum operator offer"
+    ],
+    "noneFound": [
+      "No attributable Airbnb/Vrbo/Booking links found on checked own pages"
+    ],
+    "conflicts": [
+      {
+        "topic": "cancellation",
+        "detail": "FAQ30day cancellation policy differs from Guesty Terms45day/14-45day language; no reconciliation inferred.",
+        "sources": [
+          "https://www.urbanfurnished.com/faq",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "pets",
+        "detail": "Unit allows pets withadditionalfee and contact; genericTerms laterNoPetsAllowed, earlierwrittenpermission and FAQownerapprovalcasebycase. No specific signed exception established;Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms",
+          "https://www.urbanfurnished.com/faq"
+        ]
+      },
+      {
+        "topic": "guests",
+        "detail": "Owncatalog4Guests vs sharedTermssoleoccupant.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+          "https://urbanfurnished.guestybookings.com/en/terms"
+        ]
+      },
+      {
+        "topic": "bedrooms",
+        "detail": "Currentunit2BR vsmainbuilding1BR; Unknown.",
+        "sources": [
+          "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1",
+          "https://www.urbanfurnished.com/345-east-78th-st"
+        ]
+      }
+    ]
+  }
+]

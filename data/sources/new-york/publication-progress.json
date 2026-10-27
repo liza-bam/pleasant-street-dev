@@ -1,0 +1,24 @@
+{
+  "snapshot": "research-artifacts/ny-publication/verification-snapshot.json",
+  "reviewed": 28,
+  "eligible": 21,
+  "ready": 13,
+  "pendingIds": [
+    "NY-0002",
+    "NY-0003",
+    "NY-0004",
+    "NY-0005",
+    "NY-0006",
+    "NY-0007",
+    "NY-0008",
+    "NY-0009",
+    "NY-0010",
+    "NY-0011",
+    "NY-0012",
+    "NY-0013",
+    "NY-0015",
+    "NY-0016",
+    "NY-0018"
+  ],
+  "status": "Prepared locally; not yet deployed"
+}

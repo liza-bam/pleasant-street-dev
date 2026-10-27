@@ -10,7 +10,7 @@ homes = read("data/homes.json")
 indexed = {h["id"]: h for h in read("index.json")}
 platforms = {r["id"]: r for r in read("data/sources/cards/platform-links.json")}
 reviews = read("data/sources/cards/website-review.json")
-regional_audit = {r["id"]: r for region in ["new-hampshire", "massachusetts"] for r in read(f"data/sources/{region}/website-audit.json")}
+regional_audit = {r["id"]: r for region in ["new-hampshire", "massachusetts", "new-york"] for r in read(f"data/sources/{region}/website-audit.json")}
 with (ROOT / "data/sources/cards/cards_inventory.csv").open(encoding="utf-8-sig", newline="") as f:
     rows = list(csv.DictReader(f))
 assert len(rows) == len(homes)
@@ -43,7 +43,7 @@ for p in read("data/sources/cards/photo-sources.json"):
     assert hashlib.sha256((ROOT / p["file"]).read_bytes()).hexdigest() == p["sha256"]
 for review in reviews:
     assert review["id"] not in indexed, review["id"]
-for name in ["maine/catalog", "vermont/vermont_independent_rental_websites", "vermont/vermont_approved", "vermont/vermont_candidates", "new-hampshire/new_hampshire_independent_rental_websites", "new-hampshire/new_hampshire_approved", "new-hampshire/new_hampshire_candidates", "massachusetts/massachusetts_independent_rental_websites", "massachusetts/massachusetts_approved", "massachusetts/massachusetts_candidates"]:
+for name in ["maine/catalog", "vermont/vermont_independent_rental_websites", "vermont/vermont_approved", "vermont/vermont_candidates", "new-hampshire/new_hampshire_independent_rental_websites", "new-hampshire/new_hampshire_approved", "new-hampshire/new_hampshire_candidates", "massachusetts/massachusetts_independent_rental_websites", "massachusetts/massachusetts_approved", "massachusetts/massachusetts_candidates", "new-york/new_york_independent_rental_websites", "new-york/new_york_approved", "new-york/new_york_candidates"]:
     with (ROOT / f"data/sources/{name}.csv").open(encoding="utf-8-sig", newline="") as f:
         regional = list(csv.DictReader(f))
     assert len({r["ID"] for r in regional}) == len(regional)

@@ -10,6 +10,7 @@ const homes=read('data/homes.json'),source=read('data/sources/maine/catalog.json
 const vermont=fs.existsSync(path.join(root,'data/sources/vermont/approved-import.json'))?read('data/sources/vermont/approved-import.json'):[];
 const newHampshire=fs.existsSync(path.join(root,'data/sources/new-hampshire/approved-import.json'))?read('data/sources/new-hampshire/approved-import.json'):[];
 const massachusetts=fs.existsSync(path.join(root,'data/sources/massachusetts/approved-import.json'))?read('data/sources/massachusetts/approved-import.json'):[];
+const newYork=fs.existsSync(path.join(root,'data/sources/new-york/approved-import.json'))?read('data/sources/new-york/approved-import.json'):[];
 const street=read('street.json'),index=read('index.json');
 const excluded=read('data/sources/maine/bad-websites.json').map(h=>h.id);
 const replaced=read('data/sources/maine/operator-replacements.json').map(h=>h.id);
@@ -24,7 +25,7 @@ for(const h of aggregatorApproved){
 }
 for(const h of eligibility.filter(h=>h.qualificationStatus!=='Verified operator property'))assert(!homes.some(x=>x.id===h.id),'Unapproved research lead imported: '+h.id);
 const lazySeeds=read('data/sources/lazy.json');
-assert.equal(homes.length,source.length+lazySeeds.length+vermont.length+newHampshire.length+massachusetts.length);
+assert.equal(homes.length,source.length+lazySeeds.length+vermont.length+newHampshire.length+massachusetts.length+newYork.length);
 assert.equal(new Set(homes.map(h=>h.id)).size,homes.length);
 const key=url=>{const u=new URL(url);return u.host.replace(/^www\./,'')+u.pathname.replace(/\/$/,'')+(u.searchParams.has('PageDataID')?'?PageDataID='+u.searchParams.get('PageDataID'):(u.searchParams.has('reservation_unitId')?'?reservation_unitId='+u.searchParams.get('reservation_unitId'):''));};
 assert.equal(new Set(homes.map(h=>key(h.url))).size,homes.length);
@@ -127,6 +128,19 @@ if(massachusetts.length){
   assert.equal(photo.generated,false);assert(photo.sourcePage.startsWith('http'));
  }
  for(const bad of read('data/sources/massachusetts/bad-websites.json'))assert(!homes.some(h=>h.id===bad.id),'Unavailable MA website imported '+bad.id);
+}
+if(newYork.length){
+ const audits=read('data/sources/new-york/website-audit.json');const approvedIds=new Set(newYork.map(h=>h.id));
+ for(const sourceHome of newYork){
+  const h=homes.find(x=>x.id===sourceHome.id);assert(h,'Missing NY record '+sourceHome.id);
+  for(const field of ['name','url','place','state','description','guests','bedrooms','bathrooms','kids','pets','address','photos','sourceDetails','cardPhotos','cardPhotoLabel','locationPrecision'])assert.deepEqual(h[field],sourceHome[field],h.id+' '+field);
+  assert.equal(h.state,'NY');assert.equal(h.demo,false);assert(h.contactPagesChecked.length && h.bookingUrl && h.operatorEvidenceUrl);
+  assert(['Verified independent website','Verified platform-hosted website'].includes(h.sourceDetails['Evidence status']));
+  if(typeof h.lat==='number'){assert(h.lat>40 && h.lat<45.1 && h.lng>-80 && h.lng<-71.7,h.id+' NY coordinates');assert(h.locationSource.startsWith('http'));}
+  else assert(h.suppressTownGeocoding,'Unverified property location must not become a city-center pin: '+h.id);
+ }
+ for(const a of audits)if(!approvedIds.has(a.id))assert(!homes.some(h=>h.id===a.id),'Unapproved NY lead imported '+a.id);
+ for(const p of read('data/sources/new-york/photo-sources.json')){assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,p.file))).digest('hex'),p.sha256,p.file);assert.equal(p.generated,false);}
 }
 const active=homes.filter(h=>h.alive!==false && h.listingStatus!=='Needs review');
 assert.deepEqual(street.map(h=>h.id),active.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>h.id));

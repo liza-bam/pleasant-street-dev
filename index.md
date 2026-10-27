@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-878 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+891 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -9284,6 +9284,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pet-friendly cabins advertised; restrictions not checked.
 - Website (book here, directly with the host): https://www.pemicabins.com/
 
+## Penthouse5B — Penthouse Apartment in Times Square NYC
+
+- ID: NY-0014
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Times Square one-bedroom penthouse apartment with a kitchen, private balcony and skyline views;30-night minimum stay.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 2
+- Price: from 270 USD a night
+- Children welcome: Unknown
+- Pets welcome: yes
+- Children policy: No explicit policy found on opened own detail, rules, profile and Contact modal.
+- Pet policy: Actual Home rules Petsallowed; description cats and dogs welcome.
+- Website (book here, directly with the host): https://penthouse5b.dtravel.com/property/2303071
+
 ## PERLEY POND LODGE LIMIT 14
 
 - ID: ME-0538
@@ -9791,6 +9808,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit staying-child/infant age policy found.
 - Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
 - Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/120-Kingston-Street-7126
+
+## Radio City Apartments — Two Bedroom category
+
+- ID: NY-0001
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Manhattan two-bedroom apartment category with kitchenette, dining area and separate living area.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Up to5 guests plus one child12 or under;6 is conditional total.
+- Price: Booking calendar dates are examples, not category static rates.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Category explicitly accommodates5 guests plus one child12 or under.
+- Pet policy: Checked with no explicit admission policy found.
+- Website (book here, directly with the host): https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/two-bedroom-apartment/
 
 ## Rangeley Lake Resort
 
@@ -12683,6 +12717,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No published pet policy found in checked home, room and initial booking pages.
 - Website (book here, directly with the host): https://www.thetrailinadams.com/
 
+## The Uptown Cosy Haven
+
+- ID: NY-0017
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Harlem two-bedroom apartment with king and queen beds, two bathrooms, a full kitchen and workspace.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: 5
+- Price: No staticnightlypricecollected; directcheckoutcurrentlyunavailable.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Actual own description welcomes families and provides packandplay/babycrib/highchair.
+- Pet policy: Actual own HouseRules prohibit pets.
+- Website (book here, directly with the host): https://uptowncosyhaven.lodgify.com/en/overview
+
 ## The Urban Hideout Loft: Sleeps 4 | Private Entrance
 
 - ID: MA-1101
@@ -13482,6 +13533,176 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=381
+
+## Urban Furnished 22-4C Gramercy
+
+- ID: NY-0022
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Gramercy one-bedroom apartment with queen bed, kitchen, in-unit washer and dryer and a30dayminimum.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 3
+- Price: from 195  a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1
+
+## Urban Furnished 22-5C Gramercy
+
+- ID: NY-0024
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Gramercy one-bedroom apartment with queen bed, kitchen and in-unit washer and dryer;30dayminimum.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 3
+- Price: from 195  a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual unit House rulesNoPets; genericconditionalFAQ doesnotestablish unitexception.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1
+
+## Urban Furnished 246-9 SoHo
+
+- ID: NY-0025
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: SoHo one-bedroom apartment with queen bed, kitchen, dishwasher and in-unit washer and dryer;30dayminimum.
+- Rooms: 2
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 3
+- Price: from 210  a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1
+
+## Urban Furnished 345-2A
+
+- ID: NY-0028
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Upper East Side furnished apartment with two queen beds, kitchen and in-unit washer and dryer;30dayminimum.
+- Rooms: 3
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: 4
+- Price: from 235  a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1
+
+## Urban Furnished 345-3A
+
+- ID: NY-0019
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Upper East Side furnished apartment with kitchen, in-unit washer and dryer and two queen beds;30dayminimum.
+- Rooms: 3
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: 4
+- Price: from 235  a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Actual unit House rules explicitly welcome children2-12 and infantsunder2.
+- Pet policy: Actual unit House rules prohibit pets; shared conditional approval does not establish this unit exception.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1
+
+## Urban Furnished 347-4A
+
+- ID: NY-0023
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Upper East Side furnished apartment with two queen beds, a kitchen, in-unit washer and dryer and a30dayminimum.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: 4
+- Price: from 235  a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1
+
+## Urban Furnished 43-11D Hell’s Kitchen
+
+- ID: NY-0027
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Hell’s Kitchen one-bedroom apartment with king bed, kitchen and shared doorman, gym and laundry;30dayminimum.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 4
+- Price: from 220  a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1
+
+## Urban Furnished 43-11E Hell’s Kitchen
+
+- ID: NY-0026
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Hell’s Kitchen two-bedroom apartment with king and queen beds, kitchen, shared gym and laundry;30dayminimum.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 4
+- Price: from 250  a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1
+
+## Urban Furnished 97-1A Upper West Side
+
+- ID: NY-0021
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Upper West Side two-bedroom apartment with king and queen beds, kitchen and shared gym and laundry;30dayminimum.
+- Rooms: 3
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: from 240  a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Actual House rules Suitableforchildren2-12 and infantsunder2.
+- Pet policy: Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1
+
+## Urban Furnished Freeman Alley SoHo 1BR
+
+- ID: NY-0020
+- Town / area (approximate map location): New York, NY
+- Type: Apartment
+- Description: Furnished one-bedroom apartment off Chrystie Street with a queen bed, kitchen, city views and a30dayminimum.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 3
+- Price: from 250  a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Actual unit House rules explicitly welcome children2-12 and infantsunder2.
+- Pet policy: Actual unit House rules prohibit pets; shared conditional approval does not establish this unit exception.
+- Website (book here, directly with the host): https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1
 
 ## Valley View Villa
 
