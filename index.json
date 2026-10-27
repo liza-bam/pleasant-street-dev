@@ -1085,8 +1085,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.841355738518,
-  "lng": -69.51083100436,
+  "lat": 43.84136,
+  "lng": -69.51083,
   "photo": "images/ME-0453-card.webp",
   "coverPhoto": "images/ME-0453-cover.jpg",
   "photos": [
@@ -1174,8 +1174,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.83729935,
-  "lng": -69.61920166,
+  "lat": 43.8373,
+  "lng": -69.6192,
   "photo": "images/ME-0431-card.webp",
   "coverPhoto": "images/ME-0431-cover.jpg",
   "photos": [
@@ -3301,7 +3301,7 @@
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
   "lat": 43.93004,
-  "lng": -69.497737,
+  "lng": -69.49774,
   "photo": "images/ME-0455-card.webp",
   "coverPhoto": "images/ME-0455-cover.jpg",
   "photos": [
@@ -3667,8 +3667,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 43.8282973,
-  "lng": -69.6210084,
+  "lat": 43.8283,
+  "lng": -69.62101,
   "photo": "images/ME-0442-card.webp",
   "coverPhoto": "images/ME-0442-cover.jpg",
   "photos": [
@@ -7688,8 +7688,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4587154,
-  "lng": -69.5961069,
+  "lat": 45.45872,
+  "lng": -69.59611,
   "photo": "images/ME-0318-card.webp",
   "coverPhoto": "images/ME-0318-cover.jpg",
   "photos": [
@@ -7731,7 +7731,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -8392,8 +8392,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 44.0724706,
-  "lng": -70.8241715,
+  "lat": 44.07247,
+  "lng": -70.82417,
   "photo": "images/ME-0342-card.webp",
   "coverPhoto": "images/ME-0342-cover.jpg",
   "photos": [
@@ -8438,7 +8438,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -8606,8 +8606,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4416214,
-  "lng": -69.53548525,
+  "lat": 45.44162,
+  "lng": -69.53549,
   "photo": "images/ME-0330-card.webp",
   "coverPhoto": "images/ME-0330-cover.jpg",
   "photos": [
@@ -8655,7 +8655,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -9562,8 +9562,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.84140015,
-  "lng": -69.62529755,
+  "lat": 43.8414,
+  "lng": -69.6253,
   "photo": "images/ME-0447-card.webp",
   "coverPhoto": "images/ME-0447-cover.jpg",
   "photos": [
@@ -9659,8 +9659,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 43.8282973,
-  "lng": -69.6210084,
+  "lat": 43.8283,
+  "lng": -69.62101,
   "photo": "images/ME-0443-card.webp",
   "coverPhoto": "images/ME-0443-cover.jpg",
   "photos": [
@@ -10287,8 +10287,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.859090402925,
-  "lng": -69.560943223,
+  "lat": 43.85909,
+  "lng": -69.56094,
   "photo": "images/ME-0463-card.webp",
   "coverPhoto": "images/ME-0463-cover.jpg",
   "photos": [
@@ -10419,8 +10419,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 44.0171689,
-  "lng": -70.6940794,
+  "lat": 44.01717,
+  "lng": -70.69408,
   "photo": "images/ME-0335-card.webp",
   "coverPhoto": "images/ME-0335-cover.jpg",
   "photos": [
@@ -10465,7 +10465,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -10693,8 +10693,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 45.5013994,
-  "lng": -69.5769993,
+  "lat": 45.5014,
+  "lng": -69.577,
   "photo": "images/ME-0331-card.webp",
   "coverPhoto": "images/ME-0331-cover.jpg",
   "photos": [
@@ -10739,7 +10739,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -11203,8 +11203,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 45.506693,
-  "lng": -69.570292,
+  "lat": 45.50669,
+  "lng": -69.57029,
   "photo": "images/ME-0332-card.webp",
   "coverPhoto": "images/ME-0332-cover.jpg",
   "photos": [
@@ -11252,7 +11252,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -15019,8 +15019,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.011673,
-  "lng": -69.466541,
+  "lat": 44.01167,
+  "lng": -69.46654,
   "photo": "images/ME-0466-card.webp",
   "coverPhoto": "images/ME-0466-cover.jpg",
   "photos": [
@@ -17896,8 +17896,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.062308,
-  "lng": -69.461582,
+  "lat": 44.06231,
+  "lng": -69.46158,
   "photo": "images/ME-0465-card.webp",
   "coverPhoto": "images/ME-0465-cover.jpg",
   "photos": [
@@ -18395,8 +18395,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4587154,
-  "lng": -69.5961069,
+  "lat": 45.45872,
+  "lng": -69.59611,
   "photo": "images/ME-0321-card.webp",
   "coverPhoto": "images/ME-0321-cover.jpg",
   "photos": [
@@ -18438,7 +18438,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -18643,8 +18643,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.8516692,
-  "lng": -69.6231706,
+  "lat": 43.85167,
+  "lng": -69.62317,
   "photo": "images/ME-0445-card.webp",
   "coverPhoto": "images/ME-0445-cover.jpg",
   "photos": [
@@ -19227,8 +19227,8 @@
   "pets": "No",
   "kidsDetails": "Unknown",
   "petsDetails": "No",
-  "lat": 44.01712431,
-  "lng": -70.93288181,
+  "lat": 44.01712,
+  "lng": -70.93288,
   "photo": "images/ME-0358-card.webp",
   "coverPhoto": "images/ME-0358-cover.jpg",
   "photos": [
@@ -19282,7 +19282,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -19785,8 +19785,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 44.0610401,
-  "lng": -69.5319845,
+  "lat": 44.06104,
+  "lng": -69.53198,
   "photo": "images/ME-0441-card.webp",
   "coverPhoto": "images/ME-0441-cover.jpg",
   "photos": [
@@ -20106,8 +20106,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.988578491693,
-  "lng": -69.43015606123,
+  "lat": 43.98858,
+  "lng": -69.43016,
   "photo": "images/ME-0479-card.webp",
   "coverPhoto": "images/ME-0479-cover.jpg",
   "photos": [
@@ -21465,8 +21465,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 44.0535465,
-  "lng": -70.7128424,
+  "lat": 44.05355,
+  "lng": -70.71284,
   "photo": "images/ME-0336-card.webp",
   "coverPhoto": "images/ME-0336-cover.jpg",
   "photos": [
@@ -21517,7 +21517,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -21557,8 +21557,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.0200622,
-  "lng": -69.45647459999,
+  "lat": 44.02006,
+  "lng": -69.45647,
   "photo": "images/ME-0448-card.webp",
   "coverPhoto": "images/ME-0448-cover.jpg",
   "photos": [
@@ -26892,8 +26892,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 44.00466919,
-  "lng": -70.94132996,
+  "lat": 44.00467,
+  "lng": -70.94133,
   "photo": "images/ME-0353-card.webp",
   "coverPhoto": "images/ME-0353-cover.jpg",
   "photos": [
@@ -26938,7 +26938,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -27849,8 +27849,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.998194,
-  "lng": -69.402395,
+  "lat": 43.99819,
+  "lng": -69.40239,
   "photo": "images/ME-0471-card.webp",
   "coverPhoto": "images/ME-0471-cover.jpg",
   "photos": [
@@ -28412,8 +28412,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4978831,
-  "lng": -69.6199006,
+  "lat": 45.49788,
+  "lng": -69.6199,
   "photo": "images/ME-0333-card.webp",
   "coverPhoto": "images/ME-0333-cover.jpg",
   "photos": [
@@ -28461,7 +28461,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -28975,7 +28975,7 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.864591,
+  "lat": 43.86459,
   "lng": -69.54888,
   "photo": "images/ME-0472-card.webp",
   "coverPhoto": "images/ME-0472-cover.jpg",
@@ -31582,8 +31582,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.118914300287,
-  "lng": -69.46088586322,
+  "lat": 44.11891,
+  "lng": -69.46089,
   "photo": "images/ME-0480-card.webp",
   "coverPhoto": "images/ME-0480-cover.jpg",
   "photos": [
@@ -32188,8 +32188,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.8412814,
-  "lng": -69.51264019999,
+  "lat": 43.84128,
+  "lng": -69.51264,
   "photo": "images/ME-0459-card.webp",
   "coverPhoto": "images/ME-0459-cover.jpg",
   "photos": [
@@ -32667,8 +32667,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 44.1151126,
-  "lng": -69.4585704,
+  "lat": 44.11511,
+  "lng": -69.45857,
   "photo": "images/ME-0432-card.webp",
   "coverPhoto": "images/ME-0432-cover.jpg",
   "photos": [
@@ -33606,8 +33606,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.2861613,
-  "lng": -69.505785,
+  "lat": 45.28616,
+  "lng": -69.50579,
   "photo": "images/ME-0317-card.webp",
   "coverPhoto": "images/ME-0317-cover.jpg",
   "photos": [
@@ -33658,7 +33658,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -33852,8 +33852,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.984382,
-  "lng": -69.492892,
+  "lat": 43.98438,
+  "lng": -69.49289,
   "photo": "images/ME-0462-card.webp",
   "coverPhoto": "images/ME-0462-cover.jpg",
   "photos": [
@@ -34455,7 +34455,7 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.881723,
+  "lat": 43.88172,
   "lng": -69.52824,
   "photo": "images/ME-0457-card.webp",
   "coverPhoto": "images/ME-0457-cover.jpg",
@@ -34544,8 +34544,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.858921,
-  "lng": -69.600842,
+  "lat": 43.85892,
+  "lng": -69.60084,
   "photo": "images/ME-0433-card.webp",
   "coverPhoto": "images/ME-0433-cover.jpg",
   "photos": [
@@ -35091,7 +35091,7 @@
   "kidsDetails": "Yes",
   "petsDetails": "No",
   "lat": 44.06133,
-  "lng": -70.6839996,
+  "lng": -70.684,
   "photo": "images/ME-0337-card.webp",
   "coverPhoto": "images/ME-0337-cover.jpg",
   "photos": [
@@ -35139,7 +35139,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -35291,8 +35291,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.056756,
-  "lng": -69.453411,
+  "lat": 44.05676,
+  "lng": -69.45341,
   "photo": "images/ME-0451-card.webp",
   "coverPhoto": "images/ME-0451-cover.jpg",
   "photos": [
@@ -50248,8 +50248,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 45.5032507,
-  "lng": -69.5735039,
+  "lat": 45.50325,
+  "lng": -69.5735,
   "photo": "images/ME-0319-card.webp",
   "coverPhoto": "images/ME-0319-cover.jpg",
   "photos": [
@@ -50291,7 +50291,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -50426,8 +50426,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.867207517945,
-  "lng": -69.48891022062,
+  "lat": 43.86721,
+  "lng": -69.48891,
   "photo": "images/ME-0473-card.webp",
   "coverPhoto": "images/ME-0473-cover.jpg",
   "photos": [
@@ -50632,8 +50632,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.008803,
-  "lng": -69.418246,
+  "lat": 44.0088,
+  "lng": -69.41825,
   "photo": "images/ME-0470-card.webp",
   "coverPhoto": "images/ME-0470-cover.jpg",
   "photos": [
@@ -50720,8 +50720,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.041742,
-  "lng": -69.537147,
+  "lat": 44.04174,
+  "lng": -69.53715,
   "photo": "images/ME-0464-card.webp",
   "coverPhoto": "images/ME-0464-cover.jpg",
   "photos": [
@@ -50871,8 +50871,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4402965,
-  "lng": -69.53436945,
+  "lat": 45.4403,
+  "lng": -69.53437,
   "photo": "images/ME-0324-card.webp",
   "coverPhoto": "images/ME-0324-cover.jpg",
   "photos": [
@@ -50920,7 +50920,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -51275,8 +51275,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.8611434,
-  "lng": -69.5929857,
+  "lat": 43.86114,
+  "lng": -69.59299,
   "photo": "images/ME-0436-card.webp",
   "coverPhoto": "images/ME-0436-cover.jpg",
   "photos": [
@@ -51368,8 +51368,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 44.020879,
-  "lng": -70.8605057,
+  "lat": 44.02088,
+  "lng": -70.86051,
   "photo": "images/ME-0341-card.webp",
   "coverPhoto": "images/ME-0341-cover.jpg",
   "photos": [
@@ -51420,7 +51420,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -51460,8 +51460,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4587154,
-  "lng": -69.5961069,
+  "lat": 45.45872,
+  "lng": -69.59611,
   "photo": "images/ME-0320-card.webp",
   "coverPhoto": "images/ME-0320-cover.jpg",
   "photos": [
@@ -51503,7 +51503,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -52326,8 +52326,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40063,
+  "lng": -70.5173,
   "photo": "images/MA-1502-card.webp",
   "coverPhoto": "images/MA-1502-cover.webp",
   "photos": [
@@ -52388,8 +52388,8 @@
   "pets": "Conditional",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "Pet Friendly on a case by case basis, No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39485,
+  "lng": -70.51048,
   "photo": "images/MA-1520-card.webp",
   "coverPhoto": "images/MA-1520-cover.webp",
   "photos": [
@@ -52450,8 +52450,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38128,
+  "lng": -70.51978,
   "photo": "images/MA-1545-card.webp",
   "coverPhoto": "images/MA-1545-cover.webp",
   "photos": [
@@ -52512,8 +52512,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38353,
+  "lng": -70.52172,
   "photo": "images/MA-1533-card.webp",
   "coverPhoto": "images/MA-1533-cover.webp",
   "photos": [
@@ -52574,8 +52574,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40232,
+  "lng": -70.5706,
   "photo": "images/MA-1703-card.webp",
   "coverPhoto": "images/MA-1703-cover.webp",
   "photos": [
@@ -52636,8 +52636,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40821,
+  "lng": -70.56925,
   "photo": "images/MA-1535-card.webp",
   "coverPhoto": "images/MA-1535-cover.webp",
   "photos": [
@@ -52698,8 +52698,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42846,
+  "lng": -70.59091,
   "photo": "images/MA-1527-card.webp",
   "coverPhoto": "images/MA-1527-cover.webp",
   "photos": [
@@ -52760,8 +52760,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.35355,
+  "lng": -70.73537,
   "photo": "images/MA-1522-card.webp",
   "coverPhoto": "images/MA-1522-cover.webp",
   "photos": [
@@ -52822,8 +52822,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.35886,
+  "lng": -70.61748,
   "photo": "images/MA-1521-card.webp",
   "coverPhoto": "images/MA-1521-cover.webp",
   "photos": [
@@ -52884,8 +52884,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39105,
+  "lng": -70.55233,
   "photo": "images/MA-1528-card.webp",
   "coverPhoto": "images/MA-1528-cover.webp",
   "photos": [
@@ -52946,8 +52946,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.4503,
+  "lng": -70.57276,
   "photo": "images/MA-1705-card.webp",
   "coverPhoto": "images/MA-1705-cover.webp",
   "photos": [
@@ -53008,8 +53008,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38039,
+  "lng": -70.53184,
   "photo": "images/MA-1503-card.webp",
   "coverPhoto": "images/MA-1503-cover.webp",
   "photos": [
@@ -53070,8 +53070,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.45415,
+  "lng": -70.60981,
   "photo": "images/MA-1532-card.webp",
   "coverPhoto": "images/MA-1532-cover.webp",
   "photos": [
@@ -53132,8 +53132,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking; 2 week stay required",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39371,
+  "lng": -70.51322,
   "photo": "images/MA-1505-card.webp",
   "coverPhoto": "images/MA-1505-cover.webp",
   "photos": [
@@ -53194,8 +53194,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.35425,
+  "lng": -70.70125,
   "photo": "images/MA-1501-card.webp",
   "coverPhoto": "images/MA-1501-cover.webp",
   "photos": [
@@ -53256,8 +53256,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39333,
+  "lng": -70.50821,
   "photo": "images/MA-1509-card.webp",
   "coverPhoto": "images/MA-1509-cover.webp",
   "photos": [
@@ -53318,8 +53318,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.47554,
+  "lng": -70.60728,
   "photo": "images/MA-1518-card.webp",
   "coverPhoto": "images/MA-1518-cover.webp",
   "photos": [
@@ -53380,8 +53380,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40016,
+  "lng": -70.57363,
   "photo": "images/MA-1539-card.webp",
   "coverPhoto": "images/MA-1539-cover.webp",
   "photos": [
@@ -53442,8 +53442,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36277,
+  "lng": -70.6825,
   "photo": "images/MA-1536-card.webp",
   "coverPhoto": "images/MA-1536-cover.webp",
   "photos": [
@@ -53504,8 +53504,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.44763,
+  "lng": -70.59267,
   "photo": "images/MA-1543-card.webp",
   "coverPhoto": "images/MA-1543-cover.webp",
   "photos": [
@@ -53566,8 +53566,8 @@
   "pets": "Conditional",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "Dogs under 30 lbs Permitted with Owner Permission with additional security deposit ($1500) & cleaning fee ($200 ). No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.45535,
+  "lng": -70.58022,
   "photo": "images/MA-1544-card.webp",
   "coverPhoto": "images/MA-1544-cover.webp",
   "photos": [
@@ -53628,8 +53628,8 @@
   "pets": "Conditional",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "Dogs Permitted upon Approval, No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36589,
+  "lng": -70.52924,
   "photo": "images/MA-1511-card.webp",
   "coverPhoto": "images/MA-1511-cover.webp",
   "photos": [
@@ -53690,8 +53690,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37867,
+  "lng": -70.63929,
   "photo": "images/MA-1514-card.webp",
   "coverPhoto": "images/MA-1514-cover.webp",
   "photos": [
@@ -53752,8 +53752,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37075,
+  "lng": -70.51541,
   "photo": "images/MA-1513-card.webp",
   "coverPhoto": "images/MA-1513-cover.webp",
   "photos": [
@@ -53814,8 +53814,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Smoking & No Pets; Two-week minimum stay required August weeks",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37192,
+  "lng": -70.50991,
   "photo": "images/MA-1529-card.webp",
   "coverPhoto": "images/MA-1529-cover.webp",
   "photos": [
@@ -53876,8 +53876,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38577,
+  "lng": -70.52326,
   "photo": "images/MA-1523-card.webp",
   "coverPhoto": "images/MA-1523-cover.webp",
   "photos": [
@@ -54062,8 +54062,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39016,
+  "lng": -70.51848,
   "photo": "images/MA-1531-card.webp",
   "coverPhoto": "images/MA-1531-cover.webp",
   "photos": [
@@ -54124,8 +54124,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.3648,
+  "lng": -70.5206,
   "photo": "images/MA-1542-card.webp",
   "coverPhoto": "images/MA-1542-cover.webp",
   "photos": [
@@ -54186,8 +54186,8 @@
   "pets": "Unknown",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38402,
+  "lng": -70.55051,
   "photo": "images/MA-1512-card.webp",
   "coverPhoto": "images/MA-1512-cover.webp",
   "photos": [
@@ -54248,8 +54248,8 @@
   "pets": "Conditional",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39034,
+  "lng": -70.50927,
   "photo": "images/MA-1517-card.webp",
   "coverPhoto": "images/MA-1517-cover.webp",
   "photos": [
@@ -54310,8 +54310,8 @@
   "pets": "Conditional",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39028,
+  "lng": -70.50937,
   "photo": "images/MA-1526-card.webp",
   "coverPhoto": "images/MA-1526-cover.webp",
   "photos": [
@@ -54372,8 +54372,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37879,
+  "lng": -70.56309,
   "photo": "images/MA-1507-card.webp",
   "coverPhoto": "images/MA-1507-cover.webp",
   "photos": [
@@ -54434,8 +54434,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking; 2 week minimum stay required",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38982,
+  "lng": -70.51789,
   "photo": "images/MA-1530-card.webp",
   "coverPhoto": "images/MA-1530-cover.webp",
   "photos": [
@@ -54558,8 +54558,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42923,
+  "lng": -70.57131,
   "photo": "images/MA-1704-card.webp",
   "coverPhoto": "images/MA-1704-cover.webp",
   "photos": [
@@ -54620,8 +54620,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.44918,
+  "lng": -70.59888,
   "photo": "images/MA-1702-card.webp",
   "coverPhoto": "images/MA-1702-cover.webp",
   "photos": [
@@ -54682,8 +54682,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38852,
+  "lng": -70.51356,
   "photo": "images/MA-1508-card.webp",
   "coverPhoto": "images/MA-1508-cover.webp",
   "photos": [
@@ -54744,8 +54744,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36123,
+  "lng": -70.52733,
   "photo": "images/MA-1538-card.webp",
   "coverPhoto": "images/MA-1538-cover.webp",
   "photos": [
@@ -54806,8 +54806,8 @@
   "pets": "Conditional",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "Pet Friendly on a case by case basis, No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38643,
+  "lng": -70.59303,
   "photo": "images/MA-1540-card.webp",
   "coverPhoto": "images/MA-1540-cover.webp",
   "photos": [
@@ -54868,8 +54868,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.41183,
+  "lng": -70.57383,
   "photo": "images/MA-1701-card.webp",
   "coverPhoto": "images/MA-1701-cover.webp",
   "photos": [
@@ -54930,8 +54930,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38827,
+  "lng": -70.51833,
   "photo": "images/MA-1537-card.webp",
   "coverPhoto": "images/MA-1537-cover.webp",
   "photos": [
@@ -54992,8 +54992,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42822,
+  "lng": -70.58312,
   "photo": "images/MA-1515-card.webp",
   "coverPhoto": "images/MA-1515-cover.webp",
   "photos": [
@@ -55054,8 +55054,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38929,
+  "lng": -70.73592,
   "photo": "images/MA-1525-card.webp",
   "coverPhoto": "images/MA-1525-cover.webp",
   "photos": [
@@ -55116,8 +55116,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42941,
+  "lng": -70.58776,
   "photo": "images/MA-1524-card.webp",
   "coverPhoto": "images/MA-1524-cover.webp",
   "photos": [
@@ -55178,8 +55178,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39354,
+  "lng": -70.51738,
   "photo": "images/MA-1534-card.webp",
   "coverPhoto": "images/MA-1534-cover.webp",
   "photos": [
@@ -55240,8 +55240,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39245,
+  "lng": -70.51033,
   "photo": "images/MA-1519-card.webp",
   "coverPhoto": "images/MA-1519-cover.webp",
   "photos": [
@@ -55302,8 +55302,8 @@
   "pets": "Conditional",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "Pet Friendly on a case-by-case basis (additional $100 per pet cleaning fee), No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.31143,
+  "lng": -70.77499,
   "photo": "images/MA-1504-card.webp",
   "coverPhoto": "images/MA-1504-cover.webp",
   "photos": [
@@ -55364,8 +55364,8 @@
   "pets": "No",
   "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
   "petsDetails": "No Pets & No Smoking",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36792,
+  "lng": -70.51745,
   "photo": "images/MA-1516-card.webp",
   "coverPhoto": "images/MA-1516-cover.webp",
   "photos": [
@@ -55428,8 +55428,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 45.455002,
-  "lng": -69.5328959,
+  "lat": 45.455,
+  "lng": -69.5329,
   "photo": "images/ME-0328-card.webp",
   "coverPhoto": "images/ME-0328-cover.jpg",
   "photos": [
@@ -55480,7 +55480,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -61018,8 +61018,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.8318806,
-  "lng": -69.6161751,
+  "lat": 43.83188,
+  "lng": -69.61618,
   "photo": "images/ME-0440-card.webp",
   "coverPhoto": "images/ME-0440-cover.jpg",
   "photos": [
@@ -80012,8 +80012,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.8464953,
-  "lng": -69.6191314,
+  "lat": 43.8465,
+  "lng": -69.61913,
   "photo": "images/ME-0434-card.webp",
   "coverPhoto": "images/ME-0434-cover.jpg",
   "photos": [
@@ -80105,8 +80105,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.478003,
-  "lng": -69.536043,
+  "lat": 45.478,
+  "lng": -69.53604,
   "photo": "images/ME-0329-card.webp",
   "coverPhoto": "images/ME-0329-cover.jpg",
   "photos": [
@@ -80154,7 +80154,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -80393,8 +80393,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.8210463,
-  "lng": -69.6033766,
+  "lat": 43.82105,
+  "lng": -69.60338,
   "photo": "images/ME-0439-card.webp",
   "coverPhoto": "images/ME-0439-cover.jpg",
   "photos": [
@@ -80820,8 +80820,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 44.053554,
-  "lng": -70.92718443,
+  "lat": 44.05355,
+  "lng": -70.92718,
   "photo": "images/ME-0355-card.webp",
   "coverPhoto": "images/ME-0355-cover.jpg",
   "photos": [
@@ -80863,7 +80863,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -81493,8 +81493,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.873534,
-  "lng": -69.508359,
+  "lat": 43.87353,
+  "lng": -69.50836,
   "photo": "images/ME-0483-card.webp",
   "coverPhoto": "images/ME-0483-cover.jpg",
   "photos": [
@@ -82059,8 +82059,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.836445,
-  "lng": -69.511139,
+  "lat": 43.83644,
+  "lng": -69.51114,
   "photo": "images/ME-0485-card.webp",
   "coverPhoto": "images/ME-0485-cover.jpg",
   "photos": [
@@ -82148,8 +82148,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 44.0625339,
-  "lng": -69.4511848,
+  "lat": 44.06253,
+  "lng": -69.45118,
   "photo": "images/ME-0446-card.webp",
   "coverPhoto": "images/ME-0446-cover.jpg",
   "photos": [
@@ -82704,8 +82704,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 44.09344971,
-  "lng": -70.84101818,
+  "lat": 44.09345,
+  "lng": -70.84102,
   "photo": "images/ME-0338-card.webp",
   "coverPhoto": "images/ME-0338-cover.jpg",
   "photos": [
@@ -82753,7 +82753,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -83571,8 +83571,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.157895399192,
-  "lng": -69.48910819573,
+  "lat": 44.1579,
+  "lng": -69.48911,
   "photo": "images/ME-0475-card.webp",
   "coverPhoto": "images/ME-0475-cover.jpg",
   "photos": [
@@ -85401,7 +85401,7 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.047322,
+  "lat": 44.04732,
   "lng": -69.61587,
   "photo": "images/ME-0478-card.webp",
   "coverPhoto": "images/ME-0478-cover.jpg",
@@ -85490,8 +85490,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.8720487,
-  "lng": -69.5878394,
+  "lat": 43.87205,
+  "lng": -69.58784,
   "photo": "images/ME-0438-card.webp",
   "coverPhoto": "images/ME-0438-cover.jpg",
   "photos": [
@@ -85716,8 +85716,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.9358556,
-  "lng": -69.6440364,
+  "lat": 43.93586,
+  "lng": -69.64404,
   "photo": "images/ME-0437-card.webp",
   "coverPhoto": "images/ME-0437-cover.jpg",
   "photos": [
@@ -87122,8 +87122,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.85915239279,
-  "lng": -69.49376112834,
+  "lat": 43.85915,
+  "lng": -69.49376,
   "photo": "images/ME-0482-card.webp",
   "coverPhoto": "images/ME-0482-cover.jpg",
   "photos": [
@@ -94329,8 +94329,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.897701,
-  "lng": -69.507221,
+  "lat": 43.8977,
+  "lng": -69.50722,
   "photo": "images/ME-0454-card.webp",
   "coverPhoto": "images/ME-0454-cover.jpg",
   "photos": [
@@ -95165,8 +95165,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.951123,
-  "lng": -69.452953,
+  "lat": 43.95112,
+  "lng": -69.45295,
   "photo": "images/ME-0456-card.webp",
   "coverPhoto": "images/ME-0456-cover.jpg",
   "photos": [
@@ -95771,7 +95771,7 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.875787,
+  "lat": 43.87579,
   "lng": -69.49175,
   "photo": "images/ME-0484-card.webp",
   "coverPhoto": "images/ME-0484-cover.jpg",
@@ -96853,8 +96853,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.1198172,
-  "lng": -69.46066569998,
+  "lat": 44.11982,
+  "lng": -69.46067,
   "photo": "images/ME-0481-card.webp",
   "coverPhoto": "images/ME-0481-cover.jpg",
   "photos": [
@@ -97749,8 +97749,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.096697,
-  "lng": -69.527255,
+  "lat": 44.0967,
+  "lng": -69.52725,
   "photo": "images/ME-0449-card.webp",
   "coverPhoto": "images/ME-0449-cover.jpg",
   "photos": [
@@ -100045,8 +100045,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 44.079761,
-  "lng": -70.8286452,
+  "lat": 44.07976,
+  "lng": -70.82865,
   "photo": "images/ME-0334-card.webp",
   "coverPhoto": "images/ME-0334-cover.jpg",
   "photos": [
@@ -100094,7 +100094,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -100134,8 +100134,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 44.01657778,
-  "lng": -70.93305623,
+  "lat": 44.01658,
+  "lng": -70.93306,
   "photo": "images/ME-0354-card.webp",
   "coverPhoto": "images/ME-0354-cover.jpg",
   "photos": [
@@ -100183,7 +100183,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -100888,7 +100888,7 @@
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
   "lat": 43.98273,
-  "lng": -69.488253,
+  "lng": -69.48825,
   "photo": "images/ME-0467-card.webp",
   "coverPhoto": "images/ME-0467-cover.jpg",
   "photos": [
@@ -101713,8 +101713,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.125033542045,
-  "lng": -69.50942994921,
+  "lat": 44.12503,
+  "lng": -69.50943,
   "photo": "images/ME-0468-card.webp",
   "coverPhoto": "images/ME-0468-cover.jpg",
   "photos": [
@@ -102104,8 +102104,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.007601,
-  "lng": -69.484175,
+  "lat": 44.0076,
+  "lng": -69.48417,
   "photo": "images/ME-0477-card.webp",
   "coverPhoto": "images/ME-0477-cover.jpg",
   "photos": [
@@ -102339,8 +102339,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.086211,
-  "lng": -69.453324,
+  "lat": 44.08621,
+  "lng": -69.45332,
   "photo": "images/ME-0458-card.webp",
   "coverPhoto": "images/ME-0458-cover.jpg",
   "photos": [
@@ -102938,8 +102938,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 44.05646381,
-  "lng": -70.80916857,
+  "lat": 44.05646,
+  "lng": -70.80917,
   "photo": "images/ME-0340-card.webp",
   "coverPhoto": "images/ME-0340-cover.jpg",
   "photos": [
@@ -102987,7 +102987,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -103214,8 +103214,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.877163,
-  "lng": -69.484362,
+  "lat": 43.87716,
+  "lng": -69.48436,
   "photo": "images/ME-0461-card.webp",
   "coverPhoto": "images/ME-0461-cover.jpg",
   "photos": [
@@ -103601,8 +103601,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4593959,
-  "lng": -69.6053446,
+  "lat": 45.4594,
+  "lng": -69.60534,
   "photo": "images/ME-0327-card.webp",
   "coverPhoto": "images/ME-0327-cover.jpg",
   "photos": [
@@ -103647,7 +103647,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -105391,8 +105391,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.199543,
-  "lng": -69.481347,
+  "lat": 44.19954,
+  "lng": -69.48135,
   "photo": "images/ME-0450-card.webp",
   "coverPhoto": "images/ME-0450-cover.jpg",
   "photos": [
@@ -105786,8 +105786,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.17584976563,
-  "lng": -69.47162581443,
+  "lat": 44.17585,
+  "lng": -69.47163,
   "photo": "images/ME-0476-card.webp",
   "coverPhoto": "images/ME-0476-cover.jpg",
   "photos": [
@@ -106410,8 +106410,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.071948,
-  "lng": -69.526931,
+  "lat": 44.07195,
+  "lng": -69.52693,
   "photo": "images/ME-0469-card.webp",
   "coverPhoto": "images/ME-0469-cover.jpg",
   "photos": [
@@ -106681,8 +106681,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 45.4573285,
-  "lng": -69.5935945,
+  "lat": 45.45733,
+  "lng": -69.59359,
   "photo": "images/ME-0326-card.webp",
   "coverPhoto": "images/ME-0326-cover.jpg",
   "photos": [
@@ -106724,7 +106724,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -107077,8 +107077,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 44.056111,
-  "lng": -69.455751,
+  "lat": 44.05611,
+  "lng": -69.45575,
   "photo": "images/ME-0460-card.webp",
   "coverPhoto": "images/ME-0460-cover.jpg",
   "photos": [
@@ -136798,8 +136798,8 @@
   "pets": "No",
   "kidsDetails": "Yes",
   "petsDetails": "No",
-  "lat": 43.8718715,
-  "lng": -69.515557,
+  "lat": 43.87187,
+  "lng": -69.51556,
   "photo": "images/ME-0435-card.webp",
   "coverPhoto": "images/ME-0435-cover.jpg",
   "photos": [
@@ -136889,7 +136889,7 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 43.8460954,
+  "lat": 43.8461,
   "lng": -69.62311,
   "photo": "images/ME-0444-card.webp",
   "coverPhoto": "images/ME-0444-cover.jpg",
@@ -138016,8 +138016,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.4613668,
-  "lng": -69.6178509,
+  "lat": 45.46137,
+  "lng": -69.61785,
   "photo": "images/ME-0325-card.webp",
   "coverPhoto": "images/ME-0325-cover.jpg",
   "photos": [
@@ -138062,7 +138062,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -138263,7 +138263,7 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.845331,
+  "lat": 43.84533,
   "lng": -69.51007,
   "photo": "images/ME-0452-card.webp",
   "coverPhoto": "images/ME-0452-cover.jpg",
@@ -138574,8 +138574,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 44.02378845,
-  "lng": -70.9389801,
+  "lat": 44.02379,
+  "lng": -70.93898,
   "photo": "images/ME-0351-card.webp",
   "coverPhoto": "images/ME-0351-cover.jpg",
   "photos": [
@@ -138620,7 +138620,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -138660,8 +138660,8 @@
   "pets": "Yes",
   "kidsDetails": "Unknown",
   "petsDetails": "Yes",
-  "lat": 45.53186652,
-  "lng": -69.55337682,
+  "lat": 45.53187,
+  "lng": -69.55338,
   "photo": "images/ME-0323-card.webp",
   "coverPhoto": "images/ME-0323-cover.jpg",
   "photos": [
@@ -138709,7 +138709,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -139135,8 +139135,8 @@
   "pets": "Yes",
   "kidsDetails": "Yes",
   "petsDetails": "Yes",
-  "lat": 45.48156062,
-  "lng": -69.59235518,
+  "lat": 45.48156,
+  "lng": -69.59236,
   "photo": "images/ME-0322-card.webp",
   "coverPhoto": "images/ME-0322-cover.jpg",
   "photos": [
@@ -139184,7 +139184,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -139582,7 +139582,7 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 43.857374,
+  "lat": 43.85737,
   "lng": -69.56048,
   "photo": "images/ME-0474-card.webp",
   "coverPhoto": "images/ME-0474-cover.jpg",

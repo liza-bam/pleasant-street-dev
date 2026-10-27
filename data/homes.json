@@ -2819,8 +2819,8 @@
    ],
    "errors": []
   },
-  "lat": 43.841355738518,
-  "lng": -69.51083100436,
+  "lat": 43.84136,
+  "lng": -69.51083,
   "photo": "images/ME-0453-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -2834,7 +2834,8 @@
    "images/ME-0453-000.jpg",
    "images/ME-0453-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "2-log-cabins-sleeps-10-beach-access-large-yard",
@@ -3003,8 +3004,8 @@
     }
    ]
   },
-  "lat": 43.83729935,
-  "lng": -69.61920166,
+  "lat": 43.8373,
+  "lng": -69.6192,
   "photo": "images/ME-0431-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -3018,7 +3019,8 @@
    "images/ME-0431-000.jpg",
    "images/ME-0431-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "207north-cabins",
@@ -7950,7 +7952,7 @@
    "errors": []
   },
   "lat": 43.93004,
-  "lng": -69.497737,
+  "lng": -69.49774,
   "photo": "images/ME-0455-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -7964,7 +7966,8 @@
    "images/ME-0455-000.jpg",
    "images/ME-0455-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "all-mountain-rentals",
@@ -8696,8 +8699,8 @@
     }
    ]
   },
-  "lat": 43.8282973,
-  "lng": -69.6210084,
+  "lat": 43.8283,
+  "lng": -69.62101,
   "photo": "images/ME-0442-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -8711,7 +8714,8 @@
    "images/ME-0442-000.jpg",
    "images/ME-0442-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "anchor-real-estate-vacation-rentals",
@@ -17550,10 +17554,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Bear's Den",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280093",
-  "lat": 45.4587154,
-  "lng": -69.5961069,
+  "lat": 45.45872,
+  "lng": -69.59611,
   "photo": "images/ME-0318-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -17567,7 +17571,8 @@
    "images/ME-0318-000.jpg",
    "images/ME-0318-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "beautiful-sea-captain-s-home-in-falmouth-village",
@@ -19092,10 +19097,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Big Moose Lodge | Brand New, Pool and Lake Access",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/404923",
-  "lat": 44.0724706,
-  "lng": -70.8241715,
+  "lat": 44.07247,
+  "lng": -70.82417,
   "photo": "images/ME-0342-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -19109,7 +19114,8 @@
    "images/ME-0342-000.jpg",
    "images/ME-0342-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "birch-and-stone-groton",
@@ -19572,10 +19578,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Black Bear Cabin",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232714",
-  "lat": 45.4416214,
-  "lng": -69.53548525,
+  "lat": 45.44162,
+  "lng": -69.53549,
   "photo": "images/ME-0330-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -19589,7 +19595,8 @@
    "images/ME-0330-000.jpg",
    "images/ME-0330-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "blooming-inn-shelburne-falls",
@@ -21615,8 +21622,8 @@
     }
    ]
   },
-  "lat": 43.84140015,
-  "lng": -69.62529755,
+  "lat": 43.8414,
+  "lng": -69.6253,
   "photo": "images/ME-0447-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -21630,7 +21637,8 @@
    "images/ME-0447-000.jpg",
    "images/ME-0447-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "boothbay-harbor-oceanfront-home-dock-hot-tub-sunrise-views",
@@ -21799,8 +21807,8 @@
     }
    ]
   },
-  "lat": 43.8282973,
-  "lng": -69.6210084,
+  "lat": 43.8283,
+  "lng": -69.62101,
   "photo": "images/ME-0443-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -21814,7 +21822,8 @@
    "images/ME-0443-000.jpg",
    "images/ME-0443-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "boothbay-vacation-homes",
@@ -23176,8 +23185,8 @@
    ],
    "errors": []
   },
-  "lat": 43.859090402925,
-  "lng": -69.560943223,
+  "lat": 43.85909,
+  "lng": -69.56094,
   "photo": "images/ME-0463-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -23191,7 +23200,8 @@
    "images/ME-0463-000.jpg",
    "images/ME-0463-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "bretton-woods-vacations",
@@ -23429,10 +23439,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Bridgton Bungalow | Brand New, Hot Tub, Sauna",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/222685",
-  "lat": 44.0171689,
-  "lng": -70.6940794,
+  "lat": 44.01717,
+  "lng": -70.69408,
   "photo": "images/ME-0335-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -23446,7 +23456,8 @@
    "images/ME-0335-000.jpg",
    "images/ME-0335-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "bright-jamaica-plain-home-near-green-st-t",
@@ -24037,10 +24048,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Burnt Jacket Lodge",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/233037",
-  "lat": 45.5013994,
-  "lng": -69.5769993,
+  "lat": 45.5014,
+  "lng": -69.577,
   "photo": "images/ME-0331-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -24054,7 +24065,8 @@
    "images/ME-0331-000.jpg",
    "images/ME-0331-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "call-of-the-loon-limit-9",
@@ -25065,10 +25077,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "*Lake/Mtn View*Hot Tub*Fireplace*Game Room*",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/279061",
-  "lat": 45.506693,
-  "lng": -69.570292,
+  "lat": 45.50669,
+  "lng": -69.57029,
   "photo": "images/ME-0332-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -25082,7 +25094,8 @@
    "images/ME-0332-000.jpg",
    "images/ME-0332-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "camp-lindy-limit-7",
@@ -33514,8 +33527,8 @@
    ],
    "errors": []
   },
-  "lat": 44.011673,
-  "lng": -69.466541,
+  "lat": 44.01167,
+  "lng": -69.46654,
   "photo": "images/ME-0466-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -33529,7 +33542,8 @@
    "images/ME-0466-000.jpg",
    "images/ME-0466-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "clean-contemporary-escape-near-t",
@@ -39745,8 +39759,8 @@
    ],
    "errors": []
   },
-  "lat": 44.062308,
-  "lng": -69.461582,
+  "lat": 44.06231,
+  "lng": -69.46158,
   "photo": "images/ME-0465-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -39760,7 +39774,8 @@
    "images/ME-0465-000.jpg",
    "images/ME-0465-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "dancing-queen",
@@ -40759,10 +40774,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Deer Run Apartment",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/284198",
-  "lat": 45.4587154,
-  "lng": -69.5961069,
+  "lat": 45.45872,
+  "lng": -69.59611,
   "photo": "images/ME-0321-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -40776,7 +40791,8 @@
    "images/ME-0321-000.jpg",
    "images/ME-0321-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "deerfield-valley-real-estate",
@@ -41289,8 +41305,8 @@
     }
    ]
   },
-  "lat": 43.8516692,
-  "lng": -69.6231706,
+  "lat": 43.85167,
+  "lng": -69.62317,
   "photo": "images/ME-0445-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -41304,7 +41320,8 @@
    "images/ME-0445-000.jpg",
    "images/ME-0445-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "dockside-retreat-limit-14",
@@ -42564,10 +42581,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Dreamland | Luxe Waterfront Villa, Hot tub + Sauna",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/337167",
-  "lat": 44.01712431,
-  "lng": -70.93288181,
+  "lat": 44.01712,
+  "lng": -70.93288,
   "photo": "images/ME-0358-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -42581,7 +42598,8 @@
    "images/ME-0358-000.jpg",
    "images/ME-0358-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "drift-oceanside-inn",
@@ -43766,8 +43784,8 @@
     }
    ]
   },
-  "lat": 44.0610401,
-  "lng": -69.5319845,
+  "lat": 44.06104,
+  "lng": -69.53198,
   "photo": "images/ME-0441-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -43781,7 +43799,8 @@
    "images/ME-0441-000.jpg",
    "images/ME-0441-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "earthwise-farm-forest",
@@ -44447,8 +44466,8 @@
    ],
    "errors": []
   },
-  "lat": 43.988578491693,
-  "lng": -69.43015606123,
+  "lat": 43.98858,
+  "lng": -69.43016,
   "photo": "images/ME-0479-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -44462,7 +44481,8 @@
    "images/ME-0479-000.jpg",
    "images/ME-0479-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "ember-escapes-quietude",
@@ -47286,10 +47306,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Fowler Farmhouse | Downtown | Beach | Hot tub +Bar",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/227399",
-  "lat": 44.0535465,
-  "lng": -70.7128424,
+  "lat": 44.05355,
+  "lng": -70.71284,
   "photo": "images/ME-0336-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -47303,7 +47323,8 @@
    "images/ME-0336-000.jpg",
    "images/ME-0336-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "fox-lane-cottage-bremen",
@@ -47465,8 +47486,8 @@
    ],
    "errors": []
   },
-  "lat": 44.0200622,
-  "lng": -69.45647459999,
+  "lat": 44.02006,
+  "lng": -69.45647,
   "photo": "images/ME-0448-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -47480,7 +47501,8 @@
    "images/ME-0448-000.jpg",
    "images/ME-0448-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "foxtrot-vacation-rental",
@@ -59353,10 +59375,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Gorgeous Family Lakefront Cabin | Incredible Views",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/225602",
-  "lat": 44.00466919,
-  "lng": -70.94132996,
+  "lat": 44.00467,
+  "lng": -70.94133,
   "photo": "images/ME-0353-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -59370,7 +59392,8 @@
    "images/ME-0353-000.jpg",
    "images/ME-0353-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "grand-lake-lodge",
@@ -61396,8 +61419,8 @@
    ],
    "errors": []
   },
-  "lat": 43.998194,
-  "lng": -69.402395,
+  "lat": 43.99819,
+  "lng": -69.40239,
   "photo": "images/ME-0471-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -61411,7 +61434,8 @@
    "images/ME-0471-000.jpg",
    "images/ME-0471-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "harbor-oasis",
@@ -62571,10 +62595,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Hartford's Point Lodge Spacious Log Cabin *Perfect for families*",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/495228",
-  "lat": 45.4978831,
-  "lng": -69.6199006,
+  "lat": 45.49788,
+  "lng": -69.6199,
   "photo": "images/ME-0333-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -62588,7 +62612,8 @@
    "images/ME-0333-000.jpg",
    "images/ME-0333-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "harwich-getaway",
@@ -63784,7 +63809,7 @@
    ],
    "errors": []
   },
-  "lat": 43.864591,
+  "lat": 43.86459,
   "lng": -69.54888,
   "photo": "images/ME-0472-card.webp",
   "checked": "2026-10-26",
@@ -63799,7 +63824,8 @@
    "images/ME-0472-000.jpg",
    "images/ME-0472-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "hidden-hollow",
@@ -69302,8 +69328,8 @@
    ],
    "errors": []
   },
-  "lat": 44.118914300287,
-  "lng": -69.46088586322,
+  "lat": 44.11891,
+  "lng": -69.46089,
   "photo": "images/ME-0480-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -69317,7 +69343,8 @@
    "images/ME-0480-000.jpg",
    "images/ME-0480-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "keywest-vibe-privatepatio-close2salem-walkdwntn",
@@ -70605,8 +70632,8 @@
    ],
    "errors": []
   },
-  "lat": 43.8412814,
-  "lng": -69.51264019999,
+  "lat": 43.84128,
+  "lng": -69.51264,
   "photo": "images/ME-0459-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -70620,7 +70647,8 @@
    "images/ME-0459-000.jpg",
    "images/ME-0459-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "lake-access-4-bed-3-bath-hot-tub",
@@ -71616,8 +71644,8 @@
     }
    ]
   },
-  "lat": 44.1151126,
-  "lng": -69.4585704,
+  "lat": 44.11511,
+  "lng": -69.45857,
   "photo": "images/ME-0432-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -71631,7 +71659,8 @@
    "images/ME-0432-000.jpg",
    "images/ME-0432-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "lakehurst-boathouse-bottom",
@@ -73533,10 +73562,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Lakeshore Retreat",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/330502",
-  "lat": 45.2861613,
-  "lng": -69.505785,
+  "lat": 45.28616,
+  "lng": -69.50579,
   "photo": "images/ME-0317-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -73550,7 +73579,8 @@
    "images/ME-0317-000.jpg",
    "images/ME-0317-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "lakeshore-vermont-inn-suites",
@@ -74017,8 +74047,8 @@
    ],
    "errors": []
   },
-  "lat": 43.984382,
-  "lng": -69.492892,
+  "lat": 43.98438,
+  "lng": -69.49289,
   "photo": "images/ME-0462-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -74032,7 +74062,8 @@
    "images/ME-0462-000.jpg",
    "images/ME-0462-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "lakeview-getaway-with-hot-tub",
@@ -75279,7 +75310,7 @@
    ],
    "errors": []
   },
-  "lat": 43.881723,
+  "lat": 43.88172,
   "lng": -69.52824,
   "photo": "images/ME-0457-card.webp",
   "checked": "2026-10-26",
@@ -75294,7 +75325,8 @@
    "images/ME-0457-000.jpg",
    "images/ME-0457-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "linekin-lodge-oceanfront-3bdr-deep-water-dock-beach",
@@ -75469,8 +75501,8 @@
     }
    ]
   },
-  "lat": 43.858921,
-  "lng": -69.600842,
+  "lat": 43.85892,
+  "lng": -69.60084,
   "photo": "images/ME-0433-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -75484,7 +75516,8 @@
    "images/ME-0433-000.jpg",
    "images/ME-0433-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "little-pick-limit-6",
@@ -76589,10 +76622,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Long Lake Oasis | Private Lake Access + Views",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/229378",
   "lat": 44.06133,
-  "lng": -70.6839996,
+  "lng": -70.684,
   "photo": "images/ME-0337-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -76606,7 +76639,8 @@
    "images/ME-0337-000.jpg",
    "images/ME-0337-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "long-pond-camps",
@@ -77028,8 +77062,8 @@
    ],
    "errors": []
   },
-  "lat": 44.056756,
-  "lng": -69.453411,
+  "lat": 44.05676,
+  "lng": -69.45341,
   "photo": "images/ME-0451-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -77043,7 +77077,8 @@
    "images/ME-0451-000.jpg",
    "images/ME-0451-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "loon-cove-limit-16",
@@ -110026,10 +110061,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Mason's Mountain View",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280570",
-  "lat": 45.5032507,
-  "lng": -69.5735039,
+  "lat": 45.50325,
+  "lng": -69.5735,
   "photo": "images/ME-0319-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -110043,7 +110078,8 @@
    "images/ME-0319-000.jpg",
    "images/ME-0319-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "maury-people-sotheby-s-international-realty",
@@ -110402,8 +110438,8 @@
    ],
    "errors": []
   },
-  "lat": 43.867207517945,
-  "lng": -69.48891022062,
+  "lat": 43.86721,
+  "lng": -69.48891,
   "photo": "images/ME-0473-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -110417,7 +110453,8 @@
    "images/ME-0473-000.jpg",
    "images/ME-0473-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "mdisland-vacation-homes",
@@ -110839,8 +110876,8 @@
    ],
    "errors": []
   },
-  "lat": 44.008803,
-  "lng": -69.418246,
+  "lat": 44.0088,
+  "lng": -69.41825,
   "photo": "images/ME-0470-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -110854,7 +110891,8 @@
    "images/ME-0470-000.jpg",
    "images/ME-0470-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "middle-way-cottage-newcastle",
@@ -111016,8 +111054,8 @@
    ],
    "errors": []
   },
-  "lat": 44.041742,
-  "lng": -69.537147,
+  "lat": 44.04174,
+  "lng": -69.53715,
   "photo": "images/ME-0464-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -111031,7 +111069,8 @@
    "images/ME-0464-000.jpg",
    "images/ME-0464-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "minutes-to-berkshire-east-with-hot-tub-views",
@@ -111346,10 +111385,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Mischief Maker",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/325878",
-  "lat": 45.4402965,
-  "lng": -69.53436945,
+  "lat": 45.4403,
+  "lng": -69.53437,
   "photo": "images/ME-0324-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -111363,7 +111402,8 @@
    "images/ME-0324-000.jpg",
    "images/ME-0324-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "misty-pines-cabin",
@@ -112254,8 +112294,8 @@
     }
    ]
   },
-  "lat": 43.8611434,
-  "lng": -69.5929857,
+  "lat": 43.86114,
+  "lng": -69.59299,
   "photo": "images/ME-0436-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -112269,7 +112309,8 @@
    "images/ME-0436-000.jpg",
    "images/ME-0436-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "moose-cabin",
@@ -112442,10 +112483,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "MOOSE CABIN | 5-Star Maine Experience | Hot Tub",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/205653",
-  "lat": 44.020879,
-  "lng": -70.8605057,
+  "lat": 44.02088,
+  "lng": -70.86051,
   "photo": "images/ME-0341-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -112459,7 +112500,8 @@
    "images/ME-0341-000.jpg",
    "images/ME-0341-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "moose-hollow-apartment",
@@ -112623,10 +112665,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Moose Hollow Apartment",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/281613",
-  "lat": 45.4587154,
-  "lng": -69.5961069,
+  "lat": 45.45872,
+  "lng": -69.59611,
   "photo": "images/ME-0320-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -112640,7 +112682,8 @@
    "images/ME-0320-000.jpg",
    "images/ME-0320-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "moose-lodge-maine",
@@ -114418,8 +114461,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40063,
+  "lng": -70.5173,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/agarh",
   "photo": "images/MA-1502-card.webp",
@@ -114564,8 +114607,8 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39485,
+  "lng": -70.51048,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/angeb",
   "photo": "images/MA-1520-card.webp",
@@ -114710,8 +114753,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38128,
+  "lng": -70.51978,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/bettd",
   "photo": "images/MA-1545-card.webp",
@@ -114856,8 +114899,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38353,
+  "lng": -70.52172,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/bette",
   "photo": "images/MA-1533-card.webp",
@@ -115001,8 +115044,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40232,
+  "lng": -70.5706,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/bowkw",
   "photo": "images/MA-1703-card.webp",
@@ -115147,8 +115190,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40821,
+  "lng": -70.56925,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/brosp",
   "photo": "images/MA-1535-card.webp",
@@ -115293,8 +115336,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42846,
+  "lng": -70.59091,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/calwm",
   "photo": "images/MA-1527-card.webp",
@@ -115439,8 +115482,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.35355,
+  "lng": -70.73537,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/carda",
   "photo": "images/MA-1522-card.webp",
@@ -115585,8 +115628,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.35886,
+  "lng": -70.61748,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/cas65",
   "photo": "images/MA-1521-card.webp",
@@ -115731,8 +115774,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39105,
+  "lng": -70.55233,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/choay",
   "photo": "images/MA-1528-card.webp",
@@ -115876,8 +115919,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.4503,
+  "lng": -70.57276,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/claro",
   "photo": "images/MA-1705-card.webp",
@@ -116022,8 +116065,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38039,
+  "lng": -70.53184,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/com27",
   "photo": "images/MA-1503-card.webp",
@@ -116168,8 +116211,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.45415,
+  "lng": -70.60981,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/cos67",
   "photo": "images/MA-1532-card.webp",
@@ -116314,8 +116357,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39371,
+  "lng": -70.51322,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/desam",
   "photo": "images/MA-1505-card.webp",
@@ -116460,8 +116503,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.35425,
+  "lng": -70.70125,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/englj",
   "photo": "images/MA-1501-card.webp",
@@ -116606,8 +116649,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39333,
+  "lng": -70.50821,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/finnm",
   "photo": "images/MA-1509-card.webp",
@@ -116752,8 +116795,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.47554,
+  "lng": -70.60728,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/grejn",
   "photo": "images/MA-1518-card.webp",
@@ -116899,8 +116942,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.40016,
+  "lng": -70.57363,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/harsy",
   "photo": "images/MA-1539-card.webp",
@@ -117045,8 +117088,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36277,
+  "lng": -70.6825,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/hergt",
   "photo": "images/MA-1536-card.webp",
@@ -117191,8 +117234,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.44763,
+  "lng": -70.59267,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/hodge",
   "photo": "images/MA-1543-card.webp",
@@ -117337,8 +117380,8 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.45535,
+  "lng": -70.58022,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/hol14",
   "photo": "images/MA-1544-card.webp",
@@ -117483,8 +117526,8 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36589,
+  "lng": -70.52924,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/kopf3",
   "photo": "images/MA-1511-card.webp",
@@ -117629,8 +117672,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37867,
+  "lng": -70.63929,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/leedb",
   "photo": "images/MA-1514-card.webp",
@@ -117775,8 +117818,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37075,
+  "lng": -70.51541,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/lydoa",
   "photo": "images/MA-1513-card.webp",
@@ -117921,8 +117964,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37192,
+  "lng": -70.50991,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/macee",
   "photo": "images/MA-1529-card.webp",
@@ -118067,8 +118110,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38577,
+  "lng": -70.52326,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/macma",
   "photo": "images/MA-1523-card.webp",
@@ -118505,8 +118548,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39016,
+  "lng": -70.51848,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/man15",
   "photo": "images/MA-1531-card.webp",
@@ -118651,8 +118694,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.3648,
+  "lng": -70.5206,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/mannb",
   "photo": "images/MA-1542-card.webp",
@@ -118797,8 +118840,8 @@
   "pets": "Unknown",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38402,
+  "lng": -70.55051,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/mor12",
   "photo": "images/MA-1512-card.webp",
@@ -118943,8 +118986,8 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39034,
+  "lng": -70.50927,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/mors2",
   "photo": "images/MA-1517-card.webp",
@@ -119089,8 +119132,8 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39028,
+  "lng": -70.50937,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/mors4",
   "photo": "images/MA-1526-card.webp",
@@ -119236,8 +119279,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.37879,
+  "lng": -70.56309,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/nade5",
   "photo": "images/MA-1507-card.webp",
@@ -119382,8 +119425,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38982,
+  "lng": -70.51789,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/pal77",
   "photo": "images/MA-1530-card.webp",
@@ -119673,8 +119716,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42923,
+  "lng": -70.57131,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/peota",
   "photo": "images/MA-1704-card.webp",
@@ -119818,8 +119861,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.44918,
+  "lng": -70.59888,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/phoue",
   "photo": "images/MA-1702-card.webp",
@@ -119964,8 +120007,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38852,
+  "lng": -70.51356,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/ransw",
   "photo": "images/MA-1508-card.webp",
@@ -120110,8 +120153,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36123,
+  "lng": -70.52733,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/roglm",
   "photo": "images/MA-1538-card.webp",
@@ -120256,8 +120299,8 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38643,
+  "lng": -70.59303,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/rosbe",
   "photo": "images/MA-1540-card.webp",
@@ -120401,8 +120444,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.41183,
+  "lng": -70.57383,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/shemi",
   "photo": "images/MA-1701-card.webp",
@@ -120547,8 +120590,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38827,
+  "lng": -70.51833,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/simoa",
   "photo": "images/MA-1537-card.webp",
@@ -120693,8 +120736,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42822,
+  "lng": -70.58312,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/smap6",
   "photo": "images/MA-1515-card.webp",
@@ -120839,8 +120882,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.38929,
+  "lng": -70.73592,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/sudrl",
   "photo": "images/MA-1525-card.webp",
@@ -120985,8 +121028,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.42941,
+  "lng": -70.58776,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/taylc",
   "photo": "images/MA-1524-card.webp",
@@ -121131,8 +121174,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39354,
+  "lng": -70.51738,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/walsj",
   "photo": "images/MA-1534-card.webp",
@@ -121277,8 +121320,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.39245,
+  "lng": -70.51033,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/weekw",
   "photo": "images/MA-1519-card.webp",
@@ -121423,8 +121466,8 @@
   "pets": "Conditional",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.31143,
+  "lng": -70.77499,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/wingr",
   "photo": "images/MA-1504-card.webp",
@@ -121569,8 +121612,8 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "USD",
-  "lat": 41.4011,
-  "lng": -70.53394,
+  "lat": 41.36792,
+  "lng": -70.51745,
   "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://www.mvvacationrentals.com/property/yaegm",
   "photo": "images/MA-1516-card.webp",
@@ -121750,10 +121793,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Mystic Nights",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/347043",
-  "lat": 45.455002,
-  "lng": -69.5328959,
+  "lat": 45.455,
+  "lng": -69.5329,
   "photo": "images/ME-0328-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -121767,7 +121810,8 @@
    "images/ME-0328-000.jpg",
    "images/ME-0328-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "nature-retreat-near-prospect-lake",
@@ -134341,8 +134385,8 @@
     }
    ]
   },
-  "lat": 43.8318806,
-  "lng": -69.6161751,
+  "lat": 43.83188,
+  "lng": -69.61618,
   "photo": "images/ME-0440-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -134356,7 +134400,8 @@
    "images/ME-0440-000.jpg",
    "images/ME-0440-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "new-design-walk2dntn-beach-train-close-to-salem",
@@ -177206,8 +177251,8 @@
     }
    ]
   },
-  "lat": 43.8464953,
-  "lng": -69.6191314,
+  "lat": 43.8465,
+  "lng": -69.61913,
   "photo": "images/ME-0434-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -177221,7 +177266,8 @@
    "images/ME-0434-000.jpg",
    "images/ME-0434-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "oasis-on-wilson-pond-waterfront-boat-launch-pet-friendly",
@@ -177391,10 +177437,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Oasis on Wilson Pond*Waterfront*Boat launch*Pet Friendly",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/494624",
-  "lat": 45.478003,
-  "lng": -69.536043,
+  "lat": 45.478,
+  "lng": -69.53604,
   "photo": "images/ME-0329-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -177408,7 +177454,8 @@
    "images/ME-0329-000.jpg",
    "images/ME-0329-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "ocean-dunes-condominiums-garnsey-rentals",
@@ -178009,8 +178056,8 @@
     }
    ]
   },
-  "lat": 43.8210463,
-  "lng": -69.6033766,
+  "lat": 43.82105,
+  "lng": -69.60338,
   "photo": "images/ME-0439-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -178024,7 +178071,8 @@
    "images/ME-0439-000.jpg",
    "images/ME-0439-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "ocean-view-cottages",
@@ -178938,10 +178986,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "October Farm | 1810 Farmhouse set on 30+ Acres",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/287639",
-  "lat": 44.053554,
-  "lng": -70.92718443,
+  "lat": 44.05355,
+  "lng": -70.92718,
   "photo": "images/ME-0355-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -178955,7 +179003,8 @@
    "images/ME-0355-000.jpg",
    "images/ME-0355-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "odessa-by-the-sea",
@@ -180366,8 +180415,8 @@
    ],
    "errors": []
   },
-  "lat": 43.873534,
-  "lng": -69.508359,
+  "lat": 43.87353,
+  "lng": -69.50836,
   "photo": "images/ME-0483-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -180381,7 +180430,8 @@
    "images/ME-0483-000.jpg",
    "images/ME-0483-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "overlook-motel-lakeside-cottages",
@@ -181505,8 +181555,8 @@
    ],
    "errors": []
   },
-  "lat": 43.836445,
-  "lng": -69.511139,
+  "lat": 43.83644,
+  "lng": -69.51114,
   "photo": "images/ME-0485-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -181520,7 +181570,8 @@
    "images/ME-0485-000.jpg",
    "images/ME-0485-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "pemaquid-waterfront-retreat-private-dock-firepit-screen-porc",
@@ -181692,8 +181743,8 @@
     }
    ]
   },
-  "lat": 44.0625339,
-  "lng": -69.4511848,
+  "lat": 44.06253,
+  "lng": -69.45118,
   "photo": "images/ME-0446-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -181707,7 +181758,8 @@
    "images/ME-0446-000.jpg",
    "images/ME-0446-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "pemi-cabins",
@@ -182851,10 +182903,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Pine Haven | Peaceful Nature Retreat on 10 Acres",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/274741",
-  "lat": 44.09344971,
-  "lng": -70.84101818,
+  "lat": 44.09345,
+  "lng": -70.84102,
   "photo": "images/ME-0338-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -182868,7 +182920,8 @@
    "images/ME-0338-000.jpg",
    "images/ME-0338-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "pine-meadow-hideaway",
@@ -184588,8 +184641,8 @@
    ],
    "errors": []
   },
-  "lat": 44.157895399192,
-  "lng": -69.48910819573,
+  "lat": 44.1579,
+  "lng": -69.48911,
   "photo": "images/ME-0475-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -184603,7 +184656,8 @@
    "images/ME-0475-000.jpg",
    "images/ME-0475-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "pond-brook-cabins",
@@ -188611,7 +188665,7 @@
    ],
    "errors": []
   },
-  "lat": 44.047322,
+  "lat": 44.04732,
   "lng": -69.61587,
   "photo": "images/ME-0478-card.webp",
   "checked": "2026-10-26",
@@ -188626,7 +188680,8 @@
    "images/ME-0478-000.jpg",
    "images/ME-0478-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "rice-point-waterfront-luxury-by-rocky-coast-rental",
@@ -188801,8 +188856,8 @@
     }
    ]
   },
-  "lat": 43.8720487,
-  "lng": -69.5878394,
+  "lat": 43.87205,
+  "lng": -69.58784,
   "photo": "images/ME-0438-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -188816,7 +188871,8 @@
    "images/ME-0438-000.jpg",
    "images/ME-0438-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "rideout-s-lakeside-lodge-cabins",
@@ -189275,8 +189331,8 @@
     }
    ]
   },
-  "lat": 43.9358556,
-  "lng": -69.6440364,
+  "lat": 43.93586,
+  "lng": -69.64404,
   "photo": "images/ME-0437-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -189290,7 +189346,8 @@
    "images/ME-0437-000.jpg",
    "images/ME-0437-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "robert-frost-mountain-cabins",
@@ -192149,8 +192206,8 @@
    ],
    "errors": []
   },
-  "lat": 43.85915239279,
-  "lng": -69.49376112834,
+  "lat": 43.85915,
+  "lng": -69.49376,
   "photo": "images/ME-0482-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -192164,7 +192221,8 @@
    "images/ME-0482-000.jpg",
    "images/ME-0482-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "saltmeadow-properties",
@@ -208304,8 +208362,8 @@
    ],
    "errors": []
   },
-  "lat": 43.897701,
-  "lng": -69.507221,
+  "lat": 43.8977,
+  "lng": -69.50722,
   "photo": "images/ME-0454-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -208319,7 +208377,8 @@
    "images/ME-0454-000.jpg",
    "images/ME-0454-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "schooners-landing",
@@ -210128,8 +210187,8 @@
    ],
    "errors": []
   },
-  "lat": 43.951123,
-  "lng": -69.452953,
+  "lat": 43.95112,
+  "lng": -69.45295,
   "photo": "images/ME-0456-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -210143,7 +210202,8 @@
    "images/ME-0456-000.jpg",
    "images/ME-0456-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "seaglass-village",
@@ -211397,7 +211457,7 @@
    ],
    "errors": []
   },
-  "lat": 43.875787,
+  "lat": 43.87579,
   "lng": -69.49175,
   "photo": "images/ME-0484-card.webp",
   "checked": "2026-10-26",
@@ -211412,7 +211472,8 @@
    "images/ME-0484-000.jpg",
    "images/ME-0484-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "sebago-escape-limit-12",
@@ -213703,8 +213764,8 @@
    ],
    "errors": []
   },
-  "lat": 44.1198172,
-  "lng": -69.46066569998,
+  "lat": 44.11982,
+  "lng": -69.46067,
   "photo": "images/ME-0481-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -213718,7 +213779,8 @@
    "images/ME-0481-000.jpg",
    "images/ME-0481-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "simple-stay-property-management",
@@ -215681,8 +215743,8 @@
    ],
    "errors": []
   },
-  "lat": 44.096697,
-  "lng": -69.527255,
+  "lat": 44.0967,
+  "lng": -69.52725,
   "photo": "images/ME-0449-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -215696,7 +215758,8 @@
    "images/ME-0449-000.jpg",
    "images/ME-0449-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "stanley-ventures",
@@ -220535,10 +220598,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "The Barnhaus | Unique 5-Star Experience | Hot Tub",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/205268",
-  "lat": 44.079761,
-  "lng": -70.8286452,
+  "lat": 44.07976,
+  "lng": -70.82865,
   "photo": "images/ME-0334-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -220552,7 +220615,8 @@
    "images/ME-0334-000.jpg",
    "images/ME-0334-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-bellemark",
@@ -220722,10 +220786,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "The Bellemark | Lakefront Cabin + Incredible Views",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/230724",
-  "lat": 44.01657778,
-  "lng": -70.93305623,
+  "lat": 44.01658,
+  "lng": -70.93306,
   "photo": "images/ME-0354-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -220739,7 +220803,8 @@
    "images/ME-0354-000.jpg",
    "images/ME-0354-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-benjamin-apartment-id-6350",
@@ -222360,7 +222425,7 @@
    "errors": []
   },
   "lat": 43.98273,
-  "lng": -69.488253,
+  "lng": -69.48825,
   "photo": "images/ME-0467-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -222374,7 +222439,8 @@
    "images/ME-0467-000.jpg",
    "images/ME-0467-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-cottages-at-nantucket-boat-basin",
@@ -224151,8 +224217,8 @@
    ],
    "errors": []
   },
-  "lat": 44.125033542045,
-  "lng": -69.50942994921,
+  "lat": 44.12503,
+  "lng": -69.50943,
   "photo": "images/ME-0468-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -224166,7 +224232,8 @@
    "images/ME-0468-000.jpg",
    "images/ME-0468-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-glen-house",
@@ -224963,8 +225030,8 @@
    ],
    "errors": []
   },
-  "lat": 44.007601,
-  "lng": -69.484175,
+  "lat": 44.0076,
+  "lng": -69.48417,
   "photo": "images/ME-0477-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -224978,7 +225045,8 @@
    "images/ME-0477-000.jpg",
    "images/ME-0477-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-innstead-mountain-getaway",
@@ -225417,8 +225485,8 @@
    ],
    "errors": []
   },
-  "lat": 44.086211,
-  "lng": -69.453324,
+  "lat": 44.08621,
+  "lng": -69.45332,
   "photo": "images/ME-0458-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -225432,7 +225500,8 @@
    "images/ME-0458-000.jpg",
    "images/ME-0458-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-landmark-trust-usa",
@@ -226739,10 +226808,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "The Mountain House | Hot Tub, Close to Moose Pond",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/354244",
-  "lat": 44.05646381,
-  "lng": -70.80916857,
+  "lat": 44.05646,
+  "lng": -70.80917,
   "photo": "images/ME-0340-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -226756,7 +226825,8 @@
    "images/ME-0340-000.jpg",
    "images/ME-0340-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-naswa-resort",
@@ -227341,8 +227411,8 @@
    ],
    "errors": []
   },
-  "lat": 43.877163,
-  "lng": -69.484362,
+  "lat": 43.87716,
+  "lng": -69.48436,
   "photo": "images/ME-0461-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -227356,7 +227426,8 @@
    "images/ME-0461-000.jpg",
    "images/ME-0461-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-osterville-cottage",
@@ -228165,10 +228236,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "The Pritham House | Pet-Friendly, Public Beach & Dining",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/505120",
-  "lat": 45.4593959,
-  "lng": -69.6053446,
+  "lat": 45.4594,
+  "lng": -69.60534,
   "photo": "images/ME-0327-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -228182,7 +228253,8 @@
    "images/ME-0327-000.jpg",
    "images/ME-0327-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-retreat-in-bethel-maine",
@@ -232181,8 +232253,8 @@
    ],
    "errors": []
   },
-  "lat": 44.199543,
-  "lng": -69.481347,
+  "lat": 44.19954,
+  "lng": -69.48135,
   "photo": "images/ME-0450-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -232196,7 +232268,8 @@
    "images/ME-0450-000.jpg",
    "images/ME-0450-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-woods-maine-treehouse",
@@ -233078,8 +233151,8 @@
    ],
    "errors": []
   },
-  "lat": 44.17584976563,
-  "lng": -69.47162581443,
+  "lat": 44.17585,
+  "lng": -69.47163,
   "photo": "images/ME-0476-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -233093,7 +233166,8 @@
    "images/ME-0476-000.jpg",
    "images/ME-0476-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "thomas-sea-suites-at-harbourtown",
@@ -234425,8 +234499,8 @@
    ],
    "errors": []
   },
-  "lat": 44.071948,
-  "lng": -69.526931,
+  "lat": 44.07195,
+  "lng": -69.52693,
   "photo": "images/ME-0469-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -234440,7 +234514,8 @@
    "images/ME-0469-000.jpg",
    "images/ME-0469-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "tomhegan-wilderness-cabins",
@@ -235011,10 +235086,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Trails Edge",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232735",
-  "lat": 45.4573285,
-  "lng": -69.5935945,
+  "lat": 45.45733,
+  "lng": -69.59359,
   "photo": "images/ME-0326-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -235028,7 +235103,8 @@
    "images/ME-0326-000.jpg",
    "images/ME-0326-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "trailside-stays",
@@ -235791,8 +235867,8 @@
    ],
    "errors": []
   },
-  "lat": 44.056111,
-  "lng": -69.455751,
+  "lat": 44.05611,
+  "lng": -69.45575,
   "photo": "images/ME-0460-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -235806,7 +235882,8 @@
    "images/ME-0460-000.jpg",
    "images/ME-0460-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "tuckaway-suites-at-east-branch",
@@ -303603,8 +303680,8 @@
     }
    ]
   },
-  "lat": 43.8718715,
-  "lng": -69.515557,
+  "lat": 43.87187,
+  "lng": -69.51556,
   "photo": "images/ME-0435-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -303618,7 +303695,8 @@
    "images/ME-0435-000.jpg",
    "images/ME-0435-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "walk-to-town-boothbay-harbor-retreat-harbor-views-a-c-parkin",
@@ -303787,7 +303865,7 @@
     }
    ]
   },
-  "lat": 43.8460954,
+  "lat": 43.8461,
   "lng": -69.62311,
   "photo": "images/ME-0444-card.webp",
   "checked": "2026-10-26",
@@ -303802,7 +303880,8 @@
    "images/ME-0444-000.jpg",
    "images/ME-0444-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "walk2dntn-beach-beauport-boat-island-close2salem",
@@ -306348,10 +306427,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "West Cove Lower Left Apartment",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/484845",
-  "lat": 45.4613668,
-  "lng": -69.6178509,
+  "lat": 45.46137,
+  "lng": -69.61785,
   "photo": "images/ME-0325-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -306365,7 +306444,8 @@
    "images/ME-0325-000.jpg",
    "images/ME-0325-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "west-quoddy-station",
@@ -306851,7 +306931,7 @@
    ],
    "errors": []
   },
-  "lat": 43.845331,
+  "lat": 43.84533,
   "lng": -69.51007,
   "photo": "images/ME-0452-card.webp",
   "checked": "2026-10-26",
@@ -306866,7 +306946,8 @@
    "images/ME-0452-000.jpg",
    "images/ME-0452-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "wheaton-s-lodge",
@@ -307499,10 +307580,10 @@
   "operatorEvidenceUrl": "https://www.birchrentals.com/about",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "White Mountain Dream Cabin | 4 Acres + Hot Tub",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://book.birchrentals.com/listings/205638",
-  "lat": 44.02378845,
-  "lng": -70.9389801,
+  "lat": 44.02379,
+  "lng": -70.93898,
   "photo": "images/ME-0351-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -307516,7 +307597,8 @@
    "images/ME-0351-000.jpg",
    "images/ME-0351-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "wicked-moose-cabin",
@@ -307686,10 +307768,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "Wicked Moose Cabin",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/301541",
-  "lat": 45.53186652,
-  "lng": -69.55337682,
+  "lat": 45.53187,
+  "lng": -69.55338,
   "photo": "images/ME-0323-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -307703,7 +307785,8 @@
    "images/ME-0323-000.jpg",
    "images/ME-0323-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "wilder-house-berkshires",
@@ -308679,10 +308762,10 @@
   "operatorEvidenceUrl": "https://northwoodsmainecabins.com/about-us-1",
   "identityEvidence": "Official property name matches the Maine aggregator record; property locality checked against the Maine source. Conflicting same-name properties are not merged.",
   "originalListingTitle": "WinterFell",
-  "locationPrecision": "Published operator property map (approximate)",
+  "locationPrecision": "Published listing map (approximate)",
   "locationSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232559",
-  "lat": 45.48156062,
-  "lng": -69.59235518,
+  "lat": 45.48156,
+  "lng": -69.59236,
   "photo": "images/ME-0322-card.webp",
   "checked": "2026-10-26",
   "alive": true,
@@ -308696,7 +308779,8 @@
    "images/ME-0322-000.jpg",
    "images/ME-0322-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "winterfell-nh",
@@ -309618,7 +309702,7 @@
    ],
    "errors": []
   },
-  "lat": 43.857374,
+  "lat": 43.85737,
   "lng": -69.56048,
   "photo": "images/ME-0474-card.webp",
   "checked": "2026-10-26",
@@ -309633,7 +309717,8 @@
    "images/ME-0474-000.jpg",
    "images/ME-0474-001.jpg"
   ],
-  "cardPhotoLabel": ""
+  "cardPhotoLabel": "",
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "your-island-connection-vacation-rentals",
