@@ -71,6 +71,24 @@ Sites that cannot be verified as an own rental website with a direct booking or 
 | MA-0122 | Meadowview Cottages (130 West Main St) | Wellfleet, MA | https://wellfleetweeks.com/ | Chrome privacy error: TLS certificate invalid; site does not open. | Website unavailable; excluded. |
 | MA-0312 | Deerfield Inn | Deerfield, MA | http://www.deerfieldinn.com | CAPTCHA wall in Chrome; not solved. Access block, not a dead site. | Unverified; excluded until it opens. |
 
+## New York — Long Island pass (2026-10-27)
+
+Sources read: I LOVE NY cabins & cottages directory (Long Island, 17 entries) and Discover Long Island lodging (220 properties, 22 typed Vacation Rental). Left out per the research guide (inns, hotels, motels, resorts, OTA-only, dead sites, fewer than three photos):
+
+| Name | Town | URL / source | Reason |
+| --- | --- | --- | --- |
+| Lenhart's Cottages | Montauk | http://lenhartscottages.com/ | Own single-page site opens; only two property photos (one is the sign). Fewer than three photos. |
+| Colonial Shores Cottages & Marina | Hampton Bays | https://www.colonialshoresny.com/ | Motel rooms, suites and cottages; booking via Little Hotelier — motel/resort. |
+| The Hermitage at Napeague | Amagansett | https://www.duneresorts.com/ | Condo resort units via Dune Resorts — resort. |
+| Rows North Fork | Cutchogue | rowsnorthfork.com | Domain does not resolve (DNS); directory lists email only. |
+| Anima, Retreat-at-the-beach | Sayville | https://www.animaretreat.com/ | Domain parked for sale (GoDaddy). |
+| Beach Getaway LI; Luxury Beach Getaway; Home with Water Views; Fabulous Water Property; North Fork Beach Cottage | Wading River / Orient / Westhampton / New Suffolk | newyorkrentalbyowner.com, Airbnb, Vrbo | No own website found; aggregator or OTA listings only. |
+| The Cozy Cottages | Wainscott | https://www.thecozycottages.com/ | Own site opens (395 Montauk Hwy, phone); picture pages load images by script only — photos not retrieved. Recheck in Chrome. |
+| Hamptons Vacation Inn; The 1770 House; The 1708 House; The Baker House 1650; The Belvedere Guest House; Pines Point; The Reform Club; Shelter Island House; The Chequit; House On Chase Creek; Shou Sugi Ban House; Three Village Inn; The Inn Spot On The Bay; Dune Point; Fire Island Beach House | various | Discover Long Island "Vacation Rental" type | Inns, hotels and guest houses — left out by type. |
+| Mari Manor; Southampton Cottages | Westhampton Beach / Southampton | rentbyowner.com, tripadvisor.com | No own website. |
+| StayMarquis; The Mainstay | Hamptons | https://staymarquis.com/ | Large manager catalog — queued for the manager pass, not a single home. |
+| Heckscher State Park; Surf Club at Montauk; The Surf Lodge; North Fork Resort; Windward Shores Ocean Resort; Wainscott Inn; Pridwin Hotel & Cottages | various | I LOVE NY directory | State park, hotels, resorts, inn — left out by type. |
+
 ## Access blocks kept separate
 
 Connected-browser confirmation on 2026-10-25: `bayviewcottages.com` again returned `net::ERR_NAME_NOT_RESOLVED`. `willowrentalproperties.com` displayed Wix's disconnected-domain page instead of rental content. A responding hosting placeholder is not a working property website. Both remain excluded.

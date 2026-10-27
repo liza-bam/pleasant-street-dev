@@ -1,0 +1,250 @@
+[
+ {
+  "id": "NY-0029",
+  "name": "Westhampton Vacation Rentals — Waterfront Estate",
+  "url": "https://www.westhamptonvacations.com/",
+  "town": "Westhampton",
+  "state": "NY",
+  "place": "Westhampton, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Secluded three-acre waterfront house in Westhampton with heated pool, hot tub, dock with kayaks and water views over Beaverdam Creek; four bedrooms, sleeps 10.",
+  "descriptionSource": "https://www.westhamptonvacations.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": 10,
+  "capacityDetails": "10",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Nightly rates shown on the site's Rates & Amenities page; not recorded.",
+  "photo": "images/NY-0029-cover.webp",
+  "coverPhoto": "images/NY-0029-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0029-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0029-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0029-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0029-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "415 Mill Road",
+   "city": "Westhampton",
+   "state": "NY",
+   "postalCode": "11977",
+   "full": "415 Mill Road, Westhampton, NY 11977",
+   "sourceUrl": "https://www.westhamptonvacations.com/gallery/",
+   "type": "Individual rental",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Address in site footer; geocoded to the building (Nominatim)."
+  },
+  "contactPagesChecked": "https://www.westhamptonvacations.com/gallery/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (reverse search from I LOVE NY Long Island cabins & cottages directory)",
+   "sourceUrl": "https://www.iloveny.com/places-to-stay/cabins-cottages/?regionids=13",
+   "verification": "Fetched own site 2026-10-27: single 4-bedroom house, sleeps 10, heated pool, hot tub, dock; direct booking (freetobook) and contact.",
+   "notes": "Own WordPress site for one waterfront house on Beaverdam Creek; freetobook booking engine, contact form, phone +1 631-848-8006, email. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Published pets policy",
+   "Published kids policy",
+   "Rates for selected dates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 40.82124,
+  "lng": -72.6606,
+  "locationPrecision": "Published street address (geocoded building)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=415+Mill+Road,+Westhampton,+NY+11977",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0030",
+  "name": "Terrace Cottage Colony",
+  "url": "https://terracecottagecolony.com/",
+  "town": "Southold",
+  "state": "NY",
+  "place": "Southold, NY",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Family-run colony of rental cottages on the North Fork of Long Island in Southold, with a shared lawn and beach nearby; each cottage has its own kitchen and porch.",
+  "descriptionSource": "https://terracecottagecolony.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0030-cover.webp",
+  "coverPhoto": "images/NY-0030-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0030-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0030-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0030-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0030-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Southold",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://terracecottagecolony.com/contact/",
+   "type": "Shared camp/campus; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Contact page gives phone only; map pin from Discover Long Island directory geolocation."
+  },
+  "contactPagesChecked": "https://terracecottagecolony.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Regional tourism directory (Discover Long Island lodging, type Vacation Rental)",
+   "sourceUrl": "https://stay.discoverlongisland.com/property/14070/terrace-cottage-colony",
+   "verification": "Fetched own site 2026-10-27: numbered cottages with own photos, reservation page, phone.",
+   "notes": "Family-run cottage colony on the North Fork; own site with cottage pages, gallery, reservation page and phone/text 631.765.2388. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Street address not published",
+   "Unit-specific guests",
+   "Published pets policy",
+   "Published kids policy"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.087815,
+  "lng": -72.41486,
+  "locationPrecision": "Published directory map (approximate)",
+  "locationSource": "https://stay.discoverlongisland.com/property/14070/terrace-cottage-colony",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0031",
+  "name": "Hither House Cottages",
+  "url": "https://www.hitherhouse.com/",
+  "town": "Montauk",
+  "state": "NY",
+  "place": "Montauk, NY",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Cottage colony in Montauk a short walk from the beach, with separate cottages, a sea-view unit and a guest suite; each with kitchen and outdoor space.",
+  "descriptionSource": "https://www.hitherhouse.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0031-cover.webp",
+  "coverPhoto": "images/NY-0031-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0031-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0031-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0031-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0031-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "Four authentic photos saved",
+  "address": {
+   "street": "10 Lincoln Road",
+   "city": "Montauk",
+   "state": "NY",
+   "postalCode": "11954",
+   "full": "10 Lincoln Road, Montauk, NY 11954",
+   "sourceUrl": "https://www.hitherhouse.com/cottages-1",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Address in site footer; geocoded to the building (Nominatim)."
+  },
+  "contactPagesChecked": "https://www.hitherhouse.com/cottages-1",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Regional tourism directory (Discover Long Island lodging, type Vacation Rental)",
+   "sourceUrl": "https://stay.discoverlongisland.com/property/14050/hither-house",
+   "verification": "Fetched own site 2026-10-27: cottage pages with their own photos, Book Your Stay, address and phone.",
+   "notes": "Montauk cottage colony (Hither East/West/North/South, Sea View, Guest Suite, Studio, One Room Efficiency); own Squarespace site with Book Your Stay, contact and phone (631) 668-2. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific guests",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 41.02933,
+  "lng": -71.96945,
+  "locationPrecision": "Published street address (geocoded building)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=10+Lincoln+Road,+Montauk,+NY+11954",
+  "locationCheckedOn": "2026-10-27"
+ }
+]
