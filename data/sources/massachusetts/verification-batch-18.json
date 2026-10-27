@@ -1,0 +1,236 @@
+[
+  {
+    "id": "MA-1413",
+    "name": "Dennis Seashores — 10 Ocean Park East",
+    "website": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Dennis Port",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own accommodation/contact/rule pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": false,
+    "directoryDisposition": "Hold for authentic media download and visual inspection",
+    "remainingGaps": [
+      "Four observed genuine image candidates preserved; no local images downloaded or visually inspected."
+    ],
+    "accessFailures": [],
+    "operator": "Dennis Seashores",
+    "operatorClassification": "Local cottage rental operator on shared Dennis Port campus",
+    "classification": "Individual vacation cottage on shared campus",
+    "eligibilityReason": "Actual named cottage detail opened on operator custom-domain Ciirus website, with Massachusetts accommodation, direct Get a Quote controls, official Contact and Rental Information pages.",
+    "openedUrls": [
+      "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29026/",
+      "https://dennisseashores.com/search.aspx?",
+      "https://dennisseashores.com/details.aspx?PropertyID=283993",
+      "https://dennisseashores.com/contactus.aspx",
+      "https://dennisseashores.com/content/rental-information.aspx",
+      "https://dennisseashores.com/content/terms-and-conditions.aspx"
+    ],
+    "contactPagesChecked": [
+      "https://dennisseashores.com/contactus.aspx"
+    ],
+    "contactAddress": {
+      "role": "Shared operator office and mailing contact, not individual cottage entrance",
+      "street": "20 Chase Avenue",
+      "mailingStreet": "PO Box 98",
+      "city": "Dennis Port",
+      "state": "MA",
+      "zip": "02639",
+      "source": "https://dennisseashores.com/contactus.aspx",
+      "notes": "Keep shared office/mailing address distinct from10OceanParkEast rental."
+    },
+    "rentalAddress": {
+      "role": "Individual named rental cottage",
+      "street": "10 Ocean Park East",
+      "city": "Dennis Port",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+      "notes": "Named street/cottage address on official unit page; office ZIP not transferred."
+    },
+    "bookingMethod": "Direct arrival/departure Get a Quote controls; operator phone/email inquiry",
+    "bookingUrl": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+    "directContact": {
+      "email": "Info@DennisSeashores.com",
+      "phones": [
+        "508-778-8108"
+      ],
+      "source": "https://dennisseashores.com/contactus.aspx"
+    },
+    "operatorEvidenceUrl": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+    "notes": "Own catalog reports33cottages but30actual cards observed; this record is one individually opened named cottage, not operator capacity. Summer weekly stays; shorter off-season stays. Media pending.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Unit page maximum4; shared Contact instructs including children in group count unless in a crib.",
+      "kidsDetails": "Contact inquiry instructions explicitly include children; children count toward occupancy unless in a crib.",
+      "petsDetails": "Rental Information: pets not allowed in cottages or on property.",
+      "priceFrom": 129,
+      "currency": "USD",
+      "priceDetails": "Unit page displayed starting nightly price without dates on checked date; dynamic, not final quote."
+    },
+    "factSources": {
+      "guests": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+      "bedrooms": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+      "bathrooms": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+      "kids": "https://dennisseashores.com/contactus.aspx",
+      "pets": "https://dennisseashores.com/content/rental-information.aspx",
+      "priceFrom": "https://dennisseashores.com/details.aspx?PropertyID=283993"
+    },
+    "description": "Two-bedroom Dennis Port cottage with a kitchen, deck and outdoor shower, near the campus private Nantucket Sound beach.",
+    "descriptionSource": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+    "photoCandidates": [
+      {
+        "url": "https://cdn.ciirus.com/properties/58430/283993/images/10E.jpg",
+        "sourcePage": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+        "alt": "Cottage exterior",
+        "unitOrCampus": "10 Ocean Park East"
+      },
+      {
+        "url": "https://cdn.ciirus.com/properties/58430/283993/images/10OPE_livroom5.jpg",
+        "sourcePage": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+        "alt": "Cottage living room",
+        "unitOrCampus": "10 Ocean Park East"
+      },
+      {
+        "url": "https://cdn.ciirus.com/properties/58430/283993/images/10OPE_kitchen1.jpg",
+        "sourcePage": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+        "alt": "Cottage kitchen",
+        "unitOrCampus": "10 Ocean Park East"
+      },
+      {
+        "url": "https://cdn.ciirus.com/properties/58430/283993/images/10OPE_1stbedroom3.jpg",
+        "sourcePage": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+        "alt": "Cottage bedroom",
+        "unitOrCampus": "10 Ocean Park East"
+      }
+    ]
+  },
+  {
+    "id": "MA-1434",
+    "name": "Seascape Vacation Rental — three-home compound",
+    "website": "https://253oldwharf.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Vacation home compound",
+    "city": "Dennis Port",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own accommodation/contact/rule pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "directoryReady": false,
+    "directoryDisposition": "Hold for authentic media download and visual inspection",
+    "remainingGaps": [
+      "Four observed genuine image candidates preserved; no local images downloaded or visually inspected."
+    ],
+    "accessFailures": [],
+    "operator": "Seascape Vacation Rental Cape Cod",
+    "classification": "Three-home compound booked as one combined offer",
+    "eligibilityReason": "Own homepage expressly offers oceanfront three-home seven-bedroom compound sleeping16; official Contact publishes Dennis Port address and direct reservation inquiry; FAQ publishes rental rules.",
+    "openedUrls": [
+      "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-4640/",
+      "https://253oldwharf.com/",
+      "https://253oldwharf.com/contact",
+      "https://253oldwharf.com/faqs"
+    ],
+    "contactPagesChecked": [
+      "https://253oldwharf.com/contact"
+    ],
+    "contactAddress": {
+      "role": "Rental compound and public operator contact address",
+      "street": "253 Old Wharf Road",
+      "city": "Dennis Port",
+      "state": "MA",
+      "zip": "02639",
+      "source": "https://253oldwharf.com/contact",
+      "notes": "Homepage and Contact identify same Seascape oceanfront compound address."
+    },
+    "rentalAddress": {
+      "role": "Three-home rental compound",
+      "street": "253 Old Wharf Road",
+      "city": "Dennis Port",
+      "state": "MA",
+      "zip": "02639",
+      "source": "https://253oldwharf.com/contact"
+    },
+    "bookingMethod": "Direct reservation inquiry form, email and phone",
+    "bookingUrl": "https://253oldwharf.com/#b5b0a3cb-59b2-4501-8348-6ee22dd43b00",
+    "directContact": {
+      "email": "info@SeascapeCod.com",
+      "phones": [
+        "954-557-1251"
+      ],
+      "source": "https://253oldwharf.com/"
+    },
+    "operatorEvidenceUrl": "https://253oldwharf.com/",
+    "notes": "Combined three-home offer, not three distinct standalone inventory records. WeNeeda21457 is the main home within this compound. Coral36300 is another named offering by same host but its matching own-site scope remains unestablished. Homepage says get ready for2027reservations soon; direct inquiries current, no booking submitted.",
+    "supportedFacts": {
+      "guests": 16,
+      "bedrooms": 7,
+      "bathrooms": 4,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Maximum16guests, maximum14adults; all children count as guests.",
+      "kidsDetails": "FAQ explicitly permits/counts children of all ages. Signing renter must be28+ and stay at property.",
+      "petsDetails": "FAQ prohibits animals of any kind due severe allergies.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "No current quoted price verified."
+    },
+    "factSources": {
+      "guests": "https://253oldwharf.com/faqs",
+      "bedrooms": "https://253oldwharf.com/",
+      "bathrooms": "https://253oldwharf.com/",
+      "kids": "https://253oldwharf.com/faqs",
+      "pets": "https://253oldwharf.com/faqs"
+    },
+    "description": "Oceanfront Dennis Port compound with three homes, seven bedrooms, four bathrooms and a private beach, accommodating up to16 guests.",
+    "descriptionSource": "https://253oldwharf.com/",
+    "photoCandidates": [
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/59c0e77c-0369-42af-aa05-1436245997ea/Front%20Yard%203-0001.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1968,h:1312",
+        "sourcePage": "https://253oldwharf.com/",
+        "alt": "Ocean-facing compound grounds",
+        "unitOrCampus": "Seascape three-home compound; shared grounds"
+      },
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/59c0e77c-0369-42af-aa05-1436245997ea/Seascape%20Front%20yard%20Ocean%20East.jpg/:/rs=w:1968,h:1476",
+        "sourcePage": "https://253oldwharf.com/",
+        "alt": "Oceanfront compound exterior",
+        "unitOrCampus": "Seascape three-home compound; shared grounds"
+      },
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/59c0e77c-0369-42af-aa05-1436245997ea/Seascape%20Front.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1968,h:1312",
+        "sourcePage": "https://253oldwharf.com/",
+        "alt": "Oceanfront outdoor dining",
+        "unitOrCampus": "Seascape three-home compound; shared grounds"
+      },
+      {
+        "url": "https://img1.wsimg.com/isteam/ip/59c0e77c-0369-42af-aa05-1436245997ea/Seascape%20Back%20Photo.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1968,h:1312",
+        "sourcePage": "https://253oldwharf.com/",
+        "alt": "Compound exterior",
+        "unitOrCampus": "Seascape three-home compound; shared grounds"
+      }
+    ]
+  }
+]

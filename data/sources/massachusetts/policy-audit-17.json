@@ -1,0 +1,126 @@
+[
+  {
+    "id": "MA-1301",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "evidence": [
+      "Individual House Rules: Pets not allowed.",
+      "Not suitable for children; infants welcome. Primary renter minimum27 is separate."
+    ],
+    "pets": "No",
+    "kids": "Conditional",
+    "petsRestrictions": "Prohibited",
+    "kidsRestrictions": "Not suitable for children; infants welcome. Primary renter minimum27 is separate.",
+    "absenceOrConflicts": [
+      "No separate policy/FAQ route published; property House Rules inspected."
+    ],
+    "status": "Reviewed per-unit official House Rules"
+  },
+  {
+    "id": "MA-1302",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "evidence": [
+      "Individual House Rules: Pets not allowed.",
+      "Children welcome; not suitable for infants. Primary renter minimum25."
+    ],
+    "pets": "No",
+    "kids": "Conditional",
+    "petsRestrictions": "Prohibited",
+    "kidsRestrictions": "Children welcome; not suitable for infants. Primary renter minimum25.",
+    "absenceOrConflicts": [
+      "No separate policy/FAQ route published; property House Rules inspected."
+    ],
+    "status": "Reviewed per-unit official House Rules"
+  },
+  {
+    "id": "MA-1303",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "evidence": [
+      "Individual House Rules: Pets not allowed.",
+      "Children and infants welcome. Primary renter minimum25."
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsRestrictions": "Prohibited",
+    "kidsRestrictions": "Children and infants welcome. Primary renter minimum25.",
+    "absenceOrConflicts": [
+      "No separate policy/FAQ route published; property House Rules inspected."
+    ],
+    "status": "Reviewed per-unit official House Rules"
+  },
+  {
+    "id": "MA-1304",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "evidence": [
+      "Individual House Rules: Pets not allowed.",
+      "Children and infants welcome. Primary renter minimum25."
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsRestrictions": "Prohibited",
+    "kidsRestrictions": "Children and infants welcome. Primary renter minimum25.",
+    "absenceOrConflicts": [
+      "No separate policy/FAQ route published; property House Rules inspected."
+    ],
+    "status": "Reviewed per-unit official House Rules"
+  },
+  {
+    "id": "MA-1305",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "evidence": [
+      "Individual House Rules: Pets not allowed.",
+      "Children and infants welcome. Primary renter minimum25."
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsRestrictions": "Prohibited",
+    "kidsRestrictions": "Children and infants welcome. Primary renter minimum25.",
+    "absenceOrConflicts": [
+      "No separate policy/FAQ route published; property House Rules inspected."
+    ],
+    "status": "Reviewed per-unit official House Rules"
+  },
+  {
+    "id": "MA-1306",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://driftlinestays.com/#house-rules",
+      "https://driftlinestays.com/#booking",
+      "https://driftlinestays.com/#contact",
+      "https://driftlinestays.com/#about",
+      "https://www.houfy.com/lodging/the-egrets-nest/465583"
+    ],
+    "evidence": [
+      "Full House Rules and expanded Pets fees/refundable holds FAQ both allow up to2dogs only, no cats; $125perdogperstay fee plus$250refundable pet hold; disclosebreed/size; dogs off furniture/beds.",
+      "No child/infant admission policy found; family reviews/generic guests selector not admission evidence.",
+      "Exact captured hostJames Houfy465583 Property Suitability: Child friendly; identity matches own host/site/home."
+    ],
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsRestrictions": "Up to2dogs only, no cats/otherpets; disclosebreed/size atbooking; $125nonrefundable fee per dog perstay, $250refundable pet hold, dogs off furniture/beds.",
+    "kidsRestrictions": "Matching host James official Houfy property Suitability explicitly says Child friendly. Own House Rules/FAQ checked without separate age statement; no age/infant guarantee inferred.",
+    "absenceOrConflicts": [
+      "Own Rules/FAQ silent on child ages; matching host listing explicit Child friendly. No contradiction, infant admission unspecified."
+    ],
+    "status": "Reviewed actual full House Rules and expanded relevant FAQ"
+  }
+]

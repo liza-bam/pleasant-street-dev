@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "MA-1301",
+    "name": "Yachtsman Suite",
+    "website": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened distinct MA whole-apartment own operator detail, House Rules, direct Book/Inquiry route and public operator phone/email. No Contact/About route published; opened Book page and property Location/footer as documented fallback.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment rental",
+    "discoveryUrl": "https://www.houfy.com/lodging/yachtsman-suite/89926",
+    "discoveryMethod": "Captured Houfy Boston catalog; actual-name Yachtsman reverse lookup to Sandy Bay Suites own site and matching published property links",
+    "openedUrls": [
+      "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactPagesChecked": [
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Marblehead",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+      "notes": "Own property Location section publishes town/state only. No Contact/About URL in published navigation/footer. Opened official /book inquiry page and checked direct tel6176201294/email matt@sandybaysuites.com fallback; no postal address published. Third-party Google street not transferred."
+    },
+    "bookingMethod": "Direct operator Book/Inquiry widget plus matt@sandybaysuites.com and6176201294; no submission",
+    "bookingUrl": "https://www.sandybaysuites.com/book",
+    "operatorEvidenceUrl": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+    "notes": "Sandy Bay Suites is an operator-controlled local OwnerRez site; nine catalog properties exposed. This pass verifies only captured matching source leads. Legacy nightlybeachhouserentals alternate surfaced in reverse results, not counted separately.",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Conditional",
+      "pets": "No",
+      "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+      "kidsDetails": "Not suitable for children; infants welcome. Primary renter minimum27 is separate.",
+      "petsDetails": "Individual House Rules: Pets not allowed.",
+      "priceFrom": 156,
+      "currency": "USD",
+      "priceDetails": "Own unit displayed range $156-916/night; dates,fees and current availability require quote.",
+      "sources": [
+        "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x"
+      ],
+      "policySources": [
+        "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x"
+      ]
+    },
+    "description": "First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen and private entrance near harbor walks.",
+    "descriptionSource": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+    "photoCandidates": [
+      {
+        "url": "https://uc.orez.io/f/f8df9fbef00b41419bcf8f08aa168667",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "alt": "Yachtsman Suite individual gallery photograph 1",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/f/5987f53c93fd41178ae9d4b577fa8a6f",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "alt": "Yachtsman Suite individual gallery photograph 2",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/f/d0efd7019a4548e187fb7d6fdc649d1c",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "alt": "Yachtsman Suite individual gallery photograph 3",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/f/80392a4a3c524964b82e52bb930679a5",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "alt": "Yachtsman Suite individual gallery photograph 4",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1301-cover.webp",
+        "url": "https://uc.orez.io/f/f8df9fbef00b41419bcf8f08aa168667",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "role": "cover",
+        "sha256": "846ec61139289178c6ae3e053a70af8f747f6e68bd508081aad8c8fb60443aa0",
+        "originalSha256": "b179836df38e4a4adfddca18d354bdcc67a603a7af72fa59a3310f100fae6565",
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1301-000.webp",
+        "url": "https://uc.orez.io/f/5987f53c93fd41178ae9d4b577fa8a6f",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "role": "additional",
+        "sha256": "02554c5ebd62e36785e96ce9d7f0999be0b678f356cbb3f617f23b36badc0424",
+        "originalSha256": "4b56edb8a979d01fa72ba95cc8c47e62a248772b74562fa63a8703555052e970",
+        "originalWidth": 1024,
+        "originalHeight": 683,
+        "width": 720,
+        "height": 481,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1301-001.webp",
+        "url": "https://uc.orez.io/f/d0efd7019a4548e187fb7d6fdc649d1c",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "role": "additional",
+        "sha256": "bc52e59f5652134c4fd14cfd4b3ec059cf5ad8b7f56dd3adff6ebfb3356be9b0",
+        "originalSha256": "646a7e244437943290196c088631d3c4d8f19e6287fbdc56770cc4da21ee56fd",
+        "originalWidth": 1024,
+        "originalHeight": 683,
+        "width": 720,
+        "height": 481,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1301-002.webp",
+        "url": "https://uc.orez.io/f/80392a4a3c524964b82e52bb930679a5",
+        "sourcePage": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+        "role": "additional",
+        "sha256": "664f6d13f0a824ad3ce7b3dbdcdf57b9e1cf633b1928f9b1be09dfd29a0ad6cb",
+        "originalSha256": "95981440535dab0539c522b89b0a3488d34ccfc4b89c560ab810e26910ca3583",
+        "originalWidth": 1024,
+        "originalHeight": 683,
+        "width": 720,
+        "height": 481,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Yachtsman Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact street/ZIP not publicly disclosed on own checked pages"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct named apartment/location/gallery; no SandyBaySuites or NightlyBeachHouseRentals operator, names or exact domains found in existing MA verification batches.",
+      "crossBatchCheck": "Compared against 377 other MA batch records: normalized property names,exact own URLs and photo source/derivative identities; no match. Distinct own unit pages and location/floor scope retained."
+    },
+    "photoScopeVerified": true
+  },
+  {
+    "id": "MA-1302",
+    "name": "Sea Bird Suite",
+    "website": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened distinct MA whole-apartment own operator detail, House Rules, direct Book/Inquiry route and public operator phone/email. No Contact/About route published; opened Book page and property Location/footer as documented fallback.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment rental",
+    "discoveryUrl": "https://www.houfy.com/lodging/sea-bird-suite/90040",
+    "discoveryMethod": "Captured Houfy Boston catalog; actual-name Yachtsman reverse lookup to Sandy Bay Suites own site and matching published property links",
+    "openedUrls": [
+      "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactPagesChecked": [
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Marblehead",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+      "notes": "Own property Location section publishes town/state only. No Contact/About URL in published navigation/footer. Opened official /book inquiry page and checked direct tel6176201294/email matt@sandybaysuites.com fallback; no postal address published. Third-party Google street not transferred."
+    },
+    "bookingMethod": "Direct operator Book/Inquiry widget plus matt@sandybaysuites.com and6176201294; no submission",
+    "bookingUrl": "https://www.sandybaysuites.com/book",
+    "operatorEvidenceUrl": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+    "notes": "Sandy Bay Suites is an operator-controlled local OwnerRez site; nine catalog properties exposed. This pass verifies only captured matching source leads. Legacy nightlybeachhouserentals alternate surfaced in reverse results, not counted separately. Floor conflict: structured property type says second floor, narrative Guest Access says first floor. Floor left unspecified in description.",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Conditional",
+      "pets": "No",
+      "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+      "kidsDetails": "Children welcome; not suitable for infants. Primary renter minimum25.",
+      "petsDetails": "Individual House Rules: Pets not allowed.",
+      "priceFrom": 156,
+      "currency": "USD",
+      "priceDetails": "Own unit displayed range $156-916/night; dates,fees and current availability require quote.",
+      "sources": [
+        "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x"
+      ],
+      "policySources": [
+        "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x"
+      ]
+    },
+    "description": "Old Town Marblehead apartment with a queen bedroom, kitchenette and clawfoot bath, within walking distance of the harbor.",
+    "descriptionSource": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+    "photoCandidates": [
+      {
+        "url": "https://uc.orez.io/f/312c7d7506f54c53aec478f3f7ae5f0a",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "alt": "Sea Bird Suite individual gallery photograph 1",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/f/4361943b2bef428a8d15005d24c5219f",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "alt": "Sea Bird Suite individual gallery photograph 2",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/f/b1f84a629aa842f1990178e23debf51d",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "alt": "Sea Bird Suite individual gallery photograph 3",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/f/354d17dcdac7461a839d18505652ff48",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "alt": "Sea Bird Suite individual gallery photograph 4",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1302-cover.webp",
+        "url": "https://uc.orez.io/f/312c7d7506f54c53aec478f3f7ae5f0a",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "role": "cover",
+        "sha256": "bb76d16a86d7050ed72f0b0736c264053d026560c5707aaf5de8b9169134eb99",
+        "originalSha256": "0bc93f469e51e9b953d9da329ac82a656c247ddefdac1978a664cbbd8ddfb092",
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1302-000.webp",
+        "url": "https://uc.orez.io/f/4361943b2bef428a8d15005d24c5219f",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "role": "additional",
+        "sha256": "5731742974e4ff47c5cb6010e7b962293e4c1300da742ff7a6a73e1ae8f0e821",
+        "originalSha256": "1d40de7dc49f3a3f0fabf1c5a6a70ddedc8776404d74f39a58b4070ddbb39194",
+        "originalWidth": 1440,
+        "originalHeight": 960,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1302-001.webp",
+        "url": "https://uc.orez.io/f/b1f84a629aa842f1990178e23debf51d",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "role": "additional",
+        "sha256": "8f6403782e11d826b48f901db0bbd4357a37421e7dd546344fcaf710d65df4d0",
+        "originalSha256": "c5e800a50f12b5052fb531c041ab1ddeb3e76dbcbc9a22285cb39a5941efa3a5",
+        "originalWidth": 1024,
+        "originalHeight": 683,
+        "width": 720,
+        "height": 481,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1302-002.webp",
+        "url": "https://uc.orez.io/f/354d17dcdac7461a839d18505652ff48",
+        "sourcePage": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+        "role": "additional",
+        "sha256": "9e6b325d03e89acbe2feaa633ea192c4b4b1f94d62bf910ff1867a21897194f8",
+        "originalSha256": "f69d431983120865a3798f1d5798f4913ac586b7031e9039ba580378a95f25ed",
+        "originalWidth": 640,
+        "originalHeight": 960,
+        "width": 480,
+        "height": 720,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Sea Bird Suite only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact street/ZIP not publicly disclosed on own checked pages",
+      "Official first-vs-second floor description conflict"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct named apartment/location/gallery; no SandyBaySuites or NightlyBeachHouseRentals operator, names or exact domains found in existing MA verification batches.",
+      "crossBatchCheck": "Compared against 377 other MA batch records: normalized property names,exact own URLs and photo source/derivative identities; no match. Distinct own unit pages and location/floor scope retained."
+    },
+    "photoScopeVerified": true
+  },
+  {
+    "id": "MA-1303",
+    "name": "The Captain's Quarters",
+    "website": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened distinct MA whole-apartment own operator detail, House Rules, direct Book/Inquiry route and public operator phone/email. No Contact/About route published; opened Book page and property Location/footer as documented fallback.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment rental",
+    "discoveryUrl": "https://www.houfy.com/lodging/the-captain%27s-quarters/326943",
+    "discoveryMethod": "Captured Houfy Boston catalog; actual-name Yachtsman reverse lookup to Sandy Bay Suites own site and matching published property links",
+    "openedUrls": [
+      "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactPagesChecked": [
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Rockport",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+      "notes": "Own property Location section publishes town/state only. No Contact/About URL in published navigation/footer. Opened official /book inquiry page and checked direct tel6176201294/email matt@sandybaysuites.com fallback; no postal address published. Third-party Google street not transferred."
+    },
+    "bookingMethod": "Direct operator Book/Inquiry widget plus matt@sandybaysuites.com and6176201294; no submission",
+    "bookingUrl": "https://www.sandybaysuites.com/book",
+    "operatorEvidenceUrl": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+    "notes": "Sandy Bay Suites is an operator-controlled local OwnerRez site; nine catalog properties exposed. This pass verifies only captured matching source leads. Legacy nightlybeachhouserentals alternate surfaced in reverse results, not counted separately.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+      "kidsDetails": "Children and infants welcome. Primary renter minimum25.",
+      "petsDetails": "Individual House Rules: Pets not allowed.",
+      "priceFrom": 162,
+      "currency": "USD",
+      "priceDetails": "Own unit displayed range $162-799/night; dates,fees and current availability require quote.",
+      "sources": [
+        "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x"
+      ],
+      "policySources": [
+        "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x"
+      ]
+    },
+    "description": "Two-bedroom second-floor apartment in the historic Sail Loft on Bearskin Neck, with queen beds, kitchen and a small balcony.",
+    "descriptionSource": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+    "photoCandidates": [
+      {
+        "url": "https://uc.orez.io/i/930cbe875ead4c4a82797882f6adc4b6-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "alt": "The Captain's Quarters individual gallery photograph 1",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/i/9aef3838a32941579fd60c4377c3c8e2-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "alt": "The Captain's Quarters individual gallery photograph 2",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/i/65c08e0cd4734223a27cd0ad5099a1b1-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "alt": "The Captain's Quarters individual gallery photograph 3",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/i/0e5602df0fb4455ea1e0702cf0cbb359-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "alt": "The Captain's Quarters individual gallery photograph 4",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1303-cover.webp",
+        "url": "https://uc.orez.io/i/930cbe875ead4c4a82797882f6adc4b6-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "role": "cover",
+        "sha256": "d4047b177f61a647e8dcc296232d50b6ac9fb10731fc4f4714ac1482ee813cbf",
+        "originalSha256": "a30d7d1233b42e07499105fae25103da439aaa1aa33437df6e2a605538dbb84a",
+        "originalWidth": 1538,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1303-000.webp",
+        "url": "https://uc.orez.io/i/9aef3838a32941579fd60c4377c3c8e2-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "role": "additional",
+        "sha256": "565e2411759ae29fc8d8322f386b68fc97380ffeee634cf2a75e32ba24643f29",
+        "originalSha256": "a6fb0aae8dc35bffcb0a57ec6d21b4749a2b32dac9c01846058db389db078bdc",
+        "originalWidth": 1365,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1303-001.webp",
+        "url": "https://uc.orez.io/i/65c08e0cd4734223a27cd0ad5099a1b1-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "role": "additional",
+        "sha256": "afe815f43e342f320801052bd6f247236602b68e26bfed102164dfcbdaa18ac5",
+        "originalSha256": "54bad3c1926a5bd7dbfd67dbc227d8c3876e075c8d33f4db9253262a4587493c",
+        "originalWidth": 1539,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 479,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1303-002.webp",
+        "url": "https://uc.orez.io/i/0e5602df0fb4455ea1e0702cf0cbb359-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+        "role": "additional",
+        "sha256": "4809598c8f9343820185f2fdea5b4dfb4699a4152b40819006e52ce1dac3c651",
+        "originalSha256": "d3f221f6b59b70ffa4a7dd94211c4abe4d40cd563883d9deb69e83720b294c6d",
+        "originalWidth": 1538,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Captain's Quarters only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact street/ZIP not publicly disclosed on own checked pages"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct named apartment/location/gallery; no SandyBaySuites or NightlyBeachHouseRentals operator, names or exact domains found in existing MA verification batches.",
+      "crossBatchCheck": "Compared against 377 other MA batch records: normalized property names,exact own URLs and photo source/derivative identities; no match. Distinct own unit pages and location/floor scope retained."
+    },
+    "photoScopeVerified": true
+  },
+  {
+    "id": "MA-1304",
+    "name": "The Sailor's Retreat",
+    "website": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened distinct MA whole-apartment own operator detail, House Rules, direct Book/Inquiry route and public operator phone/email. No Contact/About route published; opened Book page and property Location/footer as documented fallback.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment rental",
+    "discoveryUrl": "https://www.houfy.com/lodging/the-sailor%27s-retreat/98071",
+    "discoveryMethod": "Captured Houfy Boston catalog; actual-name Yachtsman reverse lookup to Sandy Bay Suites own site and matching published property links",
+    "openedUrls": [
+      "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactPagesChecked": [
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Marblehead",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+      "notes": "Own property Location section publishes town/state only. No Contact/About URL in published navigation/footer. Opened official /book inquiry page and checked direct tel6176201294/email matt@sandybaysuites.com fallback; no postal address published. Third-party Google street not transferred."
+    },
+    "bookingMethod": "Direct operator Book/Inquiry widget plus matt@sandybaysuites.com and6176201294; no submission",
+    "bookingUrl": "https://www.sandybaysuites.com/book",
+    "operatorEvidenceUrl": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+    "notes": "Sandy Bay Suites is an operator-controlled local OwnerRez site; nine catalog properties exposed. This pass verifies only captured matching source leads. Legacy nightlybeachhouserentals alternate surfaced in reverse results, not counted separately.",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+      "kidsDetails": "Children and infants welcome. Primary renter minimum25.",
+      "petsDetails": "Individual House Rules: Pets not allowed.",
+      "priceFrom": 189,
+      "currency": "USD",
+      "priceDetails": "Own unit displayed range $189-790/night; dates,fees and current availability require quote.",
+      "sources": [
+        "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x"
+      ],
+      "policySources": [
+        "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x"
+      ]
+    },
+    "description": "First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen, laundry and private entrance near the harbor.",
+    "descriptionSource": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+    "photoCandidates": [
+      {
+        "url": "https://uc.orez.io/i/37ec14123c0441fcb66afdb51ce0d8ed-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "alt": "The Sailor's Retreat individual gallery photograph 1",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/i/f9f1eba20b44424aad543385ca9eca92-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "alt": "The Sailor's Retreat individual gallery photograph 2",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/i/8949ae88293744c896c2ae175528effe-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "alt": "The Sailor's Retreat individual gallery photograph 3",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery"
+      },
+      {
+        "url": "https://uc.orez.io/i/09da7bab53ab478aa0611a9275d32ba3-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "alt": "The Sailor's Retreat individual gallery photograph 4",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1304-cover.webp",
+        "url": "https://uc.orez.io/i/37ec14123c0441fcb66afdb51ce0d8ed-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "role": "cover",
+        "sha256": "078bcecf637abfab1bf9bdc1c0be58fd51cf5123ed7db8d261b1774b2b7702a0",
+        "originalSha256": "28d949f0fc6cd9f6172609cb6584a94f970f5c0c9a310ffba2dc660a6dd5baca",
+        "originalWidth": 1365,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1304-000.webp",
+        "url": "https://uc.orez.io/i/f9f1eba20b44424aad543385ca9eca92-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "role": "additional",
+        "sha256": "c2c430574a9ef6d9a154d3ad987fc954ebaecafcf59f086745c434059f0aa016",
+        "originalSha256": "fa7cd1f9f4793f12ef29f73400987a422736ee0ca11d00e17d05799dcf8b210e",
+        "originalWidth": 1365,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1304-001.webp",
+        "url": "https://uc.orez.io/i/8949ae88293744c896c2ae175528effe-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "role": "additional",
+        "sha256": "e9335e09c562cd63806828b7673d3ce83fbea9a77d06c3db240536d64e594b5f",
+        "originalSha256": "0655e0113935a0ee55dfdd995f6c1e41c9fdba2a87f2d2946749892d26fb10d8",
+        "originalWidth": 1365,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1304-002.webp",
+        "url": "https://uc.orez.io/i/09da7bab53ab478aa0611a9275d32ba3-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+        "role": "additional",
+        "sha256": "0a1d67dd92bdfd363aa86cb8fa4e148bd7d83964fdbb25cf4730cd50277b1110",
+        "originalSha256": "7608765a51414d5c782b68c6ecb20a4c3ea003fbeff3e00e1a76f90cd683f9ce",
+        "originalWidth": 1365,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Sailor's Retreat only; distinct own unit gallery",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact street/ZIP not publicly disclosed on own checked pages"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct named apartment/location/gallery; no SandyBaySuites or NightlyBeachHouseRentals operator, names or exact domains found in existing MA verification batches.",
+      "crossBatchCheck": "Compared against 377 other MA batch records: normalized property names,exact own URLs and photo source/derivative identities; no match. Distinct own unit pages and location/floor scope retained."
+    },
+    "photoScopeVerified": true
+  },
+  {
+    "id": "MA-1305",
+    "name": "The Waterline",
+    "website": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened distinct MA whole-apartment own operator detail, House Rules, direct Book/Inquiry route and public operator phone/email. No Contact/About route published; opened Book page and property Location/footer as documented fallback.",
+    "classification": "entire rental unit",
+    "recordType": "property",
+    "type": "apartment rental",
+    "discoveryUrl": "https://www.houfy.com/lodging/rockport-sail-loft-2-bed-1-bath-oceanfront-haven/90060",
+    "discoveryMethod": "Captured Houfy Boston catalog; actual-name Yachtsman reverse lookup to Sandy Bay Suites own site and matching published property links",
+    "openedUrls": [
+      "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+      "https://www.sandybaysuites.com/book",
+      "https://www.houfy.com/lodging/rockport-sail-loft-2-bed-1-bath-oceanfront-haven/90060"
+    ],
+    "contactPagesChecked": [
+      "https://www.sandybaysuites.com/book"
+    ],
+    "contactAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Rockport",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+      "notes": "Own property Location section publishes town/state only. No Contact/About URL in published navigation/footer. Opened official /book inquiry page and checked direct tel6176201294/email matt@sandybaysuites.com fallback; no postal address published. Third-party Google street not transferred."
+    },
+    "bookingMethod": "Direct operator Book/Inquiry widget plus matt@sandybaysuites.com and6176201294; no submission",
+    "bookingUrl": "https://www.sandybaysuites.com/book",
+    "operatorEvidenceUrl": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+    "notes": "Sandy Bay Suites is an operator-controlled local OwnerRez site; nine catalog properties exposed. This pass verifies only captured matching source leads. Legacy nightlybeachhouserentals alternate surfaced in reverse results, not counted separately. Captured Rockport Sail Loft lead is ground-floor2BR with patio, same Matt operator, unlike second-floor Captain’s Quarters. Current own ground-floor offer The Waterline verified independently; legacy alias image match to review before final source closure. Alias visually confirmed from observed Houfy90060 original cover: identical sofa, red table, window/beams and wall plaque. Same ground-floor2BR patio scope. Do not count legacy listing separately.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+      "kidsDetails": "Children and infants welcome. Primary renter minimum25.",
+      "petsDetails": "Individual House Rules: Pets not allowed.",
+      "priceFrom": 162,
+      "currency": "USD",
+      "priceDetails": "Own unit displayed range $162-799/night; dates,fees and availability require quote.",
+      "sources": [
+        "https://www.sandybaysuites.com/the-waterline-orp5b5900fx"
+      ],
+      "policySources": [
+        "https://www.sandybaysuites.com/the-waterline-orp5b5900fx"
+      ]
+    },
+    "description": "Ground-floor harborfront apartment in Rockport’s historic Sail Loft, with two queen bedrooms, full kitchen and a private patio.",
+    "descriptionSource": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+    "photoCandidates": [
+      {
+        "url": "https://uc.orez.io/i/348cb3a08d844015a1b8fe91ab2557bc-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "alt": "The Waterline gallery photograph 1",
+        "unitOrCampus": "The Waterline ground-floor apartment only"
+      },
+      {
+        "url": "https://uc.orez.io/i/6938eb58a2714be09fbacec9cf7f8f0a-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "alt": "The Waterline gallery photograph 2",
+        "unitOrCampus": "The Waterline ground-floor apartment only"
+      },
+      {
+        "url": "https://uc.orez.io/i/ad4e0e3a36914c16ab244397673ab990-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "alt": "The Waterline gallery photograph 3",
+        "unitOrCampus": "The Waterline ground-floor apartment only"
+      },
+      {
+        "url": "https://uc.orez.io/i/e85fdd9163944798b97f967f3eb51c99-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "alt": "The Waterline gallery photograph 4",
+        "unitOrCampus": "The Waterline ground-floor apartment only"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1305-cover.webp",
+        "url": "https://uc.orez.io/i/348cb3a08d844015a1b8fe91ab2557bc-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "role": "cover",
+        "sha256": "3f1e5e10a3242de09f75c08ee74d6bd0280aaa37bc38e046f3bc5a8ca8c41de4",
+        "originalSha256": "4bf81979fca65bc330666229f25e42c52711963392f09325c92483efbadff177",
+        "originalWidth": 1539,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 479,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Waterline ground-floor apartment only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1305-000.webp",
+        "url": "https://uc.orez.io/i/6938eb58a2714be09fbacec9cf7f8f0a-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "role": "additional",
+        "sha256": "c3f9f715cf74b2ee7f33c1f4b94a1edee51b83768cf8d234c6cb310ce242cd27",
+        "originalSha256": "9d30f6eb92c0310d25cdd3f67813fa777ec926656842cfa7502a783ad9579fab",
+        "originalWidth": 1537,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Waterline ground-floor apartment only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1305-001.webp",
+        "url": "https://uc.orez.io/i/ad4e0e3a36914c16ab244397673ab990-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "role": "additional",
+        "sha256": "edf2f82f87b7b567fc82c0f3ce1c1f498d96bdc68a97feb00acbdaf7ab301436",
+        "originalSha256": "2a3599ca9eefff221fabb598751245bf2078a81cd5ec9553784bde86d2334bf5",
+        "originalWidth": 1365,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Waterline ground-floor apartment only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1305-002.webp",
+        "url": "https://uc.orez.io/i/e85fdd9163944798b97f967f3eb51c99-MediumOriginal",
+        "sourcePage": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+        "role": "additional",
+        "sha256": "88484a4bb3965c785f2e65e6e9c077725f2e0ab02e8fafe90cff6d1eb1824788",
+        "originalSha256": "b25c881c7d86fd449c5a3f4f597a6b1dc522f8191c279958b1f560bf384709f5",
+        "originalWidth": 1539,
+        "originalHeight": 1024,
+        "width": 720,
+        "height": 479,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Waterline ground-floor apartment only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: authentic photographs from this distinct named unit gallery; different units not mixed.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact street/ZIP not publicly disclosed on own checked pages"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct named apartment/location/gallery; no SandyBaySuites or NightlyBeachHouseRentals operator, names or exact domains found in existing MA verification batches.",
+      "crossBatchCheck": "Compared against 377 other MA batch records: normalized property names,exact own URLs and photo source/derivative identities; no match. Distinct own unit pages and location/floor scope retained."
+    },
+    "photoScopeVerified": true
+  },
+  {
+    "id": "MA-1306",
+    "name": "The Egret's Nest",
+    "website": "https://driftlinestays.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened independent Marshfield whole-home own website, official Contact inquiry form, About named local hosts, House Rules and expanded pet FAQ, direct weekly booking calendar.",
+    "classification": "entire rental home",
+    "recordType": "property",
+    "type": "house rental",
+    "discoveryUrl": "https://www.houfy.com/lodging/the-egrets-nest/465583",
+    "discoveryMethod": "Captured Houfy Boston catalog; actual-name Yachtsman reverse lookup to Sandy Bay Suites own site and matching published property links",
+    "openedUrls": [
+      "https://driftlinestays.com/",
+      "https://driftlinestays.com/#contact",
+      "https://driftlinestays.com/#about",
+      "https://driftlinestays.com/#house-rules",
+      "https://driftlinestays.com/#booking",
+      "https://www.houfy.com/lodging/the-egrets-nest/465583"
+    ],
+    "contactPagesChecked": [
+      "https://driftlinestays.com/#contact"
+    ],
+    "contactAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Marshfield",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://driftlinestays.com/#contact",
+      "notes": "Official Contact, About, home and booking checked. Rexhame Beach/Marshfield MA location published, no street or ZIP. No office street assigned."
+    },
+    "bookingMethod": "Own direct weekly calendar/Lodgify checkout, official Contact inquiry, phone3392370219 and stay@driftlinestays.com; no submission",
+    "bookingUrl": "https://driftlinestays.com/#booking",
+    "operatorEvidenceUrl": "https://driftlinestays.com/#about",
+    "notes": "Driftline Stays/JME Living LLC operated by James and Jessika Eardley. About says first home bought2025 and renovated. Live summer booking calendar publishes May-October2027 seven-night Saturday check-in weeks; full October1-May31 off-season inquiry also offered. Children/infant policy not stated in checked Rules/FAQ/Contact/booking; family reviews do not establish admission. Subsequent exact matching Houfy465583 hostJames check explicitly states Child friendly; retained as identified host-listing policy source alongside own rules. Own website alone is silent on children.",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Home header3bedrooms2fullbaths7guests; House Rules3queens+1twin and maximum7.",
+      "kidsDetails": "Matching host James official Houfy property Suitability explicitly says Child friendly. Own House Rules/FAQ checked without separate age statement; no age/infant guarantee inferred.",
+      "petsDetails": "Up to2dogs only, no cats/otherpets; disclosebreed/size atbooking; $125nonrefundable fee per dog perstay, $250refundable pet hold, dogs off furniture/beds.",
+      "priceFrom": 2415,
+      "currency": "USD",
+      "priceDetails": "Published summer weeks starting$2415 per7nights, Saturday check-in (not nightly). $200cleaning,$500refundable securityhold; pet terms separate.",
+      "sources": [
+        "https://driftlinestays.com/",
+        "https://driftlinestays.com/#contact",
+        "https://driftlinestays.com/#about",
+        "https://driftlinestays.com/#house-rules",
+        "https://driftlinestays.com/#booking"
+      ],
+      "policySources": [
+        "https://driftlinestays.com/#house-rules",
+        "https://driftlinestays.com/#booking",
+        "https://www.houfy.com/lodging/the-egrets-nest/465583"
+      ]
+    },
+    "description": "Renovated three-bedroom Marshfield home with South River marsh views, a sunroom, deck and outdoor shower, near Rexhame Beach.",
+    "descriptionSource": "https://driftlinestays.com/",
+    "platformLinks": [],
+    "platformCheckStatus": "Own accommodation, Contact, About, Rules and booking outgoing anchors checked; no actual Airbnb/Vrbo/Booking.com listing links found.",
+    "photoCandidates": [
+      {
+        "url": "https://driftlinestays.com/media/img-a43501352757.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "alt": "Sunroom overlooking SouthRiver marsh",
+        "unitOrCampus": "The Egret's Nest house only"
+      },
+      {
+        "url": "https://driftlinestays.com/media/img-cfc68447d565.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "alt": "Renovated white kitchen and island",
+        "unitOrCampus": "The Egret's Nest house only"
+      },
+      {
+        "url": "https://driftlinestays.com/media/img-ca259c0ca6c3.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "alt": "Queen bedroom with marsh views",
+        "unitOrCampus": "The Egret's Nest house only"
+      },
+      {
+        "url": "https://driftlinestays.com/media/img-e2ae428ed38c.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "alt": "Rear house exterior with deck/outdoor shower",
+        "unitOrCampus": "The Egret's Nest house only"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1306-cover.webp",
+        "url": "https://driftlinestays.com/media/img-a43501352757.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "role": "cover",
+        "sha256": "1a95b11627808aacf4d993e10a9ad4c5834a81aafa99c4811bed4f2b85e292c3",
+        "originalSha256": "be2f8b33fff648a804adc918d22b1e0e476ebafc786e976b5f0261076e0efa80",
+        "originalWidth": 1320,
+        "originalHeight": 990,
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Egret's Nest house only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: distinct sunroom, kitchen, bedroom and rear exterior of this own-site home, no unit mixing.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1306-000.webp",
+        "url": "https://driftlinestays.com/media/img-cfc68447d565.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "role": "additional",
+        "sha256": "f54c85b5a28e62874b1ffe94933d27f19d56b72fc67b5a5979812ebb1aff233a",
+        "originalSha256": "0eb94390006d0117cd6e0c7dd595be3713d4955cf16969504dc0f1075472e741",
+        "originalWidth": 1320,
+        "originalHeight": 988,
+        "width": 720,
+        "height": 539,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Egret's Nest house only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: distinct sunroom, kitchen, bedroom and rear exterior of this own-site home, no unit mixing.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1306-001.webp",
+        "url": "https://driftlinestays.com/media/img-ca259c0ca6c3.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "role": "additional",
+        "sha256": "5bbf3bfe9bdccb1b954961671b6d4b2660bd010435dcd6c5f1400d51293f7599",
+        "originalSha256": "cfbea61ed4879a29aa1f8cf25b9275ef875fdd52ec189301f11c92a3077b13c2",
+        "originalWidth": 1320,
+        "originalHeight": 1238,
+        "width": 720,
+        "height": 675,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Egret's Nest house only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: distinct sunroom, kitchen, bedroom and rear exterior of this own-site home, no unit mixing.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1306-002.webp",
+        "url": "https://driftlinestays.com/media/img-e2ae428ed38c.jpg",
+        "sourcePage": "https://driftlinestays.com/",
+        "role": "additional",
+        "sha256": "cc1c234468580ab2980016f41337ee6304067dfbff93d5b5e12dd00035ea45fb",
+        "originalSha256": "9978a9ef8c8ee1c163435c3af1c87eafc1e8bf5883927d6e6547d8321366af75",
+        "originalWidth": 1320,
+        "originalHeight": 1401,
+        "width": 679,
+        "height": 720,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "The Egret's Nest house only",
+        "compression": "Proportional maximum1200px; WebP quality78",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved contact sheet inspected2026-10-26: distinct sunroom, kitchen, bedroom and rear exterior of this own-site home, no unit mixing.",
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact street/ZIP not published",
+      "Exact infant/child age restrictions not specified; child-friendly statement from matching host Houfy listing"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct named Marshfield home/operator; cross-batch exactname/domain and image QA pending",
+      "crossBatchCheck": "Compared against 377 other MA batch records: normalized property names,exact own URLs and photo source/derivative identities; no match. Distinct own unit pages and location/floor scope retained."
+    },
+    "photoScopeVerified": true
+  }
+]

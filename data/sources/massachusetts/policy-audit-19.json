@@ -1,0 +1,1531 @@
+[
+  {
+    "id": "MA-1501",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/englj",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37524&url=https%3A//www.mvvacationrentals.com/property/englj"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets",
+        "source": "https://www.mvvacationrentals.com/property/englj"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/englj"
+      }
+    ],
+    "restrictions": [
+      "No Pets",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Guest cottage is included; do not split it into an extra rental. No explicit child admission rule found."
+  },
+  {
+    "id": "MA-1502",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/agarh",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=24954&url=https%3A//www.mvvacationrentals.com/property/agarh"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/agarh"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/agarh"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Description welcomes extended families and describes a children’s room, but no explicit child admission policy is published."
+  },
+  {
+    "id": "MA-1503",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/com27",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37829&url=https%3A//www.mvvacationrentals.com/property/com27"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/com27"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/com27"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Pool house is described as an amenity, not a separately counted rental."
+  },
+  {
+    "id": "MA-1504",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/wingr",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=32224&url=https%3A//www.mvvacationrentals.com/property/wingr"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Pet Friendly on a case-by-case basis (additional $100 per pet cleaning fee), No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/wingr"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/wingr"
+      }
+    ],
+    "restrictions": [
+      "Pet Friendly on a case-by-case basis (additional $100 per pet cleaning fee), No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Pets require case-by-case approval and USD100 per-pet cleaning fee. No numeric half-bath count displayed; zero half baths is unconfirmed."
+  },
+  {
+    "id": "MA-1505",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/desam",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=34356&url=https%3A//www.mvvacationrentals.com/property/desam"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking; 2 week stay required",
+        "source": "https://www.mvvacationrentals.com/property/desam"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "14 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/desam"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking; 2 week stay required",
+      "Minimum stay 14 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Two-week minimum explicitly stated. Main and guest house are one combined accommodation offer."
+  },
+  {
+    "id": "MA-1506",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/mal68",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35999&url=https%3A//www.mvvacationrentals.com/property/mal68"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/mal68"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/mal68"
+      }
+    ],
+    "restrictions": [
+      "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Conflicting unit facts: header5 bedrooms/4 full+1half bath; description7 bedrooms/5.5baths and bath description5full+1half. Normalized bedrooms and bathrooms Unknown. Describes N Water Street without a house number."
+  },
+  {
+    "id": "MA-1507",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/nade5",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44183&url=https%3A//www.mvvacationrentals.com/property/nade5"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/nade5"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/nade5"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Header7full+2half baths conflicts with prose5en-suite bedrooms and2sharing1bath, which implies6full. Bathroom count requires clarification."
+  },
+  {
+    "id": "MA-1508",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/ransw",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=25533&url=https%3A//www.mvvacationrentals.com/property/ransw"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/ransw"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/ransw"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Published bed types differ between bedroom list and prose; maximum10 and5bedrooms agree."
+  },
+  {
+    "id": "MA-1509",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/finnm",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=25795&url=https%3A//www.mvvacationrentals.com/property/finnm"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/finnm"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/finnm"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Full and half bath fields are recorded separately; no child admission policy published."
+  },
+  {
+    "id": "MA-1510",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/malfc",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36013&url=https%3A//www.mvvacationrentals.com/property/malfc"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/malfc"
+      }
+    ],
+    "restrictions": [
+      "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking"
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Availability May–October is seasonal availability, not a minimum stay. Pets require approval and additional unspecified fees."
+  },
+  {
+    "id": "MA-1511",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/kopf3",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45806&url=https%3A//www.mvvacationrentals.com/property/kopf3"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Dogs Permitted upon Approval, No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/kopf3"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/kopf3"
+      }
+    ],
+    "restrictions": [
+      "Dogs Permitted upon Approval, No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Dogs require approval; fee and size/count restrictions not stated. Text describes children/teen suites and toddler play area, without explicit child admission rules. Filename contains a street address but is not used as address evidence."
+  },
+  {
+    "id": "MA-1512",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/mor12",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36229&url=https%3A//www.mvvacationrentals.com/property/mor12"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/mor12"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/mor12"
+      }
+    ],
+    "restrictions": [
+      "No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Owner policy prohibits smoking but does not address pets; expanded amenities and shared policy also lack a pet rule. Pets Unknown."
+  },
+  {
+    "id": "MA-1513",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/lydoa",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35666&url=https%3A//www.mvvacationrentals.com/property/lydoa"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/lydoa"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 night minimum July & August",
+        "source": "https://www.mvvacationrentals.com/property/lydoa"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Seven-night minimum in July and August; other dates Unknown."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Published7-night minimum applies July and August; other dates require inquiry. Do not apply that minimum year round."
+  },
+  {
+    "id": "MA-1514",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/leedb",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44063&url=https%3A//www.mvvacationrentals.com/property/leedb"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/leedb"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/leedb"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Full5 plus half1 bath agrees with5.5-bath feature heading. No child admission rule published."
+  },
+  {
+    "id": "MA-1515",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/smap6",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=48259&url=https%3A//www.mvvacationrentals.com/property/smap6"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/smap6"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/smap6"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Own feature title identifies compound; retain one combined offer pending any separately marketed component overlap."
+  },
+  {
+    "id": "MA-1516",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/yaegm",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=26845&url=https%3A//www.mvvacationrentals.com/property/yaegm"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/yaegm"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "Owner requires two week- minimum July weeks",
+        "source": "https://www.mvvacationrentals.com/property/yaegm"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Two-week minimum July weeks; other dates Unknown."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Two-week minimum applies July weeks only; other dates Unknown. Description includes a children/teen bedroom, without explicit admission rules."
+  },
+  {
+    "id": "MA-1517",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/mors2",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35771&url=https%3A//www.mvvacationrentals.com/property/mors2"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/mors2"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/mors2"
+      }
+    ],
+    "restrictions": [
+      "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "One specific home in a shared two-house compound; do not count both campus buildings as included. MORS4 may be related; retain overlap review. One gallery campus photo has MORS4 filename and is labeled shared-campus exterior, not a separate-unit interior."
+  },
+  {
+    "id": "MA-1518",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/grejn",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=46001&url=https%3A//www.mvvacationrentals.com/property/grejn"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/grejn"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/grejn"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Two gallery assets explicitly named AI edits were excluded from authentic-photo set; selected other observed photographs. Exact street not inferred from asset filenames. Full5 baths published; half-bath field blank."
+  },
+  {
+    "id": "MA-1519",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/weekw",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=26109&url=https%3A//www.mvvacationrentals.com/property/weekw"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/weekw"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/weekw"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "No child admission rule published after expanded detail and shared policy review."
+  },
+  {
+    "id": "MA-1520",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/angeb",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44747&url=https%3A//www.mvvacationrentals.com/property/angeb"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Pet Friendly on a case by case basis, No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/angeb"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/angeb"
+      }
+    ],
+    "restrictions": [
+      "Pet Friendly on a case by case basis, No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Six-bedroom count includes den/office with deluxe sofabed and two bedrooms over carriage house. Amenities/Features headings had no additional populated entries. Pets require case-by-case approval; fee unspecified."
+  },
+  {
+    "id": "MA-1521",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/cas65",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36655&url=https%3A//www.mvvacationrentals.com/property/cas65"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/cas65"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking"
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "June–October describes availability, not a minimum stay. Children bedroom and nearby family beaches described, but no explicit child admission rule."
+  },
+  {
+    "id": "MA-1522",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/carda",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44100&url=https%3A//www.mvvacationrentals.com/property/carda"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/carda"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/carda"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Tree swings are described for children, but child admission ages/rules are not explicit. Seven-night minimum."
+  },
+  {
+    "id": "MA-1523",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/macma",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35303&url=https%3A//www.mvvacationrentals.com/property/macma"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/macma"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/macma"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Two pull-out trundle sections are suitable for children/teens, not adults. Capacity10 is published but this bed-use restriction remains. No explicit child admission rule."
+  },
+  {
+    "id": "MA-1524",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/taylc",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=34565&url=https%3A//www.mvvacationrentals.com/property/taylc"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/taylc"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/taylc"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Spa is normally the same temperature as pool, jets off. Owner activation requires extra fee; not an unrestricted included hot tub."
+  },
+  {
+    "id": "MA-1525",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/sudrl",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=34586&url=https%3A//www.mvvacationrentals.com/property/sudrl"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/sudrl"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/sudrl"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Main and guest house form one offer. Own description says private Spring Point Beach about150yards away."
+  },
+  {
+    "id": "MA-1526",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/mors4",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35772&url=https%3A//www.mvvacationrentals.com/property/mors4"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/mors4"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/mors4"
+      }
+    ],
+    "restrictions": [
+      "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Distinct named Ferry House offer versus MORS2 Light House; their arrows identify separate physical houses. Shared campus exteriors are retained with scope labels; no interiors transferred."
+  },
+  {
+    "id": "MA-1527",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/calwm",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37180&url=https%3A//www.mvvacationrentals.com/property/calwm"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/calwm"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/calwm"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Owner policies prohibit pets and smoking; no child admission rule found."
+  },
+  {
+    "id": "MA-1528",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/choay",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37181&url=https%3A//www.mvvacationrentals.com/property/choay"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/choay"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/choay"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Full4 plus half1 bath agrees with4.5-bath feature heading."
+  },
+  {
+    "id": "MA-1529",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/macee",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44164&url=https%3A//www.mvvacationrentals.com/property/macee"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Smoking & No Pets; Two-week minimum stay required August weeks",
+        "source": "https://www.mvvacationrentals.com/property/macee"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "14 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/macee"
+      }
+    ],
+    "restrictions": [
+      "No Smoking & No Pets",
+      "Owner text explicitly requires two weeks for August; header has an unqualified14-day minimum. Confirm other months."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [
+      "Minimum-stay scope: header is unqualified14days; owner note specifies August weeks."
+    ],
+    "notes": "Header states14-day minimum without scope; owner note specifies August weeks. Confirm other months with agent. Owner advertises room-tax exemption; not independently established."
+  },
+  {
+    "id": "MA-1530",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/pal77",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45770&url=https%3A//www.mvvacationrentals.com/property/pal77"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking; 2 week minimum stay required",
+        "source": "https://www.mvvacationrentals.com/property/pal77"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "14 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/pal77"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking; 2 week minimum stay required",
+      "Minimum stay 14 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Each of5 bedrooms has a private bath;2powder rooms additional. Pool/spa heat feeUSD300perweek published; off-season conditions differ."
+  },
+  {
+    "id": "MA-1531",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/man15",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45900&url=https%3A//www.mvvacationrentals.com/property/man15"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/man15"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/man15"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Published occupancy8, despite5bedrooms; do not infer10from bed count."
+  },
+  {
+    "id": "MA-1532",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/cos67",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36260&url=https%3A//www.mvvacationrentals.com/property/cos67"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/cos67"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/cos67"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "No child admission rules published; published weekly calendar prices vary by season."
+  },
+  {
+    "id": "MA-1533",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/bette",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37606&url=https%3A//www.mvvacationrentals.com/property/bette"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets",
+        "source": "https://www.mvvacationrentals.com/property/bette"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/bette"
+      }
+    ],
+    "restrictions": [
+      "No Pets",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Owner policy prohibits pets; no smoking policy stated in the owner line. Do not transfer other homes smoking rules."
+  },
+  {
+    "id": "MA-1534",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/walsj",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=24593&url=https%3A//www.mvvacationrentals.com/property/walsj"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/walsj"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/walsj"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Cabana is described as office/amenity space, not a separate rental."
+  },
+  {
+    "id": "MA-1535",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/brosp",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45331&url=https%3A//www.mvvacationrentals.com/property/brosp"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/brosp"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/brosp"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "First body capture missed owner-policy text while loading; fresh loaded detail read verified NoPets/NoSmoking and full expanded facts. Five main-house bedrooms plus one garage guest suite are included as one offer."
+  },
+  {
+    "id": "MA-1536",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/hergt",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=24753&url=https%3A//www.mvvacationrentals.com/property/hergt"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/hergt"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/hergt"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Pool pavilion is an amenity; private beach key access published. Seven-night minimum."
+  },
+  {
+    "id": "MA-1537",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/simoa",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=27333&url=https%3A//www.mvvacationrentals.com/property/simoa"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/simoa"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/simoa"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Full4baths published; half-bath field blank. Shoulder-season pool/spa heat requires surcharge."
+  },
+  {
+    "id": "MA-1538",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/roglm",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36042&url=https%3A//www.mvvacationrentals.com/property/roglm"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/roglm"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/roglm"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Published gallery also includes roglm26-rendering.jpg. It remains a separate observed rendering candidate, not evidence of current built appearance. Four other actual interior photographs selected."
+  },
+  {
+    "id": "MA-1539",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/harsy",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44127&url=https%3A//www.mvvacationrentals.com/property/harsy"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/harsy"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/harsy"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Bathroom conflict: header and bath description3full+2half imply4total; feature heading says3.5baths. No explicit correction, normalized bathrooms Unknown."
+  },
+  {
+    "id": "MA-1540",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/rosbe",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44086&url=https%3A//www.mvvacationrentals.com/property/rosbe"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Pet Friendly on a case by case basis, No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/rosbe"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/rosbe"
+      }
+    ],
+    "restrictions": [
+      "Pet Friendly on a case by case basis, No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Seven bedrooms span main home and guest suite above carriage house, one combined offer. Pets require case-by-case approval; conditions unspecified."
+  },
+  {
+    "id": "MA-1541",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/pedlf",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=49054&url=https%3A//www.mvvacationrentals.com/property/pedlf"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/pedlf"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/pedlf"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Bathroom conflict: header4full with blank half count; feature heading5baths. Normalized bathrooms Unknown."
+  },
+  {
+    "id": "MA-1542",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/mannb",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=25903&url=https%3A//www.mvvacationrentals.com/property/mannb"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/mannb"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/mannb"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Bedroom includes King plus2built-in bunks described as childrens bedroom; no explicit admission rule. Pool heat charges vary by exact shoulder-season week."
+  },
+  {
+    "id": "MA-1543",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/hodge",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30191&url=https%3A//www.mvvacationrentals.com/property/hodge"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/hodge"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/hodge"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Private dock/mooring use and bringing a boat require owner approval; do not present unrestricted dock access."
+  },
+  {
+    "id": "MA-1544",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/hol14",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36707&url=https%3A//www.mvvacationrentals.com/property/hol14"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "Dogs under 30 lbs Permitted with Owner Permission with additional security deposit ($1500) & cleaning fee ($200 ). No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/hol14"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/hol14"
+      }
+    ],
+    "restrictions": [
+      "Dogs under30lbs permitted with owner permission; additionalUSD1500 security deposit andUSD200 cleaning fee. No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule",
+      "Detailed pet species, breed, weight and count limits"
+    ],
+    "conflicts": [],
+    "notes": "Dogs must weigh under30lbs and have owner permission. Exact additional security depositUSD1500 and pet cleaning feeUSD200 published."
+  },
+  {
+    "id": "MA-1545",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/bettd",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=28022&url=https%3A//www.mvvacationrentals.com/property/bettd"
+    ],
+    "method": "Read the actual Owner Policies; expanded Property Features, Property Amenities and Read More; checked shared operator Rental Policies and the property-prefilled direct inquiry form.",
+    "applicability": "This property code only. Shared process policy applies to MVVR owner-represented rentals; unit-specific rules retained.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "owner policy",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/bettd"
+      },
+      {
+        "topic": "minimum stay",
+        "text": "7 day minimum stay",
+        "source": "https://www.mvvacationrentals.com/property/bettd"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay 7 nights."
+    ],
+    "noneFound": [
+      "Explicit child-admission rule"
+    ],
+    "conflicts": [],
+    "notes": "Four full baths published; half-bath field blank. Seasonal pool heat surcharge may apply."
+  }
+]

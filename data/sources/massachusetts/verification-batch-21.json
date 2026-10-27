@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "MA-1701",
+    "name": "MVVR SHEMI — Edgartown",
+    "website": "https://www.mvvacationrentals.com/property/shemi",
+    "city": "Edgartown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened named local-operator MA accommodation, individual Owner Policies and expanded information, actual property-prefilled direct inquiry; shared official Contact and Rental Policies checked.",
+    "classification": "individual vacation rental",
+    "recordType": "property",
+    "type": "vacation rental",
+    "operatorName": "Martha’s Vineyard Vacation Rentals & Sales",
+    "operatorEvidenceUrl": "https://www.mvvacationrentals.com/contact-us",
+    "parentOperatorId": "MA-0121",
+    "sourceUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "originalCatalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "discoveryMethod": "Existing captured own catalog; assigned exact published URL only",
+    "openedUrls": [
+      "https://www.mvvacationrentals.com/property/shemi",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35466&url=https%3A//www.mvvacationrentals.com/property/shemi",
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+    ],
+    "contactPagesChecked": [
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/property/shemi"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "107 Beach Road, Suite102",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us",
+      "notes": "Official Contact publishes107BeachRoad and POBox1207; footer addsSuite102. Office/contact address only, never rental entrance."
+    },
+    "mailingAddress": {
+      "role": "mailing address",
+      "street": "PO Box1207",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us"
+    },
+    "rentalAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Edgartown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.mvvacationrentals.com/property/shemi",
+      "notes": "Property town published; no exact rental street/ZIP on checked unit,Contact or direct-inquiry pages."
+    },
+    "contactPhone": "+15086937711",
+    "contactEmail": "info@mvvacationrentals.com",
+    "bookingMethod": "Actual unit-specific direct inquiry opened and Properties field verified prefilled; telephone/email also published. Shared policy says no online booking. No submission.",
+    "bookingUrl": "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35466&url=https%3A//www.mvvacationrentals.com/property/shemi",
+    "inquiryPrefillEvidence": "SHEMI (35466)",
+    "description": "Edgartown vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 8 guests.",
+    "descriptionSource": "https://www.mvvacationrentals.com/property/shemi",
+    "descriptionBasis": "Source-based paraphrase of explicit unit location/capacity/bed/bath facts; headline retained separately.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 2.0,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Per-unit occupancy8,bedrooms4,fullbaths2,halfbaths0. No campus/operator totals transferred.",
+      "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+      "petsDetails": "No Pets & No Smoking",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+      "sources": [
+        "https://www.mvvacationrentals.com/property/shemi"
+      ],
+      "policySources": [
+        "https://www.mvvacationrentals.com/property/shemi",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+      ]
+    },
+    "fullBathrooms": 2,
+    "halfBathrooms": 0,
+    "minimumStay": {
+      "days": 7,
+      "source": "https://www.mvvacationrentals.com/property/shemi"
+    },
+    "notes": "Office and mailing addresses kept separate from unit location. Owner Policies read per property; shared process policy is agency-wide.",
+    "policyContexts": [
+      "No Pets & No Smoking"
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+    "photoCandidates": [
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-exterior3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "alt": "shemi23-exterior3.jpg",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-exterior5.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "alt": "shemi23-exterior5.jpg",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-exterior2.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "alt": "shemi23-exterior2.jpg",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-livingrm3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "alt": "shemi23-livingrm3.jpg",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1701-cover.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-exterior3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "role": "cover",
+        "sha256": "c03f7e5293ea54ce245cab2d9aad31d30f6d5b077a2431aea3e634e8e8cf722b",
+        "originalSha256": "c315501c54e11006c65c8a157d8463fe8268b207bcb93b39e063d24e5d7a93a5",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1701-000.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-exterior5.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "role": "additional",
+        "sha256": "838f7ead88ded68621a077947a1371417939bae476e66e4ee394a2f8fbf7c240",
+        "originalSha256": "9eee05e9abf751efadcf50b02690ceb3924278e08c818e875f78400629f9585a",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1701-001.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-exterior2.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "role": "additional",
+        "sha256": "17fb18dcbe986273231d1041e32ba249726f41cdeead4919c993d1984e3d38c6",
+        "originalSha256": "944cc7c935eaa05060dec1257b00669d66fac54993dd01a0f67fe4b1a7916ddb",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1701-002.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/shemi23-livingrm3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/shemi",
+        "role": "additional",
+        "sha256": "a706342396fe7763a9e74894c72fbe86539c2f6f812a3c791df7012796fc5e13",
+        "originalSha256": "06ed914a5526ba0cd3838c6702501ffd8b00775463214a90a8fef77576318583",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "SHEMI only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact rental street/ZIP not publicly disclosed",
+      "Explicit child policy absent"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct captured MVVR property code and current unit gallery; no explicit compound overlap observed in expanded descriptions.",
+      "crossBatchCheck": "No matching exact own property URL or photo URL/hash in other saved MA batches; office address was not used for unit deduplication."
+    },
+    "policyAudit": {
+      "id": "MA-1701",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.mvvacationrentals.com/property/shemi",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+        "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35466&url=https%3A//www.mvvacationrentals.com/property/shemi"
+      ],
+      "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+      "pets": "No",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "Owner Policies",
+          "text": "No Pets & No Smoking",
+          "source": "https://www.mvvacationrentals.com/property/shemi"
+        }
+      ],
+      "restrictions": [
+        "No Pets & No Smoking",
+        "Minimum stay7days"
+      ],
+      "noneFound": [
+        "Explicit child admission policy"
+      ],
+      "conflicts": [],
+      "applicability": "SHEMI only; shared MVVR leasing-process policy applies across operator rentals."
+    },
+    "headlineSummary": "Major's Cove contemporary retreat with wraparound deck",
+    "photoScopeVerified": true,
+    "photoStatus": "Four genuine same-property source photos saved and contact sheet visually reviewed"
+  },
+  {
+    "id": "MA-1702",
+    "name": "MVVR PHOUE — Vineyard Haven",
+    "website": "https://www.mvvacationrentals.com/property/phoue",
+    "city": "Vineyard Haven",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened named local-operator MA accommodation, individual Owner Policies and expanded information, actual property-prefilled direct inquiry; shared official Contact and Rental Policies checked.",
+    "classification": "individual vacation rental",
+    "recordType": "property",
+    "type": "vacation rental",
+    "operatorName": "Martha’s Vineyard Vacation Rentals & Sales",
+    "operatorEvidenceUrl": "https://www.mvvacationrentals.com/contact-us",
+    "parentOperatorId": "MA-0121",
+    "sourceUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "originalCatalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "discoveryMethod": "Existing captured own catalog; assigned exact published URL only",
+    "openedUrls": [
+      "https://www.mvvacationrentals.com/property/phoue",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30393&url=https%3A//www.mvvacationrentals.com/property/phoue",
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+    ],
+    "contactPagesChecked": [
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/property/phoue"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "107 Beach Road, Suite102",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us",
+      "notes": "Official Contact publishes107BeachRoad and POBox1207; footer addsSuite102. Office/contact address only, never rental entrance."
+    },
+    "mailingAddress": {
+      "role": "mailing address",
+      "street": "PO Box1207",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us"
+    },
+    "rentalAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.mvvacationrentals.com/property/phoue",
+      "notes": "Property town published; no exact rental street/ZIP on checked unit,Contact or direct-inquiry pages."
+    },
+    "contactPhone": "+15086937711",
+    "contactEmail": "info@mvvacationrentals.com",
+    "bookingMethod": "Actual unit-specific direct inquiry opened and Properties field verified prefilled; telephone/email also published. Shared policy says no online booking. No submission.",
+    "bookingUrl": "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30393&url=https%3A//www.mvvacationrentals.com/property/phoue",
+    "inquiryPrefillEvidence": "PHOUE (30393)",
+    "description": "Vineyard Haven vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 7 guests.",
+    "descriptionSource": "https://www.mvvacationrentals.com/property/phoue",
+    "descriptionBasis": "Source-based paraphrase of explicit unit location/capacity/bed/bath facts; headline retained separately.",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 4,
+      "bathrooms": 2.0,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Per-unit occupancy7,bedrooms4,fullbaths2,halfbaths0. No campus/operator totals transferred.",
+      "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+      "petsDetails": "No Pets & No Smoking",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+      "sources": [
+        "https://www.mvvacationrentals.com/property/phoue"
+      ],
+      "policySources": [
+        "https://www.mvvacationrentals.com/property/phoue",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+      ]
+    },
+    "fullBathrooms": 2,
+    "halfBathrooms": 0,
+    "minimumStay": {
+      "days": 7,
+      "source": "https://www.mvvacationrentals.com/property/phoue"
+    },
+    "notes": "Office and mailing addresses kept separate from unit location. Owner Policies read per property; shared process policy is agency-wide.",
+    "policyContexts": [
+      "No Pets & No Smoking"
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+    "photoCandidates": [
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-exterior10.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "alt": "phoue25-exterior10.jpg",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "alt": "phoue25-exterior1.jpg",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-deck1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "alt": "phoue25-deck1.jpg",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-exterior4.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "alt": "phoue25-exterior4.jpg",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1702-cover.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-exterior10.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "role": "cover",
+        "sha256": "b12e34e1f05165e54760b94a1471ca4e5a21a3e391891fc41edaca4f460646be",
+        "originalSha256": "59e0b8e32c43afffd79bf7bfa4a807c638e90af313e475240e63c56005348ead",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1702-000.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "role": "additional",
+        "sha256": "2e66c11cb4fa5c65c7d6513926c765b05dcf797750a9a78495cd0572034ed386",
+        "originalSha256": "e7cdc6909ee41b72f34747c9241a3aec210735e26437e389d31322c44398caa7",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1702-001.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-deck1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "role": "additional",
+        "sha256": "fb748bf0309ea605a46a00ccbd95b8c98a9fff55772cdc918c2bcd47c7d7bb33",
+        "originalSha256": "c1c45c5b4111568694ceb287a19447ae61c23c3ed32825fd9d523f6512d2ed64",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1702-002.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/phoue25-exterior4.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/phoue",
+        "role": "additional",
+        "sha256": "bd9508f53aeadcf531fbce7fa0357c89ae9618f4079879d26a01e4418169afa6",
+        "originalSha256": "15a0de3378fec55108e010c92e6e4912189595fd0468e9600774e5cdd9020868",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PHOUE only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact rental street/ZIP not publicly disclosed",
+      "Explicit child policy absent"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct captured MVVR property code and current unit gallery; no explicit compound overlap observed in expanded descriptions.",
+      "crossBatchCheck": "No matching exact own property URL or photo URL/hash in other saved MA batches; office address was not used for unit deduplication."
+    },
+    "policyAudit": {
+      "id": "MA-1702",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.mvvacationrentals.com/property/phoue",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+        "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30393&url=https%3A//www.mvvacationrentals.com/property/phoue"
+      ],
+      "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+      "pets": "No",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "Owner Policies",
+          "text": "No Pets & No Smoking",
+          "source": "https://www.mvvacationrentals.com/property/phoue"
+        }
+      ],
+      "restrictions": [
+        "No Pets & No Smoking",
+        "Minimum stay7days"
+      ],
+      "noneFound": [
+        "Explicit child admission policy"
+      ],
+      "conflicts": [],
+      "applicability": "PHOUE only; shared MVVR leasing-process policy applies across operator rentals."
+    },
+    "headlineSummary": "Cape home with water views, landscaped yard and deck",
+    "photoScopeVerified": true,
+    "photoStatus": "Four genuine same-property source photos saved and contact sheet visually reviewed"
+  },
+  {
+    "id": "MA-1703",
+    "name": "MVVR BOWKW — Edgartown",
+    "website": "https://www.mvvacationrentals.com/property/bowkw",
+    "city": "Edgartown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened named local-operator MA accommodation, individual Owner Policies and expanded information, actual property-prefilled direct inquiry; shared official Contact and Rental Policies checked.",
+    "classification": "individual vacation rental",
+    "recordType": "property",
+    "type": "vacation rental",
+    "operatorName": "Martha’s Vineyard Vacation Rentals & Sales",
+    "operatorEvidenceUrl": "https://www.mvvacationrentals.com/contact-us",
+    "parentOperatorId": "MA-0121",
+    "sourceUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "originalCatalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "discoveryMethod": "Existing captured own catalog; assigned exact published URL only",
+    "openedUrls": [
+      "https://www.mvvacationrentals.com/property/bowkw",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30765&url=https%3A//www.mvvacationrentals.com/property/bowkw",
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+    ],
+    "contactPagesChecked": [
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/property/bowkw"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "107 Beach Road, Suite102",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us",
+      "notes": "Official Contact publishes107BeachRoad and POBox1207; footer addsSuite102. Office/contact address only, never rental entrance."
+    },
+    "mailingAddress": {
+      "role": "mailing address",
+      "street": "PO Box1207",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us"
+    },
+    "rentalAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Edgartown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.mvvacationrentals.com/property/bowkw",
+      "notes": "Property town published; no exact rental street/ZIP on checked unit,Contact or direct-inquiry pages."
+    },
+    "contactPhone": "+15086937711",
+    "contactEmail": "info@mvvacationrentals.com",
+    "bookingMethod": "Actual unit-specific direct inquiry opened and Properties field verified prefilled; telephone/email also published. Shared policy says no online booking. No submission.",
+    "bookingUrl": "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30765&url=https%3A//www.mvvacationrentals.com/property/bowkw",
+    "inquiryPrefillEvidence": "BOWKW (30765)",
+    "description": "Edgartown vacation rental with 3 bedrooms and 2.5 bathrooms, advertised for up to 6 guests.",
+    "descriptionSource": "https://www.mvvacationrentals.com/property/bowkw",
+    "descriptionBasis": "Source-based paraphrase of explicit unit location/capacity/bed/bath facts; headline retained separately.",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Per-unit occupancy6,bedrooms3,fullbaths2,halfbaths1. No campus/operator totals transferred.",
+      "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+      "petsDetails": "No Pets & No Smoking",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+      "sources": [
+        "https://www.mvvacationrentals.com/property/bowkw"
+      ],
+      "policySources": [
+        "https://www.mvvacationrentals.com/property/bowkw",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+      ]
+    },
+    "fullBathrooms": 2,
+    "halfBathrooms": 1,
+    "minimumStay": {
+      "days": "Unknown",
+      "source": "https://www.mvvacationrentals.com/property/bowkw"
+    },
+    "notes": "Office and mailing addresses kept separate from unit location. Owner Policies read per property; shared process policy is agency-wide.",
+    "policyContexts": [
+      "No Pets & No Smoking"
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+    "photoCandidates": [
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior6.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "alt": "bowkw24-exterior6.jpg",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "alt": "bowkw24-exterior1.jpg",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior2.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "alt": "bowkw24-exterior2.jpg",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "alt": "bowkw24-exterior7.jpg",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1703-cover.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior6.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "role": "cover",
+        "sha256": "3ed0c7a383f9753b0871325ae946dbe2f37da0c7ffeb2584ed96b45c999645bf",
+        "originalSha256": "351ec36e25e56e88a83781b559dd02f1bfd037c4e0a1cdeb88a54be75f8d689c",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1703-000.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "role": "additional",
+        "sha256": "7fb7de070b5a2c28749e23531ee0a6f8653f8f8267b02b7952e9a2517dfd7af9",
+        "originalSha256": "1697d5e20abf217b522c78de75b0ab9c6069bc7c496ebcbf6084cfec40e9c835",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1703-001.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior2.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "role": "additional",
+        "sha256": "62de72c35d7de86ea4d75a3a6a27ee81bdc29df90219884d7fc6cd504a24918a",
+        "originalSha256": "7151c078a893a5fb33389c7ad9270b14f735b613462056b8dae555df3445bebe",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1703-002.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/bowkw24-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/bowkw",
+        "role": "additional",
+        "sha256": "c599779afc923dfa45d7c216f0fa4f5082777161017cc54ee58bc8f8394199b8",
+        "originalSha256": "b6240a72ea1c6a808294cb7f62a58be793bd9d95cf92ca4af3c1540a697ae215",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "BOWKW only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact rental street/ZIP not publicly disclosed",
+      "Explicit child policy absent"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct captured MVVR property code and current unit gallery; no explicit compound overlap observed in expanded descriptions.",
+      "crossBatchCheck": "No matching exact own property URL or photo URL/hash in other saved MA batches; office address was not used for unit deduplication."
+    },
+    "policyAudit": {
+      "id": "MA-1703",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.mvvacationrentals.com/property/bowkw",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+        "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30765&url=https%3A//www.mvvacationrentals.com/property/bowkw"
+      ],
+      "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+      "pets": "No",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "Owner Policies",
+          "text": "No Pets & No Smoking",
+          "source": "https://www.mvvacationrentals.com/property/bowkw"
+        }
+      ],
+      "restrictions": [
+        "No Pets & No Smoking",
+        "Minimum stayUnknowndays"
+      ],
+      "noneFound": [
+        "Explicit child admission policy"
+      ],
+      "conflicts": [],
+      "applicability": "BOWKW only; shared MVVR leasing-process policy applies across operator rentals."
+    },
+    "headlineSummary": "Coastal Cape retreat with chef's kitchen",
+    "photoScopeVerified": true,
+    "photoStatus": "Four genuine same-property source photos saved and contact sheet visually reviewed"
+  },
+  {
+    "id": "MA-1704",
+    "name": "MVVR PEOTA — Oak Bluffs",
+    "website": "https://www.mvvacationrentals.com/property/peota",
+    "city": "Oak Bluffs",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened named local-operator MA accommodation, individual Owner Policies and expanded information, actual property-prefilled direct inquiry; shared official Contact and Rental Policies checked.",
+    "classification": "individual vacation rental",
+    "recordType": "property",
+    "type": "vacation rental",
+    "operatorName": "Martha’s Vineyard Vacation Rentals & Sales",
+    "operatorEvidenceUrl": "https://www.mvvacationrentals.com/contact-us",
+    "parentOperatorId": "MA-0121",
+    "sourceUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "originalCatalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "discoveryMethod": "Existing captured own catalog; assigned exact published URL only",
+    "openedUrls": [
+      "https://www.mvvacationrentals.com/property/peota",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35905&url=https%3A//www.mvvacationrentals.com/property/peota",
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+    ],
+    "contactPagesChecked": [
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/property/peota"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "107 Beach Road, Suite102",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us",
+      "notes": "Official Contact publishes107BeachRoad and POBox1207; footer addsSuite102. Office/contact address only, never rental entrance."
+    },
+    "mailingAddress": {
+      "role": "mailing address",
+      "street": "PO Box1207",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us"
+    },
+    "rentalAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Oak Bluffs",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.mvvacationrentals.com/property/peota",
+      "notes": "Property town published; no exact rental street/ZIP on checked unit,Contact or direct-inquiry pages."
+    },
+    "contactPhone": "+15086937711",
+    "contactEmail": "info@mvvacationrentals.com",
+    "bookingMethod": "Actual unit-specific direct inquiry opened and Properties field verified prefilled; telephone/email also published. Shared policy says no online booking. No submission.",
+    "bookingUrl": "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35905&url=https%3A//www.mvvacationrentals.com/property/peota",
+    "inquiryPrefillEvidence": "PEOTA (35905)",
+    "description": "Oak Bluffs vacation rental with 2 bedrooms and 2.0 bathrooms, advertised for up to 4 guests.",
+    "descriptionSource": "https://www.mvvacationrentals.com/property/peota",
+    "descriptionBasis": "Source-based paraphrase of explicit unit location/capacity/bed/bath facts; headline retained separately.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 2.0,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Per-unit occupancy4,bedrooms2,fullbaths2,halfbaths0. No campus/operator totals transferred.",
+      "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+      "petsDetails": "No Pets & No Smoking",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+      "sources": [
+        "https://www.mvvacationrentals.com/property/peota"
+      ],
+      "policySources": [
+        "https://www.mvvacationrentals.com/property/peota",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+      ]
+    },
+    "fullBathrooms": 2,
+    "halfBathrooms": 0,
+    "minimumStay": {
+      "days": 7,
+      "source": "https://www.mvvacationrentals.com/property/peota"
+    },
+    "notes": "Office and mailing addresses kept separate from unit location. Owner Policies read per property; shared process policy is agency-wide.",
+    "policyContexts": [
+      "No Pets & No Smoking"
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+    "photoCandidates": [
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "alt": "peota21-exterior3.jpg",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "alt": "peota21-exterior1.jpg",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "alt": "peota21-exterior7.jpg",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior5.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "alt": "peota21-exterior5.jpg",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1704-cover.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "role": "cover",
+        "sha256": "0207e2a4b971bb883148cffe57460a75f545541dc03312608bdc288c4949bd1b",
+        "originalSha256": "30dd67c1607ec3ae4c01c96b010919211b0baa53ede2e0a7008edf0f5412b0e1",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1704-000.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "role": "additional",
+        "sha256": "39274d4d7368854d27a84464b618f9e499fea858ac567225ff5025e79bd69303",
+        "originalSha256": "365414315779568fd9a0c27ff31e552443420379aa8157c4e15aa5e9e9e44df5",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1704-001.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "role": "additional",
+        "sha256": "826c191439044cada42c48fd4214e43aac3b60a6bf7781f52222eb13da336781",
+        "originalSha256": "6942382f4e1352b0f81d93cacb076a543cc11bc12917849443f0f1b7aa0bf84d",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1704-002.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/peota21-exterior5.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/peota",
+        "role": "additional",
+        "sha256": "e64e718c4d0375aa584ddaca55b3c598db9a68772487923062ccbea555ba7a81",
+        "originalSha256": "27b413617c821d15a2cede8180923987eda3427716199a615e950a683ce7677d",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PEOTA only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact rental street/ZIP not publicly disclosed",
+      "Explicit child policy absent"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct captured MVVR property code and current unit gallery; no explicit compound overlap observed in expanded descriptions.",
+      "crossBatchCheck": "No matching exact own property URL or photo URL/hash in other saved MA batches; office address was not used for unit deduplication."
+    },
+    "policyAudit": {
+      "id": "MA-1704",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.mvvacationrentals.com/property/peota",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+        "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35905&url=https%3A//www.mvvacationrentals.com/property/peota"
+      ],
+      "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+      "pets": "No",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "Owner Policies",
+          "text": "No Pets & No Smoking",
+          "source": "https://www.mvvacationrentals.com/property/peota"
+        }
+      ],
+      "restrictions": [
+        "No Pets & No Smoking",
+        "Minimum stay7days"
+      ],
+      "noneFound": [
+        "Explicit child admission policy"
+      ],
+      "conflicts": [],
+      "applicability": "PEOTA only; shared MVVR leasing-process policy applies across operator rentals."
+    },
+    "headlineSummary": "Water-view home in Water View Farms",
+    "photoScopeVerified": true,
+    "photoStatus": "Four genuine same-property source photos saved and contact sheet visually reviewed"
+  },
+  {
+    "id": "MA-1705",
+    "name": "MVVR CLARO — Oak Bluffs",
+    "website": "https://www.mvvacationrentals.com/property/claro",
+    "city": "Oak Bluffs",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened named local-operator MA accommodation, individual Owner Policies and expanded information, actual property-prefilled direct inquiry; shared official Contact and Rental Policies checked.",
+    "classification": "individual vacation rental",
+    "recordType": "property",
+    "type": "vacation rental",
+    "operatorName": "Martha’s Vineyard Vacation Rentals & Sales",
+    "operatorEvidenceUrl": "https://www.mvvacationrentals.com/contact-us",
+    "parentOperatorId": "MA-0121",
+    "sourceUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "originalCatalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+    "discoveryMethod": "Existing captured own catalog; assigned exact published URL only",
+    "openedUrls": [
+      "https://www.mvvacationrentals.com/property/claro",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=31246&url=https%3A//www.mvvacationrentals.com/property/claro",
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+    ],
+    "contactPagesChecked": [
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/property/claro"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "107 Beach Road, Suite102",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us",
+      "notes": "Official Contact publishes107BeachRoad and POBox1207; footer addsSuite102. Office/contact address only, never rental entrance."
+    },
+    "mailingAddress": {
+      "role": "mailing address",
+      "street": "PO Box1207",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us"
+    },
+    "rentalAddress": {
+      "role": "partial individual rental location",
+      "street": "Unknown",
+      "city": "Oak Bluffs",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.mvvacationrentals.com/property/claro",
+      "notes": "Property town published; no exact rental street/ZIP on checked unit,Contact or direct-inquiry pages."
+    },
+    "contactPhone": "+15086937711",
+    "contactEmail": "info@mvvacationrentals.com",
+    "bookingMethod": "Actual unit-specific direct inquiry opened and Properties field verified prefilled; telephone/email also published. Shared policy says no online booking. No submission.",
+    "bookingUrl": "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=31246&url=https%3A//www.mvvacationrentals.com/property/claro",
+    "inquiryPrefillEvidence": "CLARO (31246)",
+    "description": "Oak Bluffs vacation rental with 4 bedrooms and 3.5 bathrooms, advertised for up to 8 guests.",
+    "descriptionSource": "https://www.mvvacationrentals.com/property/claro",
+    "descriptionBasis": "Source-based paraphrase of explicit unit location/capacity/bed/bath facts; headline retained separately.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Per-unit occupancy8,bedrooms4,fullbaths3,halfbaths1. No campus/operator totals transferred.",
+      "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+      "petsDetails": "No Pets & No Smoking",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+      "sources": [
+        "https://www.mvvacationrentals.com/property/claro"
+      ],
+      "policySources": [
+        "https://www.mvvacationrentals.com/property/claro",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+      ]
+    },
+    "fullBathrooms": 3,
+    "halfBathrooms": 1,
+    "minimumStay": {
+      "days": 7,
+      "source": "https://www.mvvacationrentals.com/property/claro"
+    },
+    "notes": "Office and mailing addresses kept separate from unit location. Owner Policies read per property; shared process policy is agency-wide.",
+    "policyContexts": [
+      "No Pets & No Smoking"
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+    "photoCandidates": [
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "alt": "claro25-exterior1.jpg",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior6.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "alt": "claro25-exterior6.jpg",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "alt": "claro25-exterior7.jpg",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior4.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "alt": "claro25-exterior4.jpg",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "scope": "Observed full property_details image after clicking fourth current-unit thumbnail; no recommendation photos"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-1705-cover.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "role": "cover",
+        "sha256": "e3e6690a46c8f45cb2cd058a6f9ffc787aab8bb15b0e86cbda70af06e471cf6b",
+        "originalSha256": "3c0da7f0a23c7e011532733a0f797201df8c61c581945d66b66736db593f9692",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1705-000.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior6.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "role": "additional",
+        "sha256": "8eb3080f6e3cc6ead445e08b43dd291caeb6ec9d6317ab4f3c03aad5123fd402",
+        "originalSha256": "e7e3ac695d820f4219bfd1535ebfdbe30c269362112f827d16d80fafc9b5fce5",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1705-001.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "role": "additional",
+        "sha256": "1f63e98a59366e3f756f2fd8dc2eb74f8aaf18155d91914474555a51acc74165",
+        "originalSha256": "9906c99f06f0f36e40736d8a8e616c3eb8d8e7aa55f3adea680fa533d880dd81",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      },
+      {
+        "file": "images/MA-1705-002.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/claro25-exterior4.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/claro",
+        "role": "additional",
+        "sha256": "d25bc65bbb177c7c2b30512611c9001477e9e3bde25195aafa4e16154c764d26",
+        "originalSha256": "b294ac20f97ce197ee79c0836a7ca1b791f15361d9f47487839c875a6924dc46",
+        "originalWidth": 900,
+        "originalHeight": 600,
+        "width": 720,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "CLARO only; current individual gallery",
+        "compression": "Proportional maximum800px; WebP quality72",
+        "originalHashScope": "Downloaded bytes from recorded observed asset URL; not camera original.",
+        "verifiedForProperty": true,
+        "visualReview": "Saved five-property contact sheet inspected2026-10-26: source photographs of the identified property/exterior/setting; no cross-rental mixing.",
+        "derivativeQuality": 72,
+        "maxDimension": 800,
+        "webDerivative": "Proportional max720px WebP quality64; original prior derivative retained in ignored research cache; no crop or content changes"
+      }
+    ],
+    "remainingGaps": [
+      "Exact rental street/ZIP not publicly disclosed",
+      "Explicit child policy absent"
+    ],
+    "accessFailures": [],
+    "dedupe": {
+      "status": "Distinct captured MVVR property code and current unit gallery; no explicit compound overlap observed in expanded descriptions.",
+      "crossBatchCheck": "No matching exact own property URL or photo URL/hash in other saved MA batches; office address was not used for unit deduplication."
+    },
+    "policyAudit": {
+      "id": "MA-1705",
+      "checkedOn": "2026-10-26",
+      "checkedUrls": [
+        "https://www.mvvacationrentals.com/property/claro",
+        "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+        "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=31246&url=https%3A//www.mvvacationrentals.com/property/claro"
+      ],
+      "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+      "pets": "No",
+      "kids": "Unknown",
+      "supportingText": [
+        {
+          "topic": "Owner Policies",
+          "text": "No Pets & No Smoking",
+          "source": "https://www.mvvacationrentals.com/property/claro"
+        }
+      ],
+      "restrictions": [
+        "No Pets & No Smoking",
+        "Minimum stay7days"
+      ],
+      "noneFound": [
+        "Explicit child admission policy"
+      ],
+      "conflicts": [],
+      "applicability": "CLARO only; shared MVVR leasing-process policy applies across operator rentals."
+    },
+    "headlineSummary": "Contemporary farmhouse with screened porch and deck",
+    "photoScopeVerified": true,
+    "photoStatus": "Four genuine same-property source photos saved and contact sheet visually reviewed"
+  }
+]

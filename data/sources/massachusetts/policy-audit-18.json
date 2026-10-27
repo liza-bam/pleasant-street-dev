@@ -1,0 +1,55 @@
+[
+  {
+    "id": "MA-1413",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://dennisseashores.com/contactus.aspx",
+      "https://dennisseashores.com/content/rental-information.aspx",
+      "https://dennisseashores.com/content/terms-and-conditions.aspx"
+    ],
+    "policyStatus": "Official policy review completed",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": {
+      "pets": "We do not allow pets in the cottages or on the property.",
+      "kids": "Please include number of people in group, including children(unless in a crib)."
+    },
+    "restrictions": [
+      "Children included in occupancy unless in a crib.",
+      "Summer weekly rentals; shorter off-season stays.",
+      "Smoke-free cottages/grounds/beach."
+    ],
+    "sources": {
+      "pets": "https://dennisseashores.com/content/rental-information.aspx",
+      "kids": "https://dennisseashores.com/contactus.aspx"
+    },
+    "conflicts": []
+  },
+  {
+    "id": "MA-1434",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://253oldwharf.com/faqs",
+      "https://253oldwharf.com/contact",
+      "https://253oldwharf.com/"
+    ],
+    "policyStatus": "Official FAQ review completed",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": {
+      "pets": "Due to severe allergies we cannot permit animals of any kind.",
+      "kids": "Maximum16 Guests. Maximum14 adults. Children of all ages are counted as a guest."
+    },
+    "restrictions": [
+      "Signing renter minimum28and must remain staying at property.",
+      "Only registered overnight guests permitted; no parties/weddings/gatherings/day visitors.",
+      "Maximum6vehicles.",
+      "No smoking anywhere including beach."
+    ],
+    "sources": {
+      "pets": "https://253oldwharf.com/faqs",
+      "kids": "https://253oldwharf.com/faqs"
+    },
+    "conflicts": []
+  }
+]

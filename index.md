@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-823 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+878 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -7229,23 +7229,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
 - Website (book here, directly with the host): https://mvyvacations.com/listing/marthas-vineyard-house/
 
-## Martha’s Vineyard Vacation Rentals and Sales
-
-- ID: MA-0121
-- Town / area (approximate map location): Vineyard Haven, MA
-- Type: Unknown
-- Description: Local vacation rental agency offering homes across Martha’s Vineyard.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: Unknown
-- Pets welcome: Conditional; check unit policy
-- Children policy: No portfolio-wide child/infant agepolicy found inRentalPolicies orENGLJownerrules.
-- Pet policy: Martha's Vineyard Rentals that Allow Pets; Owner Policies: No Pets Petpermissionvariesbyowner/listing; dedicatedpetcatalogavailable; RepresentativephotoestateENGLJ prohibits pets; do notapplytoallportfolio
-- Website (book here, directly with the host): https://www.mvvacationrentals.com/
-
 ## MARY'S LAKEVIEW - LIMIT 10
 
 - ID: ME-0558
@@ -7708,6 +7691,856 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://stowerentalhomes.com/
+
+## MVVR AGARH — Edgartown
+
+- ID: MA-1502
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown waterfront estate with heated pool, hot tub and carriage-house suite; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: 6.5
+- Sleeps: Own property detail: occupancy limit12, bedrooms7, full baths6, half baths1. Scope: Main home and carriage-house suite campus. Description welcomes extended families and describes a children’s room, but no explicit child admission policy is published.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD35,000–50,000. These are not nightly rates or a date-specific availability quote. Catalog summary USD35,000–50,000 differs from displayed June–September2027 weekly cells reachingUSD65,000; numeric from-price remains Unknown.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/agarh
+
+## MVVR ANGEB — Edgartown
+
+- ID: MA-1520
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown village farmhouse retreat with guest quarters, wraparound deck, outdoor great room and bluestone patio.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms6, full baths4, half baths1. Scope: Main home and carriage guest-quarters campus. Six-bedroom count includes den/office with deluxe sofabed and two bedrooms over carriage house. Amenities/Features headings had no additional populated entries. Pets require case-by-case approval; fee unspecified.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Pet Friendly on a case by case basis, No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/angeb
+
+## MVVR BETTD — Edgartown
+
+- ID: MA-1545
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown five-bedroom retreat with heated pool and covered porch, within walking distance of the village.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths4, half bathsUnknown. Scope: Single home. Four full baths published; half-bath field blank. Seasonal pool heat surcharge may apply.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD10600 to USD23500; no nightly rate conversion.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/bettd
+
+## MVVR BETTE — Edgartown
+
+- ID: MA-1533
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown four-bedroom gambrel home with heated pool, bluestone patio and outdoor dining near town.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms4, full baths3, half baths1. Scope: Single home. Owner policy prohibits pets; no smoking policy stated in the owner line. Do not transfer other homes smoking rules.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,600–24,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/bette
+
+## MVVR BOWKW — Edgartown
+
+- ID: MA-1703
+- Town / area (approximate map location): Edgartown, MA
+- Type: Unknown
+- Description: Edgartown vacation rental with 3 bedrooms and 2.5 bathrooms, advertised for up to 6 guests.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Per-unit occupancy6,bedrooms3,fullbaths2,halfbaths1. No campus/operator totals transferred.
+- Price: Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/bowkw
+
+## MVVR BROSP — Edgartown
+
+- ID: MA-1535
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown six-bedroom home with heated pool, landscaped grounds and a separate guest suite above the garage.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 5.5
+- Sleeps: Own property detail: occupancy limit12, bedrooms6, full baths5, half baths1. Scope: Main home and garage guest-suite campus. First body capture missed owner-policy text while loading; fresh loaded detail read verified NoPets/NoSmoking and full expanded facts. Five main-house bedrooms plus one garage guest suite are included as one offer.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD7,500–26,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/brosp
+
+## MVVR CALWM — Oak Bluffs
+
+- ID: MA-1527
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: House
+- Description: Oak Bluffs six-bedroom home in The Preserve with heated saltwater pool, screened porch and propane fire pit.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 6.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms6, full baths5, half baths3. Scope: Single home. Owner policies prohibit pets and smoking; no child admission rule found.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD17,000–32,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/calwm
+
+## MVVR CARDA — Chilmark
+
+- ID: MA-1522
+- Town / area (approximate map location): Chilmark, MA
+- Type: House
+- Description: Chilmark five-bedroom home on a high knoll with Atlantic views, gardens and a hot tub.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths4, half baths1. Scope: Single home. Tree swings are described for children, but child admission ages/rules are not explicit. Seven-night minimum.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD18,500–25,750. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/carda
+
+## MVVR CAS65 — West Tisbury
+
+- ID: MA-1521
+- Town / area (approximate map location): West Tisbury, MA
+- Type: House
+- Description: West Tisbury main and guest-house retreat with heated pool, outdoor living area and pond access.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4
+- Sleeps: Own property detail: occupancy limit8, bedrooms4, full baths4, half baths0. Scope: Main and guest-house campus. June–October describes availability, not a minimum stay. Children bedroom and nearby family beaches described, but no explicit child admission rule.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD19,000–26,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/cas65
+
+## MVVR CHOAY — Edgartown
+
+- ID: MA-1528
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown four-bedroom home with heated pool, pickleball court and multiple living spaces; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit9, bedrooms4, full baths4, half baths1. Scope: Single home. Full4 plus half1 bath agrees with4.5-bath feature heading.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD12,000–25,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/choay
+
+## MVVR CLARO — Oak Bluffs
+
+- ID: MA-1705
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: Unknown
+- Description: Oak Bluffs vacation rental with 4 bedrooms and 3.5 bathrooms, advertised for up to 8 guests.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Per-unit occupancy8,bedrooms4,fullbaths3,halfbaths1. No campus/operator totals transferred.
+- Price: Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/claro
+
+## MVVR COM27 — Edgartown
+
+- ID: MA-1503
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown six-bedroom retreat with heated pool, spa, outdoor kitchen and furnished pool house; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 6.5
+- Sleeps: Own property detail: occupancy limit12, bedrooms6, full baths5, half baths3. Scope: Single home with amenity pool house. Pool house is described as an amenity, not a separately counted rental.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD25,000–47,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/com27
+
+## MVVR COS67 — Vineyard Haven
+
+- ID: MA-1532
+- Town / area (approximate map location): Vineyard Haven, MA
+- Type: House
+- Description: Vineyard Haven three-bedroom home with bluestone dining patio, grill and landscaped yard on a quiet street.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3.5
+- Sleeps: Own property detail: occupancy limit7, bedrooms3, full baths3, half baths1. Scope: Single home. No child admission rules published; published weekly calendar prices vary by season.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD6,000–24,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/cos67
+
+## MVVR DESAM — Edgartown
+
+- ID: MA-1505
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown main and guest-house compound with heated pool, cabana and hot tub; two-week minimum.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 7
+- Sleeps: Own property detail: occupancy limit12, bedrooms6, full baths6, half baths2. Scope: Main and guest-house compound campus. Two-week minimum explicitly stated. Main and guest house are one combined accommodation offer.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD45,000–45,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking; 2 week stay required
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/desam
+
+## MVVR ENGLJ — Chilmark
+
+- ID: MA-1501
+- Town / area (approximate map location): Chilmark, MA
+- Type: House
+- Description: Chilmark estate with main and guest houses, an infinity pool and Atlantic views; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 5.5
+- Sleeps: Own property detail: occupancy limit12, bedrooms6, full baths5, half baths1. Scope: Main and guest-house estate campus. Guest cottage is included; do not split it into an extra rental. No explicit child admission rule found.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD30,000–55,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/englj
+
+## MVVR FINNM — Edgartown
+
+- ID: MA-1509
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown five-bedroom home with heated saltwater pool and multiple living areas near Fuller Street Beach.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 5.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths5, half baths1. Scope: Single home. Full and half bath fields are recorded separately; no child admission policy published.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD25000 to USD40000. Published seasonal calendar weekly values: USD25,000–40,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/finnm
+
+## MVVR GREJN — Vineyard Haven
+
+- ID: MA-1518
+- Town / area (approximate map location): Vineyard Haven, MA
+- Type: House
+- Description: West Chop five-bedroom home in Vineyard Haven with heated pool, landscaped yard and modern living spaces.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths5, half bathsUnknown. Scope: Single home. Two gallery assets explicitly named AI edits were excluded from authentic-photo set; selected other observed photographs. Exact street not inferred from asset filenames. Full5 baths published; half-bath field blank.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD18,000–30,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/grejn
+
+## MVVR HARSY — Edgartown
+
+- ID: MA-1539
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown four-bedroom home with heated pool, spa and multiple living areas; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit10, bedrooms4, full baths3, half baths2. Scope: Single home. Bathroom conflict: header and bath description3full+2half imply4total; feature heading says3.5baths. No explicit correction, normalized bathrooms Unknown.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD7,500–25,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/harsy
+
+## MVVR HERGT — Chilmark
+
+- ID: MA-1536
+- Town / area (approximate map location): Chilmark, MA
+- Type: House
+- Description: Chilmark four-bedroom retreat with heated pool, pavilion, gardens and key access to private Quansoo Beach.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Own property detail: occupancy limit8, bedrooms4, full baths3, half baths1. Scope: Single home. Pool pavilion is an amenity; private beach key access published. Seven-night minimum.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–23,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/hergt
+
+## MVVR HODGE — Vineyard Haven
+
+- ID: MA-1543
+- Town / area (approximate map location): Vineyard Haven, MA
+- Type: House
+- Description: Vineyard Haven six-bedroom lagoonfront retreat with private sandy beach area, dock and waterfront patio.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 5.5
+- Sleeps: Own property detail: occupancy limit12, bedrooms6, full baths5, half baths1. Scope: Waterfront home described as family compound; component count not asserted. Private dock/mooring use and bringing a boat require owner approval; do not present unrestricted dock access.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD8500 to USD25500; no nightly rate conversion.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/hodge
+
+## MVVR HOL14 — Oak Bluffs
+
+- ID: MA-1544
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: House
+- Description: Oak Bluffs four-bedroom waterfront home on the lagoon with porch seating and sunset views; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit8, bedrooms4, full baths4, half baths1. Scope: Single home. Dogs must weigh under30lbs and have owner permission. Exact additional security depositUSD1500 and pet cleaning feeUSD200 published.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD5000 to USD22000; no nightly rate conversion.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Dogs under 30 lbs Permitted with Owner Permission with additional security deposit ($1500) & cleaning fee ($200 ). No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/hol14
+
+## MVVR KOPF3 — Edgartown
+
+- ID: MA-1511
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Casa Katama compound with main and guest houses, heated pool, pool house, hot tub and entertainment areas.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 8.5
+- Sleeps: Own property detail: occupancy limit16, bedrooms6, full baths8, half baths1. Scope: Main and guest-house compound campus. Dogs require approval; fee and size/count restrictions not stated. Text describes children/teen suites and toddler play area, without explicit child admission rules. Filename contains a street address but is not used as address evidence.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD35,000–40,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Dogs Permitted upon Approval, No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/kopf3
+
+## MVVR LEEDB — West Tisbury
+
+- ID: MA-1514
+- Town / area (approximate map location): West Tisbury, MA
+- Type: House
+- Description: West Tisbury five-bedroom home in Deep Bottom with heated saltwater pool, spa, deck and association tennis.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 5.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths5, half baths1. Scope: Single home. Full5 plus half1 bath agrees with5.5-bath feature heading. No child admission rule published.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD24,000–32,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/leedb
+
+## MVVR LYDOA — Katama
+
+- ID: MA-1513
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Katama four-bedroom home with heated pool, spa and indoor/outdoor lounge areas between town and South Beach.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 5
+- Sleeps: Own property detail: occupancy limit10, bedrooms4, full baths4, half baths2. Scope: Single home. Published7-night minimum applies July and August; other dates require inquiry. Do not apply that minimum year round.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD14,000–32,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/lydoa
+
+## MVVR MACEE — Edgartown
+
+- ID: MA-1529
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Katama-area three-bedroom contemporary home with heated pool, near South Beach and Edgartown village.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Own property detail: occupancy limit8, bedrooms3, full baths2, half baths1. Scope: Single home. Header states14-day minimum without scope; owner note specifies August weeks. Confirm other months with agent. Owner advertises room-tax exemption; not independently established.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD25,000–25,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Smoking & No Pets; Two-week minimum stay required August weeks
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/macee
+
+## MVVR MACMA — Edgartown
+
+- ID: MA-1523
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown four-bedroom contemporary home with heated pool, patio and lawn near the village center.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms4, full baths3, half baths1. Scope: Single home. Two pull-out trundle sections are suitable for children/teens, not adults. Capacity10 is published but this bed-use restriction remains. No explicit child admission rule.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–25,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/macma
+
+## MVVR MAL68 — Edgartown
+
+- ID: MA-1506
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown main and guest-house compound with a heated pool, patio and village beach access.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit14, bedroomsUnknown, full bathsUnknown, half bathsUnknown. Scope: Main and guest-house compound campus. Conflicting unit facts: header5 bedrooms/4 full+1half bath; description7 bedrooms/5.5baths and bath description5full+1half. Normalized bedrooms and bathrooms Unknown. Describes N Water Street without a house number.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD25000 to USD50000. Published seasonal calendar weekly values: USD25,000–50,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/mal68
+
+## MVVR MALFC — Katama
+
+- ID: MA-1510
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Katama main and guest carriage-house retreat with a heated pool, landscaped yard and outdoor dining.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit9, bedrooms5, full baths4, half baths1. Scope: Main and guest carriage-house campus. Availability May–October is seasonal availability, not a minimum stay. Pets require approval and additional unspecified fees.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD20000 to USD40000. Published seasonal calendar weekly values: USD20,000–40,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/malfc
+
+## MVVR MAN15 — Edgartown
+
+- ID: MA-1531
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown village five-bedroom home with heated pool, poolside spa and multiple indoor/outdoor lounge areas.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit8, bedrooms5, full baths4, half baths1. Scope: Single home. Published occupancy8, despite5bedrooms; do not infer10from bed count.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD25,000–32,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/man15
+
+## MVVR MANNB — Katama
+
+- ID: MA-1542
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Katama four-bedroom home with heated pool, deck and screened porch between Edgartown village and South Beach.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms4, full baths4, half baths1. Scope: Single home. Bedroom includes King plus2built-in bunks described as childrens bedroom; no explicit admission rule. Pool heat charges vary by exact shoulder-season week.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD7250 to USD24500; no nightly rate conversion.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/mannb
+
+## MVVR MOR12 — Edgartown
+
+- ID: MA-1512
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown three-bedroom luxury home with heated saltwater pool, spa, outdoor kitchen and pickleball court.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 5
+- Sleeps: Own property detail: occupancy limit6, bedrooms3, full baths4, half baths2. Scope: Single home. Owner policy prohibits smoking but does not address pets; expanded amenities and shared policy also lack a pet rule. Pets Unknown.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD21,000–36,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/mor12
+
+## MVVR MORS2 — Light House, Edgartown
+
+- ID: MA-1517
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Light House, a four-bedroom harborfront home in a two-house Edgartown campus near village beaches.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit8, bedrooms4, full baths4, half bathsUnknown. Scope: Light House individually rented home in shared two-house campus. One specific home in a shared two-house compound; do not count both campus buildings as included. MORS4 may be related; retain overlap review. One gallery campus photo has MORS4 filename and is labeled shared-campus exterior, not a separate-unit interior.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–30,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/mors2
+
+## MVVR MORS4 — Ferry House, Edgartown
+
+- ID: MA-1526
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Ferry House, a three-bedroom harborfront home in a two-house Edgartown campus near village beaches.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit6, bedrooms3, full baths3, half bathsUnknown. Scope: Ferry House individually rented home in shared two-house campus. Distinct named Ferry House offer versus MORS2 Light House; their arrows identify separate physical houses. Shared campus exteriors are retained with scope labels; no interiors transferred.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–25,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/mors4
+
+## MVVR NADE5 — Edgartown
+
+- ID: MA-1507
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown seven-bedroom waterfront home with heated saltwater pool, spa and screened porch.
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit14, bedrooms7, full baths7, half baths2. Scope: Single home. Header7full+2half baths conflicts with prose5en-suite bedrooms and2sharing1bath, which implies6full. Bathroom count requires clarification.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD29000 to USD49000. Published seasonal calendar weekly values: USD29,000–49,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/nade5
+
+## MVVR PAL77 — Edgartown
+
+- ID: MA-1530
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown village five-bedroom home with heated pool and spa, private suites and outdoor lounge areas.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 6
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths5, half baths2. Scope: Single home. Each of5 bedrooms has a private bath;2powder rooms additional. Pool/spa heat feeUSD300perweek published; off-season conditions differ.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD14,000–25,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking; 2 week minimum stay required
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/pal77
+
+## MVVR PEDLF — West Tisbury
+
+- ID: MA-1541
+- Town / area (approximate map location): West Tisbury, MA
+- Type: House
+- Description: West Tisbury four-bedroom retreat with extensive stonework, heated pool, patio and screened porch.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit8, bedrooms4, full baths4, half bathsUnknown. Scope: Single home. Bathroom conflict: header4full with blank half count; feature heading5baths. Normalized bathrooms Unknown.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD18500 to USD22500; no nightly rate conversion.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/pedlf
+
+## MVVR PEOTA — Oak Bluffs
+
+- ID: MA-1704
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: Unknown
+- Description: Oak Bluffs vacation rental with 2 bedrooms and 2.0 bathrooms, advertised for up to 4 guests.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Per-unit occupancy4,bedrooms2,fullbaths2,halfbaths0. No campus/operator totals transferred.
+- Price: Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/peota
+
+## MVVR PHOUE — Vineyard Haven
+
+- ID: MA-1702
+- Town / area (approximate map location): Vineyard Haven, MA
+- Type: Unknown
+- Description: Vineyard Haven vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 7 guests.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Per-unit occupancy7,bedrooms4,fullbaths2,halfbaths0. No campus/operator totals transferred.
+- Price: Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/phoue
+
+## MVVR RANSW — Edgartown
+
+- ID: MA-1508
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown harborfront home with heated pool, bluestone patio and wraparound decks; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 6.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths6, half baths1. Scope: Single home. Published bed types differ between bedroom list and prose; maximum10 and5bedrooms agree.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD18000 to USD60000. Published seasonal calendar weekly values: USD18,000–60,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/ransw
+
+## MVVR ROGLM — Edgartown
+
+- ID: MA-1538
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Katama-area four-bedroom coastal home with saltwater pool and spa, under a mile from South Beach.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms4, full baths3, half baths1. Scope: Single home. Published gallery also includes roglm26-rendering.jpg. It remains a separate observed rendering candidate, not evidence of current built appearance. Four other actual interior photographs selected.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD7,000–23,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/roglm
+
+## MVVR ROSBE — Edgartown
+
+- ID: MA-1540
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown Oyster Pond estate with main home, carriage-house guest suite, heated pool and landscaped grounds.
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: 5.5
+- Sleeps: Own property detail: occupancy limit14, bedrooms7, full baths5, half baths1. Scope: Main home and carriage guest-suite campus. Seven bedrooms span main home and guest suite above carriage house, one combined offer. Pets require case-by-case approval; conditions unspecified.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD14,000–27,500. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Pet Friendly on a case by case basis, No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/rosbe
+
+## MVVR SHEMI — Edgartown
+
+- ID: MA-1701
+- Town / area (approximate map location): Edgartown, MA
+- Type: Unknown
+- Description: Edgartown vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 8 guests.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Per-unit occupancy8,bedrooms4,fullbaths2,halfbaths0. No campus/operator totals transferred.
+- Price: Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/shemi
+
+## MVVR SIMOA — Edgartown
+
+- ID: MA-1537
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown four-bedroom village home with saltwater pool and spa, near shops, dining and harbor.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Own property detail: occupancy limit8, bedrooms4, full baths4, half bathsUnknown. Scope: Single home. Full4baths published; half-bath field blank. Shoulder-season pool/spa heat requires surcharge.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD12,000–23,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/simoa
+
+## MVVR SMAP6 — Oak Bluffs
+
+- ID: MA-1515
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: House
+- Description: Oak Bluffs compound in The Preserve with heated pool, landscaped grounds and multiple lounge areas.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 6
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths5, half baths2. Scope: Combined compound campus. Own feature title identifies compound; retain one combined offer pending any separately marketed component overlap.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD17,500–32,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/smap6
+
+## MVVR SUDRL — Chilmark
+
+- ID: MA-1525
+- Town / area (approximate map location): Chilmark, MA
+- Type: House
+- Description: Chilmark waterfront main and guest-house retreat with Vineyard Sound views and private association beach access.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3.5
+- Sleeps: Own property detail: occupancy limit8, bedrooms5, full baths3, half baths1. Scope: Main and guest-house campus. Main and guest house form one offer. Own description says private Spring Point Beach about150yards away.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD15,000–25,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/sudrl
+
+## MVVR TAYLC — Oak Bluffs
+
+- ID: MA-1524
+- Town / area (approximate map location): Oak Bluffs, MA
+- Type: House
+- Description: Oak Bluffs five-bedroom home in The Preserve with heated pool and indoor/outdoor entertainment spaces.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 4.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths4, half baths1. Scope: Single home. Spa is normally the same temperature as pool, jets off. Owner activation requires extra fee; not an unrestricted included hot tub.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD12,500–30,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/taylc
+
+## MVVR WALSJ — Edgartown
+
+- ID: MA-1534
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown four-bedroom village home with heated saltwater pool and pool cabana/office; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2.5
+- Sleeps: Own property detail: occupancy limit8, bedrooms4, full baths2, half baths1. Scope: Single home with amenity cabana. Cabana is described as office/amenity space, not a separate rental.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD22,000–24,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/walsj
+
+## MVVR WEEKW — Edgartown
+
+- ID: MA-1519
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Edgartown seven-bedroom home with pool, manicured grounds and covered outdoor seating; seven-night minimum.
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: 6.5
+- Sleeps: Own property detail: occupancy limit12, bedrooms7, full baths6, half baths1. Scope: Single home. No child admission rule published after expanded detail and shared policy review.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,500–35,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/weekw
+
+## MVVR WINGR — Chilmark
+
+- ID: MA-1504
+- Town / area (approximate map location): Chilmark, MA
+- Type: House
+- Description: Chilmark five-bedroom home with ocean views, wraparound decks and private association beach access.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 5
+- Sleeps: Own detail publishes occupancy10, bedrooms5 and full baths5; half-bath field is blank, so additional half baths are Unknown.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD30,000–45,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: Pet Friendly on a case-by-case basis (additional $100 per pet cleaning fee), No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/wingr
+
+## MVVR YAEGM — Katama
+
+- ID: MA-1516
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Katama five-bedroom home with large heated pool, pool house and patio between the village and South Beach.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 6.5
+- Sleeps: Own property detail: occupancy limit10, bedrooms5, full baths6, half baths1. Scope: Single home with amenity pool house. Two-week minimum applies July weeks only; other dates Unknown. Description includes a children/teen bedroom, without explicit admission rules.
+- Price: Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD27,000–32,000. These are not nightly rates or a date-specific availability quote.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.
+- Pet policy: No Pets & No Smoking
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/property/yaegm
 
 ## Mystic Nights
 
@@ -9682,6 +10515,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://seaacrescottages.com
 
+## Sea Bird Suite
+
+- ID: MA-1302
+- Town / area (approximate map location): Marblehead, MA
+- Type: Apartment
+- Description: Old Town Marblehead apartment with a queen bedroom, kitchenette and clawfoot bath, within walking distance of the harbor.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published per-unit Size and maximum occupancy agree.
+- Price: from 156 USD a night
+- Children welcome: Conditional; check unit policy
+- Pets welcome: no
+- Children policy: Children welcome; not suitable for infants. Primary renter minimum25.
+- Pet policy: Individual House Rules: Pets not allowed.
+- Website (book here, directly with the host): https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x
+
 ## Sea Breeze
 
 - ID: ME-0415
@@ -11002,6 +11852,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Operator-wide policy not established; Sintra dogs with prior approval and fee.
 - Website (book here, directly with the host): https://thecalicoseahorse.com/
 
+## The Captain's Quarters
+
+- ID: MA-1303
+- Town / area (approximate map location): Rockport, MA
+- Type: Apartment
+- Description: Two-bedroom second-floor apartment in the historic Sail Loft on Bearskin Neck, with queen beds, kitchen and a small balcony.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published per-unit Size and maximum occupancy agree.
+- Price: from 162 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children and infants welcome. Primary renter minimum25.
+- Pet policy: Individual House Rules: Pets not allowed.
+- Website (book here, directly with the host): https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x
+
 ## The Cobble House
 
 - ID: VT-0005
@@ -11165,6 +12032,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://thereachinn.com
+
+## The Egret's Nest
+
+- ID: MA-1306
+- Town / area (approximate map location): Marshfield, MA
+- Type: Unknown
+- Description: Renovated three-bedroom Marshfield home with South River marsh views, a sunroom, deck and outdoor shower, near Rexhame Beach.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Home header3bedrooms2fullbaths7guests; House Rules3queens+1twin and maximum7.
+- Price: from 2415 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Matching host James official Houfy property Suitability explicitly says Child friendly. Own House Rules/FAQ checked without separate age statement; no age/infant guarantee inferred.
+- Pet policy: Up to2dogs only, no cats/otherpets; disclosebreed/size atbooking; $125nonrefundable fee per dog perstay, $250refundable pet hold, dogs off furniture/beds.
+- Website (book here, directly with the host): https://driftlinestays.com/
 
 ## The Even’tide Resort & Cottages
 
@@ -11651,6 +12535,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets not permitted; ADA service animals welcome.
 - Website (book here, directly with the host): https://therockporthouse.com/
 
+## The Sailor's Retreat
+
+- ID: MA-1304
+- Town / area (approximate map location): Marblehead, MA
+- Type: Apartment
+- Description: First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen, laundry and private entrance near the harbor.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published per-unit Size and maximum occupancy agree.
+- Price: from 189 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children and infants welcome. Primary renter minimum25.
+- Pet policy: Individual House Rules: Pets not allowed.
+- Website (book here, directly with the host): https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x
+
 ## The Satanic Suite
 
 - ID: MA-0022
@@ -11949,6 +12850,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit staying-child/infant age policy found.
 - Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
 - Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/1282-Boylston-Street-9420
+
+## The Waterline
+
+- ID: MA-1305
+- Town / area (approximate map location): Rockport, MA
+- Type: Apartment
+- Description: Ground-floor harborfront apartment in Rockport’s historic Sail Loft, with two queen bedrooms, full kitchen and a private patio.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published per-unit Size and maximum occupancy agree.
+- Price: from 162 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children and infants welcome. Primary renter minimum25.
+- Pet policy: Individual House Rules: Pets not allowed.
+- Website (book here, directly with the host): https://www.sandybaysuites.com/the-waterline-orp5b5900fx
 
 ## The Whately Inn
 
@@ -13306,6 +14224,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family-size cottages
 - Pet policy: Varies — Parrot, Koze, Mountain View, Garden, Puka Place allow 2 dogs; $50/dog
 - Website (book here, directly with the host): https://woodlandparkcottages.com
+
+## Yachtsman Suite
+
+- ID: MA-1301
+- Town / area (approximate map location): Marblehead, MA
+- Type: Apartment
+- Description: First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen and private entrance near harbor walks.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published per-unit Size and maximum occupancy agree.
+- Price: from 156 USD a night
+- Children welcome: Conditional; check unit policy
+- Pets welcome: no
+- Children policy: Not suitable for children; infants welcome. Primary renter minimum27 is separate.
+- Pet policy: Individual House Rules: Pets not allowed.
+- Website (book here, directly with the host): https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x
 
 ## Yeakey Cottage/ Rutherford Island
 

@@ -1,0 +1,3319 @@
+{
+  "checkedOn": "2026-10-26",
+  "operatorId": "MA-0121",
+  "sourceUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+  "displayedOfferCount": 332,
+  "expectedPages": 23,
+  "pages": [
+    {
+      "page": 0,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals",
+      "codes": [
+        "ENGLJ",
+        "AGARH",
+        "COM27",
+        "WINGR",
+        "DESAM",
+        "MAL68",
+        "NADE5",
+        "RANSW",
+        "FINNM",
+        "MALFC",
+        "KOPF3",
+        "MOR12",
+        "LYDOA",
+        "LEEDB",
+        "SMAP6"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 1,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "codes": [
+        "YAEGM",
+        "MORS2",
+        "GREJN",
+        "WEEKW",
+        "ANGEB",
+        "CAS65",
+        "CARDA",
+        "MACMA",
+        "TAYLC",
+        "SUDRL",
+        "MORS4",
+        "CALWM",
+        "CHOAY",
+        "MACEE",
+        "PAL77"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 2,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "codes": [
+        "MAN15",
+        "COS67",
+        "BETTE",
+        "WALSJ",
+        "BROSP",
+        "HERGT",
+        "SIMOA",
+        "ROGLM",
+        "HARSY",
+        "ROSBE",
+        "PEDLF",
+        "MANNB",
+        "HODGE",
+        "HOL14",
+        "BETTD"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 3,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "codes": [
+        "GARLD",
+        "MONLC",
+        "BELLJ",
+        "WEI33",
+        "THOHP",
+        "DELUP",
+        "COLEB",
+        "CHAVG",
+        "BROWA",
+        "BEG21",
+        "MCCMA",
+        "HUN24",
+        "MUCCJ",
+        "HODGW",
+        "CORSB"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 4,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "codes": [
+        "WALSB",
+        "GLEDE",
+        "HUESC",
+        "NIERM",
+        "WALSP",
+        "NORM2",
+        "EW138",
+        "WOODO",
+        "ROSSP",
+        "LEMAA",
+        "TAVAM",
+        "APOLT",
+        "LINEM",
+        "KAMER",
+        "STEEK"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 5,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "codes": [
+        "WILSL",
+        "GORDM",
+        "CHA22",
+        "BROW2",
+        "POWDA",
+        "ULYPA",
+        "NOENC",
+        "REIDM",
+        "HOSTH",
+        "COHAH",
+        "ZILLK",
+        "KNOXA",
+        "WESTC",
+        "ROBDE",
+        "MILKE"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 6,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "codes": [
+        "WEI81",
+        "CLARA",
+        "KILLY",
+        "MACLS",
+        "MEINT",
+        "BAKE7",
+        "SHAJO",
+        "BROWJ",
+        "WESTD",
+        "SHAN2",
+        "PIN15",
+        "KOR30",
+        "TRASJ",
+        "BAYLM",
+        "WESTW"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 7,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "codes": [
+        "PETEO",
+        "DELOR",
+        "SAGID",
+        "JOSEJ",
+        "MINIB",
+        "CORAG",
+        "BIALS",
+        "DONAK",
+        "PANDC",
+        "ANGE7",
+        "JORED",
+        "MANUC",
+        "BASTS",
+        "PAILB",
+        "KERR4"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 8,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "codes": [
+        "ANGE5",
+        "ROCHA",
+        "HUN28",
+        "RUNYW",
+        "LITRA",
+        "WOODJ",
+        "RANKM",
+        "SHANJ",
+        "CURRM",
+        "FREE2",
+        "GOLDF",
+        "MONVH",
+        "SLAHA",
+        "PEMBT",
+        "NAKAJ"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 9,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "codes": [
+        "ARCAE",
+        "MOORD",
+        "PRIAN",
+        "WHARG",
+        "TESTL",
+        "MONEE",
+        "LEWID",
+        "ARNOS",
+        "CLE20",
+        "BOWDL",
+        "BRANF",
+        "MCGRD",
+        "SET66",
+        "CHAMV",
+        "BURBR"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 10,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "codes": [
+        "SANBG",
+        "QUINJ",
+        "CASHK",
+        "VANAL",
+        "BEAT2",
+        "VANA2",
+        "PE585",
+        "BARNJ",
+        "WEINS",
+        "KINOL",
+        "LONGK",
+        "NORMD",
+        "BICKE",
+        "LECAY",
+        "BLACJ"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 11,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "codes": [
+        "SIM21",
+        "BARTE",
+        "THOMS",
+        "HOD28",
+        "NORTO",
+        "ARMSA",
+        "MCNAB",
+        "DHANM",
+        "ROSSJ",
+        "PIZZD",
+        "ROS22",
+        "BOOND",
+        "BALAR",
+        "BEATM",
+        "STA24"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 12,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "codes": [
+        "WALCN",
+        "LAIOV",
+        "FRISD",
+        "DAWKN",
+        "DAWSJ",
+        "GRILJ",
+        "LISDA",
+        "SAUNJ",
+        "KEAND",
+        "DELOA",
+        "ROBIH",
+        "FRISE",
+        "FRIEM",
+        "KANIR",
+        "LUSKP"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 13,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "codes": [
+        "ADAML",
+        "CARLB",
+        "BORAR",
+        "HARTM",
+        "JOHNL",
+        "SHEMI",
+        "PHOUE",
+        "BOWKW",
+        "PEOTA",
+        "CLARO",
+        "GLOVL",
+        "TAYLJ",
+        "RIORE",
+        "WASHS",
+        "HUSTN"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 14,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "codes": [
+        "JOHNE",
+        "LEVYN",
+        "DENAL",
+        "TOTHG",
+        "COHEC",
+        "LEWDG",
+        "BERNS",
+        "GRATD",
+        "KEANM",
+        "HUT19",
+        "COWAC",
+        "FUSCM",
+        "KOEOB",
+        "THORB",
+        "CLEME"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 15,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "codes": [
+        "WILCM",
+        "CAROB",
+        "THOM3",
+        "SWEEC",
+        "SAVAJ",
+        "DONOP",
+        "MCDOJ",
+        "VOL55",
+        "MCGOK",
+        "WILLD",
+        "SACHE",
+        "PETEV",
+        "GIAMJ",
+        "SPANM",
+        "PIKUT"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 16,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "codes": [
+        "MCKER",
+        "CAH48",
+        "GRADL",
+        "THEOK",
+        "STANJ",
+        "SCHEB",
+        "KRAFM",
+        "FRANL",
+        "NOTOA",
+        "DONVJ",
+        "POHOD",
+        "NIEJE",
+        "WATTL",
+        "BELAT",
+        "ARNOP"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 17,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "codes": [
+        "VANDN",
+        "ROBER",
+        "LODGJ",
+        "FENNB",
+        "GOLLB",
+        "MAYOJ",
+        "OLIVK",
+        "ADELC",
+        "FERGN",
+        "JOHNT",
+        "ALVEN",
+        "KOGAD",
+        "GRUNM",
+        "MILLD",
+        "BURBS"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 18,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "codes": [
+        "ST203",
+        "ST304",
+        "MARCA",
+        "BONEG",
+        "MILTD",
+        "ALLER",
+        "KLEIB",
+        "WEBSL",
+        "HALLL",
+        "BONES",
+        "BONEC",
+        "BONE3",
+        "URMST",
+        "ROLAJ",
+        "KERR3"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 19,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "codes": [
+        "PERRG",
+        "BONEM",
+        "CENCR",
+        "REINJ",
+        "CALLA",
+        "CASED",
+        "MELAF",
+        "GEARP",
+        "DRAPG",
+        "DRAPM",
+        "MERCM",
+        "FISHJ",
+        "RAOMA",
+        "NAIDN",
+        "CENCP"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 20,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "codes": [
+        "COLEL",
+        "LIJOY",
+        "WEISM",
+        "DELLA",
+        "TRAVM",
+        "GAIED",
+        "TERSM",
+        "MONCJ",
+        "MAHAB",
+        "WE122",
+        "INGAE",
+        "LANLL",
+        "KERIB",
+        "MCCAM",
+        "HANRJ"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 21,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "codes": [
+        "NMAKO",
+        "ELLIK",
+        "NEWMJ",
+        "WIL14",
+        "PEALY",
+        "ROSKH",
+        "MAL24",
+        "BURET",
+        "MACFC",
+        "ARONA",
+        "ROB59",
+        "HAZAM",
+        "BELJA",
+        "STEVK",
+        "DUREJ"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    },
+    {
+      "page": 22,
+      "url": "https://www.mvvacationrentals.com/vacation-rentals?page=22",
+      "codes": [
+        "BROVH",
+        "WATSP"
+      ],
+      "method": "Opened the actual catalog page and read rendered property links."
+    }
+  ],
+  "queue": [
+    {
+      "id": "MA-1501",
+      "code": "ENGLJ",
+      "url": "https://www.mvvacationrentals.com/property/englj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1502",
+      "code": "AGARH",
+      "url": "https://www.mvvacationrentals.com/property/agarh",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1503",
+      "code": "COM27",
+      "url": "https://www.mvvacationrentals.com/property/com27",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1504",
+      "code": "WINGR",
+      "url": "https://www.mvvacationrentals.com/property/wingr",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1505",
+      "code": "DESAM",
+      "url": "https://www.mvvacationrentals.com/property/desam",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1506",
+      "code": "MAL68",
+      "url": "https://www.mvvacationrentals.com/property/mal68",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1507",
+      "code": "NADE5",
+      "url": "https://www.mvvacationrentals.com/property/nade5",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1508",
+      "code": "RANSW",
+      "url": "https://www.mvvacationrentals.com/property/ransw",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1509",
+      "code": "FINNM",
+      "url": "https://www.mvvacationrentals.com/property/finnm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1510",
+      "code": "MALFC",
+      "url": "https://www.mvvacationrentals.com/property/malfc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1511",
+      "code": "KOPF3",
+      "url": "https://www.mvvacationrentals.com/property/kopf3",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1512",
+      "code": "MOR12",
+      "url": "https://www.mvvacationrentals.com/property/mor12",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1513",
+      "code": "LYDOA",
+      "url": "https://www.mvvacationrentals.com/property/lydoa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1514",
+      "code": "LEEDB",
+      "url": "https://www.mvvacationrentals.com/property/leedb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1515",
+      "code": "SMAP6",
+      "url": "https://www.mvvacationrentals.com/property/smap6",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1516",
+      "code": "YAEGM",
+      "url": "https://www.mvvacationrentals.com/property/yaegm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1517",
+      "code": "MORS2",
+      "url": "https://www.mvvacationrentals.com/property/mors2",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1518",
+      "code": "GREJN",
+      "url": "https://www.mvvacationrentals.com/property/grejn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1519",
+      "code": "WEEKW",
+      "url": "https://www.mvvacationrentals.com/property/weekw",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1520",
+      "code": "ANGEB",
+      "url": "https://www.mvvacationrentals.com/property/angeb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1521",
+      "code": "CAS65",
+      "url": "https://www.mvvacationrentals.com/property/cas65",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1522",
+      "code": "CARDA",
+      "url": "https://www.mvvacationrentals.com/property/carda",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1523",
+      "code": "MACMA",
+      "url": "https://www.mvvacationrentals.com/property/macma",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1524",
+      "code": "TAYLC",
+      "url": "https://www.mvvacationrentals.com/property/taylc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1525",
+      "code": "SUDRL",
+      "url": "https://www.mvvacationrentals.com/property/sudrl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1526",
+      "code": "MORS4",
+      "url": "https://www.mvvacationrentals.com/property/mors4",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1527",
+      "code": "CALWM",
+      "url": "https://www.mvvacationrentals.com/property/calwm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1528",
+      "code": "CHOAY",
+      "url": "https://www.mvvacationrentals.com/property/choay",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1529",
+      "code": "MACEE",
+      "url": "https://www.mvvacationrentals.com/property/macee",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1530",
+      "code": "PAL77",
+      "url": "https://www.mvvacationrentals.com/property/pal77",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1531",
+      "code": "MAN15",
+      "url": "https://www.mvvacationrentals.com/property/man15",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1532",
+      "code": "COS67",
+      "url": "https://www.mvvacationrentals.com/property/cos67",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1533",
+      "code": "BETTE",
+      "url": "https://www.mvvacationrentals.com/property/bette",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1534",
+      "code": "WALSJ",
+      "url": "https://www.mvvacationrentals.com/property/walsj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1535",
+      "code": "BROSP",
+      "url": "https://www.mvvacationrentals.com/property/brosp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1536",
+      "code": "HERGT",
+      "url": "https://www.mvvacationrentals.com/property/hergt",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1537",
+      "code": "SIMOA",
+      "url": "https://www.mvvacationrentals.com/property/simoa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1538",
+      "code": "ROGLM",
+      "url": "https://www.mvvacationrentals.com/property/roglm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1539",
+      "code": "HARSY",
+      "url": "https://www.mvvacationrentals.com/property/harsy",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1540",
+      "code": "ROSBE",
+      "url": "https://www.mvvacationrentals.com/property/rosbe",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1541",
+      "code": "PEDLF",
+      "url": "https://www.mvvacationrentals.com/property/pedlf",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1542",
+      "code": "MANNB",
+      "url": "https://www.mvvacationrentals.com/property/mannb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1543",
+      "code": "HODGE",
+      "url": "https://www.mvvacationrentals.com/property/hodge",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1544",
+      "code": "HOL14",
+      "url": "https://www.mvvacationrentals.com/property/hol14",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1545",
+      "code": "BETTD",
+      "url": "https://www.mvvacationrentals.com/property/bettd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+      "status": "Verified independent website",
+      "reviewStatus": "Eligibility, policy, four saved photos and visual QA complete"
+    },
+    {
+      "id": "MA-1546",
+      "code": "GARLD",
+      "url": "https://www.mvvacationrentals.com/property/garld",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1547",
+      "code": "MONLC",
+      "url": "https://www.mvvacationrentals.com/property/monlc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1548",
+      "code": "BELLJ",
+      "url": "https://www.mvvacationrentals.com/property/bellj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1549",
+      "code": "WEI33",
+      "url": "https://www.mvvacationrentals.com/property/wei33",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1550",
+      "code": "THOHP",
+      "url": "https://www.mvvacationrentals.com/property/thohp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1551",
+      "code": "DELUP",
+      "url": "https://www.mvvacationrentals.com/property/delup",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1552",
+      "code": "COLEB",
+      "url": "https://www.mvvacationrentals.com/property/coleb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1553",
+      "code": "CHAVG",
+      "url": "https://www.mvvacationrentals.com/property/chavg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1554",
+      "code": "BROWA",
+      "url": "https://www.mvvacationrentals.com/property/browa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1555",
+      "code": "BEG21",
+      "url": "https://www.mvvacationrentals.com/property/beg21",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1556",
+      "code": "MCCMA",
+      "url": "https://www.mvvacationrentals.com/property/mccma",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1557",
+      "code": "HUN24",
+      "url": "https://www.mvvacationrentals.com/property/hun24",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1558",
+      "code": "MUCCJ",
+      "url": "https://www.mvvacationrentals.com/property/muccj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1559",
+      "code": "HODGW",
+      "url": "https://www.mvvacationrentals.com/property/hodgw",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1560",
+      "code": "CORSB",
+      "url": "https://www.mvvacationrentals.com/property/corsb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1561",
+      "code": "WALSB",
+      "url": "https://www.mvvacationrentals.com/property/walsb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1562",
+      "code": "GLEDE",
+      "url": "https://www.mvvacationrentals.com/property/glede",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1563",
+      "code": "HUESC",
+      "url": "https://www.mvvacationrentals.com/property/huesc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1564",
+      "code": "NIERM",
+      "url": "https://www.mvvacationrentals.com/property/nierm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1565",
+      "code": "WALSP",
+      "url": "https://www.mvvacationrentals.com/property/walsp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1566",
+      "code": "NORM2",
+      "url": "https://www.mvvacationrentals.com/property/norm2",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1567",
+      "code": "EW138",
+      "url": "https://www.mvvacationrentals.com/property/ew138",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1568",
+      "code": "WOODO",
+      "url": "https://www.mvvacationrentals.com/property/woodo",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1569",
+      "code": "ROSSP",
+      "url": "https://www.mvvacationrentals.com/property/rossp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1570",
+      "code": "LEMAA",
+      "url": "https://www.mvvacationrentals.com/property/lemaa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1571",
+      "code": "TAVAM",
+      "url": "https://www.mvvacationrentals.com/property/tavam",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1572",
+      "code": "APOLT",
+      "url": "https://www.mvvacationrentals.com/property/apolt",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1573",
+      "code": "LINEM",
+      "url": "https://www.mvvacationrentals.com/property/linem",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1574",
+      "code": "KAMER",
+      "url": "https://www.mvvacationrentals.com/property/kamer",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1575",
+      "code": "STEEK",
+      "url": "https://www.mvvacationrentals.com/property/steek",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=4",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1576",
+      "code": "WILSL",
+      "url": "https://www.mvvacationrentals.com/property/wilsl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1577",
+      "code": "GORDM",
+      "url": "https://www.mvvacationrentals.com/property/gordm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1578",
+      "code": "CHA22",
+      "url": "https://www.mvvacationrentals.com/property/cha22",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1579",
+      "code": "BROW2",
+      "url": "https://www.mvvacationrentals.com/property/brow2",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1580",
+      "code": "POWDA",
+      "url": "https://www.mvvacationrentals.com/property/powda",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1581",
+      "code": "ULYPA",
+      "url": "https://www.mvvacationrentals.com/property/ulypa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1582",
+      "code": "NOENC",
+      "url": "https://www.mvvacationrentals.com/property/noenc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1583",
+      "code": "REIDM",
+      "url": "https://www.mvvacationrentals.com/property/reidm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1584",
+      "code": "HOSTH",
+      "url": "https://www.mvvacationrentals.com/property/hosth",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1585",
+      "code": "COHAH",
+      "url": "https://www.mvvacationrentals.com/property/cohah",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1586",
+      "code": "ZILLK",
+      "url": "https://www.mvvacationrentals.com/property/zillk",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1587",
+      "code": "KNOXA",
+      "url": "https://www.mvvacationrentals.com/property/knoxa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1588",
+      "code": "WESTC",
+      "url": "https://www.mvvacationrentals.com/property/westc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1589",
+      "code": "ROBDE",
+      "url": "https://www.mvvacationrentals.com/property/robde",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1590",
+      "code": "MILKE",
+      "url": "https://www.mvvacationrentals.com/property/milke",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=5",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1591",
+      "code": "WEI81",
+      "url": "https://www.mvvacationrentals.com/property/wei81",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1592",
+      "code": "CLARA",
+      "url": "https://www.mvvacationrentals.com/property/clara",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1593",
+      "code": "KILLY",
+      "url": "https://www.mvvacationrentals.com/property/killy",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1594",
+      "code": "MACLS",
+      "url": "https://www.mvvacationrentals.com/property/macls",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1595",
+      "code": "MEINT",
+      "url": "https://www.mvvacationrentals.com/property/meint",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1596",
+      "code": "BAKE7",
+      "url": "https://www.mvvacationrentals.com/property/bake7",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1597",
+      "code": "SHAJO",
+      "url": "https://www.mvvacationrentals.com/property/shajo",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1598",
+      "code": "BROWJ",
+      "url": "https://www.mvvacationrentals.com/property/browj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1599",
+      "code": "WESTD",
+      "url": "https://www.mvvacationrentals.com/property/westd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1600",
+      "code": "SHAN2",
+      "url": "https://www.mvvacationrentals.com/property/shan2",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1601",
+      "code": "PIN15",
+      "url": "https://www.mvvacationrentals.com/property/pin15",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1602",
+      "code": "KOR30",
+      "url": "https://www.mvvacationrentals.com/property/kor30",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1603",
+      "code": "TRASJ",
+      "url": "https://www.mvvacationrentals.com/property/trasj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1604",
+      "code": "BAYLM",
+      "url": "https://www.mvvacationrentals.com/property/baylm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1605",
+      "code": "WESTW",
+      "url": "https://www.mvvacationrentals.com/property/westw",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=6",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1606",
+      "code": "PETEO",
+      "url": "https://www.mvvacationrentals.com/property/peteo",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1607",
+      "code": "DELOR",
+      "url": "https://www.mvvacationrentals.com/property/delor",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1608",
+      "code": "SAGID",
+      "url": "https://www.mvvacationrentals.com/property/sagid",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1609",
+      "code": "JOSEJ",
+      "url": "https://www.mvvacationrentals.com/property/josej",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1610",
+      "code": "MINIB",
+      "url": "https://www.mvvacationrentals.com/property/minib",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1611",
+      "code": "CORAG",
+      "url": "https://www.mvvacationrentals.com/property/corag",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1612",
+      "code": "BIALS",
+      "url": "https://www.mvvacationrentals.com/property/bials",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1613",
+      "code": "DONAK",
+      "url": "https://www.mvvacationrentals.com/property/donak",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1614",
+      "code": "PANDC",
+      "url": "https://www.mvvacationrentals.com/property/pandc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1615",
+      "code": "ANGE7",
+      "url": "https://www.mvvacationrentals.com/property/ange7",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1616",
+      "code": "JORED",
+      "url": "https://www.mvvacationrentals.com/property/jored",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1617",
+      "code": "MANUC",
+      "url": "https://www.mvvacationrentals.com/property/manuc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1618",
+      "code": "BASTS",
+      "url": "https://www.mvvacationrentals.com/property/basts",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1619",
+      "code": "PAILB",
+      "url": "https://www.mvvacationrentals.com/property/pailb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1620",
+      "code": "KERR4",
+      "url": "https://www.mvvacationrentals.com/property/kerr4",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=7",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1621",
+      "code": "ANGE5",
+      "url": "https://www.mvvacationrentals.com/property/ange5",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1622",
+      "code": "ROCHA",
+      "url": "https://www.mvvacationrentals.com/property/rocha",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1623",
+      "code": "HUN28",
+      "url": "https://www.mvvacationrentals.com/property/hun28",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1624",
+      "code": "RUNYW",
+      "url": "https://www.mvvacationrentals.com/property/runyw",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1625",
+      "code": "LITRA",
+      "url": "https://www.mvvacationrentals.com/property/litra",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1626",
+      "code": "WOODJ",
+      "url": "https://www.mvvacationrentals.com/property/woodj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1627",
+      "code": "RANKM",
+      "url": "https://www.mvvacationrentals.com/property/rankm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1628",
+      "code": "SHANJ",
+      "url": "https://www.mvvacationrentals.com/property/shanj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1629",
+      "code": "CURRM",
+      "url": "https://www.mvvacationrentals.com/property/currm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1630",
+      "code": "FREE2",
+      "url": "https://www.mvvacationrentals.com/property/free2",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1631",
+      "code": "GOLDF",
+      "url": "https://www.mvvacationrentals.com/property/goldf",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1632",
+      "code": "MONVH",
+      "url": "https://www.mvvacationrentals.com/property/monvh",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1633",
+      "code": "SLAHA",
+      "url": "https://www.mvvacationrentals.com/property/slaha",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1634",
+      "code": "PEMBT",
+      "url": "https://www.mvvacationrentals.com/property/pembt",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1635",
+      "code": "NAKAJ",
+      "url": "https://www.mvvacationrentals.com/property/nakaj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=8",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1636",
+      "code": "ARCAE",
+      "url": "https://www.mvvacationrentals.com/property/arcae",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1637",
+      "code": "MOORD",
+      "url": "https://www.mvvacationrentals.com/property/moord",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1638",
+      "code": "PRIAN",
+      "url": "https://www.mvvacationrentals.com/property/prian",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1639",
+      "code": "WHARG",
+      "url": "https://www.mvvacationrentals.com/property/wharg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1640",
+      "code": "TESTL",
+      "url": "https://www.mvvacationrentals.com/property/testl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1641",
+      "code": "MONEE",
+      "url": "https://www.mvvacationrentals.com/property/monee",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1642",
+      "code": "LEWID",
+      "url": "https://www.mvvacationrentals.com/property/lewid",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1643",
+      "code": "ARNOS",
+      "url": "https://www.mvvacationrentals.com/property/arnos",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1644",
+      "code": "CLE20",
+      "url": "https://www.mvvacationrentals.com/property/cle20",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1645",
+      "code": "BOWDL",
+      "url": "https://www.mvvacationrentals.com/property/bowdl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1646",
+      "code": "BRANF",
+      "url": "https://www.mvvacationrentals.com/property/branf",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1647",
+      "code": "MCGRD",
+      "url": "https://www.mvvacationrentals.com/property/mcgrd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1648",
+      "code": "SET66",
+      "url": "https://www.mvvacationrentals.com/property/set66",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1649",
+      "code": "CHAMV",
+      "url": "https://www.mvvacationrentals.com/property/chamv",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1650",
+      "code": "BURBR",
+      "url": "https://www.mvvacationrentals.com/property/burbr",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=9",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1651",
+      "code": "SANBG",
+      "url": "https://www.mvvacationrentals.com/property/sanbg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1652",
+      "code": "QUINJ",
+      "url": "https://www.mvvacationrentals.com/property/quinj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1653",
+      "code": "CASHK",
+      "url": "https://www.mvvacationrentals.com/property/cashk",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1654",
+      "code": "VANAL",
+      "url": "https://www.mvvacationrentals.com/property/vanal",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1655",
+      "code": "BEAT2",
+      "url": "https://www.mvvacationrentals.com/property/beat2",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1656",
+      "code": "VANA2",
+      "url": "https://www.mvvacationrentals.com/property/vana2",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1657",
+      "code": "PE585",
+      "url": "https://www.mvvacationrentals.com/property/pe585",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1658",
+      "code": "BARNJ",
+      "url": "https://www.mvvacationrentals.com/property/barnj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1659",
+      "code": "WEINS",
+      "url": "https://www.mvvacationrentals.com/property/weins",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1660",
+      "code": "KINOL",
+      "url": "https://www.mvvacationrentals.com/property/kinol",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1661",
+      "code": "LONGK",
+      "url": "https://www.mvvacationrentals.com/property/longk",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1662",
+      "code": "NORMD",
+      "url": "https://www.mvvacationrentals.com/property/normd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1663",
+      "code": "BICKE",
+      "url": "https://www.mvvacationrentals.com/property/bicke",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1664",
+      "code": "LECAY",
+      "url": "https://www.mvvacationrentals.com/property/lecay",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1665",
+      "code": "BLACJ",
+      "url": "https://www.mvvacationrentals.com/property/blacj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=10",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1666",
+      "code": "SIM21",
+      "url": "https://www.mvvacationrentals.com/property/sim21",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1667",
+      "code": "BARTE",
+      "url": "https://www.mvvacationrentals.com/property/barte",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1668",
+      "code": "THOMS",
+      "url": "https://www.mvvacationrentals.com/property/thoms",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1669",
+      "code": "HOD28",
+      "url": "https://www.mvvacationrentals.com/property/hod28",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1670",
+      "code": "NORTO",
+      "url": "https://www.mvvacationrentals.com/property/norto",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1671",
+      "code": "ARMSA",
+      "url": "https://www.mvvacationrentals.com/property/armsa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1672",
+      "code": "MCNAB",
+      "url": "https://www.mvvacationrentals.com/property/mcnab",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1673",
+      "code": "DHANM",
+      "url": "https://www.mvvacationrentals.com/property/dhanm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1674",
+      "code": "ROSSJ",
+      "url": "https://www.mvvacationrentals.com/property/rossj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1675",
+      "code": "PIZZD",
+      "url": "https://www.mvvacationrentals.com/property/pizzd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1676",
+      "code": "ROS22",
+      "url": "https://www.mvvacationrentals.com/property/ros22",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1677",
+      "code": "BOOND",
+      "url": "https://www.mvvacationrentals.com/property/boond",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1678",
+      "code": "BALAR",
+      "url": "https://www.mvvacationrentals.com/property/balar",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1679",
+      "code": "BEATM",
+      "url": "https://www.mvvacationrentals.com/property/beatm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1680",
+      "code": "STA24",
+      "url": "https://www.mvvacationrentals.com/property/sta24",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=11",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1681",
+      "code": "WALCN",
+      "url": "https://www.mvvacationrentals.com/property/walcn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1682",
+      "code": "LAIOV",
+      "url": "https://www.mvvacationrentals.com/property/laiov",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1683",
+      "code": "FRISD",
+      "url": "https://www.mvvacationrentals.com/property/frisd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1684",
+      "code": "DAWKN",
+      "url": "https://www.mvvacationrentals.com/property/dawkn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1685",
+      "code": "DAWSJ",
+      "url": "https://www.mvvacationrentals.com/property/dawsj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1686",
+      "code": "GRILJ",
+      "url": "https://www.mvvacationrentals.com/property/grilj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1687",
+      "code": "LISDA",
+      "url": "https://www.mvvacationrentals.com/property/lisda",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1688",
+      "code": "SAUNJ",
+      "url": "https://www.mvvacationrentals.com/property/saunj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1689",
+      "code": "KEAND",
+      "url": "https://www.mvvacationrentals.com/property/keand",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1690",
+      "code": "DELOA",
+      "url": "https://www.mvvacationrentals.com/property/deloa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1691",
+      "code": "ROBIH",
+      "url": "https://www.mvvacationrentals.com/property/robih",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1692",
+      "code": "FRISE",
+      "url": "https://www.mvvacationrentals.com/property/frise",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1693",
+      "code": "FRIEM",
+      "url": "https://www.mvvacationrentals.com/property/friem",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1694",
+      "code": "KANIR",
+      "url": "https://www.mvvacationrentals.com/property/kanir",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1695",
+      "code": "LUSKP",
+      "url": "https://www.mvvacationrentals.com/property/luskp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=12",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1696",
+      "code": "ADAML",
+      "url": "https://www.mvvacationrentals.com/property/adaml",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1697",
+      "code": "CARLB",
+      "url": "https://www.mvvacationrentals.com/property/carlb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1698",
+      "code": "BORAR",
+      "url": "https://www.mvvacationrentals.com/property/borar",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1699",
+      "code": "HARTM",
+      "url": "https://www.mvvacationrentals.com/property/hartm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1700",
+      "code": "JOHNL",
+      "url": "https://www.mvvacationrentals.com/property/johnl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1701",
+      "code": "SHEMI",
+      "url": "https://www.mvvacationrentals.com/property/shemi",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1702",
+      "code": "PHOUE",
+      "url": "https://www.mvvacationrentals.com/property/phoue",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1703",
+      "code": "BOWKW",
+      "url": "https://www.mvvacationrentals.com/property/bowkw",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1704",
+      "code": "PEOTA",
+      "url": "https://www.mvvacationrentals.com/property/peota",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1705",
+      "code": "CLARO",
+      "url": "https://www.mvvacationrentals.com/property/claro",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1706",
+      "code": "GLOVL",
+      "url": "https://www.mvvacationrentals.com/property/glovl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1707",
+      "code": "TAYLJ",
+      "url": "https://www.mvvacationrentals.com/property/taylj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1708",
+      "code": "RIORE",
+      "url": "https://www.mvvacationrentals.com/property/riore",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1709",
+      "code": "WASHS",
+      "url": "https://www.mvvacationrentals.com/property/washs",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1710",
+      "code": "HUSTN",
+      "url": "https://www.mvvacationrentals.com/property/hustn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=13",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1711",
+      "code": "JOHNE",
+      "url": "https://www.mvvacationrentals.com/property/johne",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1712",
+      "code": "LEVYN",
+      "url": "https://www.mvvacationrentals.com/property/levyn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1713",
+      "code": "DENAL",
+      "url": "https://www.mvvacationrentals.com/property/denal",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1714",
+      "code": "TOTHG",
+      "url": "https://www.mvvacationrentals.com/property/tothg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1715",
+      "code": "COHEC",
+      "url": "https://www.mvvacationrentals.com/property/cohec",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1716",
+      "code": "LEWDG",
+      "url": "https://www.mvvacationrentals.com/property/lewdg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1717",
+      "code": "BERNS",
+      "url": "https://www.mvvacationrentals.com/property/berns",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1718",
+      "code": "GRATD",
+      "url": "https://www.mvvacationrentals.com/property/gratd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1719",
+      "code": "KEANM",
+      "url": "https://www.mvvacationrentals.com/property/keanm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1720",
+      "code": "HUT19",
+      "url": "https://www.mvvacationrentals.com/property/hut19",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1721",
+      "code": "COWAC",
+      "url": "https://www.mvvacationrentals.com/property/cowac",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1722",
+      "code": "FUSCM",
+      "url": "https://www.mvvacationrentals.com/property/fuscm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1723",
+      "code": "KOEOB",
+      "url": "https://www.mvvacationrentals.com/property/koeob",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1724",
+      "code": "THORB",
+      "url": "https://www.mvvacationrentals.com/property/thorb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1725",
+      "code": "CLEME",
+      "url": "https://www.mvvacationrentals.com/property/cleme",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=14",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1726",
+      "code": "WILCM",
+      "url": "https://www.mvvacationrentals.com/property/wilcm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1727",
+      "code": "CAROB",
+      "url": "https://www.mvvacationrentals.com/property/carob",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1728",
+      "code": "THOM3",
+      "url": "https://www.mvvacationrentals.com/property/thom3",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1729",
+      "code": "SWEEC",
+      "url": "https://www.mvvacationrentals.com/property/sweec",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1730",
+      "code": "SAVAJ",
+      "url": "https://www.mvvacationrentals.com/property/savaj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1731",
+      "code": "DONOP",
+      "url": "https://www.mvvacationrentals.com/property/donop",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1732",
+      "code": "MCDOJ",
+      "url": "https://www.mvvacationrentals.com/property/mcdoj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1733",
+      "code": "VOL55",
+      "url": "https://www.mvvacationrentals.com/property/vol55",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1734",
+      "code": "MCGOK",
+      "url": "https://www.mvvacationrentals.com/property/mcgok",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1735",
+      "code": "WILLD",
+      "url": "https://www.mvvacationrentals.com/property/willd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1736",
+      "code": "SACHE",
+      "url": "https://www.mvvacationrentals.com/property/sache",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1737",
+      "code": "PETEV",
+      "url": "https://www.mvvacationrentals.com/property/petev",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1738",
+      "code": "GIAMJ",
+      "url": "https://www.mvvacationrentals.com/property/giamj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1739",
+      "code": "SPANM",
+      "url": "https://www.mvvacationrentals.com/property/spanm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1740",
+      "code": "PIKUT",
+      "url": "https://www.mvvacationrentals.com/property/pikut",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=15",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1741",
+      "code": "MCKER",
+      "url": "https://www.mvvacationrentals.com/property/mcker",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1742",
+      "code": "CAH48",
+      "url": "https://www.mvvacationrentals.com/property/cah48",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1743",
+      "code": "GRADL",
+      "url": "https://www.mvvacationrentals.com/property/gradl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1744",
+      "code": "THEOK",
+      "url": "https://www.mvvacationrentals.com/property/theok",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1745",
+      "code": "STANJ",
+      "url": "https://www.mvvacationrentals.com/property/stanj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1746",
+      "code": "SCHEB",
+      "url": "https://www.mvvacationrentals.com/property/scheb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1747",
+      "code": "KRAFM",
+      "url": "https://www.mvvacationrentals.com/property/krafm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1748",
+      "code": "FRANL",
+      "url": "https://www.mvvacationrentals.com/property/franl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1749",
+      "code": "NOTOA",
+      "url": "https://www.mvvacationrentals.com/property/notoa",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1750",
+      "code": "DONVJ",
+      "url": "https://www.mvvacationrentals.com/property/donvj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1751",
+      "code": "POHOD",
+      "url": "https://www.mvvacationrentals.com/property/pohod",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1752",
+      "code": "NIEJE",
+      "url": "https://www.mvvacationrentals.com/property/nieje",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1753",
+      "code": "WATTL",
+      "url": "https://www.mvvacationrentals.com/property/wattl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1754",
+      "code": "BELAT",
+      "url": "https://www.mvvacationrentals.com/property/belat",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1755",
+      "code": "ARNOP",
+      "url": "https://www.mvvacationrentals.com/property/arnop",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=16",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1756",
+      "code": "VANDN",
+      "url": "https://www.mvvacationrentals.com/property/vandn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1757",
+      "code": "ROBER",
+      "url": "https://www.mvvacationrentals.com/property/rober",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1758",
+      "code": "LODGJ",
+      "url": "https://www.mvvacationrentals.com/property/lodgj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1759",
+      "code": "FENNB",
+      "url": "https://www.mvvacationrentals.com/property/fennb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1760",
+      "code": "GOLLB",
+      "url": "https://www.mvvacationrentals.com/property/gollb",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1761",
+      "code": "MAYOJ",
+      "url": "https://www.mvvacationrentals.com/property/mayoj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1762",
+      "code": "OLIVK",
+      "url": "https://www.mvvacationrentals.com/property/olivk",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1763",
+      "code": "ADELC",
+      "url": "https://www.mvvacationrentals.com/property/adelc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1764",
+      "code": "FERGN",
+      "url": "https://www.mvvacationrentals.com/property/fergn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1765",
+      "code": "JOHNT",
+      "url": "https://www.mvvacationrentals.com/property/johnt",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1766",
+      "code": "ALVEN",
+      "url": "https://www.mvvacationrentals.com/property/alven",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1767",
+      "code": "KOGAD",
+      "url": "https://www.mvvacationrentals.com/property/kogad",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1768",
+      "code": "GRUNM",
+      "url": "https://www.mvvacationrentals.com/property/grunm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1769",
+      "code": "MILLD",
+      "url": "https://www.mvvacationrentals.com/property/milld",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1770",
+      "code": "BURBS",
+      "url": "https://www.mvvacationrentals.com/property/burbs",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=17",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1771",
+      "code": "ST203",
+      "url": "https://www.mvvacationrentals.com/property/st203",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1772",
+      "code": "ST304",
+      "url": "https://www.mvvacationrentals.com/property/st304",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1773",
+      "code": "MARCA",
+      "url": "https://www.mvvacationrentals.com/property/marca",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1774",
+      "code": "BONEG",
+      "url": "https://www.mvvacationrentals.com/property/boneg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1775",
+      "code": "MILTD",
+      "url": "https://www.mvvacationrentals.com/property/miltd",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1776",
+      "code": "ALLER",
+      "url": "https://www.mvvacationrentals.com/property/aller",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1777",
+      "code": "KLEIB",
+      "url": "https://www.mvvacationrentals.com/property/kleib",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1778",
+      "code": "WEBSL",
+      "url": "https://www.mvvacationrentals.com/property/websl",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1779",
+      "code": "HALLL",
+      "url": "https://www.mvvacationrentals.com/property/halll",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1780",
+      "code": "BONES",
+      "url": "https://www.mvvacationrentals.com/property/bones",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1781",
+      "code": "BONEC",
+      "url": "https://www.mvvacationrentals.com/property/bonec",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1782",
+      "code": "BONE3",
+      "url": "https://www.mvvacationrentals.com/property/bone3",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1783",
+      "code": "URMST",
+      "url": "https://www.mvvacationrentals.com/property/urmst",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1784",
+      "code": "ROLAJ",
+      "url": "https://www.mvvacationrentals.com/property/rolaj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1785",
+      "code": "KERR3",
+      "url": "https://www.mvvacationrentals.com/property/kerr3",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=18",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1786",
+      "code": "PERRG",
+      "url": "https://www.mvvacationrentals.com/property/perrg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1787",
+      "code": "BONEM",
+      "url": "https://www.mvvacationrentals.com/property/bonem",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1788",
+      "code": "CENCR",
+      "url": "https://www.mvvacationrentals.com/property/cencr",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1789",
+      "code": "REINJ",
+      "url": "https://www.mvvacationrentals.com/property/reinj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1790",
+      "code": "CALLA",
+      "url": "https://www.mvvacationrentals.com/property/calla",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1791",
+      "code": "CASED",
+      "url": "https://www.mvvacationrentals.com/property/cased",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1792",
+      "code": "MELAF",
+      "url": "https://www.mvvacationrentals.com/property/melaf",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1793",
+      "code": "GEARP",
+      "url": "https://www.mvvacationrentals.com/property/gearp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1794",
+      "code": "DRAPG",
+      "url": "https://www.mvvacationrentals.com/property/drapg",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1795",
+      "code": "DRAPM",
+      "url": "https://www.mvvacationrentals.com/property/drapm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1796",
+      "code": "MERCM",
+      "url": "https://www.mvvacationrentals.com/property/mercm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1797",
+      "code": "FISHJ",
+      "url": "https://www.mvvacationrentals.com/property/fishj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1798",
+      "code": "RAOMA",
+      "url": "https://www.mvvacationrentals.com/property/raoma",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1799",
+      "code": "NAIDN",
+      "url": "https://www.mvvacationrentals.com/property/naidn",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1800",
+      "code": "CENCP",
+      "url": "https://www.mvvacationrentals.com/property/cencp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=19",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1801",
+      "code": "COLEL",
+      "url": "https://www.mvvacationrentals.com/property/colel",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1802",
+      "code": "LIJOY",
+      "url": "https://www.mvvacationrentals.com/property/lijoy",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1803",
+      "code": "WEISM",
+      "url": "https://www.mvvacationrentals.com/property/weism",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1804",
+      "code": "DELLA",
+      "url": "https://www.mvvacationrentals.com/property/della",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1805",
+      "code": "TRAVM",
+      "url": "https://www.mvvacationrentals.com/property/travm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1806",
+      "code": "GAIED",
+      "url": "https://www.mvvacationrentals.com/property/gaied",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1807",
+      "code": "TERSM",
+      "url": "https://www.mvvacationrentals.com/property/tersm",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1808",
+      "code": "MONCJ",
+      "url": "https://www.mvvacationrentals.com/property/moncj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1809",
+      "code": "MAHAB",
+      "url": "https://www.mvvacationrentals.com/property/mahab",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1810",
+      "code": "WE122",
+      "url": "https://www.mvvacationrentals.com/property/we122",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1811",
+      "code": "INGAE",
+      "url": "https://www.mvvacationrentals.com/property/ingae",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1812",
+      "code": "LANLL",
+      "url": "https://www.mvvacationrentals.com/property/lanll",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1813",
+      "code": "KERIB",
+      "url": "https://www.mvvacationrentals.com/property/kerib",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1814",
+      "code": "MCCAM",
+      "url": "https://www.mvvacationrentals.com/property/mccam",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1815",
+      "code": "HANRJ",
+      "url": "https://www.mvvacationrentals.com/property/hanrj",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=20",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1816",
+      "code": "NMAKO",
+      "url": "https://www.mvvacationrentals.com/property/nmako",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1817",
+      "code": "ELLIK",
+      "url": "https://www.mvvacationrentals.com/property/ellik",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1818",
+      "code": "NEWMJ",
+      "url": "https://www.mvvacationrentals.com/property/newmj-0",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1819",
+      "code": "WIL14",
+      "url": "https://www.mvvacationrentals.com/property/wil14",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1820",
+      "code": "PEALY",
+      "url": "https://www.mvvacationrentals.com/property/pealy",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1821",
+      "code": "ROSKH",
+      "url": "https://www.mvvacationrentals.com/property/roskh",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1822",
+      "code": "MAL24",
+      "url": "https://www.mvvacationrentals.com/property/mal24",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1823",
+      "code": "BURET",
+      "url": "https://www.mvvacationrentals.com/property/buret",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1824",
+      "code": "MACFC",
+      "url": "https://www.mvvacationrentals.com/property/macfc",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1825",
+      "code": "ARONA",
+      "url": "https://www.mvvacationrentals.com/property/arona",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1826",
+      "code": "ROB59",
+      "url": "https://www.mvvacationrentals.com/property/rob59",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1827",
+      "code": "HAZAM",
+      "url": "https://www.mvvacationrentals.com/property/hazam",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1828",
+      "code": "BELJA",
+      "url": "https://www.mvvacationrentals.com/property/belja",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1829",
+      "code": "STEVK",
+      "url": "https://www.mvvacationrentals.com/property/stevk",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1830",
+      "code": "DUREJ",
+      "url": "https://www.mvvacationrentals.com/property/durej",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=21",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1831",
+      "code": "BROVH",
+      "url": "https://www.mvvacationrentals.com/property/brovh",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=22",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    },
+    {
+      "id": "MA-1832",
+      "code": "WATSP",
+      "url": "https://www.mvvacationrentals.com/property/watsp",
+      "catalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=22",
+      "status": "Source found in web research",
+      "reviewStatus": "Individual review pending"
+    }
+  ],
+  "reviewedIds": [
+    "MA-1501",
+    "MA-1502",
+    "MA-1503",
+    "MA-1504",
+    "MA-1505",
+    "MA-1506",
+    "MA-1507",
+    "MA-1508",
+    "MA-1509",
+    "MA-1510",
+    "MA-1511",
+    "MA-1512",
+    "MA-1513",
+    "MA-1514",
+    "MA-1515",
+    "MA-1516",
+    "MA-1517",
+    "MA-1518",
+    "MA-1519",
+    "MA-1520",
+    "MA-1521",
+    "MA-1522",
+    "MA-1523",
+    "MA-1524",
+    "MA-1525",
+    "MA-1526",
+    "MA-1527",
+    "MA-1528",
+    "MA-1529",
+    "MA-1530",
+    "MA-1531",
+    "MA-1532",
+    "MA-1533",
+    "MA-1534",
+    "MA-1535",
+    "MA-1536",
+    "MA-1537",
+    "MA-1538",
+    "MA-1539",
+    "MA-1540",
+    "MA-1541",
+    "MA-1542",
+    "MA-1543",
+    "MA-1544",
+    "MA-1545"
+  ],
+  "remainingGaps": [
+    "Fifty-five individual reviews remain in this agent’s assigned100-offer range; whole332 catalog captured, not whole332 individually verified here.",
+    "Other two ranges are assigned separately; this manifest does not claim their completion.",
+    "Rental street addresses and child policies often not publicly disclosed. Office address never used as rental entrance.",
+    "Explicit fact conflicts retained for MAL68, NADE5, HARSY and PEDLF; seasonal minimum-stay qualifications retained.",
+    "Photo-variety refinements are later-pass work; current sets prioritize coherent genuine property/campus coverage."
+  ],
+  "scopeNotes": "Each catalog offer is a lead, not automatically an eligible distinct home. Main/guest-house compounds and buyout overlaps require per-offer review.",
+  "capturedOffers": 332,
+  "fullDisplayedCatalogCaptured": true,
+  "paginationMethod": "Opened all23 rendered catalog pages through their published first/next controls. Read actual property links; verified code/path matches and retained NEWMJ suffix exception.",
+  "reviewedCount": 45,
+  "remainingQueueCount": 287,
+  "rangeAssignments": [
+    {
+      "ids": "MA-1501–MA-1600",
+      "agent": "01",
+      "batch": 19
+    },
+    {
+      "ids": "MA-1601–MA-1700",
+      "agent": "02 reserved by root",
+      "batch": "separate"
+    },
+    {
+      "ids": "MA-1701–MA-1832",
+      "agent": "03",
+      "batch": 21
+    }
+  ],
+  "ownedQueueCount": 100,
+  "ownedReviewedCount": 45,
+  "ownedRemainingCount": 55,
+  "savedImages": 180,
+  "photoReadyIds": [
+    "MA-1501",
+    "MA-1502",
+    "MA-1503",
+    "MA-1504",
+    "MA-1505",
+    "MA-1506",
+    "MA-1507",
+    "MA-1508",
+    "MA-1509",
+    "MA-1510",
+    "MA-1511",
+    "MA-1512",
+    "MA-1513",
+    "MA-1514",
+    "MA-1515",
+    "MA-1516",
+    "MA-1517",
+    "MA-1518",
+    "MA-1519",
+    "MA-1520",
+    "MA-1521",
+    "MA-1522",
+    "MA-1523",
+    "MA-1524",
+    "MA-1525",
+    "MA-1526",
+    "MA-1527",
+    "MA-1528",
+    "MA-1529",
+    "MA-1530",
+    "MA-1531",
+    "MA-1532",
+    "MA-1533",
+    "MA-1534",
+    "MA-1535",
+    "MA-1536",
+    "MA-1537",
+    "MA-1538",
+    "MA-1539",
+    "MA-1540",
+    "MA-1541",
+    "MA-1542",
+    "MA-1543",
+    "MA-1544",
+    "MA-1545"
+  ],
+  "checkpoint": {
+    "checkedOn": "2026-10-26",
+    "reason": "Root relayed new user priority to rotate workers to NY, CT and RI; stop taking new MVVR properties after current batch.",
+    "completedIds": "MA-1501–MA-1545",
+    "nextId": "MA-1546",
+    "nextCode": "GARLD",
+    "nextUrl": "https://www.mvvacationrentals.com/property/garld",
+    "nextCatalogUrl": "https://www.mvvacationrentals.com/vacation-rentals?page=3",
+    "remainingOwnedIds": "MA-1546–MA-1600",
+    "remainingOwnedCount": 55,
+    "partiallyReviewedNextProperty": false,
+    "otherRanges": "MA1601–1700 reserved for agent02; MA1701–1832 assigned agent03 in batch21.",
+    "resumeMethod": "Reuse full observed queue; no new discovery needed. Open each remaining property and property-prefilled inquiry; expand Features/Amenities/ReadMore, check actual Owner Policies/shared RentalPolicies, capture4actual gallery full URLs via fourth thumbnail and save media800pxWebP72.",
+    "localHelpers": [
+      "/tmp/mv_append19.py",
+      "/tmp/mv_media19.py",
+      "/tmp/mv_checkpoint19.py"
+    ]
+  },
+  "validation": {
+    "checkedOn": "2026-10-26",
+    "result": "PASS",
+    "checks": [
+      "45JSON outcomes and45separate policy audits read back",
+      "180savedphoto paths andSHA256 hashes",
+      "Dimensions match metadata; quality78 derivatives<=1200, newer quality72<=800",
+      "All descriptions<=150characters",
+      "Pets/kids consistent with policy audits",
+      "332unique observed propertyURLs and23catalogpages retained"
+    ]
+  }
+}

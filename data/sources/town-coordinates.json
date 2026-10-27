@@ -1818,5 +1818,33 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Malden%2C+MA%2C+USA&format=json&limit=1",
   "label": "Malden, Middlesex County, Massachusetts, United States",
   "checked": "2026-10-26"
+ },
+ "Marblehead, MA, USA": {
+  "lat": 42.5001,
+  "lng": -70.8578,
+  "source": "https://nominatim.openstreetmap.org/search?q=Marblehead%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Marblehead, Essex County, Massachusetts, 01945, United States",
+  "checked": "2026-10-26"
+ },
+ "Chilmark, MA, USA": {
+  "lat": 41.3431,
+  "lng": -70.744,
+  "source": "https://nominatim.openstreetmap.org/search?q=Chilmark%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Chilmark, Dukes County, Massachusetts, 02552, United States",
+  "checked": "2026-10-26"
+ },
+ "West Tisbury, MA, USA": {
+  "lat": 41.381,
+  "lng": -70.6745,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Tisbury%2C+MA%2C+USA&format=json&limit=1",
+  "label": "West Tisbury, Dukes County, Massachusetts, 02575, United States",
+  "checked": "2026-10-26"
+ },
+ "Oak Bluffs, MA, USA": {
+  "lat": 41.4536,
+  "lng": -70.5684,
+  "source": "https://nominatim.openstreetmap.org/search?q=Oak+Bluffs%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Oak Bluffs, Dukes County, Massachusetts, 02557, United States",
+  "checked": "2026-10-26"
  }
 }

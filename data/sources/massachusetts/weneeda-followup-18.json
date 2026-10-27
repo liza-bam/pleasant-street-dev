@@ -1,0 +1,2227 @@
+{
+  "checkedOn": "2026-10-26",
+  "taskScope": "Close existing86 appearance group-lodging queue; no broad new discovery",
+  "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+  "inputAppearances": 86,
+  "uniqueExactListingUrls": 86,
+  "sourceGroupCount": 27,
+  "status": "Checkpointed at explicit root-requested state-task rotation; incomplete queue",
+  "leads": [
+    {
+      "queueIndex": 0,
+      "name": "Beautiful Sea Captain's Home in Falmouth Village",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33626/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-22"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Existing duplicate",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Exact aggregator listing URL already retained in saved verification batch00 or05; no new property ID.",
+      "existingIds": [
+        "MA-0401"
+      ]
+    },
+    {
+      "queueIndex": 1,
+      "name": "Spacious Guest House in Falmouth Village",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33639/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-22"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Existing duplicate",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Exact aggregator listing URL already retained in saved verification batch00 or05; no new property ID.",
+      "existingIds": [
+        "MA-0402"
+      ]
+    },
+    {
+      "queueIndex": 2,
+      "name": "Loft Hideaway in Falmouth Village",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33645/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-22"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Existing duplicate",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Exact aggregator listing URL already retained in saved verification batch00 or05; no new property ID.",
+      "existingIds": [
+        "MA-0403"
+      ]
+    },
+    {
+      "queueIndex": 3,
+      "name": "Large Sea Captain's Estate in Falmouth Village",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-35307/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-22"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Existing duplicate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-35307/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened description explicitly combines Main House and Guest House, seven bedrooms/seven baths, and references33626 for Main House alone. Matches root’s saved75Locust Estate combined-offer evidence; not a fourth physical property.",
+      "listingOpened": true,
+      "existingIds": [
+        "MA-0401",
+        "MA-0402"
+      ]
+    },
+    {
+      "queueIndex": 4,
+      "name": "''On The Beach!'' You'll wish you were here!!",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-2541/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-8"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-2541/"
+      ],
+      "queries": [
+        "\"On The Beach\" \"Paul Pappas\" Dennis vacation rental website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Opened listing describes one condo in a three-condo beachfront triplex. Focused actual-name/host reverse search surfaced only WeNeedaVacation and unrelated results; independent host website not established.",
+      "listingOpened": true,
+      "host": "Paul Pappas"
+    },
+    {
+      "queueIndex": 5,
+      "name": "''On The Beach'' You'll wish you were here!! Unit A",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-23466/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-8"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-23466/"
+      ],
+      "queries": [
+        "\"On The Beach\" \"Paul Pappas\" Dennis vacation rental website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Unit A of same opened Paul Pappas triplex group; common actual-name/host reverse query found no independent site. No eligibility inferred.",
+      "listingOpened": true,
+      "host": "Paul Pappas"
+    },
+    {
+      "queueIndex": 6,
+      "name": "''On The Beach!'' You'll wish you were here!",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-23622/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-8"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-23622/"
+      ],
+      "queries": [
+        "\"On The Beach\" \"Paul Pappas\" Dennis vacation rental website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Same opened triplex host/group; common actual-name/host reverse query found no independent site. No eligibility inferred.",
+      "listingOpened": true,
+      "host": "Paul Pappas"
+    },
+    {
+      "queueIndex": 7,
+      "name": "Sandcastle by the Sea",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-36006/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-14"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.instagram.com/sandcastle_by_the_sea/",
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-36006/"
+      ],
+      "queries": [
+        "\"Sandcastle by the Sea\" Dennis John beach rental website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Unit2/second-floor listing opened. Strongest matched public host Instagram opened: John Arone, Beach Front Rental Property on Mayflower Beach, barefootsandsllc@gmail.com, YouTube link only. No operator-controlled rental/direct-booking website established; preserve social contact as supporting lead.",
+      "listingOpened": true,
+      "host": "John / John Arone"
+    },
+    {
+      "queueIndex": 8,
+      "name": "Sandcastle by the Sea",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-36007/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-14"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.instagram.com/sandcastle_by_the_sea/",
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-36007/"
+      ],
+      "queries": [
+        "\"Sandcastle by the Sea\" Dennis John beach rental website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Second separately listed Sandcastle property under same host/group. Matched public host Instagram opened but no independent rental/direct-booking site established; no unrelated Sandcastle domain substituted.",
+      "listingOpened": true,
+      "host": "John / John Arone"
+    },
+    {
+      "queueIndex": 9,
+      "name": "Brand New Construction - Close to Corporation Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-35431/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-32"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-35431/"
+      ],
+      "queries": [
+        "\"Brand New Construction\" \"Dennis\" \"Stephen O’Leary\" vacation rental website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Opened home detail and focused actual-property/host reverse search. Results lead to WeNeedaVacation35431/19734 and unrelated sources; no independent host website established.",
+      "listingOpened": true,
+      "host": "Stephen O'Leary"
+    },
+    {
+      "queueIndex": 10,
+      "name": "Beautiful updated cape in the heart of Dennis Village",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-19734/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-32"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-19734/"
+      ],
+      "queries": [
+        "\"Brand New Construction\" \"Dennis\" \"Stephen O’Leary\" vacation rental website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Opened second home in same host group; common actual-property/host search surfaced both saved listings but no independent host website.",
+      "listingOpened": true,
+      "host": "Stephen O'Leary"
+    },
+    {
+      "queueIndex": 11,
+      "name": "Perfect Family House Steps from Beautiful Private Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-26072/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-26072/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Aggregator caption explicitly names5OceanParkEast; actual own catalog separately lists matching four-bedroom/two-bath/nine-guest cottage. Own individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "5 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=278904"
+    },
+    {
+      "queueIndex": 12,
+      "name": "2 bedrooms, 1 bath, AC private Nantucket Sound beach cottage",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29026/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "New verified",
+      "openedUrls": [
+        "https://dennisseashores.com/details.aspx?PropertyID=283993",
+        "https://dennisseashores.com/contactus.aspx",
+        "https://dennisseashores.com/content/rental-information.aspx",
+        "https://dennisseashores.com/content/terms-and-conditions.aspx",
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29026/"
+      ],
+      "queries": [
+        "\"10 Ocean Park East\" \"Dennis Seashores\" cottage official website"
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Actual official unit detail/contact/policies verified. Media candidates saved; directoryReadyfalse pending download/visual inspection.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "10 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+      "verifiedId": "MA-1413"
+    },
+    {
+      "queueIndex": 13,
+      "name": "2 bedrooms, 1 bath, private Nantucket Sound beach cottage",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29034/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29034/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names7OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "7 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=284120"
+    },
+    {
+      "queueIndex": 14,
+      "name": "2 BR/1 BT Cottage, AC steps to private Nantucket Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29043/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29043/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names9OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "9 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283030"
+    },
+    {
+      "queueIndex": 15,
+      "name": "2 BR/1 BT Cottage AC walk to private Nantucket Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29044/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29044/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names11OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "11 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283032"
+    },
+    {
+      "queueIndex": 16,
+      "name": "2 BR/1 BT Cottage, AC, walk to private Nantucket Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29045/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29045/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names17OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "17 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=284489"
+    },
+    {
+      "queueIndex": 17,
+      "name": "2 BR/1 Bath Cottage, AC, walk to private beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29046/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29046/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names18OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "18 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283991"
+    },
+    {
+      "queueIndex": 18,
+      "name": "2 BR/1 Bath Cottage walk to private Nantucket Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29049/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29049/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names12OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "12 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283990"
+    },
+    {
+      "queueIndex": 19,
+      "name": "2 bedroom/1b, AC, STEPS to private Nantucket Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31378/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31378/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names16OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "16 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283041"
+    },
+    {
+      "queueIndex": 20,
+      "name": "2 BR/1 Bath, AC, 1 minute walk to private ocean beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-34105/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-2"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-34105/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual aggregator caption names8OceanParkEast; matching own catalog cottage found; individual detail pass pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "8 Ocean Park East",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283992"
+    },
+    {
+      "queueIndex": 21,
+      "name": "2 bedrooms,1 bath, AC, private Nantucket Sound beach cottage",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29029/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-3"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29029/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores"
+    },
+    {
+      "queueIndex": 22,
+      "name": "3 bedroom/2 bath AC Oceanfront private Nantucket Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29030/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-3"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29030/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "19B Chase Avenue",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=284496"
+    },
+    {
+      "queueIndex": 23,
+      "name": "4 BR, 2 BT Cottage wAC steps from private Ocean Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29041/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-3"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29041/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores"
+    },
+    {
+      "queueIndex": 24,
+      "name": "3 BR/1 Bath cottage across St from private ocean beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29048/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-3"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29048/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores"
+    },
+    {
+      "queueIndex": 25,
+      "name": "4 BR/3 BA, AC Oceanfront cottage w/private sandy ocean beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31379/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-3"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31379/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "23B Chase Avenue"
+    },
+    {
+      "queueIndex": 26,
+      "name": "3 BR/2 Bath, AC, ocean view, steps to private beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-33869/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-3"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-33869/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "19A Chase Avenue",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=284494"
+    },
+    {
+      "queueIndex": 27,
+      "name": "Oceanfront 3 BR/2 bath with AC & private beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-33902/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-3"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-33902/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "19C Chase Avenue",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=284495"
+    },
+    {
+      "queueIndex": 28,
+      "name": "2 bedrooms, 1 bath, AC private Nantucket Sound beach cottage",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29031/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-4"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29031/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "17 Ocean Park West",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=284129"
+    },
+    {
+      "queueIndex": 29,
+      "name": "2 BR, 1 Bath cottage, AC, walk to private beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29032/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-4"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29032/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "15 Ocean Park West"
+    },
+    {
+      "queueIndex": 30,
+      "name": "2 BR, 1 bath cottage, AC, near private Nantucket Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29035/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-4"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29035/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores"
+    },
+    {
+      "queueIndex": 31,
+      "name": "2 BR, 1 bath, AC, walk to private beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29036/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-4"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29036/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores"
+    },
+    {
+      "queueIndex": 32,
+      "name": "3 BR, 1 bath cottage, AC, 1/10 mile from private Sound beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29038/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-4"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29038/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores"
+    },
+    {
+      "queueIndex": 33,
+      "name": "3 BR, 1.5 bath cottage 1/10 mile from private beach, AC",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29039/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-4"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29039/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "6 Ocean Park West",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=284493"
+    },
+    {
+      "queueIndex": 34,
+      "name": "2 BR/1 Bath, AC Cottage steps to private beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29047/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-4"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29047/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual group listing; host matches Dennis Seashores. Own catalog individual-unit verification pending.",
+      "listingOpened": true,
+      "host": "Beth at Dennis Seashores",
+      "matchedOwnPropertyName": "4 Ocean Park West",
+      "candidateOfficialUrl": "https://dennisseashores.com/details.aspx?PropertyID=283982"
+    },
+    {
+      "queueIndex": 35,
+      "name": "Masthead: 3 Bedroom Just 200 Yards from the Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29057/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29057/"
+      ],
+      "queries": [
+        {
+          "query": "\"Masthead\" \"Mayflower Beach\" cottage rental website",
+          "source": "https://www.google.com/search?q=%22Masthead%22%20%22Mayflower%20Beach%22%20cottage%20rental%20website",
+          "result": "No matching operator-controlled website established; unrelated Provincetown Masthead result."
+        }
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Aggregator accommodation opened, but no qualifying independent own website established. Missing proof does not establish closure.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 36,
+      "name": "''Snug Harbor'' 3 Bedroom 200 Yards from Mayflower Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29070/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29070/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 37,
+      "name": "''Seagull'' 3 Bedroom Just 200 Yards from the Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29071/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29071/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 38,
+      "name": "''Bayview'': 3 Bedroom just 200 yards from the beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29072/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29072/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 39,
+      "name": "Tradewinds- 3 bedroom-just 200 yards from Mayflower Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29081/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29081/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 40,
+      "name": "The Gull - 3 Bedroom only 200 yards from Mayflower Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29084/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29084/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 41,
+      "name": "New 4000 SF *Mayflower Beach *sleeps 18* parking for 10 cars",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29298/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29298/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 42,
+      "name": "Mayflower Beach Villas Compound",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31323/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-5"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Existing duplicate",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Exact aggregator listing URL already retained in saved verification batch00 or05; no new property ID.",
+      "existingIds": [
+        "MA-0404"
+      ]
+    },
+    {
+      "queueIndex": 43,
+      "name": "Luxury Beach House - 200 Yards from private beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29085/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-6"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29085/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 44,
+      "name": "''Sandbox'' Brand new 4 bedroom,4 bath with WATER VIEW",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31573/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-6"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31573/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened accommodation source. Same Mayflower group manager; focused Masthead/Mayflower reverse query did not establish an own website. No closure inferred.",
+      "listingOpened": true,
+      "host": "Linda, Property Manager"
+    },
+    {
+      "queueIndex": 45,
+      "name": "Dennis Port Oceanfront: 3 Homes on Private Beach-Sleeps 16",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-4640/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-21"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "New verified",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-4640/",
+        "https://253oldwharf.com/",
+        "https://253oldwharf.com/contact",
+        "https://253oldwharf.com/faqs"
+      ],
+      "queries": [
+        {
+          "query": "\"Seascape Vacation Rental\" \"Michele Noonan\" website",
+          "result": "Matched official 253oldwharf.com, opened homepage/Contact/FAQ."
+        }
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Actual own compound/homepage Contact FAQ and direct inquiry verified. Three-home combined offer; media candidates saved, not downloaded.",
+      "listingOpened": true,
+      "host": "Seascape Vacation Rental Cape Cod-Michele Noonan",
+      "candidateOfficialUrl": "https://253oldwharf.com/",
+      "verifiedId": "MA-1434"
+    },
+    {
+      "queueIndex": 46,
+      "name": "Gorgeous Oceanfront Home: Private Beach: Sleeps 6",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-21457/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-21"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-21457/",
+        "https://253oldwharf.com/",
+        "https://253oldwharf.com/contact",
+        "https://253oldwharf.com/faqs"
+      ],
+      "queries": [
+        {
+          "query": "\"Seascape Vacation Rental\" \"Michele Noonan\" website",
+          "result": "Matched official 253oldwharf.com, opened homepage/Contact/FAQ."
+        }
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Main home is part of verifiedMA1434three-home compound per aggregator21457/4640. Preserve alternate offer URL; do not count combined and component as independent physical inventory. Standalone own-site offer not reviewed.",
+      "listingOpened": true,
+      "host": "Seascape Vacation Rental Cape Cod-Michele Noonan",
+      "candidateOfficialUrl": "https://253oldwharf.com/"
+    },
+    {
+      "queueIndex": 47,
+      "name": "Coral Cottage: Oceanfront 100' Private Beach-Sleeps 5 w/ A/C",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-36300/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-21"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-36300/",
+        "https://253oldwharf.com/",
+        "https://253oldwharf.com/contact",
+        "https://253oldwharf.com/faqs"
+      ],
+      "queries": [
+        {
+          "query": "\"Seascape Vacation Rental\" \"Michele Noonan\" website",
+          "result": "Matched official 253oldwharf.com, opened homepage/Contact/FAQ."
+        }
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Coral cottage is offered by Seascape host on aggregator. Own253OldWharf site explicitly establishes three-home compound, but matching Coral unit scope not established; no unit record inferred.",
+      "listingOpened": true,
+      "host": "Seascape Vacation Rental Cape Cod-Michele Noonan",
+      "candidateOfficialUrl": "https://253oldwharf.com/"
+    },
+    {
+      "queueIndex": 48,
+      "name": "Angel by the Sea Steps to the Beach; Add'l Cottage Optional",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-41924/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-40"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-41924/"
+      ],
+      "queries": [
+        {
+          "query": "\"Angel by the Sea\" \"Andie\" Dennis cottage rental",
+          "result": "WeNeedaVacation41924/41949 only matching results; no ownsite."
+        }
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual cottage accommodation listing. Focused exact name/host reverse query returned these two WeNeedaVacation listings only; no own website established. No closure inferred.",
+      "listingOpened": true,
+      "host": "Andie & Scott"
+    },
+    {
+      "queueIndex": 49,
+      "name": "Honeymoon Cottage - 200 yards to Sea Street Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-41949/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-40"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-41949/"
+      ],
+      "queries": [
+        {
+          "query": "\"Angel by the Sea\" \"Andie\" Dennis cottage rental",
+          "result": "WeNeedaVacation41924/41949 only matching results; no ownsite."
+        }
+      ],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual cottage accommodation listing. Focused exact name/host reverse query returned these two WeNeedaVacation listings only; no own website established. No closure inferred.",
+      "listingOpened": true,
+      "host": "Andie & Scott"
+    },
+    {
+      "queueIndex": 50,
+      "name": "Beachside Bliss:3BR/2BA Condo, Private Deck & Stunning Views",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-40283/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-38"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-40283/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Satminder"
+    },
+    {
+      "queueIndex": 51,
+      "name": "Beachside Bliss:3BR/2BA Condo, Private Deck & Stunning Views",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-40284/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-38"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-40284/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Satminder"
+    },
+    {
+      "queueIndex": 52,
+      "name": "HyannisPort 4 BR w/ ocean views. Private footpath to Beach!",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-13711/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-1"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-13711/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Scott, Harbor Village"
+    },
+    {
+      "queueIndex": 53,
+      "name": "Hyannis Port Seaside Cottage. Steps away from the Sand !",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-14906/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-1"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-14906/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Scott, Harbor Village"
+    },
+    {
+      "queueIndex": 54,
+      "name": "HyannisPort 2BR w/ Ocean view! Footpath to Beaches!",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-29475/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-1"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-29475/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Scott, Harbor Village"
+    },
+    {
+      "queueIndex": 55,
+      "name": "HyannisPort 3BR Cottage. Short walk on private path to Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-38735/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-1"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Hyannis-Vacation-Rental-38735/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Scott, Harbor Village"
+    },
+    {
+      "queueIndex": 56,
+      "name": "Waterfront Estate with Private Beach & Brand New Pool",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-19054/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-17"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-19054/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Ginger Winslow"
+    },
+    {
+      "queueIndex": 57,
+      "name": "Private Waterfront on Pleasant Bay",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-19102/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-17"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-19102/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Ginger Winslow"
+    },
+    {
+      "queueIndex": 58,
+      "name": "Parsons Beach Retreat,Fully Renovated,Hot Tub, Bike to Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-36765/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-35"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-36765/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Richard"
+    },
+    {
+      "queueIndex": 59,
+      "name": "Parson's Cottage",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-36644/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-35"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-36644/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Richard"
+    },
+    {
+      "queueIndex": 60,
+      "name": "Topside Boathouse - Swim and Fish off the Deck !",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-25897/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-19"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-25897/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "David Manning"
+    },
+    {
+      "queueIndex": 61,
+      "name": "Topside Mainhouse - Swim, Fish and Sail on Pleasant Bay",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-25902/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-19"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Orleans-Vacation-Rental-25902/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "David Manning"
+    },
+    {
+      "queueIndex": 62,
+      "name": "Steps To Private Beach! A/C, Heat, Wifi, Outdoor Shower",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-19564/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-18"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-19564/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Charles or Paula"
+    },
+    {
+      "queueIndex": 63,
+      "name": "Three Bedroom Great views!! NEW ROOF DECK and gas fire pit!",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-21002/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-18"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-21002/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Charles or Paula"
+    },
+    {
+      "queueIndex": 64,
+      "name": "Coastal Retreat Near Nat Seashore | Optional Guest Cottage",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-41169/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-39"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-41169/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Erik & Jessica"
+    },
+    {
+      "queueIndex": 65,
+      "name": "Romantic Cottage - Modern, Close to Beaches, Lakes, & Trails",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-40891/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-39"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-40891/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Erik & Jessica"
+    },
+    {
+      "queueIndex": 66,
+      "name": "Beautiful Rental Walking Distance to Bay Beaches",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-32599/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-29"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-32599/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Greg Kotsaftis"
+    },
+    {
+      "queueIndex": 67,
+      "name": "Beautiful Renovated Cape Home 5 Min walking from Beach!",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-39551/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-29"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Eastham-Vacation-Rental-39551/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Greg Kotsaftis"
+    },
+    {
+      "queueIndex": 68,
+      "name": "Secluded Cottage Hideaway BOH22-324",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Provincetown-Vacation-Rental-2049/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-7"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Provincetown-Vacation-Rental-2049/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Jonathan Sinaiko"
+    },
+    {
+      "queueIndex": 69,
+      "name": "Gallery Apartment BOH22-321",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Provincetown-Vacation-Rental-36120/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-7"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Provincetown-Vacation-Rental-36120/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Jonathan Sinaiko"
+    },
+    {
+      "queueIndex": 70,
+      "name": "2nd Floor Studio BOH 22-322",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Provincetown-Vacation-Rental-36121/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-7"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Provincetown-Vacation-Rental-36121/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Jonathan Sinaiko"
+    },
+    {
+      "queueIndex": 71,
+      "name": "Beachfront North Truro Residence; Expansive Views",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Truro-Vacation-Rental-40563/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-36"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Truro-Vacation-Rental-40563/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Opened actual rental detail and read property description/host. Focused independent website follow-up pending.",
+      "listingOpened": true,
+      "host": "Judy",
+      "scopeEvidence": "Published description says distinct adjacent sister houses with same specifications/furnishings, completedJune2025; do not collapse from matching style alone."
+    },
+    {
+      "queueIndex": 72,
+      "name": "Amazing Beachfront Residence near Provincetown",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Truro-Vacation-Rental-40580/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-36"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Truro-Vacation-Rental-40580/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual accommodation/host description opened. Focused independent website follow-up not completed before state-task rotation.",
+      "listingOpened": true,
+      "host": "Judy",
+      "scopeEvidence": "Published description says distinct adjacent sister houses with same specifications/furnishings, completedJune2025; do not collapse from matching style alone."
+    },
+    {
+      "queueIndex": 73,
+      "name": "Cute-n-Cozy Cottage w Outdoor Shower, Laundry, WIFI & more!",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Wellfleet-Vacation-Rental-25513/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-31"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Wellfleet-Vacation-Rental-25513/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual accommodation/host description opened. Focused independent website follow-up not completed before state-task rotation.",
+      "listingOpened": true,
+      "host": "Karen"
+    },
+    {
+      "queueIndex": 74,
+      "name": "Charming, Tranquil Cottage with A/C; Deck",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Wellfleet-Vacation-Rental-40125/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-31"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Wellfleet-Vacation-Rental-40125/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual accommodation/host description opened. Focused independent website follow-up not completed before state-task rotation.",
+      "listingOpened": true,
+      "host": "Liz"
+    },
+    {
+      "queueIndex": 75,
+      "name": "Charming 1880 Victorian Onset Cape House Fronting the Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Onset-Vacation-Rental-17434/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-15"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Onset-Vacation-Rental-17434/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual accommodation/host description opened. Focused independent website follow-up not completed before state-task rotation.",
+      "listingOpened": true,
+      "host": "Marcy Family Trust, Joan Marcy, Trustee",
+      "scopeEvidence": "17434 is north unit sleeps10;23474 is south unit sleeps8;23475 is whole-house combination sleeps18. Do not publish all three as distinct nonoverlapping inventory."
+    },
+    {
+      "queueIndex": 76,
+      "name": "Charming 1880 Victorian Onset Cape House Fronting the Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Onset-Vacation-Rental-23474/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-15"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Onset-Vacation-Rental-23474/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual accommodation/host description opened. Focused independent website follow-up not completed before state-task rotation.",
+      "listingOpened": true,
+      "host": "Marcy Family Trust, Joan Marcy, Trustee",
+      "scopeEvidence": "17434 is north unit sleeps10;23474 is south unit sleeps8;23475 is whole-house combination sleeps18. Do not publish all three as distinct nonoverlapping inventory."
+    },
+    {
+      "queueIndex": 77,
+      "name": "Charming 1880 Victorian Onset Cape House Fronting the Beach",
+      "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Onset-Vacation-Rental-23475/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-15"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Own-site candidate",
+      "openedUrls": [
+        "https://www.weneedavacation.com/Cape-Cod/Onset-Vacation-Rental-23475/"
+      ],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": "Actual accommodation/host description opened. Focused independent website follow-up not completed before state-task rotation.",
+      "listingOpened": true,
+      "host": "Marcy Family Trust, Joan Marcy, Trustee",
+      "scopeEvidence": "17434 is north unit sleeps10;23474 is south unit sleeps8;23475 is whole-house combination sleeps18. Do not publish all three as distinct nonoverlapping inventory."
+    },
+    {
+      "queueIndex": 78,
+      "name": "ORANGE STREET COTTAGE, WALK TO TOWN. BOOKING SUMMER OF 27!",
+      "listingUrl": "https://www.weneedavacation.com/Nantucket/Nantucket-town-Vacation-Rental-32056/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-20"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    },
+    {
+      "queueIndex": 79,
+      "name": "Beautiful Dreamer",
+      "listingUrl": "https://www.weneedavacation.com/Nantucket/Nantucket-town-Vacation-Rental-32064/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-20"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    },
+    {
+      "queueIndex": 80,
+      "name": "Menemsha Village-Sunset House:",
+      "listingUrl": "https://www.weneedavacation.com/Marthas-Vineyard/Chilmark-Vacation-Rental-17311/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-13"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    },
+    {
+      "queueIndex": 81,
+      "name": "Menemsha -Davis House",
+      "listingUrl": "https://www.weneedavacation.com/Marthas-Vineyard/Chilmark-Vacation-Rental-18146/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-13"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    },
+    {
+      "queueIndex": 82,
+      "name": "Cozy Cottage at Coleman Corners/Walk to Beach",
+      "listingUrl": "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-39326/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-28"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    },
+    {
+      "queueIndex": 83,
+      "name": "Dottie's House - HIstoric Home in the Heart of Oak Bluffs",
+      "listingUrl": "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-38623/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-28"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    },
+    {
+      "queueIndex": 84,
+      "name": "Charming and Centrally located Oak Bluffs Cottage",
+      "listingUrl": "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-41191/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-37"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    },
+    {
+      "queueIndex": 85,
+      "name": "Charming and Centrally Located Garage Apartment",
+      "listingUrl": "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-41194/",
+      "catalogSource": "https://www.weneedavacation.com/propertygroups/",
+      "sourceGroups": [
+        "property-group-37"
+      ],
+      "checkedOn": "2026-10-26",
+      "outcome": "Pending",
+      "openedUrls": [],
+      "queries": [],
+      "ownSiteCandidates": [],
+      "notes": ""
+    }
+  ],
+  "newVerifiedIds": [
+    "MA-1413",
+    "MA-1434"
+  ],
+  "listingPagesOpened": 74,
+  "outcomeCounts": {
+    "Existing duplicate": 5,
+    "Own-site candidate": 71,
+    "New verified": 2,
+    "Pending": 8
+  },
+  "operatorCatalogCheckpoint": {
+    "operator": "Dennis Seashores",
+    "catalogSource": "https://dennisseashores.com/search.aspx?clear=1",
+    "normalizedCatalogUrl": "https://dennisseashores.com/search.aspx?",
+    "reportedCount": 33,
+    "actualCardsObserved": 30,
+    "pagination": "Pages1/2 yielded15actualcards each. Page3 label3of3 but no actual cards after two focused checks; do not claim33verifiedunits.",
+    "sharedPagesOpened": [
+      "https://dennisseashores.com/contactus.aspx",
+      "https://dennisseashores.com/content/rental-information.aspx",
+      "https://dennisseashores.com/content/terms-and-conditions.aspx"
+    ],
+    "cottages": [
+      {
+        "reservedId": "MA-1401",
+        "name": "3 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=274899",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1402",
+        "name": "5 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=278904",
+        "catalogFacts": {
+          "bedrooms": 4,
+          "bathrooms": 2,
+          "guests": 9
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1403",
+        "name": "9 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283030",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1404",
+        "name": "11 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283032",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1405",
+        "name": "12 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283034",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1406",
+        "name": "14 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283037",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1407",
+        "name": "16 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283041",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1408",
+        "name": "22 Chase Avenue",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283043",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1409",
+        "name": "4 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283982",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1410",
+        "name": "12 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283990",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1411",
+        "name": "18 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283991",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1412",
+        "name": "8 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283992",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1413",
+        "name": "10 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": true,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1414",
+        "name": "7 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284120",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 5
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1415",
+        "name": "8 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284124",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1416",
+        "name": "9 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284128",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 5
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1417",
+        "name": "17 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284129",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 5
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1418",
+        "name": "19 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284132",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 5
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1419",
+        "name": "14 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284139",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1420",
+        "name": "16 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284148",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1421",
+        "name": "17 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284489",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1422",
+        "name": "15 Ocean Park East",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284490",
+        "catalogFacts": {
+          "bedrooms": 2,
+          "bathrooms": 1,
+          "guests": 4
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1423",
+        "name": "16 Chase Avenue",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284491",
+        "catalogFacts": {
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "guests": 6
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1424",
+        "name": "10 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284492",
+        "catalogFacts": {
+          "bedrooms": 3,
+          "bathrooms": 1,
+          "guests": 6
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1425",
+        "name": "6 Ocean Park West",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284493",
+        "catalogFacts": {
+          "bedrooms": 3,
+          "bathrooms": 1.5,
+          "guests": 7
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1426",
+        "name": "19A Chase Avenue",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284494",
+        "catalogFacts": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "guests": 6
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1427",
+        "name": "19C Chase Avenue",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284495",
+        "catalogFacts": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "guests": 6
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1428",
+        "name": "19B Chase Avenue",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284496",
+        "catalogFacts": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "guests": 7
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1429",
+        "name": "23A Chase Avenue",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284497",
+        "catalogFacts": {
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "guests": 6
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      },
+      {
+        "reservedId": "MA-1430",
+        "name": "27A Chase Avenue",
+        "url": "https://dennisseashores.com/details.aspx?PropertyID=284498",
+        "catalogFacts": {
+          "bedrooms": 4,
+          "bathrooms": 2,
+          "guests": 8
+        },
+        "detailOpened": false,
+        "remaining": "Download/inspect4same-unitphotos; remaining29also require actual detail review."
+      }
+    ],
+    "additionalNamedSourceLeads": [
+      {
+        "name": "23B Chase Avenue",
+        "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31379/",
+        "ownPropertyUrl": "Unknown"
+      },
+      {
+        "name": "15 Ocean Park West",
+        "listingUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29032/",
+        "ownPropertyUrl": "Unknown"
+      }
+    ],
+    "addressRole": "20ChaseAvenue/POBox98 is shared operator office/mailing contact; do not assign to every rental."
+  },
+  "remainingAggregatorUrls": [
+    "https://www.weneedavacation.com/Nantucket/Nantucket-town-Vacation-Rental-32056/",
+    "https://www.weneedavacation.com/Nantucket/Nantucket-town-Vacation-Rental-32064/",
+    "https://www.weneedavacation.com/Marthas-Vineyard/Chilmark-Vacation-Rental-17311/",
+    "https://www.weneedavacation.com/Marthas-Vineyard/Chilmark-Vacation-Rental-18146/",
+    "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-39326/",
+    "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-38623/",
+    "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-41191/",
+    "https://www.weneedavacation.com/Marthas-Vineyard/Oak-Bluffs-Vacation-Rental-41194/"
+  ],
+  "remainingReverseSearchGroups": [
+    {
+      "indices": [
+        50,
+        51
+      ],
+      "query": "\"Beachside Bliss\" \"Satminder\" Hyannis vacation rental"
+    },
+    {
+      "indices": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "query": "\"Harbor Village\" \"Scott\" Hyannis cottage rental official"
+    },
+    {
+      "indices": [
+        56,
+        57
+      ],
+      "query": "\"Ginger Winslow\" \"Pleasant Bay\" vacation rental"
+    },
+    {
+      "indices": [
+        58,
+        59
+      ],
+      "query": "\"Parsons Beach Retreat\" \"Parson's Cottage\" Orleans"
+    },
+    {
+      "indices": [
+        60,
+        61
+      ],
+      "query": "\"Topside Boathouse\" \"David Manning\""
+    },
+    {
+      "indices": [
+        62,
+        63
+      ],
+      "query": "\"Charles or Paula\" Eastham cottage rental"
+    },
+    {
+      "indices": [
+        64,
+        65
+      ],
+      "query": "\"Cape Cottage 280 B\" \"Erik\" Eastham rental"
+    },
+    {
+      "indices": [
+        66,
+        67
+      ],
+      "query": "\"Greg Kotsaftis\" \"55A Snow Road\" rental"
+    },
+    {
+      "indices": [
+        68,
+        69,
+        70
+      ],
+      "query": "\"Jonathan Sinaiko\" Provincetown cottage rental"
+    },
+    {
+      "indices": [
+        71,
+        72
+      ],
+      "query": "\"Beachfront North Truro Residence\" \"Judy\""
+    },
+    {
+      "indices": [
+        73
+      ],
+      "query": "\"Cute-n-Cozy Cottage\" \"Wellfleet\" \"Karen\""
+    },
+    {
+      "indices": [
+        74
+      ],
+      "query": "\"Charming, Tranquil Cottage\" \"Wellfleet\" \"Liz\""
+    },
+    {
+      "indices": [
+        75,
+        76,
+        77
+      ],
+      "query": "\"Joan Marcy\" \"Onset\" vacation rental"
+    }
+  ],
+  "newReadyIds": [],
+  "newVerifiedMediaPendingIds": [
+    "MA-1413",
+    "MA-1434"
+  ]
+}

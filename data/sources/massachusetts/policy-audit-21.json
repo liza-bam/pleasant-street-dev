@@ -1,0 +1,142 @@
+[
+  {
+    "id": "MA-1701",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/shemi",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35466&url=https%3A//www.mvvacationrentals.com/property/shemi"
+    ],
+    "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "Owner Policies",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/shemi"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay7days"
+    ],
+    "noneFound": [
+      "Explicit child admission policy"
+    ],
+    "conflicts": [],
+    "applicability": "SHEMI only; shared MVVR leasing-process policy applies across operator rentals."
+  },
+  {
+    "id": "MA-1702",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/phoue",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30393&url=https%3A//www.mvvacationrentals.com/property/phoue"
+    ],
+    "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "Owner Policies",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/phoue"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay7days"
+    ],
+    "noneFound": [
+      "Explicit child admission policy"
+    ],
+    "conflicts": [],
+    "applicability": "PHOUE only; shared MVVR leasing-process policy applies across operator rentals."
+  },
+  {
+    "id": "MA-1703",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/bowkw",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30765&url=https%3A//www.mvvacationrentals.com/property/bowkw"
+    ],
+    "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "Owner Policies",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/bowkw"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stayUnknowndays"
+    ],
+    "noneFound": [
+      "Explicit child admission policy"
+    ],
+    "conflicts": [],
+    "applicability": "BOWKW only; shared MVVR leasing-process policy applies across operator rentals."
+  },
+  {
+    "id": "MA-1704",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/peota",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35905&url=https%3A//www.mvvacationrentals.com/property/peota"
+    ],
+    "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "Owner Policies",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/peota"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay7days"
+    ],
+    "noneFound": [
+      "Explicit child admission policy"
+    ],
+    "conflicts": [],
+    "applicability": "PEOTA only; shared MVVR leasing-process policy applies across operator rentals."
+  },
+  {
+    "id": "MA-1705",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/property/claro",
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=31246&url=https%3A//www.mvvacationrentals.com/property/claro"
+    ],
+    "method": "Read Owner Policies, expanded Property Features, Property Amenities and Read More; reviewed shared official Rental Policies and current property-prefilled inquiry.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "Owner Policies",
+        "text": "No Pets & No Smoking",
+        "source": "https://www.mvvacationrentals.com/property/claro"
+      }
+    ],
+    "restrictions": [
+      "No Pets & No Smoking",
+      "Minimum stay7days"
+    ],
+    "noneFound": [
+      "Explicit child admission policy"
+    ],
+    "conflicts": [],
+    "applicability": "CLARO only; shared MVVR leasing-process policy applies across operator rentals."
+  }
+]

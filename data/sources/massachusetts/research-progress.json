@@ -246,16 +246,16 @@
     }
   },
   "verificationAudit": {
-    "reviewed": 362,
+    "reviewed": 420,
     "statuses": {
-      "Not eligible": 21,
-      "Verified independent website": 152,
+      "Not eligible": 22,
+      "Verified independent website": 209,
       "Source found in web research": 61,
       "Website unavailable": 6,
       "Verified platform-hosted website": 122
     },
-    "eligible": 274,
-    "photoReadyImport": 268,
+    "eligible": 331,
+    "photoReadyImport": 323,
     "unresolvedIds": [
       "MA-0001",
       "MA-0005",
@@ -332,7 +332,7 @@
   },
   "policyReview": {
     "status": "Ready-list audit coverage recorded per property",
-    "reviewedCount": 274,
+    "reviewedCount": 331,
     "reviewedIds": [
       "MA-0002",
       "MA-0003",
@@ -360,7 +360,6 @@
       "MA-0114",
       "MA-0115",
       "MA-0120",
-      "MA-0121",
       "MA-0201",
       "MA-0202",
       "MA-0203",
@@ -607,7 +606,65 @@
       "MA-1202",
       "MA-1203",
       "MA-1204",
-      "MA-1205"
+      "MA-1205",
+      "MA-1301",
+      "MA-1302",
+      "MA-1303",
+      "MA-1304",
+      "MA-1305",
+      "MA-1306",
+      "MA-1413",
+      "MA-1434",
+      "MA-1501",
+      "MA-1502",
+      "MA-1503",
+      "MA-1504",
+      "MA-1505",
+      "MA-1506",
+      "MA-1507",
+      "MA-1508",
+      "MA-1509",
+      "MA-1510",
+      "MA-1511",
+      "MA-1512",
+      "MA-1513",
+      "MA-1514",
+      "MA-1515",
+      "MA-1516",
+      "MA-1517",
+      "MA-1518",
+      "MA-1519",
+      "MA-1520",
+      "MA-1521",
+      "MA-1522",
+      "MA-1523",
+      "MA-1524",
+      "MA-1525",
+      "MA-1526",
+      "MA-1527",
+      "MA-1528",
+      "MA-1529",
+      "MA-1530",
+      "MA-1531",
+      "MA-1532",
+      "MA-1533",
+      "MA-1534",
+      "MA-1535",
+      "MA-1536",
+      "MA-1537",
+      "MA-1538",
+      "MA-1539",
+      "MA-1540",
+      "MA-1541",
+      "MA-1542",
+      "MA-1543",
+      "MA-1544",
+      "MA-1545",
+      "MA-1701",
+      "MA-1702",
+      "MA-1703",
+      "MA-1704",
+      "MA-1705"
     ],
     "pendingIds": [],
     "completedAuditFiles": [
@@ -623,7 +680,9 @@
       "policy-audit-14.json",
       "policy-audit-16.json",
       "policy-audit-17.json",
-      "policy-audit-18.json"
+      "policy-audit-18.json",
+      "policy-audit-19.json",
+      "policy-audit-21.json"
     ],
     "olderInventoriesNext": [
       "Maine",
@@ -712,5 +771,17 @@
       "observedLeads": 61,
       "scope": "Close exact-name reverse checks and SandyBay/OwnerRez unit expansion"
     }
-  ]
+  ],
+  "publicationBoundary": {
+    "throughBatch": 21,
+    "includedLaterBatches": [
+      17,
+      18,
+      19,
+      21
+    ],
+    "newListingsWithReviewedPhotos": 56,
+    "retiredSummaryId": "MA-0121",
+    "photoReadyImport": 323
+  }
 }

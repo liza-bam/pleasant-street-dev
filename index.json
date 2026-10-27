@@ -31451,68 +31451,6 @@
   "demo": false
  },
  {
-  "id": "MA-0121",
-  "name": "Martha’s Vineyard Vacation Rentals and Sales",
-  "url": "https://www.mvvacationrentals.com/",
-  "place": "Vineyard Haven, MA",
-  "town": "Vineyard Haven",
-  "state": "MA",
-  "type": "Unknown",
-  "recordType": "Rental operator",
-  "description": "Local vacation rental agency offering homes across Martha’s Vineyard.",
-  "descriptionSource": "https://www.mvvacationrentals.com/",
-  "descriptionStatus": "Paraphrased from verified website",
-  "cardDescription": "Local vacation rental agency offering homes across Martha’s Vineyard.",
-  "cardDescriptionSource": "https://www.mvvacationrentals.com/",
-  "cardPhotos": [
-   "images/MA-0121-cover.webp",
-   "images/MA-0121-000.webp",
-   "images/MA-0121-001.webp"
-  ],
-  "cardPhotoLabel": "Photos: ENGLJ Chilmark estate",
-  "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
-  "bedrooms": "Unknown",
-  "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
-  "kids": "Unknown",
-  "pets": "Conditional",
-  "kidsDetails": "No portfolio-wide child/infant agepolicy found inRentalPolicies orENGLJownerrules.",
-  "petsDetails": "Martha's Vineyard Rentals that Allow Pets; Owner Policies: No Pets Petpermissionvariesbyowner/listing; dedicatedpetcatalogavailable; RepresentativephotoestateENGLJ prohibits pets; do notapplytoallportfolio",
-  "lat": 41.4543,
-  "lng": -70.6038,
-  "photo": "images/MA-0121-card.webp",
-  "coverPhoto": "images/MA-0121-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0121-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0121-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0121-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0121-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
-  "featured": false,
-  "demo": false
- },
- {
   "id": "ME-0558",
   "name": "MARY'S LAKEVIEW - LIMIT 10",
   "url": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=453",
@@ -33541,6 +33479,3056 @@
    {
     "file": "images/VT-0019-cover.jpg",
     "role": "cover"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1502",
+  "name": "MVVR AGARH — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/agarh",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown waterfront estate with heated pool, hot tub and carriage-house suite; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/agarh",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown waterfront estate with heated pool, hot tub and carriage-house suite; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/agarh",
+  "cardPhotos": [
+   "images/MA-1502-cover.webp",
+   "images/MA-1502-000.webp",
+   "images/MA-1502-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 7,
+  "bathrooms": 6.5,
+  "guests": 12,
+  "capacityDetails": "Own property detail: occupancy limit12, bedrooms7, full baths6, half baths1. Scope: Main home and carriage-house suite campus. Description welcomes extended families and describes a children’s room, but no explicit child admission policy is published.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD35,000–50,000. These are not nightly rates or a date-specific availability quote. Catalog summary USD35,000–50,000 differs from displayed June–September2027 weekly cells reachingUSD65,000; numeric from-price remains Unknown.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1502-card.webp",
+  "coverPhoto": "images/MA-1502-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1502-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1502-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1502-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1502-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1520",
+  "name": "MVVR ANGEB — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/angeb",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown village farmhouse retreat with guest quarters, wraparound deck, outdoor great room and bluestone patio.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/angeb",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown village farmhouse retreat with guest quarters, wraparound deck, outdoor great room and bluestone patio.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/angeb",
+  "cardPhotos": [
+   "images/MA-1520-cover.webp",
+   "images/MA-1520-000.webp",
+   "images/MA-1520-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 4.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms6, full baths4, half baths1. Scope: Main home and carriage guest-quarters campus. Six-bedroom count includes den/office with deluxe sofabed and two bedrooms over carriage house. Amenities/Features headings had no additional populated entries. Pets require case-by-case approval; fee unspecified.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Pet Friendly on a case by case basis, No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1520-card.webp",
+  "coverPhoto": "images/MA-1520-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1520-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1520-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1520-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1520-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1545",
+  "name": "MVVR BETTD — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/bettd",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown five-bedroom retreat with heated pool and covered porch, within walking distance of the village.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/bettd",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown five-bedroom retreat with heated pool and covered porch, within walking distance of the village.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/bettd",
+  "cardPhotos": [
+   "images/MA-1545-cover.webp",
+   "images/MA-1545-000.webp",
+   "images/MA-1545-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": "Unknown",
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths4, half bathsUnknown. Scope: Single home. Four full baths published; half-bath field blank. Seasonal pool heat surcharge may apply.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD10600 to USD23500; no nightly rate conversion.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1545-card.webp",
+  "coverPhoto": "images/MA-1545-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1545-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1545-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1545-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1545-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1533",
+  "name": "MVVR BETTE — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/bette",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown four-bedroom gambrel home with heated pool, bluestone patio and outdoor dining near town.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/bette",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown four-bedroom gambrel home with heated pool, bluestone patio and outdoor dining near town.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/bette",
+  "cardPhotos": [
+   "images/MA-1533-cover.webp",
+   "images/MA-1533-000.webp",
+   "images/MA-1533-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms4, full baths3, half baths1. Scope: Single home. Owner policy prohibits pets; no smoking policy stated in the owner line. Do not transfer other homes smoking rules.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,600–24,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1533-card.webp",
+  "coverPhoto": "images/MA-1533-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1533-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1533-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1533-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1533-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1703",
+  "name": "MVVR BOWKW — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/bowkw",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Edgartown vacation rental with 3 bedrooms and 2.5 bathrooms, advertised for up to 6 guests.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/bowkw",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown vacation rental with 3 bedrooms and 2.5 bathrooms, advertised for up to 6 guests.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/bowkw",
+  "cardPhotos": [
+   "images/MA-1703-cover.webp",
+   "images/MA-1703-000.webp",
+   "images/MA-1703-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2.5,
+  "guests": 6,
+  "capacityDetails": "Per-unit occupancy6,bedrooms3,fullbaths2,halfbaths1. No campus/operator totals transferred.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1703-card.webp",
+  "coverPhoto": "images/MA-1703-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1703-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1703-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1703-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1703-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1535",
+  "name": "MVVR BROSP — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/brosp",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown six-bedroom home with heated pool, landscaped grounds and a separate guest suite above the garage.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/brosp",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown six-bedroom home with heated pool, landscaped grounds and a separate guest suite above the garage.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/brosp",
+  "cardPhotos": [
+   "images/MA-1535-cover.webp",
+   "images/MA-1535-000.webp",
+   "images/MA-1535-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 5.5,
+  "guests": 12,
+  "capacityDetails": "Own property detail: occupancy limit12, bedrooms6, full baths5, half baths1. Scope: Main home and garage guest-suite campus. First body capture missed owner-policy text while loading; fresh loaded detail read verified NoPets/NoSmoking and full expanded facts. Five main-house bedrooms plus one garage guest suite are included as one offer.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD7,500–26,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1535-card.webp",
+  "coverPhoto": "images/MA-1535-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1535-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1535-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1535-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1535-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1527",
+  "name": "MVVR CALWM — Oak Bluffs",
+  "url": "https://www.mvvacationrentals.com/property/calwm",
+  "place": "Oak Bluffs, MA",
+  "town": "Oak Bluffs",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Oak Bluffs six-bedroom home in The Preserve with heated saltwater pool, screened porch and propane fire pit.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/calwm",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Oak Bluffs six-bedroom home in The Preserve with heated saltwater pool, screened porch and propane fire pit.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/calwm",
+  "cardPhotos": [
+   "images/MA-1527-cover.webp",
+   "images/MA-1527-000.webp",
+   "images/MA-1527-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 6.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms6, full baths5, half baths3. Scope: Single home. Owner policies prohibit pets and smoking; no child admission rule found.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD17,000–32,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4536,
+  "lng": -70.5684,
+  "photo": "images/MA-1527-card.webp",
+  "coverPhoto": "images/MA-1527-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1527-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1527-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1527-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1527-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1522",
+  "name": "MVVR CARDA — Chilmark",
+  "url": "https://www.mvvacationrentals.com/property/carda",
+  "place": "Chilmark, MA",
+  "town": "Chilmark",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Chilmark five-bedroom home on a high knoll with Atlantic views, gardens and a hot tub.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/carda",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Chilmark five-bedroom home on a high knoll with Atlantic views, gardens and a hot tub.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/carda",
+  "cardPhotos": [
+   "images/MA-1522-cover.webp",
+   "images/MA-1522-000.webp",
+   "images/MA-1522-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths4, half baths1. Scope: Single home. Tree swings are described for children, but child admission ages/rules are not explicit. Seven-night minimum.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD18,500–25,750. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3431,
+  "lng": -70.744,
+  "photo": "images/MA-1522-card.webp",
+  "coverPhoto": "images/MA-1522-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1522-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1522-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1522-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1522-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1521",
+  "name": "MVVR CAS65 — West Tisbury",
+  "url": "https://www.mvvacationrentals.com/property/cas65",
+  "place": "West Tisbury, MA",
+  "town": "West Tisbury",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "West Tisbury main and guest-house retreat with heated pool, outdoor living area and pond access.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/cas65",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "West Tisbury main and guest-house retreat with heated pool, outdoor living area and pond access.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/cas65",
+  "cardPhotos": [
+   "images/MA-1521-cover.webp",
+   "images/MA-1521-000.webp",
+   "images/MA-1521-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms4, full baths4, half baths0. Scope: Main and guest-house campus. June–October describes availability, not a minimum stay. Children bedroom and nearby family beaches described, but no explicit child admission rule.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD19,000–26,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.381,
+  "lng": -70.6745,
+  "photo": "images/MA-1521-card.webp",
+  "coverPhoto": "images/MA-1521-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1521-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1521-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1521-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1521-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1528",
+  "name": "MVVR CHOAY — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/choay",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown four-bedroom home with heated pool, pickleball court and multiple living spaces; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/choay",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown four-bedroom home with heated pool, pickleball court and multiple living spaces; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/choay",
+  "cardPhotos": [
+   "images/MA-1528-cover.webp",
+   "images/MA-1528-000.webp",
+   "images/MA-1528-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4.5,
+  "guests": 9,
+  "capacityDetails": "Own property detail: occupancy limit9, bedrooms4, full baths4, half baths1. Scope: Single home. Full4 plus half1 bath agrees with4.5-bath feature heading.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD12,000–25,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1528-card.webp",
+  "coverPhoto": "images/MA-1528-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1528-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1528-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1528-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1528-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1705",
+  "name": "MVVR CLARO — Oak Bluffs",
+  "url": "https://www.mvvacationrentals.com/property/claro",
+  "place": "Oak Bluffs, MA",
+  "town": "Oak Bluffs",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Oak Bluffs vacation rental with 4 bedrooms and 3.5 bathrooms, advertised for up to 8 guests.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/claro",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Oak Bluffs vacation rental with 4 bedrooms and 3.5 bathrooms, advertised for up to 8 guests.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/claro",
+  "cardPhotos": [
+   "images/MA-1705-cover.webp",
+   "images/MA-1705-000.webp",
+   "images/MA-1705-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3.5,
+  "guests": 8,
+  "capacityDetails": "Per-unit occupancy8,bedrooms4,fullbaths3,halfbaths1. No campus/operator totals transferred.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4536,
+  "lng": -70.5684,
+  "photo": "images/MA-1705-card.webp",
+  "coverPhoto": "images/MA-1705-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1705-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1705-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1705-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1705-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1503",
+  "name": "MVVR COM27 — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/com27",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown six-bedroom retreat with heated pool, spa, outdoor kitchen and furnished pool house; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/com27",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown six-bedroom retreat with heated pool, spa, outdoor kitchen and furnished pool house; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/com27",
+  "cardPhotos": [
+   "images/MA-1503-cover.webp",
+   "images/MA-1503-000.webp",
+   "images/MA-1503-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 6.5,
+  "guests": 12,
+  "capacityDetails": "Own property detail: occupancy limit12, bedrooms6, full baths5, half baths3. Scope: Single home with amenity pool house. Pool house is described as an amenity, not a separately counted rental.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD25,000–47,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1503-card.webp",
+  "coverPhoto": "images/MA-1503-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1503-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1503-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1503-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1503-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1532",
+  "name": "MVVR COS67 — Vineyard Haven",
+  "url": "https://www.mvvacationrentals.com/property/cos67",
+  "place": "Vineyard Haven, MA",
+  "town": "Vineyard Haven",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Vineyard Haven three-bedroom home with bluestone dining patio, grill and landscaped yard on a quiet street.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/cos67",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Vineyard Haven three-bedroom home with bluestone dining patio, grill and landscaped yard on a quiet street.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/cos67",
+  "cardPhotos": [
+   "images/MA-1532-cover.webp",
+   "images/MA-1532-000.webp",
+   "images/MA-1532-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3.5,
+  "guests": 7,
+  "capacityDetails": "Own property detail: occupancy limit7, bedrooms3, full baths3, half baths1. Scope: Single home. No child admission rules published; published weekly calendar prices vary by season.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD6,000–24,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4543,
+  "lng": -70.6038,
+  "photo": "images/MA-1532-card.webp",
+  "coverPhoto": "images/MA-1532-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1532-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1532-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1532-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1532-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1505",
+  "name": "MVVR DESAM — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/desam",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown main and guest-house compound with heated pool, cabana and hot tub; two-week minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/desam",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown main and guest-house compound with heated pool, cabana and hot tub; two-week minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/desam",
+  "cardPhotos": [
+   "images/MA-1505-cover.webp",
+   "images/MA-1505-000.webp",
+   "images/MA-1505-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 7,
+  "guests": 12,
+  "capacityDetails": "Own property detail: occupancy limit12, bedrooms6, full baths6, half baths2. Scope: Main and guest-house compound campus. Two-week minimum explicitly stated. Main and guest house are one combined accommodation offer.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD45,000–45,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking; 2 week stay required",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1505-card.webp",
+  "coverPhoto": "images/MA-1505-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1505-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1505-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1505-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1505-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1501",
+  "name": "MVVR ENGLJ — Chilmark",
+  "url": "https://www.mvvacationrentals.com/property/englj",
+  "place": "Chilmark, MA",
+  "town": "Chilmark",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Chilmark estate with main and guest houses, an infinity pool and Atlantic views; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/englj",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Chilmark estate with main and guest houses, an infinity pool and Atlantic views; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/englj",
+  "cardPhotos": [
+   "images/MA-1501-cover.webp",
+   "images/MA-1501-000.webp",
+   "images/MA-1501-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 5.5,
+  "guests": 12,
+  "capacityDetails": "Own property detail: occupancy limit12, bedrooms6, full baths5, half baths1. Scope: Main and guest-house estate campus. Guest cottage is included; do not split it into an extra rental. No explicit child admission rule found.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD30,000–55,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets",
+  "lat": 41.3431,
+  "lng": -70.744,
+  "photo": "images/MA-1501-card.webp",
+  "coverPhoto": "images/MA-1501-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1501-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1501-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1501-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1501-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1509",
+  "name": "MVVR FINNM — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/finnm",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown five-bedroom home with heated saltwater pool and multiple living areas near Fuller Street Beach.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/finnm",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown five-bedroom home with heated saltwater pool and multiple living areas near Fuller Street Beach.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/finnm",
+  "cardPhotos": [
+   "images/MA-1509-cover.webp",
+   "images/MA-1509-000.webp",
+   "images/MA-1509-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 5.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths5, half baths1. Scope: Single home. Full and half bath fields are recorded separately; no child admission policy published.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD25000 to USD40000. Published seasonal calendar weekly values: USD25,000–40,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1509-card.webp",
+  "coverPhoto": "images/MA-1509-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1509-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1509-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1509-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1509-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1518",
+  "name": "MVVR GREJN — Vineyard Haven",
+  "url": "https://www.mvvacationrentals.com/property/grejn",
+  "place": "Vineyard Haven, MA",
+  "town": "Vineyard Haven",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "West Chop five-bedroom home in Vineyard Haven with heated pool, landscaped yard and modern living spaces.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/grejn",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "West Chop five-bedroom home in Vineyard Haven with heated pool, landscaped yard and modern living spaces.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/grejn",
+  "cardPhotos": [
+   "images/MA-1518-cover.webp",
+   "images/MA-1518-000.webp",
+   "images/MA-1518-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": "Unknown",
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths5, half bathsUnknown. Scope: Single home. Two gallery assets explicitly named AI edits were excluded from authentic-photo set; selected other observed photographs. Exact street not inferred from asset filenames. Full5 baths published; half-bath field blank.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD18,000–30,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4543,
+  "lng": -70.6038,
+  "photo": "images/MA-1518-card.webp",
+  "coverPhoto": "images/MA-1518-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1518-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1518-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1518-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1518-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1539",
+  "name": "MVVR HARSY — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/harsy",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown four-bedroom home with heated pool, spa and multiple living areas; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/harsy",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown four-bedroom home with heated pool, spa and multiple living areas; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/harsy",
+  "cardPhotos": [
+   "images/MA-1539-cover.webp",
+   "images/MA-1539-000.webp",
+   "images/MA-1539-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms4, full baths3, half baths2. Scope: Single home. Bathroom conflict: header and bath description3full+2half imply4total; feature heading says3.5baths. No explicit correction, normalized bathrooms Unknown.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD7,500–25,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1539-card.webp",
+  "coverPhoto": "images/MA-1539-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1539-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1539-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1539-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1539-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1536",
+  "name": "MVVR HERGT — Chilmark",
+  "url": "https://www.mvvacationrentals.com/property/hergt",
+  "place": "Chilmark, MA",
+  "town": "Chilmark",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Chilmark four-bedroom retreat with heated pool, pavilion, gardens and key access to private Quansoo Beach.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/hergt",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Chilmark four-bedroom retreat with heated pool, pavilion, gardens and key access to private Quansoo Beach.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/hergt",
+  "cardPhotos": [
+   "images/MA-1536-cover.webp",
+   "images/MA-1536-000.webp",
+   "images/MA-1536-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3.5,
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms4, full baths3, half baths1. Scope: Single home. Pool pavilion is an amenity; private beach key access published. Seven-night minimum.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–23,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3431,
+  "lng": -70.744,
+  "photo": "images/MA-1536-card.webp",
+  "coverPhoto": "images/MA-1536-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1536-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1536-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1536-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1536-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1543",
+  "name": "MVVR HODGE — Vineyard Haven",
+  "url": "https://www.mvvacationrentals.com/property/hodge",
+  "place": "Vineyard Haven, MA",
+  "town": "Vineyard Haven",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Vineyard Haven six-bedroom lagoonfront retreat with private sandy beach area, dock and waterfront patio.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/hodge",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Vineyard Haven six-bedroom lagoonfront retreat with private sandy beach area, dock and waterfront patio.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/hodge",
+  "cardPhotos": [
+   "images/MA-1543-cover.webp",
+   "images/MA-1543-000.webp",
+   "images/MA-1543-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 5.5,
+  "guests": 12,
+  "capacityDetails": "Own property detail: occupancy limit12, bedrooms6, full baths5, half baths1. Scope: Waterfront home described as family compound; component count not asserted. Private dock/mooring use and bringing a boat require owner approval; do not present unrestricted dock access.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD8500 to USD25500; no nightly rate conversion.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4543,
+  "lng": -70.6038,
+  "photo": "images/MA-1543-card.webp",
+  "coverPhoto": "images/MA-1543-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1543-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1543-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1543-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1543-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1544",
+  "name": "MVVR HOL14 — Oak Bluffs",
+  "url": "https://www.mvvacationrentals.com/property/hol14",
+  "place": "Oak Bluffs, MA",
+  "town": "Oak Bluffs",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Oak Bluffs four-bedroom waterfront home on the lagoon with porch seating and sunset views; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/hol14",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Oak Bluffs four-bedroom waterfront home on the lagoon with porch seating and sunset views; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/hol14",
+  "cardPhotos": [
+   "images/MA-1544-cover.webp",
+   "images/MA-1544-000.webp",
+   "images/MA-1544-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4.5,
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms4, full baths4, half baths1. Scope: Single home. Dogs must weigh under30lbs and have owner permission. Exact additional security depositUSD1500 and pet cleaning feeUSD200 published.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD5000 to USD22000; no nightly rate conversion.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Dogs under 30 lbs Permitted with Owner Permission with additional security deposit ($1500) & cleaning fee ($200 ). No Smoking",
+  "lat": 41.4536,
+  "lng": -70.5684,
+  "photo": "images/MA-1544-card.webp",
+  "coverPhoto": "images/MA-1544-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1544-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1544-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1544-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1544-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1511",
+  "name": "MVVR KOPF3 — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/kopf3",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Casa Katama compound with main and guest houses, heated pool, pool house, hot tub and entertainment areas.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/kopf3",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Casa Katama compound with main and guest houses, heated pool, pool house, hot tub and entertainment areas.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/kopf3",
+  "cardPhotos": [
+   "images/MA-1511-cover.webp",
+   "images/MA-1511-000.webp",
+   "images/MA-1511-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 8.5,
+  "guests": 16,
+  "capacityDetails": "Own property detail: occupancy limit16, bedrooms6, full baths8, half baths1. Scope: Main and guest-house compound campus. Dogs require approval; fee and size/count restrictions not stated. Text describes children/teen suites and toddler play area, without explicit child admission rules. Filename contains a street address but is not used as address evidence.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD35,000–40,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Dogs Permitted upon Approval, No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1511-card.webp",
+  "coverPhoto": "images/MA-1511-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1511-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1511-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1511-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1511-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1514",
+  "name": "MVVR LEEDB — West Tisbury",
+  "url": "https://www.mvvacationrentals.com/property/leedb",
+  "place": "West Tisbury, MA",
+  "town": "West Tisbury",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "West Tisbury five-bedroom home in Deep Bottom with heated saltwater pool, spa, deck and association tennis.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/leedb",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "West Tisbury five-bedroom home in Deep Bottom with heated saltwater pool, spa, deck and association tennis.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/leedb",
+  "cardPhotos": [
+   "images/MA-1514-cover.webp",
+   "images/MA-1514-000.webp",
+   "images/MA-1514-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 5.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths5, half baths1. Scope: Single home. Full5 plus half1 bath agrees with5.5-bath feature heading. No child admission rule published.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD24,000–32,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.381,
+  "lng": -70.6745,
+  "photo": "images/MA-1514-card.webp",
+  "coverPhoto": "images/MA-1514-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1514-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1514-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1514-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1514-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1513",
+  "name": "MVVR LYDOA — Katama",
+  "url": "https://www.mvvacationrentals.com/property/lydoa",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Katama four-bedroom home with heated pool, spa and indoor/outdoor lounge areas between town and South Beach.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/lydoa",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Katama four-bedroom home with heated pool, spa and indoor/outdoor lounge areas between town and South Beach.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/lydoa",
+  "cardPhotos": [
+   "images/MA-1513-cover.webp",
+   "images/MA-1513-000.webp",
+   "images/MA-1513-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms4, full baths4, half baths2. Scope: Single home. Published7-night minimum applies July and August; other dates require inquiry. Do not apply that minimum year round.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD14,000–32,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1513-card.webp",
+  "coverPhoto": "images/MA-1513-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1513-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1513-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1513-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1513-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1529",
+  "name": "MVVR MACEE — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/macee",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Katama-area three-bedroom contemporary home with heated pool, near South Beach and Edgartown village.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/macee",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Katama-area three-bedroom contemporary home with heated pool, near South Beach and Edgartown village.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/macee",
+  "cardPhotos": [
+   "images/MA-1529-cover.webp",
+   "images/MA-1529-000.webp",
+   "images/MA-1529-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2.5,
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms3, full baths2, half baths1. Scope: Single home. Header states14-day minimum without scope; owner note specifies August weeks. Confirm other months with agent. Owner advertises room-tax exemption; not independently established.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD25,000–25,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Smoking & No Pets; Two-week minimum stay required August weeks",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1529-card.webp",
+  "coverPhoto": "images/MA-1529-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1529-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1529-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1529-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1529-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1523",
+  "name": "MVVR MACMA — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/macma",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown four-bedroom contemporary home with heated pool, patio and lawn near the village center.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/macma",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown four-bedroom contemporary home with heated pool, patio and lawn near the village center.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/macma",
+  "cardPhotos": [
+   "images/MA-1523-cover.webp",
+   "images/MA-1523-000.webp",
+   "images/MA-1523-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms4, full baths3, half baths1. Scope: Single home. Two pull-out trundle sections are suitable for children/teens, not adults. Capacity10 is published but this bed-use restriction remains. No explicit child admission rule.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–25,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1523-card.webp",
+  "coverPhoto": "images/MA-1523-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1523-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1523-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1523-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1523-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1506",
+  "name": "MVVR MAL68 — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/mal68",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown main and guest-house compound with a heated pool, patio and village beach access.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/mal68",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown main and guest-house compound with a heated pool, patio and village beach access.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/mal68",
+  "cardPhotos": [
+   "images/MA-1506-cover.webp",
+   "images/MA-1506-000.webp",
+   "images/MA-1506-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": 14,
+  "capacityDetails": "Own property detail: occupancy limit14, bedroomsUnknown, full bathsUnknown, half bathsUnknown. Scope: Main and guest-house compound campus. Conflicting unit facts: header5 bedrooms/4 full+1half bath; description7 bedrooms/5.5baths and bath description5full+1half. Normalized bedrooms and bathrooms Unknown. Describes N Water Street without a house number.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD25000 to USD50000. Published seasonal calendar weekly values: USD25,000–50,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1506-card.webp",
+  "coverPhoto": "images/MA-1506-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1506-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1506-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1506-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1506-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1510",
+  "name": "MVVR MALFC — Katama",
+  "url": "https://www.mvvacationrentals.com/property/malfc",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Katama main and guest carriage-house retreat with a heated pool, landscaped yard and outdoor dining.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/malfc",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Katama main and guest carriage-house retreat with a heated pool, landscaped yard and outdoor dining.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/malfc",
+  "cardPhotos": [
+   "images/MA-1510-cover.webp",
+   "images/MA-1510-000.webp",
+   "images/MA-1510-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4.5,
+  "guests": 9,
+  "capacityDetails": "Own property detail: occupancy limit9, bedrooms5, full baths4, half baths1. Scope: Main and guest carriage-house campus. Availability May–October is seasonal availability, not a minimum stay. Pets require approval and additional unspecified fees.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD20000 to USD40000. Published seasonal calendar weekly values: USD20,000–40,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1510-card.webp",
+  "coverPhoto": "images/MA-1510-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1510-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1510-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1510-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1510-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1531",
+  "name": "MVVR MAN15 — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/man15",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown village five-bedroom home with heated pool, poolside spa and multiple indoor/outdoor lounge areas.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/man15",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown village five-bedroom home with heated pool, poolside spa and multiple indoor/outdoor lounge areas.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/man15",
+  "cardPhotos": [
+   "images/MA-1531-cover.webp",
+   "images/MA-1531-000.webp",
+   "images/MA-1531-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4.5,
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms5, full baths4, half baths1. Scope: Single home. Published occupancy8, despite5bedrooms; do not infer10from bed count.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD25,000–32,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1531-card.webp",
+  "coverPhoto": "images/MA-1531-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1531-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1531-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1531-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1531-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1542",
+  "name": "MVVR MANNB — Katama",
+  "url": "https://www.mvvacationrentals.com/property/mannb",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Katama four-bedroom home with heated pool, deck and screened porch between Edgartown village and South Beach.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/mannb",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Katama four-bedroom home with heated pool, deck and screened porch between Edgartown village and South Beach.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/mannb",
+  "cardPhotos": [
+   "images/MA-1542-cover.webp",
+   "images/MA-1542-000.webp",
+   "images/MA-1542-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms4, full baths4, half baths1. Scope: Single home. Bedroom includes King plus2built-in bunks described as childrens bedroom; no explicit admission rule. Pool heat charges vary by exact shoulder-season week.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD7250 to USD24500; no nightly rate conversion.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1542-card.webp",
+  "coverPhoto": "images/MA-1542-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1542-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1542-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1542-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1542-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1512",
+  "name": "MVVR MOR12 — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/mor12",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown three-bedroom luxury home with heated saltwater pool, spa, outdoor kitchen and pickleball court.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/mor12",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown three-bedroom luxury home with heated saltwater pool, spa, outdoor kitchen and pickleball court.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/mor12",
+  "cardPhotos": [
+   "images/MA-1512-cover.webp",
+   "images/MA-1512-000.webp",
+   "images/MA-1512-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 5,
+  "guests": 6,
+  "capacityDetails": "Own property detail: occupancy limit6, bedrooms3, full baths4, half baths2. Scope: Single home. Owner policy prohibits smoking but does not address pets; expanded amenities and shared policy also lack a pet rule. Pets Unknown.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD21,000–36,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1512-card.webp",
+  "coverPhoto": "images/MA-1512-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1512-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1512-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1512-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1512-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1517",
+  "name": "MVVR MORS2 — Light House, Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/mors2",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Light House, a four-bedroom harborfront home in a two-house Edgartown campus near village beaches.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/mors2",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Light House, a four-bedroom harborfront home in a two-house Edgartown campus near village beaches.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/mors2",
+  "cardPhotos": [
+   "images/MA-1517-cover.webp",
+   "images/MA-1517-000.webp",
+   "images/MA-1517-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms4, full baths4, half bathsUnknown. Scope: Light House individually rented home in shared two-house campus. One specific home in a shared two-house compound; do not count both campus buildings as included. MORS4 may be related; retain overlap review. One gallery campus photo has MORS4 filename and is labeled shared-campus exterior, not a separate-unit interior.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–30,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1517-card.webp",
+  "coverPhoto": "images/MA-1517-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1517-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1517-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1517-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1517-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1526",
+  "name": "MVVR MORS4 — Ferry House, Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/mors4",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Ferry House, a three-bedroom harborfront home in a two-house Edgartown campus near village beaches.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/mors4",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Ferry House, a three-bedroom harborfront home in a two-house Edgartown campus near village beaches.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/mors4",
+  "cardPhotos": [
+   "images/MA-1526-cover.webp",
+   "images/MA-1526-000.webp",
+   "images/MA-1526-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 6,
+  "capacityDetails": "Own property detail: occupancy limit6, bedrooms3, full baths3, half bathsUnknown. Scope: Ferry House individually rented home in shared two-house campus. Distinct named Ferry House offer versus MORS2 Light House; their arrows identify separate physical houses. Shared campus exteriors are retained with scope labels; no interiors transferred.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,000–25,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Pet Friendly on a case-by-case basis - additional fees required inquire with agent, No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1526-card.webp",
+  "coverPhoto": "images/MA-1526-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1526-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1526-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1526-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1526-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1507",
+  "name": "MVVR NADE5 — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/nade5",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown seven-bedroom waterfront home with heated saltwater pool, spa and screened porch.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/nade5",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown seven-bedroom waterfront home with heated saltwater pool, spa and screened porch.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/nade5",
+  "cardPhotos": [
+   "images/MA-1507-cover.webp",
+   "images/MA-1507-000.webp",
+   "images/MA-1507-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 7,
+  "bathrooms": "Unknown",
+  "guests": 14,
+  "capacityDetails": "Own property detail: occupancy limit14, bedrooms7, full baths7, half baths2. Scope: Single home. Header7full+2half baths conflicts with prose5en-suite bedrooms and2sharing1bath, which implies6full. Bathroom count requires clarification.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD29000 to USD49000. Published seasonal calendar weekly values: USD29,000–49,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1507-card.webp",
+  "coverPhoto": "images/MA-1507-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1507-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1507-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1507-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1507-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1530",
+  "name": "MVVR PAL77 — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/pal77",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown village five-bedroom home with heated pool and spa, private suites and outdoor lounge areas.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/pal77",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown village five-bedroom home with heated pool and spa, private suites and outdoor lounge areas.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/pal77",
+  "cardPhotos": [
+   "images/MA-1530-cover.webp",
+   "images/MA-1530-000.webp",
+   "images/MA-1530-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 6,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths5, half baths2. Scope: Single home. Each of5 bedrooms has a private bath;2powder rooms additional. Pool/spa heat feeUSD300perweek published; off-season conditions differ.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD14,000–25,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking; 2 week minimum stay required",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1530-card.webp",
+  "coverPhoto": "images/MA-1530-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1530-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1530-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1530-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1530-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1541",
+  "name": "MVVR PEDLF — West Tisbury",
+  "url": "https://www.mvvacationrentals.com/property/pedlf",
+  "place": "West Tisbury, MA",
+  "town": "West Tisbury",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "West Tisbury four-bedroom retreat with extensive stonework, heated pool, patio and screened porch.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/pedlf",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "West Tisbury four-bedroom retreat with extensive stonework, heated pool, patio and screened porch.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/pedlf",
+  "cardPhotos": [
+   "images/MA-1541-cover.webp",
+   "images/MA-1541-000.webp",
+   "images/MA-1541-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms4, full baths4, half bathsUnknown. Scope: Single home. Bathroom conflict: header4full with blank half count; feature heading5baths. Normalized bathrooms Unknown.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed seasonal weekly calendar quotes range from USD18500 to USD22500; no nightly rate conversion.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.381,
+  "lng": -70.6745,
+  "photo": "images/MA-1541-card.webp",
+  "coverPhoto": "images/MA-1541-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1541-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1541-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1541-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1541-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1704",
+  "name": "MVVR PEOTA — Oak Bluffs",
+  "url": "https://www.mvvacationrentals.com/property/peota",
+  "place": "Oak Bluffs, MA",
+  "town": "Oak Bluffs",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Oak Bluffs vacation rental with 2 bedrooms and 2.0 bathrooms, advertised for up to 4 guests.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/peota",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Oak Bluffs vacation rental with 2 bedrooms and 2.0 bathrooms, advertised for up to 4 guests.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/peota",
+  "cardPhotos": [
+   "images/MA-1704-cover.webp",
+   "images/MA-1704-000.webp",
+   "images/MA-1704-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 4,
+  "capacityDetails": "Per-unit occupancy4,bedrooms2,fullbaths2,halfbaths0. No campus/operator totals transferred.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4536,
+  "lng": -70.5684,
+  "photo": "images/MA-1704-card.webp",
+  "coverPhoto": "images/MA-1704-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1704-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1704-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1704-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1704-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1702",
+  "name": "MVVR PHOUE — Vineyard Haven",
+  "url": "https://www.mvvacationrentals.com/property/phoue",
+  "place": "Vineyard Haven, MA",
+  "town": "Vineyard Haven",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Vineyard Haven vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 7 guests.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/phoue",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Vineyard Haven vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 7 guests.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/phoue",
+  "cardPhotos": [
+   "images/MA-1702-cover.webp",
+   "images/MA-1702-000.webp",
+   "images/MA-1702-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 7,
+  "capacityDetails": "Per-unit occupancy7,bedrooms4,fullbaths2,halfbaths0. No campus/operator totals transferred.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4543,
+  "lng": -70.6038,
+  "photo": "images/MA-1702-card.webp",
+  "coverPhoto": "images/MA-1702-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1702-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1702-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1702-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1702-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1508",
+  "name": "MVVR RANSW — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/ransw",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown harborfront home with heated pool, bluestone patio and wraparound decks; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/ransw",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown harborfront home with heated pool, bluestone patio and wraparound decks; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/ransw",
+  "cardPhotos": [
+   "images/MA-1508-cover.webp",
+   "images/MA-1508-000.webp",
+   "images/MA-1508-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 6.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths6, half baths1. Scope: Single home. Published bed types differ between bedroom list and prose; maximum10 and5bedrooms agree.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Displayed weekly calendar values observed from USD18000 to USD60000. Published seasonal calendar weekly values: USD18,000–60,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1508-card.webp",
+  "coverPhoto": "images/MA-1508-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1508-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1508-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1508-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1508-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1538",
+  "name": "MVVR ROGLM — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/roglm",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Katama-area four-bedroom coastal home with saltwater pool and spa, under a mile from South Beach.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/roglm",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Katama-area four-bedroom coastal home with saltwater pool and spa, under a mile from South Beach.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/roglm",
+  "cardPhotos": [
+   "images/MA-1538-cover.webp",
+   "images/MA-1538-000.webp",
+   "images/MA-1538-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms4, full baths3, half baths1. Scope: Single home. Published gallery also includes roglm26-rendering.jpg. It remains a separate observed rendering candidate, not evidence of current built appearance. Four other actual interior photographs selected.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD7,000–23,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1538-card.webp",
+  "coverPhoto": "images/MA-1538-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1538-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1538-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1538-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1538-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1540",
+  "name": "MVVR ROSBE — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/rosbe",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown Oyster Pond estate with main home, carriage-house guest suite, heated pool and landscaped grounds.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/rosbe",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown Oyster Pond estate with main home, carriage-house guest suite, heated pool and landscaped grounds.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/rosbe",
+  "cardPhotos": [
+   "images/MA-1540-cover.webp",
+   "images/MA-1540-000.webp",
+   "images/MA-1540-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 7,
+  "bathrooms": 5.5,
+  "guests": 14,
+  "capacityDetails": "Own property detail: occupancy limit14, bedrooms7, full baths5, half baths1. Scope: Main home and carriage guest-suite campus. Seven bedrooms span main home and guest suite above carriage house, one combined offer. Pets require case-by-case approval; conditions unspecified.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD14,000–27,500. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Pet Friendly on a case by case basis, No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1540-card.webp",
+  "coverPhoto": "images/MA-1540-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1540-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1540-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1540-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1540-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1701",
+  "name": "MVVR SHEMI — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/shemi",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Edgartown vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 8 guests.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/shemi",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown vacation rental with 4 bedrooms and 2.0 bathrooms, advertised for up to 8 guests.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/shemi",
+  "cardPhotos": [
+   "images/MA-1701-cover.webp",
+   "images/MA-1701-000.webp",
+   "images/MA-1701-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Per-unit occupancy8,bedrooms4,fullbaths2,halfbaths0. No campus/operator totals transferred.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Seasonal weekly calendar quotes; not normalized to evergreen nightly from-price. Additional cleaning/service/tax/security charges published.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child admission statement found after individual Owner Policies, expanded Features/Amenities/full description and shared Rental Policies. Generic inquiry child selector and family marketing are not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1701-card.webp",
+  "coverPhoto": "images/MA-1701-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1701-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1701-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1701-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1701-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1537",
+  "name": "MVVR SIMOA — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/simoa",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown four-bedroom village home with saltwater pool and spa, near shops, dining and harbor.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/simoa",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown four-bedroom village home with saltwater pool and spa, near shops, dining and harbor.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/simoa",
+  "cardPhotos": [
+   "images/MA-1537-cover.webp",
+   "images/MA-1537-000.webp",
+   "images/MA-1537-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms4, full baths4, half bathsUnknown. Scope: Single home. Full4baths published; half-bath field blank. Shoulder-season pool/spa heat requires surcharge.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD12,000–23,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1537-card.webp",
+  "coverPhoto": "images/MA-1537-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1537-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1537-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1537-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1537-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1515",
+  "name": "MVVR SMAP6 — Oak Bluffs",
+  "url": "https://www.mvvacationrentals.com/property/smap6",
+  "place": "Oak Bluffs, MA",
+  "town": "Oak Bluffs",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Oak Bluffs compound in The Preserve with heated pool, landscaped grounds and multiple lounge areas.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/smap6",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Oak Bluffs compound in The Preserve with heated pool, landscaped grounds and multiple lounge areas.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/smap6",
+  "cardPhotos": [
+   "images/MA-1515-cover.webp",
+   "images/MA-1515-000.webp",
+   "images/MA-1515-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 6,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths5, half baths2. Scope: Combined compound campus. Own feature title identifies compound; retain one combined offer pending any separately marketed component overlap.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD17,500–32,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4536,
+  "lng": -70.5684,
+  "photo": "images/MA-1515-card.webp",
+  "coverPhoto": "images/MA-1515-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1515-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1515-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1515-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1515-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1525",
+  "name": "MVVR SUDRL — Chilmark",
+  "url": "https://www.mvvacationrentals.com/property/sudrl",
+  "place": "Chilmark, MA",
+  "town": "Chilmark",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Chilmark waterfront main and guest-house retreat with Vineyard Sound views and private association beach access.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/sudrl",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Chilmark waterfront main and guest-house retreat with Vineyard Sound views and private association beach access.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/sudrl",
+  "cardPhotos": [
+   "images/MA-1525-cover.webp",
+   "images/MA-1525-000.webp",
+   "images/MA-1525-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3.5,
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms5, full baths3, half baths1. Scope: Main and guest-house campus. Main and guest house form one offer. Own description says private Spring Point Beach about150yards away.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD15,000–25,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3431,
+  "lng": -70.744,
+  "photo": "images/MA-1525-card.webp",
+  "coverPhoto": "images/MA-1525-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1525-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1525-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1525-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1525-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1524",
+  "name": "MVVR TAYLC — Oak Bluffs",
+  "url": "https://www.mvvacationrentals.com/property/taylc",
+  "place": "Oak Bluffs, MA",
+  "town": "Oak Bluffs",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Oak Bluffs five-bedroom home in The Preserve with heated pool and indoor/outdoor entertainment spaces.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/taylc",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Oak Bluffs five-bedroom home in The Preserve with heated pool and indoor/outdoor entertainment spaces.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/taylc",
+  "cardPhotos": [
+   "images/MA-1524-cover.webp",
+   "images/MA-1524-000.webp",
+   "images/MA-1524-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths4, half baths1. Scope: Single home. Spa is normally the same temperature as pool, jets off. Owner activation requires extra fee; not an unrestricted included hot tub.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD12,500–30,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.4536,
+  "lng": -70.5684,
+  "photo": "images/MA-1524-card.webp",
+  "coverPhoto": "images/MA-1524-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1524-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1524-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1524-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1524-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1534",
+  "name": "MVVR WALSJ — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/walsj",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown four-bedroom village home with heated saltwater pool and pool cabana/office; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/walsj",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown four-bedroom village home with heated saltwater pool and pool cabana/office; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/walsj",
+  "cardPhotos": [
+   "images/MA-1534-cover.webp",
+   "images/MA-1534-000.webp",
+   "images/MA-1534-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "guests": 8,
+  "capacityDetails": "Own property detail: occupancy limit8, bedrooms4, full baths2, half baths1. Scope: Single home with amenity cabana. Cabana is described as office/amenity space, not a separate rental.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD22,000–24,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1534-card.webp",
+  "coverPhoto": "images/MA-1534-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1534-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1534-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1534-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1534-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1519",
+  "name": "MVVR WEEKW — Edgartown",
+  "url": "https://www.mvvacationrentals.com/property/weekw",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Edgartown seven-bedroom home with pool, manicured grounds and covered outdoor seating; seven-night minimum.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/weekw",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Edgartown seven-bedroom home with pool, manicured grounds and covered outdoor seating; seven-night minimum.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/weekw",
+  "cardPhotos": [
+   "images/MA-1519-cover.webp",
+   "images/MA-1519-000.webp",
+   "images/MA-1519-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 7,
+  "bathrooms": 6.5,
+  "guests": 12,
+  "capacityDetails": "Own property detail: occupancy limit12, bedrooms7, full baths6, half baths1. Scope: Single home. No child admission rule published after expanded detail and shared policy review.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD10,500–35,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1519-card.webp",
+  "coverPhoto": "images/MA-1519-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1519-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1519-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1519-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1519-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1504",
+  "name": "MVVR WINGR — Chilmark",
+  "url": "https://www.mvvacationrentals.com/property/wingr",
+  "place": "Chilmark, MA",
+  "town": "Chilmark",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Chilmark five-bedroom home with ocean views, wraparound decks and private association beach access.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/wingr",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Chilmark five-bedroom home with ocean views, wraparound decks and private association beach access.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/wingr",
+  "cardPhotos": [
+   "images/MA-1504-cover.webp",
+   "images/MA-1504-000.webp",
+   "images/MA-1504-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 5,
+  "guests": 10,
+  "capacityDetails": "Own detail publishes occupancy10, bedrooms5 and full baths5; half-bath field is blank, so additional half baths are Unknown.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published catalog summary weekly values: USD30,000–45,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "Pet Friendly on a case-by-case basis (additional $100 per pet cleaning fee), No Smoking",
+  "lat": 41.3431,
+  "lng": -70.744,
+  "photo": "images/MA-1504-card.webp",
+  "coverPhoto": "images/MA-1504-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1504-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1504-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1504-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1504-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1516",
+  "name": "MVVR YAEGM — Katama",
+  "url": "https://www.mvvacationrentals.com/property/yaegm",
+  "place": "Edgartown, MA",
+  "town": "Edgartown",
+  "state": "MA",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Katama five-bedroom home with large heated pool, pool house and patio between the village and South Beach.",
+  "descriptionSource": "https://www.mvvacationrentals.com/property/yaegm",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Katama five-bedroom home with large heated pool, pool house and patio between the village and South Beach.",
+  "cardDescriptionSource": "https://www.mvvacationrentals.com/property/yaegm",
+  "cardPhotos": [
+   "images/MA-1516-cover.webp",
+   "images/MA-1516-000.webp",
+   "images/MA-1516-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 6.5,
+  "guests": 10,
+  "capacityDetails": "Own property detail: occupancy limit10, bedrooms5, full baths6, half baths1. Scope: Single home with amenity pool house. Two-week minimum applies July weeks only; other dates Unknown. Description includes a children/teen bedroom, without explicit admission rules.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own site publishes seasonal weekly calendar rates and additional cleaning, service, tax and security charges; no dates or quote were submitted. Numeric from-price not normalized in this pass. Published seasonal calendar weekly values: USD27,000–32,000. These are not nightly rates or a date-specific availability quote.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "No explicit child-admission policy found after reading Owner Policies, expanded Property Features, Property Amenities, full description and shared Rental Policies. Inquiry child selector is not admission evidence.",
+  "petsDetails": "No Pets & No Smoking",
+  "lat": 41.3894,
+  "lng": -70.513,
+  "photo": "images/MA-1516-card.webp",
+  "coverPhoto": "images/MA-1516-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1516-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1516-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1516-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1516-002.webp",
+    "role": "photo"
    }
   ],
   "logo": "Unknown",
@@ -42645,6 +45633,69 @@
   "demo": false
  },
  {
+  "id": "MA-1302",
+  "name": "Sea Bird Suite",
+  "url": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+  "place": "Marblehead, MA",
+  "town": "Marblehead",
+  "state": "MA",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "Old Town Marblehead apartment with a queen bedroom, kitchenette and clawfoot bath, within walking distance of the harbor.",
+  "descriptionSource": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Old Town Marblehead apartment with a queen bedroom, kitchenette and clawfoot bath, within walking distance of the harbor.",
+  "cardDescriptionSource": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+  "cardPhotos": [
+   "images/MA-1302-cover.webp",
+   "images/MA-1302-000.webp",
+   "images/MA-1302-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 2,
+  "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+  "priceFrom": 156,
+  "priceDetails": "Own unit displayed range $156-916/night; dates,fees and current availability require quote.",
+  "currency": "USD",
+  "kids": "Conditional",
+  "pets": "No",
+  "kidsDetails": "Children welcome; not suitable for infants. Primary renter minimum25.",
+  "petsDetails": "Individual House Rules: Pets not allowed.",
+  "lat": 42.5001,
+  "lng": -70.8578,
+  "photo": "images/MA-1302-card.webp",
+  "coverPhoto": "images/MA-1302-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1302-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1302-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1302-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1302-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0415",
   "name": "Sea Breeze",
   "url": "https://bayleyvacationrentals.com/property/sea-breeze/",
@@ -48233,6 +51284,69 @@
   "demo": false
  },
  {
+  "id": "MA-1303",
+  "name": "The Captain's Quarters",
+  "url": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+  "place": "Rockport, MA",
+  "town": "Rockport",
+  "state": "MA",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "Two-bedroom second-floor apartment in the historic Sail Loft on Bearskin Neck, with queen beds, kitchen and a small balcony.",
+  "descriptionSource": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Two-bedroom second-floor apartment in the historic Sail Loft on Bearskin Neck, with queen beds, kitchen and a small balcony.",
+  "cardDescriptionSource": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+  "cardPhotos": [
+   "images/MA-1303-cover.webp",
+   "images/MA-1303-000.webp",
+   "images/MA-1303-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+  "priceFrom": 162,
+  "priceDetails": "Own unit displayed range $162-799/night; dates,fees and current availability require quote.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Children and infants welcome. Primary renter minimum25.",
+  "petsDetails": "Individual House Rules: Pets not allowed.",
+  "lat": 42.6572,
+  "lng": -70.6177,
+  "photo": "images/MA-1303-card.webp",
+  "coverPhoto": "images/MA-1303-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1303-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1303-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1303-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1303-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "VT-0005",
   "name": "The Cobble House",
   "url": "https://thecobblehouse.com/",
@@ -48930,6 +52044,69 @@
   ],
   "logo": "images/ME-0015-logo.webp",
   "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1306",
+  "name": "The Egret's Nest",
+  "url": "https://driftlinestays.com/",
+  "place": "Marshfield, MA",
+  "town": "Marshfield",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Renovated three-bedroom Marshfield home with South River marsh views, a sunroom, deck and outdoor shower, near Rexhame Beach.",
+  "descriptionSource": "https://driftlinestays.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Renovated three-bedroom Marshfield home with South River marsh views, a sunroom, deck and outdoor shower, near Rexhame Beach.",
+  "cardDescriptionSource": "https://driftlinestays.com/",
+  "cardPhotos": [
+   "images/MA-1306-cover.webp",
+   "images/MA-1306-000.webp",
+   "images/MA-1306-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 7,
+  "capacityDetails": "Home header3bedrooms2fullbaths7guests; House Rules3queens+1twin and maximum7.",
+  "priceFrom": 2415,
+  "priceDetails": "Published summer weeks starting$2415 per7nights, Saturday check-in (not nightly). $200cleaning,$500refundable securityhold; pet terms separate.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Matching host James official Houfy property Suitability explicitly says Child friendly. Own House Rules/FAQ checked without separate age statement; no age/infant guarantee inferred.",
+  "petsDetails": "Up to2dogs only, no cats/otherpets; disclosebreed/size atbooking; $125nonrefundable fee per dog perstay, $250refundable pet hold, dogs off furniture/beds.",
+  "lat": 42.0918,
+  "lng": -70.7056,
+  "photo": "images/MA-1306-card.webp",
+  "coverPhoto": "images/MA-1306-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1306-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1306-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1306-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1306-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -51091,6 +54268,69 @@
   "demo": false
  },
  {
+  "id": "MA-1304",
+  "name": "The Sailor's Retreat",
+  "url": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+  "place": "Marblehead, MA",
+  "town": "Marblehead",
+  "state": "MA",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen, laundry and private entrance near the harbor.",
+  "descriptionSource": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen, laundry and private entrance near the harbor.",
+  "cardDescriptionSource": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+  "cardPhotos": [
+   "images/MA-1304-cover.webp",
+   "images/MA-1304-000.webp",
+   "images/MA-1304-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 2,
+  "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+  "priceFrom": 189,
+  "priceDetails": "Own unit displayed range $189-790/night; dates,fees and current availability require quote.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Children and infants welcome. Primary renter minimum25.",
+  "petsDetails": "Individual House Rules: Pets not allowed.",
+  "lat": 42.5001,
+  "lng": -70.8578,
+  "photo": "images/MA-1304-card.webp",
+  "coverPhoto": "images/MA-1304-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1304-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1304-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1304-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1304-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "MA-0022",
   "name": "The Satanic Suite",
   "url": "https://thesatanicsuite.com/",
@@ -52226,6 +55466,69 @@
    },
    {
     "file": "images/MA-0917-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1305",
+  "name": "The Waterline",
+  "url": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+  "place": "Rockport, MA",
+  "town": "Rockport",
+  "state": "MA",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "Ground-floor harborfront apartment in Rockport’s historic Sail Loft, with two queen bedrooms, full kitchen and a private patio.",
+  "descriptionSource": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Ground-floor harborfront apartment in Rockport’s historic Sail Loft, with two queen bedrooms, full kitchen and a private patio.",
+  "cardDescriptionSource": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+  "cardPhotos": [
+   "images/MA-1305-cover.webp",
+   "images/MA-1305-000.webp",
+   "images/MA-1305-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+  "priceFrom": 162,
+  "priceDetails": "Own unit displayed range $162-799/night; dates,fees and availability require quote.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Children and infants welcome. Primary renter minimum25.",
+  "petsDetails": "Individual House Rules: Pets not allowed.",
+  "lat": 42.6572,
+  "lng": -70.6177,
+  "photo": "images/MA-1305-card.webp",
+  "coverPhoto": "images/MA-1305-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1305-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1305-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1305-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1305-002.webp",
     "role": "photo"
    }
   ],
@@ -57997,6 +61300,69 @@
   ],
   "logo": "images/ME-0007-logo.webp",
   "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1301",
+  "name": "Yachtsman Suite",
+  "url": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+  "place": "Marblehead, MA",
+  "town": "Marblehead",
+  "state": "MA",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen and private entrance near harbor walks.",
+  "descriptionSource": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "First-floor Old Town Marblehead apartment with a queen bedroom, full kitchen and private entrance near harbor walks.",
+  "cardDescriptionSource": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+  "cardPhotos": [
+   "images/MA-1301-cover.webp",
+   "images/MA-1301-000.webp",
+   "images/MA-1301-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 2,
+  "capacityDetails": "Published per-unit Size and maximum occupancy agree.",
+  "priceFrom": 156,
+  "priceDetails": "Own unit displayed range $156-916/night; dates,fees and current availability require quote.",
+  "currency": "USD",
+  "kids": "Conditional",
+  "pets": "No",
+  "kidsDetails": "Not suitable for children; infants welcome. Primary renter minimum27 is separate.",
+  "petsDetails": "Individual House Rules: Pets not allowed.",
+  "lat": 42.5001,
+  "lng": -70.8578,
+  "photo": "images/MA-1301-card.webp",
+  "coverPhoto": "images/MA-1301-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1301-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1301-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1301-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1301-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },

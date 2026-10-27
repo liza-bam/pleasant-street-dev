@@ -12456,5 +12456,939 @@
   "checkedOn": "2026-10-26",
   "status": "Checked own detail and Contact links; no matching Airbnb, Vrbo or Booking.com URLs found.",
   "foundLinks": {}
+ },
+ {
+  "id": "MA-1301",
+  "name": "Yachtsman Suite",
+  "website": "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.sandybaysuites.com/yachtsman-suite-orp5b59012x",
+   "https://www.sandybaysuites.com/book"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1302",
+  "name": "Sea Bird Suite",
+  "website": "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.sandybaysuites.com/sea-bird-suite-orp5b59011x",
+   "https://www.sandybaysuites.com/book"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1303",
+  "name": "The Captain's Quarters",
+  "website": "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.sandybaysuites.com/the-captains-quarters-orp5b59010x",
+   "https://www.sandybaysuites.com/book"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1304",
+  "name": "The Sailor's Retreat",
+  "website": "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.sandybaysuites.com/the-sailors-retreat-orp5b5d389x",
+   "https://www.sandybaysuites.com/book"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1305",
+  "name": "The Waterline",
+  "website": "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.sandybaysuites.com/the-waterline-orp5b5900fx",
+   "https://www.sandybaysuites.com/book",
+   "https://www.houfy.com/lodging/rockport-sail-loft-2-bed-1-bath-oceanfront-haven/90060"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors checked; no attributable Airbnb/Vrbo/Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1306",
+  "name": "The Egret's Nest",
+  "website": "https://driftlinestays.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://driftlinestays.com/",
+   "https://driftlinestays.com/#contact",
+   "https://driftlinestays.com/#about",
+   "https://driftlinestays.com/#house-rules",
+   "https://driftlinestays.com/#booking",
+   "https://www.houfy.com/lodging/the-egrets-nest/465583"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own accommodation, Contact, About, Rules and booking outgoing anchors checked; no actual Airbnb/Vrbo/Booking.com listing links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1501",
+  "name": "MVVR ENGLJ — Chilmark",
+  "website": "https://www.mvvacationrentals.com/property/englj",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/englj",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37524&url=https%3A//www.mvvacationrentals.com/property/englj",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1502",
+  "name": "MVVR AGARH — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/agarh",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/agarh",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=24954&url=https%3A//www.mvvacationrentals.com/property/agarh",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1503",
+  "name": "MVVR COM27 — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/com27",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/com27",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37829&url=https%3A//www.mvvacationrentals.com/property/com27",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1504",
+  "name": "MVVR WINGR — Chilmark",
+  "website": "https://www.mvvacationrentals.com/property/wingr",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/wingr",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=32224&url=https%3A//www.mvvacationrentals.com/property/wingr",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1505",
+  "name": "MVVR DESAM — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/desam",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/desam",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=34356&url=https%3A//www.mvvacationrentals.com/property/desam",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1506",
+  "name": "MVVR MAL68 — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/mal68",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/mal68",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35999&url=https%3A//www.mvvacationrentals.com/property/mal68",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1507",
+  "name": "MVVR NADE5 — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/nade5",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/nade5",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44183&url=https%3A//www.mvvacationrentals.com/property/nade5",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1508",
+  "name": "MVVR RANSW — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/ransw",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/ransw",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=25533&url=https%3A//www.mvvacationrentals.com/property/ransw",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1509",
+  "name": "MVVR FINNM — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/finnm",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/finnm",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=25795&url=https%3A//www.mvvacationrentals.com/property/finnm",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1510",
+  "name": "MVVR MALFC — Katama",
+  "website": "https://www.mvvacationrentals.com/property/malfc",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/malfc",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36013&url=https%3A//www.mvvacationrentals.com/property/malfc",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1511",
+  "name": "MVVR KOPF3 — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/kopf3",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/kopf3",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45806&url=https%3A//www.mvvacationrentals.com/property/kopf3",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1512",
+  "name": "MVVR MOR12 — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/mor12",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/mor12",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36229&url=https%3A//www.mvvacationrentals.com/property/mor12",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1513",
+  "name": "MVVR LYDOA — Katama",
+  "website": "https://www.mvvacationrentals.com/property/lydoa",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/lydoa",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35666&url=https%3A//www.mvvacationrentals.com/property/lydoa",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1514",
+  "name": "MVVR LEEDB — West Tisbury",
+  "website": "https://www.mvvacationrentals.com/property/leedb",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/leedb",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44063&url=https%3A//www.mvvacationrentals.com/property/leedb",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1515",
+  "name": "MVVR SMAP6 — Oak Bluffs",
+  "website": "https://www.mvvacationrentals.com/property/smap6",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals",
+   "https://www.mvvacationrentals.com/property/smap6",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=48259&url=https%3A//www.mvvacationrentals.com/property/smap6",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1516",
+  "name": "MVVR YAEGM — Katama",
+  "website": "https://www.mvvacationrentals.com/property/yaegm",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/yaegm",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=26845&url=https%3A//www.mvvacationrentals.com/property/yaegm",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1517",
+  "name": "MVVR MORS2 — Light House, Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/mors2",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/mors2",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35771&url=https%3A//www.mvvacationrentals.com/property/mors2",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1518",
+  "name": "MVVR GREJN — Vineyard Haven",
+  "website": "https://www.mvvacationrentals.com/property/grejn",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/grejn",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=46001&url=https%3A//www.mvvacationrentals.com/property/grejn",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1519",
+  "name": "MVVR WEEKW — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/weekw",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/weekw",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=26109&url=https%3A//www.mvvacationrentals.com/property/weekw",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1520",
+  "name": "MVVR ANGEB — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/angeb",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/angeb",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44747&url=https%3A//www.mvvacationrentals.com/property/angeb",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1521",
+  "name": "MVVR CAS65 — West Tisbury",
+  "website": "https://www.mvvacationrentals.com/property/cas65",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/cas65",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36655&url=https%3A//www.mvvacationrentals.com/property/cas65",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1522",
+  "name": "MVVR CARDA — Chilmark",
+  "website": "https://www.mvvacationrentals.com/property/carda",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/carda",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44100&url=https%3A//www.mvvacationrentals.com/property/carda",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1523",
+  "name": "MVVR MACMA — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/macma",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/macma",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35303&url=https%3A//www.mvvacationrentals.com/property/macma",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1524",
+  "name": "MVVR TAYLC — Oak Bluffs",
+  "website": "https://www.mvvacationrentals.com/property/taylc",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/taylc",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=34565&url=https%3A//www.mvvacationrentals.com/property/taylc",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1525",
+  "name": "MVVR SUDRL — Chilmark",
+  "website": "https://www.mvvacationrentals.com/property/sudrl",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/sudrl",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=34586&url=https%3A//www.mvvacationrentals.com/property/sudrl",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1526",
+  "name": "MVVR MORS4 — Ferry House, Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/mors4",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/mors4",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35772&url=https%3A//www.mvvacationrentals.com/property/mors4",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1527",
+  "name": "MVVR CALWM — Oak Bluffs",
+  "website": "https://www.mvvacationrentals.com/property/calwm",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/calwm",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37180&url=https%3A//www.mvvacationrentals.com/property/calwm",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1528",
+  "name": "MVVR CHOAY — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/choay",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/choay",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37181&url=https%3A//www.mvvacationrentals.com/property/choay",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1529",
+  "name": "MVVR MACEE — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/macee",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/macee",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44164&url=https%3A//www.mvvacationrentals.com/property/macee",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1530",
+  "name": "MVVR PAL77 — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/pal77",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=1",
+   "https://www.mvvacationrentals.com/property/pal77",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45770&url=https%3A//www.mvvacationrentals.com/property/pal77",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1531",
+  "name": "MVVR MAN15 — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/man15",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/man15",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45900&url=https%3A//www.mvvacationrentals.com/property/man15",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1532",
+  "name": "MVVR COS67 — Vineyard Haven",
+  "website": "https://www.mvvacationrentals.com/property/cos67",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/cos67",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36260&url=https%3A//www.mvvacationrentals.com/property/cos67",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1533",
+  "name": "MVVR BETTE — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/bette",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/bette",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=37606&url=https%3A//www.mvvacationrentals.com/property/bette",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1534",
+  "name": "MVVR WALSJ — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/walsj",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/walsj",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=24593&url=https%3A//www.mvvacationrentals.com/property/walsj",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1535",
+  "name": "MVVR BROSP — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/brosp",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/brosp",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=45331&url=https%3A//www.mvvacationrentals.com/property/brosp",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1536",
+  "name": "MVVR HERGT — Chilmark",
+  "website": "https://www.mvvacationrentals.com/property/hergt",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/hergt",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=24753&url=https%3A//www.mvvacationrentals.com/property/hergt",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1537",
+  "name": "MVVR SIMOA — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/simoa",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/simoa",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=27333&url=https%3A//www.mvvacationrentals.com/property/simoa",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1538",
+  "name": "MVVR ROGLM — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/roglm",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/roglm",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36042&url=https%3A//www.mvvacationrentals.com/property/roglm",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1539",
+  "name": "MVVR HARSY — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/harsy",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/harsy",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44127&url=https%3A//www.mvvacationrentals.com/property/harsy",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1540",
+  "name": "MVVR ROSBE — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/rosbe",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/rosbe",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=44086&url=https%3A//www.mvvacationrentals.com/property/rosbe",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1541",
+  "name": "MVVR PEDLF — West Tisbury",
+  "website": "https://www.mvvacationrentals.com/property/pedlf",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/pedlf",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=49054&url=https%3A//www.mvvacationrentals.com/property/pedlf",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1542",
+  "name": "MVVR MANNB — Katama",
+  "website": "https://www.mvvacationrentals.com/property/mannb",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/mannb",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=25903&url=https%3A//www.mvvacationrentals.com/property/mannb",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1543",
+  "name": "MVVR HODGE — Vineyard Haven",
+  "website": "https://www.mvvacationrentals.com/property/hodge",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/hodge",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30191&url=https%3A//www.mvvacationrentals.com/property/hodge",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1544",
+  "name": "MVVR HOL14 — Oak Bluffs",
+  "website": "https://www.mvvacationrentals.com/property/hol14",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/hol14",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=36707&url=https%3A//www.mvvacationrentals.com/property/hol14",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1545",
+  "name": "MVVR BETTD — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/bettd",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/vacation-rentals?page=2",
+   "https://www.mvvacationrentals.com/property/bettd",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=28022&url=https%3A//www.mvvacationrentals.com/property/bettd",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened property and shared Contact/Policies links checked; no attributable Airbnb, Vrbo or Booking.com links found.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1701",
+  "name": "MVVR SHEMI — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/shemi",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/property/shemi",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35466&url=https%3A//www.mvvacationrentals.com/property/shemi",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1702",
+  "name": "MVVR PHOUE — Vineyard Haven",
+  "website": "https://www.mvvacationrentals.com/property/phoue",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/property/phoue",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30393&url=https%3A//www.mvvacationrentals.com/property/phoue",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1703",
+  "name": "MVVR BOWKW — Edgartown",
+  "website": "https://www.mvvacationrentals.com/property/bowkw",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/property/bowkw",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=30765&url=https%3A//www.mvvacationrentals.com/property/bowkw",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1704",
+  "name": "MVVR PEOTA — Oak Bluffs",
+  "website": "https://www.mvvacationrentals.com/property/peota",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/property/peota",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=35905&url=https%3A//www.mvvacationrentals.com/property/peota",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1705",
+  "name": "MVVR CLARO — Oak Bluffs",
+  "website": "https://www.mvvacationrentals.com/property/claro",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.mvvacationrentals.com/property/claro",
+   "https://www.mvvacationrentals.com/vacation-rental-inquiry?inquiry_properties=31246&url=https%3A//www.mvvacationrentals.com/property/claro",
+   "https://www.mvvacationrentals.com/contact-us",
+   "https://www.mvvacationrentals.com/vacation-rentals/rental-policies"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Own unit outgoing anchors and shared Contact/Policies checked; no attributable Airbnb/Vrbo/Booking.com listing link found in this pass.",
+  "foundLinks": {}
  }
 ]

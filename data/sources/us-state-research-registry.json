@@ -1,0 +1,510 @@
+{
+  "updatedOn": "2026-10-27T01:57:54.738888+00:00",
+  "scope": "All 50 US states. DC and territories are not counted as states.",
+  "existingResearchStates": 7,
+  "statesAvailableForExternalAssignment": 43,
+  "oldTwelveJobs": "Earlier subdivisions: New York5,Connecticut5,RhodeIsland2. They are not twelve new states.",
+  "ownershipRule": "Assign one state or explicit nonoverlapping regional scope to each outside worker. Claim actual ID blocks before concurrent work. Available does not mean assigned or running.",
+  "states": [
+    {
+      "state": "Alabama",
+      "code": "AL",
+      "folder": "alabama",
+      "idPrefix": "AL-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Alaska",
+      "code": "AK",
+      "folder": "alaska",
+      "idPrefix": "AK-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Arizona",
+      "code": "AZ",
+      "folder": "arizona",
+      "idPrefix": "AZ-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Arkansas",
+      "code": "AR",
+      "folder": "arkansas",
+      "idPrefix": "AR-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "California",
+      "code": "CA",
+      "folder": "california",
+      "idPrefix": "CA-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": "Existing real LAZY listing does not establish statewide research coverage."
+    },
+    {
+      "state": "Colorado",
+      "code": "CO",
+      "folder": "colorado",
+      "idPrefix": "CO-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Connecticut",
+      "code": "CT",
+      "folder": "connecticut",
+      "idPrefix": "CT-",
+      "status": "Existing research; coordinate before assigning duplicate work",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Delaware",
+      "code": "DE",
+      "folder": "delaware",
+      "idPrefix": "DE-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Florida",
+      "code": "FL",
+      "folder": "florida",
+      "idPrefix": "FL-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Georgia",
+      "code": "GA",
+      "folder": "georgia",
+      "idPrefix": "GA-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Hawaii",
+      "code": "HI",
+      "folder": "hawaii",
+      "idPrefix": "HI-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Idaho",
+      "code": "ID",
+      "folder": "idaho",
+      "idPrefix": "ID-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Illinois",
+      "code": "IL",
+      "folder": "illinois",
+      "idPrefix": "IL-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Indiana",
+      "code": "IN",
+      "folder": "indiana",
+      "idPrefix": "IN-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Iowa",
+      "code": "IA",
+      "folder": "iowa",
+      "idPrefix": "IA-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Kansas",
+      "code": "KS",
+      "folder": "kansas",
+      "idPrefix": "KS-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Kentucky",
+      "code": "KY",
+      "folder": "kentucky",
+      "idPrefix": "KY-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Louisiana",
+      "code": "LA",
+      "folder": "louisiana",
+      "idPrefix": "LA-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Maine",
+      "code": "ME",
+      "folder": "maine",
+      "idPrefix": "ME-",
+      "status": "Existing research; coordinate before assigning duplicate work",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Maryland",
+      "code": "MD",
+      "folder": "maryland",
+      "idPrefix": "MD-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Massachusetts",
+      "code": "MA",
+      "folder": "massachusetts",
+      "idPrefix": "MA-",
+      "status": "Existing research; coordinate before assigning duplicate work",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Michigan",
+      "code": "MI",
+      "folder": "michigan",
+      "idPrefix": "MI-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Minnesota",
+      "code": "MN",
+      "folder": "minnesota",
+      "idPrefix": "MN-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Mississippi",
+      "code": "MS",
+      "folder": "mississippi",
+      "idPrefix": "MS-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Missouri",
+      "code": "MO",
+      "folder": "missouri",
+      "idPrefix": "MO-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Montana",
+      "code": "MT",
+      "folder": "montana",
+      "idPrefix": "MT-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Nebraska",
+      "code": "NE",
+      "folder": "nebraska",
+      "idPrefix": "NE-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Nevada",
+      "code": "NV",
+      "folder": "nevada",
+      "idPrefix": "NV-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "New Hampshire",
+      "code": "NH",
+      "folder": "new-hampshire",
+      "idPrefix": "NH-",
+      "status": "Existing research; coordinate before assigning duplicate work",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "New Jersey",
+      "code": "NJ",
+      "folder": "new-jersey",
+      "idPrefix": "NJ-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "New Mexico",
+      "code": "NM",
+      "folder": "new-mexico",
+      "idPrefix": "NM-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "New York",
+      "code": "NY",
+      "folder": "new-york",
+      "idPrefix": "NY-",
+      "status": "Existing research; coordinate before assigning duplicate work",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "North Carolina",
+      "code": "NC",
+      "folder": "north-carolina",
+      "idPrefix": "NC-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "North Dakota",
+      "code": "ND",
+      "folder": "north-dakota",
+      "idPrefix": "ND-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Ohio",
+      "code": "OH",
+      "folder": "ohio",
+      "idPrefix": "OH-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Oklahoma",
+      "code": "OK",
+      "folder": "oklahoma",
+      "idPrefix": "OK-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Oregon",
+      "code": "OR",
+      "folder": "oregon",
+      "idPrefix": "OR-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Pennsylvania",
+      "code": "PA",
+      "folder": "pennsylvania",
+      "idPrefix": "PA-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Rhode Island",
+      "code": "RI",
+      "folder": "rhode-island",
+      "idPrefix": "RI-",
+      "status": "Existing research; coordinate before assigning duplicate work",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "South Carolina",
+      "code": "SC",
+      "folder": "south-carolina",
+      "idPrefix": "SC-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "South Dakota",
+      "code": "SD",
+      "folder": "south-dakota",
+      "idPrefix": "SD-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Tennessee",
+      "code": "TN",
+      "folder": "tennessee",
+      "idPrefix": "TN-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Texas",
+      "code": "TX",
+      "folder": "texas",
+      "idPrefix": "TX-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Utah",
+      "code": "UT",
+      "folder": "utah",
+      "idPrefix": "UT-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Vermont",
+      "code": "VT",
+      "folder": "vermont",
+      "idPrefix": "VT-",
+      "status": "Existing research; coordinate before assigning duplicate work",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Virginia",
+      "code": "VA",
+      "folder": "virginia",
+      "idPrefix": "VA-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Washington",
+      "code": "WA",
+      "folder": "washington",
+      "idPrefix": "WA-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "West Virginia",
+      "code": "WV",
+      "folder": "west-virginia",
+      "idPrefix": "WV-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Wisconsin",
+      "code": "WI",
+      "folder": "wisconsin",
+      "idPrefix": "WI-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    },
+    {
+      "state": "Wyoming",
+      "code": "WY",
+      "folder": "wyoming",
+      "idPrefix": "WY-",
+      "status": "Available for external assignment; not started by this team",
+      "assignedTo": null,
+      "researchComplete": false,
+      "notes": ""
+    }
+  ]
+}
