@@ -13699,5 +13699,23 @@
   ],
   "checkedOn": "2026-10-27",
   "status": "Links found on own website"
+ },
+ {
+  "id": "MA-1413",
+  "name": "Dennis Seashores — 10 Ocean Park East",
+  "website": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-29026/",
+   "https://dennisseashores.com/search.aspx?",
+   "https://dennisseashores.com/details.aspx?PropertyID=283993",
+   "https://dennisseashores.com/contactus.aspx",
+   "https://dennisseashores.com/content/rental-information.aspx",
+   "https://dennisseashores.com/content/terms-and-conditions.aspx"
+  ],
+  "checkedOn": "2026-10-26",
+  "status": "Opened own accommodation/contact/rule pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
  }
 ]

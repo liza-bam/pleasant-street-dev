@@ -4934,6 +4934,28 @@
   "demo": false
  },
  {
+  "id": "MA-1413",
+  "name": "Dennis Seashores — 10 Ocean Park East",
+  "url": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "place": "Dennis Port, MA",
+  "lat": 41.6555,
+  "lng": -70.1243,
+  "photo": "images/MA-1413-card.webp",
+  "guests": 4,
+  "capacityDetails": "Unit page maximum4; shared Contact instructs including children in group count unless in a crib.",
+  "recordType": "Property",
+  "description": "Two-bedroom Dennis Port cottage with a kitchen, deck and outdoor shower, near the campus private Nantucket Sound beach.",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Contact inquiry instructions explicitly include children; children count toward occupancy unless in a crib.",
+  "petsDetails": "Rental Information: pets not allowed in cottages or on property.",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0043",
   "name": "Desert of Maine Glamping (Guesty direct site)",
   "url": "https://desertofmaine.guestybookings.com",

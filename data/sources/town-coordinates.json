@@ -1846,5 +1846,12 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Oak+Bluffs%2C+MA%2C+USA&format=json&limit=1",
   "label": "Oak Bluffs, Dukes County, Massachusetts, 02557, United States",
   "checked": "2026-10-26"
+ },
+ "Dennis Port, MA, USA": {
+  "lat": 41.6555,
+  "lng": -70.1243,
+  "source": "https://nominatim.openstreetmap.org/search?q=Dennis+Port%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Dennisport, Dennis, Barnstable County, Massachusetts, 02639, United States",
+  "checked": "2026-10-27"
  }
 }

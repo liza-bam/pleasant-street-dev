@@ -1,0 +1,62 @@
+[
+ {
+  "id": "MA-1413",
+  "role": "cover",
+  "url": "https://cdn.ciirus.com/properties/58430/283993/images/10E.jpg",
+  "sourcePage": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "alt": "Dennis Seashores 10 Ocean Park East gallery photograph",
+  "unitOrCampus": "10 Ocean Park East cottage gallery (PropertyID 283993)",
+  "file": "images/MA-1413-cover.webp",
+  "sha256": "2ee923a10b7fc51cca26b192b0b31d5ed22ad62ce874d866049d62a5da92f961",
+  "width": 640,
+  "height": 480,
+  "originalDimensions": [
+   640,
+   480
+  ],
+  "originalSha256": "f3d76ad54977cda3706083a9869e583dbaa6d90fa269efda9c2d5e63f106b736",
+  "generated": false,
+  "checkedOn": "2026-10-27",
+  "verification": "Current-unit gallery on the operator Ciirus site; contact sheet inspected 2026-10-27."
+ },
+ {
+  "id": "MA-1413",
+  "role": "000",
+  "url": "https://cdn.ciirus.com/properties/58430/283993/images/10OPE_livroom1.jpg",
+  "sourcePage": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "alt": "Dennis Seashores 10 Ocean Park East gallery photograph",
+  "unitOrCampus": "10 Ocean Park East cottage gallery (PropertyID 283993)",
+  "file": "images/MA-1413-000.webp",
+  "sha256": "9d9fa89dcc72a0b478bcd3d44b8676ddbd53ecad50b73bded6cdc1ca12d22a77",
+  "width": 800,
+  "height": 534,
+  "originalDimensions": [
+   1024,
+   684
+  ],
+  "originalSha256": "349c3648de82f67b40f3c779bfc472c24e92ea69593ea614e9f6159b23449ac2",
+  "generated": false,
+  "checkedOn": "2026-10-27",
+  "verification": "Current-unit gallery on the operator Ciirus site; contact sheet inspected 2026-10-27."
+ },
+ {
+  "id": "MA-1413",
+  "role": "001",
+  "url": "https://cdn.ciirus.com/properties/58430/283993/images/10OPE_kitchen1.jpg",
+  "sourcePage": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "alt": "Dennis Seashores 10 Ocean Park East gallery photograph",
+  "unitOrCampus": "10 Ocean Park East cottage gallery (PropertyID 283993)",
+  "file": "images/MA-1413-001.webp",
+  "sha256": "0457df98af114cf60143e867e9b593af317573f81d5e145fa4a53fe1c9359a3b",
+  "width": 800,
+  "height": 534,
+  "originalDimensions": [
+   1024,
+   683
+  ],
+  "originalSha256": "bb604b909fa6b675a8fa8def0db68bfe7acb2358ac74d28ca0482d257ab62390",
+  "generated": false,
+  "checkedOn": "2026-10-27",
+  "verification": "Current-unit gallery on the operator Ciirus site; contact sheet inspected 2026-10-27."
+ }
+]

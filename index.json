@@ -17478,6 +17478,66 @@
   "demo": false
  },
  {
+  "id": "MA-1413",
+  "name": "Dennis Seashores — 10 Ocean Park East",
+  "url": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "place": "Dennis Port, MA",
+  "town": "Dennis Port",
+  "state": "MA",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Two-bedroom Dennis Port cottage with a kitchen, deck and outdoor shower, near the campus private Nantucket Sound beach.",
+  "descriptionSource": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Two-bedroom Dennis Port cottage with a kitchen, deck and outdoor shower, near the campus private Nantucket Sound beach.",
+  "cardDescriptionSource": "https://dennisseashores.com/details.aspx?PropertyID=283993",
+  "cardPhotos": [
+   "images/MA-1413-cover.webp",
+   "images/MA-1413-000.webp",
+   "images/MA-1413-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos",
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Unit page maximum4; shared Contact instructs including children in group count unless in a crib.",
+  "priceFrom": 129,
+  "priceDetails": "Unit page displayed starting nightly price without dates on checked date; dynamic, not final quote.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Contact inquiry instructions explicitly include children; children count toward occupancy unless in a crib.",
+  "petsDetails": "Rental Information: pets not allowed in cottages or on property.",
+  "lat": 41.6555,
+  "lng": -70.1243,
+  "photo": "images/MA-1413-card.webp",
+  "coverPhoto": "images/MA-1413-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1413-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1413-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1413-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0043",
   "name": "Desert of Maine Glamping (Guesty direct site)",
   "url": "https://desertofmaine.guestybookings.com",

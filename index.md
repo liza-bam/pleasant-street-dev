@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-892 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+893 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -4158,6 +4158,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/284198
+
+## Dennis Seashores — 10 Ocean Park East
+
+- ID: MA-1413
+- Town / area (approximate map location): Dennis Port, MA
+- Type: Unknown
+- Description: Two-bedroom Dennis Port cottage with a kitchen, deck and outdoor shower, near the campus private Nantucket Sound beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Unit page maximum4; shared Contact instructs including children in group count unless in a crib.
+- Price: from 129 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Contact inquiry instructions explicitly include children; children count toward occupancy unless in a crib.
+- Pet policy: Rental Information: pets not allowed in cottages or on property.
+- Website (book here, directly with the host): https://dennisseashores.com/details.aspx?PropertyID=283993
 
 ## Desert of Maine Glamping (Guesty direct site)
 
