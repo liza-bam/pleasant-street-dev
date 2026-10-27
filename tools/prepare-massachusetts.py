@@ -130,7 +130,7 @@ def main():
     for audit in audits.values():
         for photo in audit.get('photos', []):
             manifests[photo['file']] = {**photo, 'id': audit['id']}
-    for filename in ['root-media-sources.json','stayspace-media-sources.json','extra-media-sources.json','mermaid-media-sources.json','vineyard-media-sources.json','cape-media-sources.json']:
+    for filename in ['root-media-sources.json','stayspace-media-sources.json','extra-media-sources.json','mermaid-media-sources.json','vineyard-media-sources.json','cape-media-sources.json'] + sorted(f.name for f in DEST.glob('managers-*-media-sources.json')):
         for photo in read(DEST / filename, []):
             manifests[photo['file']] = photo
     for photo in manifests.values():

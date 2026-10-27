@@ -13717,5 +13717,203 @@
   "checkedOn": "2026-10-26",
   "status": "Opened own accommodation/contact/rule pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
   "foundLinks": {}
+ },
+ {
+  "id": "MA-1833",
+  "name": "Cape Cod Bay Cottage (East Sandwich)",
+  "website": "https://capecodcozy.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://capecodcozy.com/",
+   "https://capecodcozy.com/files/Rental-Agreement.pdf"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1834",
+  "name": "Dune Tootin Cottages",
+  "website": "https://dunetootin.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://dunetootin.com/",
+   "https://dunetootin.com/cottage-rentals.html",
+   "https://dunetootin.com/unit-1.html",
+   "https://dunetootin.com/unit-2.html",
+   "https://dunetootin.com/unit-3.html"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1835",
+  "name": "The Osterville Cottage",
+  "website": "https://www.ostervillecottage.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.ostervillecottage.com/book-a-room",
+   "https://www.ostervillecottage.com/about-the-home",
+   "https://www.ostervillecottage.com/amenities",
+   "https://www.ostervillecottage.com/rates",
+   "https://www.ostervillecottage.com/gallery",
+   "https://www.ostervillecottage.com/contact"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1836",
+  "name": "Oyster Pond Chatham",
+  "website": "https://oysterpondchatham.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://oysterpondchatham.com/",
+   "https://oysterpondchatham.com/rentals/",
+   "https://oysterpondchatham.com/property/townhome-25/",
+   "https://oysterpondchatham.com/book-now/",
+   "https://oysterpondchatham.com/faq-general-information/",
+   "https://oysterpondchatham.com/contact-us-2/"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1837",
+  "name": "Booth Cottages & Beach",
+  "website": "https://www.boothcottagesandbeach.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.boothcottagesandbeach.com/",
+   "https://www.boothcottagesandbeach.com/our-story",
+   "https://www.boothcottagesandbeach.com/single-project",
+   "https://www.boothcottagesandbeach.com/single-project-1",
+   "https://www.boothcottagesandbeach.com/general-8"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1838",
+  "name": "Off Shore Breezes",
+  "website": "https://www.offshorebreezes.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.offshorebreezes.com/",
+   "https://www.offshorebreezes.com/735a-campground-road",
+   "https://www.offshorebreezes.com/amenities",
+   "https://www.offshorebreezes.com/contact"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1839",
+  "name": "Cozy Cape Cottage",
+  "website": "https://www.cozycapecottage.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.cozycapecottage.com/",
+   "https://www.cozycapecottage.com/cozy_cottage.htm",
+   "https://www.cozycapecottage.com/contact.htm"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1840",
+  "name": "Daisy Cottage (Days' Cottages)",
+  "website": "https://www.dayscottages.rentals/",
+  "platformLinks": {
+   "airbnb": [
+    "https://www.airbnb.com/rooms/16603493"
+   ]
+  },
+  "evidence": [
+   {
+    "platform": "airbnb",
+    "url": "https://www.airbnb.com/rooms/16603493",
+    "sourcePage": "https://www.dayscottages.rentals/",
+    "verifiedMatchingIdentity": true,
+    "sourceUrl": "https://www.dayscottages.rentals/"
+   }
+  ],
+  "checkedPages": [
+   "https://www.dayscottages.rentals/",
+   "https://www.dayscottages.rentals/reserve-the-cottage",
+   "https://www.dayscottages.rentals/house-rules",
+   "https://www.dayscottages.rentals/photos-video",
+   "https://www.dayscottages.rentals/contact",
+   "https://www.dayscottages.rentals/summerrentals"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Own website links Airbnb listing for this cottage.",
+  "foundLinks": {
+   "airbnb": [
+    "https://www.airbnb.com/rooms/16603493"
+   ]
+  }
+ },
+ {
+  "id": "MA-1841",
+  "name": "Prince of Whales Cottage Rentals",
+  "website": "https://www.princeofwhalestruro.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.princeofwhalestruro.com/",
+   "https://www.princeofwhalestruro.com/cottages",
+   "https://www.princeofwhalestruro.com/policies",
+   "https://www.princeofwhalestruro.com/gallery",
+   "https://hotels.cloudbeds.com/reservation/yw9u7x"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1842",
+  "name": "Cape Truro Cottages",
+  "website": "https://capetrurocottages.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://capetrurocottages.com/",
+   "https://capetrurocottages.com/amenities.html",
+   "https://capetrurocottages.com/contact.html"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
+ },
+ {
+  "id": "MA-1843",
+  "name": "The Masthead Resort & Cottages",
+  "website": "https://www.themasthead.com/",
+  "platformLinks": {},
+  "evidence": [],
+  "checkedPages": [
+   "https://www.themasthead.com/",
+   "https://www.themasthead.com/accommodations/waterfront-cottages/",
+   "https://www.themasthead.com/accommodations/waterfront-cottages/boathouse-cottage-33/",
+   "https://www.themasthead.com/contact-us/",
+   "https://www.themasthead.com/about-us/"
+  ],
+  "checkedOn": "2026-10-27",
+  "status": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+  "foundLinks": {}
  }
 ]

@@ -1853,5 +1853,40 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Dennis+Port%2C+MA%2C+USA&format=json&limit=1",
   "label": "Dennisport, Dennis, Barnstable County, Massachusetts, 02639, United States",
   "checked": "2026-10-27"
+ },
+ "East Sandwich, MA, USA": {
+  "lat": 41.7418,
+  "lng": -70.4517,
+  "source": "https://nominatim.openstreetmap.org/search?q=East+Sandwich%2C+MA%2C+USA&format=json&limit=1",
+  "label": "East Sandwich, Sandwich, Barnstable County, Massachusetts, 02537, United States",
+  "checked": "2026-10-27"
+ },
+ "Osterville, MA, USA": {
+  "lat": 41.6288,
+  "lng": -70.3869,
+  "source": "https://nominatim.openstreetmap.org/search?q=Osterville%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Osterville, Barnstable, Barnstable County, Massachusetts, 02655, United States",
+  "checked": "2026-10-27"
+ },
+ "Brewster, MA, USA": {
+  "lat": 41.7601,
+  "lng": -70.0828,
+  "source": "https://nominatim.openstreetmap.org/search?q=Brewster%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Brewster, Barnstable County, Massachusetts, 02631, United States",
+  "checked": "2026-10-27"
+ },
+ "North Truro, MA, USA": {
+  "lat": 42.0334,
+  "lng": -70.0953,
+  "source": "https://nominatim.openstreetmap.org/search?q=North+Truro%2C+MA%2C+USA&format=json&limit=1",
+  "label": "North Truro, Truro, Barnstable County, Massachusetts, 02652, United States",
+  "checked": "2026-10-27"
+ },
+ "Truro, MA, USA": {
+  "lat": 41.9934,
+  "lng": -70.0497,
+  "source": "https://nominatim.openstreetmap.org/search?q=Truro%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Truro, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-27"
  }
 }

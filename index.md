@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-893 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+904 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -2174,6 +2174,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=518
 
+## Booth Cottages & Beach
+
+- ID: MA-1837
+- Town / area (approximate map location): Brewster, MA
+- Type: Unknown
+- Description: Eight 1940s-era Brewster cottages with a private Cape Cod Bay beach; no Wi-Fi or TV, pets free, bring your own linens.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Eight cottages sleeping 4 to 9; Puddinhead has 3 bedrooms and 1 bath.
+- Price: Not published.
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Furry friends welcome, free of charge.
+- Website (book here, directly with the host): https://www.boothcottagesandbeach.com/
+
 ## Boothbay Harbor Escape | 2 Kings, Fireplace, Walk to town | Prickly Hollow- by Rocky Coast Rentals
 
 - ID: ME-0447
@@ -2641,6 +2657,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
 
+## Cape Cod Bay Cottage (East Sandwich)
+
+- ID: MA-1833
+- Town / area (approximate map location): East Sandwich, MA
+- Type: Unknown
+- Description: Two-bedroom East Sandwich cottage for up to five on a private Cape Cod Bay beach, with a deck, galley kitchen and Wi-Fi.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Sleeps up to 5: two queen bedrooms plus a full-size sofa bed.
+- Price: Text or call for rates; 7-night minimum, Saturday to Saturday, May through October.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://capecodcozy.com/
+
 ## Cape Cod Haven Near Beaches & Town Center
 
 - ID: MA-0264
@@ -2657,6 +2688,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Suitable for children ages 2–12 and infants under 2.
 - Pet policy: No pets allowed.
 - Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1
+
+## Cape Truro Cottages
+
+- ID: MA-1842
+- Town / area (approximate map location): North Truro, MA
+- Type: Unknown
+- Description: North Truro cottages in the Pines with kitchens, Wi-Fi and two parking spaces each, on the Cape Cod shuttle bus route.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Full-size beds plus full-size futons; two parking spaces per cottage.
+- Price: from 700 USD a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Amenities: full size futons for the kids.
+- Website (book here, directly with the host): https://capetrurocottages.com/
 
 ## CARDINAL LIMIT 3
 
@@ -3852,6 +3899,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
 - Website (book here, directly with the host): https://stayheirloom.com/listing/67fd434a84c3790013bcb06f
 
+## Cozy Cape Cottage
+
+- ID: MA-1839
+- Town / area (approximate map location): Wellfleet, MA
+- Type: Unknown
+- Description: 1940s Wellfleet cottage sleeping four on a quiet lane by Pilgrim Spring conservation land, with fireplace, deck and outdoor shower.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Sleeps 4: queen bedroom, twin bedroom, sleeping porch with full pull-out.
+- Price: Rates on WeNeedaVacation listing; summer full weeks Sunday to Sunday.
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Sorry, no pets allowed.
+- Website (book here, directly with the host): https://www.cozycapecottage.com/
+
 ## Cozy Cove Cabins
 
 - ID: ME-0052
@@ -4047,6 +4110,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Booking property description explicitly family-friendly and activities for all ages.
 - Pet policy: Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.
 - Website (book here, directly with the host): https://camphappygrounds.com/crows-nest/
+
+## Daisy Cottage (Days' Cottages)
+
+- ID: MA-1840
+- Town / area (approximate map location): North Truro, MA
+- Type: Unknown
+- Description: Renovated Days' Cottages cottage on Beach Point, North Truro, with a private beach and bay views toward Provincetown.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Back bedroom double bed, middle bedroom double bunk bed, pull-out futon in living room.
+- Price: Weekly summer rental; rates not published on checked pages.
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: No pets at any of the Days’ Cottages.
+- Website (book here, directly with the host): https://www.dayscottages.rentals/
 
 ## Dale Camp/Damariscotta
 
@@ -4367,6 +4446,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/driftwood-cottage/
+
+## Dune Tootin Cottages
+
+- ID: MA-1834
+- Town / area (approximate map location): East Sandwich, MA
+- Type: Unknown
+- Description: Three two-bedroom housekeeping units on East Sandwich Beach, with patios or decks, outdoor shower and a sandy path to Cape Cod Bay.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Three two-bedroom units; Unit 3 has two bathrooms.
+- Price: Not published; check availability per unit.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://dunetootin.com/
 
 ## Eagle Eye Cabin
 
@@ -9078,6 +9172,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — beach group/family rentals
 - Website (book here, directly with the host): https://odessabythesea.com
 
+## Off Shore Breezes
+
+- ID: MA-1838
+- Town / area (approximate map location): Eastham, MA
+- Type: Unknown
+- Description: Five family-owned Eastham cottages near Cape Cod Bay beaches, with Wi-Fi, gas grills, fire pits and outdoor showers.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Five homes, 2 to 3 bedrooms; 735A Campground Road sleeps 4.
+- Price: Rates on WeNeedaVacation.com listings.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.offshorebreezes.com/
+
 ## Ogunquit Rental Properties
 
 - ID: ME-0264
@@ -9203,6 +9312,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116
+
+## Oyster Pond Chatham
+
+- ID: MA-1836
+- Town / area (approximate map location): Chatham, MA
+- Type: Unknown
+- Description: Three waterfront townhomes on Oyster Pond in Chatham, two to four bedrooms, with shared pool, tennis, pickleball and a private dock.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Townhome 25 sleeps 10 (4 BR, 4.5 BA); Townhomes 31 and 32 sleep 8 each; combined 31+32 sleeps 16.
+- Price: from 536 USD a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Booking request form has Children and Infants fields.
+- Website (book here, directly with the host): https://oysterpondchatham.com/
 
 ## PARADISE POINT LIMIT 10
 
@@ -9657,6 +9782,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Family stays offered at resort; pictured Chestnut Premier14 is exclusively for two adults.
 - Pet policy: Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.
 - Website (book here, directly with the host): https://presidentialmountainresort.com/
+
+## Prince of Whales Cottage Rentals
+
+- ID: MA-1841
+- Town / area (approximate map location): Truro, MA
+- Type: Unknown
+- Description: Renovated Truro cottages with kitchenettes and private decks, a shared fire pit and dog park, minutes from Provincetown.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Renovated cottages from 2-person micro cottages up.
+- Price: Nightly rates per cottage in booking engine; first-night deposit.
+- Children welcome: Unknown
+- Pets welcome: yes
+- Pet policy: Dogs welcome: $40 per dog per night, register in advance.
+- Website (book here, directly with the host): https://www.princeofwhalestruro.com/
 
 ## Private Berkshire Chalet in Worthington
 
@@ -12388,6 +12529,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://the-maine-house-on-dingley.hosted.ownerrez.com
 
+## The Masthead Resort & Cottages
+
+- ID: MA-1843
+- Town / area (approximate map location): Provincetown, MA
+- Type: Unknown
+- Description: Family-owned since 1959: Provincetown West End cottages, suites and rooms with harbor views and a 450-foot private beach deck.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Boathouse Cottage #33 accommodates up to four.
+- Price: Rates in online booking engine.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.themasthead.com/
+
 ## The Mermaid Cottage at Cape Cod Canal Compound Lodge
 
 - ID: MA-0405
@@ -12486,6 +12642,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196363
+
+## The Osterville Cottage
+
+- ID: MA-1835
+- Town / area (approximate map location): Osterville, MA
+- Type: House
+- Description: Three-bedroom Osterville home sleeping eight, with a swimming pool, fenced yard, outdoor shower and a beach parking pass.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: Sleeps 8: king master, queen back bedroom, bunk room.
+- Price: from 11500 USD a night
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: About the Home describes a bunk room for kids.
+- Website (book here, directly with the host): https://www.ostervillecottage.com/
 
 ## The Patio Cabins
 

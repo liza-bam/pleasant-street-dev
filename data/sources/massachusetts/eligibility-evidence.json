@@ -71455,5 +71455,814 @@
     "photoStatus": "Four genuine same-property source photos saved and contact sheet visually reviewed",
     "reviewed": true,
     "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1833": {
+    "id": "MA-1833",
+    "name": "Cape Cod Bay Cottage (East Sandwich)",
+    "website": "https://capecodcozy.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "East Sandwich",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Cape Cod Bay Cottage (East Sandwich)",
+    "classification": "Individual owner-managed beach cottage",
+    "eligibilityReason": "Owner website for one East Sandwich cottage on Cape Cod Bay; direct text/phone/email booking with own rental agreement and deposit terms.",
+    "openedUrls": [
+      "https://capecodcozy.com/",
+      "https://capecodcozy.com/files/Rental-Agreement.pdf"
+    ],
+    "contactPagesChecked": [
+      "https://capecodcozy.com/"
+    ],
+    "contactAddress": {
+      "role": "Rental cottage address",
+      "street": "111A Salt Marsh Road",
+      "city": "East Sandwich",
+      "state": "MA",
+      "zip": "02537",
+      "source": "https://capecodcozy.com/",
+      "notes": ""
+    },
+    "bookingMethod": "Direct text/phone/email to owner; rental agreement and half deposit",
+    "bookingUrl": "https://capecodcozy.com/",
+    "directContact": {
+      "email": "Carol1956@Comcast.net",
+      "phones": [
+        "904-655-5318"
+      ],
+      "source": "https://capecodcozy.com/"
+    },
+    "operatorEvidenceUrl": "https://capecodcozy.com/",
+    "notes": "Second of three cottages on a private road leading to a private beach. Weekly Saturday-to-Saturday rentals May-October.",
+    "supportedFacts": {
+      "guests": 5,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Sleeps up to 5: two queen bedrooms plus a full-size sofa bed.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Text or call for rates; 7-night minimum, Saturday to Saturday, May through October."
+    },
+    "description": "Two-bedroom East Sandwich cottage for up to five on a private Cape Cod Bay beach, with a deck, galley kitchen and Wi-Fi.",
+    "descriptionSource": "https://capecodcozy.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1834": {
+    "id": "MA-1834",
+    "name": "Dune Tootin Cottages",
+    "website": "https://dunetootin.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Cottage colony campus",
+    "type": "Cottage colony",
+    "city": "East Sandwich",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Dune Tootin Cottages",
+    "classification": "Small beachfront cottage colony (three two-bedroom units)",
+    "eligibilityReason": "Own website for three two-bedroom housekeeping units on East Sandwich Beach; reservations by email/phone with the managing agent, unit availability links.",
+    "openedUrls": [
+      "https://dunetootin.com/",
+      "https://dunetootin.com/cottage-rentals.html",
+      "https://dunetootin.com/unit-1.html",
+      "https://dunetootin.com/unit-2.html",
+      "https://dunetootin.com/unit-3.html"
+    ],
+    "contactPagesChecked": [
+      "https://dunetootin.com/"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "East Sandwich",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://dunetootin.com/",
+      "notes": "Site names East Sandwich Beach only; no street address published."
+    },
+    "bookingMethod": "Reservations by email/phone with Sand Dollar Realty; per-unit availability links",
+    "bookingUrl": "https://dunetootin.com/unit-1.html",
+    "directContact": {
+      "email": "info@sanddollaronline.com",
+      "phones": [
+        "508-888-1106"
+      ],
+      "source": "https://dunetootin.com/"
+    },
+    "operatorEvidenceUrl": "https://dunetootin.com/",
+    "notes": "Managed by Sand Dollar Realty. Photos are of Unit 1.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 2,
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Three two-bedroom units; Unit 3 has two bathrooms.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Not published; check availability per unit."
+    },
+    "description": "Three two-bedroom housekeeping units on East Sandwich Beach, with patios or decks, outdoor shower and a sandy path to Cape Cod Bay.",
+    "descriptionSource": "https://dunetootin.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1835": {
+    "id": "MA-1835",
+    "name": "The Osterville Cottage",
+    "website": "https://www.ostervillecottage.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "House",
+    "city": "Osterville",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Osterville Cottage",
+    "classification": "Individual vacation home",
+    "eligibilityReason": "Own website for one Osterville home with rates, amenities and a Request to Book page handled by the local property manager.",
+    "openedUrls": [
+      "https://www.ostervillecottage.com/book-a-room",
+      "https://www.ostervillecottage.com/about-the-home",
+      "https://www.ostervillecottage.com/amenities",
+      "https://www.ostervillecottage.com/rates",
+      "https://www.ostervillecottage.com/gallery",
+      "https://www.ostervillecottage.com/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.ostervillecottage.com/contact",
+      "https://www.ostervillecottage.com/book-a-room"
+    ],
+    "contactAddress": {
+      "role": "Rental home road only",
+      "street": "Unknown",
+      "city": "Osterville",
+      "state": "MA",
+      "zip": "02655",
+      "source": "https://www.ostervillecottage.com/contact",
+      "notes": "Site publishes the road name without a house number."
+    },
+    "bookingMethod": "Request to Book via property manager (phone/email)",
+    "bookingUrl": "https://www.ostervillecottage.com/book-a-room",
+    "directContact": {
+      "email": "ostervillecottage@gmail.com",
+      "phones": [
+        "(508) 326-7762"
+      ],
+      "source": "https://www.ostervillecottage.com/contact"
+    },
+    "operatorEvidenceUrl": "https://www.ostervillecottage.com/",
+    "notes": "Weekly high-season rate published on Rates page.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Sleeps 8: king master, queen back bedroom, bunk room.",
+      "kidsDetails": "About the Home describes a bunk room for kids.",
+      "petsDetails": "Unknown",
+      "priceFrom": 11500,
+      "currency": "USD",
+      "priceDetails": "$11,500/week Memorial Day weekend to end of September; off season on inquiry."
+    },
+    "description": "Three-bedroom Osterville home sleeping eight, with a swimming pool, fenced yard, outdoor shower and a beach parking pass.",
+    "descriptionSource": "https://www.ostervillecottage.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1836": {
+    "id": "MA-1836",
+    "name": "Oyster Pond Chatham",
+    "website": "https://oysterpondchatham.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Rental operator",
+    "type": "Townhome",
+    "city": "Chatham",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Oyster Pond Chatham",
+    "classification": "Small operator of three privately owned townhomes in a Chatham condominium complex",
+    "eligibilityReason": "Own website for three Oyster Pond townhomes with live weekly availability, booking request forms and direct contact.",
+    "openedUrls": [
+      "https://oysterpondchatham.com/",
+      "https://oysterpondchatham.com/rentals/",
+      "https://oysterpondchatham.com/property/townhome-25/",
+      "https://oysterpondchatham.com/book-now/",
+      "https://oysterpondchatham.com/faq-general-information/",
+      "https://oysterpondchatham.com/contact-us-2/"
+    ],
+    "contactPagesChecked": [
+      "https://oysterpondchatham.com/contact-us-2/"
+    ],
+    "contactAddress": {
+      "role": "Condominium complex address (Oyster Pond at Chatham)",
+      "street": "1233 Main Street",
+      "city": "Chatham",
+      "state": "MA",
+      "zip": "02633",
+      "source": "https://oysterpondchatham.com/contact-us-2/",
+      "notes": ""
+    },
+    "bookingMethod": "Own availability page and booking request form; phone/email",
+    "bookingUrl": "https://oysterpondchatham.com/book-now/",
+    "directContact": {
+      "email": "oysterpond@crimsonpeak.com",
+      "phones": [
+        "508-348-9288"
+      ],
+      "source": "https://oysterpondchatham.com/contact-us-2/"
+    },
+    "operatorEvidenceUrl": "https://oysterpondchatham.com/",
+    "notes": "Photos are of Townhome 25.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Townhome 25 sleeps 10 (4 BR, 4.5 BA); Townhomes 31 and 32 sleep 8 each; combined 31+32 sleeps 16.",
+      "kidsDetails": "Booking request form has Children and Infants fields.",
+      "petsDetails": "Unknown",
+      "priceFrom": 536,
+      "currency": "USD",
+      "priceDetails": "From $536 per night (Townhome 31) to $1,136 (31+32); summer weeks Saturday to Saturday."
+    },
+    "description": "Three waterfront townhomes on Oyster Pond in Chatham, two to four bedrooms, with shared pool, tennis, pickleball and a private dock.",
+    "descriptionSource": "https://oysterpondchatham.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1837": {
+    "id": "MA-1837",
+    "name": "Booth Cottages & Beach",
+    "website": "https://www.boothcottagesandbeach.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Cottage colony campus",
+    "type": "Cottage colony",
+    "city": "Brewster",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Booth Cottages & Beach",
+    "classification": "Family-owned vintage cottage colony with private beach",
+    "eligibilityReason": "Own website for eight Booth cottages in Brewster with per-cottage pages, availability page and direct email/phone contact.",
+    "openedUrls": [
+      "https://www.boothcottagesandbeach.com/",
+      "https://www.boothcottagesandbeach.com/our-story",
+      "https://www.boothcottagesandbeach.com/single-project",
+      "https://www.boothcottagesandbeach.com/single-project-1",
+      "https://www.boothcottagesandbeach.com/general-8"
+    ],
+    "contactPagesChecked": [
+      "https://www.boothcottagesandbeach.com/"
+    ],
+    "contactAddress": {
+      "role": "Cottage colony address",
+      "street": "297 Robbins Hill Rd.",
+      "city": "Brewster",
+      "state": "MA",
+      "zip": "02631",
+      "source": "https://www.boothcottagesandbeach.com/",
+      "notes": ""
+    },
+    "bookingMethod": "Direct email/phone inquiry",
+    "bookingUrl": "https://www.boothcottagesandbeach.com/",
+    "directContact": {
+      "email": "boothcottagesandbeach@gmail.com",
+      "phones": [
+        "201-234-2277"
+      ],
+      "source": "https://www.boothcottagesandbeach.com/"
+    },
+    "operatorEvidenceUrl": "https://www.boothcottagesandbeach.com/",
+    "notes": "No Wifi, no TV. Linens and toiletries not included. Photos are of Puddinhead cottage.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Eight cottages sleeping 4 to 9; Puddinhead has 3 bedrooms and 1 bath.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Furry friends welcome, free of charge.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Not published."
+    },
+    "description": "Eight 1940s-era Brewster cottages with a private Cape Cod Bay beach; no Wi-Fi or TV, pets free, bring your own linens.",
+    "descriptionSource": "https://www.boothcottagesandbeach.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1838": {
+    "id": "MA-1838",
+    "name": "Off Shore Breezes",
+    "website": "https://www.offshorebreezes.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Rental operator",
+    "type": "Cottage",
+    "city": "Eastham",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Off Shore Breezes",
+    "classification": "Family-owned operator of five Eastham cottages",
+    "eligibilityReason": "Own website for five family-owned Eastham cottages with per-cottage pages, direct contact form, phone and email; bookings completed on WeNeedaVacation.com.",
+    "openedUrls": [
+      "https://www.offshorebreezes.com/",
+      "https://www.offshorebreezes.com/735a-campground-road",
+      "https://www.offshorebreezes.com/amenities",
+      "https://www.offshorebreezes.com/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.offshorebreezes.com/contact"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Eastham",
+      "state": "MA",
+      "zip": "02642",
+      "source": "https://www.offshorebreezes.com/contact",
+      "notes": "Contact page gives town and ZIP only."
+    },
+    "bookingMethod": "Direct contact form/phone/email; bookings completed on WeNeedaVacation.com",
+    "bookingUrl": "https://www.offshorebreezes.com/contact",
+    "directContact": {
+      "email": "ccocce@comcast.net",
+      "phones": [
+        "(617) 347-9350",
+        "(781) 249-5924"
+      ],
+      "source": "https://www.offshorebreezes.com/contact"
+    },
+    "operatorEvidenceUrl": "https://www.offshorebreezes.com/",
+    "notes": "Photos are of 735A Campground Road.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Five homes, 2 to 3 bedrooms; 735A Campground Road sleeps 4.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Rates on WeNeedaVacation.com listings."
+    },
+    "description": "Five family-owned Eastham cottages near Cape Cod Bay beaches, with Wi-Fi, gas grills, fire pits and outdoor showers.",
+    "descriptionSource": "https://www.offshorebreezes.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1839": {
+    "id": "MA-1839",
+    "name": "Cozy Cape Cottage",
+    "website": "https://www.cozycapecottage.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "Wellfleet",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Cozy Cape Cottage",
+    "classification": "Individual owner cottage",
+    "eligibilityReason": "Owner website for one 1940s Wellfleet cottage; contact by email or phone to book, with listing on WeNeedaVacation.com.",
+    "openedUrls": [
+      "https://www.cozycapecottage.com/",
+      "https://www.cozycapecottage.com/cozy_cottage.htm",
+      "https://www.cozycapecottage.com/contact.htm"
+    ],
+    "contactPagesChecked": [
+      "https://www.cozycapecottage.com/contact.htm"
+    ],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.cozycapecottage.com/",
+      "notes": "No street address published."
+    },
+    "bookingMethod": "Direct email/phone; bookings also via WeNeedaVacation.com",
+    "bookingUrl": "https://www.cozycapecottage.com/contact.htm",
+    "directContact": {
+      "email": "chris@cozycapecottage.com",
+      "phones": [
+        "978-590-1084"
+      ],
+      "source": "https://www.cozycapecottage.com/contact.htm"
+    },
+    "operatorEvidenceUrl": "https://www.cozycapecottage.com/",
+    "notes": "Bring your own sheets and towels. Smoke free.",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Sleeps 4: queen bedroom, twin bedroom, sleeping porch with full pull-out.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Sorry, no pets allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Rates on WeNeedaVacation listing; summer full weeks Sunday to Sunday."
+    },
+    "description": "1940s Wellfleet cottage sleeping four on a quiet lane by Pilgrim Spring conservation land, with fireplace, deck and outdoor shower.",
+    "descriptionSource": "https://www.cozycapecottage.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1840": {
+    "id": "MA-1840",
+    "name": "Daisy Cottage (Days' Cottages)",
+    "website": "https://www.dayscottages.rentals/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Property",
+    "type": "Cottage",
+    "city": "North Truro",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [
+        "https://www.airbnb.com/rooms/16603493"
+      ],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [
+      {
+        "platform": "airbnb",
+        "url": "https://www.airbnb.com/rooms/16603493",
+        "sourceUrl": "https://www.dayscottages.rentals/",
+        "verifiedMatchingIdentity": true
+      }
+    ],
+    "platformCheckStatus": "Own website links Airbnb listing for this cottage.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Daisy Cottage (Days' Cottages)",
+    "classification": "Individual owner cottage in historic cottage row",
+    "eligibilityReason": "Owner website for Daisy Cottage, Cottage #1 of the Days' Cottages; book directly via the reservation form, phone or email.",
+    "openedUrls": [
+      "https://www.dayscottages.rentals/",
+      "https://www.dayscottages.rentals/reserve-the-cottage",
+      "https://www.dayscottages.rentals/house-rules",
+      "https://www.dayscottages.rentals/photos-video",
+      "https://www.dayscottages.rentals/contact",
+      "https://www.dayscottages.rentals/summerrentals"
+    ],
+    "contactPagesChecked": [
+      "https://www.dayscottages.rentals/contact"
+    ],
+    "contactAddress": {
+      "role": "Rental cottage address",
+      "street": "276 N Shore Rd, Daisy, Unit 1",
+      "city": "North Truro",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.dayscottages.rentals/contact",
+      "notes": ""
+    },
+    "bookingMethod": "Direct reservation form, phone or email; Airbnb also linked",
+    "bookingUrl": "https://www.dayscottages.rentals/reserve-the-cottage",
+    "directContact": {
+      "email": "woodendllc@gmail.com",
+      "phones": [
+        "508-364-5530"
+      ],
+      "source": "https://www.dayscottages.rentals/contact"
+    },
+    "operatorEvidenceUrl": "https://www.dayscottages.rentals/",
+    "notes": "Weekly in summer; off-season and winter stays available.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Back bedroom double bed, middle bedroom double bunk bed, pull-out futon in living room.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "No pets at any of the Days’ Cottages.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Weekly summer rental; rates not published on checked pages."
+    },
+    "description": "Renovated Days' Cottages cottage on Beach Point, North Truro, with a private beach and bay views toward Provincetown.",
+    "descriptionSource": "https://www.dayscottages.rentals/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1841": {
+    "id": "MA-1841",
+    "name": "Prince of Whales Cottage Rentals",
+    "website": "https://www.princeofwhalestruro.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Cottage colony campus",
+    "type": "Cottage colony",
+    "city": "Truro",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Prince of Whales Cottage Rentals",
+    "classification": "Cottage colony with kitchenettes",
+    "eligibilityReason": "Own website for Truro cottages with direct online booking engine, policies page and direct phone/email.",
+    "openedUrls": [
+      "https://www.princeofwhalestruro.com/",
+      "https://www.princeofwhalestruro.com/cottages",
+      "https://www.princeofwhalestruro.com/policies",
+      "https://www.princeofwhalestruro.com/gallery",
+      "https://hotels.cloudbeds.com/reservation/yw9u7x"
+    ],
+    "contactPagesChecked": [
+      "https://www.princeofwhalestruro.com/"
+    ],
+    "contactAddress": {
+      "role": "Cottage colony address",
+      "street": "104 Shore Road",
+      "city": "Truro",
+      "state": "MA",
+      "zip": "02652",
+      "source": "https://www.princeofwhalestruro.com/",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking engine; phone/email",
+    "bookingUrl": "https://hotels.cloudbeds.com/reservation/yw9u7x",
+    "directContact": {
+      "email": "GM@PrinceOfWhalesTruro.com",
+      "phones": [
+        "774-538-5068"
+      ],
+      "source": "https://www.princeofwhalestruro.com/"
+    },
+    "operatorEvidenceUrl": "https://www.princeofwhalestruro.com/",
+    "notes": "No resort or amenity fees. No daily cleaning.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Yes",
+      "capacityDetails": "Renovated cottages from 2-person micro cottages up.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Dogs welcome: $40 per dog per night, register in advance.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Nightly rates per cottage in booking engine; first-night deposit."
+    },
+    "description": "Renovated Truro cottages with kitchenettes and private decks, a shared fire pit and dog park, minutes from Provincetown.",
+    "descriptionSource": "https://www.princeofwhalestruro.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1842": {
+    "id": "MA-1842",
+    "name": "Cape Truro Cottages",
+    "website": "https://capetrurocottages.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Cottage colony campus",
+    "type": "Cottage",
+    "city": "North Truro",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "Cape Truro Cottages",
+    "classification": "Owner-operated small cottage group",
+    "eligibilityReason": "Owner website for North Truro cottages with published weekly/monthly rates and owner phone; reservations via linked listing.",
+    "openedUrls": [
+      "https://capetrurocottages.com/",
+      "https://capetrurocottages.com/amenities.html",
+      "https://capetrurocottages.com/contact.html"
+    ],
+    "contactPagesChecked": [
+      "https://capetrurocottages.com/contact.html"
+    ],
+    "contactAddress": {
+      "role": "Cottage address",
+      "street": "95 Shore Road",
+      "city": "North Truro",
+      "state": "MA",
+      "zip": "02652",
+      "source": "https://capetrurocottages.com/contact.html",
+      "notes": ""
+    },
+    "bookingMethod": "Owner phone; Reserve a Cottage links to vacationrentals.com listings",
+    "bookingUrl": "https://capetrurocottages.com/contact.html",
+    "directContact": {
+      "email": "Unknown",
+      "phones": [
+        "347-751-7666"
+      ],
+      "source": "https://capetrurocottages.com/contact.html"
+    },
+    "operatorEvidenceUrl": "https://capetrurocottages.com/",
+    "notes": "Owners Evelise Leopoldo and Ralph Wilkins.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Unknown",
+      "capacityDetails": "Full-size beds plus full-size futons; two parking spaces per cottage.",
+      "kidsDetails": "Amenities: full size futons for the kids.",
+      "petsDetails": "Unknown",
+      "priceFrom": 700,
+      "currency": "USD",
+      "priceDetails": "$700 week May/June/Sept/Oct; $800 week July-August; monthly and seasonal rates published."
+    },
+    "description": "North Truro cottages in the Pines with kitchens, Wi-Fi and two parking spaces each, on the Cape Cod shuttle bus route.",
+    "descriptionSource": "https://capetrurocottages.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
+  },
+  "MA-1843": {
+    "id": "MA-1843",
+    "name": "The Masthead Resort & Cottages",
+    "website": "https://www.themasthead.com/",
+    "checkedOn": "2026-10-27",
+    "evidenceStatus": "Verified independent website",
+    "recordType": "Cottage colony campus",
+    "type": "Cottage colony",
+    "city": "Provincetown",
+    "state": "MA",
+    "platformLinks": {
+      "airbnb": [],
+      "vrbo": [],
+      "booking": []
+    },
+    "platformLinkEvidence": [],
+    "platformCheckStatus": "Opened own pages checked; no matched Airbnb/Vrbo/Booking.com listing URLs established.",
+    "photos": [],
+    "remainingGaps": [],
+    "accessFailures": [],
+    "operator": "The Masthead Resort & Cottages",
+    "classification": "Family-owned waterfront cottages, suites and rooms",
+    "eligibilityReason": "Family-owned Provincetown waterfront property with own site, direct online booking and reservations email/phone; cottage detail pages opened.",
+    "openedUrls": [
+      "https://www.themasthead.com/",
+      "https://www.themasthead.com/accommodations/waterfront-cottages/",
+      "https://www.themasthead.com/accommodations/waterfront-cottages/boathouse-cottage-33/",
+      "https://www.themasthead.com/contact-us/",
+      "https://www.themasthead.com/about-us/"
+    ],
+    "contactPagesChecked": [
+      "https://www.themasthead.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "Property address",
+      "street": "31-41 Commercial Street",
+      "city": "Provincetown",
+      "state": "MA",
+      "zip": "02657",
+      "source": "https://www.themasthead.com/contact-us/",
+      "notes": ""
+    },
+    "bookingMethod": "Direct online booking; reservations phone/email",
+    "bookingUrl": "https://secure.webrez.com/hotel/1415",
+    "directContact": {
+      "email": "reservations@themasthead.com",
+      "phones": [
+        "(508) 487-0523"
+      ],
+      "source": "https://www.themasthead.com/contact-us/"
+    },
+    "operatorEvidenceUrl": "https://www.themasthead.com/",
+    "notes": "Photos are of Boathouse Cottage #33.",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Boathouse Cottage #33 accommodates up to four.",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Rates in online booking engine."
+    },
+    "description": "Family-owned since 1959: Provincetown West End cottages, suites and rooms with harbor views and a 450-foot private beach deck.",
+    "descriptionSource": "https://www.themasthead.com/",
+    "discoveryMethod": "Cape Cod town web research (batch1); own website opened 2026-10-27",
+    "reviewed": true,
+    "eligibilityStatus": "Verified independent website"
   }
 }

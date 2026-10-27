@@ -246,16 +246,16 @@
     }
   },
   "verificationAudit": {
-    "reviewed": 420,
+    "reviewed": 431,
     "statuses": {
       "Not eligible": 22,
-      "Verified independent website": 209,
+      "Verified independent website": 220,
       "Source found in web research": 61,
       "Website unavailable": 6,
       "Verified platform-hosted website": 122
     },
-    "eligible": 331,
-    "photoReadyImport": 324,
+    "eligible": 342,
+    "photoReadyImport": 335,
     "unresolvedIds": [
       "MA-0001",
       "MA-0005",
@@ -666,7 +666,19 @@
       "MA-1704",
       "MA-1705"
     ],
-    "pendingIds": [],
+    "pendingIds": [
+      "MA-1833",
+      "MA-1834",
+      "MA-1835",
+      "MA-1836",
+      "MA-1837",
+      "MA-1838",
+      "MA-1839",
+      "MA-1840",
+      "MA-1841",
+      "MA-1842",
+      "MA-1843"
+    ],
     "completedAuditFiles": [
       "policy-audit-00.json",
       "policy-audit-01.json",
