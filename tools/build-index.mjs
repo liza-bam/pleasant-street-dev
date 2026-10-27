@@ -11,6 +11,14 @@ const homes = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/homes.json'), 'ut
 const known = (v) => v != null && v !== '' && v !== 'Unknown';
 const yes = (v) => (v === true || /^y/i.test(v || '') ? 'yes' : v === false || /^no\b/i.test(v || '') ? 'no' : v === 'Conditional' ? 'Conditional; check unit policy' : 'Unknown');
 const price = (h) => (typeof h.priceFrom === 'number' ? `from ${h.priceFrom} ${known(h.currency) ? h.currency : ''} a night` : known(h.priceDetails) ? h.priceDetails : 'Unknown');
+// The only published address is the operator's office, mailing box or arrival point, not the rental's door: the card asks the guest to get the address from the owner's website.
+const askAddress = (h) => {
+  const a = h.address;
+  if (!a || !known(a.street)) return false;
+  const t = String(a.type || '').toLowerCase();
+  return /office|mailing|po box|arrival|marina|homeport|outside|parent company|hotel partner|not (a |each )?rental|tourism-listed operator|^operator contact/.test(t) && !/property|campus/.test(t);
+};
+for (const h of homes) if (askAddress(h)) h.askAddress = true;
 
 const blocks = homes.map((h) => {
   const facts = [
@@ -35,7 +43,7 @@ ${blocks.join('\n')}`;
 const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefined && h[k] !== '').map((k) => [k, h[k]]));
 fs.writeFileSync(path.join(ROOT, 'index.md'), md.replace(/[ \t]+$/gm, ''));
 fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(homes.map((h) =>
-  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','cardDescription','cardDescriptionSource','cardPhotos','cardPhotoLabel','platformLinks','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','locationLabel','featured','demo'])), null, 1) + '\n');
+  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','cardDescription','cardDescriptionSource','cardPhotos','cardPhotoLabel','platformLinks','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','locationLabel','askAddress','featured','demo'])), null, 1) + '\n');
 // Compatibility adapter for the current app. The canonical database keeps explicit
 // Unknown values; this older UI expects absent unknowns and numeric map coordinates.
 const street=homes.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>{
