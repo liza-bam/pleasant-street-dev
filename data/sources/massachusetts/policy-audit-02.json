@@ -1,0 +1,1764 @@
+[
+  {
+    "id": "MA-0006",
+    "name": "Pinewood Lodge Campground",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.pinewoodlodge.com/rentals/",
+      "https://www.pinewoodlodge.com/reservations/"
+    ],
+    "scope": "Record",
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "No pets in rental units. Camping-site pet allowance does not apply to rental lodgings.",
+    "kidsDetails": "Children allowed; parental supervision, 11 p.m. own-site rule and adult restroom accompaniment under age 12.",
+    "supportingText": [
+      "Rental categories state no pets; reservation rules specifically prohibit pets in rental units.",
+      "Parents are responsible for children; children must be at their site by 11 p.m.; under-12s require an adult in restrooms."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "No pets in rental units. Camping-site pet allowance does not apply to rental lodgings.",
+      "kids": "Children allowed; parental supervision, 11 p.m. own-site rule and adult restroom accompaniment under age 12."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://www.pinewoodlodge.com/rentals/",
+      "https://www.pinewoodlodge.com/reservations/"
+    ],
+    "kidsSourceUrls": [
+      "https://www.pinewoodlodge.com/rentals/",
+      "https://www.pinewoodlodge.com/reservations/"
+    ]
+  },
+  {
+    "id": "MA-0008",
+    "name": "Thomas Sea Suites at Harbourtown",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.thomasseasuites.com/",
+      "https://www.thomasseasuites.com/faq.html"
+    ],
+    "scope": "Record",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Pets considered subject to confirmation; maximum 30 pounds; $200 per pet per stay.",
+    "kidsDetails": "Pack-n-plays available on request; homepage explicitly welcomes families.",
+    "supportingText": [
+      "Expanded pet FAQ: pets considered, $200 per pet per stay, maximum 30 pounds; note pets in reservation so availability can be confirmed.",
+      "Expanded crib FAQ: pack-n-plays available on request; contact in advance."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets considered subject to confirmation; maximum 30 pounds; $200 per pet per stay.",
+      "kids": "Pack-n-plays available on request; homepage explicitly welcomes families."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://www.thomasseasuites.com/",
+      "https://www.thomasseasuites.com/faq.html"
+    ],
+    "kidsSourceUrls": [
+      "https://www.thomasseasuites.com/",
+      "https://www.thomasseasuites.com/faq.html"
+    ]
+  },
+  {
+    "id": "MA-0015",
+    "name": "The Rockport House",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://therockporthouse.com/experience-and-faq/"
+    ],
+    "scope": "Record",
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "Pets not permitted; ADA service animals welcome.",
+    "kidsDetails": "Children of all ages welcome; pack’n play by request.",
+    "supportingText": [
+      "Expanded Children answer welcomes children of all ages and offers a pack’n play by request.",
+      "Expanded Pets answer prohibits pets; ADA service animals welcome."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not permitted; ADA service animals welcome.",
+      "kids": "Children of all ages welcome; pack’n play by request."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://therockporthouse.com/experience-and-faq/"
+    ],
+    "kidsSourceUrls": [
+      "https://therockporthouse.com/experience-and-faq/"
+    ]
+  },
+  {
+    "id": "MA-0004",
+    "name": "Furnished Quarters",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.furnishedquarters.com/pet-friendly",
+      "https://www.furnishedquarters.com/faq"
+    ],
+    "scope": "Record",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "petsDetails": "Pet-friendly apartments in some buildings; breed/weight restrictions, nonrefundable cleaning fee and advance arrangements apply.",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Pets allowed in most buildings, with nonrefundable cleaning fee and breed/weight restrictions; arrangements at booking.",
+      "Pet-friendly accommodations vary by building. No explicit children policy found in FAQ."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pet-friendly apartments in some buildings; breed/weight restrictions, nonrefundable cleaning fee and advance arrangements apply.",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://www.furnishedquarters.com/pet-friendly",
+      "https://www.furnishedquarters.com/faq"
+    ],
+    "kidsSourceUrls": [
+      "https://www.furnishedquarters.com/pet-friendly",
+      "https://www.furnishedquarters.com/faq"
+    ]
+  },
+  {
+    "id": "MA-0018",
+    "name": "Bed & Breakfast Afloat",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.constitutionmarina.com/bed-and-breakfast/",
+      "https://www.constitutionmarina.com/policies/#stays",
+      "https://www.constitutionmarina.com/marina-info/"
+    ],
+    "scope": "Record",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Marina is pet friendly; B&B vessel-specific allowance and restrictions remain Unknown.",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Expanded marina pet FAQ says marina is pet friendly and to ask dock office about requirements. It does not state B&B vessel-specific allowance.",
+      "B&B stay policies and marina FAQ contain no explicit child or B&B-vessel pet policy."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Marina is pet friendly; B&B vessel-specific allowance and restrictions remain Unknown.",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://www.constitutionmarina.com/bed-and-breakfast/",
+      "https://www.constitutionmarina.com/policies/#stays",
+      "https://www.constitutionmarina.com/marina-info/"
+    ],
+    "kidsSourceUrls": [
+      "https://www.constitutionmarina.com/bed-and-breakfast/",
+      "https://www.constitutionmarina.com/policies/#stays",
+      "https://www.constitutionmarina.com/marina-info/"
+    ]
+  },
+  {
+    "id": "MA-0020",
+    "name": "Luxo Executive Rentals",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://luxoexecutiverentals.com/#faqs",
+      "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2"
+    ],
+    "scope": "Operator; selected unit evidence retained separately",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Portfolio-wide policy Unknown; selected Westborough Unit 2 allows pets.",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Selected Westborough Unit 2 house rules state pets allowed. No portfolio-wide children or pet policy published in checked FAQ."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "unitPolicy": {
+      "name": "Westborough Unit 2",
+      "pets": "Yes",
+      "kids": "Unknown",
+      "source": "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2"
+    },
+    "restrictions": {
+      "pets": "Portfolio-wide policy Unknown; selected Westborough Unit 2 allows pets.",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://luxoexecutiverentals.com/#faqs",
+      "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2"
+    ],
+    "kidsSourceUrls": [
+      "https://luxoexecutiverentals.com/#faqs",
+      "https://luxoexecutiverentals.com/property-details/?property=westborough-unit-2"
+    ]
+  },
+  {
+    "id": "MA-0022",
+    "name": "The Satanic Suite",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://thesatanicsuite.com/",
+      "https://thesatanicsuite.com/products/overnight-stay",
+      "https://thesatanicsuite.com/pages/about-the-suite",
+      "https://thesatanicsuite.com/pages/explore-the-suite"
+    ],
+    "scope": "Record",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Unknown",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "No pet or child policy found on homepage, own booking product, About or Explore pages."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Unknown",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://thesatanicsuite.com/",
+      "https://thesatanicsuite.com/products/overnight-stay",
+      "https://thesatanicsuite.com/pages/about-the-suite",
+      "https://thesatanicsuite.com/pages/explore-the-suite"
+    ],
+    "kidsSourceUrls": [
+      "https://thesatanicsuite.com/",
+      "https://thesatanicsuite.com/products/overnight-stay",
+      "https://thesatanicsuite.com/pages/about-the-suite",
+      "https://thesatanicsuite.com/pages/explore-the-suite"
+    ]
+  },
+  {
+    "id": "MA-0201",
+    "name": "Lighthouse Lane Cottages",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.lighthouselanecottage.com/",
+      "https://www.lighthouselanecottage.com/the-playhouse"
+    ],
+    "scope": "Record",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Unknown",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "No published pet/child policy or separate policies/FAQ link on checked homepage and Playhouse detail."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Unknown",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://www.lighthouselanecottage.com/",
+      "https://www.lighthouselanecottage.com/the-playhouse"
+    ],
+    "kidsSourceUrls": [
+      "https://www.lighthouselanecottage.com/",
+      "https://www.lighthouselanecottage.com/the-playhouse"
+    ]
+  },
+  {
+    "id": "MA-0202",
+    "name": "Atlantic Vacation Homes",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.atlanticvacationhomes.com/guest-faq/traveling-with-pet",
+      "https://www.atlanticvacationhomes.com/guest-faq"
+    ],
+    "scope": "Record",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Only designated pet-friendly homes; generally dogs under 40 pounds and age 1+; maximum two with approval. No cats or visiting pets; no pets on furniture/beds; contact about fees.",
+    "kidsDetails": "Children permitted within occupancy limit; under-2s excluded from occupancy count.",
+    "supportingText": [
+      "Pets only in designated pet-friendly homes; generally dogs under 40 pounds and at least one year old; up to two with approval; cats and visiting pets not allowed.",
+      "Children count toward occupancy unless under age two."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Only designated pet-friendly homes; generally dogs under 40 pounds and age 1+; maximum two with approval. No cats or visiting pets; no pets on furniture/beds; contact about fees.",
+      "kids": "Children permitted within occupancy limit; under-2s excluded from occupancy count."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://www.atlanticvacationhomes.com/guest-faq/traveling-with-pet",
+      "https://www.atlanticvacationhomes.com/guest-faq"
+    ],
+    "kidsSourceUrls": [
+      "https://www.atlanticvacationhomes.com/guest-faq/traveling-with-pet",
+      "https://www.atlanticvacationhomes.com/guest-faq"
+    ]
+  },
+  {
+    "id": "MA-0203",
+    "name": "Sea Lion Motel & Cottages",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://sealionmotel.com/",
+      "https://sealionmotel.com/reservations/",
+      "https://sealionmotel.com/rooms/#cottage",
+      "https://sealionmotel.com/rates/"
+    ],
+    "scope": "Record",
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "No pets allowed.",
+    "kidsDetails": "Children under 10 free; age 10+ extra-person charge $10/night; rollaways $10/night. Rates page is undated, confirm current charges.",
+    "supportingText": [
+      "Room Rates page prohibits pets. Children under 10 are free; age 10+ extra-person charge $10/night; rollaways $10/night."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "No pets allowed.",
+      "kids": "Children under 10 free; age 10+ extra-person charge $10/night; rollaways $10/night. Rates page is undated, confirm current charges."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://sealionmotel.com/",
+      "https://sealionmotel.com/reservations/",
+      "https://sealionmotel.com/rooms/#cottage",
+      "https://sealionmotel.com/rates/"
+    ],
+    "kidsSourceUrls": [
+      "https://sealionmotel.com/",
+      "https://sealionmotel.com/reservations/",
+      "https://sealionmotel.com/rooms/#cottage",
+      "https://sealionmotel.com/rates/"
+    ]
+  },
+  {
+    "id": "MA-0204",
+    "name": "Accommodations at Rocky Neck",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.rockyneckaccommodations.com/",
+      "https://www.rockyneckaccommodations.com/rates.html"
+    ],
+    "scope": "Record",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Unknown",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Information/rates page and homepage do not publish pet or child rules; no separate policies link found."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Unknown",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://www.rockyneckaccommodations.com/",
+      "https://www.rockyneckaccommodations.com/rates.html"
+    ],
+    "kidsSourceUrls": [
+      "https://www.rockyneckaccommodations.com/",
+      "https://www.rockyneckaccommodations.com/rates.html"
+    ]
+  },
+  {
+    "id": "MA-0205",
+    "name": "The Seaward / Spruce Cottage",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://theseawardrockport.com/rooms/spruce-cottage/",
+      "https://theseawardrockport.com/rental-policies/"
+    ],
+    "scope": "Record",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "petsDetails": "Prior owner approval; $50/week; pets must be quiet/clean, furniture protected and damage paid by guest.",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Spruce detail says pets considered. Rental policies require contacting owner; quiet/clean pets, furniture coverings, $50 weekly pet fee, guest pays damage. No child policy found."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Prior owner approval; $50/week; pets must be quiet/clean, furniture protected and damage paid by guest.",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://theseawardrockport.com/rooms/spruce-cottage/",
+      "https://theseawardrockport.com/rental-policies/"
+    ],
+    "kidsSourceUrls": [
+      "https://theseawardrockport.com/rooms/spruce-cottage/",
+      "https://theseawardrockport.com/rental-policies/"
+    ]
+  },
+  {
+    "id": "MA-0206",
+    "name": "Gloucester Beach House",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://gloucesterbeachhouse.com/",
+      "https://gloucesterbeachhouse.com/our-place/"
+    ],
+    "scope": "Record",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Unknown",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "No pet/child rules or separate policies/FAQ page found in checked homepage and Our Place. Family-owned describes ownership, not a child policy."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Unknown",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://gloucesterbeachhouse.com/",
+      "https://gloucesterbeachhouse.com/our-place/"
+    ],
+    "kidsSourceUrls": [
+      "https://gloucesterbeachhouse.com/",
+      "https://gloucesterbeachhouse.com/our-place/"
+    ]
+  },
+  {
+    "id": "MA-0207",
+    "name": "The Calico Seahorse",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower?adults=1&children=0&pets=0&infants=0"
+    ],
+    "scope": "Operator; Sintra unit policy only",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Operator-wide policy not established; Sintra dogs with prior approval and fee.",
+    "kidsDetails": "Operator-wide policy not established; Sintra explicitly welcomes children.",
+    "supportingText": [
+      "Sintra unit Policies and House Rules welcome children; pets allowed only by prior arrangement and fee. Do not apply this unit policy to all seven campus lodgings."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "unitPolicy": {
+      "name": "Sintra",
+      "pets": "Conditional",
+      "kids": "Yes",
+      "petsDetails": "Dogs by prior approval and additional fee; fee amount not published.",
+      "source": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower?adults=1&children=0&pets=0&infants=0"
+    },
+    "restrictions": {
+      "pets": "Operator-wide policy not established; Sintra dogs with prior approval and fee.",
+      "kids": "Operator-wide policy not established; Sintra explicitly welcomes children."
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower?adults=1&children=0&pets=0&infants=0"
+    ],
+    "kidsSourceUrls": [
+      "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower?adults=1&children=0&pets=0&infants=0"
+    ]
+  },
+  {
+    "id": "MA-0208",
+    "name": "Boston Extended Stay / Bed and Breakfast Associates Bay Colony",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://bostonextendedstay.com/m325-copley-vacation-rental-on-the-park/",
+      "https://bostonextendedstay.com/boston-furnished-apartments-policies/"
+    ],
+    "scope": "Operator; unit exceptions retained",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "petsDetails": "Most accommodations do not allow pets; a small number accept them by arrangement. Confirm specific property.",
+    "kidsDetails": "Operator-wide children policy Unknown; M325 accommodates one child at a published $30/night charge.",
+    "supportingText": [
+      "Policies say smoking and pets not permitted, then clarify very few accommodations accept pets. Inquire property by property.",
+      "M325 lists a single air mattress for one child and $30/night child charge; no portfolio-wide child policy."
+    ],
+    "conflicts": [
+      "General no-pets sentence is qualified by later statement that very few properties accommodate pets."
+    ],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "unitPolicy": {
+      "name": "M325 Copley on the Park",
+      "kids": "Yes",
+      "kidsDetails": "Single air mattress for one child; published $30/night child charge.",
+      "pets": "Unknown"
+    },
+    "restrictions": {
+      "pets": "Most accommodations do not allow pets; a small number accept them by arrangement. Confirm specific property.",
+      "kids": "Operator-wide children policy Unknown; M325 accommodates one child at a published $30/night charge."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages",
+      "Operator confirmation of conflicting policy statements"
+    ],
+    "petsSourceUrls": [
+      "https://bostonextendedstay.com/m325-copley-vacation-rental-on-the-park/",
+      "https://bostonextendedstay.com/boston-furnished-apartments-policies/"
+    ],
+    "kidsSourceUrls": [
+      "https://bostonextendedstay.com/m325-copley-vacation-rental-on-the-park/",
+      "https://bostonextendedstay.com/boston-furnished-apartments-policies/"
+    ]
+  },
+  {
+    "id": "MA-0209",
+    "name": "The Pearl Rockport",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://thepearl.staycation.igms.com/property/HZN4IG1AMR88L2JH"
+    ],
+    "scope": "Operator; checked apartment only",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Operator-wide policy not established; checked apartment permits up to two approved dogs, $200/stay.",
+    "kidsDetails": "Operator-wide policy not established; checked apartment allows children and infants.",
+    "supportingText": [
+      "Unit HZN4IG1AMR88L2JH states children and infants allowed, pets allowed; up to two well-behaved dogs by approval with $200/stay nonrefundable fee. Operator has three units; do not transfer this policy to the other two."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "unitPolicy": {
+      "id": "HZN4IG1AMR88L2JH",
+      "pets": "Conditional",
+      "kids": "Yes",
+      "petsDetails": "Prior approval; maximum two well-behaved dogs; $200 per stay; pet damage/extra cleaning charged separately."
+    },
+    "restrictions": {
+      "pets": "Operator-wide policy not established; checked apartment permits up to two approved dogs, $200/stay.",
+      "kids": "Operator-wide policy not established; checked apartment allows children and infants."
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://thepearl.staycation.igms.com/property/HZN4IG1AMR88L2JH"
+    ],
+    "kidsSourceUrls": [
+      "https://thepearl.staycation.igms.com/property/HZN4IG1AMR88L2JH"
+    ]
+  },
+  {
+    "id": "MA-0251",
+    "name": "Scituate by the Sea - Walk to the Beach",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Dogs allowed, but quantity and fee conflict: description two dogs age 1+ at $50 each; widget maximum one/no additional fee. Confirm before booking.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Dogs allowed, but quantity and fee conflict: description two dogs age 1+ at $50 each; widget maximum one/no additional fee. Confirm before booking."
+    ],
+    "conflicts": [
+      "Description allows two dogs age 1+ at $50 each per stay; House rules widget says maximum one with no additional fee."
+    ],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Dogs allowed, but quantity and fee conflict: description two dogs age 1+ at $50 each; widget maximum one/no additional fee. Confirm before booking.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [
+      "Operator confirmation of conflicting policy statements"
+    ],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0252",
+    "name": "Split Rock, Easy Walk To Beach & Scenic Trails",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0253",
+    "name": "Minutes To Berkshire East With Hot Tub & Views",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Dogs allowed, age 1+ and $50 each per stay; quantity conflicts between one and two dogs. Confirm with host.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Dogs allowed, age 1+ and $50 each per stay; quantity conflicts between one and two dogs. Confirm with host."
+    ],
+    "conflicts": [
+      "The Space says one dog/$50 per stay; Other things to note says two dogs/$50 each. Both require age 1+."
+    ],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Dogs allowed, age 1+ and $50 each per stay; quantity conflicts between one and two dogs. Confirm with host.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [
+      "Operator confirmation of conflicting policy statements"
+    ],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0254",
+    "name": "Spacious Lenox Home Near Tanglewood",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "No pets allowed.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "No pets allowed."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "No pets allowed.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0255",
+    "name": "Private Berkshire Chalet in Worthington",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0256",
+    "name": "Nature Retreat Near Prospect Lake",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0257",
+    "name": "Oceanview Getaway Near Nantasket Beach",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Unknown",
+    "kids": "Yes",
+    "petsDetails": "Unresolved conflict: description permits two dogs age 1+ at $50 each; House rules prohibit pets. Confirm with host.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Unresolved conflict: description permits two dogs age 1+ at $50 each; House rules prohibit pets. Confirm with host."
+    ],
+    "conflicts": [
+      "Description allows two dogs age 1+ at $50 each; House rules says no pets allowed."
+    ],
+    "notFound": [
+      "Pets policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Unresolved conflict: description permits two dogs age 1+ at $50 each; House rules prohibit pets. Confirm with host.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Operator confirmation of conflicting policy statements"
+    ],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0258",
+    "name": "Book The Last Of Summer In Rockport!",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0259",
+    "name": "Riverfront Log Home on 44 Acres with Sauna",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "No pets allowed.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "No pets allowed."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "No pets allowed.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0260",
+    "name": "Relaxing Cape Cod Hideaway with Modern Comforts",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "No pets allowed.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "No pets allowed."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "No pets allowed.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0261",
+    "name": "Historic, Modern Comforts, Walk To Downtown",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0262",
+    "name": "Coveted Cottage: Humarock Beach Experience",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0263",
+    "name": "Humarock Hideaway, Tranquil Cottage with River Views",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0264",
+    "name": "Cape Cod Haven Near Beaches & Town Center",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "No pets allowed.",
+    "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+    "supportingText": [
+      "House rules explicitly suitable for children ages 2–12 and infants under 2.",
+      "No pets allowed."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "No pets allowed.",
+      "kids": "Suitable for children ages 2–12 and infants under 2."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0214",
+    "name": "Wilkuma Vacation Rental Management",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://wilkuma.guestybookings.com/en/terms",
+      "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1"
+    ],
+    "scope": "Superseded operator summary",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Unknown",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Operator summary superseded. Individual unit house rules vary on pets; all fourteen checked units explicitly permit children 2–12 and infants under 2. Do not turn selected unit policies into portfolio-wide guarantees."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban. Operator summary is superseded; use individual property policy rows.",
+    "restrictions": {
+      "pets": "Unknown",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/terms",
+      "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1"
+    ],
+    "kidsSourceUrls": [
+      "https://wilkuma.guestybookings.com/en/terms",
+      "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+      "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1"
+    ]
+  },
+  {
+    "id": "MA-0271",
+    "name": "Horseneck Farms Cottage",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://horseneckfarms.com/amenities",
+      "https://horseneckfarms.com/rentalrates"
+    ],
+    "scope": "Record",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Pets considered; approval, species, limits and fees not published.",
+    "kidsDetails": "Sleeps two adults/children; no age restriction published.",
+    "supportingText": [
+      "Amenities explicitly states sleeps two adults/children. Rental Rates & Terms says pets considered."
+    ],
+    "conflicts": [],
+    "notFound": [],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets considered; approval, species, limits and fees not published.",
+      "kids": "Sleeps two adults/children; no age restriction published."
+    },
+    "remainingGaps": [],
+    "petsSourceUrls": [
+      "https://horseneckfarms.com/amenities",
+      "https://horseneckfarms.com/rentalrates"
+    ],
+    "kidsSourceUrls": [
+      "https://horseneckfarms.com/amenities",
+      "https://horseneckfarms.com/rentalrates"
+    ]
+  },
+  {
+    "id": "MA-0272",
+    "name": "Historic Westport Point Waterfront Home — Kathy Santos",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://www.kathy-santos.com/rental1-historic-wp.html"
+    ],
+    "scope": "Record",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Property facts explicitly Pets: No. Description calls it a family vacation home but publishes no explicit child policy."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://www.kathy-santos.com/rental1-historic-wp.html"
+    ],
+    "kidsSourceUrls": [
+      "https://www.kathy-santos.com/rental1-historic-wp.html"
+    ]
+  },
+  {
+    "id": "MA-0275",
+    "name": "Cozy Quahog",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1448038830919482304"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: no.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1448038830919482304"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1448038830919482304"
+    ]
+  },
+  {
+    "id": "MA-0276",
+    "name": "Casa Isla",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1400138398467315622"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: no.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Expanded Airbnb rules confirm no pets; service animals only."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1400138398467315622"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1400138398467315622"
+    ]
+  },
+  {
+    "id": "MA-0277",
+    "name": "Oceanview Oasis",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1157245732387526389"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: no.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Expanded Airbnb rules confirm no pets; service animals only."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1157245732387526389"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1157245732387526389"
+    ]
+  },
+  {
+    "id": "MA-0278",
+    "name": "The Fairview",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1160801886680422135"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "petsDetails": "Pets allowed, maximum two per matched Airbnb House rules; fee and other limits not published.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: yes.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Pets allowed, maximum two per matched Airbnb House rules; fee and other limits not published."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets allowed, maximum two per matched Airbnb House rules; fee and other limits not published.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1160801886680422135"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1160801886680422135"
+    ]
+  },
+  {
+    "id": "MA-0279",
+    "name": "Bay Breeze",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1217312357980047435"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: no.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Expanded Airbnb rules confirm no pets; service animals only."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1217312357980047435"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1217312357980047435"
+    ]
+  },
+  {
+    "id": "MA-0280",
+    "name": "Birdseye View Oceanfront",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1147717782301677687"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "petsDetails": "Dogs only, maximum two per matched Airbnb House rules; fee not published.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: yes.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Dogs only, maximum two per matched Airbnb House rules; fee not published."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Dogs only, maximum two per matched Airbnb House rules; fee not published.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1147717782301677687"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1147717782301677687"
+    ]
+  },
+  {
+    "id": "MA-0281",
+    "name": "Lovely Day Oceanside",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1050633472140077739"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: no.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Expanded Airbnb rules confirm no pets; service animals only."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1050633472140077739"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1050633472140077739"
+    ]
+  },
+  {
+    "id": "MA-0282",
+    "name": "Maple by the Bay – Fort Phoenix",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1076021202794722763"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published. Own page warns that steep stairs warrant care for small children; this is not a ban.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: no.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy. Own page warns of steep interior stairs for small children; this is a caution, not a prohibition.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Expanded Airbnb rules confirm no pets; service animals only."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published. Own page warns that steep stairs warrant care for small children; this is not a ban."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1076021202794722763"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1076021202794722763"
+    ]
+  },
+  {
+    "id": "MA-0283",
+    "name": "Strawberry Moon – West Island",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1075316824545894097"
+    ],
+    "scope": "Individual property",
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: no.",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Expanded Airbnb rules confirm no pets; service animals only."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Pets not allowed.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1075316824545894097"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1075316824545894097"
+    ]
+  },
+  {
+    "id": "MA-0284",
+    "name": "Ocean Escape",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1302073107134898492"
+    ],
+    "scope": "Individual property",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "petsDetails": "Dogs only, maximum one; contact host with questions. Fee not published.",
+    "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
+    "supportingText": [
+      "Property facts explicitly Pets allowed: yes (1 dog only).",
+      "No explicit child/infant acceptance or age limit found on the checked official property page. Family marketing and guest reviews are not treated as a child policy.",
+      "Matched individual Airbnb listing House rules modal expanded and read; no explicit children/infants policy or age restriction shown. No child allowance inferred from reviews or family marketing.",
+      "Dogs only, maximum one; contact host with questions. Fee not published."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban.",
+    "restrictions": {
+      "pets": "Dogs only, maximum one; contact host with questions. Fee not published.",
+      "kids": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published."
+    },
+    "remainingGaps": [
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1302073107134898492"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://www.airbnb.com/rooms/1302073107134898492"
+    ]
+  },
+  {
+    "id": "MA-0274",
+    "name": "Buzzards Bay Rentals, LLC",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed for this pass",
+    "checkedUrls": [
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+      "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+      "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+      "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+      "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+      "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+      "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+      "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+      "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+      "https://buzzardsbayrentals.com/accommodation/ocean-escape/"
+    ],
+    "scope": "Superseded operator summary",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Unknown",
+    "kidsDetails": "Unknown",
+    "supportingText": [
+      "Operator summary superseded. Individual homes have differing pet allowances. General cancellation policy contains no uniform child/pet rule."
+    ],
+    "conflicts": [],
+    "notFound": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "notes": "No minimum renter age was interpreted as a child ban. Operator summary is superseded; use individual property policy rows.",
+    "restrictions": {
+      "pets": "Unknown",
+      "kids": "Unknown"
+    },
+    "remainingGaps": [
+      "Pets policy not found on the checked official pages",
+      "Children policy not found on the checked official pages"
+    ],
+    "petsSourceUrls": [
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+      "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+      "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+      "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+      "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+      "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+      "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+      "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+      "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+      "https://buzzardsbayrentals.com/accommodation/ocean-escape/"
+    ],
+    "kidsSourceUrls": [
+      "https://buzzardsbayrentals.com/cancellation-and-refund-policy/",
+      "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+      "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+      "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+      "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+      "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+      "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+      "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+      "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+      "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+      "https://buzzardsbayrentals.com/accommodation/ocean-escape/"
+    ]
+  }
+]

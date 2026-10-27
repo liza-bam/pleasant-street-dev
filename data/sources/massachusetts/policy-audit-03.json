@@ -1,0 +1,820 @@
+[
+  {
+    "id": "MA-0002",
+    "checkedUrls": [
+      "https://www.birchandstonegroton.com/",
+      "https://www.birchandstonegroton.com/booking",
+      "https://www.birchandstonegroton.com/about-birch-and-stone"
+    ],
+    "evidenceText": [
+      "About describes a four-bedroom house for family and friends. Booking page describes weekly, weekend, monthly and long-term stays but publishes no child or pet admission rule."
+    ],
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Not published on opened home, booking or About pages; no policy/FAQ link exposed.",
+    "kidsDetails": "No explicit child admission policy; family and friends language does not establish children allowed.",
+    "absence": [
+      "Pet admission policy",
+      "Explicit child admission policy"
+    ],
+    "summary": "Pets and children remain Unknown after home, booking and About review; no policy link exposed.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0021",
+    "checkedUrls": [
+      "https://pineacresresort.com/",
+      "https://pineacresresort.com/rentals/",
+      "https://pineacresresort.com/policies/"
+    ],
+    "evidenceText": [
+      "Pets are ONLY allowed in our Pet-Friendly Rentals.",
+      "Registered family friendly pets are welcome ... Limit two dogs and/or cats per site.",
+      "Children under 7 years must be accompanied in all buildings and all Resort facilities by an adult and must NOT be left unattended at any time.",
+      "Rental occupancy is one camping family (one or two adults and their minor children). Premium Plus and Pavilion cabins are not pet-friendly; other designated rentals are."
+    ],
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Only designated pet-friendly rentals; up to two dogs/cats, registered with current rabies certificates, supervised and on maximum six-foot non-retractable leash. No visitor pets. Premium Plus/Pavilion excluded.",
+    "kidsDetails": "Children explicitly accommodated. Under seven accompanied in all facilities; under sixteen supervised at pool/amenities; under eighteen at campsite with adult by 10pm unless sanctioned activity or with parent. Hot tub eighteen-plus.",
+    "summary": "Children admitted with supervision/curfew restrictions; pets permitted only in designated rental types. Twenty-one minimum reservation age is not a ban on children.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0301",
+    "checkedUrls": [
+      "https://www.thetrailinadams.com/",
+      "https://www.thetrailinadams.com/room/",
+      "https://app.mews.com/distributor/7b11c09f-da3d-411e-8d52-b05b008b1295",
+      "https://www.thetrailinadams.com/about-us/"
+    ],
+    "evidenceText": [
+      "Official Mews booking Dates screen offers Adults and Children (0-18 yrs) guest selectors.",
+      "No pet admission statement found on home or room pages; no policy/FAQ link exposed."
+    ],
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "No published pet policy found in checked home, room and initial booking pages.",
+    "kidsDetails": "Booking interface offers Children (0-18 yrs), but no explicit child admission rule found; generic selector alone does not confirm all rooms accept children.",
+    "absence": [
+      "Pet policy",
+      "Explicit child admission rule"
+    ],
+    "accessFailures": [
+      "About Us navigation returned Chrome error page; official booking page still loaded."
+    ],
+    "summary": "Pet and child policies remain Unknown after home/room/booking review; children selector retained as observation only.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "conflicts": []
+  },
+  {
+    "id": "MA-0302",
+    "checkedUrls": [
+      "https://www.harbourhouseinn.com/",
+      "https://www.harbourhouseinn.com/property-policies"
+    ],
+    "evidenceText": [
+      "For the comfort of our guests, we are a pet free establishment. Registered service animals are welcome.",
+      "Property Policies page covers cancellations, damage, smoking and COVID policies but does not state child admission."
+    ],
+    "pets": "No",
+    "kids": "Unknown",
+    "petsDetails": "Pet-free establishment; registered service animals welcome.",
+    "kidsDetails": "Child admission policy not published on checked home or Property Policies page.",
+    "absence": [
+      "Child admission policy"
+    ],
+    "summary": "No pets, service animals welcome; child policy remains Unknown after published Property Policies review.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0303",
+    "checkedUrls": [
+      "https://www.firehouse-studios.com/",
+      "https://www.firehouse-studios.com/studio-one",
+      "https://airbnb.com/h/fhstudio1",
+      "https://www.airbnb.com/rooms/1218896681136081648?source_impression_id=p3_1793058583_P3hLxBmBZIDIfIH4",
+      "https://airbnb.com/h/firehouse2",
+      "https://www.airbnb.com/rooms/1191191633516646662?source_impression_id=p3_1793058600_P3TwjC_wogIYd760",
+      "https://airbnb.com/h/firehouse3",
+      "https://www.airbnb.com/rooms/1182055966763501368?source_impression_id=p3_1793058617_P3kLsirgwur1UKbs"
+    ],
+    "evidenceText": [
+      "Studio One own-site Bunk Room is ideal for kids.",
+      "Studio One linked Airbnb description identifies Studio 1 parking, same bedrooms and photos; expanded House rules says No pets / Service animals only.",
+      "Linked Studio Two and Three descriptions identify their respective studio number and state No pets, please."
+    ],
+    "pets": "No",
+    "kids": "Conditional",
+    "petsDetails": "All three studio-specific linked host listings explicitly prohibit pets. Studio One expanded rules specify service animals only.",
+    "kidsDetails": "Studio One explicitly provides a bunk room ideal for kids. No explicit child admission policy found for Studios Two/Three; do not transfer Studio One\u2019s child suitability to every unit.",
+    "absence": [
+      "Explicit child admission policy for Studios Two and Three"
+    ],
+    "summary": "All three linked unit descriptions ban pets. Children explicitly accommodated in Studio One; other units\u2019 child policies remain unconfirmed.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0304",
+    "checkedUrls": [
+      "https://beavermill.com/",
+      "https://beavermill.com/rooms",
+      "https://us2.cloudbeds.com/reservation/oPegW1"
+    ],
+    "evidenceText": [
+      "Adults only: no children under 18",
+      "No smoking or pets"
+    ],
+    "pets": "No",
+    "kids": "No",
+    "petsDetails": "Rooms & Details explicitly prohibits pets.",
+    "kidsDetails": "Adults only; no children under eighteen, explicitly stated on Rooms & Details.",
+    "summary": "Opened room-detail rules explicitly prohibit pets and children under eighteen. Generic homepage children selector does not override that rule.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0306",
+    "checkedUrls": [
+      "https://berkshirefarmhousevacation.com/",
+      "https://berkshirefarmhousevacation.com/about/",
+      "https://berkshirefarmhousevacation.com/pricing/"
+    ],
+    "evidenceText": [
+      "Dogs negotiable with $60/per dog fee. No puppies. Dog rules.",
+      "No cats.",
+      "Home, About and Pricing do not publish a child admission rule."
+    ],
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "petsDetails": "Dogs negotiable with $60 per dog fee; no puppies and no cats. Dog rules referenced as text without an exposed link; confirm full restrictions with operator.",
+    "kidsDetails": "No explicit child admission rule found in checked pages.",
+    "absence": [
+      "Child admission policy",
+      "Linked full dog rules"
+    ],
+    "summary": "Dogs negotiable for $60 each; puppies/cats prohibited. Child admission remains Unknown.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0307",
+    "checkedUrls": [
+      "https://www.wilderhouseberkshires.com/",
+      "https://www.wilderhouseberkshires.com/terms-and-conditions",
+      "https://hotels.cloudbeds.com/reservation/Cvk6Ge"
+    ],
+    "evidenceText": [
+      "We do not allow pets.",
+      "Children are allowed at Wilder House ... We require children to be supervised in the common and outdoor areas ... A pack-n-play is available upon request."
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "Pets prohibited. Terms state $200 cleaning fee if a pet is found; alternative accommodation required for pet.",
+    "kidsDetails": "Children allowed; supervision required in common/outdoor areas, parents responsible for damage. Room One recommended for families; pack-n-play available on request.",
+    "summary": "Published Terms & Conditions explicitly permit children with supervision and prohibit pets.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0308",
+    "checkedUrls": [
+      "https://www.oldmillinn.us/",
+      "https://www.oldmillinn.us/policies"
+    ],
+    "evidenceText": [
+      "There is no extra room charge for children 17 and under when they sleep in the same room as their parents as long as the room can accommodate a roll-away bed. Please call ... to make special arrangements.",
+      "Pets ... are not currently permitted at the Old Mill Inn."
+    ],
+    "pets": "No",
+    "kids": "Conditional",
+    "petsDetails": "Pets not currently permitted.",
+    "kidsDetails": "Seventeen and under may share parents\u2019 room without extra room charge where a roll-away fits; call to arrange.",
+    "summary": "Pets prohibited; children seventeen and under accommodated in suitable parents\u2019 rooms by arrangement.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0309",
+    "checkedUrls": [
+      "https://bloominginnshelburnefalls.com/",
+      "https://bloominginnshelburnefalls.com/booking-tc/"
+    ],
+    "evidenceText": [
+      "Primarily adults only accommodation and we do not accommodate children or babies. Please contact us prior to booking to discuss possible exceptions for older children.",
+      "Each room has a maximum occupancy of two people and any child accommodated may only share a room with one adult.",
+      "Sorry, we do not accept pets."
+    ],
+    "pets": "No",
+    "kids": "Conditional",
+    "petsDetails": "Pets not accepted.",
+    "kidsDetails": "Normally adults-only; no children or babies. Possible exceptions for older children require prior contact. Any approved child shares room with one adult; room maximum two.",
+    "summary": "Pets prohibited. Normally adults-only, with possible older-child exceptions by advance agreement; no automatic family-friendly designation.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0310",
+    "checkedUrls": [
+      "https://www.hinataretreat.com/faq"
+    ],
+    "evidenceText": [
+      "Expanded Are children allowed? No. Hinata is an adults-only retreat. Guests must be 18 years or older.",
+      "Expanded Are pets allowed? No. Pets are not permitted. ... certified service animal ... contact our team before arrival."
+    ],
+    "pets": "No",
+    "kids": "No",
+    "petsDetails": "No pets; contact team before arrival for service-animal accommodations.",
+    "kidsDetails": "Adults-only; every guest must be eighteen or older.",
+    "summary": "Both child and pet FAQ accordions expanded and read: no children under eighteen, no pets.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0324",
+    "checkedUrls": [
+      "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10"
+    ],
+    "evidenceText": [
+      "Expanded Property rules: Children welcome (2\u201312 years). Infants welcome (under 2). Maximum 8 guests. Pets allowed.",
+      "Description: DOGS: Your dog is welcome ... one time fee of $100 ... Max of 2 dogs. No other types of animals are authorized."
+    ],
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Up to two dogs; $100 one-time fee, include pet in booking in advance. Other animal types prohibited.",
+    "kidsDetails": "Property rules explicitly welcome children ages two to twelve and infants under two. Pack n Play travel crib available on request.",
+    "summary": "Recast as individual Misty Pines cabin per parent instruction. Expanded unit rules welcome children/infants and dogs with maximum two and $100 fee; facts not applied to manager portfolio.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0313",
+    "checkedUrls": [
+      "https://whatelyinn.com/guest-rooms/"
+    ],
+    "evidenceText": [
+      "Guest Rooms page offers overnight accommodation and phone reservations. Navigation contains menus, gift cards and guest rooms; no guest policy/FAQ link or child/pet admission text exposed."
+    ],
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "No pet admission policy published in checked accommodation page.",
+    "kidsDetails": "No child admission policy published in checked accommodation page.",
+    "absence": [
+      "Pet policy",
+      "Child policy"
+    ],
+    "summary": "Guest-room page and navigation checked; pets and children remain Unknown, not inferred from silence.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0314",
+    "checkedUrls": [
+      "https://plainviewfarmalpacas.com/visit-us"
+    ],
+    "evidenceText": [
+      "Visit Us invites visitors to book a farm stay on Airbnb, but no Airbnb link or lodging policy page is exposed. Scout outings and field trips concern day visits and do not establish overnight child policy."
+    ],
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "No overnight pet policy published.",
+    "kidsDetails": "Farm day visits for scouts/schools do not establish overnight child admission; policy Unknown.",
+    "absence": [
+      "Overnight pet and child policies",
+      "Actual Airbnb lodging link"
+    ],
+    "summary": "No overnight child/pet policies exposed; daytime school/family visits not treated as lodging policy.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0315",
+    "checkedUrls": [
+      "https://www.clamberhill.com/stay",
+      "https://www.clamberhill.com/our-guest-rooms",
+      "https://resnexus.com/resnexus/reservations/book/4ADA77F7-ECE0-4B47-A2A0-EDD75356C322"
+    ],
+    "evidenceText": [
+      "Rooms page offers Family Suite; ResNexus guest filter displays children 5+ and pets, but no admission policy was exposed in opened booking navigation. No explicit pet/child rule on Stay/Rooms."
+    ],
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "No explicit admission rule found; generic booking pet count does not confirm pet acceptance.",
+    "kidsDetails": "Family Suite and generic Children 5+ booking filter observed; no explicit child admission restriction/permission published, so retained Unknown.",
+    "absence": [
+      "Explicit pet policy",
+      "Explicit child admission policy"
+    ],
+    "summary": "Stay, Rooms and direct booking/navigation reviewed. Generic guest filters and Family Suite label are not treated as definitive admission policies.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0316",
+    "checkedUrls": [
+      "https://www.maguirehouse.com/reservations.html"
+    ],
+    "evidenceText": [
+      "Pets: Sorry, pets are not allowed.",
+      "Children: Children over 8 are welcome. Some exceptions can be made to accommodate guests with younger children. Please call for details."
+    ],
+    "pets": "No",
+    "kids": "Conditional",
+    "petsDetails": "Pets not allowed.",
+    "kidsDetails": "Children over eight welcome; exceptions for younger children require calling in advance.",
+    "summary": "Guest Information explicitly bans pets and admits children over eight, with younger-child exceptions by phone.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0317",
+    "checkedUrls": [
+      "https://www.ashintullycottage.com/"
+    ],
+    "evidenceText": [
+      "Own-site navigation/contact section and full homepage checked. No policy, FAQ, pet admission or child admission text published. Historical reviews mention a child; reviews are not current house rules."
+    ],
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Own site does not publish a pet admission rule.",
+    "kidsDetails": "Own site has no explicit child rule. Prior Houfy discovery indicated no children while historical reviews described family stays; this pass did not resolve that cross-source conflict.",
+    "absence": [
+      "Own-site pet rule",
+      "Own-site child rule"
+    ],
+    "conflicts": [
+      "Prior Houfy no-children field versus historical reviews; no current own-site rule resolves this."
+    ],
+    "summary": "No own-site pet/child policies exposed. Historical family reviews do not establish current permission.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0318",
+    "checkedUrls": [
+      "https://americas.huttopia.com/en/site/berkshires/",
+      "https://americas.huttopia.com/en/frequently-asked-questions/"
+    ],
+    "evidenceText": [
+      "Berkshires destination advertises daily kids activities.",
+      "Expanded pets FAQ: dogs and cats welcome in all accommodation except Chaplin House at Paradise Springs; nightly fee, vaccination, leash and supervision required.",
+      "Expanded minors FAQ: unaccompanied minors under twenty-one not accepted even with guardian authorization.",
+      "Expanded baby kit FAQ: baby bed and high chair available by phone/website subject to availability."
+    ],
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Dogs/cats allowed with nightly fee; vaccinated, leashed and never unattended; no pool-area access or furniture. Excluded breeds: American Staffordshire Terrier, Mastiff, Boerboel, Pitbull, Tosa, Rottweiler; aggressive dogs prohibited. FAQ exception only Paradise Springs Chaplin House, not Berkshires.",
+    "kidsDetails": "Berkshires explicitly offers kids activities; baby bed/high chair kit available subject to availability. Under-twenty-one guests must be accompanied; unaccompanied minors not accepted.",
+    "summary": "Destination kids program and expanded FAQ support children/infants; pet admission conditional on fee, vaccination, leash, supervision and breed restrictions.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "absence": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0319",
+    "checkedUrls": [
+      "https://porches.com/stay/freshgrass-annex/",
+      "https://porches.com/faq/",
+      "https://porches.com/faq/#toggle-id-14",
+      "https://porches.com/faq/#toggle-id-46",
+      "https://porches.com/faq/#toggle-id-47"
+    ],
+    "evidenceText": [
+      "Expanded Porches pet FAQ: confirmed reservation in a pet-friendly room required, $40 per pet per night. Pets only allowed in Building 2 (sage-colored building), not other lodging buildings.",
+      "Expanded crib FAQ: Pack \u2019n Plays offered on request; advise in advance.",
+      "FreshGrass Annex page identifies its own queen room categories sleeping two but does not identify them as Building 2 or explicitly state infant/pet admission."
+    ],
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "petsDetails": "Porches-wide FAQ permits pets only in Building 2 designated rooms for $40/pet/night, with leash/crate rules; other lodging buildings prohibited. Annex page does not establish its rooms are eligible; confirm Annex-specific booking before admission claim.",
+    "kidsDetails": "Porches FAQ offers Pack \u2019n Plays on advance request, but Annex-specific occupancy/infant permission not established on its two-person room pages. Retained Unknown for Annex.",
+    "absence": [
+      "FreshGrass Annex-specific pet eligibility",
+      "FreshGrass Annex-specific child/infant occupancy permission"
+    ],
+    "summary": "Expanded relevant FAQ answers; general Porches pet/crib rules retained with applicability gap instead of applying them automatically to Annex.",
+    "checkedOn": "2026-10-26",
+    "status": "Reviewed",
+    "accessFailures": [],
+    "conflicts": []
+  },
+  {
+    "id": "MA-0601",
+    "name": "230B1 The Dorset Redline",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4730?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants",
+      "Expanded description: Pets are welcome on a case-by-case basis. Additional fees apply."
+    ],
+    "pets": "Unknown",
+    "kids": "Yes",
+    "petsDetails": "Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [
+      "Same unit Home rules says No pets while description permits pets case-by-case with fees."
+    ],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; pet conflict retained Unknown."
+  },
+  {
+    "id": "MA-0602",
+    "name": "230B4 The Penthouse",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4732?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants"
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says No pets; expanded description contains no contrary permission.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  },
+  {
+    "id": "MA-0603",
+    "name": "14P The Grand View Redline",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: Events allowed, No pets, No smoking, Suitable for children, Suitable for infants",
+      "Expanded description: Pets are welcome on a case-by-case basis. Additional fees apply."
+    ],
+    "pets": "Unknown",
+    "kids": "Yes",
+    "petsDetails": "Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [
+      "Same unit Home rules says No pets while description permits pets case-by-case with fees."
+    ],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; pet conflict retained Unknown."
+  },
+  {
+    "id": "MA-0604",
+    "name": "12P The Sky View",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4733?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, Pet allowed, No smoking, Suitable for children, Suitable for infants",
+      "Expanded description: Pets are welcome on a case-by-case basis. Additional fees apply."
+    ],
+    "pets": "Conditional",
+    "kids": "Yes",
+    "petsDetails": "Pets allowed case-by-case with additional fees; seek operator approval.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  },
+  {
+    "id": "MA-0605",
+    "name": "230B2 The Roseclair",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4736?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants",
+      "Expanded description: Pets are welcome on a case-by-case basis. Additional fees apply."
+    ],
+    "pets": "Unknown",
+    "kids": "Yes",
+    "petsDetails": "Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [
+      "Same unit Home rules says No pets while description permits pets case-by-case with fees."
+    ],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; pet conflict retained Unknown."
+  },
+  {
+    "id": "MA-0606",
+    "name": "230B3 The Mayhew",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants",
+      "Expanded description: Pets are welcome on a case-by-case basis. Additional fees apply."
+    ],
+    "pets": "Unknown",
+    "kids": "Yes",
+    "petsDetails": "Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [
+      "Same unit Home rules says No pets while description permits pets case-by-case with fees."
+    ],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; pet conflict retained Unknown."
+  },
+  {
+    "id": "MA-0607",
+    "name": "109S8 The Strathmore 8",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4737?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, Pet allowed, No smoking, Suitable for children, Suitable for infants"
+    ],
+    "pets": "Yes",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says Pet allowed; no specific fee, size or count limit published on opened page.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [
+      "Specific pet fee/count/size limits not published"
+    ],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  },
+  {
+    "id": "MA-0608",
+    "name": "109S2 The Strathmore 2",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4738?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, Pet allowed, No smoking, Suitable for children, Not suitable for infants"
+    ],
+    "pets": "Yes",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says Pet allowed; no specific fee, size or count limit published on opened page.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; not suitable for infants.",
+    "conflicts": [],
+    "absence": [
+      "Specific pet fee/count/size limits not published"
+    ],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained. Infants not suitable."
+  },
+  {
+    "id": "MA-0609",
+    "name": "109S15 The Strathmore 15",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4739?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, Pet allowed, No smoking, Suitable for children, Suitable for infants"
+    ],
+    "pets": "Yes",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says Pet allowed; no specific fee, size or count limit published on opened page.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [
+      "Specific pet fee/count/size limits not published"
+    ],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  },
+  {
+    "id": "MA-0610",
+    "name": "25A1 The Alameda 1",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants",
+      "Expanded description: Pets are welcome on a case-by-case basis. Additional fees apply.",
+      "Description additionally requires prior pet approval, cleaning fees paid before arrival, and prohibits guest/pet yard use."
+    ],
+    "pets": "Unknown",
+    "kids": "Yes",
+    "petsDetails": "Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking. Alameda description requires advance approval and extra cleaning fees; private yard not open to guests/pets.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [
+      "Same unit Home rules says No pets while description permits pets case-by-case with fees."
+    ],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; pet conflict retained Unknown."
+  },
+  {
+    "id": "MA-0611",
+    "name": "109S9 The Strathmore 9",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants"
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says No pets; expanded description contains no contrary permission.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  },
+  {
+    "id": "MA-0612",
+    "name": "39S1 The Strathmore 1",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants"
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says No pets; expanded description contains no contrary permission.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  },
+  {
+    "id": "MA-0613",
+    "name": "109S14 The Strathmore 14",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants"
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says No pets; expanded description contains no contrary permission.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  },
+  {
+    "id": "MA-0614",
+    "name": "109S3 The Strathmore 3",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://swankpropertiesboston.dtravel.com/property/4758?currency=USD&lang=en"
+    ],
+    "status": "Reviewed",
+    "actions": [
+      "Opened individual unit direct-booking page",
+      "Expanded More description",
+      "Read unit Home rules and policy section"
+    ],
+    "evidenceText": [
+      "Unit Home rules: No parties or events, No pets, No smoking, Suitable for children, Suitable for infants"
+    ],
+    "pets": "No",
+    "kids": "Yes",
+    "petsDetails": "Unit Home rules explicitly says No pets; expanded description contains no contrary permission.",
+    "kidsDetails": "Unit Home rules explicitly suitable for children; suitable for infants.",
+    "conflicts": [],
+    "absence": [],
+    "accessFailures": [],
+    "summary": "Individual unit rules freshly rechecked; explicit child/pet rules retained."
+  }
+]

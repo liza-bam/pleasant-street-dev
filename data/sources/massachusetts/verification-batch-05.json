@@ -1,0 +1,318 @@
+[
+  {
+    "checkedOn": "2026-10-26",
+    "state": "MA",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened operator pages; no matching Airbnb, Vrbo or Booking.com listing links found.",
+    "photos": [],
+    "remainingGaps": [
+      "Four authentic property photographs",
+      "Optional policy and price details"
+    ],
+    "id": "MA-0404",
+    "name": "Mayflower Beach Villas Compound",
+    "website": "Unknown",
+    "city": "Dennis",
+    "classification": "Vacation rental compound discovery lead",
+    "recordType": "property",
+    "evidenceStatus": "Source found in web research",
+    "sourceUrl": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31323/",
+    "discoveryMethod": "WeNeedaVacation group lodging catalog",
+    "openedUrls": [
+      "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31323/"
+    ],
+    "eligibilityReason": "Aggregator listing opened and focused reverse-search performed; matching operator-controlled independent website not established. Similar Mayflower-named results do not establish same property identity.",
+    "description": "Three-villa compound offered near Mayflower Beach in Dennis; independent direct-booking website remains unverified.",
+    "descriptionSource": "https://www.weneedavacation.com/Cape-Cod/Dennis-Vacation-Rental-31323/",
+    "notes": "Do not infer eligibility or add a similar-named property’s website/photos. Retain as candidate."
+  },
+  {
+    "checkedOn": "2026-10-26",
+    "state": "MA",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened operator pages; no matching Airbnb, Vrbo or Booking.com listing links found.",
+    "photos": [],
+    "remainingGaps": [
+      "Four authentic property photographs",
+      "Optional policy and price details"
+    ],
+    "id": "MA-0405",
+    "name": "The Mermaid Cottage at Cape Cod Canal Compound Lodge",
+    "website": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
+    "city": "Wareham / Onset",
+    "classification": "Independent vacation house on shared waterfront campus",
+    "recordType": "property",
+    "type": "House",
+    "evidenceStatus": "Verified platform-hosted website",
+    "sourceUrl": "https://www.google.com/search?q=Massachusetts+vacation+rental+%22lodgify.com%22+OR+%22hospitable.rentals%22+OR+%22guestybookings.com%22",
+    "discoveryMethod": "Lodgify-hosted website search",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "Own Lodgify unit page; About host/Contact us; property rules; homepage"
+    ],
+    "openedUrls": [
+      "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
+      "https://obc.lodgify.com/"
+    ],
+    "contactPagesChecked": [
+      "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
+      "https://obc.lodgify.com/"
+    ],
+    "contactAddress": {
+      "role": "Exact rental street not published",
+      "city": "Wareham / Onset",
+      "state": "MA",
+      "source": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
+      "notes": "Own unit Location and About host/Contact us inspected; no separate Contact page linked on homepage. Rental located Onset Village within Wareham; exact street/ZIP not established."
+    },
+    "bookingUrl": "https://checkout.lodgify.com/en/obc/305536/reservation?currency=EUR",
+    "bookingMethod": "Operator Lodgify arrival/departure and guest controls plus Book Now link; phone+17745933709 and fun@stayherecapecod.com also published. No booking submitted.",
+    "operatorEvidenceUrl": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge#sect8986b4cf-b672-497f-9e68-52b29dd05639",
+    "eligibilityReason": "Opened identifiable Onset/Wareham vacation house, host contact section, policies and direct Lodgify reservation controls.",
+    "description": "Waterfront Onset vacation house for eight with two bedrooms, a sea deck and shared access to a hot tub, beach and kayaks.",
+    "descriptionSource": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "kidsDetails": "Children welcome on own-unit policies.",
+      "petsDetails": "Only pre-approved dogs up to40lb; leash required. Other animals not permitted.",
+      "capacityDetails": "Own listing8guests,2bedrooms,5beds,2bathrooms. Shared campus amenities are distinguished from private sea deck.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Date-dependent rate; visiblecurrencyUSD but Book Now URLcurrencyEUR, no quote requested."
+    },
+    "notes": "Some gallery images are historical/promotional materials; only authentic property photos count after visual QA. ExactaddressUnknown; ownhost Contact us section used because no separate contact page linked. No Pleasant Street participation established."
+  },
+  {
+    "checkedOn": "2026-10-26",
+    "state": "MA",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened operator pages; no matching Airbnb, Vrbo or Booking.com listing links found.",
+    "photos": [],
+    "remainingGaps": [
+      "Four authentic property photographs",
+      "Optional policy and price details"
+    ],
+    "id": "MA-0406",
+    "name": "The Boston Christopher",
+    "website": "https://bostonchristopher.com/",
+    "city": "Boston",
+    "classification": "Independent furnished vacation apartment operator",
+    "recordType": "operator",
+    "type": "Apartment",
+    "evidenceStatus": "Verified independent website",
+    "sourceUrl": "https://staythere.ai/stay/guesty-bostonchristopher-5a4e450e0f6e7a0b0126f87d/the-boston-christopher-studio-suite",
+    "discoveryMethod": "Staythere Boston property → focused reverse-search → own operator website",
+    "researchInputs": [
+      "Staythere destination/Boston/currentproperty",
+      "Boston Christopher official website vacation rentals",
+      "Official homepage; Apartments; StudioSuite; Contact; expanded family/dog FAQ; direct Guesty site"
+    ],
+    "openedUrls": [
+      "https://staythere.ai/stay/guesty-bostonchristopher-5a4e450e0f6e7a0b0126f87d/the-boston-christopher-studio-suite",
+      "https://bostonchristopher.com/",
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/apartments-3/",
+      "https://bostonchristopher.com/portfolio/studio-suite/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en"
+    ],
+    "contactPagesChecked": [
+      "https://bostonchristopher.com/contact/",
+      "https://bostonchristopher.com/faq/",
+      "https://bostonchristopher.guestybookings.com/en"
+    ],
+    "contactAddress": {
+      "role": "rental building address from aggregator only; not officially corroborated",
+      "city": "Boston",
+      "state": "MA",
+      "source": "https://bostonchristopher.com/contact/",
+      "notes": "Official Contact/FAQ/Guesty reviewed; no rental street published there. Staythere shows476ColumbusAvenue,BostonMA02118, retained as directory-only lead. FAQ800BoylstonSt is parking garage, not the rental."
+    },
+    "bookingUrl": "https://bostonchristopher.guestybookings.com/en",
+    "bookingMethod": "Officialphone6173030033/emailreservations@bostonchristopher.com and ownContactform; official Reserve/BookNow link to operator Guesty search with destination/dates/guests. No inquiry submitted.",
+    "operatorEvidenceUrl": "https://bostonchristopher.com/faq/",
+    "eligibilityReason": "Official site explicitly offers short-term vacation studios and apartments, identifies Inn Boston Reservations management, and provides direct phone/email/form and Guesty reservation path.",
+    "description": "Furnished vacation studios and one-bedroom apartments in Boston’s South End, with kitchens, laundry access and a shared roof deck.",
+    "descriptionSource": "https://bostonchristopher.com/apartments-3/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "kidsDetails": "Expanded Travelingwithfamily FAQ welcomesfamilies; room-type and walk-up limitations vary.",
+      "petsDetails": "Expanded Travelingwithdog FAQ says these properties are not petfriendly; another building’s policy not transferred.",
+      "capacityDetails": "Operatorrecord. StudioSuite typesleeps2 inopenqueenbedspace; not operator-wide occupancy.",
+      "currency": "USD",
+      "priceFrom": "Unknown",
+      "priceDetails": "No dated quote requested."
+    },
+    "notes": "Photographs restricted to StudioSuite gallery; exact suite number not identified. Accommodation types and operator-level facts are not merged. Staythere served as discovery only; verification from operator ownsite."
+  },
+  {
+    "checkedOn": "2026-10-26",
+    "state": "MA",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened operator pages; no matching Airbnb, Vrbo or Booking.com listing links found.",
+    "photos": [],
+    "remainingGaps": [
+      "Four authentic property photographs",
+      "Optional policy and price details"
+    ],
+    "id": "MA-0407",
+    "name": "Cozy up in 5BR Apt in Brighton",
+    "website": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/30871601",
+    "city": "Boston / Brighton",
+    "classification": "Apartment / private-room offering with conflicting scope",
+    "recordType": "property",
+    "evidenceStatus": "Source found in web research",
+    "sourceUrl": "https://app.dtravel.com/travelers/stays?address=Massachusetts%2C%20USA&adults=1&children=0&country=United%20States&infants=0&pets=0",
+    "discoveryMethod": "Dtravel Massachusetts statewide search",
+    "openedUrls": [
+      "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/30871601?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler"
+    ],
+    "contactPagesChecked": [
+      "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/30871601?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler"
+    ],
+    "eligibilityReason": "Header advertises10guests/5bedrooms but own description says private room in shared apartment. Current rentable scope unresolved; held out of approved inventory.",
+    "description": "Brighton accommodation advertised as a five-bedroom apartment, while its description says private room; rental scope needs clarification.",
+    "descriptionSource": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/30871601?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler",
+    "notes": "Own Contact modal opened:hello@staynue.com,+15187340969. Exactstreet notpublic. Do not approve whole-apartment occupancy based only on header."
+  },
+  {
+    "checkedOn": "2026-10-26",
+    "state": "MA",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened operator pages; no matching Airbnb, Vrbo or Booking.com listing links found.",
+    "photos": [],
+    "remainingGaps": [
+      "Four authentic property photographs",
+      "Optional policy and price details"
+    ],
+    "id": "MA-0408",
+    "name": "Safe Studio near Hospitals in Boston",
+    "website": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
+    "city": "Boston",
+    "classification": "Independent operator-controlled vacation studio",
+    "recordType": "property",
+    "type": "Apartment",
+    "evidenceStatus": "Verified platform-hosted website",
+    "sourceUrl": "https://app.dtravel.com/travelers/stays?address=Massachusetts%2C%20USA&adults=1&children=0&country=United%20States&infants=0&pets=0",
+    "discoveryMethod": "Dtravel Massachusetts statewide search → operator-hosted unit",
+    "openedUrls": [
+      "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
+      "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler"
+    ],
+    "contactPagesChecked": [
+      "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621"
+    ],
+    "contactAddress": {
+      "role": "Exact rental street not publicly disclosed",
+      "city": "Boston",
+      "state": "MA",
+      "source": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
+      "notes": "Own Contact modal and Location section inspected. TremontStreet stated, no streetnumber; exactlocation sharedbeforearrival. No address reverse-inferred."
+    },
+    "bookingUrl": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
+    "bookingMethod": "Own date/guest selectors and Check availability; Contact button opens publichello@staynue.com,+15187340969. No form or booking submitted.",
+    "operatorEvidenceUrl": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
+    "eligibilityReason": "Opened operator-hosted studio, public host Contact modal, home rules, location and direct date/guest availability controls establish identifiable Boston vacation accommodation.",
+    "description": "Boston studio on Tremont Street with a kitchen, internet and air conditioning, close to the Theater District and downtown hospitals.",
+    "descriptionSource": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "kidsDetails": "OwnHomeRules says Suitableforchildren.",
+      "petsDetails": "OwnHomeRules saysNopets.",
+      "capacityDetails": "Ownstudioheader2guests,1bed,1bath; studio classified0separatebedrooms.",
+      "priceFrom": 136,
+      "currency": "USD",
+      "priceDetails": "Undated displayed nightly figure$136; no reservation dates/fees/taxes selected, not a totalquote."
+    },
+    "notes": "Operator brandThePerchHotel; ownContact publicemailstaynue.com. Actualstudioapartment vacationoffering,notgeneric hotelpage. Photos limited to currentgallery CSSassetfolder266837; Moreproperties thumbnails explicitly rejected."
+  },
+  {
+    "id": "MA-0410",
+    "name": "Private Cottage Oasis with Parking / Provincetown Cottage Getaway",
+    "website": "Unknown",
+    "city": "Provincetown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "classification": "Independent cottage lead; operator-controlled website unresolved",
+    "recordType": "property",
+    "sourceUrl": "https://www.directbookinghost.com/stays/james-spinale-c2rj1q",
+    "discoveryMethod": "DirectBookingHost public catalog → Massachusetts listing → reverse-search",
+    "openedUrls": [
+      "https://www.directbookinghost.com/stays/search?where=Massachusetts&guests=1",
+      "https://www.directbookinghost.com/stays/james-spinale-c2rj1q"
+    ],
+    "eligibilityReason": "Directory detail identifies hostJamesSpinale,2guests/1bedroom/1bath cottage and host-inquiryform. Focused reverse search found only directory entry; separateoperator-controlled website not established. Aggregator discovery alone not eligibility proof.",
+    "description": "Private Provincetown cottage advertised for two with a kitchen, deck, grill and indoor/outdoor showers; independent site unverified.",
+    "descriptionSource": "https://www.directbookinghost.com/stays/james-spinale-c2rj1q",
+    "notes": "No requestsubmitted; no propertyaddressestablished. Eight observed photo candidates remain on discoverypage; no approval inferred from directory’s BookDirect label.",
+    "photos": [],
+    "platformLinks": [],
+    "remainingGaps": [
+      "Operator-controlled direct website",
+      "OfficialContact-addresscheck",
+      "Propertydetails/policies/photosverification"
+    ]
+  },
+  {
+    "id": "MA-0416",
+    "name": "Mass Living",
+    "website": "https://massliving.guestybookings.com/",
+    "city": "Boston / Cambridge",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "classification": "Local furnished apartment operator; portfolio review pending",
+    "recordType": "operator",
+    "sourceUrl": "https://staythere.ai/stay/guesty-massliving-69fbe14977e4df00133a66a7/central-boston-2br-retreat-near-harvard-and-transit",
+    "discoveryMethod": "Staythere property → published host-website control → own Guesty site",
+    "openedUrls": [
+      "https://staythere.ai/stays/boston-ma",
+      "https://staythere.ai/stay/guesty-massliving-69fbe14977e4df00133a66a7/central-boston-2br-retreat-near-harvard-and-transit",
+      "https://massliving.guestybookings.com/",
+      "https://massliving.guestybookings.com/en/contact",
+      "https://massliving.guestybookings.com/en/terms"
+    ],
+    "contactPagesChecked": [
+      "https://massliving.guestybookings.com/en/contact"
+    ],
+    "contactAddress": {
+      "role": "operator location only; street unpublished",
+      "street": "Unknown",
+      "city": "Boston / Cambridge",
+      "state": "MA",
+      "source": "https://massliving.guestybookings.com/en/contact"
+    },
+    "bookingUrl": "https://massliving.guestybookings.com/",
+    "operatorEvidenceUrl": "https://massliving.guestybookings.com/",
+    "contactEmail": "Stay@massliving.com",
+    "contactPhone": "+1 774-508-0508; +1 9494915436",
+    "eligibilityReason": "Own operator site opens with direct search and contact details; individual unit scope, policy and photo verification remain pending, so not approved from aggregator membership.",
+    "notes": "Staythere host advertises53stays. Own Contact and Terms render footer/contact details but no substantive terms content; no security bypass. Portfolio includes weeks-to-six-month stays and explicit vacation accommodation. Never assign directory-only40WesternAve to every managed apartment.",
+    "description": "Furnished apartment operator with direct-booking apartments in Boston and Cambridge; individual rental verification remains pending.",
+    "descriptionSource": "https://massliving.guestybookings.com/",
+    "photos": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Not checked on individual units",
+    "remainingGaps": [
+      "Individual property catalog expansion",
+      "Unit eligibility, policies and gallery verification",
+      "Exact rental addresses"
+    ]
+  }
+]

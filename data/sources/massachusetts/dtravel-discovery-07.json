@@ -1,0 +1,248 @@
+{
+  "checkedOn": "2026-10-26",
+  "sourceUrl": "https://app.dtravel.com/travelers/stays?address=Massachusetts%2C%20USA&adults=1&children=0&country=United%20States&infants=0&pets=0",
+  "sourceRole": "Parent-discovered statewide lead; this agent opened Swank profile and complete portfolio",
+  "openedPortfolio": "https://swankpropertiesboston.dtravel.com/property",
+  "openedProfile": "https://swankpropertiesboston.dtravel.com/profile",
+  "portfolioCount": 28,
+  "uniqueWholeUnitCount": 14,
+  "overlappingPrivateRoomCount": 14,
+  "coverageComplete": true,
+  "contact": {
+    "source": "Dtravel Contact modal on Dorset page",
+    "email": "reservations@swank-properties.com",
+    "phone": "+16176579667",
+    "postalAddress": "Not published; exact rental locations shared before arrival"
+  },
+  "airbnb": {
+    "publishedUrl": "http://www.airbnb.com/p/swankpropertiesboston",
+    "resolvedUrl": "https://www.airbnb.com/users/show/71783",
+    "matchingOperatorVerified": true,
+    "observation": "Profile identifies Swank Properties Boston and Lance R. Swank. View all 61 listings exposed; not equivalent to this 28-offer Dtravel source and not expanded in this pass."
+  },
+  "wholeUnits": [
+    {
+      "id": "MA-0601",
+      "name": "230B1 The Dorset Redline",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4730?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0602",
+      "name": "230B4 The Penthouse",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4732?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0603",
+      "name": "14P The Grand View Redline",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0604",
+      "name": "12P The Sky View",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4733?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0605",
+      "name": "230B2 The Roseclair",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4736?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0606",
+      "name": "230B3 The Mayhew",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0607",
+      "name": "109S8 The Strathmore 8",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4737?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0608",
+      "name": "109S2 The Strathmore 2",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4738?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0609",
+      "name": "109S15 The Strathmore 15",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4739?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0610",
+      "name": "25A1 The Alameda 1",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0611",
+      "name": "109S9 The Strathmore 9",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0612",
+      "name": "39S1 The Strathmore 1",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0613",
+      "name": "109S14 The Strathmore 14",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    },
+    {
+      "id": "MA-0614",
+      "name": "109S3 The Strathmore 3",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4758?currency=USD&lang=en",
+      "status": "Verified platform-hosted website"
+    }
+  ],
+  "duplicateRoomAudit": [
+    {
+      "name": "14P.T Grand View Twin Bedroom",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4740?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0603",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "14P.M Grand View Master Bedroom",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4743?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0603",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "14P.B Grand View Blue Bedroom",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4742?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0603",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "14P.P Grand View Parlor Bedroom",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4741?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0603",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B2.3 Roseclair Bedroom 3",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4746?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0605",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B2.2 Roseclair Bedroom 2",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4744?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0605",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "14P.Y Grand View Yellow Bedroom",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4747?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0603",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B1.1 Dorset Bedroom 1",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4748?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0601",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B2.1 Roseclair Bedroom 1",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4745?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0605",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B1.2 Dorset Bedroom 2",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4749?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0601",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B3.1 Mayhew Bedroom 1",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4750?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0606",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B3.2 Mayhew Bedroom 2",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4751?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0606",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B1.3 Dorset Bedroom 3",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4755?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0601",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    },
+    {
+      "name": "230B3 Mayhew Bedroom 3",
+      "url": "https://swankpropertiesboston.dtravel.com/property/4759?currency=USD&lang=en",
+      "opened": true,
+      "status": "Not eligible",
+      "recordType": "overlapping private-room offer",
+      "duplicateOf": "MA-0606",
+      "reason": "Opened page explicitly identifies Private room within the same named whole home/apartment. Retained as audit and excluded from whole-unit inventory."
+    }
+  ],
+  "scopeCaveats": [
+    "Dorset, Grand View, Roseclair, Mayhew and Strathmore 1 expressly require a 30-night minimum. They remain verified direct-booking accommodations with scope caveat, not silently advertised as nightly stays.",
+    "Alameda description identifies a different unit and conflicts with its title/header; guests and bedrooms held Unknown. Strathmore 1 title/header bedroom counts conflict.",
+    "Dorset, Grand View, Roseclair, Mayhew and Alameda pet rules conflict with narrative; pets held Unknown.",
+    "All photos extracted from current-unit CSS gallery backgrounds, not More properties img elements. Asset IDs checked per unit."
+  ],
+  "unexpandedPlatformLead": {
+    "source": "https://www.airbnb.com/users/show/71783",
+    "listingCount": 61,
+    "reason": "Separate larger Airbnb inventory exposed; unit reverse-match expansion remains a followup, not counted as checked here."
+  }
+}

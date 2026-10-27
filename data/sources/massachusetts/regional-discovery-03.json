@@ -1,0 +1,348 @@
+{
+  "checkedOn": "2026-10-26",
+  "regions": [
+    "Berkshires",
+    "Pioneer Valley/Hampshire/Franklin",
+    "Central/Worcester"
+  ],
+  "sources": [
+    {
+      "url": "https://berkshires.org/business-directory/vacation-rentals/",
+      "category": "official regional tourism",
+      "observation": "All thirteen directory entries classified after selecting Alphabetical - Ascending, Filter, and opening Next 1. Default ordering repeated FreshGrass between pages; alphabetical pagination revealed Berkshire Mountain Lodge.",
+      "coverage": [
+        {
+          "id": "MA-0306",
+          "name": "Berkshire Farmhouse Vacation",
+          "website": "https://berkshirefarmhousevacation.com/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        },
+        {
+          "id": "MA-0321",
+          "name": "Berkshire Mountain Lodge",
+          "website": "https://vacationvillageresorts.com/berkshire_mountain_lodge/",
+          "status": "Source found in web research",
+          "reason": "Regional vacation-condo lead; own property URL loaded title/anchors but no visible page text. Corporate Contact identifies a national timeshare network; local independent eligibility remains under review."
+        },
+        {
+          "id": "MA-0305",
+          "name": "Chambery Inn",
+          "website": "https://chamberyinn.com/",
+          "status": "Source found in web research",
+          "reason": "Regional tourism lead; own site presents automated security/cookie challenge and page observation timed out, so direct contact/eligibility incomplete."
+        },
+        {
+          "id": "MA-0302",
+          "name": "Harbour House Inn Bed and Breakfast",
+          "website": "https://www.harbourhouseinn.com/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        },
+        {
+          "id": "MA-0304",
+          "name": "Historic Beaver Mill Inn",
+          "website": "https://beavermill.com/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        },
+        {
+          "id": "MA-0318",
+          "name": "Huttopia Berkshires",
+          "website": "https://americas.huttopia.com/en/site/berkshires/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        },
+        {
+          "id": "MA-0322",
+          "name": "Plainfield House Vacation Rental",
+          "website": "Unknown",
+          "status": "Source found in web research",
+          "reason": "Opened matching Airbnb entire-home listing plus two regional directories; no owner-controlled direct site found after focused reverse search."
+        },
+        {
+          "id": "MA-0303",
+          "name": "Shelburne Falls Firehouse Studios",
+          "website": "https://www.firehouse-studios.com/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        },
+        {
+          "id": "MA-0323",
+          "name": "Spacious Skies Woodland Hills Campground",
+          "website": "https://spaciousskiescampgrounds.com/woodland-hills/",
+          "status": "Not eligible",
+          "reason": "Opened own site explicitly locates campground and cabin lodgings in Austerlitz, New York, outside Massachusetts inventory."
+        },
+        {
+          "id": "MA-0319",
+          "name": "The FreshGrass Annex at The Porches",
+          "website": "https://porches.com/stay/freshgrass-annex/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        },
+        {
+          "id": "MA-0301",
+          "name": "The Trail in Adams",
+          "website": "https://www.thetrailinadams.com/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        },
+        {
+          "id": "MA-0320",
+          "name": "Vacation Village in the Berkshires",
+          "website": "https://www.vacationvillageresorts.com/vacation_village_berkshires/",
+          "status": "Source found in web research",
+          "reason": "Official regional vacation-condo lead; resort page stayed visually blank in AX and screenshot while corporate Contact opened. Local independent scope remains unresolved for this national timeshare network."
+        },
+        {
+          "id": "MA-0307",
+          "name": "Wilder House Berkshires",
+          "website": "https://www.wilderhouseberkshires.com/",
+          "status": "Verified independent website",
+          "reason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations."
+        }
+      ]
+    },
+    {
+      "url": "https://visithampshirecounty.com/stay/bed-and-breakfasts",
+      "category": "official regional tourism",
+      "outcome": "Old Mill Inn VisitWidget detail had obsolete DNS-failing operator link. Focused reverse lookup found current oldmillinn.us, then verified contact and booking."
+    },
+    {
+      "url": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+      "category": "chamber directory",
+      "outcome": "Opened Blooming Inn, Hinata Retreat, Shelburne Springs, Deerfield Inn and Whately Inn. Two security/access-limited sites retained as candidates."
+    },
+    {
+      "url": "https://www.visitnorthcentral.com/activity-type/bed-and-breakfast/",
+      "category": "official regional tourism",
+      "outcome": "Plain View Farm farmstay lead opened and verified via Visit Us contact and stay invitation."
+    }
+  ],
+  "queries": [
+    {
+      "query": "Berkshires Massachusetts cabin Lodgify OwnerRez direct booking",
+      "stage": "booking builder discovery",
+      "outcome": "Opened Berkshire Vacation Rental: clear local manager and direct booking, footer actually Powered by Wander. Berkshire Lake House and Prospect remain unexpanded leads.",
+      "openedPages": [
+        "https://www.berkshirevacationrental.com/",
+        "https://www.berkshirevacationrental.com/contact-us",
+        "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10"
+      ],
+      "unexpandedLeads": [
+        "https://www.berkshirelakehouse.com/",
+        "https://www.prospectberkshires.com/nature-cabins"
+      ]
+    },
+    {
+      "query": "\"Berkshires\" \"Powered by OwnerRez\"",
+      "url": "https://www.google.com/search?q=%22Berkshires%22+%22Powered+by+OwnerRez%22",
+      "stage": "focused OwnerRez followup",
+      "outcome": "No qualifying operator result exposed in rendered results. No OwnerRez attribution inferred."
+    },
+    {
+      "query": "Massachusetts OwnerRez vacation rental direct booking",
+      "stage": "focused OwnerRez followup using visible search field",
+      "outcome": "Results included OwnerRez documentation/forums, OwnerDirect aggregator and BookWithHaven blog; no additional verified operator."
+    },
+    {
+      "query": "site:houfy.com Massachusetts Berkshires cottage",
+      "stage": "platform discovery",
+      "openedPages": [
+        "https://www.houfy.com/lodging/ashintully-cottage/11364",
+        "https://www.ashintullycottage.com/"
+      ],
+      "outcome": "Ashintully Cottage platform lead reverse-matched to own Wix website; direct owner contact verified."
+    },
+    {
+      "query": "\"Plainfield House\" \"53 Hallockville\" vacation",
+      "stage": "directory-only reverse lookup",
+      "openedPages": [
+        "https://hilltowndirectory.com/directory-search-page/entry/62/"
+      ],
+      "outcome": "Community directory and exact Airbnb property found; no own operator site."
+    },
+    {
+      "query": "Petersham Massachusetts rural inn Clamber Hill",
+      "stage": "town discovery",
+      "outcome": "Verified Clamber Hill own stay/story/contact sections; retirement end December 2026 disclosed."
+    },
+    {
+      "query": "Ashburnham Massachusetts lake bed breakfast Maguire House",
+      "stage": "town discovery",
+      "outcome": "Verified Maguire House own website and reservations contact."
+    }
+  ],
+  "leads": [
+    {
+      "id": "MA-0002",
+      "name": "Birch and Stone Groton",
+      "website": "https://www.birchandstonegroton.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0021",
+      "name": "Pine Acres Family Camping Resort",
+      "website": "https://pineacresresort.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0301",
+      "name": "The Trail in Adams",
+      "website": "https://www.thetrailinadams.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0302",
+      "name": "Harbour House Inn Bed and Breakfast",
+      "website": "https://www.harbourhouseinn.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0303",
+      "name": "Shelburne Falls Firehouse Studios",
+      "website": "https://www.firehouse-studios.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0304",
+      "name": "Historic Beaver Mill Inn",
+      "website": "https://beavermill.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0305",
+      "name": "Chambery Inn",
+      "website": "https://chamberyinn.com/",
+      "status": "Source found in web research"
+    },
+    {
+      "id": "MA-0306",
+      "name": "Berkshire Farmhouse Vacation",
+      "website": "https://berkshirefarmhousevacation.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0307",
+      "name": "Wilder House Berkshires",
+      "website": "https://www.wilderhouseberkshires.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0308",
+      "name": "The Old Mill Inn",
+      "website": "https://www.oldmillinn.us/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0309",
+      "name": "Blooming Inn Shelburne Falls",
+      "website": "https://bloominginnshelburnefalls.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0310",
+      "name": "Hinata Retreat",
+      "website": "https://www.hinataretreat.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0311",
+      "name": "Shelburne Springs",
+      "website": "https://www.shelburnesprings.com/",
+      "status": "Source found in web research"
+    },
+    {
+      "id": "MA-0312",
+      "name": "Deerfield Inn",
+      "website": "http://www.deerfieldinn.com",
+      "status": "Source found in web research"
+    },
+    {
+      "id": "MA-0313",
+      "name": "The Whately Inn",
+      "website": "https://whatelyinn.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0314",
+      "name": "Plain View Farm",
+      "website": "https://plainviewfarmalpacas.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0315",
+      "name": "Clamber Hill Inn and Restaurant",
+      "website": "https://www.clamberhill.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0316",
+      "name": "The Maguire House",
+      "website": "https://www.maguirehouse.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0317",
+      "name": "Ashintully Cottage",
+      "website": "https://www.ashintullycottage.com/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0318",
+      "name": "Huttopia Berkshires",
+      "website": "https://americas.huttopia.com/en/site/berkshires/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0319",
+      "name": "The FreshGrass Annex at The Porches",
+      "website": "https://porches.com/stay/freshgrass-annex/",
+      "status": "Verified independent website"
+    },
+    {
+      "id": "MA-0320",
+      "name": "Vacation Village in the Berkshires",
+      "website": "https://www.vacationvillageresorts.com/vacation_village_berkshires/",
+      "status": "Source found in web research"
+    },
+    {
+      "id": "MA-0321",
+      "name": "Berkshire Mountain Lodge",
+      "website": "https://vacationvillageresorts.com/berkshire_mountain_lodge/",
+      "status": "Source found in web research"
+    },
+    {
+      "id": "MA-0322",
+      "name": "Plainfield House Vacation Rental",
+      "website": "Unknown",
+      "status": "Source found in web research"
+    },
+    {
+      "id": "MA-0323",
+      "name": "Spacious Skies Woodland Hills Campground",
+      "website": "https://spaciousskiescampgrounds.com/woodland-hills/",
+      "status": "Not eligible"
+    },
+    {
+      "id": "MA-0324",
+      "name": "Misty Pines Cabin",
+      "website": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+      "status": "Verified platform-hosted website"
+    }
+  ],
+  "workflowNotes": [
+    "Regional and chamber sources were checked before town and platform passes. General booking-builder discovery preceded the focused Houfy/OwnerRez followups; all are recorded here without attributing builders from snippets.",
+    "Shared-campus photos are explicitly labelled; unit gallery photos are never assigned as operator-wide facts. Harbour House has one authentic room photo and needs two more; Plain View Farm images show the farm setting, not the accommodation interior."
+  ],
+  "remainingQueues": [
+    {
+      "name": "Berkshire Vacation Rental full portfolio",
+      "url": "https://www.berkshirevacationrental.com/",
+      "classification": "local manager catalog",
+      "status": "Partially reviewed",
+      "observation": "Misty Pines Monterey unit verified separately as MA-0324. Other distinct Massachusetts homes remain queued; New York homes must be excluded."
+    }
+  ]
+}

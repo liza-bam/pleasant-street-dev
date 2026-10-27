@@ -179,3 +179,44 @@ Robot challenges remain research limitations and are not listed here as dead web
 - Evidence: https://www.visitnh.gov/business/detail/377; https://fourseasonslodge.com/; https://www.google.com/search?q=%22Russ-Tee+Bucket+Ranch%22+official; https://www.russteebucketranch.com/
 - Replacement: No working independent replacement verified
 - Directory state: Website access could not be verified; this does not establish business closure.
+
+<!-- MA-VERIFICATION-AUDIT -->
+## Massachusetts website audit — 2026-10-26
+
+Client blocking and browser security warnings are retained as research limitations; business closure is not inferred.
+
+### MA-0103 — Pine Moorings Cottages (Wellfleet, MA)
+
+- URL: http://pinemoorings.com/
+- Checked: 2026-10-26
+- Observation: Published chamber-linked domain returned DNS_PROBE_FINISHED_NXDOMAIN; focused alternate-site search found no replacement operator site.
+- Access detail: [{"url": "http://pinemoorings.com/", "observed": "DNS_PROBE_FINISHED_NXDOMAIN"}]
+- Evidence: https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9a; http://pinemoorings.com/
+- Directory state: Excluded; no working replacement verified.
+
+### MA-0106 — Quarterboard Cottages (Wellfleet, MA)
+
+- URL: http://quarterboardcottages.net/
+- Checked: 2026-10-26
+- Observation: Published chamber-linked domain returned DNS_PROBE_FINISHED_NXDOMAIN; focused alternate-site search found no replacement operator site.
+- Access detail: [{"url": "http://quarterboardcottages.net/", "observed": "DNS_PROBE_FINISHED_NXDOMAIN"}]
+- Evidence: https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9f; http://quarterboardcottages.net/
+- Directory state: Excluded; no working replacement verified.
+
+### MA-0113 — Far Island Cottages (Unknown, MA)
+
+- URL: https://www.farisland.com/
+- Checked: 2026-10-26
+- Observation: Published domain refused connection in connected Chrome; own accommodation/contact not accessible.
+- Access detail: [{"url": "http://www.farisland.com/", "result": "Blank browser error page"}, {"url": "https://www.farisland.com/", "result": "ERR_CONNECTION_REFUSED"}]
+- Evidence: https://business.nantucketchamber.org/list/member/far-island-cottages-1683; http://www.farisland.com/; https://www.farisland.com/
+- Directory state: Excluded; no working replacement verified.
+
+### MA-0123 — Colonial Home Watch, LLC (Unknown, MA)
+
+- URL: https://colonialhomeswatch.com/
+- Checked: 2026-10-26
+- Observation: Published own domain returns DNS_PROBE_FINISHED_NXDOMAIN; chamber manager profile alone does not complete rental eligibility.
+- Access detail: [{"url": "https://colonialhomeswatch.com/", "result": "DNS_PROBE_FINISHED_NXDOMAIN"}]
+- Evidence: https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b35; https://colonialhomeswatch.com/
+- Directory state: Excluded; no working replacement verified.

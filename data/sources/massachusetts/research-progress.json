@@ -1,0 +1,481 @@
+{
+  "targetState": "Massachusetts",
+  "stateCode": "MA",
+  "updatedOn": "2026-10-26",
+  "currentPass": "190 outcomes consolidated locally; policy follow-up and publication checks in progress; additional discovery queues retained",
+  "sourceSchema": "Maine repository template with existing NH49-column extensions; Massachusetts location mapping",
+  "statewideDiscovery": {
+    "url": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/",
+    "pages": 3,
+    "uniqueLeads": 22,
+    "status": "All3pagescaptured"
+  },
+  "regions": [
+    "Greater Boston",
+    "North Shore and Cape Ann",
+    "South Shore and Plymouth",
+    "South Coast",
+    "Cape Cod",
+    "Martha’s Vineyard",
+    "Nantucket",
+    "Central Massachusetts",
+    "Pioneer Valley",
+    "Berkshires"
+  ],
+  "aggregators": {
+    "WeNeedaVacation": {
+      "catalogUrl": "https://www.weneedavacation.com/propertygroups/",
+      "individualListingAppearances": 86,
+      "status": "Discoveryqueue retained separately; own-site reverse verification underway"
+    }
+  },
+  "publication": "First142 checked listings queued for publication; Boston individual-catalog expansion continuing",
+  "agentAssignments": {
+    "01": "Boston expansion: Furnished Quarters individual units MA0901+",
+    "02": "Boston expansion: MassLiving individual units MA0801+",
+    "03": "Boston expansion: Stayloom individual units MA0701+",
+    "root": "Aggregator seedMA0016 and individual/platform leads MA0401+"
+  },
+  "limitations": [
+    "Statewide coverage not yet complete; do not infer eligibility from directory membership.",
+    "Photos, optional facts and public address gaps remain tracked per record."
+  ],
+  "requiredPasses": [
+    {
+      "step": 1,
+      "name": "Statewide tourism directory",
+      "status": "Vacation Rentals category all3pages/22leads captured; eligibility outcomes under review",
+      "urls": [
+        "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/"
+      ]
+    },
+    {
+      "step": 2,
+      "name": "Regional tourism/chambers",
+      "status": "In progress; region-owned source files retain full lists and remaining leads",
+      "sources": [
+        "regional-discovery-01.json",
+        "regional-discovery-02.json",
+        "regional-discovery-03.json"
+      ]
+    },
+    {
+      "step": 3,
+      "name": "Individual towns, lakes and rural communities",
+      "status": "In progress; queries recorded in regional discovery files; not statewide complete"
+    },
+    {
+      "step": 4,
+      "name": "Aggregators/direct directories",
+      "status": "In progress; catalog entries not automatically approved"
+    },
+    {
+      "step": 5,
+      "name": "Booking platform website patterns",
+      "status": "In progress"
+    },
+    {
+      "step": 6,
+      "name": "Reverse-search own websites",
+      "status": "In progress; preserve original aggregator source"
+    },
+    {
+      "step": 7,
+      "name": "Own-site eligibility/contact/booking verification",
+      "status": "In progress; evidence batches saved incrementally"
+    },
+    {
+      "step": 8,
+      "name": "Deduplication",
+      "status": "In progress; combined unit offers retained as excluded audit rows"
+    },
+    {
+      "step": 9,
+      "name": "Evidence and status recording",
+      "status": "Ongoing"
+    },
+    {
+      "step": 10,
+      "name": "Master/candidate/approved consolidation",
+      "status": "Pending current-pass reconciliation"
+    }
+  ],
+  "sourceCoverage": {
+    "Houfy": {
+      "status": "Partially reviewed",
+      "openedUrls": [
+        "https://www.houfy.com/d/massachusetts"
+      ],
+      "remaining": "Agent02fiveleads; Agent03Ashintully independent website verified; broader catalog not complete"
+    },
+    "Staythere": {
+      "status": "Partially reviewed",
+      "queries": [
+        "Staythere Massachusetts vacation rentals book direct"
+      ],
+      "openedUrls": [
+        "https://staythere.ai/stays",
+        "https://staythere.ai/stays/boston-ma"
+      ],
+      "destinationsExposedForMA": 1,
+      "advertisedBostonListings": 25,
+      "featuredLeadsCaptured": 12,
+      "remaining": "Boston direct-host websites and search result inventory review underway"
+    },
+    "Stay With Stay": {
+      "status": "Reviewed for this pass",
+      "queries": [
+        "\"Stay With Stay\" Massachusetts vacation rentals",
+        "\"Vacation Homes of Martha\" \"Vineyard\""
+      ],
+      "openedUrls": [
+        "https://staywithstay.com/search?country=us&latitude=42.36565&longitude=-71.10832&location=Massachusetts%2C+US&locationId=3917&page=1",
+        "https://staywithstay.com/property/4427",
+        "https://mvyvacations.com/"
+      ],
+      "exposedLeads": 18,
+      "vacationHouseLeads": 2,
+      "reverseResolvedOwnerHomes": 5,
+      "remaining": "Sixteen advertised monthly shared bedrooms skipped as unrelated to current vacation-house discovery; no further pagination exposed. Owner current five-house catalog expanded."
+    },
+    "Dtravel": {
+      "status": "Partially reviewed",
+      "queries": [
+        "Dtravel Massachusetts vacation rentals",
+        "Massachusetts, USA selected in official traveler destination search"
+      ],
+      "openedUrls": [
+        "https://www.dtravel.com/travelers",
+        "https://app.dtravel.com/travelers/stays?address=Massachusetts%2C%20USA&adults=1&children=0&country=United%20States&infants=0&pets=0",
+        "https://wazedevelopment.dtravel.com/property",
+        "https://swankpropertiesboston.dtravel.com/property"
+      ],
+      "displayedResults": 45,
+      "operatorCatalogs": {
+        "WAZE": 15,
+        "Swank": 28,
+        "Perch": 2
+      },
+      "evidenceFiles": [
+        "dtravel-statewide-discovery.json",
+        "dtravel-discovery-06.json",
+        "dtravel-discovery-07.json"
+      ],
+      "remaining": "Vacations Simplified/Bluegreen resort-broker scope unresolved; statewide index can change. Private-room overlaps separated from whole-unit offers."
+    },
+    "DirectBookingHost": {
+      "status": "Reviewed for this pass",
+      "queries": [
+        "DirectBookingHost Massachusetts",
+        "Massachusetts in site search Where field",
+        "Provincetown Cottage Getaway James Spinale"
+      ],
+      "openedUrls": [
+        "https://www.directbookinghost.com/stays",
+        "https://www.directbookinghost.com/stays/search?where=Massachusetts&guests=1",
+        "https://www.directbookinghost.com/stays/james-spinale-c2rj1q"
+      ],
+      "exposedWorldwideResults": 62,
+      "maCandidates": 1,
+      "remaining": "Site search did not restrict worldwide results to Massachusetts. Provincetown candidate lacks established operator-controlled website."
+    },
+    "Lodgify": {
+      "status": "Partially reviewed",
+      "openedUrls": [
+        "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
+        "https://thecalicoseahorse.com/"
+      ],
+      "remaining": "Mermaid current-unit gallery, Contact/About Host and direct reservation verified; additional Lodgify operators remain a future discovery queue."
+    },
+    "Guesty Bookings": {
+      "status": "Partially reviewed",
+      "openedUrls": [
+        "https://bostonchristopher.com/",
+        "https://bostonchristopher.guestybookings.com/en",
+        "https://wilkumalodging.com/",
+        "https://massliving.guestybookings.com/"
+      ],
+      "remaining": "Wilkuma14 distinct units expanded; MassLiving53 advertised stays discovered, own operator website/Contact/Terms opened; individual units still queued. Boston Christopher current unit types reviewed as operator."
+    },
+    "OwnerRez": {
+      "status": "Search attempted",
+      "queries": [
+        "\"Berkshires\" \"Powered by OwnerRez\"",
+        "Massachusetts OwnerRez vacation rental direct booking"
+      ],
+      "openedUrls": [
+        "https://www.google.com/search?q=%22Berkshires%22+%22Powered+by+OwnerRez%22"
+      ],
+      "remaining": "No qualifying operator exposed in focused results; broad discovery found Wander-powered operator, not OwnerRez. Does not establish platform-wide exhaustive coverage.",
+      "evidenceFile": "regional-discovery-03.json"
+    },
+    "Hospitable": {
+      "status": "Partially reviewed",
+      "openedUrls": [
+        "https://stayspace.hospitable.rentals/"
+      ],
+      "operatorCatalogMAUnitsReviewed": 26,
+      "eligibleDistinctUnits": 24,
+      "overlappingCombinedOffersExcluded": 2,
+      "remaining": "Other Hospitable operators not yet swept"
+    },
+    "WeNeedaVacation": {
+      "status": "Partially reviewed",
+      "openedUrls": [
+        "https://www.visitma.com/business/12203/",
+        "https://www.weneedavacation.com/",
+        "https://www.weneedavacation.com/propertygroups/"
+      ],
+      "leadsCaptured": 86,
+      "verifiedOwnSiteUnits": 3,
+      "remaining": "Other catalog leads require reverse own-site verification; remaining catalog beyond group lodging not yet swept"
+    }
+  },
+  "verificationAudit": {
+    "reviewed": 191,
+    "statuses": {
+      "Not eligible": 7,
+      "Verified independent website": 75,
+      "Source found in web research": 34,
+      "Website unavailable": 4,
+      "Verified platform-hosted website": 71
+    },
+    "eligible": 146,
+    "photoReadyImport": 142,
+    "unresolvedIds": [
+      "MA-0001",
+      "MA-0005",
+      "MA-0102",
+      "MA-0111",
+      "MA-0112",
+      "MA-0116",
+      "MA-0118",
+      "MA-0119",
+      "MA-0122",
+      "MA-0124",
+      "MA-0017",
+      "MA-0210",
+      "MA-0211",
+      "MA-0212",
+      "MA-0213",
+      "MA-0215",
+      "MA-0216",
+      "MA-0217",
+      "MA-0218",
+      "MA-0219",
+      "MA-0220",
+      "MA-0221",
+      "MA-0273",
+      "MA-0285",
+      "MA-0305",
+      "MA-0311",
+      "MA-0312",
+      "MA-0320",
+      "MA-0321",
+      "MA-0322",
+      "MA-0404",
+      "MA-0407",
+      "MA-0410",
+      "MA-0416"
+    ],
+    "unavailableIds": [
+      "MA-0103",
+      "MA-0106",
+      "MA-0113",
+      "MA-0123"
+    ],
+    "checkedOn": "2026-10-26",
+    "publication": "142 imported locally; catalog/cards/CSV checks passed; deployment pending"
+  },
+  "policyReview": {
+    "status": "All eligible first-cohort websites reviewed; missing or conflicting policies retained explicitly",
+    "reviewedCount": 146,
+    "reviewedIds": [
+      "MA-0002",
+      "MA-0003",
+      "MA-0004",
+      "MA-0006",
+      "MA-0007",
+      "MA-0008",
+      "MA-0009",
+      "MA-0010",
+      "MA-0011",
+      "MA-0013",
+      "MA-0014",
+      "MA-0015",
+      "MA-0018",
+      "MA-0019",
+      "MA-0020",
+      "MA-0021",
+      "MA-0022",
+      "MA-0101",
+      "MA-0104",
+      "MA-0105",
+      "MA-0107",
+      "MA-0108",
+      "MA-0109",
+      "MA-0110",
+      "MA-0114",
+      "MA-0115",
+      "MA-0120",
+      "MA-0121",
+      "MA-0201",
+      "MA-0202",
+      "MA-0203",
+      "MA-0204",
+      "MA-0205",
+      "MA-0206",
+      "MA-0207",
+      "MA-0208",
+      "MA-0209",
+      "MA-0214",
+      "MA-0251",
+      "MA-0252",
+      "MA-0253",
+      "MA-0254",
+      "MA-0255",
+      "MA-0256",
+      "MA-0257",
+      "MA-0258",
+      "MA-0259",
+      "MA-0260",
+      "MA-0261",
+      "MA-0262",
+      "MA-0263",
+      "MA-0264",
+      "MA-0271",
+      "MA-0272",
+      "MA-0274",
+      "MA-0275",
+      "MA-0276",
+      "MA-0277",
+      "MA-0278",
+      "MA-0279",
+      "MA-0280",
+      "MA-0281",
+      "MA-0282",
+      "MA-0283",
+      "MA-0284",
+      "MA-0301",
+      "MA-0302",
+      "MA-0303",
+      "MA-0304",
+      "MA-0306",
+      "MA-0307",
+      "MA-0308",
+      "MA-0309",
+      "MA-0310",
+      "MA-0313",
+      "MA-0314",
+      "MA-0315",
+      "MA-0316",
+      "MA-0317",
+      "MA-0318",
+      "MA-0319",
+      "MA-0324",
+      "MA-0401",
+      "MA-0402",
+      "MA-0403",
+      "MA-0405",
+      "MA-0406",
+      "MA-0408",
+      "MA-0411",
+      "MA-0412",
+      "MA-0413",
+      "MA-0414",
+      "MA-0415",
+      "MA-0420",
+      "MA-0421",
+      "MA-0422",
+      "MA-0423",
+      "MA-0424",
+      "MA-0425",
+      "MA-0426",
+      "MA-0427",
+      "MA-0428",
+      "MA-0429",
+      "MA-0430",
+      "MA-0431",
+      "MA-0432",
+      "MA-0433",
+      "MA-0434",
+      "MA-0435",
+      "MA-0436",
+      "MA-0437",
+      "MA-0439",
+      "MA-0440",
+      "MA-0441",
+      "MA-0443",
+      "MA-0444",
+      "MA-0445",
+      "MA-0501",
+      "MA-0502",
+      "MA-0503",
+      "MA-0504",
+      "MA-0505",
+      "MA-0506",
+      "MA-0507",
+      "MA-0508",
+      "MA-0509",
+      "MA-0510",
+      "MA-0511",
+      "MA-0512",
+      "MA-0513",
+      "MA-0514",
+      "MA-0515",
+      "MA-0601",
+      "MA-0602",
+      "MA-0603",
+      "MA-0604",
+      "MA-0605",
+      "MA-0606",
+      "MA-0607",
+      "MA-0608",
+      "MA-0609",
+      "MA-0610",
+      "MA-0611",
+      "MA-0612",
+      "MA-0613",
+      "MA-0614"
+    ],
+    "pendingIds": [],
+    "olderInventoriesNext": [
+      "Maine",
+      "Vermont",
+      "New Hampshire"
+    ]
+  },
+  "pendingDiscoveryQueues": [
+    {
+      "source": "WeNeedaVacation",
+      "file": "aggregator-discovery.json",
+      "scope": "86 group-property listing appearances; Falmouth three resolved; remaining reverse discovery not exhaustive of full marketplace"
+    },
+    {
+      "source": "MassLiving via Staythere",
+      "website": "https://massliving.guestybookings.com/",
+      "scope": "53 advertised host stays; own site and Contact/Terms opened; portfolio not yet expanded"
+    },
+    {
+      "source": "Hampden County",
+      "scope": "Targeted Southwick/Granville query and secondary statewide cottage directory checked; no independent Hampden operator resolved in this pass"
+    },
+    {
+      "source": "Staythere Boston",
+      "scope": "25 searchable/12 featured stays; Boston Christopher and MassLiving official sites resolved; remaining inventory beyond featured and other Massachusetts destinations not fully expanded"
+    }
+  ],
+  "priorStatesCoverageGaps": {
+    "Maine": "Houfy discovery established; Staythere full pass not completed in earlier work.",
+    "Vermont": "Named-platform searches logged; complete catalog sweeps not established.",
+    "New Hampshire": "77 inherited leads verified; broader aggregator/platform discovery remains pending."
+  },
+  "firstCohort": {
+    "throughBatch": 8,
+    "researchRecords": 191,
+    "eligible": 146,
+    "publicImport": 142,
+    "policyReviewed": 146,
+    "notStatewideComplete": true
+  }
+}

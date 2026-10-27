@@ -1,0 +1,91 @@
+[
+  {
+    "id": "MA-0103",
+    "name": "Pine Moorings Cottages",
+    "state": "MA",
+    "town": "Wellfleet",
+    "url": "http://pinemoorings.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "Published chamber-linked domain returned DNS_PROBE_FINISHED_NXDOMAIN; focused alternate-site search found no replacement operator site.",
+    "observations": [
+      {
+        "url": "http://pinemoorings.com/",
+        "observed": "DNS_PROBE_FINISHED_NXDOMAIN"
+      }
+    ],
+    "evidence": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9a",
+      "http://pinemoorings.com/"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": ""
+  },
+  {
+    "id": "MA-0106",
+    "name": "Quarterboard Cottages",
+    "state": "MA",
+    "town": "Wellfleet",
+    "url": "http://quarterboardcottages.net/",
+    "checkedOn": "2026-10-26",
+    "reason": "Published chamber-linked domain returned DNS_PROBE_FINISHED_NXDOMAIN; focused alternate-site search found no replacement operator site.",
+    "observations": [
+      {
+        "url": "http://quarterboardcottages.net/",
+        "observed": "DNS_PROBE_FINISHED_NXDOMAIN"
+      }
+    ],
+    "evidence": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9f",
+      "http://quarterboardcottages.net/"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": ""
+  },
+  {
+    "id": "MA-0113",
+    "name": "Far Island Cottages",
+    "state": "MA",
+    "town": "Unknown",
+    "url": "https://www.farisland.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "Published domain refused connection in connected Chrome; own accommodation/contact not accessible.",
+    "observations": [
+      {
+        "url": "http://www.farisland.com/",
+        "result": "Blank browser error page"
+      },
+      {
+        "url": "https://www.farisland.com/",
+        "result": "ERR_CONNECTION_REFUSED"
+      }
+    ],
+    "evidence": [
+      "https://business.nantucketchamber.org/list/member/far-island-cottages-1683",
+      "http://www.farisland.com/",
+      "https://www.farisland.com/"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": ""
+  },
+  {
+    "id": "MA-0123",
+    "name": "Colonial Home Watch, LLC",
+    "state": "MA",
+    "town": "Unknown",
+    "url": "https://colonialhomeswatch.com/",
+    "checkedOn": "2026-10-26",
+    "reason": "Published own domain returns DNS_PROBE_FINISHED_NXDOMAIN; chamber manager profile alone does not complete rental eligibility.",
+    "observations": [
+      {
+        "url": "https://colonialhomeswatch.com/",
+        "result": "DNS_PROBE_FINISHED_NXDOMAIN"
+      }
+    ],
+    "evidence": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b35",
+      "https://colonialhomeswatch.com/"
+    ],
+    "excludedFromDirectory": true,
+    "alternateUrl": ""
+  }
+]

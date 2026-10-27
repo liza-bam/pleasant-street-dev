@@ -1,0 +1,2357 @@
+[
+  {
+    "id": "MA-0501",
+    "name": "Queen Bed |Boston|RM 3",
+    "website": "https://wazedevelopment.dtravel.com/property/2270",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2270?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2270 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2270",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2270",
+    "description": "Private room with a queen bed and access to shared living areas in Stoneham.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2270",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Private room; bathroom/shared home amenities, not exclusive whole home.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items. Resident dog Molly lives on site.",
+      "priceFrom": 63,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $63/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2270",
+      "pets": "https://wazedevelopment.dtravel.com/property/2270",
+      "price": "https://wazedevelopment.dtravel.com/property/2270"
+    },
+    "policyDetails": {
+      "cancellation": "100%refund up to30days;50%up to14days beforearrival",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2270"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/Ex8LZ0XP1?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "alt": "Queen Bed |Boston|RM 3 gallery photo 1",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/r5o5NUBXS?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "alt": "Queen Bed |Boston|RM 3 gallery photo 2",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/T7rWYbqTE?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "alt": "Queen Bed |Boston|RM 3 gallery photo 3",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/2rMV0bp3p?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "alt": "Queen Bed |Boston|RM 3 gallery photo 4",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0501-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/Ex8LZ0XP1?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "role": "cover",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421",
+        "sha256": "da52d53c234a86911f89972ae6dd2fa1099cb6ebdcc99437fa04510a5ee99f00",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0501-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/r5o5NUBXS?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "role": "gallery",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421",
+        "sha256": "080ad5708ddb7db0dd0e2864d77d9f35feeed800f68ce6b5bdcfa4cc9fd9c2a0",
+        "width": 480,
+        "height": 360,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0501-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/T7rWYbqTE?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "role": "gallery",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421",
+        "sha256": "4f06a300aa87616861cde4d5f7729162da93b5bdc9a2df95d399ee9f6791aa3a",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0501-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137421/2rMV0bp3p?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "role": "gallery",
+        "unitOrCampus": "Queen Bed |Boston|RM 3; Dtravel property2270; gallery hw137421",
+        "sha256": "68198eb9f83c956a05e328af1a045bb587fad12bdeffc5c0dc3b7f9b1744e174",
+        "width": 480,
+        "height": 347,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2270",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0502",
+    "name": "Modern Two Bedroom Condo - Near Boston",
+    "website": "https://wazedevelopment.dtravel.com/property/2268",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2268?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2268 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2268",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2268",
+    "description": "First-floor Stoneham condo with a kitchen, living room and in-unit laundry.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2268",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed unless. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 3196,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $3196/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2268",
+      "pets": "https://wazedevelopment.dtravel.com/property/2268",
+      "price": "https://wazedevelopment.dtravel.com/property/2268"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2268"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/xx35tNStO?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "alt": "Modern Two Bedroom Condo - Near Boston gallery photo 1",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/IXYjNLGv2?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "alt": "Modern Two Bedroom Condo - Near Boston gallery photo 2",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/qmXr54gdE?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "alt": "Modern Two Bedroom Condo - Near Boston gallery photo 3",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/5zSmolxdN?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "alt": "Modern Two Bedroom Condo - Near Boston gallery photo 4",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0502-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/xx35tNStO?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "role": "cover",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417",
+        "sha256": "927a885ddc2945a4e3486413bbbed39ca5fbd2e18bdf45db2fcd503b1be44387",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0502-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/IXYjNLGv2?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "role": "gallery",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417",
+        "sha256": "d2acd9f15714469554aa601015627bd82800fed34cd0ffb3af2d5ff4c5fe8878",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0502-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/qmXr54gdE?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "role": "gallery",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417",
+        "sha256": "530c66ff5c08ed5479982c3b6f973e9caa8e9723a0627e837b91b370884d2335",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0502-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137417/5zSmolxdN?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "role": "gallery",
+        "unitOrCampus": "Modern Two Bedroom Condo - Near Boston; Dtravel property2268; gallery hw137417",
+        "sha256": "8bf1a41d5065fc4926ec5c4e0a618d0aecadcdef46157f4683cf21c32794d129",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2268",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0503",
+    "name": "Modern Three Bedroom Condo - Near Boston",
+    "website": "https://wazedevelopment.dtravel.com/property/2267",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2267?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2267 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2267",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2267",
+    "description": "Second-floor Stoneham condo with a kitchen, three bedrooms and in-unit laundry.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2267",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 240,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $240/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2267",
+      "pets": "https://wazedevelopment.dtravel.com/property/2267",
+      "price": "https://wazedevelopment.dtravel.com/property/2267"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2267"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/ca6jhONGg?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "alt": "Modern Three Bedroom Condo - Near Boston gallery photo 1",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/cgz4dTtvV?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "alt": "Modern Three Bedroom Condo - Near Boston gallery photo 2",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/1EgLnnYP7?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "alt": "Modern Three Bedroom Condo - Near Boston gallery photo 3",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/hYS0LlZJM?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "alt": "Modern Three Bedroom Condo - Near Boston gallery photo 4",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0503-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/ca6jhONGg?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "role": "cover",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418",
+        "sha256": "165d07e7f4537b52964bf4045bf29baf5ca370e4e26d76bcb209128a78e66345",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0503-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/cgz4dTtvV?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "role": "gallery",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418",
+        "sha256": "80821870e21a73b42a4aa2ac1db97ec3877f107ff4fe8f47c2661cfee605755c",
+        "width": 480,
+        "height": 456,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0503-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/1EgLnnYP7?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "role": "gallery",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418",
+        "sha256": "784c3db52d08a777a699ebf464e0c6faccbe4e44a5950b29ad44a7cf4f8ff318",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0503-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137418/hYS0LlZJM?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "role": "gallery",
+        "unitOrCampus": "Modern Three Bedroom Condo - Near Boston; Dtravel property2267; gallery hw137418",
+        "sha256": "e1265e7061d95547d8e819eea1724771da53ca21eeb19a723d84a5fd456071c7",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2267",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0504",
+    "name": "Lovely Two Bedroom Condo in South Boston",
+    "website": "https://wazedevelopment.dtravel.com/property/2266",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2266?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2266 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2266",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2266",
+    "description": "South Boston condo with two bedrooms, a private backyard and a workspace near Broadway station.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2266",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 292,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $292/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2266",
+      "pets": "https://wazedevelopment.dtravel.com/property/2266",
+      "price": "https://wazedevelopment.dtravel.com/property/2266"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2266"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/D5xV5hq8p?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "alt": "Lovely Two Bedroom Condo in South Boston gallery photo 1",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/YghaoOpdo?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "alt": "Lovely Two Bedroom Condo in South Boston gallery photo 2",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/TM2vfWdJ0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "alt": "Lovely Two Bedroom Condo in South Boston gallery photo 3",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/XbgSrF0bh?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "alt": "Lovely Two Bedroom Condo in South Boston gallery photo 4",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0504-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/D5xV5hq8p?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "role": "cover",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419",
+        "sha256": "dd0ebec8648d5fb4fce899292898238049ca9c1507a1778b447c18bdb0ddc947",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0504-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/YghaoOpdo?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "role": "gallery",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419",
+        "sha256": "bd7a40727fd87b3964b10b20167dd18a07cd96777c44f85aabb73fe3527557f3",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0504-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/TM2vfWdJ0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "role": "gallery",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419",
+        "sha256": "e9e9bad1e5787f538ff1b3ac37572bb8ef95c5a1cc26a909fe06d0a38975ff55",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0504-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137419/XbgSrF0bh?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "role": "gallery",
+        "unitOrCampus": "Lovely Two Bedroom Condo in South Boston; Dtravel property2266; gallery hw137419",
+        "sha256": "f75ff762b782de52414e18994f0c52baf1b3377f7f1195c32bd4f4511423c7d1",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2266",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0505",
+    "name": "Lake Access 4 Bed 3 Bath HOT TUB",
+    "website": "https://wazedevelopment.dtravel.com/property/2803",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2803?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2803 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Billerica",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2803",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2803",
+    "description": "Four-bedroom house near Nutting Lake with a hot tub and kitchen.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2803",
+    "supportedFacts": {
+      "guests": 10,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 351,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $351/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2803",
+      "pets": "https://wazedevelopment.dtravel.com/property/2803",
+      "price": "https://wazedevelopment.dtravel.com/property/2803"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2803"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/Xi1JUxlhX?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "alt": "Lake Access 4 Bed 3 Bath HOT TUB gallery photo 1",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/w6NieFVL6?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "alt": "Lake Access 4 Bed 3 Bath HOT TUB gallery photo 2",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/QNzwhAB3I?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "alt": "Lake Access 4 Bed 3 Bath HOT TUB gallery photo 3",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/Wn47GlPUx?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "alt": "Lake Access 4 Bed 3 Bath HOT TUB gallery photo 4",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0505-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/Xi1JUxlhX?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "role": "cover",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242",
+        "sha256": "170dcff428c466c4fd8b9642005f7c76720a8933dea505285b6d503878129e45",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0505-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/w6NieFVL6?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "role": "gallery",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242",
+        "sha256": "56d7d8e94fb7bea97383ca7537074f25198b45545ed1464f7259726b6ec3333f",
+        "width": 480,
+        "height": 281,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0505-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/QNzwhAB3I?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "role": "gallery",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242",
+        "sha256": "7b4fabc56656c9cdef7c06db58208fdbcc7b81e8fa99a9449cb975e06ec399a8",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0505-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/179242/Wn47GlPUx?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "role": "gallery",
+        "unitOrCampus": "Lake Access 4 Bed 3 Bath HOT TUB; Dtravel property2803; gallery hw179242",
+        "sha256": "92ae351899d518bc5ee6785c85d972942da23406e0ffaf3a95489c2c1bc7a049",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2803",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0506",
+    "name": "Charming Hyannis 3 Bed 2 Bath",
+    "website": "https://wazedevelopment.dtravel.com/property/4225",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/4225?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/4225 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Barnstable",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/4225",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/4225",
+    "description": "Three-bedroom Hyannis home with an open living area and coastal decor.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/4225",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "No stable published nightly amount captured."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/4225",
+      "pets": "https://wazedevelopment.dtravel.com/property/4225",
+      "price": "https://wazedevelopment.dtravel.com/property/4225"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/4225"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/L0hBQQNJ0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "alt": "Charming Hyannis 3 Bed 2 Bath gallery photo 1",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/Cr59LyFEA?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "alt": "Charming Hyannis 3 Bed 2 Bath gallery photo 2",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/iv6ZnFzxP?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "alt": "Charming Hyannis 3 Bed 2 Bath gallery photo 3",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/qhCLYfx4e?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "alt": "Charming Hyannis 3 Bed 2 Bath gallery photo 4",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0506-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/L0hBQQNJ0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "role": "cover",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390",
+        "sha256": "a91fefdb42731a672f8a7c68c9ac6c45ef53f0e8beeded53a4cfd531ea26cd9a",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0506-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/Cr59LyFEA?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "role": "gallery",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390",
+        "sha256": "8d0770dbd1087f1b6ff896d3ce8db3453b8a0d1e89f7c217de98bfbd3d10c9eb",
+        "width": 480,
+        "height": 360,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0506-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/iv6ZnFzxP?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "role": "gallery",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390",
+        "sha256": "e3711ed175ee84fbebe7cf49c6f0d1c5cb3db7e10a6eb9c696558f2a53eeed35",
+        "width": 480,
+        "height": 360,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0506-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212390/qhCLYfx4e?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "role": "gallery",
+        "unitOrCampus": "Charming Hyannis 3 Bed 2 Bath; Dtravel property4225; gallery hw212390",
+        "sha256": "adfcae8736943cb053f12e500ffcb791cae51e14e0e05824075969fcc1b9fdb1",
+        "width": 480,
+        "height": 360,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4225",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0507",
+    "name": "Queen Bed |Boston|RM 2",
+    "website": "https://wazedevelopment.dtravel.com/property/2269",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2269?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2269 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2269",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2269",
+    "description": "Private queen bedroom in a Stoneham home with shared kitchen and living areas.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2269",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Private room; bathroom/shared home amenities, not exclusive whole home.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. Child amenities described; acceptance/age rules not stated.",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items. Resident dog Molly lives on site.",
+      "priceFrom": 57,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $57/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2269",
+      "pets": "https://wazedevelopment.dtravel.com/property/2269",
+      "price": "https://wazedevelopment.dtravel.com/property/2269"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2269"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/yIPHcBno4?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "alt": "Queen Bed |Boston|RM 2 gallery photo 1",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/ILpfyQMvV?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "alt": "Queen Bed |Boston|RM 2 gallery photo 2",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/ovfXzaVYx?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "alt": "Queen Bed |Boston|RM 2 gallery photo 3",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/cQksIi1UO?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "alt": "Queen Bed |Boston|RM 2 gallery photo 4",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0507-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/yIPHcBno4?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "role": "cover",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420",
+        "sha256": "9baac89b455a573d8ae9bd2bf66559f08a9f4f37c25a3b2ebaa54da7a940168a",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0507-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/ILpfyQMvV?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "role": "gallery",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420",
+        "sha256": "68198eb9f83c956a05e328af1a045bb587fad12bdeffc5c0dc3b7f9b1744e174",
+        "width": 480,
+        "height": 347,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0507-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/ovfXzaVYx?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "role": "gallery",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420",
+        "sha256": "1d47fad246a1f20f54b9a008bf09163f4ee8807fe472944ddb940003530d98c1",
+        "width": 480,
+        "height": 343,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0507-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137420/cQksIi1UO?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "role": "gallery",
+        "unitOrCampus": "Queen Bed |Boston|RM 2; Dtravel property2269; gallery hw137420",
+        "sha256": "c6ebff1833505077a362f05ed4a3602dc54074004dc5306b90524582afc97aba",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2269",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0508",
+    "name": "Boston Historical Urban Oasis",
+    "website": "https://wazedevelopment.dtravel.com/property/2359",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2359?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2359 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2359",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2359",
+    "description": "Seven-bedroom Boston accommodation in a renovated historic building for larger groups.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2359",
+    "supportedFacts": {
+      "guests": 14,
+      "bedrooms": 7,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 487,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $487/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2359",
+      "pets": "https://wazedevelopment.dtravel.com/property/2359",
+      "price": "https://wazedevelopment.dtravel.com/property/2359"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2359"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/dvV6oZx2k?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "alt": "Boston Historical Urban Oasis gallery photo 1",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/VtISrd8Pd?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "alt": "Boston Historical Urban Oasis gallery photo 2",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/2m85TtRv6?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "alt": "Boston Historical Urban Oasis gallery photo 3",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/5WAQR7ICk?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "alt": "Boston Historical Urban Oasis gallery photo 4",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0508-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/dvV6oZx2k?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "role": "cover",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211",
+        "sha256": "d47f97249915bfea8c7939f5f2dff2a15a54f91775fbbc6aa94c00e46e6f9fa1",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0508-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/VtISrd8Pd?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "role": "gallery",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211",
+        "sha256": "ba90b0c9fde3af1651d9d75c09dd7ddd0b57532f12967889a1b78a450fc0490b",
+        "width": 480,
+        "height": 343,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0508-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/2m85TtRv6?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "role": "gallery",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211",
+        "sha256": "398bb482848c38dc032dca2fa3bdd9c20ead1973341378d59007161c02f191ec",
+        "width": 480,
+        "height": 538,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0508-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/143211/5WAQR7ICk?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "role": "gallery",
+        "unitOrCampus": "Boston Historical Urban Oasis; Dtravel property2359; gallery hw143211",
+        "sha256": "2271ede6ba53e8941032ccf06176c6f84328616dff330d1eb42b9940045e6279",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2359",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0509",
+    "name": "WaterAccess 5-Bed 2-Bath Retreat",
+    "website": "https://wazedevelopment.dtravel.com/property/4224",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/4224?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/4224 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Barnstable",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/4224",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/4224",
+    "description": "Five-bedroom top-floor Hyannis apartment across two connected wings near the marina.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/4224",
+    "supportedFacts": {
+      "guests": 10,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 414,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $414/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/4224",
+      "pets": "https://wazedevelopment.dtravel.com/property/4224",
+      "price": "https://wazedevelopment.dtravel.com/property/4224"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/4224"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/v7oyI4UEp?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "alt": "WaterAccess 5-Bed 2-Bath Retreat gallery photo 1",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/THHXHLIgf?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "alt": "WaterAccess 5-Bed 2-Bath Retreat gallery photo 2",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/hvAO6OuHG?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "alt": "WaterAccess 5-Bed 2-Bath Retreat gallery photo 3",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/qwiERyi9s?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "alt": "WaterAccess 5-Bed 2-Bath Retreat gallery photo 4",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0509-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/v7oyI4UEp?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "role": "cover",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391",
+        "sha256": "4fc9f4404c11b65a104e58efcf340bbec64ff38548afa3d10482efe835c44274",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0509-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/THHXHLIgf?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "role": "gallery",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391",
+        "sha256": "e19dd48e1ebefc7b5a3b7af62d285dc981d25231119352f2de303db4e08a1a8a",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0509-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/hvAO6OuHG?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "role": "gallery",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391",
+        "sha256": "1fedae86e160cbac0ad3531da844cd00e7d237efd1c94a163ec1bcc2f7427679",
+        "width": 480,
+        "height": 360,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0509-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/212391/qwiERyi9s?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "role": "gallery",
+        "unitOrCampus": "WaterAccess 5-Bed 2-Bath Retreat; Dtravel property4224; gallery hw212391",
+        "sha256": "b1fe8f03343cd2f86269f9bb55cebb57348301b89124b88330af6eb109a8bf48",
+        "width": 480,
+        "height": 360,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/4224",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Backyard patio and BBQ shared with another unit; top-floor accommodation reached by stairs. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0510",
+    "name": "Twin XL Bed|Boston|RM 1",
+    "website": "https://wazedevelopment.dtravel.com/property/2271",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2271?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2271 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2271",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2271",
+    "description": "Private first-floor room with a Twin XL bed in a Stoneham home with shared living areas.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2271",
+    "supportedFacts": {
+      "guests": 1,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Private room; bathroom/shared home amenities, not exclusive whole home.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items. Resident dog Molly lives on site.",
+      "priceFrom": 66,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $66/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2271",
+      "pets": "https://wazedevelopment.dtravel.com/property/2271",
+      "price": "https://wazedevelopment.dtravel.com/property/2271"
+    },
+    "policyDetails": {
+      "cancellation": "100%refund up to30days;50%up to14days beforearrival",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2271"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/Vk5HPHDv1?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "alt": "Twin XL Bed|Boston|RM 1 gallery photo 1",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/mgfdrSReb?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "alt": "Twin XL Bed|Boston|RM 1 gallery photo 2",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/bmVuDPXDA?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "alt": "Twin XL Bed|Boston|RM 1 gallery photo 3",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/sFwoUB8yr?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "alt": "Twin XL Bed|Boston|RM 1 gallery photo 4",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0510-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/Vk5HPHDv1?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "role": "cover",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422",
+        "sha256": "b5a7bd9e6b9ab1902ae7c4fb45dffc32056c54d9b6c177f17d69cc7fc5bab97c",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0510-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/mgfdrSReb?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "role": "gallery",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422",
+        "sha256": "68198eb9f83c956a05e328af1a045bb587fad12bdeffc5c0dc3b7f9b1744e174",
+        "width": 480,
+        "height": 347,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0510-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/bmVuDPXDA?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "role": "gallery",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422",
+        "sha256": "8ecfe9e523eb67c2241f09a023f4b01b83ecbe09343dabe5fd87399bc43a45c7",
+        "width": 480,
+        "height": 343,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0510-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/137422/sFwoUB8yr?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "role": "gallery",
+        "unitOrCampus": "Twin XL Bed|Boston|RM 1; Dtravel property2271; gallery hw137422",
+        "sha256": "7ba0ae26a4447843c1fd2186b76bd14f78232199ea507136da4790ea4e2cb47d",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2271",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0511",
+    "name": "Enchanting Hidden Door Escape",
+    "website": "https://wazedevelopment.dtravel.com/property/1490680",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/1490680?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/1490680 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Stoneham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/1490680",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/1490680",
+    "description": "Four-bedroom Stoneham house with a kitchen and a hidden-door room.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/1490680",
+    "supportedFacts": {
+      "guests": 10,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 250,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $250/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/1490680",
+      "pets": "https://wazedevelopment.dtravel.com/property/1490680",
+      "price": "https://wazedevelopment.dtravel.com/property/1490680"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/1490680"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/9HuXQ9z7v?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "alt": "Enchanting Hidden Door Escape gallery photo 1",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/gyb0iPQxL?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "alt": "Enchanting Hidden Door Escape gallery photo 2",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/rNFsAKAoK?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "alt": "Enchanting Hidden Door Escape gallery photo 3",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/DrQgU9dYD?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "alt": "Enchanting Hidden Door Escape gallery photo 4",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0511-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/9HuXQ9z7v?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "role": "cover",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888",
+        "sha256": "bf639a4fc6e58d2567b13c4509ab6b06f1b51650112bb233c29797f88bfcc49d",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0511-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/gyb0iPQxL?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "role": "gallery",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888",
+        "sha256": "5fa0b8cc7b2e7c24ec488ca4ecf68cea1360aed66626d52a632895abdb4892cc",
+        "width": 480,
+        "height": 668,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0511-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/rNFsAKAoK?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "role": "gallery",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888",
+        "sha256": "b20c72a57a3e5694208b218ecd0c6be93a7423e369dac3317df840e2477a2a51",
+        "width": 480,
+        "height": 321,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0511-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/285888/DrQgU9dYD?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "role": "gallery",
+        "unitOrCampus": "Enchanting Hidden Door Escape; Dtravel property1490680; gallery hw285888",
+        "sha256": "dd5ca26329c74222aa344691be0f20fff1272380a808205d9bdccb3ba11f09a3",
+        "width": 480,
+        "height": 343,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1490680",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0512",
+    "name": "Coastal Haven in West Dennis -15",
+    "website": "https://wazedevelopment.dtravel.com/property/1562065",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/1562065?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/1562065 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Dennis",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/1562065",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/1562065",
+    "description": "Three-bedroom shingled Cape Cod home in West Dennis.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/1562065",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 205,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $205/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/1562065",
+      "pets": "https://wazedevelopment.dtravel.com/property/1562065",
+      "price": "https://wazedevelopment.dtravel.com/property/1562065"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/1562065"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/LC4NinyLX?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "alt": "Coastal Haven in West Dennis -15 gallery photo 1",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/27IS1sPfL?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "alt": "Coastal Haven in West Dennis -15 gallery photo 2",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/kvHu15dHk?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "alt": "Coastal Haven in West Dennis -15 gallery photo 3",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/CqV7nBLpj?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "alt": "Coastal Haven in West Dennis -15 gallery photo 4",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0512-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/LC4NinyLX?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "role": "cover",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097",
+        "sha256": "c801024a8dcc24f4ddeb3eaab83316da8d0e46b377bce452bf2b0ad13ef540c9",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0512-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/27IS1sPfL?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "role": "gallery",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097",
+        "sha256": "a7d5513b680fe6f1e1eba209180cd963299961ece32498502eb601e7a6bb5673",
+        "width": 480,
+        "height": 321,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0512-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/kvHu15dHk?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "role": "gallery",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097",
+        "sha256": "57e080f16e598d4739d79e7422903499d63c91b982741524310dbe76e213e2aa",
+        "width": 480,
+        "height": 321,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0512-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/287097/CqV7nBLpj?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "role": "gallery",
+        "unitOrCampus": "Coastal Haven in West Dennis -15; Dtravel property1562065; gallery hw287097",
+        "sha256": "f7c21bc0c3a17bd4e119d63196d88e440041a67d0d88debed85674f4d87e8094",
+        "width": 480,
+        "height": 383,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/1562065",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0513",
+    "name": "Coastal Charm: Lobster Château",
+    "website": "https://wazedevelopment.dtravel.com/property/2432526",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/2432526?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/2432526 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Swampscott",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/2432526",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/2432526",
+    "description": "Second-floor Swampscott beach retreat with two bedrooms, ocean views and private beach access.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/2432526",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 248,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $248/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/2432526",
+      "pets": "https://wazedevelopment.dtravel.com/property/2432526",
+      "price": "https://wazedevelopment.dtravel.com/property/2432526"
+    },
+    "policyDetails": {
+      "cancellation": "Contact operator for cancellation details",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/2432526"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/KYStxuaM1?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "alt": "Coastal Charm: Lobster Château gallery photo 1",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/IqI7njuPo?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "alt": "Coastal Charm: Lobster Château gallery photo 2",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/yP9LztysV?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "alt": "Coastal Charm: Lobster Château gallery photo 3",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/mUY0SL5nL?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "alt": "Coastal Charm: Lobster Château gallery photo 4",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0513-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/KYStxuaM1?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "role": "cover",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786",
+        "sha256": "1467f594d445db0aa25fe79e1615d9bd453cc9d9356cc39eaab81503885d5537",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0513-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/IqI7njuPo?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "role": "gallery",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786",
+        "sha256": "3688a606704464d5794c1137eded771da73d6ffe897a204251bde06f1a2cdf18",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0513-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/yP9LztysV?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "role": "gallery",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786",
+        "sha256": "5e0647ffeedb58f530e741f366ee315acb76a4398c7e4d0305dc8dabf7cb4315",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0513-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/298786/mUY0SL5nL?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "role": "gallery",
+        "unitOrCampus": "Coastal Charm: Lobster Château; Dtravel property2432526; gallery hw298786",
+        "sha256": "4442ff9989cbd2b1fb5049e35a8d3ca28cb07a6b84f4b981129e0581d895f5aa",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/2432526",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0514",
+    "name": "Lakeview Getaway with Hot Tub",
+    "website": "https://wazedevelopment.dtravel.com/property/12459103",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/12459103?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/12459103 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Billerica",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/12459103",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/12459103",
+    "description": "Three-bedroom lakeview retreat in Billerica with a private hot tub.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/12459103",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. ",
+      "petsDetails": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+      "priceFrom": 343,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $343/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/12459103",
+      "pets": "https://wazedevelopment.dtravel.com/property/12459103",
+      "price": "https://wazedevelopment.dtravel.com/property/12459103"
+    },
+    "policyDetails": {
+      "cancellation": "100%refund up to14days;50%up to7days beforearrival",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": 18,
+      "source": "https://wazedevelopment.dtravel.com/property/12459103"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/7hJpiVcMl?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "alt": "Lakeview Getaway with Hot Tub gallery photo 1",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/uhevm6Bg3?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "alt": "Lakeview Getaway with Hot Tub gallery photo 2",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/PisShrCOk?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "alt": "Lakeview Getaway with Hot Tub gallery photo 3",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/OGOql0kn0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "alt": "Lakeview Getaway with Hot Tub gallery photo 4",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0514-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/7hJpiVcMl?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "role": "cover",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789",
+        "sha256": "56b866d3eb056327832c580a3feba3d7517fea52e1b7d4a1a77841d26f785eee",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0514-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/uhevm6Bg3?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "role": "gallery",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789",
+        "sha256": "32091f1fa13f92d7183cf8177f5516383cfedc390deb9ee984e96c8fda7de7ad",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0514-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/PisShrCOk?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "role": "gallery",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789",
+        "sha256": "021705ca95f0f1aa1dd4c3de7f03b1433c15019a603e16ce7496f14a4a44d827",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0514-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/403789/OGOql0kn0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "role": "gallery",
+        "unitOrCampus": "Lakeview Getaway with Hot Tub; Dtravel property12459103; gallery hw403789",
+        "sha256": "11e644a0ae9965ef5f0aa5ab8d771db6224a6c5b18a5f39f272ed1569159fd80",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/12459103",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  },
+  {
+    "id": "MA-0515",
+    "name": "Spacious Coastal Townhome | Deck & Parking",
+    "website": "https://wazedevelopment.dtravel.com/property/22346352",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Individually opened operator-hosted rental page identifies MA accommodation, WAZE local manager, direct availability booking and public contact panel.",
+    "sourceUrl": "https://wazedevelopment.dtravel.com/property",
+    "discoveryMethod": "Dtravel host-profile full portfolio",
+    "sourceCategory": "Booking-platform discovery → operator-controlled Dtravel direct site",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "operatorName": "WAZE DEVELOPMENT",
+    "operatorEvidenceUrl": "https://wazedevelopment.dtravel.com/profile",
+    "openedUrls": [
+      "https://wazedevelopment.dtravel.com/profile",
+      "https://wazedevelopment.dtravel.com/property",
+      "https://wazedevelopment.dtravel.com/property/22346352?currency=USD&lang=en"
+    ],
+    "contactPagesChecked": [
+      "https://wazedevelopment.dtravel.com/property/22346352 (Contact WAZE DEVELOPMENT panel)"
+    ],
+    "contactAddress": {
+      "role": "property location only; exact address withheld",
+      "street": "Unknown",
+      "city": "Swampscott",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/22346352",
+      "notes": "Location section:Exact location shared before arrival. Contact panel has email and phone, no street address. Operator profile says based in Cambridge,MA; do not substitute Cambridge as property location."
+    },
+    "contactEmail": "support@wazedevelopment.com",
+    "contactPhone": "+18572853132",
+    "bookingMethod": "Own Dtravel direct booking via dates and Check availability; Contact panel email/phone. No form or reservation submitted.",
+    "bookingUrl": "https://wazedevelopment.dtravel.com/property/22346352",
+    "description": "Four-bedroom Swampscott townhome with a kitchen, private deck and garage parking.",
+    "descriptionSource": "https://wazedevelopment.dtravel.com/property/22346352",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Entire home as labelled by own listing.",
+      "kidsDetails": "Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. Child amenities described; acceptance/age rules not stated.",
+      "petsDetails": "9.Pets - Policy Violation: No pets are allowed. If this policy is violated, the guest will be responsible for all cleaning and replacement costs for beds and linens.",
+      "priceFrom": 306,
+      "currency": "USD",
+      "priceDetails": "Own page displayed $306/night without selected dates; dynamic example, not guaranteed minimum or total. Taxes/fees not established."
+    },
+    "factSources": {
+      "capacity": "https://wazedevelopment.dtravel.com/property/22346352",
+      "pets": "https://wazedevelopment.dtravel.com/property/22346352",
+      "price": "https://wazedevelopment.dtravel.com/property/22346352"
+    },
+    "policyDetails": {
+      "cancellation": "100%refund up to14days;50%up to7days beforearrival",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "minimumBookingAge": "Unknown",
+      "source": "https://wazedevelopment.dtravel.com/property/22346352"
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/704SmRdAM?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "alt": "Spacious Coastal Townhome | Deck & Parking gallery photo 1",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/NnCApoj9B?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "alt": "Spacious Coastal Townhome | Deck & Parking gallery photo 2",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/VFJpBz6Hs?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "alt": "Spacious Coastal Townhome | Deck & Parking gallery photo 3",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739"
+      },
+      {
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/irsyOXQP0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "alt": "Spacious Coastal Townhome | Deck & Parking gallery photo 4",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0515-cover.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/704SmRdAM?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "role": "cover",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739",
+        "sha256": "847da64484a4d78c4c49868833a550ad022f55498a3375458928604c87964645",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0515-000.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/NnCApoj9B?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "role": "gallery",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739",
+        "sha256": "841cd8f3ba1fbecae7d573c6d22b324a1fb355570767716ab1cb8d7b71362d42",
+        "width": 480,
+        "height": 719,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0515-001.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/VFJpBz6Hs?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "role": "gallery",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739",
+        "sha256": "1d34015300ac27fcf06b223db9e573bd4cf4b7a48449f79fda15bf095a1c3ad8",
+        "width": 480,
+        "height": 320,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0515-002.webp",
+        "url": "https://images.dtravel.com/770f5e0d-9a3b-4515-8112-80cf140ef0a3/hw/473739/irsyOXQP0?w=480",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "role": "gallery",
+        "unitOrCampus": "Spacious Coastal Townhome | Deck & Parking; Dtravel property22346352; gallery hw473739",
+        "sha256": "7234b7217f5013c6e907dde4c05ce195a86dbf8f91fefaca14af98fdd03bcfed",
+        "width": 480,
+        "height": 343,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "platformLinks": [],
+    "platformProfileLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/users/show/257439917",
+        "sourcePage": "https://wazedevelopment.dtravel.com/property/22346352",
+        "role": "operator profile; not a verified matching unit listing or unit badge"
+      }
+    ],
+    "platformCheckStatus": "Airbnb host profile link observed; no exact unit Airbnb/Vrbo/Booking URL verified. Imported review labels alone do not warrant badges.",
+    "remainingGaps": [
+      "Exact property street/zip withheld by operator",
+      "Optional children policy"
+    ],
+    "accessFailures": [],
+    "notes": "Public DOM and contact-panel review in connected Chrome1. Current-unit snap-center gallery images matched unit-specific hwID; More Properties thumbnails excluded. Own profile15properties,all15 reviewed. Nearby room rentals and whole-home offers may share buildings; distinct bookable scopes retained. Policy audit2026-10-26:individual expanded Home rules reviewed; child policy not stated, not inferred from booker age.",
+    "photoQANotes": "Allfour savedphotos visually inspected on2026-10-26 in contact sheets; authentic named unit/shared amenities; no otherlisting interiors."
+  }
+]

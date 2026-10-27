@@ -1,0 +1,122 @@
+{
+  "checkedOn": "2026-10-26",
+  "sourceUrl": "https://app.dtravel.com/travelers",
+  "operatorProfile": "https://wazedevelopment.dtravel.com/profile",
+  "portfolioUrl": "https://wazedevelopment.dtravel.com/property",
+  "displayedCount": 15,
+  "completeDisplayedList": true,
+  "allMA": true,
+  "queries": [],
+  "method": "Root supplied Dtravel featuredBarnstable unit; followed own HostProfile then Viewall15Listings. Opened each card, own rental page and Contact panel.",
+  "leads": [
+    {
+      "id": "MA-0501",
+      "name": "Queen Bed |Boston|RM 3",
+      "website": "https://wazedevelopment.dtravel.com/property/2270",
+      "city": "Stoneham",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0502",
+      "name": "Modern Two Bedroom Condo - Near Boston",
+      "website": "https://wazedevelopment.dtravel.com/property/2268",
+      "city": "Stoneham",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0503",
+      "name": "Modern Three Bedroom Condo - Near Boston",
+      "website": "https://wazedevelopment.dtravel.com/property/2267",
+      "city": "Stoneham",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0504",
+      "name": "Lovely Two Bedroom Condo in South Boston",
+      "website": "https://wazedevelopment.dtravel.com/property/2266",
+      "city": "Boston",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0505",
+      "name": "Lake Access 4 Bed 3 Bath HOT TUB",
+      "website": "https://wazedevelopment.dtravel.com/property/2803",
+      "city": "Billerica",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0506",
+      "name": "Charming Hyannis 3 Bed 2 Bath",
+      "website": "https://wazedevelopment.dtravel.com/property/4225",
+      "city": "Barnstable",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0507",
+      "name": "Queen Bed |Boston|RM 2",
+      "website": "https://wazedevelopment.dtravel.com/property/2269",
+      "city": "Stoneham",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0508",
+      "name": "Boston Historical Urban Oasis",
+      "website": "https://wazedevelopment.dtravel.com/property/2359",
+      "city": "Boston",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0509",
+      "name": "WaterAccess 5-Bed 2-Bath Retreat",
+      "website": "https://wazedevelopment.dtravel.com/property/4224",
+      "city": "Barnstable",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0510",
+      "name": "Twin XL Bed|Boston|RM 1",
+      "website": "https://wazedevelopment.dtravel.com/property/2271",
+      "city": "Stoneham",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0511",
+      "name": "Enchanting Hidden Door Escape",
+      "website": "https://wazedevelopment.dtravel.com/property/1490680",
+      "city": "Stoneham",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0512",
+      "name": "Coastal Haven in West Dennis -15",
+      "website": "https://wazedevelopment.dtravel.com/property/1562065",
+      "city": "Dennis",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0513",
+      "name": "Coastal Charm: Lobster Château",
+      "website": "https://wazedevelopment.dtravel.com/property/2432526",
+      "city": "Swampscott",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0514",
+      "name": "Lakeview Getaway with Hot Tub",
+      "website": "https://wazedevelopment.dtravel.com/property/12459103",
+      "city": "Billerica",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0515",
+      "name": "Spacious Coastal Townhome | Deck & Parking",
+      "website": "https://wazedevelopment.dtravel.com/property/22346352",
+      "city": "Swampscott",
+      "evidenceStatus": "Verified independent website"
+    }
+  ],
+  "remainingGaps": [
+    "Property exact addresses withheld until arrival; Contact panel reviewed, no address guessed.",
+    "No exact matching individual platform listing URLs verified."
+  ]
+}

@@ -3362,5 +3362,857 @@
  "LAZY-sabattus-shalomus": {
   "description": "A freshly renovated waterfront house with a private dock, a motor boat, and a fantastic view of the water. Kids and pets are welcome, and there are…",
   "sourceUrl": "https://sabattus.lazy.vacations/"
+ },
+ "MA-0401": {
+  "description": "Six-bedroom sea captain's house in Falmouth Village, with private bathrooms, a kitchen, fireplace and garden near the bikeway.",
+  "sourceUrl": "https://www.75locustfalmouth.com/rentals/beautiful-sea-captains-home-in-falmouth-village",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0402": {
+  "description": "Studio guest house in Falmouth Village with a king bed, kitchenette, private entrance and shared outdoor spaces near the bikeway.",
+  "sourceUrl": "https://www.75locustfalmouth.com/rentals/spacious-guest-house-in-falmouth-village",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0403": {
+  "description": "One-bedroom Falmouth loft with a private balcony, kitchen and parking, a short walk from Main Street and the Shining Sea Bikeway.",
+  "sourceUrl": "https://www.75locustfalmouth.com/rentals/loft-hideaway-in-falmouth-village",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0003": {
+  "description": "Provincetown campground with seasonal camper rentals near Commercial Street.",
+  "sourceUrl": "https://coastalacresprovincetown.com/reservations/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0007": {
+  "description": "Boutique Sandwich inn with guest rooms, kitchenette studios and shared landscaped grounds.",
+  "sourceUrl": "https://www.sandwichinnandsuites.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0009": {
+  "description": "Local Cape Cod manager offering waterfront homes and cottages with direct booking and host support.",
+  "sourceUrl": "https://heartofcapecod.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0011": {
+  "description": "Beachfront South Yarmouth resort with suites, vacation homes, pools and a private beach.",
+  "sourceUrl": "https://www.redjacketresorts.com/resorts/beach-resort",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0013": {
+  "description": "Cape Cod and South Coast vacation rental manager offering cottages, beach homes and estates.",
+  "sourceUrl": "https://www.robertpaulvacations.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0014": {
+  "description": "Small Plymouth motel with private-entry cottage rooms, patios and group buyouts.",
+  "sourceUrl": "https://www.sisuplymouth.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0019": {
+  "description": "West Yarmouth waterfront resort with cottages, townhomes, efficiencies and family recreation.",
+  "sourceUrl": "https://www.redjacketresorts.com/resorts/green-harbor",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0101": {
+  "description": "Three Wellfleet cottages near the ocean; selected photos show CottageOne.",
+  "sourceUrl": "https://www.ocean-view-cottages.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0104": {
+  "description": "Historic Wellfleet cottage rentals on ten acres near Blackfish Creek and the Cape Cod Rail Trail.",
+  "sourceUrl": "https://hiddenhollow.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0105": {
+  "description": "Seasonal Wellfleet cottages near Lecount Hollow Beach, with shared grounds and beach access.",
+  "sourceUrl": "https://www.surfsidecottages.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0107": {
+  "description": "Wellfleet oceanfront cottage rentals on a dune; selected interior photos show CottageOne.",
+  "sourceUrl": "https://www.wellfleetbythesea.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0108": {
+  "description": "Family-owned Wellfleet resort with rooms, standalone cottages, an indoor pool and recreation.",
+  "sourceUrl": "https://www.eventidewellfleet.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0109": {
+  "description": "Nantucket waterfront cottage campus near downtown; selected photos show Water’s Edge cottage.",
+  "sourceUrl": "https://www.harborviewnantucket.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0110": {
+  "description": "Three-bedroom Nantucket rental house near Miacomet with a deck and outdoor shower.",
+  "sourceUrl": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0115": {
+  "description": "Waterfront cottages and lofts with kitchens at Nantucket Boat Basin.",
+  "sourceUrl": "https://www.thecottagesnantucket.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0120": {
+  "description": "Nantucket hotel with garden cottages, residences and downtown lofts.",
+  "sourceUrl": "https://www.whiteelephantnantucket.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0121": {
+  "description": "Local vacation rental agency offering homes across Martha’s Vineyard.",
+  "sourceUrl": "https://www.mvvacationrentals.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0006": {
+  "description": "Lakeside Plymouth campground with cabins,tiny houses and yurts.",
+  "sourceUrl": "https://www.pinewoodlodge.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0008": {
+  "description": "Waterfront Plymouth condo suites and penthouses with full kitchens and separate living areas.",
+  "sourceUrl": "https://www.thomasseasuites.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0015": {
+  "description": "Rockport accommodations include a private three-bedroom cottage and suites with kitchens.",
+  "sourceUrl": "https://therockporthouse.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0004": {
+  "description": "Privately operated furnished Boston and Cambridge apartments for stays of one month or longer.",
+  "sourceUrl": "https://www.furnishedquarters.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0018": {
+  "description": "Private docked yachts and houseboats for overnight stays at Constitution Marina in Charlestown.",
+  "sourceUrl": "https://www.constitutionmarina.com/bed-and-breakfast/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0020": {
+  "description": "Furnished apartments and townhouses across Worcester,Westborough and Auburn for temporary stays.",
+  "sourceUrl": "https://luxoexecutiverentals.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0022": {
+  "description": "Private Salem suite with a bedroom,bathroom and full kitchen inside The Satanic Temple.",
+  "sourceUrl": "https://thesatanicsuite.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0201": {
+  "description": "Two Rockport cottages; the Playhouse studio has a kitchenette, fireplace and shower.",
+  "sourceUrl": "https://www.lighthouselanecottage.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0202": {
+  "description": "Locally operated Cape Ann vacation rentals in Gloucester, Rockport, Essex and nearby North Shore towns.",
+  "sourceUrl": "https://www.atlanticvacationhomes.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0203": {
+  "description": "Gloucester cottages with full kitchens, private porches or decks, and access to a shared outdoor pool.",
+  "sourceUrl": "https://sealionmotel.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0204": {
+  "description": "Twelve waterfront efficiency units on Smith Cove, with kitchenettes and dedicated deck space.",
+  "sourceUrl": "https://www.rockyneckaccommodations.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0205": {
+  "description": "Spruce Cottage has ocean views, two bedrooms, a kitchenette and a wood burning fireplace in Rockport.",
+  "sourceUrl": "https://theseawardrockport.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0206": {
+  "description": "Family operated Gloucester beach house in a traditional dormered Cape home.",
+  "sourceUrl": "https://gloucesterbeachhouse.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0207": {
+  "description": "Themed beach bungalows and a main house near White Horse Beach, with kitchens and a shared fire pit.",
+  "sourceUrl": "https://thecalicoseahorse.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0208": {
+  "description": "Boston area furnished studios and apartments for vacations of three days to a few weeks.",
+  "sourceUrl": "https://bostonextendedstay.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0209": {
+  "description": "Three locally operated Rockport apartments with seasonal private stair access to Front Beach.",
+  "sourceUrl": "https://thepearl.staycation.igms.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0251": {
+  "description": "Scituate house with three bedrooms, a full kitchen, deck and outdoor shower within walking distance of the beach.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0252": {
+  "description": "Mattapoisett home near Crescent Beach with three bedrooms, a large deck, outdoor shower and fire pit.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0253": {
+  "description": "Hawley mountain chalet with five bedrooms, a hot tub, recreation room and direct trail access near Berkshire East.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0254": {
+  "description": "Historic Lenox home near Tanglewood with four bedrooms, a screened porch, deck and mountain views.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0255": {
+  "description": "Worthington chalet with three bedrooms, a renovated kitchen, wraparound deck, covered porch and forest views.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0256": {
+  "description": "Egremont home near Prospect Lake with a wood burning fireplace, three season porch, fire pit and gathering house.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0257": {
+  "description": "Hull coastal house with four bedrooms, ocean views, a private dock, fireplace and updated kitchen.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0258": {
+  "description": "Rockport two bedroom home with a stocked kitchen, patio, grill and a lounge with a pullout sofa.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0259": {
+  "description": "Cummington log home on 44 acres with riverfront, a gas fireplace, steam sauna and forest views.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0260": {
+  "description": "Orleans house with three bedrooms, a fireplace, full kitchen, large deck, outdoor shower and gas fire pit.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0261": {
+  "description": "Historic Great Barrington home with five bedrooms, a dining room fireplace, full kitchen and fenced backyard.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0262": {
+  "description": "Humarock cottage near the beach with two bedrooms, a full kitchen, outdoor shower and decks for grilling.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0263": {
+  "description": "Humarock cottage overlooking the South River, with two bedrooms, a full kitchen, decks and an outdoor shower.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0264": {
+  "description": "Falmouth home with four bedrooms, a fireplace, updated kitchen, entertainment area, backyard fire pit and grill.",
+  "sourceUrl": "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0271": {
+  "description": "Westport farm cottage with one bedroom, a full kitchen and porch near Horseneck Beach.",
+  "sourceUrl": "https://horseneckfarms.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0272": {
+  "description": "Westport Point waterfront home with four bedrooms, a full kitchen, deck and lawn extending to a dock.",
+  "sourceUrl": "https://www.kathy-santos.com/rentals.html",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0275": {
+  "description": "West Island cottage with two bedrooms, ocean views, a stocked kitchen and easy beach access.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0276": {
+  "description": "West Island beach cottage with two bedrooms, a kitchen, grill, outdoor dining and an outdoor shower.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0277": {
+  "description": "West Island home with ocean views, two bedrooms, a backyard grill and deck near the beach.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0278": {
+  "description": "Fairhaven waterfront home with three bedrooms, a full kitchen, backyard and panoramic ocean views.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0279": {
+  "description": "Wareham riverside home with three bedrooms, a screened porch, galley kitchen and private dock.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0280": {
+  "description": "East Fairhaven waterfront cottage with three bedrooms, a full kitchen, upper deck and marsh views.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0281": {
+  "description": "West Island beachfront cottage with two bedrooms, central air, a kitchen, backyard and patio.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0282": {
+  "description": "Fairhaven home near Fort Phoenix with three bedrooms, a full kitchen, porch and backyard grill.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0283": {
+  "description": "West Island home with two bedrooms, a gourmet kitchen, landscaped yard and covered deck near beaches.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0284": {
+  "description": "Mattapoisett home with two bedrooms, a full kitchen, covered deck and brick courtyard near the beach.",
+  "sourceUrl": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0002": {
+  "description": "Four-bedroom 1838 guesthouse on a four-acre herb farm in Groton, with gardens and a gourmet kitchen.",
+  "sourceUrl": "https://www.birchandstonegroton.com/about-birch-and-stone",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0021": {
+  "description": "Family-owned Oakham camping resort on Lake Dean offering rustic, waterfront and full-kitchen rental cabins.",
+  "sourceUrl": "https://pineacresresort.com/rentals/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0301": {
+  "description": "Nine-room artist-decorated inn on the Ashuwillticook Rail Trail in Adams, collaborating with the Adams Theater.",
+  "sourceUrl": "https://www.thetrailinadams.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0303": {
+  "description": "Three vacation apartments in a restored Shelburne Falls firehouse, within walking distance of downtown shops and dining.",
+  "sourceUrl": "https://www.firehouse-studios.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0304": {
+  "description": "Twelve-room inn in a restored North Adams mill beside Natural Bridge State Park, with a communal kitchen.",
+  "sourceUrl": "https://beavermill.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0306": {
+  "description": "Five-bedroom 1850s farmhouse on four acres in West Stockbridge, with gardens, a stream and a screened porch.",
+  "sourceUrl": "https://berkshirefarmhousevacation.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0307": {
+  "description": "Family-owned five-room bed and breakfast in an 1802 Sheffield farmhouse, with private bathrooms and made-to-order breakfast.",
+  "sourceUrl": "https://www.wilderhouseberkshires.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0308": {
+  "description": "Historic Hatfield inn beside the Mill River offering rooms and full-kitchen suites, near Northampton.",
+  "sourceUrl": "https://www.oldmillinn.us/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0309": {
+  "description": "Victorian Shelburne Falls inn with private-bath rooms and suites, a short walk from the Bridge of Flowers.",
+  "sourceUrl": "https://bloominginnshelburnefalls.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0310": {
+  "description": "Adults-only Charlemont cabin retreat for couples, with private hot tubs, soaking tubs, fireplaces and mountain views.",
+  "sourceUrl": "https://www.hinataretreat.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0313": {
+  "description": "Whately village inn offering overnight rooms with private baths and electric fireplaces, alongside a restaurant.",
+  "sourceUrl": "https://whatelyinn.com/guest-rooms/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0314": {
+  "description": "Hubbardston alpaca farm offering stays in its 1800s home and farm visits with alpacas, llamas and chickens.",
+  "sourceUrl": "https://plainviewfarmalpacas.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0315": {
+  "description": "Petersham country inn on a 33-acre wooded estate, offering guest rooms with working fireplaces and breakfast.",
+  "sourceUrl": "https://www.clamberhill.com/stay",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0316": {
+  "description": "Three-room Ashburnham bed and breakfast on 44 acres, with lake and mountain views, private baths and full breakfast.",
+  "sourceUrl": "https://www.maguirehouse.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0317": {
+  "description": "Four-bedroom Tyringham cottage for seven guests beside Ashintully Gardens, with three bathrooms and a screened porch.",
+  "sourceUrl": "https://www.ashintullycottage.com/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0318": {
+  "description": "Hancock woodland resort with furnished tents and four-season Sierra tiny houses overlooking Jiminy Peak.",
+  "sourceUrl": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0319": {
+  "description": "North Adams inn annex with minimalist queen rooms, shared living areas and creative studio spaces for artists and travelers.",
+  "sourceUrl": "https://porches.com/stay/freshgrass-annex/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0324": {
+  "description": "Three-bedroom Monterey cabin with three baths, a wood stove, deck and outdoor wood-fired sauna.",
+  "sourceUrl": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0420": {
+  "description": "Two-bedroom Salem vacation home with a backyard patio, grill and parking within walking distance of downtown.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0421": {
+  "description": "Five-bedroom Plymouth vacation house with a large yard, deck and kitchen, a short walk from the beach.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0422": {
+  "description": "One-bedroom downtown Gloucester loft with a kitchen and private patio near shops, dining and the harbor.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0423": {
+  "description": "Two-bedroom Gloucester apartment with Key West-inspired decor, a private patio and kitchen near downtown.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0424": {
+  "description": "Three-bedroom Gloucester coastal home with a kitchen and parking near downtown, the harbor and beaches.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0425": {
+  "description": "One-bedroom Gloucester retreat with a private third-floor balcony, kitchen and parking near downtown and the beach.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0426": {
+  "description": "One-bedroom Beverly apartment with a private balcony, kitchen and workspace near the waterfront and train station.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0427": {
+  "description": "Top-floor Beverly apartment with water views, a private balcony, kitchen, workspace and off-street parking.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0428": {
+  "description": "One-bedroom Beverly apartment with an electric fireplace, private balcony, kitchen, workspace and parking.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0429": {
+  "description": "Two-bedroom Salisbury beach apartment with direct beach access, a shared yard, outdoor dining and a grill.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0430": {
+  "description": "Two-bedroom Salisbury condo with direct beach access, a private deck and grill, plus a shared backyard.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0431": {
+  "description": "Tulum-themed two-bedroom Salisbury condo with beach access, outdoor dining and a three-season sunroom bar.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0432": {
+  "description": "Two-bedroom Salisbury townhouse with ocean views, beach access, a kitchen and shared outdoor space.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0433": {
+  "description": "Two-bedroom Salisbury beachfront townhouse with a kitchen, outdoor seating and two off-street parking spaces.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0434": {
+  "description": "Two-bedroom Salisbury townhome with ocean views, a private balcony, beach-yard access and a kitchen.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0435": {
+  "description": "Three-bedroom Gloucester tidal riverfront home with a private deck, gas fire pit, kitchen and parking.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0436": {
+  "description": "One-bedroom Gloucester coastal apartment with exposed beams, a kitchen and living space near the harbor.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0437": {
+  "description": "Two-bedroom Gloucester apartment with exposed beams, a kitchen and living space near the harbor and downtown.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0439": {
+  "description": "One-bedroom Beverly apartment with a private balcony, kitchen and parking near Salem and the waterfront.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0440": {
+  "description": "One-bedroom Beverly apartment with a colorful living space, kitchen and workspace near the waterfront and train.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0441": {
+  "description": "One-bedroom Beverly apartment with a kitchen and workspace near the waterfront, local dining and train connections.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0443": {
+  "description": "First-floor one-bedroom Salem apartment with a kitchen, Smart TVs and a shared backyard patio near downtown.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0444": {
+  "description": "Three-bedroom upper-level Salem duplex with a game room, private deck, kitchen and driveway parking.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0445": {
+  "description": "Waterfront Rockport retreat at Motif Annex with a loft-style king bedroom, two bathrooms and a kitchen on Bearskin Neck.",
+  "sourceUrl": "https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0405": {
+  "description": "Waterfront Onset vacation house for eight with two bedrooms, a sea deck and shared access to a hot tub, beach and kayaks.",
+  "sourceUrl": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0406": {
+  "description": "Furnished vacation studios and one-bedroom apartments in Boston’s South End, with kitchens, laundry access and a shared roof deck.",
+  "sourceUrl": "https://bostonchristopher.com/apartments-3/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0408": {
+  "description": "Boston studio on Tremont Street with a kitchen, internet and air conditioning, close to the Theater District and downtown hospitals.",
+  "sourceUrl": "https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0501": {
+  "description": "Private room with a queen bed and access to shared living areas in Stoneham.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2270",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0502": {
+  "description": "First-floor Stoneham condo with a kitchen, living room and in-unit laundry.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2268",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0503": {
+  "description": "Second-floor Stoneham condo with a kitchen, three bedrooms and in-unit laundry.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2267",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0504": {
+  "description": "South Boston condo with two bedrooms, a private backyard and a workspace near Broadway station.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2266",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0505": {
+  "description": "Four-bedroom house near Nutting Lake with a hot tub and kitchen.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2803",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0506": {
+  "description": "Three-bedroom Hyannis home with an open living area and coastal decor.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/4225",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0507": {
+  "description": "Private queen bedroom in a Stoneham home with shared kitchen and living areas.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2269",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0508": {
+  "description": "Seven-bedroom Boston accommodation in a renovated historic building for larger groups.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2359",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0509": {
+  "description": "Five-bedroom top-floor Hyannis apartment across two connected wings near the marina.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/4224",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0510": {
+  "description": "Private first-floor room with a Twin XL bed in a Stoneham home with shared living areas.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2271",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0511": {
+  "description": "Four-bedroom Stoneham house with a kitchen and a hidden-door room.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/1490680",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0512": {
+  "description": "Three-bedroom shingled Cape Cod home in West Dennis.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/1562065",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0513": {
+  "description": "Second-floor Swampscott beach retreat with two bedrooms, ocean views and private beach access.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/2432526",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0514": {
+  "description": "Three-bedroom lakeview retreat in Billerica with a private hot tub.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/12459103",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0515": {
+  "description": "Four-bedroom Swampscott townhome with a kitchen, private deck and garage parking.",
+  "sourceUrl": "https://wazedevelopment.dtravel.com/property/22346352",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0601": {
+  "description": "Boston apartment with central air, a full kitchen, in-unit laundry and three queen bedrooms.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4730?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0602": {
+  "description": "Fourth-floor Boston apartment with two bedrooms, a full kitchen, central air and city views.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4732?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0603": {
+  "description": "Victorian home near Boston’s Savin Hill with five bedrooms, two bathrooms and a full kitchen.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0604": {
+  "description": "Boston apartment atop Jones Hill with panoramic views, three bedrooms and a full kitchen.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4733?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0605": {
+  "description": "Three-bedroom Boston apartment near the South End with central air, a full kitchen and in-unit laundry.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4736?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0606": {
+  "description": "Two-bedroom Boston apartment near Upham’s Corner with central air, a full kitchen and in-unit laundry.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0607": {
+  "description": "One-bedroom Boston apartment with a sleeper sofa, one block from Green Line streetcars.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4737?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0608": {
+  "description": "Three-bedroom, two-bathroom bi-level Boston apartment near Green Line streetcars and Boston College.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4738?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0609": {
+  "description": "One-bedroom Boston apartment with a sleeper sofa near Commonwealth Avenue and Boston College.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4739?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0610": {
+  "description": "Boston apartment in West Roxbury with a kitchen, air conditioning and nearby public transport.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0611": {
+  "description": "Two-bedroom Boston apartment with a sleeper sofa near Cleveland Circle and Green Line streetcars.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0612": {
+  "description": "Large Boston condo one block from the Green Line with two bathrooms, a full kitchen and in-unit laundry.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0613": {
+  "description": "Two-bedroom Boston apartment with a sleeper sofa near Commonwealth Avenue and Boston College.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0614": {
+  "description": "Two-bedroom, two-bathroom bi-level Boston apartment with a full kitchen near Green Line streetcars.",
+  "sourceUrl": "https://swankpropertiesboston.dtravel.com/property/4758?currency=USD&lang=en",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0411": {
+  "description": "Three-bedroom Edgartown vacation house with cathedral ceilings, a kitchen, deck, grill and outdoor shower near South Beach.",
+  "sourceUrl": "https://mvyvacations.com/listing/vineyard-house/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0412": {
+  "description": "Three-bedroom colonial-style Edgartown home with a kitchen, deck, gas grill and outdoor shower for island vacations.",
+  "sourceUrl": "https://mvyvacations.com/listing/marthas-vineyard-house/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0413": {
+  "description": "Two-bedroom Katama vacation house with a kitchen, wraparound deck, grill, outdoor shower and private master-bedroom balcony.",
+  "sourceUrl": "https://mvyvacations.com/listing/katama-house/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0414": {
+  "description": "Three-bedroom Cape-style Edgartown cottage with a large upper deck, grill, outdoor shower and backyard seating.",
+  "sourceUrl": "https://mvyvacations.com/listing/surfside-cottage/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0415": {
+  "description": "Three-bedroom Edgartown vacation house with cathedral ceilings, a kitchen island, deck, grill and outdoor shower.",
+  "sourceUrl": "https://mvyvacations.com/listing/edgartown-house/",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
+ },
+ "MA-0010": {
+  "description": "Waterfront Chatham estate with a pool, guest cottage, beach access and a children’s suite.",
+  "sourceUrl": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+  "checkedOn": "2026-10-26",
+  "status": "Factual summary of opened official website"
  }
 }

@@ -1,0 +1,3078 @@
+[
+  {
+    "id": "MA-0002",
+    "name": "Birch and Stone Groton",
+    "website": "https://www.birchandstonegroton.com/",
+    "classification": "individual guesthouse",
+    "sourceUrl": "https://www.visitma.com/business/16898/",
+    "openedUrls": [
+      "https://www.visitma.com/business/16898/",
+      "http://birchandstonegroton.com",
+      "https://www.birchandstonegroton.com/about-birch-and-stone",
+      "https://www.birchandstonegroton.com/booking",
+      "https://www.birchandstonegroton.com/location",
+      "https://www.birchandstonegroton.com/photos"
+    ],
+    "contactPagesChecked": [
+      "https://www.birchandstonegroton.com/booking",
+      "https://www.birchandstonegroton.com/location",
+      "https://www.birchandstonegroton.com/about-birch-and-stone"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "368 Main Street",
+      "city": "Groton",
+      "state": "MA",
+      "zip": "01450",
+      "source": "https://www.birchandstonegroton.com/location",
+      "notes": "Location page Map Address and booking contact agree; no standalone Contact link."
+    },
+    "bookingMethod": "Email inquiry for weekly/weekend/monthly stays; birchandstonegroton@gmail.com in booking text",
+    "bookingUrl": "https://www.birchandstonegroton.com/booking",
+    "notes": "Booking email text is birchandstonegroton@gmail.com; footer displayed same text but href info@birchandstonegroton.com\u2014retain discrepancy. About says4bed3bath; state directory sleeps10; no owner-wide values inferred. Policy review 2026-10-26: Pets and children remain Unknown after home, booking and About review; no policy link exposed.",
+    "description": "Four-bedroom 1838 guesthouse on a four-acre herb farm in Groton, with gardens and a gourmet kitchen.",
+    "descriptionSource": "https://www.birchandstonegroton.com/about-birch-and-stone",
+    "supportedFacts": {
+      "guests": 10,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Four-bedroom, three-bath guesthouse; VisitMA reports sleeps ten, unconfirmed own-site maximum.",
+      "kidsDetails": "No explicit child admission policy; family and friends language does not establish children allowed.",
+      "petsDetails": "Not published on opened home, booking or About pages; no policy/FAQ link exposed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "sources": [
+        "https://www.visitma.com/business/16898/",
+        "https://www.birchandstonegroton.com/about-birch-and-stone"
+      ],
+      "policySources": [
+        "https://www.birchandstonegroton.com/",
+        "https://www.birchandstonegroton.com/booking",
+        "https://www.birchandstonegroton.com/about-birch-and-stone"
+      ]
+    },
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/3e76c3e8-0f66-42d7-a378-aaf1b2de1986/Dining+Area.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "alt": "Dining Area",
+        "unitOrCampus": "Birch and Stone"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/60e8d5ac-2e0a-4c4f-a296-0fe65192ead9/Greeting+Room+with+Piano.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "alt": "Greeting room piano",
+        "unitOrCampus": "Birch and Stone"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/9f9984a9-336a-436c-bc62-1ec0a7b34f8a/kitchen.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "alt": "Kitchen",
+        "unitOrCampus": "Birch and Stone"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/a8a3de2e-dd63-410e-bac1-fdb7c8638018/Queen+Bed+2nd+Floor.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "alt": "Queen bedroom",
+        "unitOrCampus": "Birch and Stone"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual guesthouse",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.birchandstonegroton.com/",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0002-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/3e76c3e8-0f66-42d7-a378-aaf1b2de1986/Dining+Area.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "role": "cover",
+        "sha256": "2ee72d350c8a36c687741bee7ac2816a67d50f48dce902ea295f15e8e2c92c0d",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Birch and Stone",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0002-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/60e8d5ac-2e0a-4c4f-a296-0fe65192ead9/Greeting+Room+with+Piano.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "role": "additional",
+        "sha256": "aefcdeaf2801c38bdd8b1f8a7c7644b358846f68d23f76b1c5b3196a5360feb2",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Birch and Stone",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0002-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/9f9984a9-336a-436c-bc62-1ec0a7b34f8a/kitchen.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "role": "additional",
+        "sha256": "678623847ba15ab219ab014170eb30cb71115065d80d5bf1e71735df3c8388d9",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Birch and Stone",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0002-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/60ef1b84fc123e41cc06d4fb/a8a3de2e-dd63-410e-bac1-fdb7c8638018/Queen+Bed+2nd+Floor.jpg",
+        "sourcePage": "https://www.birchandstonegroton.com/photos",
+        "role": "additional",
+        "sha256": "32a84dd84b81be517037d5aefa7b4fc45a8302410eee7a58d5e68c776fbce80a",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Birch and Stone",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://www.birchandstonegroton.com/",
+      "https://www.birchandstonegroton.com/booking",
+      "https://www.birchandstonegroton.com/location",
+      "https://www.birchandstonegroton.com/about-birch-and-stone"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0021",
+    "name": "Pine Acres Family Camping Resort",
+    "website": "https://pineacresresort.com/",
+    "classification": "campground cabin campus",
+    "recordType": "operator",
+    "sourceUrl": "https://www.visitma.com/business/3140/",
+    "openedUrls": [
+      "https://www.visitma.com/business/3140/",
+      "https://pineacresresort.com/",
+      "https://pineacresresort.com/contact/",
+      "https://pineacresresort.com/rentals/"
+    ],
+    "contactPagesChecked": [
+      "https://pineacresresort.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "203 Bechan Road",
+      "city": "Oakham",
+      "state": "MA",
+      "zip": "01068",
+      "source": "https://pineacresresort.com/contact/",
+      "notes": "OUR ADDRESS explicit shared resort contact/arrival site."
+    },
+    "bookingMethod": "5088829509,camp@pineacresresort.com,contact form; reservations page",
+    "bookingUrl": "https://pineacresresort.com/contact/",
+    "notes": "Home expressly family-owned. Rental cabins offeredweekly peakseason/3nightmin springfall. PremiumPlus6guests and cabin-specific layouts not applied to campus. Pets onlydesignatedunits; PremiumPlus/Pavilion notpetfriendly. Photo setPremiumPlus19 only. Policy review 2026-10-26: Children admitted with supervision/curfew restrictions; pets permitted only in designated rental types. Twenty-one minimum reservation age is not a ban on children.",
+    "description": "Family-owned Oakham camping resort on Lake Dean offering rustic, waterfront and full-kitchen rental cabins.",
+    "descriptionSource": "https://pineacresresort.com/rentals/",
+    "photoCandidates": [
+      {
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/089-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "alt": "Premium plus cabin19",
+        "unitOrCampus": "PremiumPlus19"
+      },
+      {
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/IMG_772023-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "alt": "Screened porch",
+        "unitOrCampus": "PremiumPlus19"
+      },
+      {
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/IMG_770282-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "alt": "Firepit",
+        "unitOrCampus": "PremiumPlus19"
+      },
+      {
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/IMG_773689-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "alt": "Bathroom",
+        "unitOrCampus": "PremiumPlus19"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "campground cabin campus",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://pineacresresort.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Children explicitly accommodated. Under seven accompanied in all facilities; under sixteen supervised at pool/amenities; under eighteen at campsite with adult by 10pm unless sanctioned activity or with parent. Hot tub eighteen-plus.",
+      "petsDetails": "Only designated pet-friendly rentals; up to two dogs/cats, registered with current rabies certificates, supervised and on maximum six-foot non-retractable leash. No visitor pets. Premium Plus/Pavilion excluded.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://pineacresresort.com/",
+        "https://pineacresresort.com/rentals/",
+        "https://pineacresresort.com/policies/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0021-cover.webp",
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/089-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "role": "cover",
+        "sha256": "348f0733d58ddf88a111abda71fada8809151a7938e985c54c81a936338789a7",
+        "width": 1200,
+        "height": 900,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PremiumPlus19",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0021-000.webp",
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/IMG_772023-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "role": "additional",
+        "sha256": "423e830c92aa1e33e0df19854bb5c9e30d39834a1da993a2441a90f2b826987b",
+        "width": 1200,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PremiumPlus19",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0021-001.webp",
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/IMG_770282-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "role": "additional",
+        "sha256": "4f3d06c2d92a88d353f997263a1f29f55ef0f5e01e8f1cbc9347bc712593e801",
+        "width": 1440,
+        "height": 1263,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PremiumPlus19",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0021-002.webp",
+        "url": "https://pineacresresort.com/wp-content/uploads/2023/09/IMG_773689-copy.webp",
+        "sourcePage": "https://pineacresresort.com/rentals/",
+        "role": "additional",
+        "sha256": "41c5651eb5b2b24b3b5541e112a1aa51a4ab26dfcf240e85c2d28748bcbfa499",
+        "width": 1200,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "PremiumPlus19",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0301",
+    "name": "The Trail in Adams",
+    "website": "https://www.thetrailinadams.com/",
+    "classification": "small boutique inn",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://www.thetrailinadams.com/",
+      "https://www.thetrailinadams.com/contact-us/",
+      "https://www.thetrailinadams.com/room/"
+    ],
+    "contactPagesChecked": [
+      "https://www.thetrailinadams.com/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "shared inn/campus",
+      "street": "10 Pleasant Street",
+      "city": "Adams",
+      "state": "MA",
+      "zip": "01220",
+      "source": "https://www.thetrailinadams.com/contact-us/",
+      "notes": "Our contacts explicit address"
+    },
+    "bookingMethod": "4137439600,info@thetrailinadams.com, Mews booking",
+    "bookingUrl": "https://app.mews.com/distributor/7b11c09f-da3d-411e-8d52-b05b008b1295",
+    "description": "Nine-room artist-decorated inn on the Ashuwillticook Rail Trail in Adams, collaborating with the Adams Theater.",
+    "descriptionSource": "https://www.thetrailinadams.com/",
+    "notes": "Template stock images were excluded. DOM ancestry associates selected Jon/Ruth-20/Ruth-14 images with the section headed Jon and Features; filenames alone were unreliable. Policy review 2026-10-26: Official booking explicitly offers children aged 0-18; pet policy remains unpublished in checked pages. Final policy assessment retains children Unknown: generic guest selector is not definitive admission policy.",
+    "photoCandidates": [
+      {
+        "url": "https://www.thetrailinadams.com/wp-content/uploads/2023/09/Jon.png",
+        "sourcePage": "https://www.thetrailinadams.com/room/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Jon room only; nearest containing section headings Jon and Features verified despite reused filenames"
+      },
+      {
+        "url": "https://www.thetrailinadams.com/wp-content/uploads/2023/09/Ruth-20.png",
+        "sourcePage": "https://www.thetrailinadams.com/room/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Jon room only; nearest containing section headings Jon and Features verified despite reused filenames"
+      },
+      {
+        "url": "https://www.thetrailinadams.com/wp-content/uploads/2023/09/Ruth-14-1.png",
+        "sourcePage": "https://www.thetrailinadams.com/room/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Jon room only; nearest containing section headings Jon and Features verified despite reused filenames"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small boutique inn",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.thetrailinadams.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": 9,
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Booking interface offers Children (0-18 yrs), but no explicit child admission rule found; generic selector alone does not confirm all rooms accept children.",
+      "petsDetails": "No published pet policy found in checked home, room and initial booking pages.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.thetrailinadams.com/",
+        "https://www.thetrailinadams.com/room/",
+        "https://app.mews.com/distributor/7b11c09f-da3d-411e-8d52-b05b008b1295",
+        "https://www.thetrailinadams.com/about-us/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0301-cover.webp",
+        "url": "https://www.thetrailinadams.com/wp-content/uploads/2023/09/Jon.png",
+        "sourcePage": "https://www.thetrailinadams.com/room/",
+        "role": "cover",
+        "sha256": "b833d7b0b96df2fff2f5dcba4350bc9d7f87e3fc0f29789d80d7d105aa8b7bff",
+        "width": 1600,
+        "height": 675,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Jon room only; nearest containing section headings Jon and Features verified despite reused filenames",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0301-000.webp",
+        "url": "https://www.thetrailinadams.com/wp-content/uploads/2023/09/Ruth-20.png",
+        "sourcePage": "https://www.thetrailinadams.com/room/",
+        "role": "additional",
+        "sha256": "73e33b9c20674c3d40aadeb00ef7f0578f506573c602be22d61fd46989c0fa83",
+        "width": 1600,
+        "height": 675,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Jon room only; nearest containing section headings Jon and Features verified despite reused filenames",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0301-001.webp",
+        "url": "https://www.thetrailinadams.com/wp-content/uploads/2023/09/Ruth-14-1.png",
+        "sourcePage": "https://www.thetrailinadams.com/room/",
+        "role": "additional",
+        "sha256": "6a5723b685b2f4d9730d1ff7c5a242b4053ecc301fde09b571e1289682002bac",
+        "width": 1600,
+        "height": 675,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Jon room only; nearest containing section headings Jon and Features verified despite reused filenames",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://www.thetrailinadams.com/",
+      "https://www.thetrailinadams.com/contact-us/"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0302",
+    "name": "Harbour House Inn Bed and Breakfast",
+    "website": "https://www.harbourhouseinn.com/",
+    "classification": "small bed and breakfast",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "http://www.harbourhouseinn.com",
+      "https://www.harbourhouseinn.com/contact-us",
+      "https://www.harbourhouseinn.com/accommodations"
+    ],
+    "contactPagesChecked": [
+      "https://www.harbourhouseinn.com/contact-us",
+      "https://www.harbourhouseinn.com/accommodations"
+    ],
+    "contactAddress": {
+      "role": "partial location; directory street unverified",
+      "street": "Unknown",
+      "city": "Cheshire",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.harbourhouseinn.com/contact-us",
+      "notes": "Official contact page publishes phone, email and form but no street address. Berkshire directory lists 725 North State Road, Cheshire MA 01225; this street address remains directory-only."
+    },
+    "bookingMethod": "4134461139,Harbourhouseinnbb@gmail.com,contact form/GuestroomGenie",
+    "bookingUrl": "https://www.guestroomgenie.com/harbour-house-inn/",
+    "description": "Six-room Georgian Colonial bed and breakfast in Cheshire, with gourmet breakfast and gardens in the Berkshire hills.",
+    "descriptionSource": "https://www.harbourhouseinn.com/",
+    "notes": "Contact identifies familyBrandi,Darrel,Billie runningbusiness. OwnsiteNoPets(serviceanimalswelcome). Only authenticsharedexteriorcandidate retained; room backgrounds belongdifferentrooms. Visual review rejected the misleading award graphic and decorative background; selected actual Field of Dreams room photo. Additional same-room photos remain unavailable. Policy review 2026-10-26: No pets, service animals welcome; child policy remains Unknown after published Property Policies review.",
+    "photoCandidates": [
+      {
+        "url": "https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-startlogic-v1-0-1%2F831%2F1276831%2FLOwbkFYP%2F209748eec8b04604ab6ad608de8e44fe&methods=resize%2C900%2C5000",
+        "sourcePage": "https://www.harbourhouseinn.com/accommodations",
+        "alt": "Field of Dreams log bed and sitting area",
+        "unitOrCampus": "Field of Dreams room only"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small bed and breakfast",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.harbourhouseinn.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": 6,
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Child admission policy not published on checked home or Property Policies page.",
+      "petsDetails": "Pet-free establishment; registered service animals welcome.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.harbourhouseinn.com/",
+        "https://www.harbourhouseinn.com/property-policies"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0302-cover.webp",
+        "url": "https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-startlogic-v1-0-1%2F831%2F1276831%2FLOwbkFYP%2F209748eec8b04604ab6ad608de8e44fe&methods=resize%2C900%2C5000",
+        "sourcePage": "https://www.harbourhouseinn.com/accommodations",
+        "role": "cover",
+        "sha256": "56fd8dcdd0d014b10e82b23f67709927ede29a806dc4a76870371d2fd58b3a95",
+        "width": 900,
+        "height": 1200,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Field of Dreams room only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates",
+      "Two additional authentic same-room/shared-area photos for three-photo card"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://www.harbourhouseinn.com/",
+      "https://www.harbourhouseinn.com/contact-us",
+      "https://www.harbourhouseinn.com/accommodations"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0303",
+    "name": "Shelburne Falls Firehouse Studios",
+    "website": "https://www.firehouse-studios.com/",
+    "classification": "small apartment rental operator",
+    "recordType": "operator",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://www.firehouse-studios.com/",
+      "https://www.firehouse-studios.com/contact",
+      "https://www.firehouse-studios.com/studio-one"
+    ],
+    "contactPagesChecked": [
+      "https://www.firehouse-studios.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared apartment campus",
+      "street": "9 William Street",
+      "city": "Shelburne Falls",
+      "state": "MA",
+      "zip": "01370",
+      "source": "https://www.firehouse-studios.com/contact",
+      "notes": "Contact explicitaddress;3apartments share building"
+    },
+    "bookingMethod": "info@firehouse-studios.com,Courtney4138240465/Jay4133459048; Airbnb perstudio links",
+    "bookingUrl": "https://www.firehouse-studios.com/contact",
+    "description": "Three vacation apartments in a restored Shelburne Falls firehouse, within walking distance of downtown shops and dining.",
+    "descriptionSource": "https://www.firehouse-studios.com/",
+    "notes": "StudioOne3bedrooms,StudioTwo2,StudioThree1; operator-wide bedrooms/capacity Unknown. AllphotossetStudioOne. Airbnbaliases found butdestinationidentity pending. Policy review 2026-10-26: All three linked unit descriptions ban pets. Children explicitly accommodated in Studio One; other units\u2019 child policies remain unconfirmed.",
+    "platformLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://airbnb.com/h/fhstudio1",
+        "sourcePage": "https://www.firehouse-studios.com/",
+        "verifiedMatchingIdentity": false
+      },
+      {
+        "platform": "Airbnb",
+        "url": "https://airbnb.com/h/firehouse2",
+        "sourcePage": "https://www.firehouse-studios.com/",
+        "verifiedMatchingIdentity": false
+      },
+      {
+        "platform": "Airbnb",
+        "url": "https://airbnb.com/h/firehouse3",
+        "sourcePage": "https://www.firehouse-studios.com/",
+        "verifiedMatchingIdentity": false
+      }
+    ],
+    "platformCheckStatus": "Published perstudioAirbnbaliases captured; destinations not yet opened",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/36e12119-9cfb-4560-be7e-284e4b2c7bad/20240919_114938962_iOS.jpg?format=2500w",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "alt": "StudioOne living/dining",
+        "unitOrCampus": "StudioOne"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/d9034df4-d21b-454b-a6c3-36b246239926/20240922_161415032_iOS.jpg",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "alt": "StudioOne entrance",
+        "unitOrCampus": "StudioOne"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/dd4692b0-312f-4979-9bbd-de6f2762c3a6/IMG_8648.jpg",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "alt": "Dining room",
+        "unitOrCampus": "StudioOne"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/874eaff4-528d-43fd-b6fc-ea7182490717/20240919_120513001_iOS.jpg",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "alt": "Living room",
+        "unitOrCampus": "StudioOne"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "small apartment rental operator",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.firehouse-studios.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Conditional",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Studio One explicitly provides a bunk room ideal for kids. No explicit child admission policy found for Studios Two/Three; do not transfer Studio One\u2019s child suitability to every unit.",
+      "petsDetails": "All three studio-specific linked host listings explicitly prohibit pets. Studio One expanded rules specify service animals only.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.firehouse-studios.com/",
+        "https://www.firehouse-studios.com/studio-one",
+        "https://airbnb.com/h/fhstudio1",
+        "https://www.airbnb.com/rooms/1218896681136081648?source_impression_id=p3_1793058583_P3hLxBmBZIDIfIH4",
+        "https://airbnb.com/h/firehouse2",
+        "https://www.airbnb.com/rooms/1191191633516646662?source_impression_id=p3_1793058600_P3TwjC_wogIYd760",
+        "https://airbnb.com/h/firehouse3",
+        "https://www.airbnb.com/rooms/1182055966763501368?source_impression_id=p3_1793058617_P3kLsirgwur1UKbs"
+      ]
+    },
+    "photos": [
+      {
+        "file": "images/MA-0303-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/36e12119-9cfb-4560-be7e-284e4b2c7bad/20240919_114938962_iOS.jpg?format=2500w",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "role": "cover",
+        "sha256": "5c872825b454b1907cd4bf6644b964fdf66d5dac1e32cc74d819068647432ff6",
+        "width": 1280,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "StudioOne",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0303-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/d9034df4-d21b-454b-a6c3-36b246239926/20240922_161415032_iOS.jpg",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "role": "additional",
+        "sha256": "42414a3475016038b9b33f23a56e492cd0f96d904de76d61756bca947b0fccf8",
+        "width": 1200,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "StudioOne",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0303-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/dd4692b0-312f-4979-9bbd-de6f2762c3a6/IMG_8648.jpg",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "role": "additional",
+        "sha256": "9ad5f6de8ad8ff332247f62d7813437ddfb175043f2d77b42f682e4d1020588a",
+        "width": 1200,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "StudioOne",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0303-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/66dc78074627bb0f2471d9ea/874eaff4-528d-43fd-b6fc-ea7182490717/20240919_120513001_iOS.jpg",
+        "sourcePage": "https://www.firehouse-studios.com/studio-one",
+        "role": "additional",
+        "sha256": "6f083214f15a592bfdee55fdd89c93b05cc6bcc2acdf340f68301d53743ee4fc",
+        "width": 1200,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "StudioOne",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0304",
+    "name": "Historic Beaver Mill Inn",
+    "website": "https://beavermill.com/",
+    "classification": "small inn in restored mill",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://BeaverMill.com",
+      "https://beavermill.com/contact-us",
+      "https://beavermill.com/"
+    ],
+    "contactPagesChecked": [
+      "https://beavermill.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "shared inn/campus",
+      "street": "189 Beaver Street (Route8North)",
+      "city": "North Adams",
+      "state": "MA",
+      "zip": "01247",
+      "source": "https://beavermill.com/contact-us",
+      "notes": "Contact and home agree"
+    },
+    "bookingMethod": "Contact form/4136649550 and Cloudbeds",
+    "bookingUrl": "https://us2.cloudbeds.com/reservation/oPegW1",
+    "description": "Twelve-room inn in a restored North Adams mill beside Natural Bridge State Park, with a communal kitchen.",
+    "descriptionSource": "https://beavermill.com/",
+    "notes": "Home expressly2night pricing and discounts3+nights; bathrooms8/9/10private butoutside room. No individual unit facts transferred toinn. Policy review 2026-10-26: Opened room-detail rules explicitly prohibit pets and children under eighteen. Generic homepage children selector does not override that rule.",
+    "remainingGaps": [
+      "Policies/rates"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small inn in restored mill",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://beavermill.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": 12,
+      "kids": "No",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Adults only; no children under eighteen, explicitly stated on Rooms & Details.",
+      "petsDetails": "Rooms & Details explicitly prohibits pets.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://beavermill.com/",
+        "https://beavermill.com/rooms",
+        "https://us2.cloudbeds.com/reservation/oPegW1"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photoCandidates": [
+      {
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/corner_view_of_beaver_mills_with_plaque_fpo--6a16234621358-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared mill campus and common spaces"
+      },
+      {
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/yard_sculp_w_fall_colors--6a16224bbe593-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared mill campus and common spaces"
+      },
+      {
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/Wheel+House+Dining_Meeting+Room-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared mill campus and common spaces"
+      },
+      {
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/First+Floor+Hall+w+Colorful+Carpet-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared mill campus and common spaces"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0304-cover.webp",
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/corner_view_of_beaver_mills_with_plaque_fpo--6a16234621358-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "role": "cover",
+        "sha256": "e879d2f4df59415709604d2da654228e279e6a65dca808d4f71f8fb39812df1e",
+        "width": 1200,
+        "height": 900,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared mill campus and common spaces",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0304-000.webp",
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/yard_sculp_w_fall_colors--6a16224bbe593-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "role": "additional",
+        "sha256": "4defe0b23663eca02af853036eed9c7f719521ba5462ff720972e56ff48a8397",
+        "width": 640,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared mill campus and common spaces",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0304-001.webp",
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/Wheel+House+Dining_Meeting+Room-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "role": "additional",
+        "sha256": "085da80933f1efdcd8e05e62413ec61dc665a609e032c30cf821a7c3c26fd2d7",
+        "width": 640,
+        "height": 480,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared mill campus and common spaces",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0304-002.webp",
+        "url": "https://irp.cdn-website.com/633f5aab/dms3rep/multi/opt/First+Floor+Hall+w+Colorful+Carpet-1920w.jpeg",
+        "sourcePage": "https://beavermill.com/",
+        "role": "additional",
+        "sha256": "0f857de4ae3124af38a428560cc4d6bb364db8b71b5c5361d905ba52872ebdc5",
+        "width": 480,
+        "height": 640,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared mill campus and common spaces",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://beavermill.com/",
+      "https://beavermill.com/contact-us"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0305",
+    "name": "Chambery Inn",
+    "website": "https://chamberyinn.com/",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Regional tourism lead; own site presents automated security/cookie challenge and page observation timed out, so direct contact/eligibility incomplete.",
+    "classification": "small inn candidate",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "http://www.chamberyinn.com"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "unverified directory property address",
+      "street": "199 Main Street",
+      "city": "Lee",
+      "state": "MA",
+      "zip": "01238",
+      "source": "https://berkshires.org/business-directory/vacation-rentals/",
+      "notes": "OfficialContactnotaccessible"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "description": "Lee schoolhouse-inn lead listed by the Berkshire tourism directory; own-site verification limited by a security challenge.",
+    "descriptionSource": "https://berkshires.org/business-directory/vacation-rentals/",
+    "accessFailures": [
+      {
+        "url": "http://www.chamberyinn.com",
+        "cause": "Security/cookie robot-check page; subsequentCDPobservation timeout. Notconfirmeddead."
+      }
+    ],
+    "remainingGaps": [
+      "Official Contact/address and direct booking",
+      "Own-site lodging verification",
+      "Photos"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small inn candidate",
+    "operatorEvidenceUrl": "https://chamberyinn.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "MA-0306",
+    "name": "Berkshire Farmhouse Vacation",
+    "website": "https://berkshirefarmhousevacation.com/",
+    "classification": "individual farmhouse rental",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "http://www.berkshirefarmhousevacation.com/",
+      "https://berkshirefarmhousevacation.com/contact/",
+      "https://berkshirefarmhousevacation.com/about/"
+    ],
+    "contactPagesChecked": [
+      "https://berkshirefarmhousevacation.com/contact/",
+      "https://berkshirefarmhousevacation.com/about/"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "105 Great Barrington Road/Route41",
+      "city": "West Stockbridge",
+      "state": "MA",
+      "zip": "01266",
+      "source": "https://berkshirefarmhousevacation.com/contact/",
+      "notes": "ContactADDRESS and home map agree"
+    },
+    "bookingMethod": "Elaine@BerkshireFarmhouseVacation.com /4132324646 direct bookingquestions",
+    "bookingUrl": "https://berkshirefarmhousevacation.com/contact/",
+    "description": "Five-bedroom 1850s farmhouse on four acres in West Stockbridge, with gardens, a stream and a screened porch.",
+    "descriptionSource": "https://berkshirefarmhousevacation.com/",
+    "notes": "Ownsite5bedrooms2baths; directorysleep12notconfirmedownsite; manybeds/sofabedextrafoam pads so maxcapacityUnknown. Policy review 2026-10-26: Dogs negotiable for $60 each; puppies/cats prohibited. Child admission remains Unknown.",
+    "photoCandidates": [
+      {
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_spring_big-oakeptfvn2s35bcsvk0z7xd1vdd9cr96kn4srstdik.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "alt": "Farmhouse and garden",
+        "unitOrCampus": "Farmhouse"
+      },
+      {
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_porch2_big-oakepqmd2ko86hgwc0t3ig2o37r5pnxzk96cbyxk18.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "alt": "Screened porch",
+        "unitOrCampus": "Farmhouse"
+      },
+      {
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_side_summer_big-oakepsi1g8qstpe611mcnfll9zhw525g8ihbaiuros.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "alt": "Farmhouse side",
+        "unitOrCampus": "Farmhouse"
+      },
+      {
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_porch1_big-oakepqmd2ko86hgwc0t3ig2o37r5pnxzk96cbyxk18.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "alt": "Porch",
+        "unitOrCampus": "Farmhouse"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual farmhouse rental",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://berkshirefarmhousevacation.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "No explicit child admission rule found in checked pages.",
+      "petsDetails": "Dogs negotiable with $60 per dog fee; no puppies and no cats. Dog rules referenced as text without an exposed link; confirm full restrictions with operator.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://berkshirefarmhousevacation.com/",
+        "https://berkshirefarmhousevacation.com/about/",
+        "https://berkshirefarmhousevacation.com/pricing/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0306-cover.webp",
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_spring_big-oakeptfvn2s35bcsvk0z7xd1vdd9cr96kn4srstdik.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "role": "cover",
+        "sha256": "ffb15b214b685312f791c6db2f2e9716eba1f0556bcbe20a3b21a4c079fa0e67",
+        "width": 400,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Farmhouse",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0306-000.webp",
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_porch2_big-oakepqmd2ko86hgwc0t3ig2o37r5pnxzk96cbyxk18.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "role": "additional",
+        "sha256": "ae6d9e1776e849cf8bbd1e999675bd04e3a24da9cea2130ee59fd9ab01ae798d",
+        "width": 400,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Farmhouse",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0306-001.webp",
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_side_summer_big-oakepsi1g8qstpe611mcnfll9zhw525g8ihbaiuros.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "role": "additional",
+        "sha256": "0ed40193db1fb5c2928e60364e37fda95551692e977f7429b557a693d444966b",
+        "width": 400,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Farmhouse",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0306-002.webp",
+        "url": "https://berkshirefarmhousevacation.com/wp-content/uploads/elementor/thumbs/Gallery_porch1_big-oakepqmd2ko86hgwc0t3ig2o37r5pnxzk96cbyxk18.jpg",
+        "sourcePage": "https://berkshirefarmhousevacation.com/about/",
+        "role": "additional",
+        "sha256": "01071e0415377b348cacac188eb72ba1f2161176b292f3cf555b9c24cb0ddb90",
+        "width": 400,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Farmhouse",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://berkshirefarmhousevacation.com/",
+      "https://berkshirefarmhousevacation.com/contact/",
+      "https://berkshirefarmhousevacation.com/about/"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0307",
+    "name": "Wilder House Berkshires",
+    "website": "https://www.wilderhouseberkshires.com/",
+    "classification": "small bed and breakfast",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://www.wilderhouseberkshires.com/",
+      "https://www.wilderhouseberkshires.com/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://www.wilderhouseberkshires.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "shared inn/campus",
+      "street": "48 South Main Street",
+      "city": "Sheffield",
+      "state": "MA",
+      "zip": "01257",
+      "source": "https://www.wilderhouseberkshires.com/contact-us",
+      "notes": "OurLocation explicit"
+    },
+    "bookingMethod": "brad@wilderhouseberkshires.com/4132486735,contactform/Cloudbeds",
+    "bookingUrl": "https://hotels.cloudbeds.com/reservation/Cvk6Ge",
+    "description": "Family-owned five-room bed and breakfast in an 1802 Sheffield farmhouse, with private bathrooms and made-to-order breakfast.",
+    "descriptionSource": "https://www.wilderhouseberkshires.com/",
+    "notes": "Home identifies familyBrad/Jamee,5roomB&B/privateensuite; campuscapacityUnknown. Policy review 2026-10-26: Published Terms & Conditions explicitly permit children with supervision and prohibit pets.",
+    "photoSource": "https://www.wilderhouseberkshires.com/contact-us",
+    "photoUnit": "Shared inn/campus",
+    "photoCandidates": [
+      {
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WH+front-ee41e7be-1920w.png",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn and common living rooms"
+      },
+      {
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WilderHouse-LivingRoom2-e8d4f818-1920w.jpg",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn and common living rooms"
+      },
+      {
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WilderHouse-LivingRoom-Wide2-1920w.jpg",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn and common living rooms"
+      },
+      {
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WilderHouse-LivingRoom-Wide-1920w.jpg",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn and common living rooms"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small bed and breakfast",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.wilderhouseberkshires.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": 5,
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Children allowed; supervision required in common/outdoor areas, parents responsible for damage. Room One recommended for families; pack-n-play available on request.",
+      "petsDetails": "Pets prohibited. Terms state $200 cleaning fee if a pet is found; alternative accommodation required for pet.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.wilderhouseberkshires.com/",
+        "https://www.wilderhouseberkshires.com/terms-and-conditions",
+        "https://hotels.cloudbeds.com/reservation/Cvk6Ge"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0307-cover.webp",
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WH+front-ee41e7be-1920w.png",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "role": "cover",
+        "sha256": "bc28f413655438bbb1f154aefc6cce0cf3e18759469c9ca8f1d34c41713dc19a",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn and common living rooms",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0307-000.webp",
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WilderHouse-LivingRoom2-e8d4f818-1920w.jpg",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "role": "additional",
+        "sha256": "8b317d66e5f92dc3313ce77aa5bb4d2c27c6762d48776d04565a44480cb06848",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn and common living rooms",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0307-001.webp",
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WilderHouse-LivingRoom-Wide2-1920w.jpg",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "role": "additional",
+        "sha256": "36304463cc2ae0f9455c63cce423d3f5c7d6e7795778bb8e1b69dc0ddd7484b7",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn and common living rooms",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0307-002.webp",
+        "url": "https://lirp.cdn-website.com/249d6503/dms3rep/multi/opt/WilderHouse-LivingRoom-Wide-1920w.jpg",
+        "sourcePage": "https://www.wilderhouseberkshires.com/",
+        "role": "additional",
+        "sha256": "c931cc37c03dbacf4b5a8268b1208fee540d6ac88fec2fc5a3d2a18103fa6a9a",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn and common living rooms",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://www.wilderhouseberkshires.com/",
+      "https://www.wilderhouseberkshires.com/contact-us"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0308",
+    "name": "The Old Mill Inn",
+    "website": "https://www.oldmillinn.us/",
+    "classification": "small inn with kitchen suites",
+    "sourceUrl": "https://visithampshirecounty.visitwidget.com/places/old-mill-inn?segmented_view=true&menu_item_id=2728&category_ids%5B%5D=9084&hide_header=true&disable_app_banner=true",
+    "openedUrls": [
+      "https://www.theoldmillonthefallsinn.com/",
+      "https://www.oldmillinn.us/",
+      "https://www.oldmillinn.us/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.oldmillinn.us/contact"
+    ],
+    "contactAddress": {
+      "role": "shared inn/campus",
+      "street": "87 School Street",
+      "city": "Hatfield",
+      "state": "MA",
+      "zip": "01038",
+      "source": "https://www.oldmillinn.us/contact",
+      "notes": "Contactaddress and detaileddirections"
+    },
+    "bookingMethod": "4132473301/innkeeper@oldmillinn.us/contactform/ResNexus",
+    "bookingUrl": "https://resnexus.com/resnexus/reservations/book/2AEB5937-D024-4A22-B67B-AC4B7A2E8A17",
+    "description": "Historic Hatfield inn beside the Mill River offering rooms and full-kitchen suites, near Northampton.",
+    "descriptionSource": "https://www.oldmillinn.us/",
+    "notes": "Old Hampshire directory domain DNSfailed; reverse search foundworkingoldmillinn.us. Photos sharedexterior/cafespace,avoidmixingroomtypes. Policy review 2026-10-26: Pets prohibited; children seventeen and under accommodated in suitable parents\u2019 rooms by arrangement.",
+    "accessFailures": [
+      {
+        "url": "https://www.theoldmillonthefallsinn.com/",
+        "cause": "DNS_PROBE_FINISHED_NXDOMAIN;workingreplacement retained"
+      }
+    ],
+    "photoSource": "https://www.oldmillinn.us/",
+    "photoUnit": "Shared inn/campus",
+    "photoCandidates": [
+      {
+        "url": "https://irp.cdn-website.com/be5ff103/dms3rep/multi/opt/2024-11-26-1101w.jpg",
+        "sourcePage": "https://www.oldmillinn.us/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://irp.cdn-website.com/be5ff103/dms3rep/multi/opt/543620858-1180w.jpg",
+        "sourcePage": "https://www.oldmillinn.us/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://irp.cdn-website.com/be5ff103/dms3rep/multi/opt/IMG_4690-1180w.jpeg",
+        "sourcePage": "https://www.oldmillinn.us/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small inn with kitchen suites",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.oldmillinn.us/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Conditional",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Seventeen and under may share parents\u2019 room without extra room charge where a roll-away fits; call to arrange.",
+      "petsDetails": "Pets not currently permitted.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.oldmillinn.us/",
+        "https://www.oldmillinn.us/policies"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0308-cover.webp",
+        "url": "https://irp.cdn-website.com/be5ff103/dms3rep/multi/opt/2024-11-26-1101w.jpg",
+        "sourcePage": "https://www.oldmillinn.us/",
+        "role": "cover",
+        "sha256": "3920e529eee77eedd42902d94e79451a1d2bea44d51983cd44dd542e9283f88e",
+        "width": 680,
+        "height": 453,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0308-000.webp",
+        "url": "https://irp.cdn-website.com/be5ff103/dms3rep/multi/opt/543620858-1180w.jpg",
+        "sourcePage": "https://www.oldmillinn.us/",
+        "role": "additional",
+        "sha256": "520b8bbdd4f6fa3fc68700631e38836c6efb60f88ef31ce5686182a94ad8559f",
+        "width": 1024,
+        "height": 576,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0308-001.webp",
+        "url": "https://irp.cdn-website.com/be5ff103/dms3rep/multi/opt/IMG_4690-1180w.jpeg",
+        "sourcePage": "https://www.oldmillinn.us/",
+        "role": "additional",
+        "sha256": "ce2cb1c61fd0ea35079c48fd5ac26371aa40d6361411db45d7e94542983e55ea",
+        "width": 1180,
+        "height": 787,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0309",
+    "name": "Blooming Inn Shelburne Falls",
+    "website": "https://bloominginnshelburnefalls.com/",
+    "classification": "small inn/apartment operator",
+    "recordType": "operator",
+    "sourceUrl": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+    "openedUrls": [
+      "https://bloominginnshelburnefalls.com/",
+      "https://bloominginnshelburnefalls.com/contact/",
+      "https://bloominginnshelburnefalls.com/listings/rose-room-in-victorian-home-queen-bed/",
+      "https://bloominginn.holidayfuture.com/listings/426595"
+    ],
+    "contactPagesChecked": [
+      "https://bloominginnshelburnefalls.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Shelburne Falls",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://bloominginnshelburnefalls.com/contact/",
+      "notes": "OwnContactnoexactstreet;22MechanicStchamberonlynotofficialverified"
+    },
+    "bookingMethod": "8607784759/richard@shelburnestays.com/contactform/directHostawaylistings",
+    "bookingUrl": "https://bloominginn.holidayfuture.com/listings/426595",
+    "description": "Victorian Shelburne Falls inn with private-bath rooms and suites, a short walk from the Bridge of Flowers.",
+    "descriptionSource": "https://bloominginnshelburnefalls.com/",
+    "notes": "OwnersRichard/EllieBinns; formerlyDancingBearGuesthouse. Campuscontainsmultipleaccommodations includingseparatevillagehome; photosRoseRoomonly. Rose2guests1bed1bath(privatebathacrosshallperreview),notoperatorcapacity. Nearby river scene removed from counted property photographs; retained source gallery only. Three accommodation/property photographs remain. Policy review 2026-10-26: Pets prohibited. Normally adults-only, with possible older-child exceptions by advance agreement; no automatic family-friendly designation.",
+    "photoSource": "https://bloominginn.holidayfuture.com/listings/426595",
+    "photoUnit": "Rose Room only",
+    "photoCandidates": [
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/81601-426595-m3GdN1d-rT5m2Ya5LyCRgJSRfQlYzAFZOViyduF--8Os-68acc9676781c?width=1920&quality=70&format=webp&v=2",
+        "sourcePage": "https://bloominginn.holidayfuture.com/listings/426595",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Rose Room only"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/81601-426595-kST-C0NRZBcpyGeuCI3D2RtbgJPpRKktjGnH1MKL-W8-68acc96619533?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://bloominginn.holidayfuture.com/listings/426595",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Rose Room only"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/81601-426595-jQk2uw3QjIVHtdJXlr-05TYbg--Wv5ipOF6z--7a3AzN0-68ace6dca60e3?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://bloominginn.holidayfuture.com/listings/426595",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Rose Room only"
+      },
+      {
+        "url": "https://bookingenginecdn.hostaway.com/listing/81601-426595-PsNAXt--VhUs18IAO-9WAmVLcOgUl7ho2sVMEkL90bf8-68ace6db5c36b?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://bloominginn.holidayfuture.com/listings/426595",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Rose Room only"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "small inn/apartment operator",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://bloominginnshelburnefalls.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Conditional",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Normally adults-only; no children or babies. Possible exceptions for older children require prior contact. Any approved child shares room with one adult; room maximum two.",
+      "petsDetails": "Pets not accepted.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://bloominginnshelburnefalls.com/",
+        "https://bloominginnshelburnefalls.com/booking-tc/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0309-cover.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/81601-426595-m3GdN1d-rT5m2Ya5LyCRgJSRfQlYzAFZOViyduF--8Os-68acc9676781c?width=1920&quality=70&format=webp&v=2",
+        "sourcePage": "https://bloominginn.holidayfuture.com/listings/426595",
+        "role": "cover",
+        "sha256": "b763f30dc344cda830f8ea1320faa897b492dcb6abbdb87dc48518440d8d205d",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Rose Room only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0309-000.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/81601-426595-kST-C0NRZBcpyGeuCI3D2RtbgJPpRKktjGnH1MKL-W8-68acc96619533?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://bloominginn.holidayfuture.com/listings/426595",
+        "role": "additional",
+        "sha256": "c6af3c8e5494056f718b0b5cb9e94283a58260b9b0f55da7e25c61fae706c88e",
+        "width": 1080,
+        "height": 721,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Rose Room only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0309-001.webp",
+        "url": "https://bookingenginecdn.hostaway.com/listing/81601-426595-jQk2uw3QjIVHtdJXlr-05TYbg--Wv5ipOF6z--7a3AzN0-68ace6dca60e3?width=1080&quality=70&format=webp&v=2",
+        "sourcePage": "https://bloominginn.holidayfuture.com/listings/426595",
+        "role": "additional",
+        "sha256": "a0d2467fa4c8c7ff8a63e2a90a0be9229aeefe283ace9c977e8a40599d36a0eb",
+        "width": 1080,
+        "height": 852,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Rose Room only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0310",
+    "name": "Hinata Retreat",
+    "website": "https://www.hinataretreat.com/",
+    "classification": "small cabin retreat campus",
+    "recordType": "operator",
+    "sourceUrl": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+    "openedUrls": [
+      "http://www.hinataretreat.com",
+      "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+      "https://www.hinataretreat.com/faq"
+    ],
+    "contactPagesChecked": [
+      "https://www.hinataretreat.com/faq",
+      "https://www.hinataretreat.com/stay"
+    ],
+    "contactAddress": {
+      "role": "arrival point",
+      "street": "200 Warfield Road",
+      "city": "Charlemont",
+      "state": "MA",
+      "zip": "01339",
+      "source": "https://www.hinataretreat.com/faq",
+      "notes": "Expanded Which entrance answer:officialaddress17MainStreet requires4WD/seasonalrestrictions;recommendedregularvehicleentrance200WarfieldRoad;followprearrivalinstructions. Footer17MainStreetcontactaddress. No standaloneContactpage;ContactUs is email."
+    },
+    "bookingMethod": "info@hinataretreat.com/4138220561;directOlivebooking",
+    "bookingUrl": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+    "description": "Adults-only Charlemont cabin retreat for couples, with private hot tubs, soaking tubs, fireplaces and mountain views.",
+    "descriptionSource": "https://www.hinataretreat.com/",
+    "notes": "FoundersJen&Jeff onhome. FAQexpandedpetsNo(serviceanimalscontactteam). Cabinspeople2/kingbed1percategory\u2014notcampustotal. PhotoMountainViewCabincategoryonly. Policy review 2026-10-26: Both child and pet FAQ accordions expanded and read: no children under eighteen, no pets.",
+    "photoSource": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+    "photoUnit": "MountainViewCabin category",
+    "photoCandidates": [
+      {
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_frvCPkIVqINAjrf4XPL.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "alt": "Observed property photo",
+        "unitOrCampus": "MountainViewCabin category"
+      },
+      {
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_z8Ggz8vJ0RsKB5Lf7d3.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "alt": "Observed property photo",
+        "unitOrCampus": "MountainViewCabin category"
+      },
+      {
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_wBb6obAP2EVv1UEHgwh.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "alt": "Observed property photo",
+        "unitOrCampus": "MountainViewCabin category"
+      },
+      {
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_fIuUjU2B5PQXqZyVKrt.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "alt": "Observed property photo",
+        "unitOrCampus": "MountainViewCabin category"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "small cabin retreat campus",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.hinataretreat.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "No",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Adults-only; every guest must be eighteen or older.",
+      "petsDetails": "No pets; contact team before arrival for service-animal accommodations.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.hinataretreat.com/faq"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0310-cover.webp",
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_frvCPkIVqINAjrf4XPL.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "role": "cover",
+        "sha256": "be3274923940d3d2a6aabb42deb743e7876321159bf9dafac9148aa92f98041e",
+        "width": 1600,
+        "height": 1069,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "MountainViewCabin category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0310-000.webp",
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_z8Ggz8vJ0RsKB5Lf7d3.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "role": "additional",
+        "sha256": "bccb5a20e347b1835352793a38eedfaccfa43138d465804f770655f59545fc78",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "MountainViewCabin category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0310-001.webp",
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_wBb6obAP2EVv1UEHgwh.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "role": "additional",
+        "sha256": "1cd4e86299701f8abce90287121ca5bef47593fe7a3efda8a5ab8b63a77b0471",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "MountainViewCabin category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0310-002.webp",
+        "url": "https://olive-empire.b-cdn.net/images/hinata-retreat/ol_mda_fIuUjU2B5PQXqZyVKrt.jpg",
+        "sourcePage": "https://www.hinataretreat.com/stay#/hinata-charlemont/?oliveSrc=rooms",
+        "role": "additional",
+        "sha256": "056bc7dc0a7137fa595e9a30d9cad50fd7991696de65015f790164b4267c0127",
+        "width": 1600,
+        "height": 1064,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "MountainViewCabin category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://www.hinataretreat.com/",
+      "https://www.hinataretreat.com/faq",
+      "https://www.hinataretreat.com/stay"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0311",
+    "name": "Shelburne Springs",
+    "website": "https://www.shelburnesprings.com/",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Chamber lodging lead; ownsiteautomatedsecuritycheck prevents lodging/contact verification.",
+    "classification": "small lodging candidate",
+    "sourceUrl": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+    "openedUrls": [
+      "http://www.shelburnesprings.com"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "unverified directory property address",
+      "street": "904 Mohawk Trail",
+      "city": "Shelburne Falls",
+      "state": "MA",
+      "zip": "01370",
+      "source": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+      "notes": "OfficialContactnotaccessible"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "description": "Shelburne Falls lodging lead listed by Franklin County Chamber; own-site verification blocked by a security challenge.",
+    "descriptionSource": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+    "accessFailures": [
+      {
+        "url": "https://www.shelburnesprings.com/",
+        "cause": "RobotChallengeScreen askscookies;freshnativeAXconfirmed;notdeadwebsite"
+      }
+    ],
+    "remainingGaps": [
+      "Ownsite accommodation/contact/address/direct booking",
+      "Photos"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small lodging candidate",
+    "operatorEvidenceUrl": "https://www.shelburnesprings.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "MA-0312",
+    "name": "Deerfield Inn",
+    "website": "http://www.deerfieldinn.com",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Officialchamber/regionallodginglead;site navigation aborted and subsequentstate inspection timedout; eligibility/contact remainunverified.",
+    "classification": "small inn candidate",
+    "sourceUrl": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+    "openedUrls": [
+      "http://www.deerfieldinn.com"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "unverified directory property address",
+      "street": "81 Old Main Street",
+      "city": "Deerfield",
+      "state": "MA",
+      "zip": "01342",
+      "source": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+      "notes": "OfficialContactunavailablethispass"
+    },
+    "bookingMethod": "Directory4137745587;notoperatorverified",
+    "bookingUrl": "Unknown",
+    "description": "Deerfield inn lead from official regional and chamber lodging directories; current own-site checks remain incomplete.",
+    "descriptionSource": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+    "accessFailures": [
+      {
+        "url": "http://www.deerfieldinn.com",
+        "cause": "ERR_ABORTED;nativeAXCDPtimeout;notconfirmeddead"
+      }
+    ],
+    "remainingGaps": [
+      "Ownsite lodging/contact/address/direct booking",
+      "Photos"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small inn candidate",
+    "operatorEvidenceUrl": "http://www.deerfieldinn.com",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "notes": ""
+  },
+  {
+    "id": "MA-0313",
+    "name": "The Whately Inn",
+    "website": "https://whatelyinn.com/",
+    "classification": "small inn/restaurant",
+    "sourceUrl": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
+    "openedUrls": [
+      "http://WhatelyInn.com",
+      "https://whatelyinn.com/guest-rooms/"
+    ],
+    "contactPagesChecked": [
+      "https://whatelyinn.com/",
+      "https://whatelyinn.com/guest-rooms/"
+    ],
+    "contactAddress": {
+      "role": "shared inn/campus",
+      "street": "193 Chestnut Plain Road",
+      "city": "Whately",
+      "state": "MA",
+      "zip": "01093",
+      "source": "https://whatelyinn.com/guest-rooms/",
+      "notes": "Publishedcontactblockonallpages;nostandaloneContactlinkavailable;guestroomreservationpagechecked"
+    },
+    "bookingMethod": "Directguestroomreservationphone4136653044",
+    "bookingUrl": "https://whatelyinn.com/guest-rooms/",
+    "description": "Whately village inn offering overnight rooms with private baths and electric fireplaces, alongside a restaurant.",
+    "descriptionSource": "https://whatelyinn.com/guest-rooms/",
+    "notes": "Guestroompageexplicitovernightaccommodationanddirectreservations. Homeprimarilyrestaurant;notexcludedbecauseactualsmallinnroomsoffered. Policy review 2026-10-26: Guest-room page and navigation checked; pets and children remain Unknown, not inferred from silence.",
+    "photoSource": "https://whatelyinn.com/",
+    "photoUnit": "Shared inn/campus areas",
+    "photoCandidates": [
+      {
+        "url": "https://whatelyinn.com/wp-content/uploads/2014/06/new_home_img.jpg",
+        "sourcePage": "https://whatelyinn.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus areas"
+      },
+      {
+        "url": "https://whatelyinn.com/wp-content/uploads/2014/06/wi-dining-room.jpg",
+        "sourcePage": "https://whatelyinn.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus areas"
+      },
+      {
+        "url": "https://whatelyinn.com/wp-content/uploads/2014/06/balcony-diners.jpg",
+        "sourcePage": "https://whatelyinn.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus areas"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small inn/restaurant",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://whatelyinn.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "No child admission policy published in checked accommodation page.",
+      "petsDetails": "No pet admission policy published in checked accommodation page.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://whatelyinn.com/guest-rooms/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0313-cover.webp",
+        "url": "https://whatelyinn.com/wp-content/uploads/2014/06/new_home_img.jpg",
+        "sourcePage": "https://whatelyinn.com/",
+        "role": "cover",
+        "sha256": "feea46a39c9dfbc60c20d390ac08695d86fadcae6d9988452fe6655da28f3c7b",
+        "width": 700,
+        "height": 304,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus areas",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0313-000.webp",
+        "url": "https://whatelyinn.com/wp-content/uploads/2014/06/wi-dining-room.jpg",
+        "sourcePage": "https://whatelyinn.com/",
+        "role": "additional",
+        "sha256": "913132bc3678604e5e9052b73076511d1f919e84ee05c4ef77266c441948d396",
+        "width": 700,
+        "height": 304,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus areas",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0313-001.webp",
+        "url": "https://whatelyinn.com/wp-content/uploads/2014/06/balcony-diners.jpg",
+        "sourcePage": "https://whatelyinn.com/",
+        "role": "additional",
+        "sha256": "709e8b9a883157fd330ac58d01e0e364cef62786c12f7a87231fbc6d5dab99e3",
+        "width": 700,
+        "height": 304,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus areas",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0314",
+    "name": "Plain View Farm",
+    "website": "https://plainviewfarmalpacas.com/",
+    "classification": "small farmstay",
+    "sourceUrl": "https://www.visitnorthcentral.com/activity-type/bed-and-breakfast/",
+    "openedUrls": [
+      "https://plainviewfarmalpacas.com",
+      "https://plainviewfarmalpacas.com/visit-us",
+      "https://plainviewfarmalpacas.com/gallery"
+    ],
+    "contactPagesChecked": [
+      "https://plainviewfarmalpacas.com/visit-us"
+    ],
+    "contactAddress": {
+      "role": "shared farm/campus",
+      "street": "130 Gardner Road",
+      "city": "Hubbardston",
+      "state": "MA",
+      "zip": "01452",
+      "source": "https://plainviewfarmalpacas.com/visit-us",
+      "notes": "Officialheaderaddressandvisitpage"
+    },
+    "bookingMethod": "Published7742581194forquestions; ownsiteinvitesovernightstaysin1800shome/throughAirbnb(noactuallink)",
+    "bookingUrl": "tel:7742581194",
+    "description": "Hubbardston alpaca farm offering stays in its 1800s home and farm visits with alpacas, llamas and chickens.",
+    "descriptionSource": "https://plainviewfarmalpacas.com/",
+    "notes": "HomepageexplicitWeareonAirbnbcomestayinour1800shome;VisitUssaysbookstayatfarm/phonequestions. NoactualAirbnblinkfound;no badge. HomeandvisitpagesnostandaloneContactlink. Photos show farm grounds/animals, not the rented home interior. Peru travel photo in gallery excluded. Policy review 2026-10-26: No overnight child/pet policies exposed; daytime school/family visits not treated as lodging policy.",
+    "photoSource": "https://plainviewfarmalpacas.com/",
+    "photoUnit": "Shared farmgrounds",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501965012104-VXYLZRJ2TSOOEME3ULSC/IMG_4526.JPG?format=2500w",
+        "sourcePage": "https://plainviewfarmalpacas.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared farmgrounds"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501858716669-2R2PB6U4DWC2DMKV8SRR/IMG_5169.JPG",
+        "sourcePage": "https://plainviewfarmalpacas.com/gallery",
+        "alt": "Hanging out at night",
+        "unitOrCampus": "Shared farm setting; not accommodation interior"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501859069227-THL6JE9G5VM2O2KEDABS/image-asset.jpeg",
+        "sourcePage": "https://plainviewfarmalpacas.com/gallery",
+        "alt": "Fall pumpkins at farm",
+        "unitOrCampus": "Shared farm setting; not accommodation interior"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501859151120-TJUQ8KY8XAPNQKGJHCYZ/2014-01-05+15.19.11.jpg?format=500w",
+        "sourcePage": "https://plainviewfarmalpacas.com/gallery",
+        "alt": "Farm in snow",
+        "unitOrCampus": "Shared farm setting; not accommodation interior"
+      }
+    ],
+    "remainingGaps": [
+      "Capacity/policies/rates",
+      "Directinquiryavailabilityshouldbeconfirmedbyhost"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small farmstay",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://plainviewfarmalpacas.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Farm day visits for scouts/schools do not establish overnight child admission; policy Unknown.",
+      "petsDetails": "No overnight pet policy published.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://plainviewfarmalpacas.com/visit-us"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0314-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501965012104-VXYLZRJ2TSOOEME3ULSC/IMG_4526.JPG?format=2500w",
+        "sourcePage": "https://plainviewfarmalpacas.com/",
+        "role": "cover",
+        "sha256": "21008cf55f88c07148a4f1e8d1f9be2190f180fd350fa0d58a8b4961d533d135",
+        "width": 720,
+        "height": 540,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared farmgrounds",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0314-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501858716669-2R2PB6U4DWC2DMKV8SRR/IMG_5169.JPG",
+        "sourcePage": "https://plainviewfarmalpacas.com/gallery",
+        "role": "additional",
+        "sha256": "74eae7d8a2d71ad3e116ef2ac287398ee5863b903e18d54af5afd8416728f50f",
+        "width": 1200,
+        "height": 1600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared farm setting; not accommodation interior",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0314-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501859069227-THL6JE9G5VM2O2KEDABS/image-asset.jpeg",
+        "sourcePage": "https://plainviewfarmalpacas.com/gallery",
+        "role": "additional",
+        "sha256": "5e6cf2b35184dce225edd268195007c9ca25d8bbd66668c2ff3984f2dcdd5a87",
+        "width": 1600,
+        "height": 1195,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared farm setting; not accommodation interior",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0314-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/5983af2e46c3c4c9531f59c8/1501859151120-TJUQ8KY8XAPNQKGJHCYZ/2014-01-05+15.19.11.jpg?format=500w",
+        "sourcePage": "https://plainviewfarmalpacas.com/gallery",
+        "role": "additional",
+        "sha256": "8521a9f6b7f4837e59a2eb34868421fd785cc9797a166f4e2e0bbb2d59627f3f",
+        "width": 500,
+        "height": 667,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared farm setting; not accommodation interior",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "accessFailures": [],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0315",
+    "name": "Clamber Hill Inn and Restaurant",
+    "website": "https://www.clamberhill.com/",
+    "classification": "small country inn",
+    "sourceUrl": "https://www.google.com/search?q=Inn+Clamber+Hill+Petersham+Massachusetts+official",
+    "openedUrls": [
+      "https://www.clamberhill.com/",
+      "https://www.clamberhill.com/stay",
+      "https://www.clamberhill.com/story"
+    ],
+    "contactPagesChecked": [
+      "https://www.clamberhill.com/stay",
+      "https://www.clamberhill.com/story"
+    ],
+    "contactAddress": {
+      "role": "shared inn/campus",
+      "street": "111 North Main Street",
+      "city": "Petersham",
+      "state": "MA",
+      "zip": "01366",
+      "source": "https://www.clamberhill.com/story",
+      "notes": "PublishedContactblock;nostandaloneContactlink"
+    },
+    "bookingMethod": "relax@clamberhill.com/9787248800/ResNexus",
+    "bookingUrl": "https://resnexus.com/resnexus/reservations/book/4ADA77F7-ECE0-4B47-A2A0-EDD75356C322",
+    "description": "Petersham country inn on a 33-acre wooded estate, offering guest rooms with working fireplaces and breakfast.",
+    "descriptionSource": "https://www.clamberhill.com/stay",
+    "notes": "IMPORTANT:homeannouncesownersretiringENDDECEMBER2026;eligibleoncheckdate2026-10-26butreviewbeforefuturepublication. StoryMark/DeniEllisownerssince1998. Noassumptionthatoperatesafter2026. Policy review 2026-10-26: Stay, Rooms and direct booking/navigation reviewed. Generic guest filters and Family Suite label are not treated as definitive admission policies.",
+    "remainingGaps": [
+      "Recheck retirement/closure endDecember2026",
+      "Unit-specificfacts"
+    ],
+    "photoSource": "https://www.clamberhill.com/stay",
+    "photoUnit": "Shared inn/campus",
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/16c8023d-63f7-4d28-b893-daff67618ae2/Inn+Fall+2020.JPG",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/b78a0497-09b4-49f8-a4f0-02b09143470a/024%402009-12-30T21%3B03%3B28.jpg",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/1d64d862-beef-4a14-9443-f1424c9a6c97/128.jpg",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/6bca720c-94d4-4fa6-bb5a-b04bcf8bc88c/garden.firepit.above.JPG",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small country inn",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.clamberhill.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Family Suite and generic Children 5+ booking filter observed; no explicit child admission restriction/permission published, so retained Unknown.",
+      "petsDetails": "No explicit admission rule found; generic booking pet count does not confirm pet acceptance.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.clamberhill.com/stay",
+        "https://www.clamberhill.com/our-guest-rooms",
+        "https://resnexus.com/resnexus/reservations/book/4ADA77F7-ECE0-4B47-A2A0-EDD75356C322"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0315-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/16c8023d-63f7-4d28-b893-daff67618ae2/Inn+Fall+2020.JPG",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "role": "cover",
+        "sha256": "9fc961cbddec7ae8fd68d924d271afe09fbf18d2438db783ef3c4517d1e41017",
+        "width": 1600,
+        "height": 904,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0315-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/b78a0497-09b4-49f8-a4f0-02b09143470a/024%402009-12-30T21%3B03%3B28.jpg",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "role": "additional",
+        "sha256": "f9eda5b884f29f9d2560ede76cab909e945cd49731605c800bae9f1b3380d1c8",
+        "width": 735,
+        "height": 500,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0315-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/1d64d862-beef-4a14-9443-f1424c9a6c97/128.jpg",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "role": "additional",
+        "sha256": "41d29eac05030684acca5d92ba0dbf8d5355320944700f326b74eb2550c1e2bb",
+        "width": 755,
+        "height": 500,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0315-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/627c17e7984b80304617a005/6bca720c-94d4-4fa6-bb5a-b04bcf8bc88c/garden.firepit.above.JPG",
+        "sourcePage": "https://www.clamberhill.com/stay",
+        "role": "additional",
+        "sha256": "9c862689c80a414deaad59fab27dd5775b30238eee4288f5dc54c60491d01600",
+        "width": 1600,
+        "height": 1283,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "accessFailures": [],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0316",
+    "name": "The Maguire House",
+    "website": "https://www.maguirehouse.com/",
+    "classification": "small bed and breakfast",
+    "sourceUrl": "https://www.google.com/search?q=Ashburnham+Massachusetts+lake+bed+breakfast+Maguire+House",
+    "openedUrls": [
+      "https://www.maguirehouse.com/",
+      "https://www.maguirehouse.com/reservations.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.maguirehouse.com/reservations.html"
+    ],
+    "contactAddress": {
+      "role": "individual inn/property",
+      "street": "30 Cobb Road",
+      "city": "Ashburnham",
+      "state": "MA",
+      "zip": "01430",
+      "source": "https://www.maguirehouse.com/reservations.html",
+      "notes": "Bookingcontactpagefourmethodsemail/phone/mail/online;nostandaloneContactlink"
+    },
+    "bookingMethod": "9788275053/innkeeper@maguirehouse.com/onlineavailabilitylinks",
+    "bookingUrl": "https://www.maguirehouse.com/reservations.html",
+    "description": "Three-room Ashburnham bed and breakfast on 44 acres, with lake and mountain views, private baths and full breakfast.",
+    "descriptionSource": "https://www.maguirehouse.com/",
+    "notes": "ReservationsNoPets;childrenover8welcome,youngerexceptionsbyphone. Nooperatorcapacityassignedfromroomcount3. Policy review 2026-10-26: Guest Information explicitly bans pets and admits children over eight, with younger-child exceptions by phone.",
+    "photoSource": "https://www.maguirehouse.com/",
+    "photoUnit": "Shared inn/campus",
+    "photoCandidates": [
+      {
+        "url": "https://www.maguirehouse.com/images/slider/slider_0000_0.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://www.maguirehouse.com/images/slider/slider_0005_5-2024.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://www.maguirehouse.com/images/slider/slider_0006_6.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      },
+      {
+        "url": "https://www.maguirehouse.com/images/slider/slider_0007_7-2024.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Shared inn/campus"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small bed and breakfast",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.maguirehouse.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": 3,
+      "kids": "Conditional",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Children over eight welcome; exceptions for younger children require calling in advance.",
+      "petsDetails": "Pets not allowed.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.maguirehouse.com/reservations.html"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0316-cover.webp",
+        "url": "https://www.maguirehouse.com/images/slider/slider_0000_0.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "role": "cover",
+        "sha256": "d388fd6e47d4a6229d88904cd395b8f62abdeb51bafec22b1f64b2e97bec8fb8",
+        "width": 968,
+        "height": 496,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0316-000.webp",
+        "url": "https://www.maguirehouse.com/images/slider/slider_0005_5-2024.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "role": "additional",
+        "sha256": "8277ee57318e4940a6e044cf04b37fed8af1aaccfeda053a9e208d741d0f6fe5",
+        "width": 968,
+        "height": 496,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0316-001.webp",
+        "url": "https://www.maguirehouse.com/images/slider/slider_0006_6.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "role": "additional",
+        "sha256": "6f2f20103ce6834e5be2ff459b6f6d5197c49162ea15c47e6c42f4ed527f287c",
+        "width": 968,
+        "height": 496,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0316-002.webp",
+        "url": "https://www.maguirehouse.com/images/slider/slider_0007_7-2024.jpg",
+        "sourcePage": "https://www.maguirehouse.com/",
+        "role": "additional",
+        "sha256": "5d5c6228281236127ccd70d1c0c5af8204f040dac7de9a6195d3fa4fee545b79",
+        "width": 968,
+        "height": 496,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Shared inn/campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://www.maguirehouse.com/",
+      "https://www.maguirehouse.com/reservations.html"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0317",
+    "name": "Ashintully Cottage",
+    "website": "https://www.ashintullycottage.com/",
+    "classification": "individual cottage rental",
+    "sourceUrl": "https://www.houfy.com/lodging/ashintully-cottage/11364",
+    "openedUrls": [
+      "https://www.houfy.com/lodging/ashintully-cottage/11364",
+      "https://www.google.com/search?q=%22Ashintully+Cottage%22+direct+website",
+      "https://www.ashintullycottage.com/"
+    ],
+    "contactPagesChecked": [
+      "https://www.ashintullycottage.com/ (published Contact navigation followed to on-page contact section)"
+    ],
+    "contactAddress": {
+      "role": "partial rental location",
+      "street": "Unknown",
+      "city": "Tyringham",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.ashintullycottage.com/",
+      "notes": "Contact section gives Jennifer email and phone, no street. Site locates cottage beside Ashintully Gardens and McLennan Reservation; exact street not invented."
+    },
+    "bookingMethod": "Owner Jennifer call/text4103666662 or jenb6@verizon.net for rates/reservations; own site explicitly invites direct booking",
+    "bookingUrl": "mailto:jenb6@verizon.net",
+    "description": "Four-bedroom Tyringham cottage for seven guests beside Ashintully Gardens, with three bathrooms and a screened porch.",
+    "descriptionSource": "https://www.ashintullycottage.com/",
+    "notes": "Houfy used for discovery, then reverse search found actual owner-controlled site. Own-site capacity7/4bedrooms/3bathrooms. Houfy warns calendar may be outdated and says NoChildren despite historical family reviews; policy remains Unknown/conflict, not inferred from reviews. Photo of nearby Ashintully ruins excluded from property photos; cottage exterior chosen as cover. Policy review 2026-10-26: No own-site pet/child policies exposed. Historical family reviews do not establish current permission.",
+    "photoSource": "https://www.ashintullycottage.com/",
+    "photoUnit": "Ashintully Cottage",
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/b8eded_991c1530569143b697c861440dd3df2e~mv2.jpg/v1/fit/w_2880,h_990,q_85,enc_avif,quality_auto/b8eded_991c1530569143b697c861440dd3df2e~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Ashintully Cottage"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/b8eded_648a897ac5f14510966ac25effc0c14f~mv2.jpg/v1/fit/w_1440,h_495,q_85,enc_avif,quality_auto/b8eded_648a897ac5f14510966ac25effc0c14f~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Ashintully Cottage"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/b8eded_ac5b83532fbc415697fc4d2cc4ab5be2~mv2.jpg/v1/fit/w_1440,h_495,q_85,enc_avif,quality_auto/b8eded_ac5b83532fbc415697fc4d2cc4ab5be2~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Ashintully Cottage"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/b8eded_27ec4924759544cc8edda98f1fe1c93c~mv2.jpg/v1/fit/w_1440,h_495,q_85,enc_avif,quality_auto/b8eded_27ec4924759544cc8edda98f1fe1c93c~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "alt": "Cottage gallery",
+        "unitOrCampus": "Ashintully Cottage"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual cottage rental",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://www.ashintullycottage.com/",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Own site has no explicit child rule. Prior Houfy discovery indicated no children while historical reviews described family stays; this pass did not resolve that cross-source conflict.",
+      "petsDetails": "Own site does not publish a pet admission rule.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.ashintullycottage.com/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0317-cover.webp",
+        "url": "https://static.wixstatic.com/media/b8eded_991c1530569143b697c861440dd3df2e~mv2.jpg/v1/fit/w_2880,h_990,q_85,enc_avif,quality_auto/b8eded_991c1530569143b697c861440dd3df2e~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "role": "cover",
+        "sha256": "ed780d4b669daaf9a434f32045412da03e2cbe54c94f12c79a062c4a5f996f11",
+        "width": 1600,
+        "height": 959,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Ashintully Cottage",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0317-000.webp",
+        "url": "https://static.wixstatic.com/media/b8eded_648a897ac5f14510966ac25effc0c14f~mv2.jpg/v1/fit/w_1440,h_495,q_85,enc_avif,quality_auto/b8eded_648a897ac5f14510966ac25effc0c14f~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "role": "additional",
+        "sha256": "c873c313042b58450d331e999a97274af3c62fd62d10a59d48dd47ce22446c9a",
+        "width": 743,
+        "height": 495,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Ashintully Cottage",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0317-001.webp",
+        "url": "https://static.wixstatic.com/media/b8eded_ac5b83532fbc415697fc4d2cc4ab5be2~mv2.jpg/v1/fit/w_1440,h_495,q_85,enc_avif,quality_auto/b8eded_ac5b83532fbc415697fc4d2cc4ab5be2~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "role": "additional",
+        "sha256": "bea9217c9e28a2b2cf744b16f5bedb790536ee6ca7d4fbeafc55b0edddb85e81",
+        "width": 743,
+        "height": 495,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Ashintully Cottage",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0317-002.webp",
+        "url": "https://static.wixstatic.com/media/b8eded_27ec4924759544cc8edda98f1fe1c93c~mv2.jpg/v1/fit/w_1440,h_495,q_85,enc_avif,quality_auto/b8eded_27ec4924759544cc8edda98f1fe1c93c~mv2.jpg",
+        "sourcePage": "https://www.ashintullycottage.com/",
+        "role": "additional",
+        "sha256": "5abe378501830e228e46dbb4c53964339e181cdfee409f9f536be9d13ff744f0",
+        "width": 743,
+        "height": 495,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Ashintully Cottage",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://www.ashintullycottage.com/",
+      "https://www.ashintullycottage.com/ (published Contact navigation followed to on-page contact section)"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0318",
+    "name": "Huttopia Berkshires",
+    "website": "https://americas.huttopia.com/en/site/berkshires/",
+    "classification": "campground cabin and glamping campus",
+    "recordType": "operator",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://canada-usa.huttopia.com/en/site/berkshires/",
+      "https://americas.huttopia.com/en/site/berkshires/",
+      "https://americas.huttopia.com/en/contact-et-itineraire-camping-huttopia-berkshires/",
+      "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires"
+    ],
+    "contactPagesChecked": [
+      "https://americas.huttopia.com/en/contact-et-itineraire-camping-huttopia-berkshires/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "312 Kittle Road",
+      "city": "Hancock",
+      "state": "MA",
+      "zip": "01237",
+      "source": "https://americas.huttopia.com/en/contact-et-itineraire-camping-huttopia-berkshires/",
+      "notes": "Campsite access/contact page explicitly verifies address and4133438192"
+    },
+    "bookingMethod": "Site phone4133438192,central8444888674,own checkout siteId110",
+    "bookingUrl": "https://checkout-americas.huttopia.com/en-GB/contact/?siteId=110",
+    "description": "Hancock woodland resort with furnished tents and four-season Sierra tiny houses overlooking Jiminy Peak.",
+    "descriptionSource": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+    "notes": "Clear direct-operated rental campground, not excluded merely for broader operator network. Sierra tiny houses sleep5/2bedrooms, tent categories2or5guests; operator-wide capacity Unknown. Images identify Berkshire cabin/campus shared amenities only. Policy review 2026-10-26: Destination kids program and expanded FAQ support children/infants; pet admission conditional on fee, vaccination, leash, supervision and breed restrictions.",
+    "photoSource": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+    "photoUnit": "Huttopia Berkshires cabin and shared campus",
+    "photoCandidates": [
+      {
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/04/header-deesk-berkshires.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus"
+      },
+      {
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/03/pool-berkshires-600x0-c-default.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus"
+      },
+      {
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/03/bistro-berkshires-600x0-c-default.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus"
+      },
+      {
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/03/camp-store-berkshires.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "alt": "Observed property photo",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "campground cabin and glamping campus",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://americas.huttopia.com/en/site/berkshires/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Multiple lodging types; Sierra tiny house and Trappeur/Canadienne sleep five; Bonaventure sleeps two. Not campus total.",
+      "kidsDetails": "Berkshires explicitly offers kids activities; baby bed/high chair kit available subject to availability. Under-twenty-one guests must be accompanied; unaccompanied minors not accepted.",
+      "petsDetails": "Dogs/cats allowed with nightly fee; vaccinated, leashed and never unattended; no pool-area access or furniture. Excluded breeds: American Staffordshire Terrier, Mastiff, Boerboel, Pitbull, Tosa, Rottweiler; aggressive dogs prohibited. FAQ exception only Paradise Springs Chaplin House, not Berkshires.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://americas.huttopia.com/en/site/berkshires/",
+        "https://americas.huttopia.com/en/frequently-asked-questions/"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0318-cover.webp",
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/04/header-deesk-berkshires.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "role": "cover",
+        "sha256": "043680ca3297632f82a8e62ff848228a6b1bcd7728141c6bd0d348af239af498",
+        "width": 1600,
+        "height": 600,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0318-000.webp",
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/03/pool-berkshires-600x0-c-default.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "role": "additional",
+        "sha256": "b9041330b80c8eba19c9553c82e29310eb1bf2a5e63d852ad2a3c49372d15319",
+        "width": 600,
+        "height": 500,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0318-001.webp",
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/03/bistro-berkshires-600x0-c-default.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "role": "additional",
+        "sha256": "d8df0aa77c1e0afc34ac3bffa6e5bca858ac6d4590e93d37563397adb9ddb341",
+        "width": 600,
+        "height": 500,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0318-002.webp",
+        "url": "https://americas.huttopia.com/uploads/sites/2/2025/03/camp-store-berkshires.jpg",
+        "sourcePage": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+        "role": "additional",
+        "sha256": "3824f97625a4e24506d6e9c93a47b87e4d79efd7f45e51f0e2df2bb84739a1f2",
+        "width": 960,
+        "height": 375,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Huttopia Berkshires cabin and shared campus",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://americas.huttopia.com/en/site/berkshires/",
+      "https://americas.huttopia.com/en/contact-et-itineraire-camping-huttopia-berkshires/"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0319",
+    "name": "The FreshGrass Annex at The Porches",
+    "website": "https://porches.com/stay/freshgrass-annex/",
+    "classification": "small inn annex",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://porches.com/stay/freshgrass-annex/",
+      "https://porches.com/about/contact-us/"
+    ],
+    "contactPagesChecked": [
+      "https://porches.com/about/contact-us/"
+    ],
+    "contactAddress": {
+      "role": "operator main inn/contact campus",
+      "street": "231 River Street",
+      "city": "North Adams",
+      "state": "MA",
+      "zip": "01247",
+      "source": "https://porches.com/about/contact-us/",
+      "notes": "Contact address is Porches main inn; no separate Annex entrance address established. Do not assume every Annex room enters here."
+    },
+    "bookingMethod": "4136640400/contact form/reserve.porches.com booking",
+    "bookingUrl": "https://reserve.porches.com/?chain=33096&hotel=47802%20",
+    "description": "North Adams inn annex with minimalist queen rooms, shared living areas and creative studio spaces for artists and travelers.",
+    "descriptionSource": "https://porches.com/stay/freshgrass-annex/",
+    "notes": "Own page identifies distinct FreshGrass Annex and queen room options sleeping2each; not entire property capacity. Porches operated by Main Street Hospitality. Selected images from first HighSideQueen gallery; exact room-number unavailable. Policy review 2026-10-26: Expanded relevant FAQ answers; general Porches pet/crib rules retained with applicability gap instead of applying them automatically to Annex.",
+    "photoSource": "https://porches.com/stay/freshgrass-annex/",
+    "photoUnit": "FreshGrass Annex High Side Queen room category",
+    "photoCandidates": [
+      {
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-8-1.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category"
+      },
+      {
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-13-2-3.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category"
+      },
+      {
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-12-1.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category"
+      },
+      {
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-9.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "alt": "Observed property photo",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category"
+      }
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "small inn annex",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation and contact pages identify Massachusetts short-term lodging and direct inquiry/reservations.",
+    "operatorEvidenceUrl": "https://porches.com/stay/freshgrass-annex/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Annex queen room categories sleep two; not campus total.",
+      "kidsDetails": "Porches FAQ offers Pack \u2019n Plays on advance request, but Annex-specific occupancy/infant permission not established on its two-person room pages. Retained Unknown for Annex.",
+      "petsDetails": "Porches-wide FAQ permits pets only in Building 2 designated rooms for $40/pet/night, with leash/crate rules; other lodging buildings prohibited. Annex page does not establish its rooms are eligible; confirm Annex-specific booking before admission claim.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://porches.com/stay/freshgrass-annex/",
+        "https://porches.com/faq/",
+        "https://porches.com/faq/#toggle-id-14",
+        "https://porches.com/faq/#toggle-id-46",
+        "https://porches.com/faq/#toggle-id-47"
+      ]
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photos": [
+      {
+        "file": "images/MA-0319-cover.webp",
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-8-1.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "role": "cover",
+        "sha256": "c89a520fa9ac7d58a0616e49250913d72adfeaa74c5778cbd5c1fe63f5f12606",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0319-000.webp",
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-13-2-3.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "role": "additional",
+        "sha256": "cd3b9d179b8c4ae737f18f849f265315ec0169a3ff69702535368499bfa26dc2",
+        "width": 1600,
+        "height": 1066,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0319-001.webp",
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-12-1.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "role": "additional",
+        "sha256": "491ce1c8a274029ed6062759208d7635a1e07fbb628d6cbe624e2878c73db1f2",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0319-002.webp",
+        "url": "https://porches.com/wp-content/uploads/2026/01/PORCHES-9.jpg",
+        "sourcePage": "https://porches.com/stay/freshgrass-annex/",
+        "role": "additional",
+        "sha256": "6a8ebde90197927944c96f4c47f416620658fbb48c2b1f977c026f24dfcf9782",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "FreshGrass Annex High Side Queen room category",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Optional unit facts/policies/rates"
+    ],
+    "accessFailures": [],
+    "factSources": [
+      "https://porches.com/stay/freshgrass-annex/",
+      "https://porches.com/about/contact-us/"
+    ],
+    "policyCheckedOn": "2026-10-26"
+  },
+  {
+    "id": "MA-0320",
+    "name": "Vacation Village in the Berkshires",
+    "website": "https://www.vacationvillageresorts.com/vacation_village_berkshires/",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Official regional vacation-condo lead; resort page stayed visually blank in AX and screenshot while corporate Contact opened. Local independent scope remains unresolved for this national timeshare network.",
+    "classification": "national timeshare resort; scope/access review",
+    "recordType": "operator candidate",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://www.vacationvillageresorts.com/vacation_village_berkshires/",
+      "https://www.vacationvillageresorts.com/contact.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.vacationvillageresorts.com/contact.html"
+    ],
+    "contactAddress": {
+      "role": "out-of-state corporate office",
+      "street": "2626 East Oakland Park Boulevard",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33306",
+      "source": "https://www.vacationvillageresorts.com/contact.html",
+      "notes": "Explicit Corporate Headquarters; not Massachusetts rental arrival. Regional directory property276BrodieMountainRoadHancockMA01237 remains unverified on rendered resort page."
+    },
+    "bookingMethod": "Corporate contact form offers Visiting a Vacation Village property; booking anchor points to Vacatia rental page, not opened",
+    "bookingUrl": "https://vacatia.com/the-berkshires-vacation-resort-rentals/vacation-village-in-the-berkshires/hancock-massachusetts/",
+    "description": "Hancock condominium-resort lead in the Vacation Village timeshare network; own-property verification remains incomplete.",
+    "descriptionSource": "https://berkshires.org/business-directory/vacation-rentals/",
+    "notes": "Contact lists numerous resorts in Florida,LasVegas,Williamsburg and Massachusetts and says timeshare sales. Hold for scope review rather than exclude only by size; own property rendered blank despite DOManchors. No invented local address/amenities.",
+    "accessFailures": [
+      {
+        "url": "https://www.vacationvillageresorts.com/vacation_village_berkshires/",
+        "cause": "NativeAXempty; screenshotwhite; DOManchorspresent. Contactpageworks; notwholewebsitedead."
+      }
+    ],
+    "remainingGaps": [
+      "Rendered property accommodation and local address",
+      "Direct rental booking destination check",
+      "Independent/local scope decision"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "national timeshare resort; scope/access review",
+    "operatorEvidenceUrl": "https://www.vacationvillageresorts.com/vacation_village_berkshires/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photoCandidates": [],
+    "photos": []
+  },
+  {
+    "id": "MA-0321",
+    "name": "Berkshire Mountain Lodge",
+    "website": "https://vacationvillageresorts.com/berkshire_mountain_lodge/",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Regional vacation-condo lead; own property URL loaded title/anchors but no visible page text. Corporate Contact identifies a national timeshare network; local independent eligibility remains under review.",
+    "classification": "national timeshare condominium lodge; scope/access review",
+    "recordType": "operator candidate",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://vacationvillageresorts.com/berkshire_mountain_lodge/",
+      "https://www.vacationvillageresorts.com/contact.html"
+    ],
+    "contactPagesChecked": [
+      "https://www.vacationvillageresorts.com/contact.html"
+    ],
+    "contactAddress": {
+      "role": "out-of-state corporate office",
+      "street": "2626 East Oakland Park Boulevard",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33306",
+      "source": "https://www.vacationvillageresorts.com/contact.html",
+      "notes": "CorporateHQ, not Pittsfield rental entrance. RegionaldirectoryPittsfield location retained separately."
+    },
+    "bookingMethod": "CorporateContactformoffersVisitingaVacationVillageproperty;Vacatiarentallinknotopened",
+    "bookingUrl": "https://vacatia.com/the-berkshires-vacation-resort-rentals/berkshire-mountain-lodge/pittsfield-massachusetts/",
+    "description": "Pittsfield condominium-lodge lead in the Vacation Village network; rendered property and direct-rental checks remain incomplete.",
+    "descriptionSource": "https://berkshires.org/business-directory/vacation-rentals/",
+    "notes": "Sorted regional directory revealed this previously missed13thuniqueoperator; earlier random/featured pagination repeatedFreshGrass. CorporateContact explicitlynamesBerkshireMountainLodge in sameUSnationaltimeshareportfolio. Do notexcludejustsize; holdscope/accessreview.",
+    "accessFailures": [
+      {
+        "url": "https://vacationvillageresorts.com/berkshire_mountain_lodge/",
+        "cause": "Title/DOManchorspresent,butrenderedbodytextempty;propertyunverified"
+      }
+    ],
+    "remainingGaps": [
+      "Rendered property facts and Massachusetts address",
+      "Rental booking destination",
+      "Independent/local scope decision"
+    ],
+    "checkedOn": "2026-10-26",
+    "type": "national timeshare condominium lodge; scope/access review",
+    "operatorEvidenceUrl": "https://vacationvillageresorts.com/berkshire_mountain_lodge/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photoCandidates": [],
+    "photos": []
+  },
+  {
+    "id": "MA-0322",
+    "name": "Plainfield House Vacation Rental",
+    "website": "Unknown",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Opened matching Airbnb entire-home listing plus two regional directories; no owner-controlled direct site found after focused reverse search.",
+    "classification": "individual house; platform-only candidate",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://www.airbnb.com/rooms/122259?source_impression_id=p3_1601471557_tf2IreXrh7dLFjFk",
+      "https://www.google.com/search?q=%22Plainfield+House%22+%2253+Hallockville%22+vacation",
+      "https://hilltowndirectory.com/directory-search-page/entry/62/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "directory-only rental address",
+      "street": "53 Hallockville Road",
+      "city": "Plainfield",
+      "state": "MA",
+      "zip": "01070",
+      "source": "https://berkshires.org/business-directory/vacation-rentals/",
+      "notes": "Two directories agree; no ownContactpage to confirm. HilltownZIPdisplays1070; regionaldirectory01070 retained asdirectory evidence."
+    },
+    "bookingMethod": "Airbnb;Hilltowndirectoryphone6155673779notownsiteverified",
+    "bookingUrl": "https://www.airbnb.com/rooms/122259?source_impression_id=p3_1601471557_tf2IreXrh7dLFjFk",
+    "description": "Plainfield house near Hawley State Forest and a private pond, verified on Airbnb; an owner-controlled website remains unverified.",
+    "descriptionSource": "https://www.airbnb.com/rooms/122259?source_impression_id=p3_1601471557_tf2IreXrh7dLFjFk",
+    "notes": "AirbnbtitleFallfoliagew/boardgames,fireplace;hostMolly;10guests/4bedrooms/2bathsheader,butdescription3privatebedroomsplusupstairshallwaybed. BedroomsUnknownpendingconflict. Noownwebsiteindirectoriesorfocusedreversesearch.",
+    "platformLinks": [
+      {
+        "platform": "Airbnb",
+        "url": "https://www.airbnb.com/rooms/122259?source_impression_id=p3_1601471557_tf2IreXrh7dLFjFk",
+        "sourcePage": "https://berkshires.org/business-directory/vacation-rentals/",
+        "checkedOn": "2026-10-26",
+        "verifiedMatchingIdentity": true,
+        "notes": "MatchingPlainfieldhouse10guests/pond/stateforest;publishedexactURLopened"
+      }
+    ],
+    "platformCheckStatus": "Matching Airbnb verified; no direct operator website found",
+    "remainingGaps": [
+      "Owner-controlled direct website",
+      "OfficialContact/address",
+      "Bedroom count conflict"
+    ],
+    "checkedOn": "2026-10-26",
+    "recordType": "property",
+    "type": "individual house; platform-only candidate",
+    "operatorEvidenceUrl": "Unknown",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0323",
+    "name": "Spacious Skies Woodland Hills Campground",
+    "website": "https://spaciousskiescampgrounds.com/woodland-hills/",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Opened own site explicitly locates campground and cabin lodgings in Austerlitz, New York, outside Massachusetts inventory.",
+    "classification": "out-of-state campground lodging",
+    "recordType": "excluded discovery lead",
+    "sourceUrl": "https://berkshires.org/business-directory/vacation-rentals/",
+    "openedUrls": [
+      "https://spaciousskiescampgrounds.com/woodland-hills/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "partial out-of-state property location",
+      "street": "Unknown",
+      "city": "Austerlitz",
+      "state": "NY",
+      "zip": "Unknown",
+      "source": "https://spaciousskiescampgrounds.com/woodland-hills/",
+      "notes": "Official homepage explicitly states Austerlitz, New York; excluded from Massachusetts geography."
+    },
+    "bookingMethod": "Direct booking offered; out-of-state property excluded",
+    "bookingUrl": "https://spaciousskiescampgrounds.com/woodland-hills/",
+    "description": "Austerlitz, New York campground offering cabins, cottage and trailer rentals; excluded from the Massachusetts inventory.",
+    "descriptionSource": "https://spaciousskiescampgrounds.com/woodland-hills/",
+    "remainingGaps": [],
+    "checkedOn": "2026-10-26",
+    "type": "out-of-state campground lodging",
+    "operatorEvidenceUrl": "https://spaciousskiescampgrounds.com/woodland-hills/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own-site pages; none found",
+    "photoCandidates": [],
+    "photos": [],
+    "accessFailures": [],
+    "notes": ""
+  },
+  {
+    "id": "MA-0324",
+    "name": "Misty Pines Cabin",
+    "website": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "eligibilityReason": "Opened official direct-booking unit page identifies Misty Pines Cabin in Monterey, Massachusetts, with direct reservations and local manager contact.",
+    "classification": "individual cabin",
+    "recordType": "property",
+    "type": "cabin",
+    "openedUrls": [
+      "https://www.berkshirevacationrental.com/",
+      "https://www.berkshirevacationrental.com/contact-us",
+      "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10"
+    ],
+    "contactPagesChecked": [
+      "https://www.berkshirevacationrental.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "partial individual rental location; separate manager contact",
+      "street": "Unknown",
+      "city": "Monterey",
+      "state": "MA",
+      "zip": "01245",
+      "source": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+      "notes": "Unit page publishes Monterey, Massachusetts 01245 and says no exact street. Manager contact page gives phone/email, no office street; do not use as rental address."
+    },
+    "bookingMethod": "Direct website booking or contact inquiry",
+    "bookingUrl": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+    "operatorEvidenceUrl": "https://www.berkshirevacationrental.com/",
+    "notes": "Misty Pines Cabin, also called Misty Mountain Camp in its description, is individually managed by Berkshire Vacation Rental Co. Jaryn Pierson is identified as owner/founder of the local manager. Contact phone 413-429-9558 / jaryn@berkshirevacationrental.com remains operator contact, not arrival address. Unit street not published. Date-specific quote URL retained; no evergreen rate inferred. Policy review 2026-10-26: Recast as individual Misty Pines cabin per parent instruction. Expanded unit rules welcome children/infants and dogs with maximum two and $100 fee; facts not applied to manager portfolio.",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Misty Pines unit: eight guests, three bedrooms, six beds, three bathrooms; not portfolio totals.",
+      "kidsDetails": "Property rules explicitly welcome children ages two to twelve and infants under two. Pack n Play travel crib available on request.",
+      "petsDetails": "Up to two dogs; $100 one-time fee, include pet in booking in advance. Other animal types prohibited.",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown",
+      "policySources": [
+        "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10"
+      ]
+    },
+    "description": "Three-bedroom Monterey cabin with three baths, a wood stove, deck and outdoor wood-fired sauna.",
+    "descriptionSource": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+    "platformLinks": [],
+    "platformCheckStatus": "Checked representative property anchors; no Airbnb, Vrbo or Booking.com links found",
+    "photoCandidates": [
+      {
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,height=923,fit=cover,quality=60,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634829997617450531%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "alt": "Misty Pines cabin gallery image 1",
+        "unitOrCampus": "Misty Pines cabin, Monterey only"
+      },
+      {
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,quality=65,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634830062620773938%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "alt": "Misty Pines cabin gallery image 2",
+        "unitOrCampus": "Misty Pines cabin, Monterey only"
+      },
+      {
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,quality=65,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634830051019325469%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "alt": "Misty Pines cabin gallery image 3",
+        "unitOrCampus": "Misty Pines cabin, Monterey only"
+      },
+      {
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,quality=65,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634830028286201388%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "alt": "Misty Pines cabin gallery image 4",
+        "unitOrCampus": "Misty Pines cabin, Monterey only"
+      }
+    ],
+    "photos": [
+      {
+        "file": "images/MA-0324-cover.webp",
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,height=923,fit=cover,quality=60,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634829997617450531%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "role": "cover",
+        "sha256": "b54d57b92ee474c54ef26ce3796ba79729fd22ef918d658491d95afcbe79e19a",
+        "width": 1384,
+        "height": 923,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Misty Pines cabin, Monterey only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0324-000.webp",
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,quality=65,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634830062620773938%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "role": "additional",
+        "sha256": "a556724bf5bd993325f0b1d4a59d7b937a55d0132213d1557aa5aa41836053e5",
+        "width": 1384,
+        "height": 922,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Misty Pines cabin, Monterey only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0324-001.webp",
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,quality=65,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634830051019325469%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "role": "additional",
+        "sha256": "8e778b464e0b33df2691deeb50c4dd93fd0fd39e35d9864704ce9bc4020f1850",
+        "width": 1384,
+        "height": 925,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Misty Pines cabin, Monterey only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      },
+      {
+        "file": "images/MA-0324-002.webp",
+        "url": "https://www.berkshirevacationrental.com/i/width=1384,quality=65,format=jpeg?src=https%3A%2F%2Fassets.wander.com%2F634830028286201388%2Ffullres.webp",
+        "sourcePage": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+        "role": "additional",
+        "sha256": "51e516315c3cf0aa308194357c417017f1cd193764e718ce6917774e802729ec",
+        "width": 1384,
+        "height": 922,
+        "generated": false,
+        "checkedOn": "2026-10-26",
+        "unitOrCampus": "Misty Pines cabin, Monterey only",
+        "visualReview": "Inspected contact sheet on 2026-10-26; authentic source photograph and correct stated unit/shared campus, no generated imagery."
+      }
+    ],
+    "remainingGaps": [
+      "Exact rental street not published",
+      "Local manager full portfolio is a separate discovery queue"
+    ],
+    "accessFailures": [],
+    "policyCheckedOn": "2026-10-26"
+  }
+]

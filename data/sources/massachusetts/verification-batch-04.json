@@ -1,0 +1,1710 @@
+[
+  {
+    "id": "MA-0420",
+    "name": "Heights House - 93 Walkscore|Halloween|Grill",
+    "website": "https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount",
+    "city": "Salem",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount",
+      "https://booking.hospitable.com/widget/421020c9/1103098?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salem",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Salem vacation home with a backyard patio, grill and parking within walking distance of downtown.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0421",
+    "name": "Stunning Design|7minWalk to Beach|Lg BackYard|Deck",
+    "website": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+    "city": "Plymouth",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+      "https://booking.hospitable.com/widget/421020c9/1145568?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Five-bedroom Plymouth vacation house with a large yard, deck and kitchen, a short walk from the beach.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+    "supportedFacts": {
+      "guests": 14,
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pets permitted with a $50 fee. Species restrictions not specified in these rules.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0422",
+    "name": "Downtown, Shops, Beach, Deck, Close to Salem",
+    "website": "https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar",
+    "city": "Gloucester",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar",
+      "https://booking.hospitable.com/widget/421020c9/891538?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "278 Main St, Unit B",
+      "city": "Gloucester",
+      "state": "MA",
+      "zip": "01930",
+      "source": "https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar",
+      "notes": "Published explicitly in own-unit About description; later map still labeled approximate. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom downtown Gloucester loft with a kitchen and private patio near shops, dining and the harbor.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pets permitted with a $50 fee/pet.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Optional contact phone/email",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0423",
+    "name": "KeyWest Vibe, PrivatePatio, Close2Salem, WalkDWNTN",
+    "website": "https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar",
+    "city": "Gloucester",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar",
+      "https://booking.hospitable.com/widget/421020c9/888264?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Gloucester",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Gloucester apartment with Key West-inspired decor, a private patio and kitchen near downtown.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0424",
+    "name": "Walk2DNTN•Beach•Beauport•Boat Island•Close2Salem",
+    "website": "https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home",
+    "city": "Gloucester",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home",
+      "https://booking.hospitable.com/widget/421020c9/1485558?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Gloucester",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Three-bedroom Gloucester coastal home with a kitchen and parking near downtown, the harbor and beaches.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0425",
+    "name": "New Design•Walk2DNTN•Beach•Train•Close to Salem",
+    "website": "https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train",
+    "city": "Gloucester",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train",
+      "https://booking.hospitable.com/widget/421020c9/1488286?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Gloucester",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom Gloucester retreat with a private third-floor balcony, kitchen and parking near downtown and the beach.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0426",
+    "name": "Fresh Design-Walk to Salem-Food-Train Station",
+    "website": "https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station",
+    "city": "Beverly",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station",
+      "https://booking.hospitable.com/widget/421020c9/1466328?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Beverly",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom Beverly apartment with a private balcony, kitchen and workspace near the waterfront and train station.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established. About text says queen bed but Other Details says king bed; bed size unresolved, not assigned.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0427",
+    "name": "#1 Top Flr Waterview~Pvt Balcony~Close to Salem",
+    "website": "https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony",
+    "city": "Beverly",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony",
+      "https://booking.hospitable.com/widget/421020c9/1559946?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Beverly",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Top-floor Beverly apartment with water views, a private balcony, kitchen, workspace and off-street parking.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0428",
+    "name": "Stunning Design|Fireplace|Custom Desk|Balcony",
+    "website": "https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony",
+    "city": "Beverly",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony",
+      "https://booking.hospitable.com/widget/421020c9/1557784?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Beverly",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom Beverly apartment with an electric fireplace, private balcony, kitchen, workspace and parking.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "No",
+      "petsDetails": "Pet Policy - Pets are not allowed",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0429",
+    "name": "Beach Access|AC|Free Parking|New Listing Discount",
+    "website": "https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount",
+      "https://booking.hospitable.com/widget/421020c9/1510022?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Salisbury beach apartment with direct beach access, a shared yard, outdoor dining and a grill.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0430",
+    "name": "Pvt West Facing Deck|Pro Design|AC|Beach Access",
+    "website": "https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access",
+      "https://booking.hospitable.com/widget/421020c9/1510024?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Salisbury condo with direct beach access, a private deck and grill, plus a shared backyard.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0431",
+    "name": "Tulum Theme|Pvt Beach Access|Parking|New Listing",
+    "website": "https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing",
+      "https://booking.hospitable.com/widget/421020c9/1510026?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Tulum-themed two-bedroom Salisbury condo with beach access, outdoor dining and a three-season sunroom bar.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0432",
+    "name": "Beach Access|Free Parking|Grill",
+    "website": "https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill",
+      "https://booking.hospitable.com/widget/421020c9/1828184?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Salisbury townhouse with ocean views, beach access, a kitchen and shared outdoor space.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Conflicting own-site occupancy: header7, description8, House Rules says6 plus1extra with$100fee (7maximum). Numeric maximum left Unknown.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0433",
+    "name": "Beachfront Bungalow: beachyard, close to boardwalk",
+    "website": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk",
+      "https://booking.hospitable.com/widget/421020c9/1828446?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Salisbury beachfront townhouse with a kitchen, outdoor seating and two off-street parking spaces.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk",
+    "supportedFacts": {
+      "guests": 7,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0434",
+    "name": "Beachfront Bungalow | Fire Pit | Private Balcony",
+    "website": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony",
+      "https://booking.hospitable.com/widget/421020c9/1827712?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Salisbury townhome with ocean views, a private balcony, beach-yard access and a kitchen.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0435",
+    "name": "PVT Waterfront Deck•Firepit•Parking•Close to Salem",
+    "website": "https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking",
+    "city": "Gloucester",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking",
+      "https://booking.hospitable.com/widget/421020c9/1902118?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Gloucester",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Three-bedroom Gloucester tidal riverfront home with a private deck, gas fire pit, kitchen and parking.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Own-unit header6guests while description says sleeps8; numeric maximum left Unknown.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0436",
+    "name": "Chic Gloucester Escape•Harbor&Dining•Close2Salem",
+    "website": "https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining",
+    "city": "Gloucester",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining",
+      "https://booking.hospitable.com/widget/421020c9/2021592?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Gloucester",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom Gloucester coastal apartment with exposed beams, a kitchen and living space near the harbor.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0437",
+    "name": "Charming 2BR•Walk to Harbor & Downtown•Close2Salem",
+    "website": "https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown",
+    "city": "Gloucester",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown",
+      "https://booking.hospitable.com/widget/421020c9/2021632?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Gloucester",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Two-bedroom Gloucester apartment with exposed beams, a kitchen and living space near the harbor and downtown.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown",
+    "supportedFacts": {
+      "guests": 4,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0438",
+    "name": "Beachfront 3-family home - all 3 units!",
+    "website": "https://stayspace.hospitable.rentals/property/beachfront-3-family-home-all-3-units",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "classification": "Combined rental offer / overlapping inventory",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beachfront-3-family-home-all-3-units",
+      "https://booking.hospitable.com/widget/421020c9/1830698?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/beachfront-3-family-home-all-3-units"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/beachfront-3-family-home-all-3-units",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/beachfront-3-family-home-all-3-units",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Combined three-unit offer overlaps retained individual rentals; omitted to prevent double-counting.",
+    "description": "Combined three-unit Salisbury beachfront rental offer; individual units retained separately.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/beachfront-3-family-home-all-3-units",
+    "supportedFacts": {
+      "guests": 16,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established. Combined three-unit booking duplicates individually retained two-bedroom rentals; retained only as excluded audit row.",
+    "photos": [],
+    "remainingGaps": []
+  },
+  {
+    "id": "MA-0439",
+    "name": "Charming Design~Walk to Salem~Pvt Balcony",
+    "website": "https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony",
+    "city": "Beverly",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony",
+      "https://booking.hospitable.com/widget/421020c9/1941626?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Beverly",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom Beverly apartment with a private balcony, kitchen and parking near Salem and the waterfront.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0440",
+    "name": "ModernComfort~Walk2Wtrfrnt&Train",
+    "website": "https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain",
+    "city": "Beverly",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain",
+      "https://booking.hospitable.com/widget/421020c9/1942404?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Beverly",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom Beverly apartment with a colorful living space, kitchen and workspace near the waterfront and train.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0441",
+    "name": "City Views~Close 2 Salem~Balcony",
+    "website": "https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony",
+    "city": "Beverly",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony",
+      "https://booking.hospitable.com/widget/421020c9/1942646?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Beverly",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "One-bedroom Beverly apartment with a kitchen and workspace near the waterfront, local dining and train connections.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0442",
+    "name": "SunRoom|Pvt Beach Access|Grill|Pvt Patio|ProDesign",
+    "website": "https://stayspace.hospitable.rentals/property/sunroompvt-beach-accessgrillpvt-patioprodesign",
+    "city": "Salisbury",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "classification": "Combined rental offer / overlapping inventory",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/sunroompvt-beach-accessgrillpvt-patioprodesign",
+      "https://booking.hospitable.com/widget/421020c9/1807170?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/sunroompvt-beach-accessgrillpvt-patioprodesign"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salisbury",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/sunroompvt-beach-accessgrillpvt-patioprodesign",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/sunroompvt-beach-accessgrillpvt-patioprodesign",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Combined three-unit offer overlaps retained individual rentals; omitted to prevent double-counting.",
+    "description": "Combined three-unit Salisbury beachfront rental offer; individual units retained separately.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/sunroompvt-beach-accessgrillpvt-patioprodesign",
+    "supportedFacts": {
+      "guests": 16,
+      "bedrooms": 6,
+      "bathrooms": 3,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established. Combined three-unit booking duplicates individually retained two-bedroom rentals; retained only as excluded audit row.",
+    "photos": [],
+    "remainingGaps": []
+  },
+  {
+    "id": "MA-0443",
+    "name": "Downtown Salem | Fireplace, Parking & Grill",
+    "website": "https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill",
+    "city": "Salem",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill",
+      "https://booking.hospitable.com/widget/421020c9/2314299?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salem",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "First-floor one-bedroom Salem apartment with a kitchen, Smart TVs and a shared backyard patio near downtown.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill",
+    "supportedFacts": {
+      "guests": 3,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "kidsDetails": "No explicit child policy established.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome, and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will result in a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0444",
+    "name": "Downtown Salem | Game Room, Deck & Fireplace",
+    "website": "https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace",
+    "city": "Salem",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace",
+      "https://booking.hospitable.com/widget/421020c9/2284296?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Salem",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Three-bedroom upper-level Salem duplex with a game room, private deck, kitchen and driveway parking.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome, and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will result in a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  },
+  {
+    "id": "MA-0445",
+    "name": "Waterfront Retreat at Motif Annex",
+    "website": "https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex",
+    "city": "Rockport",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified platform-hosted website",
+    "classification": "Independent operator-controlled vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://stayspace.hospitable.rentals/",
+    "discoveryMethod": "Booking-platform website pattern search; operator catalog expansion",
+    "researchInputs": [
+      "Massachusetts vacation rental lodgify.com OR hospitable.rentals OR guestybookings.com",
+      "StaySpace own catalog and individual unit; Find us; direct Hospitable reservation widget"
+    ],
+    "openedUrls": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex",
+      "https://booking.hospitable.com/widget/421020c9/2315190?theme=multi"
+    ],
+    "contactPagesChecked": [
+      "https://stayspace.hospitable.rentals/",
+      "https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex"
+    ],
+    "contactAddress": {
+      "role": "individual rental; exact street not publicly disclosed",
+      "street": "Unknown",
+      "city": "Rockport",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex",
+      "notes": "Find us explicitly says Approximate location; full address provided on booking. No separate Contact page linked."
+    },
+    "contactPageReview": "No Contact/About link published; inspected own-unit Find us, footer and direct reservation widget as fallback.",
+    "bookingUrl": "https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex",
+    "bookingMethod": "Own-unit embedded Hospitable calendar, guest selector and Reserve control verified; dates required to show price. No booking submitted.",
+    "operatorEvidenceUrl": "https://stayspace.hospitable.rentals/",
+    "eligibilityReason": "Opened operator-branded catalog, own-unit accommodation/policy/location page and direct Hospitable reservation widget; identifiable Massachusetts vacation rental offers direct booking.",
+    "description": "Waterfront Rockport retreat at Motif Annex with a loft-style king bedroom, two bathrooms and a kitchen on Bearskin Neck.",
+    "descriptionSource": "https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex",
+    "supportedFacts": {
+      "guests": 3,
+      "bedrooms": 1,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+      "pets": "Conditional",
+      "petsDetails": "Pet Fee = $75/pet (Dogs are welcome, and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will result in a $50 clean-up fee.",
+      "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+      "priceFrom": "Unknown",
+      "currency": "USD",
+      "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked operator homepage and own-unit links; no Airbnb, Vrbo or Booking.com listing links found.",
+    "notes": "Operator-controlled Hospitable direct website. No separate Contact/About page linked on homepage or unit footer; own-unit Find us and booking widget checked. Exact address not reverse-inferred from approximate map. No booking submitted; no owner participation established.",
+    "photos": [],
+    "remainingGaps": [
+      "Public street/ZIP not disclosed",
+      "Total rooms",
+      "Date-specific rate"
+    ]
+  }
+]

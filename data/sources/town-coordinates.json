@@ -1391,5 +1391,404 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Henniker%2C+NH%2C+USA&format=json&limit=1",
   "label": "Henniker, Merrimack County, New Hampshire, 03242, United States",
   "checked": "2026-10-26"
+ },
+ "Groton, MA, USA": {
+  "lat": 42.6112,
+  "lng": -71.5745,
+  "source": "https://nominatim.openstreetmap.org/search?q=Groton%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Groton, Middlesex County, Massachusetts, 01450, United States",
+  "checked": "2026-10-26"
+ },
+ "Provincetown, MA, USA": {
+  "lat": 42.0526,
+  "lng": -70.1859,
+  "source": "https://nominatim.openstreetmap.org/search?q=Provincetown%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Provincetown, Barnstable County, Massachusetts, 02657, United States",
+  "checked": "2026-10-26"
+ },
+ "Boston / Cambridge, MA, USA": {
+  "lat": 42.3978,
+  "lng": -71.1469,
+  "source": "https://nominatim.openstreetmap.org/search?q=Boston+%2F+Cambridge%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Boston, Acorn Park Drive, North Cambridge, Cambridge, Middlesex County, Massachusetts, 02474, United States",
+  "checked": "2026-10-26"
+ },
+ "Plymouth, MA, USA": {
+  "lat": 41.9427,
+  "lng": -70.7619,
+  "source": "https://nominatim.openstreetmap.org/search?q=Plymouth%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Plymouth County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Sandwich, MA, USA": {
+  "lat": 41.7579,
+  "lng": -70.4968,
+  "source": "https://nominatim.openstreetmap.org/search?q=Sandwich%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Sandwich, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Eastham, MA, USA": {
+  "lat": 41.8306,
+  "lng": -69.974,
+  "source": "https://nominatim.openstreetmap.org/search?q=Eastham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Eastham, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Chatham, MA, USA": {
+  "lat": 41.6823,
+  "lng": -69.9595,
+  "source": "https://nominatim.openstreetmap.org/search?q=Chatham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Chatham, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "South Yarmouth, MA, USA": {
+  "lat": 41.6669,
+  "lng": -70.1852,
+  "source": "https://nominatim.openstreetmap.org/search?q=South+Yarmouth%2C+MA%2C+USA&format=json&limit=1",
+  "label": "South Yarmouth, Yarmouth, Barnstable County, Massachusetts, 02664, United States",
+  "checked": "2026-10-26"
+ },
+ "South Orleans, MA, USA": {
+  "lat": 41.7507,
+  "lng": -69.9911,
+  "source": "https://nominatim.openstreetmap.org/search?q=South+Orleans%2C+MA%2C+USA&format=json&limit=1",
+  "label": "South Orleans, Orleans, Barnstable County, Massachusetts, 02662, United States",
+  "checked": "2026-10-26"
+ },
+ "Rockport, MA, USA": {
+  "lat": 42.6572,
+  "lng": -70.6177,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rockport%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Rockport, Essex County, Massachusetts, 01966, United States",
+  "checked": "2026-10-26"
+ },
+ "Boston, MA, USA": {
+  "lat": 42.3588,
+  "lng": -71.0578,
+  "source": "https://nominatim.openstreetmap.org/search?q=Boston%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Boston, Suffolk County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "West Yarmouth, MA, USA": {
+  "lat": 41.6508,
+  "lng": -70.2423,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Yarmouth%2C+MA%2C+USA&format=json&limit=1",
+  "label": "West Yarmouth, Yarmouth, Barnstable County, Massachusetts, 02673, United States",
+  "checked": "2026-10-26"
+ },
+ "Worcester / Central Massachusetts, MA, USA": {
+  "lat": 42.2611,
+  "lng": -71.7949,
+  "source": "https://nominatim.openstreetmap.org/search?q=Worcester+%2F+Central+Massachusetts%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Worcester, 2, Washington Square, Central Business District, Canal District, Worcester, Worcester County, Massachusetts, 01604, United States",
+  "checked": "2026-10-26"
+ },
+ "Oakham, MA, USA": {
+  "lat": 42.3549,
+  "lng": -72.0435,
+  "source": "https://nominatim.openstreetmap.org/search?q=Oakham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Oakham, Worcester County, Massachusetts, 01068, United States",
+  "checked": "2026-10-26"
+ },
+ "Salem, MA, USA": {
+  "lat": 42.5214,
+  "lng": -70.8957,
+  "source": "https://nominatim.openstreetmap.org/search?q=Salem%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Salem, Essex County, Massachusetts, 01970, United States",
+  "checked": "2026-10-26"
+ },
+ "Wellfleet, MA, USA": {
+  "lat": 41.9376,
+  "lng": -70.0328,
+  "source": "https://nominatim.openstreetmap.org/search?q=Wellfleet%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Wellfleet, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Nantucket, MA, USA": {
+  "lat": 41.2844,
+  "lng": -70.0984,
+  "source": "https://nominatim.openstreetmap.org/search?q=Nantucket%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Nantucket, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Vineyard Haven, MA, USA": {
+  "lat": 41.4543,
+  "lng": -70.6038,
+  "source": "https://nominatim.openstreetmap.org/search?q=Vineyard+Haven%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Vineyard Haven, Tisbury, Dukes County, Massachusetts, 02568, United States",
+  "checked": "2026-10-26"
+ },
+ "Gloucester, MA, USA": {
+  "lat": 42.6154,
+  "lng": -70.6625,
+  "source": "https://nominatim.openstreetmap.org/search?q=Gloucester%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Gloucester, Essex County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Scituate, MA, USA": {
+  "lat": 42.1924,
+  "lng": -70.7262,
+  "source": "https://nominatim.openstreetmap.org/search?q=Scituate%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Scituate, Plymouth County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Mattapoisett, MA, USA": {
+  "lat": 41.658,
+  "lng": -70.8135,
+  "source": "https://nominatim.openstreetmap.org/search?q=Mattapoisett%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Mattapoisett, Plymouth County, Massachusetts, 02739, United States",
+  "checked": "2026-10-26"
+ },
+ "Hawley, MA, USA": {
+  "lat": 42.5644,
+  "lng": -72.8776,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hawley%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Hawley, Franklin County, Massachusetts, 01339, United States",
+  "checked": "2026-10-26"
+ },
+ "Lenox, MA, USA": {
+  "lat": 42.3568,
+  "lng": -73.2851,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lenox%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Lenox, Berkshire County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Worthington, MA, USA": {
+  "lat": 42.396,
+  "lng": -72.9358,
+  "source": "https://nominatim.openstreetmap.org/search?q=Worthington%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Worthington, Hampshire County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Egremont, MA, USA": {
+  "lat": 42.1671,
+  "lng": -73.4439,
+  "source": "https://nominatim.openstreetmap.org/search?q=Egremont%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Egremont, Berkshire County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Hull, MA, USA": {
+  "lat": 42.302,
+  "lng": -70.9078,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hull%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Hull, Plymouth County, Massachusetts, 02045, United States",
+  "checked": "2026-10-26"
+ },
+ "Cummington, MA, USA": {
+  "lat": 42.4608,
+  "lng": -72.8938,
+  "source": "https://nominatim.openstreetmap.org/search?q=Cummington%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Cummington, Hampshire County, Massachusetts, 01026, United States",
+  "checked": "2026-10-26"
+ },
+ "Orleans, MA, USA": {
+  "lat": 41.7883,
+  "lng": -69.99,
+  "source": "https://nominatim.openstreetmap.org/search?q=Orleans%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Orleans, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Great Barrington, MA, USA": {
+  "lat": 42.1939,
+  "lng": -73.3628,
+  "source": "https://nominatim.openstreetmap.org/search?q=Great+Barrington%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Great Barrington, Berkshire County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Marshfield, MA, USA": {
+  "lat": 42.0918,
+  "lng": -70.7056,
+  "source": "https://nominatim.openstreetmap.org/search?q=Marshfield%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Marshfield, Plymouth County, Massachusetts, 02050, United States",
+  "checked": "2026-10-26"
+ },
+ "Falmouth, MA, USA": {
+  "lat": 41.5515,
+  "lng": -70.6148,
+  "source": "https://nominatim.openstreetmap.org/search?q=Falmouth%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Falmouth, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Westport, MA, USA": {
+  "lat": 41.622,
+  "lng": -71.078,
+  "source": "https://nominatim.openstreetmap.org/search?q=Westport%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Westport, Bristol County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Fairhaven, MA, USA": {
+  "lat": 41.6376,
+  "lng": -70.9036,
+  "source": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Fairhaven, Bristol County, Massachusetts, 02719, United States",
+  "checked": "2026-10-26"
+ },
+ "Wareham, MA, USA": {
+  "lat": 41.7626,
+  "lng": -70.7217,
+  "source": "https://nominatim.openstreetmap.org/search?q=Wareham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Wareham, Plymouth County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Adams, MA, USA": {
+  "lat": 42.6209,
+  "lng": -73.1204,
+  "source": "https://nominatim.openstreetmap.org/search?q=Adams%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Adams, Berkshire County, Massachusetts, 01220, United States",
+  "checked": "2026-10-26"
+ },
+ "Shelburne Falls, MA, USA": {
+  "lat": 42.6036,
+  "lng": -72.7395,
+  "source": "https://nominatim.openstreetmap.org/search?q=Shelburne+Falls%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Shelburne Falls, Shelburne, Franklin County, Massachusetts, 01370, United States",
+  "checked": "2026-10-26"
+ },
+ "North Adams, MA, USA": {
+  "lat": 42.699,
+  "lng": -73.1119,
+  "source": "https://nominatim.openstreetmap.org/search?q=North+Adams%2C+MA%2C+USA&format=json&limit=1",
+  "label": "North Adams, Berkshire County, Massachusetts, 01247, United States",
+  "checked": "2026-10-26"
+ },
+ "West Stockbridge, MA, USA": {
+  "lat": 42.3343,
+  "lng": -73.3678,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Stockbridge%2C+MA%2C+USA&format=json&limit=1",
+  "label": "West Stockbridge, Berkshire County, Massachusetts, 01266, United States",
+  "checked": "2026-10-26"
+ },
+ "Sheffield, MA, USA": {
+  "lat": 42.1105,
+  "lng": -73.3533,
+  "source": "https://nominatim.openstreetmap.org/search?q=Sheffield%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Sheffield, Berkshire County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Hatfield, MA, USA": {
+  "lat": 42.3732,
+  "lng": -72.5961,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hatfield%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Hatfield, Hampshire County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Charlemont, MA, USA": {
+  "lat": 42.6275,
+  "lng": -72.8745,
+  "source": "https://nominatim.openstreetmap.org/search?q=Charlemont%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Charlemont, Franklin County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Whately, MA, USA": {
+  "lat": 42.4399,
+  "lng": -72.6349,
+  "source": "https://nominatim.openstreetmap.org/search?q=Whately%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Whately, Franklin County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Hubbardston, MA, USA": {
+  "lat": 42.4766,
+  "lng": -72.0087,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hubbardston%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Hubbardston, Worcester County, Massachusetts, 01452, United States",
+  "checked": "2026-10-26"
+ },
+ "Petersham, MA, USA": {
+  "lat": 42.4883,
+  "lng": -72.1866,
+  "source": "https://nominatim.openstreetmap.org/search?q=Petersham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Petersham, Worcester County, Massachusetts, 01366, United States",
+  "checked": "2026-10-26"
+ },
+ "Ashburnham, MA, USA": {
+  "lat": 42.6358,
+  "lng": -71.9087,
+  "source": "https://nominatim.openstreetmap.org/search?q=Ashburnham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Ashburnham, Worcester County, Massachusetts, 01430, United States",
+  "checked": "2026-10-26"
+ },
+ "Tyringham, MA, USA": {
+  "lat": 42.2458,
+  "lng": -73.204,
+  "source": "https://nominatim.openstreetmap.org/search?q=Tyringham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Tyringham, Berkshire County, Massachusetts, 01264, United States",
+  "checked": "2026-10-26"
+ },
+ "Hancock, MA, USA": {
+  "lat": 42.5432,
+  "lng": -73.3185,
+  "source": "https://nominatim.openstreetmap.org/search?q=Hancock%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Hancock, Berkshire County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Monterey, MA, USA": {
+  "lat": 42.1794,
+  "lng": -73.2122,
+  "source": "https://nominatim.openstreetmap.org/search?q=Monterey%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Monterey, Berkshire County, Massachusetts, 01245, United States",
+  "checked": "2026-10-26"
+ },
+ "Wareham / Onset, MA, USA": {
+  "lat": 41.7464,
+  "lng": -70.6608,
+  "source": "https://nominatim.openstreetmap.org/search?q=Wareham+%2F+Onset%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Wareham Avenue, Onset, Wareham, Plymouth County, Massachusetts, 02538, United States",
+  "checked": "2026-10-26"
+ },
+ "Edgartown, MA, USA": {
+  "lat": 41.3894,
+  "lng": -70.513,
+  "source": "https://nominatim.openstreetmap.org/search?q=Edgartown%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Edgartown, Dukes County, Massachusetts, 02539, United States",
+  "checked": "2026-10-26"
+ },
+ "Beverly, MA, USA": {
+  "lat": 42.549,
+  "lng": -70.8782,
+  "source": "https://nominatim.openstreetmap.org/search?q=Beverly%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Beverly, Essex County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Salisbury, MA, USA": {
+  "lat": 42.8419,
+  "lng": -70.8602,
+  "source": "https://nominatim.openstreetmap.org/search?q=Salisbury%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Salisbury, Essex County, Massachusetts, 01952, United States",
+  "checked": "2026-10-26"
+ },
+ "Stoneham, MA, USA": {
+  "lat": 42.4803,
+  "lng": -71.0994,
+  "source": "https://nominatim.openstreetmap.org/search?q=Stoneham%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Stoneham, Middlesex County, Massachusetts, 02180, United States",
+  "checked": "2026-10-26"
+ },
+ "Billerica, MA, USA": {
+  "lat": 42.5584,
+  "lng": -71.2689,
+  "source": "https://nominatim.openstreetmap.org/search?q=Billerica%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Billerica, Middlesex County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Barnstable, MA, USA": {
+  "lat": 41.7017,
+  "lng": -70.3036,
+  "source": "https://nominatim.openstreetmap.org/search?q=Barnstable%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Dennis, MA, USA": {
+  "lat": 41.7354,
+  "lng": -70.1939,
+  "source": "https://nominatim.openstreetmap.org/search?q=Dennis%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Dennis, Barnstable County, Massachusetts, United States",
+  "checked": "2026-10-26"
+ },
+ "Swampscott, MA, USA": {
+  "lat": 42.4699,
+  "lng": -70.9172,
+  "source": "https://nominatim.openstreetmap.org/search?q=Swampscott%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Swampscott, Essex County, Massachusetts, 01907, United States",
+  "checked": "2026-10-26"
  }
 }

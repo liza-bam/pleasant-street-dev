@@ -1,0 +1,1218 @@
+[
+  {
+    "id": "MA-0003",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://coastalacresprovincetown.com/rules/",
+      "https://coastalacresprovincetown.com/wp-content/uploads/2026/08/Coastal-Acres-Campground-2026-Confirmation-August-2026.pdf",
+      "https://coastalacresprovincetown.com/wp-content/uploads/2025/12/Coastal-Acres-Campground-Dog-Policy.pdf"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Maximum two (2) pets per site. Must be leashed, controlled, and never left unattended. No visiting pets.",
+        "source": "https://coastalacresprovincetown.com/wp-content/uploads/2026/08/Coastal-Acres-Campground-2026-Confirmation-August-2026.pdf"
+      },
+      {
+        "topic": "kids",
+        "text": "All children/teenagers must be at their site under supervision by 10:00 PM.",
+        "source": "https://coastalacresprovincetown.com/wp-content/uploads/2026/08/Coastal-Acres-Campground-2026-Confirmation-August-2026.pdf"
+      }
+    ],
+    "restrictions": [
+      "Primary registrant18+ with matching photoID",
+      "Maximum2pets/site; leash/cleanup; no visiting pets; no unattended dogs; avoid campgroundpond",
+      "Children supervised at site by22:00",
+      "Dog registered at check-in with IDtag and vaccination records"
+    ],
+    "noneFound": [],
+    "conflicts": [],
+    "notes": "Campground-wide rules include rental campers; no particular camper pet exception found.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0007",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.sandwichinnandsuites.com/policies",
+      "https://www.sandwichinnandsuites.com/faqs"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "And we do not allow pets.",
+        "source": "https://www.sandwichinnandsuites.com/policies"
+      },
+      {
+        "topic": "kids",
+        "text": "We have two Pack 'n Play Cribs that are available on a first-come basis. Cribs are free.",
+        "source": "https://www.sandwichinnandsuites.com/policies"
+      }
+    ],
+    "restrictions": [
+      "Check-in guest21+; not a prohibition on accompanied children",
+      "Two free cribs first-come",
+      "Extra $10/person after2; accurate occupancy required"
+    ],
+    "noneFound": [],
+    "conflicts": [
+      "Cancellation notice differs:homepage2days versusFAQ1day; reservationconfirmation controls."
+    ],
+    "notes": "Pet ban corroborated by FAQ12. Child accommodation explicit via free cribs; no child age cutoff published.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0009",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://heartofcapecod.com/",
+      "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Operator portfolio plus named representative unit",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "We love dogs! Your dog will be supplied with his or her own vacation crate, food & water bowls, doggie towels, and treats!",
+        "source": "https://heartofcapecod.com/"
+      },
+      {
+        "topic": "kids",
+        "text": "The Lotus is a serene, adults-only pondside retreat",
+        "source": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/"
+      }
+    ],
+    "restrictions": [
+      "Pets vary by individual home; dog service does not approve all units",
+      "Representative photo unitTheLotus is adults-only"
+    ],
+    "noneFound": [
+      "No portfolio-wide child age policy found; TheLotus restriction must not be assigned to all managed homes."
+    ],
+    "conflicts": [],
+    "notes": "Keep operator policy distinct from TheLotus photos/adults-only restriction; reviews of families are not a policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0010",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+      "https://www.irentcapecod.com/pet-vacation-rentals",
+      "https://www.robertpaulvacations.com/rental-policies-and-procedures"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Named ViewPoint estate, not Michelleportfolio summary",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "child accommodation",
+        "text": "Bonus Kids suite only accessible from outside walkway 3 twins and bunk set and half bath",
+        "source": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015"
+      },
+      {
+        "topic": "operator applicability",
+        "text": "Each Robert Paul Vacation Rental reservation includes a dedicated guest services and protection program",
+        "source": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015"
+      },
+      {
+        "topic": "petcatalog",
+        "text": "Pet Friendly Vacation Rentals",
+        "source": "https://www.irentcapecod.com/pet-vacation-rentals"
+      },
+      {
+        "topic": "pets",
+        "text": "Any TENANTS who bring a pet without expressed written permission from the LANDLORD may result in immediate eviction.",
+        "source": "https://www.robertpaulvacations.com/rental-policies-and-procedures"
+      }
+    ],
+    "restrictions": [
+      "Children’ssuite accessible only from outsidewalkway",
+      "Writtenlandlordpermission andunit-specificlease govern pets",
+      "No smoking perownOwnerPolicies",
+      "Maximum15occupants"
+    ],
+    "noneFound": [
+      "No explicit childagecutoff",
+      "No exactunitpetfee/weight/count published"
+    ],
+    "conflicts": [
+      "Bedroomcount8header versus9roomsenumerated inbedlist; retainedUnknown"
+    ],
+    "notes": "Updatedafterrootrequestednormalization toactualViewPointunit; no portfolio-widepet/childstatus assignedasunitcertainty.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0011",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.redjacketresorts.com/resorts/beach-resort",
+      "https://www.redjacketresorts.com/resorts/beach-resort/faqs",
+      "https://www.redjacketresorts.com/pet-friendly-lodging"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Shared dog policy explicitly names this resort and select cottages",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Our pet policy is for dogs only.",
+        "source": "https://www.redjacketresorts.com/pet-friendly-lodging"
+      },
+      {
+        "topic": "pets",
+        "text": "We welcome dogs weighing 75 lbs. and under.",
+        "source": "https://www.redjacketresorts.com/pet-friendly-lodging"
+      },
+      {
+        "topic": "pets",
+        "text": "There's a $50 fee per dog per night, with a two-dog maximum per room.",
+        "source": "https://www.redjacketresorts.com/pet-friendly-lodging"
+      },
+      {
+        "topic": "kids",
+        "text": "Whether you're traveling as a family, escaping as a couple, or settling in for a longer stay",
+        "source": "https://www.redjacketresorts.com/resorts/beach-resort"
+      }
+    ],
+    "restrictions": [
+      "Only pre-approved dogs in select vacation cottages/rooms; contact reservationsbeforearrival",
+      "Max2dogs;75lb;50USD/dog/night plus applicabletax;500USDcleaningfee forunapproveddogs",
+      "Dogs prohibited resortbeaches MemorialDayweekend–LaborDayweekend; lobbies/dining/pools offlimits",
+      "Vaccination/health certificate atcheck-in; leash/designatedareas; ownerdamage liability",
+      "Dogs unattended max2hours, avoid leavingdogs thatdisturbothers",
+      "Primary booker21+ atRedJacketBeach; no staying-child age restriction found"
+    ],
+    "noneFound": [
+      "Exact child-age limits not published in checked FAQ answers."
+    ],
+    "conflicts": [],
+    "notes": "All eight dog FAQ accordions expanded; separate resortFAQ pet answer alsoexpanded. Family/crib accommodation supported; unit-specific dog approval required.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0013",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.robertpaulvacations.com/rental-policies-and-procedures"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Operator policy; individual leases may add restrictions",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Any TENANTS who bring a pet without expressed written permission from the LANDLORD may result in immediate eviction.",
+        "source": "https://www.robertpaulvacations.com/rental-policies-and-procedures"
+      },
+      {
+        "topic": "pets",
+        "text": "If you must leave your pet alone, pet crates are required.",
+        "source": "https://www.robertpaulvacations.com/rental-policies-and-procedures"
+      }
+    ],
+    "restrictions": [
+      "Written landlordpermission required for pet",
+      "Pet permission/fees vary by property/lease; pet deposits nonrefundable",
+      "Crate required if pet leftalone"
+    ],
+    "noneFound": [
+      "No explicit portfolio-wide children/infant age policy found in full rental policies."
+    ],
+    "conflicts": [],
+    "notes": "Policy explicitly delegates pet permission to landlord; no blanket No or Yes. Rental agreement and owner conditions govern.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0014",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.sisuplymouth.com/about-us#FAQs"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "we have decided to not allow any pets in the guest rooms.",
+        "source": "https://www.sisuplymouth.com/about-us#FAQs"
+      },
+      {
+        "topic": "kids",
+        "text": "We do allow kids at sisu.",
+        "source": "https://www.sisuplymouth.com/about-us#FAQs"
+      },
+      {
+        "topic": "kids",
+        "text": "For any children under 2 years old, they are allowed as an additional guest beyond the 2 person room capacity.",
+        "source": "https://www.sisuplymouth.com/about-us#FAQs"
+      }
+    ],
+    "restrictions": [
+      "OnlyCaptainsQuarters allows morethan2guests exceptunder2child exception",
+      "Confirm portable cribwhenbooking so roomhas adequate space",
+      "Resident dogAugustus keptoutof guest rooms; doesnotpermitguestpets"
+    ],
+    "noneFound": [],
+    "conflicts": [],
+    "notes": "Full actualFAQ reviewed: explicit childrenallowed,under2capacityexception,andguestpetban.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0019",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.redjacketresorts.com/resorts/green-harbor",
+      "https://www.redjacketresorts.com/resorts/green-harbor/faqs",
+      "https://www.redjacketresorts.com/pet-friendly-lodging"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Shared dog policy explicitly names this resort and select cottages",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Our pet policy is for dogs only.",
+        "source": "https://www.redjacketresorts.com/pet-friendly-lodging"
+      },
+      {
+        "topic": "pets",
+        "text": "We welcome dogs weighing 75 lbs. and under.",
+        "source": "https://www.redjacketresorts.com/pet-friendly-lodging"
+      },
+      {
+        "topic": "pets",
+        "text": "There's a $50 fee per dog per night, with a two-dog maximum per room.",
+        "source": "https://www.redjacketresorts.com/pet-friendly-lodging"
+      },
+      {
+        "topic": "kids",
+        "text": "Additional fees apply for cots and cribs.",
+        "source": "https://www.redjacketresorts.com/resorts/green-harbor/faqs"
+      }
+    ],
+    "restrictions": [
+      "Only pre-approved dogs in select vacation cottages/rooms; contact reservationsbeforearrival",
+      "Max2dogs;75lb;50USD/dog/night plus applicabletax;500USDcleaningfee forunapproveddogs",
+      "Dogs prohibited resortbeaches MemorialDayweekend–LaborDayweekend; lobbies/dining/pools offlimits",
+      "Vaccination/health certificate atcheck-in; leash/designatedareas; ownerdamage liability",
+      "Dogs unattended max2hours, avoid leavingdogs thatdisturbothers",
+      "Primary booker21+ atRedJacketBeach; no staying-child age restriction found"
+    ],
+    "noneFound": [
+      "Exact child-age limits not published in checked FAQ answers."
+    ],
+    "conflicts": [],
+    "notes": "All eight dog FAQ accordions expanded; separate resortFAQ pet answer alsoexpanded. Family/crib accommodation supported; unit-specific dog approval required.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0101",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.ocean-view-cottages.com/other-information",
+      "https://www.ocean-view-cottages.com/cottage-one",
+      "https://www.ocean-view-cottages.com/contact"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "family description",
+        "text": "Cottage One is very private and cozy, and perfect for a couple or small family.",
+        "source": "https://www.ocean-view-cottages.com/cottage-one"
+      }
+    ],
+    "restrictions": [],
+    "noneFound": [
+      "No pet rule found in OtherInformation,CottageOne,or Contact.",
+      "No explicit child/infant age rule found; small-family description does not specify ages."
+    ],
+    "conflicts": [],
+    "notes": "No dedicated house-rules/FAQ link in full menu; checked OtherInformation and own namedunit/contact instead.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0104",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://hiddenhollow.com/",
+      "https://hiddenhollow.com/lost-oak-cottage/"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "No-pets portfolio plus LostOak named photo unit child accommodation",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Maximum occupancy is 8 guests. (Sorry – No Pets)",
+        "source": "https://hiddenhollow.com/lost-oak-cottage/"
+      },
+      {
+        "topic": "kids",
+        "text": "Basement with a bunkroom with 4 twin beds and a family room with cable TV and Blu-ray for the kids",
+        "source": "https://hiddenhollow.com/lost-oak-cottage/"
+      }
+    ],
+    "restrictions": [
+      "Pet prohibition also shown for both cottages on home page",
+      "Child accommodation stated for LostOak; no child-age cutoff published"
+    ],
+    "noneFound": [],
+    "conflicts": [],
+    "notes": "Actual namedunit amenities/rates reviewed; no unsupported childminimumage.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0105",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.surfsidecottages.com/about-us",
+      "https://www.surfsidecottages.com/contact",
+      "https://www.surfsidecottages.com/terms-and-conditions"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Up to 2 animals allowed per cottage each stay.",
+        "source": "https://www.surfsidecottages.com/contact"
+      },
+      {
+        "topic": "pets",
+        "text": "Cats and dogs are allowed with a payment of the pet fee.",
+        "source": "https://www.surfsidecottages.com/contact"
+      },
+      {
+        "topic": "kids",
+        "text": "Quiet Hours begin each night at 10:00. After that time, please restrict your activities to those that would not awaken a child who may be asleep next door.",
+        "source": "https://www.surfsidecottages.com/terms-and-conditions"
+      }
+    ],
+    "restrictions": [
+      "Onlypet-permittedcottages; advance notice; maximum2cats/dogs",
+      "Onepet100USD+tax/week;two165USD+tax/week",
+      "Leash/cleanup; minimize barking; individuallyenforcedcottageoccupancy"
+    ],
+    "noneFound": [
+      "No specific child age cutoff stated in terms orFAQ."
+    ],
+    "conflicts": [],
+    "notes": "Terms explicitly contemplate child guests; no blanketpetapproval.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0107",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.wellfleetbythesea.com/copy-of-reservations",
+      "https://www.wellfleetbythesea.com/cottage-amenities"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. This includes the pets of day visitors.",
+        "source": "https://www.wellfleetbythesea.com/copy-of-reservations"
+      }
+    ],
+    "restrictions": [
+      "No guest or dayvisitorpets; applies cottages andBeachHouse",
+      "Renter mustremainpresent throughout stay; occupancy limits5/7/8dependaccommodation"
+    ],
+    "noneFound": [
+      "No child/infant age policy found in published Rules or amenities."
+    ],
+    "conflicts": [],
+    "notes": "Read both CottageRules andBeachHouseRules sections; samepetban explicitlyrepeated.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0108",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.eventidewellfleet.com/cottages-rates",
+      "https://www.eventidewellfleet.com/"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "No Pets are allowed on property",
+        "source": "https://www.eventidewellfleet.com/cottages-rates"
+      },
+      {
+        "topic": "kids",
+        "text": "Children under 18 years old will not be allowed in the Pool Area unless accompanied by an adult.",
+        "source": "https://www.eventidewellfleet.com/cottages-rates"
+      },
+      {
+        "topic": "kids",
+        "text": "Porta-crib rental: $25.00 per week. Roll-away bed or full size crib rental: $45.00 per week.",
+        "source": "https://www.eventidewellfleet.com/cottages-rates"
+      }
+    ],
+    "restrictions": [
+      "Adult accompaniment required under18 inpool",
+      "Portacrib25USD/week; fullcrib/rollaway45USD/week",
+      "Allcottagesnonsmoking"
+    ],
+    "noneFound": [],
+    "conflicts": [],
+    "notes": "Cottage-specific rates/policiespage explicitlyprovideschildrules andbanpets.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0109",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.harborviewnantucket.com/",
+      "https://www.harborviewnantucket.com/cottages/watersedge"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not permitted.",
+        "source": "https://www.harborviewnantucket.com/"
+      }
+    ],
+    "restrictions": [
+      "Pet ban inReservationPolicies; contactpropertyforserviceanimalaccommodation"
+    ],
+    "noneFound": [
+      "No child/infant acceptance or minimumage policy found in reservationpolicies/Water’sEdge unit."
+    ],
+    "conflicts": [],
+    "notes": "OwnReservationPolicies section reviewed; no child-age inference from studio/romantic description.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0110",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "No Pets Allowed",
+        "source": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/"
+      },
+      {
+        "topic": "occupancy",
+        "text": "THIS PROPERTY HAS A MAXIMUM OF 6 GUESTS.",
+        "source": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/"
+      }
+    ],
+    "restrictions": [
+      "Maximum6overnightguests",
+      "No pets; bookingwidget reiteratespetban"
+    ],
+    "noneFound": [
+      "Booking widget labels adults/children but no explicit child-age acceptance policy/age bands found inHouseRules."
+    ],
+    "conflicts": [],
+    "notes": "Current exactunitHouseRules andbookingpanelchecked; no generalmanagerpetpolicy transfer.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0114",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://brantpointcourtyard.com/index.php/gallery/"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Sorry, only service animals are permitted at the resort",
+        "source": "https://brantpointcourtyard.com/index.php/gallery/"
+      },
+      {
+        "topic": "booking age",
+        "text": "Check In Age: 21 Government issued ID is required to check in",
+        "source": "https://brantpointcourtyard.com/index.php/gallery/"
+      }
+    ],
+    "restrictions": [
+      "Check-in21+ does not establishchildban",
+      "Serviceanimalsonly; allunitsnonsmoking"
+    ],
+    "noneFound": [
+      "No child/infant age policy found inRentalPolicies."
+    ],
+    "conflicts": [],
+    "notes": "Full actual RentalPolicies above namedunitgalleryreviewed.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0115",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.thecottagesnantucket.com/faq",
+      "https://www.thecottagesnantucket.com/pet-friendly-accommodations"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "Conditional",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "We welcome dogs and cats, as long as you receive inn keeper approval prior to arrival.",
+        "source": "https://www.thecottagesnantucket.com/faq"
+      },
+      {
+        "topic": "pets",
+        "text": "Nightly Pet Fee, maximum 2 dogs per cottage",
+        "source": "https://www.thecottagesnantucket.com/pet-friendly-accommodations"
+      },
+      {
+        "topic": "kids",
+        "text": "For families traveling with children, Nantucket offers camps and classes, and The Cottages offers fishing rods and tackle as well as scavenger hunts among other activities to keep young guests entertained.",
+        "source": "https://www.thecottagesnantucket.com/faq"
+      }
+    ],
+    "restrictions": [
+      "DesignatedWoofCottagesonly; prearrivalinnkeeperapproval",
+      "Maximum2dogs/cottage; nightlypetfee amountnotstated",
+      "Petsmustbequiet; catlimitnotexplicitlyspecified"
+    ],
+    "noneFound": [
+      "No specific child-age cutoff published in checkedFAQ."
+    ],
+    "conflicts": [],
+    "notes": "Petpolicy explicitlydiffersfromsisterWhiteElephant; no petpermissiontransferred toothercottages.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0120",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.whiteelephantnantucket.com/frequently-asked-questions",
+      "https://www.whiteelephantnantucket.com/accommodation/accommodations-details"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Property/campus policy",
+    "pets": "No",
+    "kids": "Yes",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not permitted except at our sister property The Cottages at the Boat Basin",
+        "source": "https://www.whiteelephantnantucket.com/accommodation/accommodations-details"
+      },
+      {
+        "topic": "kids",
+        "text": "For families traveling with children, Nantucket offers camps and classes, and White Elephant offers scavenger hunts among other activities and amenities to keep young guests entertained.",
+        "source": "https://www.whiteelephantnantucket.com/frequently-asked-questions"
+      }
+    ],
+    "restrictions": [
+      "Petban atWhiteElephant; exceptionreferstosisterproperty, not thiscampus",
+      "Residence roomfeaturesexplicitlyinclude2adult2children/4adult2children/6adult2childrenoptions"
+    ],
+    "noneFound": [
+      "No exact child-age cutoff in expandedpolicies."
+    ],
+    "conflicts": [],
+    "notes": "ExpandedReservationPolicies onownResidencespageand relevantFAQanswers; focusedofficialsitesearchfoundactualpolicypage,notusedsnippetasevidence.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0121",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://www.mvvacationrentals.com/vacation-rentals/rental-policies",
+      "https://www.mvvacationrentals.com/vacation-rentals/pets-considered",
+      "https://www.mvvacationrentals.com/property/englj"
+    ],
+    "method": "Official rendered pages in connected Chrome1; FAQ answers expanded where needed. CoastalAcres PDFs read visually in ChromePDFviewer.",
+    "applicability": "Operatorportfolio plus ENGLJ namedphotoestate",
+    "pets": "Conditional",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Martha's Vineyard Rentals that Allow Pets",
+        "source": "https://www.mvvacationrentals.com/vacation-rentals/pets-considered"
+      },
+      {
+        "topic": "pets",
+        "text": "Owner Policies: No Pets",
+        "source": "https://www.mvvacationrentals.com/property/englj"
+      }
+    ],
+    "restrictions": [
+      "Petpermissionvariesbyowner/listing; dedicatedpetcatalogavailable",
+      "RepresentativephotoestateENGLJ prohibits pets; do notapplytoallportfolio"
+    ],
+    "noneFound": [
+      "No portfolio-wide child/infant agepolicy found inRentalPolicies orENGLJownerrules."
+    ],
+    "conflicts": [],
+    "notes": "Generalrentalpoliciesread; exactunitownerpolicyread. KeepENGLJNoPets distinctfromoperatorconditionalpetoptions.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0501",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2270?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2270"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2270"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Resident dog Molly disclosed for shared home; does not allow guest pets.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0502",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2268?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "Unknown",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed unless. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2268"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2268"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [
+      "Pet exception sentence ends in “unless.” without specifying exception; do not normalize to blanket No."
+    ],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0503",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2267?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2267"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2267"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0504",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2266?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2266"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2266"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0505",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2803?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2803"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2803"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0506",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/4225?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/4225"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/4225"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0507",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2269?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2269"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2269"
+      },
+      {
+        "topic": "child amenities",
+        "text": "This home is also equipped with a dedicated workspace with an Ethernet connection, an in-unit washer/dryer, children's dinnerware, and fireplace guards for safety.",
+        "source": "https://wazedevelopment.dtravel.com/property/2269"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Resident dog Molly disclosed for shared home; does not allow guest pets.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0508",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2359?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2359"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2359"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0509",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/4224?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/4224"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/4224"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0510",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2271?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2271"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2271"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Resident dog Molly disclosed for shared home; does not allow guest pets.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0511",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/1490680?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/1490680"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/1490680"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0512",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/1562065?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/1562065"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/1562065"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0513",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/2432526?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/2432526"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/2432526"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0514",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/12459103?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.",
+        "source": "https://wazedevelopment.dtravel.com/property/12459103"
+      },
+      {
+        "topic": "booking-age",
+        "text": "The minimum age to book is 18 years old.",
+        "source": "https://wazedevelopment.dtravel.com/property/12459103"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0515",
+    "checkedOn": "2026-10-26",
+    "checkedUrls": [
+      "https://wazedevelopment.dtravel.com/property/22346352?currency=USD&lang=en"
+    ],
+    "method": "Opened this individual official unit page in connected Chrome1; reviewed Home rules and expanded available More buttons, then read rendered policy text. No shared-policy transfer.",
+    "applicability": "This individual Dtravel unit, including private-room/shared-area distinction.",
+    "pets": "No",
+    "kids": "Unknown",
+    "supportingText": [
+      {
+        "topic": "pets",
+        "text": "9.Pets - Policy Violation: No pets are allowed. If this policy is violated, the guest will be responsible for all cleaning and replacement costs for beds and linens.",
+        "source": "https://wazedevelopment.dtravel.com/property/22346352"
+      },
+      {
+        "topic": "booking-age",
+        "text": "Guests must be at least 18 years old to book a reservation.",
+        "source": "https://wazedevelopment.dtravel.com/property/22346352"
+      },
+      {
+        "topic": "child accommodation description",
+        "text": "additional bedrooms offer full-size and twin beds, perfect for kids or additional guests.",
+        "source": "https://wazedevelopment.dtravel.com/property/22346352"
+      }
+    ],
+    "restrictions": [
+      "Primary booking guest18+; does not mean children prohibited",
+      "Only registered overnight guests",
+      "No parties/events without advance host approval"
+    ],
+    "noneFound": [
+      "Explicit child/infant acceptance or minimum staying-child age not found in expanded house rules"
+    ],
+    "conflicts": [],
+    "notes": "Family/children amenities or marketing are not treated as an explicit age policy.",
+    "accessFailures": []
+  }
+]

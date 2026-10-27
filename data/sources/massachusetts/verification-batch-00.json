@@ -1,0 +1,234 @@
+[
+  {
+    "id": "MA-0016",
+    "name": "WeNeedaVacation",
+    "website": "https://www.weneedavacation.com/",
+    "city": "Orleans",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "classification": "Regional vacation-rental aggregator / discovery source",
+    "recordType": "Aggregator",
+    "sourceUrl": "https://www.visitma.com/business/12203/",
+    "discoveryMethod": "Official statewide tourism directory",
+    "openedUrls": [
+      "https://www.visitma.com/business/12203/",
+      "https://www.weneedavacation.com/",
+      "https://www.weneedavacation.com/propertygroups/"
+    ],
+    "eligibilityReason": "Self-described marketplace for 4,000 rentals across Cape Cod and Islands; use as discovery source, not an independently operated property.",
+    "notes": "86 individual listing appearances saved in aggregator-discovery.json; reverse-search and official-site verification underway. No owner participation established.",
+    "description": "",
+    "photos": [],
+    "platformLinks": [],
+    "remainingGaps": []
+  },
+  {
+    "id": "MA-0401",
+    "name": "Beautiful Sea Captain's Home in Falmouth Village",
+    "website": "https://www.75locustfalmouth.com/rentals/beautiful-sea-captains-home-in-falmouth-village",
+    "city": "Falmouth",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independent vacation house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33626/",
+    "discoveryMethod": "Regional aggregator listing; reverse-search found independent operator site",
+    "researchInputs": [
+      "WeNeedaVacation group lodging catalog",
+      "Sea Captain Falmouth Caroline vacation website reverse search",
+      "75 Locust rental catalog; About; Contact; FAQ; individual rental detail"
+    ],
+    "openedUrls": [
+      "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33626/",
+      "https://www.75locustfalmouth.com/rentals/beautiful-sea-captains-home-in-falmouth-village",
+      "https://www.75locustfalmouth.com/rentals",
+      "https://www.75locustfalmouth.com/about-us",
+      "https://www.75locustfalmouth.com/contact-us",
+      "https://www.75locustfalmouth.com/frequently-asked-questions"
+    ],
+    "contactPagesChecked": [
+      "https://www.75locustfalmouth.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "individual rental on shared estate",
+      "street": "75 Locust Street",
+      "city": "Falmouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.75locustfalmouth.com/contact-us",
+      "notes": "Same physical estate houses three separately rentable units. Each own detail publishes 75 Locust Street. Shared arrival address; individual suite entrance and ZIP not published."
+    },
+    "bookingUrl": "https://www.75locustfalmouth.com/rentals/beautiful-sea-captains-home-in-falmouth-village",
+    "bookingMethod": "Own-unit arrival/departure quote controls and Request Info form; email hosts@75locustfalmouth.com also published on Contact. No form submitted.",
+    "operatorEvidenceUrl": "https://www.75locustfalmouth.com/about-us",
+    "eligibilityReason": "Opened official individual rental, host About and Contact pages identify a Falmouth vacation rental and provide direct quote/inquiry controls and host email.",
+    "description": "Six-bedroom sea captain's house in Falmouth Village, with private bathrooms, a kitchen, fireplace and garden near the bikeway.",
+    "descriptionSource": "https://www.75locustfalmouth.com/rentals/beautiful-sea-captains-home-in-falmouth-village",
+    "supportedFacts": {
+      "guests": 13,
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "rooms": "Unknown",
+      "pets": "Yes",
+      "kids": "Yes",
+      "currency": "USD",
+      "priceFrom": "Unknown",
+      "priceDetails": "$2,625\u2013$11,200 per week displayed on operator catalog; date-dependent, fees/taxes not established; not a total reservation quote.",
+      "capacityDetails": "Own detail and accommodation description confirm listed occupancy/bedrooms/baths.",
+      "petsDetails": "Pets allowed on own-unit detail; restrictions/fees not established on checked pages.",
+      "kidsDetails": "Suitable for children and infants listed."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no Airbnb, Vrbo or Booking.com destination links found (review mentions alone do not establish badges).",
+    "photos": [],
+    "notes": "Three separate units retained individually. Combined seven-bedroom Estate booking bundles main house and guest house; omitted as overlapping inventory. Official FAQ opens but contains no answers. Unknown facts are not inferred. Research eligibility does not establish owner participation.",
+    "remainingGaps": [
+      "ZIP code",
+      "Total rooms",
+      "Pet restrictions and fees",
+      "Date-specific total price"
+    ]
+  },
+  {
+    "id": "MA-0402",
+    "name": "Spacious Guest House in Falmouth Village",
+    "website": "https://www.75locustfalmouth.com/rentals/spacious-guest-house-in-falmouth-village",
+    "city": "Falmouth",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independent vacation studio guest house",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33639/",
+    "discoveryMethod": "Regional aggregator listing; reverse-search found independent operator site",
+    "researchInputs": [
+      "WeNeedaVacation group lodging catalog",
+      "Sea Captain Falmouth Caroline vacation website reverse search",
+      "75 Locust rental catalog; About; Contact; FAQ; individual rental detail"
+    ],
+    "openedUrls": [
+      "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33639/",
+      "https://www.75locustfalmouth.com/rentals/spacious-guest-house-in-falmouth-village",
+      "https://www.75locustfalmouth.com/rentals",
+      "https://www.75locustfalmouth.com/about-us",
+      "https://www.75locustfalmouth.com/contact-us",
+      "https://www.75locustfalmouth.com/frequently-asked-questions"
+    ],
+    "contactPagesChecked": [
+      "https://www.75locustfalmouth.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "individual rental on shared estate",
+      "street": "75 Locust Street",
+      "city": "Falmouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.75locustfalmouth.com/contact-us",
+      "notes": "Same physical estate houses three separately rentable units. Each own detail publishes 75 Locust Street. Shared arrival address; individual suite entrance and ZIP not published."
+    },
+    "bookingUrl": "https://www.75locustfalmouth.com/rentals/spacious-guest-house-in-falmouth-village",
+    "bookingMethod": "Own-unit arrival/departure quote controls and Request Info form; email hosts@75locustfalmouth.com also published on Contact. No form submitted.",
+    "operatorEvidenceUrl": "https://www.75locustfalmouth.com/about-us",
+    "eligibilityReason": "Opened official individual rental, host About and Contact pages identify a Falmouth vacation rental and provide direct quote/inquiry controls and host email.",
+    "description": "Studio guest house in Falmouth Village with a king bed, kitchenette, private entrance and shared outdoor spaces near the bikeway.",
+    "descriptionSource": "https://www.75locustfalmouth.com/rentals/spacious-guest-house-in-falmouth-village",
+    "supportedFacts": {
+      "guests": 3,
+      "bedrooms": "Unknown",
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "pets": "Yes",
+      "kids": "Unknown",
+      "currency": "USD",
+      "priceFrom": "Unknown",
+      "priceDetails": "$595\u2013$2,275 per week displayed on operator catalog; date-dependent, fees/taxes not established; not a total reservation quote.",
+      "capacityDetails": "Own detail says studio layout and 1 Beds; bedroom count left Unknown rather than equating bed count with a separate bedroom.",
+      "petsDetails": "Pets allowed on own-unit detail; restrictions/fees not established on checked pages.",
+      "kidsDetails": "Suitable for infants listed; older-child policy not explicit."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no Airbnb, Vrbo or Booking.com destination links found (review mentions alone do not establish badges).",
+    "photos": [],
+    "notes": "Three separate units retained individually. Combined seven-bedroom Estate booking bundles main house and guest house; omitted as overlapping inventory. Official FAQ opens but contains no answers. Unknown facts are not inferred. Research eligibility does not establish owner participation.",
+    "remainingGaps": [
+      "ZIP code",
+      "Total rooms",
+      "Pet restrictions and fees",
+      "Date-specific total price",
+      "Separate bedroom count conflicts with studio layout"
+    ]
+  },
+  {
+    "id": "MA-0403",
+    "name": "Loft Hideaway in Falmouth Village",
+    "website": "https://www.75locustfalmouth.com/rentals/loft-hideaway-in-falmouth-village",
+    "city": "Falmouth",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independent vacation apartment",
+    "recordType": "property",
+    "type": "Apartment",
+    "sourceUrl": "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33645/",
+    "discoveryMethod": "Regional aggregator listing; reverse-search found independent operator site",
+    "researchInputs": [
+      "WeNeedaVacation group lodging catalog",
+      "Sea Captain Falmouth Caroline vacation website reverse search",
+      "75 Locust rental catalog; About; Contact; FAQ; individual rental detail"
+    ],
+    "openedUrls": [
+      "https://www.weneedavacation.com/Cape-Cod/Falmouth-Vacation-Rental-33645/",
+      "https://www.75locustfalmouth.com/rentals/loft-hideaway-in-falmouth-village",
+      "https://www.75locustfalmouth.com/rentals",
+      "https://www.75locustfalmouth.com/about-us",
+      "https://www.75locustfalmouth.com/contact-us",
+      "https://www.75locustfalmouth.com/frequently-asked-questions"
+    ],
+    "contactPagesChecked": [
+      "https://www.75locustfalmouth.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "individual rental on shared estate",
+      "street": "75 Locust Street",
+      "city": "Falmouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.75locustfalmouth.com/contact-us",
+      "notes": "Same physical estate houses three separately rentable units. Each own detail publishes 75 Locust Street. Shared arrival address; individual suite entrance and ZIP not published."
+    },
+    "bookingUrl": "https://www.75locustfalmouth.com/rentals/loft-hideaway-in-falmouth-village",
+    "bookingMethod": "Own-unit arrival/departure quote controls and Request Info form; email hosts@75locustfalmouth.com also published on Contact. No form submitted.",
+    "operatorEvidenceUrl": "https://www.75locustfalmouth.com/about-us",
+    "eligibilityReason": "Opened official individual rental, host About and Contact pages identify a Falmouth vacation rental and provide direct quote/inquiry controls and host email.",
+    "description": "One-bedroom Falmouth loft with a private balcony, kitchen and parking, a short walk from Main Street and the Shining Sea Bikeway.",
+    "descriptionSource": "https://www.75locustfalmouth.com/rentals/loft-hideaway-in-falmouth-village",
+    "supportedFacts": {
+      "guests": 2,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "rooms": "Unknown",
+      "pets": "Yes",
+      "kids": "Yes",
+      "currency": "USD",
+      "priceFrom": "Unknown",
+      "priceDetails": "$595\u2013$2,765 per week displayed on operator catalog; date-dependent, fees/taxes not established; not a total reservation quote.",
+      "capacityDetails": "Own detail and accommodation description confirm listed occupancy/bedrooms/baths.",
+      "petsDetails": "Pets allowed on own-unit detail; restrictions/fees not established on checked pages.",
+      "kidsDetails": "Suitable for children and infants listed."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened official pages; no Airbnb, Vrbo or Booking.com destination links found (review mentions alone do not establish badges).",
+    "photos": [],
+    "notes": "Three separate units retained individually. Combined seven-bedroom Estate booking bundles main house and guest house; omitted as overlapping inventory. Official FAQ opens but contains no answers. Unknown facts are not inferred. Research eligibility does not establish owner participation.",
+    "remainingGaps": [
+      "ZIP code",
+      "Total rooms",
+      "Pet restrictions and fees",
+      "Date-specific total price"
+    ]
+  }
+]

@@ -1,0 +1,1045 @@
+{
+  "checkedOn": "2026-10-26",
+  "researcher": "agent-02",
+  "coverage": "Assigned8statewide seeds; CapeAnn/NorthShore chamber; Plymouth and Boston town queries; focused Houfy Massachusetts discovery. Bounded first pass, not exhaustive statewide coverage. Follow-up all9queued chamberleads now evaluated;2additionalverified,6candidate/blocked,1unavailable. Follow-upremaining4Houfyleadsopened/reverse-searched;14WilkumapropertyURLsretained. All14Wilkumaindividualunitpages/photoscomplete;operator summarysuperseded. Babsonsecondcheckclientblock,notsite-down.",
+  "passes": [
+    {
+      "stage": "Statewide tourism",
+      "source": "https://www.visitma.com/",
+      "outcome": "All8assignedseeds opened ownwebsite/contact or documented2blocked1620checks. ExactVisitMAbusinessID retained inseed records."
+    },
+    {
+      "stage": "Regional directories",
+      "queries": [
+        "Cape Ann Chamber vacation rentals cottages directory"
+      ],
+      "openedUrls": [
+        "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm"
+      ],
+      "outcome": "49chamberlodging/travelresults read;6newoperatorsverified;hotel-only/broadtourismleads skipped; further cottageleadqueue retained."
+    },
+    {
+      "stage": "Town search",
+      "queries": [
+        "Plymouth South Coast Massachusetts vacation cottage rentals direct booking",
+        "Boston independent vacation apartments direct booking owner website"
+      ],
+      "openedUrls": [
+        "https://www.google.com/search?q=Plymouth+South+Coast+Massachusetts+vacation+cottage+rentals+direct+booking",
+        "https://www.google.com/search?q=Boston+independent+vacation+apartments+direct+booking+owner+website"
+      ],
+      "outcome": "CalicoSeahorsePlymouth andBostonExtendedStay verified. SouthCoast smaller towns not exhausted."
+    },
+    {
+      "stage": "Aggregator discovery",
+      "openedUrls": [
+        "https://www.houfy.com/d/massachusetts",
+        "https://www.houfy.com/lodging/falmouth-heights-cottage-cape-cod/2519?checkin=11%2F02%2F2026&checkout=11%2F09%2F2026&guests=2&adults=2"
+      ],
+      "outcome": "FiveactualMassachusettslisting leads retained; strongestFalmouthHeightsCottageopened withhostAnnD.,6guests3BR2BA. Reversequery foundHoufy/Vrboonly; nooperatorownwebsiteestablished."
+    },
+    {
+      "stage": "Platform-hosted and reverse search",
+      "openedUrls": [
+        "https://www.google.com/search?q=%22Falmouth+Heights+Cottage%22+Ann+direct",
+        "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower?adults=1&children=0&pets=0&infants=0"
+      ],
+      "outcome": "LodgifyCalicoownsite verified7units/directcheckout/contact. Luxo namedunit actualHospitableimagegallery checked; own inquiry remainsLuxo. No claim of systematicGuesty/OwnerRez/Dtravel/DirectBookingHostcoverage."
+    }
+  ],
+  "verifiedNewRecords": [
+    {
+      "id": "MA-0201",
+      "name": "Lighthouse Lane Cottages",
+      "website": "https://www.lighthouselanecottage.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm"
+      ]
+    },
+    {
+      "id": "MA-0202",
+      "name": "Atlantic Vacation Homes",
+      "website": "https://www.atlanticvacationhomes.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm"
+      ]
+    },
+    {
+      "id": "MA-0203",
+      "name": "Sea Lion Motel & Cottages",
+      "website": "https://sealionmotel.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm"
+      ]
+    },
+    {
+      "id": "MA-0204",
+      "name": "Accommodations at Rocky Neck",
+      "website": "https://www.rockyneckaccommodations.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm"
+      ]
+    },
+    {
+      "id": "MA-0205",
+      "name": "The Seaward / Spruce Cottage",
+      "website": "https://theseawardrockport.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm"
+      ]
+    },
+    {
+      "id": "MA-0206",
+      "name": "Gloucester Beach House",
+      "website": "https://gloucesterbeachhouse.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm"
+      ]
+    },
+    {
+      "id": "MA-0207",
+      "name": "The Calico Seahorse",
+      "website": "https://thecalicoseahorse.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://www.google.com/search?q=Plymouth+South+Coast+Massachusetts+vacation+cottage+rentals+direct+booking"
+      ]
+    },
+    {
+      "id": "MA-0208",
+      "name": "Boston Extended Stay / Bed and Breakfast Associates Bay Colony",
+      "website": "https://bostonextendedstay.com/",
+      "status": "Verified independent website",
+      "sourceUrls": [
+        "https://www.google.com/search?q=Boston+independent+vacation+apartments+direct+booking+owner+website"
+      ]
+    }
+  ],
+  "remainingRegionalLeads": [
+    {
+      "name": "Wilkuma Vacation Rental Management",
+      "websiteLead": null,
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Verified independent website",
+      "notes": "33CommercialStGloucester;chambermember43962;needsfocusedreversequery",
+      "ownWebsiteOpened": true,
+      "id": "MA-0214",
+      "outcome": "Local Massachusetts manager, officialContact and14propertydirectGuestycatalog checked.",
+      "openedUrls": [
+        "https://www.wilkuma.com/",
+        "https://www.wilkuma.com/contact",
+        "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+        "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1"
+      ]
+    },
+    {
+      "name": "The Pearl Rockport",
+      "websiteLead": "http://thepearl.staycation.igms.com/",
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Verified platform-hosted website",
+      "notes": "59–61MainStRockport;platformhostedlead",
+      "ownWebsiteOpened": true,
+      "id": "MA-0209",
+      "outcome": "Locally owned operator, Rockport apartments and direct phone/reservation calendar checked.",
+      "openedUrls": [
+        "https://thepearl.staycation.igms.com/",
+        "https://thepearl.staycation.igms.com/property/HZN4IG1AMR88L2JH"
+      ]
+    },
+    {
+      "name": "Sally Webster Collection",
+      "websiteLead": "http://www.sallywebster.com/",
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Source found in web research",
+      "notes": "34MtPleasantStRockport;inspectvacationhomes",
+      "ownWebsiteOpened": false,
+      "id": "MA-0210",
+      "outcome": "Homepage and Contact each blocked by SiteGround cookie/security interstitial; no closure inferred.",
+      "openedUrls": [
+        "http://www.sallywebster.com/",
+        "https://www.google.com/search?q=%22Sally+Webster+Collection%22+vacation+contact",
+        "https://sallywebster.com/contact-us/"
+      ]
+    },
+    {
+      "name": "Seaside Stay Rockport",
+      "websiteLead": null,
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Source found in web research",
+      "notes": "13SchoolStRockport;needsownwebsite reverse",
+      "ownWebsiteOpened": true,
+      "id": "MA-0215",
+      "outcome": "Ownsite accommodation opens but explicitly allbookingsAirbnb; no directphone/email/contact page on ownsite.",
+      "openedUrls": [
+        "https://www.google.com/search?q=%22Seaside+Stay+Rockport%22",
+        "https://seasidestayrockport.com/"
+      ]
+    },
+    {
+      "name": "Cape Ann Beach Cottages",
+      "websiteLead": "https://capeannbc.com/",
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Source found in web research",
+      "notes": "Ownsiteleadfoundregionalquery;notopened",
+      "ownWebsiteOpened": false,
+      "id": "MA-0211",
+      "outcome": "Homepage and About blocked by SiteGround cookie/security interstitial; no closure inferred.",
+      "openedUrls": [
+        "https://capeannbc.com/",
+        "https://www.google.com/search?q=%22Cape+Ann+Beach+Cottages%22+contact",
+        "https://capeannbc.com/about-us/"
+      ]
+    },
+    {
+      "name": "Villa Fiori",
+      "websiteLead": "https://www.vrbo.com/464604",
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Source found in web research",
+      "notes": "218SummerStManchester-by-the-Sea;chamberWebsiteisVrboonly,findownsite",
+      "ownWebsiteOpened": false,
+      "id": "MA-0217",
+      "outcome": "OpenedVrbohomeconfirmsManchesteraccommodation; focusedreverse found nooperator-controlledwebsite.",
+      "openedUrls": [
+        "https://www.vrbo.com/464604",
+        "https://www.google.com/search?q=%22Villa+Fiori%22+Manchester+vacation"
+      ]
+    },
+    {
+      "name": "55 Waldingfield",
+      "websiteLead": null,
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Source found in web research",
+      "notes": "55WaldingfieldRdIpswich;chambernoWebsite",
+      "ownWebsiteOpened": false,
+      "id": "MA-0216",
+      "outcome": "Chamberlead has noownsite;focusedreverse found nooperatorwebsite,currentofferingunresolved.",
+      "openedUrls": [
+        "https://www.google.com/search?q=%2255+Waldingfield%22+Ipswich+vacation"
+      ]
+    },
+    {
+      "name": "Cove at Rockport",
+      "websiteLead": "http://www.coveatrockport.com/",
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Source found in web research",
+      "notes": "1KingStreet;inspectqualifyingsuitesvs hotel-only",
+      "ownWebsiteOpened": true,
+      "id": "MA-0212",
+      "outcome": "Vacation apartments and direct contact verified; Lark Hospitality affiliation disclosed, independence scope review retained.",
+      "openedUrls": [
+        "https://www.coveatrockport.com/",
+        "https://www.coveatrockport.com/about"
+      ]
+    },
+    {
+      "name": "Babson Court",
+      "websiteLead": "http://www.babsoncourt.com/",
+      "discoverySource": "https://business.capeannchamber.com/list/ql/lodging-travel-15.htm",
+      "status": "Source found in web research",
+      "notes": "55WesternAveGloucester;inspectapartmentvacationunits",
+      "ownWebsiteOpened": false,
+      "id": "MA-0213",
+      "outcome": "Exact published ownsite blocked by client/browser on two checks; officialFacebook contact opens. No working ownsite established; no confirmed site-down or closure.",
+      "openedUrls": [
+        "http://www.babsoncourt.com/",
+        "https://www.google.com/search?q=Babson+Court+Gloucester+vacation+apartments+website",
+        "https://www.facebook.com/TheInnAtBabsonCourt/"
+      ]
+    }
+  ],
+  "houfyLeads": [
+    {
+      "name": "Falmouth Heights Cottage ~ Cape Cod",
+      "locationLead": "Falmouth",
+      "catalogSource": "https://www.houfy.com/d/massachusetts",
+      "propertySource": "https://www.houfy.com/lodging/falmouth-heights-cottage-cape-cod/2519?checkin=11%2F02%2F2026&checkout=11%2F09%2F2026&guests=2&adults=2",
+      "evidenceStatus": "Source found in web research",
+      "operatorWebsite": null,
+      "propertyOpened": true,
+      "reverseSearch": "https://www.google.com/search?q=%22Falmouth+Heights+Cottage%22+Ann+direct",
+      "outcome": "OpenedHoufy confirmsAnnD.owner/Falmouth/vacationhome; reverse foundnoownsite;Vrbo3876082ha searchleadonly. Remainscandidate."
+    },
+    {
+      "name": "Maushop Village Cottage",
+      "locationLead": "Mashpee",
+      "catalogSource": "https://www.houfy.com/d/massachusetts",
+      "propertySource": "https://www.houfy.com/lodging/maushop-village-cottage/21528?checkin=11%2F02%2F2026&checkout=11%2F09%2F2026&guests=2&adults=2",
+      "evidenceStatus": "Source found in web research",
+      "operatorWebsite": null,
+      "propertyOpened": true,
+      "reverseSearch": "https://www.google.com/search?q=%22Maushop+Village+Cottage%22+Arli",
+      "outcome": "Houfy warns availability/pricing possiblyoutdated,calendarfullyopen/unlinked. OwnerArli;focusedreverseonlyHoufy/otherdifferentowners, noownsite.",
+      "id": "MA-0218",
+      "openedUrls": [
+        "https://www.houfy.com/lodging/maushop-village-cottage/21528",
+        "https://www.google.com/search?q=%22Maushop+Village+Cottage%22+Arli"
+      ],
+      "supportedFacts": {
+        "guests": 4,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "rooms": "Unknown",
+        "kids": "Unknown",
+        "pets": "Unknown",
+        "capacityDetails": "Unknown",
+        "kidsDetails": "Unknown",
+        "petsDetails": "Unknown",
+        "priceFrom": "Unknown",
+        "currency": "Unknown",
+        "priceDetails": "Unknown"
+      }
+    },
+    {
+      "name": "Berkshire vacation rental in a 10,000 acres forest",
+      "locationLead": "Plainfield",
+      "catalogSource": "https://www.houfy.com/d/massachusetts",
+      "propertySource": "https://www.houfy.com/lodging/berkshire-vacation-rental-in-a-10000-acres-forest/7244?checkin=11%2F02%2F2026&checkout=11%2F09%2F2026&guests=2&adults=2",
+      "evidenceStatus": "Source found in web research",
+      "operatorWebsite": null,
+      "propertyOpened": true,
+      "reverseSearch": "https://www.google.com/search?q=%22Berkshire+vacation+rental%22+%2210%2C000%22+Perry",
+      "outcome": "Entirehouse2nightminimum;managerPerryselfdescribedworldwide. ReverseonlyHoufy/Googletravel,noownsite. Notnationalchainexclusioninferred.",
+      "id": "MA-0219",
+      "openedUrls": [
+        "https://www.houfy.com/lodging/berkshire-vacation-rental-in-a-10000-acres-forest/7244",
+        "https://www.google.com/search?q=%22Berkshire+vacation+rental%22+%2210%2C000%22+Perry"
+      ],
+      "supportedFacts": {
+        "guests": 10,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "rooms": "Unknown",
+        "kids": "Unknown",
+        "pets": "Unknown",
+        "capacityDetails": "Unknown",
+        "kidsDetails": "Unknown",
+        "petsDetails": "Unknown",
+        "priceFrom": "Unknown",
+        "currency": "Unknown",
+        "priceDetails": "Unknown"
+      }
+    },
+    {
+      "name": "Lovely Martha’s Vineyard 3/2 Vacation Rental!",
+      "locationLead": "Edgartown",
+      "catalogSource": "https://www.houfy.com/d/massachusetts",
+      "propertySource": "https://www.houfy.com/lodging/lovely-martha-s-vineyard-3-2-vacation-rental/349043?checkin=11%2F02%2F2026&checkout=11%2F09%2F2026&guests=2&adults=2",
+      "evidenceStatus": "Source found in web research",
+      "operatorWebsite": null,
+      "propertyOpened": true,
+      "reverseSearch": "https://www.google.com/search?q=%22Kristin+Buck%22+%22Classic+Cape%22+Edgartown",
+      "outcome": "DodgersHoleCapeStyleHomewithpool. HoufylistsLudlowPropertyManager butdescriptionContactToBookKristinBuck7742090096. Houfyoutdatedcalendarwarning. FocusedreverseonlyHoufy/realestatesocial, noexactownrentalwebsite.",
+      "id": "MA-0220",
+      "openedUrls": [
+        "https://www.houfy.com/lodging/lovely-martha-s-vineyard-3-2-vacation-rental/349043",
+        "https://www.google.com/search?q=%22Kristin+Buck%22+%22Classic+Cape%22+Edgartown"
+      ],
+      "supportedFacts": {
+        "guests": 6,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "rooms": "Unknown",
+        "kids": "Unknown",
+        "pets": "Unknown",
+        "capacityDetails": "Unknown",
+        "kidsDetails": "Unknown",
+        "petsDetails": "Unknown",
+        "priceFrom": "Unknown",
+        "currency": "Unknown",
+        "priceDetails": "Unknown"
+      }
+    },
+    {
+      "name": "Cape Cod Classic Cottage Near Forest Beach",
+      "locationLead": "Chatham",
+      "catalogSource": "https://www.houfy.com/d/massachusetts",
+      "propertySource": "https://www.houfy.com/lodging/cape-cod-classic-cottage-near-forest-beach/465475?checkin=11%2F02%2F2026&checkout=11%2F09%2F2026&guests=2&adults=2",
+      "evidenceStatus": "Source found in web research",
+      "operatorWebsite": null,
+      "propertyOpened": true,
+      "reverseSearch": "https://www.google.com/search?q=%22Cape+Cod+Classic+Cottage+Near+Forest+Beach%22+Meaghan",
+      "outcome": "HoufyhostMeaghan;2nightoffpeak/7nightsummer;2dogsconsidered+$75. OpenedpublicFacebookhostMeaghanWattpostcallsHoufylistingherdirectbookingsite;noseparateoperatorwebsite. Airbnb26133635searchleadnotopened.",
+      "id": "MA-0221",
+      "openedUrls": [
+        "https://www.houfy.com/lodging/cape-cod-classic-cottage-near-forest-beach/465475",
+        "https://www.google.com/search?q=%22Cape+Cod+Classic+Cottage+Near+Forest+Beach%22+Meaghan",
+        "https://www.facebook.com/groups/capecodrentals/posts/2588143718357155/"
+      ],
+      "supportedFacts": {
+        "guests": 4,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "rooms": "Unknown",
+        "kids": "Unknown",
+        "pets": "Unknown",
+        "capacityDetails": "Unknown",
+        "kidsDetails": "Unknown",
+        "petsDetails": "Unknown",
+        "priceFrom": "Unknown",
+        "currency": "Unknown",
+        "priceDetails": "Unknown"
+      }
+    }
+  ],
+  "remainingSearchGaps": [
+    "South Coast chambers/towns: NewBedford,Fairhaven,Dartmouth,Westport,Marion,Mattapoisett; no exhaustive pass yet",
+    "NorthShore towns outsideCapeAnn:Newburyport,PlumIsland,Marblehead,Salisbury",
+    "Boston independentapartments beyondFurnishedQuarters/B&BAfloat/BostonExtendedStay; root separatelyStaythere/Guesty",
+    "Dtravel,DirectBookingHost,Staythere,OwnerRez and otherplatform systematicsearch notperformedbythisagent; root ownsStaythere/Lodgify/Hospitable work"
+  ],
+  "operatorPortfolioLeads": [
+    {
+      "name": "Scituate by the Sea - Walk to the Beach",
+      "city": "Scituate",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0251",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Split Rock, Easy Walk To Beach & Scenic Trails",
+      "city": "Mattapoisett",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0252",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Minutes To Berkshire East With Hot Tub & Views",
+      "city": "Hawley",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0253",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Spacious Lenox Home Near Tanglewood",
+      "city": "Lenox",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0254",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Private Berkshire Chalet in Worthington",
+      "city": "Worthington",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0255",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Nature Retreat Near Prospect Lake",
+      "city": "Egremont",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0256",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Oceanview Getaway Near Nantasket Beach",
+      "city": "Hull",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0257",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Book The Last Of Summer In Rockport!",
+      "city": "Rockport",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0258",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Riverfront Log Home on 44 Acres with Sauna",
+      "city": "Cummington",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0259",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Relaxing Cape Cod Hideaway with Modern Comforts",
+      "city": "Orleans",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0260",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Historic, Modern Comforts, Walk To Downtown",
+      "city": "Great Barrington",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0261",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Coveted Cottage: Humarock Beach Experience",
+      "city": "Scituate",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0262",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Humarock Hideaway, Tranquil Cottage with River Views",
+      "city": "Marshfield",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0263",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    },
+    {
+      "name": "Cape Cod Haven Near Beaches & Town Center",
+      "city": "Falmouth",
+      "state": "MA",
+      "operator": "Wilkuma Vacation Rental Management",
+      "operatorRecordId": "MA-0214",
+      "catalogSource": "https://wilkuma.guestybookings.com/en/properties?minOccupancy=1&adults=1",
+      "propertySource": "https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1",
+      "checkedOn": "2026-10-26",
+      "propertyOpened": true,
+      "status": "Verified platform-hosted website",
+      "notes": "Distinct managed property verified on its own detail page; operator Contact page does not publish the rental street address.",
+      "id": "MA-0264",
+      "photoCount": 4,
+      "addressRole": "not publicly disclosed"
+    }
+  ],
+  "unitExpansion": {
+    "operatorId": "MA-0214",
+    "individualIds": [
+      "MA-0251",
+      "MA-0252",
+      "MA-0253",
+      "MA-0254",
+      "MA-0255",
+      "MA-0256",
+      "MA-0257",
+      "MA-0258",
+      "MA-0259",
+      "MA-0260",
+      "MA-0261",
+      "MA-0262",
+      "MA-0263",
+      "MA-0264"
+    ],
+    "checkedOn": "2026-10-26",
+    "outcome": "All14detailpages/directreservationsearch reviewed;56same-unitphotos downloaded/visuallychecked;operatorContactnoaddress;summarysuperseded"
+  },
+  "southCoastPass": {
+    "checkedOn": "2026-10-26",
+    "status": "Partially reviewed; geographic discovery and observed catalog expansion saved, remaining queues explicit",
+    "townsSearched": [
+      "Dartmouth",
+      "Westport",
+      "New Bedford",
+      "Fairhaven",
+      "Marion",
+      "Mattapoisett"
+    ],
+    "queries": [
+      {
+        "query": "Southeastern Massachusetts tourism vacation rentals cottages directory",
+        "url": "https://www.google.com/search?q=Southeastern+Massachusetts+tourism+vacation+rentals+cottages+directory",
+        "opened": true
+      },
+      {
+        "query": "South Coast Massachusetts chamber lodging directory",
+        "url": "https://www.google.com/search?q=South+Coast+Massachusetts+chamber+lodging+directory",
+        "opened": true
+      },
+      {
+        "query": "Dartmouth Massachusetts vacation rentals cottages direct website",
+        "url": "https://www.google.com/search?q=Dartmouth+Massachusetts+vacation+rentals+cottages+direct+website",
+        "opened": true
+      },
+      {
+        "query": "New Bedford Massachusetts vacation apartments direct website",
+        "url": "https://www.google.com/search?q=New+Bedford+Massachusetts+vacation+apartments+direct+website",
+        "opened": true
+      },
+      {
+        "query": "Fairhaven Massachusetts vacation cottages direct website",
+        "url": "https://www.google.com/search?q=Fairhaven+Massachusetts+vacation+cottages+direct+website",
+        "opened": true
+      },
+      {
+        "query": "Marion Massachusetts vacation rentals cottages direct website",
+        "url": "https://www.google.com/search?q=Marion+Massachusetts+vacation+rentals+cottages+direct+website",
+        "opened": true
+      },
+      {
+        "query": "Mattapoisett Massachusetts vacation rentals cottages direct website",
+        "url": "https://www.google.com/search?q=Mattapoisett+Massachusetts+vacation+rentals+cottages+direct+website",
+        "opened": true
+      },
+      {
+        "query": "Westport Massachusetts vacation cottages direct rentals",
+        "url": "https://www.google.com/search?q=Westport+Massachusetts+vacation+cottages+direct+rentals",
+        "opened": true
+      }
+    ],
+    "regionalDirectories": [
+      {
+        "name": "Southeastern Massachusetts Visitors Bureau / One SouthCoast Chamber lodging",
+        "url": "https://visitsemass.com/lodging/",
+        "opened": true,
+        "entryCount": 20,
+        "entryNames": [
+          "Holiday Inn Express North Attleboro",
+          "Whalers Inn & Suites, New Bedford",
+          "TownePlace Suites Marriott Westport",
+          "Shangri La Motel, Seekonk",
+          "Seaport Resort & Marina, Fairhaven",
+          "Residence Inn New Bedford Dartmouth",
+          "New Bedford Harbor Hotel",
+          "Holiday Inn Express Swansea",
+          "Holiday Inn Express Fall River",
+          "Hampton Inn Seekonk",
+          "Hampton Inn Raynham Taunton",
+          "Hampton Inn New Bedford/Fairhaven",
+          "Hampton Inn Fall River/Westport",
+          "Hampton Inn & Suites North Attleboro",
+          "Fairfield Somerset",
+          "Fairfield Mansfield",
+          "Fairfield New Bedford",
+          "Extended Stay America Foxboro Norton",
+          "enVision Hotel Mansfield Foxboro",
+          "Courtyard Marriott Boston Raynham"
+        ],
+        "outcome": "Opened regional list contains hotels/motels; no cottage/vacation-rental category was exposed. Individual hotel websites not all reviewed. Obvious national hotel chains skipped; local hotels retained as optional qualifying-suite checks.",
+        "optionalLocalHotelQueue": [
+          {
+            "name": "Whalers Inn & Suites",
+            "url": "https://www.whaler-inn.com/"
+          },
+          {
+            "name": "Seaport Resort & Marina",
+            "url": "http://www.seaportresortandmarina.com/"
+          },
+          {
+            "name": "New Bedford Harbor Hotel",
+            "url": "https://www.newbedfordharborhotel.com/"
+          }
+        ]
+      }
+    ],
+    "buzzardsBayCatalog": {
+      "sourcePages": [
+        "https://buzzardsbayrentals.com/villas/",
+        "https://buzzardsbayrentals.com/villas/page/2/",
+        "https://buzzardsbayrentals.com/villas/page/3/",
+        "https://buzzardsbayrentals.com/villas/page/4/"
+      ],
+      "status": "All ten displayed property detail pages opened and individually verified; four real photos per home saved and visually checked",
+      "contactSource": "https://buzzardsbayrentals.com/contact-us/",
+      "rentalAddressStatus": "Only town-level locations published; Contact gives Fairhaven MA 02719, not an exact rental street",
+      "individualLeads": [
+        {
+          "id": "MA-0275",
+          "name": "Cozy Quahog",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0276",
+          "name": "Casa Isla",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0277",
+          "name": "Oceanview Oasis",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0278",
+          "name": "The Fairview",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0279",
+          "name": "Bay Breeze",
+          "city": "Wareham",
+          "url": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0280",
+          "name": "Birdseye View Oceanfront",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0281",
+          "name": "Lovely Day Oceanside",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0282",
+          "name": "Maple by the Bay – Fort Phoenix",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0283",
+          "name": "Strawberry Moon – West Island",
+          "city": "Fairhaven",
+          "url": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
+          "photoCount": 4
+        },
+        {
+          "id": "MA-0284",
+          "name": "Ocean Escape",
+          "city": "Mattapoisett",
+          "url": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
+          "photoCount": 4
+        }
+      ]
+    },
+    "newVerifiedPropertyIds": [
+      "MA-0271",
+      "MA-0272",
+      "MA-0275",
+      "MA-0276",
+      "MA-0277",
+      "MA-0278",
+      "MA-0279",
+      "MA-0280",
+      "MA-0281",
+      "MA-0282",
+      "MA-0283",
+      "MA-0284"
+    ],
+    "candidateIds": [
+      "MA-0273",
+      "MA-0285"
+    ],
+    "remainingLeadQueue": [
+      {
+        "name": "Kathy Santos rental catalog",
+        "url": "https://www.kathy-santos.com/rentals.html",
+        "status": "Partially reviewed",
+        "notes": "All eleven actual detail links captured; Historic Westport Point home verified as MA-0272. Broker assistance is for 32+ days; shorter inquiries are referred to owners. Annual-only pages are not vacation listings.",
+        "leads": [
+          {
+            "url": "https://www.kathy-santos.com/rental-5-main-rd.html",
+            "status": "Detail page not yet opened"
+          },
+          {
+            "url": "https://www.kathy-santos.com/off-season-rental--1.html",
+            "status": "Detail page not yet opened"
+          },
+          {
+            "url": "https://www.kathy-santos.com/rental--8-main-road.html",
+            "status": "Detail page not yet opened"
+          },
+          {
+            "url": "https://www.kathy-santos.com/rental1-historic-wp.html",
+            "status": "Verified as MA-0272"
+          },
+          {
+            "url": "https://www.kathy-santos.com/rental6---south-westport.html",
+            "status": "Detail page not yet opened"
+          },
+          {
+            "url": "https://www.kathy-santos.com/rental--4-third-street.html",
+            "status": "Detail page not yet opened"
+          },
+          {
+            "url": "https://www.kathy-santos.com/annual-rental2.html",
+            "status": "Annual rental; skip vacation inventory"
+          },
+          {
+            "url": "https://www.kathy-santos.com/rental--2---westport-harbor.html",
+            "status": "Detail page not yet opened"
+          },
+          {
+            "url": "https://www.kathy-santos.com/rental7-great-island.html",
+            "status": "Detail page not yet opened"
+          },
+          {
+            "url": "https://www.kathy-santos.com/annual-rental5-westport-point.html",
+            "status": "Annual rental; skip vacation inventory"
+          },
+          {
+            "url": "https://www.kathy-santos.com/rental3-pettey-heights.html",
+            "status": "Detail page not yet opened"
+          }
+        ]
+      },
+      {
+        "name": "Vacation Cape Cod Mattapoisett catalog",
+        "url": "https://www.vacationcapecod.com/mattapoisett-vacation-rentals/",
+        "status": "Search lead; catalog not opened",
+        "notes": "Kinlin Grover Compass manager lead; coordinate with Cape operator deduplication before new IDs."
+      },
+      {
+        "name": "Robert Paul Marion home RPMS017",
+        "url": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/heart-marion-village-lovely-home-views-harbor-rpms017",
+        "status": "Search lead; detail not opened",
+        "notes": "Robert Paul is already seed MA-0013; retain as distinct property expansion lead, not duplicate operator."
+      },
+      {
+        "name": "WeNeedaVacation Marion rentals",
+        "url": "https://www.weneedavacation.com/Cape-Cod/Marion-Vacation-Rentals/",
+        "status": "Search lead; catalog not opened"
+      },
+      {
+        "name": "Dartmouth OwnerDirect catalog",
+        "url": "https://ownerdirect.com/all/usa/massachusetts/dartmouth",
+        "status": "Search lead; property extraction/reverse search not performed"
+      },
+      {
+        "name": "Dartmouth Airbnb cottages",
+        "url": "https://www.airbnb.com/dartmouth-ma/stays/cottages",
+        "status": "Search lead; catalog not opened"
+      },
+      {
+        "name": "Dartmouth Vrbo cottages",
+        "url": "https://www.vrbo.com/vacation-rentals/cottages/usa/massachusetts/dartmouth",
+        "status": "Search lead; catalog not opened"
+      },
+      {
+        "name": "New Bedford OwnerDirect catalog",
+        "url": "https://ownerdirect.com/all/usa/massachusetts/new-bedford/vacation-rentals",
+        "status": "Search lead; property extraction/reverse search not performed"
+      },
+      {
+        "name": "New Bedford Airbnb apartments",
+        "url": "https://www.airbnb.com/new-bedford-ma/stays/apartments",
+        "status": "Search lead; catalog not opened"
+      },
+      {
+        "name": "New Bedford Vrbo rentals",
+        "url": "https://www.vrbo.com/vacation-rentals/usa/massachusetts/south-of-boston/new-bedford",
+        "status": "Search lead; catalog not opened"
+      },
+      {
+        "name": "Mattapoisett oceanside cottage",
+        "url": "https://www.airbnb.com/rooms/1295597172129994644",
+        "status": "Search lead; property and own site not opened"
+      },
+      {
+        "name": "Mattapoisett coastal cottage HA-3212698945",
+        "url": "https://ownerdirect.com/property/charming-coastal-cottage-1-min-walk-to-the-beach/HA-3212698945",
+        "status": "Search lead; property and own site not opened"
+      },
+      {
+        "name": "Point Connett cottage HA-584659",
+        "url": "https://www.rentbyowner.com/property/point-connett-mattapoisett-ma/HA-584659",
+        "status": "Search lead; property and own site not opened"
+      }
+    ],
+    "coverageLimits": [
+      "Dartmouth and New Bedford focused town searches surfaced aggregators; individual property extraction and reverse own-site searches remain. This is not proof of no independent rentals.",
+      "Kathy Santos additional seasonal property pages and Mattapoisett manager catalog remain unexpanded.",
+      "Sea Space HTTP/HTTPS access failed; no warning bypass or inference of closure.",
+      "Salt House Marion own site offers Airbnb booking but no independent inquiry path found; guidebook PDF contact check remains.",
+      "Regional hotel list is discovery evidence, not completed official-site verification for every hotel."
+    ]
+  },
+  "readyListPolicyPass": {
+    "checkedOn": "2026-10-26",
+    "auditSource": "data/sources/massachusetts/policy-audit-02.json",
+    "reviewedIds": [
+      "MA-0006",
+      "MA-0008",
+      "MA-0015",
+      "MA-0004",
+      "MA-0018",
+      "MA-0020",
+      "MA-0022",
+      "MA-0201",
+      "MA-0202",
+      "MA-0203",
+      "MA-0204",
+      "MA-0205",
+      "MA-0206",
+      "MA-0207",
+      "MA-0208",
+      "MA-0209",
+      "MA-0251",
+      "MA-0252",
+      "MA-0253",
+      "MA-0254",
+      "MA-0255",
+      "MA-0256",
+      "MA-0257",
+      "MA-0258",
+      "MA-0259",
+      "MA-0260",
+      "MA-0261",
+      "MA-0262",
+      "MA-0263",
+      "MA-0264",
+      "MA-0214",
+      "MA-0271",
+      "MA-0272",
+      "MA-0275",
+      "MA-0276",
+      "MA-0277",
+      "MA-0278",
+      "MA-0279",
+      "MA-0280",
+      "MA-0281",
+      "MA-0282",
+      "MA-0283",
+      "MA-0284",
+      "MA-0274"
+    ],
+    "pendingVerifiedIds": [],
+    "scope": "All 44 verified research rows; two operator summaries superseded, leaving 42 ready records. Candidate rows not represented as ready.",
+    "method": "Official accommodation/FAQ/policy/rates/house rules and available booking terms checked; relevant FAQ accordions expanded. All ten matched Buzzards Bay Airbnb House rules modals also expanded. Missing rules remain Unknown; no minimum renter age treated as a child ban.",
+    "remainingPolicyConflicts": [
+      {
+        "id": "MA-0208",
+        "conflicts": [
+          "General no-pets sentence is qualified by later statement that very few properties accommodate pets."
+        ]
+      },
+      {
+        "id": "MA-0251",
+        "conflicts": [
+          "Description allows two dogs age 1+ at $50 each per stay; House rules widget says maximum one with no additional fee."
+        ]
+      },
+      {
+        "id": "MA-0253",
+        "conflicts": [
+          "The Space says one dog/$50 per stay; Other things to note says two dogs/$50 each. Both require age 1+."
+        ]
+      },
+      {
+        "id": "MA-0257",
+        "conflicts": [
+          "Description allows two dogs age 1+ at $50 each; House rules says no pets allowed."
+        ]
+      }
+    ]
+  }
+}

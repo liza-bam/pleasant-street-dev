@@ -1,0 +1,265 @@
+{
+  "checkedOn": "2026-10-26",
+  "regions": [
+    "CapeCod",
+    "Wellfleet",
+    "Nantucket",
+    "MarthasVineyard"
+  ],
+  "queries": [
+    "Cape Cod Chamber cottages vacation rentals Truro Wellfleet",
+    "Tagans Cottages Wellfleet official website",
+    "Pine Moorings Cottages Wellfleet official website",
+    "Quarterboard Cottages Wellfleet official website",
+    "Le Cottage 97 Somerset Road Nantucket official rental website",
+    "\"111 Orange\" Nantucket \"Cynthia\" rental"
+  ],
+  "sourcesOpened": [
+    "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "https://business.nantucketchamber.org/list/category/cottage-house-rental-52",
+    "https://www.mvcma.org/cottage-rental",
+    "https://www.mvy.com/listing/marthas-vineyard-vacation-rentals-and-real-estate-sales-inc/17/",
+    "https://www.mvy.com/stay/",
+    "https://www.mvy.com/sitemap/"
+  ],
+  "leads": [
+    {
+      "id": "MA-0101",
+      "name": "Ocean View Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b8d",
+      "website": "https://www.ocean-view-cottages.com/",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0102",
+      "name": "Tagan’s Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9bb9",
+      "website": "Unknown",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0103",
+      "name": "Pine Moorings Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9a",
+      "website": "http://pinemoorings.com/",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0104",
+      "name": "Hidden Hollow",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b6c",
+      "website": "https://hiddenhollow.com/",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0105",
+      "name": "Surf Side Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5cc20917afd691830f7b23c6",
+      "website": "https://www.surfsidecottages.com/",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0106",
+      "name": "Quarterboard Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9f",
+      "website": "http://quarterboardcottages.net/",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0107",
+      "name": "Wellfleet by the Sea Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c785b06afd691750a66ea9d",
+      "website": "https://www.wellfleetbythesea.com/",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0108",
+      "name": "The Even’tide Resort & Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b59",
+      "website": "https://www.eventidewellfleet.com/",
+      "sourceCategory": "Regional chamber directory",
+      "checkedOn": "2026-10-26"
+    },
+    {
+      "id": "MA-0109",
+      "name": "Harborview Nantucket",
+      "sourceUrl": "https://business.nantucketchamber.org/members/member/harborview-nantucket-4316",
+      "website": "https://www.harborviewnantucket.com/"
+    },
+    {
+      "id": "MA-0111",
+      "name": "15 Cottage Park",
+      "sourceUrl": "https://www.mvcma.org/cottage-rental",
+      "website": "https://www.mvcma.org/15-cottage-park"
+    },
+    {
+      "id": "MA-0112",
+      "name": "17 Cottage Park",
+      "sourceUrl": "https://www.mvcma.org/cottage-rental",
+      "website": "https://www.mvcma.org/17-cottage-park"
+    },
+    {
+      "id": "MA-0110",
+      "name": "Le Cottage",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/le-cottage-1652",
+      "website": "Unknown",
+      "evidenceStatus": "Source found in web research"
+    },
+    {
+      "id": "MA-0113",
+      "name": "Far Island Cottages",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/far-island-cottages-1683",
+      "website": "https://www.farisland.com/",
+      "evidenceStatus": "Website unavailable"
+    },
+    {
+      "id": "MA-0114",
+      "name": "Brant Point Courtyard",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/brant-point-courtyard-1672",
+      "website": "https://brantpointcourtyard.com/",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0115",
+      "name": "The Cottages at Nantucket Boat Basin",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/the-cottages-at-nantucket-boat-basin-1868",
+      "website": "https://www.thecottagesnantucket.com/",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0116",
+      "name": "111 Orange Street Bungalow and Cottage",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/111-orange-street-bungalow-cottage-5389",
+      "website": "Unknown",
+      "evidenceStatus": "Source found in web research"
+    },
+    {
+      "id": "MA-0117",
+      "name": "Nantucket Accommodations",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/nantucket-accommodations-4392",
+      "website": "https://nantucketaccommodations.com/",
+      "evidenceStatus": "Not eligible"
+    },
+    {
+      "id": "MA-0118",
+      "name": "Atlantic East Nantucket Real Estate",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/atlantic-east-nantucket-real-estate-2549",
+      "website": "https://www.nantucketrealestate.com/",
+      "evidenceStatus": "Source found in web research"
+    },
+    {
+      "id": "MA-0119",
+      "name": "Maury People Sotheby’s International Realty",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/maury-people-sotheby-s-international-realty-1866",
+      "website": "https://www.maurypeople.com/",
+      "evidenceStatus": "Source found in web research"
+    },
+    {
+      "id": "MA-0120",
+      "name": "White Elephant Nantucket",
+      "sourceUrl": "https://business.nantucketchamber.org/list/member/white-elephant-hotel-1851",
+      "website": "https://www.whiteelephantnantucket.com/",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0121",
+      "name": "Martha’s Vineyard Vacation Rentals and Sales",
+      "sourceUrl": "https://www.mvy.com/listing/marthas-vineyard-vacation-rentals-and-real-estate-sales-inc/17/",
+      "website": "https://www.mvvacationrentals.com/",
+      "evidenceStatus": "Verified independent website"
+    },
+    {
+      "id": "MA-0122",
+      "name": "130 West Main St - Meadowview Cottages",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b22",
+      "website": "https://wellfleetweeks.com/",
+      "evidenceStatus": "Source found in web research"
+    },
+    {
+      "id": "MA-0123",
+      "name": "Colonial Home Watch, LLC",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b35",
+      "website": "https://colonialhomeswatch.com/",
+      "evidenceStatus": "Website unavailable"
+    },
+    {
+      "id": "MA-0124",
+      "name": "130 West Main Street",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5cb8f9a2afd691890dc8a953",
+      "website": "Unknown",
+      "evidenceStatus": "Source found in web research"
+    },
+    {
+      "id": "MA-0125",
+      "name": "Truro Center for the Arts at Castle Hill",
+      "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/687fab172ca129a9320bb0a2",
+      "website": "https://www.castlehill.org/",
+      "evidenceStatus": "Not eligible"
+    }
+  ],
+  "gaps": [
+    "MVY /stay directory did not expose a complete vacation-rental member list in DOM or native AX; selected official profile and sponsor leads, not full coverage.",
+    "MA0010 MichelleSylvia has no saved photos; overlaps RPMS075 managed listing underMA0013.",
+    "Wellfleet all13displayedmemberprofiles accountedfor;8initialreviews+4followupoutcomes+WeNeedaVacation parentrow. Meadowviewprivacyblock,ColonialDNSfailure,130WestMainapartmentownsiteunresolved.",
+    "BrantPoint1namedNobadeercover saved; no3same-unitphoto set.",
+    "MVY fullregionalmemberroster and independenttown-site pass remain unverified."
+  ],
+  "fullListsCaptured": [
+    {
+      "url": "https://business.nantucketchamber.org/list/category/cottage-house-rental-52",
+      "resultCount": 11,
+      "completeDisplayedList": true,
+      "names": [
+        "WeNeedaVacation",
+        "WhiteElephantHotel",
+        "HarborviewNantucket",
+        "LeCottage",
+        "AtlanticEastNantucketRealEstate",
+        "BrantPointCourtyard",
+        "NantucketAccommodations",
+        "FarIslandCottages",
+        "TheCottagesatNantucketBoatBasin",
+        "MauryPeopleSothebysInternationalRealty",
+        "111OrangeStreetBungalowandCottage"
+      ]
+    },
+    {
+      "url": "https://www.mvcma.org/cottage-rental",
+      "resultCount": 2,
+      "completeDisplayedList": true,
+      "names": [
+        "15CottagePark",
+        "17CottagePark"
+      ],
+      "note": "Owneradvertisements,nocompanyownsorbookslistedcottages"
+    },
+    {
+      "url": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+      "resultCount": 13,
+      "completeDisplayedList": true,
+      "method": "NativeAX afterMoreloaded additionalmembers; correctsearlierapproximate12count",
+      "names": [
+        "130WestMainStMeadowviewCottages",
+        "WeNeedaVacation",
+        "ColonialHomeWatchLLC",
+        "SurfSideCottages",
+        "QuarterboardCottages",
+        "TagansCottages",
+        "HiddenHollow",
+        "WellfleetbytheSeaCottages",
+        "130WestMainStreet",
+        "TruroCenterfortheArtsatCastleHill",
+        "PineMooringsCottages",
+        "EventideResortCottages",
+        "OceanViewCottages"
+      ]
+    }
+  ]
+}

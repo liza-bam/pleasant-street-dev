@@ -2,7 +2,160 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-555 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+697 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+
+## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
+
+- ID: MA-0427
+- Town / area (approximate map location): Beverly, MA
+- Type: Apartment
+- Description: Top-floor Beverly apartment with water views, a private balcony, kitchen, workspace and off-street parking.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/1-top-flr-waterviewlux-designpvt-balcony
+
+## 109S14 The Strathmore 14
+
+- ID: MA-0613
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Two-bedroom Boston apartment with a sleeper sofa near Commonwealth Avenue and Boston College.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Header: 4 guests, 2 bedrooms, 1 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4752?currency=USD&lang=en
+
+## 109S15 The Strathmore 15
+
+- ID: MA-0609
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: One-bedroom Boston apartment with a sleeper sofa near Commonwealth Avenue and Boston College.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Header: 4 guests, 1 bedrooms, 1 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Unit Home rules explicitly says Pet allowed; no specific fee, size or count limit published on opened page.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4739?currency=USD&lang=en
+
+## 109S2 The Strathmore 2
+
+- ID: MA-0608
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Three-bedroom, two-bathroom bi-level Boston apartment near Green Line streetcars and Boston College.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Header: 7 guests, 3 bedrooms, 2 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Unit Home rules explicitly suitable for children; not suitable for infants.
+- Pet policy: Unit Home rules explicitly says Pet allowed; no specific fee, size or count limit published on opened page.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4738?currency=USD&lang=en
+
+## 109S3 The Strathmore 3
+
+- ID: MA-0614
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Two-bedroom, two-bathroom bi-level Boston apartment with a full kitchen near Green Line streetcars.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Header: 4 guests, 2 bedrooms, 2 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4758?currency=USD&lang=en
+
+## 109S8 The Strathmore 8
+
+- ID: MA-0607
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: One-bedroom Boston apartment with a sleeper sofa, one block from Green Line streetcars.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Header: 4 guests, 1 bedrooms, 1 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Unit Home rules explicitly says Pet allowed; no specific fee, size or count limit published on opened page.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4737?currency=USD&lang=en
+
+## 109S9 The Strathmore 9
+
+- ID: MA-0611
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Two-bedroom Boston apartment with a sleeper sofa near Cleveland Circle and Green Line streetcars.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Header: 4 guests, 2 bedrooms, 1 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4754?currency=USD&lang=en
+
+## 12P The Sky View
+
+- ID: MA-0604
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston apartment atop Jones Hill with panoramic views, three bedrooms and a full kitchen.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Header: 6 guests, 3 bedrooms, 1 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Pets allowed case-by-case with additional fees; seek operator approval.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4733?currency=USD&lang=en
+
+## 14P The Grand View Redline
+
+- ID: MA-0603
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: Victorian home near Boston’s Savin Hill with five bedrooms, two bathrooms and a full kitchen.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Header: 9 guests, 5 bedrooms, 2 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4731?currency=USD&lang=en
 
 ## 1848 Inn
 
@@ -81,6 +234,108 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://207northcabins.com
+
+## 230B1 The Dorset Redline
+
+- ID: MA-0601
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston apartment with central air, a full kitchen, in-unit laundry and three queen bedrooms.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Header: 7 guests, 3 bedrooms, 1 bathrooms. Description has lower comfort capacity; see notes.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4730?adults=1&children=0&infants=0&lang=en&pets=0&utm_source=traveler
+
+## 230B2 The Roseclair
+
+- ID: MA-0605
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Three-bedroom Boston apartment near the South End with central air, a full kitchen and in-unit laundry.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Header: 6 guests, 3 bedrooms, 1 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4736?currency=USD&lang=en
+
+## 230B3 The Mayhew
+
+- ID: MA-0606
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Two-bedroom Boston apartment near Upham’s Corner with central air, a full kitchen and in-unit laundry.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Header: 5 guests, 2 bedrooms, 1 bathrooms. Description has lower comfort capacity; see notes.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4734?currency=USD&lang=en
+
+## 230B4 The Penthouse
+
+- ID: MA-0602
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Fourth-floor Boston apartment with two bedrooms, a full kitchen, central air and city views.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Header: 5 guests, 2 bedrooms, 1 bathrooms.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4732?currency=USD&lang=en
+
+## 25A1 The Alameda 1
+
+- ID: MA-0610
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston apartment in West Roxbury with a kitchen, air conditioning and nearby public transport.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Header/title: 5 guests, 2 bedrooms; description calls it Alameda 2 with three bedrooms and comfortably fits six. Conflicting copied description, confirm exact unit.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Conflicting source statements: no pets in Home rules; description allows pets case-by-case for added fees. Confirm directly before booking. Alameda description requires advance approval and extra cleaning fees; private yard not open to guests/pets.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4753?currency=USD&lang=en
+
+## 39S1 The Strathmore 1
+
+- ID: MA-0612
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: Large Boston condo one block from the Green Line with two bathrooms, a full kitchen and in-unit laundry.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 2
+- Sleeps: Header says 6 guests, 5 bedrooms, 7 beds, 2 baths; title says 4BR. Bedrooms held Unknown.
+- Price: Undated nightly price shown; final quote depends on dates, fees and taxes.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Unit Home rules explicitly suitable for children; suitable for infants.
+- Pet policy: Unit Home rules explicitly says No pets; expanded description contains no contrary permission.
+- Website (book here, directly with the host): https://swankpropertiesboston.dtravel.com/property/4756?currency=USD&lang=en
 
 ## 4th Debsconeag Lake Camps
 
@@ -339,6 +594,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Varies — only Flying and Sargent yurts allow dogs, $20/dog/day
 - Website (book here, directly with the host): https://acadiayurts.com
 
+## Accommodations at Rocky Neck
+
+- ID: MA-0204
+- Town / area (approximate map location): Gloucester, MA
+- Type: Unknown
+- Description: Twelve waterfront efficiency units on Smith Cove, with kitchenettes and dedicated deck space.
+- Rooms: 12
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.rockyneckaccommodations.com/
+
 ## Akers Pond Inn Cabins & RV Sites
 
 - ID: NH-0034
@@ -561,6 +831,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.ascutneylofts.com/
 
+## Ashintully Cottage
+
+- ID: MA-0317
+- Town / area (approximate map location): Tyringham, MA
+- Type: Unknown
+- Description: Four-bedroom Tyringham cottage for seven guests beside Ashintully Gardens, with three bathrooms and a screened porch.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: 7
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Own site has no explicit child rule. Prior Houfy discovery indicated no children while historical reviews described family stays; this pass did not resolve that cross-source conflict.
+- Pet policy: Own site does not publish a pet admission rule.
+- Website (book here, directly with the host): https://www.ashintullycottage.com/
+
 ## Atlantic Haven
 
 - ID: ME-0191
@@ -575,6 +862,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://atlantichavenmaine.com
+
+## Atlantic Vacation Homes
+
+- ID: MA-0202
+- Town / area (approximate map location): Gloucester, MA
+- Type: Unknown
+- Description: Locally operated Cape Ann vacation rentals in Gloucester, Rockport, Essex and nearby North Shore towns.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Children permitted within occupancy limit; under-2s excluded from occupancy count.
+- Pet policy: Only designated pet-friendly homes; generally dogs under 40 pounds and age 1+; maximum two with approval. No cats or visiting pets; no pets on furniture/beds; contact about fees.
+- Website (book here, directly with the host): https://www.atlanticvacationhomes.com/
 
 ## Austin House — River Winds Farm & Estate
 
@@ -670,6 +974,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No — property-wide rule
 - Website (book here, directly with the host): https://bassharborcottages.com
 
+## Bay Breeze
+
+- ID: MA-0279
+- Town / area (approximate map location): Wareham, MA
+- Type: Unknown
+- Description: Wareham riverside home with three bedrooms, a screened porch, galley kitchen and private dock.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/bay-breeze/
+
 ## Baycliff Cottage & Cabins
 
 - ID: ME-0003
@@ -749,6 +1070,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://bayviewcabinsunit7.com
 
+## Beach Access|AC|Free Parking|New Listing Discount
+
+- ID: MA-0429
+- Town / area (approximate map location): Salisbury, MA
+- Type: Apartment
+- Description: Two-bedroom Salisbury beach apartment with direct beach access, a shared yard, outdoor dining and a grill.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/beach-accessacfree-parkingnew-listing-discount
+
+## Beach Access|Free Parking|Grill
+
+- ID: MA-0432
+- Town / area (approximate map location): Salisbury, MA
+- Type: House
+- Description: Two-bedroom Salisbury townhouse with ocean views, beach access, a kitchen and shared outdoor space.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Conflicting own-site occupancy: header7, description8, House Rules says6 plus1extra with$100fee (7maximum). Numeric maximum left Unknown.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/beach-accessfree-parkinggrill
+
 ## Beach Cottage Inn & Beach House Suites
 
 - ID: ME-0058
@@ -780,6 +1135,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — advertises families and reunions
 - Pet policy: Varies — only Unit A allows dogs, B/C/D no pets
 - Website (book here, directly with the host): https://beachgirlpropertyrentals.com/
+
+## Beachfront Bungalow | Fire Pit | Private Balcony
+
+- ID: MA-0434
+- Town / area (approximate map location): Salisbury, MA
+- Type: House
+- Description: Two-bedroom Salisbury townhome with ocean views, a private balcony, beach-yard access and a kitchen.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/beachfront-bungalow-fire-pit-private-balcony
+
+## Beachfront Bungalow: beachyard, close to boardwalk
+
+- ID: MA-0433
+- Town / area (approximate map location): Salisbury, MA
+- Type: House
+- Description: Two-bedroom Salisbury beachfront townhouse with a kitchen, outdoor seating and two off-street parking spaces.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/beachfront-bungalow-beachyard-close-to-boardwalk
 
 ## Beachside Abode 1A
 
@@ -909,6 +1298,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/280093
 
+## Beautiful Sea Captain's Home in Falmouth Village
+
+- ID: MA-0401
+- Town / area (approximate map location): Falmouth, MA
+- Type: House
+- Description: Six-bedroom sea captain's house in Falmouth Village, with private bathrooms, a kitchen, fireplace and garden near the bikeway.
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: 6
+- Sleeps: Own detail and accommodation description confirm listed occupancy/bedrooms/baths.
+- Price: $2,625–$11,200 per week displayed on operator catalog; date-dependent, fees/taxes not established; not a total reservation quote.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Suitable for children and infants listed.
+- Pet policy: Pets allowed on own-unit detail; restrictions/fees not established on checked pages.
+- Website (book here, directly with the host): https://www.75locustfalmouth.com/rentals/beautiful-sea-captains-home-in-falmouth-village
+
 ## Beautyview Lakeview suite
 
 - ID: LAZY-beautyview-lakeview-suite
@@ -925,6 +1331,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Published policy: Unknown
 - Pet policy: Published policy: Unknown
 - Website (book here, directly with the host): https://beautyview.lazy.vacations/
+
+## Bed & Breakfast Afloat
+
+- ID: MA-0018
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: Private docked yachts and houseboats for overnight stays at Constitution Marina in Charlestown.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Up to4overnightguests advertised;unit layouts vary.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Pet policy: Marina is pet friendly; B&B vessel-specific allowance and restrictions remain Unknown.
+- Website (book here, directly with the host): https://www.constitutionmarina.com/bed-and-breakfast/
 
 ## Beehive Cottage
 
@@ -986,6 +1408,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://belgradevacationrentals.com
 
+## Berkshire Farmhouse Vacation
+
+- ID: MA-0306
+- Town / area (approximate map location): West Stockbridge, MA
+- Type: Unknown
+- Description: Five-bedroom 1850s farmhouse on four acres in West Stockbridge, with gardens, a stream and a screened porch.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child admission rule found in checked pages.
+- Pet policy: Dogs negotiable with $60 per dog fee; no puppies and no cats. Dog rules referenced as text without an exposed link; confirm full restrictions with operator.
+- Website (book here, directly with the host): https://berkshirefarmhousevacation.com/
+
 ## Big Bear Log Home at Newfound Lake
 
 - ID: NH-0065
@@ -1035,6 +1474,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://book.birchrentals.com/listings/404923
 
+## Birch and Stone Groton
+
+- ID: MA-0002
+- Town / area (approximate map location): Groton, MA
+- Type: Unknown
+- Description: Four-bedroom 1838 guesthouse on a four-acre herb farm in Groton, with gardens and a gourmet kitchen.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Four-bedroom, three-bath guesthouse; VisitMA reports sleeps ten, unconfirmed own-site maximum.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No explicit child admission policy; family and friends language does not establish children allowed.
+- Pet policy: Not published on opened home, booking or About pages; no policy/FAQ link exposed.
+- Website (book here, directly with the host): https://www.birchandstonegroton.com/
+
+## Birdseye View Oceanfront
+
+- ID: MA-0280
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: East Fairhaven waterfront cottage with three bedrooms, a full kitchen, upper deck and marsh views.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Dogs only, maximum two per matched Airbnb House rules; fee not published.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/
+
 ## Black Bear Cabin
 
 - ID: ME-0330
@@ -1051,6 +1524,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/232714
+
+## Blooming Inn Shelburne Falls
+
+- ID: MA-0309
+- Town / area (approximate map location): Shelburne Falls, MA
+- Type: Unknown
+- Description: Victorian Shelburne Falls inn with private-bath rooms and suites, a short walk from the Bridge of Flowers.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Conditional; check unit policy
+- Pets welcome: no
+- Children policy: Normally adults-only; no children or babies. Possible exceptions for older children require prior contact. Any approved child shares room with one adult; room maximum two.
+- Pet policy: Pets not accepted.
+- Website (book here, directly with the host): https://bloominginnshelburnefalls.com/
 
 ## Blue Doors by the Sea
 
@@ -1175,6 +1665,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://blueberrypatchmotel.com
 
+## Book The Last Of Summer In Rockport!
+
+- ID: MA-0258
+- Town / area (approximate map location): Rockport, MA
+- Type: Unknown
+- Description: Rockport two bedroom home with a stocked kitchen, patio, grill and a lounge with a pullout sofa.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/69b068dbabf09c0015848917?minOccupancy=1&adults=1
+
 ## BOOMFISH LIMIT 5
 
 - ID: ME-0569
@@ -1240,6 +1747,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — family vacations
 - Pet policy: Yes — up to 2 dogs, 35 lb limit (exceptions inquire)
 - Website (book here, directly with the host): https://boothbayvacationhomes.com
+
+## Boston Extended Stay / Bed and Breakfast Associates Bay Colony
+
+- ID: MA-0208
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: Boston area furnished studios and apartments for vacations of three days to a few weeks.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: Operator-wide children policy Unknown; M325 accommodates one child at a published $30/night charge.
+- Pet policy: Most accommodations do not allow pets; a small number accept them by arrangement. Confirm specific property.
+- Website (book here, directly with the host): https://bostonextendedstay.com/
+
+## Boston Historical Urban Oasis
+
+- ID: MA-0508
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: Seven-bedroom Boston accommodation in a renovated historic building for larger groups.
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: 3
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 487 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2359
 
 ## Boyce's Motel & Apartments
 
@@ -1556,6 +2097,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
 
+## Cape Cod Haven Near Beaches & Town Center
+
+- ID: MA-0264
+- Town / area (approximate map location): Falmouth, MA
+- Type: Unknown
+- Description: Falmouth home with four bedrooms, a fireplace, updated kitchen, entertainment area, backyard fire pit and grill.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: 12guests/4BR;description2.5baths vsfeatureswidget2;confirmbathcount
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: No pets allowed.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/67881ccb254bb80010488bcb?minOccupancy=1&adults=1
+
 ## CARDINAL LIMIT 3
 
 - ID: ME-0585
@@ -1618,6 +2176,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://acadiavacationrentals.com/carriage-road-cottage/
 
+## Casa Isla
+
+- ID: MA-0276
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: West Island beach cottage with two bedrooms, a kitchen, grill, outdoor dining and an outdoor shower.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/casa-isla/
+
 ## Channel Waterfront Cottages
 
 - ID: NH-0013
@@ -1633,6 +2208,74 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Homepage welcomes all couples and families
 - Website (book here, directly with the host): https://www.channelcottages.com/
+
+## Charming 2BR•Walk to Harbor & Downtown•Close2Salem
+
+- ID: MA-0437
+- Town / area (approximate map location): Gloucester, MA
+- Type: Apartment
+- Description: Two-bedroom Gloucester apartment with exposed beams, a kitchen and living space near the harbor and downtown.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/charming-2br-gem-walk-to-harbor-downtown
+
+## Charming Design~Walk to Salem~Pvt Balcony
+
+- ID: MA-0439
+- Town / area (approximate map location): Beverly, MA
+- Type: Apartment
+- Description: One-bedroom Beverly apartment with a private balcony, kitchen and parking near Salem and the waterfront.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/charming-designwalk-to-salempvt-balcony
+
+## Charming Hyannis 3 Bed 2 Bath
+
+- ID: MA-0506
+- Town / area (approximate map location): Barnstable, MA
+- Type: Unknown
+- Description: Three-bedroom Hyannis home with an open living area and coastal decor.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Entire home as labelled by own listing.
+- Price: No stable published nightly amount captured.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/4225
+
+## Chic Gloucester Escape•Harbor&Dining•Close2Salem
+
+- ID: MA-0436
+- Town / area (approximate map location): Gloucester, MA
+- Type: Apartment
+- Description: One-bedroom Gloucester coastal apartment with exposed beams, a kitchen and living space near the harbor.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/chic-gloucester-escapewalk-2-shopsharbordining
 
 ## CHICKADEE LIMIT 4
 
@@ -1664,6 +2307,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://chillvacationrentals.com
+
+## City Views~Close 2 Salem~Balcony
+
+- ID: MA-0441
+- Town / area (approximate map location): Beverly, MA
+- Type: Apartment
+- Description: One-bedroom Beverly apartment with a kitchen and workspace near the waterfront, local dining and train connections.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/city-viewsclose-2-salembalcony
+
+## Clamber Hill Inn and Restaurant
+
+- ID: MA-0315
+- Town / area (approximate map location): Petersham, MA
+- Type: Unknown
+- Description: Petersham country inn on a 33-acre wooded estate, offering guest rooms with working fireplaces and breakfast.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Family Suite and generic Children 5+ booking filter observed; no explicit child admission restriction/permission published, so retained Unknown.
+- Pet policy: No explicit admission rule found; generic booking pet count does not confirm pet acceptance.
+- Website (book here, directly with the host): https://www.clamberhill.com/
 
 ## Classic Maine Cottage/Bremen
 
@@ -1729,6 +2406,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — children and babies counted toward max guests
 - Pet policy: Yes — prior approval; $10/pet/night
 - Website (book here, directly with the host): https://clearwaterescapes.com
+
+## Coastal Acres Campground
+
+- ID: MA-0003
+- Town / area (approximate map location): Provincetown, MA
+- Type: Unknown
+- Description: Provincetown campground with seasonal camper rentals near Commercial Street.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: All children/teenagers must be at their site under supervision by 10:00 PM. Children supervised at site by22:00
+- Pet policy: Maximum two (2) pets per site. Must be leashed, controlled, and never left unattended. No visiting pets. Maximum2pets/site; leash/cleanup; no visiting pets; no unattended dogs; avoid campgroundpond; Dog registered at check-in with IDtag and vaccination records
+- Website (book here, directly with the host): https://coastalacresprovincetown.com/
+
+## Coastal Charm: Lobster Château
+
+- ID: MA-0513
+- Town / area (approximate map location): Swampscott, MA
+- Type: Unknown
+- Description: Second-floor Swampscott beach retreat with two bedrooms, ocean views and private beach access.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 248 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2432526
+
+## Coastal Haven in West Dennis -15
+
+- ID: MA-0512
+- Town / area (approximate map location): Dennis, MA
+- Type: Unknown
+- Description: Three-bedroom shingled Cape Cod home in West Dennis.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 205 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/1562065
 
 ## Coastal Life Beach House
 
@@ -1917,6 +2645,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=538
 
+## Coveted Cottage: Humarock Beach Experience
+
+- ID: MA-0262
+- Town / area (approximate map location): Scituate, MA
+- Type: Unknown
+- Description: Humarock cottage near the beach with two bedrooms, a full kitchen, outdoor shower and decks for grilling.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1
+
 ## Cowgers' Lakefront Cabins
 
 - ID: ME-0028
@@ -1966,6 +2711,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=500
+
+## Cozy Quahog
+
+- ID: MA-0275
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: West Island cottage with two bedrooms, ocean views, a stocked kitchen and easy beach access.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/cozy-quahog/
 
 ## Cozy Retreat in Lisbon Falls
 
@@ -2253,6 +3015,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://downeastproperties.com/vacation-rentals/
 
+## Downtown Salem | Fireplace, Parking & Grill
+
+- ID: MA-0443
+- Town / area (approximate map location): Salem, MA
+- Type: Apartment
+- Description: First-floor one-bedroom Salem apartment with a kitchen, Smart TVs and a shared backyard patio near downtown.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome, and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will result in a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/downtown-salem-fireplace-parking-grill
+
+## Downtown Salem | Game Room, Deck & Fireplace
+
+- ID: MA-0444
+- Town / area (approximate map location): Salem, MA
+- Type: Apartment
+- Description: Three-bedroom upper-level Salem duplex with a game room, private deck, kitchen and driveway parking.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome, and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will result in a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/downtown-salem-game-room-deck-fireplace
+
+## Downtown, Shops, Beach, Deck, Close to Salem
+
+- ID: MA-0422
+- Town / area (approximate map location): Gloucester, MA
+- Type: Apartment
+- Description: One-bedroom downtown Gloucester loft with a kitchen and private patio near shops, dining and the harbor.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pets permitted with a $50 fee/pet.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar
+
 ## Dream House
 
 - ID: ME-0403
@@ -2412,6 +3225,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/440192
 
+## Edgartown House
+
+- ID: MA-0415
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Three-bedroom Edgartown vacation house with cathedral ceilings, a kitchen island, deck, grill and outdoor shower.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Own-unit headline publishes sleeps6+; extra-person maximum unspecified.
+- Price: from 2800 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.
+- Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
+- Website (book here, directly with the host): https://mvyvacations.com/listing/edgartown-house/
+
 ## Elliot's Escape/Bremen
 
 - ID: ME-0479
@@ -2441,6 +3271,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.emberescapes.com/
+
+## Enchanting Hidden Door Escape
+
+- ID: MA-0511
+- Town / area (approximate map location): Stoneham, MA
+- Type: Unknown
+- Description: Four-bedroom Stoneham house with a kitchen and a hidden-door room.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 250 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/1490680
 
 ## ESTATE HOUSE LIMIT 12
 
@@ -2696,6 +3543,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — explicitly described for family gatherings
 - Website (book here, directly with the host): https://foxtrotmainerental.lodgify.com
 
+## Fresh Design-Walk to Salem-Food-Train Station
+
+- ID: MA-0426
+- Town / area (approximate map location): Beverly, MA
+- Type: Apartment
+- Description: One-bedroom Beverly apartment with a private balcony, kitchen and workspace near the waterfront and train station.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/fresh-design-walk-to-salem-food-train-station
+
 ## FRIENDLY INN LIMIT 5
 
 - ID: ME-0503
@@ -2711,6 +3575,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=119
+
+## Furnished Quarters
+
+- ID: MA-0004
+- Town / area (approximate map location): Boston / Cambridge, MA
+- Type: Unknown
+- Description: Privately operated furnished Boston and Cambridge apartments for stays of one month or longer.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Multiple apartment sizes;operator facts not unit values.
+- Price: Monthly stays;minimum1month on MA landingpage.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Pet policy: Pet-friendly apartments in some buildings; breed/weight restrictions, nonrefundable cleaning fee and advance arrangements apply.
+- Website (book here, directly with the host): https://www.furnishedquarters.com/
 
 ## GAGE FARMHOUSE LIMIT 6
 
@@ -2759,6 +3639,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Conditional; check unit policy
 - Pet policy: Reported pet-friendly in host's published guest review; confirm per unit
 - Website (book here, directly with the host): https://getogetherstays.com
+
+## Gloucester Beach House
+
+- ID: MA-0206
+- Town / area (approximate map location): Gloucester, MA
+- Type: Unknown
+- Description: Family operated Gloucester beach house in a traditional dormered Cape home.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://gloucesterbeachhouse.com/
 
 ## GOOD TIMES CHALET LIMIT 19
 
@@ -2871,6 +3766,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes — 2 children allowed
 - Website (book here, directly with the host): https://greatduckislandhouse.com
+
+## Green Harbor Resort
+
+- ID: MA-0019
+- Town / area (approximate map location): West Yarmouth, MA
+- Type: Unknown
+- Description: West Yarmouth waterfront resort with cottages, townhomes, efficiencies and family recreation.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Additional fees apply for cots and cribs. Primary booker21+ atRedJacketBeach; no staying-child age restriction found
+- Pet policy: Our pet policy is for dogs only.; We welcome dogs weighing 75 lbs. and under.; There's a $50 fee per dog per night, with a two-dog maximum per room. Only pre-approved dogs in select vacation cottages/rooms; contact reservationsbeforearrival; Max2dogs;75lb;50USD/dog/night plus applicabletax;500USDcleaningfee forunapproveddogs; Dogs prohibited resortbeaches MemorialDayweekend–LaborDayweekend; lobbies/dining/pools offlimits; Dogs unattended max2hours, avoid leavingdogs thatdisturbothers
+- Website (book here, directly with the host): https://www.redjacketresorts.com/resorts/green-harbor
 
 ## GREENS LIMIT 6
 
@@ -3030,6 +3942,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://harborfields.com
 
+## Harborview Nantucket
+
+- ID: MA-0109
+- Town / area (approximate map location): Nantucket, MA
+- Type: Unknown
+- Description: Nantucket waterfront cottage campus near downtown; selected photos show Water’s Edge cottage.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No child/infant acceptance or minimumage policy found in reservationpolicies/Water’sEdge unit.
+- Pet policy: Pets are not permitted. Pet ban inReservationPolicies; contactpropertyforserviceanimalaccommodation
+- Website (book here, directly with the host): https://www.harborviewnantucket.com/
+
 ## HARMON'S BEACH LIMIT 5
 
 - ID: ME-0500
@@ -3096,6 +4025,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=218
 
+## Heart of Cape Cod
+
+- ID: MA-0009
+- Town / area (approximate map location): Eastham, MA
+- Type: Unknown
+- Description: Local Cape Cod manager offering waterfront homes and cottages with direct booking and host support.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: The Lotus is a serene, adults-only pondside retreat No portfolio-wide child age policy found; TheLotus restriction must not be assigned to all managed homes.
+- Pet policy: We love dogs! Your dog will be supplied with his or her own vacation crate, food & water bowls, doggie towels, and treats! Pets vary by individual home; dog service does not approve all units
+- Website (book here, directly with the host): https://heartofcapecod.com/
+
 ## Hearts of Maine
 
 - ID: ME-0151
@@ -3112,6 +4058,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — families welcome
 - Pet policy: Some properties — over half allow pets
 - Website (book here, directly with the host): https://heartsofmaine.com
+
+## Heights House - 93 Walkscore|Halloween|Grill
+
+- ID: MA-0420
+- Town / area (approximate map location): Salem, MA
+- Type: House
+- Description: Two-bedroom Salem vacation home with a backyard patio, grill and parking within walking distance of downtown.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/heights-house-93-walkscoreearly-access-discount
 
 ## Heron Cottage / Cove Meadow
 
@@ -3142,6 +4105,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=163861
+
+## Hidden Hollow
+
+- ID: MA-0104
+- Town / area (approximate map location): Wellfleet, MA
+- Type: Unknown
+- Description: Historic Wellfleet cottage rentals on ten acres near Blackfish Creek and the Cape Cod Rail Trail.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Basement with a bunkroom with 4 twin beds and a family room with cable TV and Blu-ray for the kids Child accommodation stated for LostOak; no child-age cutoff published
+- Pet policy: Maximum occupancy is 8 guests. (Sorry – No Pets) Pet prohibition also shown for both cottages on home page
+- Website (book here, directly with the host): https://hiddenhollow.com/
 
 ## Higgins Beach Maine
 
@@ -3221,6 +4201,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (small families)
 - Website (book here, directly with the host): https://hillsidecottages.com
 
+## Hinata Retreat
+
+- ID: MA-0310
+- Town / area (approximate map location): Charlemont, MA
+- Type: Cabin
+- Description: Adults-only Charlemont cabin retreat for couples, with private hot tubs, soaking tubs, fireplaces and mountain views.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: no
+- Pets welcome: no
+- Children policy: Adults-only; every guest must be eighteen or older.
+- Pet policy: No pets; contact team before arrival for service-animal accommodations.
+- Website (book here, directly with the host): https://www.hinataretreat.com/
+
 ## Hiram Blake Camp
 
 - ID: ME-0051
@@ -3237,6 +4234,56 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family cottages)
 - Pet policy: Yes with approval (up to 2 dogs/cottage)
 - Website (book here, directly with the host): https://hiramblake.com
+
+## Historic Beaver Mill Inn
+
+- ID: MA-0304
+- Town / area (approximate map location): North Adams, MA
+- Type: Unknown
+- Description: Twelve-room inn in a restored North Adams mill beside Natural Bridge State Park, with a communal kitchen.
+- Rooms: 12
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: no
+- Pets welcome: no
+- Children policy: Adults only; no children under eighteen, explicitly stated on Rooms & Details.
+- Pet policy: Rooms & Details explicitly prohibits pets.
+- Website (book here, directly with the host): https://beavermill.com/
+
+## Historic Westport Point Waterfront Home — Kathy Santos
+
+- ID: MA-0272
+- Town / area (approximate map location): Westport, MA
+- Type: Unknown
+- Description: Westport Point waterfront home with four bedrooms, a full kitchen, deck and lawn extending to a dock.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3.5
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://www.kathy-santos.com/rental1-historic-wp.html
+
+## Historic, Modern Comforts, Walk To Downtown
+
+- ID: MA-0261
+- Town / area (approximate map location): Great Barrington, MA
+- Type: Unknown
+- Description: Historic Great Barrington home with five bedrooms, a dining room fireplace, full kitchen and fenced backyard.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: 16
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1
 
 ## Hobble Inn & The Loft
 
@@ -3270,6 +4317,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=388
 
+## Horseneck Farms Cottage
+
+- ID: MA-0271
+- Town / area (approximate map location): Westport, MA
+- Type: Unknown
+- Description: Westport farm cottage with one bedroom, a full kitchen and porch near Horseneck Beach.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Sleeps two adults/children; no age restriction published.
+- Pet policy: Pets considered; approval, species, limits and fees not published.
+- Website (book here, directly with the host): https://horseneckfarms.com/
+
 ## Houseboat NOMAD
 
 - ID: ME-0308
@@ -3299,6 +4363,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://thefloatingnomad.com/roam/
+
+## Humarock Hideaway, Tranquil Cottage with River Views
+
+- ID: MA-0263
+- Town / area (approximate map location): Marshfield, MA
+- Type: Unknown
+- Description: Humarock cottage overlooking the South River, with two bedrooms, a full kitchen, decks and an outdoor shower.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1
 
 ## HUMMINGBIRD LIMIT 3
 
@@ -3332,6 +4413,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — pack-and-play available on request
 - Pet policy: No
 - Website (book here, directly with the host): https://hutchinscottagesatacadia.com
+
+## Huttopia Berkshires
+
+- ID: MA-0318
+- Town / area (approximate map location): Hancock, MA
+- Type: Cabin
+- Description: Hancock woodland resort with furnished tents and four-season Sierra tiny houses overlooking Jiminy Peak.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Multiple lodging types; Sierra tiny house and Trappeur/Canadienne sleep five; Bonaventure sleeps two. Not campus total.
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Berkshires explicitly offers kids activities; baby bed/high chair kit available subject to availability. Under-twenty-one guests must be accompanied; unaccompanied minors not accepted.
+- Pet policy: Dogs/cats allowed with nightly fee; vaccinated, leashed and never unattended; no pool-area access or furniture. Excluded breeds: American Staffordshire Terrier, Mastiff, Boerboel, Pitbull, Tosa, Rottweiler; aggressive dogs prohibited. FAQ exception only Paradise Springs Chaplin House, not Berkshires.
+- Website (book here, directly with the host): https://americas.huttopia.com/en/site/berkshires/
 
 ## In the Trees Maine
 
@@ -3491,6 +4589,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://katahdinshadows.com
 
+## Katama House
+
+- ID: MA-0413
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Two-bedroom Katama vacation house with a kitchen, wraparound deck, grill, outdoor shower and private master-bedroom balcony.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: Own-unit headline publishes sleeps5+; extra-person maximum unspecified.
+- Price: from 2700 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.
+- Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
+- Website (book here, directly with the host): https://mvyvacations.com/listing/katama-house/
+
 ## KENDALL COTTAGE LIMIT 6
 
 - ID: ME-0524
@@ -3536,6 +4651,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138643
+
+## KeyWest Vibe, PrivatePatio, Close2Salem, WalkDWNTN
+
+- ID: MA-0423
+- Town / area (approximate map location): Gloucester, MA
+- Type: Apartment
+- Description: Two-bedroom Gloucester apartment with Key West-inspired decor, a private patio and kitchen near downtown.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/key-west-themedprivatepatioegg-chairswaffle-bar
 
 ## Killington Mountain Homes
 
@@ -3659,6 +4791,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=155199
+
+## Lake Access 4 Bed 3 Bath HOT TUB
+
+- ID: MA-0505
+- Town / area (approximate map location): Billerica, MA
+- Type: Unknown
+- Description: Four-bedroom house near Nutting Lake with a hot tub and kitchen.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 351 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2803
 
 ## Lake Megunticook Vacation Rental
 
@@ -3960,6 +5109,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=163772
 
+## Lakeview Getaway with Hot Tub
+
+- ID: MA-0514
+- Town / area (approximate map location): Billerica, MA
+- Type: Unknown
+- Description: Three-bedroom lakeview retreat in Billerica with a private hot tub.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 343 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/12459103
+
+## Le Cottage
+
+- ID: MA-0110
+- Town / area (approximate map location): Nantucket, MA
+- Type: Unknown
+- Description: Three-bedroom Nantucket rental house near Miacomet with a deck and outdoor shower.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: 6
+- Price: from 4000 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Booking widget labels adults/children but no explicit child-age acceptance policy/age bands found inHouseRules.
+- Pet policy: No Pets Allowed No pets; bookingwidget reiteratespetban
+- Website (book here, directly with the host): https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/
+
 ## Libby Camps
 
 - ID: ME-0001
@@ -3991,6 +5174,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — welcomes families
 - Pet policy: Yes — owner website welcomes pets; confirm individual cottage
 - Website (book here, directly with the host): https://liberty-rentals.com/
+
+## Lighthouse Lane Cottages
+
+- ID: MA-0201
+- Town / area (approximate map location): Rockport, MA
+- Type: Unknown
+- Description: Two Rockport cottages; the Playhouse studio has a kitchenette, fireplace and shower.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.lighthouselanecottage.com/
 
 ## LILY OF THE VALLEY LIMIT 6
 
@@ -4120,6 +5318,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Conditional; check unit policy
 - Pet policy: Well-behaved pets welcome; some cabins designated pet-free.
 - Website (book here, directly with the host): https://www.lochlymelodge.com/
+
+## Loft Hideaway in Falmouth Village
+
+- ID: MA-0403
+- Town / area (approximate map location): Falmouth, MA
+- Type: Apartment
+- Description: One-bedroom Falmouth loft with a private balcony, kitchen and parking, a short walk from Main Street and the Shining Sea Bikeway.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Own detail and accommodation description confirm listed occupancy/bedrooms/baths.
+- Price: $595–$2,765 per week displayed on operator catalog; date-dependent, fees/taxes not established; not a total reservation quote.
+- Children welcome: yes
+- Pets welcome: yes
+- Children policy: Suitable for children and infants listed.
+- Pet policy: Pets allowed on own-unit detail; restrictions/fees not established on checked pages.
+- Website (book here, directly with the host): https://www.75locustfalmouth.com/rentals/loft-hideaway-in-falmouth-village
 
 ## Long Cove Cottages
 
@@ -4292,6 +5507,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://loveatfirstlightlubec.com
 
+## Lovely Day Oceanside
+
+- ID: MA-0281
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: West Island beachfront cottage with two bedrooms, central air, a kitchen, backyard and patio.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/
+
+## Lovely Two Bedroom Condo in South Boston
+
+- ID: MA-0504
+- Town / area (approximate map location): Boston, MA
+- Type: Unknown
+- Description: South Boston condo with two bedrooms, a private backyard and a workspace near Broadway station.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 292 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2266
+
 ## Lugdon Lodge
 
 - ID: ME-0032
@@ -4306,6 +5555,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://lugdonlodge.com/
+
+## Luxo Executive Rentals
+
+- ID: MA-0020
+- Town / area (approximate map location): Worcester / Central Massachusetts, MA
+- Type: Unknown
+- Description: Furnished apartments and townhouses across Worcester,Westborough and Auburn for temporary stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 15propertycatalog;unit-level facts vary.
+- Price: 20%discount on30+stays;no operator rate.
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Pet policy: Portfolio-wide policy Unknown; selected Westborough Unit 2 allows pets.
+- Website (book here, directly with the host): https://luxoexecutiverentals.com/
 
 ## Macannamac Camps
 
@@ -4586,6 +5851,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://mainelyretreats.com
 
+## Maple by the Bay – Fort Phoenix
+
+- ID: MA-0282
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: Fairhaven home near Fort Phoenix with three bedrooms, a full kitchen, porch and backyard grill.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published. Own page warns that steep stairs warrant care for small children; this is not a ban.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/
+
+## Martha’s Vineyard House
+
+- ID: MA-0412
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Three-bedroom colonial-style Edgartown home with a kitchen, deck, gas grill and outdoor shower for island vacations.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Own-unit published maximum, bedrooms and full/half-bath layout checked.
+- Price: from 2900 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.
+- Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
+- Website (book here, directly with the host): https://mvyvacations.com/listing/marthas-vineyard-house/
+
+## Martha’s Vineyard Vacation Rentals and Sales
+
+- ID: MA-0121
+- Town / area (approximate map location): Vineyard Haven, MA
+- Type: Unknown
+- Description: Local vacation rental agency offering homes across Martha’s Vineyard.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No portfolio-wide child/infant agepolicy found inRentalPolicies orENGLJownerrules.
+- Pet policy: Martha's Vineyard Rentals that Allow Pets; Owner Policies: No Pets Petpermissionvariesbyowner/listing; dedicatedpetcatalogavailable; RepresentativephotoestateENGLJ prohibits pets; do notapplytoallportfolio
+- Website (book here, directly with the host): https://www.mvvacationrentals.com/
+
 ## MARY'S LAKEVIEW - LIMIT 10
 
 - ID: ME-0558
@@ -4710,6 +6026,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196461
 
+## Minutes To Berkshire East With Hot Tub & Views
+
+- ID: MA-0253
+- Town / area (approximate map location): Hawley, MA
+- Type: Unknown
+- Description: Hawley mountain chalet with five bedrooms, a hot tub, recreation room and direct trail access near Berkshire East.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 3
+- Sleeps: 14
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Dogs allowed, age 1+ and $50 each per stay; quantity conflicts between one and two dogs. Confirm with host.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1
+
 ## Mischief Maker
 
 - ID: ME-0324
@@ -4726,6 +6059,74 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/325878
+
+## Misty Pines Cabin
+
+- ID: MA-0324
+- Town / area (approximate map location): Monterey, MA
+- Type: Cabin
+- Description: Three-bedroom Monterey cabin with three baths, a wood stove, deck and outdoor wood-fired sauna.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 3
+- Sleeps: Misty Pines unit: eight guests, three bedrooms, six beds, three bathrooms; not portfolio totals.
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Property rules explicitly welcome children ages two to twelve and infants under two. Pack n Play travel crib available on request.
+- Pet policy: Up to two dogs; $100 one-time fee, include pet in booking in advance. Other animal types prohibited.
+- Website (book here, directly with the host): https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10
+
+## Modern Three Bedroom Condo - Near Boston
+
+- ID: MA-0503
+- Town / area (approximate map location): Stoneham, MA
+- Type: Unknown
+- Description: Second-floor Stoneham condo with a kitchen, three bedrooms and in-unit laundry.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 240 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2267
+
+## Modern Two Bedroom Condo - Near Boston
+
+- ID: MA-0502
+- Town / area (approximate map location): Stoneham, MA
+- Type: Unknown
+- Description: First-floor Stoneham condo with a kitchen, living room and in-unit laundry.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 3196 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed unless. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2268
+
+## ModernComfort~Walk2Wtrfrnt&Train
+
+- ID: MA-0440
+- Town / area (approximate map location): Beverly, MA
+- Type: Apartment
+- Description: One-bedroom Beverly apartment with a colorful living space, kitchen and workspace near the waterfront and train.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75/pet. Dogs are welcome and cats are not allowed. I ask that they are well behaved (no chewing furniture/scratching, no consistent barking, they are house trained and you pick up all of their waste outside). Any dog waste found after a guest will be a $50 clean up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/moderncomfortwalk2wtrfrnttrain
 
 ## Moody Beach Vacation Rentals
 
@@ -4980,6 +6381,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/347043
 
+## Nature Retreat Near Prospect Lake
+
+- ID: MA-0256
+- Town / area (approximate map location): Egremont, MA
+- Type: Unknown
+- Description: Egremont home near Prospect Lake with a wood burning fireplace, three season porch, fire pit and gathering house.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Catalog advertises 10 guests, but current own description says up to 11. Confirm capacity with operator.
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1
+
 ## Nautical Point
 
 - ID: ME-0395
@@ -5043,6 +6461,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/427524
+
+## New Design•Walk2DNTN•Beach•Train•Close to Salem
+
+- ID: MA-0425
+- Town / area (approximate map location): Gloucester, MA
+- Type: Apartment
+- Description: One-bedroom Gloucester retreat with a private third-floor balcony, kitchen and parking near downtown and the beach.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/new-design-walk-to-dntn-beauport-beach-train
 
 ## Newfound Lake & Ski House
 
@@ -5282,6 +6717,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://garnsey.com
 
+## Ocean Escape
+
+- ID: MA-0284
+- Town / area (approximate map location): Mattapoisett, MA
+- Type: Unknown
+- Description: Mattapoisett home with two bedrooms, a full kitchen, covered deck and brick courtyard near the beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Dogs only, maximum one; contact host with questions. Fee not published.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/ocean-escape/
+
 ## Ocean House Cottage
 
 - ID: ME-0194
@@ -5316,6 +6768,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/427036
 
+## Ocean View Cottages
+
+- ID: MA-0101
+- Town / area (approximate map location): Wellfleet, MA
+- Type: Unknown
+- Description: Three Wellfleet cottages near the ocean; selected photos show CottageOne.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No pet rule found in OtherInformation,CottageOne,or Contact.; No explicit child/infant age rule found; small-family description does not specify ages.
+- Pet policy:
+- Website (book here, directly with the host): https://www.ocean-view-cottages.com/
+
 ## Oceansedge
 
 - ID: ME-0129
@@ -5332,6 +6801,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — marketed as family stay
 - Website (book here, directly with the host): https://oceansedgemaine.com
 
+## Oceanview Getaway Near Nantasket Beach
+
+- ID: MA-0257
+- Town / area (approximate map location): Hull, MA
+- Type: Unknown
+- Description: Hull coastal house with four bedrooms, ocean views, a private dock, fireplace and updated kitchen.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: 10
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Unresolved conflict: description permits two dogs age 1+ at $50 each; House rules prohibit pets. Confirm with host.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1
+
 ## Oceanview Oasis
 
 - ID: ME-0378
@@ -5347,6 +6833,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/oceanview-oasis/
+
+## Oceanview Oasis
+
+- ID: MA-0277
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: West Island home with ocean views, two bedrooms, a backyard grill and deck near the beach.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/oceanview-oasis/
 
 ## October Farm
 
@@ -5619,6 +7122,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=702
 
+## Pine Acres Family Camping Resort
+
+- ID: MA-0021
+- Town / area (approximate map location): Oakham, MA
+- Type: Cabin
+- Description: Family-owned Oakham camping resort on Lake Dean offering rustic, waterfront and full-kitchen rental cabins.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Children explicitly accommodated. Under seven accompanied in all facilities; under sixteen supervised at pool/amenities; under eighteen at campsite with adult by 10pm unless sanctioned activity or with parent. Hot tub eighteen-plus.
+- Pet policy: Only designated pet-friendly rentals; up to two dogs/cats, registered with current rabies certificates, supervised and on maximum six-foot non-retractable leash. No visitor pets. Premium Plus/Pavilion excluded.
+- Website (book here, directly with the host): https://pineacresresort.com/
+
 ## Pine Grove Cottages
 
 - ID: ME-0059
@@ -5715,6 +7235,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=423
 
+## Pinewood Lodge Campground
+
+- ID: MA-0006
+- Town / area (approximate map location): Plymouth, MA
+- Type: Cabin
+- Description: Lakeside Plymouth campground with cabins,tiny houses and yurts.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unit types vary;do not infer guest limit from beds.
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children allowed; parental supervision, 11 p.m. own-site rule and adult restroom accompaniment under age 12.
+- Pet policy: No pets in rental units. Camping-site pet allowance does not apply to rental lodgings.
+- Website (book here, directly with the host): https://www.pinewoodlodge.com/
+
 ## PIONEER LIMIT 6
 
 - ID: ME-0562
@@ -5762,6 +7299,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=108
+
+## Plain View Farm
+
+- ID: MA-0314
+- Town / area (approximate map location): Hubbardston, MA
+- Type: Unknown
+- Description: Hubbardston alpaca farm offering stays in its 1800s home and farm visits with alpacas, llamas and chickens.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Farm day visits for scouts/schools do not establish overnight child admission; policy Unknown.
+- Pet policy: No overnight pet policy published.
+- Website (book here, directly with the host): https://plainviewfarmalpacas.com/
 
 ## Point of Views Cottage/Jefferson
 
@@ -5859,6 +7413,91 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.
 - Website (book here, directly with the host): https://presidentialmountainresort.com/
 
+## Private Berkshire Chalet in Worthington
+
+- ID: MA-0255
+- Town / area (approximate map location): Worthington, MA
+- Type: Unknown
+- Description: Worthington chalet with three bedrooms, a renovated kitchen, wraparound deck, covered porch and forest views.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Catalog6guests;description6–8;confirmationneeded
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1
+
+## PVT Waterfront Deck•Firepit•Parking•Close to Salem
+
+- ID: MA-0435
+- Town / area (approximate map location): Gloucester, MA
+- Type: House
+- Description: Three-bedroom Gloucester tidal riverfront home with a private deck, gas fire pit, kitchen and parking.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: Own-unit header6guests while description says sleeps8; numeric maximum left Unknown.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/pvt-waterfront-deckfirepitworkspacefree-parking
+
+## Pvt West Facing Deck|Pro Design|AC|Beach Access
+
+- ID: MA-0430
+- Town / area (approximate map location): Salisbury, MA
+- Type: Apartment
+- Description: Two-bedroom Salisbury condo with direct beach access, a private deck and grill, plus a shared backyard.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/pvt-west-facing-deckpro-designacbeach-access
+
+## Queen Bed |Boston|RM 2
+
+- ID: MA-0507
+- Town / area (approximate map location): Stoneham, MA
+- Type: Unknown
+- Description: Private queen bedroom in a Stoneham home with shared kitchen and living areas.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 2
+- Sleeps: Private room; bathroom/shared home amenities, not exclusive whole home.
+- Price: from 57 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. Child amenities described; acceptance/age rules not stated.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items. Resident dog Molly lives on site.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2269
+
+## Queen Bed |Boston|RM 3
+
+- ID: MA-0501
+- Town / area (approximate map location): Stoneham, MA
+- Type: Unknown
+- Description: Private room with a queen bed and access to shared living areas in Stoneham.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Private room; bathroom/shared home amenities, not exclusive whole home.
+- Price: from 63 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items. Resident dog Molly lives on site.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2270
+
 ## Quietside Cottage
 
 - ID: ME-0365
@@ -5923,6 +7562,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: NO PETS expressly stated
 - Website (book here, directly with the host): https://www.slopestoshoresvaca.com/
 
+## Red Jacket Beach Resort & Spa
+
+- ID: MA-0011
+- Town / area (approximate map location): South Yarmouth, MA
+- Type: Unknown
+- Description: Beachfront South Yarmouth resort with suites, vacation homes, pools and a private beach.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Whether you're traveling as a family, escaping as a couple, or settling in for a longer stay Primary booker21+ atRedJacketBeach; no staying-child age restriction found
+- Pet policy: Our pet policy is for dogs only.; We welcome dogs weighing 75 lbs. and under.; There's a $50 fee per dog per night, with a two-dog maximum per room. Only pre-approved dogs in select vacation cottages/rooms; contact reservationsbeforearrival; Max2dogs;75lb;50USD/dog/night plus applicabletax;500USDcleaningfee forunapproveddogs; Dogs prohibited resortbeaches MemorialDayweekend–LaborDayweekend; lobbies/dining/pools offlimits; Dogs unattended max2hours, avoid leavingdogs thatdisturbothers
+- Website (book here, directly with the host): https://www.redjacketresorts.com/resorts/beach-resort
+
 ## Red's Garden Cottage
 
 - ID: ME-0130
@@ -5937,6 +7593,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://acadia.ws/reds-garden/
+
+## Relaxing Cape Cod Hideaway with Modern Comforts
+
+- ID: MA-0260
+- Town / area (approximate map location): Orleans, MA
+- Type: Unknown
+- Description: Orleans house with three bedrooms, a fireplace, full kitchen, large deck, outdoor shower and gas fire pit.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: 10
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: No pets allowed.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/68f909afe0d64c001369b8b6?minOccupancy=1&adults=1
 
 ## Renee's Rentals
 
@@ -6018,6 +7691,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — age-based children rates
 - Website (book here, directly with the host): https://rideouts.com
 
+## Riverfront Log Home on 44 Acres with Sauna
+
+- ID: MA-0259
+- Town / area (approximate map location): Cummington, MA
+- Type: Unknown
+- Description: Cummington log home on 44 acres with riverfront, a gas fireplace, steam sauna and forest views.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: 10
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: No pets allowed.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1
+
 ## Riverfront Retreat for Families & Creatives | Dock + Views
 
 - ID: ME-0437
@@ -6050,6 +7740,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Conditional; check unit policy
 - Pet policy: Official cabin list identifies Serene Outlook, Owl's Branch and Hemlock Hideaway as pet-friendly. Confirm current unit rules and fees.
 - Website (book here, directly with the host): https://www.robertfrostmountaincabins.com/
+
+## Robert Paul Vacations
+
+- ID: MA-0013
+- Town / area (approximate map location): South Orleans, MA
+- Type: Unknown
+- Description: Cape Cod and South Coast vacation rental manager offering cottages, beach homes and estates.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit portfolio-wide children/infant age policy found in full rental policies.
+- Pet policy: Any TENANTS who bring a pet without expressed written permission from the LANDLORD may result in immediate eviction.; If you must leave your pet alone, pet crates are required. Written landlordpermission required for pet; Pet permission/fees vary by property/lease; pet deposits nonrefundable; Crate required if pet leftalone
+- Website (book here, directly with the host): https://www.robertpaulvacations.com/
 
 ## Robie’s Cabins
 
@@ -6197,6 +7904,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Published policy: Yes
 - Pet policy: Published policy: Yes
 - Website (book here, directly with the host): https://sabattus.lazy.vacations/
+
+## Safe Studio near Hospitals in Boston
+
+- ID: MA-0408
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Boston studio on Tremont Street with a kitchen, internet and air conditioning, close to the Theater District and downtown hospitals.
+- Rooms: Unknown
+- Bedrooms: 0
+- Bathrooms: 1
+- Sleeps: Ownstudioheader2guests,1bed,1bath; studio classified0separatebedrooms.
+- Price: from 136 USD a night
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: OwnHomeRules says Suitableforchildren.
+- Pet policy: OwnHomeRules saysNopets.
+- Website (book here, directly with the host): https://dtravel.com/620244ae-aa18-4af0-b19d-937248172df5/property/32220621
 
 ## Sally Mountain Cabins
 
@@ -6367,6 +8091,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/sand-life-2/
 
+## Sandwich Inn and Suites
+
+- ID: MA-0007
+- Town / area (approximate map location): Sandwich, MA
+- Type: Unknown
+- Description: Boutique Sandwich inn with guest rooms, kitchenette studios and shared landscaped grounds.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: We have two Pack 'n Play Cribs that are available on a first-come basis. Cribs are free. Check-in guest21+; not a prohibition on accompanied children; Two free cribs first-come
+- Pet policy: And we do not allow pets.
+- Website (book here, directly with the host): https://www.sandwichinnandsuites.com/
+
 ## Sandy Beach at Port
 
 - ID: ME-0385
@@ -6478,6 +8219,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No — strict no-pets rule
 - Website (book here, directly with the host): https://schoonerslanding.net
 
+## Scituate by the Sea - Walk to the Beach
+
+- ID: MA-0251
+- Town / area (approximate map location): Scituate, MA
+- Type: Unknown
+- Description: Scituate house with three bedrooms, a full kitchen, deck and outdoor shower within walking distance of the beach.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 8
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Dogs allowed, but quantity and fee conflict: description two dogs age 1+ at $50 each; widget maximum one/no additional fee. Confirm before booking.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1
+
 ## Sea Acres Cottages
 
 - ID: ME-0079
@@ -6527,6 +8285,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes (family accommodations, crib)
 - Pet policy: Yes (well-behaved; $25/pet)
 - Website (book here, directly with the host): https://seaescapecottages.com
+
+## Sea Lion Motel & Cottages
+
+- ID: MA-0203
+- Town / area (approximate map location): Gloucester, MA
+- Type: Unknown
+- Description: Gloucester cottages with full kitchens, private porches or decks, and access to a shared outdoor pool.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children under 10 free; age 10+ extra-person charge $10/night; rollaways $10/night. Rates page is undated, confirm current charges.
+- Pet policy: No pets allowed.
+- Website (book here, directly with the host): https://sealionmotel.com/
 
 ## Sea Maine Vacation Rentals
 
@@ -6828,6 +8603,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://sharonthonermainerentals.com
 
+## Shelburne Falls Firehouse Studios
+
+- ID: MA-0303
+- Town / area (approximate map location): Shelburne Falls, MA
+- Type: Unknown
+- Description: Three vacation apartments in a restored Shelburne Falls firehouse, within walking distance of downtown shops and dining.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Conditional; check unit policy
+- Pets welcome: no
+- Children policy: Studio One explicitly provides a bunk room ideal for kids. No explicit child admission policy found for Studios Two/Three; do not transfer Studio One’s child suitability to every unit.
+- Pet policy: All three studio-specific linked host listings explicitly prohibit pets. Studio One expanded rules specify service animals only.
+- Website (book here, directly with the host): https://www.firehouse-studios.com/
+
 ## Shin Pond Village
 
 - ID: ME-0181
@@ -6889,6 +8681,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://simple.fyi/
 
+## SISU a boutique motel
+
+- ID: MA-0014
+- Town / area (approximate map location): Plymouth, MA
+- Type: Unknown
+- Description: Small Plymouth motel with private-entry cottage rooms, patios and group buyouts.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: We do allow kids at sisu.; For any children under 2 years old, they are allowed as an additional guest beyond the 2 person room capacity. OnlyCaptainsQuarters allows morethan2guests exceptunder2child exception; Confirm portable cribwhenbooking so roomhas adequate space
+- Pet policy: we have decided to not allow any pets in the guest rooms. Resident dogAugustus keptoutof guest rooms; doesnotpermitguestpets
+- Website (book here, directly with the host): https://www.sisuplymouth.com/
+
 ## Snowball Hill Cottage
 
 - ID: ME-0185
@@ -6919,6 +8728,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://songbirdstudiovt.lovable.app/
 
+## Spacious Coastal Townhome | Deck & Parking
+
+- ID: MA-0515
+- Town / area (approximate map location): Swampscott, MA
+- Type: Unknown
+- Description: Four-bedroom Swampscott townhome with a kitchen, private deck and garage parking.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 2
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 306 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found. Child amenities described; acceptance/age rules not stated.
+- Pet policy: 9.Pets - Policy Violation: No pets are allowed. If this policy is violated, the guest will be responsible for all cleaning and replacement costs for beds and linens.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/22346352
+
+## Spacious Guest House in Falmouth Village
+
+- ID: MA-0402
+- Town / area (approximate map location): Falmouth, MA
+- Type: House
+- Description: Studio guest house in Falmouth Village with a king bed, kitchenette, private entrance and shared outdoor spaces near the bikeway.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 1
+- Sleeps: Own detail says studio layout and 1 Beds; bedroom count left Unknown rather than equating bed count with a separate bedroom.
+- Price: $595–$2,275 per week displayed on operator catalog; date-dependent, fees/taxes not established; not a total reservation quote.
+- Children welcome: Unknown
+- Pets welcome: yes
+- Children policy: Suitable for infants listed; older-child policy not explicit.
+- Pet policy: Pets allowed on own-unit detail; restrictions/fees not established on checked pages.
+- Website (book here, directly with the host): https://www.75locustfalmouth.com/rentals/spacious-guest-house-in-falmouth-village
+
+## Spacious Lenox Home Near Tanglewood
+
+- ID: MA-0254
+- Town / area (approximate map location): Lenox, MA
+- Type: Unknown
+- Description: Historic Lenox home near Tanglewood with four bedrooms, a screened porch, deck and mountain views.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: 3
+- Sleeps: 12
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: No pets allowed.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1
+
 ## Spacious Skies French Pond
 
 - ID: NH-0042
@@ -6935,6 +8795,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Official site describes family-friendly stays and campground activities.
 - Pet policy: Rental-unit pet permission not established in this pass.
 - Website (book here, directly with the host): https://spaciousskiescampgrounds.com/french-pond/
+
+## Split Rock, Easy Walk To Beach & Scenic Trails
+
+- ID: MA-0252
+- Town / area (approximate map location): Mattapoisett, MA
+- Type: Unknown
+- Description: Mattapoisett home near Crescent Beach with three bedrooms, a large deck, outdoor shower and fire pit.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2.5
+- Sleeps: 8
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Suitable for children ages 2–12 and infants under 2.
+- Pet policy: Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.
+- Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1
 
 ## Squabetty
 
@@ -7121,6 +8998,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://stowecountryhomes.com/
 
+## Strawberry Moon – West Island
+
+- ID: MA-0283
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: West Island home with two bedrooms, a gourmet kitchen, landscaped yard and covered deck near beaches.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1.5
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/
+
+## Stunning Design|7minWalk to Beach|Lg BackYard|Deck
+
+- ID: MA-0421
+- Town / area (approximate map location): Plymouth, MA
+- Type: House
+- Description: Five-bedroom Plymouth vacation house with a large yard, deck and kitchen, a short walk from the beach.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pets permitted with a $50 fee. Species restrictions not specified in these rules.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck
+
+## Stunning Design|Fireplace|Custom Desk|Balcony
+
+- ID: MA-0428
+- Town / area (approximate map location): Beverly, MA
+- Type: Apartment
+- Description: One-bedroom Beverly apartment with an electric fireplace, private balcony, kitchen, workspace and parking.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Policy - Pets are not allowed
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/stunning-designfireplacecustom-deskbalcony
+
 ## SUNNY BREAK- LIMIT 4
 
 - ID: ME-0553
@@ -7217,6 +9145,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/beachy-keen/
+
+## Surf Side Cottages
+
+- ID: MA-0105
+- Town / area (approximate map location): Wellfleet, MA
+- Type: Unknown
+- Description: Seasonal Wellfleet cottages near Lecount Hollow Beach, with shared grounds and beach access.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Weekly Sat-Sat orSun-Sun;14.45%or17.45%tax;$200refundabledeposit;linensoptional$20+tax/guest
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Quiet Hours begin each night at 10:00. After that time, please restrict your activities to those that would not awaken a child who may be asleep next door.
+- Pet policy: Up to 2 animals allowed per cottage each stay.; Cats and dogs are allowed with a payment of the pet fee. Onlypet-permittedcottages; advance notice; maximum2cats/dogs; Onepet100USD+tax/week;two165USD+tax/week
+- Website (book here, directly with the host): https://www.surfsidecottages.com/
+
+## Surfside Cottage
+
+- ID: MA-0414
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Three-bedroom Cape-style Edgartown cottage with a large upper deck, grill, outdoor shower and backyard seating.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1.5
+- Sleeps: Own-unit published maximum, bedrooms and full/half-bath layout checked.
+- Price: from 2700 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.
+- Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
+- Website (book here, directly with the host): https://mvyvacations.com/listing/surfside-cottage/
 
 ## Surry Maine Studio by the Sea
 
@@ -7390,6 +9352,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://blueberryhousemaine.com
 
+## The Boston Christopher
+
+- ID: MA-0406
+- Town / area (approximate map location): Boston, MA
+- Type: Apartment
+- Description: Furnished vacation studios and one-bedroom apartments in Boston’s South End, with kitchens, laundry access and a shared roof deck.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Operatorrecord. StudioSuite typesleeps2 inopenqueenbedspace; not operator-wide occupancy.
+- Price: No dated quote requested.
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Expanded Travelingwithfamily FAQ welcomesfamilies; room-type and walk-up limitations vary.
+- Pet policy: Expanded Travelingwithdog FAQ says these properties are not petfriendly; another building’s policy not transferred.
+- Website (book here, directly with the host): https://bostonchristopher.com/
+
 ## The Bray Hill House
 
 - ID: NH-0054
@@ -7406,6 +9385,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Home welcomes families with kids
 - Pet policy: Dog friendly; other species Unknown
 - Website (book here, directly with the host): https://brayhillhouse.com/
+
+## The Calico Seahorse
+
+- ID: MA-0207
+- Town / area (approximate map location): Plymouth, MA
+- Type: Unknown
+- Description: Themed beach bungalows and a main house near White Horse Beach, with kitchens and a shared fire pit.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Operator-wide policy not established; Sintra explicitly welcomes children.
+- Pet policy: Operator-wide policy not established; Sintra dogs with prior approval and fee.
+- Website (book here, directly with the host): https://thecalicoseahorse.com/
 
 ## The Cobble House
 
@@ -7472,6 +9468,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=194364
 
+## The Cottages at Nantucket Boat Basin
+
+- ID: MA-0115
+- Town / area (approximate map location): Nantucket, MA
+- Type: Unknown
+- Description: Waterfront cottages and lofts with kitchens at Nantucket Boat Basin.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: For families traveling with children, Nantucket offers camps and classes, and The Cottages offers fishing rods and tackle as well as scavenger hunts among other activities to keep young guests entertained.
+- Pet policy: We welcome dogs and cats, as long as you receive inn keeper approval prior to arrival.; Nightly Pet Fee, maximum 2 dogs per cottage Maximum2dogs/cottage; nightlypetfee amountnotstated; Petsmustbequiet; catlimitnotexplicitlyspecified
+- Website (book here, directly with the host): https://www.thecottagesnantucket.com/
+
 ## The Cottages at Summer Village
 
 - ID: ME-0114
@@ -7536,6 +9549,57 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://thereachinn.com
+
+## The Even’tide Resort & Cottages
+
+- ID: MA-0108
+- Town / area (approximate map location): Wellfleet, MA
+- Type: Unknown
+- Description: Family-owned Wellfleet resort with rooms, standalone cottages, an indoor pool and recreation.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children under 18 years old will not be allowed in the Pool Area unless accompanied by an adult.; Porta-crib rental: $25.00 per week. Roll-away bed or full size crib rental: $45.00 per week. Portacrib25USD/week; fullcrib/rollaway45USD/week
+- Pet policy: No Pets are allowed on property
+- Website (book here, directly with the host): https://www.eventidewellfleet.com/
+
+## The Fairview
+
+- ID: MA-0278
+- Town / area (approximate map location): Fairhaven, MA
+- Type: Unknown
+- Description: Fairhaven waterfront home with three bedrooms, a full kitchen, backyard and panoramic ocean views.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 1
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.
+- Pet policy: Pets allowed, maximum two per matched Airbnb House rules; fee and other limits not published.
+- Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/the-fairview/
+
+## The FreshGrass Annex at The Porches
+
+- ID: MA-0319
+- Town / area (approximate map location): North Adams, MA
+- Type: Unknown
+- Description: North Adams inn annex with minimalist queen rooms, shared living areas and creative studio spaces for artists and travelers.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Annex queen room categories sleep two; not campus total.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Porches FAQ offers Pack ’n Plays on advance request, but Annex-specific occupancy/infant permission not established on its two-person room pages. Retained Unknown for Annex.
+- Pet policy: Porches-wide FAQ permits pets only in Building 2 designated rooms for $40/pet/night, with leash/crate rules; other lodging buildings prohibited. Annex page does not establish its rooms are eligible; confirm Annex-specific booking before admission claim.
+- Website (book here, directly with the host): https://porches.com/stay/freshgrass-annex/
 
 ## The Gathering Place/Jefferson
 
@@ -7724,6 +9788,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes
 - Website (book here, directly with the host): https://bayleyvacationrentals.com/property/the-lookout/
 
+## The Maguire House
+
+- ID: MA-0316
+- Town / area (approximate map location): Ashburnham, MA
+- Type: Unknown
+- Description: Three-room Ashburnham bed and breakfast on 44 acres, with lake and mountain views, private baths and full breakfast.
+- Rooms: 3
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Conditional; check unit policy
+- Pets welcome: no
+- Children policy: Children over eight welcome; exceptions for younger children require calling in advance.
+- Pet policy: Pets not allowed.
+- Website (book here, directly with the host): https://www.maguirehouse.com/
+
 ## The Maine House on Dingley
 
 - ID: ME-0163
@@ -7738,6 +9819,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://the-maine-house-on-dingley.hosted.ownerrez.com
+
+## The Mermaid Cottage at Cape Cod Canal Compound Lodge
+
+- ID: MA-0405
+- Town / area (approximate map location): Wareham / Onset, MA
+- Type: House
+- Description: Waterfront Onset vacation house for eight with two bedrooms, a sea deck and shared access to a hot tub, beach and kayaks.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 2
+- Sleeps: Own listing8guests,2bedrooms,5beds,2bathrooms. Shared campus amenities are distinguished from private sea deck.
+- Price: Date-dependent rate; visiblecurrencyUSD but Book Now URLcurrencyEUR, no quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Children welcome on own-unit policies.
+- Pet policy: Only pre-approved dogs up to40lb; leash required. Other animals not permitted.
+- Website (book here, directly with the host): https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge
 
 ## The Mountain House
 
@@ -7789,6 +9887,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes — responsible renters cover resulting carpet cleaning
 - Website (book here, directly with the host): https://thenestmaine.com/
 
+## The Old Mill Inn
+
+- ID: MA-0308
+- Town / area (approximate map location): Hatfield, MA
+- Type: Unknown
+- Description: Historic Hatfield inn beside the Mill River offering rooms and full-kitchen suites, near Northampton.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Conditional; check unit policy
+- Pets welcome: no
+- Children policy: Seventeen and under may share parents’ room without extra room charge where a roll-away fits; call to arrange.
+- Pet policy: Pets not currently permitted.
+- Website (book here, directly with the host): https://www.oldmillinn.us/
+
 ## The Osprey/New Harbor
 
 - ID: ME-0461
@@ -7820,6 +9935,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Published playground policy permits children with supervision; family stays described.
 - Pet policy: Only cabins 4, 5 and 6, subject to direct approval, availability and breed restrictions; $30 flat pet fee. Pets cannot be left alone and must be leashed.
 - Website (book here, directly with the host): https://thepatio.com/
+
+## The Pearl Rockport
+
+- ID: MA-0209
+- Town / area (approximate map location): Rockport, MA
+- Type: Unknown
+- Description: Three locally operated Rockport apartments with seasonal private stair access to Front Beach.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Operator-wide policy not established; checked apartment allows children and infants.
+- Pet policy: Operator-wide policy not established; checked apartment permits up to two approved dogs, $200/stay.
+- Website (book here, directly with the host): https://thepearl.staycation.igms.com/
 
 ## The Preserve at Chocorua
 
@@ -7886,6 +10018,54 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=509
 
+## The Rockport House
+
+- ID: MA-0015
+- Town / area (approximate map location): Rockport, MA
+- Type: Unknown
+- Description: Rockport accommodations include a private three-bedroom cottage and suites with kitchens.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Cottage3bedrooms;operator-wide values remainUnknown.
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children of all ages welcome; pack’n play by request.
+- Pet policy: Pets not permitted; ADA service animals welcome.
+- Website (book here, directly with the host): https://therockporthouse.com/
+
+## The Satanic Suite
+
+- ID: MA-0022
+- Town / area (approximate map location): Salem, MA
+- Type: Unknown
+- Description: Private Salem suite with a bedroom,bathroom and full kitchen inside The Satanic Temple.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://thesatanicsuite.com/
+
+## The Seaward / Spruce Cottage
+
+- ID: MA-0205
+- Town / area (approximate map location): Rockport, MA
+- Type: Unknown
+- Description: Spruce Cottage has ocean views, two bedrooms, a kitchenette and a wood burning fireplace in Rockport.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: 3
+- Price: from 1636 USD a night
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Pet policy: Prior owner approval; $50/week; pets must be quiet/clean, furniture protected and damage paid by guest.
+- Website (book here, directly with the host): https://theseawardrockport.com/
+
 ## THE SHOPPE LIMIT 3
 
 - ID: ME-0526
@@ -7918,6 +10098,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — cabins marketed to families
 - Website (book here, directly with the host): https://tamaracksmaine.com/
 
+## The Trail in Adams
+
+- ID: MA-0301
+- Town / area (approximate map location): Adams, MA
+- Type: Unknown
+- Description: Nine-room artist-decorated inn on the Ashuwillticook Rail Trail in Adams, collaborating with the Adams Theater.
+- Rooms: 9
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Booking interface offers Children (0-18 yrs), but no explicit child admission rule found; generic selector alone does not confirm all rooms accept children.
+- Pet policy: No published pet policy found in checked home, room and initial booking pages.
+- Website (book here, directly with the host): https://www.thetrailinadams.com/
+
 ## The Vermont Treehouse
 
 - ID: VT-0059
@@ -7932,6 +10129,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.thevermonttreehouse.com/
+
+## The Whately Inn
+
+- ID: MA-0313
+- Town / area (approximate map location): Whately, MA
+- Type: Unknown
+- Description: Whately village inn offering overnight rooms with private baths and electric fireplaces, alongside a restaurant.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: No child admission policy published in checked accommodation page.
+- Pet policy: No pet admission policy published in checked accommodation page.
+- Website (book here, directly with the host): https://whatelyinn.com/
 
 ## The Willows/Damariscotta Lake
 
@@ -7992,6 +10206,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138640
+
+## Thomas Sea Suites at Harbourtown
+
+- ID: MA-0008
+- Town / area (approximate map location): Plymouth, MA
+- Type: Unknown
+- Description: Waterfront Plymouth condo suites and penthouses with full kitchens and separate living areas.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Multiple suites and penthouses;facts vary.
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Pack-n-plays available on request; homepage explicitly welcomes families.
+- Pet policy: Pets considered subject to confirmation; maximum 30 pounds; $200 per pet per stay.
+- Website (book here, directly with the host): https://www.thomasseasuites.com/
 
 ## Thompson House & Cottages
 
@@ -8246,6 +10477,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Only Garden Villa; prior host approval; $100 fee; maximum2dogs
 - Website (book here, directly with the host): https://www.tuckawaystays.com/
 
+## Tulum Theme|Pvt Beach Access|Parking|New Listing
+
+- ID: MA-0431
+- Town / area (approximate map location): Salisbury, MA
+- Type: Apartment
+- Description: Tulum-themed two-bedroom Salisbury condo with beach access, outdoor dining and a three-season sunroom bar.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: 1
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: Unknown
+- Pets welcome: Conditional; check unit policy
+- Children policy: No explicit child policy established.
+- Pet policy: Pet Fee = $75 (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/tulum-themepvt-beach-accessparkingnew-listing
+
 ## Turner Farm Guesthouse
 
 - ID: ME-0189
@@ -8260,6 +10508,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://turnerfarm.lodgify.com
+
+## Twin XL Bed|Boston|RM 1
+
+- ID: MA-0510
+- Town / area (approximate map location): Stoneham, MA
+- Type: Unknown
+- Description: Private first-floor room with a Twin XL bed in a Stoneham home with shared living areas.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 1
+- Sleeps: Private room; bathroom/shared home amenities, not exclusive whole home.
+- Price: from 66 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items. Resident dog Molly lives on site.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/2271
 
 ## UNUSUAL LATITUDE LIMIT 7
 
@@ -8355,6 +10620,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://vermontvacation-rentals.com/
 
+## View Point — Michelle Sylvia Coastal Collection
+
+- ID: MA-0010
+- Town / area (approximate map location): Chatham, MA
+- Type: Unknown
+- Description: Waterfront Chatham estate with a pool, guest cottage, beach access and a children’s suite.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: 8.5
+- Sleeps: Own RentalInformation occupancy15. Header says8bedrooms but detailedbedlist enumerates6mainrooms+bonuskidssuite+2guestcottagerooms; bedroomcount retainedUnknown dueconflict.
+- Price: from 45000 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Own rentaldescription explicitlyincludeschildren’ssuite/BonusKidsSuite; no childagecutoff or supervisionpolicy published.
+- Pet policy: Exactunit listed in ownPetFriendlyVacationRentals catalog; no unit-specific petfee/restrictions inOwnerPolicies. RobertPaul generalpolicy requires writtenlandlordpermission; confirmlease.
+- Website (book here, directly with the host): https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015
+
 ## Viking Trail Cabin
 
 - ID: ME-0216
@@ -8387,6 +10669,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Marketing to families
 - Pet policy: Designated dog-friendly accommodation; separate dog policy not yet read
 - Website (book here, directly with the host): https://easternslopeinn.com/lodging/village-place/
+
+## Vineyard House
+
+- ID: MA-0411
+- Town / area (approximate map location): Edgartown, MA
+- Type: House
+- Description: Three-bedroom Edgartown vacation house with cathedral ceilings, a kitchen, deck, grill and outdoor shower near South Beach.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Own-unit published maximum, bedrooms and full/half-bath layout checked.
+- Price: from 2800 USD a night
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.
+- Pet policy: Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.
+- Website (book here, directly with the host): https://mvyvacations.com/listing/vineyard-house/
 
 ## Visit Sunday River Vacation Rentals
 
@@ -8439,6 +10738,40 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://booking.rockycoastrentals.com/listings/507581
 
+## Walk2DNTN•Beach•Beauport•Boat Island•Close2Salem
+
+- ID: MA-0424
+- Town / area (approximate map location): Gloucester, MA
+- Type: House
+- Description: Three-bedroom Gloucester coastal home with a kitchen and parking near downtown, the harbor and beaches.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: 2
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will be a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/walk-to-dntnbeachbeauport-boat-island-new-home
+
+## WaterAccess 5-Bed 2-Bath Retreat
+
+- ID: MA-0509
+- Town / area (approximate map location): Barnstable, MA
+- Type: Unknown
+- Description: Five-bedroom top-floor Hyannis apartment across two connected wings near the marina.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: Entire home as labelled by own listing.
+- Price: from 414 USD a night
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: Expanded own house rules checked2026-10-26: primary booker18+, no explicit child/infant staying-age policy found.
+- Pet policy: Pets are not allowed. Unauthorized pets may result in additional cleaning and replacement fees for affected items.
+- Website (book here, directly with the host): https://wazedevelopment.dtravel.com/property/4224
+
 ## Watercrest Cottages
 
 - ID: ME-0115
@@ -8455,6 +10788,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — playground and family cottages
 - Pet policy: Varies — designated pet-friendly cottages, including Units 108 and 117
 - Website (book here, directly with the host): https://watercrestcottages.com
+
+## Waterfront Retreat at Motif Annex
+
+- ID: MA-0445
+- Town / area (approximate map location): Rockport, MA
+- Type: Apartment
+- Description: Waterfront Rockport retreat at Motif Annex with a loft-style king bedroom, two bathrooms and a kitchen on Bearskin Neck.
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: 2
+- Sleeps: Published unit header and catalog agree on guest/bedroom/bathroom counts.
+- Price: Own reservation widget requires dates to show pricing; no dated quote requested.
+- Children welcome: yes
+- Pets welcome: Conditional; check unit policy
+- Children policy: Families or child amenities explicitly mentioned on own-unit page.
+- Pet policy: Pet Fee = $75/pet (Dogs are welcome, and cats are not allowed). Pick up all dog waste. Any dog waste found after a guest will result in a $50 clean-up fee.
+- Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/waterfront-retreat-at-motif-annex
 
 ## Webhannet by the Sea
 
@@ -8488,6 +10838,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Conditional; check unit policy
 - Pet policy: Max2pets/room,35lb max each,$30/night; dogs restricted by listed breed/aggression; never unattended; vaccination/leash/waste rules
 - Website (book here, directly with the host): https://www.weirsbeachmotel.com/
+
+## Wellfleet by the Sea Cottages
+
+- ID: MA-0107
+- Town / area (approximate map location): Wellfleet, MA
+- Type: Unknown
+- Description: Wellfleet oceanfront cottage rentals on a dune; selected interior photos show CottageOne.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: no
+- Children policy: No child/infant age policy found in published Rules or amenities.
+- Pet policy: Pets are not allowed. This includes the pets of day visitors. No guest or dayvisitorpets; applies cottages andBeachHouse
+- Website (book here, directly with the host): https://www.wellfleetbythesea.com/
 
 ## West Bay Acadia
 
@@ -8598,6 +10965,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=100
 
+## White Elephant Nantucket
+
+- ID: MA-0120
+- Town / area (approximate map location): Nantucket, MA
+- Type: Unknown
+- Description: Nantucket hotel with garden cottages, residences and downtown lofts.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: For families traveling with children, Nantucket offers camps and classes, and White Elephant offers scavenger hunts among other activities and amenities to keep young guests entertained. Residence roomfeaturesexplicitlyinclude2adult2children/4adult2children/6adult2childrenoptions
+- Pet policy: Pets are not permitted except at our sister property The Cottages at the Boat Basin Petban atWhiteElephant; exceptionreferstosisterproperty, not thiscampus
+- Website (book here, directly with the host): https://www.whiteelephantnantucket.com/
+
 ## White Mountain Dream Cabin
 
 - ID: ME-0351
@@ -8629,6 +11013,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/301541
+
+## Wilder House Berkshires
+
+- ID: MA-0307
+- Town / area (approximate map location): Sheffield, MA
+- Type: Unknown
+- Description: Family-owned five-room bed and breakfast in an 1802 Sheffield farmhouse, with private bathrooms and made-to-order breakfast.
+- Rooms: 5
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: no
+- Children policy: Children allowed; supervision required in common/outdoor areas, parents responsible for damage. Room One recommended for families; pack-n-play available on request.
+- Pet policy: Pets prohibited. Terms state $200 cleaning fee if a pet is found; alternative accommodation required for pet.
+- Website (book here, directly with the host): https://www.wilderhouseberkshires.com/
 
 ## WILDFLOWER CABINS LIMIT 6
 

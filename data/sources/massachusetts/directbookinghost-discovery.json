@@ -1,0 +1,16 @@
+{
+  "checkedOn": "2026-10-26",
+  "searchUrl": "https://www.directbookinghost.com/stays/search?where=Massachusetts&guests=1",
+  "query": "Massachusetts; any dates;1guest",
+  "displayedWorldwideResults": 62,
+  "listingCardsReviewed": 63,
+  "maMatchingCards": [
+    {
+      "context": "\u2039\n\u203a\n\nProvincetown, MA\n\nPrivate Cottage Oasis with Parking\n5.0\n\n1 bed \u00b7 1 bath \u00b7 2 guests\n\n$199 / night\u00b7 Book direct",
+      "text": "Provincetown, MA\n\nPrivate Cottage Oasis with Parking\n5.0\n\n1 bed \u00b7 1 bath \u00b7 2 guests\n\n$199 / night\u00b7 Book direct",
+      "url": "https://www.directbookinghost.com/stays/james-spinale-c2rj1q"
+    }
+  ],
+  "limitation": "Where Massachusetts filter returns worldwide stays; displayed62worldwidestays,63listing-stylelinks including one navigation link. TargetMAlead extracted by its actual published location.",
+  "status": "All exposed search/catalog cards reviewed; one ProvincetownMA candidate found and detail opened; reverse-search found only directory page, independent website not established"
+}

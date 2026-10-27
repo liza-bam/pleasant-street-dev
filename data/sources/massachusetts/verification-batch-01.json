@@ -1,0 +1,3521 @@
+[
+  {
+    "id": "MA-0001",
+    "name": "Andi Candello | Provincetown REALTOR® | Kinlin Grover Real Estate",
+    "website": "http://andreacandello.kinlingrover.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "VisitMA identifies local real-estate sales/rentals; published site blocked by client and HTTPS navigation timeout; vacation accommodation/direct rental path not established.",
+    "sourceUrl": "https://www.visitma.com/business/15194/",
+    "discoveryMethod": "Official statewide tourism directory",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/",
+    "openedUrls": [
+      "https://www.visitma.com/business/15194/",
+      "http://andreacandello.kinlingrover.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Individual property/host",
+    "recordType": "operator",
+    "description": "Unknown",
+    "descriptionSource": "Unknown",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Access incomplete",
+    "remainingGaps": [
+      "Photos",
+      "Own contact and property details"
+    ],
+    "accessFailures": [
+      {
+        "url": "http://andreacandello.kinlingrover.com/",
+        "observed": "net::ERR_BLOCKED_BY_CLIENT"
+      },
+      {
+        "url": "https://andreacandello.kinlingrover.com/",
+        "observed": "CDP navigation timeout; native browser error page; no contact review possible"
+      }
+    ]
+  },
+  {
+    "id": "MA-0003",
+    "name": "Coastal Acres Campground",
+    "website": "https://coastalacresprovincetown.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own Provincetown campground identity/contact and reservation page expressly offers camper rentals; direct phone/email and reservation destination verified.",
+    "sourceUrl": "https://www.visitma.com/business/12205/",
+    "discoveryMethod": "Official statewide tourism directory",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/",
+    "openedUrls": [
+      "https://www.visitma.com/business/12205/",
+      "https://coastalacresprovincetown.com/",
+      "https://coastalacresprovincetown.com/contact/",
+      "https://coastalacresprovincetown.com/reservations/"
+    ],
+    "contactPagesChecked": [
+      "https://coastalacresprovincetown.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "76R Bayberry Avenue",
+      "city": "Provincetown",
+      "state": "MA",
+      "zip": "02657",
+      "source": "https://coastalacresprovincetown.com/contact/",
+      "notes": "Separate mailing POBox593"
+    },
+    "bookingMethod": "Phone5084871700,emailcoastalacresptown@gmail.com or official contact form",
+    "bookingUrl": "https://www.camplife.com/487/reservation/step1",
+    "classification": "Camp / glamping",
+    "recordType": "operator",
+    "description": "Provincetown campground with seasonal camper rentals near Commercial Street.",
+    "descriptionSource": "https://coastalacresprovincetown.com/reservations/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "All children/teenagers must be at their site under supervision by 10:00 PM. Children supervised at site by22:00",
+      "petsDetails": "Maximum two (2) pets per site. Must be leashed, controlled, and never left unattended. No visiting pets. Maximum2pets/site; leash/cleanup; no visiting pets; no unattended dogs; avoid campgroundpond; Dog registered at check-in with IDtag and vaccination records",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0003-cover.webp",
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2016/04/Banner-image-home-1030x687.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "role": "cover",
+        "unitOrCampus": "shared campground campus",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1030,
+        "originalHeight": 687,
+        "sha256": "5d155893e4d9f0700402891ffd084b32b283f6ed60c8cacda07c8d5bc1b2321a",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0003-000.webp",
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2016/06/dji_0012-1030x579.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "role": "additional",
+        "unitOrCampus": "shared campground campus",
+        "width": 1030,
+        "height": 579,
+        "originalWidth": 1030,
+        "originalHeight": 579,
+        "sha256": "ddd6fb2b153e4dd51bc9764a7fafc31f9f75a954b11a568299e15fdd977b8e16",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0003-001.webp",
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2016/06/2016-05-29_160246_bistro_tables_outside_camp_store-1030x686.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "role": "additional",
+        "unitOrCampus": "shared campground campus",
+        "width": 1030,
+        "height": 686,
+        "originalWidth": 1030,
+        "originalHeight": 686,
+        "sha256": "7b8167952aee0a3b338c27063afdf1537154b41f1bdc29a542d66094f2c31b1e",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0003-002.webp",
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2023/11/CAC-East-side-ramp-sunset-1030x773.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "role": "additional",
+        "unitOrCampus": "shared campground campus",
+        "width": 1030,
+        "height": 773,
+        "originalWidth": 1030,
+        "originalHeight": 773,
+        "sha256": "f0c0a4b486179024b413e743c352005499ece77d5b62f1e53308c4dc241d1452",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2016/04/Banner-image-home-1030x687.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "unitOrCampus": "shared campground campus",
+        "alt": "Campground"
+      },
+      {
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2016/06/dji_0012-1030x579.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "unitOrCampus": "shared campground campus",
+        "alt": "Campground skyline"
+      },
+      {
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2016/06/2016-05-29_160246_bistro_tables_outside_camp_store-1030x686.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "unitOrCampus": "shared campground campus",
+        "alt": "Tables outside camp store"
+      },
+      {
+        "url": "https://coastalacresprovincetown.com/wp-content/uploads/2023/11/CAC-East-side-ramp-sunset-1030x773.jpg",
+        "sourcePage": "https://coastalacresprovincetown.com/",
+        "unitOrCampus": "shared campground campus",
+        "alt": "East ramp sunset"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened pages; no Airbnb/Vrbo/Booking listing links found",
+    "remainingGaps": [
+      "Photos",
+      "Own contact and property details"
+    ],
+    "accessFailures": [],
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "notes": " Policy audit2026-10-26: Campground-wide rules include rental campers; no particular camper pet exception found. Sources: https://coastalacresprovincetown.com/rules/; https://coastalacresprovincetown.com/wp-content/uploads/2026/08/Coastal-Acres-Campground-2026-Confirmation-August-2026.pdf; https://coastalacresprovincetown.com/wp-content/uploads/2025/12/Coastal-Acres-Campground-Dog-Policy.pdf",
+    "operatorEvidenceUrl": "https://coastalacresprovincetown.com/contact/"
+  },
+  {
+    "id": "MA-0005",
+    "name": "Katama Delight of Martha's Vineyard",
+    "website": "https://katamadelight.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Official tourism describes Edgartown vacation home; two direct operator-site navigations timed out without rendering target. Retain candidate; no own contact/accommodation verification.",
+    "sourceUrl": "https://www.visitma.com/business/6543/",
+    "discoveryMethod": "Official statewide tourism directory",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/",
+    "openedUrls": [
+      "https://www.visitma.com/business/6543/",
+      "https://katamadelight.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "description": "Unknown",
+    "descriptionSource": "Unknown",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Access incomplete",
+    "remainingGaps": [
+      "Photos",
+      "Own contact and property details"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://katamadelight.com/",
+        "observed": "Two navigation timeouts; target did not render. Previous page remained visible."
+      }
+    ]
+  },
+  {
+    "id": "MA-0007",
+    "name": "Sandwich Inn and Suites",
+    "website": "https://www.sandwichinnandsuites.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation identity,MA location and direct rental inquiry/contact destination.",
+    "sourceUrl": "https://www.visitma.com/business/15972/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Small inn / lodge",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitma.com/business/15972/",
+      "https://www.sandwichinnandsuites.com/",
+      "https://www.sandwichinnandsuites.com/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.sandwichinnandsuites.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "14 Route6A",
+      "city": "Sandwich",
+      "state": "MA",
+      "zip": "02563",
+      "source": "https://www.sandwichinnandsuites.com/contact"
+    },
+    "bookingMethod": "Phone5088880409 or frontdesk@sandwichinnandsuites.com",
+    "bookingUrl": "https://secure.webrez.com/hotel/2004",
+    "description": "Boutique Sandwich inn with guest rooms, kitchenette studios and shared landscaped grounds.",
+    "descriptionSource": "https://www.sandwichinnandsuites.com/",
+    "notes": "Own homepage explicitly studios with stocked kitchenettes; independent operator contact confirmed. Policy audit2026-10-26: Pet ban corroborated by FAQ12. Child accommodation explicit via free cribs; no child age cutoff published. Sources: https://www.sandwichinnandsuites.com/policies; https://www.sandwichinnandsuites.com/faqs",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "We have two Pack 'n Play Cribs that are available on a first-come basis. Cribs are free. Check-in guest21+; not a prohibition on accompanied children; Two free cribs first-come",
+      "petsDetails": "And we do not allow pets. ",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no actual Airbnb/Vrbo/Booking listing links found",
+    "photos": [
+      {
+        "file": "images/MA-0007-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/1786076167845-1BC1FJ1R2PEDOZKFXCB0/Sandwich+Inn+and+Suites+Hotel+Exterior+View.png?format=2500w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "role": "cover",
+        "unitOrCampus": "shared inn campus",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1449,
+        "originalHeight": 1085,
+        "sha256": "3af150fe75ba91b6bfa892e4f46d4f02929722cc0e64da683c3be5ff56853969",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0007-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/44867375-935d-48b9-926d-b2daa83945d2/Sandwich+Inn+and+Suites+Hotel+Exterior.png?format=1000w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "role": "additional",
+        "unitOrCampus": "shared inn campus",
+        "width": 1000,
+        "height": 666,
+        "originalWidth": 1000,
+        "originalHeight": 666,
+        "sha256": "6012029cbc5b00eea3759ce5736fb1836e20aebbb3231d8bd1beb57157ae95a4",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0007-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/1786077562704-H2TRSFKQSRKFT5JMYELJ/Sandwich+Inn+and+Suites+Enterance.png?format=2500w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "role": "additional",
+        "unitOrCampus": "shared inn campus",
+        "width": 1537,
+        "height": 1023,
+        "originalWidth": 1537,
+        "originalHeight": 1023,
+        "sha256": "f7b569e48b7174cf22d47cadc1d3aa3af96c6b6a7dc893f02389dc7e1fc5a4cf",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0007-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/9c502842-aaae-4e57-a087-a2668095d3d3/Complimentary+breakfast+at+Sandwich+Inn+and+Suites.png?format=1000w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "role": "additional",
+        "unitOrCampus": "shared inn campus",
+        "width": 1000,
+        "height": 667,
+        "originalWidth": 1000,
+        "originalHeight": 667,
+        "sha256": "728cb2a38313ac843e7229d368f37b11fc5ae9fda5a8b3cb5fbc26d32a540386",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/1786076167845-1BC1FJ1R2PEDOZKFXCB0/Sandwich+Inn+and+Suites+Hotel+Exterior+View.png?format=2500w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "unitOrCampus": "shared inn campus",
+        "alt": "Exterior"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/44867375-935d-48b9-926d-b2daa83945d2/Sandwich+Inn+and+Suites+Hotel+Exterior.png?format=1000w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "unitOrCampus": "shared inn campus",
+        "alt": "Exterior"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/1786077562704-H2TRSFKQSRKFT5JMYELJ/Sandwich+Inn+and+Suites+Enterance.png?format=2500w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "unitOrCampus": "shared inn campus",
+        "alt": "Entrance"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/572fb90607eaa0ad6f0585d0/9c502842-aaae-4e57-a087-a2668095d3d3/Complimentary+breakfast+at+Sandwich+Inn+and+Suites.png?format=1000w",
+        "sourcePage": "https://www.sandwichinnandsuites.com/",
+        "unitOrCampus": "shared inn campus",
+        "alt": "Shared breakfast"
+      }
+    ],
+    "remainingGaps": [
+      "Saved photos",
+      "Unit facts/policies"
+    ],
+    "accessFailures": [],
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.sandwichinnandsuites.com/contact"
+  },
+  {
+    "id": "MA-0009",
+    "name": "Heart of Cape Cod",
+    "website": "https://heartofcapecod.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened own accommodation identity,MA location and direct rental inquiry/contact destination.",
+    "sourceUrl": "https://www.visitma.com/business/16510/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/?stype=1&so=0&pnum=2&dnum=8&map=0&cid=11&gid%5B0%5D=175&attr1=0&attr2=0&attr3=0&seed=8873bd280646d6d9b0b7c23f16cf4385#filter",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Local rental manager",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitma.com/business/16510/",
+      "https://heartofcapecod.com/",
+      "https://heartofcapecod.com/contact/",
+      "https://heartofcapecod.com/properties",
+      "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/"
+    ],
+    "contactPagesChecked": [
+      "https://heartofcapecod.com/contact/"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "50 Brackett Road",
+      "city": "Eastham",
+      "state": "MA",
+      "zip": "02651",
+      "source": "https://heartofcapecod.com/contact/"
+    },
+    "bookingMethod": "Tara at5082460656 or tarag0203@gmail.com; official inquiryform",
+    "bookingUrl": "https://heartofcapecod.com/contact/",
+    "description": "Local Cape Cod manager offering waterfront homes and cottages with direct booking and host support.",
+    "descriptionSource": "https://heartofcapecod.com/",
+    "notes": "Own contact/property pages identify Tara and InsideOutProperties/HeartofCapeCod. Representative photos all TheLotus; office address is not rental entrance. Policy audit2026-10-26: Keep operator policy distinct from TheLotus photos/adults-only restriction; reviews of families are not a policy. Sources: https://heartofcapecod.com/; https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "The Lotus is a serene, adults-only pondside retreat No portfolio-wide child age policy found; TheLotus restriction must not be assigned to all managed homes.",
+      "petsDetails": "We love dogs! Your dog will be supplied with his or her own vacation crate, food & water bowls, doggie towels, and treats! Pets vary by individual home; dog service does not approve all units",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no actual Airbnb/Vrbo/Booking listing links found",
+    "photos": [
+      {
+        "file": "images/MA-0009-cover.webp",
+        "url": "https://orbirental-images.s3.amazonaws.com/54894b72-e43c-42d1-80be-193384035976",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "role": "cover",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 4032,
+        "originalHeight": 3024,
+        "sha256": "953f919ea653f7943890b4965d09189fd0188b66ed98e0d59af4b6e91fd2e661",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0009-000.webp",
+        "url": "https://orbirental-images.s3.amazonaws.com/0c9fd068-83b4-4923-b791-aaf645cce89e",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "role": "additional",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "width": 1440,
+        "height": 1080,
+        "originalWidth": 1440,
+        "originalHeight": 1080,
+        "sha256": "e83b0718284737fabba328fcefb7baa5f76a89ea7674235ee77ba80d64111175",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0009-001.webp",
+        "url": "https://orbirental-images.s3.amazonaws.com/47a589b8-1d0f-47df-b1c7-6cc68fa274a8",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "role": "additional",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "width": 1469,
+        "height": 903,
+        "originalWidth": 1469,
+        "originalHeight": 903,
+        "sha256": "25456746ed9aa8af41cd74602f74f7ed73ac58235c4ced8fd57920a88c74fe41",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0009-002.webp",
+        "url": "https://orbirental-images.s3.amazonaws.com/33df7593-aff2-4c8e-b754-b24ba62f4713",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "role": "additional",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "width": 1600,
+        "height": 1115,
+        "originalWidth": 4032,
+        "originalHeight": 2811,
+        "sha256": "183b69fc69ef3ad05ec7fd99878e5abc5f8ce6ea98e834a039d4715cce5c6def",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://orbirental-images.s3.amazonaws.com/54894b72-e43c-42d1-80be-193384035976",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "alt": "TheLotus gallery"
+      },
+      {
+        "url": "https://orbirental-images.s3.amazonaws.com/0c9fd068-83b4-4923-b791-aaf645cce89e",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "alt": "TheLotus gallery"
+      },
+      {
+        "url": "https://orbirental-images.s3.amazonaws.com/47a589b8-1d0f-47df-b1c7-6cc68fa274a8",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "alt": "TheLotus gallery"
+      },
+      {
+        "url": "https://orbirental-images.s3.amazonaws.com/33df7593-aff2-4c8e-b754-b24ba62f4713",
+        "sourcePage": "https://heartofcapecod.com/property/king-bed-hot-tub-waterfront-the-lotus-on-ministers-pond/",
+        "unitOrCampus": "TheLotus,Eastham;single named rental",
+        "alt": "TheLotus gallery"
+      }
+    ],
+    "remainingGaps": [
+      "Saved photos",
+      "Unit facts/policies"
+    ],
+    "accessFailures": [],
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://heartofcapecod.com/contact/"
+  },
+  {
+    "id": "MA-0010",
+    "name": "View Point — Michelle Sylvia Coastal Collection",
+    "website": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own exactunit page exclusively offers ViewPoint Chatham vacationestate through MichelleSylviaCoastalCollection, with local directinquiry and published propertyaddress.",
+    "sourceUrl": "https://www.visitma.com/business/16504/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/?stype=1&so=0&pnum=2&dnum=8&map=0&cid=11&gid%5B0%5D=175&attr1=0&attr2=0&attr3=0&seed=8873bd280646d6d9b0b7c23f16cf4385#filter",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "openedUrls": [
+      "https://www.visitma.com/business/16504/",
+      "https://www.irentcapecod.com/",
+      "https://www.irentcapecod.com/contact",
+      "https://www.irentcapecod.com/pet-vacation-rentals",
+      "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015"
+    ],
+    "contactPagesChecked": [
+      "https://www.irentcapecod.com/contact",
+      "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015"
+    ],
+    "contactAddress": {
+      "role": "individual rental estate",
+      "street": "300 Stage Neck Road",
+      "city": "Chatham",
+      "state": "MA",
+      "zip": "02633",
+      "source": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+      "notes": "Exact propertyaddress published in own rentaldetail; operatoroffice remainsseparate."
+    },
+    "bookingMethod": "Direct rental inquiry to Michelle Sylvia via ContactAgent/RequestaShowing controls or5086482967; no submission.",
+    "bookingUrl": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+    "description": "Waterfront Chatham estate with a pool, guest cottage, beach access and a children’s suite.",
+    "descriptionSource": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+    "notes": "Local named rental professional; independently owned BerkshireHathaway franchise disclosed. Do not treat generic slideshow as one rental photo set. Contact street from own footer, town/ZIP tourism corroboration. Policy audit2026-10-26: Opened actual pet-friendly catalog; no blanket permission for all rentals and no unverified policy transfer from RobertPaul. Sources: https://www.irentcapecod.com/; https://www.irentcapecod.com/pet-vacation-rentals Normalized2026-10-26 perroot:distinctViewPointestate primarypropertyrow, notduplicatedMichelleoperator summary. PriorVisitMA MichelleSylvia discovery retainedin sourceUrl. Ownexactunit says exclusiveMichelleSylviaCoastalCollection andeachRobertPaulVacationRentalreservation includesguestservices; agentcollection affiliatedwithRobertPaul, notwholeportfolioalias proof. SeparateRobertPaul operatorMA0013 retainsprimaryoperatorcoverage. PhotosalloneViewPointestate,includingitsidentifiedguestcottage; notRPMS075.",
+    "supportedFacts": {
+      "guests": 15,
+      "bedrooms": "Unknown",
+      "bathrooms": 8.5,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Own RentalInformation occupancy15. Header says8bedrooms but detailedbedlist enumerates6mainrooms+bonuskidssuite+2guestcottagerooms; bedroomcount retainedUnknown dueconflict.",
+      "kidsDetails": "Own rentaldescription explicitlyincludeschildren’ssuite/BonusKidsSuite; no childagecutoff or supervisionpolicy published.",
+      "petsDetails": "Exactunit listed in ownPetFriendlyVacationRentals catalog; no unit-specific petfee/restrictions inOwnerPolicies. RobertPaul generalpolicy requires writtenlandlordpermission; confirmlease.",
+      "priceFrom": 45000,
+      "currency": "USD",
+      "priceDetails": "$45000/week stated inexactunitdescription and availability; applicabletaxes/feesadditional, notpricedinpage. Bathroomstable7full+3half=8.5; not10fullbathrooms."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no actual Airbnb/Vrbo/Booking listing links found",
+    "photos": [
+      {
+        "file": "images/MA-0010-cover.webp",
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/17718026528117642.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "role": "cover",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015",
+        "sha256": "db613cd72e5e0d9c1760dcf25db81c4af84d8c24ab4c19b7146f8275a51b3f14",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0010-000.webp",
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/17718026810427425.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "role": "gallery",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015",
+        "sha256": "bb721be60aba97b841cfdbce8bd42dc02312e02a1d7068940a7effc3ad58c1e2",
+        "width": 1500,
+        "height": 1000,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0010-001.webp",
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/1771802630192169.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "role": "gallery",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015",
+        "sha256": "ba493cf701ef47cbcbfd4796fb17a3ec43df3f29f9fa6effb274628fee578e08",
+        "width": 1500,
+        "height": 999,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0010-002.webp",
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/1771802628851379.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "role": "gallery",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015",
+        "sha256": "09950131e1a48d276988c82e5d914655caa791d589d68b41937fa114d615021c",
+        "width": 1500,
+        "height": 999,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/17718026528117642.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "alt": "300StageNeckRoad Chatham MA02633",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015"
+      },
+      {
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/17718026810427425.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "alt": "300StageNeckRoad Chatham MA02633",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015"
+      },
+      {
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/1771802630192169.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "alt": "300StageNeckRoad Chatham MA02633",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015"
+      },
+      {
+        "url": "https://prd-mls-photos.fastly.propertybase.com/logic_mls/properties/photos/1771802628851379.jpg?w=512&h=400",
+        "sourcePage": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+        "alt": "300StageNeckRoad Chatham MA02633",
+        "unitOrCampus": "ViewPoint estate,300StageNeckRoad,MichelleSylvia property191794015"
+      }
+    ],
+    "remainingGaps": [
+      "Bedroomcountconflict",
+      "Exactpetfee/permissionandchildagepolicy notspecified"
+    ],
+    "accessFailures": [],
+    "operatorEvidenceUrl": "https://www.irentcapecod.com/real-estate/300-stage-neck-road--chatham-ma-02633/191794015",
+    "type": "Estate rental",
+    "operatorName": "Michelle Sylvia Coastal Collection / Robert Paul Vacations",
+    "operatorContactAddress": {
+      "role": "operator office",
+      "street": "867 Main Street",
+      "city": "Osterville",
+      "state": "MA",
+      "zip": "02655",
+      "source": "https://www.irentcapecod.com/contact"
+    },
+    "photoQANotes": "All four saved photos visually checked2026-10-26: four exterior/settingviews of the same ViewPointestate,300StageNeckRoad; noRPMS075orotherunitphotos."
+  },
+  {
+    "id": "MA-0011",
+    "name": "Red Jacket Beach Resort & Spa",
+    "website": "https://www.redjacketresorts.com/resorts/beach-resort",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened identifiable regional rental accommodation,MA location and own direct phone/email/contact inquiry destination verified.",
+    "sourceUrl": "https://www.visitma.com/business/3299/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/?stype=1&so=0&pnum=2&dnum=8&map=0&cid=11&gid%5B0%5D=175&attr1=0&attr2=0&attr3=0&seed=8873bd280646d6d9b0b7c23f16cf4385#filter",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Small inn / lodge",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitma.com/business/3299/",
+      "https://www.redjacketresorts.com/resorts/beach-resort",
+      "https://www.redjacketresorts.com/resorts/beach-resort/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://www.redjacketresorts.com/resorts/beach-resort/contact-us"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "1 South Shore Drive",
+      "city": "South Yarmouth",
+      "state": "MA",
+      "zip": "02664",
+      "source": "https://www.redjacketresorts.com/resorts/beach-resort/contact-us"
+    },
+    "bookingMethod": "Direct phone/email: 8002378887;reservations@redjacketresorts.com",
+    "bookingUrl": "https://www.redjacketresorts.com/resorts/beach-resort/contact-us",
+    "description": "Beachfront South Yarmouth resort with suites, vacation homes, pools and a private beach.",
+    "descriptionSource": "https://www.redjacketresorts.com/resorts/beach-resort",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Whether you're traveling as a family, escaping as a couple, or settling in for a longer stay Primary booker21+ atRedJacketBeach; no staying-child age restriction found",
+      "petsDetails": "Our pet policy is for dogs only.; We welcome dogs weighing 75 lbs. and under.; There's a $50 fee per dog per night, with a two-dog maximum per room. Only pre-approved dogs in select vacation cottages/rooms; contact reservationsbeforearrival; Max2dogs;75lb;50USD/dog/night plus applicabletax;500USDcleaningfee forunapproveddogs; Dogs prohibited resortbeaches MemorialDayweekend–LaborDayweekend; lobbies/dining/pools offlimits; Dogs unattended max2hours, avoid leavingdogs thatdisturbothers",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no Airbnb/Vrbo/Booking listing links found",
+    "photos": [
+      {
+        "file": "images/MA-0011-cover.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/red-jacket-beach-resort-cape-cod-ma--c-heidi-kirn-photography--1x4a3405-668311d39b14c.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "role": "cover",
+        "unitOrCampus": "RedJacketBeach shared campus",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1067,
+        "originalHeight": 1600,
+        "sha256": "9597adb22390b4320a3ad1fa1690df57fa13abaf699d2096d9e95ed7582cbcd0",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0011-000.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/red-jacket-beach-resort-cape-cod-ma--c-heidi-kirn-photography-_0459-66830e96b1070.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "role": "additional",
+        "unitOrCampus": "RedJacketBeach shared campus",
+        "width": 1600,
+        "height": 1200,
+        "originalWidth": 2000,
+        "originalHeight": 1500,
+        "sha256": "69ee9abc7fa0686a13b45e35673c1b4c0bcebae4e4d9fe6d0d0a0309f3d8dc86",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0011-001.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/red-jacket-beach-resort-cape-cod-ma--c-heidi-kirn-photography-1x4a2931-1-66830e8ed7577.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "role": "additional",
+        "unitOrCampus": "RedJacketBeach shared campus",
+        "width": 1067,
+        "height": 1600,
+        "originalWidth": 1334,
+        "originalHeight": 2000,
+        "sha256": "a4541be9f77b2437f1715b758273be2174280fd19895f6374a8929c6b28506ae",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0011-002.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/rj-2024-090-6684bef71d6db.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "role": "additional",
+        "unitOrCampus": "RedJacketBeach shared campus",
+        "width": 1600,
+        "height": 1067,
+        "originalWidth": 1600,
+        "originalHeight": 1067,
+        "sha256": "767a79a4f88cd497290970222dd64a9cfdf00ff5848164e275c10b99d8e8d971",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/red-jacket-beach-resort-cape-cod-ma--c-heidi-kirn-photography--1x4a3405-668311d39b14c.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "alt": "Lobby",
+        "unitOrCampus": "RedJacketBeach shared campus"
+      },
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/red-jacket-beach-resort-cape-cod-ma--c-heidi-kirn-photography-_0459-66830e96b1070.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "alt": "Private beach",
+        "unitOrCampus": "RedJacketBeach shared campus"
+      },
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/red-jacket-beach-resort-cape-cod-ma--c-heidi-kirn-photography-1x4a2931-1-66830e8ed7577.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "alt": "Ocean path",
+        "unitOrCampus": "RedJacketBeach shared campus"
+      },
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/rj-2024-090-6684bef71d6db.webp",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/beach-resort",
+        "alt": "Resort exterior",
+        "unitOrCampus": "RedJacketBeach shared campus"
+      }
+    ],
+    "remainingGaps": [
+      "Photos",
+      "Per-unit optional facts"
+    ],
+    "accessFailures": [],
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "notes": " Policy audit2026-10-26: All eight dog FAQ accordions expanded; separate resortFAQ pet answer alsoexpanded. Family/crib accommodation supported; unit-specific dog approval required. Sources: https://www.redjacketresorts.com/resorts/beach-resort; https://www.redjacketresorts.com/resorts/beach-resort/faqs; https://www.redjacketresorts.com/pet-friendly-lodging",
+    "operatorEvidenceUrl": "https://www.redjacketresorts.com/resorts/beach-resort/contact-us"
+  },
+  {
+    "id": "MA-0012",
+    "name": "Red Jacket Resorts",
+    "website": "https://www.redjacketresorts.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Group summary overlaps separately retained RedJacketBeach(MA0011) and GreenHarbor(MA0019); preserve as source instead of duplicate campus card.",
+    "sourceUrl": "https://www.visitma.com/business/16671/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/?stype=1&so=0&pnum=2&dnum=8&map=0&cid=11&gid%5B0%5D=175&attr1=0&attr2=0&attr3=0&seed=8873bd280646d6d9b0b7c23f16cf4385#filter",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Small inn / lodge",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitma.com/business/16671/",
+      "https://www.redjacketresorts.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "Unknown",
+      "city": "Yarmouth",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.redjacketresorts.com/"
+    },
+    "bookingMethod": "Direct phone/email: 8002273263;reservations@redjacketresorts.com",
+    "bookingUrl": "https://www.redjacketresorts.com/contact-us",
+    "description": "Red Jacket group summary for four Cape Cod resorts.",
+    "descriptionSource": "https://www.redjacketresorts.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no Airbnb/Vrbo/Booking listing links found",
+    "photos": [],
+    "photoCandidates": [],
+    "remainingGaps": [
+      "Photos",
+      "Per-unit optional facts"
+    ],
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0013",
+    "name": "Robert Paul Vacations",
+    "website": "https://www.robertpaulvacations.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened identifiable regional rental accommodation,MA location and own direct phone/email/contact inquiry destination verified.",
+    "sourceUrl": "https://www.visitma.com/business/16502/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/?stype=1&so=0&pnum=2&dnum=8&map=0&cid=11&gid%5B0%5D=175&attr1=0&attr2=0&attr3=0&seed=8873bd280646d6d9b0b7c23f16cf4385#filter",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Local rental manager",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitma.com/business/16502/",
+      "https://www.robertpaulvacations.com/",
+      "https://www.robertpaulvacations.com/contact-us-robert-paul-properties",
+      "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075"
+    ],
+    "contactPagesChecked": [
+      "https://www.robertpaulvacations.com/contact-us-robert-paul-properties"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "414 South Orleans Road",
+      "city": "South Orleans",
+      "state": "MA",
+      "zip": "02662",
+      "source": "https://www.robertpaulvacations.com/contact-us-robert-paul-properties"
+    },
+    "bookingMethod": "Direct phone/email: 5082552069;vacationrentals@robertpaul.com",
+    "bookingUrl": "https://www.robertpaulvacations.com/contact-us-robert-paul-properties",
+    "description": "Cape Cod and South Coast vacation rental manager offering cottages, beach homes and estates.",
+    "descriptionSource": "https://www.robertpaulvacations.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": " No explicit portfolio-wide children/infant age policy found in full rental policies.",
+      "petsDetails": "Any TENANTS who bring a pet without expressed written permission from the LANDLORD may result in immediate eviction.; If you must leave your pet alone, pet crates are required. Written landlordpermission required for pet; Pet permission/fees vary by property/lease; pet deposits nonrefundable; Crate required if pet leftalone",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no Airbnb/Vrbo/Booking listing links found",
+    "photos": [
+      {
+        "file": "images/MA-0013-cover.webp",
+        "url": "https://images.rezfusion.com/evrn/APECOD/228668/9016340236.jpg?optimize=true&rotate=true&quality=70",
+        "sourcePage": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075",
+        "role": "cover",
+        "unitOrCampus": "RPMS075,MichelleSylviaLuxuryCollection;single rental",
+        "sha256": "a467e044e6295fa75a0b5a14619664969652d52e0de7db6da8907e534da680d1",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0013-000.webp",
+        "url": "https://images.rezfusion.com/evrn/APECOD/228668/7031470816.jpg?optimize=true&rotate=true&quality=70",
+        "sourcePage": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075",
+        "role": "gallery",
+        "unitOrCampus": "RPMS075,MichelleSylviaLuxuryCollection;single rental",
+        "sha256": "bc4785f56b91e86e340ead41db0fa55c65ca8a8cda83f252d41bd21e44c9fdcc",
+        "width": 898,
+        "height": 600,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0013-001.webp",
+        "url": "https://images.rezfusion.com/evrn/APECOD/228668/5429070146.jpg?optimize=true&rotate=true&quality=70",
+        "sourcePage": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075",
+        "role": "gallery",
+        "unitOrCampus": "RPMS075,MichelleSylviaLuxuryCollection;single rental",
+        "sha256": "01a0d9c70c21ea4167933985f3a52aa809d5e176aa9368b611cdbeefcf7b33a7",
+        "width": 899,
+        "height": 600,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://images.rezfusion.com/evrn/APECOD/228668/9016340236.jpg?optimize=true&rotate=true&quality=70",
+        "sourcePage": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075",
+        "unitOrCampus": "RPMS075,MichelleSylviaLuxuryCollection;single rental",
+        "alt": "RPMS075 rental gallery"
+      },
+      {
+        "url": "https://images.rezfusion.com/evrn/APECOD/228668/7031470816.jpg?optimize=true&rotate=true&quality=70",
+        "sourcePage": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075",
+        "unitOrCampus": "RPMS075,MichelleSylviaLuxuryCollection;single rental",
+        "alt": "RPMS075 rental gallery"
+      },
+      {
+        "url": "https://images.rezfusion.com/evrn/APECOD/228668/5429070146.jpg?optimize=true&rotate=true&quality=70",
+        "sourcePage": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075",
+        "unitOrCampus": "RPMS075,MichelleSylviaLuxuryCollection;single rental",
+        "alt": "RPMS075 rental gallery"
+      },
+      {
+        "url": "https://images.rezfusion.com/evrn/APECOD/228668/6737390230.jpg?optimize=true&rotate=true&quality=70&width=2048",
+        "sourcePage": "https://www.robertpaulvacations.com/cape-cod-vacation-rentals/40-feet-private-beach-beautiful-beach-end-short-path-rpms075",
+        "unitOrCampus": "RPMS075,MichelleSylviaLuxuryCollection;single rental",
+        "alt": "RPMS075 rental gallery"
+      }
+    ],
+    "remainingGaps": [
+      "Per-unit optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "Independently owned/operated BerkshireHathaway franchise; ~500regional homes. Office address, not rental entrance. Manager overlaps agentMichelleSylvia portfolio; retain relationship for dedupe. RPMS075 detail explicitly identifies MichelleSylviaLuxuryCollection(6bed5.5bath14guests)—sameagent asMA0010; retain overlap in duplicate review, never treat sameunitasnewproperty. VisualQA excluded floor plan from card images. Policy audit2026-10-26: Policy explicitly delegates pet permission to landlord; no blanket No or Yes. Rental agreement and owner conditions govern. Sources: https://www.robertpaulvacations.com/rental-policies-and-procedures",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.robertpaulvacations.com/contact-us-robert-paul-properties"
+  },
+  {
+    "id": "MA-0014",
+    "name": "SISU a boutique motel",
+    "website": "https://www.sisuplymouth.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened identifiable regional rental accommodation,MA location and own direct phone/email/contact inquiry destination verified.",
+    "sourceUrl": "https://www.visitma.com/business/16602/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/?stype=1&so=0&pnum=2&dnum=8&map=0&cid=11&gid%5B0%5D=175&attr1=0&attr2=0&attr3=0&seed=8873bd280646d6d9b0b7c23f16cf4385#filter",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Small inn / lodge",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitma.com/business/16602/",
+      "https://www.sisuplymouth.com/",
+      "https://www.sisuplymouth.com/contact",
+      "https://www.sisuplymouth.com/our-rooms"
+    ],
+    "contactPagesChecked": [
+      "https://www.sisuplymouth.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "7 Lincoln Street",
+      "city": "Plymouth",
+      "state": "MA",
+      "zip": "02360",
+      "source": "https://www.sisuplymouth.com/contact"
+    },
+    "bookingMethod": "Direct phone/email: 7814887068;hello@sisuplymouth.com",
+    "bookingUrl": "https://www.sisuplymouth.com/contact",
+    "description": "Small Plymouth motel with private-entry cottage rooms, patios and group buyouts.",
+    "descriptionSource": "https://www.sisuplymouth.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "We do allow kids at sisu.; For any children under 2 years old, they are allowed as an additional guest beyond the 2 person room capacity. OnlyCaptainsQuarters allows morethan2guests exceptunder2child exception; Confirm portable cribwhenbooking so roomhas adequate space",
+      "petsDetails": "we have decided to not allow any pets in the guest rooms. Resident dogAugustus keptoutof guest rooms; doesnotpermitguestpets",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no Airbnb/Vrbo/Booking listing links found",
+    "photos": [
+      {
+        "file": "images/MA-0014-cover.webp",
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-1-1920w.png",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "role": "cover",
+        "unitOrCampus": "FirstMate room only",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1920,
+        "originalHeight": 1920,
+        "sha256": "c08d9f587b35741fead5243af59559c677d512b626b59aa993037433bda5e416",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0014-000.webp",
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-14-1920w.jpg",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "role": "additional",
+        "unitOrCampus": "FirstMate room only",
+        "width": 1600,
+        "height": 1064,
+        "originalWidth": 1920,
+        "originalHeight": 1277,
+        "sha256": "362ec1cac220c1e4e3226a42e2dada3d8b1ed0226e3a09f2e7cba38ad1ddc2bc",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0014-001.webp",
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-7-1920w.png",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "role": "additional",
+        "unitOrCampus": "FirstMate room only",
+        "width": 1600,
+        "height": 1000,
+        "originalWidth": 1920,
+        "originalHeight": 1200,
+        "sha256": "fb106e5a12eb5bce5a5eda1fef444fd61ed93f8c082f1ba24b5b7c1aec5a65af",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0014-002.webp",
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-16-1920w.jpg",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "role": "additional",
+        "unitOrCampus": "FirstMate room only",
+        "width": 1600,
+        "height": 1064,
+        "originalWidth": 1920,
+        "originalHeight": 1277,
+        "sha256": "b9f03bc25c3c77564fc12be43e1f310776ae278d08c3215575e7c1870e58e769",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-1-1920w.png",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "alt": "FirstMate room",
+        "unitOrCampus": "FirstMate room only"
+      },
+      {
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-14-1920w.jpg",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "alt": "FirstMate room",
+        "unitOrCampus": "FirstMate room only"
+      },
+      {
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-7-1920w.png",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "alt": "FirstMate room",
+        "unitOrCampus": "FirstMate room only"
+      },
+      {
+        "url": "https://irp.cdn-website.com/194459b4/dms3rep/multi/opt/Sisu_first_mate-16-1920w.jpg",
+        "sourcePage": "https://www.sisuplymouth.com/our-rooms",
+        "alt": "FirstMate room",
+        "unitOrCampus": "FirstMate room only"
+      }
+    ],
+    "remainingGaps": [
+      "Photos",
+      "Per-unit optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "Own home7rooms vs tourism8; full-buyout header16guests vs prose17; capacities Unknown at operator level. Photos FirstMate room only. Policy audit2026-10-26: Full actualFAQ reviewed: explicit childrenallowed,under2capacityexception,andguestpetban. Sources: https://www.sisuplymouth.com/about-us#FAQs",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.sisuplymouth.com/contact"
+  },
+  {
+    "id": "MA-0019",
+    "name": "Green Harbor Resort",
+    "website": "https://www.redjacketresorts.com/resorts/green-harbor",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened identifiable regional rental accommodation,MA location and own direct phone/email/contact inquiry destination verified.",
+    "sourceUrl": "https://www.visitma.com/business/6492/",
+    "directoryUrl": "https://www.visitma.com/plan-your-trip/where-to-stay/vacation-rentals/?stype=1&so=0&pnum=3&dnum=8&map=0&cid=11&gid%5B0%5D=175&attr1=0&attr2=0&attr3=0&seed=8873bd280646d6d9b0b7c23f16cf4385#filter",
+    "discoveryMethod": "Official statewide tourism directory",
+    "classification": "Small inn / lodge",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.visitma.com/business/6492/",
+      "https://www.redjacketresorts.com/resorts/green-harbor",
+      "https://www.redjacketresorts.com/resorts/green-harbor/contact-us"
+    ],
+    "contactPagesChecked": [
+      "https://www.redjacketresorts.com/resorts/green-harbor/contact-us"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "182 Baxter Avenue",
+      "city": "West Yarmouth",
+      "state": "MA",
+      "zip": "02673",
+      "source": "https://www.redjacketresorts.com/resorts/green-harbor/contact-us"
+    },
+    "bookingMethod": "Direct phone/email: 8002777900;greenharbor@redjacketresorts.com",
+    "bookingUrl": "https://www.redjacketresorts.com/resorts/green-harbor/contact-us",
+    "description": "West Yarmouth waterfront resort with cottages, townhomes, efficiencies and family recreation.",
+    "descriptionSource": "https://www.redjacketresorts.com/resorts/green-harbor",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Additional fees apply for cots and cribs. Primary booker21+ atRedJacketBeach; no staying-child age restriction found",
+      "petsDetails": "Our pet policy is for dogs only.; We welcome dogs weighing 75 lbs. and under.; There's a $50 fee per dog per night, with a two-dog maximum per room. Only pre-approved dogs in select vacation cottages/rooms; contact reservationsbeforearrival; Max2dogs;75lb;50USD/dog/night plus applicabletax;500USDcleaningfee forunapproveddogs; Dogs prohibited resortbeaches MemorialDayweekend–LaborDayweekend; lobbies/dining/pools offlimits; Dogs unattended max2hours, avoid leavingdogs thatdisturbothers",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Checked opened own pages; no Airbnb/Vrbo/Booking listing links found",
+    "photos": [
+      {
+        "file": "images/MA-0019-cover.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbour-hero-01-6564ca0f4d80d.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "role": "cover",
+        "unitOrCampus": "GreenHarbor shared campus",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1920,
+        "originalHeight": 1080,
+        "sha256": "cf67f079029370238df62faea1ef5409276bccdd107582deb5c02b7c296c7da0",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0019-000.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbor-homepage-propertyhighlights1-somanywaystoexperience-6525c1482ecf5.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "role": "additional",
+        "unitOrCampus": "GreenHarbor shared campus",
+        "width": 995,
+        "height": 953,
+        "originalWidth": 995,
+        "originalHeight": 953,
+        "sha256": "c23136716cf278f2f4647d24c31edd1a565f231978624380e28ba6872ed7a6f1",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0019-001.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbor-homepage-propertyhighlights2-everyoneplayshere-6525c14b305c6.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "role": "additional",
+        "unitOrCampus": "GreenHarbor shared campus",
+        "width": 731,
+        "height": 450,
+        "originalWidth": 731,
+        "originalHeight": 450,
+        "sha256": "ec3e97b6ac12ee46ab7f55c55532861c45433e480c4d63171070868240506c06",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0019-002.webp",
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbor-homepage-propertyhighlights1-everyoneplayshere-6525c14654391.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "role": "additional",
+        "unitOrCampus": "GreenHarbor shared campus",
+        "width": 995,
+        "height": 953,
+        "originalWidth": 995,
+        "originalHeight": 953,
+        "sha256": "5a0cfd6b5ee1aecc104f087e40484af31dfb9eb0741cca6d0b6094a1ca3ae0fc",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbour-hero-01-6564ca0f4d80d.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "alt": "Exterior waterfront grounds",
+        "unitOrCampus": "GreenHarbor shared campus"
+      },
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbor-homepage-propertyhighlights1-somanywaystoexperience-6525c1482ecf5.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "alt": "Campus exterior",
+        "unitOrCampus": "GreenHarbor shared campus"
+      },
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbor-homepage-propertyhighlights2-everyoneplayshere-6525c14b305c6.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "alt": "Shared yard",
+        "unitOrCampus": "GreenHarbor shared campus"
+      },
+      {
+        "url": "https://symphony.cdn.tambourine.com/red-jacket-resorts/media/greenharbor-homepage-propertyhighlights1-everyoneplayshere-6525c14654391.jpg",
+        "sourcePage": "https://www.redjacketresorts.com/resorts/green-harbor",
+        "alt": "Shared beach",
+        "unitOrCampus": "GreenHarbor shared campus"
+      }
+    ],
+    "remainingGaps": [
+      "Photos",
+      "Per-unit optional facts"
+    ],
+    "accessFailures": [],
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "notes": " Policy audit2026-10-26: All eight dog FAQ accordions expanded; separate resortFAQ pet answer alsoexpanded. Family/crib accommodation supported; unit-specific dog approval required. Sources: https://www.redjacketresorts.com/resorts/green-harbor; https://www.redjacketresorts.com/resorts/green-harbor/faqs; https://www.redjacketresorts.com/pet-friendly-lodging",
+    "operatorEvidenceUrl": "https://www.redjacketresorts.com/resorts/green-harbor/contact-us"
+  },
+  {
+    "id": "MA-0101",
+    "name": "Ocean View Cottages",
+    "website": "https://www.ocean-view-cottages.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened official cottage accommodation,Wellfleet MA identity and direct phone/email/form contact verified.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b8d",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b8d",
+      "https://www.ocean-view-cottages.com/",
+      "https://www.ocean-view-cottages.com/contact",
+      "https://www.ocean-view-cottages.com/cottage-one"
+    ],
+    "contactPagesChecked": [
+      "https://www.ocean-view-cottages.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "230 Pilgrim Road",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "02663",
+      "source": "https://www.ocean-view-cottages.com/contact",
+      "notes": ""
+    },
+    "bookingMethod": "Direct inquiry: ovcwellfleet@gmail.com",
+    "bookingUrl": "https://www.ocean-view-cottages.com/contact",
+    "description": "Three Wellfleet cottages near the ocean; selected photos show CottageOne.",
+    "descriptionSource": "https://www.ocean-view-cottages.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": " No pet rule found in OtherInformation,CottageOne,or Contact.; No explicit child/infant age rule found; small-family description does not specify ages.",
+      "petsDetails": " ",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0101-cover.webp",
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-9504_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "role": "cover",
+        "unitOrCampus": "CottageOne",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 711,
+        "originalHeight": 569,
+        "sha256": "1e33bf65dfa632f23405caaa2f8269177ca49d29ab2541611594902166f43b96",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0101-000.webp",
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-0310_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "role": "additional",
+        "unitOrCampus": "CottageOne",
+        "width": 600,
+        "height": 800,
+        "originalWidth": 600,
+        "originalHeight": 800,
+        "sha256": "ae78940c54fe237b8fbfc76f1e6862c66ab4024845d9c34ab8f7fa2cfacd0ee5",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0101-001.webp",
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-0309_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "role": "additional",
+        "unitOrCampus": "CottageOne",
+        "width": 600,
+        "height": 800,
+        "originalWidth": 600,
+        "originalHeight": 800,
+        "sha256": "d7dc8b1aa85b70acca3dd14731d3593703a3fa8365a8c14bdee35a33f0ebfa58",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0101-002.webp",
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-0306_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "role": "additional",
+        "unitOrCampus": "CottageOne",
+        "width": 600,
+        "height": 800,
+        "originalWidth": 600,
+        "originalHeight": 800,
+        "sha256": "453c24015ce898e36c0eda59992f722310c0dab0427da710a197fe8a30dcd85a",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-9504_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "unitOrCampus": "CottageOne",
+        "alt": "CottageOne gallery"
+      },
+      {
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-0310_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "unitOrCampus": "CottageOne",
+        "alt": "CottageOne gallery"
+      },
+      {
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-0309_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "unitOrCampus": "CottageOne",
+        "alt": "CottageOne gallery"
+      },
+      {
+        "url": "https://cdn1.artcltn.com/storage/33188/01a0cef1-f3cd-73fa-a2e8-dd3c3fa75227/img-0306_orig.jpeg?w=800",
+        "sourcePage": "https://www.ocean-view-cottages.com/cottage-one",
+        "unitOrCampus": "CottageOne",
+        "alt": "CottageOne gallery"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own pages checked; no Airbnb/Vrbo/Booking links found",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": [],
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.ocean-view-cottages.com/contact",
+    "notes": " Policy audit2026-10-26: No dedicated house-rules/FAQ link in full menu; checked OtherInformation and own namedunit/contact instead. Sources: https://www.ocean-view-cottages.com/other-information; https://www.ocean-view-cottages.com/cottage-one; https://www.ocean-view-cottages.com/contact"
+  },
+  {
+    "id": "MA-0102",
+    "name": "Tagan’s Cottages",
+    "website": "Unknown",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Chamber offers only phone; focused property-name search found directory/aggregator but no working operator-owned site verified.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9bb9",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9bb9"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "partial location",
+      "street": "Unknown",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": ""
+    },
+    "bookingMethod": "Direct inquiry: Unknown",
+    "bookingUrl": "Unknown",
+    "description": "Unknown",
+    "descriptionSource": "Unknown",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Own site check unavailable",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": []
+  },
+  {
+    "id": "MA-0103",
+    "name": "Pine Moorings Cottages",
+    "website": "http://pinemoorings.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Published chamber-linked domain returned DNS_PROBE_FINISHED_NXDOMAIN; focused alternate-site search found no replacement operator site.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9a",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9a",
+      "http://pinemoorings.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "partial location",
+      "street": "Unknown",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": ""
+    },
+    "bookingMethod": "Direct inquiry: Unknown",
+    "bookingUrl": "Unknown",
+    "description": "Unknown",
+    "descriptionSource": "http://pinemoorings.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Own site check unavailable",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": [
+      {
+        "url": "http://pinemoorings.com/",
+        "observed": "DNS_PROBE_FINISHED_NXDOMAIN"
+      }
+    ]
+  },
+  {
+    "id": "MA-0104",
+    "name": "Hidden Hollow",
+    "website": "https://hiddenhollow.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened official cottage accommodation,Wellfleet MA identity and direct phone/email/form contact verified.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b6c",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b6c",
+      "https://hiddenhollow.com/",
+      "https://hiddenhollow.com/make-a-reservation/",
+      "https://hiddenhollow.com/lost-oak-cottage/"
+    ],
+    "contactPagesChecked": [
+      "https://hiddenhollow.com/make-a-reservation/"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "90 LeCount Hollow Road",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "02667",
+      "source": "https://hiddenhollow.com/make-a-reservation/",
+      "notes": ""
+    },
+    "bookingMethod": "Direct inquiry: 6034325575;6035486058",
+    "bookingUrl": "https://hiddenhollow.com/make-a-reservation/",
+    "description": "Historic Wellfleet cottage rentals on ten acres near Blackfish Creek and the Cape Cod Rail Trail.",
+    "descriptionSource": "https://hiddenhollow.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Basement with a bunkroom with 4 twin beds and a family room with cable TV and Blu-ray for the kids Child accommodation stated for LostOak; no child-age cutoff published",
+      "petsDetails": "Maximum occupancy is 8 guests. (Sorry – No Pets) Pet prohibition also shown for both cottages on home page",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0104-cover.webp",
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/LostOak2.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "role": "cover",
+        "unitOrCampus": "LostOakCottage",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 600,
+        "originalHeight": 449,
+        "sha256": "3ebd396b0d437a767acf0d15422237468995538df24e16d368d8ec300f44cc2b",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0104-000.webp",
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/LostOak1.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "role": "additional",
+        "unitOrCampus": "LostOakCottage",
+        "width": 600,
+        "height": 449,
+        "originalWidth": 600,
+        "originalHeight": 449,
+        "sha256": "daad6765638de599aca1b5418481b2439a73e261bb702cc44383f35fc206969d",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0104-001.webp",
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/HiddenHollow-18.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "role": "additional",
+        "unitOrCampus": "LostOakCottage",
+        "width": 600,
+        "height": 451,
+        "originalWidth": 600,
+        "originalHeight": 451,
+        "sha256": "3d95e98dec175e5e0c1ec014ad47c04e77a6509a49b9246a3687b036b40327b3",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0104-002.webp",
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/HiddenHollow-20.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "role": "additional",
+        "unitOrCampus": "LostOakCottage",
+        "width": 600,
+        "height": 451,
+        "originalWidth": 600,
+        "originalHeight": 451,
+        "sha256": "f393ae0af9bfb923bad5decde791cb1ef769e6afb1c86f51a48475248ed8563c",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/LostOak2.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "unitOrCampus": "LostOakCottage",
+        "alt": "LostOakCottage gallery"
+      },
+      {
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/LostOak1.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "unitOrCampus": "LostOakCottage",
+        "alt": "LostOakCottage gallery"
+      },
+      {
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/HiddenHollow-18.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "unitOrCampus": "LostOakCottage",
+        "alt": "LostOakCottage gallery"
+      },
+      {
+        "url": "https://hiddenhollow.com/wp-content/uploads/2017/12/HiddenHollow-20.jpg",
+        "sourcePage": "https://hiddenhollow.com/lost-oak-cottage/",
+        "unitOrCampus": "LostOakCottage",
+        "alt": "LostOakCottage gallery"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own pages checked; no Airbnb/Vrbo/Booking links found",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": [],
+    "notes": "LostOak unit8guests/3bed/3bath,no pets;2026weeklyrates$1400-$3300plus17.45%tax,$200refundablesecurity,Saturday-Saturday; do not assign unit values to operator-wide facts. Policy audit2026-10-26: Actual namedunit amenities/rates reviewed; no unsupported childminimumage. Sources: https://hiddenhollow.com/; https://hiddenhollow.com/lost-oak-cottage/",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://hiddenhollow.com/make-a-reservation/"
+  },
+  {
+    "id": "MA-0105",
+    "name": "Surf Side Cottages",
+    "website": "https://www.surfsidecottages.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened official cottage accommodation,Wellfleet MA identity and direct phone/email/form contact verified.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5cc20917afd691830f7b23c6",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5cc20917afd691830f7b23c6",
+      "https://www.surfsidecottages.com/",
+      "https://www.surfsidecottages.com/contact"
+    ],
+    "contactPagesChecked": [
+      "https://www.surfsidecottages.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "50 Ocean View Drive",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "02667",
+      "source": "https://www.surfsidecottages.com/contact",
+      "notes": ""
+    },
+    "bookingMethod": "Direct inquiry: 5083493959;stay@surfsidecottages.com",
+    "bookingUrl": "https://www.surfsidecottages.com/contact",
+    "description": "Seasonal Wellfleet cottages near Lecount Hollow Beach, with shared grounds and beach access.",
+    "descriptionSource": "https://www.surfsidecottages.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Quiet Hours begin each night at 10:00. After that time, please restrict your activities to those that would not awaken a child who may be asleep next door. ",
+      "petsDetails": "Up to 2 animals allowed per cottage each stay.; Cats and dogs are allowed with a payment of the pet fee. Onlypet-permittedcottages; advance notice; maximum2cats/dogs; Onepet100USD+tax/week;two165USD+tax/week",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Weekly Sat-Sat orSun-Sun;14.45%or17.45%tax;$200refundabledeposit;linensoptional$20+tax/guest"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0105-cover.webp",
+        "url": "https://static.wixstatic.com/media/2459dd_da9a5a50422f4787a12690097435d1b6~mv2.jpg/v1/fill/w_3000,h_1188,al_c,q_90,enc_avif,quality_auto/2459dd_da9a5a50422f4787a12690097435d1b6~mv2.jpg",
+        "sourcePage": "https://www.surfsidecottages.com/",
+        "role": "cover",
+        "unitOrCampus": "Shared SurfSide coastal campus/setting",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 3000,
+        "originalHeight": 1188,
+        "sha256": "8f1d4e52a4057ae2f34b65e093b57e389c5bd824e12f49a5e8ef66971d7b86a2",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0105-001.webp",
+        "url": "https://static.wixstatic.com/media/2459dd_6f48b30f0c8b4a03a50ea26a60f24003~mv2.jpg/v1/fill/w_2830,h_1121,al_c,q_90,enc_avif,quality_auto/2459dd_6f48b30f0c8b4a03a50ea26a60f24003~mv2.jpg",
+        "sourcePage": "https://www.surfsidecottages.com/",
+        "role": "additional",
+        "unitOrCampus": "Shared SurfSide coastal campus/setting",
+        "width": 1600,
+        "height": 634,
+        "originalWidth": 2830,
+        "originalHeight": 1121,
+        "sha256": "e2915839a4c4abada8871e24e36c1cbddc18b68f18eefacc00da19f6cbcd70b3",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0105-002.webp",
+        "url": "https://static.wixstatic.com/media/2459dd_a06ccba6d700495987372901b3ade446~mv2.jpg/v1/crop/x_1487,y_0,w_1083,h_2000/fill/w_650,h_1200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Beach_Hero3_edited.jpg",
+        "sourcePage": "https://www.surfsidecottages.com/",
+        "role": "additional",
+        "unitOrCampus": "Shared SurfSide coastal campus/setting",
+        "width": 650,
+        "height": 1200,
+        "originalWidth": 650,
+        "originalHeight": 1200,
+        "sha256": "1a848957a2c4be5ae2a09a53075905a59a3ad1f2ee1f3e3ec1639426e68a82fe",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/2459dd_da9a5a50422f4787a12690097435d1b6~mv2.jpg/v1/fill/w_3000,h_1188,al_c,q_90,enc_avif,quality_auto/2459dd_da9a5a50422f4787a12690097435d1b6~mv2.jpg",
+        "sourcePage": "https://www.surfsidecottages.com/",
+        "unitOrCampus": "Shared SurfSide coastal campus/setting",
+        "alt": "Coastal campus setting"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/2459dd_34a2f03bac46417688d242f8c48a1665~mv2.jpg/v1/fill/w_2129,h_843,al_c,q_85,enc_avif,quality_auto/2459dd_34a2f03bac46417688d242f8c48a1665~mv2.jpg",
+        "sourcePage": "https://www.surfsidecottages.com/",
+        "unitOrCampus": "Shared SurfSide coastal campus/setting",
+        "alt": "Coastal campus setting"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/2459dd_6f48b30f0c8b4a03a50ea26a60f24003~mv2.jpg/v1/fill/w_2830,h_1121,al_c,q_90,enc_avif,quality_auto/2459dd_6f48b30f0c8b4a03a50ea26a60f24003~mv2.jpg",
+        "sourcePage": "https://www.surfsidecottages.com/",
+        "unitOrCampus": "Shared SurfSide coastal campus/setting",
+        "alt": "Coastal campus setting"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/2459dd_a06ccba6d700495987372901b3ade446~mv2.jpg/v1/crop/x_1487,y_0,w_1083,h_2000/fill/w_650,h_1200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Beach_Hero3_edited.jpg",
+        "sourcePage": "https://www.surfsidecottages.com/",
+        "unitOrCampus": "Shared SurfSide coastal campus/setting",
+        "alt": "Coastal campus setting"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own pages checked; no Airbnb/Vrbo/Booking links found",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": [],
+    "notes": " VisualQA excluded unidentified unit interior from card images. Policy audit2026-10-26: Terms explicitly contemplate child guests; no blanketpetapproval. Sources: https://www.surfsidecottages.com/about-us; https://www.surfsidecottages.com/contact; https://www.surfsidecottages.com/terms-and-conditions",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.surfsidecottages.com/contact"
+  },
+  {
+    "id": "MA-0106",
+    "name": "Quarterboard Cottages",
+    "website": "http://quarterboardcottages.net/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Published chamber-linked domain returned DNS_PROBE_FINISHED_NXDOMAIN; focused alternate-site search found no replacement operator site.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9f",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2bf033bf63727b9b9f",
+      "http://quarterboardcottages.net/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "partial location",
+      "street": "Unknown",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown",
+      "notes": ""
+    },
+    "bookingMethod": "Direct inquiry: Unknown",
+    "bookingUrl": "Unknown",
+    "description": "Unknown",
+    "descriptionSource": "http://quarterboardcottages.net/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Own site check unavailable",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": [
+      {
+        "url": "http://quarterboardcottages.net/",
+        "observed": "DNS_PROBE_FINISHED_NXDOMAIN"
+      }
+    ]
+  },
+  {
+    "id": "MA-0107",
+    "name": "Wellfleet by the Sea Cottages",
+    "website": "https://www.wellfleetbythesea.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened official cottage accommodation,Wellfleet MA identity and direct phone/email/form contact verified.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c785b06afd691750a66ea9d",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c785b06afd691750a66ea9d",
+      "https://www.wellfleetbythesea.com/",
+      "https://www.wellfleetbythesea.com/contact",
+      "https://www.wellfleetbythesea.com/our-cottages"
+    ],
+    "contactPagesChecked": [
+      "https://www.wellfleetbythesea.com/contact"
+    ],
+    "contactAddress": {
+      "role": "partial location",
+      "street": "Unknown",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "https://www.wellfleetbythesea.com/contact",
+      "notes": "Exact street not printed on reviewed own contact page"
+    },
+    "bookingMethod": "Direct inquiry: info@wellfleetbythesea.com",
+    "bookingUrl": "https://www.wellfleetbythesea.com/contact",
+    "description": "Wellfleet oceanfront cottage rentals on a dune; selected interior photos show CottageOne.",
+    "descriptionSource": "https://www.wellfleetbythesea.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": " No child/infant age policy found in published Rules or amenities.",
+      "petsDetails": "Pets are not allowed. This includes the pets of day visitors. No guest or dayvisitorpets; applies cottages andBeachHouse",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0107-cover.webp",
+        "url": "https://static.wixstatic.com/media/65cd38_cf25138591714c349f9889858a5ee2dd~mv2.jpg/v1/fill/w_725,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Number%201%20kitchen.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "role": "cover",
+        "unitOrCampus": "CottageOne",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 725,
+        "originalHeight": 352,
+        "sha256": "9aeb7072f9ea327b53f853b9a5739ad6fbac4734f653dfe23e27e8ddf38b5e92",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0107-000.webp",
+        "url": "https://static.wixstatic.com/media/65cd38_aad944d49d4e407c84e6a32b424daf75~mv2.jpg/v1/fill/w_491,h_327,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cottage%201%20Interior%20(6)_JPG.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "role": "additional",
+        "unitOrCampus": "CottageOne",
+        "width": 491,
+        "height": 327,
+        "originalWidth": 491,
+        "originalHeight": 327,
+        "sha256": "184c1e1dd83bfb2a198004652174c181031e1877e94a16f52b5dc3962854fc61",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0107-001.webp",
+        "url": "https://static.wixstatic.com/media/65cd38_9a8a89c979bc41b9942f0684d33e91cd~mv2.jpg/v1/fill/w_397,h_586,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cottage%201%20Interior%20(11)_JPG.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "role": "additional",
+        "unitOrCampus": "CottageOne",
+        "width": 397,
+        "height": 586,
+        "originalWidth": 397,
+        "originalHeight": 586,
+        "sha256": "07bcb4b5fe909e2ebfe845adbc8e722c1552a59370e086f738566374e170ee62",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0107-002.webp",
+        "url": "https://static.wixstatic.com/media/65cd38_33a5f4d658354594b8054b9d1454130a~mv2.jpg/v1/fill/w_437,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cottage%201%20Interior%20(10)_JPG.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "role": "additional",
+        "unitOrCampus": "CottageOne",
+        "width": 437,
+        "height": 291,
+        "originalWidth": 437,
+        "originalHeight": 291,
+        "sha256": "aa901760dac6bac30ab61951f81ef3ea46efbab5166d06e45bc5baf09ef777d2",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/65cd38_cf25138591714c349f9889858a5ee2dd~mv2.jpg/v1/fill/w_725,h_352,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Number%201%20kitchen.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "unitOrCampus": "CottageOne",
+        "alt": "Cottage1 kitchen"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/65cd38_aad944d49d4e407c84e6a32b424daf75~mv2.jpg/v1/fill/w_491,h_327,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cottage%201%20Interior%20(6)_JPG.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "unitOrCampus": "CottageOne",
+        "alt": "Cottage1 interior6"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/65cd38_9a8a89c979bc41b9942f0684d33e91cd~mv2.jpg/v1/fill/w_397,h_586,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cottage%201%20Interior%20(11)_JPG.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "unitOrCampus": "CottageOne",
+        "alt": "Cottage1 interior11"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/65cd38_33a5f4d658354594b8054b9d1454130a~mv2.jpg/v1/fill/w_437,h_291,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Cottage%201%20Interior%20(10)_JPG.jpg",
+        "sourcePage": "https://www.wellfleetbythesea.com/our-cottages",
+        "unitOrCampus": "CottageOne",
+        "alt": "Cottage1 interior10"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own pages checked; no Airbnb/Vrbo/Booking links found",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": [],
+    "notes": "Contact page gives email/form, no street. Chamber370OceanViewDrive retained third-party only; exact rental address unverified. Cottage1:3bed/sleeps7; not operator total. Policy audit2026-10-26: Read both CottageRules andBeachHouseRules sections; samepetban explicitlyrepeated. Sources: https://www.wellfleetbythesea.com/copy-of-reservations; https://www.wellfleetbythesea.com/cottage-amenities",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.wellfleetbythesea.com/contact"
+  },
+  {
+    "id": "MA-0108",
+    "name": "The Even’tide Resort & Cottages",
+    "website": "https://www.eventidewellfleet.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Opened official cottage accommodation,Wellfleet MA identity and direct phone/email/form contact verified.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b59",
+    "directoryUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/",
+    "discoveryMethod": "Regional chamber cottage directory",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b59",
+      "https://www.eventidewellfleet.com/",
+      "https://www.eventidewellfleet.com/contact",
+      "https://www.eventidewellfleet.com/cape-cottages"
+    ],
+    "contactPagesChecked": [
+      "https://www.eventidewellfleet.com/contact"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "650 State Highway Route6",
+      "city": "Wellfleet",
+      "state": "MA",
+      "zip": "02667",
+      "source": "https://www.eventidewellfleet.com/contact",
+      "notes": "Even’tide separates mailingPOBox41 SouthWellfleet02663"
+    },
+    "bookingMethod": "Direct inquiry: 5083493410;reservations@eventidewellfleet.com",
+    "bookingUrl": "https://www.eventidewellfleet.com/contact",
+    "description": "Family-owned Wellfleet resort with rooms, standalone cottages, an indoor pool and recreation.",
+    "descriptionSource": "https://www.eventidewellfleet.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Children under 18 years old will not be allowed in the Pool Area unless accompanied by an adult.; Porta-crib rental: $25.00 per week. Roll-away bed or full size crib rental: $45.00 per week. Portacrib25USD/week; fullcrib/rollaway45USD/week",
+      "petsDetails": "No Pets are allowed on property ",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0108-cover.webp",
+        "url": "https://static.wixstatic.com/media/61ebed_7eb7d42eff7a400fa3e443eb4bddf867~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kingext_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "role": "cover",
+        "unitOrCampus": "Kingfisher Cottage",
+        "width": 560,
+        "height": 350,
+        "originalWidth": 1406,
+        "originalHeight": 1118,
+        "sha256": "f6f2038b2d66ce8241b44b0fcaf348460fb9db48efd66f75a91b72497330fe57",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0108-000.webp",
+        "url": "https://static.wixstatic.com/media/61ebed_0254b3111c194ed690570cce47a4b4d9~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kingfqnbed_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "role": "additional",
+        "unitOrCampus": "Kingfisher Cottage",
+        "width": 1406,
+        "height": 1118,
+        "originalWidth": 1406,
+        "originalHeight": 1118,
+        "sha256": "2e72803164778c7d1a57487058a96755b842c439c0a75af508f505ea75751994",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0108-001.webp",
+        "url": "https://static.wixstatic.com/media/61ebed_a1c42813b58d48ee81918f133b36940d~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kinglr_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "role": "additional",
+        "unitOrCampus": "Kingfisher Cottage",
+        "width": 1406,
+        "height": 1118,
+        "originalWidth": 1406,
+        "originalHeight": 1118,
+        "sha256": "956281d4554876b3ce45b293af1cb83192e9c11034c0f2b5dc6ecbc2bf177ac7",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0108-002.webp",
+        "url": "https://static.wixstatic.com/media/61ebed_9e1e85670b834ce5b8bf7a0245179530~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kingkitchen_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "role": "additional",
+        "unitOrCampus": "Kingfisher Cottage",
+        "width": 1406,
+        "height": 1118,
+        "originalWidth": 1406,
+        "originalHeight": 1118,
+        "sha256": "aac4cccaa0f48929acb7d137afbd889987a5e94e3e2cf5a2be30434b0bdb7500",
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://static.wixstatic.com/media/61ebed_7eb7d42eff7a400fa3e443eb4bddf867~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kingext_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "unitOrCampus": "Kingfisher Cottage",
+        "alt": "Kingfisher exterior"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/61ebed_0254b3111c194ed690570cce47a4b4d9~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kingfqnbed_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "unitOrCampus": "Kingfisher Cottage",
+        "alt": "Kingfisher bedroom"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/61ebed_a1c42813b58d48ee81918f133b36940d~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kinglr_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "unitOrCampus": "Kingfisher Cottage",
+        "alt": "Kingfisher livingroom"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/61ebed_9e1e85670b834ce5b8bf7a0245179530~mv2.jpg/v1/fill/w_1406,h_1118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kingkitchen_JPG.jpg",
+        "sourcePage": "https://www.eventidewellfleet.com/cape-cottages",
+        "unitOrCampus": "Kingfisher Cottage",
+        "alt": "Kingfisher kitchen"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Own pages checked; no Airbnb/Vrbo/Booking links found",
+    "remainingGaps": [
+      "Photos",
+      "Optional unit facts/policies"
+    ],
+    "accessFailures": [],
+    "notes": "Familyowned regionalresort. PhotosKingfisheronly,10guests4bed4bath applyunitonly; othercottages differ. Policy audit2026-10-26: Cottage-specific rates/policiespage explicitlyprovideschildrules andbanpets. Sources: https://www.eventidewellfleet.com/cottages-rates; https://www.eventidewellfleet.com/",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.eventidewellfleet.com/contact"
+  },
+  {
+    "id": "MA-0109",
+    "name": "Harborview Nantucket",
+    "website": "https://www.harborviewnantucket.com/",
+    "evidenceStatus": "Verified independent website",
+    "checkedOn": "2026-10-26",
+    "eligibilityReason": "Chamber and own cottage/contact pages establish identifiable local operator,MA lodging and direct inquiry.",
+    "sourceUrl": "https://business.nantucketchamber.org/members/member/harborview-nantucket-4316",
+    "discoveryMethod": "Regional chamber/directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/members/member/harborview-nantucket-4316",
+      "https://www.harborviewnantucket.com/",
+      "https://www.harborviewnantucket.com/contact-us",
+      "https://www.harborviewnantucket.com/cottages",
+      "https://www.harborviewnantucket.com/cottages/watersedge"
+    ],
+    "contactPagesChecked": [
+      "https://www.harborviewnantucket.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "shared camp/campus",
+      "street": "24 Washington Street",
+      "city": "Nantucket",
+      "state": "MA",
+      "zip": "02554",
+      "source": "https://www.harborviewnantucket.com/contact-us"
+    },
+    "bookingMethod": "5083017551;direct inquiryform;Webrezhotel2593",
+    "bookingUrl": "https://secure.webrez.com/hotel/2593/calendar",
+    "classification": "Cabins / small operator",
+    "recordType": "operator",
+    "description": "Nantucket waterfront cottage campus near downtown; selected photos show Water’s Edge cottage.",
+    "descriptionSource": "https://www.harborviewnantucket.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": " No child/infant acceptance or minimumage policy found in reservationpolicies/Water’sEdge unit.",
+      "petsDetails": "Pets are not permitted. Pet ban inReservationPolicies; contactpropertyforserviceanimalaccommodation",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0109-cover.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/3a4b021d-4f81-4ee2-9911-8ccfd53b362d/Waters+Edge+Exterior.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "role": "cover",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "sha256": "424512692db97c6e08167b6f9542c8b5791b6c0cc567854a8039a2e0d8c63069",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0109-000.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/1cef3f6e-c86a-4c81-84fb-fbf77763ad00/Waters+Edge+Kitchen.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "role": "gallery",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "sha256": "1a929d61e1cda2e91439600de48acb88e66efaa5834e14ddd0c2377d9003b6c6",
+        "width": 692,
+        "height": 1080,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0109-001.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/2d7e4284-2d53-4d74-a464-d06c0e0e07bc/Waters+Edge+Bed.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "role": "gallery",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "sha256": "5a9c53bbb646944162332991e7b349a91909cc993556d5cc045b2ef29fdb2ad1",
+        "width": 720,
+        "height": 1080,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0109-002.webp",
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/eba3a482-a6ec-496a-8cf4-53836ec880c6/Waters+Edge+View.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "role": "gallery",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "sha256": "1873039b08318ab96fc308ce4575b84a4e33ba6b867e2aac37845d978130a3c8",
+        "width": 1600,
+        "height": 1067,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/3a4b021d-4f81-4ee2-9911-8ccfd53b362d/Waters+Edge+Exterior.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "alt": "Exterior"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/1cef3f6e-c86a-4c81-84fb-fbf77763ad00/Waters+Edge+Kitchen.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "alt": "Kitchen"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/2d7e4284-2d53-4d74-a464-d06c0e0e07bc/Waters+Edge+Bed.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "alt": "Bedroom"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/65a6f9b21655214c4dd33ca7/eba3a482-a6ec-496a-8cf4-53836ec880c6/Waters+Edge+View.jpg",
+        "sourcePage": "https://www.harborviewnantucket.com/cottages/watersedge",
+        "unitOrCampus": "Water’sEdge Cottage",
+        "alt": "Waterfront view"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened pages checked; none found",
+    "remainingGaps": [
+      "Optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "Water’sEdge1bed1bath unit,not campuswidefacts. Website10cottages vs chamber11and13namedentries—do not infercampustotal. Policy audit2026-10-26: OwnReservationPolicies section reviewed; no child-age inference from studio/romantic description. Sources: https://www.harborviewnantucket.com/; https://www.harborviewnantucket.com/cottages/watersedge",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.harborviewnantucket.com/contact-us"
+  },
+  {
+    "id": "MA-0111",
+    "name": "15 Cottage Park",
+    "website": "https://www.mvcma.org/15-cottage-park",
+    "evidenceStatus": "Source found in web research",
+    "checkedOn": "2026-10-26",
+    "eligibilityReason": "Owner-authored rental advertisement on associationdirectory establishes unit and ownercontact, but no separateoperator-controlledsite/directbookingpage verified.",
+    "sourceUrl": "https://www.mvcma.org/cottage-rental",
+    "discoveryMethod": "Regional chamber/directory",
+    "openedUrls": [
+      "https://www.mvcma.org/cottage-rental",
+      "https://www.mvcma.org/15-cottage-park"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "property;directory-only evidence",
+      "street": "15 Cottage Park",
+      "city": "Oak Bluffs",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Owner public advertisement contactWalterGallant,2817979047,WGallant62@gmail.com",
+    "bookingUrl": "Unknown",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "description": "Owner-advertised historic Oak Bluffs cottage at 15 Cottage Park.",
+    "descriptionSource": "https://www.mvcma.org/15-cottage-park",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": 3000,
+      "currency": "USD",
+      "priceDetails": "$3000/week;Saturday-Saturday"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened pages checked; none found",
+    "remainingGaps": [
+      "Photos",
+      "Optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "Association explicitly does not rent cottages; individualowners rentdirect. Associationoffice80TrinityPark is not rentaladdress. Candidate maintained underrootSOP instruction."
+  },
+  {
+    "id": "MA-0112",
+    "name": "17 Cottage Park",
+    "website": "https://www.mvcma.org/17-cottage-park",
+    "evidenceStatus": "Source found in web research",
+    "checkedOn": "2026-10-26",
+    "eligibilityReason": "Owner-authored rental advertisement on associationdirectory establishes unit and ownercontact, but no separateoperator-controlledsite/directbookingpage verified.",
+    "sourceUrl": "https://www.mvcma.org/cottage-rental",
+    "discoveryMethod": "Regional chamber/directory",
+    "openedUrls": [
+      "https://www.mvcma.org/cottage-rental",
+      "https://www.mvcma.org/17-cottage-park"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "property;directory-only evidence",
+      "street": "17 Cottage Park",
+      "city": "Oak Bluffs",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Owner public advertisement contactRevaGreenup,7022187715,RMGreenup@gmail.com",
+    "bookingUrl": "Unknown",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "description": "Owner-advertised historic Oak Bluffs cottage at 17 Cottage Park.",
+    "descriptionSource": "https://www.mvcma.org/17-cottage-park",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": 3300,
+      "currency": "USD",
+      "priceDetails": "$3300/week;Saturday-Saturday"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened pages checked; none found",
+    "remainingGaps": [
+      "Photos",
+      "Optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "Association explicitly does not rent cottages; individualowners rentdirect. Associationoffice80TrinityPark is not rentaladdress. Candidate maintained underrootSOP instruction."
+  },
+  {
+    "id": "MA-0110",
+    "name": "Le Cottage",
+    "website": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Exact97SomersetRoad chamber cottage matches an opened local rental-agent property page with direct inquiry, rates and office contact.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/le-cottage-1652",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/le-cottage-1652",
+      "https://www.google.com/search?q=Le+Cottage+97+Somerset+Road+Nantucket+official+rental+website",
+      "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/"
+    ],
+    "contactPagesChecked": [
+      "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/"
+    ],
+    "contactAddress": {
+      "role": "operator office; unit address97SomersetRoad in own page heading",
+      "street": "57 Main Street, Second Floor",
+      "city": "Nantucket",
+      "state": "MA",
+      "zip": "02554",
+      "source": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+      "notes": "No separate Contact page linked in full footer/menu; direct property inquiry and public office contact on rental page."
+    },
+    "bookingMethod": "Direct Inquire buttons and5083255000;office@congdonandcoleman.com",
+    "bookingUrl": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+    "classification": "Individual property/host",
+    "recordType": "property",
+    "description": "Three-bedroom Nantucket rental house near Miacomet with a deck and outdoor shower.",
+    "descriptionSource": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": " Booking widget labels adults/children but no explicit child-age acceptance policy/age bands found inHouseRules.",
+      "petsDetails": "No Pets Allowed No pets; bookingwidget reiteratespetban",
+      "priceFrom": 4000,
+      "currency": "USD",
+      "priceDetails": "$4000-$5200/week, dates and extra charges not established."
+    },
+    "photos": [
+      {
+        "file": "images/MA-0110-cover.webp",
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2F9829f72e-7a86-413d-9f80-277d4540f0a7.webp&w=1920&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "role": "cover",
+        "unitOrCampus": "97SomersetRoad LeCottage",
+        "sha256": "27ee07238246305e4716bbc75b6267935299a2055c665c52500f30740ecf8390",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0110-000.webp",
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2F671efdec-cb30-4d72-b37b-7b8bb8aad283.webp&w=3840&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "role": "gallery",
+        "unitOrCampus": "97SomersetRoad LeCottage",
+        "sha256": "dfdfb3fdfcf50d6d0b9e5895deb8deb2043517063a8e664911a8fecc8a78f0f1",
+        "width": 1069,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0110-001.webp",
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2Fdb932dfc-b365-4b7f-a65d-80e8867b75b6.webp&w=3840&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "role": "gallery",
+        "unitOrCampus": "97SomersetRoad LeCottage",
+        "sha256": "81d06ca6ab3b5e7283d487904fe05a0b772e44f83407db38e61b036ad3c4f066",
+        "width": 599,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0110-002.webp",
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2F3455940a-74e6-4df4-a371-476fbef35940.webp&w=3840&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "role": "gallery",
+        "unitOrCampus": "97SomersetRoad LeCottage",
+        "sha256": "d8f23b34bff44da70e565ff5431ef037bbe9e3fbd2af6653180472b35c446b71",
+        "width": 1069,
+        "height": 800,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2F9829f72e-7a86-413d-9f80-277d4540f0a7.webp&w=1920&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "alt": "97SomersetRoad propertyphoto",
+        "unitOrCampus": "97SomersetRoad LeCottage"
+      },
+      {
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2F671efdec-cb30-4d72-b37b-7b8bb8aad283.webp&w=3840&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "alt": "97SomersetRoad propertyphoto",
+        "unitOrCampus": "97SomersetRoad LeCottage"
+      },
+      {
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2Fdb932dfc-b365-4b7f-a65d-80e8867b75b6.webp&w=3840&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "alt": "97SomersetRoad propertyphoto",
+        "unitOrCampus": "97SomersetRoad LeCottage"
+      },
+      {
+        "url": "https://www.congdonandcoleman.com/_next/image/?url=https%3A%2F%2Fd1b75btxwpe6g0.cloudfront.net%2Fimages%2F3455940a-74e6-4df4-a371-476fbef35940.webp&w=3840&q=75",
+        "sourcePage": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+        "alt": "97SomersetRoad propertyphoto",
+        "unitOrCampus": "97SomersetRoad LeCottage"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "SeparateContactpage not linked; propertypage directinquiry reviewed"
+    ],
+    "accessFailures": [],
+    "notes": "Chamber calls property LeCottage; ownagentpage uses97SomersetRoad. Exactaddress match, no transferable owner-identity assumption. STR002656. Policy audit2026-10-26: Current exactunitHouseRules andbookingpanelchecked; no generalmanagerpetpolicy transfer. Sources: https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/",
+    "photoQANotes": "Four savedphotos visually checked as one97SomersetRoad house; no mixedunits.",
+    "operatorEvidenceUrl": "https://www.congdonandcoleman.com/nantucket-rentals/miacomet/97-somerset-road/"
+  },
+  {
+    "id": "MA-0113",
+    "name": "Far Island Cottages",
+    "website": "https://www.farisland.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Published domain refused connection in connected Chrome; own accommodation/contact not accessible.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/far-island-cottages-1683",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/far-island-cottages-1683",
+      "http://www.farisland.com/",
+      "https://www.farisland.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Nantucket chamber-listed cottages at 41 Madaket Road.",
+    "descriptionSource": "https://business.nantucketchamber.org/list/member/far-island-cottages-1683",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Own-site/contact eligibility verification"
+    ],
+    "accessFailures": [
+      {
+        "url": "http://www.farisland.com/",
+        "result": "Blank browser error page"
+      },
+      {
+        "url": "https://www.farisland.com/",
+        "result": "ERR_CONNECTION_REFUSED"
+      }
+    ],
+    "notes": "Directory:41 Madaket Road Nantucket02554,5083252849."
+  },
+  {
+    "id": "MA-0114",
+    "name": "Brant Point Courtyard",
+    "website": "https://brantpointcourtyard.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own site identifies fourteen fully equipped Nantucket vacation units, on-site rental contact and property address.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/brant-point-courtyard-1672",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/brant-point-courtyard-1672",
+      "https://brantpointcourtyard.com/",
+      "https://brantpointcourtyard.com/index.php/contact/",
+      "https://brantpointcourtyard.com/index.php/gallery/",
+      "https://be.synxis.com/?chain=31323&hotel=42708"
+    ],
+    "contactPagesChecked": [
+      "https://brantpointcourtyard.com/index.php/contact/"
+    ],
+    "contactAddress": {
+      "role": "property",
+      "street": "15 Swain Street",
+      "city": "Nantucket",
+      "state": "MA",
+      "zip": "02554",
+      "source": "https://brantpointcourtyard.com/index.php/contact/"
+    },
+    "bookingMethod": "Direct rental inquiry:5082280241,resortmanager@brantpointcourtyard.com",
+    "bookingUrl": "https://be.synxis.com/?chain=31323&hotel=42708",
+    "classification": "Local rental operator",
+    "recordType": "operator",
+    "description": "Fully equipped vacation units near Brant Point on Nantucket.",
+    "descriptionSource": "https://brantpointcourtyard.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": " No child/infant age policy found inRentalPolicies.",
+      "petsDetails": "Sorry, only service animals are permitted at the resort ",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0114-cover.webp",
+        "url": "https://brantpointcourtyard.com/wp-content/uploads/2024/11/Nobadeer-1.jpg",
+        "sourcePage": "https://brantpointcourtyard.com/index.php/gallery/",
+        "role": "cover",
+        "unitOrCampus": "Nobadeer Unit A1; one named-unit gallery image only",
+        "sha256": "e3c1824991ee671c2ba97a9709da11a524941203f9012b19d6cbdfcf0968731a",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://brantpointcourtyard.com/wp-content/uploads/2024/11/Nobadeer-1.jpg",
+        "sourcePage": "https://brantpointcourtyard.com/index.php/gallery/",
+        "alt": "Nobadeer Unit A1",
+        "unitOrCampus": "Nobadeer Unit A1"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Only one photo of named Nobadeer Unit A1; no safe same-unit3-image set"
+    ],
+    "accessFailures": [],
+    "notes": "Timeshare ownership portal does not establish current corporate ownership; no further investigation needed. VisualQA excluded flower-only cover from card images. Policy audit2026-10-26: Full actual RentalPolicies above namedunitgalleryreviewed. Sources: https://brantpointcourtyard.com/index.php/gallery/ Boundedbookinggallerycheck2026-10-26:officialSynxisBrantPointsiteopensbutdefaultOct26one-nightsearchhasnobookablerooms/gallery; noadditionalNobadeerimagescaptured. Onecorrectnamedunitcoverretained.",
+    "photoQANotes": "NobadeerUnitA1cover visually inspected2026-10-26; authentic living/dining interior, onlyone safelyidentifiedunitphoto.",
+    "operatorEvidenceUrl": "https://brantpointcourtyard.com/index.php/contact/"
+  },
+  {
+    "id": "MA-0115",
+    "name": "The Cottages at Nantucket Boat Basin",
+    "website": "https://www.thecottagesnantucket.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own site offers Nantucket studio and one-to-three-bedroom cottages and lofts with kitchens, direct reservations and contact address.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/the-cottages-at-nantucket-boat-basin-1868",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/the-cottages-at-nantucket-boat-basin-1868",
+      "https://www.thecottagesnantucket.com/",
+      "https://www.thecottagesnantucket.com/explore/contact-location",
+      "https://www.thecottagesnantucket.com/gallery",
+      "https://www.thecottagesnantucket.com/gallery"
+    ],
+    "contactPagesChecked": [
+      "https://www.thecottagesnantucket.com/explore/contact-location"
+    ],
+    "contactAddress": {
+      "role": "property",
+      "street": "24 Old South Wharf",
+      "city": "Nantucket",
+      "state": "MA",
+      "zip": "02554",
+      "source": "https://www.thecottagesnantucket.com/explore/contact-location"
+    },
+    "bookingMethod": "Direct booking via Travelclick property110486;8668389253,reservations@thecottagesnantucket.com",
+    "bookingUrl": "https://www.thecottagesnantucket.com/explore/contact-location",
+    "classification": "Local rental operator",
+    "recordType": "operator",
+    "description": "Waterfront cottages and lofts with kitchens at Nantucket Boat Basin.",
+    "descriptionSource": "https://www.thecottagesnantucket.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "For families traveling with children, Nantucket offers camps and classes, and The Cottages offers fishing rods and tackle as well as scavenger hunts among other activities to keep young guests entertained. ",
+      "petsDetails": "We welcome dogs and cats, as long as you receive inn keeper approval prior to arrival.; Nightly Pet Fee, maximum 2 dogs per cottage Maximum2dogs/cottage; nightlypetfee amountnotstated; Petsmustbequiet; catlimitnotexplicitlyspecified",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0115-cover.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/jpr-wer-67.jpg?width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "role": "cover",
+        "unitOrCampus": "Boat Basin shared campus",
+        "sha256": "01024c6998a2a039b51c79381c18498e723212362cf9a7b7fa37cda9a0cb7d07",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0115-000.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/jpr-thecottages-010-large.jpg?cropX=332&cropW=5336&cropH=4002&width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "role": "gallery",
+        "unitOrCampus": "Boat Basin shared campus",
+        "sha256": "d25637000f180c9ff7d7c104cfd6908128a48e96c3bd11652966acad7333a188",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0115-001.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/jpr-nbb-09.jpg?cropX=360&cropW=5780&cropH=4335&width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "role": "gallery",
+        "unitOrCampus": "Boat Basin shared campus",
+        "sha256": "c8611d3e9d159ec9539aa234921ef89987c5cf9c0b2722cb09c39db80dbf0724",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0115-002.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/thecottagesnantucket/gallery-page/the-cottages-wharf.jpg?width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "role": "gallery",
+        "unitOrCampus": "Boat Basin shared campus",
+        "sha256": "b5e542afbda44ea9ac8cd32f97a950251971a43b74a05d070bcc03128c9f992e",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/jpr-wer-67.jpg?width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "alt": "Aerial view",
+        "unitOrCampus": "Boat Basin shared campus"
+      },
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/jpr-thecottages-010-large.jpg?cropX=332&cropW=5336&cropH=4002&width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "alt": "View from boats",
+        "unitOrCampus": "Boat Basin shared campus"
+      },
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/jpr-nbb-09.jpg?cropX=360&cropW=5780&cropH=4335&width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "alt": "Water view from cottages",
+        "unitOrCampus": "Boat Basin shared campus"
+      },
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/the-cottages-loft-boat-basin-nantucket/thecottagesnantucket/gallery-page/the-cottages-wharf.jpg?width=1000&height=750",
+        "sourcePage": "https://www.thecottagesnantucket.com/gallery",
+        "alt": "Wharf",
+        "unitOrCampus": "Boat Basin shared campus"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "Shared campus photos only; pet-friendly Woof units have restrictions. Policy audit2026-10-26: Petpolicy explicitlydiffersfromsisterWhiteElephant; no petpermissiontransferred toothercottages. Sources: https://www.thecottagesnantucket.com/faq; https://www.thecottagesnantucket.com/pet-friendly-accommodations",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.thecottagesnantucket.com/explore/contact-location"
+  },
+  {
+    "id": "MA-0116",
+    "name": "111 Orange Street Bungalow and Cottage",
+    "website": "Unknown",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Owner chamber profile links only WeNeedaVacation advertisements; no separate operator-controlled website verified.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/111-orange-street-bungalow-cottage-5389",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/111-orange-street-bungalow-cottage-5389",
+      "https://www.google.com/search?q=%22111+Orange%22+Nantucket+%22Cynthia%22+rental"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Directory owner Cynthia Stenta-Porrini,6107240454",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Owner-advertised Nantucket bungalow and cottage at 111 Orange Street.",
+    "descriptionSource": "https://business.nantucketchamber.org/list/member/111-orange-street-bungalow-cottage-5389",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Own-site/contact eligibility verification"
+    ],
+    "accessFailures": [],
+    "notes": "Published platform ads WeNeedaVacation32056 and32064; no platform badge because matching listing not opened. Directory property111OrangeStreet Nantucket02554. Focused reverse query surfaced only platform ads; no separate own-site candidate. Search snippets not used as verification."
+  },
+  {
+    "id": "MA-0117",
+    "name": "Nantucket Accommodations",
+    "website": "https://nantucketaccommodations.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Own site describes an island reservation service that makes reservations with chosen third-party properties, rather than an identified hosted or managed accommodation.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/nantucket-accommodations-4392",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/nantucket-accommodations-4392",
+      "https://nantucketaccommodations.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Nantucket lodging reservation service operating since 1972.",
+    "descriptionSource": "https://business.nantucketchamber.org/list/member/nantucket-accommodations-4392",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Own-site/contact eligibility verification"
+    ],
+    "accessFailures": [],
+    "notes": "Sea & Ski Hospitality; footer61OldSouthRoadPMB162 Nantucket02554,5082289559,reservations@nantucketaccommodations.com. Preserve as discovery service."
+  },
+  {
+    "id": "MA-0118",
+    "name": "Atlantic East Nantucket Real Estate",
+    "website": "https://www.nantucketrealestate.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Chamber identifies local rental agency but own domain blocked by browser certificate interstitial; no bypass attempted.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/atlantic-east-nantucket-real-estate-2549",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/atlantic-east-nantucket-real-estate-2549",
+      "http://www.nantucketrealestate.com/",
+      "https://www.nantucketrealestate.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Nantucket chamber-listed vacation rental and real estate agency.",
+    "descriptionSource": "https://business.nantucketchamber.org/list/member/atlantic-east-nantucket-real-estate-2549",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Own-site/contact eligibility verification"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://www.nantucketrealestate.com/",
+        "result": "ERR_CERT_COMMON_NAME_INVALID; privacy interstitial, not bypassed"
+      }
+    ],
+    "notes": "Directory office82EastonStreet Nantucket02554,5082287707; browser security limitation is not proof of closed business."
+  },
+  {
+    "id": "MA-0119",
+    "name": "Maury People Sotheby’s International Realty",
+    "website": "https://www.maurypeople.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Chamber profile establishes rental agency and published own website; SiteGround robot challenge prevented own-site contact review.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/maury-people-sotheby-s-international-realty-1866",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/maury-people-sotheby-s-international-realty-1866",
+      "https://www.maurypeople.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "MA",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Nantucket chamber-listed vacation rental and real estate agency.",
+    "descriptionSource": "https://business.nantucketchamber.org/list/member/maury-people-sotheby-s-international-realty-1866",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Own-site/contact eligibility verification"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://www.maurypeople.com/",
+        "result": "SiteGround robot challenge"
+      }
+    ],
+    "notes": "Directory office37MainStreet Nantucket02554,5082281881. Robot challenge is access limitation, not website down."
+  },
+  {
+    "id": "MA-0120",
+    "name": "White Elephant Nantucket",
+    "website": "https://www.whiteelephantnantucket.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own Nantucket property site offers garden cottages, residences and downtown lofts with direct booking and contact address.",
+    "sourceUrl": "https://business.nantucketchamber.org/list/member/white-elephant-hotel-1851",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://business.nantucketchamber.org/list/member/white-elephant-hotel-1851",
+      "https://www.whiteelephantnantucket.com/",
+      "https://www.whiteelephantnantucket.com/contact",
+      "https://www.whiteelephantnantucket.com/gallery"
+    ],
+    "contactPagesChecked": [
+      "https://www.whiteelephantnantucket.com/contact"
+    ],
+    "contactAddress": {
+      "role": "property/operator",
+      "street": "50 Easton Street",
+      "city": "Nantucket",
+      "state": "MA",
+      "zip": "02554",
+      "source": "https://www.whiteelephantnantucket.com/contact"
+    },
+    "bookingMethod": "Direct Travelclick property110484;8004456574,inquiries@whiteelephantnantucket.com",
+    "bookingUrl": "https://www.whiteelephantnantucket.com/contact",
+    "classification": "Local rental operator",
+    "recordType": "operator",
+    "description": "Nantucket hotel with garden cottages, residences and downtown lofts.",
+    "descriptionSource": "https://www.whiteelephantnantucket.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "pets": "No",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "For families traveling with children, Nantucket offers camps and classes, and White Elephant offers scavenger hunts among other activities and amenities to keep young guests entertained. Residence roomfeaturesexplicitlyinclude2adult2children/4adult2children/6adult2childrenoptions",
+      "petsDetails": "Pets are not permitted except at our sister property The Cottages at the Boat Basin Petban atWhiteElephant; exceptionreferstosisterproperty, not thiscampus",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0120-cover.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/white-elephant-nantucket/siteimages/whiteelephantnantucket-gallery-1.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "role": "cover",
+        "unitOrCampus": "White Elephant shared campus",
+        "sha256": "8805ce38f27ed76baafa9c3ddc4db01036b766b10cf39082aaac33743d839c6a",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0120-000.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/dji-0851-retouched.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "role": "gallery",
+        "unitOrCampus": "White Elephant shared campus",
+        "sha256": "aa80453d3323350f1c98a75fca326dcc70ceb327e895ea35f79d78a114de27a5",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0120-001.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/whiteelephant-chaises-2.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "role": "gallery",
+        "unitOrCampus": "White Elephant shared campus",
+        "sha256": "f582962741ecd17d852847fcbdf735523807cf430be36dbf1a6691a617e98a33",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0120-002.webp",
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/5-flowers.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "role": "gallery",
+        "unitOrCampus": "White Elephant shared campus",
+        "sha256": "3cc798faab5021997c6e577af64807408668f50d8f7e0c7884e407893c09186a",
+        "width": 1000,
+        "height": 750,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/white-elephant-nantucket/siteimages/whiteelephantnantucket-gallery-1.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "alt": "White Elephant Nantucket",
+        "unitOrCampus": "White Elephant shared campus"
+      },
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/dji-0851-retouched.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "alt": "Courtyard views",
+        "unitOrCampus": "White Elephant shared campus"
+      },
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/whiteelephant-chaises-2.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "alt": "Courtyard lounge",
+        "unitOrCampus": "White Elephant shared campus"
+      },
+      {
+        "url": "https://assets.milestoneinternet.com/cdn-cgi/image/f=auto/white-elephant-resorts/white-elephant-2655/5-flowers.jpg?width=1000&height=750",
+        "sourcePage": "https://www.whiteelephantnantucket.com/gallery",
+        "alt": "Courtyard chairs",
+        "unitOrCampus": "White Elephant shared campus"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "No aggregate unit capacity inferred from portfolio. Policy audit2026-10-26: ExpandedReservationPolicies onownResidencespageand relevantFAQanswers; focusedofficialsitesearchfoundactualpolicypage,notusedsnippetasevidence. Sources: https://www.whiteelephantnantucket.com/frequently-asked-questions; https://www.whiteelephantnantucket.com/accommodation/accommodations-details",
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.whiteelephantnantucket.com/contact"
+  },
+  {
+    "id": "MA-0121",
+    "name": "Martha’s Vineyard Vacation Rentals and Sales",
+    "website": "https://www.mvvacationrentals.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "eligibilityReason": "Own site identifies local vacation rental team since1985, island accommodation catalog and direct inquiry contact with office address.",
+    "sourceUrl": "https://www.mvy.com/listing/marthas-vineyard-vacation-rentals-and-real-estate-sales-inc/17/",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://www.mvy.com/listing/marthas-vineyard-vacation-rentals-and-real-estate-sales-inc/17/",
+      "https://www.mvvacationrentals.com/",
+      "https://www.mvvacationrentals.com/contact-us",
+      "https://www.mvvacationrentals.com/chilmark-vacation-rentals",
+      "https://www.mvvacationrentals.com/property/englj",
+      "https://www.mvvacationrentals.com/chilmark-vacation-rentals",
+      "https://www.mvvacationrentals.com/property/englj"
+    ],
+    "contactPagesChecked": [
+      "https://www.mvvacationrentals.com/contact-us"
+    ],
+    "contactAddress": {
+      "role": "operator office",
+      "street": "107 Beach Road, Suite 102",
+      "city": "Vineyard Haven",
+      "state": "MA",
+      "zip": "02568",
+      "source": "https://www.mvvacationrentals.com/contact-us"
+    },
+    "bookingMethod": "Direct inquiry form,5086937711,info@mvvacationrentals.com",
+    "bookingUrl": "https://www.mvvacationrentals.com/contact-us",
+    "classification": "Local rental operator",
+    "recordType": "operator",
+    "description": "Local vacation rental agency offering homes across Martha’s Vineyard.",
+    "descriptionSource": "https://www.mvvacationrentals.com/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Conditional",
+      "capacityDetails": "Unknown",
+      "kidsDetails": " No portfolio-wide child/infant agepolicy found inRentalPolicies orENGLJownerrules.",
+      "petsDetails": "Martha's Vineyard Rentals that Allow Pets; Owner Policies: No Pets Petpermissionvariesbyowner/listing; dedicatedpetcatalogavailable; RepresentativephotoestateENGLJ prohibits pets; do notapplytoallportfolio",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [
+      {
+        "file": "images/MA-0121-cover.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior6.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "role": "cover",
+        "unitOrCampus": "ENGLJ Chilmark estate",
+        "sha256": "bcd403a653ab93b6f071de6747b2e254a971d7ba5d2c6d9e4f36e07a2aef5534",
+        "width": 560,
+        "height": 350,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0121-000.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "role": "gallery",
+        "unitOrCampus": "ENGLJ Chilmark estate",
+        "sha256": "de9d2159d6d39914307e28e71cd91f60ff74727b73e50d7e8b9920b4fcb4a07e",
+        "width": 900,
+        "height": 600,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0121-001.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "role": "gallery",
+        "unitOrCampus": "ENGLJ Chilmark estate",
+        "sha256": "a4a0be4a8ba99d899327ecdc973e1a526b9cf5a48e6cc211676fe81c2398fb22",
+        "width": 900,
+        "height": 600,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      },
+      {
+        "file": "images/MA-0121-002.webp",
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "role": "gallery",
+        "unitOrCampus": "ENGLJ Chilmark estate",
+        "sha256": "8472936ebc0eec63917a666a1834f41f1ce624e378a0f417e0227f4881c2f66a",
+        "width": 900,
+        "height": 600,
+        "generated": false,
+        "checkedOn": "2026-10-26"
+      }
+    ],
+    "photoCandidates": [
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior6.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "alt": "ENGLJ estate exterior 6",
+        "unitOrCampus": "ENGLJ Chilmark estate"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior7.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "alt": "ENGLJ estate exterior 7",
+        "unitOrCampus": "ENGLJ Chilmark estate"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior3.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "alt": "ENGLJ estate exterior 3",
+        "unitOrCampus": "ENGLJ Chilmark estate"
+      },
+      {
+        "url": "https://www.mvvacationrentals.com/sites/default/files/styles/property_details/public/vr-listings-gallery-images/englj23-exterior1.jpg",
+        "sourcePage": "https://www.mvvacationrentals.com/property/englj",
+        "alt": "ENGLJ estate exterior 1",
+        "unitOrCampus": "ENGLJ Chilmark estate"
+      }
+    ],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Optional facts"
+    ],
+    "accessFailures": [],
+    "notes": "POBox1207 mailing separate from office. Capacity and pet policy vary by individual rental. Policy audit2026-10-26: Generalrentalpoliciesread; exactunitownerpolicyread. KeepENGLJNoPets distinctfromoperatorconditionalpetoptions. Sources: https://www.mvvacationrentals.com/vacation-rentals/rental-policies; https://www.mvvacationrentals.com/vacation-rentals/pets-considered; https://www.mvvacationrentals.com/property/englj",
+    "representativeUnitFacts": {
+      "unit": "ENGLJ",
+      "source": "https://www.mvvacationrentals.com/property/englj",
+      "guests": 12,
+      "bedrooms": 6,
+      "bathrooms": 5.5,
+      "pets": "No",
+      "priceDetails": "2027 weekly calendar $30000-$55000; $2000 weekly cleaning,$175 service,11.7%tax,$6000 or10%security deposit; seven-day minimum. Unit facts only."
+    },
+    "photoQANotes": "Contact-sheet visual review2026-10-26; photos load and represent named unit or shared property/setting, excluded floorplan/unidentified interior.",
+    "operatorEvidenceUrl": "https://www.mvvacationrentals.com/contact-us"
+  },
+  {
+    "id": "MA-0122",
+    "name": "130 West Main St - Meadowview Cottages",
+    "website": "https://wellfleetweeks.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Own published website reaches browser privacy interstitial; no bypass. Chamber cottage offer documented, own-site eligibility unresolved.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b22",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b22",
+      "https://wellfleetweeks.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "Unknown",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Chamber-listed 130 West Main St - Meadowview Cottages in Wellfleet.",
+    "descriptionSource": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b22",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Ownsite/contact eligibility review incomplete"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://wellfleetweeks.com/",
+        "result": "Browser Privacy error, security interstitial not bypassed."
+      }
+    ],
+    "notes": "Chamber advertises private cottage for1-2persons,weekly1100-1250,5083499304,westmainstreet@comcast.net,WeNeeda10164."
+  },
+  {
+    "id": "MA-0123",
+    "name": "Colonial Home Watch, LLC",
+    "website": "https://colonialhomeswatch.com/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Website unavailable",
+    "eligibilityReason": "Published own domain returns DNS_PROBE_FINISHED_NXDOMAIN; chamber manager profile alone does not complete rental eligibility.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b35",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b35",
+      "https://colonialhomeswatch.com/"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "Unknown",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Chamber-listed Colonial Home Watch, LLC in Wellfleet.",
+    "descriptionSource": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5c781a2af033bf63727b9b35",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Ownsite/contact eligibility review incomplete"
+    ],
+    "accessFailures": [
+      {
+        "url": "https://colonialhomeswatch.com/",
+        "result": "DNS_PROBE_FINISHED_NXDOMAIN"
+      }
+    ],
+    "notes": "Chamber lists TomLovelette,POBox937SouthWellfleet02663,7742127841; describes propertymanagement and rentalservices."
+  },
+  {
+    "id": "MA-0124",
+    "name": "130 West Main Street",
+    "website": "Unknown",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Source found in web research",
+    "eligibilityReason": "Owner-authored chamber advertisement links WeNeedaVacation10392 only; separate own accommodation page not verified.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5cb8f9a2afd691890dc8a953",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5cb8f9a2afd691890dc8a953"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "Unknown",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Chamber-listed 130 West Main Street in Wellfleet.",
+    "descriptionSource": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/5cb8f9a2afd691890dc8a953",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [
+      "Ownsite/contact eligibility review incomplete"
+    ],
+    "accessFailures": [],
+    "notes": "Same phone5083499304/emailwestmainstreet@comcast.net asMeadowview; distinct1BRsuite inowneroccupiedhome2guestlimit,optional2ndbedroomdoesnotraisecapacity. Summer2024approx1250/week+tax historicalonly."
+  },
+  {
+    "id": "MA-0125",
+    "name": "Truro Center for the Arts at Castle Hill",
+    "website": "https://www.castlehill.org/",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Not eligible",
+    "eligibilityReason": "Own housing page limits campus lodging to people enrolled in week-long-or-longer workshops; no public vacation-rental offering established.",
+    "sourceUrl": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/687fab172ca129a9320bb0a2",
+    "discoveryMethod": "Regional chamber directory",
+    "openedUrls": [
+      "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/687fab172ca129a9320bb0a2",
+      "https://www.castlehill.org/",
+      "https://www.castlehill.org/housing-1"
+    ],
+    "contactPagesChecked": [],
+    "contactAddress": {
+      "role": "Unknown",
+      "street": "Unknown",
+      "city": "Unknown",
+      "state": "Unknown",
+      "zip": "Unknown",
+      "source": "Unknown"
+    },
+    "bookingMethod": "Unknown",
+    "bookingUrl": "Unknown",
+    "classification": "Candidate",
+    "recordType": "operator",
+    "description": "Workshop-linked student housing at Castle Hill’s Truro campuses.",
+    "descriptionSource": "https://www.wellfleetchamber.com/accommodations/cottages-apartments-condos/#!biz/id/687fab172ca129a9320bb0a2",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": "Unknown",
+      "bathrooms": "Unknown",
+      "rooms": "Unknown",
+      "kids": "Unknown",
+      "pets": "Unknown",
+      "capacityDetails": "Unknown",
+      "kidsDetails": "Unknown",
+      "petsDetails": "Unknown",
+      "priceFrom": "Unknown",
+      "currency": "Unknown",
+      "priceDetails": "Unknown"
+    },
+    "photos": [],
+    "photoCandidates": [],
+    "platformLinks": [],
+    "platformCheckStatus": "Opened accessible pages checked; no matching platform listing found",
+    "remainingGaps": [],
+    "accessFailures": [],
+    "notes": "Opened own/housing-1:EdgewoodFarm3EdgewoodWay andBoathouse42CornHillRd restrictedworkshopstudenthousing. Maincampus10MeetinghouseRd separate."
+  }
+]

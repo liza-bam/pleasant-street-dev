@@ -1,0 +1,360 @@
+[
+  {
+    "id": "MA-0411",
+    "name": "Vineyard House",
+    "website": "https://mvyvacations.com/listing/vineyard-house/",
+    "city": "Edgartown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independently owned vacation house / cottage",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://staywithstay.com/property/4427",
+    "discoveryMethod": "Stay With Stay listing → reverse owner website → individually verified operator catalog",
+    "researchInputs": [
+      "StayWithStayMassachusetts18displayedleads",
+      "VacationHomesofMarthaVineyard reverse-name search",
+      "Own five-housecatalog; eachunit; Contact; About; bookinginfo; inquiry; Directions"
+    ],
+    "openedUrls": [
+      "https://staywithstay.com/property/4427",
+      "https://mvyvacations.com/listing/vineyard-house/",
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/about-us/",
+      "https://mvyvacations.com/reservation-booking-information/",
+      "https://mvyvacations.com/reservation-inquiry/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactPagesChecked": [
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "19 Sutton Way",
+      "city": "Edgartown",
+      "state": "MA",
+      "zip": "02539",
+      "source": "https://mvyvacations.com/directions-to-katama-house/",
+      "notes": "Opened official Directions explicitly distinguishes #19VineyardHouse and #19AKatamaHouse; office34ASchoolhouseRoad not used as rentalentrance."
+    },
+    "bookingUrl": "https://mvyvacations.com/reservation-inquiry/",
+    "bookingMethod": "Opened own ReservationInquiryform with house selector, adults/children, arrival/departure and contactfields; directphone5087330672/emailmvyvacations@gmail.com confirmed on Contact/bookinginfo. No formsubmitted.",
+    "operatorEvidenceUrl": "https://mvyvacations.com/about-us/",
+    "eligibilityReason": "Official family-owner About page, individual Edgartown vacation-house details, Contact, bookingpolicy and property-selectable direct inquiry form opened.",
+    "description": "Three-bedroom Edgartown vacation house with cathedral ceilings, a kitchen, deck, grill and outdoor shower near South Beach.",
+    "descriptionSource": "https://mvyvacations.com/listing/vineyard-house/",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.",
+      "pets": "Conditional",
+      "petsDetails": "Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.",
+      "capacityDetails": "Own-unit published maximum, bedrooms and full/half-bath layout checked.",
+      "priceFrom": 2800,
+      "currency": "USD",
+      "priceDetails": "Published2027seasonalweeklyrate table starts$2800; varies byweek, not a currentreservationtotal; inquire for fees/taxes/minimum dates."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit/Contact/About/bookingpages checked; no actual Airbnb,Vrbo orBooking.com destinationlinks found.",
+    "photos": [],
+    "notes": "OwnerSandra&PaulBonetti; fivecurrentlylinkedhousepages reviewed independently. Contactoffice never assigned as individualrentalentrance; Directions supplies twoactualhouseaddresses. Separate galleries retained; no cross-housephotomixing. Researcheligibilityonly, noownerparticipation.",
+    "remainingGaps": [
+      "Totalrooms",
+      "Specificpetapproval",
+      "Datetotalquote"
+    ]
+  },
+  {
+    "id": "MA-0412",
+    "name": "Martha’s Vineyard House",
+    "website": "https://mvyvacations.com/listing/marthas-vineyard-house/",
+    "city": "Edgartown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independently owned vacation house / cottage",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://staywithstay.com/property/4425",
+    "discoveryMethod": "Stay With Stay listing → reverse owner website → individually verified operator catalog",
+    "researchInputs": [
+      "StayWithStayMassachusetts18displayedleads",
+      "VacationHomesofMarthaVineyard reverse-name search",
+      "Own five-housecatalog; eachunit; Contact; About; bookinginfo; inquiry; Directions"
+    ],
+    "openedUrls": [
+      "https://staywithstay.com/property/4425",
+      "https://mvyvacations.com/listing/marthas-vineyard-house/",
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/about-us/",
+      "https://mvyvacations.com/reservation-booking-information/",
+      "https://mvyvacations.com/reservation-inquiry/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactPagesChecked": [
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactAddress": {
+      "role": "operator office/contact, not rental entrance",
+      "street": "34A Schoolhouse Rd.",
+      "city": "Edgartown",
+      "state": "MA",
+      "zip": "02539",
+      "source": "https://mvyvacations.com/contact/",
+      "notes": "Official Contact office/contact address; individual rental street Unknown. Embedded siteheaderGooglemap points to NewYork/template and is explicitly not used as rental coordinates."
+    },
+    "bookingUrl": "https://mvyvacations.com/reservation-inquiry/",
+    "bookingMethod": "Opened own ReservationInquiryform with house selector, adults/children, arrival/departure and contactfields; directphone5087330672/emailmvyvacations@gmail.com confirmed on Contact/bookinginfo. No formsubmitted.",
+    "operatorEvidenceUrl": "https://mvyvacations.com/about-us/",
+    "eligibilityReason": "Official family-owner About page, individual Edgartown vacation-house details, Contact, bookingpolicy and property-selectable direct inquiry form opened.",
+    "description": "Three-bedroom colonial-style Edgartown home with a kitchen, deck, gas grill and outdoor shower for island vacations.",
+    "descriptionSource": "https://mvyvacations.com/listing/marthas-vineyard-house/",
+    "supportedFacts": {
+      "guests": 8,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.",
+      "pets": "Conditional",
+      "petsDetails": "Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.",
+      "capacityDetails": "Own-unit published maximum, bedrooms and full/half-bath layout checked.",
+      "priceFrom": 2900,
+      "currency": "USD",
+      "priceDetails": "Published2027seasonalweeklyrate table starts$2900; varies byweek, not a currentreservationtotal; inquire for fees/taxes/minimum dates."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit/Contact/About/bookingpages checked; no actual Airbnb,Vrbo orBooking.com destinationlinks found.",
+    "photos": [],
+    "notes": "OwnerSandra&PaulBonetti; fivecurrentlylinkedhousepages reviewed independently. Contactoffice never assigned as individualrentalentrance; Directions supplies twoactualhouseaddresses. Separate galleries retained; no cross-housephotomixing. Researcheligibilityonly, noownerparticipation.",
+    "remainingGaps": [
+      "Totalrooms",
+      "Specificpetapproval",
+      "Datetotalquote",
+      "Publicindividualrentalstreetnotestablished; officekeptseparately"
+    ]
+  },
+  {
+    "id": "MA-0413",
+    "name": "Katama House",
+    "website": "https://mvyvacations.com/listing/katama-house/",
+    "city": "Edgartown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independently owned vacation house / cottage",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://mvyvacations.com/",
+    "discoveryMethod": "Stay With Stay listing → reverse owner website → individually verified operator catalog",
+    "researchInputs": [
+      "StayWithStayMassachusetts18displayedleads",
+      "VacationHomesofMarthaVineyard reverse-name search",
+      "Own five-housecatalog; eachunit; Contact; About; bookinginfo; inquiry; Directions"
+    ],
+    "openedUrls": [
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/listing/katama-house/",
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/about-us/",
+      "https://mvyvacations.com/reservation-booking-information/",
+      "https://mvyvacations.com/reservation-inquiry/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactPagesChecked": [
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactAddress": {
+      "role": "individual rental",
+      "street": "19A Sutton Way",
+      "city": "Edgartown",
+      "state": "MA",
+      "zip": "02539",
+      "source": "https://mvyvacations.com/directions-to-katama-house/",
+      "notes": "Opened official Directions explicitly distinguishes #19VineyardHouse and #19AKatamaHouse; office34ASchoolhouseRoad not used as rentalentrance."
+    },
+    "bookingUrl": "https://mvyvacations.com/reservation-inquiry/",
+    "bookingMethod": "Opened own ReservationInquiryform with house selector, adults/children, arrival/departure and contactfields; directphone5087330672/emailmvyvacations@gmail.com confirmed on Contact/bookinginfo. No formsubmitted.",
+    "operatorEvidenceUrl": "https://mvyvacations.com/about-us/",
+    "eligibilityReason": "Official family-owner About page, individual Edgartown vacation-house details, Contact, bookingpolicy and property-selectable direct inquiry form opened.",
+    "description": "Two-bedroom Katama vacation house with a kitchen, wraparound deck, grill, outdoor shower and private master-bedroom balcony.",
+    "descriptionSource": "https://mvyvacations.com/listing/katama-house/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.",
+      "pets": "Conditional",
+      "petsDetails": "Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.",
+      "capacityDetails": "Own-unit headline publishes sleeps5+; extra-person maximum unspecified.",
+      "priceFrom": 2700,
+      "currency": "USD",
+      "priceDetails": "Published2027seasonalweeklyrate table starts$2700; varies byweek, not a currentreservationtotal; inquire for fees/taxes/minimum dates."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit/Contact/About/bookingpages checked; no actual Airbnb,Vrbo orBooking.com destinationlinks found.",
+    "photos": [],
+    "notes": "OwnerSandra&PaulBonetti; fivecurrentlylinkedhousepages reviewed independently. Contactoffice never assigned as individualrentalentrance; Directions supplies twoactualhouseaddresses. Separate galleries retained; no cross-housephotomixing. Researcheligibilityonly, noownerparticipation.",
+    "remainingGaps": [
+      "Totalrooms",
+      "Specificpetapproval",
+      "Datetotalquote"
+    ]
+  },
+  {
+    "id": "MA-0414",
+    "name": "Surfside Cottage",
+    "website": "https://mvyvacations.com/listing/surfside-cottage/",
+    "city": "Edgartown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independently owned vacation house / cottage",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://mvyvacations.com/",
+    "discoveryMethod": "Stay With Stay listing → reverse owner website → individually verified operator catalog",
+    "researchInputs": [
+      "StayWithStayMassachusetts18displayedleads",
+      "VacationHomesofMarthaVineyard reverse-name search",
+      "Own five-housecatalog; eachunit; Contact; About; bookinginfo; inquiry; Directions"
+    ],
+    "openedUrls": [
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/listing/surfside-cottage/",
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/about-us/",
+      "https://mvyvacations.com/reservation-booking-information/",
+      "https://mvyvacations.com/reservation-inquiry/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactPagesChecked": [
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactAddress": {
+      "role": "operator office/contact, not rental entrance",
+      "street": "34A Schoolhouse Rd.",
+      "city": "Edgartown",
+      "state": "MA",
+      "zip": "02539",
+      "source": "https://mvyvacations.com/contact/",
+      "notes": "Official Contact office/contact address; individual rental street Unknown. Embedded siteheaderGooglemap points to NewYork/template and is explicitly not used as rental coordinates."
+    },
+    "bookingUrl": "https://mvyvacations.com/reservation-inquiry/",
+    "bookingMethod": "Opened own ReservationInquiryform with house selector, adults/children, arrival/departure and contactfields; directphone5087330672/emailmvyvacations@gmail.com confirmed on Contact/bookinginfo. No formsubmitted.",
+    "operatorEvidenceUrl": "https://mvyvacations.com/about-us/",
+    "eligibilityReason": "Official family-owner About page, individual Edgartown vacation-house details, Contact, bookingpolicy and property-selectable direct inquiry form opened.",
+    "description": "Three-bedroom Cape-style Edgartown cottage with a large upper deck, grill, outdoor shower and backyard seating.",
+    "descriptionSource": "https://mvyvacations.com/listing/surfside-cottage/",
+    "supportedFacts": {
+      "guests": 6,
+      "bedrooms": 3,
+      "bathrooms": 1.5,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.",
+      "pets": "Conditional",
+      "petsDetails": "Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.",
+      "capacityDetails": "Own-unit published maximum, bedrooms and full/half-bath layout checked.",
+      "priceFrom": 2700,
+      "currency": "USD",
+      "priceDetails": "Published2027seasonalweeklyrate table starts$2700; varies byweek, not a currentreservationtotal; inquire for fees/taxes/minimum dates."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit/Contact/About/bookingpages checked; no actual Airbnb,Vrbo orBooking.com destinationlinks found.",
+    "photos": [],
+    "notes": "OwnerSandra&PaulBonetti; fivecurrentlylinkedhousepages reviewed independently. Contactoffice never assigned as individualrentalentrance; Directions supplies twoactualhouseaddresses. Separate galleries retained; no cross-housephotomixing. Researcheligibilityonly, noownerparticipation.",
+    "remainingGaps": [
+      "Totalrooms",
+      "Specificpetapproval",
+      "Datetotalquote",
+      "Publicindividualrentalstreetnotestablished; officekeptseparately"
+    ]
+  },
+  {
+    "id": "MA-0415",
+    "name": "Edgartown House",
+    "website": "https://mvyvacations.com/listing/edgartown-house/",
+    "city": "Edgartown",
+    "state": "MA",
+    "checkedOn": "2026-10-26",
+    "evidenceStatus": "Verified independent website",
+    "classification": "Independently owned vacation house / cottage",
+    "recordType": "property",
+    "type": "House",
+    "sourceUrl": "https://mvyvacations.com/",
+    "discoveryMethod": "Stay With Stay listing → reverse owner website → individually verified operator catalog",
+    "researchInputs": [
+      "StayWithStayMassachusetts18displayedleads",
+      "VacationHomesofMarthaVineyard reverse-name search",
+      "Own five-housecatalog; eachunit; Contact; About; bookinginfo; inquiry; Directions"
+    ],
+    "openedUrls": [
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/listing/edgartown-house/",
+      "https://mvyvacations.com/",
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/about-us/",
+      "https://mvyvacations.com/reservation-booking-information/",
+      "https://mvyvacations.com/reservation-inquiry/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactPagesChecked": [
+      "https://mvyvacations.com/contact/",
+      "https://mvyvacations.com/directions-to-katama-house/"
+    ],
+    "contactAddress": {
+      "role": "operator office/contact, not rental entrance",
+      "street": "34A Schoolhouse Rd.",
+      "city": "Edgartown",
+      "state": "MA",
+      "zip": "02539",
+      "source": "https://mvyvacations.com/contact/",
+      "notes": "Official Contact office/contact address; individual rental street Unknown. Embedded siteheaderGooglemap points to NewYork/template and is explicitly not used as rental coordinates."
+    },
+    "bookingUrl": "https://mvyvacations.com/reservation-inquiry/",
+    "bookingMethod": "Opened own ReservationInquiryform with house selector, adults/children, arrival/departure and contactfields; directphone5087330672/emailmvyvacations@gmail.com confirmed on Contact/bookinginfo. No formsubmitted.",
+    "operatorEvidenceUrl": "https://mvyvacations.com/about-us/",
+    "eligibilityReason": "Official family-owner About page, individual Edgartown vacation-house details, Contact, bookingpolicy and property-selectable direct inquiry form opened.",
+    "description": "Three-bedroom Edgartown vacation house with cathedral ceilings, a kitchen island, deck, grill and outdoor shower.",
+    "descriptionSource": "https://mvyvacations.com/listing/edgartown-house/",
+    "supportedFacts": {
+      "guests": "Unknown",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "rooms": "Unknown",
+      "kids": "Yes",
+      "kidsDetails": "Family vacation accommodation; official inquiry asks numberofchildren; house-specific occupancy applies.",
+      "pets": "Conditional",
+      "petsDetails": "Some homes considerpets only withwrittenpermission andsignedpetpolicy. Specificapprovalneeded; directoryNoPetsbadgenotusedoverofficialpolicy.",
+      "capacityDetails": "Own-unit headline publishes sleeps6+; extra-person maximum unspecified.",
+      "priceFrom": 2800,
+      "currency": "USD",
+      "priceDetails": "Published2027seasonalweeklyrate table starts$2800; varies byweek, not a currentreservationtotal; inquire for fees/taxes/minimum dates."
+    },
+    "platformLinks": [],
+    "platformCheckStatus": "Own unit/Contact/About/bookingpages checked; no actual Airbnb,Vrbo orBooking.com destinationlinks found.",
+    "photos": [],
+    "notes": "OwnerSandra&PaulBonetti; fivecurrentlylinkedhousepages reviewed independently. Contactoffice never assigned as individualrentalentrance; Directions supplies twoactualhouseaddresses. Separate galleries retained; no cross-housephotomixing. Researcheligibilityonly, noownerparticipation.",
+    "remainingGaps": [
+      "Totalrooms",
+      "Specificpetapproval",
+      "Datetotalquote",
+      "Publicindividualrentalstreetnotestablished; officekeptseparately"
+    ]
+  }
+]

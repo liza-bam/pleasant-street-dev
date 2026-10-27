@@ -10,7 +10,7 @@ homes = read("data/homes.json")
 indexed = {h["id"]: h for h in read("index.json")}
 platforms = {r["id"]: r for r in read("data/sources/cards/platform-links.json")}
 reviews = read("data/sources/cards/website-review.json")
-nh_audit = {r["id"]: r for r in read("data/sources/new-hampshire/website-audit.json")}
+regional_audit = {r["id"]: r for region in ["new-hampshire", "massachusetts"] for r in read(f"data/sources/{region}/website-audit.json")}
 with (ROOT / "data/sources/cards/cards_inventory.csv").open(encoding="utf-8-sig", newline="") as f:
     rows = list(csv.DictReader(f))
 assert len(rows) == len(homes)
@@ -43,21 +43,21 @@ for p in read("data/sources/cards/photo-sources.json"):
     assert hashlib.sha256((ROOT / p["file"]).read_bytes()).hexdigest() == p["sha256"]
 for review in reviews:
     assert review["id"] not in indexed, review["id"]
-for name in ["maine/catalog", "vermont/vermont_independent_rental_websites", "vermont/vermont_approved", "vermont/vermont_candidates", "new-hampshire/new_hampshire_independent_rental_websites", "new-hampshire/new_hampshire_approved", "new-hampshire/new_hampshire_candidates"]:
+for name in ["maine/catalog", "vermont/vermont_independent_rental_websites", "vermont/vermont_approved", "vermont/vermont_candidates", "new-hampshire/new_hampshire_independent_rental_websites", "new-hampshire/new_hampshire_approved", "new-hampshire/new_hampshire_candidates", "massachusetts/massachusetts_independent_rental_websites", "massachusetts/massachusetts_approved", "massachusetts/massachusetts_candidates"]:
     with (ROOT / f"data/sources/{name}.csv").open(encoding="utf-8-sig", newline="") as f:
         regional = list(csv.DictReader(f))
     assert len({r["ID"] for r in regional}) == len(regional)
     for row in regional:
-        if row["ID"] in nh_audit and row["ID"] not in export:
+        if row["ID"] in regional_audit and row["ID"] not in export:
             assert row["ID"] not in indexed
-            assert row["Evidence status"] == nh_audit[row["ID"]]["evidenceStatus"]
-            assert nh_audit[row["ID"]]["reviewed"]
+            assert row["Evidence status"] == regional_audit[row["ID"]]["evidenceStatus"]
+            assert regional_audit[row["ID"]]["reviewed"]
             continue
         if row["ID"] not in platforms:
             assert row["Platform link status"].startswith("Not checked")
             continue
         for column in ["Airbnb URLs", "Vrbo URLs", "Booking.com URLs", "Platform link status", "Directory status"]:
-            if row["ID"] in nh_audit and column in ["Airbnb URLs", "Vrbo URLs", "Booking.com URLs"]:
+            if row["ID"] in regional_audit and column in ["Airbnb URLs", "Vrbo URLs", "Booking.com URLs"]:
                 # The source preserves unverified links too; badges require attributable evidence.
                 assert set(export[row["ID"]][column].splitlines()) <= set(row[column].splitlines()), (row["ID"], column)
             else:

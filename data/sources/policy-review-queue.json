@@ -1,0 +1,3875 @@
+{
+  "requestedOn": "2026-10-26",
+  "requirement": "After Massachusetts, revisit every ready website for pet and child policy evidence; status is separate from eligibility.",
+  "stateOrder": [
+    "MA",
+    "ME",
+    "VT",
+    "NH"
+  ],
+  "olderReadyInventories": {
+    "ME": [
+      {
+        "id": "ME-0573",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=533",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0453",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138672",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0431",
+        "website": "https://booking.rockycoastrentals.com/listings/100818",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0061",
+        "website": "https://207northcabins.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0064",
+        "website": "https://debsconeaglakecamps.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0560",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=464",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0541",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=376",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0408",
+        "website": "https://bayleyvacationrentals.com/property/a-shore-thing/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0399",
+        "website": "https://bayleyvacationrentals.com/property/a-wave-from-it-all/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0120",
+        "website": "https://trailsidelodging.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0180",
+        "website": "https://abolproperties.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0371",
+        "website": "https://acadiavacationrentals.com/acadia-trailside-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0122",
+        "website": "https://acadiacottage.rentals",
+        "pets": "Unknown",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0207",
+        "website": "https://acadiadreamscape.wixsite.com/website",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0123",
+        "website": "https://acadiagetaway.com",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0208",
+        "website": "https://acadiahorizoncottage.com",
+        "pets": "No",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0366",
+        "website": "https://acadiavacationrentals.com/acadia-sound-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0112",
+        "website": "https://acadiatimbercottages.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0101",
+        "website": "https://acadiayurts.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0455",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196141",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0442",
+        "website": "https://booking.rockycoastrentals.com/listings/490449",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0287",
+        "website": "https://anchorrealestatecompany.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0012",
+        "website": "https://boothbaymainecottages.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0102",
+        "website": "https://annspointcottages.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0561",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0531",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=330",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0219",
+        "website": "https://vinalhavencottage.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0035",
+        "website": "https://arborcamp.com/",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0191",
+        "website": "https://atlantichavenmaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0309",
+        "website": "https://www.riverwindsfarmandestate.com/destination-properties/austin-house/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0133",
+        "website": "https://boothbayharborrental.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0077",
+        "website": "https://baldmountaincamps.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0125",
+        "website": "https://bhacr.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0539",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=367",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0009",
+        "website": "https://bassharborcottages.com",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0003",
+        "website": "https://baycliff.com",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0369",
+        "website": "https://acadiavacationrentals.com/bayside-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0262",
+        "website": "https://baysidecottagerentals.com",
+        "pets": "No",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0070",
+        "website": "https://bayviewcabins.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0071",
+        "website": "https://bayviewcabinsunit7.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0058",
+        "website": "https://beachcottageinn.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0265",
+        "website": "https://beachgirlpropertyrentals.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0382",
+        "website": "https://bayleyvacationrentals.com/property/beachside-abode-1a/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0402",
+        "website": "https://bayleyvacationrentals.com/property/beachside-abode-2a/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0393",
+        "website": "https://bayleyvacationrentals.com/property/beachside-abode-2b/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0510",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=186",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0381",
+        "website": "https://bayleyvacationrentals.com/property/beachwood-cottage/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0571",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=526",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0095",
+        "website": "https://bearspringcamps.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0318",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/280093",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0148",
+        "website": "https://beehivecottagemaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0229",
+        "website": "https://belgradehospitality.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0230",
+        "website": "https://belgraderental.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0231",
+        "website": "https://belgradevacationrentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0062",
+        "website": "https://bigmoosecabins.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0342",
+        "website": "https://book.birchrentals.com/listings/404923",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0330",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/232714",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0400",
+        "website": "https://bayleyvacationrentals.com/property/blue-doors-by-the-sea/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0238",
+        "website": "https://bluehillbaypropertyrentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0234",
+        "website": "https://bhpr.me",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0144",
+        "website": "https://bluepearlcottage.com/home.html",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0368",
+        "website": "https://acadiavacationrentals.com/blueberry-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0554",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=436",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0055",
+        "website": "https://blueberrypatchmotel.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0569",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=518",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0447",
+        "website": "https://booking.rockycoastrentals.com/listings/602800",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0443",
+        "website": "https://booking.rockycoastrentals.com/listings/500314",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0134",
+        "website": "https://boothbayvacationhomes.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0106",
+        "website": "https://boycesmotel.com",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0145",
+        "website": "https://breakwatervacationrental.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0245",
+        "website": "https://campellismaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0463",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=152051",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0335",
+        "website": "https://book.birchrentals.com/listings/222685",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0159",
+        "website": "https://burkespropertiesandrentals.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0331",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/233037",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0551",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=412",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0143",
+        "website": "https://hpfacadia.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0038",
+        "website": "https://camelbrookcamps.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0537",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=352",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0548",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=405",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0332",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/279061",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0515",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=252",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0555",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=438",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0579",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=579",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0013",
+        "website": "https://otyokwamaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0517",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=275",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0068",
+        "website": "https://campskoglund.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0275",
+        "website": "https://campfirebooking.com",
+        "pets": "Conditional",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0585",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=701",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0022",
+        "website": "https://cariboucabins.net/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0056",
+        "website": "https://www.carrabassettcabin.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0364",
+        "website": "https://acadiavacationrentals.com/carriage-road-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0591",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=707",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0242",
+        "website": "https://chillvacationrentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0466",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=182761",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0507",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=171",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0154",
+        "website": "https://clearwaterescapes.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0388",
+        "website": "https://bayleyvacationrentals.com/property/coastal-life-beach-house/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0168",
+        "website": "https://bookcomfydome.lodgify.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0248",
+        "website": "https://commonloonpm.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0258",
+        "website": "https://compassrosmaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0098",
+        "website": "https://oakhillfarm.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0394",
+        "website": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-1/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0404",
+        "website": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-2/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0414",
+        "website": "https://bayleyvacationrentals.com/property/cottages-by-the-sea-3/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0010",
+        "website": "https://cottagesofmaine.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0589",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=705",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0575",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=538",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0028",
+        "website": "https://cowgerscabins.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0052",
+        "website": "https://cozycovecabins.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0563",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=500",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0511",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=201",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0083",
+        "website": "https://crossstonecabins.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0039",
+        "website": "https://crossroadcabins.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0465",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=184260",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0398",
+        "website": "https://bayleyvacationrentals.com/property/dancing-queen/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0545",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=393",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0559",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=461",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0206",
+        "website": "https://deckercove.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0321",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/284198",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0043",
+        "website": "https://desertofmaine.guestybookings.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0445",
+        "website": "https://booking.rockycoastrentals.com/listings/557133",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0532",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=333",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0250",
+        "website": "https://downeastproperties.com/vacation-rentals/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0403",
+        "website": "https://bayleyvacationrentals.com/property/dream-house/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0138",
+        "website": "https://dreamingofmaine.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0358",
+        "website": "https://book.birchrentals.com/listings/337167",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0290",
+        "website": "https://driftoceansideinn.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0397",
+        "website": "https://bayleyvacationrentals.com/property/driftwood-cottage/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0040",
+        "website": "https://eagleeyecabin.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0030",
+        "website": "https://eaglelakesportingcamps.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0031",
+        "website": "https://lakesidecottagesmaine.com",
+        "pets": "Yes",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0441",
+        "website": "https://booking.rockycoastrentals.com/listings/440192",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0479",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138641",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0595",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=711",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0578",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=578",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0126",
+        "website": "https://everett-cottage.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0374",
+        "website": "https://bayleyvacationrentals.com/property/family-tides/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0172",
+        "website": "https://ferrycottage.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0590",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=706",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0117",
+        "website": "https://firstsettlerslodge.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0108",
+        "website": "https://flandersbay.lodgify.com",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0109",
+        "website": "https://flandersbay.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0519",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=285",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0336",
+        "website": "https://book.birchrentals.com/listings/227399",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0448",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=151027",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0255",
+        "website": "https://foxtrotmainerental.lodgify.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0503",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=119",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0581",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=603",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0288",
+        "website": "https://getawayvr.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0243",
+        "website": "https://getogetherstays.com",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0516",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=253",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0353",
+        "website": "https://book.birchrentals.com/listings/225602",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0046",
+        "website": "https://grandlakelodgemaine.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0406",
+        "website": "https://bayleyvacationrentals.com/property/grand-victorian-403/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0091",
+        "website": "https://grayghostcamps.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0100",
+        "website": "https://graysoceancamping.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0156",
+        "website": "https://greatduckislandhouse.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0497",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=102",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0377",
+        "website": "https://bayleyvacationrentals.com/property/gulls-nest/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0496",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=101",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0383",
+        "website": "https://bayleyvacationrentals.com/property/hanks-hideaway/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0471",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=162326",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0209",
+        "website": "https://harboroasis.me",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0370",
+        "website": "https://acadiavacationrentals.com/harbor-watch-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0116",
+        "website": "https://harborfields.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0500",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=109",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0162",
+        "website": "https://harpswellholidays.com",
+        "pets": "No",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0333",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/495228",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0512",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=218",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0151",
+        "website": "https://heartsofmaine.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0214",
+        "website": "https://covemeadow.org",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0472",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=163861",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0097",
+        "website": "https://higginsbeachmaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0513",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=221",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0075",
+        "website": "https://hillsidecottages.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0051",
+        "website": "https://hiramblake.com",
+        "pets": "Conditional",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0544",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=388",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0308",
+        "website": "https://thefloatingnomad.com/nomad/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0297",
+        "website": "https://thefloatingnomad.com/roam/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0584",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=700",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0103",
+        "website": "https://hutchinscottagesatacadia.com",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0213",
+        "website": "https://inthetreesmaine.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0165",
+        "website": "https://islesboro.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0099",
+        "website": "https://ivcottages.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0506",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=169",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0149",
+        "website": "https://jenkinsbeach.lodgify.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0534",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=337",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0547",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=399",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0594",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=710",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0042",
+        "website": "https://junction19co.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0060",
+        "website": "https://katahdinshadows.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0524",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=306",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0170",
+        "website": "https://kennebunkportvacationhomes.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0480",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138643",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0160",
+        "website": "https://staykingslanding.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0401",
+        "website": "https://bayleyvacationrentals.com/property/knotty-nauti/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0253",
+        "website": "https://kptluxuryproperties.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0277",
+        "website": "https://krainin.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0459",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=155199",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0244",
+        "website": "https://lakemegunticook.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0025",
+        "website": "https://lakepemaquid.com/facilities/cottage-rentals/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0432",
+        "website": "https://booking.rockycoastrentals.com/listings/167594",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0486",
+        "website": "https://www.lakehurstcamps.com/cottages/boathouse-bottom/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0487",
+        "website": "https://www.lakehurstcamps.com/cottages/boathouse-top/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0488",
+        "website": "https://www.lakehurstcamps.com/cottages/coveside/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0489",
+        "website": "https://www.lakehurstcamps.com/cottages/cozy-nook/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0490",
+        "website": "https://www.lakehurstcamps.com/cottages/pine-cove/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0491",
+        "website": "https://www.lakehurstcamps.com/cottages/pine-knoll/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0492",
+        "website": "https://www.lakehurstcamps.com/cottages/rocky-point/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0493",
+        "website": "https://www.lakehurstcamps.com/cottages/sandy-beach/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0494",
+        "website": "https://www.lakehurstcamps.com/cottages/whispering-pines/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0279",
+        "website": "https://rentlakesregion.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0317",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/330502",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0567",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=514",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0462",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=163772",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0001",
+        "website": "https://libbycamps.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0196",
+        "website": "https://liberty-rentals.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0556",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=446",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0508",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=173",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0457",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196360",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0433",
+        "website": "https://booking.rockycoastrentals.com/listings/171371",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0583",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=615",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0501",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=114",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0157",
+        "website": "https://littlewhitedogproperties.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0110",
+        "website": "https://longcovecottages.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0337",
+        "website": "https://book.birchrentals.com/listings/229378",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0053",
+        "website": "https://longpondcamps.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0014",
+        "website": "https://thelookoutinn.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0451",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138667",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0546",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=394",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0518",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=278",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0204",
+        "website": "https://loonslandingsebagolake.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0572",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=527",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0121",
+        "website": "https://acadiavacation.rentals",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0174",
+        "website": "https://loveatfirstlightlubec.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0032",
+        "website": "https://lugdonlodge.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0073",
+        "website": "https://macannamac.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0570",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=525",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0283",
+        "website": "https://mpvacationrentals.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0202",
+        "website": "https://mainebeachcottage.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0177",
+        "website": "https://maineescape.lodgify.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0273",
+        "website": "https://maineescapes.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0257",
+        "website": "https://maineislandproperties.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0147",
+        "website": "https://mainelakesvacation.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0021",
+        "website": "https://mainelakesidecabins.com",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0527",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=320",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0008",
+        "website": "https://bookings.maineretreatshotels.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0549",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=406",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0285",
+        "website": "https://mainestreetpropertymanagement.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0240",
+        "website": "https://mainelandvacationrentals.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0069",
+        "website": "https://mainelycabinrentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0183",
+        "website": "https://mainelyrelaxing.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0011",
+        "website": "https://mainelyretreats.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0558",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=453",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0319",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/280570",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0201",
+        "website": "https://maynards-in-maine.lodgify.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0473",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138635",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0128",
+        "website": "https://mdislandvacationhomes.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0470",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196366",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0464",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196461",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0324",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/325878",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0286",
+        "website": "https://moodybeach-me.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0436",
+        "website": "https://booking.rockycoastrentals.com/listings/320144",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0341",
+        "website": "https://book.birchrentals.com/listings/205653",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0320",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/281613",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0167",
+        "website": "https://mooselodgemaine.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0048",
+        "website": "https://mooseheadcottageresort.biz",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0049",
+        "website": "https://mooseheadhills.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0252",
+        "website": "https://mooseheadpropertyrentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0525",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=311",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0266",
+        "website": "https://rangeleyrentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0089",
+        "website": "https://mountainviewcottages.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0328",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/347043",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0395",
+        "website": "https://bayleyvacationrentals.com/property/nautical-point/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0278",
+        "website": "https://nauticalpropertymanagement.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0417",
+        "website": "https://bayleyvacationrentals.com/property/nautical-view/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0440",
+        "website": "https://booking.rockycoastrentals.com/listings/427524",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0065",
+        "website": "https://nextchaptercabins.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0376",
+        "website": "https://bayleyvacationrentals.com/property/niblet-cottage/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0090",
+        "website": "https://northcamps.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0050",
+        "website": "https://northwoodsmainecabins.com",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0540",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=368",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0029",
+        "website": "https://ntnretreats.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0592",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=708",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0016",
+        "website": "https://oaklandhouse.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0434",
+        "website": "https://booking.rockycoastrentals.com/listings/229329",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0329",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/494624",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0222",
+        "website": "https://garnsey.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0194",
+        "website": "https://oceanhousepeaksisland.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0439",
+        "website": "https://booking.rockycoastrentals.com/listings/427036",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0129",
+        "website": "https://oceansedgemaine.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0378",
+        "website": "https://bayleyvacationrentals.com/property/oceanview-oasis/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0355",
+        "website": "https://book.birchrentals.com/listings/287639",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0192",
+        "website": "https://odessabythesea.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0264",
+        "website": "https://ogunquitrentalproperties.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0391",
+        "website": "https://bayleyvacationrentals.com/property/on-par-for-the-beach/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0577",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=558",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0505",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=145",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0483",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=175429",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0033",
+        "website": "https://overlookmotel.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0502",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0564",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=503",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0522",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=301",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0485",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=192011",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0446",
+        "website": "https://booking.rockycoastrentals.com/listings/599847",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0538",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=355",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0586",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=702",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0059",
+        "website": "https://pinegrovemaine.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0338",
+        "website": "https://book.birchrentals.com/listings/274741",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0367",
+        "website": "https://acadiavacationrentals.com/pine-meadow-hideaway/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0580",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=602",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0178",
+        "website": "https://pinetreestays.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0552",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=423",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0562",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=487",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0530",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=327",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0499",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=108",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0475",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138639",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0034",
+        "website": "https://pondbrookcabins.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0523",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=302",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0135",
+        "website": "https://powderhillfarm.com",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0365",
+        "website": "https://acadiavacationrentals.com/quietside-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0087",
+        "website": "https://rangeleylakeresort.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0130",
+        "website": "https://acadia.ws/reds-garden/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0225",
+        "website": "https://yorkbeach4rentals.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0509",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=183",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0478",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=174078",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0438",
+        "website": "https://booking.rockycoastrentals.com/listings/413954",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0118",
+        "website": "https://rideouts.com",
+        "pets": "Unknown",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0437",
+        "website": "https://booking.rockycoastrentals.com/listings/322529",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0588",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=704",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0198",
+        "website": "https://rocklandtalbothouse.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0093",
+        "website": "https://rockwoodcottages.com",
+        "pets": "Conditional",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0529",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=326",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0514",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=251",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0131",
+        "website": "https://ryanestaterentals.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0054",
+        "website": "https://sallymtcabins.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0289",
+        "website": "https://saltandshinerentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0236",
+        "website": "https://saltairmaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0411",
+        "website": "https://bayleyvacationrentals.com/property/salt-life-1/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0387",
+        "website": "https://bayleyvacationrentals.com/property/salt-life-2/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0482",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138649",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0246",
+        "website": "https://saltmeadowproperties.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0407",
+        "website": "https://bayleyvacationrentals.com/property/salty-dolphin/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0200",
+        "website": "https://sailawaymaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0384",
+        "website": "https://bayleyvacationrentals.com/property/sand-life-1/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0409",
+        "website": "https://bayleyvacationrentals.com/property/sand-life-2/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0385",
+        "website": "https://bayleyvacationrentals.com/property/sandy-beach-at-port/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0390",
+        "website": "https://bayleyvacationrentals.com/property/sandy-beach-at-star-board/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0557",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=452",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0533",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=335",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0182",
+        "website": "https://sargentwoods.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0454",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=182712",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0193",
+        "website": "https://schoonerslanding.net",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0079",
+        "website": "https://seaacrescottages.com",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0415",
+        "website": "https://bayleyvacationrentals.com/property/sea-breeze/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0002",
+        "website": "https://seaescapecottages.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0241",
+        "website": "https://seamainevacationrentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0137",
+        "website": "https://seameadowcottage.com",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0119",
+        "website": "https://seaspraycottages.com",
+        "pets": "Unknown",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0456",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=191935",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0223",
+        "website": "https://seaglassvillage.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0254",
+        "website": "https://seagrasspropertyrentals.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0372",
+        "website": "https://acadiavacationrentals.com/seal-harbor-cottage/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0153",
+        "website": "https://seanookcottagerentals.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0274",
+        "website": "https://seashorepropertymanagement.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0005",
+        "website": "https://seasidemaine.com",
+        "pets": "Unknown",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0484",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196115",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0568",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=516",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0104",
+        "website": "https://sebagolakelodge.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0566",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=513",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0044",
+        "website": "https://seguinmaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0150",
+        "website": "https://sharonthonermainerentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0181",
+        "website": "https://shinpond.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0481",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=146966",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0185",
+        "website": "https://snowballhillcottage.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0449",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138657",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0179",
+        "website": "https://stanleyventuresllc.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0542",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=380",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0132",
+        "website": "https://stayhygge.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0105",
+        "website": "https://steamboatwharfcabins.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0553",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=430",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0027",
+        "website": "https://sunsetcabinsmaine.com",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0528",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=321",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0536",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=347",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0416",
+        "website": "https://bayleyvacationrentals.com/property/beachy-keen/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0215",
+        "website": "https://surrymainestudiobythesea.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0520",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=293",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0081",
+        "website": "https://tpercycottages.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0550",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=410",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0139",
+        "website": "https://tapleyfarm.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0217",
+        "website": "https://teelcovecottagemaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0334",
+        "website": "https://book.birchrentals.com/listings/205268",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0354",
+        "website": "https://book.birchrentals.com/listings/230724",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0203",
+        "website": "https://blueberryhousemaine.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0574",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=537",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0467",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=194364",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0114",
+        "website": "https://cottagesatsummervillage.com",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0405",
+        "website": "https://bayleyvacationrentals.com/property/the-cove/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0015",
+        "website": "https://thereachinn.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0468",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138630",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0186",
+        "website": "https://sundayriverrentals.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0582",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=606",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0375",
+        "website": "https://bayleyvacationrentals.com/property/the-hidden-cove/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0477",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196340",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0280",
+        "website": "https://theislandagency.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0458",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196415",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0019",
+        "website": "https://thelodgeandcabins.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0024",
+        "website": "https://thelodgeatthomaspond.com/",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0386",
+        "website": "https://bayleyvacationrentals.com/property/the-lookout/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0163",
+        "website": "https://the-maine-house-on-dingley.hosted.ownerrez.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0340",
+        "website": "https://book.birchrentals.com/listings/354244",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0166",
+        "website": "https://thenestmaine.com/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0461",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196363",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0327",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/505120",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0363",
+        "website": "https://www.justhappyhomes.com/the-retreat-in-bethel-maine",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0565",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=509",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0526",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=313",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0146",
+        "website": "https://tamaracksmaine.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0450",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=171854",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0190",
+        "website": "https://www.thewoodsmaine.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0113",
+        "website": "https://thistledownfarmmaine.net",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0476",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138640",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0072",
+        "website": "https://thompsoncottages.net",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0096",
+        "website": "https://3birdscottages.com",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0410",
+        "website": "https://bayleyvacationrentals.com/property/tidetimber/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0006",
+        "website": "https://tidewatchcabins.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0187",
+        "website": "https://timbrluxstays.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0593",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=709",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0469",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=188997",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0094",
+        "website": "https://tomhegan.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0088",
+        "website": "https://rangeleytownandlake.com",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0074",
+        "website": "https://trackdownkennelslodge.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0326",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/232735",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0521",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=296",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0498",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=105",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0460",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138613",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0189",
+        "website": "https://turnerfarm.lodgify.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0535",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=342",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0023",
+        "website": "https://upnorthcabins.com/",
+        "pets": "No",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0543",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=381",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0216",
+        "website": "https://vikingtrailcabin.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0233",
+        "website": "https://visitsundayriver.com",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0435",
+        "website": "https://booking.rockycoastrentals.com/listings/232767",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0444",
+        "website": "https://booking.rockycoastrentals.com/listings/507581",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0115",
+        "website": "https://watercrestcottages.com",
+        "pets": "Conditional",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0224",
+        "website": "https://webhannetbythesea.com",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0158",
+        "website": "https://westbayacadia.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0325",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/484845",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0176",
+        "website": "https://quoddyvacation.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0504",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=132",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0452",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=138670",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0037",
+        "website": "https://wheatonslodge.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0495",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=100",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0351",
+        "website": "https://book.birchrentals.com/listings/205638",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0323",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/301541",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0576",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=541",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0018",
+        "website": "https://wildwoodsme.com",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0161",
+        "website": "https://wilsonsonmooseheadlake.com",
+        "pets": "Conditional",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0195",
+        "website": "https://winslowcreek.com",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0322",
+        "website": "https://northwoodsmainecabins.holidayfuture.com/listings/232559",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0587",
+        "website": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=703",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0007",
+        "website": "https://woodlandparkcottages.com",
+        "pets": "Conditional",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0474",
+        "website": "https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=182331",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "ME-0226",
+        "website": "https://mainerentals.com",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      }
+    ],
+    "VT": [
+      {
+        "id": "VT-0071",
+        "website": "https://www.ascutneylofts.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0060",
+        "website": "http://lengel.net/crossetthill2/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0001",
+        "website": "https://www.fatsheepfarmvermont.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0039",
+        "website": "https://www.flowerbrookfarm.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0014",
+        "website": "https://www.kanerealty.net/vermont-castle/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0024",
+        "website": "http://www.highlandlodge.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0008",
+        "website": "https://hobbleinn.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0033",
+        "website": "https://killingtonmountain.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0049",
+        "website": "https://kismetpropertiesvermont.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0034",
+        "website": "https://kumariofthewoods.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0067",
+        "website": "https://lakesalemvt.com/",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0003",
+        "website": "https://www.lakeshorevermont.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0031",
+        "website": "https://www.mrvrm.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0017",
+        "website": "https://www.dripcastleestatecollection.com/luxury-stowe-mountain-rental-meadowstone-manor/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0009",
+        "website": "https://mountsnowyurt.com/",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0041",
+        "website": "https://vermontmountainlakecottages.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0030",
+        "website": "https://www.staymountainpines.com/",
+        "pets": "Yes",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0019",
+        "website": "https://stowerentalhomes.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0026",
+        "website": "https://northboundvermont.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0012",
+        "website": "https://www.notchlodges.com/",
+        "pets": "Yes",
+        "kids": "Conditional",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0056",
+        "website": "https://www.parkerlodge.org/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0010",
+        "website": "https://quimbycountry.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0053",
+        "website": "https://www.robertfrostmountaincabins.com/",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0015",
+        "website": "https://serenecountrycabins.com/",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0063",
+        "website": "https://www.simplestayvt.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0068",
+        "website": "https://simple.fyi/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0025",
+        "website": "https://songbirdstudiovt.lovable.app/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0054",
+        "website": "https://www.squabetty.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0013",
+        "website": "https://stonecitytreehouse.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0029",
+        "website": "https://www.stonypondfarm.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0037",
+        "website": "https://www.storiedstay.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0064",
+        "website": "https://www.stoweareahome.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0051",
+        "website": "https://stowecabins.com/",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0007",
+        "website": "https://stowecountryhomes.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0062",
+        "website": "https://www.1827house.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0058",
+        "website": "https://archedchalet.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0005",
+        "website": "https://thecobblehouse.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0052",
+        "website": "https://www.gnomehomevt.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0011",
+        "website": "https://landmarktrustusa.org/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0059",
+        "website": "https://www.thevermonttreehouse.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0040",
+        "website": "https://timbercrestmansions.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0042",
+        "website": "https://www.valleyviewvt.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0035",
+        "website": "https://vermonthuts.org/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "VT-0069",
+        "website": "https://vermontvacation-rentals.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      }
+    ],
+    "NH": [
+      {
+        "id": "NH-0040",
+        "website": "https://www.1848inn.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0041",
+        "website": "https://www.abakeecottages.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0034",
+        "website": "https://akerspondinn.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0043",
+        "website": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0028",
+        "website": "https://www.outdoors.org/destinations/new-hampshire/highland-center/",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0003",
+        "website": "https://www.amesfarminn.com/",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0065",
+        "website": "https://www.newfoundlakeloghomerentals.com/bigbear",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0060",
+        "website": "https://www.bluegraniteproperties.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0013",
+        "website": "https://www.channelcottages.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0009",
+        "website": "https://www.cottageplaceonsquam.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0056",
+        "website": "https://www.cranmorecondominiums.com/",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0036",
+        "website": "https://camphappygrounds.com/crows-nest/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0001",
+        "website": "https://www.deepwoodlodges.net/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0070",
+        "website": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0039",
+        "website": "https://www.emberescapes.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0024",
+        "website": "https://fernhillcottages.com/",
+        "pets": "No",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0037",
+        "website": "https://www.halfmoonmotel.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0046",
+        "website": "https://www.highlandhouseandcottages.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0030",
+        "website": "https://www.lakeviewcabinsnh.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0038",
+        "website": "https://www.lochlymelodge.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0072",
+        "website": "https://staynewfoundlake.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0069",
+        "website": "https://northsteadretreat.com/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0045",
+        "website": "https://www.pemicabins.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0050",
+        "website": "https://pondliferentals.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0023",
+        "website": "https://presidentialmountainresort.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0062",
+        "website": "https://www.slopestoshoresvaca.com/",
+        "pets": "No",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0044",
+        "website": "https://robiescabinsnh.com/",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0049",
+        "website": "https://www.ruffhousenh.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0051",
+        "website": "https://seacoast2summit.com/",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0035",
+        "website": "https://www.seasidevillageresort.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0042",
+        "website": "https://spaciousskiescampgrounds.com/french-pond/",
+        "pets": "Unknown",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0032",
+        "website": "https://sunsetlodges.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0054",
+        "website": "https://brayhillhouse.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0077",
+        "website": "https://www.theconsciouscabin.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0067",
+        "website": "https://dmtravelvibes.holidayfuture.com/listings/415400",
+        "pets": "Yes",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0029",
+        "website": "https://naswa.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0004",
+        "website": "https://thepatio.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0002",
+        "website": "https://www.reservethepreserve.com/",
+        "pets": "Unknown",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0058",
+        "website": "https://www.tuckawaystays.com/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0071",
+        "website": "https://easternslopeinn.com/lodging/village-place/",
+        "pets": "Conditional",
+        "kids": "Yes",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0026",
+        "website": "https://www.weirsbeachmotel.com/",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      },
+      {
+        "id": "NH-0048",
+        "website": "https://winterfell-nh.com/",
+        "pets": "Conditional",
+        "kids": "Unknown",
+        "policyStatus": "Pending mandatory ready-list policy recheck"
+      }
+    ]
+  }
+}

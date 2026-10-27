@@ -9,6 +9,7 @@ const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
 const homes=read('data/homes.json'),source=read('data/sources/maine/catalog.json');
 const vermont=fs.existsSync(path.join(root,'data/sources/vermont/approved-import.json'))?read('data/sources/vermont/approved-import.json'):[];
 const newHampshire=fs.existsSync(path.join(root,'data/sources/new-hampshire/approved-import.json'))?read('data/sources/new-hampshire/approved-import.json'):[];
+const massachusetts=fs.existsSync(path.join(root,'data/sources/massachusetts/approved-import.json'))?read('data/sources/massachusetts/approved-import.json'):[];
 const street=read('street.json'),index=read('index.json');
 const excluded=read('data/sources/maine/bad-websites.json').map(h=>h.id);
 const replaced=read('data/sources/maine/operator-replacements.json').map(h=>h.id);
@@ -23,7 +24,7 @@ for(const h of aggregatorApproved){
 }
 for(const h of eligibility.filter(h=>h.qualificationStatus!=='Verified operator property'))assert(!homes.some(x=>x.id===h.id),'Unapproved research lead imported: '+h.id);
 const lazySeeds=read('data/sources/lazy.json');
-assert.equal(homes.length,source.length+lazySeeds.length+vermont.length+newHampshire.length);
+assert.equal(homes.length,source.length+lazySeeds.length+vermont.length+newHampshire.length+massachusetts.length);
 assert.equal(new Set(homes.map(h=>h.id)).size,homes.length);
 const key=url=>{const u=new URL(url);return u.host.replace(/^www\./,'')+u.pathname.replace(/\/$/,'')+(u.searchParams.has('PageDataID')?'?PageDataID='+u.searchParams.get('PageDataID'):(u.searchParams.has('reservation_unitId')?'?reservation_unitId='+u.searchParams.get('reservation_unitId'):''));};
 assert.equal(new Set(homes.map(h=>key(h.url))).size,homes.length);
@@ -101,6 +102,31 @@ if(newHampshire.length){
   if(bad.excludedFromDirectory)assert(!homes.some(h=>h.id===bad.id),'Unavailable NH record imported: '+bad.id);
   else assert(!homes.some(h=>key(h.url)===key(bad.url)),'Retired NH URL reintroduced: '+bad.url);
  }
+}
+if(massachusetts.length){
+ const research=read('data/sources/massachusetts/research-records.json');
+ const audits=read('data/sources/massachusetts/eligibility-evidence.json');
+ const approvedIds=new Set(massachusetts.map(h=>h.id));
+ assert.equal(new Set(research.map(r=>r.ID)).size,research.length);
+ for(const row of research){
+  assert(audits[row.ID]?.reviewed,'Unreviewed MA record '+row.ID);
+  assert.equal(row['Evidence status'],audits[row.ID].evidenceStatus);
+  if(!approvedIds.has(row.ID))assert(!homes.some(h=>h.id===row.ID),'Unapproved MA lead imported '+row.ID);
+ }
+ for(const sourceHome of massachusetts){
+  const h=homes.find(x=>x.id===sourceHome.id);assert(h,'Missing Massachusetts record '+sourceHome.id);
+  for(const field of ['name','url','place','state','description','guests','kids','pets','address','photos','sourceDetails','cardPhotos'])assert.deepEqual(h[field],sourceHome[field],h.id+' '+field);
+  assert.equal(h.state,'MA');assert.equal(h.demo,false);
+  assert(['Verified independent website','Verified platform-hosted website'].includes(h.sourceDetails['Evidence status']));
+  assert(h.contactPagesChecked.length && h.bookingUrl && h.operatorEvidenceUrl,h.id+' incomplete verification');
+  for(const f of ['kids','pets'])assert(['Yes','No','Conditional','Unknown'].includes(h[f]),h.id+' '+f);
+  if(typeof h.lat==='number')assert(h.lat>41.1 && h.lat<42.95 && h.lng>-73.6 && h.lng<-69.8,h.id+' coordinates outside Massachusetts');
+ }
+ for(const photo of read('data/sources/massachusetts/photo-sources.json')){
+  assert.equal(crypto.createHash('sha256').update(fs.readFileSync(path.join(root,photo.file))).digest('hex'),photo.sha256,photo.file);
+  assert.equal(photo.generated,false);assert(photo.sourcePage.startsWith('http'));
+ }
+ for(const bad of read('data/sources/massachusetts/bad-websites.json'))assert(!homes.some(h=>h.id===bad.id),'Unavailable MA website imported '+bad.id);
 }
 const active=homes.filter(h=>h.alive!==false && h.listingStatus!=='Needs review');
 assert.deepEqual(street.map(h=>h.id),active.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>h.id));
