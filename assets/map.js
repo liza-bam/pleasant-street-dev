@@ -3,7 +3,14 @@
    A pin or a card opens the home's own website in a new tab. */
 (function () {
   var listEl = document.getElementById('ps-list'), countEl = document.getElementById('ps-count');
-  var q = document.getElementById('ps-q');
+  var mapAreaMode = false, mapAreaPoints = [];
+  function leaveMapAreaMode() { mapAreaMode = false; delete q.dataset.mapArea; }
+  var q = document.getElementById('ps-q'), searchGuestsLabel = document.getElementById('ps-search-guests');
+  function syncSearchSummary() {
+    var guests = +sleeps.value;
+    searchGuestsLabel.textContent = guests > 1 ? (guests === 8 ? '8+' : guests) + ' guests' : '';
+    searchGuestsLabel.hidden = guests <= 1;
+  }
   var landing = document.getElementById('ps-landing'), landingFeatured = document.getElementById('ps-home-featured');
   var startOnHome = !new URLSearchParams(location.search).has('place') && !new URLSearchParams(location.search).has('view');
   function setHomeMode(home) {
@@ -34,7 +41,7 @@
   var recentSearches = [];
   try { var savedSearches = JSON.parse(localStorage.getItem('pleasant-street-recent-searches') || '[]'); if (Array.isArray(savedSearches)) recentSearches = savedSearches.filter(function (s) { return s && typeof s.place === 'string'; }).slice(0, 6); } catch (_) {}
   function rememberSearch() {
-    var place = q.value.trim(); if (!place) return;
+    var place = q.value.trim(); if (!place || mapAreaMode) return;
     var entry = { place: place, guests: +sleeps.value, types: types.slice(), needs: needs.slice() };
     recentSearches = [entry].concat(recentSearches.filter(function (s) { return s.place.toLowerCase() !== place.toLowerCase() || s.guests !== entry.guests; })).slice(0, 6);
     try { localStorage.setItem('pleasant-street-recent-searches', JSON.stringify(recentSearches)); } catch (_) {}
@@ -44,14 +51,14 @@
     welcome.querySelectorAll('[data-need]').forEach(function (b) { b.setAttribute('aria-pressed', String(needs.indexOf(b.dataset.need) >= 0)); });
   }
   document.getElementById('ps-recents-open').addEventListener('click', function () {
-    recentList.innerHTML = recentSearches.length ? recentSearches.map(function (s, i) { return '<button class="ps-recent-item" type="button" data-recent="' + i + '"><span>' + esc(s.place) + '</span><small>' + (+s.guests > 1 ? esc(s.guests) + '+ guests' : 'Any group size') + '</small></button>'; }).join('') : '<p class="ps-recents-empty">Your recent searches will appear here.</p>';
+    recentList.innerHTML = recentSearches.length ? recentSearches.map(function (s, i) { return '<button class="ps-recent-item" type="button" data-recent="' + i + '"><span>' + esc(s.place) + '</span><small>' + (+s.guests > 1 ? esc(+s.guests === 8 ? '8+' : s.guests) + ' guests' : 'Any group size') + '</small></button>'; }).join('') : '<p class="ps-recents-empty">Your recent searches will appear here.</p>';
     recentDialog.showModal();
   });
   document.getElementById('ps-recents-close').addEventListener('click', function () { recentDialog.close(); });
   recentList.addEventListener('click', function (e) {
     var button = e.target.closest('[data-recent]'); if (!button) return;
     var item = recentSearches[+button.dataset.recent]; if (!item) return;
-    q.value = item.place; sleeps.value = Math.max(1, Math.min(8, +item.guests || 1));
+    leaveMapAreaMode(); q.value = item.place; sleeps.value = Math.max(1, Math.min(8, +item.guests || 1));
     sleepsOut.textContent = +sleeps.value === 1 ? 'any' : sleeps.value + '+';
     types = Array.isArray(item.types) ? item.types.filter(function (v) { return ['House', 'Cabin', 'Camp', 'Apartment'].indexOf(v) >= 0; }) : [];
     needs = Array.isArray(item.needs) ? item.needs.filter(function (v) { return ['kids', 'pets'].indexOf(v) >= 0; }) : [];
@@ -61,7 +68,7 @@
     if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
     e.preventDefault(); closeSelected(false, false);
     if (searchDialog.open) searchDialog.close(); if (recentDialog.open) recentDialog.close();
-    q.value = ''; sleeps.value = 1; sleepsOut.textContent = 'any'; types = []; needs = []; syncFilterPills();
+    leaveMapAreaMode(); q.value = ''; sleeps.value = 1; sleepsOut.textContent = 'any'; types = []; needs = []; syncFilterPills();
     cardSize = 'large'; syncCardSize(); app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false');
     mapHeaderCompact = false; setSheetRatio(0.48); groupState = { featured: true, fit: true, potential: false };
     history.replaceState(null, '', location.pathname); setView('map');
@@ -78,7 +85,7 @@
   }
   function openSearch() {
     if ((!phoneLayout.matches && !app.classList.contains('app--home')) || searchDialog.open) return;
-    searchWhere.value = q.value; searchGuests = +sleeps.value; clearSearchFilters = false;
+    searchWhere.value = mapAreaMode ? '' : q.value; searchGuests = +sleeps.value; clearSearchFilters = false;
     syncSearchGuests(); searchDialog.showModal(); searchWhere.focus();
   }
   document.getElementById('ps-home-search').addEventListener('click', openSearch);
@@ -90,7 +97,7 @@
   document.getElementById('ps-search-clear').addEventListener('click', function () { searchWhere.value = ''; searchGuests = 1; clearSearchFilters = true; syncSearchGuests(); });
   document.getElementById('ps-search-form').addEventListener('submit', function (e) {
     e.preventDefault();
-    q.value = searchWhere.value.trim(); sleeps.value = searchGuests;
+    leaveMapAreaMode(); q.value = searchWhere.value.trim(); sleeps.value = searchGuests;
     sleepsOut.textContent = searchGuests === 1 ? 'any' : searchGuests === 8 ? '8+' : searchGuests + '+';
     if (clearSearchFilters) { types = []; needs = []; [pills, welcome].forEach(function (group) { group.querySelectorAll('button').forEach(function (button) { button.setAttribute('aria-pressed', 'false'); }); }); }
     searchDialog.close();
@@ -270,12 +277,13 @@
   /* Each filter sorts a home three ways: it says yes (a match), it says no (left out), or it does not
      say (it may fit). Location and the map area are always known, so they only include or leave out. */
   function show() {
+    syncSearchSummary();
     if (!loaded) {
       listEl.innerHTML = '<p class="ps-none">Loading homes…</p>';
       countEl.textContent = '';
       return [];
     }
-    var t = q ? q.value.trim().toLowerCase() : '';
+    var t = q && !mapAreaMode ? q.value.trim().toLowerCase() : '';
     var n = sleeps && +sleeps.value > 1 ? +sleeps.value : 0;   /* 1 on the slider is every home */
     var activeFilters = (n ? 1 : 0) + types.length + needs.length;
     filterCount.textContent = activeFilters;
@@ -284,7 +292,7 @@
     var fits = [], maybe = [];
     homes.forEach(function (h) {
       h.missing = [];
-      var out = (t && !matches(h.place, t)) || (view === 'map' && (!h.marker || (area && !area.contains(h.marker.getLatLng()))));
+      var out = (t && !matches(h.place, t)) || ((view === 'map' || mapAreaMode) && (!h.marker || (area && !area.contains(h.marker.getLatLng()))));
       if (!out && n) { if (!known(h.guests)) h.missing.push('how many it sleeps'); else if (+h.guests < n) out = true; }
       if (!out && types.length) { if (!known(h.type)) h.missing.push('type'); else if (types.indexOf(h.type) < 0) out = true; }
       /* A confirmed No excludes a home; missing or conditional policies need a host check. */
@@ -390,6 +398,7 @@
     selectedClose.focus({ preventScroll: true });
   }
   function frameSelected() {
+    manualMapMove = false;
     var h = selectedHome;
     if (!h || !h.marker || sheetRatio >= 0.99) return;
     h.marker.setZIndexOffset(2000);
@@ -421,14 +430,39 @@
       Array.from(count.children).forEach(function (dot, i) { dot.classList.toggle('is-active', i === index); });
     }
   }, { capture: true, passive: true });
+  function updateMapAreaLabel() {
+    if (!mapAreaMode) return;
+    var center = map.getCenter(), nearest = null, distance = Infinity;
+    mapAreaPoints.forEach(function (p) { var d = center.distanceTo([p.lat, p.lng]); if (d < distance) { distance = d; nearest = p; } });
+    q.value = nearest && distance <= 50000 && map.getZoom() >= 7 ? nearest.name + ' area' : '';
+    q.placeholder = 'Map area'; q.dataset.mapArea = 'true';
+  }
+  fetch('assets/map-areas.json').then(function (r) { return r.json(); }).then(function (rows) { mapAreaPoints = rows.concat(mapAreaPoints); updateMapAreaLabel(); }).catch(function () {});
+  var manualMapMove = false;
+  map.on('dragstart', function () { manualMapMove = true; });
+  map.getContainer().addEventListener('click', function (e) { if (e.target.closest('.leaflet-control-zoom')) manualMapMove = true; }, true);
+  map.getContainer().addEventListener('wheel', function () { if (map.scrollWheelZoom.enabled()) manualMapMove = true; }, { passive: true });
+  map.getContainer().addEventListener('touchstart', function (e) { if (e.touches.length > 1) manualMapMove = true; }, { passive: true });
+  map.getContainer().addEventListener('keydown', function (e) { if (['+', '-', '=', 'ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].indexOf(e.key) >= 0) manualMapMove = true; }, true);
   function syncArea() {
     if (view !== 'map') return;
     area = map.getBounds();
     show();
   }
-  map.on('moveend', syncArea);
+  map.on('moveend', function () {
+    if (manualMapMove && view === 'map') {
+      manualMapMove = false;
+      mapAreaMode = true; q.value = ''; q.placeholder = phoneLayout.matches ? 'Map area' : 'Map area — city or state';
+      var params = new URLSearchParams(location.search); params.delete('place'); params.set('view', 'map');
+      history.replaceState(null, '', location.pathname + (params.size ? '?' + params.toString() : ''));
+      syncDestinations(); closeSelected(false, false);
+    }
+    updateMapAreaLabel(); syncArea();
+  });
   function searchPlace() {
+    leaveMapAreaMode(); manualMapMove = false;
     setHomeMode(false);
+    q.placeholder = phoneLayout.matches ? 'Where to?' : 'Where to? City or state';
     closeSelected(false, false);
     syncDestinations();
     var params = new URLSearchParams(location.search);
@@ -444,6 +478,7 @@
   }
   if (q) q.addEventListener('input', searchPlace);
   q.addEventListener('keydown', function (e) { if (!phoneLayout.matches && e.key === 'Enter') rememberSearch(); });
+  q.addEventListener('focus', function () { if (!phoneLayout.matches && mapAreaMode) { q.value = ''; leaveMapAreaMode(); } });
   q.addEventListener('blur', function () { if (!phoneLayout.matches) rememberSearch(); });
   function syncDestinations() {
     var value = q.value.trim().toLowerCase();
@@ -493,7 +528,9 @@
   });
   syncCardSize();
   function setView(next) {
+    manualMapMove = false;
     setHomeMode(false);
+    var currentMapBounds = mapAreaMode ? (view === 'map' ? map.getBounds() : area) : null;
     if (next === 'cards') closeSelected(false, false);
     view = next;
     syncCompactHeader();
@@ -502,8 +539,8 @@
     var params = new URLSearchParams(location.search);
     if (view === 'cards') params.set('view', 'cards'); else params.delete('view');
     history.replaceState(null, '', location.pathname + (params.size ? '?' + params.toString() : ''));
-    if (view === 'map') { map.invalidateSize(); area = null; var shown = show().filter(function (h) { return h.marker; }); if (shown.length) map.fitBounds(L.latLngBounds(shown.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false }); syncArea(); }
-    else { area = null; show(); }
+    if (view === 'map') { map.invalidateSize(); area = currentMapBounds; var shown = show().filter(function (h) { return h.marker; }); if (!mapAreaMode && shown.length) map.fitBounds(L.latLngBounds(shown.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false }); syncArea(); }
+    else { area = currentMapBounds; show(); }
     listEl.scrollTop = 0;
   }
   viewSwitch.addEventListener('click', function (e) { var b = e.target.closest('[data-view]'); if (b) setView(b.dataset.view); });
@@ -545,6 +582,7 @@
       return h;
     });
     loaded = true;
+    homes.forEach(function (h) { var town = h.town || h.place.split(',')[0]; if (h.marker && known(town) && town.length <= 40 && town.indexOf('/') < 0 && town.toLowerCase() !== 'other') mapAreaPoints.push({ name: town, lat: h.lat, lng: h.lng }); });
     landingFeatured.innerHTML = homes.filter(function (h) { return h.featured; }).slice(0, 6).map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Featured stays are coming soon.</p>';
     if (initialPlace) rememberSearch();
     popularDestinations();

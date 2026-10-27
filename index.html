@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#74e3d1">
 <title>Pleasant Street</title>
 <meta name="description" content="Vacation homes run by independent hosts, on a map. Open a home to visit its own website and book there.">
@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=27">
+<link rel="stylesheet" href="assets/app.css?v=28">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
@@ -22,14 +22,14 @@
     <div class="app-brand-bar">
       <a id="ps-home" class="app-home" href="./" aria-label="LAZY home — clear search"><img src="favicon.ico" alt="LAZY" width="30" height="30"></a>
       <h1 class="app-hide">Pleasant Street</h1>
-      <a class="app-header-link" href="mailto:sandy@lazy.vacations?subject=Add%20my%20house%20to%20Pleasant%20Street">Add your house</a>
+      <a class="app-header-link app-header-link--add" href="mailto:sandy@lazy.vacations?subject=Add%20my%20house%20to%20Pleasant%20Street">Add your house</a>
       <button id="ps-recents-open" class="app-header-link" type="button" aria-haspopup="dialog">Recent searches</button>
     </div>
     <div class="app-floating-controls">
     <div class="app-bar">
     <div class="app-search-row">
     <label class="app-search"><span class="app-hide">Where to?</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
-      <input id="ps-q" type="search" placeholder="Where to? City or state" autocomplete="off"></label>
+      <input id="ps-q" type="search" placeholder="Where to? City or state" autocomplete="off" aria-describedby="ps-search-guests"><span id="ps-search-guests" class="app-search-guests" hidden></span></label>
     <span class="app-count" id="ps-count" hidden></span>
     </div>
     <div class="app-header-actions">
@@ -47,8 +47,10 @@
   <main class="app-body">
     <section id="ps-landing" class="ps-landing" aria-label="Pleasant Street home" hidden>
       <div class="ps-landing__intro">
-        <h2>Find your place.</h2>
-        <p>Independent stays. Book directly with the host.</p>
+        <img class="ps-landing__logo" src="assets/lazy-logo.svg" alt="LAZY" width="86" height="50">
+        <h2>Pleasant Street</h2>
+        <p class="ps-landing__tagline">The largest listing of independent vacation rentals.</p>
+        <p>Each card takes you to the owner’s website. Book directly.</p>
         <button id="ps-home-search" class="ps-landing__search" type="button" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Where to?</span><span>Who’s coming?</span></button>
       </div>
       <section class="ps-landing__featured" aria-labelledby="ps-featured-title"><h2 id="ps-featured-title">Featured stays</h2><div id="ps-home-featured" class="ps-landing__grid"></div></section>
@@ -111,6 +113,6 @@
 </dialog>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-<script src="assets/map.js?v=27"></script>
+<script src="assets/map.js?v=28"></script>
 </body>
 </html>

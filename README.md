@@ -5,11 +5,17 @@ own website. Public, not indexed (robots.txt disallows all, the page says noinde
 
 ## Map and cards views
 
-On phones, a small centered header contains the white LAZY L home link, Add your house and
-Recent searches. Home clears the place, filters, property selection and view preferences and returns to a simple
-welcome/search screen with up to six featured stays. A URL without a place or view starts on that home screen. Add your
+On phones, a small white header places the coral LAZY L on white at the left and Add your
+house / Recent searches at the right. Page backgrounds are white, action buttons use coral, and
+active view/size/filter switches use neutral gray. Home clears the place, filters, property selection and view preferences and returns to a simple
+welcome/search screen with the LAZY water background, white LAZY logo, Lobster Pleasant Street
+heading, direct-booking copy and up to six featured stays. A URL without a place or view starts on that home screen. Add your
 house opens an email inquiry; recent searches are saved on this device and restore their place,
-group size and filters. Search and the smaller icon/view/size controls float above the map or cards.
+group size and filters. The floating search bar shows the selected group size beside the place,
+including when restoring a recent search. A manual map pan or zoom clears the destination and
+shows the nearest known town as an approximate area label (for example Portland area), while retaining group size and filters; automatic movements preserve the destination. Area labels use saved town centers in assets/map-areas.json
+and never act as destination filters. Map gestures stay inside Leaflet; controls suppress double-tap
+smart zoom without globally disabling accessible page pinch zoom. Search and the smaller icon/view/size controls float above the map or cards.
 The result count lives in the bottom drawer, not beside search. Search opens a compact floating
 Where/Who panel, without dates or history inside it. Filters keep the existing controls.
 
