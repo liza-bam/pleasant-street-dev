@@ -13,18 +13,24 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=26">
+<link rel="stylesheet" href="assets/app.css?v=27">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
 <div class="app">
   <header class="app-header">
+    <div class="app-brand-bar">
+      <a id="ps-home" class="app-home" href="./" aria-label="LAZY home — clear search"><img src="favicon.ico" alt="LAZY" width="30" height="30"></a>
+      <h1 class="app-hide">Pleasant Street</h1>
+      <a class="app-header-link" href="mailto:sandy@lazy.vacations?subject=Add%20my%20house%20to%20Pleasant%20Street">Add your house</a>
+      <button id="ps-recents-open" class="app-header-link" type="button" aria-haspopup="dialog">Recent searches</button>
+    </div>
+    <div class="app-floating-controls">
     <div class="app-bar">
-    <h1 class="app-title">Pleasant Street</h1>
     <div class="app-search-row">
-    <label class="app-search"><span class="app-hide">Where to?</span>
+    <label class="app-search"><span class="app-hide">Where to?</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
       <input id="ps-q" type="search" placeholder="Where to? City or state" autocomplete="off"></label>
-    <span class="app-count" id="ps-count" aria-live="polite"></span>
+    <span class="app-count" id="ps-count" hidden></span>
     </div>
     <div class="app-header-actions">
     <button class="app-filter-toggle" id="ps-filter-toggle" type="button" aria-label="Filters" title="Filters" aria-expanded="false" aria-controls="ps-filter-panel"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3"/><circle cx="15" cy="17" r="3"/></svg><span id="ps-filter-count" aria-hidden="true" hidden></span></button>
@@ -36,8 +42,17 @@
     </div>
     <nav class="app-destinations" id="ps-destinations" aria-label="Popular destinations" hidden></nav>
     <div class="app-control-row" id="ps-controls"></div>
+    </div>
   </header>
   <main class="app-body">
+    <section id="ps-landing" class="ps-landing" aria-label="Pleasant Street home" hidden>
+      <div class="ps-landing__intro">
+        <h2>Find your place.</h2>
+        <p>Independent stays. Book directly with the host.</p>
+        <button id="ps-home-search" class="ps-landing__search" type="button" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Where to?</span><span>Who’s coming?</span></button>
+      </div>
+      <section class="ps-landing__featured" aria-labelledby="ps-featured-title"><h2 id="ps-featured-title">Featured stays</h2><div id="ps-home-featured" class="ps-landing__grid"></div></section>
+    </section>
     <section class="app-results" aria-label="Homes">
       <div class="ps-sheet-handle" id="ps-sheet-handle" role="slider" tabindex="0" aria-label="Results panel height" aria-orientation="vertical" aria-valuemin="12" aria-valuemax="100" aria-valuenow="48" aria-valuetext="Results panel 48% open" title="Drag down for a larger map, or up for more results"><span class="ps-sheet-grip"></span><span class="ps-sheet-count" id="ps-sheet-count">Homes</span></div>
       <div class="app-filters" id="ps-filter-panel">
@@ -88,8 +103,14 @@
     <div class="ps-search__footer"><button type="button" id="ps-search-clear">Clear all</button><button class="ps-search__submit" type="submit"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>Search</button></div>
   </form>
 </dialog>
+<dialog id="ps-recents" class="ps-search ps-recents" aria-label="Recent searches">
+  <div class="ps-search__body">
+    <div class="ps-search__section-head"><h2>Recent searches</h2><button id="ps-recents-close" type="button" aria-label="Close recent searches"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
+    <div id="ps-recents-list"></div>
+  </div>
+</dialog>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
-<script src="assets/map.js?v=26"></script>
+<script src="assets/map.js?v=27"></script>
 </body>
 </html>

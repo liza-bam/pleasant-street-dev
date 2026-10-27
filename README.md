@@ -5,10 +5,13 @@ own website. Public, not indexed (robots.txt disallows all, the page says noinde
 
 ## Map and cards views
 
-On phones, the destination search and live count share a line. The title and search
-scroll away, leaving only the slim icon filter/view controls and visible Tiny/Large switch. Search opens a compact floating Where/Who panel,
-with consistent small headings, no extra headline, no dates and no search history. It leaves the
-map visible around it. Filters retain the existing type, capacity and welcome controls.
+On phones, a small centered header contains the white LAZY L home link, Add your house and
+Recent searches. Home clears the place, filters, property selection and view preferences and returns to a simple
+welcome/search screen with up to six featured stays. A URL without a place or view starts on that home screen. Add your
+house opens an email inquiry; recent searches are saved on this device and restore their place,
+group size and filters. Search and the smaller icon/view/size controls float above the map or cards.
+The result count lives in the bottom drawer, not beside search. Search opens a compact floating
+Where/Who panel, without dates or history inside it. Filters keep the existing controls.
 
 Map view uses a draggable results tray over a full-height map. Drag down for more map, up for more
 results; the full-width handle has at least a 48px touch area, a larger visible grip and
@@ -27,7 +30,8 @@ a source-based summary of at most 150 characters and available property facts sh
 values. Feature icons also stay visible in both map card sizes. Unknown facts remain in the database and are omitted from these icon rows. Names use smaller single-line titles with ellipses on every screen. Cards show platform-logo badges on the photograph. A small white claim badge at the photo’s
 top-right says “Claim your house” beside the existing LAZY L logo and opens a prefilled email draft
 to `sandy@lazy.vacations`. Open website is the larger primary action, with an independent-host
-notice underneath for non-LAZY listings.
+notice underneath for non-LAZY listings. Featured houses show Made with LAZY instead of a claim
+badge, linking to the existing free website request at https://lazy.vacations/start/.
 
 Featured, Fit and Potential fit are independent accordions, with live counts. Featured and Fit
 start open; Potential fit starts closed. Collapse choices survive filtering and view changes.

@@ -4,6 +4,12 @@
 (function () {
   var listEl = document.getElementById('ps-list'), countEl = document.getElementById('ps-count');
   var q = document.getElementById('ps-q');
+  var landing = document.getElementById('ps-landing'), landingFeatured = document.getElementById('ps-home-featured');
+  var startOnHome = !new URLSearchParams(location.search).has('place') && !new URLSearchParams(location.search).has('view');
+  function setHomeMode(home) {
+    app.classList.toggle('app--home', home); landing.hidden = !home;
+    if (!home && map) map.invalidateSize();
+  }
   var sleeps = document.getElementById('ps-sleeps'), sleepsOut = document.getElementById('ps-sleeps-out');
   var pills = document.getElementById('ps-type'), types = [];
   var welcome = document.getElementById('ps-welcome'), needs = [];
@@ -23,6 +29,46 @@
   var selectedTitle = document.getElementById('ps-selected-title'), selectedClose = document.getElementById('ps-selected-close');
   var selectedHome = null, priorSheetRatio = 0.48;
   var mapHeaderCompact = false;
+  var floatingControls = document.querySelector('.app-floating-controls');
+  var recentDialog = document.getElementById('ps-recents'), recentList = document.getElementById('ps-recents-list');
+  var recentSearches = [];
+  try { var savedSearches = JSON.parse(localStorage.getItem('pleasant-street-recent-searches') || '[]'); if (Array.isArray(savedSearches)) recentSearches = savedSearches.filter(function (s) { return s && typeof s.place === 'string'; }).slice(0, 6); } catch (_) {}
+  function rememberSearch() {
+    var place = q.value.trim(); if (!place) return;
+    var entry = { place: place, guests: +sleeps.value, types: types.slice(), needs: needs.slice() };
+    recentSearches = [entry].concat(recentSearches.filter(function (s) { return s.place.toLowerCase() !== place.toLowerCase() || s.guests !== entry.guests; })).slice(0, 6);
+    try { localStorage.setItem('pleasant-street-recent-searches', JSON.stringify(recentSearches)); } catch (_) {}
+  }
+  function syncFilterPills() {
+    pills.querySelectorAll('[data-type]').forEach(function (b) { b.setAttribute('aria-pressed', String(types.indexOf(b.dataset.type) >= 0)); });
+    welcome.querySelectorAll('[data-need]').forEach(function (b) { b.setAttribute('aria-pressed', String(needs.indexOf(b.dataset.need) >= 0)); });
+  }
+  document.getElementById('ps-recents-open').addEventListener('click', function () {
+    recentList.innerHTML = recentSearches.length ? recentSearches.map(function (s, i) { return '<button class="ps-recent-item" type="button" data-recent="' + i + '"><span>' + esc(s.place) + '</span><small>' + (+s.guests > 1 ? esc(s.guests) + '+ guests' : 'Any group size') + '</small></button>'; }).join('') : '<p class="ps-recents-empty">Your recent searches will appear here.</p>';
+    recentDialog.showModal();
+  });
+  document.getElementById('ps-recents-close').addEventListener('click', function () { recentDialog.close(); });
+  recentList.addEventListener('click', function (e) {
+    var button = e.target.closest('[data-recent]'); if (!button) return;
+    var item = recentSearches[+button.dataset.recent]; if (!item) return;
+    q.value = item.place; sleeps.value = Math.max(1, Math.min(8, +item.guests || 1));
+    sleepsOut.textContent = +sleeps.value === 1 ? 'any' : sleeps.value + '+';
+    types = Array.isArray(item.types) ? item.types.filter(function (v) { return ['House', 'Cabin', 'Camp', 'Apartment'].indexOf(v) >= 0; }) : [];
+    needs = Array.isArray(item.needs) ? item.needs.filter(function (v) { return ['kids', 'pets'].indexOf(v) >= 0; }) : [];
+    syncFilterPills(); recentDialog.close(); searchPlace(); rememberSearch();
+  });
+  document.getElementById('ps-home').addEventListener('click', function (e) {
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    e.preventDefault(); closeSelected(false, false);
+    if (searchDialog.open) searchDialog.close(); if (recentDialog.open) recentDialog.close();
+    q.value = ''; sleeps.value = 1; sleepsOut.textContent = 'any'; types = []; needs = []; syncFilterPills();
+    cardSize = 'large'; syncCardSize(); app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false');
+    mapHeaderCompact = false; setSheetRatio(0.48); groupState = { featured: true, fit: true, potential: false };
+    history.replaceState(null, '', location.pathname); setView('map');
+    var mainland = homes.filter(function (h) { return h.marker && h.lng > -130; });
+    if (mainland.length) map.fitBounds(L.latLngBounds(mainland.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false });
+    syncArea(); setHomeMode(true);
+  });
   var searchDialog = document.getElementById('ps-search'), searchWhere = document.getElementById('ps-search-where');
   var guestValue = document.getElementById('ps-guests-value'), guestLess = document.getElementById('ps-guests-less'), guestMore = document.getElementById('ps-guests-more');
   var searchGuests = 1, clearSearchFilters = false;
@@ -31,10 +77,11 @@
     guestLess.disabled = searchGuests <= 1; guestMore.disabled = searchGuests >= 8;
   }
   function openSearch() {
-    if (!phoneLayout.matches || searchDialog.open) return;
+    if ((!phoneLayout.matches && !app.classList.contains('app--home')) || searchDialog.open) return;
     searchWhere.value = q.value; searchGuests = +sleeps.value; clearSearchFilters = false;
     syncSearchGuests(); searchDialog.showModal(); searchWhere.focus();
   }
+  document.getElementById('ps-home-search').addEventListener('click', openSearch);
   q.addEventListener('click', openSearch);
   q.addEventListener('keydown', function (e) { if (phoneLayout.matches && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); openSearch(); } });
   document.getElementById('ps-search-close').addEventListener('click', function () { searchDialog.close(); });
@@ -48,7 +95,7 @@
     if (clearSearchFilters) { types = []; needs = []; [pills, welcome].forEach(function (group) { group.querySelectorAll('button').forEach(function (button) { button.setAttribute('aria-pressed', 'false'); }); }); }
     searchDialog.close();
     app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false');
-    searchPlace();
+    searchPlace(); rememberSearch();
     q.focus({ preventScroll: true });
   });
   filterToggle.addEventListener('click', function () {
@@ -70,7 +117,7 @@
       map.scrollWheelZoom.disable();
       if (headerActions.parentElement !== controlsRow) controlsRow.appendChild(headerActions);
       if (cardControls.parentElement !== controlsRow) controlsRow.appendChild(cardControls);
-      if (filterPanel.parentElement !== headerEl) headerEl.appendChild(filterPanel);
+      if (filterPanel.parentElement !== floatingControls) floatingControls.appendChild(filterPanel);
       q.placeholder = 'Where to?';
       q.readOnly = true; q.setAttribute('aria-haspopup', 'dialog');
     } else {
@@ -85,15 +132,9 @@
     }
     (homes || []).forEach(syncMarkerPopup);
     if (loaded) show();
-    syncHeaderFold();
   }
   phoneLayout.addEventListener('change', syncMapScroll);
   syncMapScroll();
-  function syncHeaderFold() {
-    if (!phoneLayout.matches) return;
-    app.style.setProperty('--header-fold', Math.max(0, controlsRow.getBoundingClientRect().top - headerEl.getBoundingClientRect().top) + 'px');
-  }
-  if (window.ResizeObserver) new ResizeObserver(syncHeaderFold).observe(headerEl);
   function syncCompactHeader() {
     app.classList.toggle('app--map-compact', phoneLayout.matches && view === 'map' && (sheetRatio >= 0.99 || mapHeaderCompact));
   }
@@ -163,6 +204,7 @@
       return '<span class="ps-platform ps-platform--' + p + '" role="img" aria-label="' + names[p] + ' link found"><img src="assets/platforms/' + p + '.svg" alt="" width="18" height="18"></span>';
     }).join('');
   }
+  function madeBadge() { return '<a class="ps-claim-badge ps-made-badge" href="https://lazy.vacations/start/" target="_blank" rel="noopener" aria-label="Made with LAZY — get your free website"><img class="ps-claim-badge__logo" src="favicon.ico" alt="" width="20" height="20"><span>Made with LAZY</span></a>'; }
   function fullCard(h, missing, tiny, detail) {
     var images = photoSet(h);
     var slots = tiny ? [0] : detail ? (images.length ? images.map(function (_, i) { return i; }) : [0]) : [0, 1, 2];
@@ -171,12 +213,12 @@
     }).join('');
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
-      '<div class="ps-gallery">' + listingBadge(h) + (detail ? '' : '<a class="ps-claim-badge" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' on Pleasant Street by email"><img class="ps-claim-badge__logo" src="favicon.ico" alt="LAZY" width="20" height="20"><span>Claim your house</span></a>') + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
+      '<div class="ps-gallery">' + listingBadge(h) + (h.featured ? madeBadge() : detail ? '' : '<a class="ps-claim-badge" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' on Pleasant Street by email"><img class="ps-claim-badge__logo" src="favicon.ico" alt="LAZY" width="20" height="20"><span>Claim your house</span></a>') + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
       (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true"' + (images.length <= 1 ? ' hidden' : '') + '>' + images.map(function (_, i) { return '<span' + (i ? '' : ' class="is-active"') + '></span>'; }).join('') + '</span>' : gallery) + '</div>' +
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(h.place) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(h.place) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
       (factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
-      (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : tiny || detail ? '' : '<p class="ps-home__missing" aria-hidden="true"></p>') +
+      (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Independent property listing. This host is not affiliated with LAZY.</p>') + '</div></article>';
   }
@@ -186,12 +228,12 @@
   }
   function card(h, missing, selectable) {
     var tag = selectable ? 'button' : 'a';
-    return '<' + tag + ' class="ps-card' + (selectable ? ' ps-card--select' : '') + (h.featured === true ? ' ps-card--featured' : '') + '"' +
+    return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '"><' + tag + ' class="ps-card__select-body"' +
       (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="View ' + esc(h.name) + ' details"' : ' href="' + esc(h.url) + '" target="_blank" rel="noopener"') + '>' +
       listingBadge(h) +
       '<img src="' + esc(h.photo) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
-      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>';
+      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + (h.featured ? madeBadge() : '') + '</article>';
   }
   function syncMarkerPopup(h) {
     if (!h.marker) return;
@@ -359,7 +401,7 @@
   selectedClose.addEventListener('click', function () { closeSelected(true); });
   document.addEventListener('keydown', function (e) {
     if (e.key !== 'Escape') return;
-    if (searchDialog.open) return;
+    if (searchDialog.open || recentDialog.open) return;
     if (selectedHome) closeSelected(false);
     else if (app.classList.contains('app--filters-open')) { app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false'); filterToggle.focus(); }
   });
@@ -386,6 +428,7 @@
   }
   map.on('moveend', syncArea);
   function searchPlace() {
+    setHomeMode(false);
     closeSelected(false, false);
     syncDestinations();
     var params = new URLSearchParams(location.search);
@@ -400,6 +443,8 @@
     syncArea();
   }
   if (q) q.addEventListener('input', searchPlace);
+  q.addEventListener('keydown', function (e) { if (!phoneLayout.matches && e.key === 'Enter') rememberSearch(); });
+  q.addEventListener('blur', function () { if (!phoneLayout.matches) rememberSearch(); });
   function syncDestinations() {
     var value = q.value.trim().toLowerCase();
     destinationsEl.querySelectorAll('button[data-place]').forEach(function (b) {
@@ -448,6 +493,7 @@
   });
   syncCardSize();
   function setView(next) {
+    setHomeMode(false);
     if (next === 'cards') closeSelected(false, false);
     view = next;
     syncCompactHeader();
@@ -462,6 +508,7 @@
   }
   viewSwitch.addEventListener('click', function (e) { var b = e.target.closest('[data-view]'); if (b) setView(b.dataset.view); });
   setView(view);
+  setHomeMode(startOnHome);
   /* The map's box can change size after it is drawn (the list, the window): redraw so no grey is left. */
   if (window.ResizeObserver) new ResizeObserver(function () { map.invalidateSize(); }).observe(map.getContainer());
   window.addEventListener('load', function () { map.invalidateSize(); });
@@ -498,6 +545,8 @@
       return h;
     });
     loaded = true;
+    landingFeatured.innerHTML = homes.filter(function (h) { return h.featured; }).slice(0, 6).map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Featured stays are coming soon.</p>';
+    if (initialPlace) rememberSearch();
     popularDestinations();
     /* Open on the mainland: Hawaii in the same view zooms the map out past the edge of the tiles. */
     var mapped = homes.filter(function (h) { return h.marker; });
