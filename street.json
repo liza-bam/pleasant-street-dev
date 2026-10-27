@@ -1771,6 +1771,20 @@
   "demo": false
  },
  {
+  "id": "VT-0004",
+  "name": "Base Camp Nek",
+  "url": "https://www.basecampnek.com/book-a-stay",
+  "place": "St. Johnsbury, VT",
+  "lat": 44.4195,
+  "lng": -72.0157,
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
+ },
+ {
   "id": "ME-0009",
   "name": "Bass Harbor Cottages",
   "url": "https://bassharborcottages.com",
@@ -2795,6 +2809,24 @@
   "demo": false
  },
  {
+  "id": "MA-0114",
+  "name": "Brant Point Courtyard",
+  "url": "https://brantpointcourtyard.com/",
+  "place": "Nantucket, MA",
+  "lat": 41.2844,
+  "lng": -70.0984,
+  "photo": "images/MA-0114-card.webp",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Fully equipped vacation units near Brant Point on Nantucket.",
+  "kids": "No",
+  "kidsDetails": "No child/infant age policy found inRentalPolicies.",
+  "petsDetails": "Sorry, only service animals are permitted at the resort",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "ME-0145",
   "name": "Breakwater Vacation Rental",
   "url": "https://breakwatervacationrental.com",
@@ -3814,6 +3846,20 @@
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "VT-0048",
+  "name": "Century 21 Farm & Forest",
+  "url": "http://www.farmandforest.com/",
+  "place": "Derby, VT",
+  "lat": 44.9474,
+  "lng": -72.1339,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "NH-0013",
@@ -5116,6 +5162,20 @@
   "demo": false
  },
  {
+  "id": "VT-0045",
+  "name": "Deerfield Valley Real Estate",
+  "url": "https://deerfieldvalleyrealestate.com/",
+  "place": "West Dover, VT",
+  "lat": 42.9395,
+  "lng": -72.8531,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
+ },
+ {
   "id": "MA-1413",
   "name": "Dennis Seashores — 10 Ocean Park East",
   "url": "https://dennisseashores.com/details.aspx?PropertyID=283993",
@@ -5474,6 +5534,20 @@
   "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "VT-0047",
+  "name": "Earthwise Farm & Forest",
+  "url": "https://www.earthwisefarmandforest.com/",
+  "place": "Bethel, VT",
+  "lat": 43.8325,
+  "lng": -72.6342,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "MA-5003",
@@ -5882,6 +5956,20 @@
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "VT-0050",
+  "name": "Four Springs Farm, Campground & Learning Center",
+  "url": "https://www.fourspringsfarm.com/",
+  "place": "Royalton, VT",
+  "lat": 43.8203,
+  "lng": -72.5213,
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "ME-0336",
@@ -6443,6 +6531,23 @@
   "pets": "No",
   "kidsDetails": "No child/infant acceptance or minimumage policy found in reservationpolicies/Water’sEdge unit.",
   "petsDetails": "Pets are not permitted. Pet ban inReservationPolicies; contactpropertyforserviceanimalaccommodation",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0302",
+  "name": "Harbour House Inn Bed and Breakfast",
+  "url": "https://www.harbourhouseinn.com/",
+  "place": "Cheshire, MA",
+  "lat": 42.5622,
+  "lng": -73.1616,
+  "photo": "images/MA-0302-card.webp",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Six-room Georgian Colonial bed and breakfast in Cheshire, with gourmet breakfast and gardens in the Berkshire hills.",
+  "kidsDetails": "Child admission policy not published on checked home or Property Policies page.",
+  "petsDetails": "Pet-free establishment; registered service animals welcome.",
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
@@ -7507,6 +7612,20 @@
   "demo": false
  },
  {
+  "id": "VT-0065",
+  "name": "Lake Champlain Escape Vermont",
+  "url": "https://www.lakechamplainescape.com/",
+  "place": "West Addison, VT",
+  "lat": 44.0818,
+  "lng": -73.3943,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
+ },
+ {
   "id": "ME-0244",
   "name": "Lake Megunticook Vacation Rental",
   "url": "https://lakemegunticook.com",
@@ -7542,6 +7661,20 @@
   "locationPrecision": "Address",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "VT-0070",
+  "name": "Lake Rescue Chalet",
+  "url": "http://www.vtskihouse.com/",
+  "place": "Ludlow, VT",
+  "lat": 43.3961,
+  "lng": -72.7012,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "VT-0067",
@@ -13420,6 +13553,20 @@
   "demo": false
  },
  {
+  "id": "VT-0046",
+  "name": "Mountainside Resort At Stowe",
+  "url": "https://mountainsideresort.com/",
+  "place": "Stowe, VT",
+  "lat": 44.4644,
+  "lng": -72.6856,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
+ },
+ {
   "id": "NH-0006",
   "name": "Mt. Liberty Lodging",
   "url": "https://www.mtlibertylodging.com/",
@@ -16031,6 +16178,20 @@
   "demo": false
  },
  {
+  "id": "VT-0016",
+  "name": "RadFarm (formerly Humble Heart Homestead)",
+  "url": "https://www.radfarm.org/",
+  "place": "Morrisville, VT",
+  "lat": 44.5615,
+  "lng": -72.5983,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
+ },
+ {
   "id": "MA-0932",
   "name": "Radian — Apartment ID 2947",
   "url": "https://www.furnishedquarters.com/apartment/120-Kingston-Street-2947",
@@ -17096,6 +17257,21 @@
   "demo": false
  },
  {
+  "id": "MA-0285",
+  "name": "Sea Space Fairhaven",
+  "url": "http://seaspacefairhaven.com/",
+  "place": "Fairhaven, MA",
+  "lat": 41.6376,
+  "lng": -70.9036,
+  "type": "House",
+  "recordType": "Property",
+  "description": "Fairhaven vacation cottage operator lead; browser access failed and current accommodation remains unverified.",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
+ },
+ {
   "id": "ME-0119",
   "name": "Sea Spray Cottages",
   "url": "https://seaspraycottages.com",
@@ -17216,6 +17392,25 @@
   "locationPrecision": "Address",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "MA-1434",
+  "name": "Seascape Vacation Rental — three-home compound",
+  "url": "https://253oldwharf.com/",
+  "place": "Dennis Port, MA",
+  "lat": 41.6555,
+  "lng": -70.1243,
+  "guests": 16,
+  "capacityDetails": "16",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Oceanfront Dennis Port compound with three homes, seven bedrooms, four bathrooms and a private beach, accommodating up to16 guests.",
+  "kidsDetails": "FAQ explicitly permits/counts children of all ages. Signing renter must be28+ and stay at property.",
+  "petsDetails": "FAQ prohibits animals of any kind due severe allergies.",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "ME-0274",
@@ -17543,6 +17738,20 @@
   "locationPrecision": "Address",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "VT-0006",
+  "name": "Shore Acres Inn & Restaurant",
+  "url": "https://shoreacres.com/",
+  "place": "North Hero, VT",
+  "lat": 44.8171,
+  "lng": -73.2901,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "ME-0481",
@@ -18741,6 +18950,21 @@
   "demo": false
  },
  {
+  "id": "MA-0212",
+  "name": "The Cove at Rockport",
+  "url": "https://www.coveatrockport.com/",
+  "place": "Rockport, MA",
+  "lat": 42.6572,
+  "lng": -70.6177,
+  "photo": "images/MA-0212-card.webp",
+  "type": "House",
+  "recordType": "Rental operator",
+  "description": "Rockport waterfront property offering rooms, suites and apartments with furnished kitchens.",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "NH-0067",
   "name": "The Crimson Cocoa Chalet",
   "url": "https://dmtravelvibes.holidayfuture.com/listings/415400",
@@ -19016,6 +19240,20 @@
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "VT-0022",
+  "name": "The Killington Group",
+  "url": "https://www.killingtongroup.com/",
+  "place": "Killington, VT",
+  "lat": 43.6743,
+  "lng": -72.7784,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "ME-0458",
@@ -19468,6 +19706,23 @@
   "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "MA-0273",
+  "name": "The Salt House Marion",
+  "url": "https://www.thesalthousemarion.com/",
+  "place": "Marion, MA",
+  "lat": 41.7001,
+  "lng": -70.7628,
+  "guests": 4,
+  "capacityDetails": "4",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Marion cottage with two bedrooms, a kitchen and private beach access on Buzzards Bay.",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "MA-0022",
@@ -20798,6 +21053,20 @@
   "demo": false
  },
  {
+  "id": "VT-0061",
+  "name": "Vermontvacation4U",
+  "url": "https://vermontvacation4u.com/",
+  "place": "West Dover, VT",
+  "lat": 42.9395,
+  "lng": -72.8531,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
+ },
+ {
   "id": "MA-0906",
   "name": "VIA — Apartment ID 1041",
   "url": "https://www.furnishedquarters.com/apartment/5-Fan-Pier-Boulevard-1041",
@@ -21512,6 +21781,20 @@
   "locationPrecision": "Address",
   "featured": false,
   "demo": false
+ },
+ {
+  "id": "VT-0018",
+  "name": "William Raveis Vermont Properties",
+  "url": "https://www.vtprop.com/",
+  "place": "Ludlow, VT",
+  "lat": 43.3961,
+  "lng": -72.7012,
+  "type": "House",
+  "recordType": "Rental operator",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false,
+  "photo": "images/photo-unknown.svg"
  },
  {
   "id": "ME-0161",
