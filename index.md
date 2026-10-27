@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-1108 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+1124 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -775,6 +775,36 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196141
 
+## All Mountain Rentals
+
+- ID: NH-0053
+- Town / area (approximate map location): Campton, NH
+- Type: House
+- Description: Locally owned manager offering White Mountain vacation homes and apartments.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.allmountainrentals.com/
+
+## Alpine Garden
+
+- ID: NH-0011
+- Town / area (approximate map location): Bartlett, NH
+- Type: Cabin
+- Description: Bartlett cabin and treehouse village with an onsite winery and heated pool.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.alpinegardenglamping.com/
+
 ## AMC Cardigan Lodge
 
 - ID: NH-0043
@@ -1018,6 +1048,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
 - Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/4-Emerson-Place-7492
 
+## At Bear Tree
+
+- ID: NH-0012
+- Town / area (approximate map location): Pittsburg, NH
+- Type: Cabin
+- Description: Family-stewarded Pittsburg cabins and inn on First Connecticut Lake and nearby woodland sites.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.atbeartree.com/
+
 ## Atlantic Haven
 
 - ID: ME-0191
@@ -1049,6 +1094,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Children permitted within occupancy limit; under-2s excluded from occupancy count.
 - Pet policy: Only designated pet-friendly homes; generally dogs under 40 pounds and age 1+; maximum two with approval. No cats or visiting pets; no pets on furniture/beds; contact about fees.
 - Website (book here, directly with the host): https://www.atlanticvacationhomes.com/
+
+## Attitash Mountain Village Resort
+
+- ID: NH-0052
+- Town / area (approximate map location): Bartlett, NH
+- Type: Apartment
+- Description: Bartlett condominium resort near Attitash with kitchens, pools and year-round mountain activities.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Suites/condos/rooms; varies by unit.
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://attitashvillage.com/
 
 ## Austin House — River Winds Farm & Estate
 
@@ -1386,6 +1446,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit current child policy verified.
 - Pet policy: House rules allow pets with an additional fee; contact host in advance for amount.
 - Website (book here, directly with the host): https://massliving.guestybookings.com/en/properties/670401fcb485c600109b6ef2?minOccupancy=1&adults=1
+
+## Baker Rocks
+
+- ID: NH-0005
+- Town / area (approximate map location): Rumney, NH
+- Type: Cabin
+- Description: Family-run Rumney retreat with cabins, yurts, a dome and other nature stays.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Cabins page units up to8; overview unit capacities vary
+- Price: from 169 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Pet policy: Most rentals permit pets for fee; BR Acres excludes pets
+- Website (book here, directly with the host): https://bakerrocks.com/
 
 ## Bald Mountain Camps
 
@@ -2368,6 +2444,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=152051
+
+## Bretton Woods Vacations
+
+- ID: NH-0016
+- Town / area (approximate map location): Bretton Woods, NH
+- Type: House
+- Description: Family-owned manager of vacation homes and cabins in Bretton Woods and nearby White Mountains towns.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.brettonwoodsvacations.com/
 
 ## Bridgton Bungalow
 
@@ -5040,6 +5131,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://gloucesterbeachhouse.com/
+
+## Golden Eagle Lodge
+
+- ID: NH-0063
+- Town / area (approximate map location): Waterville Valley, NH
+- Type: Cabin
+- Description: Individually owned condominium suites with full kitchens in the center of Waterville Valley.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://goldeneaglelodge.com/
 
 ## GOOD TIMES CHALET LIMIT 19
 
@@ -11021,6 +11127,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://stowerentalhomes.com/
 
+## Mt. Liberty Lodging
+
+- ID: NH-0006
+- Town / area (approximate map location): Lincoln, NH
+- Type: Cabin
+- Description: Family-operated Lincoln cabins and motel beside the Pemigewasset River, open May through October.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.mtlibertylodging.com/
+
 ## MVVR AGARH — Edgartown
 
 - ID: MA-1502
@@ -13050,6 +13171,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.
 - Website (book here, directly with the host): https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1
 
+## Purity Spring Resort
+
+- ID: NH-0020
+- Town / area (approximate map location): Madison, NH
+- Type: Cabin
+- Description: Hoyt-family Madison lake resort with cottages, condos, lodges and year-round outdoor activities.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Multiple unit types; family lodging varies
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Official rooms page expressly accommodates family vacations
+- Website (book here, directly with the host): https://www.purityspring.com/
+
 ## PVT Waterfront Deck•Firepit•Parking•Close to Salem
 
 - ID: MA-0435
@@ -14395,6 +14532,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Own direct Lodgify details state Pets not allowed.
 - Website (book here, directly with the host): https://www.serenitysuitehomes.com/ebsuite-1
 
+## Shamrock Grove
+
+- ID: NH-0010
+- Town / area (approximate map location): Thornton, NH
+- Type: Cabin
+- Description: Family-run Thornton motel with adjoining suites, pool, cidery and a small farm.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://shamrockmotelnh.com/
+
 ## Sharon Thoner Maine Rentals
 
 - ID: ME-0150
@@ -14906,6 +15058,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Expanded amenities explicitly list suitable for children two–twelve and infants under two.
 - Pet policy: Individual House rules and Other things to note explicitly prohibit pets.
 - Website (book here, directly with the host): https://stayheirloom.com/listing/59b2f0e9a84a7c04003b9635
+
+## Sugar Hill Inn
+
+- ID: NH-0021
+- Town / area (approximate map location): Sugar Hill, NH
+- Type: Cabin
+- Description: Family-operated Sugar Hill inn with romantic vacation cottages, private baths and mountain access.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Seven cottage rooms plus main inn; individual occupancy Unknown
+- Price: Daily rates on reservation page; vary by season/day; no numeric lodging rate adopted
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Official cottage page says inn not suitable for children under14
+- Website (book here, directly with the host): https://sugarhillinn.com/
 
 ## SUNNY BREAK- LIMIT 4
 
@@ -15427,6 +15595,23 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://cottagesatsummervillage.com
 
+## The Cottages of Wolfeboro
+
+- ID: NH-0014
+- Town / area (approximate map location): Wolfeboro, NH
+- Type: Cabin
+- Description: Year-round pet-friendly cottage campus near downtown Wolfeboro and Lake Winnipesaukee.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Campus up to75; unit capacity Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Children policy: Family gatherings and children in inquiry form
+- Pet policy: Official home pet-friendly; restrictions not reviewed
+- Website (book here, directly with the host): https://cottagesnh.com/
+
 ## The Cove
 
 - ID: ME-0405
@@ -15652,6 +15837,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196340
+
+## The Innstead Mountain Getaway
+
+- ID: NH-0008
+- Town / area (approximate map location): Pike, NH
+- Type: Cabin
+- Description: Cabin retreat on 2,000 acres in Pike near the White Mountains.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://theinnsteadgetaway.com/
 
 ## The Island Agency Rentals
 
@@ -15908,6 +16108,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: About the Home describes a bunk room for kids.
 - Website (book here, directly with the host): https://www.ostervillecottage.com/
+
+## The Partridge Cabins & Lodge
+
+- ID: NH-0019
+- Town / area (approximate map location): Pittsburg, NH
+- Type: Cabin
+- Description: Year-round Pittsburg cabin campus at First Connecticut Lake with full kitchens and outdoor access.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unit ranges2-8; operator record
+- Price: from 155 USD a night
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Pet policy: Dogs/cats $15/night/pet; leash, crate when left, keep off furniture; damage charged
+- Website (book here, directly with the host): https://partridgecabins.com/
 
 ## The Patio Cabins
 
@@ -16708,6 +16924,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/232735
+
+## Trailside Stays
+
+- ID: NH-0025
+- Town / area (approximate map location): Dorchester, NH
+- Type: Cabin
+- Description: Locally created Dorchester cabins with kitchenettes, private bathrooms and access to Green Woodlands trails.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 1 or2 queen beds; occupancy not inferred
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Pet policy: Strict no pets to keep cabins allergen-free
+- Website (book here, directly with the host): https://www.trailsidestays.com/
 
 ## TRAINOR CAMP LIMIT 4
 
@@ -17543,6 +17775,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit staying-child/infant age policy found.
 - Pet policy: Building markedPet-Friendly; advancearrangements, nonrefundablecleaningfee, breed/weight restrictions apply; exactfees/limitsnotpublished.
 - Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/350-Third-Street-9893
+
+## Waterville Valley Resort
+
+- ID: NH-0055
+- Town / area (approximate map location): Waterville Valley, NH
+- Type: House
+- Description: Independent White Mountains resort offering Town Square condominium lodging in Waterville Valley.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.waterville.com/
 
 ## Webhannet by the Sea
 
