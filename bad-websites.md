@@ -64,6 +64,12 @@ Sites that cannot be verified as an own rental website with a direct booking or 
 | VT-0023 | Everstead Estates | Woodstock, VT | https://eversteadestates.com/ | Site opens (3 KB page) but no booking, contact, email or phone found. | Cannot be verified; excluded. |
 | VT-0038 | Lake Fairlee Retreat | Lake Fairlee, VT | https://www.staylakefairlee.com/ | Site opens; only Airbnb/Vrbo links, no direct path. | OTA-only; excluded. |
 | MA-0215 | Seaside Stay Rockport | Rockport, MA | https://seasidestayrockport.com/ | Site opens; all bookings via Airbnb, no phone/email/contact page. | OTA-only; excluded. |
+| MA-0001 | Andi Candello / Kinlin Grover | Provincetown, MA | http://andreacandello.kinlingrover.com/ | Connection times out (curl and Chrome). | Website unavailable; excluded. |
+| MA-0005 | Katama Delight of Martha's Vineyard | Edgartown, MA | https://katamadelight.com/ | Connection times out (curl and Chrome). | Website unavailable; excluded. |
+| MA-0213 | The Inn at Babson Court | Gloucester, MA | http://www.babsoncourt.com/ | Connection times out (curl and Chrome). | Website unavailable; excluded. |
+| MA-0118 | Atlantic East Nantucket Real Estate | Nantucket, MA | https://www.nantucketrealestate.com/ | Chrome privacy error: TLS certificate invalid; site does not open. | Website unavailable; excluded. |
+| MA-0122 | Meadowview Cottages (130 West Main St) | Wellfleet, MA | https://wellfleetweeks.com/ | Chrome privacy error: TLS certificate invalid; site does not open. | Website unavailable; excluded. |
+| MA-0312 | Deerfield Inn | Deerfield, MA | http://www.deerfieldinn.com | CAPTCHA wall in Chrome; not solved. Access block, not a dead site. | Unverified; excluded until it opens. |
 
 ## Access blocks kept separate
 
