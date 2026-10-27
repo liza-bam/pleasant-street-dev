@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-5966 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+5976 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -5769,6 +5769,38 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Pets not allowed.
 - Website (book here, directly with the host): https://buzzardsbayrentals.com/accommodation/casa-isla/
 
+## Catskill Cottage (Prattsville)
+
+- ID: NY-0047
+- Town / area (approximate map location): Prattsville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Cottage on a hillside at Prattsville near Pratt Rock, close to Windham and Hunter ski areas, with porch, full kitchen and two bedrooms; owner-run.
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskillcottages.com/index.html
+
+## Catskills Cabin Retreat (catskills.house)
+
+- ID: NY-0038
+- Town / area (approximate map location): West Kill, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Cozy three-bedroom cabin on the mountainside in the Spruceton Valley at West Kill, near Hunter, Windham and Phoenicia, with valley views and hiking from the door.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.catskills.house/
+
 ## Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5
 
 - ID: MA-0827
@@ -9201,6 +9233,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — children and babies counted toward max guests
 - Pet policy: Yes — prior approval; $10/pet/night
 - Website (book here, directly with the host): https://clearwaterescapes.com
+
+## Clove Cottages
+
+- ID: NY-0039
+- Town / area (approximate map location): High Falls, NY
+- Tourist destination: Hudson Valley
+- Type: Cabin
+- Description: Eight cozy, fully furnished pet-friendly guest cottages on a country road in the Mid-Hudson Valley near New Paltz, Kingston, Woodstock and Rhinebeck.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.clovecottages.com/
 
 ## Coastal Acres Campground
 
@@ -25722,6 +25770,118 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://hollyroadcc.com/
+
+## Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature
+
+- ID: NY-0040
+- Town / area (approximate map location): Esopus, NY
+- Tourist destination: Hudson Valley
+- Type: House
+- Description: Four-bedroom house set in woods in the Town of Esopus between Kingston and New Paltz, with outdoor living space and nature on all sides.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/
+
+## Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway
+
+- ID: NY-0041
+- Town / area (approximate map location): Gardiner, NY
+- Tourist destination: Hudson Valley
+- Type: House
+- Description: Four-bedroom getaway in Gardiner at the edge of the Mohonk Preserve, with cliffs and trails nearby.
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/
+
+## Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway
+
+- ID: NY-0042
+- Town / area (approximate map location): Cairo, NY
+- Tourist destination: Catskills
+- Type: House
+- Description: Seven-bedroom house in Cairo at the northern Catskills' edge, built for large groups.
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://homesweethudson.com/property/luna-cove-premier-hudson-valley-getaway/
+
+## Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape
+
+- ID: NY-0043
+- Town / area (approximate map location): Kerhonkson, NY
+- Tourist destination: Hudson Valley
+- Type: House
+- Description: Three-bedroom A-frame in the hills above Kerhonkson, with mountain views and modern interiors.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/
+
+## Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury
+
+- ID: NY-0044
+- Town / area (approximate map location): Rosendale, NY
+- Tourist destination: Hudson Valley
+- Type: House
+- Description: Three-bedroom Rosendale home with private pool, gym and media room near the Rondout Creek.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/
+
+## Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway
+
+- ID: NY-0045
+- Town / area (approximate map location): Kerhonkson, NY
+- Tourist destination: Hudson Valley
+- Type: Cabin
+- Description: Three-bedroom cabin by the Stony Kill in Kerhonkson, close to Minnewaska and the Shawangunks.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/
+
+## Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse
+
+- ID: NY-0046
+- Town / area (approximate map location): Accord, NY
+- Tourist destination: Hudson Valley
+- Type: House
+- Description: Three-bedroom farmhouse on a quiet road in Accord, Rondout Valley, with porch and gardens.
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/
 
 ## Hopper Real Estate — Campground - 312
 

@@ -94,6 +94,17 @@ Sources read: I LOVE NY cabins & cottages directory (Long Island, 17 entries) an
 | Luxury Beach Getaway (North Fork mid-term) | North Fork | https://luxurybeachgetaway.com/properties/north-fork/ | 30-night minimum — mid/long-term only. |
 | Heckscher State Park; Surf Club at Montauk; The Surf Lodge; North Fork Resort; Windward Shores Ocean Resort; Wainscott Inn; Pridwin Hotel & Cottages | various | I LOVE NY directory | State park, hotels, resorts, inn — left out by type. |
 
+## New York — Hudson Valley & Catskills pass (2026-10-27)
+
+| Name | Town | URL | Reason |
+| --- | --- | --- | --- |
+| Clearwater Cabin | Livingston Manor | https://www.clearwatercabin.com/ | Own Wix site opens with Book a Stay and contact; photo galleries load by script and returned no images in Chrome — photos not retrieved. Recheck. |
+| Green Label Home (Alpine House, Cat + Wolf Lodge, ski-view cabin, farmhouse retreat, swim-pond cabin, ski house) | Margaretville / Stamford area | https://www.greenlabelhome.com/ | Own Weebly site with OwnerRez booking; only one or two page images per home retrievable — photo galleries pending. Recheck in Chrome. |
+| Phoenicia Lodge | Phoenicia | https://www.phoenicialodge.com/ | Hotel with cabins and suites — left out by type. |
+| The Bend | Phoenicia | https://thebendny.com/ | Cabin resort with suites and wellness programme — resort, left out by type. |
+| Catskill Vacation Rentals (Watchful Eye Caretaking) | Margaretville and 13 Catskills towns | https://www.catskillvacation.rentals/ | Local manager; rentals listed by town through a script — queued for the manager pass. |
+| Alluvion Vacations; Red Cottage | Hudson Valley / Catskills | alluvionvacations.com, redcottage.com | Larger managers (Guesty) — queued for the manager pass. |
+
 ## Access blocks kept separate
 
 Connected-browser confirmation on 2026-10-25: `bayviewcottages.com` again returned `net::ERR_NAME_NOT_RESOLVED`. `willowrentalproperties.com` displayed Wix's disconnected-domain page instead of rental content. A responding hosting placeholder is not a working property website. Both remain excluded.
