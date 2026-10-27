@@ -79,7 +79,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .app-pills button:hover { border-color: var(--teal); }
 .app-pills button[aria-pressed="true"] { color: var(--ink); background: #e8ebea; border-color: #d0d6d3; }
 .app-list { overflow-y: auto; padding: 12px 14px 14px; scrollbar-width: thin; scrollbar-color: var(--teal) transparent; }
-.app-map { height: 100%; isolation: isolate; }
+.app-map { position: relative; height: 100%; isolation: isolate; }
 
 /* One home: its picture, name and place. The whole card opens the home's website. */
 .ps-card { position: relative; display: flex; flex-direction: column; background: var(--white); border-radius: var(--r); box-shadow: var(--shadow);
