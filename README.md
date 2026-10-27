@@ -1,5 +1,16 @@
 # Pleasant Street (dev)
 
+> **We are moving the photos (2026-10-27).** The site outgrew GitHub Pages (1 GB; `images/` is 3.4 GB+), so:
+> - `main` is still the source of truth — keep adding homes and photos to `images/` exactly as before.
+> - The site is now published by `.github/workflows/pages.yml`, **without** `images/`. The page loads each photo
+>   from a shard repo (`liza-bam/pleasant-street-images-1…6`, split by ID prefix; map in `pages.yml`) until the
+>   repo variable `IMAGE_BASE` names one host — the LAZY publish bucket (`pleasant-street.lazy.vacations`).
+>   Then the shards are unused.
+> - **New photos are not live until they reach a shard.** After an import, run `tools/sync-photo-shards.sh`
+>   (copies new `images/*` files to the right shard checkout next to this repo and pushes). The bucket will make
+>   this step go away.
+> - Don't force-push `main`; two of us commit to it.
+
 A web app: vacation homes run by independent hosts, on a map and in a list. Each home opens its
 own website. Public, not indexed (robots.txt disallows all, the page says noindex).
 
