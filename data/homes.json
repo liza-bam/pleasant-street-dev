@@ -14568,15 +14568,16 @@
   "currency": "Unknown",
   "lat": 41.7626,
   "lng": -70.7217,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Wareham%2C+MA%2C+USA&format=json&limit=1",
+  "locationPrecision": "Town centre, per operator’s wareham category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/wareham/",
   "photo": "images/MA-0279-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "baycliff-cottage-cabins",
@@ -19402,15 +19403,16 @@
   "currency": "Unknown",
   "lat": 41.6376,
   "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "locationPrecision": "Town centre, per operator’s fairhaven category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/fairhaven/",
   "photo": "images/MA-0280-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "black-bear-cabin",
@@ -27411,7 +27413,7 @@
   "url": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
   "town": "Fairhaven",
   "state": "MA",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "type": "Unknown",
   "recordType": "Property",
   "description": "West Island beach cottage with two bedrooms, a kitchen, grill, outdoor dining and an outdoor shower.",
@@ -27539,17 +27541,19 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.6376,
-  "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.5964,
+  "lng": -70.8319,
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/west-island/",
   "photo": "images/MA-0276-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27",
+  "locationLabel": "West Island"
  },
  {
   "slug": "central-1br-apartment-assembly-square-pool-gym-parking-sleep",
@@ -38066,7 +38070,7 @@
   "url": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
   "town": "Fairhaven",
   "state": "MA",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "type": "Unknown",
   "recordType": "Property",
   "description": "West Island cottage with two bedrooms, ocean views, a stocked kitchen and easy beach access.",
@@ -38194,17 +38198,19 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.6376,
-  "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.5964,
+  "lng": -70.8319,
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/west-island/",
   "photo": "images/MA-0275-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27",
+  "locationLabel": "West Island"
  },
  {
   "slug": "cozy-retreat-in-lisbon-falls",
@@ -78065,7 +78071,7 @@
   "url": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
   "town": "Fairhaven",
   "state": "MA",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "type": "Unknown",
   "recordType": "Property",
   "description": "West Island beachfront cottage with two bedrooms, central air, a kitchen, backyard and patio.",
@@ -78193,17 +78199,19 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.6376,
-  "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.5964,
+  "lng": -70.8319,
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/west-island/",
   "photo": "images/MA-0281-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27",
+  "locationLabel": "West Island"
  },
  {
   "slug": "lovely-two-bedroom-condo-in-south-boston",
@@ -82118,15 +82126,16 @@
   "currency": "Unknown",
   "lat": 41.6376,
   "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "locationPrecision": "Town centre, per operator’s fairhaven category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/fairhaven/",
   "photo": "images/MA-0282-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "martha-murray-vacation-rentals-almira-rd-1",
@@ -177735,15 +177744,16 @@
   "currency": "Unknown",
   "lat": 41.658,
   "lng": -70.8135,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Mattapoisett%2C+MA%2C+USA&format=json&limit=1",
+  "locationPrecision": "Town centre, per operator’s mattapoisett category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/mattapoisett/",
   "photo": "images/MA-0284-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "ocean-house-cottage",
@@ -178687,7 +178697,7 @@
   "url": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
   "town": "Fairhaven",
   "state": "MA",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "type": "Unknown",
   "recordType": "Property",
   "description": "West Island home with ocean views, two bedrooms, a backyard grill and deck near the beach.",
@@ -178815,17 +178825,19 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.6376,
-  "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.5964,
+  "lng": -70.8319,
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/west-island/",
   "photo": "images/MA-0277-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27",
+  "locationLabel": "West Island"
  },
  {
   "slug": "october-farm",
@@ -217139,7 +217151,7 @@
   "url": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
   "town": "Fairhaven",
   "state": "MA",
-  "place": "Fairhaven, MA",
+  "place": "West Island, Fairhaven, MA",
   "type": "Unknown",
   "recordType": "Property",
   "description": "West Island home with two bedrooms, a gourmet kitchen, landscaped yard and covered deck near beaches.",
@@ -217267,17 +217279,19 @@
   "pets": "No",
   "priceFrom": "Unknown",
   "currency": "Unknown",
-  "lat": 41.6376,
-  "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "lat": 41.5964,
+  "lng": -70.8319,
+  "locationPrecision": "Town centre, per operator’s west island category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/west-island/",
   "photo": "images/MA-0283-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27",
+  "locationLabel": "West Island"
  },
  {
   "slug": "stunning-design-7minwalk-to-beach-lg-backyard-deck",
@@ -223908,15 +223922,16 @@
   "currency": "Unknown",
   "lat": 41.6376,
   "lng": -70.9036,
-  "locationPrecision": "Town / area approximate",
-  "locationSource": "https://nominatim.openstreetmap.org/search?q=Fairhaven%2C+MA%2C+USA&format=json&limit=1",
+  "locationPrecision": "Town centre, per operator’s fairhaven category",
+  "locationSource": "https://buzzardsbayrentals.com/accommodation-category/fairhaven/",
   "photo": "images/MA-0278-card.webp",
   "checked": "2026-10-26",
   "alive": true,
   "cardPhotoLabel": "",
   "researchGaps": [
    "Optionaldetails/policies"
-  ]
+  ],
+  "locationCheckedOn": "2026-10-27"
  },
  {
   "slug": "the-freshgrass-annex-at-the-porches",
