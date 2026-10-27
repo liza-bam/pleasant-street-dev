@@ -49,10 +49,9 @@ def key(url):
     # LiveRez identifies individual rentals by PageDataID on a shared ASP path.
     # Ignore tracking/search queries, but retain this actual property identity.
     params=urllib.parse.parse_qs(u.query)
-    property_id=params.get('PageDataID')
-    unit_id=params.get('reservation_unitId')
-    product_id=params.get('idProduct')  # TenantWiz property pages
-    suffix='?PageDataID='+property_id[0] if property_id else ('?reservation_unitId='+unit_id[0] if unit_id else ('?idProduct='+product_id[0] if product_id else ''))
+    # Operator sites that serve every rental from one page with an id parameter.
+    ids=[n for n in ['PageDataID','reservation_unitId','idProduct','Id','rental','rentalID'] if params.get(n)]
+    suffix='?'+ids[0]+'='+params[ids[0]][0] if ids else ''
     return (u.netloc.lower().removeprefix('www.') + u.path.rstrip('/')).lower()+suffix
 
 
