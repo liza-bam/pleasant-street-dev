@@ -1916,5 +1916,33 @@
   "source": "https://nominatim.openstreetmap.org/search?q=South+Chatham%2C+MA%2C+USA&format=json&limit=1",
   "label": "South Chatham, Chatham, Barnstable County, Massachusetts, 02659, United States",
   "checked": "2026-10-27"
+ },
+ "West Dennis, MA, USA": {
+  "lat": 41.6644,
+  "lng": -70.1696,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Dennis%2C+MA%2C+USA&format=json&limit=1",
+  "label": "West Dennis, Dennis, Barnstable County, Massachusetts, 02670, United States",
+  "checked": "2026-10-27"
+ },
+ "South Dennis, MA, USA": {
+  "lat": 41.6866,
+  "lng": -70.155,
+  "source": "https://nominatim.openstreetmap.org/search?q=South+Dennis%2C+MA%2C+USA&format=json&limit=1",
+  "label": "South Dennis, Dennis, Barnstable County, Massachusetts, 02660, United States",
+  "checked": "2026-10-27"
+ },
+ "West Harwich, MA, USA": {
+  "lat": 41.6696,
+  "lng": -70.1173,
+  "source": "https://nominatim.openstreetmap.org/search?q=West+Harwich%2C+MA%2C+USA&format=json&limit=1",
+  "label": "West Harwich, Harwich, Barnstable County, Massachusetts, 02671, United States",
+  "checked": "2026-10-27"
+ },
+ "East Dennis, MA, USA": {
+  "lat": 41.781,
+  "lng": -70.1646,
+  "source": "https://nominatim.openstreetmap.org/search?q=East+Dennis%2C+MA%2C+USA&format=json&limit=1",
+  "label": "East Dennis, Dennis, Barnstable County, Massachusetts, 02641, United States",
+  "checked": "2026-10-27"
  }
 }
