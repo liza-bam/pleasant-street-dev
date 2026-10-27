@@ -9,8 +9,8 @@ On phones, a small white header places the coral LAZY L on white at the left and
 house / Recent searches at the right. Page backgrounds are white, action buttons use coral, and
 active view/size/filter switches use neutral gray. Home clears the place, filters, property selection and view preferences and returns to a simple
 welcome/search screen with the LAZY water background, white LAZY logo, Lobster Pleasant Street
-heading and direct-booking copy. Desktop reuses the LAZY contour-water component and cat artwork
-in a split hero, with a white, dense Tiny-card grid below. The homepage shows 100 cards when
+heading and direct-booking copy. Desktop reuses the LAZY contour-water component with Sandy’s illustrated island map
+in a compact split hero; the same illustration appears below the search on phones. A white, dense Tiny-card grid follows. The homepage shows 100 cards when
 available: featured stays first, followed by a shuffled sample of individual Property records with
 photos. The random sample changes on reload and never changes which houses are featured. A URL without a place or view starts on that home screen. Add your
 house opens an email inquiry; recent searches are saved on this device and restore their place,

@@ -356,7 +356,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-landing__hero { position: relative; overflow: hidden; padding: 16px 24px 36px; background: var(--water); }
 .ps-landing__water { position: absolute; inset: 0; pointer-events: none; }
 .ps-landing__water water-surface { display: block; width: 100%; height: 100%; }
-.ps-landing__intro { position: relative; display: block; text-align: center; width: 100%; max-width: 680px; margin: 0 auto; }
+.ps-landing__intro { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); align-items: center; gap: 32px; text-align: center; width: 100%; max-width: 1180px; margin: 0 auto; }
 .ps-landing__copy { min-width: 0; position: relative; z-index: 1; }
 .ps-landing__logo { display: block; width: 86px; height: 50px; object-fit: contain; margin: 0 auto 10px; }
 .ps-landing__intro h2 { margin: 0 0 14px; font-family: var(--script); font-size: 56px; line-height: 1.1; font-weight: 400; }
@@ -365,6 +365,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-landing__search { display: flex; align-items: center; justify-content: center; gap: 14px; width: 100%; max-width: 420px; min-height: 48px; margin: 24px auto 0; padding: 10px 18px; border: 1px solid var(--line); border-radius: 999px; background: white; color: var(--ink); box-shadow: var(--shadow); font: 14px var(--serif); cursor: pointer; }
 .ps-landing__search svg { flex: none; width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.7; }
 .ps-landing__search span:last-child { padding-left: 14px; border-left: 1px solid var(--line); color: var(--mute); }
+.ps-landing__art { display: block; width: 100%; height: auto; max-width: 600px; margin: 0 auto; }
 .ps-landing__wave { position: absolute; bottom: -1px; left: 0; width: 100%; height: 36px; }
 .ps-landing__featured { width: 100%; max-width: 1280px; margin: 0 auto; padding: 20px 24px 40px; background: white; }
 .ps-landing__featured > h2 { margin: 0 0 8px; font-family: var(--script); font-size: 28px; font-weight: 400; text-align: center; }
@@ -379,6 +380,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app.app--home .app-body { position: static; overflow: visible; padding: 0; }
   .ps-landing__hero { padding: 14px 14px 28px; }
   .ps-landing__intro { display: block; max-width: 540px; text-align: center; }
+  .ps-landing__art { width: min(320px, 100%); margin: 18px auto 0; }
   .ps-landing__logo { margin: 0 auto 10px; }
   .ps-landing__intro h2 { font-size: clamp(38px, 11vw, 46px); }
   .ps-landing__intro .ps-landing__tagline { max-width: 300px; margin: 0 auto 10px; font-size: 15px; }
