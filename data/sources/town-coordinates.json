@@ -1944,5 +1944,68 @@
   "source": "https://nominatim.openstreetmap.org/search?q=East+Dennis%2C+MA%2C+USA&format=json&limit=1",
   "label": "East Dennis, Dennis, Barnstable County, Massachusetts, 02641, United States",
   "checked": "2026-10-27"
+ },
+ "Rumney, NH, USA": {
+  "lat": 43.8045,
+  "lng": -71.8131,
+  "source": "https://nominatim.openstreetmap.org/search?q=Rumney%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Rumney, Grafton County, New Hampshire, 03266, United States",
+  "checked": "2026-10-27"
+ },
+ "Pike, NH, USA": {
+  "lat": 44.0309,
+  "lng": -72.0081,
+  "source": "https://nominatim.openstreetmap.org/search?q=Pike%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Pike, Haverhill, Grafton County, New Hampshire, 03765, United States",
+  "checked": "2026-10-27"
+ },
+ "Thornton, NH, USA": {
+  "lat": 43.8954,
+  "lng": -71.678,
+  "source": "https://nominatim.openstreetmap.org/search?q=Thornton%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Thornton, Grafton County, New Hampshire, 03285, United States",
+  "checked": "2026-10-27"
+ },
+ "Wolfeboro, NH, USA": {
+  "lat": 43.6094,
+  "lng": -71.1749,
+  "source": "https://nominatim.openstreetmap.org/search?q=Wolfeboro%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Wolfeboro, Carroll County, New Hampshire, United States",
+  "checked": "2026-10-27"
+ },
+ "Madison, NH, USA": {
+  "lat": 43.8994,
+  "lng": -71.1488,
+  "source": "https://nominatim.openstreetmap.org/search?q=Madison%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Madison, Carroll County, New Hampshire, United States",
+  "checked": "2026-10-27"
+ },
+ "Sugar Hill, NH, USA": {
+  "lat": 44.2157,
+  "lng": -71.7973,
+  "source": "https://nominatim.openstreetmap.org/search?q=Sugar+Hill%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Sugar Hill, Grafton County, New Hampshire, 03586, United States",
+  "checked": "2026-10-27"
+ },
+ "Dorchester, NH, USA": {
+  "lat": 43.7565,
+  "lng": -71.9491,
+  "source": "https://nominatim.openstreetmap.org/search?q=Dorchester%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Dorchester, Grafton County, New Hampshire, United States",
+  "checked": "2026-10-27"
+ },
+ "Campton, NH, USA": {
+  "lat": 43.8236,
+  "lng": -71.639,
+  "source": "https://nominatim.openstreetmap.org/search?q=Campton%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Campton, Grafton County, New Hampshire, 03223, United States",
+  "checked": "2026-10-27"
+ },
+ "Waterville Valley, NH, USA": {
+  "lat": 43.9496,
+  "lng": -71.5057,
+  "source": "https://nominatim.openstreetmap.org/search?q=Waterville+Valley%2C+NH%2C+USA&format=json&limit=1",
+  "label": "Waterville Valley, Grafton County, New Hampshire, 03215, United States",
+  "checked": "2026-10-27"
  }
 }
