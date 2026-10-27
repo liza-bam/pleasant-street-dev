@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-1145 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+1151 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -205,6 +205,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mvcma.org/15-cottage-park
+
+## 1620 Hospitality
+
+- ID: MA-0017
+- Town / area (approximate map location): Plymouth, MA
+- Type: Apartment
+- Description: Plymouth vacation-apartment lead;official website verification blocked.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://1620hospitality.com/
 
 ## 17 Cottage Park
 
@@ -2810,6 +2825,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
 
+## Cape Ann Beach Cottages
+
+- ID: MA-0211
+- Town / area (approximate map location): Essex, MA
+- Type: House
+- Description: Essex cottage operator lead; official pages show a security interstitial.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://capeannbc.com/
+
 ## Cape Cod Bay Cottage (East Sandwich)
 
 - ID: MA-1833
@@ -3325,6 +3355,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): http://www.farmandforest.com/
+
+## Chambery Inn
+
+- ID: MA-0305
+- Town / area (approximate map location): Lee, MA
+- Type: House
+- Description: Lee schoolhouse-inn lead listed by the Berkshire tourism directory; own-site verification limited by a security challenge.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://chamberyinn.com/
 
 ## Channel Waterfront Cottages
 
@@ -10865,6 +10910,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Yes
 - Website (book here, directly with the host): https://northwoodsmainecabins.holidayfuture.com/listings/280570
 
+## Maury People Sotheby’s International Realty
+
+- ID: MA-0119
+- Town / area (approximate map location): Unknown, MA
+- Type: House
+- Description: Nantucket chamber-listed vacation rental and real estate agency.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.maurypeople.com/
+
 ## Maynards in Maine
 
 - ID: ME-0201
@@ -13978,6 +14038,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://sallymtcabins.com
 
+## Sally Webster Collection
+
+- ID: MA-0210
+- Town / area (approximate map location): Rockport, MA
+- Type: House
+- Description: Rockport lodging lead; current official accommodation and contact pages remain blocked.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://sallywebster.com/
+
 ## Salt & Shine Vacation Rentals
 
 - ID: ME-0289
@@ -14809,6 +14884,21 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Studio One explicitly provides a bunk room ideal for kids. No explicit child admission policy found for Studios Two/Three; do not transfer Studio One’s child suitability to every unit.
 - Pet policy: All three studio-specific linked host listings explicitly prohibit pets. Studio One expanded rules specify service animals only.
 - Website (book here, directly with the host): https://www.firehouse-studios.com/
+
+## Shelburne Springs
+
+- ID: MA-0311
+- Town / area (approximate map location): Shelburne Falls, MA
+- Type: House
+- Description: Shelburne Falls lodging lead listed by Franklin County Chamber; own-site verification blocked by a security challenge.
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.shelburnesprings.com/
 
 ## Shin Pond Village
 

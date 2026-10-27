@@ -2063,5 +2063,19 @@
   "source": "https://nominatim.openstreetmap.org/search?q=West+Addison%2C+VT%2C+USA&format=json&limit=1",
   "label": "West Addison, Addison, Addison County, Vermont, United States",
   "checked": "2026-10-27"
+ },
+ "Essex, MA, USA": {
+  "lat": 42.6327,
+  "lng": -70.7804,
+  "source": "https://nominatim.openstreetmap.org/search?q=Essex%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Essex, Essex County, Massachusetts, 01929, United States",
+  "checked": "2026-10-27"
+ },
+ "Lee, MA, USA": {
+  "lat": 42.3073,
+  "lng": -73.2505,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lee%2C+MA%2C+USA&format=json&limit=1",
+  "label": "Lee, Berkshire County, Massachusetts, 01260, United States",
+  "checked": "2026-10-27"
  }
 }
