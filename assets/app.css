@@ -168,9 +168,10 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-claim-badge { position: absolute; z-index: 2; top: 10px; right: 10px; max-width: calc(100% - 20px); display: inline-flex; align-items: center; gap: 8px; padding: 6px 9px; border: 1px solid #17363c12; border-radius: 9px; background: #fffffff5; color: #50676b; box-shadow: 0 2px 7px #17363c16; font-size: 11px; line-height: 1.35; text-decoration: none; }
 .ps-claim-badge:hover { background: white; color: var(--green); }
 .ps-claim-badge__logo { display: block; flex: none; width: 20px; height: 20px; border-radius: 50%; object-fit: contain; }
-.ps-home--tiny .ps-claim-badge { top: 8px; right: 8px; max-width: calc(100% - 16px); gap: 5px; padding: 5px 6px; font-size: 9px; }
+.ps-home--tiny .ps-claim-badge { top: 8px; right: 8px; width: 28px; height: 28px; max-width: calc(100% - 16px); justify-content: center; gap: 0; padding: 5px; border-radius: 8px; }
+.ps-home--tiny .ps-claim-badge > span { display: none; }
 .ps-home--tiny .ps-claim-badge__logo { width: 16px; height: 16px; }
-.ps-home--featured.ps-home--tiny .ps-claim-badge { top: 38px; }
+.ps-home--featured.ps-home--tiny .ps-claim-badge { top: 8px; }
 .ps-home--tiny { border-radius: 12px; }
 .ps-home--tiny .ps-home__body { padding: 11px 12px 12px; }
 .ps-home--tiny h2 { font-size: 15px; }
@@ -372,14 +373,17 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .ps-landing__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
 }
 
-.ps-home--featured.ps-home--tiny .ps-made-badge { top: auto; bottom: 8px; }
-.ps-home--detail .ps-made-badge { top: auto; bottom: 10px; left: 10px; right: auto; }
+.ps-home--featured.ps-home--tiny .ps-made-badge { top: 8px; bottom: auto; }
+.ps-home--detail .ps-made-badge { top: 10px; bottom: auto; left: auto; right: 10px; }
+.ps-selected:has(.ps-made-badge) .ps-selected__toolbar { justify-content: flex-start; }
+.ps-home--detail .ps-card__featured { top: auto; bottom: 10px; }
 
 .ps-card__select-body { display: flex; flex: 1; flex-direction: column; min-width: 0; width: 100%; border: 0; padding: 0; background: white; color: inherit; font: inherit; text-align: left; text-decoration: none; cursor: pointer; }
 .ps-card .ps-claim-badge__logo { width: 20px; height: 20px; aspect-ratio: auto; }
 @media (max-width: 760px) {
   .app:not(.app--cards) .leaflet-top.leaflet-left { top: 112px; }
-  .app--tiny .ps-card .ps-made-badge { top: 38px; right: 8px; padding: 4px 6px; font-size: 9px; gap: 5px; }
+  .app--tiny .ps-card .ps-made-badge { top: 8px; right: 8px; width: 28px; height: 28px; justify-content: center; padding: 5px; gap: 0; border-radius: 8px; }
+  .app--tiny .ps-card .ps-made-badge > span { display: none; }
   .app--tiny .ps-card .ps-made-badge img { width: 16px; height: 16px; }
 }
 

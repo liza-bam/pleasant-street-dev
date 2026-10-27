@@ -37,7 +37,8 @@ values. Feature icons also stay visible in both map card sizes. Unknown facts re
 top-right says “Claim your house” beside the existing LAZY L logo and opens a prefilled email draft
 to `sandy@lazy.vacations`. Open website is the larger primary action, with an independent-host
 notice underneath for non-LAZY listings. Featured houses show Made with LAZY instead of a claim
-badge, linking to the existing free website request at https://lazy.vacations/start/.
+badge, linking to the existing free website request at https://lazy.vacations/start/. On Tiny
+cards, claim and Made with LAZY badges show only the LAZY logo; accessible labels and links remain.
 
 Featured, Fit and Potential fit are independent accordions, with live counts. Featured and Fit
 start open; Potential fit starts closed. Collapse choices survive filtering and view changes.
