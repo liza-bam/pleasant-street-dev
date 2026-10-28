@@ -368,7 +368,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app--sheet-dragging .ps-sheet-handle { cursor: grabbing; }
   .app--sheet-collapsed:not(.app--cards) .app-list { visibility: hidden; }
 
-  .app.app--detail-open:not(.app--cards) .app-results { left: 12px; right: 12px; bottom: max(12px, env(safe-area-inset-bottom)); height: var(--sheet-height, 28%); min-height: 0; max-height: calc(100% - 24px); border-radius: 20px; background: white; animation: ps-card-arrive .22s ease-out; }
+  .app.app--detail-open:not(.app--cards) .app-results { left: 0; right: 0; bottom: 0; height: var(--sheet-height, 28%); min-height: 0; max-height: calc(100% - 24px); border-radius: 20px 20px 0 0; background: white; animation: ps-card-arrive .22s ease-out; }
   .app.app--detail-open:not(.app--cards) .ps-sheet-handle { display: flex; padding: 16px 0 10px; border-bottom: 0; }
   .app--detail-open .ps-sheet-count { display: none; }
   .app--detail-peek .ps-selected__content { overflow-y: hidden; touch-action: none; }
