@@ -37,6 +37,35 @@ counts = {}
 for h in homes:
     if h.get('destination') and h['destination'] != 'Unknown': counts[h['destination']] = counts.get(h['destination'], 0) + 1
 today = datetime.date.today().isoformat()
+known = lambda v: v not in (None, '', 'Unknown')
+
+
+def esc(s): return str(s).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;')
+
+
+def structured_data(name, page_url, page_desc, mine):
+    items = []
+    for i, h in enumerate(mine[:200], 1):
+        item = {'@type': 'VacationRental', 'name': h['name'], 'url': h['url'], 'description': h.get('cardDescription') or '',
+                'address': {'@type': 'PostalAddress', 'addressLocality': h.get('town') or h['place'].split(',')[0], 'addressRegion': h.get('state') or '', 'addressCountry': 'US'}}
+        if known(h.get('guests')): item['occupancy'] = {'@type': 'QuantitativeValue', 'maxValue': h['guests']}
+        if known(h.get('bedrooms')): item['numberOfBedrooms'] = h['bedrooms']
+        if known(h.get('bathrooms')): item['numberOfBathroomsTotal'] = h['bathrooms']
+        if h.get('pets') in ('Yes', 'No'): item['petsAllowed'] = h['pets'] == 'Yes'
+        if isinstance(h.get('lat'), (int, float)): item['geo'] = {'@type': 'GeoCoordinates', 'latitude': h['lat'], 'longitude': h['lng']}
+        items.append({'@type': 'ListItem', 'position': i, 'item': item})
+    data = {'@context': 'https://schema.org', '@graph': [
+        {'@type': 'WebSite', 'name': 'Pleasant Street', 'url': BASE + '/', 'publisher': {'@type': 'Organization', 'name': 'LAZY', 'url': 'https://lazy.vacations/'}},
+        {'@type': 'CollectionPage', 'name': f'{name} — Pleasant Street', 'url': page_url, 'description': page_desc, 'dateModified': today,
+         'mainEntity': {'@type': 'ItemList', 'name': f'Independent vacation rentals in {name}', 'numberOfItems': len(mine), 'itemListElement': items}}]}
+    return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False, separators=(',', ':')) + '</script>'
+
+
+def static_list(name, mine):
+    rows = ''.join(f'<li><a href="{esc(h["url"])}">{esc(h["name"])}</a> — {esc(h["place"])}' + (f': {esc(h["cardDescription"])}' if known(h.get('cardDescription')) else '') + '</li>' for h in mine[:200])
+    more = f'<p>{len(mine) - 200:,} more on the map, and all of them in <a href="index.md">the full listing</a>.</p>' if len(mine) > 200 else ''
+    return f'<noscript><section aria-label="Homes in {esc(name)}"><h2>{len(mine):,} homes in {esc(name)}</h2><p>Each one is booked on its owner’s own website.</p><ul>{rows}</ul>{more}</section></noscript>'
+
 urls = [f'{BASE}/']
 for name, n in sorted(counts.items()):
     html = page.replace('<html lang="en"', f'<html lang="en" data-destination="{name}"', 1)
@@ -55,6 +84,12 @@ for name, n in sorted(counts.items()):
     html = html.replace('content="https://liza-bam.github.io/pleasant-street-dev/"', f'content="{page_url}"', 1)
     html = html.replace('content="Find your place. Book directly. Vacation rentals by independent hosts."', f'content="{page_desc}"', 1)
     html = html.replace('data-src="data/pins.json"', f'data-src="data/destinations/{slug(name)}.json"', 1)
+    # For readers that run no JavaScript (several AI crawlers): the destination's homes as plain links, and
+    # structured data (ItemList of VacationRental) so the page says what it holds without rendering.
+    mine = [h for h in homes if h.get('destination') == name]
+    html = re.sub(r'<script type="application/ld\+json" id="ld-site">.*?</script>\n?', '', html, count=1, flags=re.S)
+    html = html.replace('</head>', structured_data(name, page_url, page_desc, mine) + '\n</head>', 1)
+    html = html.replace('<section class="app-results" aria-label="Homes">', static_list(name, mine) + '\n<section class="app-results" aria-label="Homes">', 1)
     (SITE / 'data' / 'destinations' / f'{slug(name)}.json').write_text(compact([light(h) for h in homes if h.get('destination') == name]))
     (SITE / slug(name)).mkdir(exist_ok=True)
     (SITE / slug(name) / 'index.html').write_text(html)
