@@ -695,8 +695,10 @@
     needs = [].map.call(welcome.querySelectorAll('button[aria-pressed="true"]'), function (x) { return x.dataset.need; });
     show();
   });
-  /* The homes: index.json, written from the database by tools/build-index.mjs. */
-  fetch(map.getContainer().dataset.src || 'index.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (list) {
+  /* The homes: index.json, written from the database by tools/build-index.mjs. GitHub Pages sends a
+     10-minute max-age and an ETag; the default fetch cache mode uses that instead of revalidating on
+     every navigation (a reload, or returning after 10 minutes, still gets the current file). */
+  fetch(map.getContainer().dataset.src || 'index.json').then(function (r) { return r.json(); }).then(function (list) {
     homes = list.filter(function (h) { return !pageDestination || h.destination === pageDestination; }).sort(function (a, b) {
       return Number(b.featured === true) - Number(a.featured === true) || featureCompleteness(b) - featureCompleteness(a) || a.name.localeCompare(b.name);
     }).map(function (h) {
