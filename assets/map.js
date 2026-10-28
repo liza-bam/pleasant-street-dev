@@ -706,6 +706,36 @@
     var mainland = list.filter(function (h) { return h.lng > -130; });
     return mainland.length ? mainland : list;
   }
+  /* WebMCP: the site's two actions offered to an AI agent in the browser, when the browser has the API. */
+  function registerWebMcp() {
+    var mc = (navigator.modelContext || document.modelContext); if (!mc || !mc.registerTool) return;
+    function pack(h) { return { name: h.name, place: h.place, destination: h.destination, type: h.type, sleeps: h.guests, bedrooms: h.bedrooms, bathrooms: h.bathrooms, pets: h.pets, kids: h.kids, website: h.url, page: location.origin + location.pathname }; }
+    mc.registerTool({
+      name: 'search_homes',
+      description: 'Find independent vacation rentals on Pleasant Street by place or destination, group size, type and pets or kids policy. Each result carries the owner’s own website, where booking happens.',
+      inputSchema: { type: 'object', properties: { place: { type: 'string', description: 'Town, state or destination, e.g. "Cape Cod" or "Portland, ME"' }, sleeps: { type: 'integer', description: 'Minimum guests' }, type: { type: 'string', enum: ['House', 'Cabin', 'Camp', 'Apartment'] }, pets: { type: 'boolean' }, kids: { type: 'boolean' }, limit: { type: 'integer', default: 20 } } },
+      execute: function (input) {
+        var t = (input.place || '').toLowerCase().trim();
+        var out = homes.filter(function (h) {
+          if (t && !matchesHome(h, t)) return false;
+          if (input.sleeps && !(known(h.guests) && +h.guests >= input.sleeps)) return false;
+          if (input.type && h.type !== input.type) return false;
+          if (input.pets && h.pets !== 'Yes') return false;
+          if (input.kids && h.kids !== 'Yes') return false;
+          return true;
+        });
+        return { count: out.length, homes: out.slice(0, input.limit || 20).map(pack) };
+      }
+    });
+    mc.registerTool({
+      name: 'list_destinations',
+      description: 'The tourist destinations Pleasant Street covers, with the number of homes in each and the page URL.',
+      inputSchema: { type: 'object', properties: {} },
+      execute: function () {
+        return { destinations: Object.keys(destCounts).sort(function (a, b) { return destCounts[b] - destCounts[a]; }).map(function (d) { return { name: d, homes: destCounts[d], page: location.origin + '/pleasant-street-dev/' + d.toLowerCase().replace(/'s\b/g, '').replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '') + '/' }; }) };
+      }
+    });
+  }
   function fitHomes(list, pad, maxZoom) {
     if (!list.length) return;
     map.invalidateSize();
@@ -950,6 +980,7 @@
     });
     Object.keys(destSums).forEach(function (d) { var s = destSums[d]; destCenters[d] = { lat: s.lat / s.n, lng: s.lng / s.n }; });
     buildPlaceIndex();
+    registerWebMcp();
     homes.forEach(function (h) { var town = h.town || h.place.split(',')[0]; if (h.marker && known(town) && town.length <= 40 && town.indexOf('/') < 0 && town.toLowerCase() !== 'other') mapAreaPoints.push({ name: town, lat: h.lat, lng: h.lng }); });
     var featuredHomes = homes.filter(function (h) { return h.featured; });
     var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && (h.loaded ? photoSet(h).length : h.hasPhoto); });

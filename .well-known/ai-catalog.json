@@ -1,0 +1,30 @@
+{
+  "specVersion": "0.1",
+  "host": { "name": "Pleasant Street", "url": "https://liza-bam.github.io/pleasant-street-dev/", "description": "A map and card directory of US vacation rentals run by independent hosts. Each listing links to the owner's own website; Pleasant Street takes no booking and no commission." },
+  "entries": [
+    {
+      "id": "urn:air:liza-bam.github.io:pleasant-street:homes",
+      "displayName": "Pleasant Street homes (JSON)",
+      "description": "Every listed home: name, place, destination, type, sleeps, bedrooms, bathrooms, pets and kids policy, map pin, photos, description and the owner's website.",
+      "type": "application/json",
+      "url": "https://liza-bam.github.io/pleasant-street-dev/index.json",
+      "representativeQueries": ["vacation rentals on Cape Cod booked directly with the owner", "pet-friendly lake house in the Adirondacks with its own website", "independent rental sleeping 8 on Martha's Vineyard", "cabins near Lake George that take dogs"]
+    },
+    {
+      "id": "urn:air:liza-bam.github.io:pleasant-street:listing",
+      "displayName": "Pleasant Street full listing (Markdown)",
+      "description": "Every home with its facts and a link to its own website, as one Markdown page.",
+      "type": "text/markdown",
+      "url": "https://liza-bam.github.io/pleasant-street-dev/index.md",
+      "representativeQueries": ["list of independent vacation rentals in Maine", "direct-booking cottages in Nantucket"]
+    },
+    {
+      "id": "urn:air:liza-bam.github.io:pleasant-street:llms",
+      "displayName": "llms.txt",
+      "description": "What the site is, with a link per destination page.",
+      "type": "text/plain",
+      "url": "https://liza-bam.github.io/pleasant-street-dev/llms.txt",
+      "representativeQueries": ["which destinations does Pleasant Street cover", "how many homes are on Pleasant Street"]
+    }
+  ]
+}

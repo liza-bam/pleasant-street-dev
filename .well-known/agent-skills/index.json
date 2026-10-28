@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agentskills.io/schema/index.json",
+  "skills": [
+    {
+      "name": "search-homes",
+      "type": "skill",
+      "description": "Find independent vacation rentals on Pleasant Street by place, group size, type and policy; hand the guest the owner's own website.",
+      "url": "https://liza-bam.github.io/pleasant-street-dev/.well-known/agent-skills/search-homes/SKILL.md",
+      "sha256": "76ef6fc4cc47ae366a000ff233177c57428e88f2bc8debb3b5cc06c4deac38b3"
+    }
+  ]
+}

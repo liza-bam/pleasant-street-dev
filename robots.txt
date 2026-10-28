@@ -1,4 +1,23 @@
+# Pleasant Street — a public directory of independent vacation rentals. Crawl everything.
 User-agent: *
 Allow: /
+
+# AI search crawlers (they fetch the pages assistants cite): allowed.
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+# AI training crawlers: allowed.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 Sitemap: https://liza-bam.github.io/pleasant-street-dev/sitemap.xml
