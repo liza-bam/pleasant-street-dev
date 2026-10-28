@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://liza-bam.github.io/pleasant-street-dev/sitemap.xml
