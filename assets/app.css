@@ -231,11 +231,12 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 @media (max-width: 760px) {
   html, body { height: auto; overflow: visible; }
   .app-header { position: sticky; top: 0; z-index: 600; box-shadow: none; }
-  .app-brand-bar { gap: 10px; }
-  .app-floating-controls { position: absolute; top: calc(100% + 10px); left: 50%; transform: translateX(-50%); width: calc(100% - 24px); max-width: 420px; display: grid; gap: 8px; pointer-events: none; }
+  /* No header on phone: the floating search/filter pill sits where it was instead, and claims its space. */
+  .app-brand-bar { display: none; }
+  .app-floating-controls { position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: calc(100% - 24px); max-width: 420px; display: grid; gap: 8px; pointer-events: none; }
   .app-floating-controls > * { pointer-events: auto; }
-  .app--cards .app-body { padding-top: 106px; }
-  .app.app--sheet-expanded:not(.app--cards) .app-floating-controls { top: calc(100% + 76px); }
+  .app--cards .app-body { padding-top: 64px; }
+  .app.app--sheet-expanded:not(.app--cards) .app-floating-controls { top: 66px; }
   .app.app--sheet-expanded:not(.app--cards) .app-list { padding-top: 54px; }
   .app { height: auto; min-height: 100dvh; grid-template-rows: auto auto; align-content: start; }
   .app-bar { display: block; padding: 0; background: transparent; box-shadow: none; }
@@ -317,7 +318,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app.app--tiny:not(.app--cards) .ps-card__place { font-size: 11px; padding: 2px 9px 10px; }
   .app.app--sheet-expanded:not(.app--cards) .app-results { height: 100%; max-height: 100%; border-radius: 0; }
   .app:not(.app--cards) .ps-card__place { padding-bottom: 14px; font-size: 13px; }
-  .app:not(.app--cards) .ps-sheet-handle { display: flex; flex: none; flex-direction: column; align-items: center; justify-content: flex-start; gap: 10px; height: 76px; min-height: 48px; padding-top: 14px; cursor: grab; touch-action: none; user-select: none; }
+  .app:not(.app--cards) .ps-sheet-handle { display: flex; flex: none; flex-direction: column; align-items: center; justify-content: flex-start; gap: 4px; height: 40px; min-height: 40px; padding-top: 8px; cursor: grab; touch-action: none; user-select: none; }
   .ps-sheet-grip { width: 56px; height: 6px; flex: none; border-radius: 999px; background: #17363c70; pointer-events: none; }
   .ps-sheet-handle:hover .ps-sheet-grip, .ps-sheet-handle:focus-visible .ps-sheet-grip, .app--sheet-dragging .ps-sheet-grip { background: var(--green); }
   .ps-sheet-count { font-size: 15px; font-weight: 700; }
