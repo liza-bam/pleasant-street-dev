@@ -20,7 +20,7 @@
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
   "kids": "Yes",
-  "pets": "Unknown",
+  "pets": "Yes",
   "photo": "images/NH-0036-card.webp",
   "lat": 43.3653,
   "lng": -72.1974,
@@ -187,7 +187,7 @@
    "images/NH-0042-001.webp"
   ],
   "platformLinks": {},
-  "guests": "Unknown",
+  "guests": 6,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
   "kids": "Yes",
