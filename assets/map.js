@@ -235,7 +235,8 @@
   function photoSet(h) {
     if (h.cardPhotos && h.cardPhotos.length) return h.cardPhotos.slice(0, 3);
     var files = [h.coverPhoto].concat((h.photos || []).map(function (p) { return typeof p === 'string' ? p : p.file; }));
-    return files.filter(function (f, i) { return known(f) && files.indexOf(f) === i; }).slice(0, 3);
+    var set = files.filter(function (f, i) { return known(f) && files.indexOf(f) === i; }).slice(0, 3);
+    return set.length || !known(h.photo) ? set : [h.photo];   // no gallery: the opened card shows the row's photo
   }
   function platformBadges(h) {
     var names = { airbnb: 'Airbnb', vrbo: 'Vrbo', booking: 'Booking.com' };
