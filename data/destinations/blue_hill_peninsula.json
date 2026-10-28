@@ -30,13 +30,20 @@
   "lng": -68.4413,
   "featured": false,
   "demo": false,
+  "description": "Arbor Camp is a collection of thoughtfully designed cabins and treehouses set on 30 private acres in the Maine woods, just north of Acadia National Park, with access to the cultural and culinary offerings of Downeast Maine. Each dwelling offers a quiet retreat with wide windows framing beautiful views of sky, pines, and the Union River.",
   "photoAlts": {
    "images/ME-0035-cover.webp": "Arbor Camp, camp in Ellsworth, ME",
    "images/ME-0035-000.webp": "Arbor Camp, Ellsworth, ME, photo 2 of 4",
    "images/ME-0035-001.webp": "Arbor Camp, Ellsworth, ME, photo 3 of 4",
    "images/ME-0035-002.webp": "Arbor Camp, Ellsworth, ME, photo 4 of 4",
    "images/ME-0035-card.webp": "Arbor Camp, camp in Ellsworth, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0035-cover.webp",
+   "images/ME-0035-000.webp",
+   "images/ME-0035-001.webp",
+   "images/ME-0035-002.webp"
+  ]
  },
  {
   "id": "ME-0238",
@@ -66,13 +73,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Crow's Nest Cottage - Amazing View of Eggemoggin Reach",
   "photoAlts": {
    "images/ME-0238-cover.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME",
    "images/ME-0238-000.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME, photo 2 of 4",
    "images/ME-0238-001.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME, photo 3 of 4",
    "images/ME-0238-002.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME, photo 4 of 4",
    "images/ME-0238-card.webp": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0238-cover.jpg",
+   "images/ME-0238-000.jpg",
+   "images/ME-0238-001.jpg",
+   "images/ME-0238-002.jpg"
+  ]
  },
  {
   "id": "ME-0234",
@@ -102,12 +116,18 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Blue Hill Peninsula Realty + Rentals agents Annie Grindal and Debbie Hutchins offer local real estate & vacation rentals in Downeast Maine. Blue Hill, Brooklin, Surry, Penobscot, Brooksville, Sedgwick, Deer Isle, Stonington and other communities.",
   "photoAlts": {
    "images/ME-0234-cover.jpg": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME",
    "images/ME-0234-000.webp": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME, photo 2 of 3",
    "images/ME-0234-001.webp": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME, photo 3 of 3",
    "images/ME-0234-card.webp": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0234-cover.jpg",
+   "images/ME-0234-000.webp",
+   "images/ME-0234-001.webp"
+  ]
  },
  {
   "id": "ME-0106",
@@ -136,13 +156,20 @@
   "lng": -68.66425,
   "featured": false,
   "demo": false,
+  "description": "Boyce's Motel - Motel, room and apartment rentals in Stonington Maine",
   "photoAlts": {
    "images/ME-0106-cover.jpg": "Boyce's Motel & Apartments, apartment in Stonington, ME",
    "images/ME-0106-000.jpg": "Boyce's Motel & Apartments, Stonington, ME, photo 2 of 4",
    "images/ME-0106-001.jpg": "Boyce's Motel & Apartments, Stonington, ME, photo 3 of 4",
    "images/ME-0106-002.jpg": "Boyce's Motel & Apartments, Stonington, ME, photo 4 of 4",
    "images/ME-0106-card.webp": "Boyce's Motel & Apartments, apartment in Stonington, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0106-cover.jpg",
+   "images/ME-0106-000.jpg",
+   "images/ME-0106-001.jpg",
+   "images/ME-0106-002.jpg"
+  ]
  },
  {
   "id": "ME-0138",
@@ -172,13 +199,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Rustic seaside rental cottages with modern comforts in Brooksville Maine near the Oakland House",
   "photoAlts": {
    "images/ME-0138-cover.jpg": "Dreaming of Maine, Brooksville, ME",
    "images/ME-0138-000.jpg": "Dreaming of Maine, Brooksville, ME, photo 2 of 4",
    "images/ME-0138-001.jpg": "Dreaming of Maine, Brooksville, ME, photo 3 of 4",
    "images/ME-0138-002.jpg": "Dreaming of Maine, Brooksville, ME, photo 4 of 4",
    "images/ME-0138-card.webp": "Dreaming of Maine, Brooksville, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0138-cover.jpg",
+   "images/ME-0138-000.jpg",
+   "images/ME-0138-001.jpg",
+   "images/ME-0138-002.jpg"
+  ]
  },
  {
   "id": "ME-0108",
@@ -207,13 +241,20 @@
   "lng": -68.1967,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/ME-0108-cover.jpg": "Flanders Bay Cabins, cabin in Sullivan, ME",
    "images/ME-0108-000.png": "Flanders Bay Cabins, Sullivan, ME, photo 2 of 4",
    "images/ME-0108-001.png": "Flanders Bay Cabins, Sullivan, ME, photo 3 of 4",
    "images/ME-0108-002.png": "Flanders Bay Cabins, Sullivan, ME, photo 4 of 4",
    "images/ME-0108-card.webp": "Flanders Bay Cabins, cabin in Sullivan, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0108-cover.jpg",
+   "images/ME-0108-000.png",
+   "images/ME-0108-001.png",
+   "images/ME-0108-002.png"
+  ]
  },
  {
   "id": "ME-0109",
@@ -242,13 +283,20 @@
   "lng": -68.1967,
   "featured": false,
   "demo": false,
+  "description": "Flanders Bay is a coastal Maine getaway located on the shores of Flanders Bay in Sullivan, ME. Situated on 12 unspoiled acres overlooking pristine waters and Cadillac Mountain located just a short drive from Acadia National Park and Bar Harbor. Accommodations include six quaint cabins, a knotty pine chalet and shore-front house. Enjoy kayaking, fishing, hiking and exploring during your stay.",
   "photoAlts": {
    "images/ME-0109-cover.webp": "Flanders Bay Cabins (custom domain), cabin in Sullivan, ME",
    "images/ME-0109-000.webp": "Flanders Bay Cabins (custom domain), Sullivan, ME, photo 2 of 4",
    "images/ME-0109-001.webp": "Flanders Bay Cabins (custom domain), Sullivan, ME, photo 3 of 4",
    "images/ME-0109-002.webp": "Flanders Bay Cabins (custom domain), Sullivan, ME, photo 4 of 4",
    "images/ME-0109-card.webp": "Flanders Bay Cabins (custom domain), cabin in Sullivan, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0109-cover.webp",
+   "images/ME-0109-000.webp",
+   "images/ME-0109-001.webp",
+   "images/ME-0109-002.webp"
+  ]
  },
  {
   "id": "ME-0243",
@@ -277,13 +325,20 @@
   "lng": -68.7942,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/ME-0243-cover.jpg": "Getogether Stays, Bucksport / Orland, ME",
    "images/ME-0243-000.jpg": "Getogether Stays, Bucksport / Orland, ME, photo 2 of 4",
    "images/ME-0243-001.jpg": "Getogether Stays, Bucksport / Orland, ME, photo 3 of 4",
    "images/ME-0243-002.jpg": "Getogether Stays, Bucksport / Orland, ME, photo 4 of 4",
    "images/ME-0243-card.webp": "Getogether Stays, Bucksport / Orland, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0243-cover.jpg",
+   "images/ME-0243-000.jpg",
+   "images/ME-0243-001.jpg",
+   "images/ME-0243-002.jpg"
+  ]
  },
  {
   "id": "ME-0214",
@@ -312,13 +367,20 @@
   "lng": -68.6673,
   "featured": false,
   "demo": false,
+  "description": "Cove Meadow Cottage Stonington United States, Maine",
   "photoAlts": {
    "images/ME-0214-cover.png": "Heron Cottage / Cove Meadow, house in Stonington, ME",
    "images/ME-0214-000.png": "Heron Cottage / Cove Meadow, Stonington, ME, photo 2 of 4",
    "images/ME-0214-001.jpg": "Heron Cottage / Cove Meadow, Stonington, ME, photo 3 of 4",
    "images/ME-0214-002.jpg": "Heron Cottage / Cove Meadow, Stonington, ME, photo 4 of 4",
    "images/ME-0214-card.webp": "Heron Cottage / Cove Meadow, house in Stonington, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0214-cover.png",
+   "images/ME-0214-000.png",
+   "images/ME-0214-001.jpg",
+   "images/ME-0214-002.jpg"
+  ]
  },
  {
   "id": "ME-0051",
@@ -347,13 +409,20 @@
   "lng": -68.79315,
   "featured": false,
   "demo": false,
+  "description": "Discover a scenic retreat with charming cottages and seaside activities at Hiram Blake Camp in Harborside, Maine. Experience nature and relaxation on Penobscot Bay.",
   "photoAlts": {
    "images/ME-0051-cover.webp": "Hiram Blake Camp, camp in Harborside, ME",
    "images/ME-0051-000.webp": "Hiram Blake Camp, Harborside, ME, photo 2 of 4",
    "images/ME-0051-001.webp": "Hiram Blake Camp, Harborside, ME, photo 3 of 4",
    "images/ME-0051-002.webp": "Hiram Blake Camp, Harborside, ME, photo 4 of 4",
    "images/ME-0051-card.webp": "Hiram Blake Camp, camp in Harborside, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0051-cover.webp",
+   "images/ME-0051-000.webp",
+   "images/ME-0051-001.webp",
+   "images/ME-0051-002.webp"
+  ]
  },
  {
   "id": "ME-0149",
@@ -382,13 +451,20 @@
   "lng": -68.55248,
   "featured": false,
   "demo": false,
+  "description": "NEW 1BR COTTAGE AT JENKINS BEACH ON GREEN LAKE Looking for a perfect Maine summertime couple’s getaway on Green Lake? Don’t want to stay in some stuffy hotel room too far away from everything? WE NOW HAVE JUST A 3-NIGHT MINIMUM STAY for the Acadia Cottage at Jenkins Beach on Green Lake! New construction 1 BR/1BA, 532 sq ft cottage. Fully equipped kitchen. The living room has a twin trundle day bed that can be combined into a separate king bed (or used as two twins). The private bedroom has a king bed and a SmartTV. Enjoy the breeze coming",
   "photoAlts": {
    "images/ME-0149-cover.jpg": "Jenkins Beach, Dedham, ME",
    "images/ME-0149-000.jpg": "Jenkins Beach, Dedham, ME, photo 2 of 4",
    "images/ME-0149-001.jpg": "Jenkins Beach, Dedham, ME, photo 3 of 4",
    "images/ME-0149-002.jpg": "Jenkins Beach, Dedham, ME, photo 4 of 4",
    "images/ME-0149-card.webp": "Jenkins Beach, Dedham, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0149-cover.jpg",
+   "images/ME-0149-000.jpg",
+   "images/ME-0149-001.jpg",
+   "images/ME-0149-002.jpg"
+  ]
  },
  {
   "id": "ME-0014",
@@ -417,13 +493,20 @@
   "lng": -68.52189,
   "featured": false,
   "demo": false,
+  "description": "Stay at a Historic Oceanfront Inn on the Maine Coast Welcome to The Lookout Inn, a historic oceanside bed and breakfast in Brooklin, Maine, perched on scenic Flye Point overlooking Blue Hill Bay. Life moves a little slower here—where the sounds of the water, passing boats, and seabirds set the pace for a truly relaxing…",
   "photoAlts": {
    "images/ME-0014-cover.jpg": "Lookout Inn & Cottages, house in Brooklin, ME",
    "images/ME-0014-000.jpg": "Lookout Inn & Cottages, Brooklin, ME, photo 2 of 4",
    "images/ME-0014-001.webp": "Lookout Inn & Cottages, Brooklin, ME, photo 3 of 4",
    "images/ME-0014-002.webp": "Lookout Inn & Cottages, Brooklin, ME, photo 4 of 4",
    "images/ME-0014-card.webp": "Lookout Inn & Cottages, house in Brooklin, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0014-cover.jpg",
+   "images/ME-0014-000.jpg",
+   "images/ME-0014-001.webp",
+   "images/ME-0014-002.webp"
+  ]
  },
  {
   "id": "ME-0016",
@@ -452,13 +535,20 @@
   "lng": -68.6838,
   "featured": false,
   "demo": false,
+  "description": "The Oakland House is a resort colony of vintage cottages, a communal guest house and 137-year old inn on 60 acres on Eggemoggin Reach, overlooking picturesque Pumpkin Island to the right and the iconic Deer Isle Bridge to the left. We offer a restorative haven for guests in search of breathtaking sunrises and sunsets, hikes to gorgeous overlooks, cozy nights by the fireplace and silence disturbed only by the call of loons in the nighttime. We’re also ideal for restless nature-lovers who come to paddle, hike, bike, fish, sail and explore Acadia National Park.",
   "photoAlts": {
    "images/ME-0016-cover.webp": "Oakland House Seaside Inn & Cottages, house in Brooksville, ME",
    "images/ME-0016-000.webp": "Oakland House Seaside Inn & Cottages, Brooksville, ME, photo 2 of 4",
    "images/ME-0016-001.webp": "Oakland House Seaside Inn & Cottages, Brooksville, ME, photo 3 of 4",
    "images/ME-0016-002.webp": "Oakland House Seaside Inn & Cottages, Brooksville, ME, photo 4 of 4",
    "images/ME-0016-card.webp": "Oakland House Seaside Inn & Cottages, house in Brooksville, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0016-cover.webp",
+   "images/ME-0016-000.webp",
+   "images/ME-0016-001.webp",
+   "images/ME-0016-002.webp"
+  ]
  },
  {
   "id": "ME-0236",
@@ -488,13 +578,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Curated vacation rentals near Bar Harbor and Acadia National Park. Salt Air Properties manages beautiful Downeast Maine homes with a personal, local touch.",
   "photoAlts": {
    "images/ME-0236-cover.jpg": "Salt Air Properties, Blue Hill, ME",
    "images/ME-0236-000.webp": "Salt Air Properties, Blue Hill, ME, photo 2 of 4",
    "images/ME-0236-001.jpg": "Salt Air Properties, Blue Hill, ME, photo 3 of 4",
    "images/ME-0236-002.webp": "Salt Air Properties, Blue Hill, ME, photo 4 of 4",
    "images/ME-0236-card.webp": "Salt Air Properties, Blue Hill, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0236-cover.jpg",
+   "images/ME-0236-000.webp",
+   "images/ME-0236-001.jpg",
+   "images/ME-0236-002.webp"
+  ]
  },
  {
   "id": "ME-0246",
@@ -524,13 +621,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Waterfront homes, estates, cottages, and water view parcels to suit every taste can be found nestled on the scenic coastline of the Blue Hill Peninsula. Here picturesque villages, such as Castine, Blue Hill, Penobscot, Stonington, and Deer Isle dot the shores of the Penobscot Bay.",
   "photoAlts": {
    "images/ME-0246-cover.webp": "Saltmeadow Properties, Castine, ME",
    "images/ME-0246-000.webp": "Saltmeadow Properties, Castine, ME, photo 2 of 4",
    "images/ME-0246-001.webp": "Saltmeadow Properties, Castine, ME, photo 3 of 4",
    "images/ME-0246-002.webp": "Saltmeadow Properties, Castine, ME, photo 4 of 4",
    "images/ME-0246-card.webp": "Saltmeadow Properties, Castine, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0246-cover.webp",
+   "images/ME-0246-000.webp",
+   "images/ME-0246-001.webp",
+   "images/ME-0246-002.webp"
+  ]
  },
  {
   "id": "ME-0137",
@@ -559,13 +663,20 @@
   "lng": -68.5691,
   "featured": false,
   "demo": false,
+  "description": "\"Sea Meadow\" Cottage. Wonderful Maine oceanfront vacation rental. Spectacular views of the Blue Hill Bay Lighthouse and Mount Desert Island. Located in Brooklin.",
   "photoAlts": {
    "images/ME-0137-cover.jpg": "Sea Meadow Cottage, house in Brooklin, ME",
    "images/ME-0137-000.jpg": "Sea Meadow Cottage, Brooklin, ME, photo 2 of 4",
    "images/ME-0137-001.jpg": "Sea Meadow Cottage, Brooklin, ME, photo 3 of 4",
    "images/ME-0137-002.jpg": "Sea Meadow Cottage, Brooklin, ME, photo 4 of 4",
    "images/ME-0137-card.webp": "Sea Meadow Cottage, house in Brooklin, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0137-cover.jpg",
+   "images/ME-0137-000.jpg",
+   "images/ME-0137-001.jpg",
+   "images/ME-0137-002.jpg"
+  ]
  },
  {
   "id": "ME-0150",
@@ -594,10 +705,14 @@
   "lng": -68.69432,
   "featured": false,
   "demo": false,
+  "description": "Maine Rentals by Sharon Thoner, vacation in a house or apartment on or near the ocean. Enjoy authentic Maine with great views, boating, fishing, hiking, antiquing, arts, and crafts. Temporary office space is also available.",
   "photoAlts": {
    "images/ME-0150-cover.avif": "Sharon Thoner Maine Rentals, Deer Isle / Brooksville, ME",
    "images/ME-0150-card.webp": "Sharon Thoner Maine Rentals, Deer Isle / Brooksville, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0150-cover.avif"
+  ]
  },
  {
   "id": "ME-0215",
@@ -626,12 +741,18 @@
   "lng": -68.5017,
   "featured": false,
   "demo": false,
+  "description": "Step into your private coastal sanctuary with direct beach access. The ocean-facing deck provides the perfect setting for outdoor dining and relaxation, complete with a gas grill. We provide everything you need for optimum beach days, including chairs, towels, and umbrellas.",
   "photoAlts": {
    "images/ME-0215-cover.webp": "Surry Maine Studio by the Sea, Surry, ME",
    "images/ME-0215-000.webp": "Surry Maine Studio by the Sea, Surry, ME, photo 2 of 3",
    "images/ME-0215-001.webp": "Surry Maine Studio by the Sea, Surry, ME, photo 3 of 3",
    "images/ME-0215-card.webp": "Surry Maine Studio by the Sea, Surry, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0215-cover.webp",
+   "images/ME-0215-000.webp",
+   "images/ME-0215-001.webp"
+  ]
  },
  {
   "id": "ME-0139",
@@ -665,12 +786,18 @@
   "lng": -68.76505,
   "featured": false,
   "demo": false,
+  "description": "Rave reviews, Coastal. Historic Sea Captain Farm on the Blue Hill Peninsula, near Acadia and across from Castine. Private, rustic and charming accommodations.",
   "photoAlts": {
    "images/ME-0139-cover.webp": "Tapley Farm, Brooksville, ME",
    "images/ME-0139-000.webp": "Tapley Farm, Brooksville, ME, photo 2 of 3",
    "images/ME-0139-001.webp": "Tapley Farm, Brooksville, ME, photo 3 of 3",
    "images/ME-0139-card.webp": "Tapley Farm, Brooksville, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0139-cover.webp",
+   "images/ME-0139-000.webp",
+   "images/ME-0139-001.webp"
+  ]
  },
  {
   "id": "ME-0015",
@@ -699,11 +826,16 @@
   "lng": -68.60604,
   "featured": false,
   "demo": false,
+  "description": "Looking for lodging near Acadia National Park? Come stay in one of the best inns in Brooklin, Maine. It makes for a relaxing summer getaway. Book a room now!",
   "photoAlts": {
    "images/ME-0015-cover.webp": "The Eggemoggin Reach Inn, Brooklin, ME",
    "images/ME-0015-000.webp": "The Eggemoggin Reach Inn, Brooklin, ME, photo 2 of 2",
    "images/ME-0015-card.webp": "The Eggemoggin Reach Inn, Brooklin, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0015-cover.webp",
+   "images/ME-0015-000.webp"
+  ]
  },
  {
   "id": "ME-0280",
@@ -733,13 +865,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "The Island Agency is a real estate listing office in Maine specializing in island properties.",
   "photoAlts": {
    "images/ME-0280-cover.jpg": "The Island Agency Rentals, Stonington, ME",
    "images/ME-0280-000.jpg": "The Island Agency Rentals, Stonington, ME, photo 2 of 4",
    "images/ME-0280-001.jpg": "The Island Agency Rentals, Stonington, ME, photo 3 of 4",
    "images/ME-0280-002.jpg": "The Island Agency Rentals, Stonington, ME, photo 4 of 4",
    "images/ME-0280-card.webp": "The Island Agency Rentals, Stonington, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0280-cover.jpg",
+   "images/ME-0280-000.jpg",
+   "images/ME-0280-001.jpg",
+   "images/ME-0280-002.jpg"
+  ]
  },
  {
   "id": "ME-0216",
@@ -768,13 +907,20 @@
   "lng": -68.5017,
   "featured": false,
   "demo": false,
+  "description": "If you are seeking peace and tranquility this, is it! Our 2 bedroom, 1 bath Maine cottage sits on 1.5 acres... Surry United States, Maine",
   "photoAlts": {
    "images/ME-0216-cover.jpg": "Viking Trail Cabin, cabin in Surry, ME",
    "images/ME-0216-000.jpg": "Viking Trail Cabin, Surry, ME, photo 2 of 4",
    "images/ME-0216-001.jpg": "Viking Trail Cabin, Surry, ME, photo 3 of 4",
    "images/ME-0216-002.jpg": "Viking Trail Cabin, Surry, ME, photo 4 of 4",
    "images/ME-0216-card.webp": "Viking Trail Cabin, cabin in Surry, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0216-cover.jpg",
+   "images/ME-0216-000.jpg",
+   "images/ME-0216-001.jpg",
+   "images/ME-0216-002.jpg"
+  ]
  },
  {
   "id": "ME-0195",
@@ -803,12 +949,19 @@
   "lng": -68.69671,
   "featured": false,
   "demo": false,
+  "description": "19th Century 3 bedroom farmhouse vacation rental with a chef's dream kitchen close to Acadia National Park",
   "photoAlts": {
    "images/ME-0195-cover.webp": "Winslow Creek, Penobscot, ME",
    "images/ME-0195-000.webp": "Winslow Creek, Penobscot, ME, photo 2 of 4",
    "images/ME-0195-001.webp": "Winslow Creek, Penobscot, ME, photo 3 of 4",
    "images/ME-0195-002.webp": "Winslow Creek, Penobscot, ME, photo 4 of 4",
    "images/ME-0195-card.webp": "Winslow Creek, Penobscot, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0195-cover.webp",
+   "images/ME-0195-000.webp",
+   "images/ME-0195-001.webp",
+   "images/ME-0195-002.webp"
+  ]
  }
 ]

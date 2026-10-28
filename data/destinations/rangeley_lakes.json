@@ -26,13 +26,20 @@
   "lng": -70.7725,
   "featured": false,
   "demo": false,
+  "description": "Bald Mountain Camps. Maine Family Vacation Camps. Fishing and Sporting Camps. Snowmobiling camps. Guide Service.",
   "photoAlts": {
    "images/ME-0077-cover.jpg": "Bald Mountain Camps, camp in Oquossoc, ME",
    "images/ME-0077-000.jpg": "Bald Mountain Camps, Oquossoc, ME, photo 2 of 4",
    "images/ME-0077-001.jpg": "Bald Mountain Camps, Oquossoc, ME, photo 3 of 4",
    "images/ME-0077-002.jpg": "Bald Mountain Camps, Oquossoc, ME, photo 4 of 4",
    "images/ME-0077-card.webp": "Bald Mountain Camps, camp in Oquossoc, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0077-cover.jpg",
+   "images/ME-0077-000.jpg",
+   "images/ME-0077-001.jpg",
+   "images/ME-0077-002.jpg"
+  ]
  },
  {
   "id": "ME-0056",
@@ -61,13 +68,20 @@
   "lng": -70.1546,
   "featured": false,
   "demo": false,
+  "description": "Carrabassett Cabins properties are cozy and well equipped and offer a range of price points and sizes to accommodate your needs. Our Sugarloaf area vacation rentals are well maintained and family managed to ensure the best experience for our guests.",
   "photoAlts": {
    "images/ME-0056-cover.jpg": "Carrabassett Cabin Co., cabin in Kingfield, ME",
    "images/ME-0056-000.jpg": "Carrabassett Cabin Co., Kingfield, ME, photo 2 of 4",
    "images/ME-0056-001.jpg": "Carrabassett Cabin Co., Kingfield, ME, photo 3 of 4",
    "images/ME-0056-002.jpg": "Carrabassett Cabin Co., Kingfield, ME, photo 4 of 4",
    "images/ME-0056-card.webp": "Carrabassett Cabin Co., cabin in Kingfield, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0056-cover.jpg",
+   "images/ME-0056-000.jpg",
+   "images/ME-0056-001.jpg",
+   "images/ME-0056-002.jpg"
+  ]
  },
  {
   "id": "ME-0083",
@@ -96,12 +110,18 @@
   "lng": -70.63961,
   "featured": false,
   "demo": false,
+  "description": "Nestled in the heart of Maine's western lakes and mountains, Cross Stone Cabins is a place to slow down, reconnect, and experience the beauty of Maine. Whether you're here to hike scenic trails, spend the day on the lake, explore downtown, or simply unwind by the fire, you'll enjoy the perfect balance of convenience and seclusion. Stay close to everything that makes Rangeley special while enjoying the peaceful comfort of your own private cabin surrounded by nature.",
   "photoAlts": {
    "images/ME-0083-cover.jpg": "Cross Stone Cabins, cabin in Rangeley, ME",
    "images/ME-0083-000.jpg": "Cross Stone Cabins, Rangeley, ME, photo 2 of 3",
    "images/ME-0083-001.jpg": "Cross Stone Cabins, Rangeley, ME, photo 3 of 3",
    "images/ME-0083-card.webp": "Cross Stone Cabins, cabin in Rangeley, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0083-cover.jpg",
+   "images/ME-0083-000.jpg",
+   "images/ME-0083-001.jpg"
+  ]
  },
  {
   "id": "ME-0266",
@@ -131,13 +151,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Looking for a getaway in gorgeous Rangeley, Maine? Let Morton & Furbish accommodate you with the best in Rangeley Maine Vacation Rentals! Click to book today!",
   "photoAlts": {
    "images/ME-0266-cover.webp": "Morton & Furbish Vacation Rentals, Rangeley, ME",
    "images/ME-0266-000.png": "Morton & Furbish Vacation Rentals, Rangeley, ME, photo 2 of 4",
    "images/ME-0266-001.png": "Morton & Furbish Vacation Rentals, Rangeley, ME, photo 3 of 4",
    "images/ME-0266-002.webp": "Morton & Furbish Vacation Rentals, Rangeley, ME, photo 4 of 4",
    "images/ME-0266-card.webp": "Morton & Furbish Vacation Rentals, Rangeley, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0266-cover.webp",
+   "images/ME-0266-000.png",
+   "images/ME-0266-001.png",
+   "images/ME-0266-002.webp"
+  ]
  },
  {
   "id": "ME-0089",
@@ -167,10 +194,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/ME-0089-cover.jpg": "Mountain View Cottages, house in Rangeley Lake, ME",
    "images/ME-0089-card.webp": "Mountain View Cottages, house in Rangeley Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0089-cover.jpg"
+  ]
  },
  {
   "id": "ME-0090",
@@ -199,13 +230,20 @@
   "lng": -70.6992,
   "featured": false,
   "demo": false,
+  "description": "A one of a kind establishment, we have 13 fully furnished, cozy, rustic cabins located on the northeast shore of Rangeley Lake. Surrounded by 20 wooded acres and spacious lawns, each camp is equipped with oil heat & wood stoves. Screened porches, a private beach, and a playground area are some of the features we offer. Boats, Canoes, Kayaks and Sailboats are available for rent.",
   "photoAlts": {
    "images/ME-0090-cover.webp": "North Camps, camp in Rangeley Lake, ME",
    "images/ME-0090-000.webp": "North Camps, Rangeley Lake, ME, photo 2 of 4",
    "images/ME-0090-001.webp": "North Camps, Rangeley Lake, ME, photo 3 of 4",
    "images/ME-0090-002.webp": "North Camps, Rangeley Lake, ME, photo 4 of 4",
    "images/ME-0090-card.webp": "North Camps, camp in Rangeley Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0090-cover.webp",
+   "images/ME-0090-000.webp",
+   "images/ME-0090-001.webp",
+   "images/ME-0090-002.webp"
+  ]
  },
  {
   "id": "ME-0087",
@@ -234,13 +272,20 @@
   "lng": -70.63928,
   "featured": false,
   "demo": false,
+  "description": "Nestled in the heart of the great outdoors in Rangeley, Maine is the Rangeley Lake Resort – a year-round vacation destination that has proven its popularity amongst outdoor lovers.",
   "photoAlts": {
    "images/ME-0087-cover.jpg": "Rangeley Lake Resort, Rangeley, ME",
    "images/ME-0087-000.jpg": "Rangeley Lake Resort, Rangeley, ME, photo 2 of 4",
    "images/ME-0087-001.jpg": "Rangeley Lake Resort, Rangeley, ME, photo 3 of 4",
    "images/ME-0087-002.jpg": "Rangeley Lake Resort, Rangeley, ME, photo 4 of 4",
    "images/ME-0087-card.webp": "Rangeley Lake Resort, Rangeley, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0087-cover.jpg",
+   "images/ME-0087-000.jpg",
+   "images/ME-0087-001.jpg",
+   "images/ME-0087-002.jpg"
+  ]
  },
  {
   "id": "ME-0088",
@@ -269,12 +314,19 @@
   "lng": -70.65073,
   "featured": false,
   "demo": false,
+  "description": "Rangeley Town & Lake Motel and Cottage has been family owned since 1954 and offers rooms and cottages directly on Rangeley Lake. Rangeley Town & Lake is located directly on the shore of Rangeley Lake and just minutes from Rangeley Village’s retail shops, restaurants, and more.",
   "photoAlts": {
    "images/ME-0088-cover.jpg": "Town & Lake Motel and Cottages, house in Rangeley, ME",
    "images/ME-0088-000.jpg": "Town & Lake Motel and Cottages, Rangeley, ME, photo 2 of 4",
    "images/ME-0088-001.jpg": "Town & Lake Motel and Cottages, Rangeley, ME, photo 3 of 4",
    "images/ME-0088-002.jpg": "Town & Lake Motel and Cottages, Rangeley, ME, photo 4 of 4",
    "images/ME-0088-card.webp": "Town & Lake Motel and Cottages, house in Rangeley, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0088-cover.jpg",
+   "images/ME-0088-000.jpg",
+   "images/ME-0088-001.jpg",
+   "images/ME-0088-002.jpg"
+  ]
  }
 ]

@@ -26,13 +26,20 @@
   "lng": -71.1382,
   "featured": false,
   "demo": false,
+  "description": "Errol inn with two private rental cabins and RV sites in the Great North Woods.",
   "photoAlts": {
    "images/NH-0034-cover.webp": "Akers Pond Inn Cabins & RV Sites, cabin in Errol, NH",
    "images/NH-0034-000.webp": "Akers Pond Inn Cabins & RV Sites, Errol, NH, photo 2 of 4",
    "images/NH-0034-001.webp": "Akers Pond Inn Cabins & RV Sites, Errol, NH, photo 3 of 4",
    "images/NH-0034-002.webp": "Akers Pond Inn Cabins & RV Sites, Errol, NH, photo 4 of 4",
    "images/NH-0034-card.webp": "Akers Pond Inn Cabins & RV Sites, cabin in Errol, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0034-cover.webp",
+   "images/NH-0034-000.webp",
+   "images/NH-0034-001.webp",
+   "images/NH-0034-002.webp"
+  ]
  },
  {
   "id": "NH-0012",
@@ -56,6 +63,7 @@
   "lng": -71.3915,
   "featured": false,
   "demo": false,
+  "description": "Family-stewarded Pittsburg cabins and inn on First Connecticut Lake and nearby woodland sites.",
   "photoAlts": {
    "Unknown": "At Bear Tree, cabin in Pittsburg, NH"
   }
@@ -88,12 +96,18 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Locally owned Pittsburg cabins with lake views, kitchens and snowmobile trail access.",
   "photoAlts": {
    "images/NH-0030-cover.webp": "Lake View Cabins, cabin in Pittsburg, NH",
    "images/NH-0030-000.webp": "Lake View Cabins, Pittsburg, NH, photo 2 of 3",
    "images/NH-0030-001.webp": "Lake View Cabins, Pittsburg, NH, photo 3 of 3",
    "images/NH-0030-card.webp": "Lake View Cabins, cabin in Pittsburg, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0030-cover.webp",
+   "images/NH-0030-000.webp",
+   "images/NH-0030-001.webp"
+  ]
  },
  {
   "id": "NH-0044",
@@ -122,12 +136,18 @@
   "lng": -71.3915,
   "featured": false,
   "demo": false,
+  "description": "Family-run cabins by the Connecticut River in Pittsburg with direct ATV trail access.",
   "photoAlts": {
    "images/NH-0044-cover.webp": "Robie’s Cabins, cabin in Pittsburg, NH",
    "images/NH-0044-000.webp": "Robie’s Cabins, Pittsburg, NH, photo 2 of 3",
    "images/NH-0044-001.webp": "Robie’s Cabins, Pittsburg, NH, photo 3 of 3",
    "images/NH-0044-card.webp": "Robie’s Cabins, cabin in Pittsburg, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0044-cover.webp",
+   "images/NH-0044-000.webp",
+   "images/NH-0044-001.webp"
+  ]
  },
  {
   "id": "NH-0019",
@@ -151,10 +171,14 @@
   "lng": -71.3915,
   "featured": false,
   "demo": false,
+  "description": "Year-round Pittsburg cabin campus at First Connecticut Lake with full kitchens and outdoor access.",
   "photoAlts": {
    "images/NH-0019-cover.webp": "The Partridge Cabins & Lodge, cabin in Pittsburg, NH",
    "images/NH-0019-card.webp": "The Partridge Cabins & Lodge, cabin in Pittsburg, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0019-cover.webp"
+  ]
  },
  {
   "id": "NH-0048",
@@ -190,12 +214,19 @@
   "lng": -71.3915,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Pittsburg cabin with First Connecticut Lake views and direct snowmobile trail access.",
   "photoAlts": {
    "images/NH-0048-cover.webp": "Winterfell-NH, cabin in Pittsburg, NH",
    "images/NH-0048-000.webp": "Winterfell-NH, Pittsburg, NH, photo 2 of 4",
    "images/NH-0048-001.webp": "Winterfell-NH, Pittsburg, NH, photo 3 of 4",
    "images/NH-0048-002.webp": "Winterfell-NH, Pittsburg, NH, photo 4 of 4",
    "images/NH-0048-card.webp": "Winterfell-NH, cabin in Pittsburg, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0048-cover.webp",
+   "images/NH-0048-000.webp",
+   "images/NH-0048-001.webp",
+   "images/NH-0048-002.webp"
+  ]
  }
 ]

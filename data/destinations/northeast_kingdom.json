@@ -20,6 +20,7 @@
   "lng": -72.0157,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Base Camp Nek, cabin in St. Johnsbury, VT"
   }
@@ -45,6 +46,7 @@
   "lng": -72.1339,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Century 21 Farm & Forest, house in Derby, VT"
   }
@@ -76,10 +78,14 @@
   "lng": -72.2791,
   "featured": false,
   "demo": false,
+  "description": "A six-bedroom castle vacation rental on twenty acres in Vermont’s Northeast Kingdom, with private outdoor gathering spaces.",
   "photoAlts": {
    "images/VT-0014-cover.jpg": "Gregoire Castle — Kane Realty, house in Irasburg, VT",
    "images/VT-0014-card.webp": "Gregoire Castle — Kane Realty, house in Irasburg, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0014-cover.jpg"
+  ]
  },
  {
   "id": "VT-0024",
@@ -108,10 +114,14 @@
   "lng": -72.30542,
   "featured": false,
   "demo": false,
+  "description": "A historic Greensboro lodge offering rooms and seasonal cabins near Caspian Lake, with direct reservation inquiries.",
   "photoAlts": {
    "images/VT-0024-cover.jpg": "Highland Lodge, cabin in Greensboro, VT",
    "images/VT-0024-card.webp": "Highland Lodge, cabin in Greensboro, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0024-cover.jpg"
+  ]
  },
  {
   "id": "VT-0067",
@@ -140,10 +150,14 @@
   "lng": -72.1339,
   "featured": false,
   "demo": false,
+  "description": "Four family-owned lakefront cottages in Derby, with private shoreline, boats and direct reservation inquiries.",
   "photoAlts": {
    "images/VT-0067-cover.jpg": "Lake Salem Cottages, cabin in Derby, VT",
    "images/VT-0067-card.webp": "Lake Salem Cottages, cabin in Derby, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0067-cover.jpg"
+  ]
  },
  {
   "id": "VT-0041",
@@ -172,10 +186,14 @@
   "lng": -72.0549,
   "featured": false,
   "demo": false,
+  "description": "Seasonal cottages on Lake Willoughby in Westmore, with direct reservations through the operator.",
   "photoAlts": {
    "images/VT-0041-cover.jpg": "Mountain Lake Cottages, cabin in Westmore, VT",
    "images/VT-0041-card.webp": "Mountain Lake Cottages, cabin in Westmore, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0041-cover.jpg"
+  ]
  },
  {
   "id": "VT-0026",
@@ -208,10 +226,14 @@
   "lng": -72.4475,
   "featured": false,
   "demo": false,
+  "description": "A private cabin on twelve acres in Lowell near Jay Peak, with direct guest inquiries to the operator.",
   "photoAlts": {
    "images/VT-0026-cover.jpg": "Northbound Vermont, cabin in Lowell, VT",
    "images/VT-0026-card.webp": "Northbound Vermont, cabin in Lowell, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0026-cover.jpg"
+  ]
  },
  {
   "id": "VT-0010",
@@ -240,13 +262,20 @@
   "lng": -71.6862,
   "featured": false,
   "demo": false,
+  "description": "A traditional sporting camp in Averill with nineteen lakeside cottages, a lodge and family vacation programs.",
   "photoAlts": {
    "images/VT-0010-000.jpg": "Quimby Country Lodge & Cottages, cabin in Averill, VT",
    "images/VT-0010-001.jpg": "Quimby Country Lodge & Cottages, Averill, VT, photo 2 of 4",
    "images/VT-0010-002.jpg": "Quimby Country Lodge & Cottages, Averill, VT, photo 3 of 4",
    "images/VT-0010-cover.jpg": "Quimby Country Lodge & Cottages, cabin in Averill, VT",
    "images/VT-0010-card.webp": "Quimby Country Lodge & Cottages, cabin in Averill, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0010-000.jpg",
+   "images/VT-0010-001.jpg",
+   "images/VT-0010-002.jpg",
+   "images/VT-0010-cover.jpg"
+  ]
  },
  {
   "id": "VT-0063",
@@ -279,10 +308,14 @@
   "lng": -72.4475,
   "featured": false,
   "demo": false,
+  "description": "A local Northeast Kingdom rental manager offering a collection of Vermont stays and direct guest support.",
   "photoAlts": {
    "images/VT-0063-cover.jpg": "Simple Stay Property Management, Lowell, VT",
    "images/VT-0063-card.webp": "Simple Stay Property Management, Lowell, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0063-cover.jpg"
+  ]
  },
  {
   "id": "VT-0013",
@@ -311,10 +344,14 @@
   "lng": -72.34392,
   "featured": false,
   "demo": false,
+  "description": "A treehouse, glamping tent and house at a woodland retreat near Hardwick, with direct inquiries and forest wellness experiences.",
   "photoAlts": {
    "images/VT-0013-cover.jpg": "Stone City Treehouse, cabin in Hardwick, VT",
    "images/VT-0013-card.webp": "Stone City Treehouse, cabin in Hardwick, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0013-cover.jpg"
+  ]
  },
  {
   "id": "VT-0029",
@@ -347,9 +384,13 @@
   "lng": -72.8046,
   "featured": false,
   "demo": false,
+  "description": "A family-owned organic farm in Fairfield offering stays in its Pond House and Meadow Cottage.",
   "photoAlts": {
    "images/VT-0029-cover.jpg": "Stony Pond Farm, Enosburg Falls, VT",
    "images/VT-0029-card.webp": "Stony Pond Farm, Enosburg Falls, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0029-cover.jpg"
+  ]
  }
 ]

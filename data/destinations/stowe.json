@@ -26,10 +26,14 @@
   "lng": -72.7526,
   "featured": false,
   "demo": false,
+  "description": "A Duxbury woodland lodge offering three separate accommodations: the Terraces, Loft and Sugarhouse.",
   "photoAlts": {
    "images/VT-0060-cover.jpg": "Crossett Hill Lodge, Duxbury, VT",
    "images/VT-0060-card.webp": "Crossett Hill Lodge, Duxbury, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0060-cover.jpg"
+  ]
  },
  {
   "id": "VT-0008",
@@ -58,12 +62,18 @@
   "lng": -72.6856,
   "featured": false,
   "demo": false,
+  "description": "A three-bedroom vacation house and a separate one-bedroom loft in Stowe village, offered for weekly and longer stays.",
   "photoAlts": {
    "images/VT-0008-000.jpg": "Hobble Inn & The Loft, Stowe, VT",
    "images/VT-0008-001.jpg": "Hobble Inn & The Loft, Stowe, VT, photo 2 of 3",
    "images/VT-0008-cover.jpg": "Hobble Inn & The Loft, Stowe, VT",
    "images/VT-0008-card.webp": "Hobble Inn & The Loft, Stowe, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0008-000.jpg",
+   "images/VT-0008-001.jpg",
+   "images/VT-0008-cover.jpg"
+  ]
  },
  {
   "id": "VT-0017",
@@ -92,10 +102,14 @@
   "lng": -72.6856,
   "featured": false,
   "demo": false,
+  "description": "A private Stowe vacation estate with fourteen bedrooms, sixteen bathrooms, a pool, hot tubs and outdoor recreation.",
   "photoAlts": {
    "images/VT-0017-cover.webp": "Meadowstone Manor, house in Stowe, VT",
    "images/VT-0017-card.webp": "Meadowstone Manor, house in Stowe, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0017-cover.webp"
+  ]
  },
  {
   "id": "VT-0030",
@@ -131,10 +145,14 @@
   "lng": -72.6874,
   "featured": false,
   "demo": false,
+  "description": "A four-bedroom post-and-beam Stowe vacation house with three bathrooms, a hot tub and pet-friendly stays.",
   "photoAlts": {
    "images/VT-0030-cover.jpg": "Mountain Pines, house in Stowe, VT",
    "images/VT-0030-card.webp": "Mountain Pines, house in Stowe, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0030-cover.jpg"
+  ]
  },
  {
   "id": "VT-0019",
@@ -164,10 +182,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "A Stowe vacation rental manager offering houses, chalets and local guest support through its own reservation website.",
   "photoAlts": {
    "images/VT-0019-cover.jpg": "Mountain View Vacations, Stowe, VT",
    "images/VT-0019-card.webp": "Mountain View Vacations, Stowe, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0019-cover.jpg"
+  ]
  },
  {
   "id": "VT-0046",
@@ -190,6 +212,7 @@
   "lng": -72.6856,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Mountainside Resort At Stowe, house in Stowe, VT"
   }
@@ -222,10 +245,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Five family-owned chalet and cabin rentals near Smugglers' Notch, with direct booking and dog-friendly stays.",
   "photoAlts": {
    "images/VT-0012-cover.jpg": "Notch Lodges, cabin in Jeffersonville, VT",
    "images/VT-0012-card.webp": "Notch Lodges, cabin in Jeffersonville, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0012-cover.jpg"
+  ]
  },
  {
   "id": "VT-0016",
@@ -248,6 +275,7 @@
   "lng": -72.5983,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "RadFarm (formerly Humble Heart Homestead), house in Morrisville, VT"
   }
@@ -279,10 +307,14 @@
   "lng": -72.6171,
   "featured": false,
   "demo": false,
+  "description": "Cabins near Stowe operated by Vermont natives Jennifer and Craig Fowler, welcoming children and dogs.",
   "photoAlts": {
    "images/VT-0015-cover.jpg": "Serene Country Cabins, cabin in Hyde Park, VT",
    "images/VT-0015-card.webp": "Serene Country Cabins, cabin in Hyde Park, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0015-cover.jpg"
+  ]
  },
  {
   "id": "VT-0025",
@@ -315,10 +347,14 @@
   "lng": -72.5212,
   "featured": false,
   "demo": false,
+  "description": "A small lakefront guest cabin on Lake Eden, designed for two guests, with kitchen, kayaks and a firepit.",
   "photoAlts": {
    "images/VT-0025-cover.jpg": "Songbird Studio VT, cabin in Eden Mills, VT",
    "images/VT-0025-card.webp": "Songbird Studio VT, cabin in Eden Mills, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0025-cover.jpg"
+  ]
  },
  {
   "id": "VT-0054",
@@ -347,10 +383,14 @@
   "lng": -72.901,
   "featured": false,
   "demo": false,
+  "description": "A family homestead retreat on Mount Mansfield in Underhill, available for vacations, reunions and retreats.",
   "photoAlts": {
    "images/VT-0054-cover.jpg": "Squabetty, house in Underhill, VT",
    "images/VT-0054-card.webp": "Squabetty, house in Underhill, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0054-cover.jpg"
+  ]
  },
  {
   "id": "VT-0064",
@@ -379,10 +419,14 @@
   "lng": -72.51227,
   "featured": false,
   "demo": false,
+  "description": "A vacation rental near Lake Elmore and Stowe, offered through direct inquiries to owner Mary Anne Machis.",
   "photoAlts": {
    "images/VT-0064-cover.jpg": "Stowe Area Home, house in Elmore, VT",
    "images/VT-0064-card.webp": "Stowe Area Home, house in Elmore, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0064-cover.jpg"
+  ]
  },
  {
   "id": "VT-0051",
@@ -411,10 +455,14 @@
   "lng": -72.725,
   "featured": false,
   "demo": false,
+  "description": "Fully equipped woodland cabins in Waterbury Center, with direct booking and access to the Stowe area.",
   "photoAlts": {
    "images/VT-0051-cover.jpg": "Stowe Cabins in the Woods, cabin in Waterbury Center, VT",
    "images/VT-0051-card.webp": "Stowe Cabins in the Woods, cabin in Waterbury Center, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0051-cover.jpg"
+  ]
  },
  {
   "id": "VT-0007",
@@ -443,10 +491,14 @@
   "lng": -72.6856,
   "featured": false,
   "demo": false,
+  "description": "Vacation homes and condos managed by a Stowe rental operator, with direct reservation and guest support.",
   "photoAlts": {
    "images/VT-0007-cover.jpg": "Stowe Country Homes, Stowe, VT",
    "images/VT-0007-card.webp": "Stowe Country Homes, Stowe, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0007-cover.jpg"
+  ]
  },
  {
   "id": "VT-0059",
@@ -475,10 +527,14 @@
   "lng": -72.6793,
   "featured": false,
   "demo": false,
+  "description": "A woodland vacation rental in Johnson near Stowe and Smugglers’ Notch, with trails and a hot tub.",
   "photoAlts": {
    "images/VT-0059-cover.jpg": "The Vermont Treehouse, cabin in Johnson, VT",
    "images/VT-0059-card.webp": "The Vermont Treehouse, cabin in Johnson, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0059-cover.jpg"
+  ]
  },
  {
   "id": "VT-0035",
@@ -508,9 +564,13 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "A Vermont nonprofit offering bookable backcountry huts and cabins for hiking, biking and skiing trips.",
   "photoAlts": {
    "images/VT-0035-cover.jpg": "Vermont Huts & Trails, cabin in Waterbury, VT",
    "images/VT-0035-card.webp": "Vermont Huts & Trails, cabin in Waterbury, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0035-cover.jpg"
+  ]
  }
 ]

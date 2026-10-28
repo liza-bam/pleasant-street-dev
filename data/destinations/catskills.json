@@ -20,13 +20,20 @@
   "lng": -74.1338,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0170-cover.webp": "CAMPTONS — The Camptons Cottage, cabin in Tannersville, NY",
    "images/NY-0170-000.webp": "CAMPTONS — The Camptons Cottage, Tannersville, NY, photo 2 of 4",
    "images/NY-0170-001.webp": "CAMPTONS — The Camptons Cottage, Tannersville, NY, photo 3 of 4",
    "images/NY-0170-002.webp": "CAMPTONS — The Camptons Cottage, Tannersville, NY, photo 4 of 4",
    "images/NY-0170-card.webp": "CAMPTONS — The Camptons Cottage, cabin in Tannersville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0170-cover.webp",
+   "images/NY-0170-000.webp",
+   "images/NY-0170-001.webp",
+   "images/NY-0170-002.webp"
+  ]
  },
  {
   "id": "NY-0171",
@@ -49,13 +56,20 @@
   "lng": -74.1001,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0171-cover.webp": "CAMPTONS — The Camptons House, cabin in Haines Falls, NY",
    "images/NY-0171-000.webp": "CAMPTONS — The Camptons House, Haines Falls, NY, photo 2 of 4",
    "images/NY-0171-001.webp": "CAMPTONS — The Camptons House, Haines Falls, NY, photo 3 of 4",
    "images/NY-0171-002.webp": "CAMPTONS — The Camptons House, Haines Falls, NY, photo 4 of 4",
    "images/NY-0171-card.webp": "CAMPTONS — The Camptons House, cabin in Haines Falls, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0171-cover.webp",
+   "images/NY-0171-000.webp",
+   "images/NY-0171-001.webp",
+   "images/NY-0171-002.webp"
+  ]
  },
  {
   "id": "NY-0172",
@@ -78,13 +92,20 @@
   "lng": -74.1001,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0172-cover.webp": "CAMPTONS — The Camptons Pod, cabin in Haines Falls, NY",
    "images/NY-0172-000.webp": "CAMPTONS — The Camptons Pod, Haines Falls, NY, photo 2 of 4",
    "images/NY-0172-001.webp": "CAMPTONS — The Camptons Pod, Haines Falls, NY, photo 3 of 4",
    "images/NY-0172-002.webp": "CAMPTONS — The Camptons Pod, Haines Falls, NY, photo 4 of 4",
    "images/NY-0172-card.webp": "CAMPTONS — The Camptons Pod, cabin in Haines Falls, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0172-cover.webp",
+   "images/NY-0172-000.webp",
+   "images/NY-0172-001.webp",
+   "images/NY-0172-002.webp"
+  ]
  },
  {
   "id": "NY-0047",
@@ -108,13 +129,20 @@
   "lng": -74.4329,
   "featured": false,
   "demo": false,
+  "description": "Cottage on a hillside at Prattsville near Pratt Rock, close to Windham and Hunter ski areas, with porch, full kitchen and two bedrooms; owner-run.",
   "photoAlts": {
    "images/NY-0047-cover.webp": "Catskill Cottage (Prattsville), cabin in Prattsville, NY",
    "images/NY-0047-000.webp": "Catskill Cottage (Prattsville), Prattsville, NY, photo 2 of 4",
    "images/NY-0047-001.webp": "Catskill Cottage (Prattsville), Prattsville, NY, photo 3 of 4",
    "images/NY-0047-002.webp": "Catskill Cottage (Prattsville), Prattsville, NY, photo 4 of 4",
    "images/NY-0047-card.webp": "Catskill Cottage (Prattsville), cabin in Prattsville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0047-cover.webp",
+   "images/NY-0047-000.webp",
+   "images/NY-0047-001.webp",
+   "images/NY-0047-002.webp"
+  ]
  },
  {
   "id": "NY-0054",
@@ -137,13 +165,20 @@
   "lng": -74.469234,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0054-cover.webp": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center, house in Gilboa, NY",
    "images/NY-0054-000.webp": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center, Gilboa, NY, photo 2 of 4",
    "images/NY-0054-001.webp": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center, Gilboa, NY, photo 3 of 4",
    "images/NY-0054-002.webp": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center, Gilboa, NY, photo 4 of 4",
    "images/NY-0054-card.webp": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center, house in Gilboa, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0054-cover.webp",
+   "images/NY-0054-000.webp",
+   "images/NY-0054-001.webp",
+   "images/NY-0054-002.webp"
+  ]
  },
  {
   "id": "NY-0049",
@@ -167,13 +202,20 @@
   "lng": -74.445702,
   "featured": false,
   "demo": false,
+  "description": "Beautiful high-mountain Log Home with wonderful views of the Belleayre ski slopes and the surrounding mountains.",
   "photoAlts": {
    "images/NY-0049-cover.webp": "Catskill Vacation Rentals — Belleayre Mountain Views, house in Pine Hill, NY",
    "images/NY-0049-000.webp": "Catskill Vacation Rentals — Belleayre Mountain Views, Pine Hill, NY, photo 2 of 4",
    "images/NY-0049-001.webp": "Catskill Vacation Rentals — Belleayre Mountain Views, Pine Hill, NY, photo 3 of 4",
    "images/NY-0049-002.webp": "Catskill Vacation Rentals — Belleayre Mountain Views, Pine Hill, NY, photo 4 of 4",
    "images/NY-0049-card.webp": "Catskill Vacation Rentals — Belleayre Mountain Views, house in Pine Hill, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0049-cover.webp",
+   "images/NY-0049-000.webp",
+   "images/NY-0049-001.webp",
+   "images/NY-0049-002.webp"
+  ]
  },
  {
   "id": "NY-0048",
@@ -197,13 +239,20 @@
   "lng": -74.546758,
   "featured": false,
   "demo": false,
+  "description": "Bellwood Cottage is perfect for couples, families, or groups of friends looking to get away from it all in an private, idyllic setting.",
   "photoAlts": {
    "images/NY-0048-cover.webp": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue, house in Roxbury, NY",
    "images/NY-0048-000.webp": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue, Roxbury, NY, photo 2 of 4",
    "images/NY-0048-001.webp": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue, Roxbury, NY, photo 3 of 4",
    "images/NY-0048-002.webp": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue, Roxbury, NY, photo 4 of 4",
    "images/NY-0048-card.webp": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue, house in Roxbury, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0048-cover.webp",
+   "images/NY-0048-000.webp",
+   "images/NY-0048-001.webp",
+   "images/NY-0048-002.webp"
+  ]
  },
  {
   "id": "NY-0064",
@@ -227,13 +276,20 @@
   "lng": -74.65311,
   "featured": false,
   "demo": false,
+  "description": "Cozy, rustic log cabin with rocking chair porch, central AC/heat, wood stove, fast Wi-Fi, 65\" TV w/Sling (cable), Netflix & Amazon Prime, country kitchen, outdoor cedar barrel sauna, fire pit stone patio, outdoor cedar shower, picnic table with charcoal grill, Level 2 EV charger, in a private settin",
   "photoAlts": {
    "images/NY-0064-cover.webp": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger, cabin in Margaretville, NY",
    "images/NY-0064-000.webp": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger, Margaretville, NY, photo 2 of 4",
    "images/NY-0064-001.webp": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger, Margaretville, NY, photo 3 of 4",
    "images/NY-0064-002.webp": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger, Margaretville, NY, photo 4 of 4",
    "images/NY-0064-card.webp": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger, cabin in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0064-cover.webp",
+   "images/NY-0064-000.webp",
+   "images/NY-0064-001.webp",
+   "images/NY-0064-002.webp"
+  ]
  },
  {
   "id": "NY-0061",
@@ -256,13 +312,20 @@
   "lng": -74.59423065,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0061-cover.webp": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills, cabin in Arkville, NY",
    "images/NY-0061-000.webp": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills, Arkville, NY, photo 2 of 4",
    "images/NY-0061-001.webp": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills, Arkville, NY, photo 3 of 4",
    "images/NY-0061-002.webp": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills, Arkville, NY, photo 4 of 4",
    "images/NY-0061-card.webp": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills, cabin in Arkville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0061-cover.webp",
+   "images/NY-0061-000.webp",
+   "images/NY-0061-001.webp",
+   "images/NY-0061-002.webp"
+  ]
  },
  {
   "id": "NY-0062",
@@ -286,13 +349,20 @@
   "lng": -74.652288,
   "featured": false,
   "demo": false,
+  "description": "Cross over the brook and private bridge to arrive at your all-season 3 BDR cabin.",
   "photoAlts": {
    "images/NY-0062-cover.webp": "Catskill Vacation Rentals — Catskills Brookside Cottage, house in Margaretville, NY",
    "images/NY-0062-000.webp": "Catskill Vacation Rentals — Catskills Brookside Cottage, Margaretville, NY, photo 2 of 4",
    "images/NY-0062-001.webp": "Catskill Vacation Rentals — Catskills Brookside Cottage, Margaretville, NY, photo 3 of 4",
    "images/NY-0062-002.webp": "Catskill Vacation Rentals — Catskills Brookside Cottage, Margaretville, NY, photo 4 of 4",
    "images/NY-0062-card.webp": "Catskill Vacation Rentals — Catskills Brookside Cottage, house in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0062-cover.webp",
+   "images/NY-0062-000.webp",
+   "images/NY-0062-001.webp",
+   "images/NY-0062-002.webp"
+  ]
  },
  {
   "id": "NY-0066",
@@ -316,13 +386,20 @@
   "lng": -74.704831,
   "featured": false,
   "demo": false,
+  "description": "Tucked at the end of a long driveway in a stunning setting is our cozy, comfortable hillside cottage -- a perfect getaway in the Catskill Mountains.",
   "photoAlts": {
    "images/NY-0066-cover.webp": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views, house in Margaretville, NY",
    "images/NY-0066-000.webp": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views, Margaretville, NY, photo 2 of 4",
    "images/NY-0066-001.webp": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views, Margaretville, NY, photo 3 of 4",
    "images/NY-0066-002.webp": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views, Margaretville, NY, photo 4 of 4",
    "images/NY-0066-card.webp": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views, house in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0066-cover.webp",
+   "images/NY-0066-000.webp",
+   "images/NY-0066-001.webp",
+   "images/NY-0066-002.webp"
+  ]
  },
  {
   "id": "NY-0059",
@@ -346,13 +423,20 @@
   "lng": -73.9959259,
   "featured": false,
   "demo": false,
+  "description": "Indulge in an escape to the Catskill Mountains and take in the breathtaking beauty of our secluded 82-acre river access home.",
   "photoAlts": {
    "images/NY-0059-cover.webp": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing, house in Cairo, NY",
    "images/NY-0059-000.webp": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing, Cairo, NY, photo 2 of 4",
    "images/NY-0059-001.webp": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing, Cairo, NY, photo 3 of 4",
    "images/NY-0059-002.webp": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing, Cairo, NY, photo 4 of 4",
    "images/NY-0059-card.webp": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing, house in Cairo, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0059-cover.webp",
+   "images/NY-0059-000.webp",
+   "images/NY-0059-001.webp",
+   "images/NY-0059-002.webp"
+  ]
  },
  {
   "id": "NY-0067",
@@ -375,13 +459,20 @@
   "lng": -74.633758,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0067-cover.webp": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin, cabin in Margaretville, NY",
    "images/NY-0067-000.webp": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin, Margaretville, NY, photo 2 of 4",
    "images/NY-0067-001.webp": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin, Margaretville, NY, photo 3 of 4",
    "images/NY-0067-002.webp": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin, Margaretville, NY, photo 4 of 4",
    "images/NY-0067-card.webp": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin, cabin in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0067-cover.webp",
+   "images/NY-0067-000.webp",
+   "images/NY-0067-001.webp",
+   "images/NY-0067-002.webp"
+  ]
  },
  {
   "id": "NY-0050",
@@ -405,13 +496,20 @@
   "lng": -74.61360094,
   "featured": false,
   "demo": false,
+  "description": "Relax with the whole family at this peaceful place to stay.",
   "photoAlts": {
    "images/NY-0050-cover.webp": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway, cabin in Margaretville, NY",
    "images/NY-0050-000.webp": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway, Margaretville, NY, photo 2 of 4",
    "images/NY-0050-001.webp": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway, Margaretville, NY, photo 3 of 4",
    "images/NY-0050-002.webp": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway, Margaretville, NY, photo 4 of 4",
    "images/NY-0050-card.webp": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway, cabin in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0050-cover.webp",
+   "images/NY-0050-000.webp",
+   "images/NY-0050-001.webp",
+   "images/NY-0050-002.webp"
+  ]
  },
  {
   "id": "NY-0052",
@@ -434,13 +532,20 @@
   "lng": -74.551128,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0052-cover.webp": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities, cabin in Roxbury, NY",
    "images/NY-0052-000.webp": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities, Roxbury, NY, photo 2 of 4",
    "images/NY-0052-001.webp": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities, Roxbury, NY, photo 3 of 4",
    "images/NY-0052-002.webp": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities, Roxbury, NY, photo 4 of 4",
    "images/NY-0052-card.webp": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities, cabin in Roxbury, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0052-cover.webp",
+   "images/NY-0052-000.webp",
+   "images/NY-0052-001.webp",
+   "images/NY-0052-002.webp"
+  ]
  },
  {
   "id": "NY-0058",
@@ -464,13 +569,20 @@
   "lng": -74.70035797233275,
   "featured": false,
   "demo": false,
+  "description": "Newly renovated home sprawled on 18 acres of land will give you the best the Catskills has to offer! Escape to the pristine clean air with breathtaking mountainous views.",
   "photoAlts": {
    "images/NY-0058-cover.webp": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat, house in Margaretville, NY",
    "images/NY-0058-000.webp": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat, Margaretville, NY, photo 2 of 4",
    "images/NY-0058-001.webp": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat, Margaretville, NY, photo 3 of 4",
    "images/NY-0058-002.webp": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat, Margaretville, NY, photo 4 of 4",
    "images/NY-0058-card.webp": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat, house in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0058-cover.webp",
+   "images/NY-0058-000.webp",
+   "images/NY-0058-001.webp",
+   "images/NY-0058-002.webp"
+  ]
  },
  {
   "id": "NY-0051",
@@ -494,13 +606,20 @@
   "lng": -74.593328,
   "featured": false,
   "demo": false,
+  "description": "Welcome to Fox Meadow Chalet, a serene A-frame retreat tucked away on a private road in the heart of the Catskills.",
   "photoAlts": {
    "images/NY-0051-cover.webp": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna, cabin in Margaretville, NY",
    "images/NY-0051-000.webp": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna, Margaretville, NY, photo 2 of 4",
    "images/NY-0051-001.webp": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna, Margaretville, NY, photo 3 of 4",
    "images/NY-0051-002.webp": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna, Margaretville, NY, photo 4 of 4",
    "images/NY-0051-card.webp": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna, cabin in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0051-cover.webp",
+   "images/NY-0051-000.webp",
+   "images/NY-0051-001.webp",
+   "images/NY-0051-002.webp"
+  ]
  },
  {
   "id": "NY-0060",
@@ -524,13 +643,20 @@
   "lng": -74.035211,
   "featured": false,
   "demo": false,
+  "description": "Fish for bass, unwind in the hot tub as eagles soar above, or kayak on the serene lake.",
   "photoAlts": {
    "images/NY-0060-cover.webp": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze, house in Cairo, NY",
    "images/NY-0060-000.webp": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze, Cairo, NY, photo 2 of 4",
    "images/NY-0060-001.webp": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze, Cairo, NY, photo 3 of 4",
    "images/NY-0060-002.webp": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze, Cairo, NY, photo 4 of 4",
    "images/NY-0060-card.webp": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze, house in Cairo, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0060-cover.webp",
+   "images/NY-0060-000.webp",
+   "images/NY-0060-001.webp",
+   "images/NY-0060-002.webp"
+  ]
  },
  {
   "id": "NY-0055",
@@ -554,13 +680,20 @@
   "lng": -74.93299277,
   "featured": false,
   "demo": false,
+  "description": "Trade the noise of everyday life for birdsong, lake breezes, and the kind of quiet you can actually hear.",
   "photoAlts": {
    "images/NY-0055-cover.webp": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres, house in Delancey, NY",
    "images/NY-0055-000.webp": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres, Delancey, NY, photo 2 of 4",
    "images/NY-0055-001.webp": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres, Delancey, NY, photo 3 of 4",
    "images/NY-0055-002.webp": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres, Delancey, NY, photo 4 of 4",
    "images/NY-0055-card.webp": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres, house in Delancey, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0055-cover.webp",
+   "images/NY-0055-000.webp",
+   "images/NY-0055-001.webp",
+   "images/NY-0055-002.webp"
+  ]
  },
  {
   "id": "NY-0056",
@@ -584,13 +717,20 @@
   "lng": -74.631928,
   "featured": false,
   "demo": false,
+  "description": "Unplug and relax in our Industrial/Scandinavian inspired cabin!!! Escape to the iconic Catskills Mountains surrounded by amazing views, farm to table restaurants, bespoke bars and quaint towns with antiquing, hiking, fishing, apple picking, distilleries, horseback riding, skiing, yoga, golfing, gall",
   "photoAlts": {
    "images/NY-0056-cover.webp": "Catskill Vacation Rentals — Modern • Cabin in the Catskills, cabin in Margaretville, NY",
    "images/NY-0056-000.webp": "Catskill Vacation Rentals — Modern • Cabin in the Catskills, Margaretville, NY, photo 2 of 4",
    "images/NY-0056-001.webp": "Catskill Vacation Rentals — Modern • Cabin in the Catskills, Margaretville, NY, photo 3 of 4",
    "images/NY-0056-002.webp": "Catskill Vacation Rentals — Modern • Cabin in the Catskills, Margaretville, NY, photo 4 of 4",
    "images/NY-0056-card.webp": "Catskill Vacation Rentals — Modern • Cabin in the Catskills, cabin in Margaretville, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0056-cover.webp",
+   "images/NY-0056-000.webp",
+   "images/NY-0056-001.webp",
+   "images/NY-0056-002.webp"
+  ]
  },
  {
   "id": "NY-0057",
@@ -614,13 +754,20 @@
   "lng": -74.57756042,
   "featured": false,
   "demo": false,
+  "description": "Welcome to the secluded retreat you're looking for! While we do have internet / wi-fi, our place is still the retreat from the world you need! On a quiet mountain hillside and down a private dirt road, is your cozy 3-bedroom, 1-bathroom cabin escape.",
   "photoAlts": {
    "images/NY-0057-cover.webp": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres, cabin in Fleischmanns, NY",
    "images/NY-0057-000.webp": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres, Fleischmanns, NY, photo 2 of 4",
    "images/NY-0057-001.webp": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres, Fleischmanns, NY, photo 3 of 4",
    "images/NY-0057-002.webp": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres, Fleischmanns, NY, photo 4 of 4",
    "images/NY-0057-card.webp": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres, cabin in Fleischmanns, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0057-cover.webp",
+   "images/NY-0057-000.webp",
+   "images/NY-0057-001.webp",
+   "images/NY-0057-002.webp"
+  ]
  },
  {
   "id": "NY-0063",
@@ -644,13 +791,20 @@
   "lng": -74.57019806,
   "featured": false,
   "demo": false,
+  "description": "Just you and the sky. If you're looking for privacy in nature, this house is for you.",
   "photoAlts": {
    "images/NY-0063-cover.webp": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views, cabin in Roxbury, NY",
    "images/NY-0063-000.webp": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views, Roxbury, NY, photo 2 of 4",
    "images/NY-0063-001.webp": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views, Roxbury, NY, photo 3 of 4",
    "images/NY-0063-002.webp": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views, Roxbury, NY, photo 4 of 4",
    "images/NY-0063-card.webp": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views, cabin in Roxbury, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0063-cover.webp",
+   "images/NY-0063-000.webp",
+   "images/NY-0063-001.webp",
+   "images/NY-0063-002.webp"
+  ]
  },
  {
   "id": "NY-0065",
@@ -674,13 +828,20 @@
   "lng": -74.340828,
   "featured": false,
   "demo": false,
+  "description": "House sits on 17 private acres in the picturesque Catskill Mountains, Ashland, NY.",
   "photoAlts": {
    "images/NY-0065-cover.webp": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains, house in Ashland, NY",
    "images/NY-0065-000.webp": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains, Ashland, NY, photo 2 of 4",
    "images/NY-0065-001.webp": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains, Ashland, NY, photo 3 of 4",
    "images/NY-0065-002.webp": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains, Ashland, NY, photo 4 of 4",
    "images/NY-0065-card.webp": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains, house in Ashland, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0065-cover.webp",
+   "images/NY-0065-000.webp",
+   "images/NY-0065-001.webp",
+   "images/NY-0065-002.webp"
+  ]
  },
  {
   "id": "NY-0053",
@@ -703,13 +864,20 @@
   "lng": -74.302867,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0053-cover.webp": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills, house in Phoenicia, NY",
    "images/NY-0053-000.webp": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills, Phoenicia, NY, photo 2 of 4",
    "images/NY-0053-001.webp": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills, Phoenicia, NY, photo 3 of 4",
    "images/NY-0053-002.webp": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills, Phoenicia, NY, photo 4 of 4",
    "images/NY-0053-card.webp": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills, house in Phoenicia, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0053-cover.webp",
+   "images/NY-0053-000.webp",
+   "images/NY-0053-001.webp",
+   "images/NY-0053-002.webp"
+  ]
  },
  {
   "id": "NY-0038",
@@ -733,12 +901,18 @@
   "lng": -74.3349,
   "featured": false,
   "demo": false,
+  "description": "Cozy three-bedroom cabin on the mountainside in the Spruceton Valley at West Kill, near Hunter, Windham and Phoenicia, with valley views and hiking from the door.",
   "photoAlts": {
    "images/NY-0038-cover.webp": "Catskills Cabin Retreat (catskills.house), cabin in West Kill, NY",
    "images/NY-0038-000.webp": "Catskills Cabin Retreat (catskills.house), West Kill, NY, photo 2 of 3",
    "images/NY-0038-001.webp": "Catskills Cabin Retreat (catskills.house), West Kill, NY, photo 3 of 3",
    "images/NY-0038-card.webp": "Catskills Cabin Retreat (catskills.house), cabin in West Kill, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0038-cover.webp",
+   "images/NY-0038-000.webp",
+   "images/NY-0038-001.webp"
+  ]
  },
  {
   "id": "NY-0042",
@@ -762,12 +936,19 @@
   "lng": -73.9401411,
   "featured": false,
   "demo": false,
+  "description": "Seven-bedroom house in Cairo at the northern Catskills' edge, built for large groups.",
   "photoAlts": {
    "images/NY-0042-cover.webp": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway, house in Cairo, NY",
    "images/NY-0042-000.webp": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway, Cairo, NY, photo 2 of 4",
    "images/NY-0042-001.webp": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway, Cairo, NY, photo 3 of 4",
    "images/NY-0042-002.webp": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway, Cairo, NY, photo 4 of 4",
    "images/NY-0042-card.webp": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway, house in Cairo, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0042-cover.webp",
+   "images/NY-0042-000.webp",
+   "images/NY-0042-001.webp",
+   "images/NY-0042-002.webp"
+  ]
  }
 ]

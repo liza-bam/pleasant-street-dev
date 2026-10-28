@@ -20,6 +20,7 @@
   "lng": -73.3943,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Lake Champlain Escape Vermont, house in West Addison, VT"
   }
@@ -52,10 +53,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Locally owned lakefront suites and cottages in Colchester, with private beaches, kitchens and access to Lake Champlain.",
   "photoAlts": {
    "images/VT-0003-cover.png": "Lakeshore Vermont Inn & Suites, Colchester, VT",
    "images/VT-0003-card.webp": "Lakeshore Vermont Inn & Suites, Colchester, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0003-cover.png"
+  ]
  },
  {
   "id": "VT-0056",
@@ -84,10 +89,14 @@
   "lng": -73.2901,
   "featured": false,
   "demo": false,
+  "description": "Three housekeeping cottages on Kings Bay in North Hero, each with two bedrooms, kitchen and screened porch.",
   "photoAlts": {
    "images/VT-0056-cover.jpg": "Parker Lodge Housekeeping Cottages, cabin in North Hero, VT",
    "images/VT-0056-card.webp": "Parker Lodge Housekeeping Cottages, cabin in North Hero, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0056-cover.jpg"
+  ]
  },
  {
   "id": "VT-0006",
@@ -110,6 +119,7 @@
   "lng": -73.2901,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Shore Acres Inn & Restaurant, house in North Hero, VT"
   }

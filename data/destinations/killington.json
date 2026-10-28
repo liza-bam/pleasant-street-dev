@@ -20,6 +20,7 @@
   "lng": -72.6342,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Earthwise Farm & Forest, house in Bethel, VT"
   }
@@ -45,6 +46,7 @@
   "lng": -72.5213,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Four Springs Farm, Campground & Learning Center, cabin in Royalton, VT"
   }
@@ -77,10 +79,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "A Killington vacation rental manager offering houses and condos, with direct guest inquiries and reservations.",
   "photoAlts": {
    "images/VT-0033-cover.jpg": "Killington Mountain Homes, Killington, VT",
    "images/VT-0033-card.webp": "Killington Mountain Homes, Killington, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0033-cover.jpg"
+  ]
  },
  {
   "id": "VT-0053",
@@ -109,10 +115,14 @@
   "lng": -73.0338,
   "featured": false,
   "demo": false,
+  "description": "Seven timber-frame cabins in Ripton, with full kitchens, screened porches and woodland access in the Green Mountains.",
   "photoAlts": {
    "images/VT-0053-cover.jpg": "Robert Frost Mountain Cabins, cabin in Ripton, VT",
    "images/VT-0053-card.webp": "Robert Frost Mountain Cabins, cabin in Ripton, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0053-cover.jpg"
+  ]
  },
  {
   "id": "VT-0068",
@@ -142,10 +152,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "A Killington-based rental manager offering vacation houses and condos, direct bookings and local guest support.",
   "photoAlts": {
    "images/VT-0068-cover.avif": "Simple Vacation Rentals, Killington, VT",
    "images/VT-0068-card.webp": "Simple Vacation Rentals, Killington, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0068-cover.avif"
+  ]
  },
  {
   "id": "VT-0058",
@@ -181,10 +195,14 @@
   "lng": -72.7218,
   "featured": false,
   "demo": false,
+  "description": "A four-bedroom ski chalet in Plymouth sleeping eight, with two bathrooms, decks and a hot tub.",
   "photoAlts": {
    "images/VT-0058-cover.jpg": "The Arched Chalet, house in Plymouth, VT",
    "images/VT-0058-card.webp": "The Arched Chalet, house in Plymouth, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0058-cover.jpg"
+  ]
  },
  {
   "id": "VT-0005",
@@ -213,13 +231,20 @@
   "lng": -72.6989,
   "featured": false,
   "demo": false,
+  "description": "A restored Victorian vacation house above the White River in Gaysville, sleeping ten in five en suite bedrooms.",
   "photoAlts": {
    "images/VT-0005-000.jpg": "The Cobble House, house in Gaysville, VT",
    "images/VT-0005-001.jpg": "The Cobble House, Gaysville, VT, photo 2 of 4",
    "images/VT-0005-002.jpg": "The Cobble House, Gaysville, VT, photo 3 of 4",
    "images/VT-0005-cover.jpg": "The Cobble House, house in Gaysville, VT",
    "images/VT-0005-card.webp": "The Cobble House, house in Gaysville, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0005-000.jpg",
+   "images/VT-0005-001.jpg",
+   "images/VT-0005-002.jpg",
+   "images/VT-0005-cover.jpg"
+  ]
  },
  {
   "id": "VT-0052",
@@ -255,10 +280,14 @@
   "lng": -72.7547,
   "featured": false,
   "demo": false,
+  "description": "A four-bedroom mountain chalet in Stockbridge sleeping eight, with decks, fireplace and sauna.",
   "photoAlts": {
    "images/VT-0052-cover.png": "The Gnome Home, house in Stockbridge, VT",
    "images/VT-0052-card.webp": "The Gnome Home, house in Stockbridge, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0052-cover.png"
+  ]
  },
  {
   "id": "VT-0022",
@@ -281,6 +310,7 @@
   "lng": -72.7784,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "The Killington Group, house in Killington, VT"
   }

@@ -26,10 +26,14 @@
   "lng": -72.4713,
   "featured": false,
   "demo": false,
+  "description": "Loft and cabin accommodations in Brownsville, with direct booking and owner contact; other operator homes have separate locations.",
   "photoAlts": {
    "images/VT-0071-cover.jpg": "Ascutney Lofts, Brownsville, VT",
    "images/VT-0071-card.webp": "Ascutney Lofts, Brownsville, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0071-cover.jpg"
+  ]
  },
  {
   "id": "VT-0001",
@@ -58,13 +62,20 @@
   "lng": -72.3991,
   "featured": false,
   "demo": false,
+  "description": "Five private cabins on a working farm in Hartland, with hill views, farm activities and family stays.",
   "photoAlts": {
    "images/VT-0001-000.jpg": "Fat Sheep Farm & Cabins, cabin in Hartland, VT",
    "images/VT-0001-001.jpg": "Fat Sheep Farm & Cabins, Hartland, VT, photo 2 of 4",
    "images/VT-0001-002.jpg": "Fat Sheep Farm & Cabins, Hartland, VT, photo 3 of 4",
    "images/VT-0001-cover.jpg": "Fat Sheep Farm & Cabins, cabin in Hartland, VT",
    "images/VT-0001-card.webp": "Fat Sheep Farm & Cabins, cabin in Hartland, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0001-000.jpg",
+   "images/VT-0001-001.jpg",
+   "images/VT-0001-002.jpg",
+   "images/VT-0001-cover.jpg"
+  ]
  },
  {
   "id": "VT-0034",
@@ -93,10 +104,14 @@
   "lng": -72.3776,
   "featured": false,
   "demo": false,
+  "description": "Woodland cottage lodging and retreats in Strafford, with direct contact to the owner.",
   "photoAlts": {
    "images/VT-0034-cover.jpg": "Kumari of the Woods, cabin in Strafford, VT",
    "images/VT-0034-card.webp": "Kumari of the Woods, cabin in Strafford, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0034-cover.jpg"
+  ]
  },
  {
   "id": "VT-0070",
@@ -119,6 +134,7 @@
   "lng": -72.7012,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Lake Rescue Chalet, house in Ludlow, VT"
   }
@@ -144,6 +160,7 @@
   "lng": -72.7012,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "William Raveis Vermont Properties, house in Ludlow, VT"
   }

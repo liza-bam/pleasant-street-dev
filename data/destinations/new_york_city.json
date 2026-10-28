@@ -31,13 +31,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Times Square one-bedroom penthouse apartment with a kitchen, private balcony and skyline views;30-night minimum stay.",
   "photoAlts": {
    "images/NY-0014-cover.webp": "Penthouse5B — Penthouse Apartment in Times Square NYC, apartment in New York, NY",
    "images/NY-0014-000.webp": "Penthouse5B — Penthouse Apartment in Times Square NYC, New York, NY, photo 2 of 4",
    "images/NY-0014-001.webp": "Penthouse5B — Penthouse Apartment in Times Square NYC, New York, NY, photo 3 of 4",
    "images/NY-0014-002.webp": "Penthouse5B — Penthouse Apartment in Times Square NYC, New York, NY, photo 4 of 4",
    "images/NY-0014-card.webp": "Penthouse5B — Penthouse Apartment in Times Square NYC, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0014-cover.webp",
+   "images/NY-0014-000.webp",
+   "images/NY-0014-001.webp",
+   "images/NY-0014-002.webp"
+  ]
  },
  {
   "id": "NY-0001",
@@ -67,13 +74,20 @@
   "locationLabel": "Building location",
   "featured": false,
   "demo": false,
+  "description": "Manhattan two-bedroom apartment category with kitchenette, dining area and separate living area.",
   "photoAlts": {
    "images/NY-0001-cover.webp": "Radio City Apartments — Two Bedroom category, apartment in New York, NY",
    "images/NY-0001-000.webp": "Radio City Apartments — Two Bedroom category, New York, NY, photo 2 of 4",
    "images/NY-0001-001.webp": "Radio City Apartments — Two Bedroom category, New York, NY, photo 3 of 4",
    "images/NY-0001-002.webp": "Radio City Apartments — Two Bedroom category, New York, NY, photo 4 of 4",
    "images/NY-0001-card.webp": "Radio City Apartments — Two Bedroom category, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0001-cover.webp",
+   "images/NY-0001-000.webp",
+   "images/NY-0001-001.webp",
+   "images/NY-0001-002.webp"
+  ]
  },
  {
   "id": "NY-0017",
@@ -108,13 +122,20 @@
   "locationLabel": "Location unverified",
   "featured": false,
   "demo": false,
+  "description": "Harlem two-bedroom apartment with king and queen beds, two bathrooms, a full kitchen and workspace.",
   "photoAlts": {
    "images/NY-0017-cover.webp": "The Uptown Cosy Haven, apartment in New York, NY",
    "images/NY-0017-000.webp": "The Uptown Cosy Haven, New York, NY, photo 2 of 4",
    "images/NY-0017-001.webp": "The Uptown Cosy Haven, New York, NY, photo 3 of 4",
    "images/NY-0017-002.webp": "The Uptown Cosy Haven, New York, NY, photo 4 of 4",
    "images/NY-0017-card.webp": "The Uptown Cosy Haven, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0017-cover.webp",
+   "images/NY-0017-000.webp",
+   "images/NY-0017-001.webp",
+   "images/NY-0017-002.webp"
+  ]
  },
  {
   "id": "NY-0022",
@@ -144,13 +165,20 @@
   "locationLabel": "Building location",
   "featured": false,
   "demo": false,
+  "description": "Gramercy one-bedroom apartment with queen bed, kitchen, in-unit washer and dryer and a30dayminimum.",
   "photoAlts": {
    "images/NY-0022-cover.webp": "Urban Furnished 22-4C Gramercy, apartment in New York, NY",
    "images/NY-0022-000.webp": "Urban Furnished 22-4C Gramercy, New York, NY, photo 2 of 4",
    "images/NY-0022-001.webp": "Urban Furnished 22-4C Gramercy, New York, NY, photo 3 of 4",
    "images/NY-0022-002.webp": "Urban Furnished 22-4C Gramercy, New York, NY, photo 4 of 4",
    "images/NY-0022-card.webp": "Urban Furnished 22-4C Gramercy, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0022-cover.webp",
+   "images/NY-0022-000.webp",
+   "images/NY-0022-001.webp",
+   "images/NY-0022-002.webp"
+  ]
  },
  {
   "id": "NY-0024",
@@ -180,13 +208,20 @@
   "locationLabel": "Building location",
   "featured": false,
   "demo": false,
+  "description": "Gramercy one-bedroom apartment with queen bed, kitchen and in-unit washer and dryer;30dayminimum.",
   "photoAlts": {
    "images/NY-0024-cover.webp": "Urban Furnished 22-5C Gramercy, apartment in New York, NY",
    "images/NY-0024-000.webp": "Urban Furnished 22-5C Gramercy, New York, NY, photo 2 of 4",
    "images/NY-0024-001.webp": "Urban Furnished 22-5C Gramercy, New York, NY, photo 3 of 4",
    "images/NY-0024-002.webp": "Urban Furnished 22-5C Gramercy, New York, NY, photo 4 of 4",
    "images/NY-0024-card.webp": "Urban Furnished 22-5C Gramercy, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0024-cover.webp",
+   "images/NY-0024-000.webp",
+   "images/NY-0024-001.webp",
+   "images/NY-0024-002.webp"
+  ]
  },
  {
   "id": "NY-0025",
@@ -216,13 +251,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "SoHo one-bedroom apartment with queen bed, kitchen, dishwasher and in-unit washer and dryer;30dayminimum.",
   "photoAlts": {
    "images/NY-0025-cover.webp": "Urban Furnished 246-9 SoHo, apartment in New York, NY",
    "images/NY-0025-000.webp": "Urban Furnished 246-9 SoHo, New York, NY, photo 2 of 4",
    "images/NY-0025-001.webp": "Urban Furnished 246-9 SoHo, New York, NY, photo 3 of 4",
    "images/NY-0025-002.webp": "Urban Furnished 246-9 SoHo, New York, NY, photo 4 of 4",
    "images/NY-0025-card.webp": "Urban Furnished 246-9 SoHo, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0025-cover.webp",
+   "images/NY-0025-000.webp",
+   "images/NY-0025-001.webp",
+   "images/NY-0025-002.webp"
+  ]
  },
  {
   "id": "NY-0028",
@@ -252,13 +294,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Upper East Side furnished apartment with two queen beds, kitchen and in-unit washer and dryer;30dayminimum.",
   "photoAlts": {
    "images/NY-0028-cover.webp": "Urban Furnished 345-2A, apartment in New York, NY",
    "images/NY-0028-000.webp": "Urban Furnished 345-2A, New York, NY, photo 2 of 4",
    "images/NY-0028-001.webp": "Urban Furnished 345-2A, New York, NY, photo 3 of 4",
    "images/NY-0028-002.webp": "Urban Furnished 345-2A, New York, NY, photo 4 of 4",
    "images/NY-0028-card.webp": "Urban Furnished 345-2A, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0028-cover.webp",
+   "images/NY-0028-000.webp",
+   "images/NY-0028-001.webp",
+   "images/NY-0028-002.webp"
+  ]
  },
  {
   "id": "NY-0019",
@@ -288,13 +337,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Upper East Side furnished apartment with kitchen, in-unit washer and dryer and two queen beds;30dayminimum.",
   "photoAlts": {
    "images/NY-0019-cover.webp": "Urban Furnished 345-3A, apartment in New York, NY",
    "images/NY-0019-000.webp": "Urban Furnished 345-3A, New York, NY, photo 2 of 4",
    "images/NY-0019-001.webp": "Urban Furnished 345-3A, New York, NY, photo 3 of 4",
    "images/NY-0019-002.webp": "Urban Furnished 345-3A, New York, NY, photo 4 of 4",
    "images/NY-0019-card.webp": "Urban Furnished 345-3A, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0019-cover.webp",
+   "images/NY-0019-000.webp",
+   "images/NY-0019-001.webp",
+   "images/NY-0019-002.webp"
+  ]
  },
  {
   "id": "NY-0023",
@@ -324,13 +380,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Upper East Side furnished apartment with two queen beds, a kitchen, in-unit washer and dryer and a30dayminimum.",
   "photoAlts": {
    "images/NY-0023-cover.webp": "Urban Furnished 347-4A, apartment in New York, NY",
    "images/NY-0023-000.webp": "Urban Furnished 347-4A, New York, NY, photo 2 of 4",
    "images/NY-0023-001.webp": "Urban Furnished 347-4A, New York, NY, photo 3 of 4",
    "images/NY-0023-002.webp": "Urban Furnished 347-4A, New York, NY, photo 4 of 4",
    "images/NY-0023-card.webp": "Urban Furnished 347-4A, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0023-cover.webp",
+   "images/NY-0023-000.webp",
+   "images/NY-0023-001.webp",
+   "images/NY-0023-002.webp"
+  ]
  },
  {
   "id": "NY-0027",
@@ -360,13 +423,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Hell’s Kitchen one-bedroom apartment with king bed, kitchen and shared doorman, gym and laundry;30dayminimum.",
   "photoAlts": {
    "images/NY-0027-cover.webp": "Urban Furnished 43-11D Hell’s Kitchen, apartment in New York, NY",
    "images/NY-0027-000.webp": "Urban Furnished 43-11D Hell’s Kitchen, New York, NY, photo 2 of 4",
    "images/NY-0027-001.webp": "Urban Furnished 43-11D Hell’s Kitchen, New York, NY, photo 3 of 4",
    "images/NY-0027-002.webp": "Urban Furnished 43-11D Hell’s Kitchen, New York, NY, photo 4 of 4",
    "images/NY-0027-card.webp": "Urban Furnished 43-11D Hell’s Kitchen, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0027-cover.webp",
+   "images/NY-0027-000.webp",
+   "images/NY-0027-001.webp",
+   "images/NY-0027-002.webp"
+  ]
  },
  {
   "id": "NY-0026",
@@ -396,13 +466,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Hell’s Kitchen two-bedroom apartment with king and queen beds, kitchen, shared gym and laundry;30dayminimum.",
   "photoAlts": {
    "images/NY-0026-cover.webp": "Urban Furnished 43-11E Hell’s Kitchen, apartment in New York, NY",
    "images/NY-0026-000.webp": "Urban Furnished 43-11E Hell’s Kitchen, New York, NY, photo 2 of 4",
    "images/NY-0026-001.webp": "Urban Furnished 43-11E Hell’s Kitchen, New York, NY, photo 3 of 4",
    "images/NY-0026-002.webp": "Urban Furnished 43-11E Hell’s Kitchen, New York, NY, photo 4 of 4",
    "images/NY-0026-card.webp": "Urban Furnished 43-11E Hell’s Kitchen, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0026-cover.webp",
+   "images/NY-0026-000.webp",
+   "images/NY-0026-001.webp",
+   "images/NY-0026-002.webp"
+  ]
  },
  {
   "id": "NY-0021",
@@ -432,13 +509,20 @@
   "locationLabel": "Location unverified",
   "featured": false,
   "demo": false,
+  "description": "Upper West Side two-bedroom apartment with king and queen beds, kitchen and shared gym and laundry;30dayminimum.",
   "photoAlts": {
    "images/NY-0021-cover.webp": "Urban Furnished 97-1A Upper West Side, apartment in New York, NY",
    "images/NY-0021-000.webp": "Urban Furnished 97-1A Upper West Side, New York, NY, photo 2 of 4",
    "images/NY-0021-001.webp": "Urban Furnished 97-1A Upper West Side, New York, NY, photo 3 of 4",
    "images/NY-0021-002.webp": "Urban Furnished 97-1A Upper West Side, New York, NY, photo 4 of 4",
    "images/NY-0021-card.webp": "Urban Furnished 97-1A Upper West Side, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0021-cover.webp",
+   "images/NY-0021-000.webp",
+   "images/NY-0021-001.webp",
+   "images/NY-0021-002.webp"
+  ]
  },
  {
   "id": "NY-0020",
@@ -468,12 +552,19 @@
   "locationLabel": "Location unverified",
   "featured": false,
   "demo": false,
+  "description": "Furnished one-bedroom apartment off Chrystie Street with a queen bed, kitchen, city views and a30dayminimum.",
   "photoAlts": {
    "images/NY-0020-cover.webp": "Urban Furnished Freeman Alley SoHo 1BR, apartment in New York, NY",
    "images/NY-0020-000.webp": "Urban Furnished Freeman Alley SoHo 1BR, New York, NY, photo 2 of 4",
    "images/NY-0020-001.webp": "Urban Furnished Freeman Alley SoHo 1BR, New York, NY, photo 3 of 4",
    "images/NY-0020-002.webp": "Urban Furnished Freeman Alley SoHo 1BR, New York, NY, photo 4 of 4",
    "images/NY-0020-card.webp": "Urban Furnished Freeman Alley SoHo 1BR, apartment in New York, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0020-cover.webp",
+   "images/NY-0020-000.webp",
+   "images/NY-0020-001.webp",
+   "images/NY-0020-002.webp"
+  ]
  }
 ]

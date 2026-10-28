@@ -26,12 +26,19 @@
   "lng": -119.6,
   "featured": true,
   "demo": false,
+  "description": "A 1,300 sq ft walkout suite in West Kelowna with a private seasonal pool, hot tub, infrared sauna, covered deck and lake views.",
   "photoAlts": {
    "images/demos/LAZY-beautyview-lakeview-suite-cover.webp": "Beautyview Lakeview suite, house in West Kelowna, BC",
    "images/demos/LAZY-beautyview-lakeview-suite-000.webp": "Beautyview Lakeview suite, West Kelowna, BC, photo 2 of 4",
    "images/demos/LAZY-beautyview-lakeview-suite-001.webp": "Beautyview Lakeview suite, West Kelowna, BC, photo 3 of 4",
    "images/demos/LAZY-beautyview-lakeview-suite-002.webp": "Beautyview Lakeview suite, West Kelowna, BC, photo 4 of 4",
    "images/LAZY-beautyview-lakeview-suite-card.webp": "Beautyview Lakeview suite, house in West Kelowna, BC"
-  }
+  },
+  "allPhotos": [
+   "images/demos/LAZY-beautyview-lakeview-suite-cover.webp",
+   "images/demos/LAZY-beautyview-lakeview-suite-000.webp",
+   "images/demos/LAZY-beautyview-lakeview-suite-001.webp",
+   "images/demos/LAZY-beautyview-lakeview-suite-002.webp"
+  ]
  }
 ]

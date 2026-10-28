@@ -267,7 +267,11 @@
     var cut = s.slice(0, 149).replace(/\s+\S*$/, '');
     return cut.replace(/[.,;:!?\s]+$/, '') + '…';
   }
-  function photoSet(h) {
+  function photoSet(h, all) {
+    if (all && h.allPhotos && h.allPhotos.length) {   // the opened card: every photo, cover first
+      var every = [h.coverPhoto].concat(h.cardPhotos || [], h.allPhotos);
+      return every.filter(function (f, i) { return known(f) && every.indexOf(f) === i; });
+    }
     if (h.cardPhotos && h.cardPhotos.length) return h.cardPhotos.slice(0, 3);
     var files = [h.coverPhoto].concat((h.photos || []).map(function (p) { return typeof p === 'string' ? p : p.file; }));
     var set = files.filter(function (f, i) { return known(f) && files.indexOf(f) === i; }).slice(0, 3);
@@ -280,8 +284,20 @@
     }).join('');
   }
   function madeBadge() { return '<a class="ps-claim-badge ps-made-badge" href="https://lazy.vacations/start/" target="_blank" rel="noopener" aria-label="Made with LAZY — get your free website"><img class="ps-claim-badge__logo" src="favicon.ico" alt="" width="20" height="20"><span>Made with LAZY</span></a>'; }
+  /* The opened card: what the host's site does not say, named, so the guest knows to ask. */
+  function unknownsLine(h) {
+    var gaps = [['guests', 'how many it sleeps'], ['bedrooms', 'bedrooms'], ['bathrooms', 'bathrooms'], ['pets', 'pets'], ['kids', 'children'], ['type', 'the type of home']]
+      .filter(function (f) { return !known(h[f[0]]); }).map(function (f) { return f[1]; });
+    var ask = ['pets', 'kids'].filter(function (k) { return h[k] === 'Conditional'; }).map(function (k) { return k === 'kids' ? 'children' : k; });
+    if (!gaps.length && !ask.length) return '';
+    return '<p class="ps-home__unknown">' + (gaps.length ? 'The host’s website doesn’t say: ' + esc(gaps.join(', ')) + '. ' : '') + (ask.length ? 'Ask the host about ' + esc(ask.join(' and ')) + '. ' : '') + 'Check with them before you book.</p>';
+  }
+  function fullDescription(h) {
+    var s = known(h.description) ? h.description : h.cardDescription;
+    return known(s) ? String(s).replace(/\s+/g, ' ').trim() : 'Description not yet available.';
+  }
   function fullCard(h, missing, tiny, detail) {
-    var images = photoSet(h);
+    var images = photoSet(h, detail);
     var displayPlace = h.place + (h.locationLabel ? ' · ' + h.locationLabel : '');
     var slots = tiny ? [0] : detail ? (images.length ? images.map(function (_, i) { return i; }) : [0]) : [0, 1, 2];
     var gallery = slots.map(function (i) {
@@ -292,7 +308,8 @@
       '<div class="ps-gallery">' + listingBadge(h) + (h.featured ? madeBadge() : detail ? '' : '<a class="ps-claim-badge" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' on Pleasant Street by email"><img class="ps-claim-badge__logo" src="favicon.ico" alt="LAZY" width="20" height="20"><span>Claim your house</span></a>') + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
       (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true"' + (images.length <= 1 ? ' hidden' : '') + '>' + images.map(function (_, i) { return '<span' + (i ? '' : ' class="is-active"') + '></span>'; }).join('') + '</span>' : gallery) + '</div>' +
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(displayPlace) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(displayPlace) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
-      (tiny ? '' : '<p class="ps-home__description">' + (h.loaded ? esc(shortDescription(h.cardDescription || h.description)) : '') + '</p>') +
+      (tiny ? '' : '<p class="ps-home__description">' + (h.loaded ? esc(detail ? fullDescription(h) : shortDescription(h.cardDescription || h.description)) : '') + '</p>') +
+      (detail && h.loaded ? unknownsLine(h) : '') +
       (factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +

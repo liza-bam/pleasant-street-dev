@@ -26,13 +26,20 @@
   "lng": -70.7901,
   "featured": false,
   "demo": false,
+  "description": "Boutique vacation rentals, property management, interior design, and photography in Bethel & Newry, Maine.",
   "photoAlts": {
    "images/ME-0132-cover.jpg": "Stay Hygge, Bethel / Newry, ME",
    "images/ME-0132-000.jpg": "Stay Hygge, Bethel / Newry, ME, photo 2 of 4",
    "images/ME-0132-001.jpg": "Stay Hygge, Bethel / Newry, ME, photo 3 of 4",
    "images/ME-0132-002.jpg": "Stay Hygge, Bethel / Newry, ME, photo 4 of 4",
    "images/ME-0132-card.webp": "Stay Hygge, Bethel / Newry, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0132-cover.jpg",
+   "images/ME-0132-000.jpg",
+   "images/ME-0132-001.jpg",
+   "images/ME-0132-002.jpg"
+  ]
  },
  {
   "id": "ME-0186",
@@ -61,13 +68,20 @@
   "lng": -70.88751,
   "featured": false,
   "demo": false,
+  "description": "The Glen House at Sunday River Large family vacation Rental in Maine ski and golf",
   "photoAlts": {
    "images/ME-0186-cover.jpg": "The Glen House, house in Newry, ME",
    "images/ME-0186-000.jpg": "The Glen House, Newry, ME, photo 2 of 4",
    "images/ME-0186-001.jpg": "The Glen House, Newry, ME, photo 3 of 4",
    "images/ME-0186-002.jpg": "The Glen House, Newry, ME, photo 4 of 4",
    "images/ME-0186-card.webp": "The Glen House, house in Newry, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0186-cover.jpg",
+   "images/ME-0186-000.jpg",
+   "images/ME-0186-001.jpg",
+   "images/ME-0186-002.jpg"
+  ]
  },
  {
   "id": "ME-0363",
@@ -96,13 +110,20 @@
   "lng": -70.7311111,
   "featured": false,
   "demo": false,
+  "description": "The Retreat is a five-bedroom home on a private wooded road near Bethel and the area's ski mountains. Several gathering spaces give families and friends room to spend time together.",
   "photoAlts": {
    "images/ME-0363-cover.jpg": "The Retreat in Bethel, Maine, house in Bethel, ME",
    "images/ME-0363-000.jpg": "The Retreat in Bethel, Maine, Bethel, ME, photo 2 of 4",
    "images/ME-0363-001.jpg": "The Retreat in Bethel, Maine, Bethel, ME, photo 3 of 4",
    "images/ME-0363-002.jpg": "The Retreat in Bethel, Maine, Bethel, ME, photo 4 of 4",
    "images/ME-0363-card.webp": "The Retreat in Bethel, Maine, house in Bethel, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0363-cover.jpg",
+   "images/ME-0363-000.jpg",
+   "images/ME-0363-001.jpg",
+   "images/ME-0363-002.jpg"
+  ]
  },
  {
   "id": "ME-0187",
@@ -131,10 +152,14 @@
   "lng": -70.8011,
   "featured": false,
   "demo": false,
+  "description": "Luxury vacation homes and rentals across Maine, thoughtfully designed and warmly hosted. Book directly with TimbrLux Stays for an effortless getaway.",
   "photoAlts": {
    "images/ME-0187-cover.jpg": "TimbrLux Stays, Newry / Sunday River, ME",
    "images/ME-0187-card.webp": "TimbrLux Stays, Newry / Sunday River, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0187-cover.jpg"
+  ]
  },
  {
   "id": "ME-0233",
@@ -164,12 +189,19 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Find vacation rentals in the Sunday River and Bethel area. Browse locally managed homes. Pet friendly options, hot tubs, amazing views, waterfront properties.",
   "photoAlts": {
    "images/ME-0233-cover.webp": "Visit Sunday River Vacation Rentals, Bethel / Sunday River, ME",
    "images/ME-0233-000.webp": "Visit Sunday River Vacation Rentals, Bethel / Sunday River, ME, photo 2 of 4",
    "images/ME-0233-001.webp": "Visit Sunday River Vacation Rentals, Bethel / Sunday River, ME, photo 3 of 4",
    "images/ME-0233-002.webp": "Visit Sunday River Vacation Rentals, Bethel / Sunday River, ME, photo 4 of 4",
    "images/ME-0233-card.webp": "Visit Sunday River Vacation Rentals, Bethel / Sunday River, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0233-cover.webp",
+   "images/ME-0233-000.webp",
+   "images/ME-0233-001.webp",
+   "images/ME-0233-002.webp"
+  ]
  }
 ]

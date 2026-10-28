@@ -26,12 +26,19 @@
   "lng": -122.67,
   "featured": true,
   "demo": false,
+  "description": "The private Finnish sauna seats four and sits in the backyard. After time on the water, enjoy the warmth, then step outside for fresh air and the view.",
   "photoAlts": {
    "images/demos/LAZY-clearlake-paradise-cover.webp": "Clearlake Paradise, Clearlake Oaks, CA",
    "images/demos/LAZY-clearlake-paradise-000.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 2 of 4",
    "images/demos/LAZY-clearlake-paradise-001.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 3 of 4",
    "images/demos/LAZY-clearlake-paradise-002.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 4 of 4",
    "images/LAZY-clearlake-paradise-card.webp": "Clearlake Paradise, Clearlake Oaks, CA"
-  }
+  },
+  "allPhotos": [
+   "images/demos/LAZY-clearlake-paradise-cover.webp",
+   "images/demos/LAZY-clearlake-paradise-000.webp",
+   "images/demos/LAZY-clearlake-paradise-001.webp",
+   "images/demos/LAZY-clearlake-paradise-002.webp"
+  ]
  }
 ]

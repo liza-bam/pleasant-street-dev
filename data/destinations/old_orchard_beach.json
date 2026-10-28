@@ -30,13 +30,20 @@
   "lng": -70.443,
   "featured": false,
   "demo": false,
+  "description": "Gather at a historic Saco farmhouse with eight bedrooms, an indoor heated pool, and a kitchen equipped for group meals. Austin House sits within the River Winds estate, with lawns, a pond, and trails toward the river.",
   "photoAlts": {
    "images/ME-0309-cover.jpg": "Austin House — River Winds Farm & Estate, house in Saco, ME",
    "images/ME-0309-000.jpg": "Austin House — River Winds Farm & Estate, Saco, ME, photo 2 of 4",
    "images/ME-0309-001.jpg": "Austin House — River Winds Farm & Estate, Saco, ME, photo 3 of 4",
    "images/ME-0309-002.jpg": "Austin House — River Winds Farm & Estate, Saco, ME, photo 4 of 4",
    "images/ME-0309-card.webp": "Austin House — River Winds Farm & Estate, house in Saco, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0309-cover.jpg",
+   "images/ME-0309-000.jpg",
+   "images/ME-0309-001.jpg",
+   "images/ME-0309-002.jpg"
+  ]
  },
  {
   "id": "ME-0265",
@@ -65,13 +72,20 @@
   "lng": -70.3562,
   "featured": false,
   "demo": false,
+  "description": "Owner-managed vacation rentals near the beach in Old Orchard Beach, Maine. Direct booking with Jill — no platform fees.",
   "photoAlts": {
    "images/ME-0265-cover.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME",
    "images/ME-0265-000.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0265-001.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0265-002.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0265-card.webp": "Beach Girl Property Rentals, Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0265-cover.jpg",
+   "images/ME-0265-000.jpg",
+   "images/ME-0265-001.jpg",
+   "images/ME-0265-002.jpg"
+  ]
  },
  {
   "id": "ME-0382",
@@ -100,13 +114,20 @@
   "lng": -70.3815362,
   "featured": false,
   "demo": false,
+  "description": "A ground-floor, two-bedroom condo near the beach and Old Orchard's downtown attractions. The second bedroom includes bunks with a full-sized lower bed; this unit has one bathroom.",
   "photoAlts": {
    "images/ME-0382-cover.jpg": "Beachside Abode 1A, house in Old Orchard Beach, ME",
    "images/ME-0382-000.jpg": "Beachside Abode 1A, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0382-001.jpg": "Beachside Abode 1A, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0382-002.jpg": "Beachside Abode 1A, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0382-card.webp": "Beachside Abode 1A, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0382-cover.jpg",
+   "images/ME-0382-000.jpg",
+   "images/ME-0382-001.jpg",
+   "images/ME-0382-002.jpg"
+  ]
  },
  {
   "id": "ME-0402",
@@ -135,13 +156,20 @@
   "lng": -70.3815362,
   "featured": false,
   "demo": false,
+  "description": "An upstairs, two-bedroom condo with a private balcony and open kitchen-living space. The second room has a bunk bed, and guests can walk to the beach and downtown Old Orchard attractions.",
   "photoAlts": {
    "images/ME-0402-cover.jpg": "Beachside Abode 2A, house in Old Orchard Beach, ME",
    "images/ME-0402-000.jpg": "Beachside Abode 2A, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0402-001.jpg": "Beachside Abode 2A, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0402-002.jpg": "Beachside Abode 2A, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0402-card.webp": "Beachside Abode 2A, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0402-cover.jpg",
+   "images/ME-0402-000.jpg",
+   "images/ME-0402-001.jpg",
+   "images/ME-0402-002.jpg"
+  ]
  },
  {
   "id": "ME-0393",
@@ -170,13 +198,20 @@
   "lng": -70.3815362,
   "featured": false,
   "demo": false,
+  "description": "This upstairs, two-bedroom condo has an open kitchen and living area leading to a private balcony. Guests are close to the beach and a short distance from Old Orchard's pier and amusements.",
   "photoAlts": {
    "images/ME-0393-cover.jpg": "Beachside Abode 2B, house in Old Orchard Beach, ME",
    "images/ME-0393-000.jpg": "Beachside Abode 2B, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0393-001.jpg": "Beachside Abode 2B, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0393-002.jpg": "Beachside Abode 2B, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0393-card.webp": "Beachside Abode 2B, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0393-cover.jpg",
+   "images/ME-0393-000.jpg",
+   "images/ME-0393-001.jpg",
+   "images/ME-0393-002.jpg"
+  ]
  },
  {
   "id": "ME-0144",
@@ -205,11 +240,16 @@
   "lng": -70.38114,
   "featured": false,
   "demo": false,
+  "description": "Blue Pearl Cottage, Camp Ellis Beach, Saco Maine, Ocean View",
   "photoAlts": {
    "images/ME-0144-cover.jpg": "Blue Pearl Cottage, house in Camp Ellis / Saco, ME",
    "images/ME-0144-000.jpg": "Blue Pearl Cottage, Camp Ellis / Saco, ME, photo 2 of 2",
    "images/ME-0144-card.webp": "Blue Pearl Cottage, house in Camp Ellis / Saco, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0144-cover.jpg",
+   "images/ME-0144-000.jpg"
+  ]
  },
  {
   "id": "ME-0145",
@@ -238,13 +278,20 @@
   "lng": -70.38055,
   "featured": false,
   "demo": false,
+  "description": "BOOK DIRECT- NO HIDDEN FEES! \"Beach Cottage\" Camp Ellis Saco ME. Access to State Parks, Portland, Kennebunk Port, Sebago Lake, are all within a pleasant 3/4-hour drive. Families return year after year for the great atmosphere and fun of a true Maine ocean village. Your Maine Vacation Destination .",
   "photoAlts": {
    "images/ME-0145-cover.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME",
    "images/ME-0145-000.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 2 of 4",
    "images/ME-0145-001.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 3 of 4",
    "images/ME-0145-002.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 4 of 4",
    "images/ME-0145-card.webp": "Breakwater Vacation Rental, Camp Ellis / Saco, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0145-cover.avif",
+   "images/ME-0145-000.avif",
+   "images/ME-0145-001.avif",
+   "images/ME-0145-002.avif"
+  ]
  },
  {
   "id": "ME-0245",
@@ -274,13 +321,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Enjoy cozy Saco Maine cottage rentals just steps from the beach. Book a private waterfront vacation cottage in Southern Maine with scenic views and coastal charm. Contact us today at 802-266-1482.",
   "photoAlts": {
    "images/ME-0245-cover.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME",
    "images/ME-0245-000.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 2 of 4",
    "images/ME-0245-001.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 3 of 4",
    "images/ME-0245-002.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 4 of 4",
    "images/ME-0245-card.webp": "Breakwater Vacation Rental, Camp Ellis / Saco, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0245-cover.jpg",
+   "images/ME-0245-000.jpg",
+   "images/ME-0245-001.jpg",
+   "images/ME-0245-002.jpg"
+  ]
  },
  {
   "id": "ME-0388",
@@ -309,13 +363,20 @@
   "lng": -70.3833201,
   "featured": false,
   "demo": false,
+  "description": "Coastal Life Beach House provides a bright sun porch and indoor space for a coastal getaway. Its setting offers access to nearby beach-area attractions while keeping a place to retreat between outings.",
   "photoAlts": {
    "images/ME-0388-cover.jpg": "Coastal Life Beach House, house in Old Orchard Beach, ME",
    "images/ME-0388-000.jpg": "Coastal Life Beach House, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0388-001.jpg": "Coastal Life Beach House, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0388-002.jpg": "Coastal Life Beach House, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0388-card.webp": "Coastal Life Beach House, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0388-cover.jpg",
+   "images/ME-0388-000.jpg",
+   "images/ME-0388-001.jpg",
+   "images/ME-0388-002.jpg"
+  ]
  },
  {
   "id": "ME-0394",
@@ -344,13 +405,20 @@
   "lng": -70.3608508,
   "featured": false,
   "demo": false,
+  "description": "Cottages by the Sea #1 offers a one-bedroom stay with two queen beds and shared private-beach access. The open living and dining area has ocean scenery, with downtown Old Orchard Beach about a mile away.",
   "photoAlts": {
    "images/ME-0394-cover.jpg": "Cottages by the Sea #1, house in Old Orchard Beach, ME",
    "images/ME-0394-000.jpg": "Cottages by the Sea #1, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0394-001.jpg": "Cottages by the Sea #1, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0394-002.jpg": "Cottages by the Sea #1, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0394-card.webp": "Cottages by the Sea #1, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0394-cover.jpg",
+   "images/ME-0394-000.jpg",
+   "images/ME-0394-001.jpg",
+   "images/ME-0394-002.jpg"
+  ]
  },
  {
   "id": "ME-0404",
@@ -379,13 +447,20 @@
   "lng": -70.3608508,
   "featured": false,
   "demo": false,
+  "description": "Cottages by the Sea #2 is intended for two guests near the shoreline. Ocean views and access to the property's private beach make it a compact base for a coastal stay.",
   "photoAlts": {
    "images/ME-0404-cover.jpg": "Cottages By The Sea #2, house in Old Orchard Beach, ME",
    "images/ME-0404-000.jpg": "Cottages By The Sea #2, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0404-001.jpg": "Cottages By The Sea #2, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0404-002.jpg": "Cottages By The Sea #2, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0404-card.webp": "Cottages By The Sea #2, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0404-cover.jpg",
+   "images/ME-0404-000.jpg",
+   "images/ME-0404-001.jpg",
+   "images/ME-0404-002.jpg"
+  ]
  },
  {
   "id": "ME-0414",
@@ -414,13 +489,20 @@
   "lng": -70.3608508,
   "featured": false,
   "demo": false,
+  "description": "Cottages by the Sea #3 includes a kitchen, living space, and laundry facilities downstairs. Upstairs bedrooms include an ocean-view queen room with its own bathroom, with downtown Old Orchard Beach around a mile away.",
   "photoAlts": {
    "images/ME-0414-cover.jpg": "Cottages by the Sea #3, house in Old Orchard Beach, ME",
    "images/ME-0414-000.jpg": "Cottages by the Sea #3, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0414-001.jpg": "Cottages by the Sea #3, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0414-002.jpg": "Cottages by the Sea #3, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0414-card.webp": "Cottages by the Sea #3, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0414-cover.jpg",
+   "images/ME-0414-000.jpg",
+   "images/ME-0414-001.jpg",
+   "images/ME-0414-002.jpg"
+  ]
  },
  {
   "id": "ME-0398",
@@ -449,13 +531,20 @@
   "lng": -70.3804859,
   "featured": false,
   "demo": false,
+  "description": "Dancing Queen is a four-bedroom Maine house near Old Orchard Beach with a fenced yard and updated appliances. Dogs are welcome under the property's rules, and events require prior approval.",
   "photoAlts": {
    "images/ME-0398-cover.jpg": "Dancing Queen, house in Old Orchard Beach, ME",
    "images/ME-0398-000.jpg": "Dancing Queen, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0398-001.jpg": "Dancing Queen, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0398-002.jpg": "Dancing Queen, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0398-card.webp": "Dancing Queen, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0398-cover.jpg",
+   "images/ME-0398-000.jpg",
+   "images/ME-0398-001.jpg",
+   "images/ME-0398-002.jpg"
+  ]
  },
  {
   "id": "ME-0403",
@@ -484,13 +573,20 @@
   "lng": -70.3830457,
   "featured": false,
   "demo": false,
+  "description": "Dream House offers three bedrooms in a residential neighborhood about half a mile from the beach. Guests can walk toward Old Orchard's restaurants, shops, and entertainment, then return to a quieter setting.",
   "photoAlts": {
    "images/ME-0403-cover.jpg": "Dream House, house in Old Orchard Beach, ME",
    "images/ME-0403-000.jpg": "Dream House, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0403-001.jpg": "Dream House, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0403-002.jpg": "Dream House, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0403-card.webp": "Dream House, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0403-cover.jpg",
+   "images/ME-0403-000.jpg",
+   "images/ME-0403-001.jpg",
+   "images/ME-0403-002.jpg"
+  ]
  },
  {
   "id": "ME-0406",
@@ -519,13 +615,20 @@
   "lng": -70.3735077,
   "featured": false,
   "demo": false,
+  "description": "Grand Victorian #403 is an ocean-view condo in central Old Orchard Beach. Guests have beach access, a kitchen, climate-controlled indoor space, and use of a communal indoor pool.",
   "photoAlts": {
    "images/ME-0406-cover.jpg": "Grand Victorian #403, house in Old Orchard Beach, ME",
    "images/ME-0406-000.jpg": "Grand Victorian #403, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0406-001.jpg": "Grand Victorian #403, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0406-002.jpg": "Grand Victorian #403, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0406-card.webp": "Grand Victorian #403, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0406-cover.jpg",
+   "images/ME-0406-000.jpg",
+   "images/ME-0406-001.jpg",
+   "images/ME-0406-002.jpg"
+  ]
  },
  {
   "id": "ME-0377",
@@ -554,13 +657,20 @@
   "lng": -70.3831478,
   "featured": false,
   "demo": false,
+  "description": "Gull's Nest is a pet-friendly, one-bedroom stay about a mile from Old Orchard Beach. A queen bed and bunk bed provide sleeping options, while a deck and laundry facilities add convenience.",
   "photoAlts": {
    "images/ME-0377-cover.jpg": "Gull’s Nest, house in Old Orchard Beach, ME",
    "images/ME-0377-000.jpg": "Gull’s Nest, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0377-001.jpg": "Gull’s Nest, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0377-002.jpg": "Gull’s Nest, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0377-card.webp": "Gull’s Nest, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0377-cover.jpg",
+   "images/ME-0377-000.jpg",
+   "images/ME-0377-001.jpg",
+   "images/ME-0377-002.jpg"
+  ]
  },
  {
   "id": "ME-0202",
@@ -589,13 +699,20 @@
   "lng": -70.443,
   "featured": false,
   "demo": false,
+  "description": "#7 By the Beach Cottage Saco United States, Maine",
   "photoAlts": {
    "images/ME-0202-cover.jpg": "Maine Beach Cottage, house in Saco, ME",
    "images/ME-0202-000.jpg": "Maine Beach Cottage, Saco, ME, photo 2 of 4",
    "images/ME-0202-001.jpg": "Maine Beach Cottage, Saco, ME, photo 3 of 4",
    "images/ME-0202-002.jpg": "Maine Beach Cottage, Saco, ME, photo 4 of 4",
    "images/ME-0202-card.webp": "Maine Beach Cottage, house in Saco, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0202-cover.jpg",
+   "images/ME-0202-000.jpg",
+   "images/ME-0202-001.jpg",
+   "images/ME-0202-002.jpg"
+  ]
  },
  {
   "id": "ME-0395",
@@ -624,13 +741,20 @@
   "lng": -70.3816491,
   "featured": false,
   "demo": false,
+  "description": "Nautical Point spreads its accommodation across several levels, including a ground-floor bedroom with an en-suite bathroom. Upstairs gathering spaces, a deck, and outdoor dining take advantage of the coastal views.",
   "photoAlts": {
    "images/ME-0395-cover.jpg": "Nautical Point, house in Old Orchard Beach, ME",
    "images/ME-0395-000.jpg": "Nautical Point, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0395-001.jpg": "Nautical Point, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0395-002.jpg": "Nautical Point, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0395-card.webp": "Nautical Point, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0395-cover.jpg",
+   "images/ME-0395-000.jpg",
+   "images/ME-0395-001.jpg",
+   "images/ME-0395-002.jpg"
+  ]
  },
  {
   "id": "ME-0417",
@@ -659,13 +783,20 @@
   "lng": -70.3817944,
   "featured": false,
   "demo": false,
+  "description": "Nautical View accommodates four near the beach, with a kitchen, central air conditioning, and laundry facilities. A large deck provides outdoor space for enjoying the coastal setting.",
   "photoAlts": {
    "images/ME-0417-cover.jpg": "Nautical View, house in Old Orchard Beach, ME",
    "images/ME-0417-000.jpg": "Nautical View, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0417-001.jpg": "Nautical View, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0417-002.jpg": "Nautical View, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0417-card.webp": "Nautical View, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0417-cover.jpg",
+   "images/ME-0417-000.jpg",
+   "images/ME-0417-001.jpg",
+   "images/ME-0417-002.jpg"
+  ]
  },
  {
   "id": "ME-0378",
@@ -694,13 +825,20 @@
   "lng": -70.3703965,
   "featured": false,
   "demo": false,
+  "description": "Oceanview Oasis puts guests close to Old Orchard Beach's sand, pier, restaurants, and amusement attractions. The vacation rental also offers access to a shared indoor pool for time away from the shoreline.",
   "photoAlts": {
    "images/ME-0378-cover.jpg": "Oceanview Oasis, house in Old Orchard Beach, ME",
    "images/ME-0378-000.jpg": "Oceanview Oasis, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0378-001.jpg": "Oceanview Oasis, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0378-002.jpg": "Oceanview Oasis, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0378-card.webp": "Oceanview Oasis, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0378-cover.jpg",
+   "images/ME-0378-000.jpg",
+   "images/ME-0378-001.jpg",
+   "images/ME-0378-002.jpg"
+  ]
  },
  {
   "id": "ME-0192",
@@ -729,13 +867,20 @@
   "lng": -70.38119,
   "featured": false,
   "demo": false,
+  "description": "Your source for the best in Old Orchard Beach lodging. Come to relax, or be as busy as you choose in Old Orchard Beach, Maine.",
   "photoAlts": {
    "images/ME-0192-cover.jpg": "Odessa by the Sea, Old Orchard Beach, ME",
    "images/ME-0192-000.jpg": "Odessa by the Sea, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0192-001.jpg": "Odessa by the Sea, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0192-002.jpg": "Odessa by the Sea, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0192-card.webp": "Odessa by the Sea, Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0192-cover.jpg",
+   "images/ME-0192-000.jpg",
+   "images/ME-0192-001.jpg",
+   "images/ME-0192-002.jpg"
+  ]
  },
  {
   "id": "ME-0391",
@@ -764,13 +909,20 @@
   "lng": -70.392209,
   "featured": false,
   "demo": false,
+  "description": "On Par for the Beach sits within Dunegrass Country Club, with a deck for relaxing outdoors. The listing highlights nearby golf facilities and dining, plus a roughly mile-long walk to Old Orchard Beach.",
   "photoAlts": {
    "images/ME-0391-cover.jpg": "On Par for the Beach, house in Old Orchard Beach, ME",
    "images/ME-0391-000.jpg": "On Par for the Beach, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0391-001.jpg": "On Par for the Beach, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0391-002.jpg": "On Par for the Beach, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0391-card.webp": "On Par for the Beach, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0391-cover.jpg",
+   "images/ME-0391-000.jpg",
+   "images/ME-0391-001.jpg",
+   "images/ME-0391-002.jpg"
+  ]
  },
  {
   "id": "ME-0411",
@@ -799,13 +951,20 @@
   "lng": -70.3793002,
   "featured": false,
   "demo": false,
+  "description": "Salt Life #1 has four bedrooms and a bathroom a few houses from the beach. Guests can use the kitchen, grill, and deck; neighboring units are separately bookable for larger parties.",
   "photoAlts": {
    "images/ME-0411-cover.jpg": "Salt Life #1, house in Old Orchard Beach, ME",
    "images/ME-0411-000.jpg": "Salt Life #1, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0411-001.jpg": "Salt Life #1, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0411-002.jpg": "Salt Life #1, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0411-card.webp": "Salt Life #1, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0411-cover.jpg",
+   "images/ME-0411-000.jpg",
+   "images/ME-0411-001.jpg",
+   "images/ME-0411-002.jpg"
+  ]
  },
  {
   "id": "ME-0387",
@@ -834,13 +993,20 @@
   "lng": -70.3793002,
   "featured": false,
   "demo": false,
+  "description": "Salt Life #2 offers a beach-neighborhood stay with a kitchen, living area, and bedrooms close to the shore. Additional neighboring units can be booked separately for groups that need more room.",
   "photoAlts": {
    "images/ME-0387-cover.jpg": "Salt Life #2, house in Old Orchard Beach, ME",
    "images/ME-0387-000.jpg": "Salt Life #2, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0387-001.jpg": "Salt Life #2, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0387-002.jpg": "Salt Life #2, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0387-card.webp": "Salt Life #2, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0387-cover.jpg",
+   "images/ME-0387-000.jpg",
+   "images/ME-0387-001.jpg",
+   "images/ME-0387-002.jpg"
+  ]
  },
  {
   "id": "ME-0384",
@@ -869,13 +1035,20 @@
   "lng": -70.3792682,
   "featured": false,
   "demo": false,
+  "description": "Sand Life #1 is a duplex accommodation a few houses back from Old Orchard Beach. It offers an indoor gathering space close to the shore; neighboring units can be reserved separately when more space is needed.",
   "photoAlts": {
    "images/ME-0384-cover.jpg": "Sand Life #1, house in Old Orchard Beach, ME",
    "images/ME-0384-000.jpg": "Sand Life #1, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0384-001.jpg": "Sand Life #1, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0384-002.jpg": "Sand Life #1, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0384-card.webp": "Sand Life #1, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0384-cover.jpg",
+   "images/ME-0384-000.jpg",
+   "images/ME-0384-001.jpg",
+   "images/ME-0384-002.jpg"
+  ]
  },
  {
   "id": "ME-0409",
@@ -904,13 +1077,20 @@
   "lng": -70.3792682,
   "featured": false,
   "demo": false,
+  "description": "Sand Life #2 is a duplex accommodation near the beach with its own roof deck overlooking the ocean. Neighboring units are available as separate reservations for groups needing additional accommodation.",
   "photoAlts": {
    "images/ME-0409-cover.jpg": "Sand Life #2, house in Old Orchard Beach, ME",
    "images/ME-0409-000.jpg": "Sand Life #2, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0409-001.jpg": "Sand Life #2, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0409-002.jpg": "Sand Life #2, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0409-card.webp": "Sand Life #2, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0409-cover.jpg",
+   "images/ME-0409-000.jpg",
+   "images/ME-0409-001.jpg",
+   "images/ME-0409-002.jpg"
+  ]
  },
  {
   "id": "ME-0385",
@@ -939,13 +1119,20 @@
   "lng": -70.3661216,
   "featured": false,
   "demo": false,
+  "description": "Sandy Beach at Port accommodates four with water views through its bay windows. A private access channel leads toward the beach, and the neighboring Starboard accommodation offers a separate option for larger parties.",
   "photoAlts": {
    "images/ME-0385-cover.jpg": "Sandy Beach at Port, house in Old Orchard Beach, ME",
    "images/ME-0385-000.jpg": "Sandy Beach at Port, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0385-001.jpg": "Sandy Beach at Port, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0385-002.jpg": "Sandy Beach at Port, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0385-card.webp": "Sandy Beach at Port, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0385-cover.jpg",
+   "images/ME-0385-000.jpg",
+   "images/ME-0385-001.jpg",
+   "images/ME-0385-002.jpg"
+  ]
  },
  {
   "id": "ME-0390",
@@ -974,13 +1161,20 @@
   "lng": -70.3661216,
   "featured": false,
   "demo": false,
+  "description": "Sandy Beach at Starboard has room for four and beach access through a private channel. Downtown Old Orchard Beach is nearby, and the Port accommodation can be reserved separately for additional guests.",
   "photoAlts": {
    "images/ME-0390-cover.jpg": "Sandy Beach at Star Board, house in Old Orchard Beach, ME",
    "images/ME-0390-000.jpg": "Sandy Beach at Star Board, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0390-001.jpg": "Sandy Beach at Star Board, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0390-002.jpg": "Sandy Beach at Star Board, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0390-card.webp": "Sandy Beach at Star Board, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0390-cover.jpg",
+   "images/ME-0390-000.jpg",
+   "images/ME-0390-001.jpg",
+   "images/ME-0390-002.jpg"
+  ]
  },
  {
   "id": "ME-0274",
@@ -1010,13 +1204,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Explore picturesque oceanfront rentals in Old Orchard Beach, ME. We offer a variety of options for rental homes, cottages, and condominiums.",
   "photoAlts": {
    "images/ME-0274-cover.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME",
    "images/ME-0274-000.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0274-001.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0274-002.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0274-card.webp": "Seashore Property Management, Saco / Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0274-cover.jpg",
+   "images/ME-0274-000.jpg",
+   "images/ME-0274-001.jpg",
+   "images/ME-0274-002.jpg"
+  ]
  },
  {
   "id": "ME-0416",
@@ -1045,13 +1246,20 @@
   "lng": -70.382242644953,
   "featured": false,
   "demo": false,
+  "description": "Sunshine Daydream has five bedrooms and a sizable backyard about half a mile from Old Orchard Beach. The property offers room for a larger group to gather between shoreline visits and local outings.",
   "photoAlts": {
    "images/ME-0416-cover.jpg": "Sunshine Daydream, house in Old Orchard Beach, ME",
    "images/ME-0416-000.jpg": "Sunshine Daydream, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0416-001.jpg": "Sunshine Daydream, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0416-002.jpg": "Sunshine Daydream, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0416-card.webp": "Sunshine Daydream, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0416-cover.jpg",
+   "images/ME-0416-000.jpg",
+   "images/ME-0416-001.jpg",
+   "images/ME-0416-002.jpg"
+  ]
  },
  {
   "id": "ME-0386",
@@ -1080,13 +1288,20 @@
   "lng": -70.3830132,
   "featured": false,
   "demo": false,
+  "description": "The Lookout is a four-bedroom coastal home with ocean scenery, a sunroom, and outdoor gathering space. Guests can relax in the backyard or on the deck between beach outings.",
   "photoAlts": {
    "images/ME-0386-cover.jpg": "The Lookout, house in Saco, ME",
    "images/ME-0386-000.jpg": "The Lookout, Saco, ME, photo 2 of 4",
    "images/ME-0386-001.jpg": "The Lookout, Saco, ME, photo 3 of 4",
    "images/ME-0386-002.jpg": "The Lookout, Saco, ME, photo 4 of 4",
    "images/ME-0386-card.webp": "The Lookout, house in Saco, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0386-cover.jpg",
+   "images/ME-0386-000.jpg",
+   "images/ME-0386-001.jpg",
+   "images/ME-0386-002.jpg"
+  ]
  },
  {
   "id": "ME-0410",
@@ -1115,12 +1330,19 @@
   "lng": -70.3855821,
   "featured": false,
   "demo": false,
+  "description": "Tide & Timber has two bedrooms, a kitchen, and living space for a smaller group or couple. The property offers a base for visiting Old Orchard Beach's shops, restaurants, and attractions.",
   "photoAlts": {
    "images/ME-0410-cover.jpg": "Tide & Timber, house in Old Orchard Beach, ME",
    "images/ME-0410-000.jpg": "Tide & Timber, Old Orchard Beach, ME, photo 2 of 4",
    "images/ME-0410-001.jpg": "Tide & Timber, Old Orchard Beach, ME, photo 3 of 4",
    "images/ME-0410-002.jpg": "Tide & Timber, Old Orchard Beach, ME, photo 4 of 4",
    "images/ME-0410-card.webp": "Tide & Timber, house in Old Orchard Beach, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0410-cover.jpg",
+   "images/ME-0410-000.jpg",
+   "images/ME-0410-001.jpg",
+   "images/ME-0410-002.jpg"
+  ]
  }
 ]

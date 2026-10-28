@@ -20,6 +20,7 @@
   "lng": -72.8531,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Deerfield Valley Real Estate, house in West Dover, VT"
   }
@@ -51,12 +52,18 @@
   "lng": -72.8531,
   "featured": false,
   "demo": false,
+  "description": "An insulated, yurt-shaped cabin near Mount Snow, with two private bedrooms, a loft, hot tub and cedar sauna.",
   "photoAlts": {
    "images/VT-0009-000.jpg": "Mount Snow Yurt, cabin in Dover, VT",
    "images/VT-0009-001.jpg": "Mount Snow Yurt, Dover, VT, photo 2 of 3",
    "images/VT-0009-cover.jpg": "Mount Snow Yurt, cabin in Dover, VT",
    "images/VT-0009-card.webp": "Mount Snow Yurt, cabin in Dover, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0009-000.jpg",
+   "images/VT-0009-001.jpg",
+   "images/VT-0009-cover.jpg"
+  ]
  },
  {
   "id": "VT-0062",
@@ -85,10 +92,14 @@
   "lng": -72.85092,
   "featured": false,
   "demo": false,
+  "description": "A historic West Dover vacation house available as a whole home or separate upstairs and downstairs accommodations.",
   "photoAlts": {
    "images/VT-0062-cover.jpg": "The 1827 House, house in West Dover, VT",
    "images/VT-0062-card.webp": "The 1827 House, house in West Dover, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0062-cover.jpg"
+  ]
  },
  {
   "id": "VT-0011",
@@ -118,10 +129,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "A nonprofit preservation organization offering five restored historic Vermont properties as self-catered vacation rentals.",
   "photoAlts": {
    "images/VT-0011-cover.jpg": "The Landmark Trust USA, Dummerston, VT",
    "images/VT-0011-card.webp": "The Landmark Trust USA, Dummerston, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0011-cover.jpg"
+  ]
  },
  {
   "id": "VT-0040",
@@ -150,10 +165,14 @@
   "lng": -72.8531,
   "featured": false,
   "demo": false,
+  "description": "A local collection of large vacation houses near Mount Snow, with direct reservations and inquiries.",
   "photoAlts": {
    "images/VT-0040-cover.webp": "Timbercrest Mansions, West Dover, VT",
    "images/VT-0040-card.webp": "Timbercrest Mansions, West Dover, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0040-cover.webp"
+  ]
  },
  {
   "id": "VT-0042",
@@ -186,10 +205,14 @@
   "lng": -72.8531,
   "featured": false,
   "demo": false,
+  "description": "An eight-bedroom vacation house in West Dover sleeping sixteen, with multiple living areas, hot tub and outdoor space.",
   "photoAlts": {
    "images/VT-0042-cover.jpg": "Valley View Villa, house in West Dover, VT",
    "images/VT-0042-card.webp": "Valley View Villa, house in West Dover, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0042-cover.jpg"
+  ]
  },
  {
   "id": "VT-0061",
@@ -212,6 +235,7 @@
   "lng": -72.8531,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "Unknown": "Vermontvacation4U, house in West Dover, VT"
   }

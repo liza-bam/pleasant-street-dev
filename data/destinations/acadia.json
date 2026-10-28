@@ -26,13 +26,20 @@
   "lng": -68.24273,
   "featured": false,
   "demo": false,
+  "description": "Acadia Access Cottage has six bedrooms and accommodates groups of up to twenty-one in Seal Harbor. Alongside nearby beach and carriage-road access, guests have a games room, gym, and fire pit.",
   "photoAlts": {
    "images/ME-0371-cover.jpg": "Acadia Access Cottage, house in Seal Harbor, ME",
    "images/ME-0371-000.jpg": "Acadia Access Cottage, Seal Harbor, ME, photo 2 of 4",
    "images/ME-0371-001.jpg": "Acadia Access Cottage, Seal Harbor, ME, photo 3 of 4",
    "images/ME-0371-002.jpg": "Acadia Access Cottage, Seal Harbor, ME, photo 4 of 4",
    "images/ME-0371-card.webp": "Acadia Access Cottage, house in Seal Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0371-cover.jpg",
+   "images/ME-0371-000.jpg",
+   "images/ME-0371-001.jpg",
+   "images/ME-0371-002.jpg"
+  ]
  },
  {
   "id": "ME-0122",
@@ -62,13 +69,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Book now to secure Acadia Cottage Rentals Maine with ACRI for cozy, private weeklong stays near Acadia National Park. Pick village, ocean, and lake options.",
   "photoAlts": {
    "images/ME-0122-cover.jpg": "Acadia Cottage Rentals, house in Bar Harbor, ME",
    "images/ME-0122-000.jpg": "Acadia Cottage Rentals, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0122-001.jpg": "Acadia Cottage Rentals, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0122-002.jpg": "Acadia Cottage Rentals, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0122-card.webp": "Acadia Cottage Rentals, house in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0122-cover.jpg",
+   "images/ME-0122-000.jpg",
+   "images/ME-0122-001.jpg",
+   "images/ME-0122-002.jpg"
+  ]
  },
  {
   "id": "ME-0207",
@@ -97,13 +111,20 @@
   "lng": -68.3259,
   "featured": false,
   "demo": false,
+  "description": "Acadia Dreamscape is a VRBO near Acadia National Park. All the comforts of home provided in this 2B cottage nestled among woods.",
   "photoAlts": {
    "images/ME-0207-cover.jpg": "Acadia Dreamscape Cottage, house in Southwest Harbor, ME",
    "images/ME-0207-000.jpg": "Acadia Dreamscape Cottage, Southwest Harbor, ME, photo 2 of 4",
    "images/ME-0207-001.avif": "Acadia Dreamscape Cottage, Southwest Harbor, ME, photo 3 of 4",
    "images/ME-0207-002.avif": "Acadia Dreamscape Cottage, Southwest Harbor, ME, photo 4 of 4",
    "images/ME-0207-card.webp": "Acadia Dreamscape Cottage, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0207-cover.jpg",
+   "images/ME-0207-000.jpg",
+   "images/ME-0207-001.avif",
+   "images/ME-0207-002.avif"
+  ]
  },
  {
   "id": "ME-0123",
@@ -132,13 +153,20 @@
   "lng": -68.27567,
   "featured": false,
   "demo": false,
+  "description": "Vacation headquarters while you explore Acadia National Park and Mount Desert Island. All the comforts of home in the beauty of Acadia National Park.",
   "photoAlts": {
    "images/ME-0123-cover.jpg": "Acadia Getaway, Bar Harbor, ME",
    "images/ME-0123-000.jpg": "Acadia Getaway, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0123-001.jpg": "Acadia Getaway, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0123-002.jpg": "Acadia Getaway, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0123-card.webp": "Acadia Getaway, Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0123-cover.jpg",
+   "images/ME-0123-000.jpg",
+   "images/ME-0123-001.jpg",
+   "images/ME-0123-002.jpg"
+  ]
  },
  {
   "id": "ME-0208",
@@ -167,13 +195,20 @@
   "lng": -68.32851,
   "featured": false,
   "demo": false,
+  "description": "Experience coastal luxury at Acadia Horizon Cottage, a premier vacation rental in Southwest Harbor, Maine. Nestled on the waterfront near Acadia National Park, this stunning home offers breathtaking ocean and mountain views, air conditioning, and serene comfort. Enjoy spacious living areas, gourmet kitchen, and scenic waterfront access perfect for relaxation or adventure. Discover the beauty of Maine’s rugged coastline while connecting with family in comfort. Book your unforgettable waterfront escape today!",
   "photoAlts": {
    "images/ME-0208-cover.jpg": "Acadia Horizon Cottage, house in Southwest Harbor, ME",
    "images/ME-0208-000.jpg": "Acadia Horizon Cottage, Southwest Harbor, ME, photo 2 of 4",
    "images/ME-0208-001.png": "Acadia Horizon Cottage, Southwest Harbor, ME, photo 3 of 4",
    "images/ME-0208-002.jpg": "Acadia Horizon Cottage, Southwest Harbor, ME, photo 4 of 4",
    "images/ME-0208-card.webp": "Acadia Horizon Cottage, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0208-cover.jpg",
+   "images/ME-0208-000.jpg",
+   "images/ME-0208-001.png",
+   "images/ME-0208-002.jpg"
+  ]
  },
  {
   "id": "ME-0366",
@@ -202,13 +237,20 @@
   "lng": -68.29796,
   "featured": false,
   "demo": false,
+  "description": "Acadia Sound Cottage accommodates seven across two bedrooms near the national park's walking and cycling routes. After exploring Mount Desert Island, guests can return to a deck with a fire pit.",
   "photoAlts": {
    "images/ME-0366-cover.jpg": "Acadia Sound Cottage, house in Mount Desert, ME",
    "images/ME-0366-000.jpg": "Acadia Sound Cottage, Mount Desert, ME, photo 2 of 4",
    "images/ME-0366-001.png": "Acadia Sound Cottage, Mount Desert, ME, photo 3 of 4",
    "images/ME-0366-002.jpg": "Acadia Sound Cottage, Mount Desert, ME, photo 4 of 4",
    "images/ME-0366-card.webp": "Acadia Sound Cottage, house in Mount Desert, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0366-cover.jpg",
+   "images/ME-0366-000.jpg",
+   "images/ME-0366-001.png",
+   "images/ME-0366-002.jpg"
+  ]
  },
  {
   "id": "ME-0112",
@@ -237,13 +279,20 @@
   "lng": -68.38242,
   "featured": false,
   "demo": false,
+  "description": "Stay in cozy, handcrafted cottages near Acadia NP. Perfect for families & pets. Book your getaway today!",
   "photoAlts": {
    "images/ME-0112-cover.webp": "Acadia Timber Cottages, house in Trenton, ME",
    "images/ME-0112-000.webp": "Acadia Timber Cottages, Trenton, ME, photo 2 of 4",
    "images/ME-0112-001.webp": "Acadia Timber Cottages, Trenton, ME, photo 3 of 4",
    "images/ME-0112-002.webp": "Acadia Timber Cottages, Trenton, ME, photo 4 of 4",
    "images/ME-0112-card.webp": "Acadia Timber Cottages, house in Trenton, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0112-cover.webp",
+   "images/ME-0112-000.webp",
+   "images/ME-0112-001.webp",
+   "images/ME-0112-002.webp"
+  ]
  },
  {
   "id": "ME-0101",
@@ -272,11 +321,16 @@
   "lng": -68.35358,
   "featured": false,
   "demo": false,
+  "description": "Acadia Yurts is a fun, coastal Maine Glamping vacation destination that offers luxury yurts for weekly rent, to travelers in search of a unique Acadia and Mount Desert Island experience.",
   "photoAlts": {
    "images/ME-0101-cover.webp": "Acadia Yurts, cabin in Southwest Harbor, ME",
    "images/ME-0101-000.webp": "Acadia Yurts, Southwest Harbor, ME, photo 2 of 2",
    "images/ME-0101-card.webp": "Acadia Yurts, cabin in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0101-cover.webp",
+   "images/ME-0101-000.webp"
+  ]
  },
  {
   "id": "ME-0102",
@@ -306,13 +360,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Explore Ann's Point Cottages, offering waterfront rentals along Maine's coast, featuring charming cottages near Acadia National Park for your perfect getaway.",
   "photoAlts": {
    "images/ME-0102-cover.webp": "Ann's Point Cottages, house in Southwest Harbor, ME",
    "images/ME-0102-000.webp": "Ann's Point Cottages, Southwest Harbor, ME, photo 2 of 4",
    "images/ME-0102-001.webp": "Ann's Point Cottages, Southwest Harbor, ME, photo 3 of 4",
    "images/ME-0102-002.webp": "Ann's Point Cottages, Southwest Harbor, ME, photo 4 of 4",
    "images/ME-0102-card.webp": "Ann's Point Cottages, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0102-cover.webp",
+   "images/ME-0102-000.webp",
+   "images/ME-0102-001.webp",
+   "images/ME-0102-002.webp"
+  ]
  },
  {
   "id": "ME-0125",
@@ -341,13 +402,20 @@
   "lng": -68.2039,
   "featured": false,
   "demo": false,
+  "description": "95 vacation cottages on Mount Desert Island, Maine. Oceanfront, lakefront, in-town Bar Harbor. Weekly rentals near Acadia National Park. No booking fees. Dogs welcome.",
   "photoAlts": {
    "images/ME-0125-cover.jpg": "Bar Harbor Acadia Cottage Rentals, house in Bar Harbor, ME",
    "images/ME-0125-000.jpg": "Bar Harbor Acadia Cottage Rentals, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0125-001.jpg": "Bar Harbor Acadia Cottage Rentals, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0125-002.jpg": "Bar Harbor Acadia Cottage Rentals, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0125-card.webp": "Bar Harbor Acadia Cottage Rentals, house in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0125-cover.jpg",
+   "images/ME-0125-000.jpg",
+   "images/ME-0125-001.jpg",
+   "images/ME-0125-002.jpg"
+  ]
  },
  {
   "id": "ME-0009",
@@ -376,12 +444,18 @@
   "lng": -68.34543,
   "featured": false,
   "demo": false,
+  "description": "Bass Harbor Cottages and Country Inn, Bass Harbor, Maine on 1st Traveler's Choice Travel and Lodging Directory of Bed and Breakfast, Country Inns, and Small Hotel.",
   "photoAlts": {
    "images/ME-0009-cover.jpg": "Bass Harbor Cottages, house in Bass Harbor, ME",
    "images/ME-0009-000.jpg": "Bass Harbor Cottages, Bass Harbor, ME, photo 2 of 3",
    "images/ME-0009-001.jpg": "Bass Harbor Cottages, Bass Harbor, ME, photo 3 of 3",
    "images/ME-0009-card.webp": "Bass Harbor Cottages, house in Bass Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0009-cover.jpg",
+   "images/ME-0009-000.jpg",
+   "images/ME-0009-001.jpg"
+  ]
  },
  {
   "id": "ME-0003",
@@ -410,11 +484,16 @@
   "lng": -68.26047,
   "featured": false,
   "demo": false,
+  "description": "Baycliff vacation rentals on Mount Desert Island feature a cottage with A/C and two cozy cabins overlooking Frenchman Bay, minutes from Acadia National Park and Bar Harbor.",
   "photoAlts": {
    "images/ME-0003-cover.avif": "Baycliff Cottage & Cabins, cabin in Bar Harbor, ME",
    "images/ME-0003-000.avif": "Baycliff Cottage & Cabins, Bar Harbor, ME, photo 2 of 2",
    "images/ME-0003-card.webp": "Baycliff Cottage & Cabins, cabin in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0003-cover.avif",
+   "images/ME-0003-000.avif"
+  ]
  },
  {
   "id": "ME-0369",
@@ -443,13 +522,20 @@
   "lng": -68.39215,
   "featured": false,
   "demo": false,
+  "description": "Bayside Cottage accommodates eight in four bedrooms on private waterfront in Trenton. Guests can enjoy sunrise scenery toward Acadia's mountains and take day trips onto Mount Desert Island.",
   "photoAlts": {
    "images/ME-0369-cover.jpg": "Bayside Cottage, house in Trenton, ME",
    "images/ME-0369-000.jpg": "Bayside Cottage, Trenton, ME, photo 2 of 4",
    "images/ME-0369-001.jpg": "Bayside Cottage, Trenton, ME, photo 3 of 4",
    "images/ME-0369-002.jpg": "Bayside Cottage, Trenton, ME, photo 4 of 4",
    "images/ME-0369-card.webp": "Bayside Cottage, house in Trenton, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0369-cover.jpg",
+   "images/ME-0369-000.jpg",
+   "images/ME-0369-001.jpg",
+   "images/ME-0369-002.jpg"
+  ]
  },
  {
   "id": "ME-0368",
@@ -478,13 +564,20 @@
   "lng": -68.32928,
   "featured": false,
   "demo": false,
+  "description": "Blueberry Cottage offers a renovated, three-bedroom base for up to ten in Southwest Harbor. Main Street is close by, with Acadia's hiking routes and swimming destinations a drive away.",
   "photoAlts": {
    "images/ME-0368-cover.jpg": "Blueberry Cottage, house in Southwest Harbor, ME",
    "images/ME-0368-000.jpg": "Blueberry Cottage, Southwest Harbor, ME, photo 2 of 4",
    "images/ME-0368-001.jpg": "Blueberry Cottage, Southwest Harbor, ME, photo 3 of 4",
    "images/ME-0368-002.jpg": "Blueberry Cottage, Southwest Harbor, ME, photo 4 of 4",
    "images/ME-0368-card.webp": "Blueberry Cottage, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0368-cover.jpg",
+   "images/ME-0368-000.jpg",
+   "images/ME-0368-001.jpg",
+   "images/ME-0368-002.jpg"
+  ]
  },
  {
   "id": "ME-0364",
@@ -513,13 +606,20 @@
   "lng": -68.24381,
   "featured": false,
   "demo": false,
+  "description": "Carriage Road Cottage accommodates twelve in five bedrooms, with Acadia's carriage-road network accessible from the property. It offers a base for walking, cycling, and exploring the park around Seal Harbor.",
   "photoAlts": {
    "images/ME-0364-cover.jpg": "Carriage Road Cottage, house in Seal Harbor, ME",
    "images/ME-0364-000.jpg": "Carriage Road Cottage, Seal Harbor, ME, photo 2 of 4",
    "images/ME-0364-001.jpg": "Carriage Road Cottage, Seal Harbor, ME, photo 3 of 4",
    "images/ME-0364-002.jpg": "Carriage Road Cottage, Seal Harbor, ME, photo 4 of 4",
    "images/ME-0364-card.webp": "Carriage Road Cottage, house in Seal Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0364-cover.jpg",
+   "images/ME-0364-000.jpg",
+   "images/ME-0364-001.jpg",
+   "images/ME-0364-002.jpg"
+  ]
  },
  {
   "id": "ME-0258",
@@ -549,12 +649,18 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Vacation rentals along the Maine coast — Mount Desert Island, Downeast and Holden. Managed locally, booked directly, no platform fees.",
   "photoAlts": {
    "images/ME-0258-cover.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME",
    "images/ME-0258-000.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME, photo 2 of 3",
    "images/ME-0258-001.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME, photo 3 of 3",
    "images/ME-0258-card.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0258-cover.webp",
+   "images/ME-0258-000.webp",
+   "images/ME-0258-001.webp"
+  ]
  },
  {
   "id": "ME-0126",
@@ -583,13 +689,20 @@
   "lng": -68.37703,
   "featured": false,
   "demo": false,
+  "description": "Stunning oceanfront cottage on Western Bay. 3 bedrooms, 2 baths, sleeps 10. Kayaks, fire pit, tennis. Open May–October. Book direct and save.",
   "photoAlts": {
    "images/ME-0126-cover.jpg": "Everett Cottage, house in Bar Harbor, ME",
    "images/ME-0126-000.webp": "Everett Cottage, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0126-001.webp": "Everett Cottage, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0126-002.webp": "Everett Cottage, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0126-card.webp": "Everett Cottage, house in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0126-cover.jpg",
+   "images/ME-0126-000.webp",
+   "images/ME-0126-001.webp",
+   "images/ME-0126-002.webp"
+  ]
  },
  {
   "id": "ME-0156",
@@ -618,13 +731,20 @@
   "lng": -68.3625,
   "featured": false,
   "demo": false,
+  "description": "Our beautiful home is on an equally magnificent island bird sanctuary and is ready for you to have an adventure of a lifetime!",
   "photoAlts": {
    "images/ME-0156-cover.jpg": "Great Duck Island House, house in Frenchboro, ME",
    "images/ME-0156-000.jpg": "Great Duck Island House, Frenchboro, ME, photo 2 of 4",
    "images/ME-0156-001.jpg": "Great Duck Island House, Frenchboro, ME, photo 3 of 4",
    "images/ME-0156-002.jpg": "Great Duck Island House, Frenchboro, ME, photo 4 of 4",
    "images/ME-0156-card.webp": "Great Duck Island House, house in Frenchboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0156-cover.jpg",
+   "images/ME-0156-000.jpg",
+   "images/ME-0156-001.jpg",
+   "images/ME-0156-002.jpg"
+  ]
  },
  {
   "id": "ME-0209",
@@ -653,10 +773,14 @@
   "lng": -68.32479,
   "featured": false,
   "demo": false,
+  "description": "Harbor Oasis - Waterfront Cottage on Southwest Harbor",
   "photoAlts": {
    "images/ME-0209-cover.jpg": "Harbor Oasis, Southwest Harbor, ME",
    "images/ME-0209-card.webp": "Harbor Oasis, Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0209-cover.jpg"
+  ]
  },
  {
   "id": "ME-0370",
@@ -685,13 +809,20 @@
   "lng": -68.32626,
   "featured": false,
   "demo": false,
+  "description": "Harbor Watch Cottage provides three bedrooms for six guests near downtown Southwest Harbor. Shops and restaurants are walkable, with Bass Harbor Lighthouse and the national park within driving reach.",
   "photoAlts": {
    "images/ME-0370-cover.jpg": "Harbor Watch Cottage, house in Southwest Harbor, ME",
    "images/ME-0370-000.jpg": "Harbor Watch Cottage, Southwest Harbor, ME, photo 2 of 4",
    "images/ME-0370-001.jpg": "Harbor Watch Cottage, Southwest Harbor, ME, photo 3 of 4",
    "images/ME-0370-002.jpg": "Harbor Watch Cottage, Southwest Harbor, ME, photo 4 of 4",
    "images/ME-0370-card.webp": "Harbor Watch Cottage, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0370-cover.jpg",
+   "images/ME-0370-000.jpg",
+   "images/ME-0370-001.jpg",
+   "images/ME-0370-002.jpg"
+  ]
  },
  {
   "id": "ME-0103",
@@ -720,12 +851,18 @@
   "lng": -68.33076,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/ME-0103-cover.jpg": "Hutchins Cottages at Acadia, house in Southwest Harbor, ME",
    "images/ME-0103-000.jpg": "Hutchins Cottages at Acadia, Southwest Harbor, ME, photo 2 of 3",
    "images/ME-0103-001.jpg": "Hutchins Cottages at Acadia, Southwest Harbor, ME, photo 3 of 3",
    "images/ME-0103-card.webp": "Hutchins Cottages at Acadia, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0103-cover.jpg",
+   "images/ME-0103-000.jpg",
+   "images/ME-0103-001.jpg"
+  ]
  },
  {
   "id": "ME-0121",
@@ -754,13 +891,20 @@
   "lng": "Unknown",
   "featured": false,
   "demo": false,
+  "description": "Lords Beach is a Vacation Home Rental Property in Acadia. The Acadia National Park is located primarily on Mount Desert Island in the state of Maine, USA. It is one of the most visited national parks in the United States and is known for its diverse landscapes, including rugged coastlines, granite peaks, lakes, and forests. The park covers a significant portion of Mount Desert Island. Acadia Vacation Rentals",
   "photoAlts": {
    "images/ME-0121-cover.avif": "Lords Beach Vacation Rental, Acadia region, ME",
    "images/ME-0121-000.jpg": "Lords Beach Vacation Rental, Acadia region, ME, photo 2 of 4",
    "images/ME-0121-001.avif": "Lords Beach Vacation Rental, Acadia region, ME, photo 3 of 4",
    "images/ME-0121-002.jpg": "Lords Beach Vacation Rental, Acadia region, ME, photo 4 of 4",
    "images/ME-0121-card.webp": "Lords Beach Vacation Rental, Acadia region, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0121-cover.avif",
+   "images/ME-0121-000.jpg",
+   "images/ME-0121-001.avif",
+   "images/ME-0121-002.jpg"
+  ]
  },
  {
   "id": "ME-0283",
@@ -790,13 +934,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Experience the best of coastal Maine with Maebeth Vacation Rentals. Browse curated homes in Mount Desert, Bar Harbor, and Southwest Harbor—expertly managed for comfort, cleanliness, and unforgettable stays!",
   "photoAlts": {
    "images/ME-0283-cover.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME",
    "images/ME-0283-000.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME, photo 2 of 4",
    "images/ME-0283-001.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME, photo 3 of 4",
    "images/ME-0283-002.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME, photo 4 of 4",
    "images/ME-0283-card.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0283-cover.webp",
+   "images/ME-0283-000.webp",
+   "images/ME-0283-001.webp",
+   "images/ME-0283-002.webp"
+  ]
  },
  {
   "id": "ME-0257",
@@ -826,13 +977,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Our properties are located primarily on Mount Desert Island, home of Bar Harbor, Northeast Harbor, Seal Harbor, Southwest Harbor and other quaint villages. Acadia National Park which is unequivocally one of the world’s most beautiful places comprises 47,000 acres of the island. With the rugged, craggy coast and beautiful vistas your time here will pass by quickly and you’ll most likely want to return. Many of our clients are folks who visit the area every year. Among the outdoor activities that visitors enjoy here are scenic drives, swimming, bird watching, boating, whale watching, hiking, fishing, rock climbing and biking. There",
   "photoAlts": {
    "images/ME-0257-cover.jpg": "Maine Island Properties, Mount Desert, ME",
    "images/ME-0257-000.jpg": "Maine Island Properties, Mount Desert, ME, photo 2 of 4",
    "images/ME-0257-001.jpg": "Maine Island Properties, Mount Desert, ME, photo 3 of 4",
    "images/ME-0257-002.jpg": "Maine Island Properties, Mount Desert, ME, photo 4 of 4",
    "images/ME-0257-card.webp": "Maine Island Properties, Mount Desert, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0257-cover.jpg",
+   "images/ME-0257-000.jpg",
+   "images/ME-0257-001.jpg",
+   "images/ME-0257-002.jpg"
+  ]
  },
  {
   "id": "ME-0008",
@@ -862,13 +1020,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Book directly with Maine Retreats — Bar Harbor / Acadia, Old Orchard Beach, and beyond. No third-party fees.",
   "photoAlts": {
    "images/ME-0008-cover.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME",
    "images/ME-0008-000.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME, photo 2 of 4",
    "images/ME-0008-001.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME, photo 3 of 4",
    "images/ME-0008-002.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME, photo 4 of 4",
    "images/ME-0008-card.webp": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0008-cover.jpg",
+   "images/ME-0008-000.jpg",
+   "images/ME-0008-001.jpg",
+   "images/ME-0008-002.jpg"
+  ]
  },
  {
   "id": "ME-0128",
@@ -897,13 +1062,20 @@
   "lng": -68.2118,
   "featured": false,
   "demo": false,
+  "description": "Home rentals in the heart of Bar Harbor, Maine.",
   "photoAlts": {
    "images/ME-0128-cover.webp": "MDIsland Vacation Homes, house in Bar Harbor, ME",
    "images/ME-0128-000.webp": "MDIsland Vacation Homes, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0128-001.webp": "MDIsland Vacation Homes, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0128-002.webp": "MDIsland Vacation Homes, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0128-card.webp": "MDIsland Vacation Homes, house in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0128-cover.webp",
+   "images/ME-0128-000.webp",
+   "images/ME-0128-001.webp",
+   "images/ME-0128-002.webp"
+  ]
  },
  {
   "id": "ME-0129",
@@ -932,13 +1104,20 @@
   "lng": -68.24737,
   "featured": false,
   "demo": false,
+  "description": "Oceans Edge is a private oceanfront vacation rental in Maine offering breathtaking coastal views, refined interiors, and peaceful seclusion near top Maine attractions. Book your stay today.",
   "photoAlts": {
    "images/ME-0129-cover.jpg": "Oceansedge, Bar Harbor, ME",
    "images/ME-0129-000.jpg": "Oceansedge, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0129-001.jpg": "Oceansedge, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0129-002.png": "Oceansedge, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0129-card.webp": "Oceansedge, Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0129-cover.jpg",
+   "images/ME-0129-000.jpg",
+   "images/ME-0129-001.jpg",
+   "images/ME-0129-002.png"
+  ]
  },
  {
   "id": "ME-0367",
@@ -967,13 +1146,20 @@
   "lng": -68.33694,
   "featured": false,
   "demo": false,
+  "description": "Pine Meadow Hideaway sleeps ten in three bedrooms amid eight acres of pine woodland beside Acadia National Park. The property offers a quieter setting near the Ship Harbor and Wonderland trail areas.",
   "photoAlts": {
    "images/ME-0367-cover.jpg": "Pine Meadow Hideaway, house in Southwest Harbor, ME",
    "images/ME-0367-000.jpg": "Pine Meadow Hideaway, Southwest Harbor, ME, photo 2 of 4",
    "images/ME-0367-001.jpg": "Pine Meadow Hideaway, Southwest Harbor, ME, photo 3 of 4",
    "images/ME-0367-002.jpg": "Pine Meadow Hideaway, Southwest Harbor, ME, photo 4 of 4",
    "images/ME-0367-card.webp": "Pine Meadow Hideaway, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0367-cover.jpg",
+   "images/ME-0367-000.jpg",
+   "images/ME-0367-001.jpg",
+   "images/ME-0367-002.jpg"
+  ]
  },
  {
   "id": "ME-0365",
@@ -1002,13 +1188,20 @@
   "lng": -68.32928,
   "featured": false,
   "demo": false,
+  "description": "Quietside Cottage has three bedrooms and space for seven on a residential street in Southwest Harbor. Guests can walk to Main Street and drive to nearby Acadia trails and attractions.",
   "photoAlts": {
    "images/ME-0365-cover.jpg": "Quietside Cottage, house in Southwest Harbor, ME",
    "images/ME-0365-000.jpg": "Quietside Cottage, Southwest Harbor, ME, photo 2 of 4",
    "images/ME-0365-001.jpg": "Quietside Cottage, Southwest Harbor, ME, photo 3 of 4",
    "images/ME-0365-002.jpg": "Quietside Cottage, Southwest Harbor, ME, photo 4 of 4",
    "images/ME-0365-card.webp": "Quietside Cottage, house in Southwest Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0365-cover.jpg",
+   "images/ME-0365-000.jpg",
+   "images/ME-0365-001.jpg",
+   "images/ME-0365-002.jpg"
+  ]
  },
  {
   "id": "ME-0130",
@@ -1037,12 +1230,18 @@
   "lng": -68.20782,
   "featured": false,
   "demo": false,
+  "description": "Red's Garden, a Bar Harbor vacation rental cottage, is located four miles from downtown Bar Harbor, Maine close to the entrance to Acadia National Park. This is a perfect place for you and your family to explore mount desert island.",
   "photoAlts": {
    "images/ME-0130-cover.webp": "Red's Garden Cottage, house in Bar Harbor, ME",
    "images/ME-0130-000.jpg": "Red's Garden Cottage, Bar Harbor, ME, photo 2 of 3",
    "images/ME-0130-001.jpg": "Red's Garden Cottage, Bar Harbor, ME, photo 3 of 3",
    "images/ME-0130-card.webp": "Red's Garden Cottage, house in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0130-cover.webp",
+   "images/ME-0130-000.jpg",
+   "images/ME-0130-001.jpg"
+  ]
  },
  {
   "id": "ME-0131",
@@ -1072,13 +1271,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Stay near Acadia National Park in our pet friendly Bar Harbor vacation rentals. Dogs stay free, private decks, fenced dog yard, full kitchens, and easy access to hiking and carriage roads.",
   "photoAlts": {
    "images/ME-0131-cover.jpg": "Ryan Estate Rentals, Bar Harbor, ME",
    "images/ME-0131-000.jpg": "Ryan Estate Rentals, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0131-001.jpg": "Ryan Estate Rentals, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0131-002.jpg": "Ryan Estate Rentals, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0131-card.webp": "Ryan Estate Rentals, Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0131-cover.jpg",
+   "images/ME-0131-000.jpg",
+   "images/ME-0131-001.jpg",
+   "images/ME-0131-002.jpg"
+  ]
  },
  {
   "id": "ME-0182",
@@ -1111,13 +1317,20 @@
   "lng": -68.2408,
   "featured": false,
   "demo": false,
+  "description": "A place to escape for quiet moments, perched in a hammock, surrounded by mossy rocks and ferns, or exploring the abundant number of National Park trails nearby.",
   "photoAlts": {
    "images/ME-0182-cover.jpg": "Sargent Woods Cottage, house in Mount Desert Island, ME",
    "images/ME-0182-000.jpg": "Sargent Woods Cottage, Mount Desert Island, ME, photo 2 of 4",
    "images/ME-0182-001.jpg": "Sargent Woods Cottage, Mount Desert Island, ME, photo 3 of 4",
    "images/ME-0182-002.jpg": "Sargent Woods Cottage, Mount Desert Island, ME, photo 4 of 4",
    "images/ME-0182-card.webp": "Sargent Woods Cottage, house in Mount Desert Island, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0182-cover.jpg",
+   "images/ME-0182-000.jpg",
+   "images/ME-0182-001.jpg",
+   "images/ME-0182-002.jpg"
+  ]
  },
  {
   "id": "ME-0372",
@@ -1146,13 +1359,20 @@
   "lng": -68.24381,
   "featured": false,
   "demo": false,
+  "description": "Seal Harbor Cottage accommodates eighteen in six bedrooms near Acadia's carriage roads. Its location suits groups planning park walks, cycling trips, and visits to Seal Harbor Beach or Bar Harbor.",
   "photoAlts": {
    "images/ME-0372-cover.jpg": "Seal Harbor Cottage, house in Seal Harbor, ME",
    "images/ME-0372-000.jpg": "Seal Harbor Cottage, Seal Harbor, ME, photo 2 of 4",
    "images/ME-0372-001.jpg": "Seal Harbor Cottage, Seal Harbor, ME, photo 3 of 4",
    "images/ME-0372-002.jpg": "Seal Harbor Cottage, Seal Harbor, ME, photo 4 of 4",
    "images/ME-0372-card.webp": "Seal Harbor Cottage, house in Seal Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0372-cover.jpg",
+   "images/ME-0372-000.jpg",
+   "images/ME-0372-001.jpg",
+   "images/ME-0372-002.jpg"
+  ]
  },
  {
   "id": "ME-0005",
@@ -1181,13 +1401,20 @@
   "lng": -68.34835,
   "featured": false,
   "demo": false,
+  "description": "Bar Harbor Maine Oceanfront cottage rentals on Clark’s Cove in Bar Harbor, near Acadia National Park, and lakefront cabin rentals on Donnell Pond. Seaside Cottages, Bar Harbor Maine.",
   "photoAlts": {
    "images/ME-0005-cover.jpg": "Seaside Cottages, house in Bar Harbor, ME",
    "images/ME-0005-000.jpg": "Seaside Cottages, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0005-001.webp": "Seaside Cottages, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0005-002.jpg": "Seaside Cottages, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0005-card.webp": "Seaside Cottages, house in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0005-cover.jpg",
+   "images/ME-0005-000.jpg",
+   "images/ME-0005-001.webp",
+   "images/ME-0005-002.jpg"
+  ]
  },
  {
   "id": "ME-0006",
@@ -1216,13 +1443,20 @@
   "lng": -68.24795,
   "featured": false,
   "demo": false,
+  "description": "Cabins 1, 2 and 3 are in the back row, with ocean view and access. Cabins 4 and 5 are oceanfront. All cabins have the following features:",
   "photoAlts": {
    "images/ME-0006-cover.jpg": "Tide Watch Cabins, cabin in Bar Harbor, ME",
    "images/ME-0006-000.avif": "Tide Watch Cabins, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0006-001.jpg": "Tide Watch Cabins, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0006-002.avif": "Tide Watch Cabins, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0006-card.webp": "Tide Watch Cabins, cabin in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0006-cover.jpg",
+   "images/ME-0006-000.avif",
+   "images/ME-0006-001.jpg",
+   "images/ME-0006-002.avif"
+  ]
  },
  {
   "id": "ME-0007",
@@ -1251,12 +1485,19 @@
   "lng": -68.29467,
   "featured": false,
   "demo": false,
+  "description": "Rustic, On the Shore Cottages Sharing Mt Desert Island With Bar Harbor and Acadia National Park",
   "photoAlts": {
    "images/ME-0007-cover.webp": "Woodland Park Cottages, house in Bar Harbor, ME",
    "images/ME-0007-000.webp": "Woodland Park Cottages, Bar Harbor, ME, photo 2 of 4",
    "images/ME-0007-001.webp": "Woodland Park Cottages, Bar Harbor, ME, photo 3 of 4",
    "images/ME-0007-002.webp": "Woodland Park Cottages, Bar Harbor, ME, photo 4 of 4",
    "images/ME-0007-card.webp": "Woodland Park Cottages, house in Bar Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0007-cover.webp",
+   "images/ME-0007-000.webp",
+   "images/ME-0007-001.webp",
+   "images/ME-0007-002.webp"
+  ]
  }
 ]

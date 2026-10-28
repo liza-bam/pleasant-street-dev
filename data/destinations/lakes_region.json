@@ -26,13 +26,20 @@
   "lng": -71.4704,
   "featured": false,
   "demo": false,
+  "description": "Family-owned Laconia inn with cottages, efficiencies, a pool and picnic areas.",
   "photoAlts": {
    "images/NH-0040-cover.webp": "1848 Inn, Laconia, NH",
    "images/NH-0040-000.webp": "1848 Inn, Laconia, NH, photo 2 of 4",
    "images/NH-0040-001.webp": "1848 Inn, Laconia, NH, photo 3 of 4",
    "images/NH-0040-002.webp": "1848 Inn, Laconia, NH, photo 4 of 4",
    "images/NH-0040-card.webp": "1848 Inn, Laconia, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0040-cover.webp",
+   "images/NH-0040-000.webp",
+   "images/NH-0040-001.webp",
+   "images/NH-0040-002.webp"
+  ]
  },
  {
   "id": "NH-0041",
@@ -61,13 +68,20 @@
   "lng": -71.4704,
   "featured": false,
   "demo": false,
+  "description": "Housekeeping cottages on Lake Winnipesaukee with screened porches, grills and a sandy beach.",
   "photoAlts": {
    "images/NH-0041-cover.webp": "Abakee Cottages, Laconia, NH",
    "images/NH-0041-000.webp": "Abakee Cottages, Laconia, NH, photo 2 of 4",
    "images/NH-0041-001.webp": "Abakee Cottages, Laconia, NH, photo 3 of 4",
    "images/NH-0041-002.webp": "Abakee Cottages, Laconia, NH, photo 4 of 4",
    "images/NH-0041-card.webp": "Abakee Cottages, Laconia, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0041-cover.webp",
+   "images/NH-0041-000.webp",
+   "images/NH-0041-001.webp",
+   "images/NH-0041-002.webp"
+  ]
  },
  {
   "id": "NH-0043",
@@ -96,12 +110,18 @@
   "lng": -71.7929,
   "featured": false,
   "demo": false,
+  "description": "AMC-owned mountain lodge in Alexandria with private rooms, seasonal meal service and direct reservations near Mount Cardigan.",
   "photoAlts": {
    "images/NH-0043-cover.webp": "AMC Cardigan Lodge, Alexandria, NH",
    "images/NH-0043-000.webp": "AMC Cardigan Lodge, Alexandria, NH, photo 2 of 3",
    "images/NH-0043-001.webp": "AMC Cardigan Lodge, Alexandria, NH, photo 3 of 3",
    "images/NH-0043-card.webp": "AMC Cardigan Lodge, Alexandria, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0043-cover.webp",
+   "images/NH-0043-000.webp",
+   "images/NH-0043-001.webp"
+  ]
  },
  {
   "id": "NH-0003",
@@ -130,13 +150,20 @@
   "lng": -71.407,
   "featured": false,
   "demo": false,
+  "description": "Family-run Lake Winnipesaukee cottages, apartments and rooms on 135 acres, with a sandy beach, boat facilities and direct inquiries.",
   "photoAlts": {
    "images/NH-0003-cover.webp": "Ames Farm Inn, Gilford, NH",
    "images/NH-0003-000.webp": "Ames Farm Inn, Gilford, NH, photo 2 of 4",
    "images/NH-0003-001.webp": "Ames Farm Inn, Gilford, NH, photo 3 of 4",
    "images/NH-0003-002.webp": "Ames Farm Inn, Gilford, NH, photo 4 of 4",
    "images/NH-0003-card.webp": "Ames Farm Inn, Gilford, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0003-cover.webp",
+   "images/NH-0003-000.webp",
+   "images/NH-0003-001.webp",
+   "images/NH-0003-002.webp"
+  ]
  },
  {
   "id": "NH-0065",
@@ -169,12 +196,18 @@
   "lng": -71.8056,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Hebron log home for ten guests on 6.7 acres overlooking Newfound Lake.",
   "photoAlts": {
    "images/NH-0065-cover.webp": "Big Bear Log Home at Newfound Lake, Hebron, NH",
    "images/NH-0065-000.webp": "Big Bear Log Home at Newfound Lake, Hebron, NH, photo 2 of 3",
    "images/NH-0065-001.webp": "Big Bear Log Home at Newfound Lake, Hebron, NH, photo 3 of 3",
    "images/NH-0065-card.webp": "Big Bear Log Home at Newfound Lake, Hebron, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0065-cover.webp",
+   "images/NH-0065-000.webp",
+   "images/NH-0065-001.webp"
+  ]
  },
  {
   "id": "NH-0060",
@@ -203,13 +236,20 @@
   "lng": -71.3039,
   "featured": false,
   "demo": false,
+  "description": "Small Lakes Region rental operator offering Beech Pond Cabin in Tuftonboro and The Gunstock Cabin in Gilford.",
   "photoAlts": {
    "images/NH-0060-cover.webp": "Blue Granite Properties, LLC / Blue Granite Experiences, Tuftonboro, NH",
    "images/NH-0060-000.webp": "Blue Granite Properties, LLC / Blue Granite Experiences, Tuftonboro, NH, photo 2 of 4",
    "images/NH-0060-001.webp": "Blue Granite Properties, LLC / Blue Granite Experiences, Tuftonboro, NH, photo 3 of 4",
    "images/NH-0060-002.webp": "Blue Granite Properties, LLC / Blue Granite Experiences, Tuftonboro, NH, photo 4 of 4",
    "images/NH-0060-card.webp": "Blue Granite Properties, LLC / Blue Granite Experiences, Tuftonboro, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0060-cover.webp",
+   "images/NH-0060-000.webp",
+   "images/NH-0060-001.webp",
+   "images/NH-0060-002.webp"
+  ]
  },
  {
   "id": "NH-0013",
@@ -238,12 +278,18 @@
   "lng": -71.4704,
   "featured": false,
   "demo": false,
+  "description": "Family-operated Lake Winnipesaukee cottage campus with a private beach and boat dock.",
   "photoAlts": {
    "images/NH-0013-cover.webp": "Channel Waterfront Cottages, cabin in Laconia, NH",
    "images/NH-0013-000.webp": "Channel Waterfront Cottages, Laconia, NH, photo 2 of 3",
    "images/NH-0013-001.webp": "Channel Waterfront Cottages, Laconia, NH, photo 3 of 3",
    "images/NH-0013-card.webp": "Channel Waterfront Cottages, cabin in Laconia, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0013-cover.webp",
+   "images/NH-0013-000.webp",
+   "images/NH-0013-001.webp"
+  ]
  },
  {
   "id": "NH-0009",
@@ -272,12 +318,18 @@
   "lng": -71.589,
   "featured": false,
   "demo": false,
+  "description": "Cabins and vacation rentals at Squam Lake with shared beach and outdoor amenities.",
   "photoAlts": {
    "images/NH-0009-cover.webp": "Cottage Place on Squam Lake, cabin in Holderness, NH",
    "images/NH-0009-000.webp": "Cottage Place on Squam Lake, Holderness, NH, photo 2 of 3",
    "images/NH-0009-001.webp": "Cottage Place on Squam Lake, Holderness, NH, photo 3 of 3",
    "images/NH-0009-card.webp": "Cottage Place on Squam Lake, cabin in Holderness, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0009-cover.webp",
+   "images/NH-0009-000.webp",
+   "images/NH-0009-001.webp"
+  ]
  },
  {
   "id": "NH-0001",
@@ -306,13 +358,20 @@
   "lng": -71.396,
   "featured": false,
   "demo": false,
+  "description": "Seasonal Lake Winnipesaukee cottages with a shared sandy beach, guest boats and direct availability inquiries.",
   "photoAlts": {
    "images/NH-0001-cover.webp": "Deepwood Lodges, cabin in Moultonborough, NH",
    "images/NH-0001-000.webp": "Deepwood Lodges, Moultonborough, NH, photo 2 of 4",
    "images/NH-0001-001.webp": "Deepwood Lodges, Moultonborough, NH, photo 3 of 4",
    "images/NH-0001-002.webp": "Deepwood Lodges, Moultonborough, NH, photo 4 of 4",
    "images/NH-0001-card.webp": "Deepwood Lodges, cabin in Moultonborough, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0001-cover.webp",
+   "images/NH-0001-000.webp",
+   "images/NH-0001-001.webp",
+   "images/NH-0001-002.webp"
+  ]
  },
  {
   "id": "NH-0070",
@@ -348,12 +407,18 @@
   "lng": -71.8056,
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom Hebron log home for six guests on 3.5 acres overlooking Newfound Lake.",
   "photoAlts": {
    "images/NH-0070-cover.webp": "Eagle Ridge Log Home, Hebron, NH",
    "images/NH-0070-000.webp": "Eagle Ridge Log Home, Hebron, NH, photo 2 of 3",
    "images/NH-0070-001.webp": "Eagle Ridge Log Home, Hebron, NH, photo 3 of 3",
    "images/NH-0070-card.webp": "Eagle Ridge Log Home, Hebron, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0070-cover.webp",
+   "images/NH-0070-000.webp",
+   "images/NH-0070-001.webp"
+  ]
  },
  {
   "id": "NH-0039",
@@ -382,13 +447,20 @@
   "lng": -71.3039,
   "featured": false,
   "demo": false,
+  "description": "A private60-acre Lakes Region retreat with a lodge, cottage, gatehouse and woodland trails.",
   "photoAlts": {
    "images/NH-0039-cover.webp": "Ember Escapes — Quietude, Tuftonboro, NH",
    "images/NH-0039-000.webp": "Ember Escapes — Quietude, Tuftonboro, NH, photo 2 of 4",
    "images/NH-0039-001.webp": "Ember Escapes — Quietude, Tuftonboro, NH, photo 3 of 4",
    "images/NH-0039-002.webp": "Ember Escapes — Quietude, Tuftonboro, NH, photo 4 of 4",
    "images/NH-0039-card.webp": "Ember Escapes — Quietude, Tuftonboro, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0039-cover.webp",
+   "images/NH-0039-000.webp",
+   "images/NH-0039-001.webp",
+   "images/NH-0039-002.webp"
+  ]
  },
  {
   "id": "NH-0024",
@@ -417,13 +489,20 @@
   "lng": -71.2498,
   "featured": false,
   "demo": false,
+  "description": "Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.",
   "photoAlts": {
    "images/NH-0024-cover.webp": "Fernhill Cottages, cabin in Alton, NH",
    "images/NH-0024-000.webp": "Fernhill Cottages, Alton, NH, photo 2 of 4",
    "images/NH-0024-001.webp": "Fernhill Cottages, Alton, NH, photo 3 of 4",
    "images/NH-0024-002.webp": "Fernhill Cottages, Alton, NH, photo 4 of 4",
    "images/NH-0024-card.webp": "Fernhill Cottages, cabin in Alton, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0024-cover.webp",
+   "images/NH-0024-000.webp",
+   "images/NH-0024-001.webp",
+   "images/NH-0024-002.webp"
+  ]
  },
  {
   "id": "NH-0037",
@@ -452,13 +531,20 @@
   "lng": -71.4704,
   "featured": false,
   "demo": false,
+  "description": "Weirs Beach cottages and motel rooms with lake views and a solar-warmed pool.",
   "photoAlts": {
    "images/NH-0037-cover.webp": "Half Moon Motel and Cottages, Laconia, NH",
    "images/NH-0037-000.webp": "Half Moon Motel and Cottages, Laconia, NH, photo 2 of 4",
    "images/NH-0037-001.webp": "Half Moon Motel and Cottages, Laconia, NH, photo 3 of 4",
    "images/NH-0037-002.webp": "Half Moon Motel and Cottages, Laconia, NH, photo 4 of 4",
    "images/NH-0037-card.webp": "Half Moon Motel and Cottages, Laconia, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0037-cover.webp",
+   "images/NH-0037-000.webp",
+   "images/NH-0037-001.webp",
+   "images/NH-0037-002.webp"
+  ]
  },
  {
   "id": "NH-0072",
@@ -487,13 +573,20 @@
   "lng": -71.8056,
   "featured": false,
   "demo": false,
+  "description": "Family-owned four-bedroom Newfound Lake waterfront house with a private beach, hot tub and paddling equipment.",
   "photoAlts": {
    "images/NH-0072-cover.webp": "Newfound Lake & Ski House, Hebron, NH",
    "images/NH-0072-000.webp": "Newfound Lake & Ski House, Hebron, NH, photo 2 of 4",
    "images/NH-0072-001.webp": "Newfound Lake & Ski House, Hebron, NH, photo 3 of 4",
    "images/NH-0072-002.webp": "Newfound Lake & Ski House, Hebron, NH, photo 4 of 4",
    "images/NH-0072-card.webp": "Newfound Lake & Ski House, Hebron, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0072-cover.webp",
+   "images/NH-0072-000.webp",
+   "images/NH-0072-001.webp",
+   "images/NH-0072-002.webp"
+  ]
  },
  {
   "id": "NH-0049",
@@ -522,13 +615,20 @@
   "lng": -71.35905,
   "featured": false,
   "demo": false,
+  "description": "Four owner-managed, family- and dog-friendly vacation homes in New Hampshire.",
   "photoAlts": {
    "images/NH-0049-cover.webp": "RuffhouseNH, cabin in Moultonborough, NH",
    "images/NH-0049-000.webp": "RuffhouseNH, Moultonborough, NH, photo 2 of 4",
    "images/NH-0049-001.webp": "RuffhouseNH, Moultonborough, NH, photo 3 of 4",
    "images/NH-0049-002.webp": "RuffhouseNH, Moultonborough, NH, photo 4 of 4",
    "images/NH-0049-card.webp": "RuffhouseNH, cabin in Moultonborough, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0049-cover.webp",
+   "images/NH-0049-000.webp",
+   "images/NH-0049-001.webp",
+   "images/NH-0049-002.webp"
+  ]
  },
  {
   "id": "NH-0032",
@@ -557,13 +657,20 @@
   "lng": -71.3039,
   "featured": false,
   "demo": false,
+  "description": "Seven family-owned lakeside cabins on Lake Winnipesaukee, with kitchens and a waterfront pavilion.",
   "photoAlts": {
    "images/NH-0032-cover.webp": "Sunset Lodges on Lake Winnipesaukee, cabin in Tuftonboro, NH",
    "images/NH-0032-000.webp": "Sunset Lodges on Lake Winnipesaukee, Tuftonboro, NH, photo 2 of 4",
    "images/NH-0032-001.webp": "Sunset Lodges on Lake Winnipesaukee, Tuftonboro, NH, photo 3 of 4",
    "images/NH-0032-002.webp": "Sunset Lodges on Lake Winnipesaukee, Tuftonboro, NH, photo 4 of 4",
    "images/NH-0032-card.webp": "Sunset Lodges on Lake Winnipesaukee, cabin in Tuftonboro, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0032-cover.webp",
+   "images/NH-0032-000.webp",
+   "images/NH-0032-001.webp",
+   "images/NH-0032-002.webp"
+  ]
  },
  {
   "id": "NH-0014",
@@ -587,10 +694,14 @@
   "lng": -71.1749,
   "featured": false,
   "demo": false,
+  "description": "Year-round pet-friendly cottage campus near downtown Wolfeboro and Lake Winnipesaukee.",
   "photoAlts": {
    "images/NH-0014-cover.webp": "The Cottages of Wolfeboro, cabin in Wolfeboro, NH",
    "images/NH-0014-card.webp": "The Cottages of Wolfeboro, cabin in Wolfeboro, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0014-cover.webp"
+  ]
  },
  {
   "id": "NH-0029",
@@ -619,13 +730,20 @@
   "lng": -71.4704,
   "featured": false,
   "demo": false,
+  "description": "Family-run lakeside resort with cottages, suites and a private beach on Lake Winnipesaukee.",
   "photoAlts": {
    "images/NH-0029-cover.webp": "The NASWA Resort, Laconia, NH",
    "images/NH-0029-000.webp": "The NASWA Resort, Laconia, NH, photo 2 of 4",
    "images/NH-0029-001.webp": "The NASWA Resort, Laconia, NH, photo 3 of 4",
    "images/NH-0029-002.webp": "The NASWA Resort, Laconia, NH, photo 4 of 4",
    "images/NH-0029-card.webp": "The NASWA Resort, Laconia, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0029-cover.webp",
+   "images/NH-0029-000.webp",
+   "images/NH-0029-001.webp",
+   "images/NH-0029-002.webp"
+  ]
  },
  {
   "id": "NH-0025",
@@ -654,10 +772,14 @@
   "lng": -71.9491,
   "featured": false,
   "demo": false,
+  "description": "Locally created Dorchester cabins with kitchenettes, private bathrooms and access to Green Woodlands trails.",
   "photoAlts": {
    "images/NH-0025-cover.webp": "Trailside Stays, cabin in Dorchester, NH",
    "images/NH-0025-card.webp": "Trailside Stays, cabin in Dorchester, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0025-cover.webp"
+  ]
  },
  {
   "id": "NH-0026",
@@ -686,11 +808,17 @@
   "lng": -71.4704,
   "featured": false,
   "demo": false,
+  "description": "Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.",
   "photoAlts": {
    "images/NH-0026-cover.webp": "Weirs Beach Motel and Cottages, cabin in Laconia, NH",
    "images/NH-0026-000.webp": "Weirs Beach Motel and Cottages, Laconia, NH, photo 2 of 3",
    "images/NH-0026-001.webp": "Weirs Beach Motel and Cottages, Laconia, NH, photo 3 of 3",
    "images/NH-0026-card.webp": "Weirs Beach Motel and Cottages, cabin in Laconia, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0026-cover.webp",
+   "images/NH-0026-000.webp",
+   "images/NH-0026-001.webp"
+  ]
  }
 ]

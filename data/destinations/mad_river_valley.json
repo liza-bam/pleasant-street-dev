@@ -31,10 +31,14 @@
   "lng": -72.8555,
   "featured": false,
   "demo": false,
+  "description": "Family-run vacation lodging in Warren offering Kismet Cabin and a separate Alpine Suite near Blueberry Lake.",
   "photoAlts": {
    "images/VT-0049-cover.jpg": "Kismet Properties Vermont, Warren, VT",
    "images/VT-0049-card.webp": "Kismet Properties Vermont, Warren, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0049-cover.jpg"
+  ]
  },
  {
   "id": "VT-0031",
@@ -63,9 +67,13 @@
   "lng": -72.8382,
   "featured": false,
   "demo": false,
+  "description": "A locally owned Mad River Valley rental manager offering direct reservations for vacation houses, cabins and other stays.",
   "photoAlts": {
    "images/VT-0031-cover.jpg": "Mad River Valley Rental Management, Fayston, VT",
    "images/VT-0031-card.webp": "Mad River Valley Rental Management, Fayston, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0031-cover.jpg"
+  ]
  }
 ]

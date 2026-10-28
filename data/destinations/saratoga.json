@@ -20,12 +20,19 @@
   "lng": -73.83259,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0070-cover.webp": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse, house in Corinth, NY",
    "images/NY-0070-000.webp": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse, Corinth, NY, photo 2 of 4",
    "images/NY-0070-001.webp": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse, Corinth, NY, photo 3 of 4",
    "images/NY-0070-002.webp": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse, Corinth, NY, photo 4 of 4",
    "images/NY-0070-card.webp": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse, house in Corinth, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0070-cover.webp",
+   "images/NY-0070-000.webp",
+   "images/NY-0070-001.webp",
+   "images/NY-0070-002.webp"
+  ]
  }
 ]

@@ -20,13 +20,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0087-cover.webp": "Adirondack Diamond Point Lodge — cardinal, cabin in Diamond Point, NY",
    "images/NY-0087-000.webp": "Adirondack Diamond Point Lodge — cardinal, Diamond Point, NY, photo 2 of 4",
    "images/NY-0087-001.webp": "Adirondack Diamond Point Lodge — cardinal, Diamond Point, NY, photo 3 of 4",
    "images/NY-0087-002.webp": "Adirondack Diamond Point Lodge — cardinal, Diamond Point, NY, photo 4 of 4",
    "images/NY-0087-card.webp": "Adirondack Diamond Point Lodge — cardinal, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0087-cover.webp",
+   "images/NY-0087-000.webp",
+   "images/NY-0087-001.webp",
+   "images/NY-0087-002.webp"
+  ]
  },
  {
   "id": "NY-0088",
@@ -49,13 +56,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0088-cover.webp": "Adirondack Diamond Point Lodge — chickadee, cabin in Diamond Point, NY",
    "images/NY-0088-000.webp": "Adirondack Diamond Point Lodge — chickadee, Diamond Point, NY, photo 2 of 4",
    "images/NY-0088-001.webp": "Adirondack Diamond Point Lodge — chickadee, Diamond Point, NY, photo 3 of 4",
    "images/NY-0088-002.webp": "Adirondack Diamond Point Lodge — chickadee, Diamond Point, NY, photo 4 of 4",
    "images/NY-0088-card.webp": "Adirondack Diamond Point Lodge — chickadee, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0088-cover.webp",
+   "images/NY-0088-000.webp",
+   "images/NY-0088-001.webp",
+   "images/NY-0088-002.webp"
+  ]
  },
  {
   "id": "NY-0089",
@@ -78,13 +92,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0089-cover.webp": "Adirondack Diamond Point Lodge — cottontail-cabin, cabin in Diamond Point, NY",
    "images/NY-0089-000.webp": "Adirondack Diamond Point Lodge — cottontail-cabin, Diamond Point, NY, photo 2 of 4",
    "images/NY-0089-001.webp": "Adirondack Diamond Point Lodge — cottontail-cabin, Diamond Point, NY, photo 3 of 4",
    "images/NY-0089-002.webp": "Adirondack Diamond Point Lodge — cottontail-cabin, Diamond Point, NY, photo 4 of 4",
    "images/NY-0089-card.webp": "Adirondack Diamond Point Lodge — cottontail-cabin, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0089-cover.webp",
+   "images/NY-0089-000.webp",
+   "images/NY-0089-001.webp",
+   "images/NY-0089-002.webp"
+  ]
  },
  {
   "id": "NY-0090",
@@ -107,13 +128,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0090-cover.webp": "Adirondack Diamond Point Lodge — eagles-nest, cabin in Diamond Point, NY",
    "images/NY-0090-000.webp": "Adirondack Diamond Point Lodge — eagles-nest, Diamond Point, NY, photo 2 of 4",
    "images/NY-0090-001.webp": "Adirondack Diamond Point Lodge — eagles-nest, Diamond Point, NY, photo 3 of 4",
    "images/NY-0090-002.webp": "Adirondack Diamond Point Lodge — eagles-nest, Diamond Point, NY, photo 4 of 4",
    "images/NY-0090-card.webp": "Adirondack Diamond Point Lodge — eagles-nest, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0090-cover.webp",
+   "images/NY-0090-000.webp",
+   "images/NY-0090-001.webp",
+   "images/NY-0090-002.webp"
+  ]
  },
  {
   "id": "NY-0091",
@@ -136,13 +164,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0091-cover.webp": "Adirondack Diamond Point Lodge — jay, cabin in Diamond Point, NY",
    "images/NY-0091-000.webp": "Adirondack Diamond Point Lodge — jay, Diamond Point, NY, photo 2 of 4",
    "images/NY-0091-001.webp": "Adirondack Diamond Point Lodge — jay, Diamond Point, NY, photo 3 of 4",
    "images/NY-0091-002.webp": "Adirondack Diamond Point Lodge — jay, Diamond Point, NY, photo 4 of 4",
    "images/NY-0091-card.webp": "Adirondack Diamond Point Lodge — jay, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0091-cover.webp",
+   "images/NY-0091-000.webp",
+   "images/NY-0091-001.webp",
+   "images/NY-0091-002.webp"
+  ]
  },
  {
   "id": "NY-0092",
@@ -165,13 +200,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0092-cover.webp": "Adirondack Diamond Point Lodge — kestral, cabin in Diamond Point, NY",
    "images/NY-0092-000.webp": "Adirondack Diamond Point Lodge — kestral, Diamond Point, NY, photo 2 of 4",
    "images/NY-0092-001.webp": "Adirondack Diamond Point Lodge — kestral, Diamond Point, NY, photo 3 of 4",
    "images/NY-0092-002.webp": "Adirondack Diamond Point Lodge — kestral, Diamond Point, NY, photo 4 of 4",
    "images/NY-0092-card.webp": "Adirondack Diamond Point Lodge — kestral, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0092-cover.webp",
+   "images/NY-0092-000.webp",
+   "images/NY-0092-001.webp",
+   "images/NY-0092-002.webp"
+  ]
  },
  {
   "id": "NY-0093",
@@ -194,13 +236,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0093-cover.webp": "Adirondack Diamond Point Lodge — kinglet, cabin in Diamond Point, NY",
    "images/NY-0093-000.webp": "Adirondack Diamond Point Lodge — kinglet, Diamond Point, NY, photo 2 of 4",
    "images/NY-0093-001.webp": "Adirondack Diamond Point Lodge — kinglet, Diamond Point, NY, photo 3 of 4",
    "images/NY-0093-002.webp": "Adirondack Diamond Point Lodge — kinglet, Diamond Point, NY, photo 4 of 4",
    "images/NY-0093-card.webp": "Adirondack Diamond Point Lodge — kinglet, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0093-cover.webp",
+   "images/NY-0093-000.webp",
+   "images/NY-0093-001.webp",
+   "images/NY-0093-002.webp"
+  ]
  },
  {
   "id": "NY-0094",
@@ -223,13 +272,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0094-cover.webp": "Adirondack Diamond Point Lodge — moose-cabin, cabin in Diamond Point, NY",
    "images/NY-0094-000.webp": "Adirondack Diamond Point Lodge — moose-cabin, Diamond Point, NY, photo 2 of 4",
    "images/NY-0094-001.webp": "Adirondack Diamond Point Lodge — moose-cabin, Diamond Point, NY, photo 3 of 4",
    "images/NY-0094-002.webp": "Adirondack Diamond Point Lodge — moose-cabin, Diamond Point, NY, photo 4 of 4",
    "images/NY-0094-card.webp": "Adirondack Diamond Point Lodge — moose-cabin, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0094-cover.webp",
+   "images/NY-0094-000.webp",
+   "images/NY-0094-001.webp",
+   "images/NY-0094-002.webp"
+  ]
  },
  {
   "id": "NY-0095",
@@ -252,13 +308,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0095-cover.webp": "Adirondack Diamond Point Lodge — nuthatch, cabin in Diamond Point, NY",
    "images/NY-0095-000.webp": "Adirondack Diamond Point Lodge — nuthatch, Diamond Point, NY, photo 2 of 4",
    "images/NY-0095-001.webp": "Adirondack Diamond Point Lodge — nuthatch, Diamond Point, NY, photo 3 of 4",
    "images/NY-0095-002.webp": "Adirondack Diamond Point Lodge — nuthatch, Diamond Point, NY, photo 4 of 4",
    "images/NY-0095-card.webp": "Adirondack Diamond Point Lodge — nuthatch, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0095-cover.webp",
+   "images/NY-0095-000.webp",
+   "images/NY-0095-001.webp",
+   "images/NY-0095-002.webp"
+  ]
  },
  {
   "id": "NY-0096",
@@ -281,13 +344,20 @@
   "lng": -73.68805,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0096-cover.webp": "Adirondack Diamond Point Lodge — otter-cabin, cabin in Diamond Point, NY",
    "images/NY-0096-000.webp": "Adirondack Diamond Point Lodge — otter-cabin, Diamond Point, NY, photo 2 of 4",
    "images/NY-0096-001.webp": "Adirondack Diamond Point Lodge — otter-cabin, Diamond Point, NY, photo 3 of 4",
    "images/NY-0096-002.webp": "Adirondack Diamond Point Lodge — otter-cabin, Diamond Point, NY, photo 4 of 4",
    "images/NY-0096-card.webp": "Adirondack Diamond Point Lodge — otter-cabin, cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0096-cover.webp",
+   "images/NY-0096-000.webp",
+   "images/NY-0096-001.webp",
+   "images/NY-0096-002.webp"
+  ]
  },
  {
   "id": "NY-0100",
@@ -310,13 +380,20 @@
   "lng": -73.6570701,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0100-cover.webp": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house, house in Bolton Landing, NY",
    "images/NY-0100-000.webp": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house, Bolton Landing, NY, photo 2 of 4",
    "images/NY-0100-001.webp": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house, Bolton Landing, NY, photo 3 of 4",
    "images/NY-0100-002.webp": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house, Bolton Landing, NY, photo 4 of 4",
    "images/NY-0100-card.webp": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house, house in Bolton Landing, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0100-cover.webp",
+   "images/NY-0100-000.webp",
+   "images/NY-0100-001.webp",
+   "images/NY-0100-002.webp"
+  ]
  },
  {
   "id": "NY-0101",
@@ -339,13 +416,20 @@
   "lng": -73.7363707,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0101-cover.webp": "ADK Lakefront Property Management — Brant Lake Guest House, house in Brant Lake, NY",
    "images/NY-0101-000.webp": "ADK Lakefront Property Management — Brant Lake Guest House, Brant Lake, NY, photo 2 of 4",
    "images/NY-0101-001.webp": "ADK Lakefront Property Management — Brant Lake Guest House, Brant Lake, NY, photo 3 of 4",
    "images/NY-0101-002.webp": "ADK Lakefront Property Management — Brant Lake Guest House, Brant Lake, NY, photo 4 of 4",
    "images/NY-0101-card.webp": "ADK Lakefront Property Management — Brant Lake Guest House, house in Brant Lake, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0101-cover.webp",
+   "images/NY-0101-000.webp",
+   "images/NY-0101-001.webp",
+   "images/NY-0101-002.webp"
+  ]
  },
  {
   "id": "NY-0102",
@@ -368,13 +452,20 @@
   "lng": -74.2426988,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0102-cover.webp": "ADK Lakefront Property Management — Indian Lake Cabin, cabin in Indian Lake, NY",
    "images/NY-0102-000.webp": "ADK Lakefront Property Management — Indian Lake Cabin, Indian Lake, NY, photo 2 of 4",
    "images/NY-0102-001.webp": "ADK Lakefront Property Management — Indian Lake Cabin, Indian Lake, NY, photo 3 of 4",
    "images/NY-0102-002.webp": "ADK Lakefront Property Management — Indian Lake Cabin, Indian Lake, NY, photo 4 of 4",
    "images/NY-0102-card.webp": "ADK Lakefront Property Management — Indian Lake Cabin, cabin in Indian Lake, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0102-cover.webp",
+   "images/NY-0102-000.webp",
+   "images/NY-0102-001.webp",
+   "images/NY-0102-002.webp"
+  ]
  },
  {
   "id": "NY-0097",
@@ -397,13 +488,20 @@
   "lng": -73.65352,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0097-cover.webp": "Candlelight Cottages — Lakeside, hillside cottages and log cabins, cabin in Bolton Landing, NY",
    "images/NY-0097-000.webp": "Candlelight Cottages — Lakeside, hillside cottages and log cabins, Bolton Landing, NY, photo 2 of 4",
    "images/NY-0097-001.webp": "Candlelight Cottages — Lakeside, hillside cottages and log cabins, Bolton Landing, NY, photo 3 of 4",
    "images/NY-0097-002.webp": "Candlelight Cottages — Lakeside, hillside cottages and log cabins, Bolton Landing, NY, photo 4 of 4",
    "images/NY-0097-card.webp": "Candlelight Cottages — Lakeside, hillside cottages and log cabins, cabin in Bolton Landing, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0097-cover.webp",
+   "images/NY-0097-000.webp",
+   "images/NY-0097-001.webp",
+   "images/NY-0097-002.webp"
+  ]
  },
  {
   "id": "NY-0098",
@@ -426,13 +524,20 @@
   "lng": -73.67423,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0098-cover.webp": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins), cabin in Diamond Point, NY",
    "images/NY-0098-000.webp": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins), Diamond Point, NY, photo 2 of 4",
    "images/NY-0098-001.webp": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins), Diamond Point, NY, photo 3 of 4",
    "images/NY-0098-002.webp": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins), Diamond Point, NY, photo 4 of 4",
    "images/NY-0098-card.webp": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins), cabin in Diamond Point, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0098-cover.webp",
+   "images/NY-0098-000.webp",
+   "images/NY-0098-001.webp",
+   "images/NY-0098-002.webp"
+  ]
  },
  {
   "id": "NY-0127",
@@ -455,13 +560,20 @@
   "lng": -74.2327,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0127-cover.webp": "Rockledge Cabins & Retreats, cabin in Lake Clear, NY",
    "images/NY-0127-000.webp": "Rockledge Cabins & Retreats, Lake Clear, NY, photo 2 of 4",
    "images/NY-0127-001.webp": "Rockledge Cabins & Retreats, Lake Clear, NY, photo 3 of 4",
    "images/NY-0127-002.webp": "Rockledge Cabins & Retreats, Lake Clear, NY, photo 4 of 4",
    "images/NY-0127-card.webp": "Rockledge Cabins & Retreats, cabin in Lake Clear, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0127-cover.webp",
+   "images/NY-0127-000.webp",
+   "images/NY-0127-001.webp",
+   "images/NY-0127-002.webp"
+  ]
  },
  {
   "id": "NY-0077",
@@ -484,13 +596,20 @@
   "lng": -74.43153,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0077-cover.webp": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge, cabin in Blue Mountain Lake, NY",
    "images/NY-0077-000.webp": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge, Blue Mountain Lake, NY, photo 2 of 4",
    "images/NY-0077-001.webp": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge, Blue Mountain Lake, NY, photo 3 of 4",
    "images/NY-0077-002.webp": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge, Blue Mountain Lake, NY, photo 4 of 4",
    "images/NY-0077-card.webp": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge, cabin in Blue Mountain Lake, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0077-cover.webp",
+   "images/NY-0077-000.webp",
+   "images/NY-0077-001.webp",
+   "images/NY-0077-002.webp"
+  ]
  },
  {
   "id": "NY-0073",
@@ -513,13 +632,20 @@
   "lng": -74.91518,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0073-cover.webp": "Sunset Beach Cottages (Inlet) — Camp Big Moose, cabin in Big Moose, NY",
    "images/NY-0073-000.webp": "Sunset Beach Cottages (Inlet) — Camp Big Moose, Big Moose, NY, photo 2 of 4",
    "images/NY-0073-001.webp": "Sunset Beach Cottages (Inlet) — Camp Big Moose, Big Moose, NY, photo 3 of 4",
    "images/NY-0073-002.webp": "Sunset Beach Cottages (Inlet) — Camp Big Moose, Big Moose, NY, photo 4 of 4",
    "images/NY-0073-card.webp": "Sunset Beach Cottages (Inlet) — Camp Big Moose, cabin in Big Moose, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0073-cover.webp",
+   "images/NY-0073-000.webp",
+   "images/NY-0073-001.webp",
+   "images/NY-0073-002.webp"
+  ]
  },
  {
   "id": "NY-0074",
@@ -542,13 +668,20 @@
   "lng": -74.79472,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0074-cover.webp": "Sunset Beach Cottages (Inlet) — Camp Fish Creek, cabin in Inlet, NY",
    "images/NY-0074-000.webp": "Sunset Beach Cottages (Inlet) — Camp Fish Creek, Inlet, NY, photo 2 of 4",
    "images/NY-0074-001.webp": "Sunset Beach Cottages (Inlet) — Camp Fish Creek, Inlet, NY, photo 3 of 4",
    "images/NY-0074-002.webp": "Sunset Beach Cottages (Inlet) — Camp Fish Creek, Inlet, NY, photo 4 of 4",
    "images/NY-0074-card.webp": "Sunset Beach Cottages (Inlet) — Camp Fish Creek, cabin in Inlet, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0074-cover.webp",
+   "images/NY-0074-000.webp",
+   "images/NY-0074-001.webp",
+   "images/NY-0074-002.webp"
+  ]
  },
  {
   "id": "NY-0075",
@@ -571,13 +704,20 @@
   "lng": -74.79804,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0075-cover.webp": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge, cabin in Inlet, NY",
    "images/NY-0075-000.webp": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge, Inlet, NY, photo 2 of 4",
    "images/NY-0075-001.webp": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge, Inlet, NY, photo 3 of 4",
    "images/NY-0075-002.webp": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge, Inlet, NY, photo 4 of 4",
    "images/NY-0075-card.webp": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge, cabin in Inlet, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0075-cover.webp",
+   "images/NY-0075-000.webp",
+   "images/NY-0075-001.webp",
+   "images/NY-0075-002.webp"
+  ]
  },
  {
   "id": "NY-0076",
@@ -600,13 +740,20 @@
   "lng": -74.79472,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0076-cover.webp": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge, cabin in Inlet, NY",
    "images/NY-0076-000.webp": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge, Inlet, NY, photo 2 of 4",
    "images/NY-0076-001.webp": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge, Inlet, NY, photo 3 of 4",
    "images/NY-0076-002.webp": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge, Inlet, NY, photo 4 of 4",
    "images/NY-0076-card.webp": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge, cabin in Inlet, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0076-cover.webp",
+   "images/NY-0076-000.webp",
+   "images/NY-0076-001.webp",
+   "images/NY-0076-002.webp"
+  ]
  },
  {
   "id": "NY-0078",
@@ -629,13 +776,20 @@
   "lng": -74.65739,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0078-cover.webp": "Sunset Beach Cottages (Inlet) — Raquette Retreat, cabin in Raquette Lake, NY",
    "images/NY-0078-000.webp": "Sunset Beach Cottages (Inlet) — Raquette Retreat, Raquette Lake, NY, photo 2 of 4",
    "images/NY-0078-001.webp": "Sunset Beach Cottages (Inlet) — Raquette Retreat, Raquette Lake, NY, photo 3 of 4",
    "images/NY-0078-002.webp": "Sunset Beach Cottages (Inlet) — Raquette Retreat, Raquette Lake, NY, photo 4 of 4",
    "images/NY-0078-card.webp": "Sunset Beach Cottages (Inlet) — Raquette Retreat, cabin in Raquette Lake, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0078-cover.webp",
+   "images/NY-0078-000.webp",
+   "images/NY-0078-001.webp",
+   "images/NY-0078-002.webp"
+  ]
  },
  {
   "id": "NY-0068",
@@ -658,13 +812,20 @@
   "lng": -73.83534,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0068-cover.webp": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House, house in Lake Luzerne, NY",
    "images/NY-0068-000.webp": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House, Lake Luzerne, NY, photo 2 of 4",
    "images/NY-0068-001.webp": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House, Lake Luzerne, NY, photo 3 of 4",
    "images/NY-0068-002.webp": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House, Lake Luzerne, NY, photo 4 of 4",
    "images/NY-0068-card.webp": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House, house in Lake Luzerne, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0068-cover.webp",
+   "images/NY-0068-000.webp",
+   "images/NY-0068-001.webp",
+   "images/NY-0068-002.webp"
+  ]
  },
  {
   "id": "NY-0069",
@@ -687,13 +848,20 @@
   "lng": -73.83534,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0069-cover.webp": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda, cabin in Lake Luzerne, NY",
    "images/NY-0069-000.webp": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda, Lake Luzerne, NY, photo 2 of 4",
    "images/NY-0069-001.webp": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda, Lake Luzerne, NY, photo 3 of 4",
    "images/NY-0069-002.webp": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda, Lake Luzerne, NY, photo 4 of 4",
    "images/NY-0069-card.webp": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda, cabin in Lake Luzerne, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0069-cover.webp",
+   "images/NY-0069-000.webp",
+   "images/NY-0069-001.webp",
+   "images/NY-0069-002.webp"
+  ]
  },
  {
   "id": "NY-0071",
@@ -716,13 +884,20 @@
   "lng": -73.83534,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0071-cover.webp": "The Elms Waterfront Cottages & Lodge — McMaster House, house in Lake Luzerne, NY",
    "images/NY-0071-000.webp": "The Elms Waterfront Cottages & Lodge — McMaster House, Lake Luzerne, NY, photo 2 of 4",
    "images/NY-0071-001.webp": "The Elms Waterfront Cottages & Lodge — McMaster House, Lake Luzerne, NY, photo 3 of 4",
    "images/NY-0071-002.webp": "The Elms Waterfront Cottages & Lodge — McMaster House, Lake Luzerne, NY, photo 4 of 4",
    "images/NY-0071-card.webp": "The Elms Waterfront Cottages & Lodge — McMaster House, house in Lake Luzerne, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0071-cover.webp",
+   "images/NY-0071-000.webp",
+   "images/NY-0071-001.webp",
+   "images/NY-0071-002.webp"
+  ]
  },
  {
   "id": "NY-0072",
@@ -745,13 +920,20 @@
   "lng": -73.83534,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0072-cover.webp": "The Elms Waterfront Cottages & Lodge — Waterfront cottages, cabin in Lake Luzerne, NY",
    "images/NY-0072-000.webp": "The Elms Waterfront Cottages & Lodge — Waterfront cottages, Lake Luzerne, NY, photo 2 of 4",
    "images/NY-0072-001.webp": "The Elms Waterfront Cottages & Lodge — Waterfront cottages, Lake Luzerne, NY, photo 3 of 4",
    "images/NY-0072-002.webp": "The Elms Waterfront Cottages & Lodge — Waterfront cottages, Lake Luzerne, NY, photo 4 of 4",
    "images/NY-0072-card.webp": "The Elms Waterfront Cottages & Lodge — Waterfront cottages, cabin in Lake Luzerne, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0072-cover.webp",
+   "images/NY-0072-000.webp",
+   "images/NY-0072-001.webp",
+   "images/NY-0072-002.webp"
+  ]
  },
  {
   "id": "NY-0079",
@@ -774,13 +956,20 @@
   "lng": -74.22027,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0079-cover.webp": "White Pine Camp — Cabin 1, cabin in Paul Smiths, NY",
    "images/NY-0079-000.webp": "White Pine Camp — Cabin 1, Paul Smiths, NY, photo 2 of 4",
    "images/NY-0079-001.webp": "White Pine Camp — Cabin 1, Paul Smiths, NY, photo 3 of 4",
    "images/NY-0079-002.webp": "White Pine Camp — Cabin 1, Paul Smiths, NY, photo 4 of 4",
    "images/NY-0079-card.webp": "White Pine Camp — Cabin 1, cabin in Paul Smiths, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0079-cover.webp",
+   "images/NY-0079-000.webp",
+   "images/NY-0079-001.webp",
+   "images/NY-0079-002.webp"
+  ]
  },
  {
   "id": "NY-0080",
@@ -803,13 +992,20 @@
   "lng": -74.22027,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0080-cover.webp": "White Pine Camp — Cabin 2, cabin in Paul Smiths, NY",
    "images/NY-0080-000.webp": "White Pine Camp — Cabin 2, Paul Smiths, NY, photo 2 of 4",
    "images/NY-0080-001.webp": "White Pine Camp — Cabin 2, Paul Smiths, NY, photo 3 of 4",
    "images/NY-0080-002.webp": "White Pine Camp — Cabin 2, Paul Smiths, NY, photo 4 of 4",
    "images/NY-0080-card.webp": "White Pine Camp — Cabin 2, cabin in Paul Smiths, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0080-cover.webp",
+   "images/NY-0080-000.webp",
+   "images/NY-0080-001.webp",
+   "images/NY-0080-002.webp"
+  ]
  },
  {
   "id": "NY-0081",
@@ -832,13 +1028,20 @@
   "lng": -74.22027,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0081-cover.webp": "White Pine Camp — Cabin 3, cabin in Paul Smiths, NY",
    "images/NY-0081-000.webp": "White Pine Camp — Cabin 3, Paul Smiths, NY, photo 2 of 4",
    "images/NY-0081-001.webp": "White Pine Camp — Cabin 3, Paul Smiths, NY, photo 3 of 4",
    "images/NY-0081-002.webp": "White Pine Camp — Cabin 3, Paul Smiths, NY, photo 4 of 4",
    "images/NY-0081-card.webp": "White Pine Camp — Cabin 3, cabin in Paul Smiths, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0081-cover.webp",
+   "images/NY-0081-000.webp",
+   "images/NY-0081-001.webp",
+   "images/NY-0081-002.webp"
+  ]
  },
  {
   "id": "NY-0083",
@@ -861,13 +1064,20 @@
   "lng": -74.22027,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0083-cover.webp": "White Pine Camp — Gardener's Cottage, cabin in Paul Smiths, NY",
    "images/NY-0083-000.webp": "White Pine Camp — Gardener's Cottage, Paul Smiths, NY, photo 2 of 4",
    "images/NY-0083-001.webp": "White Pine Camp — Gardener's Cottage, Paul Smiths, NY, photo 3 of 4",
    "images/NY-0083-002.webp": "White Pine Camp — Gardener's Cottage, Paul Smiths, NY, photo 4 of 4",
    "images/NY-0083-card.webp": "White Pine Camp — Gardener's Cottage, cabin in Paul Smiths, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0083-cover.webp",
+   "images/NY-0083-000.webp",
+   "images/NY-0083-001.webp",
+   "images/NY-0083-002.webp"
+  ]
  },
  {
   "id": "NY-0082",
@@ -890,12 +1100,19 @@
   "lng": -74.22027,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/NY-0082-cover.webp": "White Pine Camp — Gate Cottage, cabin in Paul Smiths, NY",
    "images/NY-0082-000.webp": "White Pine Camp — Gate Cottage, Paul Smiths, NY, photo 2 of 4",
    "images/NY-0082-001.webp": "White Pine Camp — Gate Cottage, Paul Smiths, NY, photo 3 of 4",
    "images/NY-0082-002.webp": "White Pine Camp — Gate Cottage, Paul Smiths, NY, photo 4 of 4",
    "images/NY-0082-card.webp": "White Pine Camp — Gate Cottage, cabin in Paul Smiths, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0082-cover.webp",
+   "images/NY-0082-000.webp",
+   "images/NY-0082-001.webp",
+   "images/NY-0082-002.webp"
+  ]
  }
 ]

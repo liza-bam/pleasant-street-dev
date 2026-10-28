@@ -26,13 +26,20 @@
   "lng": -68.6849,
   "featured": false,
   "demo": false,
+  "description": "Stay at 207North Cabins in Patten, ME. Modern, cozy cabins with direct snowmobile and Atv trail acess. Not far from Baxter State Park and Katahdin Woods & Waters. Family Friendly, Fully Equipped, and open year round.",
   "photoAlts": {
    "images/ME-0061-cover.avif": "207North Cabins, cabin in Millinocket, ME",
    "images/ME-0061-000.avif": "207North Cabins, Millinocket, ME, photo 2 of 4",
    "images/ME-0061-001.avif": "207North Cabins, Millinocket, ME, photo 3 of 4",
    "images/ME-0061-002.avif": "207North Cabins, Millinocket, ME, photo 4 of 4",
    "images/ME-0061-card.webp": "207North Cabins, cabin in Millinocket, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0061-cover.avif",
+   "images/ME-0061-000.avif",
+   "images/ME-0061-001.avif",
+   "images/ME-0061-002.avif"
+  ]
  },
  {
   "id": "ME-0064",
@@ -61,13 +68,20 @@
   "lng": -68.6849,
   "featured": false,
   "demo": false,
+  "description": "Experience the century-old tradition of Debsconeag Lake Wilderness Camps in Maine's North Woods. Remote lakeside lodging surrounded by 100,000+ acres of protected wilderness.",
   "photoAlts": {
    "images/ME-0064-cover.webp": "4th Debsconeag Lake Camps, camp in Millinocket / Debsconeag Lakes, ME",
    "images/ME-0064-000.webp": "4th Debsconeag Lake Camps, Millinocket / Debsconeag Lakes, ME, photo 2 of 4",
    "images/ME-0064-001.webp": "4th Debsconeag Lake Camps, Millinocket / Debsconeag Lakes, ME, photo 3 of 4",
    "images/ME-0064-002.webp": "4th Debsconeag Lake Camps, Millinocket / Debsconeag Lakes, ME, photo 4 of 4",
    "images/ME-0064-card.webp": "4th Debsconeag Lake Camps, camp in Millinocket / Debsconeag Lakes, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0064-cover.webp",
+   "images/ME-0064-000.webp",
+   "images/ME-0064-001.webp",
+   "images/ME-0064-002.webp"
+  ]
  },
  {
   "id": "ME-0180",
@@ -96,13 +110,20 @@
   "lng": -68.6849,
   "featured": false,
   "demo": false,
+  "description": "Hosted by Kim Welcome to Baxter Place, a unique and comfortable living space in the heart of the village of Millinocket. The apartment is just a minutes walk from restaurants, bars and galleries and at the doorstep to all the lakes and mountains of the Katahdin region. Whether you hike, x-country",
   "photoAlts": {
    "images/ME-0180-cover.jpg": "Abol Properties, Millinocket, ME",
    "images/ME-0180-000.jpg": "Abol Properties, Millinocket, ME, photo 2 of 4",
    "images/ME-0180-001.jpg": "Abol Properties, Millinocket, ME, photo 3 of 4",
    "images/ME-0180-002.jpg": "Abol Properties, Millinocket, ME, photo 4 of 4",
    "images/ME-0180-card.webp": "Abol Properties, Millinocket, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0180-cover.jpg",
+   "images/ME-0180-000.jpg",
+   "images/ME-0180-001.jpg",
+   "images/ME-0180-002.jpg"
+  ]
  },
  {
   "id": "ME-0062",
@@ -131,13 +152,20 @@
   "lng": -68.6849,
   "featured": false,
   "demo": false,
+  "description": "Big Moose's Fredericka's restaurant, Loose Moose Bar Grille, Inn rooms, inn suites, lakefront cabins that make it your all inclusive vacation destination for Katahdin lodging nearest Baxter State Park.",
   "photoAlts": {
    "images/ME-0062-cover.jpg": "Big Moose Inn Cabins, cabin in Millinocket, ME",
    "images/ME-0062-000.jpg": "Big Moose Inn Cabins, Millinocket, ME, photo 2 of 4",
    "images/ME-0062-001.jpg": "Big Moose Inn Cabins, Millinocket, ME, photo 3 of 4",
    "images/ME-0062-002.jpg": "Big Moose Inn Cabins, Millinocket, ME, photo 4 of 4",
    "images/ME-0062-card.webp": "Big Moose Inn Cabins, cabin in Millinocket, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0062-cover.jpg",
+   "images/ME-0062-000.jpg",
+   "images/ME-0062-001.jpg",
+   "images/ME-0062-002.jpg"
+  ]
  },
  {
   "id": "ME-0060",
@@ -166,13 +194,20 @@
   "lng": -68.55071,
   "featured": false,
   "demo": false,
+  "description": "Come for some great fall camping. Enjoy a warm fire with friends and let the kids burn off some energy on one of the last weekends before we close for the season!",
   "photoAlts": {
    "images/ME-0060-cover.webp": "Katahdin Shadows Cabins, cabin in Medway, ME",
    "images/ME-0060-000.webp": "Katahdin Shadows Cabins, Medway, ME, photo 2 of 4",
    "images/ME-0060-001.jpg": "Katahdin Shadows Cabins, Medway, ME, photo 3 of 4",
    "images/ME-0060-002.webp": "Katahdin Shadows Cabins, Medway, ME, photo 4 of 4",
    "images/ME-0060-card.webp": "Katahdin Shadows Cabins, cabin in Medway, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0060-cover.webp",
+   "images/ME-0060-000.webp",
+   "images/ME-0060-001.jpg",
+   "images/ME-0060-002.webp"
+  ]
  },
  {
   "id": "ME-0181",
@@ -201,11 +236,17 @@
   "lng": -68.55569,
   "featured": false,
   "demo": false,
+  "description": "Shin Pond Village in Mount Chase, Main offers tent camping, RV sites, cottages, and waterfront homes along with Polaris rentals and access to snowmobile routes.",
   "photoAlts": {
    "images/ME-0181-cover.jpg": "Shin Pond Village, Mount Chase, ME",
    "images/ME-0181-000.webp": "Shin Pond Village, Mount Chase, ME, photo 2 of 3",
    "images/ME-0181-001.jpg": "Shin Pond Village, Mount Chase, ME, photo 3 of 3",
    "images/ME-0181-card.webp": "Shin Pond Village, Mount Chase, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0181-cover.jpg",
+   "images/ME-0181-000.webp",
+   "images/ME-0181-001.jpg"
+  ]
  }
 ]

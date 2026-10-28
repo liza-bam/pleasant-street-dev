@@ -26,13 +26,20 @@
   "lng": -68.65157,
   "featured": false,
   "demo": false,
+  "description": "Discover Camel Brook Camps in Fort Kent, Maine, offering cozy, all-season cabins with WiFi, full kitchens, and easy access to trails and outdoor adventures. Ideal for both sporting trips and relaxing getaways.",
   "photoAlts": {
    "images/ME-0038-cover.jpg": "Camel Brook Camps, camp in Fort Kent, ME",
    "images/ME-0038-000.avif": "Camel Brook Camps, Fort Kent, ME, photo 2 of 4",
    "images/ME-0038-001.jpg": "Camel Brook Camps, Fort Kent, ME, photo 3 of 4",
    "images/ME-0038-002.jpg": "Camel Brook Camps, Fort Kent, ME, photo 4 of 4",
    "images/ME-0038-card.webp": "Camel Brook Camps, camp in Fort Kent, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0038-cover.jpg",
+   "images/ME-0038-000.avif",
+   "images/ME-0038-001.jpg",
+   "images/ME-0038-002.jpg"
+  ]
  },
  {
   "id": "ME-0022",
@@ -61,11 +68,16 @@
   "lng": -68.04219,
   "featured": false,
   "demo": false,
+  "description": "Caribou Maine Cabin Rentals. Snowmobiling, Hunting and Fishing in Northern Maine. Rent a Cabin from Caribou Cabins",
   "photoAlts": {
    "images/ME-0022-cover.jpg": "Caribou Cabins, cabin in Caribou, ME",
    "images/ME-0022-000.jpg": "Caribou Cabins, Caribou, ME, photo 2 of 2",
    "images/ME-0022-card.webp": "Caribou Cabins, cabin in Caribou, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0022-cover.jpg",
+   "images/ME-0022-000.jpg"
+  ]
  },
  {
   "id": "ME-0039",
@@ -94,13 +106,20 @@
   "lng": -68.5905,
   "featured": false,
   "demo": false,
+  "description": "Crossroad Cabins is the center for Northern Maine Travel. With access to a large network of ATV and snowmobile trails, a ski resort, excellent hunting and fishing grounds, as well as beautiful downtown Fort Kent, Crossroad Cabins has everything you need to make your stay in Maine one to remember.",
   "photoAlts": {
    "images/ME-0039-cover.jpg": "Crossroad Cabins, cabin in Fort Kent, ME",
    "images/ME-0039-000.avif": "Crossroad Cabins, Fort Kent, ME, photo 2 of 4",
    "images/ME-0039-001.avif": "Crossroad Cabins, Fort Kent, ME, photo 3 of 4",
    "images/ME-0039-002.jpg": "Crossroad Cabins, Fort Kent, ME, photo 4 of 4",
    "images/ME-0039-card.webp": "Crossroad Cabins, cabin in Fort Kent, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0039-cover.jpg",
+   "images/ME-0039-000.avif",
+   "images/ME-0039-001.avif",
+   "images/ME-0039-002.jpg"
+  ]
  },
  {
   "id": "ME-0040",
@@ -134,13 +153,20 @@
   "lng": -68.55065,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/ME-0040-cover.jpg": "Eagle Eye Cabin, cabin in Fort Kent, ME",
    "images/ME-0040-000.jpg": "Eagle Eye Cabin, Fort Kent, ME, photo 2 of 4",
    "images/ME-0040-001.jpg": "Eagle Eye Cabin, Fort Kent, ME, photo 3 of 4",
    "images/ME-0040-002.png": "Eagle Eye Cabin, Fort Kent, ME, photo 4 of 4",
    "images/ME-0040-card.webp": "Eagle Eye Cabin, cabin in Fort Kent, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0040-cover.jpg",
+   "images/ME-0040-000.jpg",
+   "images/ME-0040-001.jpg",
+   "images/ME-0040-002.png"
+  ]
  },
  {
   "id": "ME-0030",
@@ -169,13 +195,20 @@
   "lng": -68.5885,
   "featured": false,
   "demo": false,
+  "description": "Discover Eagle Lake Sporting Camps—an all-inclusive Maine retreat with lakeside cabins, fine dining, fishing, guided hunts, and unforgettable adventures.",
   "photoAlts": {
    "images/ME-0030-cover.jpg": "Eagle Lake Sporting Camps, camp in Eagle Lake, ME",
    "images/ME-0030-000.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 2 of 4",
    "images/ME-0030-001.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 3 of 4",
    "images/ME-0030-002.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 4 of 4",
    "images/ME-0030-card.webp": "Eagle Lake Sporting Camps, camp in Eagle Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0030-cover.jpg",
+   "images/ME-0030-000.jpg",
+   "images/ME-0030-001.jpg",
+   "images/ME-0030-002.jpg"
+  ]
  },
  {
   "id": "ME-0031",
@@ -204,13 +237,20 @@
   "lng": -68.58954,
   "featured": false,
   "demo": false,
+  "description": "Five air-conditioned lakefront cabins with a private beach on Eagle Lake in northern Maine. Each sleeps 10. Book one for your family, or all five for up to 50. The property has kayaks, docks and trail access.",
   "photoAlts": {
    "images/ME-0031-cover.jpg": "Eagles Landing Lakeside Cottages, house in Eagle Lake, ME",
    "images/ME-0031-000.avif": "Eagles Landing Lakeside Cottages, Eagle Lake, ME, photo 2 of 4",
    "images/ME-0031-001.avif": "Eagles Landing Lakeside Cottages, Eagle Lake, ME, photo 3 of 4",
    "images/ME-0031-002.avif": "Eagles Landing Lakeside Cottages, Eagle Lake, ME, photo 4 of 4",
    "images/ME-0031-card.webp": "Eagles Landing Lakeside Cottages, house in Eagle Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0031-cover.jpg",
+   "images/ME-0031-000.avif",
+   "images/ME-0031-001.avif",
+   "images/ME-0031-002.avif"
+  ]
  },
  {
   "id": "ME-0117",
@@ -239,13 +279,20 @@
   "lng": -67.86112,
   "featured": false,
   "demo": false,
+  "description": "First Settlers Lodge is easy to locate on US Route 1 in Weston, twenty-eight miles (28) south of the terminus on I-95 in Houlton. Access from the south is by way of US Route 1 from Calais or US Route 6 and Rural Route 169 from Lincoln. Guests may request shuttle service from Bangor International,",
   "photoAlts": {
    "images/ME-0117-cover.jpg": "First Settlers Lodge, Weston, ME",
    "images/ME-0117-000.jpg": "First Settlers Lodge, Weston, ME, photo 2 of 4",
    "images/ME-0117-001.jpg": "First Settlers Lodge, Weston, ME, photo 3 of 4",
    "images/ME-0117-002.jpg": "First Settlers Lodge, Weston, ME, photo 4 of 4",
    "images/ME-0117-card.webp": "First Settlers Lodge, Weston, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0117-cover.jpg",
+   "images/ME-0117-000.jpg",
+   "images/ME-0117-001.jpg",
+   "images/ME-0117-002.jpg"
+  ]
  },
  {
   "id": "ME-0308",
@@ -275,13 +322,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "NOMAD offers seasonal houseboat stays for four on Junior Lake. Guests sleep aboard a moored boat with communal sleeping quarters and a private bathroom; the Lakeville shore address is the homeport, rather than a fixed mooring.",
   "photoAlts": {
    "images/ME-0308-cover.jpg": "Houseboat NOMAD, houseboat in Lakeville, ME",
    "images/ME-0308-000.jpg": "Houseboat NOMAD, Lakeville, ME, photo 2 of 4",
    "images/ME-0308-001.jpg": "Houseboat NOMAD, Lakeville, ME, photo 3 of 4",
    "images/ME-0308-002.jpg": "Houseboat NOMAD, Lakeville, ME, photo 4 of 4",
    "images/ME-0308-card.webp": "Houseboat NOMAD, houseboat in Lakeville, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0308-cover.jpg",
+   "images/ME-0308-000.jpg",
+   "images/ME-0308-001.jpg",
+   "images/ME-0308-002.jpg"
+  ]
  },
  {
   "id": "ME-0297",
@@ -315,13 +369,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Spend the night aboard ROAM on Junior Lake, with room for two, a kitchenette, private wet bath, and outdoor lounging areas. This seasonal houseboat stay uses an operator-arranged mooring near the Lakeville homeport.",
   "photoAlts": {
    "images/ME-0297-cover.jpg": "Houseboat ROAM, houseboat in Lakeville, ME",
    "images/ME-0297-000.jpg": "Houseboat ROAM, Lakeville, ME, photo 2 of 4",
    "images/ME-0297-001.jpg": "Houseboat ROAM, Lakeville, ME, photo 3 of 4",
    "images/ME-0297-002.jpg": "Houseboat ROAM, Lakeville, ME, photo 4 of 4",
    "images/ME-0297-card.webp": "Houseboat ROAM, houseboat in Lakeville, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0297-cover.jpg",
+   "images/ME-0297-000.jpg",
+   "images/ME-0297-001.jpg",
+   "images/ME-0297-002.jpg"
+  ]
  },
  {
   "id": "ME-0042",
@@ -350,13 +411,20 @@
   "lng": -68.5905,
   "featured": false,
   "demo": false,
+  "description": "Northern Maine Vacation Home, Cabins, RV/Tent Camping, and all-in-one Event Venue. From unforgettable events to outdoor adventures, enjoy trail access, riverfront stays, and the beauty of Northern Maine.",
   "photoAlts": {
    "images/ME-0042-cover.webp": "Junction 19 Company / The Caron Camp, camp in Fort Kent, ME",
    "images/ME-0042-000.avif": "Junction 19 Company / The Caron Camp, Fort Kent, ME, photo 2 of 4",
    "images/ME-0042-001.webp": "Junction 19 Company / The Caron Camp, Fort Kent, ME, photo 3 of 4",
    "images/ME-0042-002.webp": "Junction 19 Company / The Caron Camp, Fort Kent, ME, photo 4 of 4",
    "images/ME-0042-card.webp": "Junction 19 Company / The Caron Camp, camp in Fort Kent, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0042-cover.webp",
+   "images/ME-0042-000.avif",
+   "images/ME-0042-001.webp",
+   "images/ME-0042-002.webp"
+  ]
  },
  {
   "id": "ME-0001",
@@ -386,13 +454,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "When the historic Atkins Camps were founded in 1890, and twenty years before Ike, Will, and their father C.C. purchased them and founded Libby Camps, the world was a vastly different place. 1890 was the year Yosemite was designated as a National Park, and the same year Wyoming and Idaho were admitted as 43rd and 44th states. It was one year before Carnegie Hall opened in New York City, and two years before Ellis Island started accepting and processing immigrants. It was three years still before the extravagant Chicago World’s Fair, where the masses were introduced to the marvel of",
   "photoAlts": {
    "images/ME-0001-cover.jpg": "Libby Camps, camp in Ashland / Munsungan Lake, ME",
    "images/ME-0001-000.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 2 of 4",
    "images/ME-0001-001.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 3 of 4",
    "images/ME-0001-002.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 4 of 4",
    "images/ME-0001-card.webp": "Libby Camps, camp in Ashland / Munsungan Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0001-cover.jpg",
+   "images/ME-0001-000.jpg",
+   "images/ME-0001-001.jpg",
+   "images/ME-0001-002.jpg"
+  ]
  },
  {
   "id": "ME-0032",
@@ -421,10 +496,14 @@
   "lng": -68.58507,
   "featured": false,
   "demo": false,
+  "description": "Our Year-round cabin rentals are reasonable priced, clean, comfortable and provide a private space for you to relax after an exciting adventure in Northern Aroostook County. Amenities include:kitchen stove with oven3/4 bathrefrigeratormicrowavekitchen table with chairseating dishes and cutleryKayak and canoes free with week rentalX-country skis and snowshoes available for most sizes below is the Duplex…",
   "photoAlts": {
    "images/ME-0032-cover.jpg": "Lugdon Lodge, Eagle Lake, ME",
    "images/ME-0032-card.webp": "Lugdon Lodge, Eagle Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0032-cover.jpg"
+  ]
  },
  {
   "id": "ME-0073",
@@ -454,13 +533,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Lakeside log cabin rentals in Maine’s Allagash Lakes Region. Each private cabin has its own patch to the lake and dock. Your cozy base for wildlife watching, kayaking, stargazing, fishing for wild brook trout, hunting, and more. Dog friendly.",
   "photoAlts": {
    "images/ME-0073-cover.webp": "Macannamac Camps, camp in North Maine Woods, ME",
    "images/ME-0073-000.webp": "Macannamac Camps, North Maine Woods, ME, photo 2 of 4",
    "images/ME-0073-001.webp": "Macannamac Camps, North Maine Woods, ME, photo 3 of 4",
    "images/ME-0073-002.webp": "Macannamac Camps, North Maine Woods, ME, photo 4 of 4",
    "images/ME-0073-card.webp": "Macannamac Camps, camp in North Maine Woods, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0073-cover.webp",
+   "images/ME-0073-000.webp",
+   "images/ME-0073-001.webp",
+   "images/ME-0073-002.webp"
+  ]
  },
  {
   "id": "ME-0033",
@@ -489,13 +575,20 @@
   "lng": -68.59557,
   "featured": false,
   "demo": false,
+  "description": "T he Overlook Motel is located directly on RT 11, approximately 15 miles south of Fort Kent, Maine, overlooking beautiful Eagle Lake. Open year round, guests can see the easterly views of the lake from their over-sized rooms. Fax and copy services are available in the lobby and guests have access to free WIFI throughout the property and RV sites. One night in our motel and you will be sure to return again.",
   "photoAlts": {
    "images/ME-0033-cover.jpg": "Overlook Motel & Lakeside Cottages, house in Eagle Lake, ME",
    "images/ME-0033-000.jpg": "Overlook Motel & Lakeside Cottages, Eagle Lake, ME, photo 2 of 4",
    "images/ME-0033-001.avif": "Overlook Motel & Lakeside Cottages, Eagle Lake, ME, photo 3 of 4",
    "images/ME-0033-002.avif": "Overlook Motel & Lakeside Cottages, Eagle Lake, ME, photo 4 of 4",
    "images/ME-0033-card.webp": "Overlook Motel & Lakeside Cottages, house in Eagle Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0033-cover.jpg",
+   "images/ME-0033-000.jpg",
+   "images/ME-0033-001.avif",
+   "images/ME-0033-002.avif"
+  ]
  },
  {
   "id": "ME-0034",
@@ -524,13 +617,20 @@
   "lng": -68.58602,
   "featured": false,
   "demo": false,
+  "description": "Welcome To Pond Brook Cabins Your Memories Await... Cozy country warmth of a log cabin, and the convenience of home Book Your Reservation Now Escape the ordinary. Return to Nature. Browse Our Cabins Pond Brook Cabins are the premiere vacation rentals in Northern Maine. TREAT yourselves to a vacation to remember!! We provide our guests",
   "photoAlts": {
    "images/ME-0034-cover.jpg": "Pond Brook Cabins, cabin in Eagle Lake, ME",
    "images/ME-0034-000.jpg": "Pond Brook Cabins, Eagle Lake, ME, photo 2 of 4",
    "images/ME-0034-001.jpg": "Pond Brook Cabins, Eagle Lake, ME, photo 3 of 4",
    "images/ME-0034-002.jpg": "Pond Brook Cabins, Eagle Lake, ME, photo 4 of 4",
    "images/ME-0034-card.webp": "Pond Brook Cabins, cabin in Eagle Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0034-cover.jpg",
+   "images/ME-0034-000.jpg",
+   "images/ME-0034-001.jpg",
+   "images/ME-0034-002.jpg"
+  ]
  },
  {
   "id": "ME-0118",
@@ -559,13 +659,20 @@
   "lng": -67.8761,
   "featured": false,
   "demo": false,
+  "description": "Lakeside Lodge & Cabins - East Grand Lake, Maine",
   "photoAlts": {
    "images/ME-0118-cover.webp": "Rideout's Lakeside Lodge & Cabins, cabin in Weston, ME",
    "images/ME-0118-000.webp": "Rideout's Lakeside Lodge & Cabins, Weston, ME, photo 2 of 4",
    "images/ME-0118-001.webp": "Rideout's Lakeside Lodge & Cabins, Weston, ME, photo 3 of 4",
    "images/ME-0118-002.webp": "Rideout's Lakeside Lodge & Cabins, Weston, ME, photo 4 of 4",
    "images/ME-0118-card.webp": "Rideout's Lakeside Lodge & Cabins, cabin in Weston, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0118-cover.webp",
+   "images/ME-0118-000.webp",
+   "images/ME-0118-001.webp",
+   "images/ME-0118-002.webp"
+  ]
  },
  {
   "id": "ME-0146",
@@ -599,12 +706,18 @@
   "lng": -68.04271,
   "featured": false,
   "demo": false,
+  "description": "Arriving at The Tamaracks feels like the beginning of something memorable. The moment you step out of your vehicle, you sense the quiet of the countryside, the clean northern air, and the anticipation of adventure. Whether you plan to ride the trails, explore local waterways, or unwind in a peaceful rural setting, your cabin becomes the center of your experience.",
   "photoAlts": {
    "images/ME-0146-cover.jpg": "The Tamaracks, Caribou, ME",
    "images/ME-0146-000.jpg": "The Tamaracks, Caribou, ME, photo 2 of 3",
    "images/ME-0146-001.jpg": "The Tamaracks, Caribou, ME, photo 3 of 3",
    "images/ME-0146-card.webp": "The Tamaracks, Caribou, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0146-cover.jpg",
+   "images/ME-0146-000.jpg",
+   "images/ME-0146-001.jpg"
+  ]
  },
  {
   "id": "ME-0074",
@@ -633,13 +746,20 @@
   "lng": -68.59989,
   "featured": false,
   "demo": false,
+  "description": "Trackemdown Lodge & Cabins is a Top Ranked, All Inclusive Guide Service Built in Maine over 30 years ago, offering Guided Hunts for Bear, Moose, and Deer.",
   "photoAlts": {
    "images/ME-0074-cover.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME",
    "images/ME-0074-000.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME, photo 2 of 4",
    "images/ME-0074-001.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME, photo 3 of 4",
    "images/ME-0074-002.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME, photo 4 of 4",
    "images/ME-0074-card.webp": "Trackdown Kennels Lodge, Northern Aroostook, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0074-cover.jpg",
+   "images/ME-0074-000.jpg",
+   "images/ME-0074-001.jpg",
+   "images/ME-0074-002.jpg"
+  ]
  },
  {
   "id": "ME-0023",
@@ -674,13 +794,20 @@
   "lng": -68.02247,
   "featured": false,
   "demo": false,
+  "description": "Unknown",
   "photoAlts": {
    "images/ME-0023-cover.jpg": "Up North Cabins, cabin in Caribou, ME",
    "images/ME-0023-000.jpg": "Up North Cabins, Caribou, ME, photo 2 of 4",
    "images/ME-0023-001.jpg": "Up North Cabins, Caribou, ME, photo 3 of 4",
    "images/ME-0023-002.jpg": "Up North Cabins, Caribou, ME, photo 4 of 4",
    "images/ME-0023-card.webp": "Up North Cabins, cabin in Caribou, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0023-cover.jpg",
+   "images/ME-0023-000.jpg",
+   "images/ME-0023-001.jpg",
+   "images/ME-0023-002.jpg"
+  ]
  },
  {
   "id": "ME-0037",
@@ -709,12 +836,19 @@
   "lng": -67.7297,
   "featured": false,
   "demo": false,
+  "description": "Wheaton's Lodge is a traditional family operated sporting camp ideally situated amidst spectacular lake country in eastern Maine, well beyond the fringe of population and fishing pressures. Our reputation is founded on a long tradition (1952) of proven fishing results, good food, peace and quiet, and warm hospitality.",
   "photoAlts": {
    "images/ME-0037-cover.jpg": "Wheaton's Lodge, Forest City, ME",
    "images/ME-0037-000.avif": "Wheaton's Lodge, Forest City, ME, photo 2 of 4",
    "images/ME-0037-001.avif": "Wheaton's Lodge, Forest City, ME, photo 3 of 4",
    "images/ME-0037-002.jpg": "Wheaton's Lodge, Forest City, ME, photo 4 of 4",
    "images/ME-0037-card.webp": "Wheaton's Lodge, Forest City, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0037-cover.jpg",
+   "images/ME-0037-000.avif",
+   "images/ME-0037-001.avif",
+   "images/ME-0037-002.jpg"
+  ]
  }
 ]

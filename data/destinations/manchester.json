@@ -26,10 +26,14 @@
   "lng": -73.1773,
   "featured": false,
   "demo": false,
+  "description": "A renovated nine-bedroom farmhouse on three hundred acres in Pawlet, with two kitchens and space for large groups.",
   "photoAlts": {
    "images/VT-0039-cover.jpg": "Flower Brook Farm, house in Pawlet, VT",
    "images/VT-0039-card.webp": "Flower Brook Farm, house in Pawlet, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0039-cover.jpg"
+  ]
  },
  {
   "id": "VT-0037",
@@ -58,10 +62,14 @@
   "lng": -73.0569,
   "featured": false,
   "demo": false,
+  "description": "A collection of three historic vacation homes in Manchester Village: Wickham House, Novel House and Lyman Cottage.",
   "photoAlts": {
    "images/VT-0037-cover.jpg": "Storied Stay, Manchester, VT",
    "images/VT-0037-card.webp": "Storied Stay, Manchester, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0037-cover.jpg"
+  ]
  },
  {
   "id": "VT-0069",
@@ -90,9 +98,13 @@
   "lng": -73.0569,
   "featured": false,
   "demo": false,
+  "description": "Two owner-operated vacation houses in Manchester Center, Sanctuary and Sanctuary II, with direct booking inquiries.",
   "photoAlts": {
    "images/VT-0069-cover.jpg": "Vermont Vacation Rentals — Sanctuary Homes, Manchester Center, VT",
    "images/VT-0069-card.webp": "Vermont Vacation Rentals — Sanctuary Homes, Manchester Center, VT"
-  }
+  },
+  "allPhotos": [
+   "images/VT-0069-cover.jpg"
+  ]
  }
 ]

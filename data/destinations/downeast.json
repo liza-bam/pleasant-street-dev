@@ -26,13 +26,20 @@
   "lng": -67.55569,
   "featured": false,
   "demo": false,
+  "description": "Motel rooms and cabins 10 minutes from Machias on Route 1, with swimming pool, WiFi, satellite TV, and homemade blueberry muffins.",
   "photoAlts": {
    "images/ME-0055-cover.jpg": "Blueberry Patch Motel & Cabins, cabin in Jonesboro, ME",
    "images/ME-0055-000.jpg": "Blueberry Patch Motel & Cabins, Jonesboro, ME, photo 2 of 4",
    "images/ME-0055-001.jpg": "Blueberry Patch Motel & Cabins, Jonesboro, ME, photo 3 of 4",
    "images/ME-0055-002.jpg": "Blueberry Patch Motel & Cabins, Jonesboro, ME, photo 4 of 4",
    "images/ME-0055-card.webp": "Blueberry Patch Motel & Cabins, cabin in Jonesboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0055-cover.jpg",
+   "images/ME-0055-000.jpg",
+   "images/ME-0055-001.jpg",
+   "images/ME-0055-002.jpg"
+  ]
  },
  {
   "id": "ME-0028",
@@ -61,11 +68,16 @@
   "lng": -67.79405,
   "featured": false,
   "demo": false,
+  "description": "Welcome to Cowgers’ Lakefront Cabins, nestled on the Western shore of East Grand Lake in Danforth, Maine. Originally established in 1968 as Lou’s East Grand Camps, Cowgers’ began operation in 1994 welcoming friends and families to enjoy the rugged outdoors in the peaceful seclusion of Greenland Cove. Cowgers’ is a family-run business, taking pride in providing a relaxed, family-friendly atmosphere for our guests. Customers find a wide array of recreational activities including hiking, biking, boating, swimming, canoeing, kayaking, or just relaxing around a campfire.",
   "photoAlts": {
    "images/ME-0028-cover.jpg": "Cowgers' Lakefront Cabins, cabin in Danforth, ME",
    "images/ME-0028-000.jpg": "Cowgers' Lakefront Cabins, Danforth, ME, photo 2 of 2",
    "images/ME-0028-card.webp": "Cowgers' Lakefront Cabins, cabin in Danforth, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0028-cover.jpg",
+   "images/ME-0028-000.jpg"
+  ]
  },
  {
   "id": "ME-0250",
@@ -95,13 +107,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Click to find your next home rental in beautiful Downeast Maine. From Ellsworth to Blue Hill, we offer premium rentals and service.",
   "photoAlts": {
    "images/ME-0250-cover.webp": "Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals), Downeast Maine, ME",
    "images/ME-0250-000.webp": "Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals), Downeast Maine, ME, photo 2 of 4",
    "images/ME-0250-001.webp": "Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals), Downeast Maine, ME, photo 3 of 4",
    "images/ME-0250-002.webp": "Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals), Downeast Maine, ME, photo 4 of 4",
    "images/ME-0250-card.webp": "Downeast Properties Rentals (also listed as Downeast Maine Vacation Rentals), Downeast Maine, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0250-cover.webp",
+   "images/ME-0250-000.webp",
+   "images/ME-0250-001.webp",
+   "images/ME-0250-002.webp"
+  ]
  },
  {
   "id": "ME-0046",
@@ -130,13 +149,20 @@
   "lng": -67.77712,
   "featured": false,
   "demo": false,
+  "description": "Lakeside cabin lodging in Grand Lake Stream, Maine on West Grand Lake. Cabin occupancy for 2-7 people. Guided fishing trips for lake trout, landlocked salmon, & smallmouth bass. Private boat launch & docks. Boat & motor rentals. Free canoe & kayak rentals. Kid & pet friendly. Ideal location for family vacations and reunions.",
   "photoAlts": {
    "images/ME-0046-cover.jpg": "Grand Lake Lodge, Grand Lake Stream, ME",
    "images/ME-0046-000.jpg": "Grand Lake Lodge, Grand Lake Stream, ME, photo 2 of 4",
    "images/ME-0046-001.jpg": "Grand Lake Lodge, Grand Lake Stream, ME, photo 3 of 4",
    "images/ME-0046-002.jpg": "Grand Lake Lodge, Grand Lake Stream, ME, photo 4 of 4",
    "images/ME-0046-card.webp": "Grand Lake Lodge, Grand Lake Stream, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0046-cover.jpg",
+   "images/ME-0046-000.jpg",
+   "images/ME-0046-001.jpg",
+   "images/ME-0046-002.jpg"
+  ]
  },
  {
   "id": "ME-0151",
@@ -165,12 +191,18 @@
   "lng": -67.73471,
   "featured": false,
   "demo": false,
+  "description": "Hearts of Maine specializes in waterfront vacation rental properties along the downeast coast of eastern Maine. Contact us for more info!",
   "photoAlts": {
    "images/ME-0151-cover.jpg": "Hearts of Maine, Downeast coast, ME",
    "images/ME-0151-000.jpg": "Hearts of Maine, Downeast coast, ME, photo 2 of 3",
    "images/ME-0151-001.jpg": "Hearts of Maine, Downeast coast, ME, photo 3 of 3",
    "images/ME-0151-card.webp": "Hearts of Maine, Downeast coast, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0151-cover.jpg",
+   "images/ME-0151-000.jpg",
+   "images/ME-0151-001.jpg"
+  ]
  },
  {
   "id": "ME-0174",
@@ -199,13 +231,20 @@
   "lng": -66.98329,
   "featured": false,
   "demo": false,
+  "description": "Easternmost town in the USA~ Vacation Home Rental & Maine Gift Shop & Ice Cream Stop",
   "photoAlts": {
    "images/ME-0174-cover.avif": "Love at First Light Vacation Home, house in Lubec, ME",
    "images/ME-0174-000.jpg": "Love at First Light Vacation Home, Lubec, ME, photo 2 of 4",
    "images/ME-0174-001.jpg": "Love at First Light Vacation Home, Lubec, ME, photo 3 of 4",
    "images/ME-0174-002.jpg": "Love at First Light Vacation Home, Lubec, ME, photo 4 of 4",
    "images/ME-0174-card.webp": "Love at First Light Vacation Home, house in Lubec, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0174-cover.avif",
+   "images/ME-0174-000.jpg",
+   "images/ME-0174-001.jpg",
+   "images/ME-0174-002.jpg"
+  ]
  },
  {
   "id": "ME-0179",
@@ -234,13 +273,20 @@
   "lng": -67.8812,
   "featured": false,
   "demo": false,
+  "description": "Maine vacation home rental in Milbridge, Maine. Visit Acadia National Park, Bar Harbor and buy fresh lobster. Direct booking available.",
   "photoAlts": {
    "images/ME-0179-cover.jpg": "Stanley Ventures, Milbridge, ME",
    "images/ME-0179-000.jpg": "Stanley Ventures, Milbridge, ME, photo 2 of 4",
    "images/ME-0179-001.jpg": "Stanley Ventures, Milbridge, ME, photo 3 of 4",
    "images/ME-0179-002.jpg": "Stanley Ventures, Milbridge, ME, photo 4 of 4",
    "images/ME-0179-card.webp": "Stanley Ventures, Milbridge, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0179-cover.jpg",
+   "images/ME-0179-000.jpg",
+   "images/ME-0179-001.jpg",
+   "images/ME-0179-002.jpg"
+  ]
  },
  {
   "id": "ME-0158",
@@ -269,13 +315,20 @@
   "lng": -68.03077,
   "featured": false,
   "demo": false,
+  "description": "Relax, recharge, and explore the quiet side of Acadia. West Bay Acadia in Gouldsboro offers waterfront sites with full hookups for Acadia RV camping.",
   "photoAlts": {
    "images/ME-0158-cover.jpg": "West Bay Acadia, Gouldsboro, ME",
    "images/ME-0158-000.webp": "West Bay Acadia, Gouldsboro, ME, photo 2 of 4",
    "images/ME-0158-001.webp": "West Bay Acadia, Gouldsboro, ME, photo 3 of 4",
    "images/ME-0158-002.webp": "West Bay Acadia, Gouldsboro, ME, photo 4 of 4",
    "images/ME-0158-card.webp": "West Bay Acadia, Gouldsboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0158-cover.jpg",
+   "images/ME-0158-000.webp",
+   "images/ME-0158-001.webp",
+   "images/ME-0158-002.webp"
+  ]
  },
  {
   "id": "ME-0176",
@@ -304,12 +357,19 @@
   "lng": -66.9951,
   "featured": false,
   "demo": false,
+  "description": "Discover West Quoddy Station in Lubec, Maine—offering historic vacation rentals with ocean views near the iconic West Quoddy Lighthouse. Choose from cozy cabins, charming cottages, and spacious lodges. Perfect for family getaways, nature enthusiasts, and anyone seeking a serene coastal escape.",
   "photoAlts": {
    "images/ME-0176-cover.jpg": "West Quoddy Station, Lubec, ME",
    "images/ME-0176-000.jpg": "West Quoddy Station, Lubec, ME, photo 2 of 4",
    "images/ME-0176-001.jpg": "West Quoddy Station, Lubec, ME, photo 3 of 4",
    "images/ME-0176-002.jpg": "West Quoddy Station, Lubec, ME, photo 4 of 4",
    "images/ME-0176-card.webp": "West Quoddy Station, Lubec, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0176-cover.jpg",
+   "images/ME-0176-000.jpg",
+   "images/ME-0176-001.jpg",
+   "images/ME-0176-002.jpg"
+  ]
  }
 ]

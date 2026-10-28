@@ -22,10 +22,14 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Locally owned manager offering White Mountain vacation homes and apartments.",
   "photoAlts": {
    "images/NH-0053-cover.webp": "All Mountain Rentals, house in Campton, NH",
    "images/NH-0053-card.webp": "All Mountain Rentals, house in Campton, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0053-cover.webp"
+  ]
  },
  {
   "id": "NH-0011",
@@ -49,10 +53,14 @@
   "lng": -71.2821,
   "featured": false,
   "demo": false,
+  "description": "Bartlett cabin and treehouse village with an onsite winery and heated pool.",
   "photoAlts": {
    "images/NH-0011-cover.webp": "Alpine Garden, cabin in Bartlett, NH",
    "images/NH-0011-card.webp": "Alpine Garden, cabin in Bartlett, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0011-cover.webp"
+  ]
  },
  {
   "id": "NH-0028",
@@ -81,12 +89,18 @@
   "lng": -71.443,
   "featured": false,
   "demo": false,
+  "description": "AMC lodge at Crawford Notch with private rooms and optional meals.",
   "photoAlts": {
    "images/NH-0028-cover.webp": "AMC Highland Center, Bretton Woods, NH",
    "images/NH-0028-000.webp": "AMC Highland Center, Bretton Woods, NH, photo 2 of 3",
    "images/NH-0028-001.webp": "AMC Highland Center, Bretton Woods, NH, photo 3 of 3",
    "images/NH-0028-card.webp": "AMC Highland Center, Bretton Woods, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0028-cover.webp",
+   "images/NH-0028-000.webp",
+   "images/NH-0028-001.webp"
+  ]
  },
  {
   "id": "NH-0052",
@@ -110,6 +124,7 @@
   "lng": -71.2821,
   "featured": false,
   "demo": false,
+  "description": "Bartlett condominium resort near Attitash with kitchens, pools and year-round mountain activities.",
   "photoAlts": {
    "Unknown": "Attitash Mountain Village Resort, apartment in Bartlett, NH"
   }
@@ -136,6 +151,7 @@
   "lng": -71.8131,
   "featured": false,
   "demo": false,
+  "description": "Family-run Rumney retreat with cabins, yurts, a dome and other nature stays.",
   "photoAlts": {
    "Unknown": "Baker Rocks, cabin in Rumney, NH"
   }
@@ -163,6 +179,7 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Family-owned manager of vacation homes and cabins in Bretton Woods and nearby White Mountains towns.",
   "photoAlts": {
    "Unknown": "Bretton Woods Vacations, house in Bretton Woods, NH"
   }
@@ -194,13 +211,20 @@
   "lng": -71.1238,
   "featured": false,
   "demo": false,
+  "description": "Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.",
   "photoAlts": {
    "images/NH-0056-cover.webp": "Cranmore Condominiums, apartment in North Conway, NH",
    "images/NH-0056-000.webp": "Cranmore Condominiums, North Conway, NH, photo 2 of 4",
    "images/NH-0056-001.webp": "Cranmore Condominiums, North Conway, NH, photo 3 of 4",
    "images/NH-0056-002.webp": "Cranmore Condominiums, North Conway, NH, photo 4 of 4",
    "images/NH-0056-card.webp": "Cranmore Condominiums, apartment in North Conway, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0056-cover.webp",
+   "images/NH-0056-000.webp",
+   "images/NH-0056-001.webp",
+   "images/NH-0056-002.webp"
+  ]
  },
  {
   "id": "NH-0063",
@@ -224,10 +248,14 @@
   "lng": -71.5057,
   "featured": false,
   "demo": false,
+  "description": "Individually owned condominium suites with full kitchens in the center of Waterville Valley.",
   "photoAlts": {
    "images/NH-0063-cover.webp": "Golden Eagle Lodge, cabin in Waterville Valley, NH",
    "images/NH-0063-card.webp": "Golden Eagle Lodge, cabin in Waterville Valley, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0063-cover.webp"
+  ]
  },
  {
   "id": "NH-0046",
@@ -257,13 +285,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Family-run rooms and cottages in Twin Mountain with walking trails and White Mountain access.",
   "photoAlts": {
    "images/NH-0046-cover.webp": "Highland House and Cottages, cabin in Twin Mountain, NH",
    "images/NH-0046-000.webp": "Highland House and Cottages, Twin Mountain, NH, photo 2 of 4",
    "images/NH-0046-001.webp": "Highland House and Cottages, Twin Mountain, NH, photo 3 of 4",
    "images/NH-0046-002.webp": "Highland House and Cottages, Twin Mountain, NH, photo 4 of 4",
    "images/NH-0046-card.webp": "Highland House and Cottages, cabin in Twin Mountain, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0046-cover.webp",
+   "images/NH-0046-000.webp",
+   "images/NH-0046-001.webp",
+   "images/NH-0046-002.webp"
+  ]
  },
  {
   "id": "NH-0006",
@@ -287,11 +322,16 @@
   "lng": -71.6684,
   "featured": false,
   "demo": false,
+  "description": "Family-operated Lincoln cabins and motel beside the Pemigewasset River, open May through October.",
   "photoAlts": {
    "images/NH-0006-cover.webp": "Mt. Liberty Lodging, cabin in Lincoln, NH",
    "images/NH-0006-000.webp": "Mt. Liberty Lodging, Lincoln, NH, photo 2 of 2",
    "images/NH-0006-card.webp": "Mt. Liberty Lodging, cabin in Lincoln, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0006-cover.webp",
+   "images/NH-0006-000.webp"
+  ]
  },
  {
   "id": "NH-0045",
@@ -324,13 +364,20 @@
   "lng": -71.6684,
   "featured": false,
   "demo": false,
+  "description": "Riverside cabins in Lincoln with fireplaces, screened porches and shared outdoor gathering areas.",
   "photoAlts": {
    "images/NH-0045-cover.webp": "Pemi Cabins, cabin in Lincoln, NH",
    "images/NH-0045-000.webp": "Pemi Cabins, Lincoln, NH, photo 2 of 4",
    "images/NH-0045-001.webp": "Pemi Cabins, Lincoln, NH, photo 3 of 4",
    "images/NH-0045-002.webp": "Pemi Cabins, Lincoln, NH, photo 4 of 4",
    "images/NH-0045-card.webp": "Pemi Cabins, cabin in Lincoln, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0045-cover.webp",
+   "images/NH-0045-000.webp",
+   "images/NH-0045-001.webp",
+   "images/NH-0045-002.webp"
+  ]
  },
  {
   "id": "NH-0023",
@@ -359,13 +406,20 @@
   "lng": -71.687,
   "featured": false,
   "demo": false,
+  "description": "Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.",
   "photoAlts": {
    "images/NH-0023-cover.webp": "Presidential Mountain Resort, cabin in Bethlehem, NH",
    "images/NH-0023-000.webp": "Presidential Mountain Resort, Bethlehem, NH, photo 2 of 4",
    "images/NH-0023-001.webp": "Presidential Mountain Resort, Bethlehem, NH, photo 3 of 4",
    "images/NH-0023-002.webp": "Presidential Mountain Resort, Bethlehem, NH, photo 4 of 4",
    "images/NH-0023-card.webp": "Presidential Mountain Resort, cabin in Bethlehem, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0023-cover.webp",
+   "images/NH-0023-000.webp",
+   "images/NH-0023-001.webp",
+   "images/NH-0023-002.webp"
+  ]
  },
  {
   "id": "NH-0020",
@@ -389,10 +443,14 @@
   "lng": -71.1488,
   "featured": false,
   "demo": false,
+  "description": "Hoyt-family Madison lake resort with cottages, condos, lodges and year-round outdoor activities.",
   "photoAlts": {
    "images/NH-0020-cover.webp": "Purity Spring Resort, cabin in Madison, NH",
    "images/NH-0020-card.webp": "Purity Spring Resort, cabin in Madison, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0020-cover.webp"
+  ]
  },
  {
   "id": "NH-0062",
@@ -421,12 +479,18 @@
   "lng": -71.4747,
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom Jefferson log cabin for eight guests with mountain views, hot tub, sauna and a game loft.",
   "photoAlts": {
    "images/NH-0062-cover.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH",
    "images/NH-0062-000.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH, photo 2 of 3",
    "images/NH-0062-001.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH, photo 3 of 3",
    "images/NH-0062-card.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0062-cover.webp",
+   "images/NH-0062-000.webp",
+   "images/NH-0062-001.webp"
+  ]
  },
  {
   "id": "NH-0010",
@@ -450,10 +514,14 @@
   "lng": -71.678,
   "featured": false,
   "demo": false,
+  "description": "Family-run Thornton motel with adjoining suites, pool, cidery and a small farm.",
   "photoAlts": {
    "images/NH-0010-cover.webp": "Shamrock Grove, cabin in Thornton, NH",
    "images/NH-0010-card.webp": "Shamrock Grove, cabin in Thornton, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0010-cover.webp"
+  ]
  },
  {
   "id": "NH-0021",
@@ -477,10 +545,14 @@
   "lng": -71.7973,
   "featured": false,
   "demo": false,
+  "description": "Family-operated Sugar Hill inn with romantic vacation cottages, private baths and mountain access.",
   "photoAlts": {
    "images/NH-0021-cover.webp": "Sugar Hill Inn, cabin in Sugar Hill, NH",
    "images/NH-0021-card.webp": "Sugar Hill Inn, cabin in Sugar Hill, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0021-cover.webp"
+  ]
  },
  {
   "id": "NH-0054",
@@ -509,13 +581,20 @@
   "lng": -71.4747,
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom family vacation home on 30 acres in Jefferson with mountain views and an indoor sauna.",
   "photoAlts": {
    "images/NH-0054-cover.webp": "The Bray Hill House, Jefferson, NH",
    "images/NH-0054-000.webp": "The Bray Hill House, Jefferson, NH, photo 2 of 4",
    "images/NH-0054-001.webp": "The Bray Hill House, Jefferson, NH, photo 3 of 4",
    "images/NH-0054-002.webp": "The Bray Hill House, Jefferson, NH, photo 4 of 4",
    "images/NH-0054-card.webp": "The Bray Hill House, Jefferson, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0054-cover.webp",
+   "images/NH-0054-000.webp",
+   "images/NH-0054-001.webp",
+   "images/NH-0054-002.webp"
+  ]
  },
  {
   "id": "NH-0077",
@@ -548,13 +627,20 @@
   "lng": -71.073,
   "featured": false,
   "demo": false,
+  "description": "Owner-run log cabin in Conway with a fireplace, kitchen and private wooded backyard, offering direct bookings and optional retreats.",
   "photoAlts": {
    "images/NH-0077-cover.webp": "The Conscious Cabin, cabin in Conway, NH",
    "images/NH-0077-000.webp": "The Conscious Cabin, Conway, NH, photo 2 of 4",
    "images/NH-0077-001.webp": "The Conscious Cabin, Conway, NH, photo 3 of 4",
    "images/NH-0077-002.webp": "The Conscious Cabin, Conway, NH, photo 4 of 4",
    "images/NH-0077-card.webp": "The Conscious Cabin, cabin in Conway, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0077-cover.webp",
+   "images/NH-0077-000.webp",
+   "images/NH-0077-001.webp",
+   "images/NH-0077-002.webp"
+  ]
  },
  {
   "id": "NH-0067",
@@ -583,13 +669,20 @@
   "lng": -71.18017,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Swiss-style Bartlett chalet for twelve guests, with a hot tub and game room near Story Land.",
   "photoAlts": {
    "images/NH-0067-cover.webp": "The Crimson Cocoa Chalet, Bartlett, NH",
    "images/NH-0067-000.webp": "The Crimson Cocoa Chalet, Bartlett, NH, photo 2 of 4",
    "images/NH-0067-001.webp": "The Crimson Cocoa Chalet, Bartlett, NH, photo 3 of 4",
    "images/NH-0067-002.webp": "The Crimson Cocoa Chalet, Bartlett, NH, photo 4 of 4",
    "images/NH-0067-card.webp": "The Crimson Cocoa Chalet, Bartlett, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0067-cover.webp",
+   "images/NH-0067-000.webp",
+   "images/NH-0067-001.webp",
+   "images/NH-0067-002.webp"
+  ]
  },
  {
   "id": "NH-0008",
@@ -613,6 +706,7 @@
   "lng": -72.0081,
   "featured": false,
   "demo": false,
+  "description": "Cabin retreat on 2,000 acres in Pike near the White Mountains.",
   "photoAlts": {
    "Unknown": "The Innstead Mountain Getaway, cabin in Pike, NH"
   }
@@ -644,13 +738,20 @@
   "lng": -71.54,
   "featured": false,
   "demo": false,
+  "description": "Locally owned year-round Twin Mountain cabins with kitchenettes, porches, a seasonal pool and direct Cloudbeds booking.",
   "photoAlts": {
    "images/NH-0004-cover.webp": "The Patio Cabins, cabin in Twin Mountain, NH",
    "images/NH-0004-000.webp": "The Patio Cabins, Twin Mountain, NH, photo 2 of 4",
    "images/NH-0004-001.webp": "The Patio Cabins, Twin Mountain, NH, photo 3 of 4",
    "images/NH-0004-002.webp": "The Patio Cabins, Twin Mountain, NH, photo 4 of 4",
    "images/NH-0004-card.webp": "The Patio Cabins, cabin in Twin Mountain, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0004-cover.webp",
+   "images/NH-0004-000.webp",
+   "images/NH-0004-001.webp",
+   "images/NH-0004-002.webp"
+  ]
  },
  {
   "id": "NH-0002",
@@ -679,12 +780,18 @@
   "lng": -71.2635,
   "featured": false,
   "demo": false,
+  "description": "Family-run Tamworth estate with guest cottages, farmhouse rooms and event space.",
   "photoAlts": {
    "images/NH-0002-cover.webp": "The Preserve at Chocorua, cabin in Tamworth, NH",
    "images/NH-0002-000.webp": "The Preserve at Chocorua, Tamworth, NH, photo 2 of 3",
    "images/NH-0002-001.webp": "The Preserve at Chocorua, Tamworth, NH, photo 3 of 3",
    "images/NH-0002-card.webp": "The Preserve at Chocorua, cabin in Tamworth, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0002-cover.webp",
+   "images/NH-0002-000.webp",
+   "images/NH-0002-001.webp"
+  ]
  },
  {
   "id": "NH-0058",
@@ -713,13 +820,20 @@
   "lng": -71.14,
   "featured": false,
   "demo": false,
+  "description": "Independent seven-unit riverside inn in Intervale with suites and villas, including full-kitchen options.",
   "photoAlts": {
    "images/NH-0058-cover.webp": "TuckAway Suites at East Branch, Intervale, NH",
    "images/NH-0058-000.webp": "TuckAway Suites at East Branch, Intervale, NH, photo 2 of 4",
    "images/NH-0058-001.webp": "TuckAway Suites at East Branch, Intervale, NH, photo 3 of 4",
    "images/NH-0058-002.webp": "TuckAway Suites at East Branch, Intervale, NH, photo 4 of 4",
    "images/NH-0058-card.webp": "TuckAway Suites at East Branch, Intervale, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0058-cover.webp",
+   "images/NH-0058-000.webp",
+   "images/NH-0058-001.webp",
+   "images/NH-0058-002.webp"
+  ]
  },
  {
   "id": "NH-0071",
@@ -748,12 +862,18 @@
   "lng": -71.1238,
   "featured": false,
   "demo": false,
+  "description": "North Conway lodging campus with dog-friendly rooms and cottage suites with partial kitchens, near Eastern Slope Inn.",
   "photoAlts": {
    "images/NH-0071-cover.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH",
    "images/NH-0071-000.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH, photo 2 of 3",
    "images/NH-0071-001.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH, photo 3 of 3",
    "images/NH-0071-card.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0071-cover.webp",
+   "images/NH-0071-000.webp",
+   "images/NH-0071-001.webp"
+  ]
  },
  {
   "id": "NH-0055",
@@ -777,10 +897,15 @@
   "lng": -71.5057,
   "featured": false,
   "demo": false,
+  "description": "Independent White Mountains resort offering Town Square condominium lodging in Waterville Valley.",
   "photoAlts": {
    "images/NH-0055-cover.webp": "Waterville Valley Resort, house in Waterville Valley, NH",
    "images/NH-0055-000.webp": "Waterville Valley Resort, Waterville Valley, NH, photo 2 of 2",
    "images/NH-0055-card.webp": "Waterville Valley Resort, house in Waterville Valley, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0055-cover.webp",
+   "images/NH-0055-000.webp"
+  ]
  }
 ]

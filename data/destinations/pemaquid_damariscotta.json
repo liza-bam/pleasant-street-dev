@@ -27,13 +27,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Charming 1916 Cottage on Pemaquid Point – Walk to the Shore, Relax on the Porch Step back in time and enjoy the simple pleasures of coastal Maine at this rustic, early 1900s cottage located on scenic Pemaquid Point. Just minutes from New Harbor and local attractions, this home offers a relaxed, nostalgic atmosphere perfect for unwinding and soaking in the natural beauty of the area. Comfortably furnished with a mix of family pieces, the cottage features a cozy brick fireplace in the living area and a well-equipped kitchen with ample counter space — ideal for vacationing cooks.",
   "photoAlts": {
    "images/ME-0453-cover.jpg": "1916 Cottage/Pemaquid Point, house in Bristol, ME",
    "images/ME-0453-000.jpg": "1916 Cottage/Pemaquid Point, Bristol, ME, photo 2 of 4",
    "images/ME-0453-001.jpg": "1916 Cottage/Pemaquid Point, Bristol, ME, photo 3 of 4",
    "images/ME-0453-002.jpg": "1916 Cottage/Pemaquid Point, Bristol, ME, photo 4 of 4",
    "images/ME-0453-card.webp": "1916 Cottage/Pemaquid Point, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0453-cover.jpg",
+   "images/ME-0453-000.jpg",
+   "images/ME-0453-001.jpg",
+   "images/ME-0453-002.jpg"
+  ]
  },
  {
   "id": "ME-0455",
@@ -63,13 +70,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Lakefront Luxury Cabin w/ Private Dock | Near Pemaquid, Round Pond & Damariscotta Escape to this private lakefront retreat on Boyd’s Pond in Bristol, Maine—the perfect destination for families, couples, and multi-generational groups. This stunning 4-bedroom, 3.5-bath Lindal Cedar Home sits on 7 secluded acres with over pristine water frontage, offering unbeatable access to swimming, kayaking, fishing, and peaceful relaxation.",
   "photoAlts": {
    "images/ME-0455-cover.jpg": "Alice's Dream/Bristol, house in Bristol, ME",
    "images/ME-0455-000.jpg": "Alice's Dream/Bristol, Bristol, ME, photo 2 of 4",
    "images/ME-0455-001.jpg": "Alice's Dream/Bristol, Bristol, ME, photo 3 of 4",
    "images/ME-0455-002.jpg": "Alice's Dream/Bristol, Bristol, ME, photo 4 of 4",
    "images/ME-0455-card.webp": "Alice's Dream/Bristol, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0455-cover.jpg",
+   "images/ME-0455-000.jpg",
+   "images/ME-0455-001.jpg",
+   "images/ME-0455-002.jpg"
+  ]
  },
  {
   "id": "ME-0463",
@@ -99,13 +113,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Welcome to Breezy Cottage — A Classic Maine Riverfront Escape! Step back in time and experience the charm of coastal Maine at Breezy Point, an authentic riverfront cottage dating back to the late 1890s to early 1900s. Nestled along the scenic Gut and Damariscotta River, this historic retreat offers timeless beauty, serene views, and the soothing rhythm of boats passing by. Sip your morning coffee on the porch as you watch local fishermen navigate the waterways, the soft hum of their motors blending into the natural stillness around you.",
   "photoAlts": {
    "images/ME-0463-cover.jpg": "Breezy Cottage/Rutherford Island, house in South Bristol, ME",
    "images/ME-0463-000.jpg": "Breezy Cottage/Rutherford Island, South Bristol, ME, photo 2 of 4",
    "images/ME-0463-001.jpg": "Breezy Cottage/Rutherford Island, South Bristol, ME, photo 3 of 4",
    "images/ME-0463-002.jpg": "Breezy Cottage/Rutherford Island, South Bristol, ME, photo 4 of 4",
    "images/ME-0463-card.webp": "Breezy Cottage/Rutherford Island, house in South Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0463-cover.jpg",
+   "images/ME-0463-000.jpg",
+   "images/ME-0463-001.jpg",
+   "images/ME-0463-002.jpg"
+  ]
  },
  {
   "id": "ME-0013",
@@ -134,12 +155,18 @@
   "lng": -69.43134,
   "featured": false,
   "demo": false,
+  "description": "Otyokwa is a lakeside retreat in mid-coast Maine on 48 acres with 2100 feet of private shoreline, featuring cabins and houseboats, perfect for private family and friend gatherings.",
   "photoAlts": {
    "images/ME-0013-cover.avif": "Camp Otyokwa, camp in Bremen, ME",
    "images/ME-0013-000.avif": "Camp Otyokwa, Bremen, ME, photo 2 of 3",
    "images/ME-0013-001.jpg": "Camp Otyokwa, Bremen, ME, photo 3 of 3",
    "images/ME-0013-card.webp": "Camp Otyokwa, camp in Bremen, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0013-cover.avif",
+   "images/ME-0013-000.avif",
+   "images/ME-0013-001.jpg"
+  ]
  },
  {
   "id": "ME-0466",
@@ -169,13 +196,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Your Perfect Coastal Maine Retreat on Biscay Pond! Escape to the beauty of Midcoast Maine at this charming lakefront getaway, ideally situated on the serene east side of Biscay Pond. This welcoming two-story home offers classic cottage charm with warm wood interiors and cozy, rustic accents—capturing the essence of traditional Maine living. Step outside onto the spacious deck to enjoy panoramic views of the pond. Whether you're dining al fresco, sipping morning coffee, or gathering around the firepit for s’mores under the stars, the setting is perfect for making lasting memories.",
   "photoAlts": {
    "images/ME-0466-cover.jpg": "Classic Maine Cottage/Bremen, house in Bremen, ME",
    "images/ME-0466-000.jpg": "Classic Maine Cottage/Bremen, Bremen, ME, photo 2 of 4",
    "images/ME-0466-001.jpg": "Classic Maine Cottage/Bremen, Bremen, ME, photo 3 of 4",
    "images/ME-0466-002.jpg": "Classic Maine Cottage/Bremen, Bremen, ME, photo 4 of 4",
    "images/ME-0466-card.webp": "Classic Maine Cottage/Bremen, house in Bremen, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0466-cover.jpg",
+   "images/ME-0466-000.jpg",
+   "images/ME-0466-001.jpg",
+   "images/ME-0466-002.jpg"
+  ]
  },
  {
   "id": "ME-0168",
@@ -204,11 +238,16 @@
   "lng": -69.45843,
   "featured": false,
   "demo": false,
+  "description": "ComfyDome is the perfect affordable summer staycation get-away if you are looking for a one-of-a-kind Maine glamping experience. With beautiful nature surrounding you 360 degrees and plenty of open space you can enjoy your glampsite with comfort and safety! Our quaint 3 domes glampground is off the beaten path so you won’t run into big crowds! We welcome groups up to 6, couples, or single travelers!",
   "photoAlts": {
    "images/ME-0168-cover.jpg": "ComfyDome Glamping, Jefferson, ME",
    "images/ME-0168-000.jpg": "ComfyDome Glamping, Jefferson, ME, photo 2 of 2",
    "images/ME-0168-card.webp": "ComfyDome Glamping, Jefferson, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0168-cover.jpg",
+   "images/ME-0168-000.jpg"
+  ]
  },
  {
   "id": "ME-0465",
@@ -238,13 +277,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Experience the quintessential Maine summer getaway at this charming lakeside cottage on Cranberry Point Lane, nestled along the shores of Pemaquid Lake in Damariscotta. This classic four-bedroom, one-and-a-half-bath retreat offers the perfect blend of comfort, charm, and outdoor adventure. Start your mornings with coffee on the screened-in porch, spend sunny afternoons paddling the lake with the included kayak and canoe or a relalxing siesta in the inviting hammock while listening to waves lapping the shore, and wind down with a rinse in the refreshing outdoor shower.",
   "photoAlts": {
    "images/ME-0465-cover.jpg": "Dale Camp/Damariscotta, camp in Damariscotta, ME",
    "images/ME-0465-000.jpg": "Dale Camp/Damariscotta, Damariscotta, ME, photo 2 of 4",
    "images/ME-0465-001.jpg": "Dale Camp/Damariscotta, Damariscotta, ME, photo 3 of 4",
    "images/ME-0465-002.jpg": "Dale Camp/Damariscotta, Damariscotta, ME, photo 4 of 4",
    "images/ME-0465-card.webp": "Dale Camp/Damariscotta, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0465-cover.jpg",
+   "images/ME-0465-000.jpg",
+   "images/ME-0465-001.jpg",
+   "images/ME-0465-002.jpg"
+  ]
  },
  {
   "id": "ME-0441",
@@ -273,13 +319,20 @@
   "lng": -69.53198,
   "featured": false,
   "demo": false,
+  "description": "Sunny, expansive property on Damariscotta Lake The home’s layout is ideal for entertaining large gatherings with a centrally located, fully equipped kitchen leading to a dining area with seating for up to 10. A beautiful light-filled family room offers panoramic views of the surrounding lawns, towering trees and beautiful Damariscotta lake. The expansive wraparound deck is furnished with comfortable seating, a coffee table with an exciting gas fire feature and a large alfresco dining table with Weber grill. Set on over five acres, the lake house overlooks a private cove on the quiet end of picturesque Damariscotta Lake.",
   "photoAlts": {
    "images/ME-0441-cover.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, house in Newcastle, ME",
    "images/ME-0441-000.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, Newcastle, ME, photo 2 of 4",
    "images/ME-0441-001.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, Newcastle, ME, photo 3 of 4",
    "images/ME-0441-002.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, Newcastle, ME, photo 4 of 4",
    "images/ME-0441-card.webp": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, house in Newcastle, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0441-cover.jpg",
+   "images/ME-0441-000.jpg",
+   "images/ME-0441-001.jpg",
+   "images/ME-0441-002.jpg"
+  ]
  },
  {
   "id": "ME-0479",
@@ -309,13 +362,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Elegant Coastal Haven with Sweeping Ocean Views & Room for the Whole Family Perched above Maine’s dramatic, rocky coastline, this stunning new home offers panoramic views of the Atlantic and a luxurious setting for your perfect seaside escape. Thoughtfully designed with large windows throughout, the open-concept living space invites the outdoors in — filling the home with natural light and the soothing rhythm of the ocean. Contemporary charm meets coastal comfort in the spacious living room, sleek kitchen with stainless steel appliances, and an inviting dining area ideal for entertaining while waves crash in the distance.",
   "photoAlts": {
    "images/ME-0479-cover.jpg": "Elliot's Escape/Bremen, house in Bremen, ME",
    "images/ME-0479-000.jpg": "Elliot's Escape/Bremen, Bremen, ME, photo 2 of 4",
    "images/ME-0479-001.jpg": "Elliot's Escape/Bremen, Bremen, ME, photo 3 of 4",
    "images/ME-0479-002.jpg": "Elliot's Escape/Bremen, Bremen, ME, photo 4 of 4",
    "images/ME-0479-card.webp": "Elliot's Escape/Bremen, house in Bremen, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0479-cover.jpg",
+   "images/ME-0479-000.jpg",
+   "images/ME-0479-001.jpg",
+   "images/ME-0479-002.jpg"
+  ]
  },
  {
   "id": "ME-0448",
@@ -345,13 +405,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "*AVAILABLE SATURDAY TO SATURDAY! PLEASE CALL OUR OFFICE TO BOOK* Enjoy lakeside serenity on Pemaquid Lake! Tucked away on a beautifully wooded and private lot along the shores of Pemaquid Lake in Bremen, this charming three-bedroom cottage offers the perfect setting for a peaceful Maine getaway. Start your mornings with a coffee or wind down at dinnertime on the spacious screend-in porch, surrounded by the sights and sounds of nature. A private dock invites you to swim, fish, or launch one of the homeowner-provided kayaks for a day of lake exploration.",
   "photoAlts": {
    "images/ME-0448-cover.jpg": "Fox Lane Cottage/Bremen, house in Bremen, ME",
    "images/ME-0448-000.jpg": "Fox Lane Cottage/Bremen, Bremen, ME, photo 2 of 4",
    "images/ME-0448-001.jpg": "Fox Lane Cottage/Bremen, Bremen, ME, photo 3 of 4",
    "images/ME-0448-002.jpg": "Fox Lane Cottage/Bremen, Bremen, ME, photo 4 of 4",
    "images/ME-0448-card.webp": "Fox Lane Cottage/Bremen, house in Bremen, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0448-cover.jpg",
+   "images/ME-0448-000.jpg",
+   "images/ME-0448-001.jpg",
+   "images/ME-0448-002.jpg"
+  ]
  },
  {
   "id": "ME-0471",
@@ -381,13 +448,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Stunning Oceanfront Shingle-Style Cottage with Harbor Views This beautiful contemporary cottage offers an unforgettable oceanfront experience in a peaceful, picture-perfect setting. Bright, airy, and thoughtfully designed, the home features expansive water views from nearly every room, with a full-length deck that invites you to relax outdoors and soak in the sights and sounds of the harbor. Open the doors in the living room or primary bedroom to let in the refreshing sea breeze and the gentle sound of lapping waves.",
   "photoAlts": {
    "images/ME-0471-cover.jpg": "Harbor House Cottage/Bremen, house in Bremen, ME",
    "images/ME-0471-000.jpg": "Harbor House Cottage/Bremen, Bremen, ME, photo 2 of 4",
    "images/ME-0471-001.jpg": "Harbor House Cottage/Bremen, Bremen, ME, photo 3 of 4",
    "images/ME-0471-002.jpg": "Harbor House Cottage/Bremen, Bremen, ME, photo 4 of 4",
    "images/ME-0471-card.webp": "Harbor House Cottage/Bremen, house in Bremen, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0471-cover.jpg",
+   "images/ME-0471-000.jpg",
+   "images/ME-0471-001.jpg",
+   "images/ME-0471-002.jpg"
+  ]
  },
  {
   "id": "ME-0472",
@@ -417,13 +491,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Bright Coastal Cottage with Panoramic Ocean Views Escape to this contemporary seaside cottage perched above John's Bay on picturesque Rutherford Island in South Bristol. Just minutes from charming Christmas Cove, Coveside Restaurant, and Osier’s Wharf, this bright and airy retreat offers the perfect blend of coastal charm and modern comfort. A small rocky beach is also just a short walk away. Step inside to an open-concept living space featuring soaring 25-foot cathedral ceilings and skylights that flood the home with natural light.",
   "photoAlts": {
    "images/ME-0472-cover.jpg": "Heron Oaks/Rutherford Island, house in South Bristol, ME",
    "images/ME-0472-000.jpg": "Heron Oaks/Rutherford Island, South Bristol, ME, photo 2 of 4",
    "images/ME-0472-001.jpg": "Heron Oaks/Rutherford Island, South Bristol, ME, photo 3 of 4",
    "images/ME-0472-002.jpg": "Heron Oaks/Rutherford Island, South Bristol, ME, photo 4 of 4",
    "images/ME-0472-card.webp": "Heron Oaks/Rutherford Island, house in South Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0472-cover.jpg",
+   "images/ME-0472-000.jpg",
+   "images/ME-0472-001.jpg",
+   "images/ME-0472-002.jpg"
+  ]
  },
  {
   "id": "ME-0480",
@@ -453,13 +534,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Kenninson Cottage – Lakefront Charm with Sunset Views & Family-Friendly Fun Welcome to Kenninson Cottage, a classic lakefront retreat offering unforgettable sunsets, peaceful surroundings, and the perfect setting for making memories with family and friends. Nestled on the water’s edge, this inviting property features a spacious yard ideal for lawn games, picnics, and watching the kids play while ducks and loons drift by. Enjoy lunch on the dockside patio or gather in the picnic area for a barbecue using the brand-new gas grill. Evenings are best spent around the fire pit, toasting s’mores under the stars.",
   "photoAlts": {
    "images/ME-0480-cover.jpg": "Kennison Cottage/Damariscotta Lake, house in Nobleboro, ME",
    "images/ME-0480-000.jpg": "Kennison Cottage/Damariscotta Lake, Nobleboro, ME, photo 2 of 4",
    "images/ME-0480-001.jpg": "Kennison Cottage/Damariscotta Lake, Nobleboro, ME, photo 3 of 4",
    "images/ME-0480-002.jpg": "Kennison Cottage/Damariscotta Lake, Nobleboro, ME, photo 4 of 4",
    "images/ME-0480-card.webp": "Kennison Cottage/Damariscotta Lake, house in Nobleboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0480-cover.jpg",
+   "images/ME-0480-000.jpg",
+   "images/ME-0480-001.jpg",
+   "images/ME-0480-002.jpg"
+  ]
  },
  {
   "id": "ME-0459",
@@ -489,13 +577,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Charming Oceanfront Cottage on John's Bay - Walk to Pemaquid Point Lighthouse! Escape to this classic Maine oceanfront cottage, perfectly perched on the edge of beautiful John's Bay. With sweeping water views and direct shoreline access, this peaceful retreat offers the quinteseentioal coastal experience. Inside, you'll find a spacious great room with cozy sitting and dining areas, an updated eat-in kitchen, and three comfortable bedrooms on the second floor.",
   "photoAlts": {
    "images/ME-0459-cover.jpg": "Kurtz Cottage/Bristol, house in Bristol, ME",
    "images/ME-0459-000.jpg": "Kurtz Cottage/Bristol, Bristol, ME, photo 2 of 4",
    "images/ME-0459-001.jpg": "Kurtz Cottage/Bristol, Bristol, ME, photo 3 of 4",
    "images/ME-0459-002.jpg": "Kurtz Cottage/Bristol, Bristol, ME, photo 4 of 4",
    "images/ME-0459-card.webp": "Kurtz Cottage/Bristol, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0459-cover.jpg",
+   "images/ME-0459-000.jpg",
+   "images/ME-0459-001.jpg",
+   "images/ME-0459-002.jpg"
+  ]
  },
  {
   "id": "ME-0025",
@@ -524,13 +619,20 @@
   "lng": -69.45978,
   "featured": false,
   "demo": false,
+  "description": "The Deck House is also a private rental located at the campground with an occupancy limit of 6 people.",
   "photoAlts": {
    "images/ME-0025-cover.jpg": "Lake Pemaquid Campground - cottage rentals, camp in Damariscotta, ME",
    "images/ME-0025-000.jpg": "Lake Pemaquid Campground - cottage rentals, Damariscotta, ME, photo 2 of 4",
    "images/ME-0025-001.jpg": "Lake Pemaquid Campground - cottage rentals, Damariscotta, ME, photo 3 of 4",
    "images/ME-0025-002.jpg": "Lake Pemaquid Campground - cottage rentals, Damariscotta, ME, photo 4 of 4",
    "images/ME-0025-card.webp": "Lake Pemaquid Campground - cottage rentals, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0025-cover.jpg",
+   "images/ME-0025-000.jpg",
+   "images/ME-0025-001.jpg",
+   "images/ME-0025-002.jpg"
+  ]
  },
  {
   "id": "ME-0432",
@@ -559,13 +661,20 @@
   "lng": -69.45857,
   "featured": false,
   "demo": false,
+  "description": "If you’re looking for the perfect family retreat away from the hustle of downtown yet close enough for a quick trip, look no further. Lilypad offers a private, lakefront experience that will allow you to disconnect and relax! Nestled on Damariscotta Lake, this property is situated on a secluded, quiet piece of land surrounded by beautifully clean and clear water on three sides. With two docks—one for kayaks and the other for small boats—there’s plenty of room for everyone to enjoy water sports such as bass fishing, kayaking, canoeing, stand-up paddleboarding, and more.",
   "photoAlts": {
    "images/ME-0432-cover.jpg": "Lakefront Retreat with Private Docks & Kayaks, house in Nobleboro, ME",
    "images/ME-0432-000.jpg": "Lakefront Retreat with Private Docks & Kayaks, Nobleboro, ME, photo 2 of 4",
    "images/ME-0432-001.jpg": "Lakefront Retreat with Private Docks & Kayaks, Nobleboro, ME, photo 3 of 4",
    "images/ME-0432-002.jpg": "Lakefront Retreat with Private Docks & Kayaks, Nobleboro, ME, photo 4 of 4",
    "images/ME-0432-card.webp": "Lakefront Retreat with Private Docks & Kayaks, house in Nobleboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0432-cover.jpg",
+   "images/ME-0432-000.jpg",
+   "images/ME-0432-001.jpg",
+   "images/ME-0432-002.jpg"
+  ]
  },
  {
   "id": "ME-0486",
@@ -594,13 +703,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "This cottage has been upgraded to be a year-round rental. It has a fully functioning kitchen, one 3/4 bath with a shower and 2 bedrooms that accommodate 4 ( 1 full and 2 twin beds). The cozy living room is a perfect spot to read a book or catch up on your favorite TV shows. The cottage is equipped with a monitor heater fueled by propane. The wood stove can be used for heat, if necessary, with firewood provided. Cable TV is available. Maximum occupancy is 4.",
   "photoAlts": {
    "images/ME-0486-cover.jpg": "Lakehurst — Boathouse Bottom, camp in Damariscotta, ME",
    "images/ME-0486-000.jpg": "Lakehurst — Boathouse Bottom, Damariscotta, ME, photo 2 of 4",
    "images/ME-0486-001.jpg": "Lakehurst — Boathouse Bottom, Damariscotta, ME, photo 3 of 4",
    "images/ME-0486-002.jpg": "Lakehurst — Boathouse Bottom, Damariscotta, ME, photo 4 of 4",
    "images/ME-0486-card.webp": "Lakehurst — Boathouse Bottom, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0486-cover.jpg",
+   "images/ME-0486-000.jpg",
+   "images/ME-0486-001.jpg",
+   "images/ME-0486-002.jpg"
+  ]
  },
  {
   "id": "ME-0487",
@@ -629,13 +745,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "This cottage has been upgraded to a year-round rental. It has a fully functioning kitchen, one 3/4 bath with a shower and 2 bedrooms that accommodate 4 (1 full and 2 twin beds). Read and relax on the spacious deck and listen to the sounds of nature around you. The cottage is equipped with a monitor heater fueled by propane. The wood stove can be used for heat, if necessary, with firewood provided. Cable TV is available. Maximum occupancy is 4.",
   "photoAlts": {
    "images/ME-0487-cover.jpg": "Lakehurst — Boathouse Top, camp in Damariscotta, ME",
    "images/ME-0487-000.jpg": "Lakehurst — Boathouse Top, Damariscotta, ME, photo 2 of 4",
    "images/ME-0487-001.jpg": "Lakehurst — Boathouse Top, Damariscotta, ME, photo 3 of 4",
    "images/ME-0487-002.jpg": "Lakehurst — Boathouse Top, Damariscotta, ME, photo 4 of 4",
    "images/ME-0487-card.webp": "Lakehurst — Boathouse Top, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0487-cover.jpg",
+   "images/ME-0487-000.jpg",
+   "images/ME-0487-001.jpg",
+   "images/ME-0487-002.jpg"
+  ]
  },
  {
   "id": "ME-0488",
@@ -664,13 +787,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "This cottage is located near the water on a cove and is a year-round rental. It has a fully functioning kitchen, one full bath with tub and 2 bedrooms that accommodate 4 plus a daybed on the sun porch. With a full kitchen, you don’t have to eat out every night. It is the perfect spot to relax and recharge your batteries with a northern view of Pemaquid Lake from the sun porch. The cottage is equipped with a furnace fueled with heating oil and washer/ dryer set in the basement. Wifi and cable TV are available.",
   "photoAlts": {
    "images/ME-0488-cover.jpg": "Lakehurst — Coveside, camp in Damariscotta, ME",
    "images/ME-0488-000.jpg": "Lakehurst — Coveside, Damariscotta, ME, photo 2 of 4",
    "images/ME-0488-001.jpg": "Lakehurst — Coveside, Damariscotta, ME, photo 3 of 4",
    "images/ME-0488-002.jpg": "Lakehurst — Coveside, Damariscotta, ME, photo 4 of 4",
    "images/ME-0488-card.webp": "Lakehurst — Coveside, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0488-cover.jpg",
+   "images/ME-0488-000.jpg",
+   "images/ME-0488-001.jpg",
+   "images/ME-0488-002.jpg"
+  ]
  },
  {
   "id": "ME-0489",
@@ -699,13 +829,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "This cottage is located close to the beach area and has great water views. It is also a year-round rental. It has a fully functioning kitchen, one full bath with tub and 2 bedrooms that accommodate 5. The cozy living room has a fireplace and hearth that makes it a perfect spot for reading a book and relaxing. The spacious deck has a picnic table in which the whole family can enjoy meals along with the gorgeous views of Pemaquid Lake. The cottage is equipped with a monitor heater fueled by propane.",
   "photoAlts": {
    "images/ME-0489-cover.jpg": "Lakehurst — Cozy Nook, camp in Damariscotta, ME",
    "images/ME-0489-000.jpg": "Lakehurst — Cozy Nook, Damariscotta, ME, photo 2 of 4",
    "images/ME-0489-001.jpg": "Lakehurst — Cozy Nook, Damariscotta, ME, photo 3 of 4",
    "images/ME-0489-002.jpg": "Lakehurst — Cozy Nook, Damariscotta, ME, photo 4 of 4",
    "images/ME-0489-card.webp": "Lakehurst — Cozy Nook, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0489-cover.jpg",
+   "images/ME-0489-000.jpg",
+   "images/ME-0489-001.jpg",
+   "images/ME-0489-002.jpg"
+  ]
  },
  {
   "id": "ME-0490",
@@ -734,13 +871,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "Pine Cove is one of our original 1930s vintage cottages and is located in a secluded area of the property. The lake views are breathtaking and is a favorite destination for our guests. It has a fully functioning kitchen, one 3/4 bath with shower and 2 bedrooms that accommodate 4 plus a pull-out sofa in the living room. The cozy living room is a perfect spot to read a book or catch up on your favorite TV shows. The cottage is equipped with electric heat to take out the chill on cool Spring and Fall days.",
   "photoAlts": {
    "images/ME-0490-cover.jpg": "Lakehurst — Pine Cove, camp in Damariscotta, ME",
    "images/ME-0490-000.jpg": "Lakehurst — Pine Cove, Damariscotta, ME, photo 2 of 4",
    "images/ME-0490-001.jpg": "Lakehurst — Pine Cove, Damariscotta, ME, photo 3 of 4",
    "images/ME-0490-002.jpg": "Lakehurst — Pine Cove, Damariscotta, ME, photo 4 of 4",
    "images/ME-0490-card.webp": "Lakehurst — Pine Cove, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0490-cover.jpg",
+   "images/ME-0490-000.jpg",
+   "images/ME-0490-001.jpg",
+   "images/ME-0490-002.jpg"
+  ]
  },
  {
   "id": "ME-0491",
@@ -769,13 +913,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "This cottage is located in the middle of our property and is a year-round rental. It has a fully functioning kitchen, one full bath with tub and 2 bedrooms that accommodate 4 plus a portable cot. The cozy living room is a perfect spot to read a book or catch up on your favorite TV shows. The whole family can enjoy eating meals on the spacious deck overlooking the property. The cottage is equipped with a furnace fueled with heating oil and washer/ dryer set in the basement. There is also a wood stove for additional heating, if necessary.",
   "photoAlts": {
    "images/ME-0491-cover.jpg": "Lakehurst — Pine Knoll, camp in Damariscotta, ME",
    "images/ME-0491-000.jpg": "Lakehurst — Pine Knoll, Damariscotta, ME, photo 2 of 4",
    "images/ME-0491-001.jpg": "Lakehurst — Pine Knoll, Damariscotta, ME, photo 3 of 4",
    "images/ME-0491-002.jpg": "Lakehurst — Pine Knoll, Damariscotta, ME, photo 4 of 4",
    "images/ME-0491-card.webp": "Lakehurst — Pine Knoll, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0491-cover.jpg",
+   "images/ME-0491-000.jpg",
+   "images/ME-0491-001.jpg",
+   "images/ME-0491-002.jpg"
+  ]
  },
  {
   "id": "ME-0492",
@@ -804,13 +955,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "Rocky Point is one of our original 1930s vintage cottages and is located on rocks over the lake. The lake views are breathtaking and is a favorite destination for our guests. It has a fully functioning kitchen, one 3/4 bath with a shower and 2 bedrooms that accommodate 4 plus a single bed in the common living area. The cozy living room is a perfect spot to read a book or catch up on your favorite TV shows. The cottage is equipped with electric heat to take out the chill on cool Spring and Fall days.",
   "photoAlts": {
    "images/ME-0492-cover.jpg": "Lakehurst — Rocky Point, camp in Damariscotta, ME",
    "images/ME-0492-000.jpg": "Lakehurst — Rocky Point, Damariscotta, ME, photo 2 of 4",
    "images/ME-0492-001.jpg": "Lakehurst — Rocky Point, Damariscotta, ME, photo 3 of 4",
    "images/ME-0492-002.jpg": "Lakehurst — Rocky Point, Damariscotta, ME, photo 4 of 4",
    "images/ME-0492-card.webp": "Lakehurst — Rocky Point, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0492-cover.jpg",
+   "images/ME-0492-000.jpg",
+   "images/ME-0492-001.jpg",
+   "images/ME-0492-002.jpg"
+  ]
  },
  {
   "id": "ME-0493",
@@ -839,13 +997,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "This cottage is located close to our natural sand beach area with breathtaking views of the lake. It is one of our most popular cottages. It is also a year-round rental. It has a fully functioning kitchen, one full bath with tub and 2 bedrooms that accommodate 5. The cozy living room is a perfect spot to read a book or catch up on your favorite TV shows. The whole family can enjoy eating meals on the spacious deck overlooking the beach. The cottage is equipped with a monitor heater fueled by propane.",
   "photoAlts": {
    "images/ME-0493-cover.jpg": "Lakehurst — Sandy Beach, camp in Damariscotta, ME",
    "images/ME-0493-000.jpg": "Lakehurst — Sandy Beach, Damariscotta, ME, photo 2 of 4",
    "images/ME-0493-001.jpg": "Lakehurst — Sandy Beach, Damariscotta, ME, photo 3 of 4",
    "images/ME-0493-002.jpg": "Lakehurst — Sandy Beach, Damariscotta, ME, photo 4 of 4",
    "images/ME-0493-card.webp": "Lakehurst — Sandy Beach, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0493-cover.jpg",
+   "images/ME-0493-000.jpg",
+   "images/ME-0493-001.jpg",
+   "images/ME-0493-002.jpg"
+  ]
  },
  {
   "id": "ME-0494",
@@ -874,13 +1039,20 @@
   "lng": -69.5315,
   "featured": false,
   "demo": false,
+  "description": "Whispering Pines is one of our original 1930s vintage cottages and is located on the pennisula of the cove with 180 degree views of Pemaquid Lake. It has the best lake views on the property with a fully functioning kitchen, one 3/4 bath with a shower and one bedroom that accommodates 3 plus a pull-out sofa in the living room. The cozy living room is a perfect spot to watch the lake wildlife whether it is watching eagles fishing in the lake or loons swimming by.",
   "photoAlts": {
    "images/ME-0494-cover.jpg": "Lakehurst — Whispering Pines, camp in Damariscotta, ME",
    "images/ME-0494-000.jpg": "Lakehurst — Whispering Pines, Damariscotta, ME, photo 2 of 4",
    "images/ME-0494-001.jpg": "Lakehurst — Whispering Pines, Damariscotta, ME, photo 3 of 4",
    "images/ME-0494-002.jpg": "Lakehurst — Whispering Pines, Damariscotta, ME, photo 4 of 4",
    "images/ME-0494-card.webp": "Lakehurst — Whispering Pines, camp in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0494-cover.jpg",
+   "images/ME-0494-000.jpg",
+   "images/ME-0494-001.jpg",
+   "images/ME-0494-002.jpg"
+  ]
  },
  {
   "id": "ME-0462",
@@ -910,13 +1082,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "PROPERTY RECENTLY REDUCED TO $1000 PER WEEK FOR THE MONTH OF JULY! Welcome to a warm and peaceful mid-century modern style cottage overlooking tranquil Biscay Pond in Bristol. It features an open concept floor plan with cozy wood paneling, wood stove, and Finnish sauna with a shower. A large main level master bedroom with a queen bed is separated from the main living area and is adjacent to the full bath with shower. A large deck looks over the lake and is a great spot to take in a sunset and listen to the loons.",
   "photoAlts": {
    "images/ME-0462-cover.jpg": "Lakeview Cottage/Bristol, house in Bristol, ME",
    "images/ME-0462-000.jpg": "Lakeview Cottage/Bristol, Bristol, ME, photo 2 of 4",
    "images/ME-0462-001.jpg": "Lakeview Cottage/Bristol, Bristol, ME, photo 3 of 4",
    "images/ME-0462-002.jpg": "Lakeview Cottage/Bristol, Bristol, ME, photo 4 of 4",
    "images/ME-0462-card.webp": "Lakeview Cottage/Bristol, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0462-cover.jpg",
+   "images/ME-0462-000.jpg",
+   "images/ME-0462-001.jpg",
+   "images/ME-0462-002.jpg"
+  ]
  },
  {
   "id": "ME-0457",
@@ -946,13 +1125,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "♦♦Escape to this delightful 1939 cottage nestled along the scenic coast of Maine. With water views and easy access to a beach area and floating dock, it's the perfect retreat for swimming. Maine treasure hunting, kayaking, paddle boarding, fishing, picnicking, and soaking in the peaceful coastal atmosphere. Rumored to have served as New Harbor's original post office, this historic gem offers both charm and character. Whether you're relaxing with loved ones or exploring the surrounding area, you'll find something special here.",
   "photoAlts": {
    "images/ME-0457-cover.jpg": "Lindsay's Lodge/Bristol, house in Bristol, ME",
    "images/ME-0457-000.jpg": "Lindsay's Lodge/Bristol, Bristol, ME, photo 2 of 4",
    "images/ME-0457-001.jpg": "Lindsay's Lodge/Bristol, Bristol, ME, photo 3 of 4",
    "images/ME-0457-002.jpg": "Lindsay's Lodge/Bristol, Bristol, ME, photo 4 of 4",
    "images/ME-0457-card.webp": "Lindsay's Lodge/Bristol, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0457-cover.jpg",
+   "images/ME-0457-000.jpg",
+   "images/ME-0457-001.jpg",
+   "images/ME-0457-002.jpg"
+  ]
  },
  {
   "id": "ME-0451",
@@ -982,13 +1168,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Lakefront Comfort with Modern Amenities, Spacious Living & Family-Friendly Swimming This beautifully appointed lakefront home offers everything you need for a relaxing and memorable getaway. The open-concept kitchen, living, and dining area is perfect for entertaining, with plenty of natural light and easy flow into the screened porch — a great bonus space for morning coffee or evening conversation. The modern kitchen is fully equipped and thoughtfully stocked with extras to delight any home cook. Furnishings throughout the home are comfortable and uncluttered, and all beds feature brand-new mattresses to ensure a restful stay.",
   "photoAlts": {
    "images/ME-0451-cover.jpg": "Loon Call/Pemaquid Lake, house in Damariscotta, ME",
    "images/ME-0451-000.jpg": "Loon Call/Pemaquid Lake, Damariscotta, ME, photo 2 of 4",
    "images/ME-0451-001.jpg": "Loon Call/Pemaquid Lake, Damariscotta, ME, photo 3 of 4",
    "images/ME-0451-002.jpg": "Loon Call/Pemaquid Lake, Damariscotta, ME, photo 4 of 4",
    "images/ME-0451-card.webp": "Loon Call/Pemaquid Lake, house in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0451-cover.jpg",
+   "images/ME-0451-000.jpg",
+   "images/ME-0451-001.jpg",
+   "images/ME-0451-002.jpg"
+  ]
  },
  {
   "id": "ME-0473",
@@ -1018,13 +1211,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Bright & Breezy Oceanview Apartment Overlooking Muscongus Bay Perched above the shoreline with sweeping views of Muscongus Bay, this charming second-story apartment offers a peaceful coastal escape with all the comforts of home. Bright, airy, and thoughtfully furnished, it’s the perfect spot to relax, recharge, and soak in the beauty of Midcoast Maine. Fall asleep to the soothing sound of waves crashing on the rocks below, and wake to the scent of salt air drifting through open windows.",
   "photoAlts": {
    "images/ME-0473-cover.jpg": "McFarland Shore/New Harbor, house in Bristol, ME",
    "images/ME-0473-000.jpg": "McFarland Shore/New Harbor, Bristol, ME, photo 2 of 4",
    "images/ME-0473-001.jpg": "McFarland Shore/New Harbor, Bristol, ME, photo 3 of 4",
    "images/ME-0473-002.jpg": "McFarland Shore/New Harbor, Bristol, ME, photo 4 of 4",
    "images/ME-0473-card.webp": "McFarland Shore/New Harbor, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0473-cover.jpg",
+   "images/ME-0473-000.jpg",
+   "images/ME-0473-001.jpg",
+   "images/ME-0473-002.jpg"
+  ]
  },
  {
   "id": "ME-0470",
@@ -1054,13 +1254,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Welcome to Medomak Road Cottage, a modern yet cozy retreat in the heart of Bremen, Maine. This spacious two-story home features 4 bedrooms and 2 full baths, comfortably sleeping up to 8 guests, making it ideal for families or couples. The cottage is thoughtfully designed for comfort, with central heat and high-speed internet for enjoyable stays. One of the highlights is the beautiful screened-in porch, furnished for relaxing mornings with coffee or peaceful evenings enjoying the fresh Maine air.",
   "photoAlts": {
    "images/ME-0470-cover.jpg": "Medomak Road Cottage/Bremen, house in Bremen, ME",
    "images/ME-0470-000.jpg": "Medomak Road Cottage/Bremen, Bremen, ME, photo 2 of 4",
    "images/ME-0470-001.jpg": "Medomak Road Cottage/Bremen, Bremen, ME, photo 3 of 4",
    "images/ME-0470-002.jpg": "Medomak Road Cottage/Bremen, Bremen, ME, photo 4 of 4",
    "images/ME-0470-card.webp": "Medomak Road Cottage/Bremen, house in Bremen, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0470-cover.jpg",
+   "images/ME-0470-000.jpg",
+   "images/ME-0470-001.jpg",
+   "images/ME-0470-002.jpg"
+  ]
  },
  {
   "id": "ME-0464",
@@ -1090,13 +1297,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Welcome to this 1960s midcentury modern gem, a unique 2-bedroom, 3-bath retreat tucked down a quiet dirt way and surrounded by trees. While the home is easily walkable into town via sidewalk, it still feels wonderfully private, offering a peaceful setting for your Maine summer getaway. Originally built as a military gathering place, the home features a distinctive, non-traditional layout that adds character and charm.",
   "photoAlts": {
    "images/ME-0464-cover.jpg": "Middle Way Cottage/Newcastle, house in Newcastle, ME",
    "images/ME-0464-000.jpg": "Middle Way Cottage/Newcastle, Newcastle, ME, photo 2 of 4",
    "images/ME-0464-001.jpg": "Middle Way Cottage/Newcastle, Newcastle, ME, photo 3 of 4",
    "images/ME-0464-002.jpg": "Middle Way Cottage/Newcastle, Newcastle, ME, photo 4 of 4",
    "images/ME-0464-card.webp": "Middle Way Cottage/Newcastle, house in Newcastle, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0464-cover.jpg",
+   "images/ME-0464-000.jpg",
+   "images/ME-0464-001.jpg",
+   "images/ME-0464-002.jpg"
+  ]
  },
  {
   "id": "ME-0483",
@@ -1126,13 +1340,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Charming, Light-Filled Cottage in the Heart of New Harbor Welcome to your perfect year-round getaway in picturesque New Harbor, Maine—just a short stroll (less than half a mile) to beautiful Pemaquid Beach and local favorites like Harbor Ice Cream, the Pemaquid Craft Co-op, and Reilly’s grocery store. This bright and cozy cottage offers a spacious first-floor master bedroom with a king-size bed and ensuite bathroom featuring a walk-in shower. Upstairs, you’ll find three additional bedrooms with a variety of sleeping arrangements to comfortably accommodate families or groups.",
   "photoAlts": {
    "images/ME-0483-cover.jpg": "Our Maine House/New Harbor, house in Bristol, ME",
    "images/ME-0483-000.jpg": "Our Maine House/New Harbor, Bristol, ME, photo 2 of 4",
    "images/ME-0483-001.jpg": "Our Maine House/New Harbor, Bristol, ME, photo 3 of 4",
    "images/ME-0483-002.jpg": "Our Maine House/New Harbor, Bristol, ME, photo 4 of 4",
    "images/ME-0483-card.webp": "Our Maine House/New Harbor, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0483-cover.jpg",
+   "images/ME-0483-000.jpg",
+   "images/ME-0483-001.jpg",
+   "images/ME-0483-002.jpg"
+  ]
  },
  {
   "id": "ME-0485",
@@ -1162,13 +1383,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Stylish Coastal Cape with Ocean Views on Pemaquid Loop Welcome to your perfect Maine getaway — a beautifully renovated and tastefully furnished Cape-style home located on the scenic Pemaquid Loop, just steps from the rocky coastline and the iconic Pemaquid Point Lighthouse. Enjoy leisurely strolls along the loop road, take in sweeping views of the Atlantic and John’s Bay, or explore the dramatic rocks and crashing surf at Lighthouse Park, all just moments from your door. Renovated in 2017, this charming home blends modern upgrades with classic coastal charm.",
   "photoAlts": {
    "images/ME-0485-cover.jpg": "Pemaquid Loop Cottage/Pemaquid Point, house in Bristol, ME",
    "images/ME-0485-000.jpg": "Pemaquid Loop Cottage/Pemaquid Point, Bristol, ME, photo 2 of 4",
    "images/ME-0485-001.jpg": "Pemaquid Loop Cottage/Pemaquid Point, Bristol, ME, photo 3 of 4",
    "images/ME-0485-002.jpg": "Pemaquid Loop Cottage/Pemaquid Point, Bristol, ME, photo 4 of 4",
    "images/ME-0485-card.webp": "Pemaquid Loop Cottage/Pemaquid Point, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0485-cover.jpg",
+   "images/ME-0485-000.jpg",
+   "images/ME-0485-001.jpg",
+   "images/ME-0485-002.jpg"
+  ]
  },
  {
   "id": "ME-0446",
@@ -1197,13 +1425,20 @@
   "lng": -69.45118,
   "featured": false,
   "demo": false,
+  "description": "Enjoy Maine waterfront living at this custom post-and-beam retreat on Pemaquid Pond in Nobleboro Maine. Featuring 115 feet of waterfront, a private dock, screened porch, fire pit, and a separate carriage house, this peaceful property offers space to relax and reconnect. With 4 bedrooms across two buildings, a well-appointed kitchen, and beautiful water views, kayak and paddleboards available for guest use it's an inviting way to spend quality vacation time.",
   "photoAlts": {
    "images/ME-0446-cover.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, house in Nobleboro, ME",
    "images/ME-0446-000.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, Nobleboro, ME, photo 2 of 4",
    "images/ME-0446-001.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, Nobleboro, ME, photo 3 of 4",
    "images/ME-0446-002.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, Nobleboro, ME, photo 4 of 4",
    "images/ME-0446-card.webp": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, house in Nobleboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0446-cover.jpg",
+   "images/ME-0446-000.jpg",
+   "images/ME-0446-001.jpg",
+   "images/ME-0446-002.jpg"
+  ]
  },
  {
   "id": "ME-0475",
@@ -1233,13 +1468,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Modern Lakefront Escape with Stunning Views & Private Island Access Welcome to your perfect lakeside getaway on beautiful Damariscotta Lake. This bright and spacious home features an open-concept living area with soaring vaulted ceilings and dramatic floor-to-peak windows that flood the space with light and offer breathtaking views of the water. Step out onto the expansive wrap-around deck or relax in the brand-new screened porch — ideal spots for enjoying morning coffee, outdoor dining, or stargazing at night. Nestled in a wooded setting, the property offers peaceful privacy and a sense of seclusion, with only one distant neighbor in sight.",
   "photoAlts": {
    "images/ME-0475-cover.jpg": "Point of Views Cottage/Jefferson, house in Jefferson, ME",
    "images/ME-0475-000.jpg": "Point of Views Cottage/Jefferson, Jefferson, ME, photo 2 of 4",
    "images/ME-0475-001.jpg": "Point of Views Cottage/Jefferson, Jefferson, ME, photo 3 of 4",
    "images/ME-0475-002.jpg": "Point of Views Cottage/Jefferson, Jefferson, ME, photo 4 of 4",
    "images/ME-0475-card.webp": "Point of Views Cottage/Jefferson, house in Jefferson, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0475-cover.jpg",
+   "images/ME-0475-000.jpg",
+   "images/ME-0475-001.jpg",
+   "images/ME-0475-002.jpg"
+  ]
  },
  {
   "id": "ME-0478",
@@ -1269,13 +1511,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Charming Riverfront Retreat with Views of the Sheepscot & Reversing Falls Tucked away on a peaceful, wooded peninsula, this private, pet-friendly cottage offers the perfect blend of tranquility, charm, and natural beauty. Surrounded by trees and perched above the Sheepscot River and tidal Reversing Falls, this home offers a front-row seat to one of Maine’s most captivating coastal settings — with just the right mix of sun and shade. Inside, the open-concept living area invites everyone to gather and unwind. Large windows frame river views, creating a warm, home-like atmosphere full of light and character.",
   "photoAlts": {
    "images/ME-0478-cover.jpg": "Reversing Falls Cottage/Newcastle, house in Newcastle, ME",
    "images/ME-0478-000.jpg": "Reversing Falls Cottage/Newcastle, Newcastle, ME, photo 2 of 4",
    "images/ME-0478-001.jpg": "Reversing Falls Cottage/Newcastle, Newcastle, ME, photo 3 of 4",
    "images/ME-0478-002.jpg": "Reversing Falls Cottage/Newcastle, Newcastle, ME, photo 4 of 4",
    "images/ME-0478-card.webp": "Reversing Falls Cottage/Newcastle, house in Newcastle, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0478-cover.jpg",
+   "images/ME-0478-000.jpg",
+   "images/ME-0478-001.jpg",
+   "images/ME-0478-002.jpg"
+  ]
  },
  {
   "id": "ME-0482",
@@ -1305,13 +1554,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Stunning Oceanfront Home with Breathtaking Views of Monhegan Island Perched right on the shore, this beautiful summer home offers sweeping, unobstructed views of Monhegan Island and the endless Atlantic beyond. Whether you're exploring tide pools, birdwatching, soaking up the sun, or simply unwinding on the expansive deck, this coastal retreat promises unforgettable vacation memories. Inside, this four-bedroom three-bathroom cottage you'll find that the comfortably furnished living and dining areas showcase panoramic ocean vistas, creating a serene backdrop for relaxation and gathering.",
   "photoAlts": {
    "images/ME-0482-cover.jpg": "Salt Spray/New Harbor, house in Bristol, ME",
    "images/ME-0482-000.jpg": "Salt Spray/New Harbor, Bristol, ME, photo 2 of 4",
    "images/ME-0482-001.jpg": "Salt Spray/New Harbor, Bristol, ME, photo 3 of 4",
    "images/ME-0482-002.jpg": "Salt Spray/New Harbor, Bristol, ME, photo 4 of 4",
    "images/ME-0482-card.webp": "Salt Spray/New Harbor, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0482-cover.jpg",
+   "images/ME-0482-000.jpg",
+   "images/ME-0482-001.jpg",
+   "images/ME-0482-002.jpg"
+  ]
  },
  {
   "id": "ME-0454",
@@ -1341,13 +1597,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Spacious Waterfront Cape in the Heart of Pemaquid — Ideal for Families & Groups Tucked away at the end of a private road off Rt. 130, this beautifully updated 4-bedroom, 2-bath Cape offers the perfect combination of privacy, comfort, and stunning tidal waterfront views. Surrounded by ocean water on two sides, the home features westerly-facing vistas from nearly every room — making it an ideal spot for relaxing, gathering, and creating lasting memories. A highlight of the property is the expansive wrap-around deck that spans the length of the home, offering multiple seating areas and unbeatable sunset views.",
   "photoAlts": {
    "images/ME-0454-cover.jpg": "School House Cove/New Harbor-Pemaquid, house in Bristol, ME",
    "images/ME-0454-000.jpg": "School House Cove/New Harbor-Pemaquid, Bristol, ME, photo 2 of 4",
    "images/ME-0454-001.jpg": "School House Cove/New Harbor-Pemaquid, Bristol, ME, photo 3 of 4",
    "images/ME-0454-002.jpg": "School House Cove/New Harbor-Pemaquid, Bristol, ME, photo 4 of 4",
    "images/ME-0454-card.webp": "School House Cove/New Harbor-Pemaquid, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0454-cover.jpg",
+   "images/ME-0454-000.jpg",
+   "images/ME-0454-001.jpg",
+   "images/ME-0454-002.jpg"
+  ]
  },
  {
   "id": "ME-0079",
@@ -1376,13 +1639,20 @@
   "lng": -69.50284,
   "featured": false,
   "demo": false,
+  "description": "We are quietly located on the Bradley Hill Road, off Route 130 and away from the noise of traffic. Still, we are convenient to the attractions and restaurants within a five-mile radius in Pemaquid. Outdoors we have picnic tables and you are welcome to cook out on the grill (shared). Our large yard welcomes you to swim in the pool, sunbathe, play games, or relax and read a book under a shade tree. A walking path to the back of our property brings you to Coombs Cove, a tidal inlet of the Pemaquid River. Wi-Fi available in all room on",
   "photoAlts": {
    "images/ME-0079-cover.jpg": "Sea Acres Cottages, house in Pemaquid, ME",
    "images/ME-0079-000.jpg": "Sea Acres Cottages, Pemaquid, ME, photo 2 of 4",
    "images/ME-0079-001.jpg": "Sea Acres Cottages, Pemaquid, ME, photo 3 of 4",
    "images/ME-0079-002.jpg": "Sea Acres Cottages, Pemaquid, ME, photo 4 of 4",
    "images/ME-0079-card.webp": "Sea Acres Cottages, house in Pemaquid, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0079-cover.jpg",
+   "images/ME-0079-000.jpg",
+   "images/ME-0079-001.jpg",
+   "images/ME-0079-002.jpg"
+  ]
  },
  {
   "id": "ME-0456",
@@ -1412,13 +1682,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Seacrest – Modern Comfort Just Steps from Charming Round Pond Harbor Welcome to Seacrest, a beautiful and thoughtfully designed modern home where relaxation and connection come naturally. Just a short walk from the picturesque village of Round Pond, this 3-bedroom retreat is the perfect setting for a laid-back Maine getaway with family or friends. Spend your days lounging on the front porch, soaking up the summer breeze as the kids play nearby and the peaceful sounds of nature surround you.",
   "photoAlts": {
    "images/ME-0456-cover.jpg": "Seacrest Cottage/Round Pond, house in Bristol, ME",
    "images/ME-0456-000.jpg": "Seacrest Cottage/Round Pond, Bristol, ME, photo 2 of 4",
    "images/ME-0456-001.jpg": "Seacrest Cottage/Round Pond, Bristol, ME, photo 3 of 4",
    "images/ME-0456-002.jpg": "Seacrest Cottage/Round Pond, Bristol, ME, photo 4 of 4",
    "images/ME-0456-card.webp": "Seacrest Cottage/Round Pond, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0456-cover.jpg",
+   "images/ME-0456-000.jpg",
+   "images/ME-0456-001.jpg",
+   "images/ME-0456-002.jpg"
+  ]
  },
  {
   "id": "ME-0484",
@@ -1448,13 +1725,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Seaworthy – A Perfect Maine Coast Location Welcome to Seaworthy, a beautifully restored 1929 fisherman’s cottage overlooking one of Maine’s most picturesque working harbors in New Harbor, Maine. Blending timeless New England charm with thoughtful modern updates, Seaworthy offers an authentic Maine experience filled with warmth, comfort, and stunning coastal views. Classic Charm Meets Modern Comfort Step inside to find a lovingly renovated home that celebrates original Maine craftsmanship while providing every modern convenience. Gleaming wood floors run throughout the cottage, complemented by art, antiques, and nautical touches that tell the story of its maritime heritage.",
   "photoAlts": {
    "images/ME-0484-cover.jpg": "Seaworthy Cottage/New Harbor, house in Bristol, ME",
    "images/ME-0484-000.jpg": "Seaworthy Cottage/New Harbor, Bristol, ME, photo 2 of 4",
    "images/ME-0484-001.jpg": "Seaworthy Cottage/New Harbor, Bristol, ME, photo 3 of 4",
    "images/ME-0484-002.jpg": "Seaworthy Cottage/New Harbor, Bristol, ME, photo 4 of 4",
    "images/ME-0484-card.webp": "Seaworthy Cottage/New Harbor, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0484-cover.jpg",
+   "images/ME-0484-000.jpg",
+   "images/ME-0484-001.jpg",
+   "images/ME-0484-002.jpg"
+  ]
  },
  {
   "id": "ME-0481",
@@ -1484,13 +1768,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Beautifully Renovated Cottage on Damariscotta Lake in Nobleboro Experience the perfect blend of contemporary comfort and rustic charm in this fully renovated Damariscotta Lake cottage, nestled in the peaceful town of Nobleboro. The home features two cozy queen bedrooms on the ground floor and a bright second-floor bedroom with two twin beds plus a sleeping sofa — comfortably accommodating families or groups. Gather together in the spacious open-concept living area and modern kitchen, designed for easy entertaining and relaxation. The adjacent bathroom includes a convenient stand-up shower.",
   "photoAlts": {
    "images/ME-0481-cover.jpg": "Shore Cottage/ Nobleboro, house in Nobleboro, ME",
    "images/ME-0481-000.jpg": "Shore Cottage/ Nobleboro, Nobleboro, ME, photo 2 of 4",
    "images/ME-0481-001.jpg": "Shore Cottage/ Nobleboro, Nobleboro, ME, photo 3 of 4",
    "images/ME-0481-002.jpg": "Shore Cottage/ Nobleboro, Nobleboro, ME, photo 4 of 4",
    "images/ME-0481-card.webp": "Shore Cottage/ Nobleboro, house in Nobleboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0481-cover.jpg",
+   "images/ME-0481-000.jpg",
+   "images/ME-0481-001.jpg",
+   "images/ME-0481-002.jpg"
+  ]
  },
  {
   "id": "ME-0185",
@@ -1523,13 +1814,20 @@
   "lng": -69.50772,
   "featured": false,
   "demo": false,
+  "description": "Snowball Hill Cottage provides a relaxing space to enjoy your time away. The fully-equipped open floor plan includes an eat-in kitchen, sitting area, king size bed, and a recently renovated bath. Outside, enjoy your morning coffee or tea on the full deck.",
   "photoAlts": {
    "images/ME-0185-cover.jpg": "Snowball Hill Cottage, house in New Harbor, ME",
    "images/ME-0185-000.jpg": "Snowball Hill Cottage, New Harbor, ME, photo 2 of 4",
    "images/ME-0185-001.jpg": "Snowball Hill Cottage, New Harbor, ME, photo 3 of 4",
    "images/ME-0185-002.jpg": "Snowball Hill Cottage, New Harbor, ME, photo 4 of 4",
    "images/ME-0185-card.webp": "Snowball Hill Cottage, house in New Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0185-cover.jpg",
+   "images/ME-0185-000.jpg",
+   "images/ME-0185-001.jpg",
+   "images/ME-0185-002.jpg"
+  ]
  },
  {
   "id": "ME-0449",
@@ -1559,13 +1857,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Charming Lakefront Getaway on Damariscotta Lake — Perfect for Families & Relaxation Your ideal Maine vacation starts here at this cozy and charming 2-bedroom, 1-bath lakefront home nestled along the shores of desirable Damariscotta Lake. With its open layout and relaxed atmosphere, this retreat is the perfect place to spend quality time together and create lasting memories. The spacious, gently sloping yard leads directly to the water, making it easy to wade in for a swim, cast a line, or launch your kayaks for a peaceful paddle.",
   "photoAlts": {
    "images/ME-0449-cover.jpg": "Stafford Cottage/Damariscotta Lake, house in Newcastle, ME",
    "images/ME-0449-000.jpg": "Stafford Cottage/Damariscotta Lake, Newcastle, ME, photo 2 of 4",
    "images/ME-0449-001.jpg": "Stafford Cottage/Damariscotta Lake, Newcastle, ME, photo 3 of 4",
    "images/ME-0449-002.jpg": "Stafford Cottage/Damariscotta Lake, Newcastle, ME, photo 4 of 4",
    "images/ME-0449-card.webp": "Stafford Cottage/Damariscotta Lake, house in Newcastle, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0449-cover.jpg",
+   "images/ME-0449-000.jpg",
+   "images/ME-0449-001.jpg",
+   "images/ME-0449-002.jpg"
+  ]
  },
  {
   "id": "ME-0027",
@@ -1594,13 +1899,20 @@
   "lng": -69.46304,
   "featured": false,
   "demo": false,
+  "description": "Sunset Cabins are original Maine Camps from the 1930's situated on the eastern shore of Damariscotta Lake, Jefferson, Maine.",
   "photoAlts": {
    "images/ME-0027-cover.jpg": "Sunset Cabins, cabin in Damariscotta Lake, ME",
    "images/ME-0027-000.jpg": "Sunset Cabins, Damariscotta Lake, ME, photo 2 of 4",
    "images/ME-0027-001.jpg": "Sunset Cabins, Damariscotta Lake, ME, photo 3 of 4",
    "images/ME-0027-002.jpg": "Sunset Cabins, Damariscotta Lake, ME, photo 4 of 4",
    "images/ME-0027-card.webp": "Sunset Cabins, cabin in Damariscotta Lake, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0027-cover.jpg",
+   "images/ME-0027-000.jpg",
+   "images/ME-0027-001.jpg",
+   "images/ME-0027-002.jpg"
+  ]
  },
  {
   "id": "ME-0467",
@@ -1630,13 +1942,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Tranquil Maine Getaway on Biscay Pond Tucked away in the heart of Miane's stunning wilderness, this charming cottage offers the ideal retreat from the fast pace of everyday life. Surrounded by majestic pines and overlooking the serene waters of Biscay Pond, this property perfectly captures the natural beauty and timeless charm of the region. Inside, the warm interior features rustic wooden beams and comfortable furnishings that create an authentic Maine ambiance. The open-concept living area is perfect for relaxation, with large windows that flood the space with natural light and offer picturesque views of the surrounding landscape.",
   "photoAlts": {
    "images/ME-0467-cover.jpg": "The Cottage/Bristol, house in Bristol, ME",
    "images/ME-0467-000.jpg": "The Cottage/Bristol, Bristol, ME, photo 2 of 4",
    "images/ME-0467-001.jpg": "The Cottage/Bristol, Bristol, ME, photo 3 of 4",
    "images/ME-0467-002.jpg": "The Cottage/Bristol, Bristol, ME, photo 4 of 4",
    "images/ME-0467-card.webp": "The Cottage/Bristol, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0467-cover.jpg",
+   "images/ME-0467-000.jpg",
+   "images/ME-0467-001.jpg",
+   "images/ME-0467-002.jpg"
+  ]
  },
  {
   "id": "ME-0468",
@@ -1666,13 +1985,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Ideal for Two Families or Large Groups – Lakefront Retreat on Damariscotta Lake This spacious and inviting lakefront cottage is perfect for two families or larger groups seeking a relaxing getaway on beautiful Damariscotta Lake. The heart of the cottage features an open-concept kitchen, dining, and living area with vaulted ceilings and exposed beams, creating a warm and welcoming atmosphere. Step onto the expansive screened porch to enjoy the serene wooded views and fresh lake air — a perfect spot for morning coffee, evening games, or simply unwinding.",
   "photoAlts": {
    "images/ME-0468-cover.jpg": "The Gathering Place/Jefferson, house in Jefferson, ME",
    "images/ME-0468-000.jpg": "The Gathering Place/Jefferson, Jefferson, ME, photo 2 of 4",
    "images/ME-0468-001.jpg": "The Gathering Place/Jefferson, Jefferson, ME, photo 3 of 4",
    "images/ME-0468-002.jpg": "The Gathering Place/Jefferson, Jefferson, ME, photo 4 of 4",
    "images/ME-0468-card.webp": "The Gathering Place/Jefferson, house in Jefferson, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0468-cover.jpg",
+   "images/ME-0468-000.jpg",
+   "images/ME-0468-001.jpg",
+   "images/ME-0468-002.jpg"
+  ]
  },
  {
   "id": "ME-0477",
@@ -1702,13 +2028,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "NEW RENTER DISCOUNT - $100 OFF BOOKING Perched along a quiet and scenic stretch of Benner Road in Bristol, right on the edge of Damariscotta, the historic Hinsdale House offers a unique blend of early Maine heritage and modern comfort. Built in 1820—the same year Maine achieved statehood—this charming home has been thoughtfully preserved, allowing its rich history to shine through in every detail. Now owned by a writer and a museum curator, the home is beautifully adorned with folk art and paintings collected from across New England, creating a warm, curated atmosphere that feels both timeless and inviting.",
   "photoAlts": {
    "images/ME-0477-cover.jpg": "The Hinsdale House / Bristol, house in Bristol, ME",
    "images/ME-0477-000.jpg": "The Hinsdale House / Bristol, Bristol, ME, photo 2 of 4",
    "images/ME-0477-001.jpg": "The Hinsdale House / Bristol, Bristol, ME, photo 3 of 4",
    "images/ME-0477-002.jpg": "The Hinsdale House / Bristol, Bristol, ME, photo 4 of 4",
    "images/ME-0477-card.webp": "The Hinsdale House / Bristol, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0477-cover.jpg",
+   "images/ME-0477-000.jpg",
+   "images/ME-0477-001.jpg",
+   "images/ME-0477-002.jpg"
+  ]
  },
  {
   "id": "ME-0458",
@@ -1738,13 +2071,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Welcome to The Lake House, a modern yet cozy retreat in Nobleboro Maine. This spacious three-story home features 3 bedrooms and 3 full baths, comfortably sleeping up to 8 guests, making it ideal for families or couples. The cottage is thoughtfully designed for comfort, with central heating and high-speed internet for enjoyable stays. One of the highlights is the beautiful porch wrapping around the second story, furnished for relaxing mornings with coffee or peaceful evenings enjoying the fresh Maine air. Located right on the lake, guests can easily enjoy kayaking, boating, or simply soaking in the scenic waterfront.",
   "photoAlts": {
    "images/ME-0458-cover.jpg": "The Lake House/Nobleboro, house in Nobleboro, ME",
    "images/ME-0458-000.jpg": "The Lake House/Nobleboro, Nobleboro, ME, photo 2 of 4",
    "images/ME-0458-001.jpg": "The Lake House/Nobleboro, Nobleboro, ME, photo 3 of 4",
    "images/ME-0458-002.jpg": "The Lake House/Nobleboro, Nobleboro, ME, photo 4 of 4",
    "images/ME-0458-card.webp": "The Lake House/Nobleboro, house in Nobleboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0458-cover.jpg",
+   "images/ME-0458-000.jpg",
+   "images/ME-0458-001.jpg",
+   "images/ME-0458-002.jpg"
+  ]
  },
  {
   "id": "ME-0461",
@@ -1774,13 +2114,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Oceanfront Retreat with Stunning Sunrises & Sunsets Welcome to this fabulous, locally built oceanfront home where comfort meets coastal charm. With 4 spacious bedrooms and 3 full baths, this beautiful retreat is perfectly designed for relaxing getaways with family or friends. Soak in breathtaking sunrises and sunsets from the wraparound deck, or gather outdoors at the picnic table and firepit for evenings filled with ocean breezes and stargazing. After a day at the beach, rinse off in the outdoor shower and unwind in true Maine style.",
   "photoAlts": {
    "images/ME-0461-cover.jpg": "The Osprey/New Harbor, house in Bristol, ME",
    "images/ME-0461-000.jpg": "The Osprey/New Harbor, Bristol, ME, photo 2 of 4",
    "images/ME-0461-001.jpg": "The Osprey/New Harbor, Bristol, ME, photo 3 of 4",
    "images/ME-0461-002.jpg": "The Osprey/New Harbor, Bristol, ME, photo 4 of 4",
    "images/ME-0461-card.webp": "The Osprey/New Harbor, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0461-cover.jpg",
+   "images/ME-0461-000.jpg",
+   "images/ME-0461-001.jpg",
+   "images/ME-0461-002.jpg"
+  ]
  },
  {
   "id": "ME-0450",
@@ -1810,13 +2157,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Relax & Recharge at this Beautifully Renovated Dog-Friendly Lakeside Retreat! Welcome to your perfect Maine getaway! Newly renovated from top to bottom, this beautifully updated, dog-friendly home combines modern comfort with the peaceful charm of lakeside living. Nestled on a quiet private lane, with an expansive meadow, and graceful willow trees, creating the perfect setting for a relaxing vacation. The fully insulated home has been thoughtfully redesigned with comfort in mind.",
   "photoAlts": {
    "images/ME-0450-cover.jpg": "The Willows/Damariscotta Lake, house in Jefferson, ME",
    "images/ME-0450-000.jpg": "The Willows/Damariscotta Lake, Jefferson, ME, photo 2 of 4",
    "images/ME-0450-001.jpg": "The Willows/Damariscotta Lake, Jefferson, ME, photo 3 of 4",
    "images/ME-0450-002.jpg": "The Willows/Damariscotta Lake, Jefferson, ME, photo 4 of 4",
    "images/ME-0450-card.webp": "The Willows/Damariscotta Lake, house in Jefferson, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0450-cover.jpg",
+   "images/ME-0450-000.jpg",
+   "images/ME-0450-001.jpg",
+   "images/ME-0450-002.jpg"
+  ]
  },
  {
   "id": "ME-0113",
@@ -1845,13 +2199,20 @@
   "lng": -69.37761,
   "featured": false,
   "demo": false,
+  "description": "Charming and private rental in 1850's repurposed barn and cottage",
   "photoAlts": {
    "images/ME-0113-cover.jpg": "Thistledown Farm, Waldoboro, ME",
    "images/ME-0113-000.jpg": "Thistledown Farm, Waldoboro, ME, photo 2 of 4",
    "images/ME-0113-001.jpg": "Thistledown Farm, Waldoboro, ME, photo 3 of 4",
    "images/ME-0113-002.jpg": "Thistledown Farm, Waldoboro, ME, photo 4 of 4",
    "images/ME-0113-card.webp": "Thistledown Farm, Waldoboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0113-cover.jpg",
+   "images/ME-0113-000.jpg",
+   "images/ME-0113-001.jpg",
+   "images/ME-0113-002.jpg"
+  ]
  },
  {
   "id": "ME-0476",
@@ -1881,13 +2242,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "NEW DOCK INSTALLED FOR 2026 SEASON!! Escape to Thomas Cottage, a charming retreat nestled in a tranquil wooded setting with 400 feet of private shoreline on beautiful Damariscotta Lake. This is the perfect place to unwind, unplug, and reconnect with nature. Spend your days lounging on the spacious open deck or in the screened porch, watching ducks and loons glide across the water. In the evenings, grill up fresh local ingredients and dine al fresco surrounded by the sounds of the forest and the calming lake breeze.",
   "photoAlts": {
    "images/ME-0476-cover.jpg": "Thomas Cottage/Jefferson, house in Jefferson, ME",
    "images/ME-0476-000.jpg": "Thomas Cottage/Jefferson, Jefferson, ME, photo 2 of 4",
    "images/ME-0476-001.jpg": "Thomas Cottage/Jefferson, Jefferson, ME, photo 3 of 4",
    "images/ME-0476-002.jpg": "Thomas Cottage/Jefferson, Jefferson, ME, photo 4 of 4",
    "images/ME-0476-card.webp": "Thomas Cottage/Jefferson, house in Jefferson, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0476-cover.jpg",
+   "images/ME-0476-000.jpg",
+   "images/ME-0476-001.jpg",
+   "images/ME-0476-002.jpg"
+  ]
  },
  {
   "id": "ME-0072",
@@ -1916,13 +2284,20 @@
   "lng": -69.49235,
   "featured": false,
   "demo": false,
+  "description": "The Thompson House and Cottages are a wonderful retreat for those looking to relax their weekend away in ME. Enjoy gorgeous sunsets over the Atlantic Ocean.",
   "photoAlts": {
    "images/ME-0072-cover.jpg": "Thompson House & Cottages, house in New Harbor, ME",
    "images/ME-0072-000.jpg": "Thompson House & Cottages, New Harbor, ME, photo 2 of 4",
    "images/ME-0072-001.jpg": "Thompson House & Cottages, New Harbor, ME, photo 3 of 4",
    "images/ME-0072-002.jpg": "Thompson House & Cottages, New Harbor, ME, photo 4 of 4",
    "images/ME-0072-card.webp": "Thompson House & Cottages, house in New Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0072-cover.jpg",
+   "images/ME-0072-000.jpg",
+   "images/ME-0072-001.jpg",
+   "images/ME-0072-002.jpg"
+  ]
  },
  {
   "id": "ME-0096",
@@ -1951,13 +2326,20 @@
   "lng": -69.4605,
   "featured": false,
   "demo": false,
+  "description": "New, luxury vacation rental cottages located midcoast Maine's Pemaquid Peninsula, Round Pond, Bristol, ME, near Damariscotta, Coastal Charm, in Quintessential Maine Village.",
   "photoAlts": {
    "images/ME-0096-cover.jpg": "Three Birds Farm & Cottages, house in Round Pond, ME",
    "images/ME-0096-000.png": "Three Birds Farm & Cottages, Round Pond, ME, photo 2 of 4",
    "images/ME-0096-001.jpg": "Three Birds Farm & Cottages, Round Pond, ME, photo 3 of 4",
    "images/ME-0096-002.jpg": "Three Birds Farm & Cottages, Round Pond, ME, photo 4 of 4",
    "images/ME-0096-card.webp": "Three Birds Farm & Cottages, house in Round Pond, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0096-cover.jpg",
+   "images/ME-0096-000.png",
+   "images/ME-0096-001.jpg",
+   "images/ME-0096-002.jpg"
+  ]
  },
  {
   "id": "ME-0469",
@@ -1987,13 +2369,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Lakeside Retreat Among the Pines – Family & Pet-Friendly Getaway Tucked among towering pines with tranquil views of the lake, this charming cottage is the perfect escape for rest and relaxation. Thoughtfully designed with families in mind, it offers three levels of comfortable living space and an open-concept main floor — ideal for gathering, yet spacious enough to enjoy privacy. Whether you're planning a vacation with extended family or two families sharing a getaway, this home provides the perfect balance of togetherness and quiet corners. Wake up to the gentle sounds of nature and breathe in the fresh forest air.",
   "photoAlts": {
    "images/ME-0469-cover.jpg": "Tobinest/Nobleboro, house in Nobleboro, ME",
    "images/ME-0469-000.jpg": "Tobinest/Nobleboro, Nobleboro, ME, photo 2 of 4",
    "images/ME-0469-001.jpg": "Tobinest/Nobleboro, Nobleboro, ME, photo 3 of 4",
    "images/ME-0469-002.jpg": "Tobinest/Nobleboro, Nobleboro, ME, photo 4 of 4",
    "images/ME-0469-card.webp": "Tobinest/Nobleboro, house in Nobleboro, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0469-cover.jpg",
+   "images/ME-0469-000.jpg",
+   "images/ME-0469-001.jpg",
+   "images/ME-0469-002.jpg"
+  ]
  },
  {
   "id": "ME-0460",
@@ -2023,13 +2412,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Trexler Cottage - A Peaceful Lakeside Retreat Your Ideal coastal getaway begins at Trexler Cottage, a spacious and inviting 3-bedroom home nestled along the serene shores of Pemaquid Lake. This charming cottage features a bright pine interior, a fully equipped kitchen, and generously sized rooms - all designed to offer comfort and relaxation. Start your mornings with coffee by the expansive picture window as you watch loons glide across the water. Enjoy the beauty and privacy of this lakeside setting, where warm cove waters invite you to swim or explore using the provided canoe and rowboat.",
   "photoAlts": {
    "images/ME-0460-cover.jpg": "Trexler Cottage/Damariscotta, house in Damariscotta, ME",
    "images/ME-0460-000.jpg": "Trexler Cottage/Damariscotta, Damariscotta, ME, photo 2 of 4",
    "images/ME-0460-001.jpg": "Trexler Cottage/Damariscotta, Damariscotta, ME, photo 3 of 4",
    "images/ME-0460-002.jpg": "Trexler Cottage/Damariscotta, Damariscotta, ME, photo 4 of 4",
    "images/ME-0460-card.webp": "Trexler Cottage/Damariscotta, house in Damariscotta, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0460-cover.jpg",
+   "images/ME-0460-000.jpg",
+   "images/ME-0460-001.jpg",
+   "images/ME-0460-002.jpg"
+  ]
  },
  {
   "id": "ME-0435",
@@ -2058,13 +2454,20 @@
   "lng": -69.51556,
   "featured": false,
   "demo": false,
+  "description": "Leave the car behind and follow the nearby walking path to Pemaquid Beach, where you can spend your days enjoying the sand, sunshine, and refreshing ocean water. When you're ready to explore, discover the charm of the Pemaquid Peninsula, with its picturesque coastline, local restaurants, historic landmarks, and quintessential Maine experiences just a short drive away. Set on nearly an acre of grassy lawn, The Coastal Cottage offers plenty of room for kids to run and play, family lawn games, or peaceful afternoons relaxing outdoors.",
   "photoAlts": {
    "images/ME-0435-cover.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, house in Bristol, ME",
    "images/ME-0435-000.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, Bristol, ME, photo 2 of 4",
    "images/ME-0435-001.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, Bristol, ME, photo 3 of 4",
    "images/ME-0435-002.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, Bristol, ME, photo 4 of 4",
    "images/ME-0435-card.webp": "Walk to Pemaquid Beach by Rocky Coast Rentals, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0435-cover.jpg",
+   "images/ME-0435-000.jpg",
+   "images/ME-0435-001.jpg",
+   "images/ME-0435-002.jpg"
+  ]
  },
  {
   "id": "ME-0452",
@@ -2094,13 +2497,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Charming Updated Cape on 4 Private Acres Between New Harbor & Pemaquid Point Originally built in 1916, this beautifully updated Cape combines timeless character with contemporary style. Bright, airy, and tastefully furnished, the home offers a sophisticated yet comfortable retreat nestled on four secluded acres of natural beauty. The open-concept main living area features exposed beams, large windows, and serene views of the deck, lawn, surrounding woods, and glimpses of the bay beyond.",
   "photoAlts": {
    "images/ME-0452-cover.jpg": "Whaleback/New Harbor, house in Bristol, ME",
    "images/ME-0452-000.jpg": "Whaleback/New Harbor, Bristol, ME, photo 2 of 4",
    "images/ME-0452-001.jpg": "Whaleback/New Harbor, Bristol, ME, photo 3 of 4",
    "images/ME-0452-002.jpg": "Whaleback/New Harbor, Bristol, ME, photo 4 of 4",
    "images/ME-0452-card.webp": "Whaleback/New Harbor, house in Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0452-cover.jpg",
+   "images/ME-0452-000.jpg",
+   "images/ME-0452-001.jpg",
+   "images/ME-0452-002.jpg"
+  ]
  },
  {
   "id": "ME-0474",
@@ -2130,12 +2540,19 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Experience classic Maine charm on Rutherford Island! Escape to this beautifully maintained 150-year-old summer cottage located at the head of Long Cove on Rutherford Island in South Bristol. Brimming with character and coastal charm, this historic home offers stunning views of the water as well as a prime location for a short walk to The Gut and Osiers Wharf - perfect for picking up some fresh local seafood. Inside, you'll find a warm and welcoming atmosphere with modern comforts, including a cozy gas fireplace in the living room and an electric fireplace in the primary bedroom.",
   "photoAlts": {
    "images/ME-0474-cover.jpg": "Yeakey Cottage/ Rutherford Island, house in South Bristol, ME",
    "images/ME-0474-000.jpg": "Yeakey Cottage/ Rutherford Island, South Bristol, ME, photo 2 of 4",
    "images/ME-0474-001.jpg": "Yeakey Cottage/ Rutherford Island, South Bristol, ME, photo 3 of 4",
    "images/ME-0474-002.jpg": "Yeakey Cottage/ Rutherford Island, South Bristol, ME, photo 4 of 4",
    "images/ME-0474-card.webp": "Yeakey Cottage/ Rutherford Island, house in South Bristol, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0474-cover.jpg",
+   "images/ME-0474-000.jpg",
+   "images/ME-0474-001.jpg",
+   "images/ME-0474-002.jpg"
+  ]
  }
 ]

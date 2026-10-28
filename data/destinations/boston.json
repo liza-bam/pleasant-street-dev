@@ -26,13 +26,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "One-bedroom furnished apartment category at University Park in Cambridge, with a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0913-cover.webp": "100 at University Park — 1 Bedroom Category, apartment in Cambridge, MA",
    "images/MA-0913-000.webp": "100 at University Park — 1 Bedroom Category, Cambridge, MA, photo 2 of 4",
    "images/MA-0913-001.webp": "100 at University Park — 1 Bedroom Category, Cambridge, MA, photo 3 of 4",
    "images/MA-0913-002.webp": "100 at University Park — 1 Bedroom Category, Cambridge, MA, photo 4 of 4",
    "images/MA-0913-card.webp": "100 at University Park — 1 Bedroom Category, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0913-cover.webp",
+   "images/MA-0913-000.webp",
+   "images/MA-0913-001.webp",
+   "images/MA-0913-002.webp"
+  ]
  },
  {
   "id": "MA-0943",
@@ -61,13 +68,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0943-cover.webp": "100 at University Park — Apartment ID 8448, apartment in Cambridge, MA",
    "images/MA-0943-000.webp": "100 at University Park — Apartment ID 8448, Cambridge, MA, photo 2 of 4",
    "images/MA-0943-001.webp": "100 at University Park — Apartment ID 8448, Cambridge, MA, photo 3 of 4",
    "images/MA-0943-002.webp": "100 at University Park — Apartment ID 8448, Cambridge, MA, photo 4 of 4",
    "images/MA-0943-card.webp": "100 at University Park — Apartment ID 8448, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0943-cover.webp",
+   "images/MA-0943-000.webp",
+   "images/MA-0943-001.webp",
+   "images/MA-0943-002.webp"
+  ]
  },
  {
   "id": "MA-0613",
@@ -97,13 +111,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Two-bedroom Boston apartment with a sleeper sofa near Commonwealth Avenue and Boston College.",
   "photoAlts": {
    "images/MA-0613-cover.webp": "109S14 The Strathmore 14, apartment in Boston, MA",
    "images/MA-0613-000.webp": "109S14 The Strathmore 14, Boston, MA, photo 2 of 4",
    "images/MA-0613-001.webp": "109S14 The Strathmore 14, Boston, MA, photo 3 of 4",
    "images/MA-0613-002.webp": "109S14 The Strathmore 14, Boston, MA, photo 4 of 4",
    "images/MA-0613-card.webp": "109S14 The Strathmore 14, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0613-cover.webp",
+   "images/MA-0613-000.webp",
+   "images/MA-0613-001.webp",
+   "images/MA-0613-002.webp"
+  ]
  },
  {
   "id": "MA-0609",
@@ -133,13 +154,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "One-bedroom Boston apartment with a sleeper sofa near Commonwealth Avenue and Boston College.",
   "photoAlts": {
    "images/MA-0609-cover.webp": "109S15 The Strathmore 15, apartment in Boston, MA",
    "images/MA-0609-000.webp": "109S15 The Strathmore 15, Boston, MA, photo 2 of 4",
    "images/MA-0609-001.webp": "109S15 The Strathmore 15, Boston, MA, photo 3 of 4",
    "images/MA-0609-002.webp": "109S15 The Strathmore 15, Boston, MA, photo 4 of 4",
    "images/MA-0609-card.webp": "109S15 The Strathmore 15, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0609-cover.webp",
+   "images/MA-0609-000.webp",
+   "images/MA-0609-001.webp",
+   "images/MA-0609-002.webp"
+  ]
  },
  {
   "id": "MA-0608",
@@ -169,13 +197,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom, two-bathroom bi-level Boston apartment near Green Line streetcars and Boston College.",
   "photoAlts": {
    "images/MA-0608-cover.webp": "109S2 The Strathmore 2, apartment in Boston, MA",
    "images/MA-0608-000.webp": "109S2 The Strathmore 2, Boston, MA, photo 2 of 4",
    "images/MA-0608-001.webp": "109S2 The Strathmore 2, Boston, MA, photo 3 of 4",
    "images/MA-0608-002.webp": "109S2 The Strathmore 2, Boston, MA, photo 4 of 4",
    "images/MA-0608-card.webp": "109S2 The Strathmore 2, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0608-cover.webp",
+   "images/MA-0608-000.webp",
+   "images/MA-0608-001.webp",
+   "images/MA-0608-002.webp"
+  ]
  },
  {
   "id": "MA-0614",
@@ -205,13 +240,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Two-bedroom, two-bathroom bi-level Boston apartment with a full kitchen near Green Line streetcars.",
   "photoAlts": {
    "images/MA-0614-cover.webp": "109S3 The Strathmore 3, apartment in Boston, MA",
    "images/MA-0614-000.webp": "109S3 The Strathmore 3, Boston, MA, photo 2 of 4",
    "images/MA-0614-001.webp": "109S3 The Strathmore 3, Boston, MA, photo 3 of 4",
    "images/MA-0614-002.webp": "109S3 The Strathmore 3, Boston, MA, photo 4 of 4",
    "images/MA-0614-card.webp": "109S3 The Strathmore 3, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0614-cover.webp",
+   "images/MA-0614-000.webp",
+   "images/MA-0614-001.webp",
+   "images/MA-0614-002.webp"
+  ]
  },
  {
   "id": "MA-0607",
@@ -241,13 +283,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "One-bedroom Boston apartment with a sleeper sofa, one block from Green Line streetcars.",
   "photoAlts": {
    "images/MA-0607-cover.webp": "109S8 The Strathmore 8, apartment in Boston, MA",
    "images/MA-0607-000.webp": "109S8 The Strathmore 8, Boston, MA, photo 2 of 4",
    "images/MA-0607-001.webp": "109S8 The Strathmore 8, Boston, MA, photo 3 of 4",
    "images/MA-0607-002.webp": "109S8 The Strathmore 8, Boston, MA, photo 4 of 4",
    "images/MA-0607-card.webp": "109S8 The Strathmore 8, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0607-cover.webp",
+   "images/MA-0607-000.webp",
+   "images/MA-0607-001.webp",
+   "images/MA-0607-002.webp"
+  ]
  },
  {
   "id": "MA-0611",
@@ -277,13 +326,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Two-bedroom Boston apartment with a sleeper sofa near Cleveland Circle and Green Line streetcars.",
   "photoAlts": {
    "images/MA-0611-cover.webp": "109S9 The Strathmore 9, apartment in Boston, MA",
    "images/MA-0611-000.webp": "109S9 The Strathmore 9, Boston, MA, photo 2 of 4",
    "images/MA-0611-001.webp": "109S9 The Strathmore 9, Boston, MA, photo 3 of 4",
    "images/MA-0611-002.webp": "109S9 The Strathmore 9, Boston, MA, photo 4 of 4",
    "images/MA-0611-card.webp": "109S9 The Strathmore 9, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0611-cover.webp",
+   "images/MA-0611-000.webp",
+   "images/MA-0611-001.webp",
+   "images/MA-0611-002.webp"
+  ]
  },
  {
   "id": "MA-0604",
@@ -313,13 +369,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Boston apartment atop Jones Hill with panoramic views, three bedrooms and a full kitchen.",
   "photoAlts": {
    "images/MA-0604-cover.webp": "12P The Sky View, apartment in Boston, MA",
    "images/MA-0604-000.webp": "12P The Sky View, Boston, MA, photo 2 of 4",
    "images/MA-0604-001.webp": "12P The Sky View, Boston, MA, photo 3 of 4",
    "images/MA-0604-002.webp": "12P The Sky View, Boston, MA, photo 4 of 4",
    "images/MA-0604-card.webp": "12P The Sky View, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0604-cover.webp",
+   "images/MA-0604-000.webp",
+   "images/MA-0604-001.webp",
+   "images/MA-0604-002.webp"
+  ]
  },
  {
   "id": "MA-0603",
@@ -349,13 +412,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Victorian home near Boston’s Savin Hill with five bedrooms, two bathrooms and a full kitchen.",
   "photoAlts": {
    "images/MA-0603-cover.webp": "14P The Grand View Redline, Boston, MA",
    "images/MA-0603-000.webp": "14P The Grand View Redline, Boston, MA, photo 2 of 4",
    "images/MA-0603-001.webp": "14P The Grand View Redline, Boston, MA, photo 3 of 4",
    "images/MA-0603-002.webp": "14P The Grand View Redline, Boston, MA, photo 4 of 4",
    "images/MA-0603-card.webp": "14P The Grand View Redline, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0603-cover.webp",
+   "images/MA-0603-000.webp",
+   "images/MA-0603-001.webp",
+   "images/MA-0603-002.webp"
+  ]
  },
  {
   "id": "MA-1004",
@@ -384,13 +454,20 @@
   "lng": -71.0684,
   "featured": false,
   "demo": false,
+  "description": "Two-bedroom duplex in a restored Malden firehouse, with a kitchen, central air, parking and steep stairs to the bedrooms.",
   "photoAlts": {
    "images/MA-1004-cover.webp": "1898 Fire House Vacation Rental — M960, apartment in Malden, MA",
    "images/MA-1004-000.webp": "1898 Fire House Vacation Rental — M960, Malden, MA, photo 2 of 4",
    "images/MA-1004-001.webp": "1898 Fire House Vacation Rental — M960, Malden, MA, photo 3 of 4",
    "images/MA-1004-002.webp": "1898 Fire House Vacation Rental — M960, Malden, MA, photo 4 of 4",
    "images/MA-1004-card.webp": "1898 Fire House Vacation Rental — M960, apartment in Malden, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1004-cover.webp",
+   "images/MA-1004-000.webp",
+   "images/MA-1004-001.webp",
+   "images/MA-1004-002.webp"
+  ]
  },
  {
   "id": "MA-0601",
@@ -420,13 +497,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Boston apartment with central air, a full kitchen, in-unit laundry and three queen bedrooms.",
   "photoAlts": {
    "images/MA-0601-cover.webp": "230B1 The Dorset Redline, apartment in Boston, MA",
    "images/MA-0601-000.webp": "230B1 The Dorset Redline, Boston, MA, photo 2 of 4",
    "images/MA-0601-001.webp": "230B1 The Dorset Redline, Boston, MA, photo 3 of 4",
    "images/MA-0601-002.webp": "230B1 The Dorset Redline, Boston, MA, photo 4 of 4",
    "images/MA-0601-card.webp": "230B1 The Dorset Redline, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0601-cover.webp",
+   "images/MA-0601-000.webp",
+   "images/MA-0601-001.webp",
+   "images/MA-0601-002.webp"
+  ]
  },
  {
   "id": "MA-0605",
@@ -456,13 +540,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom Boston apartment near the South End with central air, a full kitchen and in-unit laundry.",
   "photoAlts": {
    "images/MA-0605-cover.webp": "230B2 The Roseclair, apartment in Boston, MA",
    "images/MA-0605-000.webp": "230B2 The Roseclair, Boston, MA, photo 2 of 4",
    "images/MA-0605-001.webp": "230B2 The Roseclair, Boston, MA, photo 3 of 4",
    "images/MA-0605-002.webp": "230B2 The Roseclair, Boston, MA, photo 4 of 4",
    "images/MA-0605-card.webp": "230B2 The Roseclair, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0605-cover.webp",
+   "images/MA-0605-000.webp",
+   "images/MA-0605-001.webp",
+   "images/MA-0605-002.webp"
+  ]
  },
  {
   "id": "MA-0606",
@@ -492,13 +583,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Two-bedroom Boston apartment near Upham’s Corner with central air, a full kitchen and in-unit laundry.",
   "photoAlts": {
    "images/MA-0606-cover.webp": "230B3 The Mayhew, apartment in Boston, MA",
    "images/MA-0606-000.webp": "230B3 The Mayhew, Boston, MA, photo 2 of 4",
    "images/MA-0606-001.webp": "230B3 The Mayhew, Boston, MA, photo 3 of 4",
    "images/MA-0606-002.webp": "230B3 The Mayhew, Boston, MA, photo 4 of 4",
    "images/MA-0606-card.webp": "230B3 The Mayhew, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0606-cover.webp",
+   "images/MA-0606-000.webp",
+   "images/MA-0606-001.webp",
+   "images/MA-0606-002.webp"
+  ]
  },
  {
   "id": "MA-0602",
@@ -528,13 +626,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Fourth-floor Boston apartment with two bedrooms, a full kitchen, central air and city views.",
   "photoAlts": {
    "images/MA-0602-cover.webp": "230B4 The Penthouse, apartment in Boston, MA",
    "images/MA-0602-000.webp": "230B4 The Penthouse, Boston, MA, photo 2 of 4",
    "images/MA-0602-001.webp": "230B4 The Penthouse, Boston, MA, photo 3 of 4",
    "images/MA-0602-002.webp": "230B4 The Penthouse, Boston, MA, photo 4 of 4",
    "images/MA-0602-card.webp": "230B4 The Penthouse, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0602-cover.webp",
+   "images/MA-0602-000.webp",
+   "images/MA-0602-001.webp",
+   "images/MA-0602-002.webp"
+  ]
  },
  {
   "id": "MA-0610",
@@ -564,13 +669,20 @@
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false,
+  "description": "Boston apartment in West Roxbury with a kitchen, air conditioning and nearby public transport.",
   "photoAlts": {
    "images/MA-0610-cover.webp": "25A1 The Alameda 1, apartment in Boston, MA",
    "images/MA-0610-000.webp": "25A1 The Alameda 1, Boston, MA, photo 2 of 4",
    "images/MA-0610-001.webp": "25A1 The Alameda 1, Boston, MA, photo 3 of 4",
    "images/MA-0610-002.webp": "25A1 The Alameda 1, Boston, MA, photo 4 of 4",
    "images/MA-0610-card.webp": "25A1 The Alameda 1, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0610-cover.webp",
+   "images/MA-0610-000.webp",
+   "images/MA-0610-001.webp",
+   "images/MA-0610-002.webp"
+  ]
  },
  {
   "id": "MA-0826",
@@ -599,12 +711,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Downtown Boston two-bedroom penthouse near Boston Common with full kitchen, laundry and shared gym facilities.",
   "photoAlts": {
    "images/MA-0826-cover.webp": "2BR Penthouse Boston Common DT, apartment in Boston, MA",
    "images/MA-0826-000.webp": "2BR Penthouse Boston Common DT, Boston, MA, photo 2 of 3",
    "images/MA-0826-001.webp": "2BR Penthouse Boston Common DT, Boston, MA, photo 3 of 3",
    "images/MA-0826-card.webp": "2BR Penthouse Boston Common DT, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0826-cover.webp",
+   "images/MA-0826-000.webp",
+   "images/MA-0826-001.webp"
+  ]
  },
  {
   "id": "MA-0807",
@@ -633,12 +751,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge three-bedroom, two-bathroom apartment near MIT and Harvard.",
   "photoAlts": {
    "images/MA-0807-cover.webp": "3 BR in Cambridge/MIT/Harvard, apartment in Cambridge, MA",
    "images/MA-0807-000.webp": "3 BR in Cambridge/MIT/Harvard, Cambridge, MA, photo 2 of 3",
    "images/MA-0807-001.webp": "3 BR in Cambridge/MIT/Harvard, Cambridge, MA, photo 3 of 3",
    "images/MA-0807-card.webp": "3 BR in Cambridge/MIT/Harvard, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0807-cover.webp",
+   "images/MA-0807-000.webp",
+   "images/MA-0807-001.webp"
+  ]
  },
  {
   "id": "MA-0612",
@@ -668,13 +792,20 @@
   "locationLabel": "Location unverified",
   "featured": false,
   "demo": false,
+  "description": "Large Boston condo one block from the Green Line with two bathrooms, a full kitchen and in-unit laundry.",
   "photoAlts": {
    "images/MA-0612-cover.webp": "39S1 The Strathmore 1, Boston, MA",
    "images/MA-0612-000.webp": "39S1 The Strathmore 1, Boston, MA, photo 2 of 4",
    "images/MA-0612-001.webp": "39S1 The Strathmore 1, Boston, MA, photo 3 of 4",
    "images/MA-0612-002.webp": "39S1 The Strathmore 1, Boston, MA, photo 4 of 4",
    "images/MA-0612-card.webp": "39S1 The Strathmore 1, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0612-cover.webp",
+   "images/MA-0612-000.webp",
+   "images/MA-0612-001.webp",
+   "images/MA-0612-002.webp"
+  ]
  },
  {
   "id": "MA-0706",
@@ -703,13 +834,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Jamaica Plain apartment category with a chef’s kitchen, two baths and shared rear porch.",
   "photoAlts": {
    "images/MA-0706-cover.webp": "4BR Mid-Century Glam Retreat | Near T, apartment in Boston, MA",
    "images/MA-0706-000.webp": "4BR Mid-Century Glam Retreat | Near T, Boston, MA, photo 2 of 4",
    "images/MA-0706-001.webp": "4BR Mid-Century Glam Retreat | Near T, Boston, MA, photo 3 of 4",
    "images/MA-0706-002.webp": "4BR Mid-Century Glam Retreat | Near T, Boston, MA, photo 4 of 4",
    "images/MA-0706-card.webp": "4BR Mid-Century Glam Retreat | Near T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0706-cover.webp",
+   "images/MA-0706-000.webp",
+   "images/MA-0706-001.webp",
+   "images/MA-0706-002.webp"
+  ]
  },
  {
   "id": "MA-0714",
@@ -738,13 +876,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Six-bedroom Savin Hill apartment with three baths, kitchen, lower-level kitchenette, deck and shared backyard.",
   "photoAlts": {
    "images/MA-0714-cover.webp": "6BR Boston Home | Near T, apartment in Boston, MA",
    "images/MA-0714-000.webp": "6BR Boston Home | Near T, Boston, MA, photo 2 of 4",
    "images/MA-0714-001.webp": "6BR Boston Home | Near T, Boston, MA, photo 3 of 4",
    "images/MA-0714-002.webp": "6BR Boston Home | Near T, Boston, MA, photo 4 of 4",
    "images/MA-0714-card.webp": "6BR Boston Home | Near T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0714-cover.webp",
+   "images/MA-0714-000.webp",
+   "images/MA-0714-001.webp",
+   "images/MA-0714-002.webp"
+  ]
  },
  {
   "id": "MA-0722",
@@ -773,13 +918,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Six-bedroom Savin Hill Unit One with three full baths, a half bath, full kitchen and patio dining area.",
   "photoAlts": {
    "images/MA-0722-cover.webp": "6BR Classic Boston Home, Near Savin Hill T, apartment in Boston, MA",
    "images/MA-0722-000.webp": "6BR Classic Boston Home, Near Savin Hill T, Boston, MA, photo 2 of 4",
    "images/MA-0722-001.webp": "6BR Classic Boston Home, Near Savin Hill T, Boston, MA, photo 3 of 4",
    "images/MA-0722-002.webp": "6BR Classic Boston Home, Near Savin Hill T, Boston, MA, photo 4 of 4",
    "images/MA-0722-card.webp": "6BR Classic Boston Home, Near Savin Hill T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0722-cover.webp",
+   "images/MA-0722-000.webp",
+   "images/MA-0722-001.webp",
+   "images/MA-0722-002.webp"
+  ]
  },
  {
   "id": "MA-0922",
@@ -808,13 +960,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0922-cover.webp": "Asteria — Apartment ID 6014, apartment in Boston, MA",
    "images/MA-0922-000.webp": "Asteria — Apartment ID 6014, Boston, MA, photo 2 of 4",
    "images/MA-0922-001.webp": "Asteria — Apartment ID 6014, Boston, MA, photo 3 of 4",
    "images/MA-0922-002.webp": "Asteria — Apartment ID 6014, Boston, MA, photo 4 of 4",
    "images/MA-0922-card.webp": "Asteria — Apartment ID 6014, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0922-cover.webp",
+   "images/MA-0922-000.webp",
+   "images/MA-0922-001.webp",
+   "images/MA-0922-002.webp"
+  ]
  },
  {
   "id": "MA-0905",
@@ -843,13 +1002,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0905-cover.webp": "Asteria — Apartment ID 7492, apartment in Boston, MA",
    "images/MA-0905-000.webp": "Asteria — Apartment ID 7492, Boston, MA, photo 2 of 4",
    "images/MA-0905-001.webp": "Asteria — Apartment ID 7492, Boston, MA, photo 3 of 4",
    "images/MA-0905-002.webp": "Asteria — Apartment ID 7492, Boston, MA, photo 4 of 4",
    "images/MA-0905-card.webp": "Asteria — Apartment ID 7492, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0905-cover.webp",
+   "images/MA-0905-000.webp",
+   "images/MA-0905-001.webp",
+   "images/MA-0905-002.webp"
+  ]
  },
  {
   "id": "MA-0938",
@@ -878,13 +1044,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0938-cover.webp": "AVA Back Bay — Apartment ID 1070, apartment in Boston, MA",
    "images/MA-0938-000.webp": "AVA Back Bay — Apartment ID 1070, Boston, MA, photo 2 of 4",
    "images/MA-0938-001.webp": "AVA Back Bay — Apartment ID 1070, Boston, MA, photo 3 of 4",
    "images/MA-0938-002.webp": "AVA Back Bay — Apartment ID 1070, Boston, MA, photo 4 of 4",
    "images/MA-0938-card.webp": "AVA Back Bay — Apartment ID 1070, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0938-cover.webp",
+   "images/MA-0938-000.webp",
+   "images/MA-0938-001.webp",
+   "images/MA-0938-002.webp"
+  ]
  },
  {
   "id": "MA-0948",
@@ -913,13 +1086,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0948-cover.webp": "AVA Back Bay — Apartment ID 1602, apartment in Boston, MA",
    "images/MA-0948-000.webp": "AVA Back Bay — Apartment ID 1602, Boston, MA, photo 2 of 4",
    "images/MA-0948-001.webp": "AVA Back Bay — Apartment ID 1602, Boston, MA, photo 3 of 4",
    "images/MA-0948-002.webp": "AVA Back Bay — Apartment ID 1602, Boston, MA, photo 4 of 4",
    "images/MA-0948-card.webp": "AVA Back Bay — Apartment ID 1602, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0948-cover.webp",
+   "images/MA-0948-000.webp",
+   "images/MA-0948-001.webp",
+   "images/MA-0948-002.webp"
+  ]
  },
  {
   "id": "MA-0946",
@@ -948,13 +1128,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0946-cover.webp": "AVA Back Bay — Apartment ID 5477, apartment in Boston, MA",
    "images/MA-0946-000.webp": "AVA Back Bay — Apartment ID 5477, Boston, MA, photo 2 of 4",
    "images/MA-0946-001.webp": "AVA Back Bay — Apartment ID 5477, Boston, MA, photo 3 of 4",
    "images/MA-0946-002.webp": "AVA Back Bay — Apartment ID 5477, Boston, MA, photo 4 of 4",
    "images/MA-0946-card.webp": "AVA Back Bay — Apartment ID 5477, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0946-cover.webp",
+   "images/MA-0946-000.webp",
+   "images/MA-0946-001.webp",
+   "images/MA-0946-002.webp"
+  ]
  },
  {
   "id": "MA-0909",
@@ -983,13 +1170,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0909-cover.webp": "Avalon at Prudential – Boylston Building — Apartment ID 3903, apartment in Boston, MA",
    "images/MA-0909-000.webp": "Avalon at Prudential – Boylston Building — Apartment ID 3903, Boston, MA, photo 2 of 4",
    "images/MA-0909-001.webp": "Avalon at Prudential – Boylston Building — Apartment ID 3903, Boston, MA, photo 3 of 4",
    "images/MA-0909-002.webp": "Avalon at Prudential – Boylston Building — Apartment ID 3903, Boston, MA, photo 4 of 4",
    "images/MA-0909-card.webp": "Avalon at Prudential – Boylston Building — Apartment ID 3903, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0909-cover.webp",
+   "images/MA-0909-000.webp",
+   "images/MA-0909-001.webp",
+   "images/MA-0909-002.webp"
+  ]
  },
  {
   "id": "MA-0908",
@@ -1018,13 +1212,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0908-cover.webp": "Avalon at Prudential – Boylston Building — Apartment ID 4151, apartment in Boston, MA",
    "images/MA-0908-000.webp": "Avalon at Prudential – Boylston Building — Apartment ID 4151, Boston, MA, photo 2 of 4",
    "images/MA-0908-001.webp": "Avalon at Prudential – Boylston Building — Apartment ID 4151, Boston, MA, photo 3 of 4",
    "images/MA-0908-002.webp": "Avalon at Prudential – Boylston Building — Apartment ID 4151, Boston, MA, photo 4 of 4",
    "images/MA-0908-card.webp": "Avalon at Prudential – Boylston Building — Apartment ID 4151, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0908-cover.webp",
+   "images/MA-0908-000.webp",
+   "images/MA-0908-001.webp",
+   "images/MA-0908-002.webp"
+  ]
  },
  {
   "id": "MA-0931",
@@ -1053,13 +1254,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0931-cover.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 1050, apartment in Boston, MA",
    "images/MA-0931-000.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 1050, Boston, MA, photo 2 of 4",
    "images/MA-0931-001.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 1050, Boston, MA, photo 3 of 4",
    "images/MA-0931-002.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 1050, Boston, MA, photo 4 of 4",
    "images/MA-0931-card.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 1050, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0931-cover.webp",
+   "images/MA-0931-000.webp",
+   "images/MA-0931-001.webp",
+   "images/MA-0931-002.webp"
+  ]
  },
  {
   "id": "MA-0951",
@@ -1088,13 +1296,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0951-cover.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 4848, apartment in Boston, MA",
    "images/MA-0951-000.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 4848, Boston, MA, photo 2 of 4",
    "images/MA-0951-001.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 4848, Boston, MA, photo 3 of 4",
    "images/MA-0951-002.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 4848, Boston, MA, photo 4 of 4",
    "images/MA-0951-card.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 4848, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0951-cover.webp",
+   "images/MA-0951-000.webp",
+   "images/MA-0951-001.webp",
+   "images/MA-0951-002.webp"
+  ]
  },
  {
   "id": "MA-0916",
@@ -1123,13 +1338,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0916-cover.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 7000, apartment in Boston, MA",
    "images/MA-0916-000.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 7000, Boston, MA, photo 2 of 4",
    "images/MA-0916-001.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 7000, Boston, MA, photo 3 of 4",
    "images/MA-0916-002.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 7000, Boston, MA, photo 4 of 4",
    "images/MA-0916-card.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 7000, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0916-cover.webp",
+   "images/MA-0916-000.webp",
+   "images/MA-0916-001.webp",
+   "images/MA-0916-002.webp"
+  ]
  },
  {
   "id": "MA-0950",
@@ -1158,13 +1380,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0950-cover.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 8856, apartment in Boston, MA",
    "images/MA-0950-000.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 8856, Boston, MA, photo 2 of 4",
    "images/MA-0950-001.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 8856, Boston, MA, photo 3 of 4",
    "images/MA-0950-002.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 8856, Boston, MA, photo 4 of 4",
    "images/MA-0950-card.webp": "Avalon at Prudential – Gloucester Building — Apartment ID 8856, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0950-cover.webp",
+   "images/MA-0950-000.webp",
+   "images/MA-0950-001.webp",
+   "images/MA-0950-002.webp"
+  ]
  },
  {
   "id": "MA-0813",
@@ -1193,13 +1422,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom penthouse with a full kitchen, in-unit laundry and shared gym access.",
   "photoAlts": {
    "images/MA-0813-cover.webp": "Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer, apartment in Boston, MA",
    "images/MA-0813-000.webp": "Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer, Boston, MA, photo 2 of 4",
    "images/MA-0813-001.webp": "Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer, Boston, MA, photo 3 of 4",
    "images/MA-0813-002.webp": "Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer, Boston, MA, photo 4 of 4",
    "images/MA-0813-card.webp": "Back Bay Central Penthouse with Gym Parking In Unit Washer Dryer, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0813-cover.webp",
+   "images/MA-0813-000.webp",
+   "images/MA-0813-001.webp",
+   "images/MA-0813-002.webp"
+  ]
  },
  {
   "id": "MA-0836",
@@ -1228,13 +1464,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom condo with a full kitchen, laundry and shared rooftop and fitness facilities.",
   "photoAlts": {
    "images/MA-0836-cover.webp": "Back-Bay 2BR Condo w Roof top, Gym, Parking, apartment in Boston, MA",
    "images/MA-0836-000.webp": "Back-Bay 2BR Condo w Roof top, Gym, Parking, Boston, MA, photo 2 of 4",
    "images/MA-0836-001.webp": "Back-Bay 2BR Condo w Roof top, Gym, Parking, Boston, MA, photo 3 of 4",
    "images/MA-0836-002.webp": "Back-Bay 2BR Condo w Roof top, Gym, Parking, Boston, MA, photo 4 of 4",
    "images/MA-0836-card.webp": "Back-Bay 2BR Condo w Roof top, Gym, Parking, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0836-cover.webp",
+   "images/MA-0836-000.webp",
+   "images/MA-0836-001.webp",
+   "images/MA-0836-002.webp"
+  ]
  },
  {
   "id": "MA-0838",
@@ -1263,12 +1506,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom penthouse with a full kitchen, laundry and access to shared rooftop and gym facilities.",
   "photoAlts": {
    "images/MA-0838-cover.webp": "Back-Bay 2BR Penthouse w Roof top and GYM, apartment in Boston, MA",
    "images/MA-0838-000.webp": "Back-Bay 2BR Penthouse w Roof top and GYM, Boston, MA, photo 2 of 3",
    "images/MA-0838-001.webp": "Back-Bay 2BR Penthouse w Roof top and GYM, Boston, MA, photo 3 of 3",
    "images/MA-0838-card.webp": "Back-Bay 2BR Penthouse w Roof top and GYM, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0838-cover.webp",
+   "images/MA-0838-000.webp",
+   "images/MA-0838-001.webp"
+  ]
  },
  {
   "id": "MA-0835",
@@ -1297,12 +1546,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom condo with full kitchen, laundry and access to shared rooftop and gym facilities.",
   "photoAlts": {
    "images/MA-0835-cover.webp": "Back-Bay Central Condo w Roof top, Gym & Parking, apartment in Boston, MA",
    "images/MA-0835-000.webp": "Back-Bay Central Condo w Roof top, Gym & Parking, Boston, MA, photo 2 of 3",
    "images/MA-0835-001.webp": "Back-Bay Central Condo w Roof top, Gym & Parking, Boston, MA, photo 3 of 3",
    "images/MA-0835-card.webp": "Back-Bay Central Condo w Roof top, Gym & Parking, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0835-cover.webp",
+   "images/MA-0835-000.webp",
+   "images/MA-0835-001.webp"
+  ]
  },
  {
   "id": "MA-0833",
@@ -1331,13 +1586,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom condo with full kitchen, laundry and access to shared rooftop and gym facilities.",
   "photoAlts": {
    "images/MA-0833-cover.webp": "Back-Bay Lux Central 2BR Condo with Rooftop and Parking, apartment in Boston, MA",
    "images/MA-0833-000.webp": "Back-Bay Lux Central 2BR Condo with Rooftop and Parking, Boston, MA, photo 2 of 4",
    "images/MA-0833-001.webp": "Back-Bay Lux Central 2BR Condo with Rooftop and Parking, Boston, MA, photo 3 of 4",
    "images/MA-0833-002.webp": "Back-Bay Lux Central 2BR Condo with Rooftop and Parking, Boston, MA, photo 4 of 4",
    "images/MA-0833-card.webp": "Back-Bay Lux Central 2BR Condo with Rooftop and Parking, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0833-cover.webp",
+   "images/MA-0833-000.webp",
+   "images/MA-0833-001.webp",
+   "images/MA-0833-002.webp"
+  ]
  },
  {
   "id": "MA-0832",
@@ -1366,12 +1628,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom penthouse with a full kitchen, laundry and access to shared rooftop and gym facilities.",
   "photoAlts": {
    "images/MA-0832-cover.webp": "Back-Bay Penthouse Public Garden Down Town Rooftop and Parking, apartment in Boston, MA",
    "images/MA-0832-000.webp": "Back-Bay Penthouse Public Garden Down Town Rooftop and Parking, Boston, MA, photo 2 of 3",
    "images/MA-0832-001.webp": "Back-Bay Penthouse Public Garden Down Town Rooftop and Parking, Boston, MA, photo 3 of 3",
    "images/MA-0832-card.webp": "Back-Bay Penthouse Public Garden Down Town Rooftop and Parking, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0832-cover.webp",
+   "images/MA-0832-000.webp",
+   "images/MA-0832-001.webp"
+  ]
  },
  {
   "id": "MA-0839",
@@ -1400,12 +1668,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom condo with full kitchen, skyline views and access to shared rooftop and gym facilities.",
   "photoAlts": {
    "images/MA-0839-cover.webp": "Back-Bay Upscale Central Condo Bos Common Downtown, apartment in Boston, MA",
    "images/MA-0839-000.webp": "Back-Bay Upscale Central Condo Bos Common Downtown, Boston, MA, photo 2 of 3",
    "images/MA-0839-001.webp": "Back-Bay Upscale Central Condo Bos Common Downtown, Boston, MA, photo 3 of 3",
    "images/MA-0839-card.webp": "Back-Bay Upscale Central Condo Bos Common Downtown, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0839-cover.webp",
+   "images/MA-0839-000.webp",
+   "images/MA-0839-001.webp"
+  ]
  },
  {
   "id": "MA-0834",
@@ -1434,12 +1708,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom condo with full kitchen, skyline views and access to shared rooftop and gym facilities.",
   "photoAlts": {
    "images/MA-0834-cover.webp": "Back-Bay Upscale Central Condo Rooftop & Parking, apartment in Boston, MA",
    "images/MA-0834-000.webp": "Back-Bay Upscale Central Condo Rooftop & Parking, Boston, MA, photo 2 of 3",
    "images/MA-0834-001.webp": "Back-Bay Upscale Central Condo Rooftop & Parking, Boston, MA, photo 3 of 3",
    "images/MA-0834-card.webp": "Back-Bay Upscale Central Condo Rooftop & Parking, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0834-cover.webp",
+   "images/MA-0834-000.webp",
+   "images/MA-0834-001.webp"
+  ]
  },
  {
   "id": "MA-0840",
@@ -1468,12 +1748,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Back Bay two-bedroom penthouse with full kitchen, skyline views and access to shared rooftop and gym facilities.",
   "photoAlts": {
    "images/MA-0840-cover.webp": "Back-Bay Upscale Central Penthouse W Roof-top, apartment in Boston, MA",
    "images/MA-0840-000.webp": "Back-Bay Upscale Central Penthouse W Roof-top, Boston, MA, photo 2 of 3",
    "images/MA-0840-001.webp": "Back-Bay Upscale Central Penthouse W Roof-top, Boston, MA, photo 3 of 3",
    "images/MA-0840-card.webp": "Back-Bay Upscale Central Penthouse W Roof-top, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0840-cover.webp",
+   "images/MA-0840-000.webp",
+   "images/MA-0840-001.webp"
+  ]
  },
  {
   "id": "MA-0018",
@@ -1503,13 +1789,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Private docked yachts and houseboats for overnight stays at Constitution Marina in Charlestown.",
   "photoAlts": {
    "images/MA-0018-cover.webp": "Bed & Breakfast Afloat, Boston, MA",
    "images/MA-0018-000.webp": "Bed & Breakfast Afloat, Boston, MA, photo 2 of 4",
    "images/MA-0018-001.webp": "Bed & Breakfast Afloat, Boston, MA, photo 3 of 4",
    "images/MA-0018-002.webp": "Bed & Breakfast Afloat, Boston, MA, photo 4 of 4",
    "images/MA-0018-card.webp": "Bed & Breakfast Afloat, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0018-cover.webp",
+   "images/MA-0018-000.webp",
+   "images/MA-0018-001.webp",
+   "images/MA-0018-002.webp"
+  ]
  },
  {
   "id": "MA-0952",
@@ -1538,12 +1831,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Grand Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
   "photoAlts": {
    "images/MA-0952-cover.webp": "Boston Christopher — Grand Studio Suite Category, Boston, MA",
    "images/MA-0952-000.webp": "Boston Christopher — Grand Studio Suite Category, Boston, MA, photo 2 of 3",
    "images/MA-0952-001.webp": "Boston Christopher — Grand Studio Suite Category, Boston, MA, photo 3 of 3",
    "images/MA-0952-card.webp": "Boston Christopher — Grand Studio Suite Category, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0952-cover.webp",
+   "images/MA-0952-000.webp",
+   "images/MA-0952-001.webp"
+  ]
  },
  {
   "id": "MA-0960",
@@ -1572,12 +1871,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "One Bedroom offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
   "photoAlts": {
    "images/MA-0960-cover.webp": "Boston Christopher — One Bedroom Category, Boston, MA",
    "images/MA-0960-000.webp": "Boston Christopher — One Bedroom Category, Boston, MA, photo 2 of 3",
    "images/MA-0960-001.webp": "Boston Christopher — One Bedroom Category, Boston, MA, photo 3 of 3",
    "images/MA-0960-card.webp": "Boston Christopher — One Bedroom Category, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0960-cover.webp",
+   "images/MA-0960-000.webp",
+   "images/MA-0960-001.webp"
+  ]
  },
  {
   "id": "MA-0957",
@@ -1606,12 +1911,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Studio Suite offer in Boston’s South End with kitchen facilities, self check-in and shared roof-deck access.",
   "photoAlts": {
    "images/MA-0957-cover.webp": "Boston Christopher — Studio Suite Category, Boston, MA",
    "images/MA-0957-000.webp": "Boston Christopher — Studio Suite Category, Boston, MA, photo 2 of 3",
    "images/MA-0957-001.webp": "Boston Christopher — Studio Suite Category, Boston, MA, photo 3 of 3",
    "images/MA-0957-card.webp": "Boston Christopher — Studio Suite Category, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0957-cover.webp",
+   "images/MA-0957-000.webp",
+   "images/MA-0957-001.webp"
+  ]
  },
  {
   "id": "MA-0508",
@@ -1640,13 +1951,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Seven-bedroom Boston accommodation in a renovated historic building for larger groups.",
   "photoAlts": {
    "images/MA-0508-cover.webp": "Boston Historical Urban Oasis, Boston, MA",
    "images/MA-0508-000.webp": "Boston Historical Urban Oasis, Boston, MA, photo 2 of 4",
    "images/MA-0508-001.webp": "Boston Historical Urban Oasis, Boston, MA, photo 3 of 4",
    "images/MA-0508-002.webp": "Boston Historical Urban Oasis, Boston, MA, photo 4 of 4",
    "images/MA-0508-card.webp": "Boston Historical Urban Oasis, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0508-cover.webp",
+   "images/MA-0508-000.webp",
+   "images/MA-0508-001.webp",
+   "images/MA-0508-002.webp"
+  ]
  },
  {
   "id": "MA-0703",
@@ -1675,13 +1993,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom Jamaica Plain apartment with two baths, private rear porch and designated parking near Green Street T.",
   "photoAlts": {
    "images/MA-0703-cover.webp": "Bright Jamaica Plain Home | Near Green St T, apartment in Boston, MA",
    "images/MA-0703-000.webp": "Bright Jamaica Plain Home | Near Green St T, Boston, MA, photo 2 of 4",
    "images/MA-0703-001.webp": "Bright Jamaica Plain Home | Near Green St T, Boston, MA, photo 3 of 4",
    "images/MA-0703-002.webp": "Bright Jamaica Plain Home | Near Green St T, Boston, MA, photo 4 of 4",
    "images/MA-0703-card.webp": "Bright Jamaica Plain Home | Near Green St T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0703-cover.webp",
+   "images/MA-0703-000.webp",
+   "images/MA-0703-001.webp",
+   "images/MA-0703-002.webp"
+  ]
  },
  {
   "id": "MA-0705",
@@ -1710,13 +2035,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Jamaica Plain apartment category with two baths, private front and rear decks and designated parking.",
   "photoAlts": {
    "images/MA-0705-cover.webp": "Bright JP Unit | Private Deck & Near the T, apartment in Boston, MA",
    "images/MA-0705-000.webp": "Bright JP Unit | Private Deck & Near the T, Boston, MA, photo 2 of 4",
    "images/MA-0705-001.webp": "Bright JP Unit | Private Deck & Near the T, Boston, MA, photo 3 of 4",
    "images/MA-0705-002.webp": "Bright JP Unit | Private Deck & Near the T, Boston, MA, photo 4 of 4",
    "images/MA-0705-card.webp": "Bright JP Unit | Private Deck & Near the T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0705-cover.webp",
+   "images/MA-0705-000.webp",
+   "images/MA-0705-001.webp",
+   "images/MA-0705-002.webp"
+  ]
  },
  {
   "id": "MA-0827",
@@ -1745,12 +2077,18 @@
   "lng": -71.0995,
   "featured": false,
   "demo": false,
+  "description": "Somerville Assembly Square one-bedroom condo with a king bed, full kitchen and access to shared pool and gym.",
   "photoAlts": {
    "images/MA-0827-cover.webp": "Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5, apartment in Somerville, MA",
    "images/MA-0827-000.webp": "Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5, Somerville, MA, photo 2 of 3",
    "images/MA-0827-001.webp": "Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5, Somerville, MA, photo 3 of 3",
    "images/MA-0827-card.webp": "Central 1BR Apartment Assembly Square Pool Gym Parking Sleep 5, apartment in Somerville, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0827-cover.webp",
+   "images/MA-0827-000.webp",
+   "images/MA-0827-001.webp"
+  ]
  },
  {
   "id": "MA-0821",
@@ -1779,13 +2117,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom condo near the Public Garden with full kitchen, laundry, pool views and shared gym access.",
   "photoAlts": {
    "images/MA-0821-cover.webp": "Central 2BR Boston Pool views near Public Garden, apartment in Boston, MA",
    "images/MA-0821-000.webp": "Central 2BR Boston Pool views near Public Garden, Boston, MA, photo 2 of 4",
    "images/MA-0821-001.webp": "Central 2BR Boston Pool views near Public Garden, Boston, MA, photo 3 of 4",
    "images/MA-0821-002.webp": "Central 2BR Boston Pool views near Public Garden, Boston, MA, photo 4 of 4",
    "images/MA-0821-card.webp": "Central 2BR Boston Pool views near Public Garden, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0821-cover.webp",
+   "images/MA-0821-000.webp",
+   "images/MA-0821-001.webp",
+   "images/MA-0821-002.webp"
+  ]
  },
  {
   "id": "MA-0804",
@@ -1815,13 +2160,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom corner apartment near Harvard Business School, with a kitchen and shared workspace, gym and game room.",
   "photoAlts": {
    "images/MA-0804-cover.webp": "Central 2BR Boston w/ Workspace & Game Room, apartment in Boston, MA",
    "images/MA-0804-000.webp": "Central 2BR Boston w/ Workspace & Game Room, Boston, MA, photo 2 of 4",
    "images/MA-0804-001.webp": "Central 2BR Boston w/ Workspace & Game Room, Boston, MA, photo 3 of 4",
    "images/MA-0804-002.webp": "Central 2BR Boston w/ Workspace & Game Room, Boston, MA, photo 4 of 4",
    "images/MA-0804-card.webp": "Central 2BR Boston w/ Workspace & Game Room, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0804-cover.webp",
+   "images/MA-0804-000.webp",
+   "images/MA-0804-001.webp",
+   "images/MA-0804-002.webp"
+  ]
  },
  {
   "id": "MA-0818",
@@ -1850,13 +2202,20 @@
   "lng": -71.0995,
   "featured": false,
   "demo": false,
+  "description": "Somerville Assembly Square two-bedroom condo with full kitchen, laundry and access to shared pool and fitness facilities.",
   "photoAlts": {
    "images/MA-0818-cover.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer, apartment in Somerville, MA",
    "images/MA-0818-000.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer, Somerville, MA, photo 2 of 4",
    "images/MA-0818-001.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer, Somerville, MA, photo 3 of 4",
    "images/MA-0818-002.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer, Somerville, MA, photo 4 of 4",
    "images/MA-0818-card.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer, apartment in Somerville, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0818-cover.webp",
+   "images/MA-0818-000.webp",
+   "images/MA-0818-001.webp",
+   "images/MA-0818-002.webp"
+  ]
  },
  {
   "id": "MA-0819",
@@ -1885,13 +2244,20 @@
   "lng": -71.0995,
   "featured": false,
   "demo": false,
+  "description": "Somerville Assembly Square two-bedroom condo with kitchen, laundry and access to shared pool and fitness facilities.",
   "photoAlts": {
    "images/MA-0819-cover.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7, apartment in Somerville, MA",
    "images/MA-0819-000.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7, Somerville, MA, photo 2 of 4",
    "images/MA-0819-001.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7, Somerville, MA, photo 3 of 4",
    "images/MA-0819-002.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7, Somerville, MA, photo 4 of 4",
    "images/MA-0819-card.webp": "Central 2BR Condo in Assembly with Pool, Row Gym, washer & dryer sleep 7, apartment in Somerville, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0819-cover.webp",
+   "images/MA-0819-000.webp",
+   "images/MA-0819-001.webp",
+   "images/MA-0819-002.webp"
+  ]
  },
  {
   "id": "MA-0822",
@@ -1920,12 +2286,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Downtown Boston two-bedroom condo with a full kitchen, laundry and access to shared gym and rooftop facilities.",
   "photoAlts": {
    "images/MA-0822-cover.webp": "Central 2BR Condo in Downtown Boston & T-Station, apartment in Boston, MA",
    "images/MA-0822-000.webp": "Central 2BR Condo in Downtown Boston & T-Station, Boston, MA, photo 2 of 3",
    "images/MA-0822-001.webp": "Central 2BR Condo in Downtown Boston & T-Station, Boston, MA, photo 3 of 3",
    "images/MA-0822-card.webp": "Central 2BR Condo in Downtown Boston & T-Station, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0822-cover.webp",
+   "images/MA-0822-000.webp",
+   "images/MA-0822-001.webp"
+  ]
  },
  {
   "id": "MA-0809",
@@ -1955,13 +2327,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom corner condo near Harvard Business School, with kitchen, workspace and access to shared game room.",
   "photoAlts": {
    "images/MA-0809-cover.webp": "Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room, apartment in Boston, MA",
    "images/MA-0809-000.webp": "Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room, Boston, MA, photo 2 of 4",
    "images/MA-0809-001.webp": "Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room, Boston, MA, photo 3 of 4",
    "images/MA-0809-002.webp": "Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room, Boston, MA, photo 4 of 4",
    "images/MA-0809-card.webp": "Central 2BR Cozy Condo Near Harvard Boston Retreat w Workspace & Game Room, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0809-cover.webp",
+   "images/MA-0809-000.webp",
+   "images/MA-0809-001.webp",
+   "images/MA-0809-002.webp"
+  ]
  },
  {
   "id": "MA-0820",
@@ -1990,13 +2369,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Fenway two-bedroom apartment with a den, full kitchen and access to shared fitness facilities.",
   "photoAlts": {
    "images/MA-0820-cover.webp": "Central 2BR Den Fenway Walk to BU Longwood Red Sox, apartment in Boston, MA",
    "images/MA-0820-000.webp": "Central 2BR Den Fenway Walk to BU Longwood Red Sox, Boston, MA, photo 2 of 4",
    "images/MA-0820-001.webp": "Central 2BR Den Fenway Walk to BU Longwood Red Sox, Boston, MA, photo 3 of 4",
    "images/MA-0820-002.webp": "Central 2BR Den Fenway Walk to BU Longwood Red Sox, Boston, MA, photo 4 of 4",
    "images/MA-0820-card.webp": "Central 2BR Den Fenway Walk to BU Longwood Red Sox, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0820-cover.webp",
+   "images/MA-0820-000.webp",
+   "images/MA-0820-001.webp",
+   "images/MA-0820-002.webp"
+  ]
  },
  {
   "id": "MA-0814",
@@ -2025,12 +2411,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom condo with a full kitchen, in-unit laundry, pool views and shared gym facilities.",
   "photoAlts": {
    "images/MA-0814-cover.webp": "Central 2BR in Boston w Pool, Gym, Washer Dryer, apartment in Boston, MA",
    "images/MA-0814-000.webp": "Central 2BR in Boston w Pool, Gym, Washer Dryer, Boston, MA, photo 2 of 3",
    "images/MA-0814-001.webp": "Central 2BR in Boston w Pool, Gym, Washer Dryer, Boston, MA, photo 3 of 3",
    "images/MA-0814-card.webp": "Central 2BR in Boston w Pool, Gym, Washer Dryer, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0814-cover.webp",
+   "images/MA-0814-000.webp",
+   "images/MA-0814-001.webp"
+  ]
  },
  {
   "id": "MA-0823",
@@ -2059,13 +2451,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston penthouse near Boston Common with three bedrooms plus a den, full kitchen and shared fitness facilities.",
   "photoAlts": {
    "images/MA-0823-cover.webp": "Central 3BR & Den Penthouse Boston Common MGH & TUFTS, apartment in Boston, MA",
    "images/MA-0823-000.webp": "Central 3BR & Den Penthouse Boston Common MGH & TUFTS, Boston, MA, photo 2 of 4",
    "images/MA-0823-001.webp": "Central 3BR & Den Penthouse Boston Common MGH & TUFTS, Boston, MA, photo 3 of 4",
    "images/MA-0823-002.webp": "Central 3BR & Den Penthouse Boston Common MGH & TUFTS, Boston, MA, photo 4 of 4",
    "images/MA-0823-card.webp": "Central 3BR & Den Penthouse Boston Common MGH & TUFTS, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0823-cover.webp",
+   "images/MA-0823-000.webp",
+   "images/MA-0823-001.webp",
+   "images/MA-0823-002.webp"
+  ]
  },
  {
   "id": "MA-0803",
@@ -2094,13 +2493,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Downtown Boston four-bedroom penthouse with a full kitchen, laundry, workspace and shared gym and rooftop.",
   "photoAlts": {
    "images/MA-0803-cover.webp": "Central 4BR Penthouse in Boston DT TUFTS Parking, apartment in Boston, MA",
    "images/MA-0803-000.webp": "Central 4BR Penthouse in Boston DT TUFTS Parking, Boston, MA, photo 2 of 4",
    "images/MA-0803-001.webp": "Central 4BR Penthouse in Boston DT TUFTS Parking, Boston, MA, photo 3 of 4",
    "images/MA-0803-002.webp": "Central 4BR Penthouse in Boston DT TUFTS Parking, Boston, MA, photo 4 of 4",
    "images/MA-0803-card.webp": "Central 4BR Penthouse in Boston DT TUFTS Parking, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0803-cover.webp",
+   "images/MA-0803-000.webp",
+   "images/MA-0803-001.webp",
+   "images/MA-0803-002.webp"
+  ]
  },
  {
   "id": "MA-0816",
@@ -2130,13 +2536,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom apartment near Harvard with a kitchen, laundry and access to shared fitness and work facilities.",
   "photoAlts": {
    "images/MA-0816-cover.webp": "Central Boston 2BR Retreat Gym W&D Golf, apartment in Boston, MA",
    "images/MA-0816-000.webp": "Central Boston 2BR Retreat Gym W&D Golf, Boston, MA, photo 2 of 4",
    "images/MA-0816-001.webp": "Central Boston 2BR Retreat Gym W&D Golf, Boston, MA, photo 3 of 4",
    "images/MA-0816-002.webp": "Central Boston 2BR Retreat Gym W&D Golf, Boston, MA, photo 4 of 4",
    "images/MA-0816-card.webp": "Central Boston 2BR Retreat Gym W&D Golf, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0816-cover.webp",
+   "images/MA-0816-000.webp",
+   "images/MA-0816-001.webp",
+   "images/MA-0816-002.webp"
+  ]
  },
  {
   "id": "MA-0802",
@@ -2166,13 +2579,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom corner apartment near Harvard Business School, with a full kitchen, laundry and shared fitness facilities.",
   "photoAlts": {
    "images/MA-0802-cover.webp": "Central Boston 2BR Retreat near Harvard & Transit, apartment in Boston, MA",
    "images/MA-0802-000.webp": "Central Boston 2BR Retreat near Harvard & Transit, Boston, MA, photo 2 of 4",
    "images/MA-0802-001.webp": "Central Boston 2BR Retreat near Harvard & Transit, Boston, MA, photo 3 of 4",
    "images/MA-0802-002.webp": "Central Boston 2BR Retreat near Harvard & Transit, Boston, MA, photo 4 of 4",
    "images/MA-0802-card.webp": "Central Boston 2BR Retreat near Harvard & Transit, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0802-cover.webp",
+   "images/MA-0802-000.webp",
+   "images/MA-0802-001.webp",
+   "images/MA-0802-002.webp"
+  ]
  },
  {
   "id": "MA-0817",
@@ -2202,13 +2622,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom apartment near Harvard with a full kitchen and access to shared gym, workspace and game room.",
   "photoAlts": {
    "images/MA-0817-cover.webp": "Central Boston 2BR Retreat near Harvard & Transit, apartment in Boston, MA",
    "images/MA-0817-000.webp": "Central Boston 2BR Retreat near Harvard & Transit, Boston, MA, photo 2 of 4",
    "images/MA-0817-001.webp": "Central Boston 2BR Retreat near Harvard & Transit, Boston, MA, photo 3 of 4",
    "images/MA-0817-002.webp": "Central Boston 2BR Retreat near Harvard & Transit, Boston, MA, photo 4 of 4",
    "images/MA-0817-card.webp": "Central Boston 2BR Retreat near Harvard & Transit, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0817-cover.webp",
+   "images/MA-0817-000.webp",
+   "images/MA-0817-001.webp",
+   "images/MA-0817-002.webp"
+  ]
  },
  {
   "id": "MA-0811",
@@ -2237,12 +2664,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Fenway apartment with a full kitchen, two bathrooms and access to shared fitness facilities.",
   "photoAlts": {
    "images/MA-0811-cover.webp": "Central Condo Fenway near RedSox Green Line w Gym, apartment in Boston, MA",
    "images/MA-0811-000.webp": "Central Condo Fenway near RedSox Green Line w Gym, Boston, MA, photo 2 of 3",
    "images/MA-0811-001.webp": "Central Condo Fenway near RedSox Green Line w Gym, Boston, MA, photo 3 of 3",
    "images/MA-0811-card.webp": "Central Condo Fenway near RedSox Green Line w Gym, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0811-cover.webp",
+   "images/MA-0811-000.webp",
+   "images/MA-0811-001.webp"
+  ]
  },
  {
   "id": "MA-0810",
@@ -2271,13 +2704,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Chinatown one-bedroom penthouse with a balcony.",
   "photoAlts": {
    "images/MA-0810-cover.webp": "Central Penthouse & balcony in Boston Chinatown, apartment in Boston, MA",
    "images/MA-0810-000.webp": "Central Penthouse & balcony in Boston Chinatown, Boston, MA, photo 2 of 4",
    "images/MA-0810-001.webp": "Central Penthouse & balcony in Boston Chinatown, Boston, MA, photo 3 of 4",
    "images/MA-0810-002.webp": "Central Penthouse & balcony in Boston Chinatown, Boston, MA, photo 4 of 4",
    "images/MA-0810-card.webp": "Central Penthouse & balcony in Boston Chinatown, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0810-cover.webp",
+   "images/MA-0810-000.webp",
+   "images/MA-0810-001.webp",
+   "images/MA-0810-002.webp"
+  ]
  },
  {
   "id": "MA-0851",
@@ -2306,12 +2746,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge two-bedroom condo near MIT and Harvard with full kitchen, king bed, workspace and shared gym access.",
   "photoAlts": {
    "images/MA-0851-cover.webp": "Central Serene Condo King Bed by MIT Harvard GYM, apartment in Cambridge, MA",
    "images/MA-0851-000.webp": "Central Serene Condo King Bed by MIT Harvard GYM, Cambridge, MA, photo 2 of 3",
    "images/MA-0851-001.webp": "Central Serene Condo King Bed by MIT Harvard GYM, Cambridge, MA, photo 3 of 3",
    "images/MA-0851-card.webp": "Central Serene Condo King Bed by MIT Harvard GYM, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0851-cover.webp",
+   "images/MA-0851-000.webp",
+   "images/MA-0851-001.webp"
+  ]
  },
  {
   "id": "MA-0806",
@@ -2340,12 +2786,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge two-bedroom condo near MIT and Harvard with a king bed, full kitchen and access to shared gym facilities.",
   "photoAlts": {
    "images/MA-0806-cover.webp": "Central Serene Condo near MIT/Harvard w/King GYM, apartment in Cambridge, MA",
    "images/MA-0806-000.webp": "Central Serene Condo near MIT/Harvard w/King GYM, Cambridge, MA, photo 2 of 3",
    "images/MA-0806-001.webp": "Central Serene Condo near MIT/Harvard w/King GYM, Cambridge, MA, photo 3 of 3",
    "images/MA-0806-card.webp": "Central Serene Condo near MIT/Harvard w/King GYM, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0806-cover.webp",
+   "images/MA-0806-000.webp",
+   "images/MA-0806-001.webp"
+  ]
  },
  {
   "id": "MA-0844",
@@ -2374,12 +2826,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge Central Square two-bedroom condo with a workspace and access to shared terrace and fitness facilities.",
   "photoAlts": {
    "images/MA-0844-cover.webp": "Central Square 2BR Condo near Harvard & MIT Spacious Gym & Work, apartment in Cambridge, MA",
    "images/MA-0844-000.webp": "Central Square 2BR Condo near Harvard & MIT Spacious Gym & Work, Cambridge, MA, photo 2 of 3",
    "images/MA-0844-001.webp": "Central Square 2BR Condo near Harvard & MIT Spacious Gym & Work, Cambridge, MA, photo 3 of 3",
    "images/MA-0844-card.webp": "Central Square 2BR Condo near Harvard & MIT Spacious Gym & Work, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0844-cover.webp",
+   "images/MA-0844-000.webp",
+   "images/MA-0844-001.webp"
+  ]
  },
  {
   "id": "MA-0850",
@@ -2408,12 +2866,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge Central Square two-bedroom penthouse with a workspace and shared gym access near MIT and Harvard.",
   "photoAlts": {
    "images/MA-0850-cover.webp": "Central Square 2BR Penthouse near MIT & Harvard to Balance Life, Work Play Sleep 7!, apartment in Cambridge, MA",
    "images/MA-0850-000.webp": "Central Square 2BR Penthouse near MIT & Harvard to Balance Life, Work Play Sleep 7!, Cambridge, MA, photo 2 of 3",
    "images/MA-0850-001.webp": "Central Square 2BR Penthouse near MIT & Harvard to Balance Life, Work Play Sleep 7!, Cambridge, MA, photo 3 of 3",
    "images/MA-0850-card.webp": "Central Square 2BR Penthouse near MIT & Harvard to Balance Life, Work Play Sleep 7!, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0850-cover.webp",
+   "images/MA-0850-000.webp",
+   "images/MA-0850-001.webp"
+  ]
  },
  {
   "id": "MA-0829",
@@ -2442,12 +2906,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge Central Square three-bedroom condo with a full kitchen, skyline views and shared gym access.",
   "photoAlts": {
    "images/MA-0829-cover.webp": "Central Square 3BR Condo with Downtown View, Gym and Parking! 8 Sleeps, apartment in Cambridge, MA",
    "images/MA-0829-000.webp": "Central Square 3BR Condo with Downtown View, Gym and Parking! 8 Sleeps, Cambridge, MA, photo 2 of 3",
    "images/MA-0829-001.webp": "Central Square 3BR Condo with Downtown View, Gym and Parking! 8 Sleeps, Cambridge, MA, photo 3 of 3",
    "images/MA-0829-card.webp": "Central Square 3BR Condo with Downtown View, Gym and Parking! 8 Sleeps, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0829-cover.webp",
+   "images/MA-0829-000.webp",
+   "images/MA-0829-001.webp"
+  ]
  },
  {
   "id": "MA-0812",
@@ -2476,13 +2946,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge two-bedroom condo with a full kitchen, workspace and access to shared gym facilities.",
   "photoAlts": {
    "images/MA-0812-cover.webp": "Central Upscale 2BR Condo wGym Office & Parking, apartment in Cambridge, MA",
    "images/MA-0812-000.webp": "Central Upscale 2BR Condo wGym Office & Parking, Cambridge, MA, photo 2 of 4",
    "images/MA-0812-001.webp": "Central Upscale 2BR Condo wGym Office & Parking, Cambridge, MA, photo 3 of 4",
    "images/MA-0812-002.webp": "Central Upscale 2BR Condo wGym Office & Parking, Cambridge, MA, photo 4 of 4",
    "images/MA-0812-card.webp": "Central Upscale 2BR Condo wGym Office & Parking, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0812-cover.webp",
+   "images/MA-0812-000.webp",
+   "images/MA-0812-001.webp",
+   "images/MA-0812-002.webp"
+  ]
  },
  {
   "id": "MA-1003",
@@ -2511,13 +2988,20 @@
   "lng": -71.062,
   "featured": false,
   "demo": false,
+  "description": "One-bedroom apartment in a Charlestown brick townhouse, with a kitchen and patio outlook near the Freedom Trail.",
   "photoAlts": {
    "images/MA-1003-cover.webp": "Charlestown Furnished Apartment — M465, apartment in Charlestown, MA",
    "images/MA-1003-000.webp": "Charlestown Furnished Apartment — M465, Charlestown, MA, photo 2 of 4",
    "images/MA-1003-001.webp": "Charlestown Furnished Apartment — M465, Charlestown, MA, photo 3 of 4",
    "images/MA-1003-002.webp": "Charlestown Furnished Apartment — M465, Charlestown, MA, photo 4 of 4",
    "images/MA-1003-card.webp": "Charlestown Furnished Apartment — M465, apartment in Charlestown, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1003-cover.webp",
+   "images/MA-1003-000.webp",
+   "images/MA-1003-001.webp",
+   "images/MA-1003-002.webp"
+  ]
  },
  {
   "id": "MA-0701",
@@ -2546,13 +3030,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom Savin Hill home across two levels with a kitchen, laundry and shared patio, near the Red Line.",
   "photoAlts": {
    "images/MA-0701-cover.webp": "Charming 3BR Savin Hill Home | Near the T, apartment in Boston, MA",
    "images/MA-0701-000.webp": "Charming 3BR Savin Hill Home | Near the T, Boston, MA, photo 2 of 4",
    "images/MA-0701-001.webp": "Charming 3BR Savin Hill Home | Near the T, Boston, MA, photo 3 of 4",
    "images/MA-0701-002.webp": "Charming 3BR Savin Hill Home | Near the T, Boston, MA, photo 4 of 4",
    "images/MA-0701-card.webp": "Charming 3BR Savin Hill Home | Near the T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0701-cover.webp",
+   "images/MA-0701-000.webp",
+   "images/MA-0701-001.webp",
+   "images/MA-0701-002.webp"
+  ]
  },
  {
   "id": "MA-0707",
@@ -2581,13 +3072,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Boston apartment with two bathrooms, a full kitchen and shared outdoor patio near the T.",
   "photoAlts": {
    "images/MA-0707-cover.webp": "Charming Boston Home, Near T, apartment in Boston, MA",
    "images/MA-0707-000.webp": "Charming Boston Home, Near T, Boston, MA, photo 2 of 4",
    "images/MA-0707-001.webp": "Charming Boston Home, Near T, Boston, MA, photo 3 of 4",
    "images/MA-0707-002.webp": "Charming Boston Home, Near T, Boston, MA, photo 4 of 4",
    "images/MA-0707-card.webp": "Charming Boston Home, Near T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0707-cover.webp",
+   "images/MA-0707-000.webp",
+   "images/MA-0707-001.webp",
+   "images/MA-0707-002.webp"
+  ]
  },
  {
   "id": "MA-0944",
@@ -2616,13 +3114,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0944-cover.webp": "Church Park 199 — Apartment ID 3728, apartment in Boston, MA",
    "images/MA-0944-000.webp": "Church Park 199 — Apartment ID 3728, Boston, MA, photo 2 of 4",
    "images/MA-0944-001.webp": "Church Park 199 — Apartment ID 3728, Boston, MA, photo 3 of 4",
    "images/MA-0944-002.webp": "Church Park 199 — Apartment ID 3728, Boston, MA, photo 4 of 4",
    "images/MA-0944-card.webp": "Church Park 199 — Apartment ID 3728, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0944-cover.webp",
+   "images/MA-0944-000.webp",
+   "images/MA-0944-001.webp",
+   "images/MA-0944-002.webp"
+  ]
  },
  {
   "id": "MA-0925",
@@ -2651,13 +3156,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0925-cover.webp": "Church Park 199 — Apartment ID 6686, apartment in Boston, MA",
    "images/MA-0925-000.webp": "Church Park 199 — Apartment ID 6686, Boston, MA, photo 2 of 4",
    "images/MA-0925-001.webp": "Church Park 199 — Apartment ID 6686, Boston, MA, photo 3 of 4",
    "images/MA-0925-002.webp": "Church Park 199 — Apartment ID 6686, Boston, MA, photo 4 of 4",
    "images/MA-0925-card.webp": "Church Park 199 — Apartment ID 6686, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0925-cover.webp",
+   "images/MA-0925-000.webp",
+   "images/MA-0925-001.webp",
+   "images/MA-0925-002.webp"
+  ]
  },
  {
   "id": "MA-0924",
@@ -2686,13 +3198,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0924-cover.webp": "Church Park 221 — Apartment ID 4314, apartment in Boston, MA",
    "images/MA-0924-000.webp": "Church Park 221 — Apartment ID 4314, Boston, MA, photo 2 of 4",
    "images/MA-0924-001.webp": "Church Park 221 — Apartment ID 4314, Boston, MA, photo 3 of 4",
    "images/MA-0924-002.webp": "Church Park 221 — Apartment ID 4314, Boston, MA, photo 4 of 4",
    "images/MA-0924-card.webp": "Church Park 221 — Apartment ID 4314, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0924-cover.webp",
+   "images/MA-0924-000.webp",
+   "images/MA-0924-001.webp",
+   "images/MA-0924-002.webp"
+  ]
  },
  {
   "id": "MA-0915",
@@ -2721,13 +3240,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0915-cover.webp": "Church Park 255 — Apartment ID 7411, apartment in Boston, MA",
    "images/MA-0915-000.webp": "Church Park 255 — Apartment ID 7411, Boston, MA, photo 2 of 4",
    "images/MA-0915-001.webp": "Church Park 255 — Apartment ID 7411, Boston, MA, photo 3 of 4",
    "images/MA-0915-002.webp": "Church Park 255 — Apartment ID 7411, Boston, MA, photo 4 of 4",
    "images/MA-0915-card.webp": "Church Park 255 — Apartment ID 7411, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0915-cover.webp",
+   "images/MA-0915-000.webp",
+   "images/MA-0915-001.webp",
+   "images/MA-0915-002.webp"
+  ]
  },
  {
   "id": "MA-1106",
@@ -2757,13 +3283,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Beacon Street suite with a king bed, queen sofa bed, bay-window views, kitchenette and laundry, reached by stairs.",
   "photoAlts": {
    "images/MA-1106-cover.webp": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7, apartment in Boston, MA",
    "images/MA-1106-000.webp": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7, Boston, MA, photo 2 of 4",
    "images/MA-1106-001.webp": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7, Boston, MA, photo 3 of 4",
    "images/MA-1106-002.webp": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7, Boston, MA, photo 4 of 4",
    "images/MA-1106-card.webp": "Cityscape 1BR Plus: King + Queen Pull-out | Suite 7, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1106-cover.webp",
+   "images/MA-1106-000.webp",
+   "images/MA-1106-001.webp",
+   "images/MA-1106-002.webp"
+  ]
  },
  {
   "id": "MA-0712",
@@ -2792,13 +3325,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Fort Hill apartment with three baths, a full kitchen and private outdoor patio.",
   "photoAlts": {
    "images/MA-0712-cover.webp": "Clean, Contemporary Escape | Near T, apartment in Boston, MA",
    "images/MA-0712-000.webp": "Clean, Contemporary Escape | Near T, Boston, MA, photo 2 of 4",
    "images/MA-0712-001.webp": "Clean, Contemporary Escape | Near T, Boston, MA, photo 3 of 4",
    "images/MA-0712-002.webp": "Clean, Contemporary Escape | Near T, Boston, MA, photo 4 of 4",
    "images/MA-0712-card.webp": "Clean, Contemporary Escape | Near T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0712-cover.webp",
+   "images/MA-0712-000.webp",
+   "images/MA-0712-001.webp",
+   "images/MA-0712-002.webp"
+  ]
  },
  {
   "id": "MA-0718",
@@ -2827,13 +3367,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Combined rental of two Boston apartments with six bedrooms, three baths, two kitchens, two decks and shared backyard.",
   "photoAlts": {
    "images/MA-0718-cover.webp": "Contemporary Boston Duplex — Two-Apartment Combined Rental, apartment in Boston, MA",
    "images/MA-0718-000.webp": "Contemporary Boston Duplex — Two-Apartment Combined Rental, Boston, MA, photo 2 of 4",
    "images/MA-0718-001.webp": "Contemporary Boston Duplex — Two-Apartment Combined Rental, Boston, MA, photo 3 of 4",
    "images/MA-0718-002.webp": "Contemporary Boston Duplex — Two-Apartment Combined Rental, Boston, MA, photo 4 of 4",
    "images/MA-0718-card.webp": "Contemporary Boston Duplex — Two-Apartment Combined Rental, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0718-cover.webp",
+   "images/MA-0718-000.webp",
+   "images/MA-0718-001.webp",
+   "images/MA-0718-002.webp"
+  ]
  },
  {
   "id": "MA-1001",
@@ -2862,13 +3409,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "South End studio with a kitchen, in-unit laundry and private patio; nightly stays are seasonal, with monthly winter rentals.",
   "photoAlts": {
    "images/MA-1001-cover.webp": "Copley on the Park Studio — M325, apartment in Boston, MA",
    "images/MA-1001-000.webp": "Copley on the Park Studio — M325, Boston, MA, photo 2 of 4",
    "images/MA-1001-001.webp": "Copley on the Park Studio — M325, Boston, MA, photo 3 of 4",
    "images/MA-1001-002.webp": "Copley on the Park Studio — M325, Boston, MA, photo 4 of 4",
    "images/MA-1001-card.webp": "Copley on the Park Studio — M325, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1001-cover.webp",
+   "images/MA-1001-000.webp",
+   "images/MA-1001-001.webp",
+   "images/MA-1001-002.webp"
+  ]
  },
  {
   "id": "MA-0702",
@@ -2897,13 +3451,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Two-bedroom Fort Hill apartment across three levels with a full kitchen and two bathrooms, near the T.",
   "photoAlts": {
    "images/MA-0702-cover.webp": "Cozy 2BR Fort Hill Apartment | Near the T, apartment in Boston, MA",
    "images/MA-0702-000.webp": "Cozy 2BR Fort Hill Apartment | Near the T, Boston, MA, photo 2 of 4",
    "images/MA-0702-001.webp": "Cozy 2BR Fort Hill Apartment | Near the T, Boston, MA, photo 3 of 4",
    "images/MA-0702-002.webp": "Cozy 2BR Fort Hill Apartment | Near the T, Boston, MA, photo 4 of 4",
    "images/MA-0702-card.webp": "Cozy 2BR Fort Hill Apartment | Near the T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0702-cover.webp",
+   "images/MA-0702-000.webp",
+   "images/MA-0702-001.webp",
+   "images/MA-0702-002.webp"
+  ]
  },
  {
   "id": "MA-0801",
@@ -2933,13 +3494,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom corner apartment near Harvard Business School, with a kitchen, laundry and shared gym and workspace.",
   "photoAlts": {
    "images/MA-0801-cover.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, apartment in Boston, MA",
    "images/MA-0801-000.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, Boston, MA, photo 2 of 4",
    "images/MA-0801-001.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, Boston, MA, photo 3 of 4",
    "images/MA-0801-002.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, Boston, MA, photo 4 of 4",
    "images/MA-0801-card.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0801-cover.webp",
+   "images/MA-0801-000.webp",
+   "images/MA-0801-001.webp",
+   "images/MA-0801-002.webp"
+  ]
  },
  {
   "id": "MA-0815",
@@ -2969,13 +3537,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom, two-bathroom apartment near Harvard, with kitchen and shared gym, workspace and game room.",
   "photoAlts": {
    "images/MA-0815-cover.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, apartment in Boston, MA",
    "images/MA-0815-000.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, Boston, MA, photo 2 of 4",
    "images/MA-0815-001.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, Boston, MA, photo 3 of 4",
    "images/MA-0815-002.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, Boston, MA, photo 4 of 4",
    "images/MA-0815-card.webp": "Cozy 2BR near Harvard with Gym, Golf & Work Space, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0815-cover.webp",
+   "images/MA-0815-000.webp",
+   "images/MA-0815-001.webp",
+   "images/MA-0815-002.webp"
+  ]
  },
  {
   "id": "MA-0713",
@@ -3004,13 +3579,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Five-bedroom Jamaica Plain apartment category with two full baths, a half bath and open kitchen and living areas.",
   "photoAlts": {
    "images/MA-0713-cover.webp": "Cozy 5BR Jamaica Plain | Walk to T & Downtown, apartment in Boston, MA",
    "images/MA-0713-000.webp": "Cozy 5BR Jamaica Plain | Walk to T & Downtown, Boston, MA, photo 2 of 4",
    "images/MA-0713-001.webp": "Cozy 5BR Jamaica Plain | Walk to T & Downtown, Boston, MA, photo 3 of 4",
    "images/MA-0713-002.webp": "Cozy 5BR Jamaica Plain | Walk to T & Downtown, Boston, MA, photo 4 of 4",
    "images/MA-0713-card.webp": "Cozy 5BR Jamaica Plain | Walk to T & Downtown, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0713-cover.webp",
+   "images/MA-0713-000.webp",
+   "images/MA-0713-001.webp",
+   "images/MA-0713-002.webp"
+  ]
  },
  {
   "id": "MA-1002",
@@ -3039,13 +3621,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "South End one-bedroom apartment with a kitchen, living room, shared laundry and a dog-friendly option near Copley Square.",
   "photoAlts": {
    "images/MA-1002-cover.webp": "Cozy South End Apartment — M365-2, apartment in Boston, MA",
    "images/MA-1002-000.webp": "Cozy South End Apartment — M365-2, Boston, MA, photo 2 of 4",
    "images/MA-1002-001.webp": "Cozy South End Apartment — M365-2, Boston, MA, photo 3 of 4",
    "images/MA-1002-002.webp": "Cozy South End Apartment — M365-2, Boston, MA, photo 4 of 4",
    "images/MA-1002-card.webp": "Cozy South End Apartment — M365-2, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1002-cover.webp",
+   "images/MA-1002-000.webp",
+   "images/MA-1002-001.webp",
+   "images/MA-1002-002.webp"
+  ]
  },
  {
   "id": "MA-0805",
@@ -3074,13 +3663,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge studio accommodation near MIT and Harvard.",
   "photoAlts": {
    "images/MA-0805-cover.webp": "Cozy Studio Near MIT and Harvard 0249, apartment in Cambridge, MA",
    "images/MA-0805-000.webp": "Cozy Studio Near MIT and Harvard 0249, Cambridge, MA, photo 2 of 4",
    "images/MA-0805-001.webp": "Cozy Studio Near MIT and Harvard 0249, Cambridge, MA, photo 3 of 4",
    "images/MA-0805-002.webp": "Cozy Studio Near MIT and Harvard 0249, Cambridge, MA, photo 4 of 4",
    "images/MA-0805-card.webp": "Cozy Studio Near MIT and Harvard 0249, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0805-cover.webp",
+   "images/MA-0805-000.webp",
+   "images/MA-0805-001.webp",
+   "images/MA-0805-002.webp"
+  ]
  },
  {
   "id": "MA-1103",
@@ -3110,12 +3706,18 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Beacon Street suite with a king bed, queen sofa bed, bay-window views, kitchen and in-suite laundry, one floor above entry.",
   "photoAlts": {
    "images/MA-1103-cover.webp": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5, apartment in Boston, MA",
    "images/MA-1103-000.webp": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5, Boston, MA, photo 2 of 3",
    "images/MA-1103-001.webp": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5, Boston, MA, photo 3 of 3",
    "images/MA-1103-card.webp": "Elegant 1BR Plus: Cityscape Views + King and pull out Queen | Suite 5, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1103-cover.webp",
+   "images/MA-1103-000.webp",
+   "images/MA-1103-001.webp"
+  ]
  },
  {
   "id": "MA-0511",
@@ -3144,13 +3746,20 @@
   "lng": -71.10581,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Stoneham house with a kitchen and a hidden-door room.",
   "photoAlts": {
    "images/MA-0511-cover.webp": "Enchanting Hidden Door Escape, Stoneham, MA",
    "images/MA-0511-000.webp": "Enchanting Hidden Door Escape, Stoneham, MA, photo 2 of 4",
    "images/MA-0511-001.webp": "Enchanting Hidden Door Escape, Stoneham, MA, photo 3 of 4",
    "images/MA-0511-002.webp": "Enchanting Hidden Door Escape, Stoneham, MA, photo 4 of 4",
    "images/MA-0511-card.webp": "Enchanting Hidden Door Escape, Stoneham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0511-cover.webp",
+   "images/MA-0511-000.webp",
+   "images/MA-0511-001.webp",
+   "images/MA-0511-002.webp"
+  ]
  },
  {
   "id": "MA-0709",
@@ -3179,13 +3788,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom Fort Hill Unit B with two bathrooms, a full kitchen and open living and dining space.",
   "photoAlts": {
    "images/MA-0709-cover.webp": "Essential Boston Home, Near South End — Unit B, apartment in Boston, MA",
    "images/MA-0709-000.webp": "Essential Boston Home, Near South End — Unit B, Boston, MA, photo 2 of 4",
    "images/MA-0709-001.webp": "Essential Boston Home, Near South End — Unit B, Boston, MA, photo 3 of 4",
    "images/MA-0709-002.webp": "Essential Boston Home, Near South End — Unit B, Boston, MA, photo 4 of 4",
    "images/MA-0709-card.webp": "Essential Boston Home, Near South End — Unit B, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0709-cover.webp",
+   "images/MA-0709-000.webp",
+   "images/MA-0709-001.webp",
+   "images/MA-0709-002.webp"
+  ]
  },
  {
   "id": "MA-1110",
@@ -3215,13 +3831,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Parlor-level Beacon Street suite with a king bed, convertible sofa, bay-window streetscape views, kitchenette and laundry.",
   "photoAlts": {
    "images/MA-1110-cover.webp": "Front Row City Views: 1BR Suite with King Bed | Suite 3, apartment in Boston, MA",
    "images/MA-1110-000.webp": "Front Row City Views: 1BR Suite with King Bed | Suite 3, Boston, MA, photo 2 of 4",
    "images/MA-1110-001.webp": "Front Row City Views: 1BR Suite with King Bed | Suite 3, Boston, MA, photo 3 of 4",
    "images/MA-1110-002.webp": "Front Row City Views: 1BR Suite with King Bed | Suite 3, Boston, MA, photo 4 of 4",
    "images/MA-1110-card.webp": "Front Row City Views: 1BR Suite with King Bed | Suite 3, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1110-cover.webp",
+   "images/MA-1110-000.webp",
+   "images/MA-1110-001.webp",
+   "images/MA-1110-002.webp"
+  ]
  },
  {
   "id": "MA-0808",
@@ -3250,13 +3873,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge two-bedroom condo between Central and Kendall squares, with a full kitchen, laundry and shared gym.",
   "photoAlts": {
    "images/MA-0808-cover.webp": "Kendall and Central Square Condo near MIT Parking, apartment in Cambridge, MA",
    "images/MA-0808-000.webp": "Kendall and Central Square Condo near MIT Parking, Cambridge, MA, photo 2 of 4",
    "images/MA-0808-001.webp": "Kendall and Central Square Condo near MIT Parking, Cambridge, MA, photo 3 of 4",
    "images/MA-0808-002.webp": "Kendall and Central Square Condo near MIT Parking, Cambridge, MA, photo 4 of 4",
    "images/MA-0808-card.webp": "Kendall and Central Square Condo near MIT Parking, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0808-cover.webp",
+   "images/MA-0808-000.webp",
+   "images/MA-0808-001.webp",
+   "images/MA-0808-002.webp"
+  ]
  },
  {
   "id": "MA-0505",
@@ -3285,13 +3915,20 @@
   "lng": -71.27496,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom house near Nutting Lake with a hot tub and kitchen.",
   "photoAlts": {
    "images/MA-0505-cover.webp": "Lake Access 4 Bed 3 Bath HOT TUB, Billerica, MA",
    "images/MA-0505-000.webp": "Lake Access 4 Bed 3 Bath HOT TUB, Billerica, MA, photo 2 of 4",
    "images/MA-0505-001.webp": "Lake Access 4 Bed 3 Bath HOT TUB, Billerica, MA, photo 3 of 4",
    "images/MA-0505-002.webp": "Lake Access 4 Bed 3 Bath HOT TUB, Billerica, MA, photo 4 of 4",
    "images/MA-0505-card.webp": "Lake Access 4 Bed 3 Bath HOT TUB, Billerica, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0505-cover.webp",
+   "images/MA-0505-000.webp",
+   "images/MA-0505-001.webp",
+   "images/MA-0505-002.webp"
+  ]
  },
  {
   "id": "MA-0514",
@@ -3320,13 +3957,20 @@
   "lng": -71.26921,
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom lakeview retreat in Billerica with a private hot tub.",
   "photoAlts": {
    "images/MA-0514-cover.webp": "Lakeview Getaway with Hot Tub, Billerica, MA",
    "images/MA-0514-000.webp": "Lakeview Getaway with Hot Tub, Billerica, MA, photo 2 of 4",
    "images/MA-0514-001.webp": "Lakeview Getaway with Hot Tub, Billerica, MA, photo 3 of 4",
    "images/MA-0514-002.webp": "Lakeview Getaway with Hot Tub, Billerica, MA, photo 4 of 4",
    "images/MA-0514-card.webp": "Lakeview Getaway with Hot Tub, Billerica, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0514-cover.webp",
+   "images/MA-0514-000.webp",
+   "images/MA-0514-001.webp",
+   "images/MA-0514-002.webp"
+  ]
  },
  {
   "id": "MA-0504",
@@ -3355,13 +3999,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "South Boston condo with two bedrooms, a private backyard and a workspace near Broadway station.",
   "photoAlts": {
    "images/MA-0504-cover.webp": "Lovely Two Bedroom Condo in South Boston, Boston, MA",
    "images/MA-0504-000.webp": "Lovely Two Bedroom Condo in South Boston, Boston, MA, photo 2 of 4",
    "images/MA-0504-001.webp": "Lovely Two Bedroom Condo in South Boston, Boston, MA, photo 3 of 4",
    "images/MA-0504-002.webp": "Lovely Two Bedroom Condo in South Boston, Boston, MA, photo 4 of 4",
    "images/MA-0504-card.webp": "Lovely Two Bedroom Condo in South Boston, Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0504-cover.webp",
+   "images/MA-0504-000.webp",
+   "images/MA-0504-001.webp",
+   "images/MA-0504-002.webp"
+  ]
  },
  {
   "id": "MA-0825",
@@ -3390,12 +4041,18 @@
   "lng": -71.0995,
   "featured": false,
   "demo": false,
+  "description": "Somerville Assembly Square two-bedroom apartment with full kitchen, laundry and access to shared pool and gym.",
   "photoAlts": {
    "images/MA-0825-cover.webp": "Lux 2BR w Gym Pool sleep 6 in Assembly Square, apartment in Somerville, MA",
    "images/MA-0825-000.webp": "Lux 2BR w Gym Pool sleep 6 in Assembly Square, Somerville, MA, photo 2 of 3",
    "images/MA-0825-001.webp": "Lux 2BR w Gym Pool sleep 6 in Assembly Square, Somerville, MA, photo 3 of 3",
    "images/MA-0825-card.webp": "Lux 2BR w Gym Pool sleep 6 in Assembly Square, apartment in Somerville, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0825-cover.webp",
+   "images/MA-0825-000.webp",
+   "images/MA-0825-001.webp"
+  ]
  },
  {
   "id": "MA-0852",
@@ -3424,13 +4081,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge Central Square studio with two queen beds and access to shared fitness facilities near MIT and Harvard.",
   "photoAlts": {
    "images/MA-0852-cover.webp": "Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square, apartment in Cambridge, MA",
    "images/MA-0852-000.webp": "Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square, Cambridge, MA, photo 2 of 4",
    "images/MA-0852-001.webp": "Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square, Cambridge, MA, photo 3 of 4",
    "images/MA-0852-002.webp": "Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square, Cambridge, MA, photo 4 of 4",
    "images/MA-0852-card.webp": "Lux Studio 2x Queen beds Gym near MIT Harvard in Central Square, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0852-cover.webp",
+   "images/MA-0852-000.webp",
+   "images/MA-0852-001.webp",
+   "images/MA-0852-002.webp"
+  ]
  },
  {
   "id": "MA-1108",
@@ -3460,13 +4124,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Beacon Street one-bedroom suite with a king bed, convertible sofa, kitchenette and laundry, one flight below the main lobby.",
   "photoAlts": {
    "images/MA-1108-cover.webp": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2, apartment in Boston, MA",
    "images/MA-1108-000.webp": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2, Boston, MA, photo 2 of 4",
    "images/MA-1108-001.webp": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2, Boston, MA, photo 3 of 4",
    "images/MA-1108-002.webp": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2, Boston, MA, photo 4 of 4",
    "images/MA-1108-card.webp": "Luxury 1BR: Sleek Kitchen + City Charm | Suite 2, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1108-cover.webp",
+   "images/MA-1108-000.webp",
+   "images/MA-1108-001.webp",
+   "images/MA-1108-002.webp"
+  ]
  },
  {
   "id": "MA-0837",
@@ -3495,13 +4166,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge two-bedroom apartment with a full kitchen, balcony, laundry and access to a shared pool, rooftop and gym.",
   "photoAlts": {
    "images/MA-0837-cover.webp": "Luxury Apartment w King Bed, Shared Pool & Rooftop, apartment in Cambridge, MA",
    "images/MA-0837-000.webp": "Luxury Apartment w King Bed, Shared Pool & Rooftop, Cambridge, MA, photo 2 of 4",
    "images/MA-0837-001.webp": "Luxury Apartment w King Bed, Shared Pool & Rooftop, Cambridge, MA, photo 3 of 4",
    "images/MA-0837-002.webp": "Luxury Apartment w King Bed, Shared Pool & Rooftop, Cambridge, MA, photo 4 of 4",
    "images/MA-0837-card.webp": "Luxury Apartment w King Bed, Shared Pool & Rooftop, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0837-cover.webp",
+   "images/MA-0837-000.webp",
+   "images/MA-0837-001.webp",
+   "images/MA-0837-002.webp"
+  ]
  },
  {
   "id": "MA-0853",
@@ -3530,12 +4208,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge Central Square studio with a king bed and shared gym access near MIT and Harvard.",
   "photoAlts": {
    "images/MA-0853-cover.webp": "Luxury Studio with King bed Gym near MIT Harvard in Central Square!, apartment in Cambridge, MA",
    "images/MA-0853-000.webp": "Luxury Studio with King bed Gym near MIT Harvard in Central Square!, Cambridge, MA, photo 2 of 3",
    "images/MA-0853-001.webp": "Luxury Studio with King bed Gym near MIT Harvard in Central Square!, Cambridge, MA, photo 3 of 3",
    "images/MA-0853-card.webp": "Luxury Studio with King bed Gym near MIT Harvard in Central Square!, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0853-cover.webp",
+   "images/MA-0853-000.webp",
+   "images/MA-0853-001.webp"
+  ]
  },
  {
   "id": "MA-0503",
@@ -3564,13 +4248,20 @@
   "lng": -71.10096,
   "featured": false,
   "demo": false,
+  "description": "Second-floor Stoneham condo with a kitchen, three bedrooms and in-unit laundry.",
   "photoAlts": {
    "images/MA-0503-cover.webp": "Modern Three Bedroom Condo - Near Boston, Stoneham, MA",
    "images/MA-0503-000.webp": "Modern Three Bedroom Condo - Near Boston, Stoneham, MA, photo 2 of 4",
    "images/MA-0503-001.webp": "Modern Three Bedroom Condo - Near Boston, Stoneham, MA, photo 3 of 4",
    "images/MA-0503-002.webp": "Modern Three Bedroom Condo - Near Boston, Stoneham, MA, photo 4 of 4",
    "images/MA-0503-card.webp": "Modern Three Bedroom Condo - Near Boston, Stoneham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0503-cover.webp",
+   "images/MA-0503-000.webp",
+   "images/MA-0503-001.webp",
+   "images/MA-0503-002.webp"
+  ]
  },
  {
   "id": "MA-0502",
@@ -3599,13 +4290,20 @@
   "lng": -71.1012,
   "featured": false,
   "demo": false,
+  "description": "First-floor Stoneham condo with a kitchen, living room and in-unit laundry.",
   "photoAlts": {
    "images/MA-0502-cover.webp": "Modern Two Bedroom Condo - Near Boston, Stoneham, MA",
    "images/MA-0502-000.webp": "Modern Two Bedroom Condo - Near Boston, Stoneham, MA, photo 2 of 4",
    "images/MA-0502-001.webp": "Modern Two Bedroom Condo - Near Boston, Stoneham, MA, photo 3 of 4",
    "images/MA-0502-002.webp": "Modern Two Bedroom Condo - Near Boston, Stoneham, MA, photo 4 of 4",
    "images/MA-0502-card.webp": "Modern Two Bedroom Condo - Near Boston, Stoneham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0502-cover.webp",
+   "images/MA-0502-000.webp",
+   "images/MA-0502-001.webp",
+   "images/MA-0502-002.webp"
+  ]
  },
  {
   "id": "MA-0704",
@@ -3634,13 +4332,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Five-bedroom Jamaica Plain condo with two full baths, a half bath and an open kitchen and living area.",
   "photoAlts": {
    "images/MA-0704-cover.webp": "Open-Concept 5BR Condo | Jamaica Plain & T Walk, apartment in Boston, MA",
    "images/MA-0704-000.webp": "Open-Concept 5BR Condo | Jamaica Plain & T Walk, Boston, MA, photo 2 of 4",
    "images/MA-0704-001.webp": "Open-Concept 5BR Condo | Jamaica Plain & T Walk, Boston, MA, photo 3 of 4",
    "images/MA-0704-002.webp": "Open-Concept 5BR Condo | Jamaica Plain & T Walk, Boston, MA, photo 4 of 4",
    "images/MA-0704-card.webp": "Open-Concept 5BR Condo | Jamaica Plain & T Walk, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0704-cover.webp",
+   "images/MA-0704-000.webp",
+   "images/MA-0704-001.webp",
+   "images/MA-0704-002.webp"
+  ]
  },
  {
   "id": "MA-0824",
@@ -3669,12 +4374,18 @@
   "lng": -71.0995,
   "featured": false,
   "demo": false,
+  "description": "Somerville Assembly Row one-bedroom condo with full kitchen, laundry and access to shared pool and gym.",
   "photoAlts": {
    "images/MA-0824-cover.webp": "Pool View Central Condo Assembly Row W/D Gym & Pool Sleep 5, apartment in Somerville, MA",
    "images/MA-0824-000.webp": "Pool View Central Condo Assembly Row W/D Gym & Pool Sleep 5, Somerville, MA, photo 2 of 3",
    "images/MA-0824-001.webp": "Pool View Central Condo Assembly Row W/D Gym & Pool Sleep 5, Somerville, MA, photo 3 of 3",
    "images/MA-0824-card.webp": "Pool View Central Condo Assembly Row W/D Gym & Pool Sleep 5, apartment in Somerville, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0824-cover.webp",
+   "images/MA-0824-000.webp",
+   "images/MA-0824-001.webp"
+  ]
  },
  {
   "id": "MA-0507",
@@ -3703,13 +4414,20 @@
   "lng": -71.10203,
   "featured": false,
   "demo": false,
+  "description": "Private queen bedroom in a Stoneham home with shared kitchen and living areas.",
   "photoAlts": {
    "images/MA-0507-cover.webp": "Queen Bed |Boston|RM 2, Stoneham, MA",
    "images/MA-0507-000.webp": "Queen Bed |Boston|RM 2, Stoneham, MA, photo 2 of 4",
    "images/MA-0507-001.webp": "Queen Bed |Boston|RM 2, Stoneham, MA, photo 3 of 4",
    "images/MA-0507-002.webp": "Queen Bed |Boston|RM 2, Stoneham, MA, photo 4 of 4",
    "images/MA-0507-card.webp": "Queen Bed |Boston|RM 2, Stoneham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0507-cover.webp",
+   "images/MA-0507-000.webp",
+   "images/MA-0507-001.webp",
+   "images/MA-0507-002.webp"
+  ]
  },
  {
   "id": "MA-0501",
@@ -3738,13 +4456,20 @@
   "lng": -71.10207,
   "featured": false,
   "demo": false,
+  "description": "Private room with a queen bed and access to shared living areas in Stoneham.",
   "photoAlts": {
    "images/MA-0501-cover.webp": "Queen Bed |Boston|RM 3, Stoneham, MA",
    "images/MA-0501-000.webp": "Queen Bed |Boston|RM 3, Stoneham, MA, photo 2 of 4",
    "images/MA-0501-001.webp": "Queen Bed |Boston|RM 3, Stoneham, MA, photo 3 of 4",
    "images/MA-0501-002.webp": "Queen Bed |Boston|RM 3, Stoneham, MA, photo 4 of 4",
    "images/MA-0501-card.webp": "Queen Bed |Boston|RM 3, Stoneham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0501-cover.webp",
+   "images/MA-0501-000.webp",
+   "images/MA-0501-001.webp",
+   "images/MA-0501-002.webp"
+  ]
  },
  {
   "id": "MA-0932",
@@ -3773,13 +4498,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0932-cover.webp": "Radian — Apartment ID 2947, apartment in Boston, MA",
    "images/MA-0932-000.webp": "Radian — Apartment ID 2947, Boston, MA, photo 2 of 4",
    "images/MA-0932-001.webp": "Radian — Apartment ID 2947, Boston, MA, photo 3 of 4",
    "images/MA-0932-002.webp": "Radian — Apartment ID 2947, Boston, MA, photo 4 of 4",
    "images/MA-0932-card.webp": "Radian — Apartment ID 2947, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0932-cover.webp",
+   "images/MA-0932-000.webp",
+   "images/MA-0932-001.webp",
+   "images/MA-0932-002.webp"
+  ]
  },
  {
   "id": "MA-0921",
@@ -3808,13 +4540,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0921-cover.webp": "Radian — Apartment ID 5934, apartment in Boston, MA",
    "images/MA-0921-000.webp": "Radian — Apartment ID 5934, Boston, MA, photo 2 of 4",
    "images/MA-0921-001.webp": "Radian — Apartment ID 5934, Boston, MA, photo 3 of 4",
    "images/MA-0921-002.webp": "Radian — Apartment ID 5934, Boston, MA, photo 4 of 4",
    "images/MA-0921-card.webp": "Radian — Apartment ID 5934, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0921-cover.webp",
+   "images/MA-0921-000.webp",
+   "images/MA-0921-001.webp",
+   "images/MA-0921-002.webp"
+  ]
  },
  {
   "id": "MA-0920",
@@ -3843,13 +4582,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0920-cover.webp": "Radian — Apartment ID 7126, apartment in Boston, MA",
    "images/MA-0920-000.webp": "Radian — Apartment ID 7126, Boston, MA, photo 2 of 4",
    "images/MA-0920-001.webp": "Radian — Apartment ID 7126, Boston, MA, photo 3 of 4",
    "images/MA-0920-002.webp": "Radian — Apartment ID 7126, Boston, MA, photo 4 of 4",
    "images/MA-0920-card.webp": "Radian — Apartment ID 7126, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0920-cover.webp",
+   "images/MA-0920-000.webp",
+   "images/MA-0920-001.webp",
+   "images/MA-0920-002.webp"
+  ]
  },
  {
   "id": "MA-0408",
@@ -3878,13 +4624,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston studio on Tremont Street with a kitchen, internet and air conditioning, close to the Theater District and downtown hospitals.",
   "photoAlts": {
    "images/MA-0408-cover.webp": "Safe Studio near Hospitals in Boston, apartment in Boston, MA",
    "images/MA-0408-000.webp": "Safe Studio near Hospitals in Boston, Boston, MA, photo 2 of 4",
    "images/MA-0408-001.webp": "Safe Studio near Hospitals in Boston, Boston, MA, photo 3 of 4",
    "images/MA-0408-002.webp": "Safe Studio near Hospitals in Boston, Boston, MA, photo 4 of 4",
    "images/MA-0408-card.webp": "Safe Studio near Hospitals in Boston, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0408-cover.webp",
+   "images/MA-0408-000.webp",
+   "images/MA-0408-001.webp",
+   "images/MA-0408-002.webp"
+  ]
  },
  {
   "id": "MA-1202",
@@ -3913,13 +4666,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Beacon Hill 2-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
   "photoAlts": {
    "images/MA-1202-cover.webp": "Serenity Suite Homes — Beacon Hill Suite #1, apartment in Boston, MA",
    "images/MA-1202-000.webp": "Serenity Suite Homes — Beacon Hill Suite #1, Boston, MA, photo 2 of 4",
    "images/MA-1202-001.webp": "Serenity Suite Homes — Beacon Hill Suite #1, Boston, MA, photo 3 of 4",
    "images/MA-1202-002.webp": "Serenity Suite Homes — Beacon Hill Suite #1, Boston, MA, photo 4 of 4",
    "images/MA-1202-card.webp": "Serenity Suite Homes — Beacon Hill Suite #1, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1202-cover.webp",
+   "images/MA-1202-000.webp",
+   "images/MA-1202-001.webp",
+   "images/MA-1202-002.webp"
+  ]
  },
  {
   "id": "MA-1203",
@@ -3948,13 +4708,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
   "photoAlts": {
    "images/MA-1203-cover.webp": "Serenity Suite Homes — Beacon Hill Suite #2, apartment in Boston, MA",
    "images/MA-1203-000.webp": "Serenity Suite Homes — Beacon Hill Suite #2, Boston, MA, photo 2 of 4",
    "images/MA-1203-001.webp": "Serenity Suite Homes — Beacon Hill Suite #2, Boston, MA, photo 3 of 4",
    "images/MA-1203-002.webp": "Serenity Suite Homes — Beacon Hill Suite #2, Boston, MA, photo 4 of 4",
    "images/MA-1203-card.webp": "Serenity Suite Homes — Beacon Hill Suite #2, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1203-cover.webp",
+   "images/MA-1203-000.webp",
+   "images/MA-1203-001.webp",
+   "images/MA-1203-002.webp"
+  ]
  },
  {
   "id": "MA-1204",
@@ -3983,13 +4750,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
   "photoAlts": {
    "images/MA-1204-cover.webp": "Serenity Suite Homes — Beacon Hill Suite #3, apartment in Boston, MA",
    "images/MA-1204-000.webp": "Serenity Suite Homes — Beacon Hill Suite #3, Boston, MA, photo 2 of 4",
    "images/MA-1204-001.webp": "Serenity Suite Homes — Beacon Hill Suite #3, Boston, MA, photo 3 of 4",
    "images/MA-1204-002.webp": "Serenity Suite Homes — Beacon Hill Suite #3, Boston, MA, photo 4 of 4",
    "images/MA-1204-card.webp": "Serenity Suite Homes — Beacon Hill Suite #3, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1204-cover.webp",
+   "images/MA-1204-000.webp",
+   "images/MA-1204-001.webp",
+   "images/MA-1204-002.webp"
+  ]
  },
  {
   "id": "MA-1205",
@@ -4018,13 +4792,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Beacon Hill 1-bedroom apartment with a kitchen and washer/dryer; furnished monthly stays require at least 30 nights.",
   "photoAlts": {
    "images/MA-1205-cover.webp": "Serenity Suite Homes — Beacon Hill Suite #4, apartment in Boston, MA",
    "images/MA-1205-000.webp": "Serenity Suite Homes — Beacon Hill Suite #4, Boston, MA, photo 2 of 4",
    "images/MA-1205-001.webp": "Serenity Suite Homes — Beacon Hill Suite #4, Boston, MA, photo 3 of 4",
    "images/MA-1205-002.webp": "Serenity Suite Homes — Beacon Hill Suite #4, Boston, MA, photo 4 of 4",
    "images/MA-1205-card.webp": "Serenity Suite Homes — Beacon Hill Suite #4, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1205-cover.webp",
+   "images/MA-1205-000.webp",
+   "images/MA-1205-001.webp",
+   "images/MA-1205-002.webp"
+  ]
  },
  {
   "id": "MA-1201",
@@ -4053,13 +4834,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "East Boston two-bedroom apartment with full kitchen, media room, workspace and self check-in.",
   "photoAlts": {
    "images/MA-1201-cover.webp": "Serenity Suite Homes — East Boston Suite #1, apartment in Boston, MA",
    "images/MA-1201-000.webp": "Serenity Suite Homes — East Boston Suite #1, Boston, MA, photo 2 of 4",
    "images/MA-1201-001.webp": "Serenity Suite Homes — East Boston Suite #1, Boston, MA, photo 3 of 4",
    "images/MA-1201-002.webp": "Serenity Suite Homes — East Boston Suite #1, Boston, MA, photo 4 of 4",
    "images/MA-1201-card.webp": "Serenity Suite Homes — East Boston Suite #1, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1201-cover.webp",
+   "images/MA-1201-000.webp",
+   "images/MA-1201-001.webp",
+   "images/MA-1201-002.webp"
+  ]
  },
  {
   "id": "MA-0708",
@@ -4088,13 +4876,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "One-bedroom Fort Hill condo with a full kitchen and open living area, a short walk from the T.",
   "photoAlts": {
    "images/MA-0708-cover.webp": "Sleek Boston Condo, near South End, apartment in Boston, MA",
    "images/MA-0708-000.webp": "Sleek Boston Condo, near South End, Boston, MA, photo 2 of 4",
    "images/MA-0708-001.webp": "Sleek Boston Condo, near South End, Boston, MA, photo 3 of 4",
    "images/MA-0708-002.webp": "Sleek Boston Condo, near South End, Boston, MA, photo 4 of 4",
    "images/MA-0708-card.webp": "Sleek Boston Condo, near South End, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0708-cover.webp",
+   "images/MA-0708-000.webp",
+   "images/MA-0708-001.webp",
+   "images/MA-0708-002.webp"
+  ]
  },
  {
   "id": "MA-0723",
@@ -4123,13 +4918,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Six-bedroom Dorchester apartment across two levels with four full baths, a half bath, private deck and parking.",
   "photoAlts": {
    "images/MA-0723-cover.webp": "Spacious & Renovated 6BR | Near T + Parking, apartment in Boston, MA",
    "images/MA-0723-000.webp": "Spacious & Renovated 6BR | Near T + Parking, Boston, MA, photo 2 of 4",
    "images/MA-0723-001.webp": "Spacious & Renovated 6BR | Near T + Parking, Boston, MA, photo 3 of 4",
    "images/MA-0723-002.webp": "Spacious & Renovated 6BR | Near T + Parking, Boston, MA, photo 4 of 4",
    "images/MA-0723-card.webp": "Spacious & Renovated 6BR | Near T + Parking, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0723-cover.webp",
+   "images/MA-0723-000.webp",
+   "images/MA-0723-001.webp",
+   "images/MA-0723-002.webp"
+  ]
  },
  {
   "id": "MA-0710",
@@ -4158,13 +4960,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Three-bedroom Fort Hill apartment with one-and-a-half baths, a full kitchen and open living and dining space.",
   "photoAlts": {
    "images/MA-0710-cover.webp": "Stylish, Comfortable Luxury | Near T, apartment in Boston, MA",
    "images/MA-0710-000.webp": "Stylish, Comfortable Luxury | Near T, Boston, MA, photo 2 of 4",
    "images/MA-0710-001.webp": "Stylish, Comfortable Luxury | Near T, Boston, MA, photo 3 of 4",
    "images/MA-0710-002.webp": "Stylish, Comfortable Luxury | Near T, Boston, MA, photo 4 of 4",
    "images/MA-0710-card.webp": "Stylish, Comfortable Luxury | Near T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0710-cover.webp",
+   "images/MA-0710-000.webp",
+   "images/MA-0710-001.webp",
+   "images/MA-0710-002.webp"
+  ]
  },
  {
   "id": "MA-0711",
@@ -4193,13 +5002,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Renovated four-bedroom Boston duplex with a chef’s kitchen, washer and dryer, and furnished outdoor patio.",
   "photoAlts": {
    "images/MA-0711-cover.webp": "Tasteful & Luminous Refuge | Near T, apartment in Boston, MA",
    "images/MA-0711-000.webp": "Tasteful & Luminous Refuge | Near T, Boston, MA, photo 2 of 4",
    "images/MA-0711-001.webp": "Tasteful & Luminous Refuge | Near T, Boston, MA, photo 3 of 4",
    "images/MA-0711-002.webp": "Tasteful & Luminous Refuge | Near T, Boston, MA, photo 4 of 4",
    "images/MA-0711-card.webp": "Tasteful & Luminous Refuge | Near T, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0711-cover.webp",
+   "images/MA-0711-000.webp",
+   "images/MA-0711-001.webp",
+   "images/MA-0711-002.webp"
+  ]
  },
  {
   "id": "MA-0907",
@@ -4228,13 +5044,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0907-cover.webp": "The Benjamin — Apartment ID 6350, apartment in Boston, MA",
    "images/MA-0907-000.webp": "The Benjamin — Apartment ID 6350, Boston, MA, photo 2 of 4",
    "images/MA-0907-001.webp": "The Benjamin — Apartment ID 6350, Boston, MA, photo 3 of 4",
    "images/MA-0907-002.webp": "The Benjamin — Apartment ID 6350, Boston, MA, photo 4 of 4",
    "images/MA-0907-card.webp": "The Benjamin — Apartment ID 6350, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0907-cover.webp",
+   "images/MA-0907-000.webp",
+   "images/MA-0907-001.webp",
+   "images/MA-0907-002.webp"
+  ]
  },
  {
   "id": "MA-0901",
@@ -4263,13 +5086,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0901-cover.webp": "The Benjamin — Apartment ID 6597, apartment in Boston, MA",
    "images/MA-0901-000.webp": "The Benjamin — Apartment ID 6597, Boston, MA, photo 2 of 4",
    "images/MA-0901-001.webp": "The Benjamin — Apartment ID 6597, Boston, MA, photo 3 of 4",
    "images/MA-0901-002.webp": "The Benjamin — Apartment ID 6597, Boston, MA, photo 4 of 4",
    "images/MA-0901-card.webp": "The Benjamin — Apartment ID 6597, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0901-cover.webp",
+   "images/MA-0901-000.webp",
+   "images/MA-0901-001.webp",
+   "images/MA-0901-002.webp"
+  ]
  },
  {
   "id": "MA-0919",
@@ -4298,13 +5128,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0919-cover.webp": "The Devonshire — Apartment ID 5854, apartment in Boston, MA",
    "images/MA-0919-000.webp": "The Devonshire — Apartment ID 5854, Boston, MA, photo 2 of 4",
    "images/MA-0919-001.webp": "The Devonshire — Apartment ID 5854, Boston, MA, photo 3 of 4",
    "images/MA-0919-002.webp": "The Devonshire — Apartment ID 5854, Boston, MA, photo 4 of 4",
    "images/MA-0919-card.webp": "The Devonshire — Apartment ID 5854, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0919-cover.webp",
+   "images/MA-0919-000.webp",
+   "images/MA-0919-001.webp",
+   "images/MA-0919-002.webp"
+  ]
  },
  {
   "id": "MA-0918",
@@ -4333,13 +5170,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0918-cover.webp": "The Towers at Longfellow 1 — Apartment ID 2515, apartment in Boston, MA",
    "images/MA-0918-000.webp": "The Towers at Longfellow 1 — Apartment ID 2515, Boston, MA, photo 2 of 4",
    "images/MA-0918-001.webp": "The Towers at Longfellow 1 — Apartment ID 2515, Boston, MA, photo 3 of 4",
    "images/MA-0918-002.webp": "The Towers at Longfellow 1 — Apartment ID 2515, Boston, MA, photo 4 of 4",
    "images/MA-0918-card.webp": "The Towers at Longfellow 1 — Apartment ID 2515, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0918-cover.webp",
+   "images/MA-0918-000.webp",
+   "images/MA-0918-001.webp",
+   "images/MA-0918-002.webp"
+  ]
  },
  {
   "id": "MA-0912",
@@ -4368,13 +5212,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0912-cover.webp": "The Towers at Longfellow 1 — Apartment ID 5005, apartment in Boston, MA",
    "images/MA-0912-000.webp": "The Towers at Longfellow 1 — Apartment ID 5005, Boston, MA, photo 2 of 4",
    "images/MA-0912-001.webp": "The Towers at Longfellow 1 — Apartment ID 5005, Boston, MA, photo 3 of 4",
    "images/MA-0912-002.webp": "The Towers at Longfellow 1 — Apartment ID 5005, Boston, MA, photo 4 of 4",
    "images/MA-0912-card.webp": "The Towers at Longfellow 1 — Apartment ID 5005, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0912-cover.webp",
+   "images/MA-0912-000.webp",
+   "images/MA-0912-001.webp",
+   "images/MA-0912-002.webp"
+  ]
  },
  {
   "id": "MA-0940",
@@ -4403,13 +5254,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0940-cover.webp": "The Towers at Longfellow 4 — Apartment ID 5531, apartment in Boston, MA",
    "images/MA-0940-000.webp": "The Towers at Longfellow 4 — Apartment ID 5531, Boston, MA, photo 2 of 4",
    "images/MA-0940-001.webp": "The Towers at Longfellow 4 — Apartment ID 5531, Boston, MA, photo 3 of 4",
    "images/MA-0940-002.webp": "The Towers at Longfellow 4 — Apartment ID 5531, Boston, MA, photo 4 of 4",
    "images/MA-0940-card.webp": "The Towers at Longfellow 4 — Apartment ID 5531, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0940-cover.webp",
+   "images/MA-0940-000.webp",
+   "images/MA-0940-001.webp",
+   "images/MA-0940-002.webp"
+  ]
  },
  {
   "id": "MA-1101",
@@ -4439,13 +5297,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Garden-level Beacon Street loft with a private entrance, king bed, queen sofa bed, kitchenette and in-suite laundry.",
   "photoAlts": {
    "images/MA-1101-cover.webp": "The Urban Hideout Loft: Sleeps 4 | Private Entrance, apartment in Boston, MA",
    "images/MA-1101-000.webp": "The Urban Hideout Loft: Sleeps 4 | Private Entrance, Boston, MA, photo 2 of 4",
    "images/MA-1101-001.webp": "The Urban Hideout Loft: Sleeps 4 | Private Entrance, Boston, MA, photo 3 of 4",
    "images/MA-1101-002.webp": "The Urban Hideout Loft: Sleeps 4 | Private Entrance, Boston, MA, photo 4 of 4",
    "images/MA-1101-card.webp": "The Urban Hideout Loft: Sleeps 4 | Private Entrance, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1101-cover.webp",
+   "images/MA-1101-000.webp",
+   "images/MA-1101-001.webp",
+   "images/MA-1101-002.webp"
+  ]
  },
  {
   "id": "MA-0937",
@@ -4474,13 +5339,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0937-cover.webp": "The Viridian — Apartment ID 1721, apartment in Boston, MA",
    "images/MA-0937-000.webp": "The Viridian — Apartment ID 1721, Boston, MA, photo 2 of 4",
    "images/MA-0937-001.webp": "The Viridian — Apartment ID 1721, Boston, MA, photo 3 of 4",
    "images/MA-0937-002.webp": "The Viridian — Apartment ID 1721, Boston, MA, photo 4 of 4",
    "images/MA-0937-card.webp": "The Viridian — Apartment ID 1721, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0937-cover.webp",
+   "images/MA-0937-000.webp",
+   "images/MA-0937-001.webp",
+   "images/MA-0937-002.webp"
+  ]
  },
  {
   "id": "MA-0923",
@@ -4509,13 +5381,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0923-cover.webp": "The Viridian — Apartment ID 2771, apartment in Boston, MA",
    "images/MA-0923-000.webp": "The Viridian — Apartment ID 2771, Boston, MA, photo 2 of 4",
    "images/MA-0923-001.webp": "The Viridian — Apartment ID 2771, Boston, MA, photo 3 of 4",
    "images/MA-0923-002.webp": "The Viridian — Apartment ID 2771, Boston, MA, photo 4 of 4",
    "images/MA-0923-card.webp": "The Viridian — Apartment ID 2771, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0923-cover.webp",
+   "images/MA-0923-000.webp",
+   "images/MA-0923-001.webp",
+   "images/MA-0923-002.webp"
+  ]
  },
  {
   "id": "MA-0926",
@@ -4544,13 +5423,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0926-cover.webp": "The Viridian — Apartment ID 4713, apartment in Boston, MA",
    "images/MA-0926-000.webp": "The Viridian — Apartment ID 4713, Boston, MA, photo 2 of 4",
    "images/MA-0926-001.webp": "The Viridian — Apartment ID 4713, Boston, MA, photo 3 of 4",
    "images/MA-0926-002.webp": "The Viridian — Apartment ID 4713, Boston, MA, photo 4 of 4",
    "images/MA-0926-card.webp": "The Viridian — Apartment ID 4713, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0926-cover.webp",
+   "images/MA-0926-000.webp",
+   "images/MA-0926-001.webp",
+   "images/MA-0926-002.webp"
+  ]
  },
  {
   "id": "MA-0949",
@@ -4579,13 +5465,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0949-cover.webp": "The Viridian — Apartment ID 4938, apartment in Boston, MA",
    "images/MA-0949-000.webp": "The Viridian — Apartment ID 4938, Boston, MA, photo 2 of 4",
    "images/MA-0949-001.webp": "The Viridian — Apartment ID 4938, Boston, MA, photo 3 of 4",
    "images/MA-0949-002.webp": "The Viridian — Apartment ID 4938, Boston, MA, photo 4 of 4",
    "images/MA-0949-card.webp": "The Viridian — Apartment ID 4938, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0949-cover.webp",
+   "images/MA-0949-000.webp",
+   "images/MA-0949-001.webp",
+   "images/MA-0949-002.webp"
+  ]
  },
  {
   "id": "MA-0947",
@@ -4614,13 +5507,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0947-cover.webp": "The Viridian — Apartment ID 6657, apartment in Boston, MA",
    "images/MA-0947-000.webp": "The Viridian — Apartment ID 6657, Boston, MA, photo 2 of 4",
    "images/MA-0947-001.webp": "The Viridian — Apartment ID 6657, Boston, MA, photo 3 of 4",
    "images/MA-0947-002.webp": "The Viridian — Apartment ID 6657, Boston, MA, photo 4 of 4",
    "images/MA-0947-card.webp": "The Viridian — Apartment ID 6657, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0947-cover.webp",
+   "images/MA-0947-000.webp",
+   "images/MA-0947-001.webp",
+   "images/MA-0947-002.webp"
+  ]
  },
  {
   "id": "MA-0942",
@@ -4649,13 +5549,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0942-cover.webp": "The Viridian — Apartment ID 7797, apartment in Boston, MA",
    "images/MA-0942-000.webp": "The Viridian — Apartment ID 7797, Boston, MA, photo 2 of 4",
    "images/MA-0942-001.webp": "The Viridian — Apartment ID 7797, Boston, MA, photo 3 of 4",
    "images/MA-0942-002.webp": "The Viridian — Apartment ID 7797, Boston, MA, photo 4 of 4",
    "images/MA-0942-card.webp": "The Viridian — Apartment ID 7797, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0942-cover.webp",
+   "images/MA-0942-000.webp",
+   "images/MA-0942-001.webp",
+   "images/MA-0942-002.webp"
+  ]
  },
  {
   "id": "MA-0910",
@@ -4684,13 +5591,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0910-cover.webp": "The Viridian — Apartment ID 7854, apartment in Boston, MA",
    "images/MA-0910-000.webp": "The Viridian — Apartment ID 7854, Boston, MA, photo 2 of 4",
    "images/MA-0910-001.webp": "The Viridian — Apartment ID 7854, Boston, MA, photo 3 of 4",
    "images/MA-0910-002.webp": "The Viridian — Apartment ID 7854, Boston, MA, photo 4 of 4",
    "images/MA-0910-card.webp": "The Viridian — Apartment ID 7854, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0910-cover.webp",
+   "images/MA-0910-000.webp",
+   "images/MA-0910-001.webp",
+   "images/MA-0910-002.webp"
+  ]
  },
  {
   "id": "MA-0917",
@@ -4719,13 +5633,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0917-cover.webp": "The Viridian — Apartment ID 9420, apartment in Boston, MA",
    "images/MA-0917-000.webp": "The Viridian — Apartment ID 9420, Boston, MA, photo 2 of 4",
    "images/MA-0917-001.webp": "The Viridian — Apartment ID 9420, Boston, MA, photo 3 of 4",
    "images/MA-0917-002.webp": "The Viridian — Apartment ID 9420, Boston, MA, photo 4 of 4",
    "images/MA-0917-card.webp": "The Viridian — Apartment ID 9420, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0917-cover.webp",
+   "images/MA-0917-000.webp",
+   "images/MA-0917-001.webp",
+   "images/MA-0917-002.webp"
+  ]
  },
  {
   "id": "MA-0914",
@@ -4754,13 +5675,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0914-cover.webp": "Third Square Apartments 285 — Apartment ID 2063, apartment in Cambridge, MA",
    "images/MA-0914-000.webp": "Third Square Apartments 285 — Apartment ID 2063, Cambridge, MA, photo 2 of 4",
    "images/MA-0914-001.webp": "Third Square Apartments 285 — Apartment ID 2063, Cambridge, MA, photo 3 of 4",
    "images/MA-0914-002.webp": "Third Square Apartments 285 — Apartment ID 2063, Cambridge, MA, photo 4 of 4",
    "images/MA-0914-card.webp": "Third Square Apartments 285 — Apartment ID 2063, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0914-cover.webp",
+   "images/MA-0914-000.webp",
+   "images/MA-0914-001.webp",
+   "images/MA-0914-002.webp"
+  ]
  },
  {
   "id": "MA-0929",
@@ -4789,13 +5717,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0929-cover.webp": "Third Square Apartments 285 — Apartment ID 2272, apartment in Cambridge, MA",
    "images/MA-0929-000.webp": "Third Square Apartments 285 — Apartment ID 2272, Cambridge, MA, photo 2 of 4",
    "images/MA-0929-001.webp": "Third Square Apartments 285 — Apartment ID 2272, Cambridge, MA, photo 3 of 4",
    "images/MA-0929-002.webp": "Third Square Apartments 285 — Apartment ID 2272, Cambridge, MA, photo 4 of 4",
    "images/MA-0929-card.webp": "Third Square Apartments 285 — Apartment ID 2272, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0929-cover.webp",
+   "images/MA-0929-000.webp",
+   "images/MA-0929-001.webp",
+   "images/MA-0929-002.webp"
+  ]
  },
  {
   "id": "MA-0904",
@@ -4824,13 +5759,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0904-cover.webp": "Third Square Apartments 285 — Apartment ID 3006, apartment in Cambridge, MA",
    "images/MA-0904-000.webp": "Third Square Apartments 285 — Apartment ID 3006, Cambridge, MA, photo 2 of 4",
    "images/MA-0904-001.webp": "Third Square Apartments 285 — Apartment ID 3006, Cambridge, MA, photo 3 of 4",
    "images/MA-0904-002.webp": "Third Square Apartments 285 — Apartment ID 3006, Cambridge, MA, photo 4 of 4",
    "images/MA-0904-card.webp": "Third Square Apartments 285 — Apartment ID 3006, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0904-cover.webp",
+   "images/MA-0904-000.webp",
+   "images/MA-0904-001.webp",
+   "images/MA-0904-002.webp"
+  ]
  },
  {
   "id": "MA-1107",
@@ -4860,13 +5802,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Parlor-level Beacon Street suite with king and queen bedrooms, a sofa bed, kitchenette and in-suite laundry.",
   "photoAlts": {
    "images/MA-1107-cover.webp": "Trendy 2BR Plus Family Getaway | Suite 4, apartment in Boston, MA",
    "images/MA-1107-000.webp": "Trendy 2BR Plus Family Getaway | Suite 4, Boston, MA, photo 2 of 4",
    "images/MA-1107-001.webp": "Trendy 2BR Plus Family Getaway | Suite 4, Boston, MA, photo 3 of 4",
    "images/MA-1107-002.webp": "Trendy 2BR Plus Family Getaway | Suite 4, Boston, MA, photo 4 of 4",
    "images/MA-1107-card.webp": "Trendy 2BR Plus Family Getaway | Suite 4, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-1107-cover.webp",
+   "images/MA-1107-000.webp",
+   "images/MA-1107-001.webp",
+   "images/MA-1107-002.webp"
+  ]
  },
  {
   "id": "MA-0510",
@@ -4895,13 +5844,20 @@
   "lng": -71.10203,
   "featured": false,
   "demo": false,
+  "description": "Private first-floor room with a Twin XL bed in a Stoneham home with shared living areas.",
   "photoAlts": {
    "images/MA-0510-cover.webp": "Twin XL Bed|Boston|RM 1, Stoneham, MA",
    "images/MA-0510-000.webp": "Twin XL Bed|Boston|RM 1, Stoneham, MA, photo 2 of 4",
    "images/MA-0510-001.webp": "Twin XL Bed|Boston|RM 1, Stoneham, MA, photo 3 of 4",
    "images/MA-0510-002.webp": "Twin XL Bed|Boston|RM 1, Stoneham, MA, photo 4 of 4",
    "images/MA-0510-card.webp": "Twin XL Bed|Boston|RM 1, Stoneham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0510-cover.webp",
+   "images/MA-0510-000.webp",
+   "images/MA-0510-001.webp",
+   "images/MA-0510-002.webp"
+  ]
  },
  {
   "id": "MA-0830",
@@ -4930,12 +5886,18 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston Theater District one-bedroom penthouse with a balcony, full kitchen, workspace and shared gym access.",
   "photoAlts": {
    "images/MA-0830-cover.webp": "Upscale 1 BR Penthouse with Balcony in Boston Theater District near MGH & TUFTS & Boston Common! Sleeps 5!, apartment in Boston, MA",
    "images/MA-0830-000.webp": "Upscale 1 BR Penthouse with Balcony in Boston Theater District near MGH & TUFTS & Boston Common! Sleeps 5!, Boston, MA, photo 2 of 3",
    "images/MA-0830-001.webp": "Upscale 1 BR Penthouse with Balcony in Boston Theater District near MGH & TUFTS & Boston Common! Sleeps 5!, Boston, MA, photo 3 of 3",
    "images/MA-0830-card.webp": "Upscale 1 BR Penthouse with Balcony in Boston Theater District near MGH & TUFTS & Boston Common! Sleeps 5!, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0830-cover.webp",
+   "images/MA-0830-000.webp",
+   "images/MA-0830-001.webp"
+  ]
  },
  {
   "id": "MA-0848",
@@ -4964,12 +5926,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge one-bedroom apartment near MIT and Harvard with a workspace, laundry and shared gym access.",
   "photoAlts": {
    "images/MA-0848-cover.webp": "Upscale 1BR MIT Harvard WiFi Gym W D Parking!, apartment in Cambridge, MA",
    "images/MA-0848-000.webp": "Upscale 1BR MIT Harvard WiFi Gym W D Parking!, Cambridge, MA, photo 2 of 3",
    "images/MA-0848-001.webp": "Upscale 1BR MIT Harvard WiFi Gym W D Parking!, Cambridge, MA, photo 3 of 3",
    "images/MA-0848-card.webp": "Upscale 1BR MIT Harvard WiFi Gym W D Parking!, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0848-cover.webp",
+   "images/MA-0848-000.webp",
+   "images/MA-0848-001.webp"
+  ]
  },
  {
   "id": "MA-0847",
@@ -4998,12 +5966,18 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge one-bedroom apartment near MIT and Harvard with a workspace and access to shared fitness facilities.",
   "photoAlts": {
    "images/MA-0847-cover.webp": "Upscale 1BR near MIT Harvard with Parking!, apartment in Cambridge, MA",
    "images/MA-0847-000.webp": "Upscale 1BR near MIT Harvard with Parking!, Cambridge, MA, photo 2 of 3",
    "images/MA-0847-001.webp": "Upscale 1BR near MIT Harvard with Parking!, Cambridge, MA, photo 3 of 3",
    "images/MA-0847-card.webp": "Upscale 1BR near MIT Harvard with Parking!, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0847-cover.webp",
+   "images/MA-0847-000.webp",
+   "images/MA-0847-001.webp"
+  ]
  },
  {
   "id": "MA-0828",
@@ -5032,13 +6006,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston penthouse near Boston Common with a full kitchen, two bathrooms, workspace and shared fitness facilities.",
   "photoAlts": {
    "images/MA-0828-cover.webp": "Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!, apartment in Boston, MA",
    "images/MA-0828-000.webp": "Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!, Boston, MA, photo 2 of 4",
    "images/MA-0828-001.webp": "Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!, Boston, MA, photo 3 of 4",
    "images/MA-0828-002.webp": "Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!, Boston, MA, photo 4 of 4",
    "images/MA-0828-card.webp": "Upscale 4BR Penthouse with Gym & Parking near Boston Common, MGH & TUFTS. Sleeps 10!, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0828-cover.webp",
+   "images/MA-0828-000.webp",
+   "images/MA-0828-001.webp",
+   "images/MA-0828-002.webp"
+  ]
  },
  {
   "id": "MA-0831",
@@ -5067,13 +6048,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "Boston two-bedroom condo near Boston Common with full kitchen, laundry, workspace and shared gym facilities.",
   "photoAlts": {
    "images/MA-0831-cover.webp": "Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!, apartment in Boston, MA",
    "images/MA-0831-000.webp": "Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!, Boston, MA, photo 2 of 4",
    "images/MA-0831-001.webp": "Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!, Boston, MA, photo 3 of 4",
    "images/MA-0831-002.webp": "Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!, Boston, MA, photo 4 of 4",
    "images/MA-0831-card.webp": "Upscale Central 2BR Condo with Gym & Parking near Boston Common, MGH & TUFTS!, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0831-cover.webp",
+   "images/MA-0831-000.webp",
+   "images/MA-0831-001.webp",
+   "images/MA-0831-002.webp"
+  ]
  },
  {
   "id": "MA-0841",
@@ -5102,13 +6090,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "Cambridge Central Square one-bedroom penthouse with a workspace and access to shared terrace and fitness facilities.",
   "photoAlts": {
    "images/MA-0841-cover.webp": "Upscale Penthouse near MIT & Harvard in Central Square!, apartment in Cambridge, MA",
    "images/MA-0841-000.webp": "Upscale Penthouse near MIT & Harvard in Central Square!, Cambridge, MA, photo 2 of 4",
    "images/MA-0841-001.webp": "Upscale Penthouse near MIT & Harvard in Central Square!, Cambridge, MA, photo 3 of 4",
    "images/MA-0841-002.webp": "Upscale Penthouse near MIT & Harvard in Central Square!, Cambridge, MA, photo 4 of 4",
    "images/MA-0841-card.webp": "Upscale Penthouse near MIT & Harvard in Central Square!, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0841-cover.webp",
+   "images/MA-0841-000.webp",
+   "images/MA-0841-001.webp",
+   "images/MA-0841-002.webp"
+  ]
  },
  {
   "id": "MA-0906",
@@ -5137,13 +6132,20 @@
   "lng": -71.0578,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Boston with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0906-cover.webp": "VIA — Apartment ID 1041, apartment in Boston, MA",
    "images/MA-0906-000.webp": "VIA — Apartment ID 1041, Boston, MA, photo 2 of 4",
    "images/MA-0906-001.webp": "VIA — Apartment ID 1041, Boston, MA, photo 3 of 4",
    "images/MA-0906-002.webp": "VIA — Apartment ID 1041, Boston, MA, photo 4 of 4",
    "images/MA-0906-card.webp": "VIA — Apartment ID 1041, apartment in Boston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0906-cover.webp",
+   "images/MA-0906-000.webp",
+   "images/MA-0906-001.webp",
+   "images/MA-0906-002.webp"
+  ]
  },
  {
   "id": "MA-0936",
@@ -5172,13 +6174,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0936-cover.webp": "Watermark Kendall West — Apartment ID 1623, apartment in Cambridge, MA",
    "images/MA-0936-000.webp": "Watermark Kendall West — Apartment ID 1623, Cambridge, MA, photo 2 of 4",
    "images/MA-0936-001.webp": "Watermark Kendall West — Apartment ID 1623, Cambridge, MA, photo 3 of 4",
    "images/MA-0936-002.webp": "Watermark Kendall West — Apartment ID 1623, Cambridge, MA, photo 4 of 4",
    "images/MA-0936-card.webp": "Watermark Kendall West — Apartment ID 1623, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0936-cover.webp",
+   "images/MA-0936-000.webp",
+   "images/MA-0936-001.webp",
+   "images/MA-0936-002.webp"
+  ]
  },
  {
   "id": "MA-0927",
@@ -5207,13 +6216,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0927-cover.webp": "Watermark Kendall West — Apartment ID 3365, apartment in Cambridge, MA",
    "images/MA-0927-000.webp": "Watermark Kendall West — Apartment ID 3365, Cambridge, MA, photo 2 of 4",
    "images/MA-0927-001.webp": "Watermark Kendall West — Apartment ID 3365, Cambridge, MA, photo 3 of 4",
    "images/MA-0927-002.webp": "Watermark Kendall West — Apartment ID 3365, Cambridge, MA, photo 4 of 4",
    "images/MA-0927-card.webp": "Watermark Kendall West — Apartment ID 3365, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0927-cover.webp",
+   "images/MA-0927-000.webp",
+   "images/MA-0927-001.webp",
+   "images/MA-0927-002.webp"
+  ]
  },
  {
   "id": "MA-0903",
@@ -5242,13 +6258,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0903-cover.webp": "Watermark Kendall West — Apartment ID 4548, apartment in Cambridge, MA",
    "images/MA-0903-000.webp": "Watermark Kendall West — Apartment ID 4548, Cambridge, MA, photo 2 of 4",
    "images/MA-0903-001.webp": "Watermark Kendall West — Apartment ID 4548, Cambridge, MA, photo 3 of 4",
    "images/MA-0903-002.webp": "Watermark Kendall West — Apartment ID 4548, Cambridge, MA, photo 4 of 4",
    "images/MA-0903-card.webp": "Watermark Kendall West — Apartment ID 4548, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0903-cover.webp",
+   "images/MA-0903-000.webp",
+   "images/MA-0903-001.webp",
+   "images/MA-0903-002.webp"
+  ]
  },
  {
   "id": "MA-0902",
@@ -5277,13 +6300,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0902-cover.webp": "Watermark Kendall West — Apartment ID 5605, apartment in Cambridge, MA",
    "images/MA-0902-000.webp": "Watermark Kendall West — Apartment ID 5605, Cambridge, MA, photo 2 of 4",
    "images/MA-0902-001.webp": "Watermark Kendall West — Apartment ID 5605, Cambridge, MA, photo 3 of 4",
    "images/MA-0902-002.webp": "Watermark Kendall West — Apartment ID 5605, Cambridge, MA, photo 4 of 4",
    "images/MA-0902-card.webp": "Watermark Kendall West — Apartment ID 5605, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0902-cover.webp",
+   "images/MA-0902-000.webp",
+   "images/MA-0902-001.webp",
+   "images/MA-0902-002.webp"
+  ]
  },
  {
   "id": "MA-0911",
@@ -5312,13 +6342,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0911-cover.webp": "Watermark Kendall West — Apartment ID 9019, apartment in Cambridge, MA",
    "images/MA-0911-000.webp": "Watermark Kendall West — Apartment ID 9019, Cambridge, MA, photo 2 of 4",
    "images/MA-0911-001.webp": "Watermark Kendall West — Apartment ID 9019, Cambridge, MA, photo 3 of 4",
    "images/MA-0911-002.webp": "Watermark Kendall West — Apartment ID 9019, Cambridge, MA, photo 4 of 4",
    "images/MA-0911-card.webp": "Watermark Kendall West — Apartment ID 9019, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0911-cover.webp",
+   "images/MA-0911-000.webp",
+   "images/MA-0911-001.webp",
+   "images/MA-0911-002.webp"
+  ]
  },
  {
   "id": "MA-0928",
@@ -5347,13 +6384,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0928-cover.webp": "Watermark Kendall West — Apartment ID 9785, apartment in Cambridge, MA",
    "images/MA-0928-000.webp": "Watermark Kendall West — Apartment ID 9785, Cambridge, MA, photo 2 of 4",
    "images/MA-0928-001.webp": "Watermark Kendall West — Apartment ID 9785, Cambridge, MA, photo 3 of 4",
    "images/MA-0928-002.webp": "Watermark Kendall West — Apartment ID 9785, Cambridge, MA, photo 4 of 4",
    "images/MA-0928-card.webp": "Watermark Kendall West — Apartment ID 9785, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0928-cover.webp",
+   "images/MA-0928-000.webp",
+   "images/MA-0928-001.webp",
+   "images/MA-0928-002.webp"
+  ]
  },
  {
   "id": "MA-0941",
@@ -5382,13 +6426,20 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "2-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0941-cover.webp": "Watermark Kendall West — Apartment ID 9845, apartment in Cambridge, MA",
    "images/MA-0941-000.webp": "Watermark Kendall West — Apartment ID 9845, Cambridge, MA, photo 2 of 4",
    "images/MA-0941-001.webp": "Watermark Kendall West — Apartment ID 9845, Cambridge, MA, photo 3 of 4",
    "images/MA-0941-002.webp": "Watermark Kendall West — Apartment ID 9845, Cambridge, MA, photo 4 of 4",
    "images/MA-0941-card.webp": "Watermark Kendall West — Apartment ID 9845, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0941-cover.webp",
+   "images/MA-0941-000.webp",
+   "images/MA-0941-001.webp",
+   "images/MA-0941-002.webp"
+  ]
  },
  {
   "id": "MA-0945",
@@ -5417,12 +6468,19 @@
   "lng": -71.104,
   "featured": false,
   "demo": false,
+  "description": "1-bedroom furnished apartment in Cambridge with a kitchen and a 30-day minimum stay.",
   "photoAlts": {
    "images/MA-0945-cover.webp": "Watermark Kendall West — Apartment ID 9893, apartment in Cambridge, MA",
    "images/MA-0945-000.webp": "Watermark Kendall West — Apartment ID 9893, Cambridge, MA, photo 2 of 4",
    "images/MA-0945-001.webp": "Watermark Kendall West — Apartment ID 9893, Cambridge, MA, photo 3 of 4",
    "images/MA-0945-002.webp": "Watermark Kendall West — Apartment ID 9893, Cambridge, MA, photo 4 of 4",
    "images/MA-0945-card.webp": "Watermark Kendall West — Apartment ID 9893, apartment in Cambridge, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0945-cover.webp",
+   "images/MA-0945-000.webp",
+   "images/MA-0945-001.webp",
+   "images/MA-0945-002.webp"
+  ]
  }
 ]

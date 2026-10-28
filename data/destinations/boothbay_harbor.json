@@ -26,13 +26,20 @@
   "lng": -69.6192,
   "featured": false,
   "demo": false,
+  "description": "Adirondack Charm Meets Coastal Maine – 2 Cabins, Private Beach, Firepit Experience the best of coastal Maine with the warmth and character of an Adirondack retreat. Tucked into a peaceful spruce forest in the sought-after Spruce Point community of Boothbay Harbor, this unique property offers two private cabins, five bedrooms, and access to a secluded association beach—creating the perfect setting for families or groups traveling together. Step inside the main lodge and you’re welcomed by soaring log ceilings, a dramatic stone fireplace, and rich wood details that feel both timeless and inviting.",
   "photoAlts": {
    "images/ME-0431-cover.jpg": "2 Log Cabins, Sleeps 10, Beach Access, large yard, cabin in Boothbay Harbor, ME",
    "images/ME-0431-000.jpg": "2 Log Cabins, Sleeps 10, Beach Access, large yard, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0431-001.jpg": "2 Log Cabins, Sleeps 10, Beach Access, large yard, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0431-002.jpg": "2 Log Cabins, Sleeps 10, Beach Access, large yard, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0431-card.webp": "2 Log Cabins, Sleeps 10, Beach Access, large yard, cabin in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0431-cover.jpg",
+   "images/ME-0431-000.jpg",
+   "images/ME-0431-001.jpg",
+   "images/ME-0431-002.jpg"
+  ]
  },
  {
   "id": "ME-0442",
@@ -61,13 +68,20 @@
   "lng": -69.62101,
   "featured": false,
   "demo": false,
+  "description": "Amore | Romantic Coastal Cottage | Near Spruce Point Inn 🌊 Escape to Amore, a beautifully appointed coastal cottage just steps from the ocean and professionally managed by Rocky Coast Rentals. Ideally located across from Spruce Point Inn, a premier wedding venue and beloved summer destination, this private coastal retreat blends boutique comfort with the relaxed charm of Maine. Surrounded by an acre of peaceful wooded land, you’ll hear gulls and osprey overhead, smell the sea and pines, and enjoy the quiet beauty of the coast from your own deck.",
   "photoAlts": {
    "images/ME-0442-cover.jpg": "Amore| Romantic Coastal Cottage | Near Spruce Point Inn, house in Boothbay Harbor, ME",
    "images/ME-0442-000.jpg": "Amore| Romantic Coastal Cottage | Near Spruce Point Inn, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0442-001.jpg": "Amore| Romantic Coastal Cottage | Near Spruce Point Inn, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0442-002.jpg": "Amore| Romantic Coastal Cottage | Near Spruce Point Inn, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0442-card.webp": "Amore| Romantic Coastal Cottage | Near Spruce Point Inn, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0442-cover.jpg",
+   "images/ME-0442-000.jpg",
+   "images/ME-0442-001.jpg",
+   "images/ME-0442-002.jpg"
+  ]
  },
  {
   "id": "ME-0012",
@@ -96,13 +110,20 @@
   "lng": -69.6339,
   "featured": false,
   "demo": false,
+  "description": "With five bedrooms, the BIG COTTAGE can comfortably sleep up to ten people. Whether relaxing in front of a fire in the fieldstone fireplace or enjoying a book on the side screened-in porch, the Big Cottage offers picturesque views of the ocean. Set back a bit, the two-bedroom LITTLE COTTAGE also boasts beach access and a partial ocean view while providing a quaint and intimate space for smaller families.",
   "photoAlts": {
    "images/ME-0012-cover.webp": "Andrews Family Cottages, house in Boothbay, ME",
    "images/ME-0012-000.webp": "Andrews Family Cottages, Boothbay, ME, photo 2 of 4",
    "images/ME-0012-001.webp": "Andrews Family Cottages, Boothbay, ME, photo 3 of 4",
    "images/ME-0012-002.webp": "Andrews Family Cottages, Boothbay, ME, photo 4 of 4",
    "images/ME-0012-card.webp": "Andrews Family Cottages, house in Boothbay, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0012-cover.webp",
+   "images/ME-0012-000.webp",
+   "images/ME-0012-001.webp",
+   "images/ME-0012-002.webp"
+  ]
  },
  {
   "id": "ME-0133",
@@ -131,13 +152,20 @@
   "lng": -69.62645,
   "featured": false,
   "demo": false,
+  "description": "Although I purchased this home at the end of 2010, I have been vacationing in Boothbay my entire life (since the age of three weeks) and my family has been vacationing in the area since 1914, owning property in the region and spending summers here since the 1930s. Whether this is your first time in the region or you have been coming for years, I hope you enjoy your stay to the fullest and discover why this place is so special to me and my family.",
   "photoAlts": {
    "images/ME-0133-cover.jpg": "Back Bay Cottage Portside, house in Boothbay Harbor, ME",
    "images/ME-0133-000.png": "Back Bay Cottage Portside, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0133-001.jpg": "Back Bay Cottage Portside, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0133-002.jpg": "Back Bay Cottage Portside, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0133-card.webp": "Back Bay Cottage Portside, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0133-cover.jpg",
+   "images/ME-0133-000.png",
+   "images/ME-0133-001.jpg",
+   "images/ME-0133-002.jpg"
+  ]
  },
  {
   "id": "ME-0447",
@@ -166,13 +194,20 @@
   "lng": -69.6253,
   "featured": false,
   "demo": false,
+  "description": "Experience the best of Boothbay Harbor from this beautifully appointed woodside retreat, where modern comforts meet the peaceful charm of Maine's rocky coast, surrounded by nature. Tucked among the trees in a quiet setting, this inviting three-room sleeping arrangement features two king bedrooms and a comfortable queen-size sleeper sofa, making it an ideal retreat for couples, families, or friends traveling together. Enjoy the tranquility of your surroundings while being just a short walk from downtown Boothbay Harbor's waterfront restaurants, shops, and attractions. Bright, Modern & Inviting: Upstairs, sunlight fills the open-concept living, dining, and kitchen area.",
   "photoAlts": {
    "images/ME-0447-cover.jpg": "Boothbay Harbor Escape | 2 Kings, Fireplace, Walk to town | Prickly Hollow- by Rocky Coast Rentals, house in Boothbay Harbor, ME",
    "images/ME-0447-000.jpg": "Boothbay Harbor Escape | 2 Kings, Fireplace, Walk to town | Prickly Hollow- by Rocky Coast Rentals, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0447-001.jpg": "Boothbay Harbor Escape | 2 Kings, Fireplace, Walk to town | Prickly Hollow- by Rocky Coast Rentals, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0447-002.jpg": "Boothbay Harbor Escape | 2 Kings, Fireplace, Walk to town | Prickly Hollow- by Rocky Coast Rentals, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0447-card.webp": "Boothbay Harbor Escape | 2 Kings, Fireplace, Walk to town | Prickly Hollow- by Rocky Coast Rentals, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0447-cover.jpg",
+   "images/ME-0447-000.jpg",
+   "images/ME-0447-001.jpg",
+   "images/ME-0447-002.jpg"
+  ]
  },
  {
   "id": "ME-0443",
@@ -201,13 +236,20 @@
   "lng": -69.62101,
   "featured": false,
   "demo": false,
+  "description": "Start your day with coffee and breathtaking sunrises over the ocean at this peaceful Spruce Point retreat in Boothbay Harbor. Spend your days on the water from your private dock and unwind in the hot tub under the stars. With bright coastal interiors, vaulted ceilings, and a cozy fireplace, this home is designed for relaxing, reconnecting, and making lasting memories. 3BR / 2BA coastal retreat designed for elevated, comfortable living. Professionally managed by Rocky Coast Rentals.",
   "photoAlts": {
    "images/ME-0443-cover.jpg": "Boothbay Harbor Oceanfront Home, Dock, Hot Tub, Sunrise Views, house in Boothbay Harbor, ME",
    "images/ME-0443-000.jpg": "Boothbay Harbor Oceanfront Home, Dock, Hot Tub, Sunrise Views, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0443-001.jpg": "Boothbay Harbor Oceanfront Home, Dock, Hot Tub, Sunrise Views, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0443-002.jpg": "Boothbay Harbor Oceanfront Home, Dock, Hot Tub, Sunrise Views, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0443-card.webp": "Boothbay Harbor Oceanfront Home, Dock, Hot Tub, Sunrise Views, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0443-cover.jpg",
+   "images/ME-0443-000.jpg",
+   "images/ME-0443-001.jpg",
+   "images/ME-0443-002.jpg"
+  ]
  },
  {
   "id": "ME-0134",
@@ -236,13 +278,20 @@
   "lng": -69.63112,
   "featured": false,
   "demo": false,
+  "description": "Are you traveling with the family, a large group of friends, or letting your furry friend tag along on vacation? We have the perfect Boothbay Harbor, Maine, vacation rentals for all your needs! Dock View is a peaceful, three-bedroom retreat with ocean views and within walking distance of the town center. The chic loft, known simply as the Boat House , is another beautiful Midcoast Maine vacation rental in downtown Boothbay Harbor that features original artwork and a three-story deck. Of course, if you’re looking for seclusion and stunning views, it doesn’t get much better than the Water’s Edge Cottage",
   "photoAlts": {
    "images/ME-0134-cover.jpg": "Boothbay Vacation Homes, house in Boothbay Harbor, ME",
    "images/ME-0134-000.png": "Boothbay Vacation Homes, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0134-001.png": "Boothbay Vacation Homes, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0134-002.jpg": "Boothbay Vacation Homes, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0134-card.webp": "Boothbay Vacation Homes, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0134-cover.jpg",
+   "images/ME-0134-000.png",
+   "images/ME-0134-001.png",
+   "images/ME-0134-002.jpg"
+  ]
  },
  {
   "id": "ME-0242",
@@ -272,13 +321,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "We offer exceptional waterfront and water view vacation rentals in the Boothbay Harbor Region. All Chill Vacation Rental properties are equipped with luxury linens and great amenities. With easy online booking and 24 hour service, start your Boothbay Harbor, Maine vacation here!",
   "photoAlts": {
    "images/ME-0242-cover.avif": "Chill Vacation Rentals, Boothbay Region, ME",
    "images/ME-0242-000.jpg": "Chill Vacation Rentals, Boothbay Region, ME, photo 2 of 4",
    "images/ME-0242-001.jpg": "Chill Vacation Rentals, Boothbay Region, ME, photo 3 of 4",
    "images/ME-0242-002.avif": "Chill Vacation Rentals, Boothbay Region, ME, photo 4 of 4",
    "images/ME-0242-card.webp": "Chill Vacation Rentals, Boothbay Region, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0242-cover.avif",
+   "images/ME-0242-000.jpg",
+   "images/ME-0242-001.jpg",
+   "images/ME-0242-002.avif"
+  ]
  },
  {
   "id": "ME-0206",
@@ -307,13 +363,20 @@
   "lng": -69.656,
   "featured": false,
   "demo": false,
+  "description": "Explore beautiful Maine properties including Southport Island homes, cozy cottages, and waterfront homes on Echo Lake. Your ideal Maine getaway awaits.",
   "photoAlts": {
    "images/ME-0206-cover.webp": "Decker Cove Properties, Southport, ME",
    "images/ME-0206-000.webp": "Decker Cove Properties, Southport, ME, photo 2 of 4",
    "images/ME-0206-001.webp": "Decker Cove Properties, Southport, ME, photo 3 of 4",
    "images/ME-0206-002.webp": "Decker Cove Properties, Southport, ME, photo 4 of 4",
    "images/ME-0206-card.webp": "Decker Cove Properties, Southport, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0206-cover.webp",
+   "images/ME-0206-000.webp",
+   "images/ME-0206-001.webp",
+   "images/ME-0206-002.webp"
+  ]
  },
  {
   "id": "ME-0445",
@@ -342,13 +405,20 @@
   "lng": -69.62317,
   "featured": false,
   "demo": false,
+  "description": "Perched above the harbor and thoughtfully reimagined from the inside out, Briar Cove is a designer waterfront retreat that blends refined craftsmanship with the relaxed elegance of coastal Maine. Every room has been intentionally crafted from custom millwork and luxurious finishes to layered textures, beautiful furnishings, and artisan details that create a home both sophisticated and welcoming. Just a short stroll from the heart of Boothbay Harbor, Briar Cove offers the rare luxury of walking to local shops, restaurants, galleries, and the waterfront, while returning each evening to the quiet comfort of your own private retreat.",
   "photoAlts": {
    "images/ME-0445-cover.jpg": "Designer Retreat w/Harbor Views,4 BDR, 2.5 BA, 8 guest, house in Boothbay Harbor, ME",
    "images/ME-0445-000.jpg": "Designer Retreat w/Harbor Views,4 BDR, 2.5 BA, 8 guest, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0445-001.jpg": "Designer Retreat w/Harbor Views,4 BDR, 2.5 BA, 8 guest, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0445-002.jpg": "Designer Retreat w/Harbor Views,4 BDR, 2.5 BA, 8 guest, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0445-card.webp": "Designer Retreat w/Harbor Views,4 BDR, 2.5 BA, 8 guest, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0445-cover.jpg",
+   "images/ME-0445-000.jpg",
+   "images/ME-0445-001.jpg",
+   "images/ME-0445-002.jpg"
+  ]
  },
  {
   "id": "ME-0100",
@@ -377,13 +447,20 @@
   "lng": -69.65426,
   "featured": false,
   "demo": false,
+  "description": "Family-run oceanfront seasonal RV campground on Southport Island, Maine, minutes from Boothbay Harbor. 50+ full-hookup RV sites plus weekly cottages.",
   "photoAlts": {
    "images/ME-0100-cover.jpg": "Gray Homestead Cottages, house in Southport, ME",
    "images/ME-0100-000.jpg": "Gray Homestead Cottages, Southport, ME, photo 2 of 4",
    "images/ME-0100-001.jpg": "Gray Homestead Cottages, Southport, ME, photo 3 of 4",
    "images/ME-0100-002.jpg": "Gray Homestead Cottages, Southport, ME, photo 4 of 4",
    "images/ME-0100-card.webp": "Gray Homestead Cottages, house in Southport, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0100-cover.jpg",
+   "images/ME-0100-000.jpg",
+   "images/ME-0100-001.jpg",
+   "images/ME-0100-002.jpg"
+  ]
  },
  {
   "id": "ME-0116",
@@ -412,13 +489,20 @@
   "lng": -69.6418,
   "featured": false,
   "demo": false,
+  "description": "Harborfields On The Shore is your family-friendly, pet-friendly, and boater-friendly vacation destination (mid-May to mid-October), with ten distinct vacation cottages, each with its own special water view. Located on the west side of Boothbay Harbor, Maine.",
   "photoAlts": {
    "images/ME-0116-cover.jpg": "Harborfields Waterfront Cottages, house in West Boothbay Harbor, ME",
    "images/ME-0116-000.jpg": "Harborfields Waterfront Cottages, West Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0116-001.jpg": "Harborfields Waterfront Cottages, West Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0116-002.jpg": "Harborfields Waterfront Cottages, West Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0116-card.webp": "Harborfields Waterfront Cottages, house in West Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0116-cover.jpg",
+   "images/ME-0116-000.jpg",
+   "images/ME-0116-001.jpg",
+   "images/ME-0116-002.jpg"
+  ]
  },
  {
   "id": "ME-0433",
@@ -447,13 +531,20 @@
   "lng": -69.60084,
   "featured": false,
   "demo": false,
+  "description": "Located directly on the water in Bayville, Linekin Lodge is a beautiful 3-bedroom, 2-bathroom cottage with breathtaking water views from every room. As you enter the house you will be welcomed by the floor to ceiling windows that show off a panoramic view of the Bay. Directly in front of the house is a private dock and mooring for your boat or kayak. Bayville is a sub community within Boothbay Harbor that sits at the head of Linekin Bay and is conveniently located just a few miles from the buzz of downtown.",
   "photoAlts": {
    "images/ME-0433-cover.jpg": "Linekin Lodge|Oceanfront| 3BDR| Deep Water Dock| Beach, house in Boothbay Harbor, ME",
    "images/ME-0433-000.jpg": "Linekin Lodge|Oceanfront| 3BDR| Deep Water Dock| Beach, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0433-001.jpg": "Linekin Lodge|Oceanfront| 3BDR| Deep Water Dock| Beach, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0433-002.jpg": "Linekin Lodge|Oceanfront| 3BDR| Deep Water Dock| Beach, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0433-card.webp": "Linekin Lodge|Oceanfront| 3BDR| Deep Water Dock| Beach, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0433-cover.jpg",
+   "images/ME-0433-000.jpg",
+   "images/ME-0433-001.jpg",
+   "images/ME-0433-002.jpg"
+  ]
  },
  {
   "id": "ME-0240",
@@ -483,13 +574,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Whether you’re planning a relaxing retreat, a romantic getaway, or an unforgettable family vacation, we offer a selection of charming apartments, vacation homes, cozy cottages, and classic waterfront estates to suit your needs.",
   "photoAlts": {
    "images/ME-0240-cover.jpg": "Maineland Vacation Rentals, Boothbay Harbor, ME",
    "images/ME-0240-000.jpg": "Maineland Vacation Rentals, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0240-001.jpg": "Maineland Vacation Rentals, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0240-002.jpg": "Maineland Vacation Rentals, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0240-card.webp": "Maineland Vacation Rentals, Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0240-cover.jpg",
+   "images/ME-0240-000.jpg",
+   "images/ME-0240-001.jpg",
+   "images/ME-0240-002.jpg"
+  ]
  },
  {
   "id": "ME-0436",
@@ -518,13 +616,20 @@
   "lng": -69.59299,
   "featured": false,
   "demo": false,
+  "description": "Experience the magic of Linekin Bay at Moon Tide Cottage, where mesmerizing full-moon high tides bring the water to the top of the seawall. Professionally managed by Rocky Coast Rentals. Nestled in the peaceful Murray Hill community, this lovingly renovated cottage offers sun-drenched ocean views from the main bedroom, a cozy living room with a picture window overlooking the bay, and a deck perfect for sipping coffee and watching the boats. Explore the nearby preserves, enjoy water activities from the private beach at low tide or community dock, or simply unwind in a hammock by the shore.",
   "photoAlts": {
    "images/ME-0436-cover.jpg": "Moon Tide Cottage | Oceanfront on Linekin Bay | Stunning Views, house in Boothbay Harbor, ME",
    "images/ME-0436-000.jpg": "Moon Tide Cottage | Oceanfront on Linekin Bay | Stunning Views, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0436-001.jpg": "Moon Tide Cottage | Oceanfront on Linekin Bay | Stunning Views, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0436-002.jpg": "Moon Tide Cottage | Oceanfront on Linekin Bay | Stunning Views, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0436-card.webp": "Moon Tide Cottage | Oceanfront on Linekin Bay | Stunning Views, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0436-cover.jpg",
+   "images/ME-0436-000.jpg",
+   "images/ME-0436-001.jpg",
+   "images/ME-0436-002.jpg"
+  ]
  },
  {
   "id": "ME-0440",
@@ -553,13 +658,20 @@
   "lng": -69.61618,
   "featured": false,
   "demo": false,
+  "description": "Welcome to Nell’s Watch, your serene waterfront getaway in beautiful Boothbay Harbor on Spruce Point. This exquisite property showcases stunning views and direct access to the water, featuring 200 feet of deep-water frontage perfect for boating enthusiasts. While the dock was temporarily impacted by the 2024 storm, rest assured that marina options are conveniently located nearby and we have two moorings out back. Step inside the main house, where modern comfort meets classic elegance. The spacious living area boasts post and beam cathedral ceilings, enhanced by a cozy gas fireplace that creates a warm, inviting atmosphere.",
   "photoAlts": {
    "images/ME-0440-cover.jpg": "Nell's Watch - Luxurious Oceanfront by Rocky Coast Rentals, house in Boothbay Harbor, ME",
    "images/ME-0440-000.jpg": "Nell's Watch - Luxurious Oceanfront by Rocky Coast Rentals, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0440-001.jpg": "Nell's Watch - Luxurious Oceanfront by Rocky Coast Rentals, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0440-002.jpg": "Nell's Watch - Luxurious Oceanfront by Rocky Coast Rentals, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0440-card.webp": "Nell's Watch - Luxurious Oceanfront by Rocky Coast Rentals, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0440-cover.jpg",
+   "images/ME-0440-000.jpg",
+   "images/ME-0440-001.jpg",
+   "images/ME-0440-002.jpg"
+  ]
  },
  {
   "id": "ME-0434",
@@ -588,13 +700,20 @@
   "lng": -69.61913,
   "featured": false,
   "demo": false,
+  "description": "Nestled along the northwestern cove of Lewis Cove, sits a beautiful five-bedroom, four-bathroom ocean front retreat. Outfitted with new furniture both inside and out, you will relax to the sounds of ocean waves and lobster boats. When entering the property, you’ll walk down two flights of stairs that lead to an open concept living and dining room facing straight out at the bay. Entertain on the first-floor deck equipped with a 6 person, outdoor table, propane grill and breathtaking views while others enjoy a game of pool in the downstairs game room.",
   "photoAlts": {
    "images/ME-0434-cover.jpg": "Oasis on Linekin Bay by Rocky Coast Rentals, house in Boothbay Harbor, ME",
    "images/ME-0434-000.jpg": "Oasis on Linekin Bay by Rocky Coast Rentals, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0434-001.jpg": "Oasis on Linekin Bay by Rocky Coast Rentals, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0434-002.jpg": "Oasis on Linekin Bay by Rocky Coast Rentals, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0434-card.webp": "Oasis on Linekin Bay by Rocky Coast Rentals, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0434-cover.jpg",
+   "images/ME-0434-000.jpg",
+   "images/ME-0434-001.jpg",
+   "images/ME-0434-002.jpg"
+  ]
  },
  {
   "id": "ME-0439",
@@ -623,13 +742,20 @@
   "lng": -69.60338,
   "featured": false,
   "demo": false,
+  "description": "NEW Luxury 5BR Coastal Retreat in Ocean Point, Boothbay, Maine Discover your dream Maine getaway at this brand-new 5-bedroom, 4.5-bath luxury home in Ocean Point, Boothbay. Set between rugged rocky coastline and serene pine forests, this coastal escape offers sweeping ocean views, expansive decks, and designer interiors ideal for families, groups, or romantic retreats. Enjoy fresh lobster dinners, dramatic sunsets, and picturesque harbor views as boats glide by. Just minutes from Boothbay Harbor, explore scenic trails, private beaches, and local attractions, then return to the ultimate blend of boutique luxury and Maine charm.",
   "photoAlts": {
    "images/ME-0439-cover.jpg": "Ocean Point Boothbay Luxury Home|5BR |4.5BA, house in Boothbay, ME",
    "images/ME-0439-000.jpg": "Ocean Point Boothbay Luxury Home|5BR |4.5BA, Boothbay, ME, photo 2 of 4",
    "images/ME-0439-001.jpg": "Ocean Point Boothbay Luxury Home|5BR |4.5BA, Boothbay, ME, photo 3 of 4",
    "images/ME-0439-002.jpg": "Ocean Point Boothbay Luxury Home|5BR |4.5BA, Boothbay, ME, photo 4 of 4",
    "images/ME-0439-card.webp": "Ocean Point Boothbay Luxury Home|5BR |4.5BA, house in Boothbay, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0439-cover.jpg",
+   "images/ME-0439-000.jpg",
+   "images/ME-0439-001.jpg",
+   "images/ME-0439-002.jpg"
+  ]
  },
  {
   "id": "ME-0135",
@@ -658,13 +784,20 @@
   "lng": -69.64925,
   "featured": false,
   "demo": false,
+  "description": "Modern short-term accommodations in Boothbay Harbor, Maine. Your getaway begins here. A lovely private newly renovated cottage with 1 bath waiting to host friendly people. With beautiful light, bathroom, kitchen, and tall open ceilings. Book now online or call us at 207-200-1116.",
   "photoAlts": {
    "images/ME-0135-cover.webp": "Powder Hill Farm Cottage, house in Boothbay Harbor, ME",
    "images/ME-0135-000.webp": "Powder Hill Farm Cottage, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0135-001.webp": "Powder Hill Farm Cottage, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0135-002.webp": "Powder Hill Farm Cottage, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0135-card.webp": "Powder Hill Farm Cottage, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0135-cover.webp",
+   "images/ME-0135-000.webp",
+   "images/ME-0135-001.webp",
+   "images/ME-0135-002.webp"
+  ]
  },
  {
   "id": "ME-0438",
@@ -693,13 +826,20 @@
   "lng": -69.58784,
   "featured": false,
   "demo": false,
+  "description": "**Rice Point - Waterfront Luxury** Situated on 4000 square feet on a picturesque waterfront cove, this magnificent Northeastern estate is emblematic of the charms and luxuries that make East Boothbay such a coveted summer destination. With four luxurious bedrooms and a mix of modern amenities and Victorian style, you’re sure to have the summer getaway of your dreams! The interiors of this home are designed to invite ample amounts of natural light to fill up an already bright and airy space.",
   "photoAlts": {
    "images/ME-0438-cover.jpg": "Rice Point Waterfront Luxury by Rocky Coast Rental, house in East Boothbay, ME",
    "images/ME-0438-000.jpg": "Rice Point Waterfront Luxury by Rocky Coast Rental, East Boothbay, ME, photo 2 of 4",
    "images/ME-0438-001.jpg": "Rice Point Waterfront Luxury by Rocky Coast Rental, East Boothbay, ME, photo 3 of 4",
    "images/ME-0438-002.jpg": "Rice Point Waterfront Luxury by Rocky Coast Rental, East Boothbay, ME, photo 4 of 4",
    "images/ME-0438-card.webp": "Rice Point Waterfront Luxury by Rocky Coast Rental, house in East Boothbay, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0438-cover.jpg",
+   "images/ME-0438-000.jpg",
+   "images/ME-0438-001.jpg",
+   "images/ME-0438-002.jpg"
+  ]
  },
  {
   "id": "ME-0437",
@@ -728,13 +868,20 @@
   "lng": -69.64404,
   "featured": false,
   "demo": false,
+  "description": "Secluded Four-Bedroom Waterfront Retreat Discover your own slice of paradise with this stunning four-bedroom home nestled on the Back Bay River, just across from the Ovens Mouth Preserve. This property offers the perfect blend of tranquility and modern amenities, making it an ideal getaway for families or friends seeking solitude and natural beauty. Home Features: - Bedrooms: Four charming bedrooms, including one king, one queen, one full and one room with a full and a twin bed. Enjoy serene river views from the queen bedroom.",
   "photoAlts": {
    "images/ME-0437-cover.jpg": "Riverfront Retreat for Families & Creatives | Dock + Views, house in Edgecomb, ME",
    "images/ME-0437-000.jpg": "Riverfront Retreat for Families & Creatives | Dock + Views, Edgecomb, ME, photo 2 of 4",
    "images/ME-0437-001.jpg": "Riverfront Retreat for Families & Creatives | Dock + Views, Edgecomb, ME, photo 3 of 4",
    "images/ME-0437-002.jpg": "Riverfront Retreat for Families & Creatives | Dock + Views, Edgecomb, ME, photo 4 of 4",
    "images/ME-0437-card.webp": "Riverfront Retreat for Families & Creatives | Dock + Views, house in Edgecomb, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0437-cover.jpg",
+   "images/ME-0437-000.jpg",
+   "images/ME-0437-001.jpg",
+   "images/ME-0437-002.jpg"
+  ]
  },
  {
   "id": "ME-0241",
@@ -764,13 +911,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Don't Just Visit, Sea Maine - Live like a Local Are you tired of the typical tourist experience? Do you yearn to immerse yourself in the local culture and truly understand the essence of a place? Then it’s time to step off the beaten path and start living like a local! Discover the hidden gems,",
   "photoAlts": {
    "images/ME-0241-cover.jpg": "Sea Maine Vacation Rentals, Boothbay Harbor, ME",
    "images/ME-0241-000.jpg": "Sea Maine Vacation Rentals, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0241-001.jpg": "Sea Maine Vacation Rentals, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0241-002.jpg": "Sea Maine Vacation Rentals, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0241-card.webp": "Sea Maine Vacation Rentals, Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0241-cover.jpg",
+   "images/ME-0241-000.jpg",
+   "images/ME-0241-001.jpg",
+   "images/ME-0241-002.jpg"
+  ]
  },
  {
   "id": "ME-0153",
@@ -799,13 +953,20 @@
   "lng": -69.59078,
   "featured": false,
   "demo": false,
+  "description": "Seanook Cottage Rentals offers two charming East Boothbay vacation cottages on the seaside shore of Linekin Bay, Maine. Floor to ceiling windows bring the outside in; ocean, garden, and sunset views are all spectacular. This coastal cottage vacation experience keeps many of our guests rebooking year after year.",
   "photoAlts": {
    "images/ME-0153-cover.jpg": "Seanook Cottage Rentals, house in East Boothbay, ME",
    "images/ME-0153-000.jpg": "Seanook Cottage Rentals, East Boothbay, ME, photo 2 of 4",
    "images/ME-0153-001.jpg": "Seanook Cottage Rentals, East Boothbay, ME, photo 3 of 4",
    "images/ME-0153-002.jpg": "Seanook Cottage Rentals, East Boothbay, ME, photo 4 of 4",
    "images/ME-0153-card.webp": "Seanook Cottage Rentals, house in East Boothbay, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0153-cover.jpg",
+   "images/ME-0153-000.jpg",
+   "images/ME-0153-001.jpg",
+   "images/ME-0153-002.jpg"
+  ]
  },
  {
   "id": "ME-0444",
@@ -834,12 +995,19 @@
   "lng": -69.62311,
   "featured": false,
   "demo": false,
+  "description": "Experience the best of Boothbay Harbor from this charming Cape-style home perfectly situated on the desirable east side of town. Just a short walk to the waterfront, shops, restaurants, boat tours, and local attractions, this home blends classic Maine charm with modern comfort—making it an ideal getaway for couples, families, and small groups. This is also a pet friendly home! Inside, the home features a bright and welcoming layout with comfortable furnishings and thoughtful amenities. The primary bedroom includes a luxurious split king adjustable bed, generous storage, and A/C for added comfort.",
   "photoAlts": {
    "images/ME-0444-cover.jpg": "Walk-to-Town Boothbay Harbor Retreat | Harbor Views | A/C | Parking |Pets, house in Boothbay Harbor, ME",
    "images/ME-0444-000.jpg": "Walk-to-Town Boothbay Harbor Retreat | Harbor Views | A/C | Parking |Pets, Boothbay Harbor, ME, photo 2 of 4",
    "images/ME-0444-001.jpg": "Walk-to-Town Boothbay Harbor Retreat | Harbor Views | A/C | Parking |Pets, Boothbay Harbor, ME, photo 3 of 4",
    "images/ME-0444-002.jpg": "Walk-to-Town Boothbay Harbor Retreat | Harbor Views | A/C | Parking |Pets, Boothbay Harbor, ME, photo 4 of 4",
    "images/ME-0444-card.webp": "Walk-to-Town Boothbay Harbor Retreat | Harbor Views | A/C | Parking |Pets, house in Boothbay Harbor, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0444-cover.jpg",
+   "images/ME-0444-000.jpg",
+   "images/ME-0444-001.jpg",
+   "images/ME-0444-002.jpg"
+  ]
  }
 ]

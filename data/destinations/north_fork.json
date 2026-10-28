@@ -21,13 +21,20 @@
   "lng": -72.3593,
   "featured": false,
   "demo": false,
+  "description": "Renovated three-bedroom house a stone's throw from 67 Steps Beach in Greenport, with fireplace, modern kitchen, 1.5 baths and a large garden backing onto farm fields.",
   "photoAlts": {
    "images/NY-0032-cover.webp": "Shorecrest Property Management — Greenport 67 Steps Beach House, house in Greenport, NY",
    "images/NY-0032-000.webp": "Shorecrest Property Management — Greenport 67 Steps Beach House, Greenport, NY, photo 2 of 4",
    "images/NY-0032-001.webp": "Shorecrest Property Management — Greenport 67 Steps Beach House, Greenport, NY, photo 3 of 4",
    "images/NY-0032-002.webp": "Shorecrest Property Management — Greenport 67 Steps Beach House, Greenport, NY, photo 4 of 4",
    "images/NY-0032-card.webp": "Shorecrest Property Management — Greenport 67 Steps Beach House, house in Greenport, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0032-cover.webp",
+   "images/NY-0032-000.webp",
+   "images/NY-0032-001.webp",
+   "images/NY-0032-002.webp"
+  ]
  },
  {
   "id": "NY-0033",
@@ -51,13 +58,20 @@
   "lng": -72.5505,
   "featured": false,
   "demo": false,
+  "description": "Farmhouse-modern 4,800 sq ft home on five secluded acres of lawn, meadow and woodland in Mattituck wine country, fully renovated with new kitchen and bathrooms.",
   "photoAlts": {
    "images/NY-0033-cover.webp": "Shorecrest Property Management — Mattituck Estate, house in Mattituck, NY",
    "images/NY-0033-000.webp": "Shorecrest Property Management — Mattituck Estate, Mattituck, NY, photo 2 of 4",
    "images/NY-0033-001.webp": "Shorecrest Property Management — Mattituck Estate, Mattituck, NY, photo 3 of 4",
    "images/NY-0033-002.webp": "Shorecrest Property Management — Mattituck Estate, Mattituck, NY, photo 4 of 4",
    "images/NY-0033-card.webp": "Shorecrest Property Management — Mattituck Estate, house in Mattituck, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0033-cover.webp",
+   "images/NY-0033-000.webp",
+   "images/NY-0033-001.webp",
+   "images/NY-0033-002.webp"
+  ]
  },
  {
   "id": "NY-0034",
@@ -81,13 +95,20 @@
   "lng": -72.4408,
   "featured": false,
   "demo": false,
+  "description": "Newly built three-bedroom house with wrap-around decks, 120 feet of waterfront on Hashamomuck inlet, sunset views, two living areas and 2.5 baths; handicapped accessible.",
   "photoAlts": {
    "images/NY-0034-cover.webp": "Shorecrest Property Management — North Fork Waterfront, house in Southold, NY",
    "images/NY-0034-000.webp": "Shorecrest Property Management — North Fork Waterfront, Southold, NY, photo 2 of 4",
    "images/NY-0034-001.webp": "Shorecrest Property Management — North Fork Waterfront, Southold, NY, photo 3 of 4",
    "images/NY-0034-002.webp": "Shorecrest Property Management — North Fork Waterfront, Southold, NY, photo 4 of 4",
    "images/NY-0034-card.webp": "Shorecrest Property Management — North Fork Waterfront, house in Southold, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0034-cover.webp",
+   "images/NY-0034-000.webp",
+   "images/NY-0034-001.webp",
+   "images/NY-0034-002.webp"
+  ]
  },
  {
   "id": "NY-0035",
@@ -111,13 +132,20 @@
   "lng": -72.4408,
   "featured": false,
   "demo": false,
+  "description": "Five-bedroom waterfront house in Southold steps from a private sandy beach on Peconic Bay, laid out for large families or groups.",
   "photoAlts": {
    "images/NY-0035-cover.webp": "Shorecrest Property Management — Peconic Bay Beach Front, house in Southold, NY",
    "images/NY-0035-000.webp": "Shorecrest Property Management — Peconic Bay Beach Front, Southold, NY, photo 2 of 4",
    "images/NY-0035-001.webp": "Shorecrest Property Management — Peconic Bay Beach Front, Southold, NY, photo 3 of 4",
    "images/NY-0035-002.webp": "Shorecrest Property Management — Peconic Bay Beach Front, Southold, NY, photo 4 of 4",
    "images/NY-0035-card.webp": "Shorecrest Property Management — Peconic Bay Beach Front, house in Southold, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0035-cover.webp",
+   "images/NY-0035-000.webp",
+   "images/NY-0035-001.webp",
+   "images/NY-0035-002.webp"
+  ]
  },
  {
   "id": "NY-0036",
@@ -141,13 +169,20 @@
   "lng": -72.4408,
   "featured": false,
   "demo": false,
+  "description": "Restored 1920s three-bedroom house with 70 feet of waterfront on the Arshamomuck inlet of Shelter Bay in Southold; fireplace, new kitchen, central air.",
   "photoAlts": {
    "images/NY-0036-cover.webp": "Shorecrest Property Management — Shelter Bay Cove Waterfront, house in Southold, NY",
    "images/NY-0036-000.webp": "Shorecrest Property Management — Shelter Bay Cove Waterfront, Southold, NY, photo 2 of 4",
    "images/NY-0036-001.webp": "Shorecrest Property Management — Shelter Bay Cove Waterfront, Southold, NY, photo 3 of 4",
    "images/NY-0036-002.webp": "Shorecrest Property Management — Shelter Bay Cove Waterfront, Southold, NY, photo 4 of 4",
    "images/NY-0036-card.webp": "Shorecrest Property Management — Shelter Bay Cove Waterfront, house in Southold, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0036-cover.webp",
+   "images/NY-0036-000.webp",
+   "images/NY-0036-001.webp",
+   "images/NY-0036-002.webp"
+  ]
  },
  {
   "id": "NY-0037",
@@ -171,13 +206,20 @@
   "lng": -72.4408,
   "featured": false,
   "demo": false,
+  "description": "Renovated beach house right on the Long Island Sound shore in Southold: kitchen overlooking the water, three bedrooms and two full baths downstairs, open-plan second floor with extra sleeping.",
   "photoAlts": {
    "images/NY-0037-cover.webp": "Shorecrest Property Management — Shorecrest Beach House, house in Southold, NY",
    "images/NY-0037-000.webp": "Shorecrest Property Management — Shorecrest Beach House, Southold, NY, photo 2 of 4",
    "images/NY-0037-001.webp": "Shorecrest Property Management — Shorecrest Beach House, Southold, NY, photo 3 of 4",
    "images/NY-0037-002.webp": "Shorecrest Property Management — Shorecrest Beach House, Southold, NY, photo 4 of 4",
    "images/NY-0037-card.webp": "Shorecrest Property Management — Shorecrest Beach House, house in Southold, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0037-cover.webp",
+   "images/NY-0037-000.webp",
+   "images/NY-0037-001.webp",
+   "images/NY-0037-002.webp"
+  ]
  },
  {
   "id": "NY-0030",
@@ -201,12 +243,19 @@
   "lng": -72.41486,
   "featured": false,
   "demo": false,
+  "description": "Family-run colony of rental cottages on the North Fork of Long Island in Southold, with a shared lawn and beach nearby; each cottage has its own kitchen and porch.",
   "photoAlts": {
    "images/NY-0030-cover.webp": "Terrace Cottage Colony, cabin in Southold, NY",
    "images/NY-0030-000.webp": "Terrace Cottage Colony, Southold, NY, photo 2 of 4",
    "images/NY-0030-001.webp": "Terrace Cottage Colony, Southold, NY, photo 3 of 4",
    "images/NY-0030-002.webp": "Terrace Cottage Colony, Southold, NY, photo 4 of 4",
    "images/NY-0030-card.webp": "Terrace Cottage Colony, cabin in Southold, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0030-cover.webp",
+   "images/NY-0030-000.webp",
+   "images/NY-0030-001.webp",
+   "images/NY-0030-002.webp"
+  ]
  }
 ]

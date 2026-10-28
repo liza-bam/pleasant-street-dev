@@ -26,13 +26,20 @@
   "lng": -72.1974,
   "featured": false,
   "demo": false,
+  "description": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
   "photoAlts": {
    "images/NH-0036-cover.webp": "Crows Nest Campground, cabin in Newport, NH",
    "images/NH-0036-000.webp": "Crows Nest Campground, Newport, NH, photo 2 of 4",
    "images/NH-0036-001.webp": "Crows Nest Campground, Newport, NH, photo 3 of 4",
    "images/NH-0036-002.webp": "Crows Nest Campground, Newport, NH, photo 4 of 4",
    "images/NH-0036-card.webp": "Crows Nest Campground, cabin in Newport, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0036-cover.webp",
+   "images/NH-0036-000.webp",
+   "images/NH-0036-001.webp",
+   "images/NH-0036-002.webp"
+  ]
  },
  {
   "id": "NH-0038",
@@ -61,12 +68,18 @@
   "lng": -72.1551,
   "featured": false,
   "demo": false,
+  "description": "Twenty rustic cabins on Post Pond in Lyme, with boating, waterfront access and seasonal dining.",
   "photoAlts": {
    "images/NH-0038-cover.webp": "Loch Lyme Lodge, Lyme, NH",
    "images/NH-0038-000.webp": "Loch Lyme Lodge, Lyme, NH, photo 2 of 3",
    "images/NH-0038-001.webp": "Loch Lyme Lodge, Lyme, NH, photo 3 of 3",
    "images/NH-0038-card.webp": "Loch Lyme Lodge, Lyme, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0038-cover.webp",
+   "images/NH-0038-000.webp",
+   "images/NH-0038-001.webp"
+  ]
  },
  {
   "id": "NH-0069",
@@ -99,13 +112,20 @@
   "lng": -72.1487,
   "featured": false,
   "demo": false,
+  "description": "Scandinavian-inspired three-bedroom cabin on 27 wooded acres in Goshen near Mount Sunapee.",
   "photoAlts": {
    "images/NH-0069-cover.webp": "Northstead Retreat, Goshen, NH",
    "images/NH-0069-000.webp": "Northstead Retreat, Goshen, NH, photo 2 of 4",
    "images/NH-0069-001.webp": "Northstead Retreat, Goshen, NH, photo 3 of 4",
    "images/NH-0069-002.webp": "Northstead Retreat, Goshen, NH, photo 4 of 4",
    "images/NH-0069-card.webp": "Northstead Retreat, Goshen, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0069-cover.webp",
+   "images/NH-0069-000.webp",
+   "images/NH-0069-001.webp",
+   "images/NH-0069-002.webp"
+  ]
  },
  {
   "id": "NH-0050",
@@ -135,13 +155,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Locally owned waterfront and water-access rentals in the Lake Sunapee region.",
   "photoAlts": {
    "images/NH-0050-cover.webp": "Pond Life Vacation Rentals, cabin in Croydon, NH",
    "images/NH-0050-000.webp": "Pond Life Vacation Rentals, Croydon, NH, photo 2 of 4",
    "images/NH-0050-001.webp": "Pond Life Vacation Rentals, Croydon, NH, photo 3 of 4",
    "images/NH-0050-002.webp": "Pond Life Vacation Rentals, Croydon, NH, photo 4 of 4",
    "images/NH-0050-card.webp": "Pond Life Vacation Rentals, cabin in Croydon, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0050-cover.webp",
+   "images/NH-0050-000.webp",
+   "images/NH-0050-001.webp",
+   "images/NH-0050-002.webp"
+  ]
  },
  {
   "id": "NH-0042",
@@ -170,12 +197,19 @@
   "lng": -71.8225,
   "featured": false,
   "demo": false,
+  "description": "Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.",
   "photoAlts": {
    "images/NH-0042-cover.webp": "Spacious Skies French Pond, camp in Henniker, NH",
    "images/NH-0042-000.webp": "Spacious Skies French Pond, Henniker, NH, photo 2 of 4",
    "images/NH-0042-001.webp": "Spacious Skies French Pond, Henniker, NH, photo 3 of 4",
    "images/NH-0042-002.webp": "Spacious Skies French Pond, Henniker, NH, photo 4 of 4",
    "images/NH-0042-card.webp": "Spacious Skies French Pond, camp in Henniker, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0042-cover.webp",
+   "images/NH-0042-000.webp",
+   "images/NH-0042-001.webp",
+   "images/NH-0042-002.webp"
+  ]
  }
 ]

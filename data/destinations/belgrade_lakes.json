@@ -27,13 +27,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "OCCUPANCY- LIMIT 8 - Waterfront on Annabessacook Lake in Winthrop. This 3-bedroom 1.5 bath is located just steps away from the water. You will have a great view from this well-maintained and equipped home overlooking the private waterfront and dock. There is a bunkroom downstairs with 2 twin beds and a futon. There is also a half bath and washer/dryer on the first floor. The 2nd floor has 2 bedrooms. One bedroom with a king-size bed and the other bedroom has a bunk bed with 3 twin beds. There is also a full bath on the 2nd floor.",
   "photoAlts": {
    "images/ME-0561-cover.jpg": "ANNABESSACOOK RETREAT LIMIT 8, house in Other, ME",
    "images/ME-0561-000.jpg": "ANNABESSACOOK RETREAT LIMIT 8, Other, ME, photo 2 of 4",
    "images/ME-0561-001.jpg": "ANNABESSACOOK RETREAT LIMIT 8, Other, ME, photo 3 of 4",
    "images/ME-0561-002.jpg": "ANNABESSACOOK RETREAT LIMIT 8, Other, ME, photo 4 of 4",
    "images/ME-0561-card.webp": "ANNABESSACOOK RETREAT LIMIT 8, house in Other, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0561-cover.jpg",
+   "images/ME-0561-000.jpg",
+   "images/ME-0561-001.jpg",
+   "images/ME-0561-002.jpg"
+  ]
  },
  {
   "id": "ME-0095",
@@ -62,10 +69,14 @@
   "lng": -69.83908,
   "featured": false,
   "demo": false,
+  "description": "An American plan sporting camp located on Great Pond. We cater to families, fisherman, and friends. Cabins just feet from the water and we serve 2 meals daily. Bear Spring Camps",
   "photoAlts": {
    "images/ME-0095-cover.jpg": "Bear Spring Camps, camp in Rome, ME",
    "images/ME-0095-card.webp": "Bear Spring Camps, camp in Rome, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0095-cover.jpg"
+  ]
  },
  {
   "id": "ME-0229",
@@ -95,13 +106,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Enjoy your vacation at one of luxurious properties nestled withing the pine trees on the Belgrade Stream. These properties are ideal for any and all vacationers looking for a getaway and any kind of adventure. Located in Belgrade, ME.",
   "photoAlts": {
    "images/ME-0229-cover.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME",
    "images/ME-0229-000.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME, photo 2 of 4",
    "images/ME-0229-001.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME, photo 3 of 4",
    "images/ME-0229-002.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME, photo 4 of 4",
    "images/ME-0229-card.webp": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0229-cover.jpg",
+   "images/ME-0229-000.jpg",
+   "images/ME-0229-001.jpg",
+   "images/ME-0229-002.jpg"
+  ]
  },
  {
   "id": "ME-0230",
@@ -131,13 +149,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Welcome to Belgrade Reservation Center! We are the area's premier cottage rental agency with over 35 years of experience.",
   "photoAlts": {
    "images/ME-0230-cover.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME",
    "images/ME-0230-000.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME, photo 2 of 4",
    "images/ME-0230-001.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME, photo 3 of 4",
    "images/ME-0230-002.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME, photo 4 of 4",
    "images/ME-0230-card.webp": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0230-cover.jpg",
+   "images/ME-0230-000.jpg",
+   "images/ME-0230-001.jpg",
+   "images/ME-0230-002.jpg"
+  ]
  },
  {
   "id": "ME-0231",
@@ -166,13 +191,20 @@
   "lng": -69.887,
   "featured": false,
   "demo": false,
+  "description": "Your relaxing lakeside vacation awaits you in the Belgrade Lakes, Maine Region. Let us help you find your perfect Maine vacation rental. Just three hours north of Boston in central Maine, the Belgrade Lakes region is acclaimed for its natural beauty, wealth of recreational activities and abundance of local charm.",
   "photoAlts": {
    "images/ME-0231-cover.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME",
    "images/ME-0231-000.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME, photo 2 of 4",
    "images/ME-0231-001.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME, photo 3 of 4",
    "images/ME-0231-002.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME, photo 4 of 4",
    "images/ME-0231-card.webp": "Belgrade Vacation Rentals, Belgrade Lakes, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0231-cover.jpg",
+   "images/ME-0231-000.jpg",
+   "images/ME-0231-001.jpg",
+   "images/ME-0231-002.jpg"
+  ]
  },
  {
   "id": "ME-0068",
@@ -201,13 +233,20 @@
   "lng": -70.01258,
   "featured": false,
   "demo": false,
+  "description": "Camp Skoglund is a family camp with fully equipped private cottages. While still maintaining many of the amenities of a camp atmosphere, our lakeside retreat i",
   "photoAlts": {
    "images/ME-0068-cover.jpg": "Camp Skoglund, camp in Mount Vernon, ME",
    "images/ME-0068-000.jpg": "Camp Skoglund, Mount Vernon, ME, photo 2 of 4",
    "images/ME-0068-001.jpg": "Camp Skoglund, Mount Vernon, ME, photo 3 of 4",
    "images/ME-0068-002.jpg": "Camp Skoglund, Mount Vernon, ME, photo 4 of 4",
    "images/ME-0068-card.webp": "Camp Skoglund, camp in Mount Vernon, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0068-cover.jpg",
+   "images/ME-0068-000.jpg",
+   "images/ME-0068-001.jpg",
+   "images/ME-0068-002.jpg"
+  ]
  },
  {
   "id": "ME-0154",
@@ -236,13 +275,20 @@
   "lng": -70.1515,
   "featured": false,
   "demo": false,
+  "description": "Pet-friendly year-round house and seasonal cottage on the shore of Clearwater Lake, Maine. Swim, fish, paddle, hike, snowshoe — book your lakeside escape.",
   "photoAlts": {
    "images/ME-0154-cover.jpg": "Clearwater Escapes, Farmington, ME",
    "images/ME-0154-000.jpg": "Clearwater Escapes, Farmington, ME, photo 2 of 4",
    "images/ME-0154-001.jpg": "Clearwater Escapes, Farmington, ME, photo 3 of 4",
    "images/ME-0154-002.jpg": "Clearwater Escapes, Farmington, ME, photo 4 of 4",
    "images/ME-0154-card.webp": "Clearwater Escapes, Farmington, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0154-cover.jpg",
+   "images/ME-0154-000.jpg",
+   "images/ME-0154-001.jpg",
+   "images/ME-0154-002.jpg"
+  ]
  },
  {
   "id": "ME-0010",
@@ -271,12 +317,18 @@
   "lng": -69.8628,
   "featured": false,
   "demo": false,
+  "description": "Stay in a beautiful lakefront cottage on the shores of Maine's Belgrade Lakes. Dog-friendly, family-ready, and available all year. Book direct and save.",
   "photoAlts": {
    "images/ME-0010-cover.jpg": "Cottages of Maine, house in Belgrade Lakes, ME",
    "images/ME-0010-000.webp": "Cottages of Maine, Belgrade Lakes, ME, photo 2 of 3",
    "images/ME-0010-001.jpg": "Cottages of Maine, Belgrade Lakes, ME, photo 3 of 3",
    "images/ME-0010-card.webp": "Cottages of Maine, house in Belgrade Lakes, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0010-cover.jpg",
+   "images/ME-0010-000.webp",
+   "images/ME-0010-001.jpg"
+  ]
  },
  {
   "id": "ME-0183",
@@ -309,13 +361,20 @@
   "lng": -69.9877,
   "featured": false,
   "demo": false,
+  "description": "Book direct and save on a private lakefront vacation home on Minnehonk Lake in Mt. Vernon, Maine. Kayaks, dock, fire pit, spectacular sunsets.",
   "photoAlts": {
    "images/ME-0183-cover.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME",
    "images/ME-0183-000.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME, photo 2 of 4",
    "images/ME-0183-001.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME, photo 3 of 4",
    "images/ME-0183-002.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME, photo 4 of 4",
    "images/ME-0183-card.webp": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0183-cover.jpg",
+   "images/ME-0183-000.jpg",
+   "images/ME-0183-001.jpg",
+   "images/ME-0183-002.jpg"
+  ]
  },
  {
   "id": "ME-0011",
@@ -351,12 +410,19 @@
   "lng": -69.83157,
   "featured": false,
   "demo": false,
+  "description": "Belgrade Lakes vacation rentals in Maine featuring waterfront cabins, private dock, lake access, hot tub, and unforgettable family getaways.",
   "photoAlts": {
    "images/ME-0011-cover.jpg": "Mainely Retreats, Belgrade Lakes, ME",
    "images/ME-0011-000.avif": "Mainely Retreats, Belgrade Lakes, ME, photo 2 of 4",
    "images/ME-0011-001.avif": "Mainely Retreats, Belgrade Lakes, ME, photo 3 of 4",
    "images/ME-0011-002.avif": "Mainely Retreats, Belgrade Lakes, ME, photo 4 of 4",
    "images/ME-0011-card.webp": "Mainely Retreats, Belgrade Lakes, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0011-cover.jpg",
+   "images/ME-0011-000.avif",
+   "images/ME-0011-001.avif",
+   "images/ME-0011-002.avif"
+  ]
  }
 ]

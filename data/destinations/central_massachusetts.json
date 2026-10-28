@@ -26,13 +26,20 @@
   "lng": -71.5745,
   "featured": false,
   "demo": false,
+  "description": "Four-bedroom 1838 guesthouse on a four-acre herb farm in Groton, with gardens and a gourmet kitchen.",
   "photoAlts": {
    "images/MA-0002-cover.webp": "Birch and Stone Groton, Groton, MA",
    "images/MA-0002-000.webp": "Birch and Stone Groton, Groton, MA, photo 2 of 4",
    "images/MA-0002-001.webp": "Birch and Stone Groton, Groton, MA, photo 3 of 4",
    "images/MA-0002-002.webp": "Birch and Stone Groton, Groton, MA, photo 4 of 4",
    "images/MA-0002-card.webp": "Birch and Stone Groton, Groton, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0002-cover.webp",
+   "images/MA-0002-000.webp",
+   "images/MA-0002-001.webp",
+   "images/MA-0002-002.webp"
+  ]
  },
  {
   "id": "MA-0315",
@@ -61,13 +68,20 @@
   "lng": -72.1866,
   "featured": false,
   "demo": false,
+  "description": "Petersham country inn on a 33-acre wooded estate, offering guest rooms with working fireplaces and breakfast.",
   "photoAlts": {
    "images/MA-0315-cover.webp": "Clamber Hill Inn and Restaurant, Petersham, MA",
    "images/MA-0315-000.webp": "Clamber Hill Inn and Restaurant, Petersham, MA, photo 2 of 4",
    "images/MA-0315-001.webp": "Clamber Hill Inn and Restaurant, Petersham, MA, photo 3 of 4",
    "images/MA-0315-002.webp": "Clamber Hill Inn and Restaurant, Petersham, MA, photo 4 of 4",
    "images/MA-0315-card.webp": "Clamber Hill Inn and Restaurant, Petersham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0315-cover.webp",
+   "images/MA-0315-000.webp",
+   "images/MA-0315-001.webp",
+   "images/MA-0315-002.webp"
+  ]
  },
  {
   "id": "MA-0020",
@@ -96,13 +110,20 @@
   "lng": -71.7949,
   "featured": false,
   "demo": false,
+  "description": "Furnished apartments and townhouses across Worcester,Westborough and Auburn for temporary stays.",
   "photoAlts": {
    "images/MA-0020-cover.webp": "Luxo Executive Rentals, apartment in Worcester / Central Massachusetts, MA",
    "images/MA-0020-000.webp": "Luxo Executive Rentals, Worcester / Central Massachusetts, MA, photo 2 of 4",
    "images/MA-0020-001.webp": "Luxo Executive Rentals, Worcester / Central Massachusetts, MA, photo 3 of 4",
    "images/MA-0020-002.webp": "Luxo Executive Rentals, Worcester / Central Massachusetts, MA, photo 4 of 4",
    "images/MA-0020-card.webp": "Luxo Executive Rentals, apartment in Worcester / Central Massachusetts, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0020-cover.webp",
+   "images/MA-0020-000.webp",
+   "images/MA-0020-001.webp",
+   "images/MA-0020-002.webp"
+  ]
  },
  {
   "id": "MA-0021",
@@ -131,13 +152,20 @@
   "lng": -72.0435,
   "featured": false,
   "demo": false,
+  "description": "Family-owned Oakham camping resort on Lake Dean offering rustic, waterfront and full-kitchen rental cabins.",
   "photoAlts": {
    "images/MA-0021-cover.webp": "Pine Acres Family Camping Resort, cabin in Oakham, MA",
    "images/MA-0021-000.webp": "Pine Acres Family Camping Resort, Oakham, MA, photo 2 of 4",
    "images/MA-0021-001.webp": "Pine Acres Family Camping Resort, Oakham, MA, photo 3 of 4",
    "images/MA-0021-002.webp": "Pine Acres Family Camping Resort, Oakham, MA, photo 4 of 4",
    "images/MA-0021-card.webp": "Pine Acres Family Camping Resort, cabin in Oakham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0021-cover.webp",
+   "images/MA-0021-000.webp",
+   "images/MA-0021-001.webp",
+   "images/MA-0021-002.webp"
+  ]
  },
  {
   "id": "MA-0314",
@@ -166,13 +194,20 @@
   "lng": -72.0087,
   "featured": false,
   "demo": false,
+  "description": "Hubbardston alpaca farm offering stays in its 1800s home and farm visits with alpacas, llamas and chickens.",
   "photoAlts": {
    "images/MA-0314-cover.webp": "Plain View Farm, Hubbardston, MA",
    "images/MA-0314-000.webp": "Plain View Farm, Hubbardston, MA, photo 2 of 4",
    "images/MA-0314-001.webp": "Plain View Farm, Hubbardston, MA, photo 3 of 4",
    "images/MA-0314-002.webp": "Plain View Farm, Hubbardston, MA, photo 4 of 4",
    "images/MA-0314-card.webp": "Plain View Farm, Hubbardston, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0314-cover.webp",
+   "images/MA-0314-000.webp",
+   "images/MA-0314-001.webp",
+   "images/MA-0314-002.webp"
+  ]
  },
  {
   "id": "MA-0316",
@@ -201,12 +236,19 @@
   "lng": -71.9087,
   "featured": false,
   "demo": false,
+  "description": "Three-room Ashburnham bed and breakfast on 44 acres, with lake and mountain views, private baths and full breakfast.",
   "photoAlts": {
    "images/MA-0316-cover.webp": "The Maguire House, Ashburnham, MA",
    "images/MA-0316-000.webp": "The Maguire House, Ashburnham, MA, photo 2 of 4",
    "images/MA-0316-001.webp": "The Maguire House, Ashburnham, MA, photo 3 of 4",
    "images/MA-0316-002.webp": "The Maguire House, Ashburnham, MA, photo 4 of 4",
    "images/MA-0316-card.webp": "The Maguire House, Ashburnham, MA"
-  }
+  },
+  "allPhotos": [
+   "images/MA-0316-cover.webp",
+   "images/MA-0316-000.webp",
+   "images/MA-0316-001.webp",
+   "images/MA-0316-002.webp"
+  ]
  }
 ]

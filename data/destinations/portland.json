@@ -26,13 +26,20 @@
   "lng": -70.341665,
   "featured": false,
   "demo": false,
+  "description": "A Shore Thing offers a recently introduced coastal rental with a kitchen and comfortable indoor gathering space. It provides a place to cook and unwind between outings around the beach area.",
   "photoAlts": {
    "images/ME-0408-cover.jpg": "A Shore Thing, house in Scarborough, ME",
    "images/ME-0408-000.jpg": "A Shore Thing, Scarborough, ME, photo 2 of 4",
    "images/ME-0408-001.png": "A Shore Thing, Scarborough, ME, photo 3 of 4",
    "images/ME-0408-002.jpg": "A Shore Thing, Scarborough, ME, photo 4 of 4",
    "images/ME-0408-card.webp": "A Shore Thing, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0408-cover.jpg",
+   "images/ME-0408-000.jpg",
+   "images/ME-0408-001.png",
+   "images/ME-0408-002.jpg"
+  ]
  },
  {
   "id": "ME-0399",
@@ -61,13 +68,20 @@
   "lng": -70.3402149,
   "featured": false,
   "demo": false,
+  "description": "A Wave from it All has four bedrooms and three bathrooms beside Pine Point Marsh. Several decks and a yard offer marsh views, while the beach is a short walk from the property.",
   "photoAlts": {
    "images/ME-0399-cover.jpg": "A Wave from it All, house in Scarborough, ME",
    "images/ME-0399-000.jpg": "A Wave from it All, Scarborough, ME, photo 2 of 4",
    "images/ME-0399-001.jpg": "A Wave from it All, Scarborough, ME, photo 3 of 4",
    "images/ME-0399-002.jpg": "A Wave from it All, Scarborough, ME, photo 4 of 4",
    "images/ME-0399-card.webp": "A Wave from it All, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0399-cover.jpg",
+   "images/ME-0399-000.jpg",
+   "images/ME-0399-001.jpg",
+   "images/ME-0399-002.jpg"
+  ]
  },
  {
   "id": "ME-0381",
@@ -96,13 +110,20 @@
   "lng": -70.3461339,
   "featured": false,
   "demo": false,
+  "description": "Beachwood Cottage accommodates eight in three bedrooms near Pine Point Beach. An open living area and sun porch provide gathering space, with coastal restaurants and Old Orchard Beach within reach.",
   "photoAlts": {
    "images/ME-0381-cover.jpg": "Beachwood Cottage, house in Scarborough, ME",
    "images/ME-0381-000.jpg": "Beachwood Cottage, Scarborough, ME, photo 2 of 4",
    "images/ME-0381-001.jpg": "Beachwood Cottage, Scarborough, ME, photo 3 of 4",
    "images/ME-0381-002.jpg": "Beachwood Cottage, Scarborough, ME, photo 4 of 4",
    "images/ME-0381-card.webp": "Beachwood Cottage, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0381-cover.jpg",
+   "images/ME-0381-000.jpg",
+   "images/ME-0381-001.jpg",
+   "images/ME-0381-002.jpg"
+  ]
  },
  {
   "id": "ME-0400",
@@ -131,13 +152,20 @@
   "lng": -70.3536902,
   "featured": false,
   "demo": false,
+  "description": "Blue Doors by the Sea is arranged for multigenerational groups, with a ground-floor bedroom and an in-law unit. Grand Beach is within walking reach, and guests can cook indoors or use the outdoor grill.",
   "photoAlts": {
    "images/ME-0400-cover.jpg": "Blue Doors by the Sea, house in Scarborough, ME",
    "images/ME-0400-000.jpg": "Blue Doors by the Sea, Scarborough, ME, photo 2 of 4",
    "images/ME-0400-001.jpg": "Blue Doors by the Sea, Scarborough, ME, photo 3 of 4",
    "images/ME-0400-002.jpg": "Blue Doors by the Sea, Scarborough, ME, photo 4 of 4",
    "images/ME-0400-card.webp": "Blue Doors by the Sea, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0400-cover.jpg",
+   "images/ME-0400-000.jpg",
+   "images/ME-0400-001.jpg",
+   "images/ME-0400-002.jpg"
+  ]
  },
  {
   "id": "ME-0569",
@@ -167,13 +195,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "OCCUPANCY LIMIT 5 - A waterfront 2 Bedroom 1 Bath on Highland Lake in Windham. Enjoy lake living while being less than 30 minutes from Portland. The cottage has an open living space with views of the lake from the living room and kitchen. Both bedrooms are on the main floor with full beds. There is also a loft with 2 twin beds. A nice-sized flat lot with a fire pit near the water. Shallow entry is great for swimming. Also enjoy the 2 kayaks provide.",
   "photoAlts": {
    "images/ME-0569-cover.jpg": "BOOMFISH LIMIT 5, house in Other, ME",
    "images/ME-0569-000.jpg": "BOOMFISH LIMIT 5, Other, ME, photo 2 of 4",
    "images/ME-0569-001.jpg": "BOOMFISH LIMIT 5, Other, ME, photo 3 of 4",
    "images/ME-0569-002.jpg": "BOOMFISH LIMIT 5, Other, ME, photo 4 of 4",
    "images/ME-0569-card.webp": "BOOMFISH LIMIT 5, house in Other, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0569-cover.jpg",
+   "images/ME-0569-000.jpg",
+   "images/ME-0569-001.jpg",
+   "images/ME-0569-002.jpg"
+  ]
  },
  {
   "id": "ME-0248",
@@ -206,10 +241,14 @@
   "lng": -70.4001,
   "featured": false,
   "demo": false,
+  "description": "Common Loon Property Management offers full-service property management including year-round management services, vacation rental management, short-term rental consulting, and off-season maintenance and check-in services in Cumberland County Maine. We can help maximize your profits while giving your tenants and guests the best service possible.",
   "photoAlts": {
    "images/ME-0248-cover.webp": "Common Loon Property Management, Cumberland / Midcoast, ME",
    "images/ME-0248-card.webp": "Common Loon Property Management, Cumberland / Midcoast, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0248-cover.webp"
+  ]
  },
  {
   "id": "LAZY-cozy-retreat-in-lisbon-falls",
@@ -238,13 +277,20 @@
   "lng": -70.05791,
   "featured": true,
   "demo": false,
+  "description": "A welcoming two-bedroom home on a quiet one-acre lot in Lisbon Falls, Maine. The entire home sleeps up to four, with room to gather indoors and an open grassy yard outside.",
   "photoAlts": {
    "images/demos/LAZY-cozy-retreat-in-lisbon-falls-cover.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME",
    "images/demos/LAZY-cozy-retreat-in-lisbon-falls-000.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 2 of 4",
    "images/demos/LAZY-cozy-retreat-in-lisbon-falls-001.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 3 of 4",
    "images/demos/LAZY-cozy-retreat-in-lisbon-falls-002.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 4 of 4",
    "images/LAZY-cozy-retreat-in-lisbon-falls-card.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME"
-  }
+  },
+  "allPhotos": [
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-cover.webp",
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-000.webp",
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-001.webp",
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-002.webp"
+  ]
  },
  {
   "id": "ME-0043",
@@ -273,13 +319,20 @@
   "lng": -70.15579,
   "featured": false,
   "demo": false,
+  "description": "Luxury cabins, domes, glamping tents, and a Nordic Spa nestled among towering Northern Pines at the edge of the iconic dunes of the Desert of Maine in Freeport.",
   "photoAlts": {
    "images/ME-0043-cover.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME",
    "images/ME-0043-000.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME, photo 2 of 4",
    "images/ME-0043-001.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME, photo 3 of 4",
    "images/ME-0043-002.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME, photo 4 of 4",
    "images/ME-0043-card.webp": "Desert of Maine Glamping (Guesty direct site), Freeport, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0043-cover.jpg",
+   "images/ME-0043-000.jpg",
+   "images/ME-0043-001.jpg",
+   "images/ME-0043-002.jpg"
+  ]
  },
  {
   "id": "ME-0397",
@@ -308,13 +361,20 @@
   "lng": -70.3477614,
   "featured": false,
   "demo": false,
+  "description": "Driftwood Cottage has four bedrooms across two levels near the beach. A furnished seasonal porch, two bathrooms, and a fenced backyard provide space for family time indoors and outside.",
   "photoAlts": {
    "images/ME-0397-cover.jpg": "Driftwood Cottage, house in Scarborough, ME",
    "images/ME-0397-000.jpg": "Driftwood Cottage, Scarborough, ME, photo 2 of 4",
    "images/ME-0397-001.jpg": "Driftwood Cottage, Scarborough, ME, photo 3 of 4",
    "images/ME-0397-002.jpg": "Driftwood Cottage, Scarborough, ME, photo 4 of 4",
    "images/ME-0397-card.webp": "Driftwood Cottage, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0397-cover.jpg",
+   "images/ME-0397-000.jpg",
+   "images/ME-0397-001.jpg",
+   "images/ME-0397-002.jpg"
+  ]
  },
  {
   "id": "ME-0374",
@@ -343,13 +403,20 @@
   "lng": -70.3404577,
   "featured": false,
   "demo": false,
+  "description": "Family Tides has five bedrooms, several dining spaces, and an updated kitchen for group meals. A ground-floor main suite and additional upstairs recreation space give larger groups room to gather and spread out.",
   "photoAlts": {
    "images/ME-0374-cover.jpg": "Family Tides, house in Scarborough, ME",
    "images/ME-0374-000.jpg": "Family Tides, Scarborough, ME, photo 2 of 4",
    "images/ME-0374-001.jpg": "Family Tides, Scarborough, ME, photo 3 of 4",
    "images/ME-0374-002.jpg": "Family Tides, Scarborough, ME, photo 4 of 4",
    "images/ME-0374-card.webp": "Family Tides, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0374-cover.jpg",
+   "images/ME-0374-000.jpg",
+   "images/ME-0374-001.jpg",
+   "images/ME-0374-002.jpg"
+  ]
  },
  {
   "id": "ME-0383",
@@ -378,13 +445,20 @@
   "lng": -70.3498809,
   "featured": false,
   "demo": false,
+  "description": "Hank's Hideaway has four bedrooms, two bathrooms, and two living spaces for a family beach trip. Guests can walk to the shore and nearby businesses or use the trolley to reach Old Orchard Beach.",
   "photoAlts": {
    "images/ME-0383-cover.jpg": "Hank’s Hideaway, house in Scarborough, ME",
    "images/ME-0383-000.jpg": "Hank’s Hideaway, Scarborough, ME, photo 2 of 4",
    "images/ME-0383-001.jpg": "Hank’s Hideaway, Scarborough, ME, photo 3 of 4",
    "images/ME-0383-002.jpg": "Hank’s Hideaway, Scarborough, ME, photo 4 of 4",
    "images/ME-0383-card.webp": "Hank’s Hideaway, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0383-cover.jpg",
+   "images/ME-0383-000.jpg",
+   "images/ME-0383-001.jpg",
+   "images/ME-0383-002.jpg"
+  ]
  },
  {
   "id": "ME-0162",
@@ -414,12 +488,18 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Find the perfect weekly vacation rental in Harpswell for your next getaway. Enjoy the beauty of the ocean and relax in our cozy cottage rentals. harpswell rentals",
   "photoAlts": {
    "images/ME-0162-cover.webp": "Harpswell Holidays, Harpswell, ME",
    "images/ME-0162-000.webp": "Harpswell Holidays, Harpswell, ME, photo 2 of 3",
    "images/ME-0162-001.webp": "Harpswell Holidays, Harpswell, ME, photo 3 of 3",
    "images/ME-0162-card.webp": "Harpswell Holidays, Harpswell, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0162-cover.webp",
+   "images/ME-0162-000.webp",
+   "images/ME-0162-001.webp"
+  ]
  },
  {
   "id": "ME-0097",
@@ -449,13 +529,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Welcome to HigginsBeachMaine.com - your resource for rentals, real estate and community information about Higgins Beach in Scarborough, Maine.",
   "photoAlts": {
    "images/ME-0097-cover.jpg": "Higgins Beach Maine, Scarborough, ME",
    "images/ME-0097-000.jpg": "Higgins Beach Maine, Scarborough, ME, photo 2 of 4",
    "images/ME-0097-001.jpg": "Higgins Beach Maine, Scarborough, ME, photo 3 of 4",
    "images/ME-0097-002.jpg": "Higgins Beach Maine, Scarborough, ME, photo 4 of 4",
    "images/ME-0097-card.webp": "Higgins Beach Maine, Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0097-cover.jpg",
+   "images/ME-0097-000.jpg",
+   "images/ME-0097-001.jpg",
+   "images/ME-0097-002.jpg"
+  ]
  },
  {
   "id": "ME-0401",
@@ -484,13 +571,20 @@
   "lng": -70.3510653,
   "featured": false,
   "demo": false,
+  "description": "Knotty Nauti combines a wood-finished cottage interior with a sunroom overlooking the ocean. Beach access, an outdoor rinse-off shower, and nearby trolley service support days around Old Orchard Beach.",
   "photoAlts": {
    "images/ME-0401-cover.jpg": "Knotty Nauti, house in Scarborough, ME",
    "images/ME-0401-000.jpg": "Knotty Nauti, Scarborough, ME, photo 2 of 4",
    "images/ME-0401-001.jpg": "Knotty Nauti, Scarborough, ME, photo 3 of 4",
    "images/ME-0401-002.jpg": "Knotty Nauti, Scarborough, ME, photo 4 of 4",
    "images/ME-0401-card.webp": "Knotty Nauti, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0401-cover.jpg",
+   "images/ME-0401-000.jpg",
+   "images/ME-0401-001.jpg",
+   "images/ME-0401-002.jpg"
+  ]
  },
  {
   "id": "ME-0196",
@@ -519,13 +613,20 @@
   "lng": -69.8148,
   "featured": false,
   "demo": false,
+  "description": "Classic Maine, Modern Comfort Phippsburg United States, Maine",
   "photoAlts": {
    "images/ME-0196-cover.jpg": "Liberty-Rentals (Maine cottage), house in Phippsburg, ME",
    "images/ME-0196-000.jpg": "Liberty-Rentals (Maine cottage), Phippsburg, ME, photo 2 of 4",
    "images/ME-0196-001.jpg": "Liberty-Rentals (Maine cottage), Phippsburg, ME, photo 3 of 4",
    "images/ME-0196-002.jpg": "Liberty-Rentals (Maine cottage), Phippsburg, ME, photo 4 of 4",
    "images/ME-0196-card.webp": "Liberty-Rentals (Maine cottage), house in Phippsburg, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0196-cover.jpg",
+   "images/ME-0196-000.jpg",
+   "images/ME-0196-001.jpg",
+   "images/ME-0196-002.jpg"
+  ]
  },
  {
   "id": "ME-0157",
@@ -554,13 +655,20 @@
   "lng": -69.7555,
   "featured": false,
   "demo": false,
+  "description": "Voted #1 Dog Friendly vacation rental in Maine Secluded log cabin on 2 acres. Oceanfront. Kayaks. 3 BDR. Book now. Perfect for families & groups. Midcoast Maine",
   "photoAlts": {
    "images/ME-0157-cover.webp": "Little White Dog Properties (Wiggleswick Cottage), house in Georgetown, ME",
    "images/ME-0157-000.jpg": "Little White Dog Properties (Wiggleswick Cottage), Georgetown, ME, photo 2 of 4",
    "images/ME-0157-001.jpg": "Little White Dog Properties (Wiggleswick Cottage), Georgetown, ME, photo 3 of 4",
    "images/ME-0157-002.jpg": "Little White Dog Properties (Wiggleswick Cottage), Georgetown, ME, photo 4 of 4",
    "images/ME-0157-card.webp": "Little White Dog Properties (Wiggleswick Cottage), house in Georgetown, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0157-cover.webp",
+   "images/ME-0157-000.jpg",
+   "images/ME-0157-001.jpg",
+   "images/ME-0157-002.jpg"
+  ]
  },
  {
   "id": "ME-0376",
@@ -589,13 +697,20 @@
   "lng": -70.3498921,
   "featured": false,
   "demo": false,
+  "description": "Niblet Cottage offers room for four near Pine Point Beach, with an updated kitchen and bathroom. Outdoor cooking and dining space adds to the seaside setting; the neighboring Hank's Hideaway can be booked separately for a larger group.",
   "photoAlts": {
    "images/ME-0376-cover.jpg": "Niblet Cottage, house in Scarborough, ME",
    "images/ME-0376-000.jpg": "Niblet Cottage, Scarborough, ME, photo 2 of 4",
    "images/ME-0376-001.jpg": "Niblet Cottage, Scarborough, ME, photo 3 of 4",
    "images/ME-0376-002.jpg": "Niblet Cottage, Scarborough, ME, photo 4 of 4",
    "images/ME-0376-card.webp": "Niblet Cottage, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0376-cover.jpg",
+   "images/ME-0376-000.jpg",
+   "images/ME-0376-001.jpg",
+   "images/ME-0376-002.jpg"
+  ]
  },
  {
   "id": "ME-0194",
@@ -631,13 +746,20 @@
   "lng": -70.188,
   "featured": false,
   "demo": false,
+  "description": "Vacation rental house on Peaks Island near Portland, Maine offering ocean views, spacious accommodations, and an authentic island experience just minutes by ferry from downtown Portland.",
   "photoAlts": {
    "images/ME-0194-cover.jpg": "Ocean House Cottage, house in Peaks Island, ME",
    "images/ME-0194-000.jpg": "Ocean House Cottage, Peaks Island, ME, photo 2 of 4",
    "images/ME-0194-001.jpg": "Ocean House Cottage, Peaks Island, ME, photo 3 of 4",
    "images/ME-0194-002.jpg": "Ocean House Cottage, Peaks Island, ME, photo 4 of 4",
    "images/ME-0194-card.webp": "Ocean House Cottage, house in Peaks Island, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0194-cover.jpg",
+   "images/ME-0194-000.jpg",
+   "images/ME-0194-001.jpg",
+   "images/ME-0194-002.jpg"
+  ]
  },
  {
   "id": "LAZY-sabattus-shalomus",
@@ -666,13 +788,20 @@
   "lng": -70.1,
   "featured": true,
   "demo": false,
+  "description": "A freshly renovated waterfront house with a private dock, a motor boat, and a fantastic view of the water. Kids and pets are welcome, and there are no cleaning fees.",
   "photoAlts": {
    "images/demos/LAZY-sabattus-shalomus-cover.webp": "Sabattus Shalomus, house in Sabattus, ME",
    "images/demos/LAZY-sabattus-shalomus-000.webp": "Sabattus Shalomus, Sabattus, ME, photo 2 of 4",
    "images/demos/LAZY-sabattus-shalomus-001.webp": "Sabattus Shalomus, Sabattus, ME, photo 3 of 4",
    "images/demos/LAZY-sabattus-shalomus-002.webp": "Sabattus Shalomus, Sabattus, ME, photo 4 of 4",
    "images/LAZY-sabattus-shalomus-card.webp": "Sabattus Shalomus, house in Sabattus, ME"
-  }
+  },
+  "allPhotos": [
+   "images/demos/LAZY-sabattus-shalomus-cover.webp",
+   "images/demos/LAZY-sabattus-shalomus-000.webp",
+   "images/demos/LAZY-sabattus-shalomus-001.webp",
+   "images/demos/LAZY-sabattus-shalomus-002.webp"
+  ]
  },
  {
   "id": "ME-0407",
@@ -701,13 +830,20 @@
   "lng": -70.333928,
   "featured": false,
   "demo": false,
+  "description": "Salty Dolphin combines a three-bedroom main home with a separate one-bedroom in-law space in Pine Point. A backyard and two outdoor showers provide useful space after trips to the beach.",
   "photoAlts": {
    "images/ME-0407-cover.jpg": "Salty Dolphin, house in Scarborough, ME",
    "images/ME-0407-000.jpg": "Salty Dolphin, Scarborough, ME, photo 2 of 4",
    "images/ME-0407-001.jpg": "Salty Dolphin, Scarborough, ME, photo 3 of 4",
    "images/ME-0407-002.jpg": "Salty Dolphin, Scarborough, ME, photo 4 of 4",
    "images/ME-0407-card.webp": "Salty Dolphin, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0407-cover.jpg",
+   "images/ME-0407-000.jpg",
+   "images/ME-0407-001.jpg",
+   "images/ME-0407-002.jpg"
+  ]
  },
  {
   "id": "ME-0415",
@@ -736,13 +872,20 @@
   "lng": -70.344263,
   "featured": false,
   "demo": false,
+  "description": "Sea Breeze offers multiple gathering spaces and two decks near Pine Point Beach. Ocean scenery and access to nearby trolley service make it suited to a family coastal trip.",
   "photoAlts": {
    "images/ME-0415-cover.jpg": "Sea Breeze, house in Scarborough, ME",
    "images/ME-0415-000.jpg": "Sea Breeze, Scarborough, ME, photo 2 of 4",
    "images/ME-0415-001.jpg": "Sea Breeze, Scarborough, ME, photo 3 of 4",
    "images/ME-0415-002.jpg": "Sea Breeze, Scarborough, ME, photo 4 of 4",
    "images/ME-0415-card.webp": "Sea Breeze, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0415-cover.jpg",
+   "images/ME-0415-000.jpg",
+   "images/ME-0415-001.jpg",
+   "images/ME-0415-002.jpg"
+  ]
  },
  {
   "id": "ME-0002",
@@ -771,13 +914,20 @@
   "lng": -69.9961,
   "featured": false,
   "demo": false,
+  "description": "Sea Escape Cottages & Charters. Classic Maine Cottages and Traditional Sailing. Vacation rentals. Celebrating every day from an oceanside deck sence 1985",
   "photoAlts": {
    "images/ME-0002-cover.jpg": "Sea Escape Cottages, house in Bailey Island, ME",
    "images/ME-0002-000.jpg": "Sea Escape Cottages, Bailey Island, ME, photo 2 of 4",
    "images/ME-0002-001.jpg": "Sea Escape Cottages, Bailey Island, ME, photo 3 of 4",
    "images/ME-0002-002.jpg": "Sea Escape Cottages, Bailey Island, ME, photo 4 of 4",
    "images/ME-0002-card.webp": "Sea Escape Cottages, house in Bailey Island, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0002-cover.jpg",
+   "images/ME-0002-000.jpg",
+   "images/ME-0002-001.jpg",
+   "images/ME-0002-002.jpg"
+  ]
  },
  {
   "id": "ME-0044",
@@ -806,13 +956,20 @@
   "lng": -69.7555,
   "featured": false,
   "demo": false,
+  "description": "Treehouses in Georgetown Maine, Vacation rental, Glamping, New England Getaway, Honeymoon, Retreat, Seguin Tree Dwellings",
   "photoAlts": {
    "images/ME-0044-cover.webp": "Seguin Tree Dwellings, Georgetown, ME",
    "images/ME-0044-000.webp": "Seguin Tree Dwellings, Georgetown, ME, photo 2 of 4",
    "images/ME-0044-001.webp": "Seguin Tree Dwellings, Georgetown, ME, photo 3 of 4",
    "images/ME-0044-002.webp": "Seguin Tree Dwellings, Georgetown, ME, photo 4 of 4",
    "images/ME-0044-card.webp": "Seguin Tree Dwellings, Georgetown, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0044-cover.webp",
+   "images/ME-0044-000.webp",
+   "images/ME-0044-001.webp",
+   "images/ME-0044-002.webp"
+  ]
  },
  {
   "id": "ME-0528",
@@ -842,13 +999,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "OCCUPANCY LIMIT 8 - NO PETS - LITTLE SEBAGO LAKE - Wonderful classic lakeside cottage nested in the pines on the shore of Little Sebago. Has a sandy beach and large deck for taking in the lovely sunsets. A few steps lead from the deck down to ground level. Comfortable sleeping for seven, first floor bedroom, big eat in kitchen and large comfortable livingroom w/great lake view from the many windows overlooking the lake. Three bedrooms, 1.5 baths. Private lot. Convenient location, just a short drive to N. Windham and Gray for shopping, etc.",
   "photoAlts": {
    "images/ME-0528-cover.jpg": "SUNSET HAVEN LIMIT 8, house in Other, ME",
    "images/ME-0528-000.jpg": "SUNSET HAVEN LIMIT 8, Other, ME, photo 2 of 4",
    "images/ME-0528-001.jpg": "SUNSET HAVEN LIMIT 8, Other, ME, photo 3 of 4",
    "images/ME-0528-002.jpg": "SUNSET HAVEN LIMIT 8, Other, ME, photo 4 of 4",
    "images/ME-0528-card.webp": "SUNSET HAVEN LIMIT 8, house in Other, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0528-cover.jpg",
+   "images/ME-0528-000.jpg",
+   "images/ME-0528-001.jpg",
+   "images/ME-0528-002.jpg"
+  ]
  },
  {
   "id": "ME-0536",
@@ -878,13 +1042,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "OCCUPANCY LIMIT 4 - BEACHFRONT on Little Sebago Lake with a dock. 2-bedroom 1 bath cabin with an open floor plan. The living room has a large window with great views of the lake. One bedroom has a king bed, the other bedroom has 2 twin beds. Window AC units in each room. Enjoy the outside with 2 docks and a fire pit. Only one dock can be used for boats. Water supply comes from the lake (Guest need to bring their own water) There is a water cooler for 5-gallon jugs.",
   "photoAlts": {
    "images/ME-0536-cover.jpg": "SUNSET SHORES LIMIT, house in Other, ME",
    "images/ME-0536-000.jpg": "SUNSET SHORES LIMIT, Other, ME, photo 2 of 4",
    "images/ME-0536-001.jpg": "SUNSET SHORES LIMIT, Other, ME, photo 3 of 4",
    "images/ME-0536-002.jpg": "SUNSET SHORES LIMIT, Other, ME, photo 4 of 4",
    "images/ME-0536-card.webp": "SUNSET SHORES LIMIT, house in Other, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0536-cover.jpg",
+   "images/ME-0536-000.jpg",
+   "images/ME-0536-001.jpg",
+   "images/ME-0536-002.jpg"
+  ]
  },
  {
   "id": "ME-0081",
@@ -913,13 +1084,20 @@
   "lng": -69.8148,
   "featured": false,
   "demo": false,
+  "description": "Discover cozy cottages surrounded by breathtaking nature, offering the perfect blend of relaxation, comfort, and adventure for your next unforgettable escape.",
   "photoAlts": {
    "images/ME-0081-cover.png": "T. Percy Cottages, house in Phippsburg, ME",
    "images/ME-0081-000.jpg": "T. Percy Cottages, Phippsburg, ME, photo 2 of 4",
    "images/ME-0081-001.png": "T. Percy Cottages, Phippsburg, ME, photo 3 of 4",
    "images/ME-0081-002.png": "T. Percy Cottages, Phippsburg, ME, photo 4 of 4",
    "images/ME-0081-card.webp": "T. Percy Cottages, house in Phippsburg, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0081-cover.png",
+   "images/ME-0081-000.jpg",
+   "images/ME-0081-001.png",
+   "images/ME-0081-002.png"
+  ]
  },
  {
   "id": "ME-0405",
@@ -948,13 +1126,20 @@
   "lng": -70.3404115,
   "featured": false,
   "demo": false,
+  "description": "The Cove has updated indoor gathering spaces and a deck with outdoor dining and grilling facilities. Guests can walk toward Pine Point Beach, restaurants, and trolley stops; a neighboring property is separately available for larger groups.",
   "photoAlts": {
    "images/ME-0405-cover.jpg": "The Cove, house in Scarborough, ME",
    "images/ME-0405-000.jpg": "The Cove, Scarborough, ME, photo 2 of 4",
    "images/ME-0405-001.jpg": "The Cove, Scarborough, ME, photo 3 of 4",
    "images/ME-0405-002.jpg": "The Cove, Scarborough, ME, photo 4 of 4",
    "images/ME-0405-card.webp": "The Cove, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0405-cover.jpg",
+   "images/ME-0405-000.jpg",
+   "images/ME-0405-001.jpg",
+   "images/ME-0405-002.jpg"
+  ]
  },
  {
   "id": "ME-0375",
@@ -983,13 +1168,20 @@
   "lng": -70.3403916,
   "featured": false,
   "demo": false,
+  "description": "The Hidden Cove accommodates four near Pine Point Beach, overlooking the Scarborough marsh. A sun porch, laundry facilities, outdoor space, and off-street parking support a relaxed coastal stay.",
   "photoAlts": {
    "images/ME-0375-cover.jpg": "The Hidden Cove, house in Scarborough, ME",
    "images/ME-0375-000.jpg": "The Hidden Cove, Scarborough, ME, photo 2 of 4",
    "images/ME-0375-001.jpg": "The Hidden Cove, Scarborough, ME, photo 3 of 4",
    "images/ME-0375-002.jpg": "The Hidden Cove, Scarborough, ME, photo 4 of 4",
    "images/ME-0375-card.webp": "The Hidden Cove, house in Scarborough, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0375-cover.jpg",
+   "images/ME-0375-000.jpg",
+   "images/ME-0375-001.jpg",
+   "images/ME-0375-002.jpg"
+  ]
  },
  {
   "id": "ME-0163",
@@ -1018,13 +1210,20 @@
   "lng": -69.9877,
   "featured": false,
   "demo": false,
+  "description": "Dingley Island is a private oceanfront Maine vacation rental near Bowdoin College, offering a main house, seasonal bunkhouse, resort-style amenities, and exceptional privacy.",
   "photoAlts": {
    "images/ME-0163-cover.jpg": "The Maine House on Dingley, house in Harpswell, ME",
    "images/ME-0163-000.jpg": "The Maine House on Dingley, Harpswell, ME, photo 2 of 4",
    "images/ME-0163-001.jpg": "The Maine House on Dingley, Harpswell, ME, photo 3 of 4",
    "images/ME-0163-002.jpg": "The Maine House on Dingley, Harpswell, ME, photo 4 of 4",
    "images/ME-0163-card.webp": "The Maine House on Dingley, house in Harpswell, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0163-cover.jpg",
+   "images/ME-0163-000.jpg",
+   "images/ME-0163-001.jpg",
+   "images/ME-0163-002.jpg"
+  ]
  },
  {
   "id": "ME-0504",
@@ -1054,13 +1253,20 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "OCCUPANCY LIMIT 8 - PET OK with $125 fee- LITTLE SEBAGO LAKE - BEACHFRONT. A little bit of yesteryear and a whole lot of BEACH comes with this comfortable old fashioned lakeside cottage on Little Sebago Lake. Livingroom with fireplace. Nice deck on lakeside overlooking the water. Three bedrooms plus sleeping alcove. Bath with shower. Convenient location, easy drive to shopping and a short drive into Portland for oceanside shopping and dining. Shared swim float. Great lake for swimming, boating, and fishing- and a great spot for just relaxing at the beach! Firepit.",
   "photoAlts": {
    "images/ME-0504-cover.jpg": "WESTVIEW LIMIT 8, house in Other, ME",
    "images/ME-0504-000.jpg": "WESTVIEW LIMIT 8, Other, ME, photo 2 of 4",
    "images/ME-0504-001.jpg": "WESTVIEW LIMIT 8, Other, ME, photo 3 of 4",
    "images/ME-0504-002.jpg": "WESTVIEW LIMIT 8, Other, ME, photo 4 of 4",
    "images/ME-0504-card.webp": "WESTVIEW LIMIT 8, house in Other, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0504-cover.jpg",
+   "images/ME-0504-000.jpg",
+   "images/ME-0504-001.jpg",
+   "images/ME-0504-002.jpg"
+  ]
  },
  {
   "id": "ME-0226",
@@ -1090,12 +1296,19 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "Reach out to YIC and find out more about Maine vacation homes on the coast",
   "photoAlts": {
    "images/ME-0226-cover.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME",
    "images/ME-0226-000.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME, photo 2 of 4",
    "images/ME-0226-001.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME, photo 3 of 4",
    "images/ME-0226-002.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME, photo 4 of 4",
    "images/ME-0226-card.webp": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME"
-  }
+  },
+  "allPhotos": [
+   "images/ME-0226-cover.jpg",
+   "images/ME-0226-000.jpg",
+   "images/ME-0226-001.jpg",
+   "images/ME-0226-002.jpg"
+  ]
  }
 ]

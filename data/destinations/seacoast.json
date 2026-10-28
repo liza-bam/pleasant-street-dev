@@ -27,12 +27,18 @@
   "askAddress": true,
   "featured": false,
   "demo": false,
+  "description": "New England vacation rental manager with homes on the NH Seacoast,in the Lakes Region and White Mountains.",
   "photoAlts": {
    "images/NH-0051-cover.webp": "Seacoast2Summit Vacation Rentals, cabin in Portsmouth, NH",
    "images/NH-0051-000.webp": "Seacoast2Summit Vacation Rentals, Portsmouth, NH, photo 2 of 3",
    "images/NH-0051-001.webp": "Seacoast2Summit Vacation Rentals, Portsmouth, NH, photo 3 of 3",
    "images/NH-0051-card.webp": "Seacoast2Summit Vacation Rentals, cabin in Portsmouth, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0051-cover.webp",
+   "images/NH-0051-000.webp",
+   "images/NH-0051-001.webp"
+  ]
  },
  {
   "id": "NH-0035",
@@ -61,12 +67,19 @@
   "lng": -70.8359,
   "featured": false,
   "demo": false,
+  "description": "Beachfront cottages, townhouses and studios in North Hampton.",
   "photoAlts": {
    "images/NH-0035-cover.webp": "Seaside Village Resort, North Hampton, NH",
    "images/NH-0035-000.webp": "Seaside Village Resort, North Hampton, NH, photo 2 of 4",
    "images/NH-0035-001.webp": "Seaside Village Resort, North Hampton, NH, photo 3 of 4",
    "images/NH-0035-002.webp": "Seaside Village Resort, North Hampton, NH, photo 4 of 4",
    "images/NH-0035-card.webp": "Seaside Village Resort, North Hampton, NH"
-  }
+  },
+  "allPhotos": [
+   "images/NH-0035-cover.webp",
+   "images/NH-0035-000.webp",
+   "images/NH-0035-001.webp",
+   "images/NH-0035-002.webp"
+  ]
  }
 ]

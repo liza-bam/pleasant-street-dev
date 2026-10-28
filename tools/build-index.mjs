@@ -51,13 +51,15 @@ const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefin
 // and dynamic `h[key]` access (factRows' guests/bedrooms/bathrooms/pets/kids) before trimming this list.
 const PUBLIC_FIELDS = ['id', 'name', 'url', 'place', 'town', 'state', 'destination', 'type', 'recordType',
   'cardDescription', 'cardPhotos', 'platformLinks', 'guests', 'bedrooms', 'bathrooms', 'kids', 'pets',
-  'photo', 'lat', 'lng', 'locationLabel', 'askAddress', 'featured', 'demo'];
+  'photo', 'lat', 'lng', 'locationLabel', 'askAddress', 'featured', 'demo', 'description'];
 // Alt texts ride along per photo file (written into data/homes.json by tools/photo-alts.py).
 const indexed = homes.map((h) => {
   const row = pick(h, PUBLIC_FIELDS), alts = {};
   for (const p of h.photos || []) if (p && p.file && p.alt) alts[p.file] = p.alt;
   if (h.photo && h.photoAlt) alts[h.photo] = h.photoAlt;
   if (Object.keys(alts).length) row.photoAlts = alts;
+  const files = (h.photos || []).map((p) => p && p.file).filter(Boolean);   // every photo, for the opened card
+  if (files.length) row.allPhotos = files;
   return row;
 });
 fs.writeFileSync(path.join(ROOT, 'index.md'), md.replace(/[ \t]+$/gm, ''));

@@ -21,13 +21,20 @@
   "lng": -71.96945,
   "featured": false,
   "demo": false,
+  "description": "Cottage colony in Montauk a short walk from the beach, with separate cottages, a sea-view unit and a guest suite; each with kitchen and outdoor space.",
   "photoAlts": {
    "images/NY-0031-cover.webp": "Hither House Cottages, cabin in Montauk, NY",
    "images/NY-0031-000.webp": "Hither House Cottages, Montauk, NY, photo 2 of 4",
    "images/NY-0031-001.webp": "Hither House Cottages, Montauk, NY, photo 3 of 4",
    "images/NY-0031-002.webp": "Hither House Cottages, Montauk, NY, photo 4 of 4",
    "images/NY-0031-card.webp": "Hither House Cottages, cabin in Montauk, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0031-cover.webp",
+   "images/NY-0031-000.webp",
+   "images/NY-0031-001.webp",
+   "images/NY-0031-002.webp"
+  ]
  },
  {
   "id": "NY-0029",
@@ -51,12 +58,19 @@
   "lng": -72.6606,
   "featured": false,
   "demo": false,
+  "description": "Secluded three-acre waterfront house in Westhampton with heated pool, hot tub, dock with kayaks and water views over Beaverdam Creek; four bedrooms, sleeps 10.",
   "photoAlts": {
    "images/NY-0029-cover.webp": "Westhampton Vacation Rentals — Waterfront Estate, house in Westhampton, NY",
    "images/NY-0029-000.webp": "Westhampton Vacation Rentals — Waterfront Estate, Westhampton, NY, photo 2 of 4",
    "images/NY-0029-001.webp": "Westhampton Vacation Rentals — Waterfront Estate, Westhampton, NY, photo 3 of 4",
    "images/NY-0029-002.webp": "Westhampton Vacation Rentals — Waterfront Estate, Westhampton, NY, photo 4 of 4",
    "images/NY-0029-card.webp": "Westhampton Vacation Rentals — Waterfront Estate, house in Westhampton, NY"
-  }
+  },
+  "allPhotos": [
+   "images/NY-0029-cover.webp",
+   "images/NY-0029-000.webp",
+   "images/NY-0029-001.webp",
+   "images/NY-0029-002.webp"
+  ]
  }
 ]
