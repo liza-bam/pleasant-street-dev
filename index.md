@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7867 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7870 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -5807,6 +5807,54 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — families encouraged
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
+
+## CAMPTONS — The Camptons Cottage
+
+- ID: NY-0170
+- Town / area (approximate map location): Tannersville, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.camptons.com/property/the-camptons-cottage
+
+## CAMPTONS — The Camptons House
+
+- ID: NY-0171
+- Town / area (approximate map location): Haines Falls, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 7
+- Bathrooms: Unknown
+- Sleeps: 14
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.camptons.com/property/the-camptons-house
+
+## CAMPTONS — The Camptons Pod
+
+- ID: NY-0172
+- Town / area (approximate map location): Haines Falls, NY
+- Tourist destination: Catskills
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.camptons.com/property/the-camptons-pod
 
 ## Candlelight Cottages — Lakeside, hillside cottages and log cabins
 
