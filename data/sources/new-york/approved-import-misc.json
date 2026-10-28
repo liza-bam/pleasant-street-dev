@@ -1,0 +1,1329 @@
+[
+ {
+  "id": "NY-0150",
+  "name": "Irwin Bay Cottages — Cottage 1",
+  "url": "https://irwinbaycottages.com/cottage-1.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-1.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0150-cover.webp",
+  "coverPhoto": "images/NY-0150-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0150-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0150-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0150-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0150-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-1.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-1.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-1.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-1.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0151",
+  "name": "Irwin Bay Cottages — Cottage 2",
+  "url": "https://irwinbaycottages.com/cottage-2.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-2.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0151-cover.webp",
+  "coverPhoto": "images/NY-0151-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0151-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0151-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0151-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0151-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-2.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-2.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-2.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 1. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-2.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0152",
+  "name": "Irwin Bay Cottages — Cottage 3",
+  "url": "https://irwinbaycottages.com/cottage-3.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-3.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0152-cover.webp",
+  "coverPhoto": "images/NY-0152-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0152-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0152-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0152-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0152-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-3.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-3.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-3.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-3.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0153",
+  "name": "Irwin Bay Cottages — Cottage 4",
+  "url": "https://irwinbaycottages.com/cottage-4.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-4.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0153-cover.webp",
+  "coverPhoto": "images/NY-0153-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0153-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0153-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0153-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0153-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-4.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-4.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-4.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-4.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0154",
+  "name": "Irwin Bay Cottages — Cottage 5",
+  "url": "https://irwinbaycottages.com/cottage-5.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-5.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0154-cover.webp",
+  "coverPhoto": "images/NY-0154-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0154-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0154-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0154-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0154-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-5.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-5.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-5.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-5.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0155",
+  "name": "Irwin Bay Cottages — Cottage 6",
+  "url": "https://irwinbaycottages.com/cottage-6.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-6.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 6,
+  "capacityDetails": "6",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0155-cover.webp",
+  "coverPhoto": "images/NY-0155-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0155-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0155-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0155-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0155-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-6.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-6.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-6.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 3. Sleeps 6."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-6.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0156",
+  "name": "Irwin Bay Cottages — Cottage 7",
+  "url": "https://irwinbaycottages.com/cottage-7.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-7.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0156-cover.webp",
+  "coverPhoto": "images/NY-0156-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0156-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0156-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0156-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0156-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-7.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-7.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-7.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-7.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0157",
+  "name": "Irwin Bay Cottages — Cottage 8",
+  "url": "https://irwinbaycottages.com/cottage-8.html",
+  "town": "Mayville",
+  "state": "NY",
+  "place": "Mayville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://irwinbaycottages.com/cottage-8.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0157-cover.webp",
+  "coverPhoto": "images/NY-0157-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0157-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0157-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0157-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0157-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5088 West Lake Road",
+   "city": "Mayville",
+   "state": "NY",
+   "postalCode": "14757",
+   "full": "5088 West Lake Road, Mayville, NY 14757",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-8.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://irwinbaycottages.com/cottage-8.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://irwinbaycottages.com/cottage-8.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Irwin Bay Cottages: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.23205,
+  "lng": -79.48763,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://irwinbaycottages.com/cottage-8.html",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0161",
+  "name": "Olcott Vacation Rentals — Althea Corner",
+  "url": "https://olcottrentals.com/en/4331338/althea-corner",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/4331338/althea-corner",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0161-cover.webp",
+  "coverPhoto": "images/NY-0161-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0161-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0161-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0161-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "3 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/4331338/althea-corner",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/4331338/althea-corner",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/4331338/althea-corner",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 43.335938,
+  "lng": -78.711723,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://olcottrentals.com/en/4331338/althea-corner",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0162",
+  "name": "Olcott Vacation Rentals — Wineries Anyone",
+  "url": "https://olcottrentals.com/en/4336133/wineries-anyone",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/4336133/wineries-anyone",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0162-cover.webp",
+  "coverPhoto": "images/NY-0162-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0162-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0162-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0162-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0162-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/4336133/wineries-anyone",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/4336133/wineries-anyone",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/4336133/wineries-anyone",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false
+ },
+ {
+  "id": "NY-0163",
+  "name": "Olcott Vacation Rentals — The Albright House",
+  "url": "https://olcottrentals.com/en/783207/the-albright-house",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/783207/the-albright-house",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0163-cover.webp",
+  "coverPhoto": "images/NY-0163-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0163-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0163-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0163-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0163-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/783207/the-albright-house",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/783207/the-albright-house",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/783207/the-albright-house",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 43.33647,
+  "lng": -78.718192,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://olcottrentals.com/en/783207/the-albright-house",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0164",
+  "name": "Olcott Vacation Rentals — The Franklin House",
+  "url": "https://olcottrentals.com/en/783602/the-franklin-house",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/783602/the-franklin-house",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0164-cover.webp",
+  "coverPhoto": "images/NY-0164-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0164-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0164-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0164-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0164-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/783602/the-franklin-house",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/783602/the-franklin-house",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/783602/the-franklin-house",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 43.336778,
+  "lng": -78.71821,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://olcottrentals.com/en/783602/the-franklin-house",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0165",
+  "name": "Olcott Vacation Rentals — The Tenbrook House",
+  "url": "https://olcottrentals.com/en/783614/the-tenbrook-house",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/783614/the-tenbrook-house",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0165-cover.webp",
+  "coverPhoto": "images/NY-0165-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0165-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0165-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0165-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0165-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/783614/the-tenbrook-house",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/783614/the-tenbrook-house",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/783614/the-tenbrook-house",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 43.336803,
+  "lng": -78.718107,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://olcottrentals.com/en/783614/the-tenbrook-house",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0166",
+  "name": "Olcott Vacation Rentals — The Harbor House",
+  "url": "https://olcottrentals.com/en/783615/the-harbor-house",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/783615/the-harbor-house",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0166-cover.webp",
+  "coverPhoto": "images/NY-0166-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0166-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0166-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0166-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0166-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/783615/the-harbor-house",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/783615/the-harbor-house",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/783615/the-harbor-house",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 5."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 43.336996,
+  "lng": -78.718402,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://olcottrentals.com/en/783615/the-harbor-house",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0167",
+  "name": "Olcott Vacation Rentals — The Fletcher House",
+  "url": "https://olcottrentals.com/en/783616/the-fletcher-house",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/783616/the-fletcher-house",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0167-cover.webp",
+  "coverPhoto": "images/NY-0167-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0167-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0167-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0167-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0167-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/783616/the-fletcher-house",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/783616/the-fletcher-house",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/783616/the-fletcher-house",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 43.336457,
+  "lng": -78.718304,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://olcottrentals.com/en/783616/the-fletcher-house",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0168",
+  "name": "Olcott Vacation Rentals — The Hamilton House",
+  "url": "https://olcottrentals.com/en/843054/the-hamilton-house",
+  "town": "Olcott",
+  "state": "NY",
+  "place": "Olcott, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://olcottrentals.com/en/843054/the-hamilton-house",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0168-cover.webp",
+  "coverPhoto": "images/NY-0168-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0168-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0168-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0168-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0168-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Olcott",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://olcottrentals.com/en/843054/the-hamilton-house",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://olcottrentals.com/en/843054/the-hamilton-house",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (owner websites by destination)",
+   "sourceUrl": "https://olcottrentals.com/en/843054/the-hamilton-house",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Olcott Vacation Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 43.336077,
+  "lng": -78.718553,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://olcottrentals.com/en/843054/the-hamilton-house",
+  "locationCheckedOn": "2026-10-27"
+ }
+]
