@@ -254,8 +254,9 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app-floating-controls > * { pointer-events: auto; }
   /* Cards on phone: the search and the control pill are part of the page, one under the other, above the list —
      not floating over it. The sticky header keeps them on top while the list scrolls. (Map keeps them floating.) */
-  .app--cards .app-floating-controls { position: static; transform: none; margin: 8px auto 0; gap: 6px; }
-  .app--cards .app-header { padding-bottom: 6px; background: var(--tint); }
+  .app--cards .app-header { display: contents; }
+  .app--cards .app-floating-controls { position: sticky; top: 0; left: auto; z-index: 600; transform: none; width: 100%; max-width: none; margin: 0; padding: 8px 12px 6px; gap: 6px; background: var(--tint); }
+  .app--cards .app-floating-controls > * { width: 100%; max-width: 420px; justify-self: center; }
   .app--cards .app-body { padding-top: 4px; }
   /* Sheet dragged all the way up: the mint band goes, the pill goes to the top, the sheet's handle and count start under it. */
   /* Map on a destination page: the floating search starts under the thin band, so the band shows on open; dragging the sheet up removes it. */
