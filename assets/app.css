@@ -355,7 +355,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app.app--detail-open:not(.app--cards) .ps-sheet-handle { display: flex; height: 48px; min-height: 48px; padding-top: 16px; }
   .app--detail-open .ps-sheet-count { display: none; }
   .app--detail-peek .ps-selected__content { overflow-y: hidden; touch-action: none; }
-  .app.app--detail-open.app--sheet-expanded:not(.app--cards) .app-results { inset: 0; height: 100%; max-height: 100%; border-radius: 0; }
+  .app.app--detail-open.app--sheet-expanded:not(.app--cards) .app-results { inset: 0; height: 100%; max-height: 100%; padding-top: 0; border-radius: 0; }
   .app--detail-open .ps-selected { position: relative; display: flex; flex: 1; flex-direction: column; min-height: 0; overflow: hidden; }
   .ps-selected__toolbar { position: absolute; top: 10px; right: 10px; left: 10px; z-index: 3; display: flex; justify-content: flex-end; }
   .ps-selected__toolbar > span { display: none; }
