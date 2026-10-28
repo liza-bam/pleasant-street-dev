@@ -335,7 +335,7 @@
     var displayPlace = h.place + (h.locationLabel ? ' · ' + h.locationLabel : '');
     var slots = tiny || detail ? [0] : [0, 1, 2];   // the opened card: the cover on top, the rest under the button
     var gallery = slots.map(function (i) {   // every photo is a link to the home's website, like the arrow and the button
-      return images[i] ? '<a class="ps-gallery-link' + (i ? '' : ' ps-gallery-link--cover') + '" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener" aria-label="Open ' + esc(h.name) + '’s website"><img src="' + esc(src(images[i])) + '" alt="' + esc(altFor(h, images[i], i)) + '" loading="lazy" decoding="async"></a>' : '<span class="ps-gallery__pending">' + (h.loaded ? 'Photo unavailable' : '') + '</span>';
+      return images[i] ? '<a class="ps-gallery-link' + (i ? '' : ' ps-gallery-link--cover') + '" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener" aria-label="Open ' + esc(h.name) + '’s website"><img src="' + esc(src(images[i])) + '" alt="' + esc(altFor(h, images[i], i)) + '" loading="lazy" decoding="async"></a>' : '<span class="ps-gallery__pending' + (i ? '' : ' ps-gallery__pending--cover') + '">' + (h.loaded ? 'Photo unavailable' : '') + '</span>';
     }).join('');
     var actions = '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website</a>' +
       (h.demo || h.featured ? '' : '<p class="ps-home__independent">Not affiliated with LAZY.</p>') + '</div>';
