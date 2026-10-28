@@ -385,7 +385,7 @@
   function show() {
     syncSearchSummary();
     if (!loaded) {
-      listEl.innerHTML = '<p class="ps-none">Loading homes…</p>';
+      listEl.innerHTML = '<div class="ps-loading" role="status"><img src="assets/lazy-cat-loading.gif" alt="" width="192" height="192"><span>Loading homes…</span></div>';
       countEl.textContent = '';
       return [];
     }
