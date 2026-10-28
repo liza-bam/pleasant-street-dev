@@ -126,6 +126,15 @@
     });
   }, true);
   searchDialog.addEventListener('click', function (e) { if (e.target === searchDialog) searchDialog.close(); });
+  /* The phone keyboard shrinks the visible viewport but not 100dvh: size and place the dialog from the visual viewport. */
+  function fitSearchToViewport() {
+    var vv = window.visualViewport; if (!vv) return;
+    searchDialog.style.setProperty('--vv-h', Math.round(vv.height) + 'px');
+    searchDialog.style.setProperty('--vv-top', Math.round(vv.offsetTop) + 'px');
+    searchDialog.classList.toggle('ps-search--tight', vv.height < 620);
+  }
+  if (window.visualViewport) { window.visualViewport.addEventListener('resize', fitSearchToViewport); window.visualViewport.addEventListener('scroll', fitSearchToViewport); }
+  fitSearchToViewport();
   filterToggle.addEventListener('click', function () {
     var open = filterToggle.getAttribute('aria-expanded') !== 'true';
     filterToggle.setAttribute('aria-expanded', String(open));

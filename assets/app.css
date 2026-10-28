@@ -402,10 +402,20 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .ps-home--detail .ps-home__actions { grid-template-columns: 1fr; padding-top: 12px; }
   @keyframes ps-card-arrive { from { opacity: .5; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
 }
-.ps-search { --search-top: min(80px, 10dvh); position: fixed; inset-inline: 0; top: var(--search-top); bottom: auto; width: calc(100% - 24px); height: auto; max-width: 540px; max-height: calc(100dvh - var(--search-top) - 16px); margin: 0 auto; padding: 0; border: 1px solid #dbe8e1; border-radius: 22px; background: white; color: var(--ink); font-family: var(--serif); box-shadow: 0 16px 54px #17363c38; }
+.ps-search { --search-top: min(80px, 10dvh); position: fixed; inset-inline: 0; top: calc(var(--vv-top, 0px) + var(--search-top)); bottom: auto; width: calc(100% - 24px); height: auto; max-width: 540px; max-height: calc(var(--vv-h, 100dvh) - var(--search-top) - 16px); margin: 0 auto; padding: 0; border: 1px solid #dbe8e1; border-radius: 22px; background: white; color: var(--ink); font-family: var(--serif); box-shadow: 0 16px 54px #17363c38; }
 .ps-search::backdrop { background: #17363c38; }
 .ps-search:not([open]) { display: none; }
 .ps-search__form { display: flex; flex-direction: column; max-height: inherit; }
+/* Keyboard up (the visible viewport is short): the dialog hugs the top and tightens so Where, Who and Search all fit above the keys. */
+.ps-search--tight { --search-top: 8px; }
+.ps-search--tight .ps-search__body { padding: 8px; }
+.ps-search--tight .ps-search__section { padding: 10px 12px; margin-bottom: 8px; border-radius: 12px; }
+.ps-search--tight .ps-search__section-head { margin-bottom: 6px; }
+.ps-search--tight .ps-search__section h3 { font-size: 16px; }
+.ps-search--tight .ps-search__where input { height: 42px; }
+.ps-search--tight .ps-search__who p { display: none; }
+.ps-search--tight .ps-search__footer { padding: 8px 12px; }
+.ps-search--tight .ps-search__footer button { min-height: 42px; }
 .ps-search__section-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
 .ps-search__section-head button { display: grid; place-items: center; width: 34px; height: 34px; padding: 0; border: 0; border-radius: 50%; background: #f2f7f4; color: var(--ink); cursor: pointer; }
 .ps-search__section-head svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; }
