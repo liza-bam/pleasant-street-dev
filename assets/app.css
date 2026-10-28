@@ -62,12 +62,22 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 .app-view-switch svg { width: 16px; height: 16px; stroke: currentColor; fill: none; stroke-width: 1.6; stroke-linejoin: round; }
 button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline-offset: 3px; }
 /* A destination page: the place's name on the water, then its homes. */
-/* The destination's name band: small and centered. */
-.ps-dest { padding: 8px var(--gutter) 10px; background: var(--water); color: var(--ink); text-align: center; }
-.ps-dest__name { margin: 0; font: 400 clamp(26px, 3.2vw, 36px)/1.1 var(--script); }
+/* The destination's name band. Desktop and phone each get their own strict rule set below. */
+.ps-dest { background: var(--water); color: var(--ink); }
+.ps-dest__name { margin: 0; font-family: var(--script); font-weight: 400; line-height: 1.1; }
 .ps-dest__count { margin: 2px 0 0; font: 13px/1.4 var(--serif); }
-/* Phone: the mint band is a thin strip behind the floating search; its count line is hidden (it sat behind the control pill). */
-@media (max-width: 760px) { .ps-dest { padding: 4px 16px 5px; } .ps-dest__name { font-size: 24px; } .ps-dest__count { display: none; } }
+/* Desktop (761px and up): centered name with the count line under it. */
+@media (min-width: 761px) {
+  .ps-dest { padding: 8px var(--gutter) 10px; text-align: center; }
+  .ps-dest__name { font-size: clamp(26px, 3.2vw, 36px); text-align: center; }
+  .ps-dest__count { display: block; text-align: center; }
+}
+/* Phone (760px and down): thin strip behind the floating search; name on the left; count hidden (it sat behind the control pill). */
+@media (max-width: 760px) {
+  .ps-dest { padding: 4px 16px 5px; text-align: left; }
+  .ps-dest__name { font-size: 24px; text-align: left; }
+  .ps-dest__count { display: none; }
+}
 .app-destinations { display: flex; align-items: center; gap: 8px; padding: 10px 16px; overflow-x: auto; white-space: nowrap; background: #f7fcfa; border-bottom: 1px solid var(--line); scrollbar-width: thin; }
 .app-destinations[hidden] { display: none; }
 .app-destinations__label { color: var(--mute); font-size: 12px; margin-right: 4px; }
