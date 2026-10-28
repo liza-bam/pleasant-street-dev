@@ -38,7 +38,7 @@
   var destinationsEl = document.getElementById('ps-destinations');
   var filterToggle = document.getElementById('ps-filter-toggle'), filterCount = document.getElementById('ps-filter-count');
   var headerEl = document.querySelector('.app-header'), resultsEl = document.querySelector('.app-results');
-  var controlsRow = document.getElementById('ps-controls'), headerActions = document.querySelector('.app-header-actions');
+  var headerActions = document.querySelector('.app-header-actions'), searchRow = document.querySelector('.app-search-row'), viewSwitch = document.querySelector('.app-view-switch');
   var cardControls = document.querySelector('.app-card-controls'), appBar = document.querySelector('.app-bar');
   var bodyEl = document.querySelector('.app-body'), filterPanel = document.getElementById('ps-filter-panel');
   var sheetHandle = document.getElementById('ps-sheet-handle'), sheetRatio = 0.48, sheetDrag = null;
@@ -136,15 +136,18 @@
   function syncMapScroll() {
     if (phoneLayout.matches) {
       map.scrollWheelZoom.disable();
-      if (headerActions.parentElement !== controlsRow) controlsRow.appendChild(headerActions);
-      if (cardControls.parentElement !== controlsRow) controlsRow.appendChild(cardControls);
+      // Phone: the filter icon sits in the search pill; the view and card-size switches live inside the filter panel.
+      if (filterToggle.parentElement !== searchRow) searchRow.appendChild(filterToggle);
+      if (viewSwitch.parentElement !== filterPanel) filterPanel.appendChild(viewSwitch);
+      if (cardControls.parentElement !== filterPanel) filterPanel.appendChild(cardControls);
       if (filterPanel.parentElement !== floatingControls) floatingControls.appendChild(filterPanel);
       q.placeholder = 'Where to?';
       q.readOnly = true; q.setAttribute('aria-haspopup', 'dialog');
     } else {
       map.scrollWheelZoom.enable();
-      if (headerActions.parentElement !== appBar) appBar.appendChild(headerActions);
-      if (cardControls.parentElement !== headerActions) headerActions.insertBefore(cardControls, headerActions.querySelector('.app-view-switch'));
+      if (filterToggle.parentElement !== headerActions) headerActions.insertBefore(filterToggle, headerActions.firstChild);
+      if (viewSwitch.parentElement !== headerActions) headerActions.appendChild(viewSwitch);
+      if (cardControls.parentElement !== headerActions) headerActions.insertBefore(cardControls, viewSwitch);
       if (filterPanel.parentElement !== resultsEl) resultsEl.insertBefore(filterPanel, listEl);
       q.placeholder = 'Where to? City or state';
       q.readOnly = false; q.removeAttribute('aria-haspopup');
