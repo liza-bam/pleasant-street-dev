@@ -385,6 +385,9 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app--detail-open .ps-selected__toolbar { justify-content: space-between; }
   .ps-selected__tools { display: flex; gap: 8px; }
   .ps-home--detail .ps-home__actions .ps-home__independent { margin: 8px 0 0; }
+  /* In the drawer (not yet full) the button floats over the bottom of the cover, so it shows at any drawer height. */
+  .app--detail-peek .ps-home--detail > .ps-home__actions { position: relative; z-index: 3; margin-top: -74px; }
+  .app--detail-peek .ps-home--detail > .ps-home__actions .ps-home__independent { color: var(--ink); }
   .ps-home--detail .ps-home__more-photos { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; padding: 0 16px 20px; }
   .ps-home--detail .ps-home__more-photos img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px; }
   .ps-selected__toolbar button { display: grid; place-items: center; width: 38px; height: 38px; border: 1px solid #17363c12; border-radius: 50%; background: #fffffff5; color: var(--ink); box-shadow: var(--shadow); cursor: pointer; }
