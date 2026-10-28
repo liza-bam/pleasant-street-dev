@@ -17,6 +17,19 @@ BASE = 'https://liza-bam.github.io/pleasant-street-dev'
 slug = lambda name: re.sub(r'[^a-z0-9]+', '_', re.sub(r"'s\b", '', name.lower())).strip('_')
 page = (SITE / 'index.html').read_text()
 homes = json.loads((SITE / 'index.json').read_text())
+
+# The page downloads only each home's location and facts (data/pins.json, data/destinations/<slug>.json);
+# a home's photos, text and link live in data/homes/<id>.json and load when its card is on screen.
+LIGHT = ['id', 'name', 'place', 'town', 'state', 'destination', 'type', 'recordType', 'guests', 'bedrooms', 'bathrooms',
+         'kids', 'pets', 'lat', 'lng', 'featured', 'demo', 'locationLabel']
+light = lambda h: {k: h[k] for k in LIGHT if k in h}
+detail = lambda h: {k: v for k, v in h.items() if k not in LIGHT}
+compact = lambda rows: json.dumps(rows, ensure_ascii=False, separators=(',', ':'))
+(SITE / 'data' / 'homes').mkdir(parents=True, exist_ok=True)
+for h in homes:
+    (SITE / 'data' / 'homes' / f"{h['id']}.json").write_text(compact(detail(h)))
+(SITE / 'data' / 'pins.json').write_text(compact([light(h) for h in homes]))
+(SITE / 'data' / 'destinations').mkdir(parents=True, exist_ok=True)
 counts = {}
 for h in homes:
     if h.get('destination') and h['destination'] != 'Unknown': counts[h['destination']] = counts.get(h['destination'], 0) + 1
@@ -38,7 +51,8 @@ for name, n in sorted(counts.items()):
     html = html.replace('content="Find independent vacation rentals on the map. Explore each home, then book directly through the host\u2019s own website."', f'content="{page_desc}"', 1)
     html = html.replace('content="https://liza-bam.github.io/pleasant-street-dev/"', f'content="{page_url}"', 1)
     html = html.replace('content="Find your place. Book directly. Vacation rentals by independent hosts."', f'content="{page_desc}"', 1)
-    html = html.replace('data-src="index.json"', f'data-src="data/destinations/{slug(name)}.json"', 1)
+    html = html.replace('data-src="data/pins.json"', f'data-src="data/destinations/{slug(name)}.json"', 1)
+    (SITE / 'data' / 'destinations' / f'{slug(name)}.json').write_text(compact([light(h) for h in homes if h.get('destination') == name]))
     (SITE / slug(name)).mkdir(exist_ok=True)
     (SITE / slug(name) / 'index.html').write_text(html)
     urls.append(f'{BASE}/{slug(name)}/')

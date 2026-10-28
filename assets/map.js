@@ -169,7 +169,7 @@
   /* Every home but the featured ones gathers into a circle with its count; a circle splits as the map
      zooms in, and homes on one spot fan out when it is clicked. Featured homes stay pins, on the map itself,
      so pins and circles always add up to the homes in the list. */
-  var cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 48,
+  var cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 48, chunkedLoading: true,
     iconCreateFunction: function (c) {
       var n = c.getChildCount(), size = n < 10 ? 34 : n < 100 ? 42 : 50;
       return L.divIcon({ html: '<span>' + n + '</span>', className: 'app-cluster', iconSize: L.point(size, size) });
@@ -198,6 +198,30 @@
   }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function known(v) { return v !== undefined && v !== null && v !== '' && v !== 'Unknown'; }
+  /* The page loads only each home's location and facts. Its photos, text and link (data/homes/<id>.json)
+     arrive when its card is on screen, and the card is redrawn in place. */
+  var byId = {};
+  function detailsOf(h) {
+    if (h.loaded) return Promise.resolve(h);
+    if (!h.loading) h.loading = fetch('data/homes/' + encodeURIComponent(h.id) + '.json').then(function (r) { return r.ok ? r.json() : {}; })
+      .then(function (d) { Object.assign(h, d); h.loaded = true; return h; }).catch(function () { h.loading = null; return h; });
+    return h.loading;
+  }
+  function refreshCards(h) {
+    if (!h.loaded) return;
+    document.querySelectorAll('[data-property="' + h.id + '"]').forEach(function (el) {
+      var html = el.classList.contains('ps-card') ? card(h, h.missing, !!el.querySelector('[data-select-property]'))
+        : fullCard(h, h.missing, el.classList.contains('ps-home--tiny'), el.classList.contains('ps-home--detail'));
+      var tmp = document.createElement('div'); tmp.innerHTML = html;
+      el.replaceWith(tmp.firstElementChild);
+    });
+  }
+  function hydrate(container) {
+    container.querySelectorAll('[data-property]').forEach(function (el) {
+      var h = byId[el.dataset.property];
+      if (h && !h.loaded) detailsOf(h).then(refreshCards);
+    });
+  }
   // Count confirmed card features; conditional policies remain incomplete.
   function featureCompleteness(h) {
     return ['guests', 'bedrooms', 'bathrooms', 'pets', 'kids'].filter(function (key) { return known(h[key]) && h[key] !== 'Conditional'; }).length;
@@ -250,17 +274,17 @@
     var displayPlace = h.place + (h.locationLabel ? ' · ' + h.locationLabel : '');
     var slots = tiny ? [0] : detail ? (images.length ? images.map(function (_, i) { return i; }) : [0]) : [0, 1, 2];
     var gallery = slots.map(function (i) {
-      return images[i] ? '<img src="' + esc(src(images[i])) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">Photo unavailable</span>';
+      return images[i] ? '<img src="' + esc(src(images[i])) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">' + (h.loaded ? 'Photo unavailable' : '') + '</span>';
     }).join('');
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
       '<div class="ps-gallery">' + listingBadge(h) + (h.featured ? madeBadge() : detail ? '' : '<a class="ps-claim-badge" href="' + esc(claimHref) + '" aria-label="Claim ' + esc(h.name) + ' on Pleasant Street by email"><img class="ps-claim-badge__logo" src="favicon.ico" alt="LAZY" width="20" height="20"><span>Claim your house</span></a>') + '<div class="ps-photo-platforms">' + platformBadges(h) + '</div>' +
       (detail ? '<div class="ps-photo-strip" tabindex="0" aria-label="Photos of ' + esc(h.name) + '">' + gallery + '</div><span class="ps-photo-count" aria-hidden="true"' + (images.length <= 1 ? ' hidden' : '') + '>' + images.map(function (_, i) { return '<span' + (i ? '' : ' class="is-active"') + '></span>'; }).join('') + '</span>' : gallery) + '</div>' +
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(displayPlace) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(displayPlace) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
-      (tiny ? '' : '<p class="ps-home__description">' + esc(shortDescription(h.cardDescription || h.description)) + '</p>') +
+      (tiny ? '' : '<p class="ps-home__description">' + (h.loaded ? esc(shortDescription(h.cardDescription || h.description)) : '') + '</p>') +
       (factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
-      '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
+      '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Independent property listing. This host is not affiliated with LAZY.</p>') + '</div></article>';
   }
   function listingBadge(h) {
@@ -268,7 +292,7 @@
     return '<span class="ps-card__featured">' + (h.featured ? 'Featured' : '') + (h.featured && h.demo ? ' · ' : '') + (h.demo ? 'Demo' : '') + '</span>';
   }
   function cardOpenOverlay(h) {
-    return '<a class="ps-card__open" href="' + esc(h.url) + '" target="_blank" rel="noopener" aria-label="Open ' + esc(h.name) + '’s website"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>';
+    return '<a class="ps-card__open" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener" aria-label="Open ' + esc(h.name) + '’s website"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>';
   }
   /* One home: its picture, name and place, selectable to open its pin on the map; Open website sits over the photo. */
   function card(h, missing, selectable) {
@@ -276,7 +300,7 @@
     return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" data-property="' + esc(h.id) + '"><' + tag + ' class="ps-card__select-body"' +
       (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on the map"' : '') + '>' +
       '<div class="ps-card__photo">' + listingBadge(h) +
-      '<img src="' + esc(src(h.photo)) + '" alt="' + esc(h.name) + '" loading="lazy" decoding="async" width="560" height="350">' + cardOpenOverlay(h) + '</div>' +
+      (h.photo ? '<img src="' + esc(src(h.photo)) + '" alt="' + esc(h.name) + '" loading="lazy" decoding="async" width="560" height="350">' : '<span class="ps-gallery__pending" aria-hidden="true"></span>') + cardOpenOverlay(h) + '</div>' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + (h.featured ? madeBadge() : '') + '</article>';
   }
@@ -292,7 +316,8 @@
   function syncMarkerPopup(h) {
     if (!h.marker) return;
     if (phoneLayout.matches) h.marker.unbindPopup();
-    else if (!h.marker.getPopup()) h.marker.bindPopup('<div class="ps-pop">' + card(h) + '</div>', { minWidth: 220, className: h.featured ? 'ps-popup ps-popup--featured' : 'ps-popup' });
+    else if (!h.marker.getPopup()) h.marker.bindPopup(function () { return '<div class="ps-pop">' + card(h) + '</div>'; }, { minWidth: 220, className: h.featured ? 'ps-popup ps-popup--featured' : 'ps-popup' })
+      .on('popupopen', function (e) { if (!h.loaded) detailsOf(h).then(function () { if (e.popup.isOpen()) e.popup.setContent('<div class="ps-pop">' + card(h) + '</div>'); }); });
   }
   /* A place matches when a word of it starts with what was typed, or the typed word is
      its state's full name: "ca" and "california" both find San Francisco, not Cape Cod. */
@@ -329,6 +354,20 @@
   }
   /* Each filter sorts a home three ways: it says yes (a match), it says no (left out), or it does not
      say (it may fit). Location and the map area are always known, so they only include or leave out. */
+  /* The list draws twenty cards at a time; the rest come as you scroll near the end of a group. */
+  var PAGE = 20, pageHomes = {};
+  function renderOne(h) { return view === 'cards' ? fullCard(h, h.missing, cardSize === 'tiny') : card(h, h.missing, true); }
+  function loadMore(btn) {
+    var key = btn.dataset.more, grid = btn.previousElementSibling, all = pageHomes[key] || [], have = grid.children.length;
+    var tmp = document.createElement('div'); tmp.innerHTML = all.slice(have, have + PAGE).map(renderOne).join('');
+    while (tmp.firstChild) grid.appendChild(tmp.firstChild);
+    hydrate(grid);
+    if (grid.children.length >= all.length) { if (moreWatcher) moreWatcher.unobserve(btn); btn.remove(); }
+  }
+  var moreWatcher = 'IntersectionObserver' in window ? new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) { if (en.isIntersecting) loadMore(en.target); });
+  }, { rootMargin: '600px 0px' }) : null;
+  listEl.addEventListener('click', function (e) { var b = e.target.closest('[data-more]'); if (b) loadMore(b); });
   function show() {
     syncSearchSummary();
     if (!loaded) {
@@ -371,11 +410,15 @@
       { key: 'potential', title: 'Potential fit', homes: maybe.filter(function (h) { return !h.featured; }) }
     ];
     listEl.innerHTML = groups.filter(function (g) { return g.homes.length; }).map(function (g) {
+      pageHomes[g.key] = g.homes;
       return '<details class="ps-results-group ps-results-group--' + g.key + '" data-group="' + g.key + '"' + (groupState[g.key] ? ' open' : '') + '>' +
         '<summary><span>' + g.title + '</span><span class="ps-results-group__count">' + g.homes.length + '</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>' +
         (g.key === 'potential' ? '<p class="ps-results-group__note">Some requested details are missing or need host approval. Check with the host.</p>' : '') +
-        '<div class="ps-results-grid">' + g.homes.map(function (h) { return view === 'cards' ? fullCard(h, h.missing, cardSize === 'tiny') : card(h, h.missing, true); }).join('') + '</div></details>';
+        '<div class="ps-results-grid">' + g.homes.slice(0, PAGE).map(renderOne).join('') + '</div>' +
+        (g.homes.length > PAGE ? '<button class="ps-more" type="button" data-more="' + g.key + '">More homes</button>' : '') + '</details>';
     }).join('') || '<p class="ps-none">No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.') + '</p>';
+    hydrate(listEl);
+    listEl.querySelectorAll('[data-more]').forEach(function (b) { if (moreWatcher) moreWatcher.observe(b); });
     countEl.innerHTML = '<span class="app-count__total">' + (shown.length === 1 ? '1 home' : shown.length + ' homes') + '</span>' +
       (maybe.length ? ' <span class="app-count__potential">' + maybe.length + (maybe.length === 1 ? ' potential fit' : ' potential fits') + '</span>' : '');
     sheetCount.textContent = shown.length === 1 ? '1 home' : shown.length + ' homes';
@@ -457,6 +500,7 @@
     selectedTitle.textContent = h.name;
     selectedEl.setAttribute('aria-label', h.name + ' details');
     selectedBody.innerHTML = fullCard(h, h.missing, false, true);
+    hydrate(selectedBody);
     selectedBody.scrollTop = 0; selectedBody.classList.add('is-at-top');
     selectedEl.hidden = false; listEl.hidden = true;
     app.classList.add('app--detail-open');
@@ -728,6 +772,7 @@
         .on('click', function () { if (phoneLayout.matches) openSelected(h); })
         .on('popupclose', function () { if (selectedHome === h) { setHighlight(h, 'selected', false); selectedHome = null; } });
       syncMarkerPopup(h);
+      byId[h.id] = h;
       return h;
     });
     loaded = true;

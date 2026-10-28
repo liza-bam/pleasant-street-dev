@@ -138,6 +138,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .leaflet-popup-content { margin: 10px 12px; }
 .ps-card__missing { margin: 8px 12px 10px; font-size: 13px; color: var(--mute); font-style: italic; }
 .ps-card__photo { position: relative; }
+.ps-card__photo > .ps-gallery__pending { display: block; width: 100%; aspect-ratio: 560 / 350; }
+.ps-more { display: block; width: 100%; min-height: 44px; margin: 4px 0 12px; border: 1px solid var(--line); border-radius: 999px; background: white; font: inherit; font-size: 14px; color: var(--ink); cursor: pointer; }
 .ps-card__open { position: absolute; z-index: 2; bottom: 8px; right: 8px; display: flex; align-items: center; justify-content: center;
                  width: 34px; height: 34px; border-radius: 50%; background: var(--coral-action); color: white; box-shadow: 0 2px 7px #17363c33; }
 .ps-card__open:hover { filter: brightness(1.1); }
