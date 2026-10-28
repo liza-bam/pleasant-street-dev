@@ -338,7 +338,7 @@
     var gallery = slots.map(function (i) {   // every photo is a link to the home's website, like the arrow and the button
       return images[i] ? '<a class="ps-gallery-link' + (i ? '' : ' ps-gallery-link--cover') + '" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener" aria-label="Open ' + esc(h.name) + '’s website"><img src="' + esc(src(images[i])) + '" alt="' + esc(altFor(h, images[i], i)) + '" loading="lazy" decoding="async"></a>' : '<span class="ps-gallery__pending">' + (h.loaded ? 'Photo unavailable' : '') + '</span>';
     }).join('');
-    var actions = '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
+    var actions = '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website</a>' +
       (h.demo || h.featured ? '' : '<p class="ps-home__independent">Not affiliated with LAZY.</p>') + '</div>';
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
