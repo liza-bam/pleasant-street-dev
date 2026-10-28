@@ -22,7 +22,7 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 .app-brand-bar { display: flex; align-items: center; justify-content: flex-end; gap: 12px; min-height: 46px; padding: 7px 12px; background: white; border-bottom: 1px solid var(--line); }
 .app-home { display: flex; flex: none; align-items: center; justify-content: center; width: 30px; height: 30px; margin-right: auto; border-radius: 50%; background: var(--coral); }
 .app-home img { display: block; width: 30px; height: 30px; filter: grayscale(1) contrast(100) invert(1); mix-blend-mode: screen; }
-.app-header-link { display: inline-flex; align-items: center; justify-content: center; min-height: 30px; padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; background: white; color: var(--ink); font: 11px var(--serif); text-decoration: none; white-space: nowrap; cursor: pointer; }
+.app-header-link { display: inline-flex; align-items: center; justify-content: center; min-height: 30px; padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; background: white; color: var(--ink); font: 12px var(--serif); text-decoration: none; white-space: nowrap; cursor: pointer; }
 .app-header-link:hover { background: white; border-color: #b9c2be; }
 .app-header-link--add { background: #e8ebea; border-color: #d0d6d3; color: var(--ink); }
 .app-header-link--add:hover { background: #dde2df; border-color: #b9c2be; }
@@ -86,7 +86,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .app-destinations[hidden] { display: none; }
 .app-destinations__label { color: var(--mute); font-size: 12px; margin-right: 4px; }
 .app-destinations button { display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0; padding: 6px 11px; border: 1px solid #cadfd9; border-radius: 999px; color: var(--green); background: white; font: inherit; font-size: 12px; cursor: pointer; }
-.app-destinations button span { min-width: 21px; padding: 1px 4px; border-radius: 999px; background: var(--tint); font-size: 10px; }
+.app-destinations button span { min-width: 21px; padding: 1px 4px; border-radius: 999px; background: var(--tint); font-size: 12px; }
 .app-destinations button[aria-pressed="true"] { color: white; background: var(--green); border-color: var(--green); }
 .app-destinations button[aria-pressed="true"] span { color: white; background: #ffffff26; }
 .app-card-controls { display: none; }
@@ -187,7 +187,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home__body { flex: 1; padding: 17px 20px 20px; display: flex; flex-direction: column; }
 .ps-home__place { margin: 0 0 5px; font-size: 12px; color: var(--mute); }
 .ps-home h2 { margin: 0; font-size: 17px; line-height: 1.35; font-weight: 700; color: var(--ink); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.ps-home__operator { margin: 5px 0 0; color: var(--mute); font-size: 10px; }
+.ps-home__operator { margin: 5px 0 0; color: var(--mute); font-size: 12px; }
 .ps-home__description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; margin: 10px 0 16px; font-size: 13px; line-height: 1.6; color: #50676b; min-height: 4.8em; }
 .ps-home__facts { min-height: 48px; display: flex; flex-wrap: wrap; gap: 12px 17px; margin: 0; padding: 13px 0; border-top: 1px solid #e5eeeb; border-bottom: 1px solid #e5eeeb; }
 .ps-home__facts div { display: flex; align-items: center; gap: 6px; min-width: 0; }
@@ -209,8 +209,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-platform { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 30px; background: #fffffff2; border: 1px solid #ffffffb3; box-shadow: 0 1px 4px #17363c20; border-radius: 7px; }
 .ps-platform img { width: 18px; height: 18px; }
 .ps-platform--vrbo img { width: 26px; height: 16px; object-fit: contain; }
-.ps-home__missing { line-height: 1.4; font-size: 11px; color: var(--mute); margin: 14px 0 0; }
-.ps-home__ask-address { margin: 2px 0 0; font-size: 11px; line-height: 1.4; color: var(--mute); }
+.ps-home__missing { line-height: 1.4; font-size: 12px; color: var(--mute); margin: 14px 0 0; }
+.ps-home__ask-address { margin: 2px 0 0; font-size: 12px; line-height: 1.4; color: var(--mute); }
 .ps-home__actions { margin-top: auto; display: grid; grid-template-columns: 1fr; gap: 8px; padding-top: 16px; }
 .ps-action { display: flex; align-items: center; justify-content: center; gap: 6px; min-height: 48px; padding: 12px 10px; border-radius: 8px; font: inherit; font-size: 13px; font-weight: 650; text-decoration: none; cursor: pointer; }
 .ps-action svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.7; }
@@ -230,7 +230,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .ps-action--primary { transition: none; }
 }
 /* The LAZY lettermark keeps claiming secondary to the property. */
-.ps-claim-badge { position: absolute; z-index: 2; top: 10px; right: 10px; max-width: calc(100% - 20px); display: inline-flex; align-items: center; gap: 8px; padding: 6px 9px; border: 1px solid #17363c12; border-radius: 9px; background: #fffffff5; color: #50676b; box-shadow: 0 2px 7px #17363c16; font-size: 11px; line-height: 1.35; text-decoration: none; }
+.ps-claim-badge { position: absolute; z-index: 2; top: 10px; right: 10px; max-width: calc(100% - 20px); display: inline-flex; align-items: center; gap: 8px; padding: 6px 9px; border: 1px solid #17363c12; border-radius: 9px; background: #fffffff5; color: #50676b; box-shadow: 0 2px 7px #17363c16; font-size: 12px; line-height: 1.35; text-decoration: none; }
 .ps-claim-badge:hover { background: white; color: var(--green); }
 .ps-claim-badge__logo { display: block; flex: none; width: 20px; height: 20px; border-radius: 50%; object-fit: contain; }
 .ps-home--tiny .ps-claim-badge { top: 8px; right: 8px; width: 28px; height: 28px; max-width: calc(100% - 16px); justify-content: center; gap: 0; padding: 5px; border-radius: 8px; }
@@ -245,7 +245,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home--tiny .ps-home__actions { margin-top: auto; gap: 6px; padding-top: 12px; }
 .ps-home--tiny .ps-action { min-height: 50px; font-size: 14px; }
 .ps-home--tiny .ps-action svg { display: none; }
-.ps-home--tiny .ps-card__featured { top: 8px; left: 8px; padding: 3px 7px; font-size: 10px; }
+.ps-home--tiny .ps-card__featured { top: 8px; left: 8px; padding: 3px 7px; font-size: 12px; }
 
 @media (max-width: 760px) {
   html, body { height: auto; overflow: visible; }
@@ -274,14 +274,14 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app-search-row { display: flex; align-items: center; min-width: 0; border: 1px solid var(--line); border-radius: 999px; background: white; box-shadow: 0 3px 14px #17363c1a; }
   .app-search { min-width: 0; max-width: none; }
   .app-search input { min-width: 0; height: 38px; padding: 0 12px 0 40px; border: 0; }
-  .app-search-guests { font-size: 11px; }
+  .app-search-guests { font-size: 12px; }
   .app-search-row:focus-within { outline: 2px solid var(--coral); outline-offset: 1px; }
   /* The filter icon is the right end of the search pill. */
   .app-search-row .app-filter-toggle { flex: none; margin: 0 4px 0 0; border: 0; background: none; }
   .app-search-row .app-filter-toggle[aria-expanded="true"] { background: #e8ebea; }
   .app-count { margin: 0; flex: none; font-size: 12px; line-height: 1.45; text-align: right; white-space: nowrap; }
   .app-count__total { display: block; font-weight: 600; }
-  .app-count__potential { display: block; font-size: 10px; opacity: .8; }
+  .app-count__potential { display: block; font-size: 12px; opacity: .8; }
   .app-count__potential::before { content: none; }
   /* Inside the filter panel: the view switch and the card size, each its own row. */
   .app-filters .app-view-switch, .app-filters .app-card-controls { display: none; }
@@ -300,7 +300,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app-filter-toggle { position: relative; display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px; padding: 0; border: 1px solid var(--line); border-radius: 50%; background: #ffffff70; color: var(--ink); cursor: pointer; }
   .app-filter-toggle svg { width: 16px; height: 16px; fill: white; stroke: currentColor; stroke-width: 1.7; }
   .app-filter-toggle[aria-expanded="true"] { border-color: #d0d6d3; background: #e8ebea; color: var(--ink); }
-  .app-filter-toggle span { position: absolute; top: -3px; right: -3px; min-width: 18px; height: 18px; padding: 0 4px; border: 2px solid var(--water); border-radius: 999px; background: var(--green); color: white; font: 10px/14px var(--serif); }
+  .app-filter-toggle span { position: absolute; top: -3px; right: -3px; min-width: 18px; height: 18px; padding: 0 4px; border: 2px solid var(--water); border-radius: 999px; background: var(--green); color: white; font: 12px/14px var(--serif); }
   .app-filter-toggle span[hidden] { display: none; }
   .app-floating-controls .app-filters { border: 1px solid var(--line); border-radius: 18px; background: white; box-shadow: var(--shadow-up); max-height: calc(100dvh - 190px); overflow-y: auto; }
   .app-filter-fields { display: none; }
@@ -311,7 +311,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app-pills button { min-height: 42px; padding: 0 12px; font-size: 13px; }
   .app--cards .app-results { height: auto; }
   .app-card-controls > span { display: inline; }
-  .app-size-switch button { min-height: 30px; padding: 5px 10px; font-size: 11px; }
+  .app-size-switch button { min-height: 30px; padding: 5px 10px; font-size: 12px; }
   .app-list, .app--cards .app-list { overflow: visible; padding: 14px 14px max(24px, env(safe-area-inset-bottom)); overscroll-behavior-y: auto; }
   .ps-results-group summary { position: static; min-height: 46px; margin-bottom: 10px; }
   .app--cards .ps-results-grid { grid-template-columns: minmax(0, 1fr); gap: 18px; }
@@ -424,18 +424,18 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-recents h2 { margin: 0; font-size: 16px; font-weight: 600; }
 .ps-recent-item { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; min-height: 48px; padding: 12px; margin-top: 6px; border: 1px solid var(--line); border-radius: 12px; background: white; color: var(--ink); text-align: left; font: 13px var(--serif); cursor: pointer; }
 .ps-recent-item span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.ps-recent-item small { flex: none; font-size: 10px; color: var(--mute); }
+.ps-recent-item small { flex: none; font-size: 12px; color: var(--mute); }
 .ps-recents-empty { padding: 12px; font-size: 13px; color: var(--mute); }
 /* Where to?, nothing typed: destinations near the guest, or, without a fix, the best-known ones. */
 .ps-dest-suggest { position: absolute; top: calc(100% + 8px); left: 0; right: 0; z-index: 20; margin: 0; padding: 8px; list-style: none;
                    border: 1px solid var(--line); border-radius: var(--r); background: white; box-shadow: var(--shadow-up); max-height: 320px; overflow-y: auto; }
 .ps-dest-suggest[hidden] { display: none; }
 .ps-dest-suggest--inline { position: static; margin: 10px 0 0; padding: 0; border: 0; box-shadow: none; max-height: none; }
-.ps-dest-suggest__label { padding: 6px 10px 4px; font-size: 11px; color: var(--mute); }
+.ps-dest-suggest__label { padding: 6px 10px 4px; font-size: 12px; color: var(--mute); }
 .ps-dest-suggest button { display: flex; align-items: center; justify-content: space-between; gap: 10px; width: 100%; min-height: 40px; padding: 8px 10px; margin-top: 2px;
                           border: 0; border-radius: 8px; background: none; color: var(--ink); text-align: left; font: 13px var(--serif); cursor: pointer; }
 .ps-dest-suggest button:hover { background: var(--tint); }
-.ps-dest-suggest button span { flex: none; font-size: 11px; color: var(--mute); }
+.ps-dest-suggest button span { flex: none; font-size: 12px; color: var(--mute); }
 
 /* A quiet home screen shares the same cards, typography and compact search. */
 .ps-landing[hidden] { display: none; }
