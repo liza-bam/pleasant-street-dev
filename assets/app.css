@@ -194,13 +194,13 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home__facts dt { display: flex; color: var(--mute); }
 .ps-home__facts svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .ps-home__facts .ps-fact { display: inline-flex; align-items: center; gap: 4px; }
-.ps-home__facts .ps-fact__value { font-size: 12px; font-weight: 650; }
+.ps-home__facts .ps-fact__value { font-size: 13px; font-weight: 650; }
 .ps-card .ps-home__facts { margin: 4px 12px 0; min-height: 0; padding: 9px 0 12px; gap: 5px; flex-wrap: nowrap; overflow: hidden; border-bottom: 0; }
 .ps-card .ps-home__facts svg { width: 14px; height: 14px; color: var(--mute); }
-.ps-card .ps-home__facts .ps-fact__value { font-size: 11px; }
+.ps-card .ps-home__facts .ps-fact__value { font-size: 13px; }
 .ps-home--tiny .ps-home__facts { min-height: 40px; gap: 6px 9px; padding: 9px 0; flex-wrap: nowrap; overflow: hidden; }
 .ps-home--tiny .ps-home__facts svg { width: 16px; height: 16px; }
-.ps-home--tiny .ps-home__facts dd { font-size: 11px; }
+.ps-home--tiny .ps-home__facts dd { font-size: 13px; }
 .ps-home__facts dd { font-size: 13px; margin: 0; font-weight: 650; }
 .ps-home__place { display: flex; align-items: center; gap: 5px; }
 .ps-home__place svg { flex: none; width: 13px; height: 13px; fill: none; stroke: currentColor; stroke-width: 1.7; }
@@ -340,7 +340,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app.app--tiny:not(.app--cards) .ps-results-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   .app.app--tiny:not(.app--cards) .ps-home__facts { margin: auto 9px 10px; gap: 6px; }
   .app.app--tiny:not(.app--cards) .ps-home__facts svg { width: 15px; height: 15px; }
-  .app.app--tiny:not(.app--cards) .ps-fact__value { font-size: 11px; }
+  .app.app--tiny:not(.app--cards) .ps-fact__value { font-size: 13px; }
   .app.app--tiny:not(.app--cards) .ps-card__name { font-size: 13px; padding: 8px 9px 0; }
   .app.app--tiny:not(.app--cards) .ps-card__place { font-size: 12px; padding: 2px 9px 10px; }
   .app.app--sheet-expanded:not(.app--cards) .app-results { height: 100%; max-height: 100%; border-radius: 0; }
