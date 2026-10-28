@@ -84,7 +84,7 @@
     mapHeaderCompact = false; setSheetRatio(0.48); groupState = { featured: true, fit: true, potential: true };
     history.replaceState(null, '', location.pathname); setView('map');
     var mainland = homes.filter(function (h) { return h.marker && h.lng > -130; });
-    if (mainland.length) map.fitBounds(L.latLngBounds(mainland.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false });
+    fitHomes(mainland, 0.1);
     syncArea(); setHomeMode(true);
   });
   var searchDialog = document.getElementById('ps-search'), searchWhere = document.getElementById('ps-search-where');
@@ -641,6 +641,16 @@
     }
     updateMapAreaLabel(); syncArea();
   });
+  /* Fit the map to homes: the map takes its real size first (it is hidden, 0×0, on the home page), and on phone
+     the results sheet's height is left free so the homes sit in the visible part of the map. */
+  function fitHomes(list, pad, maxZoom) {
+    if (!list.length) return;
+    map.invalidateSize();
+    var bottom = phoneLayout.matches && view === 'map' && !app.classList.contains('app--cards') ? Math.round(resultsEl.getBoundingClientRect().height) : 0;
+    var opts = { animate: false, paddingTopLeft: [0, phoneLayout.matches ? 70 : 0], paddingBottomRight: [0, bottom] };
+    if (maxZoom) opts.maxZoom = maxZoom;
+    map.fitBounds(L.latLngBounds(list.map(function (h) { return h.marker.getLatLng(); })).pad(pad), opts);
+  }
   function searchPlace() {
     leaveMapAreaMode(); manualMapMove = false;
     setHomeMode(false);
@@ -655,7 +665,7 @@
     // Search every location before moving the map, including places outside the current view.
     area = null;
     var shown = show().filter(function (h) { return h.marker; });
-    if (shown.length) { map.fitBounds(L.latLngBounds(shown.map(function (h) { return h.marker.getLatLng(); })).pad(0.3), { maxZoom: 10, animate: false }); }
+    fitHomes(shown, 0.3, 10);
     syncArea();
   }
   if (q) q.addEventListener('input', searchPlace);
@@ -786,7 +796,7 @@
     if (!q.value && view === 'map') {
       area = null;
       var all = show().filter(function (h) { return h.marker && h.lng > -130; });
-      if (all.length) map.fitBounds(L.latLngBounds(all.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false });
+      fitHomes(all, 0.1);
       syncArea();
     }
     listEl.scrollTop = 0;
@@ -894,7 +904,7 @@
     var main = mapped.filter(function (h) { return h.lng > -130; });
     if (view === 'map' && mapped.length) {
       var initial = q.value.trim() ? mapped.filter(function (h) { return matchesHome(h, q.value.trim().toLowerCase()); }) : (main.length ? main : mapped);
-      if (initial.length) map.fitBounds(L.latLngBounds(initial.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false });
+      fitHomes(initial, 0.1);
       syncArea();
     } else show();
   }).catch(function () {
