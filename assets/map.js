@@ -83,8 +83,7 @@
     cardSize = 'large'; syncCardSize(); app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false');
     mapHeaderCompact = false; setSheetRatio(0.48); groupState = { featured: true, fit: true, potential: true };
     history.replaceState(null, '', location.pathname); setView('map');
-    var mainland = homes.filter(function (h) { return h.marker && h.lng > -130; });
-    fitHomes(mainland, 0.1);
+    fitHomes(populatedPart(homes.filter(function (h) { return h.marker; })), 0.1);
     syncArea(); setHomeMode(true);
   });
   var searchDialog = document.getElementById('ps-search'), searchWhere = document.getElementById('ps-search-where');
@@ -701,6 +700,12 @@
   });
   /* Fit the map to homes: the map takes its real size first (it is hidden, 0×0, on the home page), and on phone
      the results sheet's height is left free so the homes sit in the visible part of the map. */
+  function populatedPart(list) {
+    var east = list.filter(function (h) { return h.lng > -82; });
+    if (east.length >= list.length * 0.9) return east;
+    var mainland = list.filter(function (h) { return h.lng > -130; });
+    return mainland.length ? mainland : list;
+  }
   function fitHomes(list, pad, maxZoom) {
     if (!list.length) return;
     map.invalidateSize();
@@ -853,8 +858,7 @@
     searchPlace();
     if (!q.value && view === 'map') {
       area = null;
-      var all = show().filter(function (h) { return h.marker && h.lng > -130; });
-      fitHomes(all, 0.1);
+      fitHomes(populatedPart(show().filter(function (h) { return h.marker; })), 0.1);
       syncArea();
     }
     listEl.scrollTop = 0;
@@ -957,9 +961,10 @@
     startFeaturedStrip(featuredHomes);
     if (initialPlace) rememberSearch();
     popularDestinations();
-    /* Open on the mainland: Hawaii in the same view zooms the map out past the edge of the tiles. */
+    /* Open where the homes are. The east coast holds nearly all of them; a handful out west would zoom the
+       whole country out to an empty map, so the opening view is the populated part when it holds 9 in 10 homes. */
     var mapped = homes.filter(function (h) { return h.marker; });
-    var main = mapped.filter(function (h) { return h.lng > -130; });
+    var main = populatedPart(mapped);
     if (view === 'map' && mapped.length) {
       var initial = q.value.trim() ? mapped.filter(function (h) { return matchesHome(h, q.value.trim().toLowerCase()); }) : (main.length ? main : mapped);
       fitHomes(initial, 0.1);
