@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7779 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7810 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -1610,6 +1610,214 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Property description states pet-friendly.
 - Website (book here, directly with the host): https://seacoast2summit.com/property/addieshackcammiecabana
+
+## Adirondack Diamond Point Lodge — cardinal
+
+- ID: NY-0087
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 1
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/cardinal/
+
+## Adirondack Diamond Point Lodge — chickadee
+
+- ID: NY-0088
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/chickadee/
+
+## Adirondack Diamond Point Lodge — cottontail-cabin
+
+- ID: NY-0089
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/cottontail-cabin/
+
+## Adirondack Diamond Point Lodge — eagles-nest
+
+- ID: NY-0090
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: 3
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/eagles-nest/
+
+## Adirondack Diamond Point Lodge — jay
+
+- ID: NY-0091
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/jay/
+
+## Adirondack Diamond Point Lodge — kestral
+
+- ID: NY-0092
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 1
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/kestral/
+
+## Adirondack Diamond Point Lodge — kinglet
+
+- ID: NY-0093
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 1
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/kinglet/
+
+## Adirondack Diamond Point Lodge — moose-cabin
+
+- ID: NY-0094
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/moose-cabin/
+
+## Adirondack Diamond Point Lodge — nuthatch
+
+- ID: NY-0095
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/nuthatch/
+
+## Adirondack Diamond Point Lodge — otter-cabin
+
+- ID: NY-0096
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondackdiamondpointlodge.com/cabins/otter-cabin/
+
+## ADK Lakefront Property Management — Bolton Landing 4-bedroom house
+
+- ID: NY-0100
+- Town / area (approximate map location): Bolton Landing, NY
+- Tourist destination: Adirondacks
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: 1
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.adklpm.com/bolton-landing-4-bdrm-vacation-rental-orp5b612eax
+
+## ADK Lakefront Property Management — Brant Lake Guest House
+
+- ID: NY-0101
+- Town / area (approximate map location): Brant Lake, NY
+- Tourist destination: Adirondacks
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: 8
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.adklpm.com/brant-lake-guest-house-sleeps-8-near-gore-orp5b74e17x
+
+## ADK Lakefront Property Management — Indian Lake Cabin
+
+- ID: NY-0102
+- Town / area (approximate map location): Indian Lake, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: 15
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.adklpm.com/gorgeous-indian-lake-cabin-sleeps-15-orp5b68c21x
 
 ## Afternoon Delight
 
@@ -5583,6 +5791,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — families encouraged
 - Pet policy: Varies — filter for pet-friendly rentals
 - Website (book here, directly with the host): https://campfirebooking.com
+
+## Candlelight Cottages — Lakeside, hillside cottages and log cabins
+
+- ID: NY-0097
+- Town / area (approximate map location): Bolton Landing, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 9
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.candlelightcottages.com/lakeside-cottages/
 
 ## Cape Ann Beach Cottages
 
@@ -20687,6 +20911,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Families or child amenities explicitly mentioned on own-unit page.
 - Pet policy: Pets permitted with a $50 fee/pet.
 - Website (book here, directly with the host): https://stayspace.hospitable.rentals/property/downtown-shops-beach-deck-coffee-bar
+
+## Drake's Lakeside Cabins — Lakefront cottages (16 cabins)
+
+- ID: NY-0098
+- Town / area (approximate map location): Diamond Point, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 5
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://adirondacklakesidecabins.com/cottages/
 
 ## Dream House
 
@@ -104505,6 +104745,102 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Property page: Dogs allowed.
 - Website (book here, directly with the host): https://www.atlanticvacationhomes.com/vrp/unit/Sunrise_on_the_Cove-60-15
 
+## Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge
+
+- ID: NY-0077
+- Town / area (approximate map location): Blue Mountain Lake, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge/
+
+## Sunset Beach Cottages (Inlet) — Camp Big Moose
+
+- ID: NY-0073
+- Town / area (approximate map location): Big Moose, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.sunsetonfourth.com/our-cottages/big-moose/
+
+## Sunset Beach Cottages (Inlet) — Camp Fish Creek
+
+- ID: NY-0074
+- Town / area (approximate map location): Inlet, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.sunsetonfourth.com/our-cottages/camp-fish-creek/
+
+## Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge
+
+- ID: NY-0075
+- Town / area (approximate map location): Inlet, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.sunsetonfourth.com/our-cottages/limekiln-lake-lodge/
+
+## Sunset Beach Cottages (Inlet) — Loon Lake Lodge
+
+- ID: NY-0076
+- Town / area (approximate map location): Inlet, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge-2/
+
+## Sunset Beach Cottages (Inlet) — Raquette Retreat
+
+- ID: NY-0078
+- Town / area (approximate map location): Raquette Lake, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.sunsetonfourth.com/our-cottages/raquette-retreat/
+
 ## Sunset Cabins
 
 - ID: ME-0027
@@ -110691,6 +111027,86 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Matching host James official Houfy property Suitability explicitly says Child friendly. Own House Rules/FAQ checked without separate age statement; no age/infant guarantee inferred.
 - Pet policy: Up to2dogs only, no cats/otherpets; disclosebreed/size atbooking; $125nonrefundable fee per dog perstay, $250refundable pet hold, dogs off furniture/beds.
 - Website (book here, directly with the host): https://driftlinestays.com/
+
+## The Elms Waterfront Cottages & Lodge — Adirondack Beach House
+
+- ID: NY-0068
+- Town / area (approximate map location): Lake Luzerne, NY
+- Tourist destination: Adirondacks
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://elmscottages.com/adirondack-beach-house-3/
+
+## The Elms Waterfront Cottages & Lodge — Chief Tiosaronda
+
+- ID: NY-0069
+- Town / area (approximate map location): Lake Luzerne, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://elmscottages.com/chief-tiosaronda/
+
+## The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse
+
+- ID: NY-0070
+- Town / area (approximate map location): Corinth, NY
+- Tourist destination: Saratoga
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://elmscottages.com/joseph-mccarthy-veronica-lake-farmhouse/
+
+## The Elms Waterfront Cottages & Lodge — McMaster House
+
+- ID: NY-0071
+- Town / area (approximate map location): Lake Luzerne, NY
+- Tourist destination: Adirondacks
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://elmscottages.com/mcmaster-house/
+
+## The Elms Waterfront Cottages & Lodge — Waterfront cottages
+
+- ID: NY-0072
+- Town / area (approximate map location): Lake Luzerne, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://elmscottages.com/cottages-and-suites/
 
 ## The Even’tide Resort & Cottages
 
@@ -122314,6 +122730,86 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://book.birchrentals.com/listings/205638
+
+## White Pine Camp — Cabin 1
+
+- ID: NY-0079
+- Town / area (approximate map location): Paul Smiths, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.whitepinecamp.com/cabin1pics.html
+
+## White Pine Camp — Cabin 2
+
+- ID: NY-0080
+- Town / area (approximate map location): Paul Smiths, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.whitepinecamp.com/cabin2pics.html
+
+## White Pine Camp — Cabin 3
+
+- ID: NY-0081
+- Town / area (approximate map location): Paul Smiths, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.whitepinecamp.com/cabin3pics.html
+
+## White Pine Camp — Gardener's Cottage
+
+- ID: NY-0083
+- Town / area (approximate map location): Paul Smiths, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.whitepinecamp.com/gardenercottagepics.html
+
+## White Pine Camp — Gate Cottage
+
+- ID: NY-0082
+- Town / area (approximate map location): Paul Smiths, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.whitepinecamp.com/gatehousepics.html
 
 ## Wicked Moose Cabin
 
