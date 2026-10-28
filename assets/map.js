@@ -295,7 +295,7 @@
       (factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
-      '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Independent property listing. This host is not affiliated with LAZY.</p>') + '</div></article>';
+      '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Not affiliated with LAZY.</p>') + '</div></article>';
   }
   function listingBadge(h) {
     if (!h.featured && !h.demo) return '';
