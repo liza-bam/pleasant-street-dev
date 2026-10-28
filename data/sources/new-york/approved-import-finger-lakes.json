@@ -1,0 +1,1609 @@
+[
+ {
+  "id": "NY-0130",
+  "name": "Single Island Shores cottages",
+  "url": "https://www.singleislandshores.com/",
+  "town": "Hector",
+  "state": "NY",
+  "place": "Hector, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.singleislandshores.com/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0130-cover.webp",
+  "coverPhoto": "images/NY-0130-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0130-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0130-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0130-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0130-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5761 Rabbit Run Rd",
+   "city": "Hector",
+   "state": "NY",
+   "postalCode": "14841",
+   "full": "5761 Rabbit Run Rd, Hector, NY 14841",
+   "sourceUrl": "https://www.singleislandshores.com/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.singleislandshores.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://www.singleislandshores.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Single Island Shores: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 1. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.51183,
+  "lng": -76.88578,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=5761%20Rabbit%20Run%20Rd%2C%20Hector%2C%20NY%2014841",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0131",
+  "name": "Conesus Lake Cottage",
+  "url": "https://www.conesuslakecottage.com/",
+  "town": "Conesus",
+  "state": "NY",
+  "place": "Conesus, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.conesuslakecottage.com/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0131-cover.webp",
+  "coverPhoto": "images/NY-0131-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0131-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0131-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0131-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0131-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Conesus",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.conesuslakecottage.com/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.conesuslakecottage.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://www.conesuslakecottage.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Conesus Lake Cottage: own site; booking or contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "lat": 42.7853077,
+  "lng": -77.71373059999999,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.conesuslakecottage.com/",
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0132",
+  "name": "Fingerlakes Luxury Rentals —  Old Seneca Turnpike – 4 bed/3 bath PET FRIENDLY/Fenced Yard Your Fing",
+  "url": "https://fingerlakesluxuryrentals.com/853-old-seneca-turnpike/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/853-old-seneca-turnpike/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0132-cover.webp",
+  "coverPhoto": "images/NY-0132-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0132-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0132-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0132-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0132-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/853-old-seneca-turnpike/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/853-old-seneca-turnpike/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/853-old-seneca-turnpike/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0133",
+  "name": "Fingerlakes Luxury Rentals —  Old Seneca Turnpike -3 bed/2.5 bath PET FRIENDLY/Fenced Yard Your Fin",
+  "url": "https://fingerlakesluxuryrentals.com/859-old-seneca-turnpike/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/859-old-seneca-turnpike/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0133-cover.webp",
+  "coverPhoto": "images/NY-0133-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0133-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0133-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0133-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0133-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/859-old-seneca-turnpike/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/859-old-seneca-turnpike/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/859-old-seneca-turnpike/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0134",
+  "name": "Fingerlakes Luxury Rentals —  Samuel Adams Estate-6 Beds/4.5 Baths -6500 SF Level Lakefront – East",
+  "url": "https://fingerlakesluxuryrentals.com/brand-new-to-the-rental-market-6500-sf-private-lakefront-estate-on-owasco-lake/",
+  "town": "Owasco",
+  "state": "NY",
+  "place": "Owasco, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/brand-new-to-the-rental-market-6500-sf-private-lakefront-estate-on-owasco-lake/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": 14,
+  "capacityDetails": "14",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0134-cover.webp",
+  "coverPhoto": "images/NY-0134-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0134-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0134-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0134-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0134-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Owasco",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/brand-new-to-the-rental-market-6500-sf-private-lakefront-estate-on-owasco-lake/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/brand-new-to-the-rental-market-6500-sf-private-lakefront-estate-on-owasco-lake/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/brand-new-to-the-rental-market-6500-sf-private-lakefront-estate-on-owasco-lake/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 1. Sleeps 14."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0135",
+  "name": "Fingerlakes Luxury Rentals —  Burtis Point – 3 Beds/2 Baths – East Side Owasco Lake -PET FRIENDLY Y",
+  "url": "https://fingerlakesluxuryrentals.com/burtis-point-3-beds-2-baths-east-side-owasco-lake/",
+  "town": "Owasco",
+  "state": "NY",
+  "place": "Owasco, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/burtis-point-3-beds-2-baths-east-side-owasco-lake/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0135-cover.webp",
+  "coverPhoto": "images/NY-0135-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0135-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0135-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0135-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0135-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Owasco",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/burtis-point-3-beds-2-baths-east-side-owasco-lake/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/burtis-point-3-beds-2-baths-east-side-owasco-lake/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/burtis-point-3-beds-2-baths-east-side-owasco-lake/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0136",
+  "name": "Fingerlakes Luxury Rentals —  Owasco Lake Vacation Rental",
+  "url": "https://fingerlakesluxuryrentals.com/denman-cove-owasco-lake/",
+  "town": "Owasco",
+  "state": "NY",
+  "place": "Owasco, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/denman-cove-owasco-lake/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": 9,
+  "capacityDetails": "9",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0136-cover.webp",
+  "coverPhoto": "images/NY-0136-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0136-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0136-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0136-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0136-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Owasco",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/denman-cove-owasco-lake/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/denman-cove-owasco-lake/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/denman-cove-owasco-lake/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Sleeps 9."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0137",
+  "name": "Fingerlakes Luxury Rentals —  E. Lake Rd- 3 Beds/2 Baths- Ranch – Lake Views/2 miles to Village Ska",
+  "url": "https://fingerlakesluxuryrentals.com/e-lake-rd-3-beds-2-baths-ranch-lake-views-2-miles-to-village-skaneateles/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/e-lake-rd-3-beds-2-baths-ranch-lake-views-2-miles-to-village-skaneateles/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0137-cover.webp",
+  "coverPhoto": "images/NY-0137-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0137-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0137-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0137-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0137-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/e-lake-rd-3-beds-2-baths-ranch-lake-views-2-miles-to-village-skaneateles/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/e-lake-rd-3-beds-2-baths-ranch-lake-views-2-miles-to-village-skaneateles/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/e-lake-rd-3-beds-2-baths-ranch-lake-views-2-miles-to-village-skaneateles/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0138",
+  "name": "Fingerlakes Luxury Rentals —  East lake Rd- 5 Bed/3+ Bath, Skaneateles Level Lakefront Your Finger",
+  "url": "https://fingerlakesluxuryrentals.com/east-lake-rd-5-bed-3-bath-level-lakefront/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/east-lake-rd-5-bed-3-bath-level-lakefront/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0138-cover.webp",
+  "coverPhoto": "images/NY-0138-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0138-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0138-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0138-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0138-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/east-lake-rd-5-bed-3-bath-level-lakefront/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/east-lake-rd-5-bed-3-bath-level-lakefront/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/east-lake-rd-5-bed-3-bath-level-lakefront/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0139",
+  "name": "Fingerlakes Luxury Rentals —  Finger Lakes Accomodations with Skaneateles Luxury Vacation Rentals Y",
+  "url": "https://fingerlakesluxuryrentals.com/enjoy-luxury-accommodations-at-our-pet-friendly-main-street-skaneateles-rental/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/enjoy-luxury-accommodations-at-our-pet-friendly-main-street-skaneateles-rental/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0139-cover.webp",
+  "coverPhoto": "images/NY-0139-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0139-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0139-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0139-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0139-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/enjoy-luxury-accommodations-at-our-pet-friendly-main-street-skaneateles-rental/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/enjoy-luxury-accommodations-at-our-pet-friendly-main-street-skaneateles-rental/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/enjoy-luxury-accommodations-at-our-pet-friendly-main-street-skaneateles-rental/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0140",
+  "name": "Fingerlakes Luxury Rentals —  Fisher Road – 3 Beds/2 Baths-PET FRIENDLY Your Finger Lakes Getaway i",
+  "url": "https://fingerlakesluxuryrentals.com/fisher-road-3-beds-2-baths-pet-friendly/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/fisher-road-3-beds-2-baths-pet-friendly/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0140-cover.webp",
+  "coverPhoto": "images/NY-0140-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0140-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0140-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0140-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0140-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/fisher-road-3-beds-2-baths-pet-friendly/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/fisher-road-3-beds-2-baths-pet-friendly/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/fisher-road-3-beds-2-baths-pet-friendly/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0141",
+  "name": "Fingerlakes Luxury Rentals —  Lee Mulroy -3 Beds/2 Baths-PET FRIENDLY/Fence Yard – Close to Village",
+  "url": "https://fingerlakesluxuryrentals.com/lee-mulroy-road-skaneateles-ny/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/lee-mulroy-road-skaneateles-ny/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0141-cover.webp",
+  "coverPhoto": "images/NY-0141-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0141-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0141-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0141-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0141-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/lee-mulroy-road-skaneateles-ny/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/lee-mulroy-road-skaneateles-ny/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/lee-mulroy-road-skaneateles-ny/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0142",
+  "name": "Fingerlakes Luxury Rentals —  Main St -5 Beds/4 Baths-PET FRIENDLY/Fenced Yard- 1 Mile to Village-S",
+  "url": "https://fingerlakesluxuryrentals.com/main-st-5-beds-4-baths-1-mile-to-village-skaneateles-opening-july-2022/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/main-st-5-beds-4-baths-1-mile-to-village-skaneateles-opening-july-2022/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0142-cover.webp",
+  "coverPhoto": "images/NY-0142-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0142-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0142-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0142-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0142-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-st-5-beds-4-baths-1-mile-to-village-skaneateles-opening-july-2022/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/main-st-5-beds-4-baths-1-mile-to-village-skaneateles-opening-july-2022/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-st-5-beds-4-baths-1-mile-to-village-skaneateles-opening-july-2022/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 5."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0143",
+  "name": "Fingerlakes Luxury Rentals —  Main Street -1 Bed/1 Bath PET FRIENDLY- Walk to Village Your Finger L",
+  "url": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-one-bedroom-suite/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-one-bedroom-suite/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0143-cover.webp",
+  "coverPhoto": "images/NY-0143-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0143-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0143-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0143-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0143-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-one-bedroom-suite/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-one-bedroom-suite/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-one-bedroom-suite/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0144",
+  "name": "Fingerlakes Luxury Rentals —  Main Street Carriage House -2 Beds/2 Baths- PET FRIENDLY- 1 Mile from",
+  "url": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-carriage-house/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-carriage-house/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 6,
+  "capacityDetails": "6",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0144-cover.webp",
+  "coverPhoto": "images/NY-0144-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0144-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0144-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0144-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0144-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-carriage-house/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-carriage-house/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-carriage-house/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 6."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0145",
+  "name": "Fingerlakes Luxury Rentals —  Main Street -2 Beds/2 Baths- PET FRIENDLY-1 Mile from Village Your Fi",
+  "url": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-suite/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-suite/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0145-cover.webp",
+  "coverPhoto": "images/NY-0145-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0145-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0145-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0145-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0145-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-suite/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-suite/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-suite/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0146",
+  "name": "Fingerlakes Luxury Rentals —  Newly renovated 2bed/2 bath, pet friendly, easy walk to village! Your",
+  "url": "https://fingerlakesluxuryrentals.com/newly-renovated-2bed-2-bath-pet-friendly-easy-walk-to-village/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/newly-renovated-2bed-2-bath-pet-friendly-easy-walk-to-village/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0146-cover.webp",
+  "coverPhoto": "images/NY-0146-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0146-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0146-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0146-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0146-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/newly-renovated-2bed-2-bath-pet-friendly-easy-walk-to-village/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/newly-renovated-2bed-2-bath-pet-friendly-easy-walk-to-village/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/newly-renovated-2bed-2-bath-pet-friendly-easy-walk-to-village/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0147",
+  "name": "Fingerlakes Luxury Rentals —  Franklin St -3 Beds/2 1/2 Baths- PET FRIENDLY/Fenced Yard – Walk to V",
+  "url": "https://fingerlakesluxuryrentals.com/newly-renovated-3-bed-2bath-pet-friendly-home-walking-distance-to-village/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/newly-renovated-3-bed-2bath-pet-friendly-home-walking-distance-to-village/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0147-cover.webp",
+  "coverPhoto": "images/NY-0147-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0147-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0147-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0147-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0147-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/newly-renovated-3-bed-2bath-pet-friendly-home-walking-distance-to-village/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/newly-renovated-3-bed-2bath-pet-friendly-home-walking-distance-to-village/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/newly-renovated-3-bed-2bath-pet-friendly-home-walking-distance-to-village/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0148",
+  "name": "Fingerlakes Luxury Rentals —  Evans Lodge-6 Bed/4.5 Baths-1.5 Miles to Village-Skaneateles-PET FRIE",
+  "url": "https://fingerlakesluxuryrentals.com/opulently-appointed-evans-lodge-main-st-skaneateles-ny/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/opulently-appointed-evans-lodge-main-st-skaneateles-ny/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": "Unknown",
+  "guests": 14,
+  "capacityDetails": "14",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0148-cover.webp",
+  "coverPhoto": "images/NY-0148-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0148-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0148-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0148-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0148-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/opulently-appointed-evans-lodge-main-st-skaneateles-ny/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/opulently-appointed-evans-lodge-main-st-skaneateles-ny/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/opulently-appointed-evans-lodge-main-st-skaneateles-ny/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 6. Sleeps 14."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ },
+ {
+  "id": "NY-0149",
+  "name": "Fingerlakes Luxury Rentals —  Hummingbird Manor-6 Beds/6 1/2 Baths-1 1/4 Miles to Village-Skaneatel",
+  "url": "https://fingerlakesluxuryrentals.com/the-hummingbird-manor/",
+  "town": "Skaneateles",
+  "state": "NY",
+  "place": "Skaneateles, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://fingerlakesluxuryrentals.com/the-hummingbird-manor/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0149-cover.webp",
+  "coverPhoto": "images/NY-0149-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0149-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0149-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0149-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0149-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Skaneateles",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/the-hummingbird-manor/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://fingerlakesluxuryrentals.com/the-hummingbird-manor/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Finger Lakes lake cottage owner websites)",
+   "sourceUrl": "https://fingerlakesluxuryrentals.com/the-hummingbird-manor/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Fingerlakes Luxury Rentals: own site; booking or contact on the page. Checked 2026-10-27. Bedrooms 6."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27"
+ }
+]
