@@ -56,6 +56,8 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
   /* Search on the left edge; the view switch on the right edge of the 1440 column. */
   .app-search-row { display: flex; flex: 1 1 auto; align-items: center; gap: 16px; min-width: 0; }
   .app-header-actions { display: flex; flex: none; align-items: center; gap: 12px; margin-left: auto; }
+  /* Cards view: the Card size switch sits on the same line, just left of Map/Cards. */
+  .app--cards .app-card-controls { margin-right: 8px; }
 }
 }
 .app-count__potential::before { content: '· '; }
@@ -169,7 +171,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .app--cards .app-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 28px; padding: 14px var(--gutter); background: #f3fbf8; }
 .app--cards .app-sleeps { width: 230px; }
 .app--cards .app-pills { padding: 0; }
-.app--cards .app-card-controls { display: flex; align-items: center; gap: 10px; margin-left: auto; font-size: 12px; color: var(--mute); }
+.app--cards .app-card-controls { display: flex; align-items: center; gap: 10px; font-size: 12px; color: var(--mute); }
 .app--cards .app-list { padding: 0 var(--gutter) 40px; }
 .app--cards .ps-results-group { margin-bottom: 28px; }
 .app--cards .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 26px; }

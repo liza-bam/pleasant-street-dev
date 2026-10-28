@@ -144,7 +144,7 @@
     } else {
       map.scrollWheelZoom.enable();
       if (headerActions.parentElement !== appBar) appBar.appendChild(headerActions);
-      if (cardControls.parentElement !== filterPanel) filterPanel.appendChild(cardControls);
+      if (cardControls.parentElement !== headerActions) headerActions.insertBefore(cardControls, headerActions.querySelector('.app-view-switch'));
       if (filterPanel.parentElement !== resultsEl) resultsEl.insertBefore(filterPanel, listEl);
       q.placeholder = 'Where to? City or state';
       q.readOnly = false; q.removeAttribute('aria-haspopup');
