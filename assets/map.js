@@ -429,7 +429,7 @@
         '<summary><span>' + g.title + '</span><span class="ps-results-group__count">' + g.homes.length + '</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>' +
         (g.key === 'potential' ? '<p class="ps-results-group__note">Some requested details are missing or need host approval. Check with the host.</p>' : '') +
         '<div class="ps-results-grid">' + g.homes.slice(0, PAGE).map(renderOne).join('') + '</div>' +
-        (g.homes.length > PAGE ? '<button class="ps-more" type="button" data-more="' + g.key + '">More homes</button>' : '') + '</details>';
+        (g.homes.length > PAGE ? '<button class="ps-more" type="button" data-more="' + g.key + '" aria-label="More homes"><img src="assets/lazy-cat-loading.gif" alt="" width="192" height="192"></button>' : '') + '</details>';
     }).join('') || '<p class="ps-none">' + (t && placeMatches(t).close.length
         ? 'No homes for “' + esc(q.value.trim()) + '”. Did you mean <button type="button" class="ps-none__fix" data-place="' + esc(placeMatches(t).close[0].name) + '">' + esc(placeMatches(t).close[0].name) + '</button>?'
         : 'No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.')) + '</p>';
