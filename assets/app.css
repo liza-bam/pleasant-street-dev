@@ -6,6 +6,8 @@
   --water: #74e3d1; --ink: #17363c; --mute: #647a7b; --green: #057d7b; --teal: #2fa18c;
   --tint: #fff; --line: #e4e7e6; --white: #fff; --coral: #f9426f; --coral-action: #ea073f;
   --serif: "Noto Serif", serif; --script: "Lobster", cursive;
+  /* The page column: header, search, filters and cards share one left and right edge on wide screens. */
+  --gutter: max(24px, calc((100vw - 1580px) / 2));
   --r: 12px; --shadow: 0 2px 10px rgba(13, 43, 46, .10); --shadow-up: 0 6px 18px rgba(13, 43, 46, .16);
 }
 * { box-sizing: border-box; }
@@ -38,12 +40,32 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
 .app-count { margin-left: auto; font-size: 14px; color: var(--ink); white-space: nowrap; }
 .app-search-row, .app-header-actions { display: contents; }
 .app-control-row { display: none; }
+/* Wide screens: the LAZY site's header. Water bar, the LAZY mark, the street's name, white links, a white button. */
+.app-home-logo { display: none; }
+@media (min-width: 761px) {
+  .app-brand-bar { min-height: 72px; padding: 10px var(--gutter); gap: 28px; background: var(--water); border-bottom: 0; }
+  .app-home { width: auto; height: 50px; margin-right: 0; border-radius: 0; background: none; }
+  .app-home img:not(.app-home-logo) { display: none; }
+  .app-home .app-home-logo { display: block; width: auto; height: 50px; filter: none; mix-blend-mode: normal; }
+  .app-brand-name { position: static; width: auto; height: auto; overflow: visible; clip: auto; margin: 0 auto 0 -12px; font: 400 30px/1 var(--script); color: var(--ink); white-space: nowrap; }
+  .app-header-link { min-height: 40px; padding: 8px 4px; border: 0; background: none; color: var(--white); font: 700 17px var(--serif); }
+  .app-header-link:hover { background: none; color: var(--coral); }
+  .app-header-link--add { padding: 8px 20px; border-radius: 8px; background: var(--white); color: var(--green); box-shadow: var(--shadow); }
+  .app-header-link--add:hover { background: var(--teal); color: var(--white); }
+  .app-bar { padding: 12px var(--gutter); }
+}
+}
 .app-count__potential::before { content: '· '; }
 .app-view-switch, .app-size-switch { display: flex; padding: 3px; border: 1px solid rgba(23,54,60,.16); border-radius: 999px; gap: 2px; background: rgba(255,255,255,.38); }
 .app-view-switch button, .app-size-switch button { display: flex; align-items: center; gap: 6px; padding: 8px 13px; border: 0; border-radius: 999px; font: inherit; font-size: 13px; color: var(--ink); background: transparent; cursor: pointer; }
 .app-view-switch button[aria-pressed="true"], .app-size-switch button[aria-pressed="true"] { color: var(--ink); background: #e8ebea; box-shadow: 0 1px 3px #17363c12; }
 .app-view-switch svg { width: 16px; height: 16px; stroke: currentColor; fill: none; stroke-width: 1.6; stroke-linejoin: round; }
 button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline-offset: 3px; }
+/* A destination page: the place's name on the water, then its homes. */
+.ps-dest { padding: 6px var(--gutter) 22px; background: var(--water); color: var(--ink); }
+.ps-dest__name { margin: 0; font: 400 clamp(40px, 6vw, 72px)/1.05 var(--script); }
+.ps-dest__count { margin: 8px 0 0; font: 17px/1.4 var(--serif); }
+@media (max-width: 760px) { .ps-dest { padding: 4px 16px 14px; } .ps-dest__count { font-size: 14px; } }
 .app-destinations { display: flex; align-items: center; gap: 8px; padding: 10px 16px; overflow-x: auto; white-space: nowrap; background: #f7fcfa; border-bottom: 1px solid var(--line); scrollbar-width: thin; }
 .app-destinations[hidden] { display: none; }
 .app-destinations__label { color: var(--mute); font-size: 12px; margin-right: 4px; }
@@ -119,11 +141,11 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .app--cards .app-body { display: block; min-height: 0; }
 .app--cards .app-map { display: none; }
 .app--cards .app-results { height: 100%; }
-.app--cards .app-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 28px; padding: 14px max(24px, calc((100vw - 1580px) / 2)); background: #f3fbf8; }
+.app--cards .app-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 28px; padding: 14px var(--gutter); background: #f3fbf8; }
 .app--cards .app-sleeps { width: 230px; }
 .app--cards .app-pills { padding: 0; }
 .app--cards .app-card-controls { display: flex; align-items: center; gap: 10px; margin-left: auto; font-size: 12px; color: var(--mute); }
-.app--cards .app-list { padding: 0 max(24px, calc((100vw - 1580px) / 2)) 40px; }
+.app--cards .app-list { padding: 0 var(--gutter) 40px; }
 .app--cards .ps-results-group { margin-bottom: 28px; }
 .app--cards .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 26px; }
 .app--cards.app--tiny .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 18px; }

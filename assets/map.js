@@ -12,7 +12,9 @@
     searchGuestsLabel.hidden = guests <= 1;
   }
   var landing = document.getElementById('ps-landing'), landingFeatured = document.getElementById('ps-home-featured');
-  var startOnHome = !new URLSearchParams(location.search).has('place') && !new URLSearchParams(location.search).has('view');
+  // A destination page (/cape_cod/ …) shows only that destination's homes and opens on the map.
+  var pageDestination = document.documentElement.dataset.destination || '';
+  var startOnHome = !pageDestination && !new URLSearchParams(location.search).has('place') && !new URLSearchParams(location.search).has('view');
   function syncHomeWater() {
     var host = document.getElementById('ps-home-water'), existing = host.querySelector('water-surface');
     var active = app.classList.contains('app--home') && !phoneLayout.matches;
@@ -524,9 +526,9 @@
       if (h.demo || !known(h.town) || !known(h.state)) return;
       counts[h.place] = (counts[h.place] || 0) + 1;
     });
-    var places = Object.keys(counts).filter(function (p) { return counts[p] >= POPULAR_MIN_LISTINGS; }).sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); }).slice(0, POPULAR_MAX_DESTINATIONS);
+    var places = Object.keys(counts).filter(function (p) { return counts[p] >= (pageDestination ? 2 : POPULAR_MIN_LISTINGS); }).sort(function (a, b) { return counts[b] - counts[a] || a.localeCompare(b); }).slice(0, pageDestination ? 12 : POPULAR_MAX_DESTINATIONS);
     destinationsEl.hidden = true; // Popular destinations are deferred until the catalog is ready.
-    destinationsEl.innerHTML = '<span class="app-destinations__label">Popular destinations</span><button type="button" data-place="" aria-pressed="false">All places</button>' + places.map(function (p) {
+    destinationsEl.innerHTML = '<span class="app-destinations__label">' + (pageDestination ? 'Towns' : 'Popular destinations') + '</span><button type="button" data-place="" aria-pressed="false">' + (pageDestination ? 'All of ' + esc(pageDestination) : 'All places') + '</button>' + places.map(function (p) {
       return '<button type="button" data-place="' + esc(p) + '" aria-pressed="false" title="' + counts[p] + ' real listings before filters">' + esc(p.split(',')[0]) + '<span>' + counts[p] + '</span></button>';
     }).join('');
     syncDestinations();
@@ -602,7 +604,7 @@
   });
   /* The homes: index.json, written from the database by tools/build-index.mjs. */
   fetch(map.getContainer().dataset.src || 'index.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (list) {
-    homes = list.slice().sort(function (a, b) {
+    homes = list.filter(function (h) { return !pageDestination || h.destination === pageDestination; }).sort(function (a, b) {
       return Number(b.featured === true) - Number(a.featured === true) || featureCompleteness(b) - featureCompleteness(a) || a.name.localeCompare(b.name);
     }).map(function (h) {
       var markerOptions = { title: h.name, alt: h.name, zIndexOffset: h.featured === true ? 1000 : 0 };
