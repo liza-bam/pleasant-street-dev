@@ -260,14 +260,27 @@
     if (!h.featured && !h.demo) return '';
     return '<span class="ps-card__featured">' + (h.featured ? 'Featured' : '') + (h.featured && h.demo ? ' · ' : '') + (h.demo ? 'Demo' : '') + '</span>';
   }
+  function cardOpenLink(h) {
+    return '<a class="ps-action ps-action--primary ps-card__open" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>';
+  }
+  /* One home: its picture, name and place, selectable to open its pin on the map; Open website is its own button. */
   function card(h, missing, selectable) {
-    var tag = selectable ? 'button' : 'a';
-    return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '"><' + tag + ' class="ps-card__select-body"' +
-      (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="View ' + esc(h.name) + ' details"' : ' href="' + esc(h.url) + '" target="_blank" rel="noopener"') + '>' +
+    var tag = selectable ? 'button' : 'div';
+    return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" data-property="' + esc(h.id) + '"><' + tag + ' class="ps-card__select-body"' +
+      (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on the map"' : '') + '>' +
       listingBadge(h) +
       '<img src="' + esc(src(h.photo)) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
-      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + (h.featured ? madeBadge() : '') + '</article>';
+      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + cardOpenLink(h) + (h.featured ? madeBadge() : '') + '</article>';
+  }
+  /* The map pin (or, when its marker is clustered, the circle standing in for it) for one home: coral while
+     its card is hovered, and while it is the open popup from a card click. */
+  function highlightTarget(h) {
+    return (h && h.marker) ? (cluster.getVisibleParent(h.marker) || null) : null;
+  }
+  function setHighlight(h, kind, on) {
+    var target = highlightTarget(h), el = target && target.getElement && target.getElement();
+    if (el) el.classList.toggle((target === h.marker ? 'ps-marker--' : 'app-cluster--') + kind, on);
   }
   function syncMarkerPopup(h) {
     if (!h.marker) return;
@@ -354,7 +367,7 @@
       return '<details class="ps-results-group ps-results-group--' + g.key + '" data-group="' + g.key + '"' + (groupState[g.key] ? ' open' : '') + '>' +
         '<summary><span>' + g.title + '</span><span class="ps-results-group__count">' + g.homes.length + '</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>' +
         (g.key === 'potential' ? '<p class="ps-results-group__note">Some requested details are missing or need host approval. Check with the host.</p>' : '') +
-        '<div class="ps-results-grid">' + g.homes.map(function (h) { return view === 'cards' ? fullCard(h, h.missing, cardSize === 'tiny') : card(h, h.missing, phoneLayout.matches); }).join('') + '</div></details>';
+        '<div class="ps-results-grid">' + g.homes.map(function (h) { return view === 'cards' ? fullCard(h, h.missing, cardSize === 'tiny') : card(h, h.missing, true); }).join('') + '</div></details>';
     }).join('') || '<p class="ps-none">No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.') + '</p>';
     countEl.innerHTML = '<span class="app-count__total">' + (shown.length === 1 ? '1 home' : shown.length + ' homes') + '</span>' +
       (maybe.length ? ' <span class="app-count__potential">' + maybe.length + (maybe.length === 1 ? ' potential fit' : ' potential fits') + '</span>' : '');
@@ -406,7 +419,7 @@
   });
   function closeSelected(collapse, focus) {
     if (!selectedHome) return;
-    if (selectedHome.marker) { selectedHome.marker.setZIndexOffset(selectedHome.featured ? 1000 : 0); var icon = selectedHome.marker.getElement(); if (icon) icon.classList.remove('ps-marker--selected'); }
+    if (selectedHome.marker) { selectedHome.marker.setZIndexOffset(selectedHome.featured ? 1000 : 0); setHighlight(selectedHome, 'selected', false); }
     selectedHome = null;
     selectedEl.hidden = true; listEl.hidden = false;
     app.classList.remove('app--detail-open');
@@ -414,7 +427,13 @@
     if (focus !== false && phoneLayout.matches && view === 'map') sheetHandle.focus({ preventScroll: true });
   }
   function openSelected(h) {
-    if (!phoneLayout.matches) { setView('map'); if (h.marker) { map.setView(h.marker.getLatLng(), 12); h.marker.openPopup(); } return; }
+    if (!phoneLayout.matches) {
+      setView('map');
+      if (!h.marker) return;
+      selectedHome = h;
+      cluster.zoomToShowLayer(h.marker, function () { h.marker.openPopup(); setHighlight(h, 'selected', true); });
+      return;
+    }
     if (selectedHome) closeSelected(false, false);
     if (view !== 'map') setView('map');
     priorSheetRatio = sheetRatio;
@@ -437,7 +456,7 @@
     h.marker.setZIndexOffset(2000);
     map.setView(h.marker.getLatLng(), Math.max(map.getZoom(), 11), { animate: false });
     map.panBy([0, bodyEl.clientHeight * sheetRatio / 2], { animate: false });
-    var icon = h.marker.getElement(); if (icon) icon.classList.add('ps-marker--selected');
+    setHighlight(h, 'selected', true);
   }
   document.getElementById('ps-selected-back').addEventListener('click', function () { closeSelected(false); });
   selectedClose.addEventListener('click', function () { closeSelected(true); });
@@ -453,6 +472,21 @@
     var id = button.dataset.selectProperty || button.dataset.addressProperty;
     var home = homes.find(function (h) { return h.id === id; });
     if (home) openSelected(home);
+  });
+  /* Hovering a home's card highlights its pin (or its circle, if the pin is clustered) on the map, coral. */
+  var hoveredHome = null;
+  listEl.addEventListener('mouseover', function (e) {
+    var el = e.target.closest('.ps-card[data-property], .ps-home[data-property]');
+    if (!el || (hoveredHome && hoveredHome.id === el.dataset.property)) return;
+    if (hoveredHome) setHighlight(hoveredHome, 'hover', false);
+    hoveredHome = homes.find(function (h) { return h.id === el.dataset.property; }) || null;
+    if (hoveredHome) setHighlight(hoveredHome, 'hover', true);
+  });
+  listEl.addEventListener('mouseout', function (e) {
+    var el = e.target.closest('.ps-card[data-property], .ps-home[data-property]');
+    var to = e.relatedTarget && e.relatedTarget.closest && e.relatedTarget.closest('.ps-card[data-property], .ps-home[data-property]');
+    if (!el || to === el || !hoveredHome) return;
+    setHighlight(hoveredHome, 'hover', false); hoveredHome = null;
   });
   selectedBody.addEventListener('scroll', function (e) {
     var strip = e.target;
@@ -610,7 +644,8 @@
       var markerOptions = { title: h.name, alt: h.name, zIndexOffset: h.featured === true ? 1000 : 0 };
       if (h.featured === true) markerOptions.icon = featuredIcon;
       if (typeof h.lat === 'number' && typeof h.lng === 'number') h.marker = L.marker([h.lat, h.lng], markerOptions)
-        .on('click', function () { if (phoneLayout.matches) openSelected(h); });
+        .on('click', function () { if (phoneLayout.matches) openSelected(h); })
+        .on('popupclose', function () { if (selectedHome === h) { setHighlight(h, 'selected', false); selectedHome = null; } });
       syncMarkerPopup(h);
       return h;
     });

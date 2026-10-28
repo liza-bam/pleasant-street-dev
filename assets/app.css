@@ -103,7 +103,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .app-list { overflow-y: auto; padding: 12px 14px 14px; scrollbar-width: thin; scrollbar-color: var(--teal) transparent; }
 .app-map { position: relative; height: 100%; isolation: isolate; }
 
-/* One home: its picture, name and place. The whole card opens the home's website. */
+/* One home: its picture, name and place, selectable to open its pin; Open website is its own button below. */
 .ps-card { position: relative; display: flex; flex-direction: column; background: var(--white); border-radius: var(--r); box-shadow: var(--shadow);
            overflow: hidden; text-decoration: none; color: var(--ink); }
 .ps-card:hover { box-shadow: var(--shadow-up); }
@@ -135,6 +135,11 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 /* The circles: how many homes are there; they split into pins as the map zooms in. */
 .app-cluster { display: grid; place-items: center; border-radius: 50%; background: var(--green); color: var(--white);
                border: 3px solid var(--white); box-shadow: var(--shadow); font-weight: 700; font-size: 14px; }
+/* A home's pin or circle, coral, while its card is hovered or its popup is open from a card click. */
+.ps-marker--hover, .ps-marker--selected { filter: drop-shadow(0 0 4px var(--coral)) drop-shadow(0 0 4px var(--coral)); }
+.leaflet-marker-icon.ps-marker--hover, .leaflet-marker-icon.ps-marker--selected,
+.ps-featured-pin.ps-marker--hover, .ps-featured-pin.ps-marker--selected { z-index: 10000 !important; }
+.app-cluster--hover, .app-cluster--selected { background: var(--coral) !important; }
 .ps-none { grid-column: 1 / -1; margin: 8px 0; font-size: 16px; }
 
 /* Cards view uses the same location and filters, with the map put away. */
@@ -166,7 +171,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home__facts svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .ps-home__facts .ps-fact { display: inline-flex; align-items: center; gap: 4px; }
 .ps-home__facts .ps-fact__value { font-size: 12px; font-weight: 650; }
-.ps-card .ps-home__facts { margin: auto 12px 12px; min-height: 0; padding: 9px 0 0; gap: 7px 10px; border-bottom: 0; }
+.ps-card .ps-home__facts { margin: 4px 12px 0; min-height: 0; padding: 9px 0 0; gap: 7px 10px; border-bottom: 0; }
+.ps-card__open { margin: auto 12px 12px; }
 .ps-card .ps-home__facts svg { width: 17px; height: 17px; color: var(--mute); }
 .ps-home--tiny .ps-home__facts { min-height: 40px; gap: 6px 9px; padding: 9px 0; }
 .ps-home--tiny .ps-home__facts svg { width: 16px; height: 16px; }
@@ -341,7 +347,6 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .ps-home--detail .ps-home__description { margin: 8px 0 10px; min-height: 0; font-size: 13px; -webkit-line-clamp: 2; }
   .ps-selected-facts { margin: 0 0 4px; font-size: 12px; color: var(--mute); }
   .ps-home--detail .ps-home__actions { grid-template-columns: 1fr; padding-top: 12px; }
-  .ps-marker--selected { filter: drop-shadow(0 0 5px #17363c90); }
   @keyframes ps-card-arrive { from { opacity: .5; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
 }
 .ps-search { --search-top: min(80px, 10dvh); position: fixed; inset-inline: 0; top: var(--search-top); bottom: auto; width: calc(100% - 24px); height: auto; max-width: 540px; max-height: calc(100dvh - var(--search-top) - 16px); margin: 0 auto; padding: 0; border: 1px solid #dbe8e1; border-radius: 22px; background: white; color: var(--ink); font-family: var(--serif); box-shadow: 0 16px 54px #17363c38; }
@@ -431,7 +436,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-selected:has(.ps-made-badge) .ps-selected__toolbar { justify-content: flex-start; }
 .ps-home--detail .ps-card__featured { top: auto; bottom: 10px; }
 
-.ps-card__select-body { display: flex; flex: 1; flex-direction: column; min-width: 0; width: 100%; border: 0; padding: 0; background: white; color: inherit; font: inherit; text-align: left; text-decoration: none; cursor: pointer; }
+.ps-card__select-body { display: flex; flex: 1; flex-direction: column; min-width: 0; width: 100%; border: 0; padding: 0; background: white; color: inherit; font: inherit; text-align: left; text-decoration: none; }
+button.ps-card__select-body { cursor: pointer; }
 .ps-card .ps-claim-badge__logo { width: 20px; height: 20px; aspect-ratio: auto; }
 @media (max-width: 760px) {
   .app:not(.app--cards) .leaflet-top.leaflet-left { top: 112px; }
