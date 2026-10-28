@@ -127,7 +127,10 @@
   if (q && initialPlace) q.value = initialPlace;
   /* A pinch on the trackpad and the wheel zoom the map itself, like + and -, never the page around it.
      The circles need the top zoom up front. */
-  var map = L.map('ps-map', { scrollWheelZoom: true, maxZoom: 18 }).setView([39.5, -98.5], 4);
+  /* This directory is US-only: the map never shows, or lets a guest pan to, anywhere else. */
+  var US_BOUNDS = L.latLngBounds([17, -180], [72, -64]);
+  // A hardcoded initial view, not fitBounds: before the container has a measured size, fitBounds can compute a wrong zoom.
+  var map = L.map('ps-map', { scrollWheelZoom: true, maxZoom: 18, minZoom: 3, maxBounds: US_BOUNDS.pad(0.15), maxBoundsViscosity: 1 }).setView([39.5, -98.5], 4);
   // On a phone layout, wheel/trackpad scrolling continues down the page over the map.
   var phoneLayout = window.matchMedia('(max-width: 760px)');
   function syncMapScroll() {
@@ -172,6 +175,7 @@
     maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
   var homes = [], area = null, loaded = false;
+  var destCenters = {}, destCounts = {}; // per destination: {lat,lng} centroid and home count, for the Where-to suggestions
   var featuredIcon = L.divIcon({
     className: 'ps-featured-pin', iconSize: [32, 44], iconAnchor: [16, 43], popupAnchor: [0, -37],
     html: '<svg viewBox="0 0 32 44" width="32" height="44" aria-hidden="true"><path class="ps-featured-pin__shape" d="M16 1C7.7 1 1 7.7 1 16c0 11 15 26 15 26s15-15 15-26C31 7.7 24.3 1 16 1Z"/><circle cx="16" cy="16" r="5" fill="white"/></svg>'
@@ -547,6 +551,61 @@
   q.addEventListener('keydown', function (e) { if (!phoneLayout.matches && e.key === 'Enter') rememberSearch(); });
   q.addEventListener('focus', function () { if (!phoneLayout.matches && mapAreaMode) { q.value = ''; leaveMapAreaMode(); } });
   q.addEventListener('blur', function () { if (!phoneLayout.matches) rememberSearch(); });
+  /* Where to?, with nothing typed yet: destinations near you, or, without a precise fix, the best-known ones.
+     Search stays to this catalog's own destinations only — never a world gazetteer, so "Cape" is Cape Cod,
+     never Cape Town, and "Paris" never resolves to Paris, France. */
+  var userLoc = null, locateTried = false;
+  function haversineKm(a, b) {
+    var R = 6371, toRad = function (d) { return d * Math.PI / 180; };
+    var dLat = toRad(b.lat - a.lat), dLng = toRad(b.lng - a.lng);
+    var s = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    return R * 2 * Math.atan2(Math.sqrt(s), Math.sqrt(1 - s));
+  }
+  function coolestDestinations() {
+    return Object.keys(destCounts).sort(function (a, b) { return destCounts[b] - destCounts[a] || a.localeCompare(b); });
+  }
+  function suggestedDestinations() {
+    var names = userLoc
+      ? Object.keys(destCenters).sort(function (a, b) { return haversineKm(userLoc, destCenters[a]) - haversineKm(userLoc, destCenters[b]); })
+      : coolestDestinations();
+    return names.slice(0, 8);
+  }
+  function renderDestSuggest(ul) {
+    if (!ul) return;
+    var names = suggestedDestinations();
+    ul.innerHTML = (userLoc ? '<li class="ps-dest-suggest__label">Closest to you</li>' : '<li class="ps-dest-suggest__label">Popular destinations</li>') +
+      names.map(function (d) { return '<li><button type="button" data-place="' + esc(d) + '">' + esc(d) + '<span>' + destCounts[d] + ' homes</span></button></li>'; }).join('');
+    ul.hidden = !names.length;
+  }
+  function showDestSuggest(ul, input) {
+    if (input.value.trim()) { ul.hidden = true; return; }
+    renderDestSuggest(ul);
+    if (!locateTried) {
+      locateTried = true;
+      if (navigator.geolocation) navigator.geolocation.getCurrentPosition(function (pos) {
+        // A coarse, metro/region-scale fix (a big open location, not a precise one) is treated as no fix: show the coolest destinations instead.
+        if (pos.coords.accuracy && pos.coords.accuracy > 50000) return;
+        userLoc = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+        renderDestSuggest(document.getElementById('ps-dest-suggest'));
+        renderDestSuggest(document.getElementById('ps-search-dest-suggest'));
+      }, function () {}, { timeout: 4000, maximumAge: 600000 });
+    }
+  }
+  function chooseDestSuggest(name) {
+    document.getElementById('ps-dest-suggest').hidden = true;
+    document.getElementById('ps-search-dest-suggest').hidden = true;
+    leaveMapAreaMode(); q.value = name;
+    if (searchDialog.open) searchDialog.close();
+    searchPlace(); rememberSearch();
+  }
+  [['ps-q', 'ps-dest-suggest'], ['ps-search-where', 'ps-search-dest-suggest']].forEach(function (pair) {
+    var input = document.getElementById(pair[0]), ul = document.getElementById(pair[1]);
+    if (!input || !ul) return;
+    input.addEventListener('focus', function () { showDestSuggest(ul, input); });
+    input.addEventListener('input', function () { if (input.value.trim()) ul.hidden = true; else showDestSuggest(ul, input); });
+    input.addEventListener('blur', function () { setTimeout(function () { ul.hidden = true; }, 150); });
+    ul.addEventListener('click', function (e) { var b = e.target.closest('button[data-place]'); if (b) chooseDestSuggest(b.dataset.place); });
+  });
   function syncDestinations() {
     var value = q.value.trim().toLowerCase();
     destinationsEl.querySelectorAll('button[data-place]').forEach(function (b) {
@@ -650,11 +709,16 @@
       return h;
     });
     loaded = true;
-    try {
-      var destNames = Array.from(new Set(homes.map(function (h) { return h.destination; }).filter(function (d) { return d && d !== 'Unknown'; }))).sort();
-      var destList = document.getElementById('ps-destinations-list');
-      if (destList) destList.innerHTML = destNames.map(function (d) { return '<option value="' + esc(d) + '">'; }).join('');
-    } catch (_) {}
+    var destSums = {};
+    homes.forEach(function (h) {
+      var d = h.destination; if (!d || d === 'Unknown') return;
+      destCounts[d] = (destCounts[d] || 0) + 1;
+      if (typeof h.lat === 'number' && typeof h.lng === 'number') {
+        var sum = destSums[d] || (destSums[d] = { lat: 0, lng: 0, n: 0 });
+        sum.lat += h.lat; sum.lng += h.lng; sum.n++;
+      }
+    });
+    Object.keys(destSums).forEach(function (d) { var s = destSums[d]; destCenters[d] = { lat: s.lat / s.n, lng: s.lng / s.n }; });
     homes.forEach(function (h) { var town = h.town || h.place.split(',')[0]; if (h.marker && known(town) && town.length <= 40 && town.indexOf('/') < 0 && town.toLowerCase() !== 'other') mapAreaPoints.push({ name: town, lat: h.lat, lng: h.lng }); });
     var featuredHomes = homes.filter(function (h) { return h.featured; });
     var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && photoSet(h).length; });

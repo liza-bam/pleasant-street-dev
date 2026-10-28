@@ -30,7 +30,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=39">
+<link rel="stylesheet" href="assets/app.css?v=40">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
@@ -46,7 +46,8 @@
     <div class="app-bar">
     <div class="app-search-row">
     <label class="app-search"><span class="app-hide">Where to?</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
-      <input id="ps-q" type="search" placeholder="Where to? City or state" autocomplete="off" aria-describedby="ps-search-guests" list="ps-destinations-list"><span id="ps-search-guests" class="app-search-guests" hidden></span></label>
+      <input id="ps-q" type="search" placeholder="Where to? City or state" autocomplete="off" aria-describedby="ps-search-guests"><span id="ps-search-guests" class="app-search-guests" hidden></span>
+      <ul class="ps-dest-suggest" id="ps-dest-suggest" aria-label="Suggested destinations" hidden></ul></label>
     <span class="app-count" id="ps-count" hidden></span>
     </div>
     <div class="app-header-actions">
@@ -113,13 +114,13 @@
     <div class="app-map" id="ps-map" data-src="index.json" role="region" aria-label="Map of homes"></div>
   </main>
 </div>
-<datalist id="ps-destinations-list"></datalist>
 <dialog class="ps-search" id="ps-search" aria-label="Search">
   <form id="ps-search-form" class="ps-search__form">
     <div class="ps-search__body">
       <section class="ps-search__section" aria-labelledby="ps-where-title">
         <div class="ps-search__section-head"><h3 id="ps-where-title">Where</h3><button type="button" id="ps-search-close" aria-label="Close search"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
-        <label class="ps-search__where"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="ps-search-where" type="search" aria-label="Search destinations" placeholder="City or state" autocomplete="off" list="ps-destinations-list"></label>
+        <label class="ps-search__where"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="ps-search-where" type="search" aria-label="Search destinations" placeholder="City or state" autocomplete="off"></label>
+        <ul class="ps-dest-suggest ps-dest-suggest--inline" id="ps-search-dest-suggest" aria-label="Suggested destinations" hidden></ul>
       </section>
       <section class="ps-search__section ps-search__who" aria-labelledby="ps-who-title">
         <div><h3 id="ps-who-title">Who</h3><p>How many guests?</p></div>
@@ -138,6 +139,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
 <script src="assets/lazy-water.js?v=1"></script>
-<script src="assets/map.js?v=40"></script>
+<script src="assets/map.js?v=41"></script>
 </body>
 </html>

@@ -386,6 +386,16 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-recent-item span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .ps-recent-item small { flex: none; font-size: 10px; color: var(--mute); }
 .ps-recents-empty { padding: 12px; font-size: 13px; color: var(--mute); }
+/* Where to?, nothing typed: destinations near the guest, or, without a fix, the best-known ones. */
+.ps-dest-suggest { position: absolute; top: calc(100% + 8px); left: 0; right: 0; z-index: 20; margin: 0; padding: 8px; list-style: none;
+                   border: 1px solid var(--line); border-radius: var(--r); background: white; box-shadow: var(--shadow-up); max-height: 320px; overflow-y: auto; }
+.ps-dest-suggest[hidden] { display: none; }
+.ps-dest-suggest--inline { position: static; margin: 10px 0 0; padding: 0; border: 0; box-shadow: none; max-height: none; }
+.ps-dest-suggest__label { padding: 6px 10px 4px; font-size: 11px; color: var(--mute); }
+.ps-dest-suggest button { display: flex; align-items: center; justify-content: space-between; gap: 10px; width: 100%; min-height: 40px; padding: 8px 10px; margin-top: 2px;
+                          border: 0; border-radius: 8px; background: none; color: var(--ink); text-align: left; font: 13px var(--serif); cursor: pointer; }
+.ps-dest-suggest button:hover { background: var(--tint); }
+.ps-dest-suggest button span { flex: none; font-size: 11px; color: var(--mute); }
 
 /* A quiet home screen shares the same cards, typography and compact search. */
 .ps-landing[hidden] { display: none; }
