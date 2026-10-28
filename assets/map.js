@@ -266,6 +266,21 @@
     };
     return '<svg viewBox="0 0 24 24" aria-hidden="true">' + paths[kind] + '</svg>';
   }
+  /* Large and opened cards: every fact as a pill with words, unknowns spelled out. */
+  function factPills(h) {
+    function plural(n, one, many) { return n + ' ' + (String(n) === '1' ? one : many); }
+    function policy(v, noun) { return v === 'Yes' ? noun + ' OK' : v === 'No' ? 'No ' + noun.toLowerCase() : v === 'Conditional' ? noun + ': ask host' : noun + ' unknown'; }
+    var pills = [
+      ['guests', known(h.guests) ? 'Sleeps ' + h.guests : 'Sleeps unknown', known(h.guests)],
+      ['bedrooms', known(h.bedrooms) ? plural(h.bedrooms, 'bedroom', 'bedrooms') : 'Bedrooms unknown', known(h.bedrooms)],
+      ['bathrooms', known(h.bathrooms) ? plural(h.bathrooms, 'bathroom', 'bathrooms') : 'Bathrooms unknown', known(h.bathrooms)],
+      ['pets', policy(h.pets, 'Pets'), known(h.pets)],
+      ['kids', policy(h.kids, 'Kids'), known(h.kids)]
+    ];
+    return '<ul class="ps-home__facts ps-home__facts--pills" aria-label="Facts">' + pills.map(function (p) {
+      return '<li class="ps-pill' + (p[2] ? '' : ' ps-pill--unknown') + '">' + factIcon(p[0]) + '<span>' + esc(p[1]) + '</span></li>';
+    }).join('') + '</ul>';
+  }
   function factRows(h, inline, detail) {   // bedrooms only on the opened card
     var fields = [['guests', 'Sleeps']].concat(detail ? [['bedrooms', 'Bedrooms']] : []).concat([['bathrooms', 'Bathrooms'], ['pets', 'Pets'], ['kids', 'Children']]);
     var rows = fields.filter(function (f) { return known(h[f[0]]); }).map(function (f) {
@@ -328,7 +343,7 @@
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(displayPlace) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(displayPlace) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (tiny ? '' : '<p class="ps-home__description">' + (h.loaded ? esc(detail ? fullDescription(h) : shortDescription(h.cardDescription || h.description)) : '') + '</p>') +
       (detail && h.loaded ? unknownsLine(h) : '') +
-      (factRows(h, false, detail) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
+      (tiny ? (factRows(h, false, detail) || '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>') : factPills(h)) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Not affiliated with LAZY.</p>') + '</div></article>';
