@@ -1,0 +1,374 @@
+[
+ {
+  "id": "ME-0061",
+  "name": "207North Cabins",
+  "url": "https://207northcabins.com",
+  "place": "Millinocket, ME",
+  "town": "Millinocket",
+  "state": "ME",
+  "destination": "Katahdin",
+  "type": "Cabin",
+  "recordType": "Property / small operator",
+  "description": "Stay at 207North Cabins in Patten, ME. Modern, cozy cabins with direct snowmobile and Atv trail acess. Not far from Baxter State Park and Katahdin Woods & Waters. Family Friendly, Fully Equipped, and open year round.",
+  "descriptionSource": "https://www.207northcabins.com",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Stay at 207North Cabins in Patten, ME. Modern, cozy cabins with direct snowmobile and Atv trail acess. Not far from Baxter State Park and Katahdin…",
+  "cardDescriptionSource": "https://www.207northcabins.com",
+  "cardPhotos": [
+   "images/ME-0061-cover.avif",
+   "images/ME-0061-000.avif",
+   "images/ME-0061-001.avif"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 45.6487,
+  "lng": -68.6849,
+  "photo": "images/ME-0061-card.webp",
+  "coverPhoto": "images/ME-0061-cover.avif",
+  "photos": [
+   {
+    "file": "images/ME-0061-cover.avif",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0061-000.avif",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0061-001.avif",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0061-002.avif",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0064",
+  "name": "4th Debsconeag Lake Camps",
+  "url": "https://debsconeaglakecamps.com",
+  "place": "Millinocket / Debsconeag Lakes, ME",
+  "town": "Millinocket",
+  "state": "ME",
+  "destination": "Katahdin",
+  "type": "Camp",
+  "recordType": "Property / small operator",
+  "description": "Experience the century-old tradition of Debsconeag Lake Wilderness Camps in Maine's North Woods. Remote lakeside lodging surrounded by 100,000+ acres of protected wilderness.",
+  "descriptionSource": "https://debsconeaglakecamps.com/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Experience the century-old tradition of Debsconeag Lake Wilderness Camps in Maine's North Woods. Remote lakeside lodging surrounded by 100,000+…",
+  "cardDescriptionSource": "https://debsconeaglakecamps.com/",
+  "cardPhotos": [
+   "images/ME-0064-cover.webp",
+   "images/ME-0064-000.webp",
+   "images/ME-0064-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "address"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Yes (activities for children)",
+  "petsDetails": "Generally yes (confirm for unit/season)",
+  "lat": 45.6487,
+  "lng": -68.6849,
+  "photo": "images/ME-0064-card.webp",
+  "coverPhoto": "images/ME-0064-cover.webp",
+  "photos": [
+   {
+    "file": "images/ME-0064-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0064-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0064-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0064-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "images/ME-0064-logo.webp",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0180",
+  "name": "Abol Properties",
+  "url": "https://abolproperties.com",
+  "place": "Millinocket, ME",
+  "town": "Millinocket",
+  "state": "ME",
+  "destination": "Katahdin",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Hosted by Kim Welcome to Baxter Place, a unique and comfortable living space in the heart of the village of Millinocket. The apartment is just a minutes walk from restaurants, bars and galleries and at the doorstep to all the lakes and mountains of the Katahdin region. Whether you hike, x-country",
+  "descriptionSource": "https://www.abolproperties.com/baxter-place/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Hosted by Kim Welcome to Baxter Place, a unique and comfortable living space in the heart of the village of Millinocket. The apartment is just a…",
+  "cardDescriptionSource": "https://www.abolproperties.com/baxter-place/",
+  "cardPhotos": [
+   "images/ME-0180-cover.jpg",
+   "images/ME-0180-000.jpg",
+   "images/ME-0180-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 45.6487,
+  "lng": -68.6849,
+  "photo": "images/ME-0180-card.webp",
+  "coverPhoto": "images/ME-0180-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0180-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0180-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0180-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0180-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "images/ME-0180-logo.png",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0062",
+  "name": "Big Moose Inn Cabins",
+  "url": "https://bigmoosecabins.com",
+  "place": "Millinocket, ME",
+  "town": "Millinocket",
+  "state": "ME",
+  "destination": "Katahdin",
+  "type": "Cabin",
+  "recordType": "Property / small operator",
+  "description": "Big Moose's Fredericka's restaurant, Loose Moose Bar Grille, Inn rooms, inn suites, lakefront cabins that make it your all inclusive vacation destination for Katahdin lodging nearest Baxter State Park.",
+  "descriptionSource": "https://bigmoosecabins.com/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Big Moose's Fredericka's restaurant, Loose Moose Bar Grille, Inn rooms, inn suites, lakefront cabins that make it your all inclusive vacation…",
+  "cardDescriptionSource": "https://bigmoosecabins.com/",
+  "cardPhotos": [
+   "images/ME-0062-cover.jpg",
+   "images/ME-0062-000.jpg",
+   "images/ME-0062-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 45.6487,
+  "lng": -68.6849,
+  "photo": "images/ME-0062-card.webp",
+  "coverPhoto": "images/ME-0062-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0062-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0062-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0062-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0062-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0060",
+  "name": "Katahdin Shadows Cabins",
+  "url": "https://katahdinshadows.com",
+  "place": "Medway, ME",
+  "town": "Medway",
+  "state": "ME",
+  "destination": "Katahdin",
+  "type": "Cabin",
+  "recordType": "Property / small operator",
+  "description": "Come for some great fall camping. Enjoy a warm fire with friends and let the kids burn off some energy on one of the last weekends before we close for the season!",
+  "descriptionSource": "https://katahdinshadows.com/photos/site-photos/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Come for some great fall camping. Enjoy a warm fire with friends and let the kids burn off some energy on one of the last weekends before we close…",
+  "cardDescriptionSource": "https://katahdinshadows.com/photos/site-photos/",
+  "cardPhotos": [
+   "images/ME-0060-cover.webp",
+   "images/ME-0060-000.webp",
+   "images/ME-0060-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 45.61707,
+  "lng": -68.55071,
+  "photo": "images/ME-0060-card.webp",
+  "coverPhoto": "images/ME-0060-cover.webp",
+  "photos": [
+   {
+    "file": "images/ME-0060-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0060-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0060-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0060-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0181",
+  "name": "Shin Pond Village",
+  "url": "https://shinpond.com",
+  "place": "Mount Chase, ME",
+  "town": "Mount Chase",
+  "state": "ME",
+  "destination": "Katahdin",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Shin Pond Village in Mount Chase, Main offers tent camping, RV sites, cottages, and waterfront homes along with Polaris rentals and access to snowmobile routes.",
+  "descriptionSource": "https://www.shinpond.com/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Shin Pond Village in Mount Chase, Main offers tent camping, RV sites, cottages, and waterfront homes along with Polaris rentals and access to…",
+  "cardDescriptionSource": "https://www.shinpond.com/",
+  "cardPhotos": [
+   "images/ME-0181-cover.jpg",
+   "images/ME-0181-000.webp",
+   "images/ME-0181-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "property photos (4 required)"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Yes — family resort",
+  "petsDetails": "Unknown",
+  "lat": 46.10555,
+  "lng": -68.55569,
+  "photo": "images/ME-0181-card.webp",
+  "coverPhoto": "images/ME-0181-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0181-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0181-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0181-001.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "images/ME-0181-logo.webp",
+  "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ }
+]

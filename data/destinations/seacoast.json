@@ -1,0 +1,133 @@
+[
+ {
+  "id": "NH-0051",
+  "name": "Seacoast2Summit Vacation Rentals",
+  "url": "https://seacoast2summit.com/",
+  "place": "Portsmouth, NH",
+  "town": "Portsmouth",
+  "state": "NH",
+  "destination": "Seacoast",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "New England vacation rental manager with homes on the NH Seacoast,in the Lakes Region and White Mountains.",
+  "descriptionSource": "https://seacoast2summit.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "New England vacation rental manager with homes on the NH Seacoast,in the Lakes Region and White Mountains.",
+  "cardDescriptionSource": "https://seacoast2summit.com/",
+  "cardPhotos": [
+   "images/NH-0051-cover.webp",
+   "images/NH-0051-000.webp",
+   "images/NH-0051-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: The Sister Cottages — front cottage views only,combined two-cottage rental",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies",
+   "Publicly undisclosed physical rental address",
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unit capacities vary; property facts not transferred to operator.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 43.0751,
+  "lng": -70.7602,
+  "photo": "images/NH-0051-card.webp",
+  "coverPhoto": "images/NH-0051-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0051-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0051-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0051-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0035",
+  "name": "Seaside Village Resort",
+  "url": "https://www.seasidevillageresort.com/",
+  "place": "North Hampton, NH",
+  "town": "North Hampton",
+  "state": "NH",
+  "destination": "Seacoast",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Beachfront cottages, townhouses and studios in North Hampton.",
+  "descriptionSource": "https://www.seasidevillageresort.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Beachfront cottages, townhouses and studios in North Hampton.",
+  "cardDescriptionSource": "https://www.seasidevillageresort.com/",
+  "cardPhotos": [
+   "images/NH-0035-cover.webp",
+   "images/NH-0035-000.webp",
+   "images/NH-0035-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Shared campus; verify visually before use",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unit capacities vary: townhouses4; cottage4 adults+4 children; apartment3 adults+3 children.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Peak-season posted weekly rates $1149–2399; nightly Original units $189–220,3-night minimum; off-season30% less; tax extra. Source reserve/rates.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Pets require management approval before arrival.",
+  "lat": 42.969,
+  "lng": -70.8359,
+  "photo": "images/NH-0035-card.webp",
+  "coverPhoto": "images/NH-0035-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0035-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0035-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0035-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0035-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ }
+]

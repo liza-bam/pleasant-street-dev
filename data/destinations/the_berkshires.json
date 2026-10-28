@@ -1,0 +1,5368 @@
+[
+ {
+  "id": "MA-0317",
+  "name": "Ashintully Cottage",
+  "url": "https://www.ashintullycottage.com/",
+  "place": "Tyringham, MA",
+  "town": "Tyringham",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Four-bedroom Tyringham cottage for seven guests beside Ashintully Gardens, with three bathrooms and a screened porch.",
+  "descriptionSource": "https://www.ashintullycottage.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom Tyringham cottage for seven guests beside Ashintully Gardens, with three bathrooms and a screened porch.",
+  "cardDescriptionSource": "https://www.ashintullycottage.com/",
+  "cardPhotos": [
+   "images/MA-0317-cover.webp",
+   "images/MA-0317-000.webp",
+   "images/MA-0317-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 7,
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Own site has no explicit child rule. Prior Houfy discovery indicated no children while historical reviews described family stays; this pass did not resolve that cross-source conflict.",
+  "petsDetails": "Own site does not publish a pet admission rule.",
+  "lat": 42.2458,
+  "lng": -73.204,
+  "photo": "images/MA-0317-card.webp",
+  "coverPhoto": "images/MA-0317-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0317-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0317-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0317-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0317-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0306",
+  "name": "Berkshire Farmhouse Vacation",
+  "url": "https://berkshirefarmhousevacation.com/",
+  "place": "West Stockbridge, MA",
+  "town": "West Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Five-bedroom 1850s farmhouse on four acres in West Stockbridge, with gardens, a stream and a screened porch.",
+  "descriptionSource": "https://berkshirefarmhousevacation.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Five-bedroom 1850s farmhouse on four acres in West Stockbridge, with gardens, a stream and a screened porch.",
+  "cardDescriptionSource": "https://berkshirefarmhousevacation.com/",
+  "cardPhotos": [
+   "images/MA-0306-cover.webp",
+   "images/MA-0306-000.webp",
+   "images/MA-0306-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "No explicit child admission rule found in checked pages.",
+  "petsDetails": "Dogs negotiable with $60 per dog fee; no puppies and no cats. Dog rules referenced as text without an exposed link; confirm full restrictions with operator.",
+  "lat": 42.3343,
+  "lng": -73.3678,
+  "photo": "images/MA-0306-card.webp",
+  "coverPhoto": "images/MA-0306-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0306-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0306-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0306-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0306-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15024",
+  "name": "Berkshire Rental Properties — Aberdeen",
+  "url": "https://www.berkrentals.com/property/636377530382681742/aberdeen",
+  "place": "New Marlborough, MA",
+  "town": "New Marlborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Aberdeen: Sparkling contemporary, sitting on 6+ acres, one-level living + privacy.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377530382681742/aberdeen",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Aberdeen: Sparkling contemporary, sitting on 6+ acres, one-level living + privacy.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377530382681742/aberdeen",
+  "cardPhotos": [
+   "images/MA-15024-cover.webp",
+   "images/MA-15024-000.webp",
+   "images/MA-15024-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 7,
+  "capacityDetails": "Property page lists sleeps 7.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1586876,
+  "lng": -73.2945075,
+  "photo": "images/MA-15024-card.webp",
+  "coverPhoto": "images/MA-15024-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15024-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15024-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15024-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15024-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15000",
+  "name": "Berkshire Rental Properties — Casa Mia with Pool",
+  "url": "https://www.berkrentals.com/property/636377516533089471/casa-mia-with-pool",
+  "place": "New Marlborough, MA",
+  "town": "New Marlborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Amenities include 5+ bedrooms, 4 full baths, sleeps 12 in beds and 14 max, with a heated seasonal pool, hot tub and sauna.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377516533089471/casa-mia-with-pool",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Amenities include 5+ bedrooms, 4 full baths, sleeps 12 in beds and 14 max, with a heated seasonal pool, hot tub and sauna.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377516533089471/casa-mia-with-pool",
+  "cardPhotos": [
+   "images/MA-15000-cover.webp",
+   "images/MA-15000-000.webp",
+   "images/MA-15000-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "guests": 14,
+  "capacityDetails": "Property page lists sleeps 14.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.14256,
+  "lng": -73.2528773,
+  "photo": "images/MA-15000-card.webp",
+  "coverPhoto": "images/MA-15000-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15000-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15000-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15000-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15000-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15015",
+  "name": "Berkshire Rental Properties — Castle Townhouse",
+  "url": "https://www.berkrentals.com/property/636377463655497807/castle-townhouse",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "Renovated 3-bedroom, 1.5-bath townhouse steps from the center of Great Barrington and a short walk to Lake Mansfield.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377463655497807/castle-townhouse",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Renovated 3-bedroom, 1.5-bath townhouse steps from the center of Great Barrington and a short walk to Lake Mansfield.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377463655497807/castle-townhouse",
+  "cardPhotos": [
+   "images/MA-15015-cover.webp",
+   "images/MA-15015-000.webp",
+   "images/MA-15015-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1.5,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1946526,
+  "lng": -73.366748,
+  "photo": "images/MA-15015-card.webp",
+  "coverPhoto": "images/MA-15015-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15015-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15015-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15015-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15015-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15018",
+  "name": "Berkshire Rental Properties — Cherry View",
+  "url": "https://www.berkrentals.com/property/700517978424215169/cherry-view",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Cherry View Amenities: 4+ bedrooms, 3.5 baths, sleeps 8 in beds or 10 max.",
+  "descriptionSource": "https://www.berkrentals.com/property/700517978424215169/cherry-view",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Cherry View Amenities: 4+ bedrooms, 3.5 baths, sleeps 8 in beds or 10 max.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/700517978424215169/cherry-view",
+  "cardPhotos": [
+   "images/MA-15018-cover.webp",
+   "images/MA-15018-000.webp",
+   "images/MA-15018-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3.5,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2430181,
+  "lng": -73.374233,
+  "photo": "images/MA-15018-card.webp",
+  "coverPhoto": "images/MA-15018-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15018-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15018-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15018-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15018-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15021",
+  "name": "Berkshire Rental Properties — Conway House",
+  "url": "https://www.berkrentals.com/property/636377514981196912/conway-house",
+  "place": "Housatonic, MA",
+  "town": "Housatonic",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Conway House sits overlooking the sparkling Housatonic River, with vast views.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377514981196912/conway-house",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Conway House sits overlooking the sparkling Housatonic River, with vast views.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377514981196912/conway-house",
+  "cardPhotos": [
+   "images/MA-15021-cover.webp",
+   "images/MA-15021-000.webp",
+   "images/MA-15021-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2.5,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2456879,
+  "lng": -73.3557413,
+  "photo": "images/MA-15021-card.webp",
+  "coverPhoto": "images/MA-15021-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15021-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15021-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15021-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15021-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15009",
+  "name": "Berkshire Rental Properties — Creamery",
+  "url": "https://www.berkrentals.com/property/636377522245731709/creamery-road",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Fully renovated 5-bedroom home that sleeps 12, with large screened porch, hot tub, fire pit and billiards.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377522245731709/creamery-road",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Fully renovated 5-bedroom home that sleeps 12, with large screened porch, hot tub, fire pit and billiards.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377522245731709/creamery-road",
+  "cardPhotos": [
+   "images/MA-15009-cover.webp",
+   "images/MA-15009-000.webp",
+   "images/MA-15009-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 12,
+  "capacityDetails": "Property page lists sleeps 12.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1691773,
+  "lng": -73.4136701,
+  "photo": "images/MA-15009-card.webp",
+  "coverPhoto": "images/MA-15009-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15009-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15009-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15009-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15009-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15022",
+  "name": "Berkshire Rental Properties — Dixon Cottage",
+  "url": "https://www.berkrentals.com/property/636377482131407340/dixon-cottage",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Renovated cottage with vast mountain views. 3 bedrooms, 2 full baths, sleeps 6.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377482131407340/dixon-cottage",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Renovated cottage with vast mountain views. 3 bedrooms, 2 full baths, sleeps 6.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377482131407340/dixon-cottage",
+  "cardPhotos": [
+   "images/MA-15022-cover.webp",
+   "images/MA-15022-000.webp",
+   "images/MA-15022-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.150809,
+  "lng": -73.3740192,
+  "photo": "images/MA-15022-card.webp",
+  "coverPhoto": "images/MA-15022-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15022-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15022-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15022-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15022-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15027",
+  "name": "Berkshire Rental Properties — Garden House",
+  "url": "https://www.berkrentals.com/property/636377547008903209/garden-house",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "The Garden House, Quiet Elegance with One-Level Living, in a Park-Like Setting.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377547008903209/garden-house",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "The Garden House, Quiet Elegance with One-Level Living, in a Park-Like Setting.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377547008903209/garden-house",
+  "cardPhotos": [
+   "images/MA-15027-cover.webp",
+   "images/MA-15027-000.webp",
+   "images/MA-15027-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4.5,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.168737,
+  "lng": -73.413905,
+  "photo": "images/MA-15027-card.webp",
+  "coverPhoto": "images/MA-15027-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15027-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15027-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15027-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15027-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15026",
+  "name": "Berkshire Rental Properties — Hadley House",
+  "url": "https://www.berkrentals.com/property/636377487168766598/hadley-house",
+  "place": "Stockbridge, MA",
+  "town": "Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Hadley House with lush gardens in Stockbridge, MA with Hot Tub, sleeps 7 in beds.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377487168766598/hadley-house",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hadley House with lush gardens in Stockbridge, MA with Hot Tub, sleeps 7 in beds.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377487168766598/hadley-house",
+  "cardPhotos": [
+   "images/MA-15026-cover.webp",
+   "images/MA-15026-000.webp",
+   "images/MA-15026-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 1.5,
+  "guests": 7,
+  "capacityDetails": "Property page lists sleeps 7.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2755331,
+  "lng": -73.3199362,
+  "photo": "images/MA-15026-card.webp",
+  "coverPhoto": "images/MA-15026-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15026-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15026-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15026-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15026-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15008",
+  "name": "Berkshire Rental Properties — Highland",
+  "url": "https://www.berkrentals.com/property/636377540046358380/highland",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Highland: Epic GB location: walk-to the Green River, fully fenced yard, with hot tub.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377540046358380/highland",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Highland: Epic GB location: walk-to the Green River, fully fenced yard, with hot tub.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377540046358380/highland",
+  "cardPhotos": [
+   "images/MA-15008-cover.webp",
+   "images/MA-15008-000.webp",
+   "images/MA-15008-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1935411,
+  "lng": -73.3772016,
+  "photo": "images/MA-15008-card.webp",
+  "coverPhoto": "images/MA-15008-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15008-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15008-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15008-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15008-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15025",
+  "name": "Berkshire Rental Properties — Hill House Modern",
+  "url": "https://www.berkrentals.com/property/636377524753925599/prospect-on-the-hill",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Hill House Modern: a lovely mid-century modern boasting one-level living",
+  "descriptionSource": "https://www.berkrentals.com/property/636377524753925599/prospect-on-the-hill",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hill House Modern: a lovely mid-century modern boasting one-level living",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377524753925599/prospect-on-the-hill",
+  "cardPhotos": [
+   "images/MA-15025-cover.webp",
+   "images/MA-15025-000.webp",
+   "images/MA-15025-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1967369,
+  "lng": -73.3695104,
+  "photo": "images/MA-15025-card.webp",
+  "coverPhoto": "images/MA-15025-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15025-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15025-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15025-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15025-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15003",
+  "name": "Berkshire Rental Properties — Hummingbird House",
+  "url": "https://www.berkrentals.com/property/692954662403309740/hummingbird-house",
+  "place": "Sheffield, MA",
+  "town": "Sheffield",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "One-level Mid-Century Modern retreat on 4+ acres in the Southern Berkshires, with heated pool and screened-in porch.",
+  "descriptionSource": "https://www.berkrentals.com/property/692954662403309740/hummingbird-house",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "One-level Mid-Century Modern retreat on 4+ acres in the Southern Berkshires, with heated pool and screened-in porch.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/692954662403309740/hummingbird-house",
+  "cardPhotos": [
+   "images/MA-15003-cover.webp",
+   "images/MA-15003-000.webp",
+   "images/MA-15003-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1203388,
+  "lng": -73.4098158,
+  "photo": "images/MA-15003-card.webp",
+  "coverPhoto": "images/MA-15003-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15003-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15003-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15003-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15003-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15010",
+  "name": "Berkshire Rental Properties — Interlaken Cross",
+  "url": "https://www.berkrentals.com/property/636377519959835945/interlaken-cross",
+  "place": "Stockbridge, MA",
+  "town": "Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Interlaken Cross: Easy 1 level living with 2 additional bedrooms on the second floor. Sunny open floor-plan and well set up sun deck.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377519959835945/interlaken-cross",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Interlaken Cross: Easy 1 level living with 2 additional bedrooms on the second floor. Sunny open floor-plan and well set up sun deck.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377519959835945/interlaken-cross",
+  "cardPhotos": [
+   "images/MA-15010-cover.webp",
+   "images/MA-15010-000.webp",
+   "images/MA-15010-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.3192425,
+  "lng": -73.3223031,
+  "photo": "images/MA-15010-card.webp",
+  "coverPhoto": "images/MA-15010-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15010-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15010-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15010-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15010-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15006",
+  "name": "Berkshire Rental Properties — Lake Garfield Waterfront",
+  "url": "https://www.berkrentals.com/property/636377479304446355/lake-garfield-waterfront",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Lake Garfield Waterfront is a dynamic, adorable, cozy and exhilarating rental experience directly on the water!",
+  "descriptionSource": "https://www.berkrentals.com/property/636377479304446355/lake-garfield-waterfront",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Lake Garfield Waterfront is a dynamic, adorable, cozy and exhilarating rental experience directly on the water!",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377479304446355/lake-garfield-waterfront",
+  "cardPhotos": [
+   "images/MA-15006-cover.webp",
+   "images/MA-15006-000.webp",
+   "images/MA-15006-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3.5,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1757174,
+  "lng": -73.1906198,
+  "photo": "images/MA-15006-card.webp",
+  "coverPhoto": "images/MA-15006-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15006-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15006-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15006-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15006-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15002",
+  "name": "Berkshire Rental Properties — Lakeside Cottage",
+  "url": "https://www.berkrentals.com/property/636377484660572729/lakeside-cottage",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "The Lakeside Cottage is a wonderful waterfront retreat with direct access to Prospect Lake.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377484660572729/lakeside-cottage",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "The Lakeside Cottage is a wonderful waterfront retreat with direct access to Prospect Lake.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377484660572729/lakeside-cottage",
+  "cardPhotos": [
+   "images/MA-15002-cover.webp",
+   "images/MA-15002-000.webp",
+   "images/MA-15002-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1984365,
+  "lng": -73.4530201,
+  "photo": "images/MA-15002-card.webp",
+  "coverPhoto": "images/MA-15002-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15002-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15002-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15002-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15002-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15016",
+  "name": "Berkshire Rental Properties — Laurel Banks Waterfront",
+  "url": "https://www.berkrentals.com/property/636377506714223584/laurel-banks-waterfront",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Laurel Banks Waterfront: Amenities include 4 bedrooms, 2 full baths, all new mattresses and linens, high-speed fiber optic internet",
+  "descriptionSource": "https://www.berkrentals.com/property/636377506714223584/laurel-banks-waterfront",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Laurel Banks Waterfront: Amenities include 4 bedrooms, 2 full baths, all new mattresses and linens, high-speed fiber optic internet",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377506714223584/laurel-banks-waterfront",
+  "cardPhotos": [
+   "images/MA-15016-cover.webp",
+   "images/MA-15016-000.webp",
+   "images/MA-15016-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1669704,
+  "lng": -73.2669375,
+  "photo": "images/MA-15016-card.webp",
+  "coverPhoto": "images/MA-15016-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15016-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15016-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15016-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15016-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15014",
+  "name": "Berkshire Rental Properties — Laurel Cottage",
+  "url": "https://www.berkrentals.com/property/636377460807565315/laurel-cottage",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Laurel Cottage: A whimsical 3 bedroom cottage, with delightful outdoor spaces, close to all Berkshire events!",
+  "descriptionSource": "https://www.berkrentals.com/property/636377460807565315/laurel-cottage",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Laurel Cottage: A whimsical 3 bedroom cottage, with delightful outdoor spaces, close to all Berkshire events!",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377460807565315/laurel-cottage",
+  "cardPhotos": [
+   "images/MA-15014-cover.webp",
+   "images/MA-15014-000.webp",
+   "images/MA-15014-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1987702,
+  "lng": -73.3460675,
+  "photo": "images/MA-15014-card.webp",
+  "coverPhoto": "images/MA-15014-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15014-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15014-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15014-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15014-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15028",
+  "name": "Berkshire Rental Properties — Long Pond Views",
+  "url": "https://www.berkrentals.com/property/636377501400040320/long-pond-views",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Long Pond Views: New Built Contemporary with 4 bedroom, 4 full baths, sleeps 8 in beds.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377501400040320/long-pond-views",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Long Pond Views: New Built Contemporary with 4 bedroom, 4 full baths, sleeps 8 in beds.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377501400040320/long-pond-views",
+  "cardPhotos": [
+   "images/MA-15028-cover.webp",
+   "images/MA-15028-000.webp",
+   "images/MA-15028-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2550544,
+  "lng": -73.3890351,
+  "photo": "images/MA-15028-card.webp",
+  "coverPhoto": "images/MA-15028-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15028-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15028-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15028-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15028-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15005",
+  "name": "Berkshire Rental Properties — Red House",
+  "url": "https://www.berkrentals.com/property/659430242158380025/red-house",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "The Red House: Exclusive, Modern Farmhouse with Big Views, Heated Pool and Hot Tub. 5 bedrooms, 3 full baths, Sleeps 12, or a max of 14.",
+  "descriptionSource": "https://www.berkrentals.com/property/659430242158380025/red-house",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "The Red House: Exclusive, Modern Farmhouse with Big Views, Heated Pool and Hot Tub. 5 bedrooms, 3 full baths, Sleeps 12, or a max of 14.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/659430242158380025/red-house",
+  "cardPhotos": [
+   "images/MA-15005-cover.webp",
+   "images/MA-15005-000.webp",
+   "images/MA-15005-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 14,
+  "capacityDetails": "Property page lists sleeps 14.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.229447,
+  "lng": -73.4037221,
+  "photo": "images/MA-15005-card.webp",
+  "coverPhoto": "images/MA-15005-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15005-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15005-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15005-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15005-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15017",
+  "name": "Berkshire Rental Properties — Riverside",
+  "url": "https://www.berkrentals.com/property/636377497516114718/riverside",
+  "place": "Sheffield, MA",
+  "town": "Sheffield",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Riverside Amenities: 4 bedrooms (King, Queen, Queen, King), 2.5 baths. sleeps 8 guests in beds, with a max of 10 guests.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377497516114718/riverside",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Riverside Amenities: 4 bedrooms (King, Queen, Queen, King), 2.5 baths. sleeps 8 guests in beds, with a max of 10 guests.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377497516114718/riverside",
+  "cardPhotos": [
+   "images/MA-15017-cover.webp",
+   "images/MA-15017-000.webp",
+   "images/MA-15017-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "guests": 11,
+  "capacityDetails": "Property page lists sleeps 11.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.114392,
+  "lng": -73.342801,
+  "photo": "images/MA-15017-card.webp",
+  "coverPhoto": "images/MA-15017-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15017-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15017-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15017-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15017-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15013",
+  "name": "Berkshire Rental Properties — Rose Cottage",
+  "url": "https://www.berkrentals.com/property/670439084904155538/rose-cottage",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Rose Cottage, Egremont MA: Cozy, enchanting 3 bedroom cottage with 1.5 baths in lush, sprawling, rural location.",
+  "descriptionSource": "https://www.berkrentals.com/property/670439084904155538/rose-cottage",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Rose Cottage, Egremont MA: Cozy, enchanting 3 bedroom cottage with 1.5 baths in lush, sprawling, rural location.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/670439084904155538/rose-cottage",
+  "cardPhotos": [
+   "images/MA-15013-cover.webp",
+   "images/MA-15013-000.webp",
+   "images/MA-15013-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1.5,
+  "guests": 5,
+  "capacityDetails": "Property page lists sleeps 5.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.211802,
+  "lng": -73.4323724,
+  "photo": "images/MA-15013-card.webp",
+  "coverPhoto": "images/MA-15013-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15013-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15013-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15013-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15013-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15023",
+  "name": "Berkshire Rental Properties — Rosecliff Estate",
+  "url": "https://www.berkrentals.com/property/636377537156482783/rosecliff-estate-with-pool",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Rosecliff Amenities: Main House, Heated Pool with Pool house, Sleeps 13 in beds or 15 max.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377537156482783/rosecliff-estate-with-pool",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Rosecliff Amenities: Main House, Heated Pool with Pool house, Sleeps 13 in beds or 15 max.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377537156482783/rosecliff-estate-with-pool",
+  "cardPhotos": [
+   "images/MA-15023-cover.webp",
+   "images/MA-15023-000.webp",
+   "images/MA-15023-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 7,
+  "guests": 15,
+  "capacityDetails": "Property page lists sleeps 15.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.182128,
+  "lng": -73.3824039,
+  "photo": "images/MA-15023-card.webp",
+  "coverPhoto": "images/MA-15023-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15023-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15023-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15023-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15023-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15001",
+  "name": "Berkshire Rental Properties — Seventeen",
+  "url": "https://www.berkrentals.com/property/636377543397607358/seventeen",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Seventeen is a beautifully Updated light-filled Berkshire Farmhouse with Thoughtful Touches Throughout!",
+  "descriptionSource": "https://www.berkrentals.com/property/636377543397607358/seventeen",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Seventeen is a beautifully Updated light-filled Berkshire Farmhouse with Thoughtful Touches Throughout!",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377543397607358/seventeen",
+  "cardPhotos": [
+   "images/MA-15001-cover.webp",
+   "images/MA-15001-000.webp",
+   "images/MA-15001-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 12,
+  "capacityDetails": "Property page lists sleeps 12.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1595041,
+  "lng": -73.4089738,
+  "photo": "images/MA-15001-card.webp",
+  "coverPhoto": "images/MA-15001-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15001-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15001-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15001-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15001-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15012",
+  "name": "Berkshire Rental Properties — Sweetwater",
+  "url": "https://www.berkrentals.com/property/636377493569274584/sweetwater",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Immaculate Waterfront Lake House with Direct Access to Lake Buel.",
+  "descriptionSource": "https://www.berkrentals.com/property/636377493569274584/sweetwater",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Immaculate Waterfront Lake House with Direct Access to Lake Buel.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377493569274584/sweetwater",
+  "cardPhotos": [
+   "images/MA-15012-cover.webp",
+   "images/MA-15012-000.webp",
+   "images/MA-15012-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.168947,
+  "lng": -73.268069,
+  "photo": "images/MA-15012-card.webp",
+  "coverPhoto": "images/MA-15012-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15012-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15012-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15012-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15012-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15011",
+  "name": "Berkshire Rental Properties — The Meadows",
+  "url": "https://www.berkrentals.com/property/692501240155734328/the-meadows",
+  "place": "Mill River, MA",
+  "town": "Mill River",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "The Meadows: An architectural blend of modern and rustic, with vast meadow views, marrying what was once a log cabin with contemporary stone",
+  "descriptionSource": "https://www.berkrentals.com/property/692501240155734328/the-meadows",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "The Meadows: An architectural blend of modern and rustic, with vast meadow views, marrying what was once a log cabin with contemporary stone",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/692501240155734328/the-meadows",
+  "cardPhotos": [
+   "images/MA-15011-cover.webp",
+   "images/MA-15011-000.webp",
+   "images/MA-15011-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "guests": 9,
+  "capacityDetails": "Property page lists sleeps 9.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1037518,
+  "lng": -73.3017151,
+  "photo": "images/MA-15011-card.webp",
+  "coverPhoto": "images/MA-15011-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15011-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15011-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15011-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15011-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15019",
+  "name": "Berkshire Rental Properties — The Novogratz",
+  "url": "https://www.berkrentals.com/property/665672418169194190/the-novogratz-with-pool",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Designed by The Novogratz: This revered sun-filled antique Colonial makes it's return!",
+  "descriptionSource": "https://www.berkrentals.com/property/665672418169194190/the-novogratz-with-pool",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Designed by The Novogratz: This revered sun-filled antique Colonial makes it's return!",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/665672418169194190/the-novogratz-with-pool",
+  "cardPhotos": [
+   "images/MA-15019-cover.webp",
+   "images/MA-15019-000.webp",
+   "images/MA-15019-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3.5,
+  "guests": 16,
+  "capacityDetails": "Property page lists sleeps 16.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1635767,
+  "lng": -73.4091568,
+  "photo": "images/MA-15019-card.webp",
+  "coverPhoto": "images/MA-15019-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15019-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15019-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15019-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15019-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15020",
+  "name": "Berkshire Rental Properties — West View",
+  "url": "https://www.berkrentals.com/property/636377550678919290/west-view-long-term",
+  "place": "Alford, MA",
+  "town": "Alford",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "West View: Chic, modern, log cabin with lovely sun deck and forest views!",
+  "descriptionSource": "https://www.berkrentals.com/property/636377550678919290/west-view-long-term",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "West View: Chic, modern, log cabin with lovely sun deck and forest views!",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377550678919290/west-view-long-term",
+  "cardPhotos": [
+   "images/MA-15020-cover.webp",
+   "images/MA-15020-000.webp",
+   "images/MA-15020-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2835,
+  "lng": -73.4250883,
+  "photo": "images/MA-15020-card.webp",
+  "coverPhoto": "images/MA-15020-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15020-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15020-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15020-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15020-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15004",
+  "name": "Berkshire Rental Properties — White Birch",
+  "url": "https://www.berkrentals.com/property/636377470978752732/white-birch",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "White Birch amenities include 4 bedrooms, 3 baths, Sleep 12+ a main floor master suite with a large walk in shower, hot tub, high speed internet",
+  "descriptionSource": "https://www.berkrentals.com/property/636377470978752732/white-birch",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "White Birch amenities include 4 bedrooms, 3 baths, Sleep 12+ a main floor master suite with a large walk in shower, hot tub, high speed internet",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/636377470978752732/white-birch",
+  "cardPhotos": [
+   "images/MA-15004-cover.webp",
+   "images/MA-15004-000.webp",
+   "images/MA-15004-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 14,
+  "capacityDetails": "Property page lists sleeps 14.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1843897,
+  "lng": -73.2936631,
+  "photo": "images/MA-15004-card.webp",
+  "coverPhoto": "images/MA-15004-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15004-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15004-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15004-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15004-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15007",
+  "name": "Berkshire Rental Properties — Woodland",
+  "url": "https://www.berkrentals.com/property/668197974664282254/woodland",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Sparkling Renovation, top to bottom, on quiet cul-du-sac: 5 bedrooms, 3.5 baths, sleeps 14 in beds. Max of 9 adults, preferred.",
+  "descriptionSource": "https://www.berkrentals.com/property/668197974664282254/woodland",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Sparkling Renovation, top to bottom, on quiet cul-du-sac: 5 bedrooms, 3.5 baths, sleeps 14 in beds. Max of 9 adults, preferred.",
+  "cardDescriptionSource": "https://www.berkrentals.com/property/668197974664282254/woodland",
+  "cardPhotos": [
+   "images/MA-15007-cover.webp",
+   "images/MA-15007-000.webp",
+   "images/MA-15007-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3.5,
+  "guests": 14,
+  "capacityDetails": "Property page lists sleeps 14.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2252,
+  "lng": -73.3633442,
+  "photo": "images/MA-15007-card.webp",
+  "coverPhoto": "images/MA-15007-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15007-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15007-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15007-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15007-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15032",
+  "name": "Berkshire Vacation Rental Co. — Belden Farm - WALK to Tanglewood !",
+  "url": "https://www.berkshirevacationrental.com/property/671186753268223239/the-belden-house-walk-to-tanglewood",
+  "place": "Lenox, MA",
+  "town": "Lenox",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Step in to Belden Farm, circa 1881.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/671186753268223239/the-belden-house-walk-to-tanglewood",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Step in to Belden Farm, circa 1881.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/671186753268223239/the-belden-house-walk-to-tanglewood",
+  "cardPhotos": [
+   "images/MA-15032-cover.webp",
+   "images/MA-15032-000.webp",
+   "images/MA-15032-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 2,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.3564098,
+  "lng": -73.301829,
+  "photo": "images/MA-15032-card.webp",
+  "coverPhoto": "images/MA-15032-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15032-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15032-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15032-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15032-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15038",
+  "name": "Berkshire Vacation Rental Co. — Bidwell Landing",
+  "url": "https://www.berkshirevacationrental.com/property/634825472626133775/bidwell-landing-lakefront-spacious",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Enjoy this spacious 4 bed, 4 bath home nestled on Lake Garfield in the beautiful Berkshires.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825472626133775/bidwell-landing-lakefront-spacious",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Enjoy this spacious 4 bed, 4 bath home nestled on Lake Garfield in the beautiful Berkshires.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825472626133775/bidwell-landing-lakefront-spacious",
+  "cardPhotos": [
+   "images/MA-15038-cover.webp",
+   "images/MA-15038-000.webp",
+   "images/MA-15038-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1678629,
+  "lng": -73.1823697,
+  "photo": "images/MA-15038-card.webp",
+  "coverPhoto": "images/MA-15038-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15038-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15038-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15038-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15038-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15037",
+  "name": "Berkshire Vacation Rental Co. — Cheshire Cove",
+  "url": "https://www.berkshirevacationrental.com/property/634825474937195374/cheshire-cove-waterfront-kayak-firepit",
+  "place": "Cheshire, MA",
+  "town": "Cheshire",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Escape to this charming lakeside oasis on Cheshire Lake in the heart of The Berkshires.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825474937195374/cheshire-cove-waterfront-kayak-firepit",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Escape to this charming lakeside oasis on Cheshire Lake in the heart of The Berkshires.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825474937195374/cheshire-cove-waterfront-kayak-firepit",
+  "cardPhotos": [
+   "images/MA-15037-cover.webp",
+   "images/MA-15037-000.webp",
+   "images/MA-15037-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Property page lists sleeps 4.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.5431244,
+  "lng": -73.166368,
+  "photo": "images/MA-15037-card.webp",
+  "coverPhoto": "images/MA-15037-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15037-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15037-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15037-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15037-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15044",
+  "name": "Berkshire Vacation Rental Co. — Corey Road Condo",
+  "url": "https://www.berkshirevacationrental.com/property/634825476744940468/corey-road-condo-jiminy-peak-pool-hot-tub",
+  "place": "Hancock, MA",
+  "town": "Hancock",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "Perfectly situated for the ski season, you'll enjoy quick access to both the slopes and apres ski.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825476744940468/corey-road-condo-jiminy-peak-pool-hot-tub",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Perfectly situated for the ski season, you'll enjoy quick access to both the slopes and apres ski.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825476744940468/corey-road-condo-jiminy-peak-pool-hot-tub",
+  "cardPhotos": [
+   "images/MA-15044-cover.webp",
+   "images/MA-15044-000.webp",
+   "images/MA-15044-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 4,
+  "capacityDetails": "Property page lists sleeps 4.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.6171877,
+  "lng": -73.3233188,
+  "photo": "images/MA-15044-card.webp",
+  "coverPhoto": "images/MA-15044-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15044-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15044-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15044-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15044-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15046",
+  "name": "Berkshire Vacation Rental Co. — Dharma Grove - Bask in the Light",
+  "url": "https://www.berkshirevacationrental.com/property/655232155693089093/dharma-hollow-grounded-w-a-whiff-of-mystical",
+  "place": "Pittsfield, MA",
+  "town": "Pittsfield",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Set on sprawling open grounds in Richmond, this Berkshire retreat has a quiet magic to it.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/655232155693089093/dharma-hollow-grounded-w-a-whiff-of-mystical",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Set on sprawling open grounds in Richmond, this Berkshire retreat has a quiet magic to it.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/655232155693089093/dharma-hollow-grounded-w-a-whiff-of-mystical",
+  "cardPhotos": [
+   "images/MA-15046-cover.webp",
+   "images/MA-15046-000.webp",
+   "images/MA-15046-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.4098612,
+  "lng": -73.3419725,
+  "photo": "images/MA-15046-card.webp",
+  "coverPhoto": "images/MA-15046-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15046-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15046-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15046-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15046-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15033",
+  "name": "Berkshire Vacation Rental Co. — Forest Hollow",
+  "url": "https://www.berkshirevacationrental.com/property/634825478447827948/forest-hollow-waterfront-kayaks-wood-stove",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Take a step out of everyday life and enjoy some rest and relaxation at this cozy home on the lake nestled in the hills of The Berkshires.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825478447827948/forest-hollow-waterfront-kayaks-wood-stove",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Take a step out of everyday life and enjoy some rest and relaxation at this cozy home on the lake nestled in the hills of The Berkshires.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825478447827948/forest-hollow-waterfront-kayaks-wood-stove",
+  "cardPhotos": [
+   "images/MA-15033-cover.webp",
+   "images/MA-15033-000.webp",
+   "images/MA-15033-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1990656,
+  "lng": -73.2365084,
+  "photo": "images/MA-15033-card.webp",
+  "coverPhoto": "images/MA-15033-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15033-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15033-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15033-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15033-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15039",
+  "name": "Berkshire Vacation Rental Co. — Friendly Hills",
+  "url": "https://www.berkshirevacationrental.com/property/634825479706119208/friendly-hills-passive-home-ev-charger",
+  "place": "Pittsfield, MA",
+  "town": "Pittsfield",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Welcome to Friendly Hills, a one-of-a-kind Mid-Century home nestled on 6 private acres. Built in the 1950s by GE engineer Willard F.M.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825479706119208/friendly-hills-passive-home-ev-charger",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Welcome to Friendly Hills, a one-of-a-kind Mid-Century home nestled on 6 private acres. Built in the 1950s by GE engineer Willard F.M.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825479706119208/friendly-hills-passive-home-ev-charger",
+  "cardPhotos": [
+   "images/MA-15039-cover.webp",
+   "images/MA-15039-000.webp",
+   "images/MA-15039-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.4268826,
+  "lng": -73.3505387,
+  "photo": "images/MA-15039-card.webp",
+  "coverPhoto": "images/MA-15039-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15039-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15039-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15039-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15039-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15035",
+  "name": "Berkshire Vacation Rental Co. — Garfield Grounds",
+  "url": "https://www.berkshirevacationrental.com/property/634825481761328244/garfield-grounds-lakeside-guest-cottage-dock",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "This spacious house features a stunning private dock perfect for swimming and vast open grounds ideal for entertaining.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825481761328244/garfield-grounds-lakeside-guest-cottage-dock",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "This spacious house features a stunning private dock perfect for swimming and vast open grounds ideal for entertaining.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825481761328244/garfield-grounds-lakeside-guest-cottage-dock",
+  "cardPhotos": [
+   "images/MA-15035-cover.webp",
+   "images/MA-15035-000.webp",
+   "images/MA-15035-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2140624,
+  "lng": -73.1960035,
+  "photo": "images/MA-15035-card.webp",
+  "coverPhoto": "images/MA-15035-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15035-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15035-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15035-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15035-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15043",
+  "name": "Berkshire Vacation Rental Co. — Gilbert Ski Chalet",
+  "url": "https://www.berkshirevacationrental.com/property/634825483669736652/gilbert-ski-chalet-3-min-to-catamount",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "With large picture windows framing stunning views, the open design feels airy and inviting—perfect for gathering after a day on the slopes.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825483669736652/gilbert-ski-chalet-3-min-to-catamount",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "With large picture windows framing stunning views, the open design feels airy and inviting—perfect for gathering after a day on the slopes.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825483669736652/gilbert-ski-chalet-3-min-to-catamount",
+  "cardPhotos": [
+   "images/MA-15043-cover.webp",
+   "images/MA-15043-000.webp",
+   "images/MA-15043-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1623307,
+  "lng": -73.453662,
+  "photo": "images/MA-15043-card.webp",
+  "coverPhoto": "images/MA-15043-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15043-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15043-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15043-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15043-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15042",
+  "name": "Berkshire Vacation Rental Co. — Goose Pond Landings",
+  "url": "https://www.berkshirevacationrental.com/property/634825484957388034/goose-pond-landings-private-dock-kayaks",
+  "place": "Tyringham, MA",
+  "town": "Tyringham",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "This spacious 3BR/3BA home offers stunning lake views, kayaks for exploring the lake, and a backyard perfect for time spent with the whole family.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825484957388034/goose-pond-landings-private-dock-kayaks",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "This spacious 3BR/3BA home offers stunning lake views, kayaks for exploring the lake, and a backyard perfect for time spent with the whole family.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825484957388034/goose-pond-landings-private-dock-kayaks",
+  "cardPhotos": [
+   "images/MA-15042-cover.webp",
+   "images/MA-15042-000.webp",
+   "images/MA-15042-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.2404515,
+  "lng": -73.2095006,
+  "photo": "images/MA-15042-card.webp",
+  "coverPhoto": "images/MA-15042-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15042-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15042-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15042-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15042-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15045",
+  "name": "Berkshire Vacation Rental Co. — Hearth House",
+  "url": "https://www.berkshirevacationrental.com/property/634825486651886919/hearth-house-private-sauna-prime-location",
+  "place": "Stockbridge, MA",
+  "town": "Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "This charming, sun-filled home offers 3 comfortable bedrooms and 2.5 baths, perfect for relaxing with family or friends.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825486651886919/hearth-house-private-sauna-prime-location",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "This charming, sun-filled home offers 3 comfortable bedrooms and 2.5 baths, perfect for relaxing with family or friends.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825486651886919/hearth-house-private-sauna-prime-location",
+  "cardPhotos": [
+   "images/MA-15045-cover.webp",
+   "images/MA-15045-000.webp",
+   "images/MA-15045-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 5,
+  "capacityDetails": "Property page lists sleeps 5.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.2816666,
+  "lng": -73.3154192,
+  "photo": "images/MA-15045-card.webp",
+  "coverPhoto": "images/MA-15045-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15045-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15045-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15045-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15045-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15054",
+  "name": "Berkshire Vacation Rental Co. — Hupi Hideaway",
+  "url": "https://www.berkshirevacationrental.com/property/723356519826983912/hupi-hideaway-fireplace-5-min-walk-to-the-lake",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Hupi Hideaway is a cozy Monterey retreat with an easy, old-school Berkshires feel, and it’s barely a 5-minute walk to the Lake Garfield town beach.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/723356519826983912/hupi-hideaway-fireplace-5-min-walk-to-the-lake",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hupi Hideaway is a cozy Monterey retreat with an easy, old-school Berkshires feel, and it’s barely a 5-minute walk to the Lake Garfield town beach.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/723356519826983912/hupi-hideaway-fireplace-5-min-walk-to-the-lake",
+  "cardPhotos": [
+   "images/MA-15054-cover.webp",
+   "images/MA-15054-000.webp",
+   "images/MA-15054-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1935782,
+  "lng": -73.2096076,
+  "photo": "images/MA-15054-card.webp",
+  "coverPhoto": "images/MA-15054-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15054-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15054-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15054-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15054-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15055",
+  "name": "Berkshire Vacation Rental Co. — Hupi House",
+  "url": "https://www.berkshirevacationrental.com/property/723356535819862268/hupi-house-stylish-hideaway-near-lake-garfield",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Set on eight acres of pristine sugar maple forest in Monterey, Hupi House is the kind of place you settle into fast.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/723356535819862268/hupi-house-stylish-hideaway-near-lake-garfield",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Set on eight acres of pristine sugar maple forest in Monterey, Hupi House is the kind of place you settle into fast.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/723356535819862268/hupi-house-stylish-hideaway-near-lake-garfield",
+  "cardPhotos": [
+   "images/MA-15055-cover.webp",
+   "images/MA-15055-000.webp",
+   "images/MA-15055-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1940785,
+  "lng": -73.2124312,
+  "photo": "images/MA-15055-card.webp",
+  "coverPhoto": "images/MA-15055-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15055-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15055-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15055-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15055-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15034",
+  "name": "Berkshire Vacation Rental Co. — Jug End Crest",
+  "url": "https://www.berkshirevacationrental.com/property/634825491836046871/jug-end-crest-fireplace-sunroom-central-air",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Nestled beside Jug End Reservation and the Appalachian Trail, this modern home boasts valley views and a cozy fireplace in the main living area.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825491836046871/jug-end-crest-fireplace-sunroom-central-air",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Nestled beside Jug End Reservation and the Appalachian Trail, this modern home boasts valley views and a cozy fireplace in the main living area.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825491836046871/jug-end-crest-fireplace-sunroom-central-air",
+  "cardPhotos": [
+   "images/MA-15034-cover.webp",
+   "images/MA-15034-000.webp",
+   "images/MA-15034-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1435891,
+  "lng": -73.4509089,
+  "photo": "images/MA-15034-card.webp",
+  "coverPhoto": "images/MA-15034-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15034-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15034-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15034-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15034-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15052",
+  "name": "Berkshire Vacation Rental Co. — Mac Shores",
+  "url": "https://www.berkshirevacationrental.com/property/634825494780448406/mac-shores-5-min-to-tanglewood-shared-beach",
+  "place": "Stockbridge, MA",
+  "town": "Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Welcome to our funky little summer cottage!",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825494780448406/mac-shores-5-min-to-tanglewood-shared-beach",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Welcome to our funky little summer cottage!",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825494780448406/mac-shores-5-min-to-tanglewood-shared-beach",
+  "cardPhotos": [
+   "images/MA-15052-cover.webp",
+   "images/MA-15052-000.webp",
+   "images/MA-15052-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.297024,
+  "lng": -73.2746797,
+  "photo": "images/MA-15052-card.webp",
+  "coverPhoto": "images/MA-15052-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15052-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15052-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15052-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15052-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15031",
+  "name": "Berkshire Vacation Rental Co. — Meadow's Edge - Modern Retreat w/ In Law Suite",
+  "url": "https://www.berkshirevacationrental.com/property/671086456592138591/mosss-muse-a-modern-summer-retreat",
+  "place": "Stockbridge, MA",
+  "town": "Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Welcome to Meadow's Edge, a modern 4 bed, 3.5 bath luxury retreat in historic Stockbridge, MA, just 5 minutes from Tanglewood.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/671086456592138591/mosss-muse-a-modern-summer-retreat",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Welcome to Meadow's Edge, a modern 4 bed, 3.5 bath luxury retreat in historic Stockbridge, MA, just 5 minutes from Tanglewood.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/671086456592138591/mosss-muse-a-modern-summer-retreat",
+  "cardPhotos": [
+   "images/MA-15031-cover.webp",
+   "images/MA-15031-000.webp",
+   "images/MA-15031-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.3324394,
+  "lng": -73.329802,
+  "photo": "images/MA-15031-card.webp",
+  "coverPhoto": "images/MA-15031-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15031-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15031-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15031-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15031-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15050",
+  "name": "Berkshire Vacation Rental Co. — Pine & Paddle",
+  "url": "https://www.berkshirevacationrental.com/property/634825500119797527/pine-paddle-pond-access-kayaks",
+  "place": "Pittsfield, MA",
+  "town": "Pittsfield",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Imagine relaxing by the cozy wood stove after a day spent exploring. With two bedrooms and a fresh bathroom, it’s perfect for a peaceful getaway.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825500119797527/pine-paddle-pond-access-kayaks",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Imagine relaxing by the cozy wood stove after a day spent exploring. With two bedrooms and a fresh bathroom, it’s perfect for a peaceful getaway.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825500119797527/pine-paddle-pond-access-kayaks",
+  "cardPhotos": [
+   "images/MA-15050-cover.webp",
+   "images/MA-15050-000.webp",
+   "images/MA-15050-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Property page lists sleeps 4.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.4496141,
+  "lng": -73.3478876,
+  "photo": "images/MA-15050-card.webp",
+  "coverPhoto": "images/MA-15050-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15050-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15050-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15050-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15050-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15041",
+  "name": "Berkshire Vacation Rental Co. — Pixley Forest",
+  "url": "https://www.berkshirevacationrental.com/property/634825503995334547/pixley-forest-15-mins-to-tanglewood-fireplace",
+  "place": "Housatonic, MA",
+  "town": "Housatonic",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Get away to this peaceful Berkshire escape tucked into the woods of Pixley Hill in West Stockbridge!",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825503995334547/pixley-forest-15-mins-to-tanglewood-fireplace",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Get away to this peaceful Berkshire escape tucked into the woods of Pixley Hill in West Stockbridge!",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825503995334547/pixley-forest-15-mins-to-tanglewood-fireplace",
+  "cardPhotos": [
+   "images/MA-15041-cover.webp",
+   "images/MA-15041-000.webp",
+   "images/MA-15041-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2569457,
+  "lng": -73.344449,
+  "photo": "images/MA-15041-card.webp",
+  "coverPhoto": "images/MA-15041-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15041-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15041-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15041-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15041-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15029",
+  "name": "Berkshire Vacation Rental Co. — Scribe's Stable",
+  "url": "https://www.berkshirevacationrental.com/property/634825508059611204/scribes-stable-ac-screened-porch-sleeps-6",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Escape to a renovated barn that blends rustic charm with modern comfort.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825508059611204/scribes-stable-ac-screened-porch-sleeps-6",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Escape to a renovated barn that blends rustic charm with modern comfort.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825508059611204/scribes-stable-ac-screened-porch-sleeps-6",
+  "cardPhotos": [
+   "images/MA-15029-cover.webp",
+   "images/MA-15029-000.webp",
+   "images/MA-15029-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2052129,
+  "lng": -73.2503579,
+  "photo": "images/MA-15029-card.webp",
+  "coverPhoto": "images/MA-15029-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15029-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15029-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15029-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15029-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15048",
+  "name": "Berkshire Vacation Rental Co. — St Anne's Manor",
+  "url": "https://www.berkshirevacationrental.com/property/634825509385011316/st-annes-manor-walk-to-downtown-sleeps-8",
+  "place": "Lenox, MA",
+  "town": "Lenox",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Step back in time into this beautifully curated victorian built in the late 1800's right in downtown Lenox.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825509385011316/st-annes-manor-walk-to-downtown-sleeps-8",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Step back in time into this beautifully curated victorian built in the late 1800's right in downtown Lenox.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825509385011316/st-annes-manor-walk-to-downtown-sleeps-8",
+  "cardPhotos": [
+   "images/MA-15048-cover.webp",
+   "images/MA-15048-000.webp",
+   "images/MA-15048-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.3856418,
+  "lng": -73.2931101,
+  "photo": "images/MA-15048-card.webp",
+  "coverPhoto": "images/MA-15048-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15048-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15048-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15048-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15048-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15051",
+  "name": "Berkshire Vacation Rental Co. — Stockbridge Landings",
+  "url": "https://www.berkshirevacationrental.com/property/634825511008207058/stockbridge-landings-3-mins-to-tanglewood",
+  "place": "Stockbridge, MA",
+  "town": "Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Nestled right at the Stockbridge Bowl in the Berkshires, it’s the spot for water lovers and Tanglewood fans alike.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825511008207058/stockbridge-landings-3-mins-to-tanglewood",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Nestled right at the Stockbridge Bowl in the Berkshires, it’s the spot for water lovers and Tanglewood fans alike.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825511008207058/stockbridge-landings-3-mins-to-tanglewood",
+  "cardPhotos": [
+   "images/MA-15051-cover.webp",
+   "images/MA-15051-000.webp",
+   "images/MA-15051-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2868721,
+  "lng": -73.3258483,
+  "photo": "images/MA-15051-card.webp",
+  "coverPhoto": "images/MA-15051-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15051-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15051-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15051-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15051-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15049",
+  "name": "Berkshire Vacation Rental Co. — Stonebridge Landing",
+  "url": "https://www.berkshirevacationrental.com/property/634825512652374287/stoneridge-landing-hot-tub-fire-pit",
+  "place": "Tyringham, MA",
+  "town": "Tyringham",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Escape to Hillside Haven, a cozy Berkshire retreat perfect for families.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825512652374287/stoneridge-landing-hot-tub-fire-pit",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Escape to Hillside Haven, a cozy Berkshire retreat perfect for families.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825512652374287/stoneridge-landing-hot-tub-fire-pit",
+  "cardPhotos": [
+   "images/MA-15049-cover.webp",
+   "images/MA-15049-000.webp",
+   "images/MA-15049-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.2763241,
+  "lng": -73.2227918,
+  "photo": "images/MA-15049-card.webp",
+  "coverPhoto": "images/MA-15049-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15049-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15049-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15049-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15049-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15040",
+  "name": "Berkshire Vacation Rental Co. — The Docent's House - Honoring a Legacy",
+  "url": "https://www.berkshirevacationrental.com/property/657335118330855603/the-docents-house-honoring-a-legacy",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Welcome to The Docent's House, a home with a story worth staying for.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/657335118330855603/the-docents-house-honoring-a-legacy",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Welcome to The Docent's House, a home with a story worth staying for.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/657335118330855603/the-docents-house-honoring-a-legacy",
+  "cardPhotos": [
+   "images/MA-15040-cover.webp",
+   "images/MA-15040-000.webp",
+   "images/MA-15040-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1772306,
+  "lng": -73.2977391,
+  "photo": "images/MA-15040-card.webp",
+  "coverPhoto": "images/MA-15040-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15040-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15040-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15040-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15040-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15053",
+  "name": "Berkshire Vacation Rental Co. — The Haystack",
+  "url": "https://www.berkshirevacationrental.com/property/723356503410475069/the-haystack-tiny-house-retreat-on-hayes-hill",
+  "place": "Mill River, MA",
+  "town": "Mill River",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Small house, big personality.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/723356503410475069/the-haystack-tiny-house-retreat-on-hayes-hill",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Small house, big personality.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/723356503410475069/the-haystack-tiny-house-retreat-on-hayes-hill",
+  "cardPhotos": [
+   "images/MA-15053-cover.webp",
+   "images/MA-15053-000.webp",
+   "images/MA-15053-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Property page lists sleeps 4.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1026359,
+  "lng": -73.2825647,
+  "photo": "images/MA-15053-card.webp",
+  "coverPhoto": "images/MA-15053-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15053-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15053-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15053-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15053-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15047",
+  "name": "Berkshire Vacation Rental Co. — The Reel Retreat",
+  "url": "https://www.berkshirevacationrental.com/property/634825515470946702/the-reel-retreat-theatre-firepit-game-room",
+  "place": "Pittsfield, MA",
+  "town": "Pittsfield",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "This home comes designed specifically as the perfect getaway.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825515470946702/the-reel-retreat-theatre-firepit-game-room",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "This home comes designed specifically as the perfect getaway.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825515470946702/the-reel-retreat-theatre-firepit-game-room",
+  "cardPhotos": [
+   "images/MA-15047-cover.webp",
+   "images/MA-15047-000.webp",
+   "images/MA-15047-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 7,
+  "capacityDetails": "Property page lists sleeps 7.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.3888345,
+  "lng": -73.2079414,
+  "photo": "images/MA-15047-card.webp",
+  "coverPhoto": "images/MA-15047-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15047-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15047-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15047-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15047-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15030",
+  "name": "Berkshire Vacation Rental Co. — The Summerwood Hideout",
+  "url": "https://www.berkshirevacationrental.com/property/634825517006062056/the-summerwood-hideout-mins-to-downtown-pool",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "This recently renovated home features a 3bd / 3 bath main house and a charming pool house for the inlaws or the teenagers that want their own space.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825517006062056/the-summerwood-hideout-mins-to-downtown-pool",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "This recently renovated home features a 3bd / 3 bath main house and a charming pool house for the inlaws or the teenagers that want their own space.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825517006062056/the-summerwood-hideout-mins-to-downtown-pool",
+  "cardPhotos": [
+   "images/MA-15030-cover.webp",
+   "images/MA-15030-000.webp",
+   "images/MA-15030-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.2049294,
+  "lng": -73.3754198,
+  "photo": "images/MA-15030-card.webp",
+  "coverPhoto": "images/MA-15030-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15030-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15030-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15030-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15030-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15036",
+  "name": "Berkshire Vacation Rental Co. — Timpani Corners",
+  "url": "https://www.berkshirevacationrental.com/property/652653052188166680/timpani-corners-private-pond-ac",
+  "place": "Lenox, MA",
+  "town": "Lenox",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Tucked beside a brook on a private quarry pond in Lenox adjacent to Pleasant Valley Wildlife Sanctuary",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/652653052188166680/timpani-corners-private-pond-ac",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Tucked beside a brook on a private quarry pond in Lenox adjacent to Pleasant Valley Wildlife Sanctuary",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/652653052188166680/timpani-corners-private-pond-ac",
+  "cardPhotos": [
+   "images/MA-15036-cover.webp",
+   "images/MA-15036-000.webp",
+   "images/MA-15036-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "Property page lists sleeps 5.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.4015459,
+  "lng": -73.2806041,
+  "photo": "images/MA-15036-card.webp",
+  "coverPhoto": "images/MA-15036-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15036-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15036-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15036-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15036-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0305",
+  "name": "Chambery Inn",
+  "url": "https://chamberyinn.com/",
+  "place": "Lee, MA",
+  "town": "Lee",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Lee schoolhouse-inn lead listed by the Berkshire tourism directory; own-site verification limited by a security challenge.",
+  "descriptionSource": "https://berkshires.org/business-directory/vacation-rentals/",
+  "descriptionStatus": "Source-supported lead; eligibility not approved",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos",
+   "Official physical rental or operator-business address",
+   "correct address role",
+   "Website eligibility verification"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.3073,
+  "lng": -73.2505,
+  "photo": "Unknown",
+  "coverPhoto": "Unknown",
+  "photos": [],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0302",
+  "name": "Harbour House Inn Bed and Breakfast",
+  "url": "https://www.harbourhouseinn.com/",
+  "place": "Cheshire, MA",
+  "town": "Cheshire",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Six-room Georgian Colonial bed and breakfast in Cheshire, with gourmet breakfast and gardens in the Berkshire hills.",
+  "descriptionSource": "https://www.harbourhouseinn.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos",
+   "Official physical rental or operator-business address",
+   "correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Child admission policy not published on checked home or Property Policies page.",
+  "petsDetails": "Pet-free establishment; registered service animals welcome.",
+  "lat": 42.5622,
+  "lng": -73.1616,
+  "photo": "images/MA-0302-card.webp",
+  "coverPhoto": "images/MA-0302-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0302-cover.webp",
+    "role": "cover"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0304",
+  "name": "Historic Beaver Mill Inn",
+  "url": "https://beavermill.com/",
+  "place": "North Adams, MA",
+  "town": "North Adams",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Twelve-room inn in a restored North Adams mill beside Natural Bridge State Park, with a communal kitchen.",
+  "descriptionSource": "https://beavermill.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Twelve-room inn in a restored North Adams mill beside Natural Bridge State Park, with a communal kitchen.",
+  "cardDescriptionSource": "https://beavermill.com/",
+  "cardPhotos": [
+   "images/MA-0304-cover.webp",
+   "images/MA-0304-000.webp",
+   "images/MA-0304-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": 12,
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "No",
+  "pets": "No",
+  "kidsDetails": "Adults only; no children under eighteen, explicitly stated on Rooms & Details.",
+  "petsDetails": "Rooms & Details explicitly prohibits pets.",
+  "lat": 42.699,
+  "lng": -73.1119,
+  "photo": "images/MA-0304-card.webp",
+  "coverPhoto": "images/MA-0304-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0304-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0304-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0304-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0304-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0261",
+  "name": "Historic, Modern Comforts, Walk To Downtown",
+  "url": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Historic Great Barrington home with five bedrooms, a dining room fireplace, full kitchen and fenced backyard.",
+  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Historic Great Barrington home with five bedrooms, a dining room fireplace, full kitchen and fenced backyard.",
+  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/68b32c16f86900001348fe2c?minOccupancy=1&adults=1",
+  "cardPhotos": [
+   "images/MA-0261-cover.webp",
+   "images/MA-0261-000.webp",
+   "images/MA-0261-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "guests": 16,
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+  "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+  "lat": 42.199008,
+  "lng": -73.358816,
+  "photo": "images/MA-0261-card.webp",
+  "coverPhoto": "images/MA-0261-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0261-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0261-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0261-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0261-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0318",
+  "name": "Huttopia Berkshires",
+  "url": "https://americas.huttopia.com/en/site/berkshires/",
+  "place": "Hancock, MA",
+  "town": "Hancock",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Hancock woodland resort with furnished tents and four-season Sierra tiny houses overlooking Jiminy Peak.",
+  "descriptionSource": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hancock woodland resort with furnished tents and four-season Sierra tiny houses overlooking Jiminy Peak.",
+  "cardDescriptionSource": "https://americas.huttopia.com/en/site/berkshires/#lodging-berkshires",
+  "cardPhotos": [
+   "images/MA-0318-cover.webp",
+   "images/MA-0318-000.webp",
+   "images/MA-0318-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Huttopia Berkshires cabin and shared campus",
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Multiple lodging types; Sierra tiny house and Trappeur/Canadienne sleep five; Bonaventure sleeps two. Not campus total.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Berkshires explicitly offers kids activities; baby bed/high chair kit available subject to availability. Under-twenty-one guests must be accompanied; unaccompanied minors not accepted.",
+  "petsDetails": "Dogs/cats allowed with nightly fee; vaccinated, leashed and never unattended; no pool-area access or furniture. Excluded breeds: American Staffordshire Terrier, Mastiff, Boerboel, Pitbull, Tosa, Rottweiler; aggressive dogs prohibited. FAQ exception only Paradise Springs Chaplin House, not Berkshires.",
+  "lat": 42.5432,
+  "lng": -73.3185,
+  "photo": "images/MA-0318-card.webp",
+  "coverPhoto": "images/MA-0318-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0318-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0318-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0318-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0318-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15069",
+  "name": "Lakehouse Guest Cottages of the Berkshires — Artists Cottage",
+  "url": "https://www.berkshirelakehouse.com/the-cottages/artists-cottage.html",
+  "place": "Lanesborough, MA",
+  "town": "Lanesborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Two bedroom, two bathroom waterfront cottage.",
+  "descriptionSource": "https://www.berkshirelakehouse.com/the-cottages/artists-cottage.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Two bedroom, two bathroom waterfront cottage.",
+  "cardDescriptionSource": "https://www.berkshirelakehouse.com/the-cottages/artists-cottage.html",
+  "cardPhotos": [
+   "images/MA-15069-cover.webp",
+   "images/MA-15069-000.webp",
+   "images/MA-15069-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.49797916,
+  "lng": -73.23853678,
+  "photo": "images/MA-15069-card.webp",
+  "coverPhoto": "images/MA-15069-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15069-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15069-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15069-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15069-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15066",
+  "name": "Lakehouse Guest Cottages of the Berkshires — Berkshire Cottage",
+  "url": "https://www.berkshirelakehouse.com/the-cottages/berkshire-cottage.html",
+  "place": "Lanesborough, MA",
+  "town": "Lanesborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Four bedrooms, four full baths.",
+  "descriptionSource": "https://www.berkshirelakehouse.com/the-cottages/berkshire-cottage.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four bedrooms, four full baths.",
+  "cardDescriptionSource": "https://www.berkshirelakehouse.com/the-cottages/berkshire-cottage.html",
+  "cardPhotos": [
+   "images/MA-15066-cover.webp",
+   "images/MA-15066-000.webp",
+   "images/MA-15066-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.49797916,
+  "lng": -73.23853678,
+  "photo": "images/MA-15066-card.webp",
+  "coverPhoto": "images/MA-15066-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15066-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15066-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15066-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15066-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15071",
+  "name": "Lakehouse Guest Cottages of the Berkshires — Dock Masters Cottage",
+  "url": "https://www.berkshirelakehouse.com/the-cottages/dock-masters-cottage.html",
+  "place": "Lanesborough, MA",
+  "town": "Lanesborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Two bedroom, two bathroom waterfront cottage.",
+  "descriptionSource": "https://www.berkshirelakehouse.com/the-cottages/dock-masters-cottage.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Two bedroom, two bathroom waterfront cottage.",
+  "cardDescriptionSource": "https://www.berkshirelakehouse.com/the-cottages/dock-masters-cottage.html",
+  "cardPhotos": [
+   "images/MA-15071-cover.webp",
+   "images/MA-15071-000.webp",
+   "images/MA-15071-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.49797916,
+  "lng": -73.23853678,
+  "photo": "images/MA-15071-card.webp",
+  "coverPhoto": "images/MA-15071-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15071-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15071-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15071-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15071-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15067",
+  "name": "Lakehouse Guest Cottages of the Berkshires — Greylock Cottage",
+  "url": "https://www.berkshirelakehouse.com/the-cottages/greylock-cottage.html",
+  "place": "Lanesborough, MA",
+  "town": "Lanesborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Three bedrooms, three and a half bathroom waterfront cottage.",
+  "descriptionSource": "https://www.berkshirelakehouse.com/the-cottages/greylock-cottage.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three bedrooms, three and a half bathroom waterfront cottage.",
+  "cardDescriptionSource": "https://www.berkshirelakehouse.com/the-cottages/greylock-cottage.html",
+  "cardPhotos": [
+   "images/MA-15067-cover.webp",
+   "images/MA-15067-000.webp",
+   "images/MA-15067-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3.5,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.49797916,
+  "lng": -73.23853678,
+  "photo": "images/MA-15067-card.webp",
+  "coverPhoto": "images/MA-15067-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15067-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15067-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15067-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15067-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15068",
+  "name": "Lakehouse Guest Cottages of the Berkshires — Holiday Cottage",
+  "url": "https://www.berkshirelakehouse.com/the-cottages/holiday-cottage.html",
+  "place": "Lanesborough, MA",
+  "town": "Lanesborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Three bedroom, three and a half bathroom cottage. Each bedroom offers a king size bed and en-suite bathroom.",
+  "descriptionSource": "https://www.berkshirelakehouse.com/the-cottages/holiday-cottage.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three bedroom, three and a half bathroom cottage. Each bedroom offers a king size bed and en-suite bathroom.",
+  "cardDescriptionSource": "https://www.berkshirelakehouse.com/the-cottages/holiday-cottage.html",
+  "cardPhotos": [
+   "images/MA-15068-cover.webp",
+   "images/MA-15068-000.webp",
+   "images/MA-15068-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3.5,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.49797916,
+  "lng": -73.23853678,
+  "photo": "images/MA-15068-card.webp",
+  "coverPhoto": "images/MA-15068-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15068-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15068-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15068-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15068-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15065",
+  "name": "Lakehouse Guest Cottages of the Berkshires — Lakehouse Lodge",
+  "url": "https://www.berkshirelakehouse.com/the-cottages/lakehouse-lodge.html",
+  "place": "Lanesborough, MA",
+  "town": "Lanesborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Waterfront with exceptional views. This house has it all, massive 1100 square floor living room with window wall overlooking the lake.",
+  "descriptionSource": "https://www.berkshirelakehouse.com/the-cottages/lakehouse-lodge.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Waterfront with exceptional views. This house has it all, massive 1100 square floor living room with window wall overlooking the lake.",
+  "cardDescriptionSource": "https://www.berkshirelakehouse.com/the-cottages/lakehouse-lodge.html",
+  "cardPhotos": [
+   "images/MA-15065-cover.webp",
+   "images/MA-15065-000.webp",
+   "images/MA-15065-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.49797916,
+  "lng": -73.23853678,
+  "photo": "images/MA-15065-card.webp",
+  "coverPhoto": "images/MA-15065-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15065-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15065-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15065-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15065-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15070",
+  "name": "Lakehouse Guest Cottages of the Berkshires — Writers Cottage",
+  "url": "https://www.berkshirelakehouse.com/the-cottages/writers-cottage.html",
+  "place": "Lanesborough, MA",
+  "town": "Lanesborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Two bedroom, two bathroom waterfront cottage.",
+  "descriptionSource": "https://www.berkshirelakehouse.com/the-cottages/writers-cottage.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Two bedroom, two bathroom waterfront cottage.",
+  "cardDescriptionSource": "https://www.berkshirelakehouse.com/the-cottages/writers-cottage.html",
+  "cardPhotos": [
+   "images/MA-15070-cover.webp",
+   "images/MA-15070-000.webp",
+   "images/MA-15070-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.49797916,
+  "lng": -73.23853678,
+  "photo": "images/MA-15070-card.webp",
+  "coverPhoto": "images/MA-15070-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15070-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15070-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15070-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15070-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0324",
+  "name": "Misty Pines Cabin",
+  "url": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+  "place": "Monterey, MA",
+  "town": "Monterey",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Three-bedroom Monterey cabin with three baths, a wood stove, deck and outdoor wood-fired sauna.",
+  "descriptionSource": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom Monterey cabin with three baths, a wood stove, deck and outdoor wood-fired sauna.",
+  "cardDescriptionSource": "https://www.berkshirevacationrental.com/property/634825498832146120/misty-pines-cabin-wood-stove-sauna?checkin=2026-12-07&checkout=2026-12-10",
+  "cardPhotos": [
+   "images/MA-0324-cover.webp",
+   "images/MA-0324-000.webp",
+   "images/MA-0324-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "guests": 8,
+  "capacityDetails": "Misty Pines unit: eight guests, three bedrooms, six beds, three bathrooms; not portfolio totals.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Property rules explicitly welcome children ages two to twelve and infants under two. Pack n Play travel crib available on request.",
+  "petsDetails": "Up to two dogs; $100 one-time fee, include pet in booking in advance. Other animal types prohibited.",
+  "lat": 42.22398,
+  "lng": -73.2248,
+  "photo": "images/MA-0324-card.webp",
+  "coverPhoto": "images/MA-0324-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0324-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0324-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0324-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0324-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0256",
+  "name": "Nature Retreat Near Prospect Lake",
+  "url": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Egremont home near Prospect Lake with a wood burning fireplace, three season porch, fire pit and gathering house.",
+  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Egremont home near Prospect Lake with a wood burning fireplace, three season porch, fire pit and gathering house.",
+  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/69fcecf6568db90014134afd?minOccupancy=1&adults=1",
+  "cardPhotos": [
+   "images/MA-0256-cover.webp",
+   "images/MA-0256-000.webp",
+   "images/MA-0256-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Catalog advertises 10 guests, but current own description says up to 11. Confirm capacity with operator.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+  "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+  "lat": 42.19711,
+  "lng": -73.441713,
+  "photo": "images/MA-0256-card.webp",
+  "coverPhoto": "images/MA-0256-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0256-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0256-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0256-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0256-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15056",
+  "name": "Red Cottage — Butterfly Cottage",
+  "url": "https://redcottage.com/property/butterfly-cottage/",
+  "place": "Lee, MA",
+  "town": "Lee",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Butterfly Cottage is a 3 bed, 2.5 bath mountain escape 2.5 hours from Boston and 3.5 hours from NYC.",
+  "descriptionSource": "https://redcottage.com/property/butterfly-cottage/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Butterfly Cottage is a 3 bed, 2.5 bath mountain escape 2.5 hours from Boston and 3.5 hours from NYC.",
+  "cardDescriptionSource": "https://redcottage.com/property/butterfly-cottage/",
+  "cardPhotos": [
+   "images/MA-15056-cover.webp",
+   "images/MA-15056-000.webp",
+   "images/MA-15056-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2.5,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.2982163,
+  "lng": -73.1642318,
+  "photo": "images/MA-15056-card.webp",
+  "coverPhoto": "images/MA-15056-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15056-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15056-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15056-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15056-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15064",
+  "name": "Red Cottage — Chalet des Collines",
+  "url": "https://redcottage.com/property/chalet-des-collines/",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Chalet Des Collines is a gorgeous country escape set on 2 pastoral acres of a lovely meadow in the Taconic Range.",
+  "descriptionSource": "https://redcottage.com/property/chalet-des-collines/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Chalet Des Collines is a gorgeous country escape set on 2 pastoral acres of a lovely meadow in the Taconic Range.",
+  "cardDescriptionSource": "https://redcottage.com/property/chalet-des-collines/",
+  "cardPhotos": [
+   "images/MA-15064-cover.webp",
+   "images/MA-15064-000.webp",
+   "images/MA-15064-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1669378,
+  "lng": -73.4027427,
+  "photo": "images/MA-15064-card.webp",
+  "coverPhoto": "images/MA-15064-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15064-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15064-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15064-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15064-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15058",
+  "name": "Red Cottage — Crossbridge – Main House",
+  "url": "https://redcottage.com/property/crossbridge-main-house/",
+  "place": "West Stockbridge, MA",
+  "town": "West Stockbridge",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Crossbridge is a spacious 4 bed, 5 bath property 2.5 hrs from Boston & under 3 hrs from NYC.",
+  "descriptionSource": "https://redcottage.com/property/crossbridge-main-house/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Crossbridge is a spacious 4 bed, 5 bath property 2.5 hrs from Boston & under 3 hrs from NYC.",
+  "cardDescriptionSource": "https://redcottage.com/property/crossbridge-main-house/",
+  "cardPhotos": [
+   "images/MA-15058-cover.webp",
+   "images/MA-15058-000.webp",
+   "images/MA-15058-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 5,
+  "guests": 7,
+  "capacityDetails": "Property page lists sleeps 7.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.3220906,
+  "lng": -73.4001665,
+  "photo": "images/MA-15058-card.webp",
+  "coverPhoto": "images/MA-15058-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15058-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15058-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15058-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15058-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15063",
+  "name": "Red Cottage — Fernbrook",
+  "url": "https://redcottage.com/property/fernbrook/",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Fernbrook is a stylish 5 bed, 4.5 bath Scandinavian-inspired sanctuary 2.5 hrs from Boston & under 3 hrs from NYC.",
+  "descriptionSource": "https://redcottage.com/property/fernbrook/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Fernbrook is a stylish 5 bed, 4.5 bath Scandinavian-inspired sanctuary 2.5 hrs from Boston & under 3 hrs from NYC.",
+  "cardDescriptionSource": "https://redcottage.com/property/fernbrook/",
+  "cardPhotos": [
+   "images/MA-15063-cover.webp",
+   "images/MA-15063-000.webp",
+   "images/MA-15063-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4.5,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.203393,
+  "lng": -73.4477184,
+  "photo": "images/MA-15063-card.webp",
+  "coverPhoto": "images/MA-15063-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15063-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15063-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15063-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15063-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15061",
+  "name": "Red Cottage — Hillside Haven",
+  "url": "https://redcottage.com/property/hillside-haven/",
+  "place": "Egremont, MA",
+  "town": "Egremont",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Hillside Haven is a contemporary and spacious family retreat, with 4 bedrooms and 3.5 bathrooms",
+  "descriptionSource": "https://redcottage.com/property/hillside-haven/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hillside Haven is a contemporary and spacious family retreat, with 4 bedrooms and 3.5 bathrooms",
+  "cardDescriptionSource": "https://redcottage.com/property/hillside-haven/",
+  "cardPhotos": [
+   "images/MA-15061-cover.webp",
+   "images/MA-15061-000.webp",
+   "images/MA-15061-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3.5,
+  "guests": 10,
+  "capacityDetails": "Property page lists sleeps 10.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1687084,
+  "lng": -73.453516,
+  "photo": "images/MA-15061-card.webp",
+  "coverPhoto": "images/MA-15061-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15061-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15061-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15061-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15061-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15057",
+  "name": "Red Cottage — Meadow Top Cabin",
+  "url": "https://redcottage.com/property/meadow-top-cabin/",
+  "place": "New Marlborough, MA",
+  "town": "New Marlborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Set amidst the rolling beauty of New Marlborough, MA, Meadow Top Cabin is a charming 1-bed, 1-bath retreat on a sprawling 72-acre estate.",
+  "descriptionSource": "https://redcottage.com/property/meadow-top-cabin/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Set amidst the rolling beauty of New Marlborough, MA, Meadow Top Cabin is a charming 1-bed, 1-bath retreat on a sprawling 72-acre estate.",
+  "cardDescriptionSource": "https://redcottage.com/property/meadow-top-cabin/",
+  "cardPhotos": [
+   "images/MA-15057-cover.webp",
+   "images/MA-15057-000.webp",
+   "images/MA-15057-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 2,
+  "capacityDetails": "Property page lists sleeps 2.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.0995086,
+  "lng": -73.2867917,
+  "photo": "images/MA-15057-card.webp",
+  "coverPhoto": "images/MA-15057-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15057-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15057-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15057-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15057-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15059",
+  "name": "Red Cottage — Meadow Top Cottage",
+  "url": "https://redcottage.com/property/meadow-top-cottage/",
+  "place": "New Marlborough, MA",
+  "town": "New Marlborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Meadow Top Cottage is charming and cozy 3-bed, 2-bath cottage in the quiet hamlet of Mill River, MA.",
+  "descriptionSource": "https://redcottage.com/property/meadow-top-cottage/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Meadow Top Cottage is charming and cozy 3-bed, 2-bath cottage in the quiet hamlet of Mill River, MA.",
+  "cardDescriptionSource": "https://redcottage.com/property/meadow-top-cottage/",
+  "cardPhotos": [
+   "images/MA-15059-cover.webp",
+   "images/MA-15059-000.webp",
+   "images/MA-15059-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.0995086,
+  "lng": -73.2867917,
+  "photo": "images/MA-15059-card.webp",
+  "coverPhoto": "images/MA-15059-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15059-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15059-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15059-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15059-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15062",
+  "name": "Red Cottage — River Cottage",
+  "url": "https://redcottage.com/property/river-cottage/",
+  "place": "Great Barrington, MA",
+  "town": "Great Barrington",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Welcome to River Cottage, a beautifully renovated 3-bedroom, 2-bathroom riverfront gem in the heart of Great Barrington.",
+  "descriptionSource": "https://redcottage.com/property/river-cottage/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Welcome to River Cottage, a beautifully renovated 3-bedroom, 2-bathroom riverfront gem in the heart of Great Barrington.",
+  "cardDescriptionSource": "https://redcottage.com/property/river-cottage/",
+  "cardPhotos": [
+   "images/MA-15062-cover.webp",
+   "images/MA-15062-000.webp",
+   "images/MA-15062-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 42.1978566,
+  "lng": -73.3600243,
+  "photo": "images/MA-15062-card.webp",
+  "coverPhoto": "images/MA-15062-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15062-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15062-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15062-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15062-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-15060",
+  "name": "Red Cottage — Steepletop Lodge",
+  "url": "https://redcottage.com/property/steepletop-lodge/",
+  "place": "New Marlborough, MA",
+  "town": "New Marlborough",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Welcome to Steepletop Lodge, a beautiful 4 bed/ 2 bath modern retreat with endless opportunities to unplug and forest bathe.",
+  "descriptionSource": "https://redcottage.com/property/steepletop-lodge/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Welcome to Steepletop Lodge, a beautiful 4 bed/ 2 bath modern retreat with endless opportunities to unplug and forest bathe.",
+  "cardDescriptionSource": "https://redcottage.com/property/steepletop-lodge/",
+  "cardPhotos": [
+   "images/MA-15060-cover.webp",
+   "images/MA-15060-000.webp",
+   "images/MA-15060-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists no pets.",
+  "lat": 42.1395858,
+  "lng": -73.2109902,
+  "photo": "images/MA-15060-card.webp",
+  "coverPhoto": "images/MA-15060-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-15060-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-15060-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15060-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-15060-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0254",
+  "name": "Spacious Lenox Home Near Tanglewood",
+  "url": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+  "place": "Lenox, MA",
+  "town": "Lenox",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Historic Lenox home near Tanglewood with four bedrooms, a screened porch, deck and mountain views.",
+  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Historic Lenox home near Tanglewood with four bedrooms, a screened porch, deck and mountain views.",
+  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a3ec7f6cbf4e20014ed8e92?minOccupancy=1&adults=1",
+  "cardPhotos": [
+   "images/MA-0254-cover.webp",
+   "images/MA-0254-000.webp",
+   "images/MA-0254-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 12,
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+  "petsDetails": "No pets allowed.",
+  "lat": 42.34311,
+  "lng": -73.260997,
+  "photo": "images/MA-0254-card.webp",
+  "coverPhoto": "images/MA-0254-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0254-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0254-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0254-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0254-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0319",
+  "name": "The FreshGrass Annex at The Porches",
+  "url": "https://porches.com/stay/freshgrass-annex/",
+  "place": "North Adams, MA",
+  "town": "North Adams",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "North Adams inn annex with minimalist queen rooms, shared living areas and creative studio spaces for artists and travelers.",
+  "descriptionSource": "https://porches.com/stay/freshgrass-annex/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "North Adams inn annex with minimalist queen rooms, shared living areas and creative studio spaces for artists and travelers.",
+  "cardDescriptionSource": "https://porches.com/stay/freshgrass-annex/",
+  "cardPhotos": [
+   "images/MA-0319-cover.webp",
+   "images/MA-0319-000.webp",
+   "images/MA-0319-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Annex queen room categories sleep two; not campus total.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Porches FAQ offers Pack ’n Plays on advance request, but Annex-specific occupancy/infant permission not established on its two-person room pages. Retained Unknown for Annex.",
+  "petsDetails": "Porches-wide FAQ permits pets only in Building 2 designated rooms for $40/pet/night, with leash/crate rules; other lodging buildings prohibited. Annex page does not establish its rooms are eligible; confirm Annex-specific booking before admission claim.",
+  "lat": 42.699,
+  "lng": -73.1119,
+  "photo": "images/MA-0319-card.webp",
+  "coverPhoto": "images/MA-0319-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0319-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0319-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0319-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0319-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0301",
+  "name": "The Trail in Adams",
+  "url": "https://www.thetrailinadams.com/",
+  "place": "Adams, MA",
+  "town": "Adams",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Nine-room artist-decorated inn on the Ashuwillticook Rail Trail in Adams, collaborating with the Adams Theater.",
+  "descriptionSource": "https://www.thetrailinadams.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Nine-room artist-decorated inn on the Ashuwillticook Rail Trail in Adams, collaborating with the Adams Theater.",
+  "cardDescriptionSource": "https://www.thetrailinadams.com/",
+  "cardPhotos": [
+   "images/MA-0301-cover.webp",
+   "images/MA-0301-000.webp",
+   "images/MA-0301-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos"
+  ],
+  "rooms": 9,
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Booking interface offers Children (0-18 yrs), but no explicit child admission rule found; generic selector alone does not confirm all rooms accept children.",
+  "petsDetails": "No published pet policy found in checked home, room and initial booking pages.",
+  "lat": 42.6209,
+  "lng": -73.1204,
+  "photo": "images/MA-0301-card.webp",
+  "coverPhoto": "images/MA-0301-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0301-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0301-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0301-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0307",
+  "name": "Wilder House Berkshires",
+  "url": "https://www.wilderhouseberkshires.com/",
+  "place": "Sheffield, MA",
+  "town": "Sheffield",
+  "state": "MA",
+  "destination": "The Berkshires",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Family-owned five-room bed and breakfast in an 1802 Sheffield farmhouse, with private bathrooms and made-to-order breakfast.",
+  "descriptionSource": "https://www.wilderhouseberkshires.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-owned five-room bed and breakfast in an 1802 Sheffield farmhouse, with private bathrooms and made-to-order breakfast.",
+  "cardDescriptionSource": "https://www.wilderhouseberkshires.com/",
+  "cardPhotos": [
+   "images/MA-0307-cover.webp",
+   "images/MA-0307-000.webp",
+   "images/MA-0307-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": 5,
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Children allowed; supervision required in common/outdoor areas, parents responsible for damage. Room One recommended for families; pack-n-play available on request.",
+  "petsDetails": "Pets prohibited. Terms state $200 cleaning fee if a pet is found; alternative accommodation required for pet.",
+  "lat": 42.1105,
+  "lng": -73.3533,
+  "photo": "images/MA-0307-card.webp",
+  "coverPhoto": "images/MA-0307-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0307-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0307-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0307-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0307-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ }
+]

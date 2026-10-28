@@ -1,0 +1,329 @@
+[
+ {
+  "id": "NH-0036",
+  "name": "Crows Nest Campground",
+  "url": "https://camphappygrounds.com/crows-nest/",
+  "place": "Newport, NH",
+  "town": "Newport",
+  "state": "NH",
+  "destination": "Dartmouth & Lake Sunapee",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
+  "descriptionSource": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Year-round Newport campground with a furnished cabin near Mount Sunapee and Lake Sunapee.",
+  "cardDescriptionSource": "https://book.camphappygrounds.com/campgrounds/crows-nest/sites/44825",
+  "cardPhotos": [
+   "images/NH-0036-cover.webp",
+   "images/NH-0036-000.webp",
+   "images/NH-0036-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Crows Nest Deluxe Cabin(YR),one site location",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Optional published maximum occupancy and unit-specific pet policy"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Deluxe Cabin has one fullbed and one set of twin bunkbeds;do not infer published guest maximum from beds. One cabin site location.",
+  "priceFrom": "Unknown",
+  "priceDetails": "No dates or quote requested in this expansion. Earlier followup catalog recorded from$173/night;not re-quoted on unit detail.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Booking property description explicitly family-friendly and activities for all ages.",
+  "petsDetails": "Campground says dog-friendly,but cabin-specific pet permission not established;do not apply RV-site pet policy to cabin.",
+  "lat": 43.3653,
+  "lng": -72.1974,
+  "photo": "images/NH-0036-card.webp",
+  "coverPhoto": "images/NH-0036-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0036-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0036-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0036-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0036-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0038",
+  "name": "Loch Lyme Lodge",
+  "url": "https://www.lochlymelodge.com/",
+  "place": "Lyme, NH",
+  "town": "Lyme",
+  "state": "NH",
+  "destination": "Dartmouth & Lake Sunapee",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Twenty rustic cabins on Post Pond in Lyme, with boating, waterfront access and seasonal dining.",
+  "descriptionSource": "https://www.lochlymelodge.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Twenty rustic cabins on Post Pond in Lyme, with boating, waterfront access and seasonal dining.",
+  "cardDescriptionSource": "https://www.lochlymelodge.com/",
+  "cardPhotos": [
+   "images/NH-0038-cover.webp",
+   "images/NH-0038-000.webp",
+   "images/NH-0038-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Shared campus; verify visually before use",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies",
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "20 cabins; campus70–75 overnight guests is not per-unit capacity.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Well-behaved pets welcome; some cabins designated pet-free.",
+  "lat": 43.8104,
+  "lng": -72.1551,
+  "photo": "images/NH-0038-card.webp",
+  "coverPhoto": "images/NH-0038-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0038-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0038-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0038-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0069",
+  "name": "Northstead Retreat",
+  "url": "https://northsteadretreat.com/",
+  "place": "Goshen, NH",
+  "town": "Goshen",
+  "state": "NH",
+  "destination": "Dartmouth & Lake Sunapee",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Scandinavian-inspired three-bedroom cabin on 27 wooded acres in Goshen near Mount Sunapee.",
+  "descriptionSource": "https://northsteadretreat.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Scandinavian-inspired three-bedroom cabin on 27 wooded acres in Goshen near Mount Sunapee.",
+  "cardDescriptionSource": "https://northsteadretreat.com/",
+  "cardPhotos": [
+   "images/NH-0069-cover.webp",
+   "images/NH-0069-000.webp",
+   "images/NH-0069-001.webp"
+  ],
+  "platformLinks": {
+   "airbnb": [
+    "https://www.airbnb.com/rooms/1627662823619305043"
+   ]
+  },
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 7,
+  "capacityDetails": "Airbnb7guests3br5beds1bath",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Own site markets families",
+  "petsDetails": "Access marketing mentions dogs but formal policy unverified",
+  "lat": 43.3011,
+  "lng": -72.1487,
+  "photo": "images/NH-0069-card.webp",
+  "coverPhoto": "images/NH-0069-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0069-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0069-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0069-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0069-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0050",
+  "name": "Pond Life Vacation Rentals",
+  "url": "https://pondliferentals.com/",
+  "place": "Croydon, NH",
+  "town": "Croydon",
+  "state": "NH",
+  "destination": "Dartmouth & Lake Sunapee",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Locally owned waterfront and water-access rentals in the Lake Sunapee region.",
+  "descriptionSource": "https://pondliferentals.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Locally owned waterfront and water-access rentals in the Lake Sunapee region.",
+  "cardDescriptionSource": "https://pondliferentals.com/",
+  "cardPhotos": [
+   "images/NH-0050-cover.webp",
+   "images/NH-0050-000.webp",
+   "images/NH-0050-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Honeymoon Cabin only (not dog-friendly)",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies",
+   "Publicly undisclosed physical rental address"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Portfolio units2–12 guests; not one property.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Selection of dog-friendly properties; HoneymoonCabin explicitly no pets. Varies by unit.",
+  "lat": 43.4509,
+  "lng": -72.1622,
+  "photo": "images/NH-0050-card.webp",
+  "coverPhoto": "images/NH-0050-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0050-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0050-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0050-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0050-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0042",
+  "name": "Spacious Skies French Pond",
+  "url": "https://spaciousskiescampgrounds.com/french-pond/",
+  "place": "Henniker, NH",
+  "town": "Henniker",
+  "state": "NH",
+  "destination": "Dartmouth & Lake Sunapee",
+  "type": "Camp",
+  "recordType": "Rental operator",
+  "description": "Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.",
+  "descriptionSource": "https://spaciousskiescampgrounds.com/french-pond/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Year-round Henniker campground on French Pond with RV and tent sites, rental lodgings, a beach, pool and direct reservations.",
+  "cardDescriptionSource": "https://spaciousskiescampgrounds.com/french-pond/",
+  "cardPhotos": [
+   "images/NH-0042-cover.webp",
+   "images/NH-0042-000.webp",
+   "images/NH-0042-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: French Pond shared campground campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Optional per-unit capacity, rates and policies remain distinct from operator facts."
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Rental lodgings include retro RVs with full bed or full bed and bunks, and Pegasus Bungalow; no operator-wide guest maximum assigned.",
+  "priceFrom": "Unknown",
+  "priceDetails": "No dates selected; no live rate quote requested.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Official site describes family-friendly stays and campground activities.",
+  "petsDetails": "Rental-unit pet permission not established in this pass.",
+  "lat": 43.1797,
+  "lng": -71.8225,
+  "photo": "images/NH-0042-card.webp",
+  "coverPhoto": "images/NH-0042-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0042-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0042-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0042-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0042-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ }
+]

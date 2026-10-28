@@ -41,9 +41,24 @@ ${homes.length} listings. Unit-specific policies, capacities and prices must be 
 ${blocks.join('\n')}`;
 
 const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefined && h[k] !== '').map((k) => [k, h[k]]));
+const indexed = homes.map((h) =>
+  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'destination', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','cardDescription','cardDescriptionSource','cardPhotos','cardPhotoLabel','platformLinks','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','locationLabel','askAddress','featured','demo']));
 fs.writeFileSync(path.join(ROOT, 'index.md'), md.replace(/[ \t]+$/gm, ''));
-fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(homes.map((h) =>
-  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'destination', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','cardDescription','cardDescriptionSource','cardPhotos','cardPhotoLabel','platformLinks','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','locationLabel','askAddress','featured','demo'])), null, 1) + '\n');
+fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(indexed, null, 1) + '\n');
+// One file per tourist destination (data/destinations/<slug>.json): a destination page's own homes only,
+// in the same shape as index.json, so a visitor to /cape_cod/ never downloads the whole catalog.
+// The slug must match tools/destination-pages.py's slug() exactly, or a destination page points at nothing.
+const slug = (name) => name.toLowerCase().replace(/'s\b/g, '').replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '');
+const destDir = path.join(ROOT, 'data/destinations');
+fs.rmSync(destDir, { recursive: true, force: true });
+fs.mkdirSync(destDir, { recursive: true });
+const byDestination = new Map();
+for (const h of indexed) {
+  if (!h.destination || h.destination === 'Unknown') continue;
+  const list = byDestination.get(h.destination) || byDestination.set(h.destination, []).get(h.destination);
+  list.push(h);
+}
+for (const [name, list] of byDestination) fs.writeFileSync(path.join(destDir, `${slug(name)}.json`), JSON.stringify(list, null, 1) + '\n');
 // Compatibility adapter for the current app. The canonical database keeps explicit
 // Unknown values; this older UI expects absent unknowns and numeric map coordinates.
 const street=homes.filter(h=>typeof h.lat==='number' && typeof h.lng==='number').map(h=>{
@@ -54,4 +69,4 @@ const street=homes.filter(h=>typeof h.lat==='number' && typeof h.lng==='number')
  return row;
 });
 fs.writeFileSync(path.join(ROOT, 'street.json'), JSON.stringify(street, null, 1) + '\n');
-console.log(`index: ${homes.length} homes written to index.md, index.json, street.json`);
+console.log(`index: ${homes.length} homes written to index.md, index.json, street.json, and ${byDestination.size} data/destinations/*.json files`);

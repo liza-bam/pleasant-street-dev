@@ -1,0 +1,378 @@
+[
+ {
+  "id": "MA-0002",
+  "name": "Birch and Stone Groton",
+  "url": "https://www.birchandstonegroton.com/",
+  "place": "Groton, MA",
+  "town": "Groton",
+  "state": "MA",
+  "destination": "Central Massachusetts",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Four-bedroom 1838 guesthouse on a four-acre herb farm in Groton, with gardens and a gourmet kitchen.",
+  "descriptionSource": "https://www.birchandstonegroton.com/about-birch-and-stone",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom 1838 guesthouse on a four-acre herb farm in Groton, with gardens and a gourmet kitchen.",
+  "cardDescriptionSource": "https://www.birchandstonegroton.com/about-birch-and-stone",
+  "cardPhotos": [
+   "images/MA-0002-cover.webp",
+   "images/MA-0002-000.webp",
+   "images/MA-0002-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 10,
+  "capacityDetails": "Four-bedroom, three-bath guesthouse; VisitMA reports sleeps ten, unconfirmed own-site maximum.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "No explicit child admission policy; family and friends language does not establish children allowed.",
+  "petsDetails": "Not published on opened home, booking or About pages; no policy/FAQ link exposed.",
+  "lat": 42.6112,
+  "lng": -71.5745,
+  "photo": "images/MA-0002-card.webp",
+  "coverPhoto": "images/MA-0002-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0002-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0002-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0002-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0002-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0315",
+  "name": "Clamber Hill Inn and Restaurant",
+  "url": "https://www.clamberhill.com/",
+  "place": "Petersham, MA",
+  "town": "Petersham",
+  "state": "MA",
+  "destination": "Central Massachusetts",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Petersham country inn on a 33-acre wooded estate, offering guest rooms with working fireplaces and breakfast.",
+  "descriptionSource": "https://www.clamberhill.com/stay",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Petersham country inn on a 33-acre wooded estate, offering guest rooms with working fireplaces and breakfast.",
+  "cardDescriptionSource": "https://www.clamberhill.com/stay",
+  "cardPhotos": [
+   "images/MA-0315-cover.webp",
+   "images/MA-0315-000.webp",
+   "images/MA-0315-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Family Suite and generic Children 5+ booking filter observed; no explicit child admission restriction/permission published, so retained Unknown.",
+  "petsDetails": "No explicit admission rule found; generic booking pet count does not confirm pet acceptance.",
+  "lat": 42.4883,
+  "lng": -72.1866,
+  "photo": "images/MA-0315-card.webp",
+  "coverPhoto": "images/MA-0315-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0315-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0315-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0315-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0315-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0020",
+  "name": "Luxo Executive Rentals",
+  "url": "https://luxoexecutiverentals.com/",
+  "place": "Worcester / Central Massachusetts, MA",
+  "town": "Worcester / Central Massachusetts",
+  "state": "MA",
+  "destination": "Central Massachusetts",
+  "type": "Apartment",
+  "recordType": "Rental operator",
+  "description": "Furnished apartments and townhouses across Worcester,Westborough and Auburn for temporary stays.",
+  "descriptionSource": "https://luxoexecutiverentals.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Furnished apartments and townhouses across Worcester,Westborough and Auburn for temporary stays.",
+  "cardDescriptionSource": "https://luxoexecutiverentals.com/",
+  "cardPhotos": [
+   "images/MA-0020-cover.webp",
+   "images/MA-0020-000.webp",
+   "images/MA-0020-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Westborough unit2",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "15propertycatalog;unit-level facts vary.",
+  "priceFrom": "Unknown",
+  "priceDetails": "20%discount on30+stays;no operator rate.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Portfolio-wide policy Unknown; selected Westborough Unit 2 allows pets.",
+  "lat": 42.2611,
+  "lng": -71.7949,
+  "photo": "images/MA-0020-card.webp",
+  "coverPhoto": "images/MA-0020-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0020-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0020-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0020-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0020-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0021",
+  "name": "Pine Acres Family Camping Resort",
+  "url": "https://pineacresresort.com/",
+  "place": "Oakham, MA",
+  "town": "Oakham",
+  "state": "MA",
+  "destination": "Central Massachusetts",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Family-owned Oakham camping resort on Lake Dean offering rustic, waterfront and full-kitchen rental cabins.",
+  "descriptionSource": "https://pineacresresort.com/rentals/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-owned Oakham camping resort on Lake Dean offering rustic, waterfront and full-kitchen rental cabins.",
+  "cardDescriptionSource": "https://pineacresresort.com/rentals/",
+  "cardPhotos": [
+   "images/MA-0021-cover.webp",
+   "images/MA-0021-000.webp",
+   "images/MA-0021-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: PremiumPlus19",
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Children explicitly accommodated. Under seven accompanied in all facilities; under sixteen supervised at pool/amenities; under eighteen at campsite with adult by 10pm unless sanctioned activity or with parent. Hot tub eighteen-plus.",
+  "petsDetails": "Only designated pet-friendly rentals; up to two dogs/cats, registered with current rabies certificates, supervised and on maximum six-foot non-retractable leash. No visitor pets. Premium Plus/Pavilion excluded.",
+  "lat": 42.3549,
+  "lng": -72.0435,
+  "photo": "images/MA-0021-card.webp",
+  "coverPhoto": "images/MA-0021-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0021-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0021-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0021-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0021-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0314",
+  "name": "Plain View Farm",
+  "url": "https://plainviewfarmalpacas.com/",
+  "place": "Hubbardston, MA",
+  "town": "Hubbardston",
+  "state": "MA",
+  "destination": "Central Massachusetts",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Hubbardston alpaca farm offering stays in its 1800s home and farm visits with alpacas, llamas and chickens.",
+  "descriptionSource": "https://plainviewfarmalpacas.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hubbardston alpaca farm offering stays in its 1800s home and farm visits with alpacas, llamas and chickens.",
+  "cardDescriptionSource": "https://plainviewfarmalpacas.com/",
+  "cardPhotos": [
+   "images/MA-0314-cover.webp",
+   "images/MA-0314-000.webp",
+   "images/MA-0314-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Farm day visits for scouts/schools do not establish overnight child admission; policy Unknown.",
+  "petsDetails": "No overnight pet policy published.",
+  "lat": 42.4766,
+  "lng": -72.0087,
+  "photo": "images/MA-0314-card.webp",
+  "coverPhoto": "images/MA-0314-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0314-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0314-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0314-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0314-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0316",
+  "name": "The Maguire House",
+  "url": "https://www.maguirehouse.com/",
+  "place": "Ashburnham, MA",
+  "town": "Ashburnham",
+  "state": "MA",
+  "destination": "Central Massachusetts",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Three-room Ashburnham bed and breakfast on 44 acres, with lake and mountain views, private baths and full breakfast.",
+  "descriptionSource": "https://www.maguirehouse.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-room Ashburnham bed and breakfast on 44 acres, with lake and mountain views, private baths and full breakfast.",
+  "cardDescriptionSource": "https://www.maguirehouse.com/",
+  "cardPhotos": [
+   "images/MA-0316-cover.webp",
+   "images/MA-0316-000.webp",
+   "images/MA-0316-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": 3,
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Conditional",
+  "pets": "No",
+  "kidsDetails": "Children over eight welcome; exceptions for younger children require calling in advance.",
+  "petsDetails": "Pets not allowed.",
+  "lat": 42.6358,
+  "lng": -71.9087,
+  "photo": "images/MA-0316-card.webp",
+  "coverPhoto": "images/MA-0316-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0316-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0316-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0316-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0316-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ }
+]

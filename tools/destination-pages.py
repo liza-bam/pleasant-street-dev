@@ -1,6 +1,8 @@
 """Write one page per tourist destination into the published site: <site>/<slug>/index.html (e.g. /martha_vineyard/).
 
-Each page is the app's index.html showing only that destination's homes. Run by .github/workflows/pages.yml.
+Each page is the app's index.html, pointed at its own slim data/destinations/<slug>.json (written by
+tools/build-index.mjs) instead of the full index.json, so a visitor only downloads that destination's homes.
+Run by .github/workflows/pages.yml.
 """
 import json
 import re
@@ -21,6 +23,7 @@ for name, n in sorted(counts.items()):
     html = html.replace('    <div class="app-floating-controls">', band + '\n    <div class="app-floating-controls">', 1)
     html = html.replace('<title>Pleasant Street</title>', f'<title>{name} — Pleasant Street</title>', 1)
     html = html.replace('href="https://liza-bam.github.io/pleasant-street-dev/"', f'href="https://liza-bam.github.io/pleasant-street-dev/{slug(name)}/"', 1)
+    html = html.replace('data-src="index.json"', f'data-src="data/destinations/{slug(name)}.json"', 1)
     (SITE / slug(name)).mkdir(exist_ok=True)
     (SITE / slug(name) / 'index.html').write_text(html)
     print(f'/{slug(name)}/  {name}  {n} homes')

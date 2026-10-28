@@ -1,0 +1,1267 @@
+[
+ {
+  "id": "NH-0040",
+  "name": "1848 Inn",
+  "url": "https://www.1848inn.com/",
+  "place": "Laconia, NH",
+  "town": "Laconia",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Family-owned Laconia inn with cottages, efficiencies, a pool and picnic areas.",
+  "descriptionSource": "https://www.1848inn.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-owned Laconia inn with cottages, efficiencies, a pool and picnic areas.",
+  "cardDescriptionSource": "https://www.1848inn.com/",
+  "cardPhotos": [
+   "images/NH-0040-cover.webp",
+   "images/NH-0040-000.webp",
+   "images/NH-0040-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Shared campus; verify visually before use",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Multiple cottages, efficiencies,motel rooms; varies by unit.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "photo": "images/NH-0040-card.webp",
+  "coverPhoto": "images/NH-0040-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0040-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0040-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0040-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0040-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0041",
+  "name": "Abakee Cottages",
+  "url": "https://www.abakeecottages.com/",
+  "place": "Laconia, NH",
+  "town": "Laconia",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Housekeeping cottages on Lake Winnipesaukee with screened porches, grills and a sandy beach.",
+  "descriptionSource": "https://www.abakeecottages.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Housekeeping cottages on Lake Winnipesaukee with screened porches, grills and a sandy beach.",
+  "cardDescriptionSource": "https://www.abakeecottages.com/",
+  "cardPhotos": [
+   "images/NH-0041-cover.webp",
+   "images/NH-0041-000.webp",
+   "images/NH-0041-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Shared campus; verify visually before use",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Multiple cottages; per-unit facts not checked.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "photo": "images/NH-0041-card.webp",
+  "coverPhoto": "images/NH-0041-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0041-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0041-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0041-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0041-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0043",
+  "name": "AMC Cardigan Lodge",
+  "url": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+  "place": "Alexandria, NH",
+  "town": "Alexandria",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "AMC-owned mountain lodge in Alexandria with private rooms, seasonal meal service and direct reservations near Mount Cardigan.",
+  "descriptionSource": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "AMC-owned mountain lodge in Alexandria with private rooms, seasonal meal service and direct reservations near Mount Cardigan.",
+  "cardDescriptionSource": "https://www.outdoors.org/destinations/new-hampshire/cardigan-lodge/",
+  "cardPhotos": [
+   "images/NH-0043-cover.webp",
+   "images/NH-0043-000.webp",
+   "images/NH-0043-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Cardigan Lodge campus; Cardigan Lodge campus and on-site accessible trail",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Three or four lodge-specific photos",
+   "Room-specific capacity and current dated price",
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Private overnight rooms and shared mountain lodge; per-room occupancy not checked.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Direct reservations for dates and seasonal service; no fixed rate collected.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Official property page links family getaway stays.",
+  "petsDetails": "Lodge page explicitly says no dogs overnight; other animal/service policies not inferred.",
+  "lat": 43.6117,
+  "lng": -71.7929,
+  "photo": "images/NH-0043-card.webp",
+  "coverPhoto": "images/NH-0043-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0043-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0043-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0043-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0003",
+  "name": "Ames Farm Inn",
+  "url": "https://www.amesfarminn.com/",
+  "place": "Gilford, NH",
+  "town": "Gilford",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Family-run Lake Winnipesaukee cottages, apartments and rooms on 135 acres, with a sandy beach, boat facilities and direct inquiries.",
+  "descriptionSource": "https://www.amesfarminn.com/",
+  "descriptionStatus": "Paraphrased from verified source website",
+  "cardDescription": "Family-run Lake Winnipesaukee cottages, apartments and rooms on 135 acres, with a sandy beach, boat facilities and direct inquiries.",
+  "cardDescriptionSource": "https://www.amesfarminn.com/",
+  "cardPhotos": [
+   "images/NH-0003-cover.webp",
+   "images/NH-0003-000.webp",
+   "images/NH-0003-001.webp"
+  ],
+  "cardPhotoLabel": "Shared Ames Farm Inn campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific numeric capacity and bedrooms; operator offers multiple accommodation types"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Operator offers 17 lakeside cottages, 14 apartments, 4 rooms and 2 additional cottages. Lakeside cottages include one- and two-bedroom types; another cottage is three bedrooms. Do not apply any one unit size to the operator.",
+  "priceFrom": 270,
+  "priceDetails": "Published approximate 2026 rates: rooms from $270/night spring/fall; lakeside cottages $2300-$2600/week spring/fall or $3400-$3800/week summer, varying by cottage. Selected spring/fall cottage nightly rates $479-$589. Subject to change; stated 8.5% NH tax additional.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Official website describes family vacations and policies refer to children on the shared grounds.",
+  "petsDetails": "Published policy: no pets for overnight rentals, weekly rentals or restaurant customers.",
+  "lat": 43.5481,
+  "lng": -71.407,
+  "photo": "images/NH-0003-card.webp",
+  "coverPhoto": "images/NH-0003-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0003-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0003-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0003-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0003-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0065",
+  "name": "Big Bear Log Home at Newfound Lake",
+  "url": "https://www.newfoundlakeloghomerentals.com/bigbear",
+  "place": "Hebron, NH",
+  "town": "Hebron",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Four-bedroom Hebron log home for ten guests on 6.7 acres overlooking Newfound Lake.",
+  "descriptionSource": "https://www.newfoundlakeloghomerentals.com/bigbear",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom Hebron log home for ten guests on 6.7 acres overlooking Newfound Lake.",
+  "cardDescriptionSource": "https://www.newfoundlakeloghomerentals.com/bigbear",
+  "cardPhotos": [
+   "images/NH-0065-cover.webp",
+   "images/NH-0065-000.webp",
+   "images/NH-0065-001.webp"
+  ],
+  "platformLinks": {
+   "airbnb": [
+    "http://airbnb.com/h/bigbearloghome"
+   ]
+  },
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "guests": 10,
+  "capacityDetails": "Max10including children",
+  "priceFrom": "Unknown",
+  "priceDetails": "Dates required",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Designed for families; kids bunk room/toddler bed",
+  "petsDetails": "NO PETS",
+  "lat": 43.694,
+  "lng": -71.8056,
+  "photo": "images/NH-0065-card.webp",
+  "coverPhoto": "images/NH-0065-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0065-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0065-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0065-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0060",
+  "name": "Blue Granite Properties, LLC / Blue Granite Experiences",
+  "url": "https://www.bluegraniteproperties.com/",
+  "place": "Tuftonboro, NH",
+  "town": "Tuftonboro",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Small Lakes Region rental operator offering Beech Pond Cabin in Tuftonboro and The Gunstock Cabin in Gilford.",
+  "descriptionSource": "https://www.bluegraniteproperties.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Small Lakes Region rental operator offering Beech Pond Cabin in Tuftonboro and The Gunstock Cabin in Gilford.",
+  "cardDescriptionSource": "https://www.bluegraniteproperties.com/",
+  "cardPhotos": [
+   "images/NH-0060-cover.webp",
+   "images/NH-0060-000.webp",
+   "images/NH-0060-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Beech Pond Cabin only",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 43.6893,
+  "lng": -71.3039,
+  "photo": "images/NH-0060-card.webp",
+  "coverPhoto": "images/NH-0060-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0060-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0060-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0060-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0060-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0013",
+  "name": "Channel Waterfront Cottages",
+  "url": "https://www.channelcottages.com/",
+  "place": "Laconia, NH",
+  "town": "Laconia",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Family-operated Lake Winnipesaukee cottage campus with a private beach and boat dock.",
+  "descriptionSource": "https://www.channelcottages.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-operated Lake Winnipesaukee cottage campus with a private beach and boat dock.",
+  "cardDescriptionSource": "https://www.channelcottages.com/",
+  "cardPhotos": [
+   "images/NH-0013-cover.webp",
+   "images/NH-0013-000.webp",
+   "images/NH-0013-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Per-unit facts/pet policies",
+   "Four-photo set incomplete",
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "15 cottages;1,2,3+ bedrooms by unit",
+  "priceFrom": "Unknown",
+  "priceDetails": "Call for rates",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Homepage welcomes all couples and families",
+  "petsDetails": "Unknown",
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "photo": "images/NH-0013-card.webp",
+  "coverPhoto": "images/NH-0013-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0013-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0013-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0013-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0009",
+  "name": "Cottage Place on Squam Lake",
+  "url": "https://www.cottageplaceonsquam.com/",
+  "place": "Holderness, NH",
+  "town": "Holderness",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Cabins and vacation rentals at Squam Lake with shared beach and outdoor amenities.",
+  "descriptionSource": "https://www.cottageplaceonsquam.com/about",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Cabins and vacation rentals at Squam Lake with shared beach and outdoor amenities.",
+  "cardDescriptionSource": "https://www.cottageplaceonsquam.com/about",
+  "cardPhotos": [
+   "images/NH-0009-cover.webp",
+   "images/NH-0009-000.webp",
+   "images/NH-0009-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit facts and policies",
+   "Four-photo set incomplete",
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 43.7324,
+  "lng": -71.589,
+  "photo": "images/NH-0009-card.webp",
+  "coverPhoto": "images/NH-0009-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0009-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0009-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0009-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0001",
+  "name": "Deepwood Lodges",
+  "url": "https://www.deepwoodlodges.net/",
+  "place": "Moultonborough, NH",
+  "town": "Moultonborough",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Cabins / small operator",
+  "description": "Seasonal Lake Winnipesaukee cottages with a shared sandy beach, guest boats and direct availability inquiries.",
+  "descriptionSource": "https://www.deepwoodlodges.net/",
+  "descriptionStatus": "Paraphrased from verified source website",
+  "cardDescription": "Seasonal Lake Winnipesaukee cottages with a shared sandy beach, guest boats and direct availability inquiries.",
+  "cardDescriptionSource": "https://www.deepwoodlodges.net/",
+  "cardPhotos": [
+   "images/NH-0001-cover.webp",
+   "images/NH-0001-000.webp",
+   "images/NH-0001-001.webp"
+  ],
+  "cardPhotoLabel": "Shared Deepwood Lodges campus",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit-specific capacity and bedrooms; operator record spans different cottages",
+   "Pet policy",
+   "Current published rates",
+   "Cottage-detail widget unavailable"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "17 unique cottages on the current official site; unit sizes and capacities vary. Cottage 5/6 sleep 7, Cottage 7 sleeps 6, Cottage 8/14/16 sleep 8 and Cottage 12 sleeps 10; these are not an operator-wide capacity.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Rates not published on checked pages; direct inquiry required.",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Official amenities page describes beach fun for all ages and shallow swimming.",
+  "petsDetails": "Unknown",
+  "lat": 43.7552,
+  "lng": -71.396,
+  "photo": "images/NH-0001-card.webp",
+  "coverPhoto": "images/NH-0001-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0001-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0001-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0001-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0001-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0070",
+  "name": "Eagle Ridge Log Home",
+  "url": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+  "place": "Hebron, NH",
+  "town": "Hebron",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Three-bedroom Hebron log home for six guests on 3.5 acres overlooking Newfound Lake.",
+  "descriptionSource": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom Hebron log home for six guests on 3.5 acres overlooking Newfound Lake.",
+  "cardDescriptionSource": "https://www.newfoundlakeloghomerentals.com/eagle-ridge",
+  "cardPhotos": [
+   "images/NH-0070-cover.webp",
+   "images/NH-0070-000.webp",
+   "images/NH-0070-001.webp"
+  ],
+  "platformLinks": {
+   "airbnb": [
+    "https://www.airbnb.com/rooms/51761764?federated_search_id=4c77ab70-e306-46ae-adae-b6a2b3ecb0b9&source_impression_id=p3_1636305866_5ze1JzL7%2BF6yKo6w&guests=1&adults=1"
+   ],
+   "vrbo": [
+    "https://www.vrbo.com/2510514?noDates=true&unitId=3080376"
+   ]
+  },
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Maximum6guests",
+  "priceFrom": "Unknown",
+  "priceDetails": "Dates required",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Property described for families",
+  "petsDetails": "NO PETS",
+  "lat": 43.694,
+  "lng": -71.8056,
+  "photo": "images/NH-0070-card.webp",
+  "coverPhoto": "images/NH-0070-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0070-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0070-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0070-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0039",
+  "name": "Ember Escapes — Quietude",
+  "url": "https://www.emberescapes.com/",
+  "place": "Tuftonboro, NH",
+  "town": "Tuftonboro",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "A private60-acre Lakes Region retreat with a lodge, cottage, gatehouse and woodland trails.",
+  "descriptionSource": "https://www.emberescapes.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "A private60-acre Lakes Region retreat with a lodge, cottage, gatehouse and woodland trails.",
+  "cardDescriptionSource": "https://www.emberescapes.com/",
+  "cardPhotos": [
+   "images/NH-0039-cover.webp",
+   "images/NH-0039-000.webp",
+   "images/NH-0039-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Quietude estate campus, rented together",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies",
+   "Publicly undisclosed physical rental address"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 10,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "10 private bedrooms15 beds across3 buildings; no guest maximum established.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Directory $2000/night entire property; official inquiry page no numerical rate. Official rental includes taxes,cleaning,utilities.",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 43.6893,
+  "lng": -71.3039,
+  "photo": "images/NH-0039-card.webp",
+  "coverPhoto": "images/NH-0039-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0039-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0039-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0039-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0039-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0024",
+  "name": "Fernhill Cottages",
+  "url": "https://fernhillcottages.com/",
+  "place": "Alton, NH",
+  "town": "Alton",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.",
+  "descriptionSource": "https://fernhillcottages.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Seasonal cottages on Halfmoon Lake in Alton with a private beach, dock and full kitchens.",
+  "cardDescriptionSource": "https://fernhillcottages.com/",
+  "cardPhotos": [
+   "images/NH-0024-cover.webp",
+   "images/NH-0024-000.webp",
+   "images/NH-0024-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Point Cottage",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Full-week only summer2026 incl8.5%NH room tax; no amount adopted",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "All cottages No Pets, official cottage overview",
+  "lat": 43.4925,
+  "lng": -71.2498,
+  "photo": "images/NH-0024-card.webp",
+  "coverPhoto": "images/NH-0024-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0024-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0024-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0024-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0024-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0037",
+  "name": "Half Moon Motel and Cottages",
+  "url": "https://www.halfmoonmotel.com/",
+  "place": "Laconia, NH",
+  "town": "Laconia",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Weirs Beach cottages and motel rooms with lake views and a solar-warmed pool.",
+  "descriptionSource": "https://www.halfmoonmotel.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Weirs Beach cottages and motel rooms with lake views and a solar-warmed pool.",
+  "cardDescriptionSource": "https://www.halfmoonmotel.com/",
+  "cardPhotos": [
+   "images/NH-0037-cover.webp",
+   "images/NH-0037-000.webp",
+   "images/NH-0037-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Shared campus; verify visually before use",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Cottage sizes vary; large units with kitchenettes.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "photo": "images/NH-0037-card.webp",
+  "coverPhoto": "images/NH-0037-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0037-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0037-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0037-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0037-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0072",
+  "name": "Newfound Lake & Ski House",
+  "url": "https://staynewfoundlake.com/",
+  "place": "Hebron, NH",
+  "town": "Hebron",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Family-owned four-bedroom Newfound Lake waterfront house with a private beach, hot tub and paddling equipment.",
+  "descriptionSource": "https://staynewfoundlake.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-owned four-bedroom Newfound Lake waterfront house with a private beach, hot tub and paddling equipment.",
+  "cardDescriptionSource": "https://staynewfoundlake.com/",
+  "cardPhotos": [
+   "images/NH-0072-cover.webp",
+   "images/NH-0072-000.webp",
+   "images/NH-0072-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Home says family-friendly spaces",
+  "petsDetails": "Unknown",
+  "lat": 43.694,
+  "lng": -71.8056,
+  "photo": "images/NH-0072-card.webp",
+  "coverPhoto": "images/NH-0072-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0072-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0072-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0072-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0072-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0049",
+  "name": "RuffhouseNH",
+  "url": "https://www.ruffhousenh.com/",
+  "place": "Moultonborough, NH",
+  "town": "Moultonborough",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Four owner-managed, family- and dog-friendly vacation homes in New Hampshire.",
+  "descriptionSource": "https://www.ruffhousenh.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four owner-managed, family- and dog-friendly vacation homes in New Hampshire.",
+  "cardDescriptionSource": "https://www.ruffhousenh.com/",
+  "cardPhotos": [
+   "images/NH-0049-cover.webp",
+   "images/NH-0049-000.webp",
+   "images/NH-0049-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Bear Cabin only",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies",
+   "Publicly undisclosed physical rental address"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Bear Cabin12guests4bedrooms2baths,unit-only; other homes differ.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "All houses child-equipped with crib/highchair/stroller,games.",
+  "petsDetails": "Dog-friendly; detailed fees/restrictions not reviewed.",
+  "lat": 43.72483,
+  "lng": -71.35905,
+  "photo": "images/NH-0049-card.webp",
+  "coverPhoto": "images/NH-0049-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0049-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0049-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0049-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0049-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Published listing map (approximate)",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0032",
+  "name": "Sunset Lodges on Lake Winnipesaukee",
+  "url": "https://sunsetlodges.com/",
+  "place": "Tuftonboro, NH",
+  "town": "Tuftonboro",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Seven family-owned lakeside cabins on Lake Winnipesaukee, with kitchens and a waterfront pavilion.",
+  "descriptionSource": "https://sunsetlodges.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Seven family-owned lakeside cabins on Lake Winnipesaukee, with kitchens and a waterfront pavilion.",
+  "cardDescriptionSource": "https://sunsetlodges.com/",
+  "cardPhotos": [
+   "images/NH-0032-cover.webp",
+   "images/NH-0032-000.webp",
+   "images/NH-0032-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Cabin1 seasonal",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "One to three bedrooms, varies among seven cabins.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Pet-friendly homepage; restrictions not reviewed.",
+  "lat": 43.6893,
+  "lng": -71.3039,
+  "photo": "images/NH-0032-card.webp",
+  "coverPhoto": "images/NH-0032-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0032-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0032-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0032-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0032-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0014",
+  "name": "The Cottages of Wolfeboro",
+  "url": "https://cottagesnh.com/",
+  "place": "Wolfeboro, NH",
+  "town": "Wolfeboro",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Year-round pet-friendly cottage campus near downtown Wolfeboro and Lake Winnipesaukee.",
+  "descriptionSource": "https://cottagesnh.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Per-unit facts and policy details",
+   "Four-photo set incomplete",
+   "Four authentic property photos: 1 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Campus up to75; unit capacity Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Family gatherings and children in inquiry form",
+  "petsDetails": "Official home pet-friendly; restrictions not reviewed",
+  "lat": 43.6094,
+  "lng": -71.1749,
+  "photo": "images/NH-0014-card.webp",
+  "coverPhoto": "images/NH-0014-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0014-cover.webp",
+    "role": "cover"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0029",
+  "name": "The NASWA Resort",
+  "url": "https://naswa.com/",
+  "place": "Laconia, NH",
+  "town": "Laconia",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Family-run lakeside resort with cottages, suites and a private beach on Lake Winnipesaukee.",
+  "descriptionSource": "https://naswa.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-run lakeside resort with cottages, suites and a private beach on Lake Winnipesaukee.",
+  "cardDescriptionSource": "https://naswa.com/",
+  "cardPhotos": [
+   "images/NH-0029-cover.webp",
+   "images/NH-0029-000.webp",
+   "images/NH-0029-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Current NASWA resort campus; Historic NASWA resort-campus archive",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Download and visually validate observed photo candidates",
+   "Optional unit-specific facts and policies"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "One- and two-bedroom cottages; three-bedroom Paugus Suite. Varies by unit.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Families and Camp Naz children activities on homepage.",
+  "petsDetails": "Select rooms and cottages accept dogs.",
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "photo": "images/NH-0029-card.webp",
+  "coverPhoto": "images/NH-0029-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0029-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0029-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0029-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0029-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0025",
+  "name": "Trailside Stays",
+  "url": "https://www.trailsidestays.com/",
+  "place": "Dorchester, NH",
+  "town": "Dorchester",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Locally created Dorchester cabins with kitchenettes, private bathrooms and access to Green Woodlands trails.",
+  "descriptionSource": "https://www.trailsidestays.com/about",
+  "descriptionStatus": "Paraphrased from verified website",
+  "platformLinks": {
+   "airbnb": [
+    "https://www.airbnb.com/users/profile/1469808001897555009?previous_page_name=PdpHomeMarketplace",
+    "https://www.airbnb.com/users/show/390565007"
+   ]
+  },
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Unit capacities",
+   "Four-photo set incomplete",
+   "Four authentic property photos: 1 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "1 or2 queen beds; occupancy not inferred",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Strict no pets to keep cabins allergen-free",
+  "lat": 43.7565,
+  "lng": -71.9491,
+  "photo": "images/NH-0025-card.webp",
+  "coverPhoto": "images/NH-0025-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0025-cover.webp",
+    "role": "cover"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "NH-0026",
+  "name": "Weirs Beach Motel and Cottages",
+  "url": "https://www.weirsbeachmotel.com/",
+  "place": "Laconia, NH",
+  "town": "Laconia",
+  "state": "NH",
+  "destination": "Lakes Region",
+  "type": "Cabin",
+  "recordType": "Rental operator",
+  "description": "Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.",
+  "descriptionSource": "https://www.weirsbeachmotel.com/about",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Weirs Beach motel and cottages with a pool, picnic areas and a firepit near the village.",
+  "cardDescriptionSource": "https://www.weirsbeachmotel.com/about",
+  "cardPhotos": [
+   "images/NH-0026-cover.webp",
+   "images/NH-0026-000.webp",
+   "images/NH-0026-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: One Bedroom Cottage / Cottage9",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos: 3 saved"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Max2pets/room,35lb max each,$30/night; dogs restricted by listed breed/aggression; never unattended; vaccination/leash/waste rules",
+  "lat": 43.5279,
+  "lng": -71.4704,
+  "photo": "images/NH-0026-card.webp",
+  "coverPhoto": "images/NH-0026-cover.webp",
+  "photos": [
+   {
+    "file": "images/NH-0026-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NH-0026-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NH-0026-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ }
+]

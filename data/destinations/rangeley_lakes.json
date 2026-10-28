@@ -1,0 +1,494 @@
+[
+ {
+  "id": "ME-0077",
+  "name": "Bald Mountain Camps",
+  "url": "https://baldmountaincamps.com",
+  "place": "Oquossoc, ME",
+  "town": "Oquossoc",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "Camp",
+  "recordType": "Property / small operator",
+  "description": "Bald Mountain Camps. Maine Family Vacation Camps. Fishing and Sporting Camps. Snowmobiling camps. Guide Service.",
+  "descriptionSource": "https://baldmountaincamps.com/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Bald Mountain Camps. Maine Family Vacation Camps. Fishing and Sporting Camps. Snowmobiling camps. Guide Service.",
+  "cardDescriptionSource": "https://baldmountaincamps.com/",
+  "cardPhotos": [
+   "images/ME-0077-cover.jpg",
+   "images/ME-0077-000.jpg",
+   "images/ME-0077-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 44.9661,
+  "lng": -70.7725,
+  "photo": "images/ME-0077-card.webp",
+  "coverPhoto": "images/ME-0077-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0077-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0077-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0077-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0077-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "images/ME-0077-logo.png",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0056",
+  "name": "Carrabassett Cabin Co.",
+  "url": "https://www.carrabassettcabin.com/",
+  "place": "Kingfield, ME",
+  "town": "Kingfield",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "Cabin",
+  "recordType": "Property / small operator",
+  "description": "Carrabassett Cabins properties are cozy and well equipped and offer a range of price points and sizes to accommodate your needs. Our Sugarloaf area vacation rentals are well maintained and family managed to ensure the best experience for our guests.",
+  "descriptionSource": "https://www.carrabassettcabin.com",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Carrabassett Cabins properties are cozy and well equipped and offer a range of price points and sizes to accommodate your needs. Our Sugarloaf area…",
+  "cardDescriptionSource": "https://www.carrabassettcabin.com",
+  "cardPhotos": [
+   "images/ME-0056-cover.jpg",
+   "images/ME-0056-000.jpg",
+   "images/ME-0056-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "address"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 44.9595,
+  "lng": -70.1546,
+  "photo": "images/ME-0056-card.webp",
+  "coverPhoto": "images/ME-0056-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0056-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0056-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0056-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0056-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0083",
+  "name": "Cross Stone Cabins",
+  "url": "https://crossstonecabins.com",
+  "place": "Rangeley, ME",
+  "town": "Rangeley",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "Cabin",
+  "recordType": "Property / small operator",
+  "description": "Nestled in the heart of Maine's western lakes and mountains, Cross Stone Cabins is a place to slow down, reconnect, and experience the beauty of Maine. Whether you're here to hike scenic trails, spend the day on the lake, explore downtown, or simply unwind by the fire, you'll enjoy the perfect balance of convenience and seclusion. Stay close to everything that makes Rangeley special while enjoying the peaceful comfort of your own private cabin surrounded by nature.",
+  "descriptionSource": "https://crossstonecabins.com",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Nestled in the heart of Maine's western lakes and mountains, Cross Stone Cabins is a place to slow down, reconnect, and experience the beauty of…",
+  "cardDescriptionSource": "https://crossstonecabins.com",
+  "cardPhotos": [
+   "images/ME-0083-cover.jpg",
+   "images/ME-0083-000.jpg",
+   "images/ME-0083-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "property photos (4 required)"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Yes (families mentioned)",
+  "petsDetails": "Unknown",
+  "lat": 44.96023,
+  "lng": -70.63961,
+  "photo": "images/ME-0083-card.webp",
+  "coverPhoto": "images/ME-0083-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0083-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0083-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0083-001.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "images/ME-0083-logo.png",
+  "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0266",
+  "name": "Morton & Furbish Vacation Rentals",
+  "url": "https://rangeleyrentals.com",
+  "place": "Rangeley, ME",
+  "town": "Rangeley",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Looking for a getaway in gorgeous Rangeley, Maine? Let Morton & Furbish accommodate you with the best in Rangeley Maine Vacation Rentals! Click to book today!",
+  "descriptionSource": "https://www.rangeleyrentals.com",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Looking for a getaway in gorgeous Rangeley, Maine? Let Morton & Furbish accommodate you with the best in Rangeley Maine Vacation Rentals! Click to…",
+  "cardDescriptionSource": "https://www.rangeleyrentals.com",
+  "cardPhotos": [
+   "images/ME-0266-cover.webp",
+   "images/ME-0266-000.png",
+   "images/ME-0266-001.png"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 44.9653,
+  "lng": -70.643,
+  "photo": "images/ME-0266-card.webp",
+  "coverPhoto": "images/ME-0266-cover.webp",
+  "photos": [
+   {
+    "file": "images/ME-0266-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0266-000.png",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0266-001.png",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0266-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "images/ME-0266-logo.png",
+  "locationPrecision": "Town / area approximate",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0089",
+  "name": "Mountain View Cottages",
+  "url": "https://mountainviewcottages.com",
+  "place": "Rangeley Lake, ME",
+  "town": "Rangeley Lake",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "House",
+  "recordType": "Property / small operator",
+  "description": "Unknown",
+  "descriptionSource": "Unknown",
+  "descriptionStatus": "Not collected",
+  "cardDescription": "Rustic four-bedroom cottages on Rangeley Lake, with lakefront privacy, mountain views, porches and access to hiking and paddling.",
+  "cardDescriptionSource": "https://mountainviewcottages.com/",
+  "cardPhotos": [
+   "images/ME-0089-cover.jpg",
+   "images/cards/ME-0089-01.webp",
+   "images/cards/ME-0089-02.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "address",
+   "property photos (4 required)",
+   "source description"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 44.95,
+  "lng": -70.6992,
+  "photo": "images/ME-0089-card.webp",
+  "coverPhoto": "images/ME-0089-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0089-cover.jpg",
+    "role": "cover"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0090",
+  "name": "North Camps",
+  "url": "https://northcamps.com",
+  "place": "Rangeley Lake, ME",
+  "town": "Rangeley Lake",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "Camp",
+  "recordType": "Property / small operator",
+  "description": "A one of a kind establishment, we have 13 fully furnished, cozy, rustic cabins located on the northeast shore of Rangeley Lake. Surrounded by 20 wooded acres and spacious lawns, each camp is equipped with oil heat & wood stoves. Screened porches, a private beach, and a playground area are some of the features we offer. Boats, Canoes, Kayaks and Sailboats are available for rent.",
+  "descriptionSource": "https://www.northcamps.com",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "A one of a kind establishment, we have 13 fully furnished, cozy, rustic cabins located on the northeast shore of Rangeley Lake. Surrounded by 20…",
+  "cardDescriptionSource": "https://www.northcamps.com",
+  "cardPhotos": [
+   "images/ME-0090-cover.webp",
+   "images/ME-0090-000.webp",
+   "images/ME-0090-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "address"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 44.95,
+  "lng": -70.6992,
+  "photo": "images/ME-0090-card.webp",
+  "coverPhoto": "images/ME-0090-cover.webp",
+  "photos": [
+   {
+    "file": "images/ME-0090-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0090-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0090-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0090-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0087",
+  "name": "Rangeley Lake Resort",
+  "url": "https://rangeleylakeresort.com",
+  "place": "Rangeley, ME",
+  "town": "Rangeley",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "Unknown",
+  "recordType": "Property / small operator",
+  "description": "Nestled in the heart of the great outdoors in Rangeley, Maine is the Rangeley Lake Resort – a year-round vacation destination that has proven its popularity amongst outdoor lovers.",
+  "descriptionSource": "https://rangeleylakeresort.com/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Nestled in the heart of the great outdoors in Rangeley, Maine is the Rangeley Lake Resort – a year-round vacation destination that has proven its…",
+  "cardDescriptionSource": "https://rangeleylakeresort.com/",
+  "cardPhotos": [
+   "images/ME-0087-cover.jpg",
+   "images/ME-0087-000.jpg",
+   "images/ME-0087-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 44.95632,
+  "lng": -70.63928,
+  "photo": "images/ME-0087-card.webp",
+  "coverPhoto": "images/ME-0087-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0087-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0087-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0087-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0087-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "images/ME-0087-logo.jpg",
+  "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "ME-0088",
+  "name": "Town & Lake Motel and Cottages",
+  "url": "https://rangeleytownandlake.com",
+  "place": "Rangeley, ME",
+  "town": "Rangeley",
+  "state": "ME",
+  "destination": "Rangeley Lakes",
+  "type": "House",
+  "recordType": "Property / small operator",
+  "description": "Rangeley Town & Lake Motel and Cottage has been family owned since 1954 and offers rooms and cottages directly on Rangeley Lake. Rangeley Town & Lake is located directly on the shore of Rangeley Lake and just minutes from Rangeley Village’s retail shops, restaurants, and more.",
+  "descriptionSource": "https://rangeleytownandlake.com/",
+  "descriptionStatus": "Collected from source website",
+  "cardDescription": "Rangeley Town & Lake Motel and Cottage has been family owned since 1954 and offers rooms and cottages directly on Rangeley Lake. Rangeley Town &…",
+  "cardDescriptionSource": "https://rangeleytownandlake.com/",
+  "cardPhotos": [
+   "images/ME-0088-cover.jpg",
+   "images/ME-0088-000.jpg",
+   "images/ME-0088-001.jpg"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Conditional",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Yes (motel described as pet-friendly; cottage policy may differ)",
+  "lat": 44.96625,
+  "lng": -70.65073,
+  "photo": "images/ME-0088-card.webp",
+  "coverPhoto": "images/ME-0088-cover.jpg",
+  "photos": [
+   {
+    "file": "images/ME-0088-cover.jpg",
+    "role": "cover"
+   },
+   {
+    "file": "images/ME-0088-000.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0088-001.jpg",
+    "role": "photo"
+   },
+   {
+    "file": "images/ME-0088-002.jpg",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Address",
+  "featured": false,
+  "demo": false
+ }
+]

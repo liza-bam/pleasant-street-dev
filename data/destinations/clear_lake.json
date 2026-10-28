@@ -1,0 +1,60 @@
+[
+ {
+  "id": "LAZY-clearlake-paradise",
+  "name": "Clearlake Paradise",
+  "url": "https://clearlake-paradise.lazy.vacations/",
+  "place": "Clearlake Oaks, CA",
+  "town": "Clearlake Oaks",
+  "state": "CA",
+  "destination": "Clear Lake",
+  "type": "Unknown",
+  "recordType": "LAZY property",
+  "description": "The private Finnish sauna seats four and sits in the backyard. After time on the water, enjoy the warmth, then step outside for fresh air and the view.",
+  "cardDescription": "The private Finnish sauna seats four and sits in the backyard. After time on the water, enjoy the warmth, then step outside for fresh air and the…",
+  "cardDescriptionSource": "https://clearlake-paradise.lazy.vacations/",
+  "cardPhotos": [
+   "images/demos/LAZY-clearlake-paradise-cover.webp",
+   "images/demos/LAZY-clearlake-paradise-000.webp",
+   "images/demos/LAZY-clearlake-paradise-001.webp"
+  ],
+  "platformLinks": {},
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "guests": 5,
+  "capacityDetails": "5",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Published policy: Unknown",
+  "petsDetails": "Published policy: Yes",
+  "lat": 39.02,
+  "lng": -122.67,
+  "photo": "images/LAZY-clearlake-paradise-card.webp",
+  "coverPhoto": "images/demos/LAZY-clearlake-paradise-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-clearlake-paradise-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-clearlake-paradise-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-clearlake-paradise-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-clearlake-paradise-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": true,
+  "demo": false
+ }
+]

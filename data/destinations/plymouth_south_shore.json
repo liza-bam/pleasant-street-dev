@@ -1,0 +1,1938 @@
+[
+ {
+  "id": "MA-0017",
+  "name": "1620 Hospitality",
+  "url": "https://1620hospitality.com/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Apartment",
+  "recordType": "Rental operator",
+  "description": "Plymouth vacation-apartment lead;official website verification blocked.",
+  "descriptionSource": "https://1620hospitality.com/",
+  "descriptionStatus": "Source-supported lead; eligibility not approved",
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Four authentic property photos",
+   "Website eligibility verification"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 41.9427,
+  "lng": -70.7619,
+  "photo": "Unknown",
+  "coverPhoto": "Unknown",
+  "photos": [],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0262",
+  "name": "Coveted Cottage: Humarock Beach Experience",
+  "url": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+  "place": "Scituate, MA",
+  "town": "Scituate",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Humarock cottage near the beach with two bedrooms, a full kitchen, outdoor shower and decks for grilling.",
+  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Humarock cottage near the beach with two bedrooms, a full kitchen, outdoor shower and decks for grilling.",
+  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/688d0bb4aa0a4300100ffe05?minOccupancy=1&adults=1",
+  "cardPhotos": [
+   "images/MA-0262-cover.webp",
+   "images/MA-0262-000.webp",
+   "images/MA-0262-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+  "petsDetails": "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.",
+  "lat": 42.136012,
+  "lng": -70.690447,
+  "photo": "images/MA-0262-card.webp",
+  "coverPhoto": "images/MA-0262-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0262-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0262-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0262-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0262-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0263",
+  "name": "Humarock Hideaway, Tranquil Cottage with River Views",
+  "url": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+  "place": "Marshfield, MA",
+  "town": "Marshfield",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Humarock cottage overlooking the South River, with two bedrooms, a full kitchen, decks and an outdoor shower.",
+  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Humarock cottage overlooking the South River, with two bedrooms, a full kitchen, decks and an outdoor shower.",
+  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/688d0ba48303f40011428e21?minOccupancy=1&adults=1",
+  "cardPhotos": [
+   "images/MA-0263-cover.webp",
+   "images/MA-0263-000.webp",
+   "images/MA-0263-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+  "petsDetails": "Up to two dogs, at least one year old and housebroken; $150 per dog per stay; crate when left alone. Pet damage excluded from waiver.",
+  "lat": 42.129761,
+  "lng": -70.685866,
+  "photo": "images/MA-0263-card.webp",
+  "coverPhoto": "images/MA-0263-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0263-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0263-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0263-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0263-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17023",
+  "name": "Humarock Memory Maker Beach House",
+  "url": "https://humarockmemorymakerbeachhouse.com/",
+  "place": "Scituate, MA",
+  "town": "Scituate",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Four-bedroom, 2.5-bath beach house in Humarock steps from the beach, with wraparound deck, ocean views and air conditioning; sleeps 9.",
+  "descriptionSource": "https://humarockmemorymakerbeachhouse.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom, 2.5-bath beach house in Humarock steps from the beach, with wraparound deck, ocean views and air conditioning; sleeps 9.",
+  "cardDescriptionSource": "https://humarockmemorymakerbeachhouse.com/",
+  "cardPhotos": [
+   "images/MA-17023-cover.webp",
+   "images/MA-17023-000.webp",
+   "images/MA-17023-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "guests": 9,
+  "capacityDetails": "Property page lists sleeps 9.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page states pets not allowed.",
+  "lat": 42.1924,
+  "lng": -70.7262,
+  "photo": "images/MA-17023-card.webp",
+  "coverPhoto": "images/MA-17023-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17023-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17023-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17023-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17023-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17024",
+  "name": "Humarock Oceanfront Vacation Home",
+  "url": "https://www.humarockoceanfrontvacationhome.com/",
+  "place": "Scituate, MA",
+  "town": "Scituate",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Remodeled three-bedroom, one-bath oceanfront home on a private beach in Humarock, with central A/C and outdoor shower; weekly rentals.",
+  "descriptionSource": "https://www.humarockoceanfrontvacationhome.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Remodeled three-bedroom, one-bath oceanfront home on a private beach in Humarock, with central A/C and outdoor shower; weekly rentals.",
+  "cardDescriptionSource": "https://www.humarockoceanfrontvacationhome.com/",
+  "cardPhotos": [
+   "images/MA-17024-cover.webp",
+   "images/MA-17024-000.webp",
+   "images/MA-17024-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page states pets not allowed.",
+  "lat": 42.1924,
+  "lng": -70.7262,
+  "photo": "images/MA-17024-card.webp",
+  "coverPhoto": "images/MA-17024-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17024-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17024-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17024-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17024-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17022",
+  "name": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth",
+  "url": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Updated three-bedroom Cape in Plymouth with access to a private section of Sagamore Beach; sleeps 6.",
+  "descriptionSource": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Updated three-bedroom Cape in Plymouth with access to a private section of Sagamore Beach; sleeps 6.",
+  "cardDescriptionSource": "https://www.lamacchiavacationrentals.com/vacation-rentals/rental/8259/",
+  "cardPhotos": [
+   "images/MA-17022-cover.webp",
+   "images/MA-17022-000.webp",
+   "images/MA-17022-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page states pets not allowed.",
+  "lat": 41.813663,
+  "lng": -70.54737,
+  "photo": "images/MA-17022-card.webp",
+  "coverPhoto": "images/MA-17022-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17022-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17022-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17022-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17022-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-4120",
+  "name": "New England Vacation Rentals — Ocean's Bluff",
+  "url": "https://newenglandvacationrentals.com/Oceans-Bluff-PLY-SW21-New-England-Vacation-Rentals/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "3-bedroom, 2-bath Plymouth home sleeping 6, with water views, a deck and a grill.",
+  "descriptionSource": "https://newenglandvacationrentals.com/Oceans-Bluff-PLY-SW21-New-England-Vacation-Rentals/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "3-bedroom, 2-bath Plymouth home sleeping 6, with water views, a deck and a grill.",
+  "cardDescriptionSource": "https://newenglandvacationrentals.com/Oceans-Bluff-PLY-SW21-New-England-Vacation-Rentals/",
+  "cardPhotos": [
+   "images/MA-4120-cover.webp",
+   "images/MA-4120-000.webp",
+   "images/MA-4120-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 6,
+  "capacityDetails": "Property page: 6 guests",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "No",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page states no pets.",
+  "lat": 41.87279,
+  "lng": -70.53245,
+  "photo": "images/MA-4120-card.webp",
+  "coverPhoto": "images/MA-4120-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-4120-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-4120-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-4120-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-4120-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Street address",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-4117",
+  "name": "New England Vacation Rentals — Ocean's Edge",
+  "url": "https://newenglandvacationrentals.com/Ocean's-Edge-PLY-ER13-New-England-Vacation-Rentals/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "4-bedroom, 4-bath Plymouth home sleeping 8, with private beach access, a pool and a hot tub.",
+  "descriptionSource": "https://newenglandvacationrentals.com/Ocean's-Edge-PLY-ER13-New-England-Vacation-Rentals/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "4-bedroom, 4-bath Plymouth home sleeping 8, with private beach access, a pool and a hot tub.",
+  "cardDescriptionSource": "https://newenglandvacationrentals.com/Ocean's-Edge-PLY-ER13-New-England-Vacation-Rentals/",
+  "cardPhotos": [
+   "images/MA-4117-cover.webp",
+   "images/MA-4117-000.webp",
+   "images/MA-4117-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "guests": 8,
+  "capacityDetails": "Property page: 8 guests",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page amenities list \"Pets Considered\".",
+  "lat": 41.82927,
+  "lng": -70.54365,
+  "photo": "images/MA-4117-card.webp",
+  "coverPhoto": "images/MA-4117-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-4117-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-4117-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-4117-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-4117-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17025",
+  "name": "Ocean Bay Nantasket — One-Bedroom Vacation Rental",
+  "url": "https://www.oceanbaynantasket.com/short-term-rental/",
+  "place": "Hull, MA",
+  "town": "Hull",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "One-bedroom, one-bath unit on Nantasket Beach in Hull with ocean and bay views and a large wraparound balcony; sleeps 4.",
+  "descriptionSource": "https://www.oceanbaynantasket.com/short-term-rental/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "One-bedroom, one-bath unit on Nantasket Beach in Hull with ocean and bay views and a large wraparound balcony; sleeps 4.",
+  "cardDescriptionSource": "https://www.oceanbaynantasket.com/short-term-rental/",
+  "cardPhotos": [
+   "images/MA-17025-cover.webp",
+   "images/MA-17025-000.webp",
+   "images/MA-17025-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 4,
+  "capacityDetails": "Property page lists sleeps 4.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 42.267831,
+  "lng": -70.852892,
+  "photo": "images/MA-17025-card.webp",
+  "coverPhoto": "images/MA-17025-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17025-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17025-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17025-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17025-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Street address",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0257",
+  "name": "Oceanview Getaway Near Nantasket Beach",
+  "url": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+  "place": "Hull, MA",
+  "town": "Hull",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Hull coastal house with four bedrooms, ocean views, a private dock, fireplace and updated kitchen.",
+  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hull coastal house with four bedrooms, ocean views, a private dock, fireplace and updated kitchen.",
+  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/69b1eb29f8e3f500138d180d?minOccupancy=1&adults=1",
+  "cardPhotos": [
+   "images/MA-0257-cover.webp",
+   "images/MA-0257-000.webp",
+   "images/MA-0257-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 10,
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+  "petsDetails": "Unresolved conflict: description permits two dogs age 1+ at $50 each; House rules prohibit pets. Confirm with host.",
+  "lat": 42.276592,
+  "lng": -70.870928,
+  "photo": "images/MA-0257-card.webp",
+  "coverPhoto": "images/MA-0257-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0257-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0257-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0257-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0257-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0006",
+  "name": "Pinewood Lodge Campground",
+  "url": "https://www.pinewoodlodge.com/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Lakeside Plymouth campground with cabins,tiny houses and yurts.",
+  "descriptionSource": "https://www.pinewoodlodge.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Lakeside Plymouth campground with cabins,tiny houses and yurts.",
+  "cardDescriptionSource": "https://www.pinewoodlodge.com/",
+  "cardPhotos": [
+   "images/MA-0006-cover.webp",
+   "images/MA-0006-000.webp",
+   "images/MA-0006-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unit types vary;do not infer guest limit from beds.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "Children allowed; parental supervision, 11 p.m. own-site rule and adult restroom accompaniment under age 12.",
+  "petsDetails": "No pets in rental units. Camping-site pet allowance does not apply to rental lodgings.",
+  "lat": 41.9427,
+  "lng": -70.7619,
+  "photo": "images/MA-0006-card.webp",
+  "coverPhoto": "images/MA-0006-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0006-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0006-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0006-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0006-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-4492",
+  "name": "Sand Dollar Realty — 262 Manomet Pt",
+  "url": "https://www.sanddollaronline.com/tenantwiz/store/propertyDetails.asp?idProduct=2746",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "6-bedroom, 3-bath Plymouth home sleeping 12, with private beach access, a hot tub and water views.",
+  "descriptionSource": "https://www.sanddollaronline.com/tenantwiz/store/propertyDetails.asp?idProduct=2746",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "6-bedroom, 3-bath Plymouth home sleeping 12, with private beach access, a hot tub and water views.",
+  "cardDescriptionSource": "https://www.sanddollaronline.com/tenantwiz/store/propertyDetails.asp?idProduct=2746",
+  "cardPhotos": [
+   "images/MA-4492-cover.webp",
+   "images/MA-4492-000.webp",
+   "images/MA-4492-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 3,
+  "guests": 12,
+  "capacityDetails": "Property page: 12 guests",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists \"Pets Allowed\".",
+  "lat": 41.92619,
+  "lng": -70.5422,
+  "photo": "images/MA-4492-card.webp",
+  "coverPhoto": "images/MA-4492-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-4492-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-4492-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-4492-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-4492-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Approximate (operator page map)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0251",
+  "name": "Scituate by the Sea - Walk to the Beach",
+  "url": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+  "place": "Scituate, MA",
+  "town": "Scituate",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Scituate house with three bedrooms, a full kitchen, deck and outdoor shower within walking distance of the beach.",
+  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Scituate house with three bedrooms, a full kitchen, deck and outdoor shower within walking distance of the beach.",
+  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/6ab14f67f865dc003099140c?minOccupancy=1&adults=1",
+  "cardPhotos": [
+   "images/MA-0251-cover.webp",
+   "images/MA-0251-000.webp",
+   "images/MA-0251-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "guests": 8,
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
+  "petsDetails": "Dogs allowed, but quantity and fee conflict: description two dogs age 1+ at $50 each; widget maximum one/no additional fee. Confirm before booking.",
+  "lat": 42.240189,
+  "lng": -70.765053,
+  "photo": "images/MA-0251-card.webp",
+  "coverPhoto": "images/MA-0251-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0251-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0251-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0251-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0251-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0014",
+  "name": "SISU a boutique motel",
+  "url": "https://www.sisuplymouth.com/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Small Plymouth motel with private-entry cottage rooms, patios and group buyouts.",
+  "descriptionSource": "https://www.sisuplymouth.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Small Plymouth motel with private-entry cottage rooms, patios and group buyouts.",
+  "cardDescriptionSource": "https://www.sisuplymouth.com/",
+  "cardPhotos": [
+   "images/MA-0014-cover.webp",
+   "images/MA-0014-000.webp",
+   "images/MA-0014-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: FirstMate room",
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "No",
+  "kidsDetails": "We do allow kids at sisu.; For any children under 2 years old, they are allowed as an additional guest beyond the 2 person room capacity. OnlyCaptainsQuarters allows morethan2guests exceptunder2child exception; Confirm portable cribwhenbooking so roomhas adequate space",
+  "petsDetails": "we have decided to not allow any pets in the guest rooms. Resident dogAugustus keptoutof guest rooms; doesnotpermitguestpets",
+  "lat": 41.9427,
+  "lng": -70.7619,
+  "photo": "images/MA-0014-card.webp",
+  "coverPhoto": "images/MA-0014-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0014-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0014-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0014-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0014-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0421",
+  "name": "Stunning Design|7minWalk to Beach|Lg BackYard|Deck",
+  "url": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Five-bedroom Plymouth vacation house with a large yard, deck and kitchen, a short walk from the beach.",
+  "descriptionSource": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Five-bedroom Plymouth vacation house with a large yard, deck and kitchen, a short walk from the beach.",
+  "cardDescriptionSource": "https://stayspace.hospitable.rentals/property/new-design7min-walk-to-beachlg-back-yarddeck",
+  "cardPhotos": [
+   "images/MA-0421-cover.webp",
+   "images/MA-0421-000.webp",
+   "images/MA-0421-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "guests": 14,
+  "capacityDetails": "Published unit header and catalog agree on guest/bedroom/bathroom counts.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Own reservation widget requires dates to show pricing; no dated quote requested.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Families or child amenities explicitly mentioned on own-unit page.",
+  "petsDetails": "Pets permitted with a $50 fee. Species restrictions not specified in these rules.",
+  "lat": 41.9221,
+  "lng": -70.55022,
+  "photo": "images/MA-0421-card.webp",
+  "coverPhoto": "images/MA-0421-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0421-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0421-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0421-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0421-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0207",
+  "name": "The Calico Seahorse",
+  "url": "https://thecalicoseahorse.com/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Rental operator",
+  "description": "Themed beach bungalows and a main house near White Horse Beach, with kitchens and a shared fire pit.",
+  "descriptionSource": "https://thecalicoseahorse.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Themed beach bungalows and a main house near White Horse Beach, with kitchens and a shared fire pit.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/",
+  "cardPhotos": [
+   "images/MA-0207-cover.webp",
+   "images/MA-0207-000.webp",
+   "images/MA-0207-001.webp"
+  ],
+  "cardPhotoLabel": "Photos: Sintra bungalow",
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Operator-wide policy not established; Sintra explicitly welcomes children.",
+  "petsDetails": "Operator-wide policy not established; Sintra dogs with prior approval and fee.",
+  "lat": 41.9427,
+  "lng": -70.7619,
+  "photo": "images/MA-0207-card.webp",
+  "coverPhoto": "images/MA-0207-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0207-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0207-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0207-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0207-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17002",
+  "name": "The Calico Seahorse — Mayflower Bungalow",
+  "url": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Nautical-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with fire pit and grill.",
+  "descriptionSource": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Nautical-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with fire pit and grill.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/en/mayflowersleeps-5near-beachfirepitoutdoor-shwrgrill",
+  "cardPhotos": [
+   "images/MA-17002-cover.webp",
+   "images/MA-17002-000.webp",
+   "images/MA-17002-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "Property page lists sleeps 5.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.931274,
+  "lng": -70.564667,
+  "photo": "images/MA-17002-card.webp",
+  "coverPhoto": "images/MA-17002-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17002-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17002-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17002-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17002-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17006",
+  "name": "The Calico Seahorse — Moana Bungalow",
+  "url": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Moana-themed two-bedroom bungalow at The Calico Seahorse that sleeps 7, a 5-minute walk to White Horse Beach, with a full kitchen.",
+  "descriptionSource": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Moana-themed two-bedroom bungalow at The Calico Seahorse that sleeps 7, a 5-minute walk to White Horse Beach, with a full kitchen.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/en/plymouth-ma-white-horse-beach-moana",
+  "cardPhotos": [
+   "images/MA-17006-cover.webp",
+   "images/MA-17006-000.webp",
+   "images/MA-17006-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 7,
+  "capacityDetails": "Property page lists sleeps 7.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.932137,
+  "lng": -70.563749,
+  "photo": "images/MA-17006-card.webp",
+  "coverPhoto": "images/MA-17006-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17006-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17006-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17006-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17006-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17005",
+  "name": "The Calico Seahorse — Oahu Bungalow",
+  "url": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Hawaiian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, near White Horse Beach, with outdoor shower and gas grill.",
+  "descriptionSource": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hawaiian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, near White Horse Beach, with outdoor shower and gas grill.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/en/oahusleeps-5near-beachoutdoor-showerfirepitgas-grill",
+  "cardPhotos": [
+   "images/MA-17005-cover.webp",
+   "images/MA-17005-000.webp",
+   "images/MA-17005-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "Property page lists sleeps 5.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.931221,
+  "lng": -70.564285,
+  "photo": "images/MA-17005-card.webp",
+  "coverPhoto": "images/MA-17005-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17005-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17005-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17005-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17005-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17004",
+  "name": "The Calico Seahorse — Santorini Bungalow",
+  "url": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Two-bedroom themed bungalow with a private yard at The Calico Seahorse that sleeps 7, near White Horse Beach, with fire pit and outdoor shower.",
+  "descriptionSource": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Two-bedroom themed bungalow with a private yard at The Calico Seahorse that sleeps 7, near White Horse Beach, with fire pit and outdoor shower.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/en/santorinithemedpriv-yardnear-beach-firepitoutdoor-shwr",
+  "cardPhotos": [
+   "images/MA-17004-cover.webp",
+   "images/MA-17004-000.webp",
+   "images/MA-17004-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "guests": 7,
+  "capacityDetails": "Property page lists sleeps 7.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.931221,
+  "lng": -70.564285,
+  "photo": "images/MA-17004-card.webp",
+  "coverPhoto": "images/MA-17004-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17004-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17004-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17004-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17004-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17000",
+  "name": "The Calico Seahorse — SeaGlass Bungalow",
+  "url": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Four-bedroom bungalow at The Calico Seahorse near White Horse Beach that sleeps 12, with patio, gas grill, outdoor shower and central air.",
+  "descriptionSource": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom bungalow at The Calico Seahorse near White Horse Beach that sleeps 12, with patio, gas grill, outdoor shower and central air.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/en/seaglass-walk-to-beach-firepit-ext-shower-pets",
+  "cardPhotos": [
+   "images/MA-17000-cover.webp",
+   "images/MA-17000-000.webp",
+   "images/MA-17000-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "guests": 12,
+  "capacityDetails": "Property page lists sleeps 12.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.931221,
+  "lng": -70.564537,
+  "photo": "images/MA-17000-card.webp",
+  "coverPhoto": "images/MA-17000-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17000-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17000-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17000-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17000-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17001",
+  "name": "The Calico Seahorse — Sintra Bungalow",
+  "url": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Bungalow for two at The Calico Seahorse, a 5-minute walk to White Horse Beach, with kitchen, private outdoor shower and gas grill.",
+  "descriptionSource": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Bungalow for two at The Calico Seahorse, a 5-minute walk to White Horse Beach, with kitchen, private outdoor shower and gas grill.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/en/sintraromanticnear-beachprivate-outdoor-shower",
+  "cardPhotos": [
+   "images/MA-17001-cover.webp",
+   "images/MA-17001-000.webp",
+   "images/MA-17001-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": 1,
+  "guests": 2,
+  "capacityDetails": "Property page lists sleeps 2.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.931221,
+  "lng": -70.564537,
+  "photo": "images/MA-17001-card.webp",
+  "coverPhoto": "images/MA-17001-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17001-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17001-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17001-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17001-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17003",
+  "name": "The Calico Seahorse — Tahiti Bungalow",
+  "url": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Polynesian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with outdoor shower.",
+  "descriptionSource": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Polynesian-themed one-bedroom bungalow at The Calico Seahorse that sleeps 5, a 5-minute walk to White Horse Beach, with outdoor shower.",
+  "cardDescriptionSource": "https://thecalicoseahorse.com/en/tahitisleeps-5near-beachfire-pitoutdoor-showergrill",
+  "cardPhotos": [
+   "images/MA-17003-cover.webp",
+   "images/MA-17003-000.webp",
+   "images/MA-17003-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "guests": 5,
+  "capacityDetails": "Property page lists sleeps 5.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.931223,
+  "lng": -70.564546,
+  "photo": "images/MA-17003-card.webp",
+  "coverPhoto": "images/MA-17003-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17003-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17003-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17003-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17003-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-1306",
+  "name": "The Egret's Nest",
+  "url": "https://driftlinestays.com/",
+  "place": "Marshfield, MA",
+  "town": "Marshfield",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Renovated three-bedroom Marshfield home with South River marsh views, a sunroom, deck and outdoor shower, near Rexhame Beach.",
+  "descriptionSource": "https://driftlinestays.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Renovated three-bedroom Marshfield home with South River marsh views, a sunroom, deck and outdoor shower, near Rexhame Beach.",
+  "cardDescriptionSource": "https://driftlinestays.com/",
+  "cardPhotos": [
+   "images/MA-1306-cover.webp",
+   "images/MA-1306-000.webp",
+   "images/MA-1306-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Official physical rental or operator-business address; correct address role"
+  ],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "guests": 7,
+  "capacityDetails": "Home header3bedrooms2fullbaths7guests; House Rules3queens+1twin and maximum7.",
+  "priceFrom": 2415,
+  "priceDetails": "Published summer weeks starting$2415 per7nights, Saturday check-in (not nightly). $200cleaning,$500refundable securityhold; pet terms separate.",
+  "currency": "USD",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Matching host James official Houfy property Suitability explicitly says Child friendly. Own House Rules/FAQ checked without separate age statement; no age/infant guarantee inferred.",
+  "petsDetails": "Up to2dogs only, no cats/otherpets; disclosebreed/size atbooking; $125nonrefundable fee per dog perstay, $250refundable pet hold, dogs off furniture/beds.",
+  "lat": 42.1215,
+  "lng": -70.6835,
+  "photo": "images/MA-1306-card.webp",
+  "coverPhoto": "images/MA-1306-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-1306-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-1306-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1306-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-1306-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-0008",
+  "name": "Thomas Sea Suites at Harbourtown",
+  "url": "https://www.thomasseasuites.com/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Waterfront Plymouth condo suites and penthouses with full kitchens and separate living areas.",
+  "descriptionSource": "https://www.thomasseasuites.com/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Waterfront Plymouth condo suites and penthouses with full kitchens and separate living areas.",
+  "cardDescriptionSource": "https://www.thomasseasuites.com/",
+  "cardPhotos": [
+   "images/MA-0008-cover.webp",
+   "images/MA-0008-000.webp",
+   "images/MA-0008-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Multiple suites and penthouses;facts vary.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Yes",
+  "pets": "Conditional",
+  "kidsDetails": "Pack-n-plays available on request; homepage explicitly welcomes families.",
+  "petsDetails": "Pets considered subject to confirmation; maximum 30 pounds; $200 per pet per stay.",
+  "lat": 41.9427,
+  "lng": -70.7619,
+  "photo": "images/MA-0008-card.webp",
+  "coverPhoto": "images/MA-0008-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-0008-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-0008-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0008-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-0008-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Town / area approximate",
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17020",
+  "name": "Thomas Sea Suites — Kingston Residences",
+  "url": "https://www.thomasseasuites.com/homes/maple.html",
+  "place": "Kingston, MA",
+  "town": "Kingston",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "Two apartments in Kingston, a 2-bedroom and a 3-bedroom, each with full kitchen, in-unit laundry and private entrance.",
+  "descriptionSource": "https://www.thomasseasuites.com/homes/maple.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Two apartments in Kingston, a 2-bedroom and a 3-bedroom, each with full kitchen, in-unit laundry and private entrance.",
+  "cardDescriptionSource": "https://www.thomasseasuites.com/homes/maple.html",
+  "cardPhotos": [
+   "images/MA-17020-cover.webp",
+   "images/MA-17020-000.webp",
+   "images/MA-17020-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": 1,
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.99336,
+  "lng": -70.7375,
+  "photo": "images/MA-17020-card.webp",
+  "coverPhoto": "images/MA-17020-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17020-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17020-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17020-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17020-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17018",
+  "name": "Thomas Sea Suites — Lakefront Oasis (White Island Pond)",
+  "url": "https://www.thomasseasuites.com/homes/sandybeach.html",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Renovated three-bedroom West Plymouth home across from White Island Pond, with private beach access and complimentary kayaks; sleeps 8.",
+  "descriptionSource": "https://www.thomasseasuites.com/homes/sandybeach.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Renovated three-bedroom West Plymouth home across from White Island Pond, with private beach access and complimentary kayaks; sleeps 8.",
+  "cardDescriptionSource": "https://www.thomasseasuites.com/homes/sandybeach.html",
+  "cardPhotos": [
+   "images/MA-17018-cover.webp",
+   "images/MA-17018-000.webp",
+   "images/MA-17018-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 8,
+  "capacityDetails": "Property page lists sleeps 8.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.813228,
+  "lng": -70.62179,
+  "photo": "images/MA-17018-card.webp",
+  "coverPhoto": "images/MA-17018-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17018-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17018-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17018-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17018-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17017",
+  "name": "Thomas Sea Suites — The Estate (South Plymouth)",
+  "url": "https://www.thomasseasuites.com/homes/book1636.html",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Five-bedroom, 4.5-bath South Plymouth estate of 4,000 sq ft with a heated saltwater pool; sleeps 12.",
+  "descriptionSource": "https://www.thomasseasuites.com/homes/book1636.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Five-bedroom, 4.5-bath South Plymouth estate of 4,000 sq ft with a heated saltwater pool; sleeps 12.",
+  "cardDescriptionSource": "https://www.thomasseasuites.com/homes/book1636.html",
+  "cardPhotos": [
+   "images/MA-17017-cover.webp",
+   "images/MA-17017-000.webp",
+   "images/MA-17017-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 4.5,
+  "guests": 12,
+  "capacityDetails": "Property page lists sleeps 12.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.860062,
+  "lng": -70.534861,
+  "photo": "images/MA-17017-card.webp",
+  "coverPhoto": "images/MA-17017-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17017-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17017-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17017-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17017-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17021",
+  "name": "Thomas Sea Suites — Warren House Suites",
+  "url": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Apartment",
+  "recordType": "Property",
+  "description": "Small building of self-contained one- and two-bedroom suites on Warren Avenue, Plymouth, each with private entrance and full kitchen.",
+  "descriptionSource": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Small building of self-contained one- and two-bedroom suites on Warren Avenue, Plymouth, each with private entrance and full kitchen.",
+  "cardDescriptionSource": "https://www.thomasseasuites.com/homes/warrenhouse.html",
+  "cardPhotos": [
+   "images/MA-17021-cover.webp",
+   "images/MA-17021-000.webp",
+   "images/MA-17021-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.945196,
+  "lng": -70.635109,
+  "photo": "images/MA-17021-card.webp",
+  "coverPhoto": "images/MA-17021-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17021-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17021-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17021-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17021-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-17019",
+  "name": "Thomas Sea Suites — Wildwood Beach House (Cedarville)",
+  "url": "https://www.thomasseasuites.com/homes/wildwood.html",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Three-bedroom, 2.5-bath Cedarville house a short walk from Sagamore Beach; a one-bedroom apartment below can be rented with it.",
+  "descriptionSource": "https://www.thomasseasuites.com/homes/wildwood.html",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom, 2.5-bath Cedarville house a short walk from Sagamore Beach; a one-bedroom apartment below can be rented with it.",
+  "cardDescriptionSource": "https://www.thomasseasuites.com/homes/wildwood.html",
+  "cardPhotos": [
+   "images/MA-17019-cover.webp",
+   "images/MA-17019-000.webp",
+   "images/MA-17019-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": 2.5,
+  "guests": 6,
+  "capacityDetails": "Property page lists sleeps 6.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unknown",
+  "currency": "Unknown",
+  "kids": "Unknown",
+  "pets": "Yes",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Property page lists pets allowed/considered.",
+  "lat": 41.813317,
+  "lng": -70.543366,
+  "photo": "images/MA-17019-card.webp",
+  "coverPhoto": "images/MA-17019-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-17019-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-17019-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17019-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-17019-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ },
+ {
+  "id": "MA-3418",
+  "name": "Vacation Cape Cod — Cliff House with spectacular views of Cape Cod Bay (SFINN)",
+  "url": "https://www.vacationcapecod.com/vacation-rentals/rental/SFINN/",
+  "place": "Plymouth, MA",
+  "town": "Plymouth",
+  "state": "MA",
+  "destination": "Plymouth & South Shore",
+  "type": "Unknown",
+  "recordType": "Property",
+  "description": "Six-bedroom, 2.5-bath Plymouth rental sleeping 14, with hot tub, A/C and washer/dryer.",
+  "descriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/SFINN/",
+  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Six-bedroom, 2.5-bath Plymouth rental sleeping 14, with hot tub, A/C and washer/dryer.",
+  "cardDescriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/SFINN/",
+  "cardPhotos": [
+   "images/MA-3418-cover.webp",
+   "images/MA-3418-000.webp",
+   "images/MA-3418-001.webp"
+  ],
+  "platformLinks": {},
+  "collectionStatus": "Complete",
+  "missingRequiredFields": [],
+  "rooms": "Unknown",
+  "bedrooms": 6,
+  "bathrooms": 2.5,
+  "guests": 14,
+  "capacityDetails": "Unit page: sleeps 14.",
+  "priceFrom": "Unknown",
+  "priceDetails": "Unit page quotes price only after dates are selected.",
+  "currency": "USD",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "lat": 41.82473,
+  "lng": -70.54446,
+  "photo": "images/MA-3418-card.webp",
+  "coverPhoto": "images/MA-3418-cover.webp",
+  "photos": [
+   {
+    "file": "images/MA-3418-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/MA-3418-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-3418-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/MA-3418-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "locationPrecision": "Exact (operator page coordinates)",
+  "askAddress": true,
+  "featured": false,
+  "demo": false
+ }
+]
