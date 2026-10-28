@@ -3,7 +3,7 @@
 @font-face { font-family: "Noto Serif"; font-weight: 400 900; font-display: swap; src: url(fonts/noto-serif-latin.woff2) format("woff2"); }
 @font-face { font-family: "Lobster"; font-weight: 400; font-display: swap; src: url(fonts/lobster-latin.woff2) format("woff2"); }
 :root {
-  --water: #74e3d1; --ink: #17363c; --mute: #647a7b; --green: #057d7b; --teal: #2fa18c;
+  --water: #74e3d1; --ink: #17363c; --mute: #5a6f70; --green: #057d7b; --teal: #2fa18c;
   --tint: #fff; --line: #e4e7e6; --white: #fff; --coral: #f9426f; --coral-action: #ea073f;
   --serif: "Noto Serif", serif; --script: "Lobster", cursive;
   /* The page column: header, search, filters and cards share one left and right edge on wide screens. */
@@ -47,8 +47,8 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
   .app-home img:not(.app-home-logo) { display: none; }
   .app-home .app-home-logo { display: block; width: auto; height: 50px; filter: none; mix-blend-mode: normal; }
   .app-brand-name { position: static; width: auto; height: auto; overflow: visible; clip: auto; margin: 0 auto 0 -12px; font: 400 30px/1 var(--script); color: var(--ink); white-space: nowrap; }
-  .app-header-link { min-height: 40px; padding: 8px 4px; border: 0; background: none; color: var(--white); font: 700 17px var(--serif); }
-  .app-header-link:hover { background: none; color: var(--coral); }
+  .app-header-link { min-height: 40px; padding: 8px 4px; border: 0; background: none; color: var(--ink); font: 700 17px var(--serif); }
+  .app-header-link:hover { background: none; color: var(--ink); text-decoration: underline; }
   .app-header-link--add { padding: 8px 20px; border-radius: 8px; background: var(--white); color: var(--green); box-shadow: var(--shadow); }
   .app-header-link--add:hover { background: var(--teal); color: var(--white); }
   .app-bar { padding: 12px var(--gutter); }
@@ -125,7 +125,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-card:hover { box-shadow: var(--shadow-up); }
 .ps-card--featured { position: relative; border: 2px solid var(--coral); }
 .ps-card__featured { position: absolute; top: 10px; left: 10px; padding: 4px 9px; border-radius: 999px;
-                     background: var(--coral); color: var(--ink); font-size: 12px; font-weight: 700; z-index: 1; }
+                     background: var(--coral-action); color: var(--white); font-size: 12px; font-weight: 700; z-index: 1; }
 .ps-featured-pin { background: transparent; border: 0; }
 .ps-featured-pin svg { display: block; filter: drop-shadow(0 2px 2px rgba(13, 43, 46, .25)); }
 .ps-featured-pin__shape { fill: var(--coral); stroke: white; stroke-width: 1.5; }
@@ -138,6 +138,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .leaflet-popup-content { margin: 10px 12px; }
 .ps-card__missing { margin: 8px 12px 10px; font-size: 13px; color: var(--mute); font-style: italic; }
 .ps-card__photo { position: relative; }
+.leaflet-control-zoom .leaflet-disabled { color: #8a8a8a; }
 .ps-card__photo > .ps-gallery__pending { display: block; width: 100%; aspect-ratio: 560 / 350; }
 .ps-more { display: block; width: 100%; min-height: 44px; margin: 4px 0 12px; border: 1px solid var(--line); border-radius: 999px; background: white; font: inherit; font-size: 14px; color: var(--ink); cursor: pointer; }
 .ps-card__open { position: absolute; z-index: 2; bottom: 8px; right: 8px; display: flex; align-items: center; justify-content: center;
@@ -151,7 +152,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-results-group summary:focus-visible { outline: 3px solid var(--coral); outline-offset: 2px; border-radius: 4px; }
 .ps-results-group summary svg { width: 19px; height: 19px; margin-left: auto; fill: none; stroke: currentColor; stroke-width: 1.7; transform: rotate(-90deg); }
 .ps-results-group[open] summary svg { transform: rotate(0); }
-.ps-results-group__count { padding: 2px 8px; border-radius: 999px; background: var(--line); color: var(--green); font-size: 12px; }
+.ps-results-group__count { padding: 2px 8px; border-radius: 999px; background: var(--line); color: #046b69; font-size: 12px; }
 .ps-results-group--featured .ps-results-group__count { background: #ffddd7; color: #8f3e34; }
 .ps-results-group__note { margin: 0 0 16px; font-size: 12px; color: var(--mute); }
 .ps-results-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(206px, 1fr)); gap: 12px; align-items: stretch; }
@@ -162,7 +163,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-marker--hover, .ps-marker--selected { filter: drop-shadow(0 0 4px var(--coral)) drop-shadow(0 0 4px var(--coral)); }
 .leaflet-marker-icon.ps-marker--hover, .leaflet-marker-icon.ps-marker--selected,
 .ps-featured-pin.ps-marker--hover, .ps-featured-pin.ps-marker--selected { z-index: 10000 !important; }
-.app-cluster--hover, .app-cluster--selected { background: var(--coral) !important; }
+.app-cluster--hover, .app-cluster--selected { background: var(--coral-action) !important; }
 .ps-none { grid-column: 1 / -1; margin: 8px 0; font-size: 16px; }
 .ps-none__fix { padding: 0; border: 0; background: none; font: inherit; color: var(--green); text-decoration: underline; cursor: pointer; }
 
