@@ -322,7 +322,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .ps-home--tiny h2 { font-size: 14px; }
   .ps-home--tiny .ps-home__actions { grid-template-columns: minmax(0, 1fr); gap: 6px; }
   .ps-home--tiny .ps-action { min-height: 46px; padding: 10px 5px; font-size: 12px; }
-  .leaflet-control-zoom a { min-width: 36px; min-height: 36px; line-height: 36px; }
+  .leaflet-control-zoom { display: none; }   /* phone: the map is pinched and dragged, no +/- buttons */
   .leaflet-popup-content { max-width: calc(100vw - 70px); }
 
   /* The phone map stays put while a results tray moves over it. Cards keeps page scrolling. */
