@@ -345,7 +345,6 @@
       (tiny ? '' : actions) +   // large and opened cards: Open website right under the cover
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(displayPlace) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(displayPlace) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (tiny ? '' : '<p class="ps-home__description">' + (h.loaded ? esc(detail ? fullDescription(h) : shortDescription(h.cardDescription || h.description)) : '') + '</p>') +
-      (detail && h.loaded ? unknownsLine(h) : '') +
       (tiny ? (factRows(h, false, detail) || '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>') : factPills(h)) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       (tiny ? actions : '') + '</div>' +
