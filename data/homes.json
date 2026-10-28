@@ -986,7 +986,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "1000 Island Rental, house in Alexandria Bay, NY"
+  "photoAlt": "1000 Island Rental, house in Alexandria Bay, NY",
+  "cardDescription": "Waterfront cottage on the St. Lawrence River, walking distance to Alexandria Bay and a golf course; sleeps 6, 3 bedrooms, 2.5 bathrooms.",
+  "cardDescriptionSource": "https://www.1000islandrental.com/"
  },
  {
   "slug": "101-n-reservation-terrace",
@@ -3525,7 +3527,9 @@
   "alive": "Unknown",
   "locationCheckedOn": "2026-10-27",
   "destination": "Martha's Vineyard",
-  "photoAlt": "15 Cottage Park, house in Oak Bluffs, MA"
+  "photoAlt": "15 Cottage Park, house in Oak Bluffs, MA",
+  "cardDescription": "160-year-old gingerbread cottage in the Oak Bluffs Campgrounds, a short walk to the harbor, beaches and ferries; front and back porches, sleeps 6.",
+  "cardDescriptionSource": "https://www.mvcma.org/15-cottage-park"
  },
  {
   "slug": "1620-hospitality",
@@ -3595,7 +3599,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Plymouth & South Shore",
-  "photoAlt": "1620 Hospitality, apartment in Plymouth, MA"
+  "photoAlt": "1620 Hospitality, apartment in Plymouth, MA",
+  "cardDescription": "Apartments in Plymouth, MA with private entrances, keyless access and off-street parking; sheets, towels and blankets washed between guests.",
+  "cardDescriptionSource": "https://1620hospitality.com/"
  },
  {
   "slug": "17-82nd-st",
@@ -3816,7 +3822,9 @@
   "alive": "Unknown",
   "locationCheckedOn": "2026-10-27",
   "destination": "Martha's Vineyard",
-  "photoAlt": "17 Cottage Park, house in Oak Bluffs, MA"
+  "photoAlt": "17 Cottage Park, house in Oak Bluffs, MA",
+  "cardDescription": "159-year-old cottage steps from Oak Bluffs main streets, a short walk to harbor, beaches and ferries; three bedrooms, assigned parking, sleeps 6.",
+  "cardDescriptionSource": "https://www.mvcma.org/17-cottage-park"
  },
  {
   "slug": "17-l-street",
@@ -15044,7 +15052,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — cardinal, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — cardinal, cabin in Diamond Point, NY",
+  "cardDescription": "Four-season one-bedroom cabin near Lake George with A/C and heat, patio, grill and outdoor fire hearth; sleeps 3, pets with a call first.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/cardinal/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-chickadee",
@@ -15138,7 +15148,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — chickadee, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — chickadee, cabin in Diamond Point, NY",
+  "cardDescription": "Two-level A-frame chalet on a hill above the resort near Lake George; 2 bedrooms, 1 bath, kitchen, deck and gas fireplace; sleeps 6, pets with a call.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/chickadee/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-cottontail-cabin",
@@ -15232,7 +15244,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — cottontail-cabin, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — cottontail-cabin, cabin in Diamond Point, NY",
+  "cardDescription": "Seasonal two-bedroom, one-bath cabin near Lake George with kitchen, futon sleeper and a heated enclosed porch with electric fireplace; sleeps 7.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/cottontail-cabin/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-eagles-nest",
@@ -15326,7 +15340,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — eagles-nest, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — eagles-nest, cabin in Diamond Point, NY",
+  "cardDescription": "Four-season house near Lake George with full kitchen, washer/dryer and a private patio with fire pit; 3 bedrooms, 1 bath, sleeps 8.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/eagles-nest/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-jay",
@@ -15420,7 +15436,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — jay, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — jay, cabin in Diamond Point, NY",
+  "cardDescription": "Two-bedroom, one-bath A-frame chalet near Lake George, entered by exterior deck stairs; kitchen, deck, parking nearby; sleeps 4, pets with a call.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/jay/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-kestral",
@@ -15514,7 +15532,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — kestral, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — kestral, cabin in Diamond Point, NY",
+  "cardDescription": "One-bedroom log cabin suite with original log walls, eat-in kitchen, living room and roll-away bed near Lake George; sleeps 3, pets with a call first.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/kestral/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-kinglet",
@@ -15608,7 +15628,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — kinglet, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — kinglet, cabin in Diamond Point, NY",
+  "cardDescription": "Ground-floor chalet suite near Lake George with no steps; kitchen, living area, shower bath, queen bed and roll-away; sleeps 3, pets with a call.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/kinglet/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-moose-cabin",
@@ -15702,7 +15724,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — moose-cabin, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — moose-cabin, cabin in Diamond Point, NY",
+  "cardDescription": "Stand-alone two-bedroom, one-bath cabin near Lake George with a private fire pit, picnic table and pool access; seasonal, sleeps 6.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/moose-cabin/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-nuthatch",
@@ -15796,7 +15820,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — nuthatch, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — nuthatch, cabin in Diamond Point, NY",
+  "cardDescription": "Two-bedroom log cabin end unit in the trees near Lake George; full kitchen, dining for 4, no separate living room; sleeps 4, pets with a call first.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/nuthatch/"
  },
  {
   "slug": "adirondack-diamond-point-lodge-otter-cabin",
@@ -15890,7 +15916,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Adirondack Diamond Point Lodge — otter-cabin, cabin in Diamond Point, NY"
+  "photoAlt": "Adirondack Diamond Point Lodge — otter-cabin, cabin in Diamond Point, NY",
+  "cardDescription": "Seasonal stand-alone two-bedroom, one-bath cabin near Lake George with kitchen, sleeper sofa and an enclosed porch with electric fireplace; sleeps 5.",
+  "cardDescriptionSource": "https://adirondackdiamondpointlodge.com/cabins/otter-cabin/"
  },
  {
   "slug": "adk-lakefront-property-management-bolton-landing-4-bedroom-h",
@@ -15985,7 +16013,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house, house in Bolton Landing, NY"
+  "photoAlt": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house, house in Bolton Landing, NY",
+  "cardDescription": "Four-bedroom house in Bolton Landing, NY, managed by ADK Lakefront Property Management.",
+  "cardDescriptionSource": "https://www.adklpm.com/bolton-landing-4-bdrm-vacation-rental-orp5b612eax"
  },
  {
   "slug": "adk-lakefront-property-management-brant-lake-guest-house",
@@ -16080,7 +16110,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "ADK Lakefront Property Management — Brant Lake Guest House, house in Brant Lake, NY"
+  "photoAlt": "ADK Lakefront Property Management — Brant Lake Guest House, house in Brant Lake, NY",
+  "cardDescription": "Guest house in Brant Lake, NY, managed by ADK Lakefront Property Management; sleeps 8, 3 bedrooms.",
+  "cardDescriptionSource": "https://www.adklpm.com/brant-lake-guest-house-sleeps-8-near-gore-orp5b74e17x"
  },
  {
   "slug": "adk-lakefront-property-management-indian-lake-cabin",
@@ -16175,7 +16207,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "ADK Lakefront Property Management — Indian Lake Cabin, cabin in Indian Lake, NY"
+  "photoAlt": "ADK Lakefront Property Management — Indian Lake Cabin, cabin in Indian Lake, NY",
+  "cardDescription": "Cabin in Indian Lake, NY, managed by ADK Lakefront Property Management; sleeps 15, 3 bedrooms.",
+  "cardDescriptionSource": "https://www.adklpm.com/gorgeous-indian-lake-cabin-sleeps-15-orp5b68c21x"
  },
  {
   "slug": "afternoon-delight",
@@ -16728,7 +16762,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "All Mountain Rentals, house in Campton, NH"
+  "photoAlt": "All Mountain Rentals, house in Campton, NH",
+  "cardDescription": "Locally owned manager of vacation homes and condos in the White Mountains, close to Waterville Valley, Loon and Cannon ski areas; Campton, NH.",
+  "cardDescriptionSource": "https://www.allmountainrentals.com/"
  },
  {
   "slug": "alpine-garden",
@@ -16805,7 +16841,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Alpine Garden, cabin in Bartlett, NH"
+  "photoAlt": "Alpine Garden, cabin in Bartlett, NH",
+  "cardDescription": "Family-run glamping village in Bartlett, NH with handcrafted cabins, treehouses and dome-roofed Hobbit homes, an onsite winery and a heated pool.",
+  "cardDescriptionSource": "https://www.alpinegardenglamping.com/"
  },
  {
   "slug": "amc-cardigan-lodge",
@@ -19336,7 +19374,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Great North Woods",
-  "photoAlt": "At Bear Tree, cabin in Pittsburg, NH"
+  "photoAlt": "At Bear Tree, cabin in Pittsburg, NH",
+  "cardDescription": "Ten lakeside cabins on First Connecticut Lake plus six outpost cabins on Twin Ponds and a four-bedroom inn; private dock and an onsite steakhouse.",
+  "cardDescriptionSource": "https://www.atbeartree.com/"
  },
  {
   "slug": "atlantic-haven",
@@ -19698,7 +19738,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Attitash Mountain Village Resort, apartment in Bartlett, NH"
+  "photoAlt": "Attitash Mountain Village Resort, apartment in Bartlett, NH",
+  "cardDescription": "Suites and condos with full kitchens, indoor and outdoor pools and hot tubs, steps from Attitash Ski Resort and minutes from North Conway.",
+  "cardDescriptionSource": "https://attitashvillage.com/"
  },
  {
   "slug": "austin-house-river-winds-farm-estate",
@@ -22958,7 +23000,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Baker Rocks, cabin in Rumney, NH"
+  "photoAlt": "Baker Rocks, cabin in Rumney, NH",
+  "cardDescription": "Cabins, yurts and a dome along 2,000 feet of the Baker River, across from the Rumney Rocks climbing area; onsite store, gardens, contactless check-in.",
+  "cardDescriptionSource": "https://bakerrocks.com/"
  },
  {
   "slug": "bald-mountain-camps",
@@ -23510,7 +23554,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Northeast Kingdom",
-  "photoAlt": "Base Camp Nek, cabin in St. Johnsbury, VT"
+  "photoAlt": "Base Camp Nek, cabin in St. Johnsbury, VT",
+  "cardDescription": "Off-grid glamping sites and a rustic lodge with wood stove in the Northeast Kingdom; barbecues, fire pits, bathrooms and showers at the base lodge.",
+  "cardDescriptionSource": "https://www.basecampnek.com/book-a-stay"
  },
  {
   "slug": "basin-house-with-water-views",
@@ -47448,7 +47494,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Nantucket",
-  "photoAlt": "Brant Point Courtyard, house in Nantucket, MA"
+  "photoAlt": "Brant Point Courtyard, house in Nantucket, MA",
+  "cardDescription": "Timeshare resort of 14 fully equipped units on Nantucket, less than a 7-minute walk to downtown and several beaches; quiet location.",
+  "cardDescriptionSource": "https://brantpointcourtyard.com/"
  },
  {
   "slug": "breakwater-vacation-rental",
@@ -47990,7 +48038,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Bretton Woods Vacations, house in Bretton Woods, NH"
+  "photoAlt": "Bretton Woods Vacations, house in Bretton Woods, NH",
+  "cardDescription": "Family-owned manager of vacation homes and cabins in Bretton Woods and nearby White Mountains towns such as Bethlehem, Franconia and Littleton.",
+  "cardDescriptionSource": "https://www.brettonwoodsvacations.com/"
  },
  {
   "slug": "bridgton-bungalow",
@@ -51322,7 +51372,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "CAMPTONS — The Camptons Cottage, cabin in Tannersville, NY"
+  "photoAlt": "CAMPTONS — The Camptons Cottage, cabin in Tannersville, NY",
+  "cardDescription": "Catskills cabin in Tannersville, NY near Hunter Mountain and Kaaterskill Falls, about 2 hours from NYC; sleeps 6, 3 bedrooms.",
+  "cardDescriptionSource": "https://www.camptons.com/property/the-camptons-cottage"
  },
  {
   "slug": "camptons-the-camptons-house",
@@ -51415,7 +51467,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "CAMPTONS — The Camptons House, cabin in Haines Falls, NY"
+  "photoAlt": "CAMPTONS — The Camptons House, cabin in Haines Falls, NY",
+  "cardDescription": "Catskills cabin in Haines Falls, NY near Hunter Mountain and Kaaterskill Falls, about 2 hours from NYC; sleeps 14, 7 bedrooms.",
+  "cardDescriptionSource": "https://www.camptons.com/property/the-camptons-house"
  },
  {
   "slug": "camptons-the-camptons-pod",
@@ -51508,7 +51562,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "CAMPTONS — The Camptons Pod, cabin in Haines Falls, NY"
+  "photoAlt": "CAMPTONS — The Camptons Pod, cabin in Haines Falls, NY",
+  "cardDescription": "One-bedroom Catskills cabin in Haines Falls, NY near Hunter Mountain and Kaaterskill Falls, about 2 hours from NYC; sleeps 2.",
+  "cardDescriptionSource": "https://www.camptons.com/property/the-camptons-pod"
  },
  {
   "slug": "candlelight-cottages-lakeside-hillside-cottages-and-log-cabi",
@@ -51602,7 +51658,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Candlelight Cottages — Lakeside, hillside cottages and log cabins, cabin in Bolton Landing, NY"
+  "photoAlt": "Candlelight Cottages — Lakeside, hillside cottages and log cabins, cabin in Bolton Landing, NY",
+  "cardDescription": "Lakeside and hillside cottages and log cabins on Lake George; the three-bedroom lakeshore cottage sits directly on the water and sleeps up to 9.",
+  "cardDescriptionSource": "https://www.candlelightcottages.com/lakeside-cottages/"
  },
  {
   "slug": "cape-ann-beach-cottages",
@@ -51674,7 +51732,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Shore",
-  "photoAlt": "Cape Ann Beach Cottages, house in Essex, MA"
+  "photoAlt": "Cape Ann Beach Cottages, house in Essex, MA",
+  "cardDescription": "Beach cottages for rent in Essex, MA, on Cape Ann.",
+  "cardDescriptionSource": "https://capeannbc.com/"
  },
  {
   "slug": "cape-cod-bay-cottage-east-sandwich",
@@ -53330,7 +53390,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Cottage (Prattsville), cabin in Prattsville, NY"
+  "photoAlt": "Catskill Cottage (Prattsville), cabin in Prattsville, NY",
+  "cardDescription": "Owner-run hillside cottage near Pratt Rock, close to Windham and Hunter ski areas, with porch and full kitchen; two bedrooms, weekend to seasonal.",
+  "cardDescriptionSource": "https://www.catskillcottages.com/index.html"
  },
  {
   "slug": "catskill-vacation-rentals-5-br-home-between-windham-platteki",
@@ -53424,7 +53486,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center, house in Gilboa, NY"
+  "photoAlt": "Catskill Vacation Rentals — 5 Br Home Between Windham Plattekill Ski Center, house in Gilboa, NY",
+  "cardDescription": "House on 10 acres in a quiet farming community, 8 minutes from Mine Kill State Park and 30 from Windham, Hunter and Belleayre; 5 bedrooms, large yard.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/gilboa-rentals/5-br-home-between-windham-plattekill-ski-center-flNEg"
  },
  {
   "slug": "catskill-vacation-rentals-belleayre-mountain-views",
@@ -53518,7 +53582,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Belleayre Mountain Views, house in Pine Hill, NY"
+  "photoAlt": "Catskill Vacation Rentals — Belleayre Mountain Views, house in Pine Hill, NY",
+  "cardDescription": "High-mountain log home with views of the Belleayre ski slopes, a 7-minute drive to the ski center; sleeps 8, 4 bedrooms, 2.5 bathrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/pine_hill-rentals/belleayre-mountain-views-VVwPu"
  },
  {
   "slug": "catskill-vacation-rentals-bellwood-cottage-8-14min-to-all-ro",
@@ -53612,7 +53678,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue, house in Roxbury, NY"
+  "photoAlt": "Catskill Vacation Rentals — Bellwood Cottage 8-14min to all Roxbury Wed Venue, house in Roxbury, NY",
+  "cardDescription": "Private-setting cottage with a rail-trail walk to downtown Roxbury and Kirkside Park, 20 to 40 minutes from four ski areas; sleeps 8, 3 bedrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/roxbury-rentals/bellwood-cottage-8-14min-to-all-roxbury-wed-venue-UWIli"
  },
  {
   "slug": "catskill-vacation-rentals-bluestone-log-cabin-barrel-sauna-e",
@@ -53706,7 +53774,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger, cabin in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Bluestone Log Cabin, Barrel Sauna, EV Charger, cabin in Margaretville, NY",
+  "cardDescription": "Log cabin on 6.5 wooded acres under 2 miles from Margaretville; wood stove, barrel sauna, fire pit, outdoor shower, EV charger; sleeps 5, 2 bedrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/bluestone-log-cabin-barrel-sauna-ev-charger-bexSM"
  },
  {
   "slug": "catskill-vacation-rentals-cabin-in-the-heart-of-the-catskill",
@@ -53800,7 +53870,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills, cabin in Arkville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Cabin in the Heart of the Catskills, cabin in Arkville, NY",
+  "cardDescription": "Family cabin in Arkville 13 minutes from Belleayre ski center and beach, with a main-floor bedroom and full bath; sleeps 9, 4 bedrooms, 2 bathrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/arkville-rentals/cabin-in-the-heart-of-the-catskills-ecLzl"
  },
  {
   "slug": "catskill-vacation-rentals-catskills-brookside-cottage",
@@ -53894,7 +53966,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Catskills Brookside Cottage, house in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Catskills Brookside Cottage, house in Margaretville, NY",
+  "cardDescription": "All-season cottage reached by a private bridge over a brook, on 2 secluded acres a 5-minute walk from Margaretville; sleeps 5, 3 bedrooms, 1 bathroom.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/catskills-brookside-cottage-DPVdF"
  },
  {
   "slug": "catskill-vacation-rentals-catskills-hillside-cottage-with-lo",
@@ -53988,7 +54062,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views, house in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Catskills Hillside Cottage with Lovely Views, house in Margaretville, NY",
+  "cardDescription": "Hillside cottage at the end of a long driveway near Margaretville, with wraparound deck, wood stove and mountain views; sleeps 4, 2 bedrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/catskills-hillside-cottage-with-lovely-views-QBExX"
  },
  {
   "slug": "catskill-vacation-rentals-catskills-retreat-hot-tub-atv-hiki",
@@ -54082,7 +54158,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing, house in Cairo, NY"
+  "photoAlt": "Catskill Vacation Rentals — Catskills retreat: Hot tub, ATV, hiking & fishing, house in Cairo, NY",
+  "cardDescription": "Contemporary home on 82 secluded acres in Cairo with river frontage on Catskill Creek and a hot tub; sleeps 16, 5 bedrooms, 4 bathrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/cairo-rentals/catskills-retreat-hot-tub-atv-hiking-fishing-KBYlJ"
  },
  {
   "slug": "catskill-vacation-rentals-cozy-catskill-mountain-cabin",
@@ -54176,7 +54254,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin, cabin in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Cozy Catskill Mountain Cabin, cabin in Margaretville, NY",
+  "cardDescription": "Cottage 15 minutes from Belleayre and 10 from Margaretville and Arkville; two ground-floor bedrooms and bath, one upstairs; 6 to 7 steps to enter.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskill-mountain-cabin-vWCEy"
  },
  {
   "slug": "catskill-vacation-rentals-cozy-catskills-a-frame-hideaway",
@@ -54270,7 +54350,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway, cabin in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Cozy Catskills A-frame hideaway, cabin in Margaretville, NY",
+  "cardDescription": "A-frame with mountain views, big deck, gas stove, movie projector and outdoor shower near Margaretville; dogs allowed; sleeps 5, 3 bedrooms, 1 bath.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/cozy-catskills-a-frame-hideaway-ojCOa"
  },
  {
   "slug": "catskill-vacation-rentals-cozy-spacious-cabin-with-kid-frien",
@@ -54364,7 +54446,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities, cabin in Roxbury, NY"
+  "photoAlt": "Catskill Vacation Rentals — Cozy Spacious Cabin With Kid Friendly Amenities, cabin in Roxbury, NY",
+  "cardDescription": "Three-bedroom, 2.5-bath cabin on 5 acres, 5 minutes from Roxbury and 15 from Plattekill ski mountain; deck, fire pit, kid-friendly amenities.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/roxbury-rentals/cozy-spacious-cabin-with-kid-friendly-amenities-DQjFP"
  },
  {
   "slug": "catskill-vacation-rentals-escape-to-serenity-18-acre-catskil",
@@ -54458,7 +54542,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat, house in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Escape to Serenity: 18-Acre Catskill Retreat, house in Margaretville, NY",
+  "cardDescription": "Renovated home on 18 acres in the New Kingston Valley with porch, back deck, hot tub, grill, fire pit and fireplace; sleeps 8, 4 bedrooms, 2.5 baths.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/escape-to-serenity-18-acre-catskill-retreat-SuabX"
  },
  {
   "slug": "catskill-vacation-rentals-fox-meadow-chalet-cozy-a-frame-w-h",
@@ -54552,7 +54638,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna, cabin in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Fox Meadow Chalet Cozy A-Frame w/ Hot Tub & Sauna, cabin in Margaretville, NY",
+  "cardDescription": "A-frame ski chalet on a private road with hot tub and sauna, minutes from the slopes; sleeps 7, 6 bedrooms, 3 bathrooms; one small dog with a fee.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/fox-meadow-chalet-cozy-a-frame-w-hot-tub-sauna-zxNnp"
  },
  {
   "slug": "catskill-vacation-rentals-lakeside-catskills-escape-soak-sip",
@@ -54646,7 +54734,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze, house in Cairo, NY"
+  "photoAlt": "Catskill Vacation Rentals — Lakeside Catskills Escape • Soak, Sip & Stargaze, house in Cairo, NY",
+  "cardDescription": "Lakeside house in Cairo, NY with a hot tub, bass fishing and kayaking; minutes from town and skiing. Sleeps 14, 5 bedrooms, 3 bathrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/cairo-rentals/lakeside-catskills-escape-soak-sip-stargaze-WSDML"
  },
  {
   "slug": "catskill-vacation-rentals-modern-lakeside-retreat-on-5-6-ups",
@@ -54740,7 +54830,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres, house in Delancey, NY"
+  "photoAlt": "Catskill Vacation Rentals — Modern Lakeside Retreat on 5.6 Upstate Acres, house in Delancey, NY",
+  "cardDescription": "Cabin on 5.6 acres in Delancey, NY, steps from a private lake with trails down to the water. Sleeps 5, 2 bedrooms, 1 bathroom; dogs allowed.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/delancey-rentals/modern-lakeside-retreat-on-56-upstate-acres-xbFKu"
  },
  {
   "slug": "catskill-vacation-rentals-modern-cabin-in-the-catskills",
@@ -54834,7 +54926,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Modern • Cabin in the Catskills, cabin in Margaretville, NY"
+  "photoAlt": "Catskill Vacation Rentals — Modern • Cabin in the Catskills, cabin in Margaretville, NY",
+  "cardDescription": "Industrial/Scandinavian-style cabin in Margaretville, NY, 15 minutes from Belleayre skiing; 4WD/AWD needed. Sleeps 3, 1 bedroom, 1 bathroom.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/margaretville-rentals/-modern-cabin-in-the-catskills--wbEFU"
  },
  {
   "slug": "catskill-vacation-rentals-private-cabin-retreat-on-10-acres",
@@ -54928,7 +55022,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres, cabin in Fleischmanns, NY"
+  "photoAlt": "Catskill Vacation Rentals — Private Cabin Retreat on 10 Acres, cabin in Fleischmanns, NY",
+  "cardDescription": "Cabin on a quiet mountain hillside down a private dirt road in Fleischmanns, NY, with wi-fi and a hammock. Sleeps 6, 3 bedrooms, 1 bathroom.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/fleischmanns-rentals/private-cabin-retreat-on-10-acres-rzsWj"
  },
  {
   "slug": "catskill-vacation-rentals-secret-catskill-cabin-spacious-hou",
@@ -55022,7 +55118,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views, cabin in Roxbury, NY"
+  "photoAlt": "Catskill Vacation Rentals — Secret Catskill Cabin: Spacious House w/Mtn Views, cabin in Roxbury, NY",
+  "cardDescription": "Secluded log cabin on a hilltop with 10+ acres in Roxbury, NY, with an open-concept kitchen. Sleeps 10, 3 bedrooms, 2 bathrooms; guests 25+.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/roxbury-rentals/secret-catskill-cabin-spacious-house-wmtn-views-UbLTy"
  },
  {
   "slug": "catskill-vacation-rentals-stunning-home-17-acres-in-the-cats",
@@ -55116,7 +55214,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains, house in Ashland, NY"
+  "photoAlt": "Catskill Vacation Rentals — Stunning home 17 acres in the Catskill Mountains, house in Ashland, NY",
+  "cardDescription": "House on 17 acres in Ashland, NY, 12 minutes from Windham Mountain; pool table, ping pong, theatre room. Sleeps 10, 4 bedrooms, 3 bathrooms.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/ashland-rentals/stunning-home-17-acres-in-the-catskill-mountains-iFhod"
  },
  {
   "slug": "catskill-vacation-rentals-waterfront-getaway-in-the-heart-of",
@@ -55210,7 +55310,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills, house in Phoenicia, NY"
+  "photoAlt": "Catskill Vacation Rentals — Waterfront Getaway In The Heart Of The Catskills, house in Phoenicia, NY",
+  "cardDescription": "Waterfront house in the heart of Main Street, Phoenicia, NY, near the town's shops and restaurants; self check-in, no cell service at the house.",
+  "cardDescriptionSource": "https://www.catskillvacation.rentals/phoenicia-rentals/waterfront-getaway-in-the-heart-of-the-catskills-yWghE"
  },
  {
   "slug": "catskills-cabin-retreat-catskills-house",
@@ -55299,7 +55401,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Catskills Cabin Retreat (catskills.house), cabin in West Kill, NY"
+  "photoAlt": "Catskills Cabin Retreat (catskills.house), cabin in West Kill, NY",
+  "cardDescription": "Three-bedroom log cabin on the mountainside in the Spruceton Valley, West Kill, NY, near Hunter and Windham, with land to walk and hiking nearby.",
+  "cardDescriptionSource": "https://www.catskills.house/"
  },
  {
   "slug": "central-1br-apartment-assembly-square-pool-gym-parking-sleep",
@@ -58808,7 +58912,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Northeast Kingdom",
-  "photoAlt": "Century 21 Farm & Forest, house in Derby, VT"
+  "photoAlt": "Century 21 Farm & Forest, house in Derby, VT",
+  "cardDescription": "Real estate agency in Derby, VT, covering Vermont's Northeast Kingdom; handles residential and commercial listings with 3D virtual tours.",
+  "cardDescriptionSource": "http://www.farmandforest.com/"
  },
  {
   "slug": "chambery-inn",
@@ -58880,7 +58986,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "The Berkshires",
-  "photoAlt": "Chambery Inn, house in Lee, MA"
+  "photoAlt": "Chambery Inn, house in Lee, MA",
+  "cardDescription": "Historic inn on a quiet Main Street in Lee, MA, with 500-square-foot suites, fireplaces, jetted tubs, breakfast baskets to the room and free bikes.",
+  "cardDescriptionSource": "https://chamberyinn.com/"
  },
  {
   "slug": "changes-in-latitude",
@@ -82709,7 +82817,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Chippewa View Cottages, cabin in Chippewa Bay, NY"
+  "photoAlt": "Chippewa View Cottages, cabin in Chippewa Bay, NY",
+  "cardDescription": "Cabin at 8 Denner Road in Chippewa Bay, NY.",
+  "cardDescriptionSource": "https://www.chippewaviewcottages.com/photos.html"
  },
  {
   "slug": "church-park-199-apartment-id-3728",
@@ -84784,7 +84894,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Hudson Valley",
-  "photoAlt": "Clove Cottages, cabin in High Falls, NY"
+  "photoAlt": "Clove Cottages, cabin in High Falls, NY",
+  "cardDescription": "Eight pet-friendly cottages on nine acres in High Falls, NY, each with kitchen, bathroom, porch, hammock, grill and parking; open May to November.",
+  "cardDescriptionSource": "https://www.clovecottages.com/"
  },
  {
   "slug": "coastal-acres-campground",
@@ -86226,7 +86338,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Conesus Lake Cottage, house in Conesus, NY"
+  "photoAlt": "Conesus Lake Cottage, house in Conesus, NY",
+  "cardDescription": "Newly built year-round cottage on Conesus Lake, NY, with windows facing the water and kayaks provided; 3 bedrooms, 2.5 bathrooms.",
+  "cardDescriptionSource": "https://www.conesuslakecottage.com/"
  },
  {
   "slug": "congdon-coleman-real-estate-1-rainbow-s-end",
@@ -120956,7 +121070,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Mount Snow",
-  "photoAlt": "Deerfield Valley Real Estate, house in West Dover, VT"
+  "photoAlt": "Deerfield Valley Real Estate, house in West Dover, VT",
+  "cardDescription": "Real estate firm at 183 Route 100 in West Dover, VT, near Mount Snow, handling residential, commercial and land sales in the Deerfield Valley.",
+  "cardDescriptionSource": "https://deerfieldvalleyrealestate.com/"
  },
  {
   "slug": "del-mar-vacations-minutes-to-nauset-beach-walk-to-water-ac-1",
@@ -182328,7 +182444,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins), cabin in Diamond Point, NY"
+  "photoAlt": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins), cabin in Diamond Point, NY",
+  "cardDescription": "Lakefront cabins on Lake George in Diamond Point, NY, with full kitchens, decks, a private beach and dock rentals; heat and AC. Sleeps 5, 2 bedrooms.",
+  "cardDescriptionSource": "https://adirondacklakesidecabins.com/cottages/"
  },
  {
   "slug": "dream-house",
@@ -192792,7 +192910,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Killington",
-  "photoAlt": "Earthwise Farm & Forest, house in Bethel, VT"
+  "photoAlt": "Earthwise Farm & Forest, house in Bethel, VT",
+  "cardDescription": "Small homestead farm in Bethel, VT, selling grass-fed raw milk, pasture-raised chicken and organic garlic, with on-farm workshops year-round.",
+  "cardDescriptionSource": "https://www.earthwisefarmandforest.com/"
  },
  {
   "slug": "east-gloucester",
@@ -203785,7 +203905,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Burtis Point – 3 Beds/2 Baths – East Side Owasco Lake -PET FRIENDLY Y, house in Owasco, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Burtis Point – 3 Beds/2 Baths – East Side Owasco Lake -PET FRIENDLY Y, house in Owasco, NY",
+  "cardDescription": "Renovated split-level house on the east side of Owasco Lake, NY, with a lakefront beach, kayaks and paddle board; 3 bedrooms, 2 baths; pets welcome.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/burtis-point-3-beds-2-baths-east-side-owasco-lake/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-e-lake-rd-3-beds-2-baths-ranch-la",
@@ -203880,7 +204002,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  E. Lake Rd- 3 Beds/2 Baths- Ranch – Lake Views/2 miles to Village Ska, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  E. Lake Rd- 3 Beds/2 Baths- Ranch – Lake Views/2 miles to Village Ska, house in Skaneateles, NY",
+  "cardDescription": "Remodeled 1,700-square-foot ranch with lake views in Skaneateles, NY, under 2 miles from the village; 3 bedrooms, 2 bathrooms, sleeps 6.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/e-lake-rd-3-beds-2-baths-ranch-lake-views-2-miles-to-village-skaneateles/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-east-lake-rd-5-bed-3-bath-skaneat",
@@ -203975,7 +204099,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  East lake Rd- 5 Bed/3+ Bath, Skaneateles Level Lakefront Your Finger, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  East lake Rd- 5 Bed/3+ Bath, Skaneateles Level Lakefront Your Finger, house in Skaneateles, NY",
+  "cardDescription": "Level lakefront house on the east side of Skaneateles Lake, NY, 1.5 miles from the village, with room to bring a boat; 5 bedrooms, 3+ bathrooms.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/east-lake-rd-5-bed-3-bath-level-lakefront/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-evans-lodge-6-bed-4-5-baths-1-5-m",
@@ -204070,7 +204196,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Evans Lodge-6 Bed/4.5 Baths-1.5 Miles to Village-Skaneateles-PET FRIE, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Evans Lodge-6 Bed/4.5 Baths-1.5 Miles to Village-Skaneateles-PET FRIE, house in Skaneateles, NY",
+  "cardDescription": "Lodge on 20+ acres with trails and a 7-acre pond, 1.5 miles from Skaneateles village, NY; 6 bedrooms, 4.5 baths, sleeps 14; pets welcome.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/opulently-appointed-evans-lodge-main-st-skaneateles-ny/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-finger-lakes-accomodations-with-s",
@@ -204165,7 +204293,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Finger Lakes Accomodations with Skaneateles Luxury Vacation Rentals Y, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Finger Lakes Accomodations with Skaneateles Luxury Vacation Rentals Y, house in Skaneateles, NY",
+  "cardDescription": "Newly renovated house in Skaneateles, NY, a 5 to 10 minute walk from the lake, with a gas fireplace and fenced yard; 3 bedrooms, 2 baths; pets ok.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/enjoy-luxury-accommodations-at-our-pet-friendly-main-street-skaneateles-rental/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-fisher-road-3-beds-2-baths-pet-fr",
@@ -204260,7 +204390,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Fisher Road – 3 Beds/2 Baths-PET FRIENDLY Your Finger Lakes Getaway i, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Fisher Road – 3 Beds/2 Baths-PET FRIENDLY Your Finger Lakes Getaway i, house in Skaneateles, NY",
+  "cardDescription": "House right on Owasco Lake, NY, with a wet bar and beverage fridge and dining seating for 6; 3 bedrooms, 2 bathrooms; pets welcome.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/fisher-road-3-beds-2-baths-pet-friendly/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-franklin-st-3-beds-2-1-2-baths-pe",
@@ -204355,7 +204487,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Franklin St -3 Beds/2 1/2 Baths- PET FRIENDLY/Fenced Yard – Walk to V, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Franklin St -3 Beds/2 1/2 Baths- PET FRIENDLY/Fenced Yard – Walk to V, house in Skaneateles, NY",
+  "cardDescription": "Renovated house in Skaneateles, NY, next to the Mirbeau Inn, a short walk from the village and lake; 3 bedrooms, 2.5 baths, fenced yard; pets ok.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/newly-renovated-3-bed-2bath-pet-friendly-home-walking-distance-to-village/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-hummingbird-manor-6-beds-6-1-2-ba",
@@ -204450,7 +204584,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Hummingbird Manor-6 Beds/6 1/2 Baths-1 1/4 Miles to Village-Skaneatel, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Hummingbird Manor-6 Beds/6 1/2 Baths-1 1/4 Miles to Village-Skaneatel, house in Skaneateles, NY",
+  "cardDescription": "Historic 4,500-square-foot colonial in Skaneateles, NY, 1.25 miles from the village, with dining for 8 to 10; 6 bedrooms, 6.5 baths; pets welcome.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/the-hummingbird-manor/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-lee-mulroy-3-beds-2-baths-pet-fri",
@@ -204545,7 +204681,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Lee Mulroy -3 Beds/2 Baths-PET FRIENDLY/Fence Yard – Close to Village, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Lee Mulroy -3 Beds/2 Baths-PET FRIENDLY/Fence Yard – Close to Village, house in Skaneateles, NY",
+  "cardDescription": "Renovated one-story ranch on the edge of Skaneateles, NY, with a fenced back yard and 65-inch smart TV; 3 bedrooms, 2 baths; pets welcome.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/lee-mulroy-road-skaneateles-ny/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-main-st-5-beds-4-baths-pet-friend",
@@ -204640,7 +204778,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Main St -5 Beds/4 Baths-PET FRIENDLY/Fenced Yard- 1 Mile to Village-S, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Main St -5 Beds/4 Baths-PET FRIENDLY/Fenced Yard- 1 Mile to Village-S, house in Skaneateles, NY",
+  "cardDescription": "Renovated house 1 mile from Skaneateles village, NY, with a back deck, fenced yard and main-level ensuite bedroom; 5 bedrooms, 4 baths; pets ok.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/main-st-5-beds-4-baths-1-mile-to-village-skaneateles-opening-july-2022/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-main-street-1-bed-1-bath-pet-frie",
@@ -204735,7 +204875,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Main Street -1 Bed/1 Bath PET FRIENDLY- Walk to Village Your Finger L, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Main Street -1 Bed/1 Bath PET FRIENDLY- Walk to Village Your Finger L, house in Skaneateles, NY",
+  "cardDescription": "Upstairs one-bedroom suite on Main Street in Skaneateles, NY, a mile from downtown, with an eat-in kitchen and sleeper sofa; 1 bath; pets welcome.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-one-bedroom-suite/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-main-street-2-beds-2-baths-pet-fr",
@@ -204830,7 +204972,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Main Street -2 Beds/2 Baths- PET FRIENDLY-1 Mile from Village Your Fi, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Main Street -2 Beds/2 Baths- PET FRIENDLY-1 Mile from Village Your Fi, house in Skaneateles, NY",
+  "cardDescription": "Two-bedroom suite on Main Street in Skaneateles, NY, 1 mile from the village, with a new eat-in kitchen, dining for 6 to 8 and sleeper sofa; pets ok.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-suite/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-main-street-carriage-house-2-beds",
@@ -204925,7 +205069,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Main Street Carriage House -2 Beds/2 Baths- PET FRIENDLY- 1 Mile from, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Main Street Carriage House -2 Beds/2 Baths- PET FRIENDLY- 1 Mile from, house in Skaneateles, NY",
+  "cardDescription": "Renovated carriage house on Main Street in Skaneateles, NY, a short walk from downtown, with radiant floor heat; sleeps 6, 2 bedrooms, 2 baths.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-carriage-house/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-newly-renovated-2bed-2-bath-pet-f",
@@ -205020,7 +205166,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Newly renovated 2bed/2 bath, pet friendly, easy walk to village! Your, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Newly renovated 2bed/2 bath, pet friendly, easy walk to village! Your, house in Skaneateles, NY",
+  "cardDescription": "Renovated 1,000-square-foot ranch in Skaneateles, NY, fully fenced, an easy walk from the village; sleeps 6, 2 bedrooms, 2 baths; pets welcome.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/newly-renovated-2bed-2-bath-pet-friendly-easy-walk-to-village/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-old-seneca-turnpike-3-bed-2-5-bat",
@@ -205115,7 +205263,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Old Seneca Turnpike -3 bed/2.5 bath PET FRIENDLY/Fenced Yard Your Fin, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Old Seneca Turnpike -3 bed/2.5 bath PET FRIENDLY/Fenced Yard Your Fin, house in Skaneateles, NY",
+  "cardDescription": "Ranch on about 3 acres in Skaneateles, NY, under 1.5 miles from downtown, with a fenced back yard, deck and parking; 3 bedrooms, 2.5 baths; pets ok.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/859-old-seneca-turnpike/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-old-seneca-turnpike-4-bed-3-bath-",
@@ -205210,7 +205360,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Old Seneca Turnpike – 4 bed/3 bath PET FRIENDLY/Fenced Yard Your Fing, house in Skaneateles, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Old Seneca Turnpike – 4 bed/3 bath PET FRIENDLY/Fenced Yard Your Fing, house in Skaneateles, NY",
+  "cardDescription": "Country house in Skaneateles, NY, with a fully stocked kitchen, open dining and living area, fireplace and fenced yard; 4 bedrooms, 3 baths; pets ok.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/853-old-seneca-turnpike/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-owasco-lake-vacation-rental",
@@ -205305,7 +205457,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Owasco Lake Vacation Rental, house in Owasco, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Owasco Lake Vacation Rental, house in Owasco, NY",
+  "cardDescription": "House right on the east side of Owasco Lake, NY, with lake views from the living room and a kitchen island seating 10; 3 bedrooms, 3 bathrooms.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/denman-cove-owasco-lake/"
  },
  {
   "slug": "fingerlakes-luxury-rentals-samuel-adams-estate-6-beds-4-5-ba",
@@ -205400,7 +205554,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Fingerlakes Luxury Rentals —  Samuel Adams Estate-6 Beds/4.5 Baths -6500 SF Level Lakefront – East, house in Owasco, NY"
+  "photoAlt": "Fingerlakes Luxury Rentals —  Samuel Adams Estate-6 Beds/4.5 Baths -6500 SF Level Lakefront – East, house in Owasco, NY",
+  "cardDescription": "Level lakefront 6,500-square-foot estate on the east side of Owasco Lake, NY, with a private beach and old stone fireplace; sleeps 14, 6 bedrooms.",
+  "cardDescriptionSource": "https://fingerlakesluxuryrentals.com/brand-new-to-the-rental-market-6500-sf-private-lakefront-estate-on-owasco-lake/"
  },
  {
   "slug": "first-light",
@@ -251039,7 +251195,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Killington",
-  "photoAlt": "Four Springs Farm, Campground & Learning Center, cabin in Royalton, VT"
+  "photoAlt": "Four Springs Farm, Campground & Learning Center, cabin in Royalton, VT",
+  "cardDescription": "Organic family farm in Royalton, VT, with cabins and tent sites for overnight farm stays, plus day visits and educational programs.",
+  "cardDescriptionSource": "https://www.fourspringsfarm.com/"
  },
  {
   "slug": "fowler-farmhouse",
@@ -263865,7 +264023,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Golden Eagle Lodge, cabin in Waterville Valley, NH"
+  "photoAlt": "Golden Eagle Lodge, cabin in Waterville Valley, NH",
+  "cardDescription": "Individually owned condominium suites with full kitchens in Waterville Valley, NH, one-bedroom to tower units; pool, hot tub, walk to village.",
+  "cardDescriptionSource": "https://goldeneaglelodge.com/"
  },
  {
   "slug": "golden-sands",
@@ -268377,7 +268537,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "The Berkshires",
-  "photoAlt": "Harbour House Inn Bed and Breakfast, house in Cheshire, MA"
+  "photoAlt": "Harbour House Inn Bed and Breakfast, house in Cheshire, MA",
+  "cardDescription": "Six-room 18th-century Georgian Colonial bed and breakfast in Cheshire, MA, with gourmet breakfast, wi-fi and gardens; MASS MoCA to the north.",
+  "cardDescriptionSource": "https://www.harbourhouseinn.com/"
  },
  {
   "slug": "harmon-s-beach-limit-5",
@@ -270548,7 +270710,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Hi-Da-Way Cottages, cabin in Alexandria Bay, NY"
+  "photoAlt": "Hi-Da-Way Cottages, cabin in Alexandria Bay, NY",
+  "cardDescription": "Furnished two-bedroom cottages in Alexandria Bay, NY, each with a fully equipped kitchen; up to 5 guests; some river views; bring your own linens.",
+  "cardDescriptionSource": "https://hi-da-way.com/the-cottages/"
  },
  {
   "slug": "hidden-hollow",
@@ -272293,7 +272457,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "The Hamptons",
-  "photoAlt": "Hither House Cottages, cabin in Montauk, NY"
+  "photoAlt": "Hither House Cottages, cabin in Montauk, NY",
+  "cardDescription": "Cottage colony in Montauk, NY, steps from the beach and minutes from the village; separate cottages, a sea-view unit and a guest suite, with kitchens.",
+  "cardDescriptionSource": "https://www.hitherhouse.com/"
  },
  {
   "slug": "hobble-inn-the-loft",
@@ -273008,7 +273174,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Hudson Valley",
-  "photoAlt": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature, house in Esopus, NY"
+  "photoAlt": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature, house in Esopus, NY",
+  "cardDescription": "Four-bedroom house in the woods of Esopus, NY, between Kingston and New Paltz, with a chef's kitchen, barbecue and air conditioning; up to 8 guests.",
+  "cardDescriptionSource": "https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/"
  },
  {
   "slug": "home-sweet-hudson-greycliff-mohonk-preserve-getaway",
@@ -273103,7 +273271,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Hudson Valley",
-  "photoAlt": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway, house in Gardiner, NY"
+  "photoAlt": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway, house in Gardiner, NY",
+  "cardDescription": "Four-bedroom house in Gardiner, NY, at the edge of the Mohonk Preserve with trails nearby; chef's kitchen, barbecue, air conditioning; up to 8 guests.",
+  "cardDescriptionSource": "https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/"
  },
  {
   "slug": "home-sweet-hudson-luna-cove-premier-hudson-valley-getaway",
@@ -273198,7 +273368,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Catskills",
-  "photoAlt": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway, house in Cairo, NY"
+  "photoAlt": "Home Sweet Hudson — Luna Cove: Premier Hudson Valley Getaway, house in Cairo, NY",
+  "cardDescription": "Seven-bedroom house in Cairo, NY, at the northern edge of the Catskills, with a basketball court, barbecue and air conditioning; up to 18 guests.",
+  "cardDescriptionSource": "https://homesweethudson.com/property/luna-cove-premier-hudson-valley-getaway/"
  },
  {
   "slug": "home-sweet-hudson-ridgeview-a-frame-stylish-kerhonkson-escap",
@@ -273293,7 +273465,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Hudson Valley",
-  "photoAlt": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape, house in Kerhonkson, NY"
+  "photoAlt": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape, house in Kerhonkson, NY",
+  "cardDescription": "Three-bedroom A-frame in the hills above Kerhonkson, NY, with mountain views, chef's kitchen and barbecue; up to 5 guests; pets by arrangement.",
+  "cardDescriptionSource": "https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/"
  },
  {
   "slug": "home-sweet-hudson-rondout-retreat-private-poolside-luxury",
@@ -273388,7 +273562,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Hudson Valley",
-  "photoAlt": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury, house in Rosendale, NY"
+  "photoAlt": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury, house in Rosendale, NY",
+  "cardDescription": "Three-bedroom house in Rosendale, NY, near Rondout Creek, with a private pool, hot tub, sauna, fire pit, gym and media room; up to 6 guests.",
+  "cardDescriptionSource": "https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/"
  },
  {
   "slug": "home-sweet-hudson-stony-kill-cabin-a-kerhonkson-getaway",
@@ -273483,7 +273659,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Hudson Valley",
-  "photoAlt": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway, cabin in Kerhonkson, NY"
+  "photoAlt": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway, cabin in Kerhonkson, NY",
+  "cardDescription": "Three-bedroom A-frame cabin by the Stony Kill in Kerhonkson, near Minnewaska and the Shawangunks, with a kitchen, barbecue and fire pit.",
+  "cardDescriptionSource": "https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/"
  },
  {
   "slug": "home-sweet-hudson-the-louie-ii-peaceful-accord-farmhouse",
@@ -273578,7 +273756,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Hudson Valley",
-  "photoAlt": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse, house in Accord, NY"
+  "photoAlt": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse, house in Accord, NY",
+  "cardDescription": "Three-bedroom farmhouse on a quiet road in Accord's Rondout Valley, with a hot tub, porch, gardens and a large yard, near Arrowood.",
+  "cardDescriptionSource": "https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/"
  },
  {
   "slug": "hopper-real-estate-campground-312",
@@ -287247,7 +287427,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 1, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 1, cabin in Mayville, NY",
+  "cardDescription": "Two-bedroom, one-bath cottage at Irwin Bay on Chautauqua Lake; sleeps 4, with a full kitchen and window AC, a short walk from the docks.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-1.html"
  },
  {
   "slug": "irwin-bay-cottages-cottage-2",
@@ -287341,7 +287523,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 2, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 2, cabin in Mayville, NY",
+  "cardDescription": "One-bedroom, one-bath cottage at Irwin Bay on Chautauqua Lake; sleeps 2, with a full kitchen, futon and window AC, a short walk to the docks.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-2.html"
  },
  {
   "slug": "irwin-bay-cottages-cottage-3",
@@ -287435,7 +287619,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 3, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 3, cabin in Mayville, NY",
+  "cardDescription": "Two-bedroom, one-bath cottage set among the gardens at Irwin Bay on Chautauqua Lake; sleeps 4, full kitchen, a short walk to the water.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-3.html"
  },
  {
   "slug": "irwin-bay-cottages-cottage-4",
@@ -287529,7 +287715,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 4, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 4, cabin in Mayville, NY",
+  "cardDescription": "Two-bedroom cottage with one bath among the Irwin Bay gardens on Chautauqua Lake; sleeps 4, full kitchen, window AC, near the docks.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-4.html"
  },
  {
   "slug": "irwin-bay-cottages-cottage-5",
@@ -287623,7 +287811,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 5, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 5, cabin in Mayville, NY",
+  "cardDescription": "Lakefront two-bedroom, one-bath cottage at Irwin Bay on Chautauqua Lake, a few steps from the water; sleeps 4, with full kitchen and window AC.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-5.html"
  },
  {
   "slug": "irwin-bay-cottages-cottage-6",
@@ -287717,7 +287907,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 6, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 6, cabin in Mayville, NY",
+  "cardDescription": "Lakefront three-bedroom, one-bath cottage at Irwin Bay on Chautauqua Lake, steps from the bay; sleeps 6, with a full kitchen and window AC.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-6.html"
  },
  {
   "slug": "irwin-bay-cottages-cottage-7",
@@ -287811,7 +288003,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 7, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 7, cabin in Mayville, NY",
+  "cardDescription": "Two-bedroom, one-bath cottage among the gardens at Irwin Bay, Chautauqua Lake; sleeps 4, full kitchen, window AC, short walk to the docks.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-7.html"
  },
  {
   "slug": "irwin-bay-cottages-cottage-8",
@@ -287905,7 +288099,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Chautauqua-Allegheny",
-  "photoAlt": "Irwin Bay Cottages — Cottage 8, cabin in Mayville, NY"
+  "photoAlt": "Irwin Bay Cottages — Cottage 8, cabin in Mayville, NY",
+  "cardDescription": "Two-bedroom cottage with one bath at Irwin Bay on Chautauqua Lake; sleeps 4, full kitchen, window AC and gas heater, a short walk to the water.",
+  "cardDescriptionSource": "https://irwinbaycottages.com/cottage-8.html"
  },
  {
   "slug": "island-home-realty-11-br-captain-morse-house-in-edgartown-11",
@@ -300406,7 +300602,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Island Shadows, house in Cape Vincent, NY"
+  "photoAlt": "Island Shadows, house in Cape Vincent, NY",
+  "cardDescription": "Summer house on the St. Lawrence River near the village of Cape Vincent, with waterfront sunsets and a protected deep-draft harbor for boat docking.",
+  "cardDescriptionSource": "https://www.islandshadows.com"
  },
  {
   "slug": "island-view-cottages-llc",
@@ -360055,7 +360253,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Lake Champlain",
-  "photoAlt": "Lake Champlain Escape Vermont, house in West Addison, VT"
+  "photoAlt": "Lake Champlain Escape Vermont, house in West Addison, VT",
+  "cardDescription": "House on Lake Champlain in West Addison with a beach; the main bedroom opens onto a deck overlooking the lake and the Adirondack Mountains.",
+  "cardDescriptionSource": "https://www.lakechamplainescape.com/"
  },
  {
   "slug": "lake-megunticook-vacation-rental",
@@ -360414,7 +360614,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Okemo & Ludlow",
-  "photoAlt": "Lake Rescue Chalet, house in Ludlow, VT"
+  "photoAlt": "Lake Rescue Chalet, house in Ludlow, VT",
+  "cardDescription": "Six-bedroom chalet on a wooded three-quarter-acre lot across a dirt road from Lake Rescue, 3 miles from Okemo; offered as a seasonal winter rental.",
+  "cardDescriptionSource": "http://www.vtskihouse.com/"
  },
  {
   "slug": "lake-salem-cottages",
@@ -604325,7 +604527,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Nantucket",
-  "photoAlt": "Maury People Sotheby’s International Realty, house in Unknown, MA"
+  "photoAlt": "Maury People Sotheby’s International Realty, house in Unknown, MA",
+  "cardDescription": "Nantucket real estate agency that also handles vacation rentals on the island, listed with the local chamber of commerce.",
+  "cardDescriptionSource": "https://www.maurypeople.com/"
  },
  {
   "slug": "maynards-in-maine",
@@ -623035,7 +623239,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Stowe",
-  "photoAlt": "Mountainside Resort At Stowe, house in Stowe, VT"
+  "photoAlt": "Mountainside Resort At Stowe, house in Stowe, VT",
+  "cardDescription": "Condos at an 88-unit resort in Stowe, each with a full kitchen, fireplace and private deck; shared indoor heated pool, hot tub, sauna, gym and tennis.",
+  "cardDescriptionSource": "https://mountainsideresort.com/"
  },
  {
   "slug": "mt-liberty-lodging",
@@ -623117,7 +623323,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Mt. Liberty Lodging, cabin in Lincoln, NH"
+  "photoAlt": "Mt. Liberty Lodging, cabin in Lincoln, NH",
+  "cardDescription": "Family-run cabins and motel rooms on the Pemigewasset River in Lincoln, near Franconia Notch, with screened porches, fire pits and a seasonal pool.",
+  "cardDescriptionSource": "https://www.mtlibertylodging.com/"
  },
  {
   "slug": "murray-vacation-rentals-chase-avenue-27b",
@@ -700090,7 +700298,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — Althea Corner, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — Althea Corner, house in Olcott, NY",
+  "cardDescription": "Three-bedroom house in Olcott with an open floor plan, full kitchen, yard and room for a boat trailer up to 25 feet; sleeps 6, near the marina.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/4331338/althea-corner"
  },
  {
   "slug": "olcott-vacation-rentals-the-albright-house",
@@ -700185,7 +700395,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — The Albright House, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — The Albright House, house in Olcott, NY",
+  "cardDescription": "Two-story, two-bedroom house in Olcott; upper deck off the main bedroom overlooks the harbor, front porch with rocking chairs; pets by arrangement.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/783207/the-albright-house"
  },
  {
   "slug": "olcott-vacation-rentals-the-fletcher-house",
@@ -700280,7 +700492,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — The Fletcher House, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — The Fletcher House, house in Olcott, NY",
+  "cardDescription": "Two-bedroom house in Olcott steps from the marina, with kitchen, open dining area, back yard with deck and charcoal grill; sleeps 5, pets by request.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/783616/the-fletcher-house"
  },
  {
   "slug": "olcott-vacation-rentals-the-franklin-house",
@@ -700375,7 +700589,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — The Franklin House, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — The Franklin House, house in Olcott, NY",
+  "cardDescription": "Two-bedroom house by the marina in Olcott with an open floor plan, reclining couches, kitchen with dishwasher and charcoal grill; pets by arrangement.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/783602/the-franklin-house"
  },
  {
   "slug": "olcott-vacation-rentals-the-hamilton-house",
@@ -700470,7 +700686,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — The Hamilton House, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — The Hamilton House, house in Olcott, NY",
+  "cardDescription": "One-bedroom cottage steps from the Olcott marina with covered porch facing the water, charcoal grill, picnic table, fire pit; sleeps 5, pets allowed.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/843054/the-hamilton-house"
  },
  {
   "slug": "olcott-vacation-rentals-the-harbor-house",
@@ -700565,7 +700783,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — The Harbor House, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — The Harbor House, house in Olcott, NY",
+  "cardDescription": "Five-bedroom house in Olcott, NY, offered through Olcott Vacation Rentals.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/783615/the-harbor-house"
  },
  {
   "slug": "olcott-vacation-rentals-the-tenbrook-house",
@@ -700660,7 +700880,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — The Tenbrook House, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — The Tenbrook House, house in Olcott, NY",
+  "cardDescription": "One-bedroom cottage directly across from Olcott Harbor, with a large living room, full kitchen and chest freezer; sleeps 5, pets by arrangement.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/783614/the-tenbrook-house"
  },
  {
   "slug": "olcott-vacation-rentals-wineries-anyone",
@@ -700754,7 +700976,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Niagara",
-  "photoAlt": "Olcott Vacation Rentals — Wineries Anyone, house in Olcott, NY"
+  "photoAlt": "Olcott Vacation Rentals — Wineries Anyone, house in Olcott, NY",
+  "cardDescription": "House in Olcott, NY, offered through Olcott Vacation Rentals.",
+  "cardDescriptionSource": "https://olcottrentals.com/en/4336133/wineries-anyone"
  },
  {
   "slug": "old-deerfield-treasure",
@@ -795634,7 +795858,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Purity Spring Resort, cabin in Madison, NH"
+  "photoAlt": "Purity Spring Resort, cabin in Madison, NH",
+  "cardDescription": "Family-run lake resort in Madison, between the White Mountains and Lakes Region, with cottages, condos, lodge rooms and year-round outdoor activities.",
+  "cardDescriptionSource": "https://www.purityspring.com/"
  },
  {
   "slug": "pvt-waterfront-deck-firepit-parking-close-to-salem",
@@ -796643,7 +796869,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Stowe",
-  "photoAlt": "RadFarm (formerly Humble Heart Homestead), house in Morrisville, VT"
+  "photoAlt": "RadFarm (formerly Humble Heart Homestead), house in Morrisville, VT",
+  "cardDescription": "House on a 3-acre regenerative micro-farm steps from the village of Morrisville, VT, where the farm sells food grown on its own soil.",
+  "cardDescriptionSource": "https://www.radfarm.org/"
  },
  {
   "slug": "radian-apartment-id-2947",
@@ -800269,7 +800497,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "River Rock Cottages, cabin in Alexandria Bay, NY"
+  "photoAlt": "River Rock Cottages, cabin in Alexandria Bay, NY",
+  "cardDescription": "Thousand Islands cottage rental in the heart of Alexandria Bay, minutes from Boldt Castle; sleeps 10.",
+  "cardDescriptionSource": "http://www.riverrockcottages.net/the-cottages/"
  },
  {
   "slug": "river-watch",
@@ -802194,7 +802424,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Rockledge Cabins & Retreats, cabin in Lake Clear, NY"
+  "photoAlt": "Rockledge Cabins & Retreats, cabin in Lake Clear, NY",
+  "cardDescription": "Rustic Adirondack cabins in Lake Clear, steps from the Rail Trail and near Saranac Lake, with a porch and free use of bikes, kayaks and kicksleds.",
+  "cardDescriptionSource": "https://www.rockledgeadk.com/"
  },
  {
   "slug": "rockport-house",
@@ -804769,7 +805001,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Shore",
-  "photoAlt": "Sally Webster Collection, house in Rockport, MA"
+  "photoAlt": "Sally Webster Collection, house in Rockport, MA",
+  "cardDescription": "Rooms in an 1832 colonial inn in the coastal village of Rockport, with automated self check-in and check-out and rooms refreshed during the stay.",
+  "cardDescriptionSource": "https://sallywebster.com/"
  },
  {
   "slug": "salt-shine-vacation-rentals",
@@ -907619,7 +907853,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 11, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 11, cabin in Hammond, NY",
+  "cardDescription": "Two-bedroom cabin at Schermerhorn Harbor in Hammond, NY.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-11/"
  },
  {
   "slug": "schermerhorn-harbor-cottages-cottage-12",
@@ -907708,7 +907944,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 12, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 12, cabin in Hammond, NY",
+  "cardDescription": "Two-bedroom cabin at Schermerhorn Harbor in Hammond, NY.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-12/"
  },
  {
   "slug": "schermerhorn-harbor-cottages-cottage-14",
@@ -907802,7 +908040,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 14, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 14, cabin in Hammond, NY",
+  "cardDescription": "Two-bedroom cabin at Schermerhorn Harbor in Hammond, NY.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-14/"
  },
  {
   "slug": "schermerhorn-harbor-cottages-cottage-17",
@@ -907896,7 +908136,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 17, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 17, cabin in Hammond, NY",
+  "cardDescription": "Waterfront cabin at Schermerhorn Harbor in Hammond with three bedrooms, made up with three queen beds and one double.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-17/"
  },
  {
   "slug": "schermerhorn-harbor-cottages-cottage-2",
@@ -907990,7 +908232,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 2, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 2, cabin in Hammond, NY",
+  "cardDescription": "Two-bedroom cabin at Schermerhorn Harbor in Hammond, set back in the woods, with two queens, two twins and a roomy family area; $950 to $1,650 a week.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-2/"
  },
  {
   "slug": "schermerhorn-harbor-cottages-cottage-3",
@@ -908084,7 +908328,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 3, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 3, cabin in Hammond, NY",
+  "cardDescription": "Two-bedroom cabin at Schermerhorn Harbor in Hammond with two queen beds, two twins and a roomy family area; not on the waterfront, but with a view.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-3/"
  },
  {
   "slug": "schermerhorn-harbor-cottages-cottage-4",
@@ -908178,7 +908424,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 4, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 4, cabin in Hammond, NY",
+  "cardDescription": "Two-bedroom cabin at Schermerhorn Harbor in Hammond with two queen beds, two twins and a roomy family area; set back from the water, with a view.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-4/"
  },
  {
   "slug": "schermerhorn-harbor-cottages-cottage-5",
@@ -908272,7 +908520,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 5, cabin in Hammond, NY"
+  "photoAlt": "Schermerhorn Harbor Cottages — Cottage 5, cabin in Hammond, NY",
+  "cardDescription": "Two-bedroom cabin at Schermerhorn Harbor in Hammond, more secluded in the woods, with two queen beds, two twin beds and a roomy family area.",
+  "cardDescriptionSource": "https://www.schermerhornharbor.com/cottage-5/"
  },
  {
   "slug": "school-house-cove-new-harbor-pemaquid",
@@ -910030,7 +910280,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "South Coast & Buzzards Bay",
-  "photoAlt": "Sea Space Fairhaven, house in Fairhaven, MA"
+  "photoAlt": "Sea Space Fairhaven, house in Fairhaven, MA",
+  "cardDescription": "Five clapboard cottages on Buzzards Bay in Fairhaven, each with a porch or deck and simple kitchen, a walk to the beach; closed 2026, back in 2027.",
+  "cardDescriptionSource": "http://seaspacefairhaven.com/"
  },
  {
   "slug": "sea-spray-cottages",
@@ -911351,7 +911603,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Cape Cod",
-  "photoAlt": "Seascape Vacation Rental — three-home compound, house in Dennis Port, MA"
+  "photoAlt": "Seascape Vacation Rental — three-home compound, house in Dennis Port, MA",
+  "cardDescription": "Oceanfront compound of three homes in Dennis Port with seven bedrooms, four bathrooms, an outdoor shower and 100 feet of private beach; sleeps 16.",
+  "cardDescriptionSource": "https://253oldwharf.com/"
  },
  {
   "slug": "seashore-property-management",
@@ -917459,7 +917713,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Shamrock Grove, cabin in Thornton, NH"
+  "photoAlt": "Shamrock Grove, cabin in Thornton, NH",
+  "cardDescription": "Family-run motel in Thornton off I-93, with rooms that adjoin into suites, a seasonal outdoor pool, breakfast baskets, country store and craft cidery.",
+  "cardDescriptionSource": "https://shamrockmotelnh.com/"
  },
  {
   "slug": "sharon-thoner-maine-rentals",
@@ -917809,7 +918065,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Pioneer Valley",
-  "photoAlt": "Shelburne Springs, house in Shelburne Falls, MA"
+  "photoAlt": "Shelburne Springs, house in Shelburne Falls, MA",
+  "cardDescription": "Resort hotel in Shelburne Falls, MA, listed by the Franklin County Chamber; rooms, rates and amenities not published on an accessible page.",
+  "cardDescriptionSource": "https://www.shelburnesprings.com/"
  },
  {
   "slug": "shin-pond-village",
@@ -918020,7 +918278,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Lake Champlain",
-  "photoAlt": "Shore Acres Inn & Restaurant, house in North Hero, VT"
+  "photoAlt": "Shore Acres Inn & Restaurant, house in North Hero, VT",
+  "cardDescription": "Lakeside inn on Lake Champlain in North Hero with lake-view rooms, a renovated 1880s farmhouse for weekly rentals and on-site restaurants.",
+  "cardDescriptionSource": "https://shoreacres.com/"
  },
  {
   "slug": "shore-cottage-nobleboro",
@@ -918298,7 +918558,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Fork",
-  "photoAlt": "Shorecrest Property Management — Greenport 67 Steps Beach House, house in Greenport, NY"
+  "photoAlt": "Shorecrest Property Management — Greenport 67 Steps Beach House, house in Greenport, NY",
+  "cardDescription": "Renovated three-bedroom house with 1.5 baths, fireplace and kitchen, steps from 67 Steps Beach in Greenport; large garden backs onto farm fields.",
+  "cardDescriptionSource": "https://shorecrestpm.com/greenport-67-steps-beach-house/"
  },
  {
   "slug": "shorecrest-property-management-mattituck-estate",
@@ -918392,7 +918654,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Fork",
-  "photoAlt": "Shorecrest Property Management — Mattituck Estate, house in Mattituck, NY"
+  "photoAlt": "Shorecrest Property Management — Mattituck Estate, house in Mattituck, NY",
+  "cardDescription": "Renovated 4,800 sq ft farmhouse-modern home on five secluded acres of lawn, meadow and woodland in Mattituck wine country, with new kitchen and baths.",
+  "cardDescriptionSource": "https://shorecrestpm.com/mattituck-estate/"
  },
  {
   "slug": "shorecrest-property-management-north-fork-waterfront",
@@ -918486,7 +918750,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Fork",
-  "photoAlt": "Shorecrest Property Management — North Fork Waterfront, house in Southold, NY"
+  "photoAlt": "Shorecrest Property Management — North Fork Waterfront, house in Southold, NY",
+  "cardDescription": "Newly built house with wrap-around decks and 120 feet of waterfront on Hashamomuck inlet; three bedrooms, 2.5 baths, handicapped accessible.",
+  "cardDescriptionSource": "https://shorecrestpm.com/north-fork-waterfront/"
  },
  {
   "slug": "shorecrest-property-management-peconic-bay-beach-front",
@@ -918580,7 +918846,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Fork",
-  "photoAlt": "Shorecrest Property Management — Peconic Bay Beach Front, house in Southold, NY"
+  "photoAlt": "Shorecrest Property Management — Peconic Bay Beach Front, house in Southold, NY",
+  "cardDescription": "Five-bedroom waterfront house steps from a private sandy beach on Peconic Bay; ensuite baths and a bunk room, laid out for large groups.",
+  "cardDescriptionSource": "https://shorecrestpm.com/peconic-bay-beach-front/"
  },
  {
   "slug": "shorecrest-property-management-shelter-bay-cove-waterfront",
@@ -918674,7 +918942,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Fork",
-  "photoAlt": "Shorecrest Property Management — Shelter Bay Cove Waterfront, house in Southold, NY"
+  "photoAlt": "Shorecrest Property Management — Shelter Bay Cove Waterfront, house in Southold, NY",
+  "cardDescription": "Restored 1920s house with 70 feet of waterfront on Shelter Bay; three bedrooms, two baths, fireplace, dock, small sandy beach, washer-dryer.",
+  "cardDescriptionSource": "https://shorecrestpm.com/shelter-bay-cove-waterfront/"
  },
  {
   "slug": "shorecrest-property-management-shorecrest-beach-house",
@@ -918768,7 +919038,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Fork",
-  "photoAlt": "Shorecrest Property Management — Shorecrest Beach House, house in Southold, NY"
+  "photoAlt": "Shorecrest Property Management — Shorecrest Beach House, house in Southold, NY",
+  "cardDescription": "Renovated beach house on the Long Island Sound shore in Southold, NY; kitchen overlooking the water, three bedrooms, two full baths.",
+  "cardDescriptionSource": "https://shorecrestpm.com/shorecrest-beach-house/"
  },
  {
   "slug": "simple-stay-property-management",
@@ -919122,7 +919394,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Finger Lakes",
-  "photoAlt": "Single Island Shores cottages, cabin in Hector, NY"
+  "photoAlt": "Single Island Shores cottages, cabin in Hector, NY",
+  "cardDescription": "Cottage on the east side of Seneca Lake in the Finger Lakes with lake views from every unit; one bedroom, sleeps 4.",
+  "cardDescriptionSource": "https://www.singleislandshores.com/"
  },
  {
   "slug": "single-level-old-town-apt-across-from-lee-mansion",
@@ -923894,7 +924168,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Sugar Hill Inn, cabin in Sugar Hill, NH"
+  "photoAlt": "Sugar Hill Inn, cabin in Sugar Hill, NH",
+  "cardDescription": "Family-run inn in the White Mountains of Sugar Hill, NH with guest rooms and cottages with private baths; dining and original art on site.",
+  "cardDescriptionSource": "https://sugarhillinn.com/"
  },
  {
   "slug": "summer-stuga",
@@ -924475,7 +924751,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge, cabin in Blue Mountain Lake, NY"
+  "photoAlt": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge, cabin in Blue Mountain Lake, NY",
+  "cardDescription": "Cottage with a front deck, picnic area and grill, and an eat-in kitchen with microwave; sleeps 4 to 6, rented by the week.",
+  "cardDescriptionSource": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge/"
  },
  {
   "slug": "sunset-beach-cottages-inlet-camp-big-moose",
@@ -924570,7 +924848,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Sunset Beach Cottages (Inlet) — Camp Big Moose, cabin in Big Moose, NY"
+  "photoAlt": "Sunset Beach Cottages (Inlet) — Camp Big Moose, cabin in Big Moose, NY",
+  "cardDescription": "Cottage among the trees, second from the lake and near the beach; eat-in kitchen with microwave; sleeps 4 to 6, rented by the week.",
+  "cardDescriptionSource": "https://www.sunsetonfourth.com/our-cottages/big-moose/"
  },
  {
   "slug": "sunset-beach-cottages-inlet-camp-fish-creek",
@@ -924665,7 +924945,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Sunset Beach Cottages (Inlet) — Camp Fish Creek, cabin in Inlet, NY"
+  "photoAlt": "Sunset Beach Cottages (Inlet) — Camp Fish Creek, cabin in Inlet, NY",
+  "cardDescription": "Small cabin in the trees in Inlet, NY, suited to a couple or a small family; sleeps 4, rented by the week.",
+  "cardDescriptionSource": "https://www.sunsetonfourth.com/our-cottages/camp-fish-creek/"
  },
  {
   "slug": "sunset-beach-cottages-inlet-limekiln-lake-lodge",
@@ -924760,7 +925042,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge, cabin in Inlet, NY"
+  "photoAlt": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge, cabin in Inlet, NY",
+  "cardDescription": "Year-round cottage in Inlet, NY with covered outdoor space, washer and dryer, wifi, fire pit, grill and hammock; sleeps 6 to 8.",
+  "cardDescriptionSource": "https://www.sunsetonfourth.com/our-cottages/limekiln-lake-lodge/"
  },
  {
   "slug": "sunset-beach-cottages-inlet-loon-lake-lodge",
@@ -924855,7 +925139,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge, cabin in Inlet, NY"
+  "photoAlt": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge, cabin in Inlet, NY",
+  "cardDescription": "Cottage in Inlet, NY with a screened-in porch, deck and family room with a queen pull-out sofa; two bedrooms, sleeps 4 to 6.",
+  "cardDescriptionSource": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge-2/"
  },
  {
   "slug": "sunset-beach-cottages-inlet-raquette-retreat",
@@ -924950,7 +925236,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "Sunset Beach Cottages (Inlet) — Raquette Retreat, cabin in Raquette Lake, NY"
+  "photoAlt": "Sunset Beach Cottages (Inlet) — Raquette Retreat, cabin in Raquette Lake, NY",
+  "cardDescription": "Waterfront cottage by the beach with views of Fourth Lake from a screened porch; two bedrooms, sleeps up to four.",
+  "cardDescriptionSource": "https://www.sunsetonfourth.com/our-cottages/raquette-retreat/"
  },
  {
   "slug": "sunset-cabins",
@@ -975209,7 +975497,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Fork",
-  "photoAlt": "Terrace Cottage Colony, cabin in Southold, NY"
+  "photoAlt": "Terrace Cottage Colony, cabin in Southold, NY",
+  "cardDescription": "Family-run cottages on the shore of Arshamomaque Creek in Southold, NY; one or two bedrooms, each with its own kitchen and porch; weekly or longer.",
+  "cardDescriptionSource": "https://terracecottagecolony.com/"
  },
  {
   "slug": "the-1827-house",
@@ -979100,7 +979390,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Lakes Region",
-  "photoAlt": "The Cottages of Wolfeboro, cabin in Wolfeboro, NH"
+  "photoAlt": "The Cottages of Wolfeboro, cabin in Wolfeboro, NH",
+  "cardDescription": "Year-round pet-friendly cottages near downtown Wolfeboro, NH and Lake Winnipesaukee.",
+  "cardDescriptionSource": "https://cottagesnh.com/"
  },
  {
   "slug": "the-cove",
@@ -979375,7 +979667,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "North Shore",
-  "photoAlt": "The Cove at Rockport, house in Rockport, MA"
+  "photoAlt": "The Cove at Rockport, house in Rockport, MA",
+  "cardDescription": "Waterfront property in Rockport, MA with rooms, suites and apartments with furnished kitchens.",
+  "cardDescriptionSource": "https://www.coveatrockport.com/"
  },
  {
   "slug": "the-crimson-cocoa-chalet",
@@ -980054,7 +980348,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House, house in Lake Luzerne, NY"
+  "photoAlt": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House, house in Lake Luzerne, NY",
+  "cardDescription": "Former church near the beach and play area in Lake Luzerne, NY, now two three-bedroom cottages with knotty pine lofts; kayaks and rowboats.",
+  "cardDescriptionSource": "https://elmscottages.com/adirondack-beach-house-3/"
  },
  {
   "slug": "the-elms-waterfront-cottages-lodge-chief-tiosaronda",
@@ -980148,7 +980444,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda, cabin in Lake Luzerne, NY"
+  "photoAlt": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda, cabin in Lake Luzerne, NY",
+  "cardDescription": "Cabin in Lake Luzerne, NY at The Elms Waterfront Cottages & Lodge.",
+  "cardDescriptionSource": "https://elmscottages.com/chief-tiosaronda/"
  },
  {
   "slug": "the-elms-waterfront-cottages-lodge-mccarthy-farmhouse",
@@ -980242,7 +980540,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Saratoga",
-  "photoAlt": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse, house in Corinth, NY"
+  "photoAlt": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse, house in Corinth, NY",
+  "cardDescription": "Historic 3,400 sq ft farmhouse in Corinth, NY; three queen bedrooms, full bath, enclosed porch with sofa bed; discounted Elms beach and boats.",
+  "cardDescriptionSource": "https://elmscottages.com/joseph-mccarthy-veronica-lake-farmhouse/"
  },
  {
   "slug": "the-elms-waterfront-cottages-lodge-mcmaster-house",
@@ -980336,7 +980636,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "The Elms Waterfront Cottages & Lodge — McMaster House, house in Lake Luzerne, NY"
+  "photoAlt": "The Elms Waterfront Cottages & Lodge — McMaster House, house in Lake Luzerne, NY",
+  "cardDescription": "Suite at the rear of the house at the entrance to The Elms in Lake Luzerne, NY, with a deck and sun porch; kayaks, rowboats and SUP boards on site.",
+  "cardDescriptionSource": "https://elmscottages.com/mcmaster-house/"
  },
  {
   "slug": "the-elms-waterfront-cottages-lodge-waterfront-cottages",
@@ -980430,7 +980732,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "The Elms Waterfront Cottages & Lodge — Waterfront cottages, cabin in Lake Luzerne, NY"
+  "photoAlt": "The Elms Waterfront Cottages & Lodge — Waterfront cottages, cabin in Lake Luzerne, NY",
+  "cardDescription": "Cottages at the water's edge or beach in Lake Luzerne, NY; full kitchen, two bedrooms, screened porch or deck, campfire area; private beach and boats.",
+  "cardDescriptionSource": "https://elmscottages.com/cottages-and-suites/"
  },
  {
   "slug": "the-even-tide-resort-cottages",
@@ -982272,7 +982576,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "The Innstead Mountain Getaway, cabin in Pike, NH"
+  "photoAlt": "The Innstead Mountain Getaway, cabin in Pike, NH",
+  "cardDescription": "Eight all-season cabins on 2,000 private acres in Pike, NH with mountain views, hiking, biking and ski trails, campfires, wifi; two hours to Boston.",
+  "cardDescriptionSource": "https://theinnsteadgetaway.com/"
  },
  {
   "slug": "the-island-agency-rentals",
@@ -982486,7 +982792,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Killington",
-  "photoAlt": "The Killington Group, house in Killington, VT"
+  "photoAlt": "The Killington Group, house in Killington, VT",
+  "cardDescription": "House in Killington, VT.",
+  "cardDescriptionSource": "https://www.killingtongroup.com/"
  },
  {
   "slug": "the-lake-house-nobleboro",
@@ -985774,7 +986082,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Great North Woods",
-  "photoAlt": "The Partridge Cabins & Lodge, cabin in Pittsburg, NH"
+  "photoAlt": "The Partridge Cabins & Lodge, cabin in Pittsburg, NH",
+  "cardDescription": "Year-round cabins in Pittsburg, NH at First Connecticut Lake with full kitchens; open since 1975 for snowmobiling, fishing, hunting and hiking.",
+  "cardDescriptionSource": "https://partridgecabins.com/"
  },
  {
   "slug": "the-patio-cabins",
@@ -987325,7 +987635,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "South Coast & Buzzards Bay",
-  "photoAlt": "The Salt House Marion, house in Marion, MA"
+  "photoAlt": "The Salt House Marion, house in Marion, MA",
+  "cardDescription": "Renovated 1950s cottage in Marion, MA with a private white-sand beach on Buzzards Bay; two bedrooms, sleeps 4; 20 minutes from the Bourne Bridge.",
+  "cardDescriptionSource": "https://www.thesalthousemarion.com/"
  },
  {
   "slug": "the-satanic-suite",
@@ -998907,7 +999219,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Thousand Islands Marina Cottages — Americana Cottage, cabin in Cape Vincent, NY"
+  "photoAlt": "Thousand Islands Marina Cottages — Americana Cottage, cabin in Cape Vincent, NY",
+  "cardDescription": "Cabin at Thousand Islands Marina in Cape Vincent, NY; 2 bedrooms.",
+  "cardDescriptionSource": "https://www.thousandislandsmarina.com/Accommodations/AmericanaCottage.html"
  },
  {
   "slug": "thousand-islands-marina-cottages-gone-fishing-cottage",
@@ -999001,7 +999315,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Thousand Islands Marina Cottages — Gone Fishing Cottage, cabin in Cape Vincent, NY"
+  "photoAlt": "Thousand Islands Marina Cottages — Gone Fishing Cottage, cabin in Cape Vincent, NY",
+  "cardDescription": "Cabin at Thousand Islands Marina in Cape Vincent, NY; 2 bedrooms.",
+  "cardDescriptionSource": "https://www.thousandislandsmarina.com/Accommodations/GoneFishingCottage.html"
  },
  {
   "slug": "thousand-islands-marina-cottages-remington-s-bunkhouse",
@@ -999095,7 +999411,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Thousand Islands Marina Cottages — Remington's Bunkhouse, cabin in Cape Vincent, NY"
+  "photoAlt": "Thousand Islands Marina Cottages — Remington's Bunkhouse, cabin in Cape Vincent, NY",
+  "cardDescription": "Cabin at Thousand Islands Marina in Cape Vincent, NY.",
+  "cardDescriptionSource": "https://www.thousandislandsmarina.com/Accommodations/RemingtonsBunkhouse.html"
  },
  {
   "slug": "thousand-islands-marina-cottages-southern-comfort-cottage",
@@ -999189,7 +999507,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Thousand Islands Marina Cottages — Southern Comfort Cottage, cabin in Cape Vincent, NY"
+  "photoAlt": "Thousand Islands Marina Cottages — Southern Comfort Cottage, cabin in Cape Vincent, NY",
+  "cardDescription": "Cabin at Thousand Islands Marina in Cape Vincent, NY; 2 bedrooms.",
+  "cardDescriptionSource": "https://www.thousandislandsmarina.com/Accommodations/SouthernComfortCottage.html"
  },
  {
   "slug": "thousand-islands-marina-cottages-sunset-cottage",
@@ -999283,7 +999603,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Thousand Islands Marina Cottages — Sunset Cottage, cabin in Cape Vincent, NY"
+  "photoAlt": "Thousand Islands Marina Cottages — Sunset Cottage, cabin in Cape Vincent, NY",
+  "cardDescription": "Cabin at Thousand Islands Marina in Cape Vincent, NY; 2 bedrooms.",
+  "cardDescriptionSource": "https://www.thousandislandsmarina.com/Accommodations/SunsetCottage.html"
  },
  {
   "slug": "thousand-islands-marina-cottages-the-captain-s-quarters",
@@ -999377,7 +999699,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Thousand Islands Marina Cottages — The Captain's Quarters, cabin in Cape Vincent, NY"
+  "photoAlt": "Thousand Islands Marina Cottages — The Captain's Quarters, cabin in Cape Vincent, NY",
+  "cardDescription": "Cabin at Thousand Islands Marina in Cape Vincent, NY; 1 bedroom.",
+  "cardDescriptionSource": "https://www.thousandislandsmarina.com/Accommodations/TheCaptainsQuartersCottage.html"
  },
  {
   "slug": "three-birds-farm-cottages",
@@ -1001470,7 +1001794,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Lakes Region",
-  "photoAlt": "Trailside Stays, cabin in Dorchester, NH"
+  "photoAlt": "Trailside Stays, cabin in Dorchester, NH",
+  "cardDescription": "Small cabins in the woods of Dorchester, NH with queen beds, kitchenettes, private bathrooms and fiber internet; access to Green Woodlands trails.",
+  "cardDescriptionSource": "https://www.trailsidestays.com/"
  },
  {
   "slug": "trainor-camp-limit-4",
@@ -1076935,7 +1077261,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Mount Snow",
-  "photoAlt": "Vermontvacation4U, house in West Dover, VT"
+  "photoAlt": "Vermontvacation4U, house in West Dover, VT",
+  "cardDescription": "Rental management company in West Dover, VT with homes across southern Vermont; listings note lake access, golf course and VAST trail access.",
+  "cardDescriptionSource": "https://vermontvacation4u.com/"
  },
  {
   "slug": "via-apartment-id-1041",
@@ -1080387,7 +1080715,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "White Mountains",
-  "photoAlt": "Waterville Valley Resort, house in Waterville Valley, NH"
+  "photoAlt": "Waterville Valley Resort, house in Waterville Valley, NH",
+  "cardDescription": "Resort in Waterville Valley, NH with Town Square condominium lodging; 125 miles of hiking trails and five White Mountain 4,000-footers.",
+  "cardDescriptionSource": "https://www.waterville.com/"
  },
  {
   "slug": "webhannet-by-the-sea",
@@ -1081391,7 +1081721,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "The Hamptons",
-  "photoAlt": "Westhampton Vacation Rentals — Waterfront Estate, house in Westhampton, NY"
+  "photoAlt": "Westhampton Vacation Rentals — Waterfront Estate, house in Westhampton, NY",
+  "cardDescription": "Secluded house on three waterfront acres in Westhampton, NY; heated pool, hot tub, dock with kayaks on Beaverdam Creek; four bedrooms, sleeps 10.",
+  "cardDescriptionSource": "https://www.westhamptonvacations.com/"
  },
  {
   "slug": "westview-limit-8",
@@ -1082200,7 +1082532,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Thousand Islands",
-  "photoAlt": "Whiskey River Cottages, cabin in Clayton, NY"
+  "photoAlt": "Whiskey River Cottages, cabin in Clayton, NY",
+  "cardDescription": "Waterfront cottages on the St. Lawrence River in Clayton, NY; king beds, full kitchens, modern bathrooms and decks with river views.",
+  "cardDescriptionSource": "http://www.whiskeyrivercottages.com/accommodations"
  },
  {
   "slug": "white-elephant-nantucket",
@@ -1082633,7 +1082967,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "White Pine Camp — Cabin 1, cabin in Paul Smiths, NY"
+  "photoAlt": "White Pine Camp — Cabin 1, cabin in Paul Smiths, NY",
+  "cardDescription": "Cabin less than 100 feet from the lake in Paul Smiths, NY; fireplaces in living room and queen bedroom, kitchen, bunk room, enclosed porch.",
+  "cardDescriptionSource": "https://www.whitepinecamp.com/cabin1pics.html"
  },
  {
   "slug": "white-pine-camp-cabin-2",
@@ -1082727,7 +1083063,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "White Pine Camp — Cabin 2, cabin in Paul Smiths, NY"
+  "photoAlt": "White Pine Camp — Cabin 2, cabin in Paul Smiths, NY",
+  "cardDescription": "Cabin less than 100 feet from the lake in Paul Smiths, NY; fireplaces in living room and queen bedroom, kitchen, curtained bunk room, covered porch.",
+  "cardDescriptionSource": "https://www.whitepinecamp.com/cabin2pics.html"
  },
  {
   "slug": "white-pine-camp-cabin-3",
@@ -1082821,7 +1083159,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "White Pine Camp — Cabin 3, cabin in Paul Smiths, NY"
+  "photoAlt": "White Pine Camp — Cabin 3, cabin in Paul Smiths, NY",
+  "cardDescription": "Cabin less than 100 feet from the lake in Paul Smiths, NY; fireplaces in living room and queen bedroom, kitchen, single-bed room, covered porch.",
+  "cardDescriptionSource": "https://www.whitepinecamp.com/cabin3pics.html"
  },
  {
   "slug": "white-pine-camp-gardener-s-cottage",
@@ -1082915,7 +1083255,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "White Pine Camp — Gardener's Cottage, cabin in Paul Smiths, NY"
+  "photoAlt": "White Pine Camp — Gardener's Cottage, cabin in Paul Smiths, NY",
+  "cardDescription": "Cottage near the property entrance in Paul Smiths, NY with woodstove, dining room and kitchen; three bedrooms, one full and one half bath.",
+  "cardDescriptionSource": "https://www.whitepinecamp.com/gardenercottagepics.html"
  },
  {
   "slug": "white-pine-camp-gate-cottage",
@@ -1083009,7 +1083351,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Adirondacks",
-  "photoAlt": "White Pine Camp — Gate Cottage, cabin in Paul Smiths, NY"
+  "photoAlt": "White Pine Camp — Gate Cottage, cabin in Paul Smiths, NY",
+  "cardDescription": "Cottage at the property entrance in Paul Smiths, NY, about 600 feet from the lake; woodstove, kitchen, three bedrooms, two full baths.",
+  "cardDescriptionSource": "https://www.whitepinecamp.com/gatehousepics.html"
  },
  {
   "slug": "wicked-moose-cabin",
@@ -1152051,7 +1152395,9 @@
   "checked": "Unknown",
   "alive": "Unknown",
   "destination": "Okemo & Ludlow",
-  "photoAlt": "William Raveis Vermont Properties, house in Ludlow, VT"
+  "photoAlt": "William Raveis Vermont Properties, house in Ludlow, VT",
+  "cardDescription": "Real estate agency in Ludlow, VT offering seasonal rentals of Okemo Mountain and Okemo Valley condos and homes and Ludlow village homes.",
+  "cardDescriptionSource": "https://www.vtprop.com/"
  },
  {
   "slug": "wilsons-on-moosehead-lake",
