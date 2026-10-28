@@ -258,7 +258,7 @@
     return '<svg viewBox="0 0 24 24" aria-hidden="true">' + paths[kind] + '</svg>';
   }
   function factRows(h, inline) {
-    var fields = [['guests', 'Guests'], ['bedrooms', 'Bedrooms'], ['bathrooms', 'Bathrooms'], ['pets', 'Pets'], ['kids', 'Children']];
+    var fields = [['guests', 'Sleeps'], ['bathrooms', 'Bathrooms'], ['pets', 'Pets'], ['kids', 'Children']];   // sleeps, never bedrooms
     var rows = fields.filter(function (f) { return known(h[f[0]]); }).map(function (f) {
       var value = h[f[0]], isPolicy = f[0] === 'pets' || f[0] === 'kids';
       var display = isPolicy ? value === 'Yes' ? '✓' : value === 'No' ? '×' : '?' : value;
@@ -295,7 +295,7 @@
   function madeBadge() { return '<a class="ps-claim-badge ps-made-badge" href="https://lazy.vacations/start/" target="_blank" rel="noopener" aria-label="Made with LAZY — get your free website"><img class="ps-claim-badge__logo" src="favicon.ico" alt="" width="20" height="20"><span>Made with LAZY</span></a>'; }
   /* The opened card: what the host's site does not say, named, so the guest knows to ask. */
   function unknownsLine(h) {
-    var gaps = [['guests', 'how many it sleeps'], ['bedrooms', 'bedrooms'], ['bathrooms', 'bathrooms'], ['pets', 'pets'], ['kids', 'children'], ['type', 'the type of home']]
+    var gaps = [['guests', 'how many it sleeps'], ['bathrooms', 'bathrooms'], ['pets', 'pets'], ['kids', 'children'], ['type', 'the type of home']]
       .filter(function (f) { return !known(h[f[0]]); }).map(function (f) { return f[1]; });
     var ask = ['pets', 'kids'].filter(function (k) { return h[k] === 'Conditional'; }).map(function (k) { return k === 'kids' ? 'children' : k; });
     if (!gaps.length && !ask.length) return '';
