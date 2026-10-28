@@ -6,12 +6,15 @@ name: pages
 on:
   push:
     branches: [main]
+    paths-ignore: ['images/**']   # photos are not published from here; a photo-only push does not rebuild the site
   workflow_dispatch:
 permissions:
   contents: read
   pages: write
   id-token: write
-concurrency: pages
+concurrency:
+  group: pages
+  cancel-in-progress: false   # a running deploy finishes; only queued runs are replaced
 jobs:
   publish:
     runs-on: ubuntu-latest
