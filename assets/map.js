@@ -846,12 +846,13 @@
     buildPlaceIndex();
     homes.forEach(function (h) { var town = h.town || h.place.split(',')[0]; if (h.marker && known(town) && town.length <= 40 && town.indexOf('/') < 0 && town.toLowerCase() !== 'other') mapAreaPoints.push({ name: town, lat: h.lat, lng: h.lng }); });
     var featuredHomes = homes.filter(function (h) { return h.featured; });
-    var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && photoSet(h).length; });
+    var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && (h.loaded ? photoSet(h).length : h.hasPhoto); });
     for (var i = homePool.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), temp = homePool[i]; homePool[i] = homePool[j]; homePool[j] = temp; }
     // Keep complete facts first; the shuffle above only randomizes equal-score homes.
     homePool.sort(function (a, b) { return featureCompleteness(b) - featureCompleteness(a); });
     var homeSelection = featuredHomes.concat(homePool.slice(0, Math.max(0, 100 - featuredHomes.length)));
     landingFeatured.innerHTML = homeSelection.map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Stays are coming soon.</p>';
+    hydrate(landingFeatured);
     if (initialPlace) rememberSearch();
     popularDestinations();
     /* Open on the mainland: Hawaii in the same view zooms the map out past the edge of the tiles. */

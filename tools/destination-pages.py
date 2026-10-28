@@ -22,7 +22,10 @@ homes = json.loads((SITE / 'index.json').read_text())
 # a home's photos, text and link live in data/homes/<id>.json and load when its card is on screen.
 LIGHT = ['id', 'name', 'place', 'town', 'state', 'destination', 'type', 'recordType', 'guests', 'bedrooms', 'bathrooms',
          'kids', 'pets', 'lat', 'lng', 'featured', 'demo', 'locationLabel']
-light = lambda h: {k: h[k] for k in LIGHT if k in h}
+def light(h):
+    row = {k: h[k] for k in LIGHT if k in h}
+    row['hasPhoto'] = bool(h.get('cardPhotos') or h.get('coverPhoto') or h.get('photos') or (h.get('photo') and 'photo-unknown' not in h['photo']))
+    return row
 detail = lambda h: {k: v for k, v in h.items() if k not in LIGHT}
 compact = lambda rows: json.dumps(rows, ensure_ascii=False, separators=(',', ':'))
 (SITE / 'data' / 'homes').mkdir(parents=True, exist_ok=True)
