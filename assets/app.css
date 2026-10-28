@@ -158,7 +158,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .app--cards .app-list { padding: 0 var(--gutter) 40px; }
 .app--cards .ps-results-group { margin-bottom: 28px; }
 .app--cards .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 26px; }
-.app--cards.app--tiny .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 18px; }
+.app--cards.app--tiny .ps-results-grid { grid-template-columns: repeat(auto-fill, minmax(248px, 1fr)); gap: 18px; }
 .ps-home { display: flex; min-width: 0; flex-direction: column; overflow: hidden; border-radius: 18px; background: white; border: 1px solid var(--line); box-shadow: 0 3px 12px #17363c08; }
 .ps-home--featured { border: 2px solid var(--coral); }
 .ps-gallery { display: grid; position: relative; grid-template-columns: 1fr 1fr; gap: 3px; background: var(--line); }
@@ -176,10 +176,10 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home__facts svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .ps-home__facts .ps-fact { display: inline-flex; align-items: center; gap: 4px; }
 .ps-home__facts .ps-fact__value { font-size: 12px; font-weight: 650; }
-.ps-card .ps-home__facts { margin: 4px 12px 0; min-height: 0; padding: 9px 0 0; gap: 5px; flex-wrap: nowrap; overflow: hidden; border-bottom: 0; }
+.ps-card .ps-home__facts { margin: 4px 12px 0; min-height: 0; padding: 9px 0 12px; gap: 5px; flex-wrap: nowrap; overflow: hidden; border-bottom: 0; }
 .ps-card .ps-home__facts svg { width: 14px; height: 14px; color: var(--mute); }
 .ps-card .ps-home__facts .ps-fact__value { font-size: 11px; }
-.ps-home--tiny .ps-home__facts { min-height: 40px; gap: 6px 9px; padding: 9px 0; }
+.ps-home--tiny .ps-home__facts { min-height: 40px; gap: 6px 9px; padding: 9px 0; flex-wrap: nowrap; overflow: hidden; }
 .ps-home--tiny .ps-home__facts svg { width: 16px; height: 16px; }
 .ps-home--tiny .ps-home__facts dd { font-size: 11px; }
 .ps-home__facts dd { font-size: 13px; margin: 0; font-weight: 650; }
