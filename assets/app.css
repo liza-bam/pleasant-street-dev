@@ -4,7 +4,7 @@
 @font-face { font-family: "Lobster"; font-weight: 400; font-display: swap; src: url(fonts/lobster-latin.woff2) format("woff2"); }
 :root {
   --water: #74e3d1; --ink: #17363c; --mute: #5a6f70; --green: #057d7b; --teal: #2fa18c;
-  --tint: #fff; --line: #e4e7e6; --white: #fff; --coral: #f9426f; --coral-action: #ea073f;
+  --tint: #fff; --line: #e4e7e6; --white: #fff; --coral: #f9426f; --coral-action: #ea073f; --on-red: #fff;   /* text and icons on the red are always white */
   --serif: "Noto Serif", serif; --script: "Lobster", cursive;
   /* The page column: header, search, filters and cards share one left and right edge on wide screens. */
   --gutter: max(24px, calc((100vw - 1440px) / 2));
@@ -125,7 +125,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-card:hover { box-shadow: var(--shadow-up); }
 .ps-card--featured { position: relative; border: 2px solid var(--coral); }
 .ps-card__featured { position: absolute; top: 10px; left: 10px; padding: 4px 9px; border-radius: 999px;
-                     background: var(--coral-action); color: var(--white); font-size: 12px; font-weight: 700; z-index: 1; }
+                     background: var(--coral-action); color: var(--on-red); font-size: 12px; font-weight: 700; z-index: 1; }
 .ps-featured-pin { background: transparent; border: 0; }
 .ps-featured-pin svg { display: block; filter: drop-shadow(0 2px 2px rgba(13, 43, 46, .25)); }
 .ps-featured-pin__shape { fill: var(--coral); stroke: white; stroke-width: 1.5; }
@@ -138,11 +138,15 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .leaflet-popup-content { margin: 10px 12px; }
 .ps-card__missing { margin: 8px 12px 10px; font-size: 13px; color: var(--mute); font-style: italic; }
 .ps-card__photo { position: relative; }
+.ps-card__photo-link, .ps-gallery-link { display: block; color: inherit; text-decoration: none; cursor: pointer; }
 .leaflet-control-zoom .leaflet-disabled { color: #8a8a8a; }
 .ps-card__photo > .ps-gallery__pending { display: block; width: 100%; aspect-ratio: 560 / 350; }
 .ps-more { display: block; width: 100%; min-height: 44px; margin: 4px 0 12px; border: 1px solid var(--line); border-radius: 999px; background: white; font: inherit; font-size: 14px; color: var(--ink); cursor: pointer; }
 .ps-card__open { position: absolute; z-index: 2; bottom: 8px; right: 8px; display: flex; align-items: center; justify-content: center;
-                 width: 34px; height: 34px; border-radius: 50%; background: var(--coral-action); color: white; box-shadow: 0 2px 7px #17363c33; }
+                 width: 34px; height: 34px; border-radius: 50%; background: var(--coral-action); color: var(--on-red); box-shadow: 0 2px 7px #17363c33; }
+/* THE RED. Everything drawn on the action red — the card arrow, the Featured badge, the Search button, a selected cluster, a hovered Open website — uses --on-red. */
+.ps-card__open, .ps-card__featured, .ps-search__submit, .app-cluster--hover, .app-cluster--selected, .ps-action--primary:hover:not(:focus):not(:active) { color: var(--on-red); }
+.ps-card__open svg, .ps-search__submit svg, .ps-action--primary:hover:not(:focus):not(:active) svg { stroke: var(--on-red); }
 .ps-card__open:hover { filter: brightness(1.1); }
 .ps-card__open svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; }
 /* Groups collapse independently without changing the map pins or result count. */
@@ -185,8 +189,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home { display: flex; min-width: 0; flex-direction: column; overflow: hidden; border-radius: 18px; background: white; border: 1px solid var(--line); box-shadow: 0 3px 12px #17363c08; }
 .ps-home--featured { border: 2px solid var(--coral); }
 .ps-gallery { display: grid; position: relative; grid-template-columns: 1fr 1fr; gap: 3px; background: var(--line); }
-.ps-gallery > img, .ps-gallery__pending { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; min-width: 0; }
-.ps-gallery > img:first-of-type, .ps-gallery > .ps-gallery__pending:first-child { grid-column: 1 / -1; aspect-ratio: 1.8; }
+.ps-gallery > img, .ps-gallery > .ps-gallery-link, .ps-gallery > .ps-gallery-link > img, .ps-gallery__pending { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; min-width: 0; }
+.ps-gallery > img:first-of-type, .ps-gallery > .ps-gallery-link:first-child, .ps-gallery > .ps-gallery-link:first-child > img, .ps-gallery > .ps-gallery__pending:first-child { grid-column: 1 / -1; aspect-ratio: 1.8; }
 .ps-gallery__pending { display: grid; place-items: center; font-size: 12px; color: var(--mute); background: #eef4f0; }
 .ps-home__body { flex: 1; padding: 17px 20px 20px; display: flex; flex-direction: column; }
 .ps-home__place { margin: 0 0 5px; font-size: 12px; color: var(--mute); }
@@ -225,7 +229,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 /* A tap or retained keyboard focus stays neutral; coral is true mouse hover only. */
 .ps-action--primary:active { border-color: #a8b5ad; background: #c9d3cc; color: var(--ink); }
 @media (hover: hover) and (pointer: fine) {
-  .ps-action--primary:hover:not(:focus):not(:active) { border-color: var(--coral-action); background: var(--coral-action); color: white; }
+  .ps-action--primary:hover:not(:focus):not(:active) { border-color: var(--coral-action); background: var(--coral-action); color: var(--on-red); }
 }
 @media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
   .ps-home:not(.ps-home--detail), .ps-card { transition: transform .32s cubic-bezier(.2, 1.6, .4, 1), box-shadow .22s ease; }
@@ -382,7 +386,8 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .ps-home--detail .ps-photo-platforms { display: flex; }   /* the full card shows everything we have */
   .ps-photo-strip { display: flex; width: 100%; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; }
   .ps-photo-strip::-webkit-scrollbar { display: none; }
-  .ps-photo-strip > img, .ps-photo-strip > .ps-gallery__pending { flex: 0 0 100%; width: 100%; min-width: 0; aspect-ratio: 1.8; object-fit: cover; scroll-snap-align: start; }
+  .ps-photo-strip > img, .ps-photo-strip > .ps-gallery-link, .ps-photo-strip > .ps-gallery__pending { flex: 0 0 100%; width: 100%; min-width: 0; aspect-ratio: 1.8; object-fit: cover; scroll-snap-align: start; }
+  .ps-photo-strip > .ps-gallery-link > img { display: block; width: 100%; aspect-ratio: 1.8; object-fit: cover; }
   .ps-photo-count { position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); display: flex; gap: 6px; padding: 4px 7px; border-radius: 999px; background: #17363c38; pointer-events: none; }
   .ps-photo-count[hidden] { display: none; }
   .ps-photo-count > span { width: 6px; height: 6px; border-radius: 50%; background: #ffffff80; }
@@ -436,7 +441,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-search__footer { display: flex; flex: none; align-items: center; justify-content: space-between; gap: 20px; padding: 12px 16px; border-top: 1px solid var(--line); background: white; }
 .ps-search__footer button { min-height: 48px; font: 14px var(--serif); cursor: pointer; }
 #ps-search-clear { border: 0; background: none; color: var(--ink); text-decoration: underline; }
-.ps-search__submit { display: flex; align-items: center; justify-content: center; gap: 9px; min-width: 136px; padding: 0 22px; border: 0; border-radius: 13px; background: var(--coral-action); color: white; }
+.ps-search__submit { display: flex; align-items: center; justify-content: center; gap: 9px; min-width: 136px; padding: 0 22px; border: 0; border-radius: 13px; background: var(--coral-action); color: var(--on-red); }
 .ps-search__submit svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 1.7; }
 @media (prefers-reduced-motion: reduce) {
   .app-results { transition: none !important; animation: none !important; }
