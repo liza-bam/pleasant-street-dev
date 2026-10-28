@@ -235,7 +235,11 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app-brand-bar { display: none; }
   .app-floating-controls { position: absolute; top: 10px; left: 50%; transform: translateX(-50%); width: calc(100% - 24px); max-width: 420px; display: grid; gap: 8px; pointer-events: none; }
   .app-floating-controls > * { pointer-events: auto; }
-  .app--cards .app-body { padding-top: 64px; }
+  /* Cards on phone: the search and the control pill are part of the page, one under the other, above the list —
+     not floating over it. The sticky header keeps them on top while the list scrolls. (Map keeps them floating.) */
+  .app--cards .app-floating-controls { position: static; transform: none; margin: 8px auto 0; gap: 6px; }
+  .app--cards .app-header { padding-bottom: 6px; background: var(--tint); }
+  .app--cards .app-body { padding-top: 4px; }
   .app.app--sheet-expanded:not(.app--cards) .app-floating-controls { top: 66px; }
   .app.app--sheet-expanded:not(.app--cards) .app-list { padding-top: 54px; }
   .app { height: auto; min-height: 100dvh; grid-template-rows: auto auto; align-content: start; }
