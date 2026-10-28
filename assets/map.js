@@ -819,7 +819,9 @@
   /* The homes: index.json, written from the database by tools/build-index.mjs. GitHub Pages sends a
      10-minute max-age and an ETag; the default fetch cache mode uses that instead of revalidating on
      every navigation (a reload, or returning after 10 minutes, still gets the current file). */
-  fetch(map.getContainer().dataset.src || 'index.json').then(function (r) { return r.json(); }).then(function (list) {
+  // The locations file is fetched with the same version stamp as this script, so a release never reads a cached older shape.
+  var assetVersion = (Array.prototype.slice.call(document.scripts).map(function (x) { return x.src; }).find(function (u) { return /map\.js\?v=/.test(u); }) || '').split('v=')[1] || '';
+  fetch((map.getContainer().dataset.src || 'data/pins.json') + '?v=' + assetVersion).then(function (r) { return r.json(); }).then(function (list) {
     homes = list.filter(function (h) { return !pageDestination || h.destination === pageDestination; }).sort(function (a, b) {
       return Number(b.featured === true) - Number(a.featured === true) || featureCompleteness(b) - featureCompleteness(a) || a.name.localeCompare(b.name);
     }).map(function (h) {
