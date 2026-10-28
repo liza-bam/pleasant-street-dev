@@ -77,10 +77,10 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .ps-dest__name { font-size: clamp(26px, 3.2vw, 36px); text-align: center; }
   .ps-dest__count { display: block; text-align: center; }
 }
-/* Phone (760px and down): thin strip behind the floating search; name on the left; count hidden (it sat behind the control pill). */
+/* Phone (760px and down): thin strip above the search; centered name; count hidden (it sat behind the control pill). */
 @media (max-width: 760px) {
-  .ps-dest { padding: 4px 16px 5px; text-align: left; }
-  .ps-dest__name { font-size: 24px; text-align: left; }
+  .ps-dest { padding: 4px 16px 5px; text-align: center; }
+  .ps-dest__name { font-size: 24px; text-align: center; }
   .ps-dest__count { display: none; }
 }
 .app-destinations { display: flex; align-items: center; gap: 8px; padding: 10px 16px; overflow-x: auto; white-space: nowrap; background: #f7fcfa; border-bottom: 1px solid var(--line); scrollbar-width: thin; }
