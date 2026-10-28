@@ -264,18 +264,18 @@
     if (!h.featured && !h.demo) return '';
     return '<span class="ps-card__featured">' + (h.featured ? 'Featured' : '') + (h.featured && h.demo ? ' · ' : '') + (h.demo ? 'Demo' : '') + '</span>';
   }
-  function cardOpenLink(h) {
-    return '<a class="ps-action ps-action--primary ps-card__open" href="' + esc(h.url) + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>';
+  function cardOpenOverlay(h) {
+    return '<a class="ps-card__open" href="' + esc(h.url) + '" target="_blank" rel="noopener" aria-label="Open ' + esc(h.name) + '’s website"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>';
   }
-  /* One home: its picture, name and place, selectable to open its pin on the map; Open website is its own button. */
+  /* One home: its picture, name and place, selectable to open its pin on the map; Open website sits over the photo. */
   function card(h, missing, selectable) {
     var tag = selectable ? 'button' : 'div';
     return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" data-property="' + esc(h.id) + '"><' + tag + ' class="ps-card__select-body"' +
       (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on the map"' : '') + '>' +
-      listingBadge(h) +
-      '<img src="' + esc(src(h.photo)) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' +
+      '<div class="ps-card__photo">' + listingBadge(h) +
+      '<img src="' + esc(src(h.photo)) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' + cardOpenOverlay(h) + '</div>' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
-      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + cardOpenLink(h) + (h.featured ? madeBadge() : '') + '</article>';
+      (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + (h.featured ? madeBadge() : '') + '</article>';
   }
   /* The map pin (or, when its marker is clustered, the circle standing in for it) for one home: coral while
      its card is hovered, and while it is the open popup from a card click. */

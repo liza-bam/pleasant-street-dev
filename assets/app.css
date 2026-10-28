@@ -120,7 +120,12 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-popup--featured .leaflet-popup-content-wrapper { border: 2px solid var(--coral); }
 .ps-popup--featured .ps-card--featured { border: 0; }
 .leaflet-popup-content { margin: 10px 12px; }
-.ps-card__missing { margin: -4px 12px 10px; font-size: 13px; color: var(--mute); font-style: italic; }
+.ps-card__missing { margin: 8px 12px 10px; font-size: 13px; color: var(--mute); font-style: italic; }
+.ps-card__photo { position: relative; }
+.ps-card__open { position: absolute; z-index: 2; bottom: 8px; right: 8px; display: flex; align-items: center; justify-content: center;
+                 width: 34px; height: 34px; border-radius: 50%; background: var(--coral-action); color: white; box-shadow: 0 2px 7px #17363c33; }
+.ps-card__open:hover { filter: brightness(1.1); }
+.ps-card__open svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 2; }
 /* Groups collapse independently without changing the map pins or result count. */
 .ps-results-group { margin-bottom: 20px; }
 .ps-results-group summary { display: flex; position: static; z-index: 2; align-items: center; gap: 10px; padding: 12px 0; margin-bottom: 12px; border-bottom: 1px solid var(--line); background: var(--tint); cursor: pointer; list-style: none; font-size: 16px; font-weight: 700; }
@@ -131,7 +136,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-results-group__count { padding: 2px 8px; border-radius: 999px; background: var(--line); color: var(--green); font-size: 12px; }
 .ps-results-group--featured .ps-results-group__count { background: #ffddd7; color: #8f3e34; }
 .ps-results-group__note { margin: 0 0 16px; font-size: 12px; color: var(--mute); }
-.ps-results-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; align-items: stretch; }
+.ps-results-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(206px, 1fr)); gap: 12px; align-items: stretch; }
 /* The circles: how many homes are there; they split into pins as the map zooms in. */
 .app-cluster { display: grid; place-items: center; border-radius: 50%; background: var(--green); color: var(--white);
                border: 3px solid var(--white); box-shadow: var(--shadow); font-weight: 700; font-size: 14px; }
@@ -171,9 +176,9 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-home__facts svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .ps-home__facts .ps-fact { display: inline-flex; align-items: center; gap: 4px; }
 .ps-home__facts .ps-fact__value { font-size: 12px; font-weight: 650; }
-.ps-card .ps-home__facts { margin: 4px 12px 0; min-height: 0; padding: 9px 0 0; gap: 7px 10px; border-bottom: 0; }
-.ps-card__open { margin: auto 12px 12px; }
-.ps-card .ps-home__facts svg { width: 17px; height: 17px; color: var(--mute); }
+.ps-card .ps-home__facts { margin: 4px 12px 0; min-height: 0; padding: 9px 0 0; gap: 5px; flex-wrap: nowrap; overflow: hidden; border-bottom: 0; }
+.ps-card .ps-home__facts svg { width: 14px; height: 14px; color: var(--mute); }
+.ps-card .ps-home__facts .ps-fact__value { font-size: 11px; }
 .ps-home--tiny .ps-home__facts { min-height: 40px; gap: 6px 9px; padding: 9px 0; }
 .ps-home--tiny .ps-home__facts svg { width: 16px; height: 16px; }
 .ps-home--tiny .ps-home__facts dd { font-size: 11px; }
@@ -185,7 +190,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-platform { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 30px; background: #fffffff2; border: 1px solid #ffffffb3; box-shadow: 0 1px 4px #17363c20; border-radius: 7px; }
 .ps-platform img { width: 18px; height: 18px; }
 .ps-platform--vrbo img { width: 26px; height: 16px; object-fit: contain; }
-.ps-home__missing { line-height: 1.4; font-size: 11px; color: var(--mute); margin: 10px 0 0; }
+.ps-home__missing { line-height: 1.4; font-size: 11px; color: var(--mute); margin: 14px 0 0; }
 .ps-home__ask-address { margin: 2px 0 0; font-size: 11px; line-height: 1.4; color: var(--mute); }
 .ps-home__actions { margin-top: auto; display: grid; grid-template-columns: 1fr; gap: 8px; padding-top: 16px; }
 .ps-action { display: flex; align-items: center; justify-content: center; gap: 6px; min-height: 48px; padding: 12px 10px; border-radius: 8px; font: inherit; font-size: 13px; font-weight: 650; text-decoration: none; cursor: pointer; }
