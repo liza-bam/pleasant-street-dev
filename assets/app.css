@@ -357,11 +357,17 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app.app--detail-open:not(.app--cards) .app-results { left: 12px; right: 12px; bottom: max(12px, env(safe-area-inset-bottom)); height: var(--sheet-height, 28%); min-height: 0; max-height: calc(100% - 24px); border-radius: 20px; background: white; animation: ps-card-arrive .22s ease-out; }
   .app.app--detail-open:not(.app--cards) .ps-sheet-handle { display: flex; height: 48px; min-height: 48px; padding-top: 16px; }
   .app--detail-open .ps-sheet-count { display: none; }
-  .app--detail-peek .ps-selected__content { overflow-y: hidden; }
+  .app--detail-peek .ps-selected__content { overflow-y: hidden; touch-action: none; }
   .app.app--detail-open.app--sheet-expanded:not(.app--cards) .app-results { inset: 0; height: 100%; max-height: 100%; border-radius: 0; }
   .app--detail-open .ps-selected { position: relative; display: flex; flex: 1; flex-direction: column; min-height: 0; overflow: hidden; }
   .ps-selected__toolbar { position: absolute; top: 10px; right: 10px; left: 10px; z-index: 3; display: flex; justify-content: flex-end; }
-  .ps-selected__toolbar > span, #ps-selected-back { display: none; }
+  .ps-selected__toolbar > span { display: none; }
+  /* A selected home takes the whole screen: no search, filters or band; back on the left, close on the right; its actions pinned at the bottom. */
+  .app--detail-open .app-floating-controls, .app--detail-open .ps-dest, .app--detail-open .app-destinations { display: none; }
+  .app.app--detail-open.app--sheet-expanded:not(.app--cards) .ps-sheet-handle { display: none; }
+  .app--detail-open .ps-selected__toolbar { justify-content: space-between; }
+  .ps-selected__tools { display: flex; gap: 8px; }
+  .app--detail-open .ps-home--detail .ps-home__actions { position: sticky; bottom: 0; z-index: 2; margin-top: auto; padding-bottom: max(12px, env(safe-area-inset-bottom)); background: white; }
   .ps-selected__toolbar button { display: grid; place-items: center; width: 38px; height: 38px; border: 1px solid #17363c12; border-radius: 50%; background: #fffffff5; color: var(--ink); box-shadow: var(--shadow); cursor: pointer; }
   .ps-selected__toolbar svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.8; }
   .ps-selected__content { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior-y: contain; }

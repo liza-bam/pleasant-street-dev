@@ -383,7 +383,7 @@
     app.style.setProperty('--sheet-height', (sheetRatio * 100) + '%');
     app.classList.toggle('app--sheet-collapsed', sheetRatio < 0.24);
     app.classList.toggle('app--sheet-expanded', sheetRatio >= 0.99);
-    app.classList.toggle('app--detail-peek', !!selectedHome && sheetRatio < 0.55);
+    app.classList.toggle('app--detail-peek', !!selectedHome && sheetRatio < 0.99);
     if (sheetRatio < 0.8) mapHeaderCompact = false;
     syncCompactHeader();
     sheetHandle.setAttribute('aria-label', selectedHome ? 'Property card height' : 'Results panel height');
@@ -391,21 +391,28 @@
     sheetHandle.setAttribute('aria-valuenow', Math.round(sheetRatio * 100));
     sheetHandle.setAttribute('aria-valuetext', (selectedHome ? 'Property card ' : 'Results panel ') + Math.round(sheetRatio * 100) + '% open');
   }
-  sheetHandle.addEventListener('pointerdown', function (e) {
+  function startSheetDrag(e, el) {
     if (e.button !== 0 || !phoneLayout.matches || view !== 'map') return;
     sheetDrag = { id: e.pointerId, y: e.clientY, height: resultsEl.getBoundingClientRect().height, ratio: sheetRatio };
-    sheetHandle.setPointerCapture(e.pointerId);
+    el.setPointerCapture(e.pointerId);
     app.classList.add('app--sheet-dragging');
     e.preventDefault();
-  });
-  sheetHandle.addEventListener('pointermove', function (e) {
+  }
+  function moveSheetDrag(e) {
     if (!sheetDrag || e.pointerId !== sheetDrag.id) return;
     setSheetRatio((sheetDrag.height + sheetDrag.y - e.clientY) / bodyEl.clientHeight);
-  });
+  }
+  sheetHandle.addEventListener('pointerdown', function (e) { startSheetDrag(e, sheetHandle); });
+  sheetHandle.addEventListener('pointermove', moveSheetDrag);
+  // A selected home's card: until it fills the screen, dragging anywhere on it grows it instead of scrolling it.
+  selectedBody.addEventListener('pointerdown', function (e) { if (selectedHome && sheetRatio < 0.99 && !e.target.closest('a, button')) startSheetDrag(e, selectedBody); });
+  selectedBody.addEventListener('pointermove', moveSheetDrag);
+  selectedBody.addEventListener('pointerup', endSheetDrag);
+  selectedBody.addEventListener('pointercancel', function () { sheetDrag = null; app.classList.remove('app--sheet-dragging'); });
   function endSheetDrag(e) {
     if (!sheetDrag || e.pointerId !== sheetDrag.id) return;
     var delta = e.clientY - sheetDrag.y, start = sheetDrag.ratio;
-    var stops = selectedHome ? [0.28, 0.72, 1] : [0.12, 0.48, 1];
+    var stops = selectedHome ? [0.28, 0.5, 1] : [0.12, 0.48, 1];
     var next = stops.reduce(function (best, stop) { return Math.abs(stop - sheetRatio) < Math.abs(best - sheetRatio) ? stop : best; }, stops[0]);
     if (Math.abs(delta) < 4) next = sheetRatio < stops[1] - 0.05 ? stops[1] : sheetRatio < 0.95 ? 1 : stops[0];
     else if (Math.abs(delta) > 35 && Math.abs(next - start) < 0.05) next = delta > 0 ? stops.filter(function (s) { return s < start - 0.05; }).pop() || stops[0] : stops.find(function (s) { return s > start + 0.05; }) || 1;
@@ -447,7 +454,7 @@
     selectedBody.scrollTop = 0;
     selectedEl.hidden = false; listEl.hidden = true;
     app.classList.add('app--detail-open');
-    setSheetRatio(0.28);
+    setSheetRatio(0.5);
     map.closePopup();
     frameSelected();
     selectedClose.focus({ preventScroll: true });
@@ -462,6 +469,12 @@
     setHighlight(h, 'selected', true);
   }
   document.getElementById('ps-selected-back').addEventListener('click', function () { closeSelected(false); });
+  document.getElementById('ps-selected-share').addEventListener('click', function () {
+    if (!selectedHome) return;
+    var data = { title: selectedHome.name, text: selectedHome.name + ' — ' + selectedHome.place, url: selectedHome.url };
+    if (navigator.share) navigator.share(data).catch(function () {});
+    else if (navigator.clipboard) navigator.clipboard.writeText(selectedHome.url);
+  });
   selectedClose.addEventListener('click', function () { closeSelected(true); });
   document.addEventListener('keydown', function (e) {
     if (e.key !== 'Escape') return;
