@@ -14405,6 +14405,1166 @@
   "destination": "North Shore"
  },
  {
+  "slug": "adirondack-diamond-point-lodge-cardinal",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0087",
+  "name": "Adirondack Diamond Point Lodge — cardinal",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/cardinal/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/cardinal/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": 1,
+  "capacityDetails": "1",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0087-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0087-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0087-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0087-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0087-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 1. Sleeps 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0087-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-chickadee",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0088",
+  "name": "Adirondack Diamond Point Lodge — chickadee",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/chickadee/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/chickadee/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0088-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0088-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0088-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0088-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0088-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0088-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-cottontail-cabin",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0089",
+  "name": "Adirondack Diamond Point Lodge — cottontail-cabin",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/cottontail-cabin/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/cottontail-cabin/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0089-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0089-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0089-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0089-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0089-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0089-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-eagles-nest",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0090",
+  "name": "Adirondack Diamond Point Lodge — eagles-nest",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/eagles-nest/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/eagles-nest/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 3,
+  "capacityDetails": "3",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0090-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0090-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0090-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0090-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0090-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 3. Sleeps 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0090-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-jay",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0091",
+  "name": "Adirondack Diamond Point Lodge — jay",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/jay/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/jay/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0091-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0091-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0091-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0091-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0091-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0091-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-kestral",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0092",
+  "name": "Adirondack Diamond Point Lodge — kestral",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/kestral/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/kestral/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": 1,
+  "capacityDetails": "1",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0092-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0092-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0092-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0092-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0092-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 1. Sleeps 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0092-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-kinglet",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0093",
+  "name": "Adirondack Diamond Point Lodge — kinglet",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/kinglet/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/kinglet/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": 1,
+  "capacityDetails": "1",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0093-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0093-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0093-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0093-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0093-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 1. Sleeps 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0093-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-moose-cabin",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0094",
+  "name": "Adirondack Diamond Point Lodge — moose-cabin",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/moose-cabin/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/moose-cabin/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0094-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0094-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0094-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0094-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0094-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0094-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-nuthatch",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0095",
+  "name": "Adirondack Diamond Point Lodge — nuthatch",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/nuthatch/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/nuthatch/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0095-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0095-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0095-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0095-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0095-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0095-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adirondack-diamond-point-lodge-otter-cabin",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0096",
+  "name": "Adirondack Diamond Point Lodge — otter-cabin",
+  "url": "https://adirondackdiamondpointlodge.com/cabins/otter-cabin/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondackdiamondpointlodge.com/cabins/otter-cabin/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0096-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0096-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0096-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0096-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0096-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "3629 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "3629 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondackdiamondpointlodge.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondackdiamondpointlodge.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Adirondack Diamond Point Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondackdiamondpointlodge.com/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.47561,
+  "lng": -73.68805,
+  "photo": "images/NY-0096-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adk-lakefront-property-management-bolton-landing-4-bedroom-h",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0100",
+  "name": "ADK Lakefront Property Management — Bolton Landing 4-bedroom house",
+  "url": "https://www.adklpm.com/bolton-landing-4-bdrm-vacation-rental-orp5b612eax",
+  "town": "Bolton Landing",
+  "state": "NY",
+  "place": "Bolton Landing, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.adklpm.com/bolton-landing-4-bdrm-vacation-rental-orp5b612eax",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 4,
+  "bathrooms": "Unknown",
+  "guests": 1,
+  "capacityDetails": "1",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0100-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0100-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0100-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0100-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0100-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Bolton Landing",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.adklpm.com/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Published listing map (approximate)"
+  },
+  "contactPagesChecked": "https://www.adklpm.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.adklpm.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "ADK Lakefront Property Management: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 4. Sleeps 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.adklpm.com/bolton-landing-4-bdrm-vacation-rental-orp5b612eax",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.5701771,
+  "lng": -73.6570701,
+  "photo": "images/NY-0100-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adk-lakefront-property-management-brant-lake-guest-house",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0101",
+  "name": "ADK Lakefront Property Management — Brant Lake Guest House",
+  "url": "https://www.adklpm.com/brant-lake-guest-house-sleeps-8-near-gore-orp5b74e17x",
+  "town": "Brant Lake",
+  "state": "NY",
+  "place": "Brant Lake, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.adklpm.com/brant-lake-guest-house-sleeps-8-near-gore-orp5b74e17x",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 8,
+  "capacityDetails": "8",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0101-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0101-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0101-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0101-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0101-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Brant Lake",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.adklpm.com/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Published listing map (approximate)"
+  },
+  "contactPagesChecked": "https://www.adklpm.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.adklpm.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "ADK Lakefront Property Management: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 3. Sleeps 8."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.adklpm.com/brant-lake-guest-house-sleeps-8-near-gore-orp5b74e17x",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.7019884,
+  "lng": -73.7363707,
+  "photo": "images/NY-0101-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "adk-lakefront-property-management-indian-lake-cabin",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0102",
+  "name": "ADK Lakefront Property Management — Indian Lake Cabin",
+  "url": "https://www.adklpm.com/gorgeous-indian-lake-cabin-sleeps-15-orp5b68c21x",
+  "town": "Indian Lake",
+  "state": "NY",
+  "place": "Indian Lake, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.adklpm.com/gorgeous-indian-lake-cabin-sleeps-15-orp5b68c21x",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 15,
+  "capacityDetails": "15",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0102-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0102-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0102-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0102-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0102-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Indian Lake",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.adklpm.com/",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Published listing map (approximate)"
+  },
+  "contactPagesChecked": "https://www.adklpm.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.adklpm.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "ADK Lakefront Property Management: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 3. Sleeps 15."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.adklpm.com/gorgeous-indian-lake-cabin-sleeps-15-orp5b68c21x",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.7233839,
+  "lng": -74.2426988,
+  "photo": "images/NY-0102-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
   "slug": "afternoon-delight",
   "added": "2026-10-27",
   "source": "found",
@@ -48348,6 +49508,95 @@
   ],
   "cardPhotoLabel": "",
   "destination": "Sebago"
+ },
+ {
+  "slug": "candlelight-cottages-lakeside-hillside-cottages-and-log-cabi",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0097",
+  "name": "Candlelight Cottages — Lakeside, hillside cottages and log cabins",
+  "url": "https://www.candlelightcottages.com/lakeside-cottages/",
+  "town": "Bolton Landing",
+  "state": "NY",
+  "place": "Bolton Landing, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.candlelightcottages.com/lakeside-cottages/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 9,
+  "capacityDetails": "9",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0097-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0097-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0097-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0097-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0097-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "5258 Lake Shore Drive",
+   "city": "Bolton Landing",
+   "state": "NY",
+   "postalCode": "12814",
+   "full": "5258 Lake Shore Drive, Bolton Landing, NY 12814",
+   "sourceUrl": "https://www.candlelightcottages.com/contact/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://www.candlelightcottages.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.candlelightcottages.com/contact/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Candlelight Cottages: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 9."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://www.candlelightcottages.com/contact/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.57675,
+  "lng": -73.65352,
+  "photo": "images/NY-0097-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
  },
  {
   "slug": "cape-ann-beach-cottages",
@@ -174357,6 +175606,95 @@
    "Date-specific rate"
   ],
   "destination": "North Shore"
+ },
+ {
+  "slug": "drake-s-lakeside-cabins-lakefront-cottages-16-cabins",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0098",
+  "name": "Drake's Lakeside Cabins — Lakefront cottages (16 cabins)",
+  "url": "https://adirondacklakesidecabins.com/cottages/",
+  "town": "Diamond Point",
+  "state": "NY",
+  "place": "Diamond Point, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://adirondacklakesidecabins.com/cottages/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 5,
+  "capacityDetails": "5",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0098-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0098-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0098-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0098-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0098-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "4366 Lake Shore Dr",
+   "city": "Diamond Point",
+   "state": "NY",
+   "postalCode": "12824",
+   "full": "4366 Lake Shore Dr, Diamond Point, NY 12824",
+   "sourceUrl": "https://adirondacklakesidecabins.com/contact/",
+   "type": "Cabin colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://adirondacklakesidecabins.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://adirondacklakesidecabins.com/contact/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Drake's Lakeside Cabins: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 5."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://adirondacklakesidecabins.com/contact/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.52215,
+  "lng": -73.67423,
+  "photo": "images/NY-0098-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
  },
  {
   "slug": "dream-house",
@@ -887133,6 +888471,546 @@
   "destination": "North Shore"
  },
  {
+  "slug": "sunset-beach-cottages-inlet-blue-mountain-lake-lodge",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0077",
+  "name": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge",
+  "url": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge/",
+  "town": "Blue Mountain Lake",
+  "state": "NY",
+  "place": "Blue Mountain Lake, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0077-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0077-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0077-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0077-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0077-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Blue Mountain Lake",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "type": "Individual rental; area named on page, street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Town / area approximate (operator's service area: Blue Mountain Lake)"
+  },
+  "contactPagesChecked": "https://www.sunsetonfourth.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Sunset Beach Cottages (Inlet): own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Town / area approximate (operator's service area: Blue Mountain Lake)",
+  "locationSource": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.85634,
+  "lng": -74.43153,
+  "photo": "images/NY-0077-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "sunset-beach-cottages-inlet-camp-big-moose",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0073",
+  "name": "Sunset Beach Cottages (Inlet) — Camp Big Moose",
+  "url": "https://www.sunsetonfourth.com/our-cottages/big-moose/",
+  "town": "Big Moose",
+  "state": "NY",
+  "place": "Big Moose, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.sunsetonfourth.com/our-cottages/big-moose/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0073-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0073-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0073-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0073-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0073-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Big Moose",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "type": "Individual rental; area named on page, street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Town / area approximate (operator's service area: Big Moose)"
+  },
+  "contactPagesChecked": "https://www.sunsetonfourth.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Sunset Beach Cottages (Inlet): own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Town / area approximate (operator's service area: Big Moose)",
+  "locationSource": "https://www.sunsetonfourth.com/our-cottages/big-moose/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.8184,
+  "lng": -74.91518,
+  "photo": "images/NY-0073-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "sunset-beach-cottages-inlet-camp-fish-creek",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0074",
+  "name": "Sunset Beach Cottages (Inlet) — Camp Fish Creek",
+  "url": "https://www.sunsetonfourth.com/our-cottages/camp-fish-creek/",
+  "town": "Inlet",
+  "state": "NY",
+  "place": "Inlet, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.sunsetonfourth.com/our-cottages/camp-fish-creek/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0074-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0074-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0074-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0074-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0074-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Inlet",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "type": "Individual rental; area named on page, street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Town / area approximate (operator's service area: Inlet)"
+  },
+  "contactPagesChecked": "https://www.sunsetonfourth.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Sunset Beach Cottages (Inlet): own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Town / area approximate (operator's service area: Inlet)",
+  "locationSource": "https://www.sunsetonfourth.com/our-cottages/camp-fish-creek/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.75192,
+  "lng": -74.79472,
+  "photo": "images/NY-0074-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "sunset-beach-cottages-inlet-limekiln-lake-lodge",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0075",
+  "name": "Sunset Beach Cottages (Inlet) — Limekiln Lake Lodge",
+  "url": "https://www.sunsetonfourth.com/our-cottages/limekiln-lake-lodge/",
+  "town": "Inlet",
+  "state": "NY",
+  "place": "Inlet, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.sunsetonfourth.com/our-cottages/limekiln-lake-lodge/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": 6,
+  "capacityDetails": "6",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0075-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0075-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0075-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0075-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0075-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Inlet",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "type": "Individual rental; area named on page, street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Town / area approximate (operator's service area: Limekiln Lake)"
+  },
+  "contactPagesChecked": "https://www.sunsetonfourth.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Sunset Beach Cottages (Inlet): own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Sleeps 6."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Town / area approximate (operator's service area: Limekiln Lake)",
+  "locationSource": "https://www.sunsetonfourth.com/our-cottages/limekiln-lake-lodge/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.71185,
+  "lng": -74.79804,
+  "photo": "images/NY-0075-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "sunset-beach-cottages-inlet-loon-lake-lodge",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0076",
+  "name": "Sunset Beach Cottages (Inlet) — Loon Lake Lodge",
+  "url": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge-2/",
+  "town": "Inlet",
+  "state": "NY",
+  "place": "Inlet, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge-2/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": 4,
+  "capacityDetails": "4",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0076-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0076-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0076-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0076-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0076-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Inlet",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "type": "Individual rental; area named on page, street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Town / area approximate (operator's service area: Inlet)"
+  },
+  "contactPagesChecked": "https://www.sunsetonfourth.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Sunset Beach Cottages (Inlet): own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2. Sleeps 4."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Town / area approximate (operator's service area: Inlet)",
+  "locationSource": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge-2/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.75192,
+  "lng": -74.79472,
+  "photo": "images/NY-0076-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "sunset-beach-cottages-inlet-raquette-retreat",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0078",
+  "name": "Sunset Beach Cottages (Inlet) — Raquette Retreat",
+  "url": "https://www.sunsetonfourth.com/our-cottages/raquette-retreat/",
+  "town": "Raquette Lake",
+  "state": "NY",
+  "place": "Raquette Lake, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.sunsetonfourth.com/our-cottages/raquette-retreat/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0078-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0078-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0078-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0078-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0078-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Raquette Lake",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "type": "Individual rental; area named on page, street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Town / area approximate (operator's service area: Raquette Lake)"
+  },
+  "contactPagesChecked": "https://www.sunsetonfourth.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.sunsetonfourth.com/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Sunset Beach Cottages (Inlet): own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Town / area approximate (operator's service area: Raquette Lake)",
+  "locationSource": "https://www.sunsetonfourth.com/our-cottages/raquette-retreat/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.81312,
+  "lng": -74.65739,
+  "photo": "images/NY-0078-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
   "slug": "sunset-cabins",
   "name": "Sunset Cabins",
   "url": "https://sunsetcabinsmaine.com",
@@ -940280,6 +942158,451 @@
   "cardPhotoLabel": "",
   "locationCheckedOn": "2026-10-27",
   "destination": "Plymouth & South Shore"
+ },
+ {
+  "slug": "the-elms-waterfront-cottages-lodge-adirondack-beach-house",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0068",
+  "name": "The Elms Waterfront Cottages & Lodge — Adirondack Beach House",
+  "url": "https://elmscottages.com/adirondack-beach-house-3/",
+  "town": "Lake Luzerne",
+  "state": "NY",
+  "place": "Lake Luzerne, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://elmscottages.com/adirondack-beach-house-3/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0068-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0068-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0068-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0068-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0068-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "1 Bay Rd",
+   "city": "Lake Luzerne",
+   "state": "NY",
+   "postalCode": "12846",
+   "full": "1 Bay Rd, Lake Luzerne, NY 12846",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://elmscottages.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "The Elms Waterfront Cottages & Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://elmscottages.com/contact/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.31268,
+  "lng": -73.83534,
+  "photo": "images/NY-0068-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "the-elms-waterfront-cottages-lodge-chief-tiosaronda",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0069",
+  "name": "The Elms Waterfront Cottages & Lodge — Chief Tiosaronda",
+  "url": "https://elmscottages.com/chief-tiosaronda/",
+  "town": "Lake Luzerne",
+  "state": "NY",
+  "place": "Lake Luzerne, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://elmscottages.com/chief-tiosaronda/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0069-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0069-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0069-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0069-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0069-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "1 Bay Rd",
+   "city": "Lake Luzerne",
+   "state": "NY",
+   "postalCode": "12846",
+   "full": "1 Bay Rd, Lake Luzerne, NY 12846",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://elmscottages.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "The Elms Waterfront Cottages & Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://elmscottages.com/contact/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.31268,
+  "lng": -73.83534,
+  "photo": "images/NY-0069-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "the-elms-waterfront-cottages-lodge-mccarthy-farmhouse",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0070",
+  "name": "The Elms Waterfront Cottages & Lodge — McCarthy Farmhouse",
+  "url": "https://elmscottages.com/joseph-mccarthy-veronica-lake-farmhouse/",
+  "town": "Corinth",
+  "state": "NY",
+  "place": "Corinth, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://elmscottages.com/joseph-mccarthy-veronica-lake-farmhouse/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0070-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0070-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0070-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0070-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0070-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Corinth",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "type": "Individual rental; area named on page, street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Town / area approximate (operator's service area: Corinth)"
+  },
+  "contactPagesChecked": "https://elmscottages.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "The Elms Waterfront Cottages & Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Town / area approximate (operator's service area: Corinth)",
+  "locationSource": "https://elmscottages.com/joseph-mccarthy-veronica-lake-farmhouse/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.2447,
+  "lng": -73.83259,
+  "photo": "images/NY-0070-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Saratoga"
+ },
+ {
+  "slug": "the-elms-waterfront-cottages-lodge-mcmaster-house",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0071",
+  "name": "The Elms Waterfront Cottages & Lodge — McMaster House",
+  "url": "https://elmscottages.com/mcmaster-house/",
+  "town": "Lake Luzerne",
+  "state": "NY",
+  "place": "Lake Luzerne, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://elmscottages.com/mcmaster-house/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0071-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0071-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0071-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0071-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0071-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "1 Bay Rd",
+   "city": "Lake Luzerne",
+   "state": "NY",
+   "postalCode": "12846",
+   "full": "1 Bay Rd, Lake Luzerne, NY 12846",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://elmscottages.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "The Elms Waterfront Cottages & Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://elmscottages.com/contact/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.31268,
+  "lng": -73.83534,
+  "photo": "images/NY-0071-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "the-elms-waterfront-cottages-lodge-waterfront-cottages",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0072",
+  "name": "The Elms Waterfront Cottages & Lodge — Waterfront cottages",
+  "url": "https://elmscottages.com/cottages-and-suites/",
+  "town": "Lake Luzerne",
+  "state": "NY",
+  "place": "Lake Luzerne, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://elmscottages.com/cottages-and-suites/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0072-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0072-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0072-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0072-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0072-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "1 Bay Rd",
+   "city": "Lake Luzerne",
+   "state": "NY",
+   "postalCode": "12846",
+   "full": "1 Bay Rd, Lake Luzerne, NY 12846",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded place)"
+  },
+  "contactPagesChecked": "https://elmscottages.com/contact/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://elmscottages.com/contact/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "The Elms Waterfront Cottages & Lodge: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded place)",
+  "locationSource": "https://elmscottages.com/contact/",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 43.31268,
+  "lng": -73.83534,
+  "photo": "images/NY-0072-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
  },
  {
   "slug": "the-even-tide-resort-cottages",
@@ -1038374,6 +1040697,451 @@
   "cardPhotoLabel": "",
   "locationCheckedOn": "2026-10-27",
   "destination": "Sebago"
+ },
+ {
+  "slug": "white-pine-camp-cabin-1",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0079",
+  "name": "White Pine Camp — Cabin 1",
+  "url": "https://www.whitepinecamp.com/cabin1pics.html",
+  "town": "Paul Smiths",
+  "state": "NY",
+  "place": "Paul Smiths, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.whitepinecamp.com/cabin1pics.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0079-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0079-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0079-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0079-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0079-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "White Pine Road",
+   "city": "Paul Smiths",
+   "state": "NY",
+   "postalCode": "12970",
+   "full": "White Pine Road, Paul Smiths, NY 12970",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "type": "Historic camp campus address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded street)"
+  },
+  "contactPagesChecked": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "White Pine Camp: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded street)",
+  "locationSource": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.44839,
+  "lng": -74.22027,
+  "photo": "images/NY-0079-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "white-pine-camp-cabin-2",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0080",
+  "name": "White Pine Camp — Cabin 2",
+  "url": "https://www.whitepinecamp.com/cabin2pics.html",
+  "town": "Paul Smiths",
+  "state": "NY",
+  "place": "Paul Smiths, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.whitepinecamp.com/cabin2pics.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0080-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0080-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0080-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0080-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0080-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "White Pine Road",
+   "city": "Paul Smiths",
+   "state": "NY",
+   "postalCode": "12970",
+   "full": "White Pine Road, Paul Smiths, NY 12970",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "type": "Historic camp campus address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded street)"
+  },
+  "contactPagesChecked": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "White Pine Camp: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded street)",
+  "locationSource": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.44839,
+  "lng": -74.22027,
+  "photo": "images/NY-0080-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "white-pine-camp-cabin-3",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0081",
+  "name": "White Pine Camp — Cabin 3",
+  "url": "https://www.whitepinecamp.com/cabin3pics.html",
+  "town": "Paul Smiths",
+  "state": "NY",
+  "place": "Paul Smiths, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.whitepinecamp.com/cabin3pics.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0081-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0081-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0081-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0081-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0081-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "White Pine Road",
+   "city": "Paul Smiths",
+   "state": "NY",
+   "postalCode": "12970",
+   "full": "White Pine Road, Paul Smiths, NY 12970",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "type": "Historic camp campus address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded street)"
+  },
+  "contactPagesChecked": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "White Pine Camp: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded street)",
+  "locationSource": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.44839,
+  "lng": -74.22027,
+  "photo": "images/NY-0081-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "white-pine-camp-gardener-s-cottage",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0083",
+  "name": "White Pine Camp — Gardener's Cottage",
+  "url": "https://www.whitepinecamp.com/gardenercottagepics.html",
+  "town": "Paul Smiths",
+  "state": "NY",
+  "place": "Paul Smiths, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.whitepinecamp.com/gardenercottagepics.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0083-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0083-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0083-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0083-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0083-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "White Pine Road",
+   "city": "Paul Smiths",
+   "state": "NY",
+   "postalCode": "12970",
+   "full": "White Pine Road, Paul Smiths, NY 12970",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "type": "Historic camp campus address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded street)"
+  },
+  "contactPagesChecked": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "White Pine Camp: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded street)",
+  "locationSource": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.44839,
+  "lng": -74.22027,
+  "photo": "images/NY-0083-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
+ },
+ {
+  "slug": "white-pine-camp-gate-cottage",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0082",
+  "name": "White Pine Camp — Gate Cottage",
+  "url": "https://www.whitepinecamp.com/gatehousepics.html",
+  "town": "Paul Smiths",
+  "state": "NY",
+  "place": "Paul Smiths, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.whitepinecamp.com/gatehousepics.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0082-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0082-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0082-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0082-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0082-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "White Pine Road",
+   "city": "Paul Smiths",
+   "state": "NY",
+   "postalCode": "12970",
+   "full": "White Pine Road, Paul Smiths, NY 12970",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "type": "Historic camp campus address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Published street address (geocoded street)"
+  },
+  "contactPagesChecked": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Adirondack cabin/cottage owner websites); operator catalog",
+   "sourceUrl": "https://www.whitepinecamp.com/cabinsinfo.html",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "White Pine Camp: own site, one page per house/cabin; direct booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 3."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded street)",
+  "locationSource": "https://www.whitepinecamp.com/cabinsinfo.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.44839,
+  "lng": -74.22027,
+  "photo": "images/NY-0082-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
  },
  {
   "slug": "wicked-moose-cabin",
