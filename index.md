@@ -1637,7 +1637,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: Unknown
-- Sleeps: 1
+- Sleeps: Sleeps 2-3
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1653,7 +1653,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: 2
+- Sleeps: Sleeps 6
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1669,7 +1669,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: 2
+- Sleeps: Sleeps 6-7
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1685,7 +1685,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: Unknown
-- Sleeps: 3
+- Sleeps: Sleeps 6-8
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1701,7 +1701,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: 2
+- Sleeps: Sleeps 4; up to 7 with the Kinglet Chalet
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1717,7 +1717,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: Unknown
-- Sleeps: 1
+- Sleeps: Sleeps 2-3
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1733,7 +1733,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: Unknown
-- Sleeps: 1
+- Sleeps: Sleeps 3
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1749,7 +1749,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: 2
+- Sleeps: Sleeps 4-6
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1765,7 +1765,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: 2
+- Sleeps: Sleeps 4
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
@@ -1781,7 +1781,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: 2
+- Sleeps: Sleeps 4-5
 - Price: Unknown
 - Children welcome: Unknown
 - Pets welcome: Unknown
