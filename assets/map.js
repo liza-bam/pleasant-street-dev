@@ -273,7 +273,7 @@
     return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" data-property="' + esc(h.id) + '"><' + tag + ' class="ps-card__select-body"' +
       (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on the map"' : '') + '>' +
       '<div class="ps-card__photo">' + listingBadge(h) +
-      '<img src="' + esc(src(h.photo)) + '" alt="" loading="lazy" decoding="async" width="560" height="350">' + cardOpenOverlay(h) + '</div>' +
+      '<img src="' + esc(src(h.photo)) + '" alt="' + esc(h.name) + '" loading="lazy" decoding="async" width="560" height="350">' + cardOpenOverlay(h) + '</div>' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + (h.featured ? madeBadge() : '') + '</article>';
   }
