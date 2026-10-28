@@ -278,7 +278,8 @@
       ['kids', policy(h.kids, 'Kids'), known(h.kids)]
     ];
     return '<ul class="ps-home__facts ps-home__facts--pills" aria-label="Facts">' + pills.map(function (p) {
-      var tone = !p[2] ? ' ps-pill--unknown' : (p[0] === 'pets' || p[0] === 'kids') && h[p[0]] === 'No' ? ' ps-pill--no' : '';   // grey OK, yellow unknown, pink no
+      var policy = p[0] === 'pets' || p[0] === 'kids';   // only the policies get a colour: yellow unknown, pink no; everything else stays grey
+      var tone = policy && !p[2] ? ' ps-pill--unknown' : policy && h[p[0]] === 'No' ? ' ps-pill--no' : '';
       return '<li class="ps-pill' + tone + '">' + factIcon(p[0]) + '<span>' + esc(p[1]) + '</span></li>';
     }).join('') + '</ul>';
   }
