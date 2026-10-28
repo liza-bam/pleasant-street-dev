@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7851 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7867 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -32830,6 +32830,134 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — families welcome; accessibility varies
 - Pet policy: Varies — dogs NOT allowed in Grand Oak/Spruce Suite; one dog in off-grid stays ($35)
 - Website (book here, directly with the host): https://inthetreesmaine.com
+
+## Irwin Bay Cottages — Cottage 1
+
+- ID: NY-0150
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-1.html
+
+## Irwin Bay Cottages — Cottage 2
+
+- ID: NY-0151
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 2
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-2.html
+
+## Irwin Bay Cottages — Cottage 3
+
+- ID: NY-0152
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-3.html
+
+## Irwin Bay Cottages — Cottage 4
+
+- ID: NY-0153
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-4.html
+
+## Irwin Bay Cottages — Cottage 5
+
+- ID: NY-0154
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-5.html
+
+## Irwin Bay Cottages — Cottage 6
+
+- ID: NY-0155
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-6.html
+
+## Irwin Bay Cottages — Cottage 7
+
+- ID: NY-0156
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-7.html
+
+## Irwin Bay Cottages — Cottage 8
+
+- ID: NY-0157
+- Town / area (approximate map location): Mayville, NY
+- Tourist destination: Chautauqua-Allegheny
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://irwinbaycottages.com/cottage-8.html
 
 ## Island Home Realty — 11 BR "Captain Morse House" in Edgartown #1101
 
@@ -79522,6 +79650,134 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://ogunquitrentalproperties.com
+
+## Olcott Vacation Rentals — Althea Corner
+
+- ID: NY-0161
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/4331338/althea-corner
+
+## Olcott Vacation Rentals — The Albright House
+
+- ID: NY-0163
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/783207/the-albright-house
+
+## Olcott Vacation Rentals — The Fletcher House
+
+- ID: NY-0167
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/783616/the-fletcher-house
+
+## Olcott Vacation Rentals — The Franklin House
+
+- ID: NY-0164
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/783602/the-franklin-house
+
+## Olcott Vacation Rentals — The Hamilton House
+
+- ID: NY-0168
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/843054/the-hamilton-house
+
+## Olcott Vacation Rentals — The Harbor House
+
+- ID: NY-0166
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/783615/the-harbor-house
+
+## Olcott Vacation Rentals — The Tenbrook House
+
+- ID: NY-0165
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/783614/the-tenbrook-house
+
+## Olcott Vacation Rentals — Wineries Anyone
+
+- ID: NY-0162
+- Town / area (approximate map location): Olcott, NY
+- Tourist destination: Niagara
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://olcottrentals.com/en/4336133/wineries-anyone
 
 ## Old Deerfield Treasure
 
