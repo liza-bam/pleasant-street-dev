@@ -25,7 +25,14 @@
   "lat": 47.21893,
   "lng": -68.65157,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0038-cover.jpg": "Camel Brook Camps, camp in Fort Kent, ME",
+   "images/ME-0038-000.avif": "Camel Brook Camps, Fort Kent, ME, photo 2 of 4",
+   "images/ME-0038-001.jpg": "Camel Brook Camps, Fort Kent, ME, photo 3 of 4",
+   "images/ME-0038-002.jpg": "Camel Brook Camps, Fort Kent, ME, photo 4 of 4",
+   "images/ME-0038-card.webp": "Camel Brook Camps, camp in Fort Kent, ME"
+  }
  },
  {
   "id": "ME-0022",
@@ -53,7 +60,12 @@
   "lat": 46.86646,
   "lng": -68.04219,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0022-cover.jpg": "Caribou Cabins, cabin in Caribou, ME",
+   "images/ME-0022-000.jpg": "Caribou Cabins, Caribou, ME, photo 2 of 2",
+   "images/ME-0022-card.webp": "Caribou Cabins, cabin in Caribou, ME"
+  }
  },
  {
   "id": "ME-0039",
@@ -81,7 +93,14 @@
   "lat": 47.2559,
   "lng": -68.5905,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0039-cover.jpg": "Crossroad Cabins, cabin in Fort Kent, ME",
+   "images/ME-0039-000.avif": "Crossroad Cabins, Fort Kent, ME, photo 2 of 4",
+   "images/ME-0039-001.avif": "Crossroad Cabins, Fort Kent, ME, photo 3 of 4",
+   "images/ME-0039-002.jpg": "Crossroad Cabins, Fort Kent, ME, photo 4 of 4",
+   "images/ME-0039-card.webp": "Crossroad Cabins, cabin in Fort Kent, ME"
+  }
  },
  {
   "id": "ME-0040",
@@ -114,7 +133,14 @@
   "lat": 47.27974,
   "lng": -68.55065,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0040-cover.jpg": "Eagle Eye Cabin, cabin in Fort Kent, ME",
+   "images/ME-0040-000.jpg": "Eagle Eye Cabin, Fort Kent, ME, photo 2 of 4",
+   "images/ME-0040-001.jpg": "Eagle Eye Cabin, Fort Kent, ME, photo 3 of 4",
+   "images/ME-0040-002.png": "Eagle Eye Cabin, Fort Kent, ME, photo 4 of 4",
+   "images/ME-0040-card.webp": "Eagle Eye Cabin, cabin in Fort Kent, ME"
+  }
  },
  {
   "id": "ME-0030",
@@ -142,7 +168,14 @@
   "lat": 47.04155,
   "lng": -68.5885,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0030-cover.jpg": "Eagle Lake Sporting Camps, camp in Eagle Lake, ME",
+   "images/ME-0030-000.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 2 of 4",
+   "images/ME-0030-001.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 3 of 4",
+   "images/ME-0030-002.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 4 of 4",
+   "images/ME-0030-card.webp": "Eagle Lake Sporting Camps, camp in Eagle Lake, ME"
+  }
  },
  {
   "id": "ME-0031",
@@ -170,7 +203,14 @@
   "lat": 47.04273,
   "lng": -68.58954,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0031-cover.jpg": "Eagles Landing Lakeside Cottages, house in Eagle Lake, ME",
+   "images/ME-0031-000.avif": "Eagles Landing Lakeside Cottages, Eagle Lake, ME, photo 2 of 4",
+   "images/ME-0031-001.avif": "Eagles Landing Lakeside Cottages, Eagle Lake, ME, photo 3 of 4",
+   "images/ME-0031-002.avif": "Eagles Landing Lakeside Cottages, Eagle Lake, ME, photo 4 of 4",
+   "images/ME-0031-card.webp": "Eagles Landing Lakeside Cottages, house in Eagle Lake, ME"
+  }
  },
  {
   "id": "ME-0117",
@@ -198,7 +238,14 @@
   "lat": 45.69379,
   "lng": -67.86112,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0117-cover.jpg": "First Settlers Lodge, Weston, ME",
+   "images/ME-0117-000.jpg": "First Settlers Lodge, Weston, ME, photo 2 of 4",
+   "images/ME-0117-001.jpg": "First Settlers Lodge, Weston, ME, photo 3 of 4",
+   "images/ME-0117-002.jpg": "First Settlers Lodge, Weston, ME, photo 4 of 4",
+   "images/ME-0117-card.webp": "First Settlers Lodge, Weston, ME"
+  }
  },
  {
   "id": "ME-0308",
@@ -227,7 +274,14 @@
   "lng": -68.0091667,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0308-cover.jpg": "Houseboat NOMAD, houseboat in Lakeville, ME",
+   "images/ME-0308-000.jpg": "Houseboat NOMAD, Lakeville, ME, photo 2 of 4",
+   "images/ME-0308-001.jpg": "Houseboat NOMAD, Lakeville, ME, photo 3 of 4",
+   "images/ME-0308-002.jpg": "Houseboat NOMAD, Lakeville, ME, photo 4 of 4",
+   "images/ME-0308-card.webp": "Houseboat NOMAD, houseboat in Lakeville, ME"
+  }
  },
  {
   "id": "ME-0297",
@@ -260,7 +314,14 @@
   "lng": -68.0091667,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0297-cover.jpg": "Houseboat ROAM, houseboat in Lakeville, ME",
+   "images/ME-0297-000.jpg": "Houseboat ROAM, Lakeville, ME, photo 2 of 4",
+   "images/ME-0297-001.jpg": "Houseboat ROAM, Lakeville, ME, photo 3 of 4",
+   "images/ME-0297-002.jpg": "Houseboat ROAM, Lakeville, ME, photo 4 of 4",
+   "images/ME-0297-card.webp": "Houseboat ROAM, houseboat in Lakeville, ME"
+  }
  },
  {
   "id": "ME-0042",
@@ -288,7 +349,14 @@
   "lat": 47.2559,
   "lng": -68.5905,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0042-cover.webp": "Junction 19 Company / The Caron Camp, camp in Fort Kent, ME",
+   "images/ME-0042-000.avif": "Junction 19 Company / The Caron Camp, Fort Kent, ME, photo 2 of 4",
+   "images/ME-0042-001.webp": "Junction 19 Company / The Caron Camp, Fort Kent, ME, photo 3 of 4",
+   "images/ME-0042-002.webp": "Junction 19 Company / The Caron Camp, Fort Kent, ME, photo 4 of 4",
+   "images/ME-0042-card.webp": "Junction 19 Company / The Caron Camp, camp in Fort Kent, ME"
+  }
  },
  {
   "id": "ME-0001",
@@ -317,7 +385,14 @@
   "lng": -68.4037,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0001-cover.jpg": "Libby Camps, camp in Ashland / Munsungan Lake, ME",
+   "images/ME-0001-000.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 2 of 4",
+   "images/ME-0001-001.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 3 of 4",
+   "images/ME-0001-002.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 4 of 4",
+   "images/ME-0001-card.webp": "Libby Camps, camp in Ashland / Munsungan Lake, ME"
+  }
  },
  {
   "id": "ME-0032",
@@ -345,7 +420,11 @@
   "lat": 47.05378,
   "lng": -68.58507,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0032-cover.jpg": "Lugdon Lodge, Eagle Lake, ME",
+   "images/ME-0032-card.webp": "Lugdon Lodge, Eagle Lake, ME"
+  }
  },
  {
   "id": "ME-0073",
@@ -374,7 +453,14 @@
   "lng": "Unknown",
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0073-cover.webp": "Macannamac Camps, camp in North Maine Woods, ME",
+   "images/ME-0073-000.webp": "Macannamac Camps, North Maine Woods, ME, photo 2 of 4",
+   "images/ME-0073-001.webp": "Macannamac Camps, North Maine Woods, ME, photo 3 of 4",
+   "images/ME-0073-002.webp": "Macannamac Camps, North Maine Woods, ME, photo 4 of 4",
+   "images/ME-0073-card.webp": "Macannamac Camps, camp in North Maine Woods, ME"
+  }
  },
  {
   "id": "ME-0033",
@@ -402,7 +488,14 @@
   "lat": 47.04556,
   "lng": -68.59557,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0033-cover.jpg": "Overlook Motel & Lakeside Cottages, house in Eagle Lake, ME",
+   "images/ME-0033-000.jpg": "Overlook Motel & Lakeside Cottages, Eagle Lake, ME, photo 2 of 4",
+   "images/ME-0033-001.avif": "Overlook Motel & Lakeside Cottages, Eagle Lake, ME, photo 3 of 4",
+   "images/ME-0033-002.avif": "Overlook Motel & Lakeside Cottages, Eagle Lake, ME, photo 4 of 4",
+   "images/ME-0033-card.webp": "Overlook Motel & Lakeside Cottages, house in Eagle Lake, ME"
+  }
  },
  {
   "id": "ME-0034",
@@ -430,7 +523,14 @@
   "lat": 47.03923,
   "lng": -68.58602,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0034-cover.jpg": "Pond Brook Cabins, cabin in Eagle Lake, ME",
+   "images/ME-0034-000.jpg": "Pond Brook Cabins, Eagle Lake, ME, photo 2 of 4",
+   "images/ME-0034-001.jpg": "Pond Brook Cabins, Eagle Lake, ME, photo 3 of 4",
+   "images/ME-0034-002.jpg": "Pond Brook Cabins, Eagle Lake, ME, photo 4 of 4",
+   "images/ME-0034-card.webp": "Pond Brook Cabins, cabin in Eagle Lake, ME"
+  }
  },
  {
   "id": "ME-0118",
@@ -458,7 +558,14 @@
   "lat": 45.7358,
   "lng": -67.8761,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0118-cover.webp": "Rideout's Lakeside Lodge & Cabins, cabin in Weston, ME",
+   "images/ME-0118-000.webp": "Rideout's Lakeside Lodge & Cabins, Weston, ME, photo 2 of 4",
+   "images/ME-0118-001.webp": "Rideout's Lakeside Lodge & Cabins, Weston, ME, photo 3 of 4",
+   "images/ME-0118-002.webp": "Rideout's Lakeside Lodge & Cabins, Weston, ME, photo 4 of 4",
+   "images/ME-0118-card.webp": "Rideout's Lakeside Lodge & Cabins, cabin in Weston, ME"
+  }
  },
  {
   "id": "ME-0146",
@@ -491,7 +598,13 @@
   "lat": 46.84367,
   "lng": -68.04271,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0146-cover.jpg": "The Tamaracks, Caribou, ME",
+   "images/ME-0146-000.jpg": "The Tamaracks, Caribou, ME, photo 2 of 3",
+   "images/ME-0146-001.jpg": "The Tamaracks, Caribou, ME, photo 3 of 3",
+   "images/ME-0146-card.webp": "The Tamaracks, Caribou, ME"
+  }
  },
  {
   "id": "ME-0074",
@@ -519,7 +632,14 @@
   "lat": 47.19783,
   "lng": -68.59989,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0074-cover.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME",
+   "images/ME-0074-000.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME, photo 2 of 4",
+   "images/ME-0074-001.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME, photo 3 of 4",
+   "images/ME-0074-002.jpg": "Trackdown Kennels Lodge, Northern Aroostook, ME, photo 4 of 4",
+   "images/ME-0074-card.webp": "Trackdown Kennels Lodge, Northern Aroostook, ME"
+  }
  },
  {
   "id": "ME-0023",
@@ -553,7 +673,14 @@
   "lat": 46.95668,
   "lng": -68.02247,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0023-cover.jpg": "Up North Cabins, cabin in Caribou, ME",
+   "images/ME-0023-000.jpg": "Up North Cabins, Caribou, ME, photo 2 of 4",
+   "images/ME-0023-001.jpg": "Up North Cabins, Caribou, ME, photo 3 of 4",
+   "images/ME-0023-002.jpg": "Up North Cabins, Caribou, ME, photo 4 of 4",
+   "images/ME-0023-card.webp": "Up North Cabins, cabin in Caribou, ME"
+  }
  },
  {
   "id": "ME-0037",
@@ -581,6 +708,13 @@
   "lat": 45.6598,
   "lng": -67.7297,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0037-cover.jpg": "Wheaton's Lodge, Forest City, ME",
+   "images/ME-0037-000.avif": "Wheaton's Lodge, Forest City, ME, photo 2 of 4",
+   "images/ME-0037-001.avif": "Wheaton's Lodge, Forest City, ME, photo 3 of 4",
+   "images/ME-0037-002.jpg": "Wheaton's Lodge, Forest City, ME, photo 4 of 4",
+   "images/ME-0037-card.webp": "Wheaton's Lodge, Forest City, ME"
+  }
  }
 ]

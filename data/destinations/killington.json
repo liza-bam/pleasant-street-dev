@@ -19,7 +19,10 @@
   "lat": 43.8325,
   "lng": -72.6342,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Earthwise Farm & Forest, house in Bethel, VT"
+  }
  },
  {
   "id": "VT-0050",
@@ -41,7 +44,10 @@
   "lat": 43.8203,
   "lng": -72.5213,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Four Springs Farm, Campground & Learning Center, cabin in Royalton, VT"
+  }
  },
  {
   "id": "VT-0033",
@@ -70,7 +76,11 @@
   "lng": -72.7784,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0033-cover.jpg": "Killington Mountain Homes, Killington, VT",
+   "images/VT-0033-card.webp": "Killington Mountain Homes, Killington, VT"
+  }
  },
  {
   "id": "VT-0053",
@@ -98,7 +108,11 @@
   "lat": 43.9738,
   "lng": -73.0338,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0053-cover.jpg": "Robert Frost Mountain Cabins, cabin in Ripton, VT",
+   "images/VT-0053-card.webp": "Robert Frost Mountain Cabins, cabin in Ripton, VT"
+  }
  },
  {
   "id": "VT-0068",
@@ -127,7 +141,11 @@
   "lng": -72.7784,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0068-cover.avif": "Simple Vacation Rentals, Killington, VT",
+   "images/VT-0068-card.webp": "Simple Vacation Rentals, Killington, VT"
+  }
  },
  {
   "id": "VT-0058",
@@ -162,7 +180,11 @@
   "lat": 43.5356,
   "lng": -72.7218,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0058-cover.jpg": "The Arched Chalet, house in Plymouth, VT",
+   "images/VT-0058-card.webp": "The Arched Chalet, house in Plymouth, VT"
+  }
  },
  {
   "id": "VT-0005",
@@ -190,7 +212,14 @@
   "lat": 43.7779,
   "lng": -72.6989,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0005-000.jpg": "The Cobble House, house in Gaysville, VT",
+   "images/VT-0005-001.jpg": "The Cobble House, Gaysville, VT, photo 2 of 4",
+   "images/VT-0005-002.jpg": "The Cobble House, Gaysville, VT, photo 3 of 4",
+   "images/VT-0005-cover.jpg": "The Cobble House, house in Gaysville, VT",
+   "images/VT-0005-card.webp": "The Cobble House, house in Gaysville, VT"
+  }
  },
  {
   "id": "VT-0052",
@@ -225,7 +254,11 @@
   "lat": 43.7865,
   "lng": -72.7547,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0052-cover.png": "The Gnome Home, house in Stockbridge, VT",
+   "images/VT-0052-card.webp": "The Gnome Home, house in Stockbridge, VT"
+  }
  },
  {
   "id": "VT-0022",
@@ -247,6 +280,9 @@
   "lat": 43.6743,
   "lng": -72.7784,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "The Killington Group, house in Killington, VT"
+  }
  }
 ]

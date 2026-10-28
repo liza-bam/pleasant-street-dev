@@ -26,7 +26,13 @@
   "lng": -70.7602,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0051-cover.webp": "Seacoast2Summit Vacation Rentals, cabin in Portsmouth, NH",
+   "images/NH-0051-000.webp": "Seacoast2Summit Vacation Rentals, Portsmouth, NH, photo 2 of 3",
+   "images/NH-0051-001.webp": "Seacoast2Summit Vacation Rentals, Portsmouth, NH, photo 3 of 3",
+   "images/NH-0051-card.webp": "Seacoast2Summit Vacation Rentals, cabin in Portsmouth, NH"
+  }
  },
  {
   "id": "NH-0035",
@@ -54,6 +60,13 @@
   "lat": 42.969,
   "lng": -70.8359,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0035-cover.webp": "Seaside Village Resort, North Hampton, NH",
+   "images/NH-0035-000.webp": "Seaside Village Resort, North Hampton, NH, photo 2 of 4",
+   "images/NH-0035-001.webp": "Seaside Village Resort, North Hampton, NH, photo 3 of 4",
+   "images/NH-0035-002.webp": "Seaside Village Resort, North Hampton, NH, photo 4 of 4",
+   "images/NH-0035-card.webp": "Seaside Village Resort, North Hampton, NH"
+  }
  }
 ]

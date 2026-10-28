@@ -19,7 +19,10 @@
   "lat": 44.4195,
   "lng": -72.0157,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Base Camp Nek, cabin in St. Johnsbury, VT"
+  }
  },
  {
   "id": "VT-0048",
@@ -41,7 +44,10 @@
   "lat": 44.9474,
   "lng": -72.1339,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Century 21 Farm & Forest, house in Derby, VT"
+  }
  },
  {
   "id": "VT-0014",
@@ -69,7 +75,11 @@
   "lat": 44.8034,
   "lng": -72.2791,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0014-cover.jpg": "Gregoire Castle — Kane Realty, house in Irasburg, VT",
+   "images/VT-0014-card.webp": "Gregoire Castle — Kane Realty, house in Irasburg, VT"
+  }
  },
  {
   "id": "VT-0024",
@@ -97,7 +107,11 @@
   "lat": 44.60033,
   "lng": -72.30542,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0024-cover.jpg": "Highland Lodge, cabin in Greensboro, VT",
+   "images/VT-0024-card.webp": "Highland Lodge, cabin in Greensboro, VT"
+  }
  },
  {
   "id": "VT-0067",
@@ -125,7 +139,11 @@
   "lat": 44.9474,
   "lng": -72.1339,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0067-cover.jpg": "Lake Salem Cottages, cabin in Derby, VT",
+   "images/VT-0067-card.webp": "Lake Salem Cottages, cabin in Derby, VT"
+  }
  },
  {
   "id": "VT-0041",
@@ -153,7 +171,11 @@
   "lat": 44.7711,
   "lng": -72.0549,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0041-cover.jpg": "Mountain Lake Cottages, cabin in Westmore, VT",
+   "images/VT-0041-card.webp": "Mountain Lake Cottages, cabin in Westmore, VT"
+  }
  },
  {
   "id": "VT-0026",
@@ -185,7 +207,11 @@
   "lat": 44.7993,
   "lng": -72.4475,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0026-cover.jpg": "Northbound Vermont, cabin in Lowell, VT",
+   "images/VT-0026-card.webp": "Northbound Vermont, cabin in Lowell, VT"
+  }
  },
  {
   "id": "VT-0010",
@@ -213,7 +239,14 @@
   "lat": 44.9379,
   "lng": -71.6862,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0010-000.jpg": "Quimby Country Lodge & Cottages, cabin in Averill, VT",
+   "images/VT-0010-001.jpg": "Quimby Country Lodge & Cottages, Averill, VT, photo 2 of 4",
+   "images/VT-0010-002.jpg": "Quimby Country Lodge & Cottages, Averill, VT, photo 3 of 4",
+   "images/VT-0010-cover.jpg": "Quimby Country Lodge & Cottages, cabin in Averill, VT",
+   "images/VT-0010-card.webp": "Quimby Country Lodge & Cottages, cabin in Averill, VT"
+  }
  },
  {
   "id": "VT-0063",
@@ -245,7 +278,11 @@
   "lat": 44.7993,
   "lng": -72.4475,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0063-cover.jpg": "Simple Stay Property Management, Lowell, VT",
+   "images/VT-0063-card.webp": "Simple Stay Property Management, Lowell, VT"
+  }
  },
  {
   "id": "VT-0013",
@@ -273,7 +310,11 @@
   "lat": 44.47222,
   "lng": -72.34392,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0013-cover.jpg": "Stone City Treehouse, cabin in Hardwick, VT",
+   "images/VT-0013-card.webp": "Stone City Treehouse, cabin in Hardwick, VT"
+  }
  },
  {
   "id": "VT-0029",
@@ -305,6 +346,10 @@
   "lat": 44.9067,
   "lng": -72.8046,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0029-cover.jpg": "Stony Pond Farm, Enosburg Falls, VT",
+   "images/VT-0029-card.webp": "Stony Pond Farm, Enosburg Falls, VT"
+  }
  }
 ]

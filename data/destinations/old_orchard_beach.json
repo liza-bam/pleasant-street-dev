@@ -29,7 +29,14 @@
   "lat": 43.5007,
   "lng": -70.443,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0309-cover.jpg": "Austin House — River Winds Farm & Estate, house in Saco, ME",
+   "images/ME-0309-000.jpg": "Austin House — River Winds Farm & Estate, Saco, ME, photo 2 of 4",
+   "images/ME-0309-001.jpg": "Austin House — River Winds Farm & Estate, Saco, ME, photo 3 of 4",
+   "images/ME-0309-002.jpg": "Austin House — River Winds Farm & Estate, Saco, ME, photo 4 of 4",
+   "images/ME-0309-card.webp": "Austin House — River Winds Farm & Estate, house in Saco, ME"
+  }
  },
  {
   "id": "ME-0265",
@@ -57,7 +64,14 @@
   "lat": 43.5076,
   "lng": -70.3562,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0265-cover.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME",
+   "images/ME-0265-000.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0265-001.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0265-002.jpg": "Beach Girl Property Rentals, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0265-card.webp": "Beach Girl Property Rentals, Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0382",
@@ -85,7 +99,14 @@
   "lat": 43.5082489,
   "lng": -70.3815362,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0382-cover.jpg": "Beachside Abode 1A, house in Old Orchard Beach, ME",
+   "images/ME-0382-000.jpg": "Beachside Abode 1A, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0382-001.jpg": "Beachside Abode 1A, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0382-002.jpg": "Beachside Abode 1A, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0382-card.webp": "Beachside Abode 1A, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0402",
@@ -113,7 +134,14 @@
   "lat": 43.5082489,
   "lng": -70.3815362,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0402-cover.jpg": "Beachside Abode 2A, house in Old Orchard Beach, ME",
+   "images/ME-0402-000.jpg": "Beachside Abode 2A, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0402-001.jpg": "Beachside Abode 2A, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0402-002.jpg": "Beachside Abode 2A, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0402-card.webp": "Beachside Abode 2A, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0393",
@@ -141,7 +169,14 @@
   "lat": 43.5082489,
   "lng": -70.3815362,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0393-cover.jpg": "Beachside Abode 2B, house in Old Orchard Beach, ME",
+   "images/ME-0393-000.jpg": "Beachside Abode 2B, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0393-001.jpg": "Beachside Abode 2B, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0393-002.jpg": "Beachside Abode 2B, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0393-card.webp": "Beachside Abode 2B, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0144",
@@ -169,7 +204,12 @@
   "lat": 43.46454,
   "lng": -70.38114,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0144-cover.jpg": "Blue Pearl Cottage, house in Camp Ellis / Saco, ME",
+   "images/ME-0144-000.jpg": "Blue Pearl Cottage, Camp Ellis / Saco, ME, photo 2 of 2",
+   "images/ME-0144-card.webp": "Blue Pearl Cottage, house in Camp Ellis / Saco, ME"
+  }
  },
  {
   "id": "ME-0145",
@@ -197,7 +237,14 @@
   "lat": 43.4631,
   "lng": -70.38055,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0145-cover.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME",
+   "images/ME-0145-000.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 2 of 4",
+   "images/ME-0145-001.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 3 of 4",
+   "images/ME-0145-002.avif": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 4 of 4",
+   "images/ME-0145-card.webp": "Breakwater Vacation Rental, Camp Ellis / Saco, ME"
+  }
  },
  {
   "id": "ME-0245",
@@ -226,7 +273,14 @@
   "lng": -70.38054,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0245-cover.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME",
+   "images/ME-0245-000.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 2 of 4",
+   "images/ME-0245-001.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 3 of 4",
+   "images/ME-0245-002.jpg": "Breakwater Vacation Rental, Camp Ellis / Saco, ME, photo 4 of 4",
+   "images/ME-0245-card.webp": "Breakwater Vacation Rental, Camp Ellis / Saco, ME"
+  }
  },
  {
   "id": "ME-0388",
@@ -254,7 +308,14 @@
   "lat": 43.5142208,
   "lng": -70.3833201,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0388-cover.jpg": "Coastal Life Beach House, house in Old Orchard Beach, ME",
+   "images/ME-0388-000.jpg": "Coastal Life Beach House, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0388-001.jpg": "Coastal Life Beach House, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0388-002.jpg": "Coastal Life Beach House, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0388-card.webp": "Coastal Life Beach House, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0394",
@@ -282,7 +343,14 @@
   "lat": 43.5302704,
   "lng": -70.3608508,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0394-cover.jpg": "Cottages by the Sea #1, house in Old Orchard Beach, ME",
+   "images/ME-0394-000.jpg": "Cottages by the Sea #1, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0394-001.jpg": "Cottages by the Sea #1, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0394-002.jpg": "Cottages by the Sea #1, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0394-card.webp": "Cottages by the Sea #1, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0404",
@@ -310,7 +378,14 @@
   "lat": 43.5302704,
   "lng": -70.3608508,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0404-cover.jpg": "Cottages By The Sea #2, house in Old Orchard Beach, ME",
+   "images/ME-0404-000.jpg": "Cottages By The Sea #2, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0404-001.jpg": "Cottages By The Sea #2, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0404-002.jpg": "Cottages By The Sea #2, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0404-card.webp": "Cottages By The Sea #2, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0414",
@@ -338,7 +413,14 @@
   "lat": 43.5302704,
   "lng": -70.3608508,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0414-cover.jpg": "Cottages by the Sea #3, house in Old Orchard Beach, ME",
+   "images/ME-0414-000.jpg": "Cottages by the Sea #3, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0414-001.jpg": "Cottages by the Sea #3, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0414-002.jpg": "Cottages by the Sea #3, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0414-card.webp": "Cottages by the Sea #3, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0398",
@@ -366,7 +448,14 @@
   "lat": 43.5140497,
   "lng": -70.3804859,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0398-cover.jpg": "Dancing Queen, house in Old Orchard Beach, ME",
+   "images/ME-0398-000.jpg": "Dancing Queen, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0398-001.jpg": "Dancing Queen, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0398-002.jpg": "Dancing Queen, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0398-card.webp": "Dancing Queen, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0403",
@@ -394,7 +483,14 @@
   "lat": 43.5143615,
   "lng": -70.3830457,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0403-cover.jpg": "Dream House, house in Old Orchard Beach, ME",
+   "images/ME-0403-000.jpg": "Dream House, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0403-001.jpg": "Dream House, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0403-002.jpg": "Dream House, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0403-card.webp": "Dream House, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0406",
@@ -422,7 +518,14 @@
   "lat": 43.5158532,
   "lng": -70.3735077,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0406-cover.jpg": "Grand Victorian #403, house in Old Orchard Beach, ME",
+   "images/ME-0406-000.jpg": "Grand Victorian #403, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0406-001.jpg": "Grand Victorian #403, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0406-002.jpg": "Grand Victorian #403, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0406-card.webp": "Grand Victorian #403, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0377",
@@ -450,7 +553,14 @@
   "lat": 43.5147961,
   "lng": -70.3831478,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0377-cover.jpg": "Gull’s Nest, house in Old Orchard Beach, ME",
+   "images/ME-0377-000.jpg": "Gull’s Nest, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0377-001.jpg": "Gull’s Nest, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0377-002.jpg": "Gull’s Nest, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0377-card.webp": "Gull’s Nest, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0202",
@@ -478,7 +588,14 @@
   "lat": 43.5007,
   "lng": -70.443,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0202-cover.jpg": "Maine Beach Cottage, house in Saco, ME",
+   "images/ME-0202-000.jpg": "Maine Beach Cottage, Saco, ME, photo 2 of 4",
+   "images/ME-0202-001.jpg": "Maine Beach Cottage, Saco, ME, photo 3 of 4",
+   "images/ME-0202-002.jpg": "Maine Beach Cottage, Saco, ME, photo 4 of 4",
+   "images/ME-0202-card.webp": "Maine Beach Cottage, house in Saco, ME"
+  }
  },
  {
   "id": "ME-0395",
@@ -506,7 +623,14 @@
   "lat": 43.5038827,
   "lng": -70.3816491,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0395-cover.jpg": "Nautical Point, house in Old Orchard Beach, ME",
+   "images/ME-0395-000.jpg": "Nautical Point, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0395-001.jpg": "Nautical Point, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0395-002.jpg": "Nautical Point, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0395-card.webp": "Nautical Point, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0417",
@@ -534,7 +658,14 @@
   "lat": 43.5039499,
   "lng": -70.3817944,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0417-cover.jpg": "Nautical View, house in Old Orchard Beach, ME",
+   "images/ME-0417-000.jpg": "Nautical View, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0417-001.jpg": "Nautical View, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0417-002.jpg": "Nautical View, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0417-card.webp": "Nautical View, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0378",
@@ -562,7 +693,14 @@
   "lat": 43.5193109,
   "lng": -70.3703965,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0378-cover.jpg": "Oceanview Oasis, house in Old Orchard Beach, ME",
+   "images/ME-0378-000.jpg": "Oceanview Oasis, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0378-001.jpg": "Oceanview Oasis, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0378-002.jpg": "Oceanview Oasis, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0378-card.webp": "Oceanview Oasis, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0192",
@@ -590,7 +728,14 @@
   "lat": 43.50555,
   "lng": -70.38119,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0192-cover.jpg": "Odessa by the Sea, Old Orchard Beach, ME",
+   "images/ME-0192-000.jpg": "Odessa by the Sea, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0192-001.jpg": "Odessa by the Sea, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0192-002.jpg": "Odessa by the Sea, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0192-card.webp": "Odessa by the Sea, Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0391",
@@ -618,7 +763,14 @@
   "lat": 43.525612,
   "lng": -70.392209,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0391-cover.jpg": "On Par for the Beach, house in Old Orchard Beach, ME",
+   "images/ME-0391-000.jpg": "On Par for the Beach, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0391-001.jpg": "On Par for the Beach, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0391-002.jpg": "On Par for the Beach, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0391-card.webp": "On Par for the Beach, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0411",
@@ -646,7 +798,14 @@
   "lat": 43.50924,
   "lng": -70.3793002,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0411-cover.jpg": "Salt Life #1, house in Old Orchard Beach, ME",
+   "images/ME-0411-000.jpg": "Salt Life #1, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0411-001.jpg": "Salt Life #1, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0411-002.jpg": "Salt Life #1, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0411-card.webp": "Salt Life #1, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0387",
@@ -674,7 +833,14 @@
   "lat": 43.50924,
   "lng": -70.3793002,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0387-cover.jpg": "Salt Life #2, house in Old Orchard Beach, ME",
+   "images/ME-0387-000.jpg": "Salt Life #2, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0387-001.jpg": "Salt Life #2, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0387-002.jpg": "Salt Life #2, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0387-card.webp": "Salt Life #2, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0384",
@@ -702,7 +868,14 @@
   "lat": 43.5093069,
   "lng": -70.3792682,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0384-cover.jpg": "Sand Life #1, house in Old Orchard Beach, ME",
+   "images/ME-0384-000.jpg": "Sand Life #1, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0384-001.jpg": "Sand Life #1, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0384-002.jpg": "Sand Life #1, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0384-card.webp": "Sand Life #1, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0409",
@@ -730,7 +903,14 @@
   "lat": 43.5093069,
   "lng": -70.3792682,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0409-cover.jpg": "Sand Life #2, house in Old Orchard Beach, ME",
+   "images/ME-0409-000.jpg": "Sand Life #2, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0409-001.jpg": "Sand Life #2, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0409-002.jpg": "Sand Life #2, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0409-card.webp": "Sand Life #2, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0385",
@@ -758,7 +938,14 @@
   "lat": 43.5243703,
   "lng": -70.3661216,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0385-cover.jpg": "Sandy Beach at Port, house in Old Orchard Beach, ME",
+   "images/ME-0385-000.jpg": "Sandy Beach at Port, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0385-001.jpg": "Sandy Beach at Port, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0385-002.jpg": "Sandy Beach at Port, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0385-card.webp": "Sandy Beach at Port, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0390",
@@ -786,7 +973,14 @@
   "lat": 43.5243703,
   "lng": -70.3661216,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0390-cover.jpg": "Sandy Beach at Star Board, house in Old Orchard Beach, ME",
+   "images/ME-0390-000.jpg": "Sandy Beach at Star Board, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0390-001.jpg": "Sandy Beach at Star Board, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0390-002.jpg": "Sandy Beach at Star Board, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0390-card.webp": "Sandy Beach at Star Board, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0274",
@@ -815,7 +1009,14 @@
   "lng": -70.443,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0274-cover.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME",
+   "images/ME-0274-000.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0274-001.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0274-002.jpg": "Seashore Property Management, Saco / Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0274-card.webp": "Seashore Property Management, Saco / Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0416",
@@ -843,7 +1044,14 @@
   "lat": 43.514718337472,
   "lng": -70.382242644953,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0416-cover.jpg": "Sunshine Daydream, house in Old Orchard Beach, ME",
+   "images/ME-0416-000.jpg": "Sunshine Daydream, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0416-001.jpg": "Sunshine Daydream, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0416-002.jpg": "Sunshine Daydream, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0416-card.webp": "Sunshine Daydream, house in Old Orchard Beach, ME"
+  }
  },
  {
   "id": "ME-0386",
@@ -871,7 +1079,14 @@
   "lat": 43.4678101,
   "lng": -70.3830132,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0386-cover.jpg": "The Lookout, house in Saco, ME",
+   "images/ME-0386-000.jpg": "The Lookout, Saco, ME, photo 2 of 4",
+   "images/ME-0386-001.jpg": "The Lookout, Saco, ME, photo 3 of 4",
+   "images/ME-0386-002.jpg": "The Lookout, Saco, ME, photo 4 of 4",
+   "images/ME-0386-card.webp": "The Lookout, house in Saco, ME"
+  }
  },
  {
   "id": "ME-0410",
@@ -899,6 +1114,13 @@
   "lat": 43.5133943,
   "lng": -70.3855821,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0410-cover.jpg": "Tide & Timber, house in Old Orchard Beach, ME",
+   "images/ME-0410-000.jpg": "Tide & Timber, Old Orchard Beach, ME, photo 2 of 4",
+   "images/ME-0410-001.jpg": "Tide & Timber, Old Orchard Beach, ME, photo 3 of 4",
+   "images/ME-0410-002.jpg": "Tide & Timber, Old Orchard Beach, ME, photo 4 of 4",
+   "images/ME-0410-card.webp": "Tide & Timber, house in Old Orchard Beach, ME"
+  }
  }
 ]

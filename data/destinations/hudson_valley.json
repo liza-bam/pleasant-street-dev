@@ -20,7 +20,14 @@
   "lat": 41.78127,
   "lng": -74.17804,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0039-cover.webp": "Clove Cottages, cabin in High Falls, NY",
+   "images/NY-0039-000.webp": "Clove Cottages, High Falls, NY, photo 2 of 4",
+   "images/NY-0039-001.webp": "Clove Cottages, High Falls, NY, photo 3 of 4",
+   "images/NY-0039-002.webp": "Clove Cottages, High Falls, NY, photo 4 of 4",
+   "images/NY-0039-card.webp": "Clove Cottages, cabin in High Falls, NY"
+  }
  },
  {
   "id": "NY-0040",
@@ -43,7 +50,14 @@
   "lat": 41.822102,
   "lng": -74.0339827,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0040-cover.webp": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature, house in Esopus, NY",
+   "images/NY-0040-000.webp": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature, Esopus, NY, photo 2 of 4",
+   "images/NY-0040-001.webp": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature, Esopus, NY, photo 3 of 4",
+   "images/NY-0040-002.webp": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature, Esopus, NY, photo 4 of 4",
+   "images/NY-0040-card.webp": "Home Sweet Hudson — Green Sanctuary: Luxury Home Surrounded by Nature, house in Esopus, NY"
+  }
  },
  {
   "id": "NY-0041",
@@ -66,7 +80,14 @@
   "lat": 41.7348874,
   "lng": -74.1659477,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0041-cover.webp": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway, house in Gardiner, NY",
+   "images/NY-0041-000.webp": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway, Gardiner, NY, photo 2 of 4",
+   "images/NY-0041-001.webp": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway, Gardiner, NY, photo 3 of 4",
+   "images/NY-0041-002.webp": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway, Gardiner, NY, photo 4 of 4",
+   "images/NY-0041-card.webp": "Home Sweet Hudson — Greycliff: Mohonk Preserve Getaway, house in Gardiner, NY"
+  }
  },
  {
   "id": "NY-0043",
@@ -89,7 +110,14 @@
   "lat": 41.8321867,
   "lng": -74.3136889,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0043-cover.webp": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape, house in Kerhonkson, NY",
+   "images/NY-0043-000.webp": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape, Kerhonkson, NY, photo 2 of 4",
+   "images/NY-0043-001.webp": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape, Kerhonkson, NY, photo 3 of 4",
+   "images/NY-0043-002.webp": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape, Kerhonkson, NY, photo 4 of 4",
+   "images/NY-0043-card.webp": "Home Sweet Hudson — Ridgeview A-Frame: Stylish Kerhonkson Escape, house in Kerhonkson, NY"
+  }
  },
  {
   "id": "NY-0044",
@@ -112,7 +140,14 @@
   "lat": 41.8390603,
   "lng": -74.0760692,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0044-cover.webp": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury, house in Rosendale, NY",
+   "images/NY-0044-000.webp": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury, Rosendale, NY, photo 2 of 4",
+   "images/NY-0044-001.webp": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury, Rosendale, NY, photo 3 of 4",
+   "images/NY-0044-002.webp": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury, Rosendale, NY, photo 4 of 4",
+   "images/NY-0044-card.webp": "Home Sweet Hudson — Rondout Retreat: Private Poolside Luxury, house in Rosendale, NY"
+  }
  },
  {
   "id": "NY-0045",
@@ -135,7 +170,14 @@
   "lat": 41.735661,
   "lng": -74.295454,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0045-cover.webp": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway, cabin in Kerhonkson, NY",
+   "images/NY-0045-000.webp": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway, Kerhonkson, NY, photo 2 of 4",
+   "images/NY-0045-001.webp": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway, Kerhonkson, NY, photo 3 of 4",
+   "images/NY-0045-002.webp": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway, Kerhonkson, NY, photo 4 of 4",
+   "images/NY-0045-card.webp": "Home Sweet Hudson — Stony Kill Cabin: A Kerhonkson Getaway, cabin in Kerhonkson, NY"
+  }
  },
  {
   "id": "NY-0046",
@@ -158,6 +200,13 @@
   "lat": 41.7797726,
   "lng": -74.226473,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0046-cover.webp": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse, house in Accord, NY",
+   "images/NY-0046-000.webp": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse, Accord, NY, photo 2 of 4",
+   "images/NY-0046-001.webp": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse, Accord, NY, photo 3 of 4",
+   "images/NY-0046-002.webp": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse, Accord, NY, photo 4 of 4",
+   "images/NY-0046-card.webp": "Home Sweet Hudson — The Louie II: Peaceful Accord Farmhouse, house in Accord, NY"
+  }
  }
 ]

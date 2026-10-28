@@ -25,7 +25,14 @@
   "lat": 44.30749,
   "lng": -68.24273,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0371-cover.jpg": "Acadia Access Cottage, house in Seal Harbor, ME",
+   "images/ME-0371-000.jpg": "Acadia Access Cottage, Seal Harbor, ME, photo 2 of 4",
+   "images/ME-0371-001.jpg": "Acadia Access Cottage, Seal Harbor, ME, photo 3 of 4",
+   "images/ME-0371-002.jpg": "Acadia Access Cottage, Seal Harbor, ME, photo 4 of 4",
+   "images/ME-0371-card.webp": "Acadia Access Cottage, house in Seal Harbor, ME"
+  }
  },
  {
   "id": "ME-0122",
@@ -54,7 +61,14 @@
   "lng": -68.2043,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0122-cover.jpg": "Acadia Cottage Rentals, house in Bar Harbor, ME",
+   "images/ME-0122-000.jpg": "Acadia Cottage Rentals, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0122-001.jpg": "Acadia Cottage Rentals, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0122-002.jpg": "Acadia Cottage Rentals, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0122-card.webp": "Acadia Cottage Rentals, house in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0207",
@@ -82,7 +96,14 @@
   "lat": 44.2798,
   "lng": -68.3259,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0207-cover.jpg": "Acadia Dreamscape Cottage, house in Southwest Harbor, ME",
+   "images/ME-0207-000.jpg": "Acadia Dreamscape Cottage, Southwest Harbor, ME, photo 2 of 4",
+   "images/ME-0207-001.avif": "Acadia Dreamscape Cottage, Southwest Harbor, ME, photo 3 of 4",
+   "images/ME-0207-002.avif": "Acadia Dreamscape Cottage, Southwest Harbor, ME, photo 4 of 4",
+   "images/ME-0207-card.webp": "Acadia Dreamscape Cottage, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0123",
@@ -110,7 +131,14 @@
   "lat": 44.37843,
   "lng": -68.27567,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0123-cover.jpg": "Acadia Getaway, Bar Harbor, ME",
+   "images/ME-0123-000.jpg": "Acadia Getaway, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0123-001.jpg": "Acadia Getaway, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0123-002.jpg": "Acadia Getaway, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0123-card.webp": "Acadia Getaway, Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0208",
@@ -138,7 +166,14 @@
   "lat": 44.28727,
   "lng": -68.32851,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0208-cover.jpg": "Acadia Horizon Cottage, house in Southwest Harbor, ME",
+   "images/ME-0208-000.jpg": "Acadia Horizon Cottage, Southwest Harbor, ME, photo 2 of 4",
+   "images/ME-0208-001.png": "Acadia Horizon Cottage, Southwest Harbor, ME, photo 3 of 4",
+   "images/ME-0208-002.jpg": "Acadia Horizon Cottage, Southwest Harbor, ME, photo 4 of 4",
+   "images/ME-0208-card.webp": "Acadia Horizon Cottage, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0366",
@@ -166,7 +201,14 @@
   "lat": 44.34073,
   "lng": -68.29796,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0366-cover.jpg": "Acadia Sound Cottage, house in Mount Desert, ME",
+   "images/ME-0366-000.jpg": "Acadia Sound Cottage, Mount Desert, ME, photo 2 of 4",
+   "images/ME-0366-001.png": "Acadia Sound Cottage, Mount Desert, ME, photo 3 of 4",
+   "images/ME-0366-002.jpg": "Acadia Sound Cottage, Mount Desert, ME, photo 4 of 4",
+   "images/ME-0366-card.webp": "Acadia Sound Cottage, house in Mount Desert, ME"
+  }
  },
  {
   "id": "ME-0112",
@@ -194,7 +236,14 @@
   "lat": 44.5008,
   "lng": -68.38242,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0112-cover.webp": "Acadia Timber Cottages, house in Trenton, ME",
+   "images/ME-0112-000.webp": "Acadia Timber Cottages, Trenton, ME, photo 2 of 4",
+   "images/ME-0112-001.webp": "Acadia Timber Cottages, Trenton, ME, photo 3 of 4",
+   "images/ME-0112-002.webp": "Acadia Timber Cottages, Trenton, ME, photo 4 of 4",
+   "images/ME-0112-card.webp": "Acadia Timber Cottages, house in Trenton, ME"
+  }
  },
  {
   "id": "ME-0101",
@@ -222,7 +271,12 @@
   "lat": 44.28181,
   "lng": -68.35358,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0101-cover.webp": "Acadia Yurts, cabin in Southwest Harbor, ME",
+   "images/ME-0101-000.webp": "Acadia Yurts, Southwest Harbor, ME, photo 2 of 2",
+   "images/ME-0101-card.webp": "Acadia Yurts, cabin in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0102",
@@ -251,7 +305,14 @@
   "lng": -68.3259,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0102-cover.webp": "Ann's Point Cottages, house in Southwest Harbor, ME",
+   "images/ME-0102-000.webp": "Ann's Point Cottages, Southwest Harbor, ME, photo 2 of 4",
+   "images/ME-0102-001.webp": "Ann's Point Cottages, Southwest Harbor, ME, photo 3 of 4",
+   "images/ME-0102-002.webp": "Ann's Point Cottages, Southwest Harbor, ME, photo 4 of 4",
+   "images/ME-0102-card.webp": "Ann's Point Cottages, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0125",
@@ -279,7 +340,14 @@
   "lat": 44.3876,
   "lng": -68.2039,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0125-cover.jpg": "Bar Harbor Acadia Cottage Rentals, house in Bar Harbor, ME",
+   "images/ME-0125-000.jpg": "Bar Harbor Acadia Cottage Rentals, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0125-001.jpg": "Bar Harbor Acadia Cottage Rentals, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0125-002.jpg": "Bar Harbor Acadia Cottage Rentals, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0125-card.webp": "Bar Harbor Acadia Cottage Rentals, house in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0009",
@@ -307,7 +375,13 @@
   "lat": 44.24511,
   "lng": -68.34543,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0009-cover.jpg": "Bass Harbor Cottages, house in Bass Harbor, ME",
+   "images/ME-0009-000.jpg": "Bass Harbor Cottages, Bass Harbor, ME, photo 2 of 3",
+   "images/ME-0009-001.jpg": "Bass Harbor Cottages, Bass Harbor, ME, photo 3 of 3",
+   "images/ME-0009-card.webp": "Bass Harbor Cottages, house in Bass Harbor, ME"
+  }
  },
  {
   "id": "ME-0003",
@@ -335,7 +409,12 @@
   "lat": 44.43643,
   "lng": -68.26047,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0003-cover.avif": "Baycliff Cottage & Cabins, cabin in Bar Harbor, ME",
+   "images/ME-0003-000.avif": "Baycliff Cottage & Cabins, Bar Harbor, ME, photo 2 of 2",
+   "images/ME-0003-card.webp": "Baycliff Cottage & Cabins, cabin in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0369",
@@ -363,7 +442,14 @@
   "lat": 44.42361,
   "lng": -68.39215,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0369-cover.jpg": "Bayside Cottage, house in Trenton, ME",
+   "images/ME-0369-000.jpg": "Bayside Cottage, Trenton, ME, photo 2 of 4",
+   "images/ME-0369-001.jpg": "Bayside Cottage, Trenton, ME, photo 3 of 4",
+   "images/ME-0369-002.jpg": "Bayside Cottage, Trenton, ME, photo 4 of 4",
+   "images/ME-0369-card.webp": "Bayside Cottage, house in Trenton, ME"
+  }
  },
  {
   "id": "ME-0368",
@@ -391,7 +477,14 @@
   "lat": 44.2823,
   "lng": -68.32928,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0368-cover.jpg": "Blueberry Cottage, house in Southwest Harbor, ME",
+   "images/ME-0368-000.jpg": "Blueberry Cottage, Southwest Harbor, ME, photo 2 of 4",
+   "images/ME-0368-001.jpg": "Blueberry Cottage, Southwest Harbor, ME, photo 3 of 4",
+   "images/ME-0368-002.jpg": "Blueberry Cottage, Southwest Harbor, ME, photo 4 of 4",
+   "images/ME-0368-card.webp": "Blueberry Cottage, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0364",
@@ -419,7 +512,14 @@
   "lat": 44.30832,
   "lng": -68.24381,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0364-cover.jpg": "Carriage Road Cottage, house in Seal Harbor, ME",
+   "images/ME-0364-000.jpg": "Carriage Road Cottage, Seal Harbor, ME, photo 2 of 4",
+   "images/ME-0364-001.jpg": "Carriage Road Cottage, Seal Harbor, ME, photo 3 of 4",
+   "images/ME-0364-002.jpg": "Carriage Road Cottage, Seal Harbor, ME, photo 4 of 4",
+   "images/ME-0364-card.webp": "Carriage Road Cottage, house in Seal Harbor, ME"
+  }
  },
  {
   "id": "ME-0258",
@@ -448,7 +548,13 @@
   "lng": -68.2891,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0258-cover.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME",
+   "images/ME-0258-000.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME, photo 2 of 3",
+   "images/ME-0258-001.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME, photo 3 of 3",
+   "images/ME-0258-card.webp": "Compass Rose Property Management, Mount Desert / Downeast, ME"
+  }
  },
  {
   "id": "ME-0126",
@@ -476,7 +582,14 @@
   "lat": 44.38967,
   "lng": -68.37703,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0126-cover.jpg": "Everett Cottage, house in Bar Harbor, ME",
+   "images/ME-0126-000.webp": "Everett Cottage, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0126-001.webp": "Everett Cottage, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0126-002.webp": "Everett Cottage, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0126-card.webp": "Everett Cottage, house in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0156",
@@ -504,7 +617,14 @@
   "lat": 44.1181,
   "lng": -68.3625,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0156-cover.jpg": "Great Duck Island House, house in Frenchboro, ME",
+   "images/ME-0156-000.jpg": "Great Duck Island House, Frenchboro, ME, photo 2 of 4",
+   "images/ME-0156-001.jpg": "Great Duck Island House, Frenchboro, ME, photo 3 of 4",
+   "images/ME-0156-002.jpg": "Great Duck Island House, Frenchboro, ME, photo 4 of 4",
+   "images/ME-0156-card.webp": "Great Duck Island House, house in Frenchboro, ME"
+  }
  },
  {
   "id": "ME-0209",
@@ -532,7 +652,11 @@
   "lat": 44.27822,
   "lng": -68.32479,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0209-cover.jpg": "Harbor Oasis, Southwest Harbor, ME",
+   "images/ME-0209-card.webp": "Harbor Oasis, Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0370",
@@ -560,7 +684,14 @@
   "lat": 44.27268,
   "lng": -68.32626,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0370-cover.jpg": "Harbor Watch Cottage, house in Southwest Harbor, ME",
+   "images/ME-0370-000.jpg": "Harbor Watch Cottage, Southwest Harbor, ME, photo 2 of 4",
+   "images/ME-0370-001.jpg": "Harbor Watch Cottage, Southwest Harbor, ME, photo 3 of 4",
+   "images/ME-0370-002.jpg": "Harbor Watch Cottage, Southwest Harbor, ME, photo 4 of 4",
+   "images/ME-0370-card.webp": "Harbor Watch Cottage, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0103",
@@ -588,7 +719,13 @@
   "lat": 44.27868,
   "lng": -68.33076,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0103-cover.jpg": "Hutchins Cottages at Acadia, house in Southwest Harbor, ME",
+   "images/ME-0103-000.jpg": "Hutchins Cottages at Acadia, Southwest Harbor, ME, photo 2 of 3",
+   "images/ME-0103-001.jpg": "Hutchins Cottages at Acadia, Southwest Harbor, ME, photo 3 of 3",
+   "images/ME-0103-card.webp": "Hutchins Cottages at Acadia, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0121",
@@ -616,7 +753,14 @@
   "lat": "Unknown",
   "lng": "Unknown",
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0121-cover.avif": "Lords Beach Vacation Rental, Acadia region, ME",
+   "images/ME-0121-000.jpg": "Lords Beach Vacation Rental, Acadia region, ME, photo 2 of 4",
+   "images/ME-0121-001.avif": "Lords Beach Vacation Rental, Acadia region, ME, photo 3 of 4",
+   "images/ME-0121-002.jpg": "Lords Beach Vacation Rental, Acadia region, ME, photo 4 of 4",
+   "images/ME-0121-card.webp": "Lords Beach Vacation Rental, Acadia region, ME"
+  }
  },
  {
   "id": "ME-0283",
@@ -645,7 +789,14 @@
   "lng": -68.3707,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0283-cover.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME",
+   "images/ME-0283-000.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0283-001.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0283-002.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0283-card.webp": "Maebeth Vacation Rentals, Trenton / Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0257",
@@ -674,7 +825,14 @@
   "lng": -68.2891,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0257-cover.jpg": "Maine Island Properties, Mount Desert, ME",
+   "images/ME-0257-000.jpg": "Maine Island Properties, Mount Desert, ME, photo 2 of 4",
+   "images/ME-0257-001.jpg": "Maine Island Properties, Mount Desert, ME, photo 3 of 4",
+   "images/ME-0257-002.jpg": "Maine Island Properties, Mount Desert, ME, photo 4 of 4",
+   "images/ME-0257-card.webp": "Maine Island Properties, Mount Desert, ME"
+  }
  },
  {
   "id": "ME-0008",
@@ -703,7 +861,14 @@
   "lng": -68.2043,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0008-cover.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME",
+   "images/ME-0008-000.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME, photo 2 of 4",
+   "images/ME-0008-001.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME, photo 3 of 4",
+   "images/ME-0008-002.jpg": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME, photo 4 of 4",
+   "images/ME-0008-card.webp": "Maine Retreats Collection, Bar Harbor / Old Orchard Beach / Holden, ME"
+  }
  },
  {
   "id": "ME-0128",
@@ -731,7 +896,14 @@
   "lat": 44.38944,
   "lng": -68.2118,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0128-cover.webp": "MDIsland Vacation Homes, house in Bar Harbor, ME",
+   "images/ME-0128-000.webp": "MDIsland Vacation Homes, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0128-001.webp": "MDIsland Vacation Homes, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0128-002.webp": "MDIsland Vacation Homes, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0128-card.webp": "MDIsland Vacation Homes, house in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0129",
@@ -759,7 +931,14 @@
   "lat": 44.41886,
   "lng": -68.24737,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0129-cover.jpg": "Oceansedge, Bar Harbor, ME",
+   "images/ME-0129-000.jpg": "Oceansedge, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0129-001.jpg": "Oceansedge, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0129-002.png": "Oceansedge, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0129-card.webp": "Oceansedge, Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0367",
@@ -787,7 +966,14 @@
   "lat": 44.25989,
   "lng": -68.33694,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0367-cover.jpg": "Pine Meadow Hideaway, house in Southwest Harbor, ME",
+   "images/ME-0367-000.jpg": "Pine Meadow Hideaway, Southwest Harbor, ME, photo 2 of 4",
+   "images/ME-0367-001.jpg": "Pine Meadow Hideaway, Southwest Harbor, ME, photo 3 of 4",
+   "images/ME-0367-002.jpg": "Pine Meadow Hideaway, Southwest Harbor, ME, photo 4 of 4",
+   "images/ME-0367-card.webp": "Pine Meadow Hideaway, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0365",
@@ -815,7 +1001,14 @@
   "lat": 44.2823,
   "lng": -68.32928,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0365-cover.jpg": "Quietside Cottage, house in Southwest Harbor, ME",
+   "images/ME-0365-000.jpg": "Quietside Cottage, Southwest Harbor, ME, photo 2 of 4",
+   "images/ME-0365-001.jpg": "Quietside Cottage, Southwest Harbor, ME, photo 3 of 4",
+   "images/ME-0365-002.jpg": "Quietside Cottage, Southwest Harbor, ME, photo 4 of 4",
+   "images/ME-0365-card.webp": "Quietside Cottage, house in Southwest Harbor, ME"
+  }
  },
  {
   "id": "ME-0130",
@@ -843,7 +1036,13 @@
   "lat": 44.33071,
   "lng": -68.20782,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0130-cover.webp": "Red's Garden Cottage, house in Bar Harbor, ME",
+   "images/ME-0130-000.jpg": "Red's Garden Cottage, Bar Harbor, ME, photo 2 of 3",
+   "images/ME-0130-001.jpg": "Red's Garden Cottage, Bar Harbor, ME, photo 3 of 3",
+   "images/ME-0130-card.webp": "Red's Garden Cottage, house in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0131",
@@ -872,7 +1071,14 @@
   "lng": -68.2043,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0131-cover.jpg": "Ryan Estate Rentals, Bar Harbor, ME",
+   "images/ME-0131-000.jpg": "Ryan Estate Rentals, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0131-001.jpg": "Ryan Estate Rentals, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0131-002.jpg": "Ryan Estate Rentals, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0131-card.webp": "Ryan Estate Rentals, Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0182",
@@ -904,7 +1110,14 @@
   "lat": 44.3331,
   "lng": -68.2408,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0182-cover.jpg": "Sargent Woods Cottage, house in Mount Desert Island, ME",
+   "images/ME-0182-000.jpg": "Sargent Woods Cottage, Mount Desert Island, ME, photo 2 of 4",
+   "images/ME-0182-001.jpg": "Sargent Woods Cottage, Mount Desert Island, ME, photo 3 of 4",
+   "images/ME-0182-002.jpg": "Sargent Woods Cottage, Mount Desert Island, ME, photo 4 of 4",
+   "images/ME-0182-card.webp": "Sargent Woods Cottage, house in Mount Desert Island, ME"
+  }
  },
  {
   "id": "ME-0372",
@@ -932,7 +1145,14 @@
   "lat": 44.30832,
   "lng": -68.24381,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0372-cover.jpg": "Seal Harbor Cottage, house in Seal Harbor, ME",
+   "images/ME-0372-000.jpg": "Seal Harbor Cottage, Seal Harbor, ME, photo 2 of 4",
+   "images/ME-0372-001.jpg": "Seal Harbor Cottage, Seal Harbor, ME, photo 3 of 4",
+   "images/ME-0372-002.jpg": "Seal Harbor Cottage, Seal Harbor, ME, photo 4 of 4",
+   "images/ME-0372-card.webp": "Seal Harbor Cottage, house in Seal Harbor, ME"
+  }
  },
  {
   "id": "ME-0005",
@@ -960,7 +1180,14 @@
   "lat": 44.40502,
   "lng": -68.34835,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0005-cover.jpg": "Seaside Cottages, house in Bar Harbor, ME",
+   "images/ME-0005-000.jpg": "Seaside Cottages, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0005-001.webp": "Seaside Cottages, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0005-002.jpg": "Seaside Cottages, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0005-card.webp": "Seaside Cottages, house in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0006",
@@ -988,7 +1215,14 @@
   "lat": 44.41106,
   "lng": -68.24795,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0006-cover.jpg": "Tide Watch Cabins, cabin in Bar Harbor, ME",
+   "images/ME-0006-000.avif": "Tide Watch Cabins, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0006-001.jpg": "Tide Watch Cabins, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0006-002.avif": "Tide Watch Cabins, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0006-card.webp": "Tide Watch Cabins, cabin in Bar Harbor, ME"
+  }
  },
  {
   "id": "ME-0007",
@@ -1016,6 +1250,13 @@
   "lat": 44.43158,
   "lng": -68.29467,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0007-cover.webp": "Woodland Park Cottages, house in Bar Harbor, ME",
+   "images/ME-0007-000.webp": "Woodland Park Cottages, Bar Harbor, ME, photo 2 of 4",
+   "images/ME-0007-001.webp": "Woodland Park Cottages, Bar Harbor, ME, photo 3 of 4",
+   "images/ME-0007-002.webp": "Woodland Park Cottages, Bar Harbor, ME, photo 4 of 4",
+   "images/ME-0007-card.webp": "Woodland Park Cottages, house in Bar Harbor, ME"
+  }
  }
 ]

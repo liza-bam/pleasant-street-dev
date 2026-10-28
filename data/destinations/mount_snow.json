@@ -19,7 +19,10 @@
   "lat": 42.9395,
   "lng": -72.8531,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Deerfield Valley Real Estate, house in West Dover, VT"
+  }
  },
  {
   "id": "VT-0009",
@@ -47,7 +50,13 @@
   "lat": 42.9395,
   "lng": -72.8531,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0009-000.jpg": "Mount Snow Yurt, cabin in Dover, VT",
+   "images/VT-0009-001.jpg": "Mount Snow Yurt, Dover, VT, photo 2 of 3",
+   "images/VT-0009-cover.jpg": "Mount Snow Yurt, cabin in Dover, VT",
+   "images/VT-0009-card.webp": "Mount Snow Yurt, cabin in Dover, VT"
+  }
  },
  {
   "id": "VT-0062",
@@ -75,7 +84,11 @@
   "lat": 42.9384,
   "lng": -72.85092,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0062-cover.jpg": "The 1827 House, house in West Dover, VT",
+   "images/VT-0062-card.webp": "The 1827 House, house in West Dover, VT"
+  }
  },
  {
   "id": "VT-0011",
@@ -104,7 +117,11 @@
   "lng": -72.5865,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0011-cover.jpg": "The Landmark Trust USA, Dummerston, VT",
+   "images/VT-0011-card.webp": "The Landmark Trust USA, Dummerston, VT"
+  }
  },
  {
   "id": "VT-0040",
@@ -132,7 +149,11 @@
   "lat": 42.9395,
   "lng": -72.8531,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0040-cover.webp": "Timbercrest Mansions, West Dover, VT",
+   "images/VT-0040-card.webp": "Timbercrest Mansions, West Dover, VT"
+  }
  },
  {
   "id": "VT-0042",
@@ -164,7 +185,11 @@
   "lat": 42.9395,
   "lng": -72.8531,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0042-cover.jpg": "Valley View Villa, house in West Dover, VT",
+   "images/VT-0042-card.webp": "Valley View Villa, house in West Dover, VT"
+  }
  },
  {
   "id": "VT-0061",
@@ -186,6 +211,9 @@
   "lat": 42.9395,
   "lng": -72.8531,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Vermontvacation4U, house in West Dover, VT"
+  }
  }
 ]

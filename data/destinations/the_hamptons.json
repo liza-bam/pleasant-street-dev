@@ -20,7 +20,14 @@
   "lat": 41.02933,
   "lng": -71.96945,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0031-cover.webp": "Hither House Cottages, cabin in Montauk, NY",
+   "images/NY-0031-000.webp": "Hither House Cottages, Montauk, NY, photo 2 of 4",
+   "images/NY-0031-001.webp": "Hither House Cottages, Montauk, NY, photo 3 of 4",
+   "images/NY-0031-002.webp": "Hither House Cottages, Montauk, NY, photo 4 of 4",
+   "images/NY-0031-card.webp": "Hither House Cottages, cabin in Montauk, NY"
+  }
  },
  {
   "id": "NY-0029",
@@ -43,6 +50,13 @@
   "lat": 40.82124,
   "lng": -72.6606,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0029-cover.webp": "Westhampton Vacation Rentals — Waterfront Estate, house in Westhampton, NY",
+   "images/NY-0029-000.webp": "Westhampton Vacation Rentals — Waterfront Estate, Westhampton, NY, photo 2 of 4",
+   "images/NY-0029-001.webp": "Westhampton Vacation Rentals — Waterfront Estate, Westhampton, NY, photo 3 of 4",
+   "images/NY-0029-002.webp": "Westhampton Vacation Rentals — Waterfront Estate, Westhampton, NY, photo 4 of 4",
+   "images/NY-0029-card.webp": "Westhampton Vacation Rentals — Waterfront Estate, house in Westhampton, NY"
+  }
  }
 ]

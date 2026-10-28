@@ -25,7 +25,14 @@
   "lat": 42.54216,
   "lng": -70.88578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0427-cover.webp": "#1 Top Flr Waterview~Pvt Balcony~Close to Salem, apartment in Beverly, MA",
+   "images/MA-0427-000.webp": "#1 Top Flr Waterview~Pvt Balcony~Close to Salem, Beverly, MA, photo 2 of 4",
+   "images/MA-0427-001.webp": "#1 Top Flr Waterview~Pvt Balcony~Close to Salem, Beverly, MA, photo 3 of 4",
+   "images/MA-0427-002.webp": "#1 Top Flr Waterview~Pvt Balcony~Close to Salem, Beverly, MA, photo 4 of 4",
+   "images/MA-0427-card.webp": "#1 Top Flr Waterview~Pvt Balcony~Close to Salem, apartment in Beverly, MA"
+  }
  },
  {
   "id": "MA-14010",
@@ -53,7 +60,14 @@
   "lat": 42.504184,
   "lng": -70.869281,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14010-000.webp": "0.2 Mi to Village St Dock + Modern Styling + 3 Bed, house in Marblehead, MA",
+   "images/MA-14010-001.webp": "0.2 Mi to Village St Dock + Modern Styling + 3 Bed, Marblehead, MA, photo 2 of 4",
+   "images/MA-14010-002.webp": "0.2 Mi to Village St Dock + Modern Styling + 3 Bed, Marblehead, MA, photo 3 of 4",
+   "images/MA-14010-003.webp": "0.2 Mi to Village St Dock + Modern Styling + 3 Bed, Marblehead, MA, photo 4 of 4",
+   "images/MA-14010-card.webp": "0.2 Mi to Village St Dock + Modern Styling + 3 Bed, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14016",
@@ -81,7 +95,14 @@
   "lat": 42.504061,
   "lng": -70.85062,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14016-000.webp": "1-Bed, Old Town MHD, Walkable to Harbor & Shopping, house in Marblehead, MA",
+   "images/MA-14016-001.webp": "1-Bed, Old Town MHD, Walkable to Harbor & Shopping, Marblehead, MA, photo 2 of 4",
+   "images/MA-14016-002.webp": "1-Bed, Old Town MHD, Walkable to Harbor & Shopping, Marblehead, MA, photo 3 of 4",
+   "images/MA-14016-003.webp": "1-Bed, Old Town MHD, Walkable to Harbor & Shopping, Marblehead, MA, photo 4 of 4",
+   "images/MA-14016-card.webp": "1-Bed, Old Town MHD, Walkable to Harbor & Shopping, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14023",
@@ -110,7 +131,14 @@
   "lng": -70.81235,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14023-000.webp": "10 McLeod – Marsh View, Newbury, MA",
+   "images/MA-14023-001.webp": "10 McLeod – Marsh View, Newbury, MA, photo 2 of 4",
+   "images/MA-14023-002.webp": "10 McLeod – Marsh View, Newbury, MA, photo 3 of 4",
+   "images/MA-14023-003.webp": "10 McLeod – Marsh View, Newbury, MA, photo 4 of 4",
+   "images/MA-14023-card.webp": "10 McLeod – Marsh View, Newbury, MA"
+  }
  },
  {
   "id": "MA-14053",
@@ -138,7 +166,14 @@
   "lat": 42.815339,
   "lng": -70.817473,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14053-000.webp": "101 N Reservation Terrace, house in Newburyport, MA",
+   "images/MA-14053-001.webp": "101 N Reservation Terrace, Newburyport, MA, photo 2 of 4",
+   "images/MA-14053-002.webp": "101 N Reservation Terrace, Newburyport, MA, photo 3 of 4",
+   "images/MA-14053-003.webp": "101 N Reservation Terrace, Newburyport, MA, photo 4 of 4",
+   "images/MA-14053-card.webp": "101 N Reservation Terrace, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14025",
@@ -167,7 +202,14 @@
   "lng": -70.819257,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14025-000.webp": "10R Old Point – Pine Island, house in Newburyport, MA",
+   "images/MA-14025-001.webp": "10R Old Point – Pine Island, Newburyport, MA, photo 2 of 4",
+   "images/MA-14025-002.webp": "10R Old Point – Pine Island, Newburyport, MA, photo 3 of 4",
+   "images/MA-14025-003.webp": "10R Old Point – Pine Island, Newburyport, MA, photo 4 of 4",
+   "images/MA-14025-card.webp": "10R Old Point – Pine Island, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14056",
@@ -195,7 +237,14 @@
   "lat": 42.814358,
   "lng": -70.817791,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14056-000.webp": "11 78th Street, house in Newburyport, MA",
+   "images/MA-14056-001.webp": "11 78th Street, Newburyport, MA, photo 2 of 4",
+   "images/MA-14056-002.webp": "11 78th Street, Newburyport, MA, photo 3 of 4",
+   "images/MA-14056-003.webp": "11 78th Street, Newburyport, MA, photo 4 of 4",
+   "images/MA-14056-card.webp": "11 78th Street, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14024",
@@ -224,7 +273,14 @@
   "lng": -70.81242,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14024-000.webp": "12 McLeod – High View, Newbury, MA",
+   "images/MA-14024-001.webp": "12 McLeod – High View, Newbury, MA, photo 2 of 4",
+   "images/MA-14024-002.webp": "12 McLeod – High View, Newbury, MA, photo 3 of 4",
+   "images/MA-14024-003.webp": "12 McLeod – High View, Newbury, MA, photo 4 of 4",
+   "images/MA-14024-card.webp": "12 McLeod – High View, Newbury, MA"
+  }
  },
  {
   "id": "MA-14026",
@@ -253,7 +309,14 @@
   "lng": -70.812727,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14026-000.webp": "12R Old Point – Ice Breaker, house in Newbury, MA",
+   "images/MA-14026-001.webp": "12R Old Point – Ice Breaker, Newbury, MA, photo 2 of 4",
+   "images/MA-14026-002.webp": "12R Old Point – Ice Breaker, Newbury, MA, photo 3 of 4",
+   "images/MA-14026-003.webp": "12R Old Point – Ice Breaker, Newbury, MA, photo 4 of 4",
+   "images/MA-14026-card.webp": "12R Old Point – Ice Breaker, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14055",
@@ -281,7 +344,14 @@
   "lat": 42.810322,
   "lng": -70.809847,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14055-000.webp": "15 49th Street, house in Newbury, MA",
+   "images/MA-14055-001.webp": "15 49th Street, Newbury, MA, photo 2 of 4",
+   "images/MA-14055-002.webp": "15 49th Street, Newbury, MA, photo 3 of 4",
+   "images/MA-14055-003.webp": "15 49th Street, Newbury, MA, photo 4 of 4",
+   "images/MA-14055-card.webp": "15 49th Street, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14043",
@@ -309,7 +379,14 @@
   "lat": 42.815114,
   "lng": -70.819925,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14043-000.webp": "17 82nd St., house in Newburyport, MA",
+   "images/MA-14043-001.webp": "17 82nd St., Newburyport, MA, photo 2 of 4",
+   "images/MA-14043-002.webp": "17 82nd St., Newburyport, MA, photo 3 of 4",
+   "images/MA-14043-003.webp": "17 82nd St., Newburyport, MA, photo 4 of 4",
+   "images/MA-14043-card.webp": "17 82nd St., house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14035",
@@ -337,7 +414,14 @@
   "lat": 42.808527,
   "lng": -70.821338,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14035-000.webp": "17 L Street, house in Newburyport, MA",
+   "images/MA-14035-001.webp": "17 L Street, Newburyport, MA, photo 2 of 4",
+   "images/MA-14035-002.webp": "17 L Street, Newburyport, MA, photo 3 of 4",
+   "images/MA-14035-003.webp": "17 L Street, Newburyport, MA, photo 4 of 4",
+   "images/MA-14035-card.webp": "17 L Street, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14095",
@@ -365,7 +449,14 @@
   "lat": 42.8054,
   "lng": -70.809463,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14095-000.webp": "2BR Coastal Home Across From Beach, house in Newbury, MA",
+   "images/MA-14095-001.webp": "2BR Coastal Home Across From Beach, Newbury, MA, photo 2 of 4",
+   "images/MA-14095-002.webp": "2BR Coastal Home Across From Beach, Newbury, MA, photo 3 of 4",
+   "images/MA-14095-003.webp": "2BR Coastal Home Across From Beach, Newbury, MA, photo 4 of 4",
+   "images/MA-14095-card.webp": "2BR Coastal Home Across From Beach, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14088",
@@ -393,7 +484,14 @@
   "lat": 42.807915,
   "lng": -70.818928,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14088-000.webp": "2BR Cottage Near Basin & Beach, house in Newburyport, MA",
+   "images/MA-14088-001.webp": "2BR Cottage Near Basin & Beach, Newburyport, MA, photo 2 of 4",
+   "images/MA-14088-002.webp": "2BR Cottage Near Basin & Beach, Newburyport, MA, photo 3 of 4",
+   "images/MA-14088-003.webp": "2BR Cottage Near Basin & Beach, Newburyport, MA, photo 4 of 4",
+   "images/MA-14088-card.webp": "2BR Cottage Near Basin & Beach, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14089",
@@ -421,7 +519,14 @@
   "lat": 42.811301,
   "lng": -70.867758,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14089-000.webp": "2BR Home With Private Yard, house in Newburyport, MA",
+   "images/MA-14089-001.webp": "2BR Home With Private Yard, Newburyport, MA, photo 2 of 4",
+   "images/MA-14089-002.webp": "2BR Home With Private Yard, Newburyport, MA, photo 3 of 4",
+   "images/MA-14089-003.webp": "2BR Home With Private Yard, Newburyport, MA, photo 4 of 4",
+   "images/MA-14089-card.webp": "2BR Home With Private Yard, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14058",
@@ -449,7 +554,14 @@
   "lat": 42.797484,
   "lng": -70.808728,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14058-000.webp": "30 Annapolis Way, house in Newbury, MA",
+   "images/MA-14058-001.webp": "30 Annapolis Way, Newbury, MA, photo 2 of 4",
+   "images/MA-14058-002.webp": "30 Annapolis Way, Newbury, MA, photo 3 of 4",
+   "images/MA-14058-003.webp": "30 Annapolis Way, Newbury, MA, photo 4 of 4",
+   "images/MA-14058-card.webp": "30 Annapolis Way, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14041",
@@ -477,7 +589,14 @@
   "lat": 42.795946,
   "lng": -70.808679,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14041-000.webp": "32 Southern Blvd., house in Newbury, MA",
+   "images/MA-14041-001.webp": "32 Southern Blvd., Newbury, MA, photo 2 of 4",
+   "images/MA-14041-002.webp": "32 Southern Blvd., Newbury, MA, photo 3 of 4",
+   "images/MA-14041-003.webp": "32 Southern Blvd., Newbury, MA, photo 4 of 4",
+   "images/MA-14041-card.webp": "32 Southern Blvd., house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14034",
@@ -505,7 +624,14 @@
   "lat": 42.801874,
   "lng": -70.814184,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14034-000.webp": "34 Old Point Rd, house in Newbury, MA",
+   "images/MA-14034-001.webp": "34 Old Point Rd, Newbury, MA, photo 2 of 4",
+   "images/MA-14034-002.webp": "34 Old Point Rd, Newbury, MA, photo 3 of 4",
+   "images/MA-14034-003.webp": "34 Old Point Rd, Newbury, MA, photo 4 of 4",
+   "images/MA-14034-card.webp": "34 Old Point Rd, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14050",
@@ -533,7 +659,14 @@
   "lat": 42.795069,
   "lng": -70.81143,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14050-000.webp": "35 Sunset Drive, house in Newbury, MA",
+   "images/MA-14050-001.webp": "35 Sunset Drive, Newbury, MA, photo 2 of 4",
+   "images/MA-14050-002.webp": "35 Sunset Drive, Newbury, MA, photo 3 of 4",
+   "images/MA-14050-003.webp": "35 Sunset Drive, Newbury, MA, photo 4 of 4",
+   "images/MA-14050-card.webp": "35 Sunset Drive, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14037",
@@ -561,7 +694,14 @@
   "lat": 42.801858,
   "lng": -70.814368,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14037-000.webp": "36 Old Point Rd, house in Newbury, MA",
+   "images/MA-14037-001.webp": "36 Old Point Rd, Newbury, MA, photo 2 of 4",
+   "images/MA-14037-002.webp": "36 Old Point Rd, Newbury, MA, photo 3 of 4",
+   "images/MA-14037-003.webp": "36 Old Point Rd, Newbury, MA, photo 4 of 4",
+   "images/MA-14037-card.webp": "36 Old Point Rd, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14100",
@@ -589,7 +729,14 @@
   "lat": 42.802089,
   "lng": -70.809517,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14100-000.webp": "3BR Coastal Home Near The Ocean, house in Newbury, MA",
+   "images/MA-14100-001.webp": "3BR Coastal Home Near The Ocean, Newbury, MA, photo 2 of 4",
+   "images/MA-14100-002.webp": "3BR Coastal Home Near The Ocean, Newbury, MA, photo 3 of 4",
+   "images/MA-14100-003.webp": "3BR Coastal Home Near The Ocean, Newbury, MA, photo 4 of 4",
+   "images/MA-14100-card.webp": "3BR Coastal Home Near The Ocean, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14102",
@@ -617,7 +764,14 @@
   "lat": 42.807932,
   "lng": -70.86446,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14102-000.webp": "3BR Historic Townhouse Near Waterfront, house in Newburyport, MA",
+   "images/MA-14102-001.webp": "3BR Historic Townhouse Near Waterfront, Newburyport, MA, photo 2 of 4",
+   "images/MA-14102-002.webp": "3BR Historic Townhouse Near Waterfront, Newburyport, MA, photo 3 of 4",
+   "images/MA-14102-003.webp": "3BR Historic Townhouse Near Waterfront, Newburyport, MA, photo 4 of 4",
+   "images/MA-14102-card.webp": "3BR Historic Townhouse Near Waterfront, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14091",
@@ -645,7 +799,14 @@
   "lat": 42.815369,
   "lng": -70.818161,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14091-000.webp": "3BR Home Near Lighthouse, house in Newburyport, MA",
+   "images/MA-14091-001.webp": "3BR Home Near Lighthouse, Newburyport, MA, photo 2 of 4",
+   "images/MA-14091-002.webp": "3BR Home Near Lighthouse, Newburyport, MA, photo 3 of 4",
+   "images/MA-14091-003.webp": "3BR Home Near Lighthouse, Newburyport, MA, photo 4 of 4",
+   "images/MA-14091-card.webp": "3BR Home Near Lighthouse, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14086",
@@ -673,7 +834,14 @@
   "lat": 42.812404,
   "lng": -70.814981,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14086-000.webp": "3BR Home With Basin Views, house in Newburyport, MA",
+   "images/MA-14086-001.webp": "3BR Home With Basin Views, Newburyport, MA, photo 2 of 4",
+   "images/MA-14086-002.webp": "3BR Home With Basin Views, Newburyport, MA, photo 3 of 4",
+   "images/MA-14086-003.webp": "3BR Home With Basin Views, Newburyport, MA, photo 4 of 4",
+   "images/MA-14086-card.webp": "3BR Home With Basin Views, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14082",
@@ -701,7 +869,14 @@
   "lat": 42.835122,
   "lng": -70.817221,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14082-000.webp": "3BR Retreat Near Boardwalk, house in Salisbury, MA",
+   "images/MA-14082-001.webp": "3BR Retreat Near Boardwalk, Salisbury, MA, photo 2 of 4",
+   "images/MA-14082-002.webp": "3BR Retreat Near Boardwalk, Salisbury, MA, photo 3 of 4",
+   "images/MA-14082-003.webp": "3BR Retreat Near Boardwalk, Salisbury, MA, photo 4 of 4",
+   "images/MA-14082-card.webp": "3BR Retreat Near Boardwalk, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14048",
@@ -729,7 +904,14 @@
   "lat": 42.804949,
   "lng": -70.8098,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14048-000.webp": "4 28th Street, house in Newbury, MA",
+   "images/MA-14048-001.webp": "4 28th Street, Newbury, MA, photo 2 of 4",
+   "images/MA-14048-002.webp": "4 28th Street, Newbury, MA, photo 3 of 4",
+   "images/MA-14048-003.webp": "4 28th Street, Newbury, MA, photo 4 of 4",
+   "images/MA-14048-card.webp": "4 28th Street, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14051",
@@ -757,7 +939,14 @@
   "lat": 42.807805,
   "lng": -70.809685,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14051-000.webp": "4 39th St., house in Newbury, MA",
+   "images/MA-14051-001.webp": "4 39th St., Newbury, MA, photo 2 of 4",
+   "images/MA-14051-002.webp": "4 39th St., Newbury, MA, photo 3 of 4",
+   "images/MA-14051-003.webp": "4 39th St., Newbury, MA, photo 4 of 4",
+   "images/MA-14051-card.webp": "4 39th St., house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14027",
@@ -786,7 +975,14 @@
   "lng": -70.812475,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14027-000.webp": "4 McLeod – The Basin, house in Newbury, MA",
+   "images/MA-14027-001.webp": "4 McLeod – The Basin, Newbury, MA, photo 2 of 4",
+   "images/MA-14027-002.webp": "4 McLeod – The Basin, Newbury, MA, photo 3 of 4",
+   "images/MA-14027-003.webp": "4 McLeod – The Basin, Newbury, MA, photo 4 of 4",
+   "images/MA-14027-card.webp": "4 McLeod – The Basin, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14009",
@@ -814,7 +1010,14 @@
   "lat": 42.511742,
   "lng": -70.850051,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14009-000.webp": "4-Bed Home w/Pool, Walking Trails, Dog-Friendly, house in Marblehead, MA",
+   "images/MA-14009-001.webp": "4-Bed Home w/Pool, Walking Trails, Dog-Friendly, Marblehead, MA, photo 2 of 4",
+   "images/MA-14009-002.webp": "4-Bed Home w/Pool, Walking Trails, Dog-Friendly, Marblehead, MA, photo 3 of 4",
+   "images/MA-14009-003.webp": "4-Bed Home w/Pool, Walking Trails, Dog-Friendly, Marblehead, MA, photo 4 of 4",
+   "images/MA-14009-card.webp": "4-Bed Home w/Pool, Walking Trails, Dog-Friendly, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14099",
@@ -842,7 +1045,14 @@
   "lat": 42.809936,
   "lng": -70.810393,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14099-000.webp": "4BR Home Steps From The Beach, house in Newbury, MA",
+   "images/MA-14099-001.webp": "4BR Home Steps From The Beach, Newbury, MA, photo 2 of 4",
+   "images/MA-14099-002.webp": "4BR Home Steps From The Beach, Newbury, MA, photo 3 of 4",
+   "images/MA-14099-003.webp": "4BR Home Steps From The Beach, Newbury, MA, photo 4 of 4",
+   "images/MA-14099-card.webp": "4BR Home Steps From The Beach, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14052",
@@ -870,7 +1080,14 @@
   "lat": 42.808056,
   "lng": -70.809698,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14052-000.webp": "5 39th Street, house in Newbury, MA",
+   "images/MA-14052-001.webp": "5 39th Street, Newbury, MA, photo 2 of 4",
+   "images/MA-14052-002.webp": "5 39th Street, Newbury, MA, photo 3 of 4",
+   "images/MA-14052-003.webp": "5 39th Street, Newbury, MA, photo 4 of 4",
+   "images/MA-14052-card.webp": "5 39th Street, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14028",
@@ -899,7 +1116,14 @@
   "lng": -70.8458,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14028-000.webp": "5B Plum Island Blvd – South Jetty, Newbury, MA",
+   "images/MA-14028-001.webp": "5B Plum Island Blvd – South Jetty, Newbury, MA, photo 2 of 4",
+   "images/MA-14028-002.webp": "5B Plum Island Blvd – South Jetty, Newbury, MA, photo 3 of 4",
+   "images/MA-14028-003.webp": "5B Plum Island Blvd – South Jetty, Newbury, MA, photo 4 of 4",
+   "images/MA-14028-card.webp": "5B Plum Island Blvd – South Jetty, Newbury, MA"
+  }
  },
  {
   "id": "MA-14080",
@@ -927,7 +1151,14 @@
   "lat": 42.80039,
   "lng": -70.810046,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14080-000.webp": "5BR Home Steps From The Beach, house in Newbury, MA",
+   "images/MA-14080-001.webp": "5BR Home Steps From The Beach, Newbury, MA, photo 2 of 4",
+   "images/MA-14080-002.webp": "5BR Home Steps From The Beach, Newbury, MA, photo 3 of 4",
+   "images/MA-14080-003.webp": "5BR Home Steps From The Beach, Newbury, MA, photo 4 of 4",
+   "images/MA-14080-card.webp": "5BR Home Steps From The Beach, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14054",
@@ -955,7 +1186,14 @@
   "lat": 42.7665,
   "lng": -70.8458,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14054-000.webp": "6 2nd St., house in Newbury, MA",
+   "images/MA-14054-001.webp": "6 2nd St., Newbury, MA, photo 2 of 4",
+   "images/MA-14054-002.webp": "6 2nd St., Newbury, MA, photo 3 of 4",
+   "images/MA-14054-003.webp": "6 2nd St., Newbury, MA, photo 4 of 4",
+   "images/MA-14054-card.webp": "6 2nd St., house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14046",
@@ -983,7 +1221,14 @@
   "lat": 42.808223,
   "lng": -70.811322,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14046-000.webp": "6 46th Street, house in Newbury, MA",
+   "images/MA-14046-001.webp": "6 46th Street, Newbury, MA, photo 2 of 4",
+   "images/MA-14046-002.webp": "6 46th Street, Newbury, MA, photo 3 of 4",
+   "images/MA-14046-003.webp": "6 46th Street, Newbury, MA, photo 4 of 4",
+   "images/MA-14046-card.webp": "6 46th Street, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14045",
@@ -1011,7 +1256,14 @@
   "lat": 42.7665,
   "lng": -70.8458,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14045-000.webp": "6 4th St., house in Newbury, MA",
+   "images/MA-14045-001.webp": "6 4th St., Newbury, MA, photo 2 of 4",
+   "images/MA-14045-002.webp": "6 4th St., Newbury, MA, photo 3 of 4",
+   "images/MA-14045-003.webp": "6 4th St., Newbury, MA, photo 4 of 4",
+   "images/MA-14045-card.webp": "6 4th St., house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14044",
@@ -1039,7 +1291,14 @@
   "lat": 42.803393,
   "lng": -70.809034,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14044-000.webp": "64 Northern Blvd, house in Newbury, MA",
+   "images/MA-14044-001.webp": "64 Northern Blvd, Newbury, MA, photo 2 of 4",
+   "images/MA-14044-002.webp": "64 Northern Blvd, Newbury, MA, photo 3 of 4",
+   "images/MA-14044-003.webp": "64 Northern Blvd, Newbury, MA, photo 4 of 4",
+   "images/MA-14044-card.webp": "64 Northern Blvd, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14040",
@@ -1067,7 +1326,14 @@
   "lat": 42.792975,
   "lng": -70.808892,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14040-000.webp": "68 Southern Blvd, house in Newbury, MA",
+   "images/MA-14040-001.webp": "68 Southern Blvd, Newbury, MA, photo 2 of 4",
+   "images/MA-14040-002.webp": "68 Southern Blvd, Newbury, MA, photo 3 of 4",
+   "images/MA-14040-003.webp": "68 Southern Blvd, Newbury, MA, photo 4 of 4",
+   "images/MA-14040-card.webp": "68 Southern Blvd, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14029",
@@ -1096,7 +1362,14 @@
   "lng": -70.812467,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14029-000.webp": "8 McLeod – North Jetty, Newbury, MA",
+   "images/MA-14029-001.webp": "8 McLeod – North Jetty, Newbury, MA, photo 2 of 4",
+   "images/MA-14029-002.webp": "8 McLeod – North Jetty, Newbury, MA, photo 3 of 4",
+   "images/MA-14029-003.webp": "8 McLeod – North Jetty, Newbury, MA, photo 4 of 4",
+   "images/MA-14029-card.webp": "8 McLeod – North Jetty, Newbury, MA"
+  }
  },
  {
   "id": "MA-14049",
@@ -1124,7 +1397,14 @@
   "lat": 42.815401,
   "lng": -70.819743,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14049-000.webp": "8 Point Rd., house in Newburyport, MA",
+   "images/MA-14049-001.webp": "8 Point Rd., Newburyport, MA, photo 2 of 4",
+   "images/MA-14049-002.webp": "8 Point Rd., Newburyport, MA, photo 3 of 4",
+   "images/MA-14049-003.webp": "8 Point Rd., Newburyport, MA, photo 4 of 4",
+   "images/MA-14049-card.webp": "8 Point Rd., house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-14057",
@@ -1152,7 +1432,14 @@
   "lat": 42.804738,
   "lng": -70.80944,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14057-000.webp": "81 NORTHERN, house in Newbury, MA",
+   "images/MA-14057-001.webp": "81 NORTHERN, Newbury, MA, photo 2 of 4",
+   "images/MA-14057-002.webp": "81 NORTHERN, Newbury, MA, photo 3 of 4",
+   "images/MA-14057-003.webp": "81 NORTHERN, Newbury, MA, photo 4 of 4",
+   "images/MA-14057-card.webp": "81 NORTHERN, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14030",
@@ -1181,7 +1468,14 @@
   "lng": -70.812719,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14030-000.webp": "8R Old Point – Halfway Rocks, house in Newbury, MA",
+   "images/MA-14030-001.webp": "8R Old Point – Halfway Rocks, Newbury, MA, photo 2 of 4",
+   "images/MA-14030-002.webp": "8R Old Point – Halfway Rocks, Newbury, MA, photo 3 of 4",
+   "images/MA-14030-003.webp": "8R Old Point – Halfway Rocks, Newbury, MA, photo 4 of 4",
+   "images/MA-14030-card.webp": "8R Old Point – Halfway Rocks, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14039",
@@ -1209,7 +1503,14 @@
   "lat": 42.802155,
   "lng": -70.81019,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14039-000.webp": "9 16th St., house in Newbury, MA",
+   "images/MA-14039-001.webp": "9 16th St., Newbury, MA, photo 2 of 4",
+   "images/MA-14039-002.webp": "9 16th St., Newbury, MA, photo 3 of 4",
+   "images/MA-14039-003.webp": "9 16th St., Newbury, MA, photo 4 of 4",
+   "images/MA-14039-card.webp": "9 16th St., house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14038",
@@ -1237,7 +1538,14 @@
   "lat": 42.809038,
   "lng": -70.809658,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14038-000.webp": "9 43rd St., house in Newbury, MA",
+   "images/MA-14038-001.webp": "9 43rd St., Newbury, MA, photo 2 of 4",
+   "images/MA-14038-002.webp": "9 43rd St., Newbury, MA, photo 3 of 4",
+   "images/MA-14038-003.webp": "9 43rd St., Newbury, MA, photo 4 of 4",
+   "images/MA-14038-card.webp": "9 43rd St., house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14047",
@@ -1265,7 +1573,14 @@
   "lat": 42.805249,
   "lng": -70.815685,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14047-000.webp": "9 Brock Ave., house in Newbury, MA",
+   "images/MA-14047-001.webp": "9 Brock Ave., Newbury, MA, photo 2 of 4",
+   "images/MA-14047-002.webp": "9 Brock Ave., Newbury, MA, photo 3 of 4",
+   "images/MA-14047-003.webp": "9 Brock Ave., Newbury, MA, photo 4 of 4",
+   "images/MA-14047-card.webp": "9 Brock Ave., house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14036",
@@ -1293,7 +1608,14 @@
   "lat": 42.797679,
   "lng": -70.809208,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14036-000.webp": "9 Southern Blvd, house in Newbury, MA",
+   "images/MA-14036-001.webp": "9 Southern Blvd, Newbury, MA, photo 2 of 4",
+   "images/MA-14036-002.webp": "9 Southern Blvd, Newbury, MA, photo 3 of 4",
+   "images/MA-14036-003.webp": "9 Southern Blvd, Newbury, MA, photo 4 of 4",
+   "images/MA-14036-card.webp": "9 Southern Blvd, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14042",
@@ -1321,7 +1643,14 @@
   "lat": 42.815199,
   "lng": -70.816792,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14042-000.webp": "99 N Reservation Terr., house in Newburyport, MA",
+   "images/MA-14042-001.webp": "99 N Reservation Terr., Newburyport, MA, photo 2 of 4",
+   "images/MA-14042-002.webp": "99 N Reservation Terr., Newburyport, MA, photo 3 of 4",
+   "images/MA-14042-003.webp": "99 N Reservation Terr., Newburyport, MA, photo 4 of 4",
+   "images/MA-14042-card.webp": "99 N Reservation Terr., house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-0204",
@@ -1349,7 +1678,14 @@
   "lat": 42.6154,
   "lng": -70.6625,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0204-cover.webp": "Accommodations at Rocky Neck, Gloucester, MA",
+   "images/MA-0204-000.webp": "Accommodations at Rocky Neck, Gloucester, MA, photo 2 of 4",
+   "images/MA-0204-001.webp": "Accommodations at Rocky Neck, Gloucester, MA, photo 3 of 4",
+   "images/MA-0204-002.webp": "Accommodations at Rocky Neck, Gloucester, MA, photo 4 of 4",
+   "images/MA-0204-card.webp": "Accommodations at Rocky Neck, Gloucester, MA"
+  }
  },
  {
   "id": "MA-14094",
@@ -1377,7 +1713,14 @@
   "lat": 42.839389,
   "lng": -70.817101,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14094-000.webp": "Addie Shack & Cammie Cabana, house in Salisbury, MA",
+   "images/MA-14094-001.webp": "Addie Shack & Cammie Cabana, Salisbury, MA, photo 2 of 4",
+   "images/MA-14094-002.webp": "Addie Shack & Cammie Cabana, Salisbury, MA, photo 3 of 4",
+   "images/MA-14094-003.webp": "Addie Shack & Cammie Cabana, Salisbury, MA, photo 4 of 4",
+   "images/MA-14094-card.webp": "Addie Shack & Cammie Cabana, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14109",
@@ -1406,7 +1749,14 @@
   "lng": -70.901571,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14109-000.webp": "Afternoon Delight, house in Beverly, MA",
+   "images/MA-14109-001.webp": "Afternoon Delight, Beverly, MA, photo 2 of 4",
+   "images/MA-14109-002.webp": "Afternoon Delight, Beverly, MA, photo 3 of 4",
+   "images/MA-14109-003.webp": "Afternoon Delight, Beverly, MA, photo 4 of 4",
+   "images/MA-14109-card.webp": "Afternoon Delight, house in Beverly, MA"
+  }
  },
  {
   "id": "MA-14110",
@@ -1435,7 +1785,14 @@
   "lng": -70.6835,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14110-000.webp": "Annisquam Singing Pines, house in Gloucester, MA",
+   "images/MA-14110-001.webp": "Annisquam Singing Pines, Gloucester, MA, photo 2 of 4",
+   "images/MA-14110-002.webp": "Annisquam Singing Pines, Gloucester, MA, photo 3 of 4",
+   "images/MA-14110-003.webp": "Annisquam Singing Pines, Gloucester, MA, photo 4 of 4",
+   "images/MA-14110-card.webp": "Annisquam Singing Pines, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0202",
@@ -1464,7 +1821,14 @@
   "lng": -70.6625,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0202-cover.webp": "Atlantic Vacation Homes, Gloucester, MA",
+   "images/MA-0202-000.webp": "Atlantic Vacation Homes, Gloucester, MA, photo 2 of 4",
+   "images/MA-0202-001.webp": "Atlantic Vacation Homes, Gloucester, MA, photo 3 of 4",
+   "images/MA-0202-002.webp": "Atlantic Vacation Homes, Gloucester, MA, photo 4 of 4",
+   "images/MA-0202-card.webp": "Atlantic Vacation Homes, Gloucester, MA"
+  }
  },
  {
   "id": "MA-14069",
@@ -1493,7 +1857,14 @@
   "lng": -70.624851,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14069-000.webp": "Back Beach, house in Rockport, MA",
+   "images/MA-14069-001.webp": "Back Beach, Rockport, MA, photo 2 of 4",
+   "images/MA-14069-002.webp": "Back Beach, Rockport, MA, photo 3 of 4",
+   "images/MA-14069-003.webp": "Back Beach, Rockport, MA, photo 4 of 4",
+   "images/MA-14069-card.webp": "Back Beach, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14103",
@@ -1521,7 +1892,14 @@
   "lat": 42.811316,
   "lng": -70.814699,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14103-000.webp": "Basin House With Water Views, house in Newburyport, MA",
+   "images/MA-14103-001.webp": "Basin House With Water Views, Newburyport, MA, photo 2 of 4",
+   "images/MA-14103-002.webp": "Basin House With Water Views, Newburyport, MA, photo 3 of 4",
+   "images/MA-14103-003.webp": "Basin House With Water Views, Newburyport, MA, photo 4 of 4",
+   "images/MA-14103-card.webp": "Basin House With Water Views, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-0429",
@@ -1549,7 +1927,14 @@
   "lat": 42.85594,
   "lng": -70.81746,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0429-cover.webp": "Beach Access|AC|Free Parking|New Listing Discount, apartment in Salisbury, MA",
+   "images/MA-0429-000.webp": "Beach Access|AC|Free Parking|New Listing Discount, Salisbury, MA, photo 2 of 4",
+   "images/MA-0429-001.webp": "Beach Access|AC|Free Parking|New Listing Discount, Salisbury, MA, photo 3 of 4",
+   "images/MA-0429-002.webp": "Beach Access|AC|Free Parking|New Listing Discount, Salisbury, MA, photo 4 of 4",
+   "images/MA-0429-card.webp": "Beach Access|AC|Free Parking|New Listing Discount, apartment in Salisbury, MA"
+  }
  },
  {
   "id": "MA-0432",
@@ -1577,7 +1962,14 @@
   "lat": 42.84679,
   "lng": -70.81705,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0432-cover.webp": "Beach Access|Free Parking|Grill, house in Salisbury, MA",
+   "images/MA-0432-000.webp": "Beach Access|Free Parking|Grill, Salisbury, MA, photo 2 of 4",
+   "images/MA-0432-001.webp": "Beach Access|Free Parking|Grill, Salisbury, MA, photo 3 of 4",
+   "images/MA-0432-002.webp": "Beach Access|Free Parking|Grill, Salisbury, MA, photo 4 of 4",
+   "images/MA-0432-card.webp": "Beach Access|Free Parking|Grill, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14111",
@@ -1606,7 +1998,14 @@
   "lng": -70.623791,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14111-000.webp": "Beach Bound, house in Gloucester, MA",
+   "images/MA-14111-001.webp": "Beach Bound, Gloucester, MA, photo 2 of 4",
+   "images/MA-14111-002.webp": "Beach Bound, Gloucester, MA, photo 3 of 4",
+   "images/MA-14111-003.webp": "Beach Bound, Gloucester, MA, photo 4 of 4",
+   "images/MA-14111-card.webp": "Beach Bound, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14112",
@@ -1635,7 +2034,14 @@
   "lng": -70.611854,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14112-000.webp": "Beach Bungalow, house in Rockport, MA",
+   "images/MA-14112-001.webp": "Beach Bungalow, Rockport, MA, photo 2 of 4",
+   "images/MA-14112-002.webp": "Beach Bungalow, Rockport, MA, photo 3 of 4",
+   "images/MA-14112-003.webp": "Beach Bungalow, Rockport, MA, photo 4 of 4",
+   "images/MA-14112-card.webp": "Beach Bungalow, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14022",
@@ -1663,7 +2069,14 @@
   "lat": 42.62,
   "lng": -70.64,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14022-000.webp": "Beach Retreat, house in Gloucester, MA",
+   "images/MA-14022-001.webp": "Beach Retreat, Gloucester, MA, photo 2 of 4",
+   "images/MA-14022-002.webp": "Beach Retreat, Gloucester, MA, photo 3 of 4",
+   "images/MA-14022-003.webp": "Beach Retreat, Gloucester, MA, photo 4 of 4",
+   "images/MA-14022-card.webp": "Beach Retreat, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0434",
@@ -1691,7 +2104,14 @@
   "lat": 42.84679,
   "lng": -70.81705,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0434-cover.webp": "Beachfront Bungalow | Fire Pit | Private Balcony, house in Salisbury, MA",
+   "images/MA-0434-000.webp": "Beachfront Bungalow | Fire Pit | Private Balcony, Salisbury, MA, photo 2 of 4",
+   "images/MA-0434-001.webp": "Beachfront Bungalow | Fire Pit | Private Balcony, Salisbury, MA, photo 3 of 4",
+   "images/MA-0434-002.webp": "Beachfront Bungalow | Fire Pit | Private Balcony, Salisbury, MA, photo 4 of 4",
+   "images/MA-0434-card.webp": "Beachfront Bungalow | Fire Pit | Private Balcony, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-0433",
@@ -1719,7 +2139,14 @@
   "lat": 42.84679,
   "lng": -70.81705,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0433-cover.webp": "Beachfront Bungalow: beachyard, close to boardwalk, house in Salisbury, MA",
+   "images/MA-0433-000.webp": "Beachfront Bungalow: beachyard, close to boardwalk, Salisbury, MA, photo 2 of 4",
+   "images/MA-0433-001.webp": "Beachfront Bungalow: beachyard, close to boardwalk, Salisbury, MA, photo 3 of 4",
+   "images/MA-0433-002.webp": "Beachfront Bungalow: beachyard, close to boardwalk, Salisbury, MA, photo 4 of 4",
+   "images/MA-0433-card.webp": "Beachfront Bungalow: beachyard, close to boardwalk, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14068",
@@ -1748,7 +2175,14 @@
   "lng": -70.615798,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14068-000.webp": "Bearskin Neck, house in Rockport, MA",
+   "images/MA-14068-001.webp": "Bearskin Neck, Rockport, MA, photo 2 of 4",
+   "images/MA-14068-002.webp": "Bearskin Neck, Rockport, MA, photo 3 of 4",
+   "images/MA-14068-003.webp": "Bearskin Neck, Rockport, MA, photo 4 of 4",
+   "images/MA-14068-card.webp": "Bearskin Neck, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14000",
@@ -1776,7 +2210,14 @@
   "lat": 42.6154,
   "lng": -70.6625,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14000-000.webp": "Between 2 Beaches, Gloucester, MA",
+   "images/MA-14000-001.webp": "Between 2 Beaches, Gloucester, MA, photo 2 of 4",
+   "images/MA-14000-002.webp": "Between 2 Beaches, Gloucester, MA, photo 3 of 4",
+   "images/MA-14000-003.webp": "Between 2 Beaches, Gloucester, MA, photo 4 of 4",
+   "images/MA-14000-card.webp": "Between 2 Beaches, Gloucester, MA"
+  }
  },
  {
   "id": "MA-14076",
@@ -1805,7 +2246,14 @@
   "lng": -70.884964,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14076-000.webp": "Beverly Shops, house in Beverly, MA",
+   "images/MA-14076-001.webp": "Beverly Shops, Beverly, MA, photo 2 of 4",
+   "images/MA-14076-002.webp": "Beverly Shops, Beverly, MA, photo 3 of 4",
+   "images/MA-14076-003.webp": "Beverly Shops, Beverly, MA, photo 4 of 4",
+   "images/MA-14076-card.webp": "Beverly Shops, house in Beverly, MA"
+  }
  },
  {
   "id": "MA-0258",
@@ -1833,7 +2281,14 @@
   "lat": 42.657345,
   "lng": -70.612386,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0258-cover.webp": "Book The Last Of Summer In Rockport!, Rockport, MA",
+   "images/MA-0258-000.webp": "Book The Last Of Summer In Rockport!, Rockport, MA, photo 2 of 4",
+   "images/MA-0258-001.webp": "Book The Last Of Summer In Rockport!, Rockport, MA, photo 3 of 4",
+   "images/MA-0258-002.webp": "Book The Last Of Summer In Rockport!, Rockport, MA, photo 4 of 4",
+   "images/MA-0258-card.webp": "Book The Last Of Summer In Rockport!, Rockport, MA"
+  }
  },
  {
   "id": "MA-14113",
@@ -1862,7 +2317,14 @@
   "lng": -70.763539,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14113-000.webp": "Booth Cottage, house in Manchester-by-the-Sea, MA",
+   "images/MA-14113-001.webp": "Booth Cottage, Manchester-by-the-Sea, MA, photo 2 of 4",
+   "images/MA-14113-002.webp": "Booth Cottage, Manchester-by-the-Sea, MA, photo 3 of 4",
+   "images/MA-14113-003.webp": "Booth Cottage, Manchester-by-the-Sea, MA, photo 4 of 4",
+   "images/MA-14113-card.webp": "Booth Cottage, house in Manchester-by-the-Sea, MA"
+  }
  },
  {
   "id": "MA-14097",
@@ -1890,7 +2352,14 @@
   "lat": 42.801872,
   "lng": -70.809044,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14097-000.webp": "Camp46 Beach House, house in Newbury, MA",
+   "images/MA-14097-001.webp": "Camp46 Beach House, Newbury, MA, photo 2 of 4",
+   "images/MA-14097-002.webp": "Camp46 Beach House, Newbury, MA, photo 3 of 4",
+   "images/MA-14097-003.webp": "Camp46 Beach House, Newbury, MA, photo 4 of 4",
+   "images/MA-14097-card.webp": "Camp46 Beach House, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-0211",
@@ -1913,7 +2382,10 @@
   "lat": 42.6327,
   "lng": -70.7804,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Cape Ann Beach Cottages, house in Essex, MA"
+  }
  },
  {
   "id": "MA-14114",
@@ -1942,7 +2414,14 @@
   "lng": -70.611671,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14114-000.webp": "Cape Hedge House, house in Rockport, MA",
+   "images/MA-14114-001.webp": "Cape Hedge House, Rockport, MA, photo 2 of 4",
+   "images/MA-14114-002.webp": "Cape Hedge House, Rockport, MA, photo 3 of 4",
+   "images/MA-14114-003.webp": "Cape Hedge House, Rockport, MA, photo 4 of 4",
+   "images/MA-14114-card.webp": "Cape Hedge House, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14115",
@@ -1971,7 +2450,14 @@
   "lng": -70.626514,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14115-000.webp": "Captain John Butman House, house in Rockport, MA",
+   "images/MA-14115-001.webp": "Captain John Butman House, Rockport, MA, photo 2 of 4",
+   "images/MA-14115-002.webp": "Captain John Butman House, Rockport, MA, photo 3 of 4",
+   "images/MA-14115-003.webp": "Captain John Butman House, Rockport, MA, photo 4 of 4",
+   "images/MA-14115-card.webp": "Captain John Butman House, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14017",
@@ -1999,7 +2485,14 @@
   "lat": 42.504061,
   "lng": -70.85062,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14017-000.webp": "Central Old Town 2-Bed Apt, Shopping, Restaurants, house in Marblehead, MA",
+   "images/MA-14017-001.webp": "Central Old Town 2-Bed Apt, Shopping, Restaurants, Marblehead, MA, photo 2 of 4",
+   "images/MA-14017-002.webp": "Central Old Town 2-Bed Apt, Shopping, Restaurants, Marblehead, MA, photo 3 of 4",
+   "images/MA-14017-003.webp": "Central Old Town 2-Bed Apt, Shopping, Restaurants, Marblehead, MA, photo 4 of 4",
+   "images/MA-14017-card.webp": "Central Old Town 2-Bed Apt, Shopping, Restaurants, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14116",
@@ -2028,7 +2521,14 @@
   "lng": -70.655074,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14116-000.webp": "Changes In Latitude, house in Gloucester, MA",
+   "images/MA-14116-001.webp": "Changes In Latitude, Gloucester, MA, photo 2 of 4",
+   "images/MA-14116-002.webp": "Changes In Latitude, Gloucester, MA, photo 3 of 4",
+   "images/MA-14116-003.webp": "Changes In Latitude, Gloucester, MA, photo 4 of 4",
+   "images/MA-14116-card.webp": "Changes In Latitude, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0437",
@@ -2056,7 +2556,14 @@
   "lat": 42.61179,
   "lng": -70.66645,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0437-cover.webp": "Charming 2BR•Walk to Harbor & Downtown•Close2Salem, apartment in Gloucester, MA",
+   "images/MA-0437-000.webp": "Charming 2BR•Walk to Harbor & Downtown•Close2Salem, Gloucester, MA, photo 2 of 4",
+   "images/MA-0437-001.webp": "Charming 2BR•Walk to Harbor & Downtown•Close2Salem, Gloucester, MA, photo 3 of 4",
+   "images/MA-0437-002.webp": "Charming 2BR•Walk to Harbor & Downtown•Close2Salem, Gloucester, MA, photo 4 of 4",
+   "images/MA-0437-card.webp": "Charming 2BR•Walk to Harbor & Downtown•Close2Salem, apartment in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0439",
@@ -2084,7 +2591,14 @@
   "lat": 42.54216,
   "lng": -70.88578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0439-cover.webp": "Charming Design~Walk to Salem~Pvt Balcony, apartment in Beverly, MA",
+   "images/MA-0439-000.webp": "Charming Design~Walk to Salem~Pvt Balcony, Beverly, MA, photo 2 of 4",
+   "images/MA-0439-001.webp": "Charming Design~Walk to Salem~Pvt Balcony, Beverly, MA, photo 3 of 4",
+   "images/MA-0439-002.webp": "Charming Design~Walk to Salem~Pvt Balcony, Beverly, MA, photo 4 of 4",
+   "images/MA-0439-card.webp": "Charming Design~Walk to Salem~Pvt Balcony, apartment in Beverly, MA"
+  }
  },
  {
   "id": "MA-0436",
@@ -2112,7 +2626,14 @@
   "lat": 42.61179,
   "lng": -70.66645,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0436-cover.webp": "Chic Gloucester Escape•Harbor&Dining•Close2Salem, apartment in Gloucester, MA",
+   "images/MA-0436-000.webp": "Chic Gloucester Escape•Harbor&Dining•Close2Salem, Gloucester, MA, photo 2 of 4",
+   "images/MA-0436-001.webp": "Chic Gloucester Escape•Harbor&Dining•Close2Salem, Gloucester, MA, photo 3 of 4",
+   "images/MA-0436-002.webp": "Chic Gloucester Escape•Harbor&Dining•Close2Salem, Gloucester, MA, photo 4 of 4",
+   "images/MA-0436-card.webp": "Chic Gloucester Escape•Harbor&Dining•Close2Salem, apartment in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14093",
@@ -2140,7 +2661,14 @@
   "lat": 42.808117,
   "lng": -70.861803,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14093-000.webp": "Circa 1789 South End Home, house in Newburyport, MA",
+   "images/MA-14093-001.webp": "Circa 1789 South End Home, Newburyport, MA, photo 2 of 4",
+   "images/MA-14093-002.webp": "Circa 1789 South End Home, Newburyport, MA, photo 3 of 4",
+   "images/MA-14093-003.webp": "Circa 1789 South End Home, Newburyport, MA, photo 4 of 4",
+   "images/MA-14093-card.webp": "Circa 1789 South End Home, house in Newburyport, MA"
+  }
  },
  {
   "id": "MA-0441",
@@ -2168,7 +2696,14 @@
   "lat": 42.54216,
   "lng": -70.88578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0441-cover.webp": "City Views~Close 2 Salem~Balcony, apartment in Beverly, MA",
+   "images/MA-0441-000.webp": "City Views~Close 2 Salem~Balcony, Beverly, MA, photo 2 of 4",
+   "images/MA-0441-001.webp": "City Views~Close 2 Salem~Balcony, Beverly, MA, photo 3 of 4",
+   "images/MA-0441-002.webp": "City Views~Close 2 Salem~Balcony, Beverly, MA, photo 4 of 4",
+   "images/MA-0441-card.webp": "City Views~Close 2 Salem~Balcony, apartment in Beverly, MA"
+  }
  },
  {
   "id": "MA-0513",
@@ -2196,7 +2731,14 @@
   "lat": 42.4641,
   "lng": -70.90506,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0513-cover.webp": "Coastal Charm: Lobster Château, Swampscott, MA",
+   "images/MA-0513-000.webp": "Coastal Charm: Lobster Château, Swampscott, MA, photo 2 of 4",
+   "images/MA-0513-001.webp": "Coastal Charm: Lobster Château, Swampscott, MA, photo 3 of 4",
+   "images/MA-0513-002.webp": "Coastal Charm: Lobster Château, Swampscott, MA, photo 4 of 4",
+   "images/MA-0513-card.webp": "Coastal Charm: Lobster Château, Swampscott, MA"
+  }
  },
  {
   "id": "MA-14021",
@@ -2224,7 +2766,14 @@
   "lat": 42.5001,
   "lng": -70.8578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14021-000.webp": "Coastal Guest House, house in Marblehead, MA",
+   "images/MA-14021-001.webp": "Coastal Guest House, Marblehead, MA, photo 2 of 4",
+   "images/MA-14021-002.webp": "Coastal Guest House, Marblehead, MA, photo 3 of 4",
+   "images/MA-14021-003.webp": "Coastal Guest House, Marblehead, MA, photo 4 of 4",
+   "images/MA-14021-card.webp": "Coastal Guest House, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14107",
@@ -2252,7 +2801,14 @@
   "lat": 42.854165,
   "lng": -70.817744,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14107-000.webp": "Condo With Private Beach Access, Salisbury, MA",
+   "images/MA-14107-001.webp": "Condo With Private Beach Access, Salisbury, MA, photo 2 of 4",
+   "images/MA-14107-002.webp": "Condo With Private Beach Access, Salisbury, MA, photo 3 of 4",
+   "images/MA-14107-003.webp": "Condo With Private Beach Access, Salisbury, MA, photo 4 of 4",
+   "images/MA-14107-card.webp": "Condo With Private Beach Access, Salisbury, MA"
+  }
  },
  {
   "id": "MA-14003",
@@ -2280,7 +2836,14 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14003-000.webp": "Cottage on the Lane, Rockport, MA",
+   "images/MA-14003-001.webp": "Cottage on the Lane, Rockport, MA, photo 2 of 4",
+   "images/MA-14003-002.webp": "Cottage on the Lane, Rockport, MA, photo 3 of 4",
+   "images/MA-14003-003.webp": "Cottage on the Lane, Rockport, MA, photo 4 of 4",
+   "images/MA-14003-card.webp": "Cottage on the Lane, Rockport, MA"
+  }
  },
  {
   "id": "MA-14004",
@@ -2308,7 +2871,14 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14004-000.webp": "Cottage on the Pond, Rockport, MA",
+   "images/MA-14004-001.webp": "Cottage on the Pond, Rockport, MA, photo 2 of 4",
+   "images/MA-14004-002.webp": "Cottage on the Pond, Rockport, MA, photo 3 of 4",
+   "images/MA-14004-003.webp": "Cottage on the Pond, Rockport, MA, photo 4 of 4",
+   "images/MA-14004-card.webp": "Cottage on the Pond, Rockport, MA"
+  }
  },
  {
   "id": "MA-14117",
@@ -2337,7 +2907,14 @@
   "lng": -70.612826,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14117-000.webp": "Dot's Place, apartment in Rockport, MA",
+   "images/MA-14117-001.webp": "Dot's Place, Rockport, MA, photo 2 of 4",
+   "images/MA-14117-002.webp": "Dot's Place, Rockport, MA, photo 3 of 4",
+   "images/MA-14117-003.webp": "Dot's Place, Rockport, MA, photo 4 of 4",
+   "images/MA-14117-card.webp": "Dot's Place, apartment in Rockport, MA"
+  }
  },
  {
   "id": "MA-0443",
@@ -2365,7 +2942,14 @@
   "lat": 42.52582,
   "lng": -70.88344,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0443-cover.webp": "Downtown Salem | Fireplace, Parking & Grill, apartment in Salem, MA",
+   "images/MA-0443-000.webp": "Downtown Salem | Fireplace, Parking & Grill, Salem, MA, photo 2 of 4",
+   "images/MA-0443-001.webp": "Downtown Salem | Fireplace, Parking & Grill, Salem, MA, photo 3 of 4",
+   "images/MA-0443-002.webp": "Downtown Salem | Fireplace, Parking & Grill, Salem, MA, photo 4 of 4",
+   "images/MA-0443-card.webp": "Downtown Salem | Fireplace, Parking & Grill, apartment in Salem, MA"
+  }
  },
  {
   "id": "MA-0444",
@@ -2393,7 +2977,14 @@
   "lat": 42.52582,
   "lng": -70.88344,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0444-cover.webp": "Downtown Salem | Game Room, Deck & Fireplace, apartment in Salem, MA",
+   "images/MA-0444-000.webp": "Downtown Salem | Game Room, Deck & Fireplace, Salem, MA, photo 2 of 4",
+   "images/MA-0444-001.webp": "Downtown Salem | Game Room, Deck & Fireplace, Salem, MA, photo 3 of 4",
+   "images/MA-0444-002.webp": "Downtown Salem | Game Room, Deck & Fireplace, Salem, MA, photo 4 of 4",
+   "images/MA-0444-card.webp": "Downtown Salem | Game Room, Deck & Fireplace, apartment in Salem, MA"
+  }
  },
  {
   "id": "MA-0422",
@@ -2421,7 +3012,14 @@
   "lat": 42.6154,
   "lng": -70.6625,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0422-cover.webp": "Downtown, Shops, Beach, Deck, Close to Salem, apartment in Gloucester, MA",
+   "images/MA-0422-000.webp": "Downtown, Shops, Beach, Deck, Close to Salem, Gloucester, MA, photo 2 of 4",
+   "images/MA-0422-001.webp": "Downtown, Shops, Beach, Deck, Close to Salem, Gloucester, MA, photo 3 of 4",
+   "images/MA-0422-002.webp": "Downtown, Shops, Beach, Deck, Close to Salem, Gloucester, MA, photo 4 of 4",
+   "images/MA-0422-card.webp": "Downtown, Shops, Beach, Deck, Close to Salem, apartment in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14075",
@@ -2450,7 +3048,14 @@
   "lng": -70.646873,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14075-000.webp": "East Gloucester, house in Gloucester, MA",
+   "images/MA-14075-001.webp": "East Gloucester, Gloucester, MA, photo 2 of 4",
+   "images/MA-14075-002.webp": "East Gloucester, Gloucester, MA, photo 3 of 4",
+   "images/MA-14075-003.webp": "East Gloucester, Gloucester, MA, photo 4 of 4",
+   "images/MA-14075-card.webp": "East Gloucester, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14006",
@@ -2478,7 +3083,14 @@
   "lat": 42.4699,
   "lng": -70.9172,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14006-000.webp": "Egg Rock House · Oceanfront 4BR · Kings Beach · 30 min to Boston, house in Swampscott, MA",
+   "images/MA-14006-001.webp": "Egg Rock House · Oceanfront 4BR · Kings Beach · 30 min to Boston, Swampscott, MA, photo 2 of 4",
+   "images/MA-14006-002.webp": "Egg Rock House · Oceanfront 4BR · Kings Beach · 30 min to Boston, Swampscott, MA, photo 3 of 4",
+   "images/MA-14006-003.webp": "Egg Rock House · Oceanfront 4BR · Kings Beach · 30 min to Boston, Swampscott, MA, photo 4 of 4",
+   "images/MA-14006-card.webp": "Egg Rock House · Oceanfront 4BR · Kings Beach · 30 min to Boston, house in Swampscott, MA"
+  }
  },
  {
   "id": "MA-14007",
@@ -2506,7 +3118,14 @@
   "lat": 42.5001,
   "lng": -70.8578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14007-000.webp": "Enchanting 1800s Cottage · Old Town Marblehead · Walk to Everything, Marblehead, MA",
+   "images/MA-14007-001.webp": "Enchanting 1800s Cottage · Old Town Marblehead · Walk to Everything, Marblehead, MA, photo 2 of 4",
+   "images/MA-14007-002.webp": "Enchanting 1800s Cottage · Old Town Marblehead · Walk to Everything, Marblehead, MA, photo 3 of 4",
+   "images/MA-14007-003.webp": "Enchanting 1800s Cottage · Old Town Marblehead · Walk to Everything, Marblehead, MA, photo 4 of 4",
+   "images/MA-14007-card.webp": "Enchanting 1800s Cottage · Old Town Marblehead · Walk to Everything, Marblehead, MA"
+  }
  },
  {
   "id": "MA-14019",
@@ -2534,7 +3153,14 @@
   "lat": 42.4985,
   "lng": -70.857422,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14019-000.webp": "Exposed Beams, Gas Fireplace, Fire Pit, Porch, house in Marblehead, MA",
+   "images/MA-14019-001.webp": "Exposed Beams, Gas Fireplace, Fire Pit, Porch, Marblehead, MA, photo 2 of 4",
+   "images/MA-14019-002.webp": "Exposed Beams, Gas Fireplace, Fire Pit, Porch, Marblehead, MA, photo 3 of 4",
+   "images/MA-14019-003.webp": "Exposed Beams, Gas Fireplace, Fire Pit, Porch, Marblehead, MA, photo 4 of 4",
+   "images/MA-14019-card.webp": "Exposed Beams, Gas Fireplace, Fire Pit, Porch, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14118",
@@ -2563,7 +3189,14 @@
   "lng": -70.611923,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14118-000.webp": "First Light, house in Rockport, MA",
+   "images/MA-14118-001.webp": "First Light, Rockport, MA, photo 2 of 4",
+   "images/MA-14118-002.webp": "First Light, Rockport, MA, photo 3 of 4",
+   "images/MA-14118-003.webp": "First Light, Rockport, MA, photo 4 of 4",
+   "images/MA-14118-card.webp": "First Light, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-0426",
@@ -2591,7 +3224,14 @@
   "lat": 42.54216,
   "lng": -70.88578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0426-cover.webp": "Fresh Design-Walk to Salem-Food-Train Station, apartment in Beverly, MA",
+   "images/MA-0426-000.webp": "Fresh Design-Walk to Salem-Food-Train Station, Beverly, MA, photo 2 of 4",
+   "images/MA-0426-001.webp": "Fresh Design-Walk to Salem-Food-Train Station, Beverly, MA, photo 3 of 4",
+   "images/MA-0426-002.webp": "Fresh Design-Walk to Salem-Food-Train Station, Beverly, MA, photo 4 of 4",
+   "images/MA-0426-card.webp": "Fresh Design-Walk to Salem-Food-Train Station, apartment in Beverly, MA"
+  }
  },
  {
   "id": "MA-14066",
@@ -2620,7 +3260,14 @@
   "lng": -70.62045,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14066-000.webp": "Front Beach, house in Rockport, MA",
+   "images/MA-14066-001.webp": "Front Beach, Rockport, MA, photo 2 of 4",
+   "images/MA-14066-002.webp": "Front Beach, Rockport, MA, photo 3 of 4",
+   "images/MA-14066-003.webp": "Front Beach, Rockport, MA, photo 4 of 4",
+   "images/MA-14066-card.webp": "Front Beach, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14119",
@@ -2649,7 +3296,14 @@
   "lng": -70.637804,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14119-000.webp": "Garden by the Sea, apartment in Gloucester, MA",
+   "images/MA-14119-001.webp": "Garden by the Sea, Gloucester, MA, photo 2 of 4",
+   "images/MA-14119-002.webp": "Garden by the Sea, Gloucester, MA, photo 3 of 4",
+   "images/MA-14119-003.webp": "Garden by the Sea, Gloucester, MA, photo 4 of 4",
+   "images/MA-14119-card.webp": "Garden by the Sea, apartment in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0206",
@@ -2677,7 +3331,14 @@
   "lat": 42.6154,
   "lng": -70.6625,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0206-cover.webp": "Gloucester Beach House, Gloucester, MA",
+   "images/MA-0206-000.webp": "Gloucester Beach House, Gloucester, MA, photo 2 of 4",
+   "images/MA-0206-001.webp": "Gloucester Beach House, Gloucester, MA, photo 3 of 4",
+   "images/MA-0206-002.webp": "Gloucester Beach House, Gloucester, MA, photo 4 of 4",
+   "images/MA-0206-card.webp": "Gloucester Beach House, Gloucester, MA"
+  }
  },
  {
   "id": "MA-14062",
@@ -2706,7 +3367,14 @@
   "lng": -70.65797,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14062-000.webp": "Gloucester Harbor, house in Gloucester, MA",
+   "images/MA-14062-001.webp": "Gloucester Harbor, Gloucester, MA, photo 2 of 4",
+   "images/MA-14062-002.webp": "Gloucester Harbor, Gloucester, MA, photo 3 of 4",
+   "images/MA-14062-003.webp": "Gloucester Harbor, Gloucester, MA, photo 4 of 4",
+   "images/MA-14062-card.webp": "Gloucester Harbor, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14120",
@@ -2735,7 +3403,14 @@
   "lng": -70.636259,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14120-000.webp": "Golden Sands, house in Gloucester, MA",
+   "images/MA-14120-001.webp": "Golden Sands, Gloucester, MA, photo 2 of 4",
+   "images/MA-14120-002.webp": "Golden Sands, Gloucester, MA, photo 3 of 4",
+   "images/MA-14120-003.webp": "Golden Sands, Gloucester, MA, photo 4 of 4",
+   "images/MA-14120-card.webp": "Golden Sands, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14064",
@@ -2764,7 +3439,14 @@
   "lng": -70.628504,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14064-000.webp": "Good Harbor Beach, house in Gloucester, MA",
+   "images/MA-14064-001.webp": "Good Harbor Beach, Gloucester, MA, photo 2 of 4",
+   "images/MA-14064-002.webp": "Good Harbor Beach, Gloucester, MA, photo 3 of 4",
+   "images/MA-14064-003.webp": "Good Harbor Beach, Gloucester, MA, photo 4 of 4",
+   "images/MA-14064-card.webp": "Good Harbor Beach, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14071",
@@ -2793,7 +3475,14 @@
   "lng": -70.638961,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14071-000.webp": "Good Harbor Beach, house in Gloucester, MA",
+   "images/MA-14071-001.webp": "Good Harbor Beach, Gloucester, MA, photo 2 of 4",
+   "images/MA-14071-002.webp": "Good Harbor Beach, Gloucester, MA, photo 3 of 4",
+   "images/MA-14071-003.webp": "Good Harbor Beach, Gloucester, MA, photo 4 of 4",
+   "images/MA-14071-card.webp": "Good Harbor Beach, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14121",
@@ -2822,7 +3511,14 @@
   "lng": -70.624396,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14121-000.webp": "Granite Cottage, house in Rockport, MA",
+   "images/MA-14121-001.webp": "Granite Cottage, Rockport, MA, photo 2 of 4",
+   "images/MA-14121-002.webp": "Granite Cottage, Rockport, MA, photo 3 of 4",
+   "images/MA-14121-003.webp": "Granite Cottage, Rockport, MA, photo 4 of 4",
+   "images/MA-14121-card.webp": "Granite Cottage, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14122",
@@ -2851,7 +3547,14 @@
   "lng": -70.626587,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14122-000.webp": "Granite Pier, house in Rockport, MA",
+   "images/MA-14122-001.webp": "Granite Pier, Rockport, MA, photo 2 of 4",
+   "images/MA-14122-002.webp": "Granite Pier, Rockport, MA, photo 3 of 4",
+   "images/MA-14122-003.webp": "Granite Pier, Rockport, MA, photo 4 of 4",
+   "images/MA-14122-card.webp": "Granite Pier, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14101",
@@ -2879,7 +3582,14 @@
   "lat": 42.794517,
   "lng": -70.810178,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14101-000.webp": "Greenery & Waves, house in Newbury, MA",
+   "images/MA-14101-001.webp": "Greenery & Waves, Newbury, MA, photo 2 of 4",
+   "images/MA-14101-002.webp": "Greenery & Waves, Newbury, MA, photo 3 of 4",
+   "images/MA-14101-003.webp": "Greenery & Waves, Newbury, MA, photo 4 of 4",
+   "images/MA-14101-card.webp": "Greenery & Waves, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14123",
@@ -2908,7 +3618,14 @@
   "lng": -70.6958,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14123-000.webp": "Gull's Nest, house in Gloucester, MA",
+   "images/MA-14123-001.webp": "Gull's Nest, Gloucester, MA, photo 2 of 4",
+   "images/MA-14123-002.webp": "Gull's Nest, Gloucester, MA, photo 3 of 4",
+   "images/MA-14123-003.webp": "Gull's Nest, Gloucester, MA, photo 4 of 4",
+   "images/MA-14123-card.webp": "Gull's Nest, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14014",
@@ -2936,7 +3653,14 @@
   "lat": 42.504113,
   "lng": -70.848193,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14014-000.webp": "Harbor Peeks, Rooftop Deck, Old Town, Near Shops, house in Marblehead, MA",
+   "images/MA-14014-001.webp": "Harbor Peeks, Rooftop Deck, Old Town, Near Shops, Marblehead, MA, photo 2 of 4",
+   "images/MA-14014-002.webp": "Harbor Peeks, Rooftop Deck, Old Town, Near Shops, Marblehead, MA, photo 3 of 4",
+   "images/MA-14014-003.webp": "Harbor Peeks, Rooftop Deck, Old Town, Near Shops, Marblehead, MA, photo 4 of 4",
+   "images/MA-14014-card.webp": "Harbor Peeks, Rooftop Deck, Old Town, Near Shops, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14124",
@@ -2965,7 +3689,14 @@
   "lng": -70.66999,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14124-000.webp": "Harbortown Hideaway, apartment in Gloucester, MA",
+   "images/MA-14124-001.webp": "Harbortown Hideaway, Gloucester, MA, photo 2 of 4",
+   "images/MA-14124-002.webp": "Harbortown Hideaway, Gloucester, MA, photo 3 of 4",
+   "images/MA-14124-003.webp": "Harbortown Hideaway, Gloucester, MA, photo 4 of 4",
+   "images/MA-14124-card.webp": "Harbortown Hideaway, apartment in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14125",
@@ -2994,7 +3725,14 @@
   "lng": -70.853329,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14125-000.webp": "Hastings Haven, apartment in Beverly, MA",
+   "images/MA-14125-001.webp": "Hastings Haven, Beverly, MA, photo 2 of 4",
+   "images/MA-14125-002.webp": "Hastings Haven, Beverly, MA, photo 3 of 4",
+   "images/MA-14125-003.webp": "Hastings Haven, Beverly, MA, photo 4 of 4",
+   "images/MA-14125-card.webp": "Hastings Haven, apartment in Beverly, MA"
+  }
  },
  {
   "id": "MA-0420",
@@ -3022,7 +3760,14 @@
   "lat": 42.51732,
   "lng": -70.90269,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0420-cover.webp": "Heights House - 93 Walkscore|Halloween|Grill, house in Salem, MA",
+   "images/MA-0420-000.webp": "Heights House - 93 Walkscore|Halloween|Grill, Salem, MA, photo 2 of 4",
+   "images/MA-0420-001.webp": "Heights House - 93 Walkscore|Halloween|Grill, Salem, MA, photo 3 of 4",
+   "images/MA-0420-002.webp": "Heights House - 93 Walkscore|Halloween|Grill, Salem, MA, photo 4 of 4",
+   "images/MA-0420-card.webp": "Heights House - 93 Walkscore|Halloween|Grill, house in Salem, MA"
+  }
  },
  {
   "id": "MA-14126",
@@ -3051,7 +3796,14 @@
   "lng": -70.667061,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14126-000.webp": "Helena House, house in Gloucester, MA",
+   "images/MA-14126-001.webp": "Helena House, Gloucester, MA, photo 2 of 4",
+   "images/MA-14126-002.webp": "Helena House, Gloucester, MA, photo 3 of 4",
+   "images/MA-14126-003.webp": "Helena House, Gloucester, MA, photo 4 of 4",
+   "images/MA-14126-card.webp": "Helena House, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14127",
@@ -3080,7 +3832,14 @@
   "lng": -70.623967,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14127-000.webp": "Holbrook House, house in Rockport, MA",
+   "images/MA-14127-001.webp": "Holbrook House, Rockport, MA, photo 2 of 4",
+   "images/MA-14127-002.webp": "Holbrook House, Rockport, MA, photo 3 of 4",
+   "images/MA-14127-003.webp": "Holbrook House, Rockport, MA, photo 4 of 4",
+   "images/MA-14127-card.webp": "Holbrook House, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14128",
@@ -3109,7 +3868,14 @@
   "lng": -70.629306,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14128-000.webp": "Joseph's Way, house in Gloucester, MA",
+   "images/MA-14128-001.webp": "Joseph's Way, Gloucester, MA, photo 2 of 4",
+   "images/MA-14128-002.webp": "Joseph's Way, Gloucester, MA, photo 3 of 4",
+   "images/MA-14128-003.webp": "Joseph's Way, Gloucester, MA, photo 4 of 4",
+   "images/MA-14128-card.webp": "Joseph's Way, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14129",
@@ -3138,7 +3904,14 @@
   "lng": -70.635769,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14129-000.webp": "Just For the Halibut, house in Rockport, MA",
+   "images/MA-14129-001.webp": "Just For the Halibut, Rockport, MA, photo 2 of 4",
+   "images/MA-14129-002.webp": "Just For the Halibut, Rockport, MA, photo 3 of 4",
+   "images/MA-14129-003.webp": "Just For the Halibut, Rockport, MA, photo 4 of 4",
+   "images/MA-14129-card.webp": "Just For the Halibut, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-0423",
@@ -3166,7 +3939,14 @@
   "lat": 42.6154,
   "lng": -70.65827,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0423-cover.webp": "KeyWest Vibe, PrivatePatio, Close2Salem, WalkDWNTN, apartment in Gloucester, MA",
+   "images/MA-0423-000.webp": "KeyWest Vibe, PrivatePatio, Close2Salem, WalkDWNTN, Gloucester, MA, photo 2 of 4",
+   "images/MA-0423-001.webp": "KeyWest Vibe, PrivatePatio, Close2Salem, WalkDWNTN, Gloucester, MA, photo 3 of 4",
+   "images/MA-0423-002.webp": "KeyWest Vibe, PrivatePatio, Close2Salem, WalkDWNTN, Gloucester, MA, photo 4 of 4",
+   "images/MA-0423-card.webp": "KeyWest Vibe, PrivatePatio, Close2Salem, WalkDWNTN, apartment in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14130",
@@ -3195,7 +3975,14 @@
   "lng": -70.651378,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14130-000.webp": "Ledgewood, house in Gloucester, MA",
+   "images/MA-14130-001.webp": "Ledgewood, Gloucester, MA, photo 2 of 4",
+   "images/MA-14130-002.webp": "Ledgewood, Gloucester, MA, photo 3 of 4",
+   "images/MA-14130-003.webp": "Ledgewood, Gloucester, MA, photo 4 of 4",
+   "images/MA-14130-card.webp": "Ledgewood, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14131",
@@ -3224,7 +4011,14 @@
   "lng": -70.635663,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14131-000.webp": "Life of Reilly, house in Rockport, MA",
+   "images/MA-14131-001.webp": "Life of Reilly, Rockport, MA, photo 2 of 4",
+   "images/MA-14131-002.webp": "Life of Reilly, Rockport, MA, photo 3 of 4",
+   "images/MA-14131-003.webp": "Life of Reilly, Rockport, MA, photo 4 of 4",
+   "images/MA-14131-card.webp": "Life of Reilly, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14132",
@@ -3253,7 +4047,14 @@
   "lng": -70.623378,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14132-000.webp": "Life on Deck, house in Gloucester, MA",
+   "images/MA-14132-001.webp": "Life on Deck, Gloucester, MA, photo 2 of 4",
+   "images/MA-14132-002.webp": "Life on Deck, Gloucester, MA, photo 3 of 4",
+   "images/MA-14132-003.webp": "Life on Deck, Gloucester, MA, photo 4 of 4",
+   "images/MA-14132-card.webp": "Life on Deck, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0201",
@@ -3282,7 +4083,14 @@
   "lng": -70.6177,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0201-cover.webp": "Lighthouse Lane Cottages, Rockport, MA",
+   "images/MA-0201-000.webp": "Lighthouse Lane Cottages, Rockport, MA, photo 2 of 4",
+   "images/MA-0201-001.webp": "Lighthouse Lane Cottages, Rockport, MA, photo 3 of 4",
+   "images/MA-0201-002.webp": "Lighthouse Lane Cottages, Rockport, MA, photo 4 of 4",
+   "images/MA-0201-card.webp": "Lighthouse Lane Cottages, Rockport, MA"
+  }
  },
  {
   "id": "MA-14061",
@@ -3311,7 +4119,14 @@
   "lng": -70.704929,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14061-000.webp": "Little River, house in Gloucester, MA",
+   "images/MA-14061-001.webp": "Little River, Gloucester, MA, photo 2 of 4",
+   "images/MA-14061-002.webp": "Little River, Gloucester, MA, photo 3 of 4",
+   "images/MA-14061-003.webp": "Little River, Gloucester, MA, photo 4 of 4",
+   "images/MA-14061-card.webp": "Little River, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14133",
@@ -3340,7 +4155,14 @@
   "lng": -70.814254,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14133-000.webp": "Lofty Views, house in Newbury, MA",
+   "images/MA-14133-001.webp": "Lofty Views, Newbury, MA, photo 2 of 4",
+   "images/MA-14133-002.webp": "Lofty Views, Newbury, MA, photo 3 of 4",
+   "images/MA-14133-003.webp": "Lofty Views, Newbury, MA, photo 4 of 4",
+   "images/MA-14133-card.webp": "Lofty Views, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14134",
@@ -3369,7 +4191,14 @@
   "lng": -70.621004,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14134-000.webp": "Long Beach House, house in Gloucester, MA",
+   "images/MA-14134-001.webp": "Long Beach House, Gloucester, MA, photo 2 of 4",
+   "images/MA-14134-002.webp": "Long Beach House, Gloucester, MA, photo 3 of 4",
+   "images/MA-14134-003.webp": "Long Beach House, Gloucester, MA, photo 4 of 4",
+   "images/MA-14134-card.webp": "Long Beach House, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14135",
@@ -3398,7 +4227,14 @@
   "lng": -70.624774,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14135-000.webp": "Mill Brook House, house in Rockport, MA",
+   "images/MA-14135-001.webp": "Mill Brook House, Rockport, MA, photo 2 of 4",
+   "images/MA-14135-002.webp": "Mill Brook House, Rockport, MA, photo 3 of 4",
+   "images/MA-14135-003.webp": "Mill Brook House, Rockport, MA, photo 4 of 4",
+   "images/MA-14135-card.webp": "Mill Brook House, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14136",
@@ -3427,7 +4263,14 @@
   "lng": -70.622168,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14136-000.webp": "Mill Lane, house in Rockport, MA",
+   "images/MA-14136-001.webp": "Mill Lane, Rockport, MA, photo 2 of 4",
+   "images/MA-14136-002.webp": "Mill Lane, Rockport, MA, photo 3 of 4",
+   "images/MA-14136-003.webp": "Mill Lane, Rockport, MA, photo 4 of 4",
+   "images/MA-14136-card.webp": "Mill Lane, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14137",
@@ -3456,7 +4299,14 @@
   "lng": -70.67873,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14137-000.webp": "Mill Pond Cottage, house in Gloucester, MA",
+   "images/MA-14137-001.webp": "Mill Pond Cottage, Gloucester, MA, photo 2 of 4",
+   "images/MA-14137-002.webp": "Mill Pond Cottage, Gloucester, MA, photo 3 of 4",
+   "images/MA-14137-003.webp": "Mill Pond Cottage, Gloucester, MA, photo 4 of 4",
+   "images/MA-14137-card.webp": "Mill Pond Cottage, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0440",
@@ -3484,7 +4334,14 @@
   "lat": 42.54216,
   "lng": -70.88578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0440-cover.webp": "ModernComfort~Walk2Wtrfrnt&Train, apartment in Beverly, MA",
+   "images/MA-0440-000.webp": "ModernComfort~Walk2Wtrfrnt&Train, Beverly, MA, photo 2 of 4",
+   "images/MA-0440-001.webp": "ModernComfort~Walk2Wtrfrnt&Train, Beverly, MA, photo 3 of 4",
+   "images/MA-0440-002.webp": "ModernComfort~Walk2Wtrfrnt&Train, Beverly, MA, photo 4 of 4",
+   "images/MA-0440-card.webp": "ModernComfort~Walk2Wtrfrnt&Train, apartment in Beverly, MA"
+  }
  },
  {
   "id": "MA-14081",
@@ -3512,7 +4369,14 @@
   "lat": 42.777646,
   "lng": -70.842437,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14081-000.webp": "Mothertree Farm House, house in Newbury, MA",
+   "images/MA-14081-001.webp": "Mothertree Farm House, Newbury, MA, photo 2 of 4",
+   "images/MA-14081-002.webp": "Mothertree Farm House, Newbury, MA, photo 3 of 4",
+   "images/MA-14081-003.webp": "Mothertree Farm House, Newbury, MA, photo 4 of 4",
+   "images/MA-14081-card.webp": "Mothertree Farm House, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14011",
@@ -3540,7 +4404,14 @@
   "lat": 42.499578,
   "lng": -70.856697,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14011-000.webp": "Nautical Boat House + Dog-Friendly, house in Marblehead, MA",
+   "images/MA-14011-001.webp": "Nautical Boat House + Dog-Friendly, Marblehead, MA, photo 2 of 4",
+   "images/MA-14011-002.webp": "Nautical Boat House + Dog-Friendly, Marblehead, MA, photo 3 of 4",
+   "images/MA-14011-003.webp": "Nautical Boat House + Dog-Friendly, Marblehead, MA, photo 4 of 4",
+   "images/MA-14011-card.webp": "Nautical Boat House + Dog-Friendly, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-0425",
@@ -3568,7 +4439,14 @@
   "lat": 42.61516,
   "lng": -70.66882,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0425-cover.webp": "New Design•Walk2DNTN•Beach•Train•Close to Salem, apartment in Gloucester, MA",
+   "images/MA-0425-000.webp": "New Design•Walk2DNTN•Beach•Train•Close to Salem, Gloucester, MA, photo 2 of 4",
+   "images/MA-0425-001.webp": "New Design•Walk2DNTN•Beach•Train•Close to Salem, Gloucester, MA, photo 3 of 4",
+   "images/MA-0425-002.webp": "New Design•Walk2DNTN•Beach•Train•Close to Salem, Gloucester, MA, photo 4 of 4",
+   "images/MA-0425-card.webp": "New Design•Walk2DNTN•Beach•Train•Close to Salem, apartment in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14098",
@@ -3596,7 +4474,14 @@
   "lat": 42.810125,
   "lng": -70.868364,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14098-000.webp": "Newburyport Urban Loft, Newburyport, MA",
+   "images/MA-14098-001.webp": "Newburyport Urban Loft, Newburyport, MA, photo 2 of 4",
+   "images/MA-14098-002.webp": "Newburyport Urban Loft, Newburyport, MA, photo 3 of 4",
+   "images/MA-14098-003.webp": "Newburyport Urban Loft, Newburyport, MA, photo 4 of 4",
+   "images/MA-14098-card.webp": "Newburyport Urban Loft, Newburyport, MA"
+  }
  },
  {
   "id": "MA-14070",
@@ -3625,7 +4510,14 @@
   "lng": -70.654777,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14070-000.webp": "Niles Beach, house in Gloucester, MA",
+   "images/MA-14070-001.webp": "Niles Beach, Gloucester, MA, photo 2 of 4",
+   "images/MA-14070-002.webp": "Niles Beach, Gloucester, MA, photo 3 of 4",
+   "images/MA-14070-003.webp": "Niles Beach, Gloucester, MA, photo 4 of 4",
+   "images/MA-14070-card.webp": "Niles Beach, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14138",
@@ -3654,7 +4546,14 @@
   "lng": -70.655232,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14138-000.webp": "Niles Beach House, house in Gloucester, MA",
+   "images/MA-14138-001.webp": "Niles Beach House, Gloucester, MA, photo 2 of 4",
+   "images/MA-14138-002.webp": "Niles Beach House, Gloucester, MA, photo 3 of 4",
+   "images/MA-14138-003.webp": "Niles Beach House, Gloucester, MA, photo 4 of 4",
+   "images/MA-14138-card.webp": "Niles Beach House, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14008",
@@ -3682,7 +4581,14 @@
   "lat": 42.4699,
   "lng": -70.9172,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14008-000.webp": "Oceanfront Penthouse · Kings Beach · Breathtaking Views, apartment in Swampscott, MA",
+   "images/MA-14008-001.webp": "Oceanfront Penthouse · Kings Beach · Breathtaking Views, Swampscott, MA, photo 2 of 4",
+   "images/MA-14008-002.webp": "Oceanfront Penthouse · Kings Beach · Breathtaking Views, Swampscott, MA, photo 3 of 4",
+   "images/MA-14008-003.webp": "Oceanfront Penthouse · Kings Beach · Breathtaking Views, Swampscott, MA, photo 4 of 4",
+   "images/MA-14008-card.webp": "Oceanfront Penthouse · Kings Beach · Breathtaking Views, apartment in Swampscott, MA"
+  }
  },
  {
   "id": "MA-14020",
@@ -3710,7 +4616,14 @@
   "lat": 42.7665,
   "lng": -70.8458,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14020-000.webp": "OceanSong Plum Island Beach House, house in Newbury, MA",
+   "images/MA-14020-001.webp": "OceanSong Plum Island Beach House, Newbury, MA, photo 2 of 4",
+   "images/MA-14020-002.webp": "OceanSong Plum Island Beach House, Newbury, MA, photo 3 of 4",
+   "images/MA-14020-003.webp": "OceanSong Plum Island Beach House, Newbury, MA, photo 4 of 4",
+   "images/MA-14020-card.webp": "OceanSong Plum Island Beach House, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14073",
@@ -3739,7 +4652,14 @@
   "lng": -70.611512,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14073-000.webp": "Old Garden Beach, house in Rockport, MA",
+   "images/MA-14073-001.webp": "Old Garden Beach, Rockport, MA, photo 2 of 4",
+   "images/MA-14073-002.webp": "Old Garden Beach, Rockport, MA, photo 3 of 4",
+   "images/MA-14073-003.webp": "Old Garden Beach, Rockport, MA, photo 4 of 4",
+   "images/MA-14073-card.webp": "Old Garden Beach, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14018",
@@ -3767,7 +4687,14 @@
   "lat": 42.508197,
   "lng": -70.847218,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14018-000.webp": "Old Town Antique + Ocean Peeks, house in Marblehead, MA",
+   "images/MA-14018-001.webp": "Old Town Antique + Ocean Peeks, Marblehead, MA, photo 2 of 4",
+   "images/MA-14018-002.webp": "Old Town Antique + Ocean Peeks, Marblehead, MA, photo 3 of 4",
+   "images/MA-14018-003.webp": "Old Town Antique + Ocean Peeks, Marblehead, MA, photo 4 of 4",
+   "images/MA-14018-card.webp": "Old Town Antique + Ocean Peeks, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14015",
@@ -3795,7 +4722,14 @@
   "lat": 42.504113,
   "lng": -70.848193,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14015-000.webp": "Old Town+Shops+Restaurants+Crocker Park, house in Marblehead, MA",
+   "images/MA-14015-001.webp": "Old Town+Shops+Restaurants+Crocker Park, Marblehead, MA, photo 2 of 4",
+   "images/MA-14015-002.webp": "Old Town+Shops+Restaurants+Crocker Park, Marblehead, MA, photo 3 of 4",
+   "images/MA-14015-003.webp": "Old Town+Shops+Restaurants+Crocker Park, Marblehead, MA, photo 4 of 4",
+   "images/MA-14015-card.webp": "Old Town+Shops+Restaurants+Crocker Park, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14013",
@@ -3823,7 +4757,14 @@
   "lat": 42.504795,
   "lng": -70.846951,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14013-000.webp": "One Block From Harbor + Exposed Beams + Garage, house in Marblehead, MA",
+   "images/MA-14013-001.webp": "One Block From Harbor + Exposed Beams + Garage, Marblehead, MA, photo 2 of 4",
+   "images/MA-14013-002.webp": "One Block From Harbor + Exposed Beams + Garage, Marblehead, MA, photo 3 of 4",
+   "images/MA-14013-003.webp": "One Block From Harbor + Exposed Beams + Garage, Marblehead, MA, photo 4 of 4",
+   "images/MA-14013-card.webp": "One Block From Harbor + Exposed Beams + Garage, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14139",
@@ -3852,7 +4793,14 @@
   "lng": -70.630132,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14139-000.webp": "Over By Good Harbor, house in Gloucester, MA",
+   "images/MA-14139-001.webp": "Over By Good Harbor, Gloucester, MA, photo 2 of 4",
+   "images/MA-14139-002.webp": "Over By Good Harbor, Gloucester, MA, photo 3 of 4",
+   "images/MA-14139-003.webp": "Over By Good Harbor, Gloucester, MA, photo 4 of 4",
+   "images/MA-14139-card.webp": "Over By Good Harbor, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14140",
@@ -3881,7 +4829,14 @@
   "lng": -70.660468,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14140-000.webp": "Painter's Perch, house in Gloucester, MA",
+   "images/MA-14140-001.webp": "Painter's Perch, Gloucester, MA, photo 2 of 4",
+   "images/MA-14140-002.webp": "Painter's Perch, Gloucester, MA, photo 3 of 4",
+   "images/MA-14140-003.webp": "Painter's Perch, Gloucester, MA, photo 4 of 4",
+   "images/MA-14140-card.webp": "Painter's Perch, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14141",
@@ -3910,7 +4865,14 @@
   "lng": -70.66,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14141-000.webp": "Perrywinkle, house in Gloucester, MA",
+   "images/MA-14141-001.webp": "Perrywinkle, Gloucester, MA, photo 2 of 4",
+   "images/MA-14141-002.webp": "Perrywinkle, Gloucester, MA, photo 3 of 4",
+   "images/MA-14141-003.webp": "Perrywinkle, Gloucester, MA, photo 4 of 4",
+   "images/MA-14141-card.webp": "Perrywinkle, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14090",
@@ -3938,7 +4900,14 @@
   "lat": 42.845657,
   "lng": -70.817744,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14090-000.webp": "Pet Friendly Rental Near Beach, house in Salisbury, MA",
+   "images/MA-14090-001.webp": "Pet Friendly Rental Near Beach, Salisbury, MA, photo 2 of 4",
+   "images/MA-14090-002.webp": "Pet Friendly Rental Near Beach, Salisbury, MA, photo 3 of 4",
+   "images/MA-14090-003.webp": "Pet Friendly Rental Near Beach, Salisbury, MA, photo 4 of 4",
+   "images/MA-14090-card.webp": "Pet Friendly Rental Near Beach, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14142",
@@ -3967,7 +4936,14 @@
   "lng": -70.624314,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14142-000.webp": "Pigeon Hill, house in Rockport, MA",
+   "images/MA-14142-001.webp": "Pigeon Hill, Rockport, MA, photo 2 of 4",
+   "images/MA-14142-002.webp": "Pigeon Hill, Rockport, MA, photo 3 of 4",
+   "images/MA-14142-003.webp": "Pigeon Hill, Rockport, MA, photo 4 of 4",
+   "images/MA-14142-card.webp": "Pigeon Hill, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14143",
@@ -3996,7 +4972,14 @@
   "lng": -70.614983,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14143-000.webp": "Pleasant House in Rockport, house in Rockport, MA",
+   "images/MA-14143-001.webp": "Pleasant House in Rockport, Rockport, MA, photo 2 of 4",
+   "images/MA-14143-002.webp": "Pleasant House in Rockport, Rockport, MA, photo 3 of 4",
+   "images/MA-14143-003.webp": "Pleasant House in Rockport, Rockport, MA, photo 4 of 4",
+   "images/MA-14143-card.webp": "Pleasant House in Rockport, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14031",
@@ -4025,7 +5008,14 @@
   "lng": -70.809143,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14031-000.webp": "Plum Central Unit A, 5 Northern Unit A, Newbury, MA",
+   "images/MA-14031-001.webp": "Plum Central Unit A, 5 Northern Unit A, Newbury, MA, photo 2 of 4",
+   "images/MA-14031-002.webp": "Plum Central Unit A, 5 Northern Unit A, Newbury, MA, photo 3 of 4",
+   "images/MA-14031-003.webp": "Plum Central Unit A, 5 Northern Unit A, Newbury, MA, photo 4 of 4",
+   "images/MA-14031-card.webp": "Plum Central Unit A, 5 Northern Unit A, Newbury, MA"
+  }
  },
  {
   "id": "MA-14032",
@@ -4054,7 +5044,14 @@
   "lng": -70.809143,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14032-000.webp": "Plum Central Unit B, 5 Northern Unit B, Newbury, MA",
+   "images/MA-14032-001.webp": "Plum Central Unit B, 5 Northern Unit B, Newbury, MA, photo 2 of 4",
+   "images/MA-14032-002.webp": "Plum Central Unit B, 5 Northern Unit B, Newbury, MA, photo 3 of 4",
+   "images/MA-14032-003.webp": "Plum Central Unit B, 5 Northern Unit B, Newbury, MA, photo 4 of 4",
+   "images/MA-14032-card.webp": "Plum Central Unit B, 5 Northern Unit B, Newbury, MA"
+  }
  },
  {
   "id": "MA-14033",
@@ -4083,7 +5080,14 @@
   "lng": -70.809143,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14033-000.webp": "Plum Central Unit C, 5 Northern Unit C, Newbury, MA",
+   "images/MA-14033-001.webp": "Plum Central Unit C, 5 Northern Unit C, Newbury, MA, photo 2 of 4",
+   "images/MA-14033-002.webp": "Plum Central Unit C, 5 Northern Unit C, Newbury, MA, photo 3 of 4",
+   "images/MA-14033-003.webp": "Plum Central Unit C, 5 Northern Unit C, Newbury, MA, photo 4 of 4",
+   "images/MA-14033-card.webp": "Plum Central Unit C, 5 Northern Unit C, Newbury, MA"
+  }
  },
  {
   "id": "MA-14106",
@@ -4111,7 +5115,14 @@
   "lat": 42.798265,
   "lng": -70.810833,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14106-000.webp": "Plum Island Beach Cottage Rental, Newbury, MA",
+   "images/MA-14106-001.webp": "Plum Island Beach Cottage Rental, Newbury, MA, photo 2 of 4",
+   "images/MA-14106-002.webp": "Plum Island Beach Cottage Rental, Newbury, MA, photo 3 of 4",
+   "images/MA-14106-003.webp": "Plum Island Beach Cottage Rental, Newbury, MA, photo 4 of 4",
+   "images/MA-14106-card.webp": "Plum Island Beach Cottage Rental, Newbury, MA"
+  }
  },
  {
   "id": "MA-0435",
@@ -4139,7 +5150,14 @@
   "lat": 42.633,
   "lng": -70.67684,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0435-cover.webp": "PVT Waterfront Deck•Firepit•Parking•Close to Salem, house in Gloucester, MA",
+   "images/MA-0435-000.webp": "PVT Waterfront Deck•Firepit•Parking•Close to Salem, Gloucester, MA, photo 2 of 4",
+   "images/MA-0435-001.webp": "PVT Waterfront Deck•Firepit•Parking•Close to Salem, Gloucester, MA, photo 3 of 4",
+   "images/MA-0435-002.webp": "PVT Waterfront Deck•Firepit•Parking•Close to Salem, Gloucester, MA, photo 4 of 4",
+   "images/MA-0435-card.webp": "PVT Waterfront Deck•Firepit•Parking•Close to Salem, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0430",
@@ -4167,7 +5185,14 @@
   "lat": 42.85606,
   "lng": -70.81748,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0430-cover.webp": "Pvt West Facing Deck|Pro Design|AC|Beach Access, apartment in Salisbury, MA",
+   "images/MA-0430-000.webp": "Pvt West Facing Deck|Pro Design|AC|Beach Access, Salisbury, MA, photo 2 of 4",
+   "images/MA-0430-001.webp": "Pvt West Facing Deck|Pro Design|AC|Beach Access, Salisbury, MA, photo 3 of 4",
+   "images/MA-0430-002.webp": "Pvt West Facing Deck|Pro Design|AC|Beach Access, Salisbury, MA, photo 4 of 4",
+   "images/MA-0430-card.webp": "Pvt West Facing Deck|Pro Design|AC|Beach Access, apartment in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14144",
@@ -4196,7 +5221,14 @@
   "lng": -70.675983,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14144-000.webp": "River Watch, house in Gloucester, MA",
+   "images/MA-14144-001.webp": "River Watch, Gloucester, MA, photo 2 of 4",
+   "images/MA-14144-002.webp": "River Watch, Gloucester, MA, photo 3 of 4",
+   "images/MA-14144-003.webp": "River Watch, Gloucester, MA, photo 4 of 4",
+   "images/MA-14144-card.webp": "River Watch, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14079",
@@ -4224,7 +5256,14 @@
   "lat": 42.806252,
   "lng": -70.816853,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14079-000.webp": "Riverside Getaway, house in Newbury, MA",
+   "images/MA-14079-001.webp": "Riverside Getaway, Newbury, MA, photo 2 of 4",
+   "images/MA-14079-002.webp": "Riverside Getaway, Newbury, MA, photo 3 of 4",
+   "images/MA-14079-003.webp": "Riverside Getaway, Newbury, MA, photo 4 of 4",
+   "images/MA-14079-card.webp": "Riverside Getaway, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14096",
@@ -4252,7 +5291,14 @@
   "lat": 42.806199,
   "lng": -70.817036,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14096-000.webp": "Riverside Retreat Near Beach, house in Newbury, MA",
+   "images/MA-14096-001.webp": "Riverside Retreat Near Beach, Newbury, MA, photo 2 of 4",
+   "images/MA-14096-002.webp": "Riverside Retreat Near Beach, Newbury, MA, photo 3 of 4",
+   "images/MA-14096-003.webp": "Riverside Retreat Near Beach, Newbury, MA, photo 4 of 4",
+   "images/MA-14096-card.webp": "Riverside Retreat Near Beach, house in Newbury, MA"
+  }
  },
  {
   "id": "MA-14145",
@@ -4281,7 +5327,14 @@
   "lng": -70.749155,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14145-000.webp": "Robbin's Nest, house in Essex, MA",
+   "images/MA-14145-001.webp": "Robbin's Nest, Essex, MA, photo 2 of 4",
+   "images/MA-14145-002.webp": "Robbin's Nest, Essex, MA, photo 3 of 4",
+   "images/MA-14145-003.webp": "Robbin's Nest, Essex, MA, photo 4 of 4",
+   "images/MA-14145-card.webp": "Robbin's Nest, house in Essex, MA"
+  }
  },
  {
   "id": "MA-14002",
@@ -4309,7 +5362,14 @@
   "lat": 42.631111,
   "lng": -70.621111,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14002-000.webp": "Rockport House, house in Gloucester, MA",
+   "images/MA-14002-001.webp": "Rockport House, Gloucester, MA, photo 2 of 4",
+   "images/MA-14002-002.webp": "Rockport House, Gloucester, MA, photo 3 of 4",
+   "images/MA-14002-003.webp": "Rockport House, Gloucester, MA, photo 4 of 4",
+   "images/MA-14002-card.webp": "Rockport House, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14060",
@@ -4338,7 +5398,14 @@
   "lng": -70.658461,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14060-000.webp": "Rocky Neck, house in Gloucester, MA",
+   "images/MA-14060-001.webp": "Rocky Neck, Gloucester, MA, photo 2 of 4",
+   "images/MA-14060-002.webp": "Rocky Neck, Gloucester, MA, photo 3 of 4",
+   "images/MA-14060-003.webp": "Rocky Neck, Gloucester, MA, photo 4 of 4",
+   "images/MA-14060-card.webp": "Rocky Neck, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14146",
@@ -4367,7 +5434,14 @@
   "lng": -70.902549,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14146-000.webp": "Ryal Side Hideaway Cove, house in Beverly, MA",
+   "images/MA-14146-001.webp": "Ryal Side Hideaway Cove, Beverly, MA, photo 2 of 4",
+   "images/MA-14146-002.webp": "Ryal Side Hideaway Cove, Beverly, MA, photo 3 of 4",
+   "images/MA-14146-003.webp": "Ryal Side Hideaway Cove, Beverly, MA, photo 4 of 4",
+   "images/MA-14146-card.webp": "Ryal Side Hideaway Cove, house in Beverly, MA"
+  }
  },
  {
   "id": "MA-14087",
@@ -4395,7 +5469,14 @@
   "lat": 42.843486,
   "lng": -70.817902,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14087-000.webp": "Salisbury Sleeps 11, house in Salisbury, MA",
+   "images/MA-14087-001.webp": "Salisbury Sleeps 11, Salisbury, MA, photo 2 of 4",
+   "images/MA-14087-002.webp": "Salisbury Sleeps 11, Salisbury, MA, photo 3 of 4",
+   "images/MA-14087-003.webp": "Salisbury Sleeps 11, Salisbury, MA, photo 4 of 4",
+   "images/MA-14087-card.webp": "Salisbury Sleeps 11, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14105",
@@ -4423,7 +5504,14 @@
   "lat": 42.840463,
   "lng": -70.817082,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14105-000.webp": "Salisbury Sleeps 6, house in Salisbury, MA",
+   "images/MA-14105-001.webp": "Salisbury Sleeps 6, Salisbury, MA, photo 2 of 4",
+   "images/MA-14105-002.webp": "Salisbury Sleeps 6, Salisbury, MA, photo 3 of 4",
+   "images/MA-14105-003.webp": "Salisbury Sleeps 6, Salisbury, MA, photo 4 of 4",
+   "images/MA-14105-card.webp": "Salisbury Sleeps 6, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14108",
@@ -4451,7 +5539,14 @@
   "lat": 42.845657,
   "lng": -70.817744,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14108-000.webp": "Salisbury Sleeps 6, house in Salisbury, MA",
+   "images/MA-14108-001.webp": "Salisbury Sleeps 6, Salisbury, MA, photo 2 of 4",
+   "images/MA-14108-002.webp": "Salisbury Sleeps 6, Salisbury, MA, photo 3 of 4",
+   "images/MA-14108-003.webp": "Salisbury Sleeps 6, Salisbury, MA, photo 4 of 4",
+   "images/MA-14108-card.webp": "Salisbury Sleeps 6, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14083",
@@ -4479,7 +5574,14 @@
   "lat": 42.854146,
   "lng": -70.817592,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14083-000.webp": "Salisbury Sleeps 8, house in Salisbury, MA",
+   "images/MA-14083-001.webp": "Salisbury Sleeps 8, Salisbury, MA, photo 2 of 4",
+   "images/MA-14083-002.webp": "Salisbury Sleeps 8, Salisbury, MA, photo 3 of 4",
+   "images/MA-14083-003.webp": "Salisbury Sleeps 8, Salisbury, MA, photo 4 of 4",
+   "images/MA-14083-card.webp": "Salisbury Sleeps 8, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14085",
@@ -4507,7 +5609,14 @@
   "lat": 42.845657,
   "lng": -70.817744,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14085-000.webp": "Salisbury Sol | Pet Friendly | Private Balconies, house in Salisbury, MA",
+   "images/MA-14085-001.webp": "Salisbury Sol | Pet Friendly | Private Balconies, Salisbury, MA, photo 2 of 4",
+   "images/MA-14085-002.webp": "Salisbury Sol | Pet Friendly | Private Balconies, Salisbury, MA, photo 3 of 4",
+   "images/MA-14085-003.webp": "Salisbury Sol | Pet Friendly | Private Balconies, Salisbury, MA, photo 4 of 4",
+   "images/MA-14085-card.webp": "Salisbury Sol | Pet Friendly | Private Balconies, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-0210",
@@ -4530,7 +5639,10 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Sally Webster Collection, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14147",
@@ -4559,7 +5671,14 @@
   "lng": -70.624954,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14147-000.webp": "Salt Island Views, house in Gloucester, MA",
+   "images/MA-14147-001.webp": "Salt Island Views, Gloucester, MA, photo 2 of 4",
+   "images/MA-14147-002.webp": "Salt Island Views, Gloucester, MA, photo 3 of 4",
+   "images/MA-14147-003.webp": "Salt Island Views, Gloucester, MA, photo 4 of 4",
+   "images/MA-14147-card.webp": "Salt Island Views, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14148",
@@ -4588,7 +5707,14 @@
   "lng": -70.7064,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14148-000.webp": "Salt Marsh Cottage, house in Gloucester, MA",
+   "images/MA-14148-001.webp": "Salt Marsh Cottage, Gloucester, MA, photo 2 of 4",
+   "images/MA-14148-002.webp": "Salt Marsh Cottage, Gloucester, MA, photo 3 of 4",
+   "images/MA-14148-003.webp": "Salt Marsh Cottage, Gloucester, MA, photo 4 of 4",
+   "images/MA-14148-card.webp": "Salt Marsh Cottage, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-1302",
@@ -4616,7 +5742,14 @@
   "lat": 42.51111,
   "lng": -70.85111,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-1302-cover.webp": "Sea Bird Suite, apartment in Marblehead, MA",
+   "images/MA-1302-000.webp": "Sea Bird Suite, Marblehead, MA, photo 2 of 4",
+   "images/MA-1302-001.webp": "Sea Bird Suite, Marblehead, MA, photo 3 of 4",
+   "images/MA-1302-002.webp": "Sea Bird Suite, Marblehead, MA, photo 4 of 4",
+   "images/MA-1302-card.webp": "Sea Bird Suite, apartment in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14149",
@@ -4645,7 +5778,14 @@
   "lng": -70.656235,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14149-000.webp": "Sea For Miles, house in Gloucester, MA",
+   "images/MA-14149-001.webp": "Sea For Miles, Gloucester, MA, photo 2 of 4",
+   "images/MA-14149-002.webp": "Sea For Miles, Gloucester, MA, photo 3 of 4",
+   "images/MA-14149-003.webp": "Sea For Miles, Gloucester, MA, photo 4 of 4",
+   "images/MA-14149-card.webp": "Sea For Miles, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0203",
@@ -4673,7 +5813,14 @@
   "lat": 42.6154,
   "lng": -70.6625,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0203-cover.webp": "Sea Lion Motel & Cottages, Gloucester, MA",
+   "images/MA-0203-000.webp": "Sea Lion Motel & Cottages, Gloucester, MA, photo 2 of 4",
+   "images/MA-0203-001.webp": "Sea Lion Motel & Cottages, Gloucester, MA, photo 3 of 4",
+   "images/MA-0203-002.webp": "Sea Lion Motel & Cottages, Gloucester, MA, photo 4 of 4",
+   "images/MA-0203-card.webp": "Sea Lion Motel & Cottages, Gloucester, MA"
+  }
  },
  {
   "id": "MA-14150",
@@ -4702,7 +5849,14 @@
   "lng": -70.599637,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14150-000.webp": "Seacroft, house in Rockport, MA",
+   "images/MA-14150-001.webp": "Seacroft, Rockport, MA, photo 2 of 4",
+   "images/MA-14150-002.webp": "Seacroft, Rockport, MA, photo 3 of 4",
+   "images/MA-14150-003.webp": "Seacroft, Rockport, MA, photo 4 of 4",
+   "images/MA-14150-card.webp": "Seacroft, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14151",
@@ -4731,7 +5885,14 @@
   "lng": -70.634795,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14151-000.webp": "Seaside House, house in Gloucester, MA",
+   "images/MA-14151-001.webp": "Seaside House, Gloucester, MA, photo 2 of 4",
+   "images/MA-14151-002.webp": "Seaside House, Gloucester, MA, photo 3 of 4",
+   "images/MA-14151-003.webp": "Seaside House, Gloucester, MA, photo 4 of 4",
+   "images/MA-14151-card.webp": "Seaside House, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14092",
@@ -4759,7 +5920,14 @@
   "lat": 42.870731,
   "lng": -70.817623,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14092-000.webp": "Serendipity Beach Retreat - Entire House, house in Salisbury, MA",
+   "images/MA-14092-001.webp": "Serendipity Beach Retreat - Entire House, Salisbury, MA, photo 2 of 4",
+   "images/MA-14092-002.webp": "Serendipity Beach Retreat - Entire House, Salisbury, MA, photo 3 of 4",
+   "images/MA-14092-003.webp": "Serendipity Beach Retreat - Entire House, Salisbury, MA, photo 4 of 4",
+   "images/MA-14092-card.webp": "Serendipity Beach Retreat - Entire House, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14078",
@@ -4787,7 +5955,14 @@
   "lat": 42.870731,
   "lng": -70.817623,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14078-000.webp": "Serendipity Beach Retreat - Namaste Unit, Salisbury, MA",
+   "images/MA-14078-001.webp": "Serendipity Beach Retreat - Namaste Unit, Salisbury, MA, photo 2 of 4",
+   "images/MA-14078-002.webp": "Serendipity Beach Retreat - Namaste Unit, Salisbury, MA, photo 3 of 4",
+   "images/MA-14078-003.webp": "Serendipity Beach Retreat - Namaste Unit, Salisbury, MA, photo 4 of 4",
+   "images/MA-14078-card.webp": "Serendipity Beach Retreat - Namaste Unit, Salisbury, MA"
+  }
  },
  {
   "id": "MA-14104",
@@ -4815,7 +5990,14 @@
   "lat": 42.870731,
   "lng": -70.817623,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14104-000.webp": "Serendipity Beach Retreat - Nautical Retreat, house in Salisbury, MA",
+   "images/MA-14104-001.webp": "Serendipity Beach Retreat - Nautical Retreat, Salisbury, MA, photo 2 of 4",
+   "images/MA-14104-002.webp": "Serendipity Beach Retreat - Nautical Retreat, Salisbury, MA, photo 3 of 4",
+   "images/MA-14104-003.webp": "Serendipity Beach Retreat - Nautical Retreat, Salisbury, MA, photo 4 of 4",
+   "images/MA-14104-card.webp": "Serendipity Beach Retreat - Nautical Retreat, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14084",
@@ -4843,7 +6025,14 @@
   "lat": 42.870731,
   "lng": -70.817623,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14084-000.webp": "Serendipity Beach Retreat - Penthouse & Yoga, house in Salisbury, MA",
+   "images/MA-14084-001.webp": "Serendipity Beach Retreat - Penthouse & Yoga, Salisbury, MA, photo 2 of 4",
+   "images/MA-14084-002.webp": "Serendipity Beach Retreat - Penthouse & Yoga, Salisbury, MA, photo 3 of 4",
+   "images/MA-14084-003.webp": "Serendipity Beach Retreat - Penthouse & Yoga, Salisbury, MA, photo 4 of 4",
+   "images/MA-14084-card.webp": "Serendipity Beach Retreat - Penthouse & Yoga, house in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14012",
@@ -4871,7 +6060,14 @@
   "lat": 42.503238,
   "lng": -70.851313,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14012-000.webp": "Single Level Old Town Apt Across from Lee Mansion, house in Marblehead, MA",
+   "images/MA-14012-001.webp": "Single Level Old Town Apt Across from Lee Mansion, Marblehead, MA, photo 2 of 4",
+   "images/MA-14012-002.webp": "Single Level Old Town Apt Across from Lee Mansion, Marblehead, MA, photo 3 of 4",
+   "images/MA-14012-003.webp": "Single Level Old Town Apt Across from Lee Mansion, Marblehead, MA, photo 4 of 4",
+   "images/MA-14012-card.webp": "Single Level Old Town Apt Across from Lee Mansion, house in Marblehead, MA"
+  }
  },
  {
   "id": "MA-14152",
@@ -4900,7 +6096,14 @@
   "lng": -70.63783,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14152-000.webp": "Slice of Heaven, Gloucester, MA",
+   "images/MA-14152-001.webp": "Slice of Heaven, Gloucester, MA, photo 2 of 4",
+   "images/MA-14152-002.webp": "Slice of Heaven, Gloucester, MA, photo 3 of 4",
+   "images/MA-14152-003.webp": "Slice of Heaven, Gloucester, MA, photo 4 of 4",
+   "images/MA-14152-card.webp": "Slice of Heaven, Gloucester, MA"
+  }
  },
  {
   "id": "MA-14065",
@@ -4929,7 +6132,14 @@
   "lng": -70.656222,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14065-000.webp": "Smith Cove, house in Gloucester, MA",
+   "images/MA-14065-001.webp": "Smith Cove, Gloucester, MA, photo 2 of 4",
+   "images/MA-14065-002.webp": "Smith Cove, Gloucester, MA, photo 3 of 4",
+   "images/MA-14065-003.webp": "Smith Cove, Gloucester, MA, photo 4 of 4",
+   "images/MA-14065-card.webp": "Smith Cove, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0515",
@@ -4957,7 +6167,14 @@
   "lat": 42.46683,
   "lng": -70.9052,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0515-cover.webp": "Spacious Coastal Townhome | Deck & Parking, Swampscott, MA",
+   "images/MA-0515-000.webp": "Spacious Coastal Townhome | Deck & Parking, Swampscott, MA, photo 2 of 4",
+   "images/MA-0515-001.webp": "Spacious Coastal Townhome | Deck & Parking, Swampscott, MA, photo 3 of 4",
+   "images/MA-0515-002.webp": "Spacious Coastal Townhome | Deck & Parking, Swampscott, MA, photo 4 of 4",
+   "images/MA-0515-card.webp": "Spacious Coastal Townhome | Deck & Parking, Swampscott, MA"
+  }
  },
  {
   "id": "MA-14153",
@@ -4986,7 +6203,14 @@
   "lng": -70.675578,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14153-000.webp": "Squam Light, house in Gloucester, MA",
+   "images/MA-14153-001.webp": "Squam Light, Gloucester, MA, photo 2 of 4",
+   "images/MA-14153-002.webp": "Squam Light, Gloucester, MA, photo 3 of 4",
+   "images/MA-14153-003.webp": "Squam Light, Gloucester, MA, photo 4 of 4",
+   "images/MA-14153-card.webp": "Squam Light, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14074",
@@ -5015,7 +6239,14 @@
   "lng": -70.674805,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14074-000.webp": "Stay in Central Gloucester, house in Gloucester, MA",
+   "images/MA-14074-001.webp": "Stay in Central Gloucester, Gloucester, MA, photo 2 of 4",
+   "images/MA-14074-002.webp": "Stay in Central Gloucester, Gloucester, MA, photo 3 of 4",
+   "images/MA-14074-003.webp": "Stay in Central Gloucester, Gloucester, MA, photo 4 of 4",
+   "images/MA-14074-card.webp": "Stay in Central Gloucester, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14154",
@@ -5044,7 +6275,14 @@
   "lng": -70.598482,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14154-000.webp": "Straitsmouth Cove, house in Rockport, MA",
+   "images/MA-14154-001.webp": "Straitsmouth Cove, Rockport, MA, photo 2 of 4",
+   "images/MA-14154-002.webp": "Straitsmouth Cove, Rockport, MA, photo 3 of 4",
+   "images/MA-14154-003.webp": "Straitsmouth Cove, Rockport, MA, photo 4 of 4",
+   "images/MA-14154-card.webp": "Straitsmouth Cove, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-0428",
@@ -5072,7 +6310,14 @@
   "lat": 42.54216,
   "lng": -70.88578,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0428-cover.webp": "Stunning Design|Fireplace|Custom Desk|Balcony, apartment in Beverly, MA",
+   "images/MA-0428-000.webp": "Stunning Design|Fireplace|Custom Desk|Balcony, Beverly, MA, photo 2 of 4",
+   "images/MA-0428-001.webp": "Stunning Design|Fireplace|Custom Desk|Balcony, Beverly, MA, photo 3 of 4",
+   "images/MA-0428-002.webp": "Stunning Design|Fireplace|Custom Desk|Balcony, Beverly, MA, photo 4 of 4",
+   "images/MA-0428-card.webp": "Stunning Design|Fireplace|Custom Desk|Balcony, apartment in Beverly, MA"
+  }
  },
  {
   "id": "MA-14155",
@@ -5101,7 +6346,14 @@
   "lng": -70.614426,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14155-000.webp": "Summer Stuga, house in Rockport, MA",
+   "images/MA-14155-001.webp": "Summer Stuga, Rockport, MA, photo 2 of 4",
+   "images/MA-14155-002.webp": "Summer Stuga, Rockport, MA, photo 3 of 4",
+   "images/MA-14155-003.webp": "Summer Stuga, Rockport, MA, photo 4 of 4",
+   "images/MA-14155-card.webp": "Summer Stuga, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14156",
@@ -5130,7 +6382,14 @@
   "lng": -70.623467,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14156-000.webp": "Sunrise on the Cove, house in Rockport, MA",
+   "images/MA-14156-001.webp": "Sunrise on the Cove, Rockport, MA, photo 2 of 4",
+   "images/MA-14156-002.webp": "Sunrise on the Cove, Rockport, MA, photo 3 of 4",
+   "images/MA-14156-003.webp": "Sunrise on the Cove, Rockport, MA, photo 4 of 4",
+   "images/MA-14156-card.webp": "Sunrise on the Cove, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14157",
@@ -5159,7 +6418,14 @@
   "lng": -70.673522,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14157-000.webp": "Sunset Cove, house in Gloucester, MA",
+   "images/MA-14157-001.webp": "Sunset Cove, Gloucester, MA, photo 2 of 4",
+   "images/MA-14157-002.webp": "Sunset Cove, Gloucester, MA, photo 3 of 4",
+   "images/MA-14157-003.webp": "Sunset Cove, Gloucester, MA, photo 4 of 4",
+   "images/MA-14157-card.webp": "Sunset Cove, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14158",
@@ -5188,7 +6454,14 @@
   "lng": -70.629408,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14158-000.webp": "Sur la Mer, house in Rockport, MA",
+   "images/MA-14158-001.webp": "Sur la Mer, Rockport, MA, photo 2 of 4",
+   "images/MA-14158-002.webp": "Sur la Mer, Rockport, MA, photo 3 of 4",
+   "images/MA-14158-003.webp": "Sur la Mer, Rockport, MA, photo 4 of 4",
+   "images/MA-14158-card.webp": "Sur la Mer, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14159",
@@ -5217,7 +6490,14 @@
   "lng": -70.674173,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14159-000.webp": "Terra Nova Cottage, house in Gloucester, MA",
+   "images/MA-14159-001.webp": "Terra Nova Cottage, Gloucester, MA, photo 2 of 4",
+   "images/MA-14159-002.webp": "Terra Nova Cottage, Gloucester, MA, photo 3 of 4",
+   "images/MA-14159-003.webp": "Terra Nova Cottage, Gloucester, MA, photo 4 of 4",
+   "images/MA-14159-card.webp": "Terra Nova Cottage, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-1303",
@@ -5245,7 +6525,14 @@
   "lat": 42.66111,
   "lng": -70.62111,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-1303-cover.webp": "The Captain's Quarters, apartment in Rockport, MA",
+   "images/MA-1303-000.webp": "The Captain's Quarters, Rockport, MA, photo 2 of 4",
+   "images/MA-1303-001.webp": "The Captain's Quarters, Rockport, MA, photo 3 of 4",
+   "images/MA-1303-002.webp": "The Captain's Quarters, Rockport, MA, photo 4 of 4",
+   "images/MA-1303-card.webp": "The Captain's Quarters, apartment in Rockport, MA"
+  }
  },
  {
   "id": "MA-0212",
@@ -5268,7 +6555,14 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0212-cover.webp": "The Cove at Rockport, house in Rockport, MA",
+   "images/MA-0212-000.webp": "The Cove at Rockport, Rockport, MA, photo 2 of 4",
+   "images/MA-0212-001.webp": "The Cove at Rockport, Rockport, MA, photo 3 of 4",
+   "images/MA-0212-002.webp": "The Cove at Rockport, Rockport, MA, photo 4 of 4",
+   "images/MA-0212-card.webp": "The Cove at Rockport, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14160",
@@ -5297,7 +6591,14 @@
   "lng": -70.657191,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14160-000.webp": "The Gallery, house in Gloucester, MA",
+   "images/MA-14160-001.webp": "The Gallery, Gloucester, MA, photo 2 of 4",
+   "images/MA-14160-002.webp": "The Gallery, Gloucester, MA, photo 3 of 4",
+   "images/MA-14160-003.webp": "The Gallery, Gloucester, MA, photo 4 of 4",
+   "images/MA-14160-card.webp": "The Gallery, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14063",
@@ -5326,7 +6627,14 @@
   "lng": -70.656787,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14063-000.webp": "the Harbor, house in Gloucester, MA",
+   "images/MA-14063-001.webp": "the Harbor, Gloucester, MA, photo 2 of 4",
+   "images/MA-14063-002.webp": "the Harbor, Gloucester, MA, photo 3 of 4",
+   "images/MA-14063-003.webp": "the Harbor, Gloucester, MA, photo 4 of 4",
+   "images/MA-14063-card.webp": "the Harbor, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14077",
@@ -5355,7 +6663,14 @@
   "lng": -70.656411,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14077-000.webp": "the Marina, house in Gloucester, MA",
+   "images/MA-14077-001.webp": "the Marina, Gloucester, MA, photo 2 of 4",
+   "images/MA-14077-002.webp": "the Marina, Gloucester, MA, photo 3 of 4",
+   "images/MA-14077-003.webp": "the Marina, Gloucester, MA, photo 4 of 4",
+   "images/MA-14077-card.webp": "the Marina, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14067",
@@ -5384,7 +6699,14 @@
   "lng": -70.656222,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14067-000.webp": "The Neck, house in Gloucester, MA",
+   "images/MA-14067-001.webp": "The Neck, Gloucester, MA, photo 2 of 4",
+   "images/MA-14067-002.webp": "The Neck, Gloucester, MA, photo 3 of 4",
+   "images/MA-14067-003.webp": "The Neck, Gloucester, MA, photo 4 of 4",
+   "images/MA-14067-card.webp": "The Neck, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14001",
@@ -5412,7 +6734,14 @@
   "lat": 42.681111,
   "lng": -70.631111,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14001-000.webp": "The Nest at Pigeon Cove, house in Rockport, MA",
+   "images/MA-14001-001.webp": "The Nest at Pigeon Cove, Rockport, MA, photo 2 of 4",
+   "images/MA-14001-002.webp": "The Nest at Pigeon Cove, Rockport, MA, photo 3 of 4",
+   "images/MA-14001-003.webp": "The Nest at Pigeon Cove, Rockport, MA, photo 4 of 4",
+   "images/MA-14001-card.webp": "The Nest at Pigeon Cove, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-0209",
@@ -5440,7 +6769,14 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0209-cover.webp": "The Pearl Rockport, Rockport, MA",
+   "images/MA-0209-000.webp": "The Pearl Rockport, Rockport, MA, photo 2 of 4",
+   "images/MA-0209-001.webp": "The Pearl Rockport, Rockport, MA, photo 3 of 4",
+   "images/MA-0209-002.webp": "The Pearl Rockport, Rockport, MA, photo 4 of 4",
+   "images/MA-0209-card.webp": "The Pearl Rockport, Rockport, MA"
+  }
  },
  {
   "id": "MA-0015",
@@ -5468,7 +6804,14 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0015-cover.webp": "The Rockport House, Rockport, MA",
+   "images/MA-0015-000.webp": "The Rockport House, Rockport, MA, photo 2 of 4",
+   "images/MA-0015-001.webp": "The Rockport House, Rockport, MA, photo 3 of 4",
+   "images/MA-0015-002.webp": "The Rockport House, Rockport, MA, photo 4 of 4",
+   "images/MA-0015-card.webp": "The Rockport House, Rockport, MA"
+  }
  },
  {
   "id": "MA-14161",
@@ -5497,7 +6840,14 @@
   "lng": -70.623702,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14161-000.webp": "The Rockporter, house in Rockport, MA",
+   "images/MA-14161-001.webp": "The Rockporter, Rockport, MA, photo 2 of 4",
+   "images/MA-14161-002.webp": "The Rockporter, Rockport, MA, photo 3 of 4",
+   "images/MA-14161-003.webp": "The Rockporter, Rockport, MA, photo 4 of 4",
+   "images/MA-14161-card.webp": "The Rockporter, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-1304",
@@ -5525,7 +6875,14 @@
   "lat": 42.51111,
   "lng": -70.85111,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-1304-cover.webp": "The Sailor's Retreat, apartment in Marblehead, MA",
+   "images/MA-1304-000.webp": "The Sailor's Retreat, Marblehead, MA, photo 2 of 4",
+   "images/MA-1304-001.webp": "The Sailor's Retreat, Marblehead, MA, photo 3 of 4",
+   "images/MA-1304-002.webp": "The Sailor's Retreat, Marblehead, MA, photo 4 of 4",
+   "images/MA-1304-card.webp": "The Sailor's Retreat, apartment in Marblehead, MA"
+  }
  },
  {
   "id": "MA-0022",
@@ -5553,7 +6910,14 @@
   "lat": 42.5214,
   "lng": -70.8957,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0022-cover.webp": "The Satanic Suite, Salem, MA",
+   "images/MA-0022-000.webp": "The Satanic Suite, Salem, MA, photo 2 of 4",
+   "images/MA-0022-001.webp": "The Satanic Suite, Salem, MA, photo 3 of 4",
+   "images/MA-0022-002.webp": "The Satanic Suite, Salem, MA, photo 4 of 4",
+   "images/MA-0022-card.webp": "The Satanic Suite, Salem, MA"
+  }
  },
  {
   "id": "MA-0205",
@@ -5588,7 +6952,14 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0205-cover.webp": "The Seaward / Spruce Cottage, Rockport, MA",
+   "images/MA-0205-000.webp": "The Seaward / Spruce Cottage, Rockport, MA, photo 2 of 4",
+   "images/MA-0205-001.webp": "The Seaward / Spruce Cottage, Rockport, MA, photo 3 of 4",
+   "images/MA-0205-002.webp": "The Seaward / Spruce Cottage, Rockport, MA, photo 4 of 4",
+   "images/MA-0205-card.webp": "The Seaward / Spruce Cottage, Rockport, MA"
+  }
  },
  {
   "id": "MA-14005",
@@ -5616,7 +6987,14 @@
   "lat": 42.6572,
   "lng": -70.6177,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14005-000.webp": "The Sound House, Rockport, MA",
+   "images/MA-14005-001.webp": "The Sound House, Rockport, MA, photo 2 of 4",
+   "images/MA-14005-002.webp": "The Sound House, Rockport, MA, photo 3 of 4",
+   "images/MA-14005-003.webp": "The Sound House, Rockport, MA, photo 4 of 4",
+   "images/MA-14005-card.webp": "The Sound House, Rockport, MA"
+  }
  },
  {
   "id": "MA-14162",
@@ -5645,7 +7023,14 @@
   "lng": -70.625379,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14162-000.webp": "The View, house in Rockport, MA",
+   "images/MA-14162-001.webp": "The View, Rockport, MA, photo 2 of 4",
+   "images/MA-14162-002.webp": "The View, Rockport, MA, photo 3 of 4",
+   "images/MA-14162-003.webp": "The View, Rockport, MA, photo 4 of 4",
+   "images/MA-14162-card.webp": "The View, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-1305",
@@ -5673,7 +7058,14 @@
   "lat": 42.66111,
   "lng": -70.62111,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-1305-cover.webp": "The Waterline, apartment in Rockport, MA",
+   "images/MA-1305-000.webp": "The Waterline, Rockport, MA, photo 2 of 4",
+   "images/MA-1305-001.webp": "The Waterline, Rockport, MA, photo 3 of 4",
+   "images/MA-1305-002.webp": "The Waterline, Rockport, MA, photo 4 of 4",
+   "images/MA-1305-card.webp": "The Waterline, apartment in Rockport, MA"
+  }
  },
  {
   "id": "MA-14163",
@@ -5702,7 +7094,14 @@
   "lng": -70.684037,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14163-000.webp": "Thurston Point Cottage, house in Gloucester, MA",
+   "images/MA-14163-001.webp": "Thurston Point Cottage, Gloucester, MA, photo 2 of 4",
+   "images/MA-14163-002.webp": "Thurston Point Cottage, Gloucester, MA, photo 3 of 4",
+   "images/MA-14163-003.webp": "Thurston Point Cottage, Gloucester, MA, photo 4 of 4",
+   "images/MA-14163-card.webp": "Thurston Point Cottage, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14164",
@@ -5731,7 +7130,14 @@
   "lng": -70.688731,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14164-000.webp": "Tidebend, house in Gloucester, MA",
+   "images/MA-14164-001.webp": "Tidebend, Gloucester, MA, photo 2 of 4",
+   "images/MA-14164-002.webp": "Tidebend, Gloucester, MA, photo 3 of 4",
+   "images/MA-14164-003.webp": "Tidebend, Gloucester, MA, photo 4 of 4",
+   "images/MA-14164-card.webp": "Tidebend, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0431",
@@ -5759,7 +7165,14 @@
   "lat": 42.85605,
   "lng": -70.81746,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0431-cover.webp": "Tulum Theme|Pvt Beach Access|Parking|New Listing, apartment in Salisbury, MA",
+   "images/MA-0431-000.webp": "Tulum Theme|Pvt Beach Access|Parking|New Listing, Salisbury, MA, photo 2 of 4",
+   "images/MA-0431-001.webp": "Tulum Theme|Pvt Beach Access|Parking|New Listing, Salisbury, MA, photo 3 of 4",
+   "images/MA-0431-002.webp": "Tulum Theme|Pvt Beach Access|Parking|New Listing, Salisbury, MA, photo 4 of 4",
+   "images/MA-0431-card.webp": "Tulum Theme|Pvt Beach Access|Parking|New Listing, apartment in Salisbury, MA"
+  }
  },
  {
   "id": "MA-14165",
@@ -5788,7 +7201,14 @@
   "lng": -70.617618,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14165-000.webp": "Twin Lights, house in Rockport, MA",
+   "images/MA-14165-001.webp": "Twin Lights, Rockport, MA, photo 2 of 4",
+   "images/MA-14165-002.webp": "Twin Lights, Rockport, MA, photo 3 of 4",
+   "images/MA-14165-003.webp": "Twin Lights, Rockport, MA, photo 4 of 4",
+   "images/MA-14165-card.webp": "Twin Lights, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-14166",
@@ -5817,7 +7237,14 @@
   "lng": -70.623691,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14166-000.webp": "Two Beaches Cottage, house in Gloucester, MA",
+   "images/MA-14166-001.webp": "Two Beaches Cottage, Gloucester, MA, photo 2 of 4",
+   "images/MA-14166-002.webp": "Two Beaches Cottage, Gloucester, MA, photo 3 of 4",
+   "images/MA-14166-003.webp": "Two Beaches Cottage, Gloucester, MA, photo 4 of 4",
+   "images/MA-14166-card.webp": "Two Beaches Cottage, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14167",
@@ -5846,7 +7273,14 @@
   "lng": -70.625292,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14167-000.webp": "Vista Mare, house in Rockport, MA",
+   "images/MA-14167-001.webp": "Vista Mare, Rockport, MA, photo 2 of 4",
+   "images/MA-14167-002.webp": "Vista Mare, Rockport, MA, photo 3 of 4",
+   "images/MA-14167-003.webp": "Vista Mare, Rockport, MA, photo 4 of 4",
+   "images/MA-14167-card.webp": "Vista Mare, house in Rockport, MA"
+  }
  },
  {
   "id": "MA-0424",
@@ -5874,7 +7308,14 @@
   "lat": 42.61516,
   "lng": -70.66882,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0424-cover.webp": "Walk2DNTN•Beach•Beauport•Boat Island•Close2Salem, house in Gloucester, MA",
+   "images/MA-0424-000.webp": "Walk2DNTN•Beach•Beauport•Boat Island•Close2Salem, Gloucester, MA, photo 2 of 4",
+   "images/MA-0424-001.webp": "Walk2DNTN•Beach•Beauport•Boat Island•Close2Salem, Gloucester, MA, photo 3 of 4",
+   "images/MA-0424-002.webp": "Walk2DNTN•Beach•Beauport•Boat Island•Close2Salem, Gloucester, MA, photo 4 of 4",
+   "images/MA-0424-card.webp": "Walk2DNTN•Beach•Beauport•Boat Island•Close2Salem, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-0445",
@@ -5902,7 +7343,14 @@
   "lat": 42.65975,
   "lng": -70.61511,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0445-cover.webp": "Waterfront Retreat at Motif Annex, apartment in Rockport, MA",
+   "images/MA-0445-000.webp": "Waterfront Retreat at Motif Annex, Rockport, MA, photo 2 of 4",
+   "images/MA-0445-001.webp": "Waterfront Retreat at Motif Annex, Rockport, MA, photo 3 of 4",
+   "images/MA-0445-002.webp": "Waterfront Retreat at Motif Annex, Rockport, MA, photo 4 of 4",
+   "images/MA-0445-card.webp": "Waterfront Retreat at Motif Annex, apartment in Rockport, MA"
+  }
  },
  {
   "id": "MA-14059",
@@ -5931,7 +7379,14 @@
   "lng": -70.656422,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14059-000.webp": "Windward Point, house in Gloucester, MA",
+   "images/MA-14059-001.webp": "Windward Point, Gloucester, MA, photo 2 of 4",
+   "images/MA-14059-002.webp": "Windward Point, Gloucester, MA, photo 3 of 4",
+   "images/MA-14059-003.webp": "Windward Point, Gloucester, MA, photo 4 of 4",
+   "images/MA-14059-card.webp": "Windward Point, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14168",
@@ -5960,7 +7415,14 @@
   "lng": -70.694939,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14168-000.webp": "Wingaerchic, house in Gloucester, MA",
+   "images/MA-14168-001.webp": "Wingaerchic, Gloucester, MA, photo 2 of 4",
+   "images/MA-14168-002.webp": "Wingaerchic, Gloucester, MA, photo 3 of 4",
+   "images/MA-14168-003.webp": "Wingaerchic, Gloucester, MA, photo 4 of 4",
+   "images/MA-14168-card.webp": "Wingaerchic, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-14072",
@@ -5989,7 +7451,14 @@
   "lng": -70.6939,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-14072-000.webp": "Wingaersheek, house in Gloucester, MA",
+   "images/MA-14072-001.webp": "Wingaersheek, Gloucester, MA, photo 2 of 4",
+   "images/MA-14072-002.webp": "Wingaersheek, Gloucester, MA, photo 3 of 4",
+   "images/MA-14072-003.webp": "Wingaersheek, Gloucester, MA, photo 4 of 4",
+   "images/MA-14072-card.webp": "Wingaersheek, house in Gloucester, MA"
+  }
  },
  {
   "id": "MA-1301",
@@ -6017,6 +7486,13 @@
   "lat": 42.51111,
   "lng": -70.85111,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-1301-cover.webp": "Yachtsman Suite, apartment in Marblehead, MA",
+   "images/MA-1301-000.webp": "Yachtsman Suite, Marblehead, MA, photo 2 of 4",
+   "images/MA-1301-001.webp": "Yachtsman Suite, Marblehead, MA, photo 3 of 4",
+   "images/MA-1301-002.webp": "Yachtsman Suite, Marblehead, MA, photo 4 of 4",
+   "images/MA-1301-card.webp": "Yachtsman Suite, apartment in Marblehead, MA"
+  }
  }
 ]

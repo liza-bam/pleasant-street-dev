@@ -25,7 +25,14 @@
   "lat": 42.6112,
   "lng": -71.5745,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0002-cover.webp": "Birch and Stone Groton, Groton, MA",
+   "images/MA-0002-000.webp": "Birch and Stone Groton, Groton, MA, photo 2 of 4",
+   "images/MA-0002-001.webp": "Birch and Stone Groton, Groton, MA, photo 3 of 4",
+   "images/MA-0002-002.webp": "Birch and Stone Groton, Groton, MA, photo 4 of 4",
+   "images/MA-0002-card.webp": "Birch and Stone Groton, Groton, MA"
+  }
  },
  {
   "id": "MA-0315",
@@ -53,7 +60,14 @@
   "lat": 42.4883,
   "lng": -72.1866,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0315-cover.webp": "Clamber Hill Inn and Restaurant, Petersham, MA",
+   "images/MA-0315-000.webp": "Clamber Hill Inn and Restaurant, Petersham, MA, photo 2 of 4",
+   "images/MA-0315-001.webp": "Clamber Hill Inn and Restaurant, Petersham, MA, photo 3 of 4",
+   "images/MA-0315-002.webp": "Clamber Hill Inn and Restaurant, Petersham, MA, photo 4 of 4",
+   "images/MA-0315-card.webp": "Clamber Hill Inn and Restaurant, Petersham, MA"
+  }
  },
  {
   "id": "MA-0020",
@@ -81,7 +95,14 @@
   "lat": 42.2611,
   "lng": -71.7949,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0020-cover.webp": "Luxo Executive Rentals, apartment in Worcester / Central Massachusetts, MA",
+   "images/MA-0020-000.webp": "Luxo Executive Rentals, Worcester / Central Massachusetts, MA, photo 2 of 4",
+   "images/MA-0020-001.webp": "Luxo Executive Rentals, Worcester / Central Massachusetts, MA, photo 3 of 4",
+   "images/MA-0020-002.webp": "Luxo Executive Rentals, Worcester / Central Massachusetts, MA, photo 4 of 4",
+   "images/MA-0020-card.webp": "Luxo Executive Rentals, apartment in Worcester / Central Massachusetts, MA"
+  }
  },
  {
   "id": "MA-0021",
@@ -109,7 +130,14 @@
   "lat": 42.3549,
   "lng": -72.0435,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0021-cover.webp": "Pine Acres Family Camping Resort, cabin in Oakham, MA",
+   "images/MA-0021-000.webp": "Pine Acres Family Camping Resort, Oakham, MA, photo 2 of 4",
+   "images/MA-0021-001.webp": "Pine Acres Family Camping Resort, Oakham, MA, photo 3 of 4",
+   "images/MA-0021-002.webp": "Pine Acres Family Camping Resort, Oakham, MA, photo 4 of 4",
+   "images/MA-0021-card.webp": "Pine Acres Family Camping Resort, cabin in Oakham, MA"
+  }
  },
  {
   "id": "MA-0314",
@@ -137,7 +165,14 @@
   "lat": 42.4766,
   "lng": -72.0087,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0314-cover.webp": "Plain View Farm, Hubbardston, MA",
+   "images/MA-0314-000.webp": "Plain View Farm, Hubbardston, MA, photo 2 of 4",
+   "images/MA-0314-001.webp": "Plain View Farm, Hubbardston, MA, photo 3 of 4",
+   "images/MA-0314-002.webp": "Plain View Farm, Hubbardston, MA, photo 4 of 4",
+   "images/MA-0314-card.webp": "Plain View Farm, Hubbardston, MA"
+  }
  },
  {
   "id": "MA-0316",
@@ -165,6 +200,13 @@
   "lat": 42.6358,
   "lng": -71.9087,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0316-cover.webp": "The Maguire House, Ashburnham, MA",
+   "images/MA-0316-000.webp": "The Maguire House, Ashburnham, MA, photo 2 of 4",
+   "images/MA-0316-001.webp": "The Maguire House, Ashburnham, MA, photo 3 of 4",
+   "images/MA-0316-002.webp": "The Maguire House, Ashburnham, MA, photo 4 of 4",
+   "images/MA-0316-card.webp": "The Maguire House, Ashburnham, MA"
+  }
  }
 ]

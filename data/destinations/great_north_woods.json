@@ -25,7 +25,14 @@
   "lat": 44.7811,
   "lng": -71.1382,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0034-cover.webp": "Akers Pond Inn Cabins & RV Sites, cabin in Errol, NH",
+   "images/NH-0034-000.webp": "Akers Pond Inn Cabins & RV Sites, Errol, NH, photo 2 of 4",
+   "images/NH-0034-001.webp": "Akers Pond Inn Cabins & RV Sites, Errol, NH, photo 3 of 4",
+   "images/NH-0034-002.webp": "Akers Pond Inn Cabins & RV Sites, Errol, NH, photo 4 of 4",
+   "images/NH-0034-card.webp": "Akers Pond Inn Cabins & RV Sites, cabin in Errol, NH"
+  }
  },
  {
   "id": "NH-0012",
@@ -48,7 +55,10 @@
   "lat": 45.0515,
   "lng": -71.3915,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "At Bear Tree, cabin in Pittsburg, NH"
+  }
  },
  {
   "id": "NH-0030",
@@ -77,7 +87,13 @@
   "lng": -71.3915,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0030-cover.webp": "Lake View Cabins, cabin in Pittsburg, NH",
+   "images/NH-0030-000.webp": "Lake View Cabins, Pittsburg, NH, photo 2 of 3",
+   "images/NH-0030-001.webp": "Lake View Cabins, Pittsburg, NH, photo 3 of 3",
+   "images/NH-0030-card.webp": "Lake View Cabins, cabin in Pittsburg, NH"
+  }
  },
  {
   "id": "NH-0044",
@@ -105,7 +121,13 @@
   "lat": 45.0515,
   "lng": -71.3915,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0044-cover.webp": "Robie’s Cabins, cabin in Pittsburg, NH",
+   "images/NH-0044-000.webp": "Robie’s Cabins, Pittsburg, NH, photo 2 of 3",
+   "images/NH-0044-001.webp": "Robie’s Cabins, Pittsburg, NH, photo 3 of 3",
+   "images/NH-0044-card.webp": "Robie’s Cabins, cabin in Pittsburg, NH"
+  }
  },
  {
   "id": "NH-0019",
@@ -128,7 +150,11 @@
   "lat": 45.0515,
   "lng": -71.3915,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0019-cover.webp": "The Partridge Cabins & Lodge, cabin in Pittsburg, NH",
+   "images/NH-0019-card.webp": "The Partridge Cabins & Lodge, cabin in Pittsburg, NH"
+  }
  },
  {
   "id": "NH-0048",
@@ -163,6 +189,13 @@
   "lat": 45.0515,
   "lng": -71.3915,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0048-cover.webp": "Winterfell-NH, cabin in Pittsburg, NH",
+   "images/NH-0048-000.webp": "Winterfell-NH, Pittsburg, NH, photo 2 of 4",
+   "images/NH-0048-001.webp": "Winterfell-NH, Pittsburg, NH, photo 3 of 4",
+   "images/NH-0048-002.webp": "Winterfell-NH, Pittsburg, NH, photo 4 of 4",
+   "images/NH-0048-card.webp": "Winterfell-NH, cabin in Pittsburg, NH"
+  }
  }
 ]

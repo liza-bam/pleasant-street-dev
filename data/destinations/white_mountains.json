@@ -21,7 +21,11 @@
   "lng": -71.639,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0053-cover.webp": "All Mountain Rentals, house in Campton, NH",
+   "images/NH-0053-card.webp": "All Mountain Rentals, house in Campton, NH"
+  }
  },
  {
   "id": "NH-0011",
@@ -44,7 +48,11 @@
   "lat": 44.078,
   "lng": -71.2821,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0011-cover.webp": "Alpine Garden, cabin in Bartlett, NH",
+   "images/NH-0011-card.webp": "Alpine Garden, cabin in Bartlett, NH"
+  }
  },
  {
   "id": "NH-0028",
@@ -72,7 +80,13 @@
   "lat": 44.26,
   "lng": -71.443,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0028-cover.webp": "AMC Highland Center, Bretton Woods, NH",
+   "images/NH-0028-000.webp": "AMC Highland Center, Bretton Woods, NH, photo 2 of 3",
+   "images/NH-0028-001.webp": "AMC Highland Center, Bretton Woods, NH, photo 3 of 3",
+   "images/NH-0028-card.webp": "AMC Highland Center, Bretton Woods, NH"
+  }
  },
  {
   "id": "NH-0052",
@@ -95,7 +109,10 @@
   "lat": 44.078,
   "lng": -71.2821,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Attitash Mountain Village Resort, apartment in Bartlett, NH"
+  }
  },
  {
   "id": "NH-0005",
@@ -118,7 +135,10 @@
   "lat": 43.8045,
   "lng": -71.8131,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Baker Rocks, cabin in Rumney, NH"
+  }
  },
  {
   "id": "NH-0016",
@@ -142,7 +162,10 @@
   "lng": -71.443,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Bretton Woods Vacations, house in Bretton Woods, NH"
+  }
  },
  {
   "id": "NH-0056",
@@ -170,7 +193,14 @@
   "lat": 44.0378,
   "lng": -71.1238,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0056-cover.webp": "Cranmore Condominiums, apartment in North Conway, NH",
+   "images/NH-0056-000.webp": "Cranmore Condominiums, North Conway, NH, photo 2 of 4",
+   "images/NH-0056-001.webp": "Cranmore Condominiums, North Conway, NH, photo 3 of 4",
+   "images/NH-0056-002.webp": "Cranmore Condominiums, North Conway, NH, photo 4 of 4",
+   "images/NH-0056-card.webp": "Cranmore Condominiums, apartment in North Conway, NH"
+  }
  },
  {
   "id": "NH-0063",
@@ -193,7 +223,11 @@
   "lat": 43.9496,
   "lng": -71.5057,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0063-cover.webp": "Golden Eagle Lodge, cabin in Waterville Valley, NH",
+   "images/NH-0063-card.webp": "Golden Eagle Lodge, cabin in Waterville Valley, NH"
+  }
  },
  {
   "id": "NH-0046",
@@ -222,7 +256,14 @@
   "lng": -71.55245,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0046-cover.webp": "Highland House and Cottages, cabin in Twin Mountain, NH",
+   "images/NH-0046-000.webp": "Highland House and Cottages, Twin Mountain, NH, photo 2 of 4",
+   "images/NH-0046-001.webp": "Highland House and Cottages, Twin Mountain, NH, photo 3 of 4",
+   "images/NH-0046-002.webp": "Highland House and Cottages, Twin Mountain, NH, photo 4 of 4",
+   "images/NH-0046-card.webp": "Highland House and Cottages, cabin in Twin Mountain, NH"
+  }
  },
  {
   "id": "NH-0006",
@@ -245,7 +286,12 @@
   "lat": 44.0445,
   "lng": -71.6684,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0006-cover.webp": "Mt. Liberty Lodging, cabin in Lincoln, NH",
+   "images/NH-0006-000.webp": "Mt. Liberty Lodging, Lincoln, NH, photo 2 of 2",
+   "images/NH-0006-card.webp": "Mt. Liberty Lodging, cabin in Lincoln, NH"
+  }
  },
  {
   "id": "NH-0045",
@@ -277,7 +323,14 @@
   "lat": 44.0445,
   "lng": -71.6684,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0045-cover.webp": "Pemi Cabins, cabin in Lincoln, NH",
+   "images/NH-0045-000.webp": "Pemi Cabins, Lincoln, NH, photo 2 of 4",
+   "images/NH-0045-001.webp": "Pemi Cabins, Lincoln, NH, photo 3 of 4",
+   "images/NH-0045-002.webp": "Pemi Cabins, Lincoln, NH, photo 4 of 4",
+   "images/NH-0045-card.webp": "Pemi Cabins, cabin in Lincoln, NH"
+  }
  },
  {
   "id": "NH-0023",
@@ -305,7 +358,14 @@
   "lat": 44.2805,
   "lng": -71.687,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0023-cover.webp": "Presidential Mountain Resort, cabin in Bethlehem, NH",
+   "images/NH-0023-000.webp": "Presidential Mountain Resort, Bethlehem, NH, photo 2 of 4",
+   "images/NH-0023-001.webp": "Presidential Mountain Resort, Bethlehem, NH, photo 3 of 4",
+   "images/NH-0023-002.webp": "Presidential Mountain Resort, Bethlehem, NH, photo 4 of 4",
+   "images/NH-0023-card.webp": "Presidential Mountain Resort, cabin in Bethlehem, NH"
+  }
  },
  {
   "id": "NH-0020",
@@ -328,7 +388,11 @@
   "lat": 43.8994,
   "lng": -71.1488,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0020-cover.webp": "Purity Spring Resort, cabin in Madison, NH",
+   "images/NH-0020-card.webp": "Purity Spring Resort, cabin in Madison, NH"
+  }
  },
  {
   "id": "NH-0062",
@@ -356,7 +420,13 @@
   "lat": 44.4194,
   "lng": -71.4747,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0062-cover.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH",
+   "images/NH-0062-000.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH, photo 2 of 3",
+   "images/NH-0062-001.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH, photo 3 of 3",
+   "images/NH-0062-card.webp": "Red Brook Retreat LLC / Red Brook Mountain Retreat, Jefferson, NH"
+  }
  },
  {
   "id": "NH-0010",
@@ -379,7 +449,11 @@
   "lat": 43.8954,
   "lng": -71.678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0010-cover.webp": "Shamrock Grove, cabin in Thornton, NH",
+   "images/NH-0010-card.webp": "Shamrock Grove, cabin in Thornton, NH"
+  }
  },
  {
   "id": "NH-0021",
@@ -402,7 +476,11 @@
   "lat": 44.2157,
   "lng": -71.7973,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0021-cover.webp": "Sugar Hill Inn, cabin in Sugar Hill, NH",
+   "images/NH-0021-card.webp": "Sugar Hill Inn, cabin in Sugar Hill, NH"
+  }
  },
  {
   "id": "NH-0054",
@@ -430,7 +508,14 @@
   "lat": 44.4194,
   "lng": -71.4747,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0054-cover.webp": "The Bray Hill House, Jefferson, NH",
+   "images/NH-0054-000.webp": "The Bray Hill House, Jefferson, NH, photo 2 of 4",
+   "images/NH-0054-001.webp": "The Bray Hill House, Jefferson, NH, photo 3 of 4",
+   "images/NH-0054-002.webp": "The Bray Hill House, Jefferson, NH, photo 4 of 4",
+   "images/NH-0054-card.webp": "The Bray Hill House, Jefferson, NH"
+  }
  },
  {
   "id": "NH-0077",
@@ -462,7 +547,14 @@
   "lat": 44.0005,
   "lng": -71.073,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0077-cover.webp": "The Conscious Cabin, cabin in Conway, NH",
+   "images/NH-0077-000.webp": "The Conscious Cabin, Conway, NH, photo 2 of 4",
+   "images/NH-0077-001.webp": "The Conscious Cabin, Conway, NH, photo 3 of 4",
+   "images/NH-0077-002.webp": "The Conscious Cabin, Conway, NH, photo 4 of 4",
+   "images/NH-0077-card.webp": "The Conscious Cabin, cabin in Conway, NH"
+  }
  },
  {
   "id": "NH-0067",
@@ -490,7 +582,14 @@
   "lat": 44.12857,
   "lng": -71.18017,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0067-cover.webp": "The Crimson Cocoa Chalet, Bartlett, NH",
+   "images/NH-0067-000.webp": "The Crimson Cocoa Chalet, Bartlett, NH, photo 2 of 4",
+   "images/NH-0067-001.webp": "The Crimson Cocoa Chalet, Bartlett, NH, photo 3 of 4",
+   "images/NH-0067-002.webp": "The Crimson Cocoa Chalet, Bartlett, NH, photo 4 of 4",
+   "images/NH-0067-card.webp": "The Crimson Cocoa Chalet, Bartlett, NH"
+  }
  },
  {
   "id": "NH-0008",
@@ -513,7 +612,10 @@
   "lat": 44.0309,
   "lng": -72.0081,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "The Innstead Mountain Getaway, cabin in Pike, NH"
+  }
  },
  {
   "id": "NH-0004",
@@ -541,7 +643,14 @@
   "lat": 44.2711,
   "lng": -71.54,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0004-cover.webp": "The Patio Cabins, cabin in Twin Mountain, NH",
+   "images/NH-0004-000.webp": "The Patio Cabins, Twin Mountain, NH, photo 2 of 4",
+   "images/NH-0004-001.webp": "The Patio Cabins, Twin Mountain, NH, photo 3 of 4",
+   "images/NH-0004-002.webp": "The Patio Cabins, Twin Mountain, NH, photo 4 of 4",
+   "images/NH-0004-card.webp": "The Patio Cabins, cabin in Twin Mountain, NH"
+  }
  },
  {
   "id": "NH-0002",
@@ -569,7 +678,13 @@
   "lat": 43.8603,
   "lng": -71.2635,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0002-cover.webp": "The Preserve at Chocorua, cabin in Tamworth, NH",
+   "images/NH-0002-000.webp": "The Preserve at Chocorua, Tamworth, NH, photo 2 of 3",
+   "images/NH-0002-001.webp": "The Preserve at Chocorua, Tamworth, NH, photo 3 of 3",
+   "images/NH-0002-card.webp": "The Preserve at Chocorua, cabin in Tamworth, NH"
+  }
  },
  {
   "id": "NH-0058",
@@ -597,7 +712,14 @@
   "lat": 44.0744,
   "lng": -71.14,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0058-cover.webp": "TuckAway Suites at East Branch, Intervale, NH",
+   "images/NH-0058-000.webp": "TuckAway Suites at East Branch, Intervale, NH, photo 2 of 4",
+   "images/NH-0058-001.webp": "TuckAway Suites at East Branch, Intervale, NH, photo 3 of 4",
+   "images/NH-0058-002.webp": "TuckAway Suites at East Branch, Intervale, NH, photo 4 of 4",
+   "images/NH-0058-card.webp": "TuckAway Suites at East Branch, Intervale, NH"
+  }
  },
  {
   "id": "NH-0071",
@@ -625,7 +747,13 @@
   "lat": 44.0378,
   "lng": -71.1238,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0071-cover.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH",
+   "images/NH-0071-000.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH, photo 2 of 3",
+   "images/NH-0071-001.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH, photo 3 of 3",
+   "images/NH-0071-card.webp": "Village Place at the Eastern Slope Inn Resort, North Conway, NH"
+  }
  },
  {
   "id": "NH-0055",
@@ -648,6 +776,11 @@
   "lat": 43.9496,
   "lng": -71.5057,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NH-0055-cover.webp": "Waterville Valley Resort, house in Waterville Valley, NH",
+   "images/NH-0055-000.webp": "Waterville Valley Resort, Waterville Valley, NH, photo 2 of 2",
+   "images/NH-0055-card.webp": "Waterville Valley Resort, house in Waterville Valley, NH"
+  }
  }
 ]

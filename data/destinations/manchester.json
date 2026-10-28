@@ -25,7 +25,11 @@
   "lat": 43.3463,
   "lng": -73.1773,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0039-cover.jpg": "Flower Brook Farm, house in Pawlet, VT",
+   "images/VT-0039-card.webp": "Flower Brook Farm, house in Pawlet, VT"
+  }
  },
  {
   "id": "VT-0037",
@@ -53,7 +57,11 @@
   "lat": 43.1769,
   "lng": -73.0569,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0037-cover.jpg": "Storied Stay, Manchester, VT",
+   "images/VT-0037-card.webp": "Storied Stay, Manchester, VT"
+  }
  },
  {
   "id": "VT-0069",
@@ -81,6 +89,10 @@
   "lat": 43.1769,
   "lng": -73.0569,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0069-cover.jpg": "Vermont Vacation Rentals — Sanctuary Homes, Manchester Center, VT",
+   "images/VT-0069-card.webp": "Vermont Vacation Rentals — Sanctuary Homes, Manchester Center, VT"
+  }
  }
 ]

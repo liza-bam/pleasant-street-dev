@@ -25,7 +25,13 @@
   "lat": 42.6036,
   "lng": -72.7395,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0309-cover.webp": "Blooming Inn Shelburne Falls, apartment in Shelburne Falls, MA",
+   "images/MA-0309-000.webp": "Blooming Inn Shelburne Falls, Shelburne Falls, MA, photo 2 of 3",
+   "images/MA-0309-001.webp": "Blooming Inn Shelburne Falls, Shelburne Falls, MA, photo 3 of 3",
+   "images/MA-0309-card.webp": "Blooming Inn Shelburne Falls, apartment in Shelburne Falls, MA"
+  }
  },
  {
   "id": "MA-18000",
@@ -54,7 +60,14 @@
   "lng": -72.863719,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-18000-cover.webp": "Blue Heron Farm — Log Cabin, cabin in Charlemont, MA",
+   "images/MA-18000-000.webp": "Blue Heron Farm — Log Cabin, Charlemont, MA, photo 2 of 4",
+   "images/MA-18000-001.webp": "Blue Heron Farm — Log Cabin, Charlemont, MA, photo 3 of 4",
+   "images/MA-18000-002.webp": "Blue Heron Farm — Log Cabin, Charlemont, MA, photo 4 of 4",
+   "images/MA-18000-card.webp": "Blue Heron Farm — Log Cabin, cabin in Charlemont, MA"
+  }
  },
  {
   "id": "MA-0310",
@@ -83,7 +96,14 @@
   "lng": -72.88379,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0310-cover.webp": "Hinata Retreat, cabin in Charlemont, MA",
+   "images/MA-0310-000.webp": "Hinata Retreat, Charlemont, MA, photo 2 of 4",
+   "images/MA-0310-001.webp": "Hinata Retreat, Charlemont, MA, photo 3 of 4",
+   "images/MA-0310-002.webp": "Hinata Retreat, Charlemont, MA, photo 4 of 4",
+   "images/MA-0310-card.webp": "Hinata Retreat, cabin in Charlemont, MA"
+  }
  },
  {
   "id": "MA-0253",
@@ -111,7 +131,14 @@
   "lat": 42.61054,
   "lng": -72.883042,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0253-cover.webp": "Minutes To Berkshire East With Hot Tub & Views, Hawley, MA",
+   "images/MA-0253-000.webp": "Minutes To Berkshire East With Hot Tub & Views, Hawley, MA, photo 2 of 4",
+   "images/MA-0253-001.webp": "Minutes To Berkshire East With Hot Tub & Views, Hawley, MA, photo 3 of 4",
+   "images/MA-0253-002.webp": "Minutes To Berkshire East With Hot Tub & Views, Hawley, MA, photo 4 of 4",
+   "images/MA-0253-card.webp": "Minutes To Berkshire East With Hot Tub & Views, Hawley, MA"
+  }
  },
  {
   "id": "MA-18003",
@@ -139,7 +166,14 @@
   "lat": 42.529041,
   "lng": -72.597536,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-18003-cover.webp": "Old Deerfield Treasure, house in Deerfield, MA",
+   "images/MA-18003-000.webp": "Old Deerfield Treasure, Deerfield, MA, photo 2 of 4",
+   "images/MA-18003-001.webp": "Old Deerfield Treasure, Deerfield, MA, photo 3 of 4",
+   "images/MA-18003-002.webp": "Old Deerfield Treasure, Deerfield, MA, photo 4 of 4",
+   "images/MA-18003-card.webp": "Old Deerfield Treasure, house in Deerfield, MA"
+  }
  },
  {
   "id": "MA-0255",
@@ -167,7 +201,14 @@
   "lat": 42.416917,
   "lng": -72.954883,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0255-cover.webp": "Private Berkshire Chalet in Worthington, Worthington, MA",
+   "images/MA-0255-000.webp": "Private Berkshire Chalet in Worthington, Worthington, MA, photo 2 of 4",
+   "images/MA-0255-001.webp": "Private Berkshire Chalet in Worthington, Worthington, MA, photo 3 of 4",
+   "images/MA-0255-002.webp": "Private Berkshire Chalet in Worthington, Worthington, MA, photo 4 of 4",
+   "images/MA-0255-card.webp": "Private Berkshire Chalet in Worthington, Worthington, MA"
+  }
  },
  {
   "id": "MA-0259",
@@ -195,7 +236,14 @@
   "lat": 42.493141,
   "lng": -72.973299,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0259-cover.webp": "Riverfront Log Home on 44 Acres with Sauna, Cummington, MA",
+   "images/MA-0259-000.webp": "Riverfront Log Home on 44 Acres with Sauna, Cummington, MA, photo 2 of 4",
+   "images/MA-0259-001.webp": "Riverfront Log Home on 44 Acres with Sauna, Cummington, MA, photo 3 of 4",
+   "images/MA-0259-002.webp": "Riverfront Log Home on 44 Acres with Sauna, Cummington, MA, photo 4 of 4",
+   "images/MA-0259-card.webp": "Riverfront Log Home on 44 Acres with Sauna, Cummington, MA"
+  }
  },
  {
   "id": "MA-0303",
@@ -223,7 +271,14 @@
   "lat": 42.6036,
   "lng": -72.7395,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0303-cover.webp": "Shelburne Falls Firehouse Studios, apartment in Shelburne Falls, MA",
+   "images/MA-0303-000.webp": "Shelburne Falls Firehouse Studios, Shelburne Falls, MA, photo 2 of 4",
+   "images/MA-0303-001.webp": "Shelburne Falls Firehouse Studios, Shelburne Falls, MA, photo 3 of 4",
+   "images/MA-0303-002.webp": "Shelburne Falls Firehouse Studios, Shelburne Falls, MA, photo 4 of 4",
+   "images/MA-0303-card.webp": "Shelburne Falls Firehouse Studios, apartment in Shelburne Falls, MA"
+  }
  },
  {
   "id": "MA-0311",
@@ -246,7 +301,10 @@
   "lat": 42.6036,
   "lng": -72.7395,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Shelburne Springs, house in Shelburne Falls, MA"
+  }
  },
  {
   "id": "MA-0308",
@@ -274,7 +332,13 @@
   "lat": 42.3732,
   "lng": -72.5961,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0308-cover.webp": "The Old Mill Inn, Hatfield, MA",
+   "images/MA-0308-000.webp": "The Old Mill Inn, Hatfield, MA, photo 2 of 3",
+   "images/MA-0308-001.webp": "The Old Mill Inn, Hatfield, MA, photo 3 of 3",
+   "images/MA-0308-card.webp": "The Old Mill Inn, Hatfield, MA"
+  }
  },
  {
   "id": "MA-18001",
@@ -302,7 +366,14 @@
   "lat": 42.627585,
   "lng": -72.86693,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-18001-cover.webp": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River, house in Charlemont, MA",
+   "images/MA-18001-000.webp": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River, Charlemont, MA, photo 2 of 4",
+   "images/MA-18001-001.webp": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River, Charlemont, MA, photo 3 of 4",
+   "images/MA-18001-002.webp": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River, Charlemont, MA, photo 4 of 4",
+   "images/MA-18001-card.webp": "The Shire Homes — 5BR Berkshire Home Mins To The Mountain & River, house in Charlemont, MA"
+  }
  },
  {
   "id": "MA-18002",
@@ -330,7 +401,14 @@
   "lat": 42.654789,
   "lng": -72.713913,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-18002-cover.webp": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254), house in Colrain, MA",
+   "images/MA-18002-000.webp": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254), Colrain, MA, photo 2 of 4",
+   "images/MA-18002-001.webp": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254), Colrain, MA, photo 3 of 4",
+   "images/MA-18002-002.webp": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254), Colrain, MA, photo 4 of 4",
+   "images/MA-18002-card.webp": "The Shire Homes — Spacious 5BR w/ Hot Tub & Games (Millhouse 254), house in Colrain, MA"
+  }
  },
  {
   "id": "MA-0313",
@@ -358,6 +436,12 @@
   "lat": 42.4399,
   "lng": -72.6349,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0313-cover.webp": "The Whately Inn, Whately, MA",
+   "images/MA-0313-000.webp": "The Whately Inn, Whately, MA, photo 2 of 3",
+   "images/MA-0313-001.webp": "The Whately Inn, Whately, MA, photo 3 of 3",
+   "images/MA-0313-card.webp": "The Whately Inn, Whately, MA"
+  }
  }
 ]

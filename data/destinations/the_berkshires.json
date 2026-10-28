@@ -25,7 +25,14 @@
   "lat": 42.2458,
   "lng": -73.204,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0317-cover.webp": "Ashintully Cottage, Tyringham, MA",
+   "images/MA-0317-000.webp": "Ashintully Cottage, Tyringham, MA, photo 2 of 4",
+   "images/MA-0317-001.webp": "Ashintully Cottage, Tyringham, MA, photo 3 of 4",
+   "images/MA-0317-002.webp": "Ashintully Cottage, Tyringham, MA, photo 4 of 4",
+   "images/MA-0317-card.webp": "Ashintully Cottage, Tyringham, MA"
+  }
  },
  {
   "id": "MA-0306",
@@ -53,7 +60,14 @@
   "lat": 42.3343,
   "lng": -73.3678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0306-cover.webp": "Berkshire Farmhouse Vacation, West Stockbridge, MA",
+   "images/MA-0306-000.webp": "Berkshire Farmhouse Vacation, West Stockbridge, MA, photo 2 of 4",
+   "images/MA-0306-001.webp": "Berkshire Farmhouse Vacation, West Stockbridge, MA, photo 3 of 4",
+   "images/MA-0306-002.webp": "Berkshire Farmhouse Vacation, West Stockbridge, MA, photo 4 of 4",
+   "images/MA-0306-card.webp": "Berkshire Farmhouse Vacation, West Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15024",
@@ -81,7 +95,14 @@
   "lat": 42.1586876,
   "lng": -73.2945075,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15024-cover.webp": "Berkshire Rental Properties — Aberdeen, house in New Marlborough, MA",
+   "images/MA-15024-000.webp": "Berkshire Rental Properties — Aberdeen, New Marlborough, MA, photo 2 of 4",
+   "images/MA-15024-001.webp": "Berkshire Rental Properties — Aberdeen, New Marlborough, MA, photo 3 of 4",
+   "images/MA-15024-002.webp": "Berkshire Rental Properties — Aberdeen, New Marlborough, MA, photo 4 of 4",
+   "images/MA-15024-card.webp": "Berkshire Rental Properties — Aberdeen, house in New Marlborough, MA"
+  }
  },
  {
   "id": "MA-15000",
@@ -109,7 +130,14 @@
   "lat": 42.14256,
   "lng": -73.2528773,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15000-cover.webp": "Berkshire Rental Properties — Casa Mia with Pool, house in New Marlborough, MA",
+   "images/MA-15000-000.webp": "Berkshire Rental Properties — Casa Mia with Pool, New Marlborough, MA, photo 2 of 4",
+   "images/MA-15000-001.webp": "Berkshire Rental Properties — Casa Mia with Pool, New Marlborough, MA, photo 3 of 4",
+   "images/MA-15000-002.webp": "Berkshire Rental Properties — Casa Mia with Pool, New Marlborough, MA, photo 4 of 4",
+   "images/MA-15000-card.webp": "Berkshire Rental Properties — Casa Mia with Pool, house in New Marlborough, MA"
+  }
  },
  {
   "id": "MA-15015",
@@ -137,7 +165,14 @@
   "lat": 42.1946526,
   "lng": -73.366748,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15015-cover.webp": "Berkshire Rental Properties — Castle Townhouse, apartment in Great Barrington, MA",
+   "images/MA-15015-000.webp": "Berkshire Rental Properties — Castle Townhouse, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15015-001.webp": "Berkshire Rental Properties — Castle Townhouse, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15015-002.webp": "Berkshire Rental Properties — Castle Townhouse, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15015-card.webp": "Berkshire Rental Properties — Castle Townhouse, apartment in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15018",
@@ -165,7 +200,14 @@
   "lat": 42.2430181,
   "lng": -73.374233,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15018-cover.webp": "Berkshire Rental Properties — Cherry View, house in Great Barrington, MA",
+   "images/MA-15018-000.webp": "Berkshire Rental Properties — Cherry View, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15018-001.webp": "Berkshire Rental Properties — Cherry View, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15018-002.webp": "Berkshire Rental Properties — Cherry View, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15018-card.webp": "Berkshire Rental Properties — Cherry View, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15021",
@@ -193,7 +235,14 @@
   "lat": 42.2456879,
   "lng": -73.3557413,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15021-cover.webp": "Berkshire Rental Properties — Conway House, house in Housatonic, MA",
+   "images/MA-15021-000.webp": "Berkshire Rental Properties — Conway House, Housatonic, MA, photo 2 of 4",
+   "images/MA-15021-001.webp": "Berkshire Rental Properties — Conway House, Housatonic, MA, photo 3 of 4",
+   "images/MA-15021-002.webp": "Berkshire Rental Properties — Conway House, Housatonic, MA, photo 4 of 4",
+   "images/MA-15021-card.webp": "Berkshire Rental Properties — Conway House, house in Housatonic, MA"
+  }
  },
  {
   "id": "MA-15009",
@@ -221,7 +270,14 @@
   "lat": 42.1691773,
   "lng": -73.4136701,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15009-cover.webp": "Berkshire Rental Properties — Creamery, house in Egremont, MA",
+   "images/MA-15009-000.webp": "Berkshire Rental Properties — Creamery, Egremont, MA, photo 2 of 4",
+   "images/MA-15009-001.webp": "Berkshire Rental Properties — Creamery, Egremont, MA, photo 3 of 4",
+   "images/MA-15009-002.webp": "Berkshire Rental Properties — Creamery, Egremont, MA, photo 4 of 4",
+   "images/MA-15009-card.webp": "Berkshire Rental Properties — Creamery, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15022",
@@ -249,7 +305,14 @@
   "lat": 42.150809,
   "lng": -73.3740192,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15022-cover.webp": "Berkshire Rental Properties — Dixon Cottage, house in Great Barrington, MA",
+   "images/MA-15022-000.webp": "Berkshire Rental Properties — Dixon Cottage, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15022-001.webp": "Berkshire Rental Properties — Dixon Cottage, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15022-002.webp": "Berkshire Rental Properties — Dixon Cottage, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15022-card.webp": "Berkshire Rental Properties — Dixon Cottage, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15027",
@@ -277,7 +340,14 @@
   "lat": 42.168737,
   "lng": -73.413905,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15027-cover.webp": "Berkshire Rental Properties — Garden House, house in Egremont, MA",
+   "images/MA-15027-000.webp": "Berkshire Rental Properties — Garden House, Egremont, MA, photo 2 of 4",
+   "images/MA-15027-001.webp": "Berkshire Rental Properties — Garden House, Egremont, MA, photo 3 of 4",
+   "images/MA-15027-002.webp": "Berkshire Rental Properties — Garden House, Egremont, MA, photo 4 of 4",
+   "images/MA-15027-card.webp": "Berkshire Rental Properties — Garden House, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15026",
@@ -305,7 +375,14 @@
   "lat": 42.2755331,
   "lng": -73.3199362,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15026-cover.webp": "Berkshire Rental Properties — Hadley House, house in Stockbridge, MA",
+   "images/MA-15026-000.webp": "Berkshire Rental Properties — Hadley House, Stockbridge, MA, photo 2 of 4",
+   "images/MA-15026-001.webp": "Berkshire Rental Properties — Hadley House, Stockbridge, MA, photo 3 of 4",
+   "images/MA-15026-002.webp": "Berkshire Rental Properties — Hadley House, Stockbridge, MA, photo 4 of 4",
+   "images/MA-15026-card.webp": "Berkshire Rental Properties — Hadley House, house in Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15008",
@@ -333,7 +410,14 @@
   "lat": 42.1935411,
   "lng": -73.3772016,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15008-cover.webp": "Berkshire Rental Properties — Highland, house in Great Barrington, MA",
+   "images/MA-15008-000.webp": "Berkshire Rental Properties — Highland, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15008-001.webp": "Berkshire Rental Properties — Highland, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15008-002.webp": "Berkshire Rental Properties — Highland, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15008-card.webp": "Berkshire Rental Properties — Highland, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15025",
@@ -361,7 +445,14 @@
   "lat": 42.1967369,
   "lng": -73.3695104,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15025-cover.webp": "Berkshire Rental Properties — Hill House Modern, house in Great Barrington, MA",
+   "images/MA-15025-000.webp": "Berkshire Rental Properties — Hill House Modern, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15025-001.webp": "Berkshire Rental Properties — Hill House Modern, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15025-002.webp": "Berkshire Rental Properties — Hill House Modern, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15025-card.webp": "Berkshire Rental Properties — Hill House Modern, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15003",
@@ -389,7 +480,14 @@
   "lat": 42.1203388,
   "lng": -73.4098158,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15003-cover.webp": "Berkshire Rental Properties — Hummingbird House, house in Sheffield, MA",
+   "images/MA-15003-000.webp": "Berkshire Rental Properties — Hummingbird House, Sheffield, MA, photo 2 of 4",
+   "images/MA-15003-001.webp": "Berkshire Rental Properties — Hummingbird House, Sheffield, MA, photo 3 of 4",
+   "images/MA-15003-002.webp": "Berkshire Rental Properties — Hummingbird House, Sheffield, MA, photo 4 of 4",
+   "images/MA-15003-card.webp": "Berkshire Rental Properties — Hummingbird House, house in Sheffield, MA"
+  }
  },
  {
   "id": "MA-15010",
@@ -417,7 +515,14 @@
   "lat": 42.3192425,
   "lng": -73.3223031,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15010-cover.webp": "Berkshire Rental Properties — Interlaken Cross, house in Stockbridge, MA",
+   "images/MA-15010-000.webp": "Berkshire Rental Properties — Interlaken Cross, Stockbridge, MA, photo 2 of 4",
+   "images/MA-15010-001.webp": "Berkshire Rental Properties — Interlaken Cross, Stockbridge, MA, photo 3 of 4",
+   "images/MA-15010-002.webp": "Berkshire Rental Properties — Interlaken Cross, Stockbridge, MA, photo 4 of 4",
+   "images/MA-15010-card.webp": "Berkshire Rental Properties — Interlaken Cross, house in Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15006",
@@ -445,7 +550,14 @@
   "lat": 42.1757174,
   "lng": -73.1906198,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15006-cover.webp": "Berkshire Rental Properties — Lake Garfield Waterfront, house in Monterey, MA",
+   "images/MA-15006-000.webp": "Berkshire Rental Properties — Lake Garfield Waterfront, Monterey, MA, photo 2 of 4",
+   "images/MA-15006-001.webp": "Berkshire Rental Properties — Lake Garfield Waterfront, Monterey, MA, photo 3 of 4",
+   "images/MA-15006-002.webp": "Berkshire Rental Properties — Lake Garfield Waterfront, Monterey, MA, photo 4 of 4",
+   "images/MA-15006-card.webp": "Berkshire Rental Properties — Lake Garfield Waterfront, house in Monterey, MA"
+  }
  },
  {
   "id": "MA-15002",
@@ -473,7 +585,14 @@
   "lat": 42.1984365,
   "lng": -73.4530201,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15002-cover.webp": "Berkshire Rental Properties — Lakeside Cottage, house in Egremont, MA",
+   "images/MA-15002-000.webp": "Berkshire Rental Properties — Lakeside Cottage, Egremont, MA, photo 2 of 4",
+   "images/MA-15002-001.webp": "Berkshire Rental Properties — Lakeside Cottage, Egremont, MA, photo 3 of 4",
+   "images/MA-15002-002.webp": "Berkshire Rental Properties — Lakeside Cottage, Egremont, MA, photo 4 of 4",
+   "images/MA-15002-card.webp": "Berkshire Rental Properties — Lakeside Cottage, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15016",
@@ -501,7 +620,14 @@
   "lat": 42.1669704,
   "lng": -73.2669375,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15016-cover.webp": "Berkshire Rental Properties — Laurel Banks Waterfront, house in Great Barrington, MA",
+   "images/MA-15016-000.webp": "Berkshire Rental Properties — Laurel Banks Waterfront, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15016-001.webp": "Berkshire Rental Properties — Laurel Banks Waterfront, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15016-002.webp": "Berkshire Rental Properties — Laurel Banks Waterfront, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15016-card.webp": "Berkshire Rental Properties — Laurel Banks Waterfront, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15014",
@@ -529,7 +655,14 @@
   "lat": 42.1987702,
   "lng": -73.3460675,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15014-cover.webp": "Berkshire Rental Properties — Laurel Cottage, house in Great Barrington, MA",
+   "images/MA-15014-000.webp": "Berkshire Rental Properties — Laurel Cottage, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15014-001.webp": "Berkshire Rental Properties — Laurel Cottage, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15014-002.webp": "Berkshire Rental Properties — Laurel Cottage, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15014-card.webp": "Berkshire Rental Properties — Laurel Cottage, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15028",
@@ -557,7 +690,14 @@
   "lat": 42.2550544,
   "lng": -73.3890351,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15028-cover.webp": "Berkshire Rental Properties — Long Pond Views, house in Great Barrington, MA",
+   "images/MA-15028-000.webp": "Berkshire Rental Properties — Long Pond Views, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15028-001.webp": "Berkshire Rental Properties — Long Pond Views, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15028-002.webp": "Berkshire Rental Properties — Long Pond Views, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15028-card.webp": "Berkshire Rental Properties — Long Pond Views, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15005",
@@ -585,7 +725,14 @@
   "lat": 42.229447,
   "lng": -73.4037221,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15005-cover.webp": "Berkshire Rental Properties — Red House, house in Great Barrington, MA",
+   "images/MA-15005-000.webp": "Berkshire Rental Properties — Red House, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15005-001.webp": "Berkshire Rental Properties — Red House, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15005-002.webp": "Berkshire Rental Properties — Red House, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15005-card.webp": "Berkshire Rental Properties — Red House, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15017",
@@ -613,7 +760,14 @@
   "lat": 42.114392,
   "lng": -73.342801,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15017-cover.webp": "Berkshire Rental Properties — Riverside, house in Sheffield, MA",
+   "images/MA-15017-000.webp": "Berkshire Rental Properties — Riverside, Sheffield, MA, photo 2 of 4",
+   "images/MA-15017-001.webp": "Berkshire Rental Properties — Riverside, Sheffield, MA, photo 3 of 4",
+   "images/MA-15017-002.webp": "Berkshire Rental Properties — Riverside, Sheffield, MA, photo 4 of 4",
+   "images/MA-15017-card.webp": "Berkshire Rental Properties — Riverside, house in Sheffield, MA"
+  }
  },
  {
   "id": "MA-15013",
@@ -641,7 +795,14 @@
   "lat": 42.211802,
   "lng": -73.4323724,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15013-cover.webp": "Berkshire Rental Properties — Rose Cottage, house in Egremont, MA",
+   "images/MA-15013-000.webp": "Berkshire Rental Properties — Rose Cottage, Egremont, MA, photo 2 of 4",
+   "images/MA-15013-001.webp": "Berkshire Rental Properties — Rose Cottage, Egremont, MA, photo 3 of 4",
+   "images/MA-15013-002.webp": "Berkshire Rental Properties — Rose Cottage, Egremont, MA, photo 4 of 4",
+   "images/MA-15013-card.webp": "Berkshire Rental Properties — Rose Cottage, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15023",
@@ -669,7 +830,14 @@
   "lat": 42.182128,
   "lng": -73.3824039,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15023-cover.webp": "Berkshire Rental Properties — Rosecliff Estate, house in Great Barrington, MA",
+   "images/MA-15023-000.webp": "Berkshire Rental Properties — Rosecliff Estate, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15023-001.webp": "Berkshire Rental Properties — Rosecliff Estate, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15023-002.webp": "Berkshire Rental Properties — Rosecliff Estate, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15023-card.webp": "Berkshire Rental Properties — Rosecliff Estate, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15001",
@@ -697,7 +865,14 @@
   "lat": 42.1595041,
   "lng": -73.4089738,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15001-cover.webp": "Berkshire Rental Properties — Seventeen, house in Egremont, MA",
+   "images/MA-15001-000.webp": "Berkshire Rental Properties — Seventeen, Egremont, MA, photo 2 of 4",
+   "images/MA-15001-001.webp": "Berkshire Rental Properties — Seventeen, Egremont, MA, photo 3 of 4",
+   "images/MA-15001-002.webp": "Berkshire Rental Properties — Seventeen, Egremont, MA, photo 4 of 4",
+   "images/MA-15001-card.webp": "Berkshire Rental Properties — Seventeen, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15012",
@@ -725,7 +900,14 @@
   "lat": 42.168947,
   "lng": -73.268069,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15012-cover.webp": "Berkshire Rental Properties — Sweetwater, house in Great Barrington, MA",
+   "images/MA-15012-000.webp": "Berkshire Rental Properties — Sweetwater, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15012-001.webp": "Berkshire Rental Properties — Sweetwater, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15012-002.webp": "Berkshire Rental Properties — Sweetwater, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15012-card.webp": "Berkshire Rental Properties — Sweetwater, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15011",
@@ -753,7 +935,14 @@
   "lat": 42.1037518,
   "lng": -73.3017151,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15011-cover.webp": "Berkshire Rental Properties — The Meadows, house in Mill River, MA",
+   "images/MA-15011-000.webp": "Berkshire Rental Properties — The Meadows, Mill River, MA, photo 2 of 4",
+   "images/MA-15011-001.webp": "Berkshire Rental Properties — The Meadows, Mill River, MA, photo 3 of 4",
+   "images/MA-15011-002.webp": "Berkshire Rental Properties — The Meadows, Mill River, MA, photo 4 of 4",
+   "images/MA-15011-card.webp": "Berkshire Rental Properties — The Meadows, house in Mill River, MA"
+  }
  },
  {
   "id": "MA-15019",
@@ -781,7 +970,14 @@
   "lat": 42.1635767,
   "lng": -73.4091568,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15019-cover.webp": "Berkshire Rental Properties — The Novogratz, house in Egremont, MA",
+   "images/MA-15019-000.webp": "Berkshire Rental Properties — The Novogratz, Egremont, MA, photo 2 of 4",
+   "images/MA-15019-001.webp": "Berkshire Rental Properties — The Novogratz, Egremont, MA, photo 3 of 4",
+   "images/MA-15019-002.webp": "Berkshire Rental Properties — The Novogratz, Egremont, MA, photo 4 of 4",
+   "images/MA-15019-card.webp": "Berkshire Rental Properties — The Novogratz, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15020",
@@ -809,7 +1005,14 @@
   "lat": 42.2835,
   "lng": -73.4250883,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15020-cover.webp": "Berkshire Rental Properties — West View, house in Alford, MA",
+   "images/MA-15020-000.webp": "Berkshire Rental Properties — West View, Alford, MA, photo 2 of 4",
+   "images/MA-15020-001.webp": "Berkshire Rental Properties — West View, Alford, MA, photo 3 of 4",
+   "images/MA-15020-002.webp": "Berkshire Rental Properties — West View, Alford, MA, photo 4 of 4",
+   "images/MA-15020-card.webp": "Berkshire Rental Properties — West View, house in Alford, MA"
+  }
  },
  {
   "id": "MA-15004",
@@ -837,7 +1040,14 @@
   "lat": 42.1843897,
   "lng": -73.2936631,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15004-cover.webp": "Berkshire Rental Properties — White Birch, house in Great Barrington, MA",
+   "images/MA-15004-000.webp": "Berkshire Rental Properties — White Birch, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15004-001.webp": "Berkshire Rental Properties — White Birch, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15004-002.webp": "Berkshire Rental Properties — White Birch, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15004-card.webp": "Berkshire Rental Properties — White Birch, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15007",
@@ -865,7 +1075,14 @@
   "lat": 42.2252,
   "lng": -73.3633442,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15007-cover.webp": "Berkshire Rental Properties — Woodland, house in Great Barrington, MA",
+   "images/MA-15007-000.webp": "Berkshire Rental Properties — Woodland, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15007-001.webp": "Berkshire Rental Properties — Woodland, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15007-002.webp": "Berkshire Rental Properties — Woodland, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15007-card.webp": "Berkshire Rental Properties — Woodland, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15032",
@@ -893,7 +1110,14 @@
   "lat": 42.3564098,
   "lng": -73.301829,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15032-cover.webp": "Berkshire Vacation Rental Co. — Belden Farm - WALK to Tanglewood !, house in Lenox, MA",
+   "images/MA-15032-000.webp": "Berkshire Vacation Rental Co. — Belden Farm - WALK to Tanglewood !, Lenox, MA, photo 2 of 4",
+   "images/MA-15032-001.webp": "Berkshire Vacation Rental Co. — Belden Farm - WALK to Tanglewood !, Lenox, MA, photo 3 of 4",
+   "images/MA-15032-002.webp": "Berkshire Vacation Rental Co. — Belden Farm - WALK to Tanglewood !, Lenox, MA, photo 4 of 4",
+   "images/MA-15032-card.webp": "Berkshire Vacation Rental Co. — Belden Farm - WALK to Tanglewood !, house in Lenox, MA"
+  }
  },
  {
   "id": "MA-15038",
@@ -921,7 +1145,14 @@
   "lat": 42.1678629,
   "lng": -73.1823697,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15038-cover.webp": "Berkshire Vacation Rental Co. — Bidwell Landing, house in Monterey, MA",
+   "images/MA-15038-000.webp": "Berkshire Vacation Rental Co. — Bidwell Landing, Monterey, MA, photo 2 of 4",
+   "images/MA-15038-001.webp": "Berkshire Vacation Rental Co. — Bidwell Landing, Monterey, MA, photo 3 of 4",
+   "images/MA-15038-002.webp": "Berkshire Vacation Rental Co. — Bidwell Landing, Monterey, MA, photo 4 of 4",
+   "images/MA-15038-card.webp": "Berkshire Vacation Rental Co. — Bidwell Landing, house in Monterey, MA"
+  }
  },
  {
   "id": "MA-15037",
@@ -949,7 +1180,14 @@
   "lat": 42.5431244,
   "lng": -73.166368,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15037-cover.webp": "Berkshire Vacation Rental Co. — Cheshire Cove, house in Cheshire, MA",
+   "images/MA-15037-000.webp": "Berkshire Vacation Rental Co. — Cheshire Cove, Cheshire, MA, photo 2 of 4",
+   "images/MA-15037-001.webp": "Berkshire Vacation Rental Co. — Cheshire Cove, Cheshire, MA, photo 3 of 4",
+   "images/MA-15037-002.webp": "Berkshire Vacation Rental Co. — Cheshire Cove, Cheshire, MA, photo 4 of 4",
+   "images/MA-15037-card.webp": "Berkshire Vacation Rental Co. — Cheshire Cove, house in Cheshire, MA"
+  }
  },
  {
   "id": "MA-15044",
@@ -977,7 +1215,14 @@
   "lat": 42.6171877,
   "lng": -73.3233188,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15044-cover.webp": "Berkshire Vacation Rental Co. — Corey Road Condo, apartment in Hancock, MA",
+   "images/MA-15044-000.webp": "Berkshire Vacation Rental Co. — Corey Road Condo, Hancock, MA, photo 2 of 4",
+   "images/MA-15044-001.webp": "Berkshire Vacation Rental Co. — Corey Road Condo, Hancock, MA, photo 3 of 4",
+   "images/MA-15044-002.webp": "Berkshire Vacation Rental Co. — Corey Road Condo, Hancock, MA, photo 4 of 4",
+   "images/MA-15044-card.webp": "Berkshire Vacation Rental Co. — Corey Road Condo, apartment in Hancock, MA"
+  }
  },
  {
   "id": "MA-15046",
@@ -1005,7 +1250,14 @@
   "lat": 42.4098612,
   "lng": -73.3419725,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15046-cover.webp": "Berkshire Vacation Rental Co. — Dharma Grove - Bask in the Light, house in Pittsfield, MA",
+   "images/MA-15046-000.webp": "Berkshire Vacation Rental Co. — Dharma Grove - Bask in the Light, Pittsfield, MA, photo 2 of 4",
+   "images/MA-15046-001.webp": "Berkshire Vacation Rental Co. — Dharma Grove - Bask in the Light, Pittsfield, MA, photo 3 of 4",
+   "images/MA-15046-002.webp": "Berkshire Vacation Rental Co. — Dharma Grove - Bask in the Light, Pittsfield, MA, photo 4 of 4",
+   "images/MA-15046-card.webp": "Berkshire Vacation Rental Co. — Dharma Grove - Bask in the Light, house in Pittsfield, MA"
+  }
  },
  {
   "id": "MA-15033",
@@ -1033,7 +1285,14 @@
   "lat": 42.1990656,
   "lng": -73.2365084,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15033-cover.webp": "Berkshire Vacation Rental Co. — Forest Hollow, house in Monterey, MA",
+   "images/MA-15033-000.webp": "Berkshire Vacation Rental Co. — Forest Hollow, Monterey, MA, photo 2 of 4",
+   "images/MA-15033-001.webp": "Berkshire Vacation Rental Co. — Forest Hollow, Monterey, MA, photo 3 of 4",
+   "images/MA-15033-002.webp": "Berkshire Vacation Rental Co. — Forest Hollow, Monterey, MA, photo 4 of 4",
+   "images/MA-15033-card.webp": "Berkshire Vacation Rental Co. — Forest Hollow, house in Monterey, MA"
+  }
  },
  {
   "id": "MA-15039",
@@ -1061,7 +1320,14 @@
   "lat": 42.4268826,
   "lng": -73.3505387,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15039-cover.webp": "Berkshire Vacation Rental Co. — Friendly Hills, house in Pittsfield, MA",
+   "images/MA-15039-000.webp": "Berkshire Vacation Rental Co. — Friendly Hills, Pittsfield, MA, photo 2 of 4",
+   "images/MA-15039-001.webp": "Berkshire Vacation Rental Co. — Friendly Hills, Pittsfield, MA, photo 3 of 4",
+   "images/MA-15039-002.webp": "Berkshire Vacation Rental Co. — Friendly Hills, Pittsfield, MA, photo 4 of 4",
+   "images/MA-15039-card.webp": "Berkshire Vacation Rental Co. — Friendly Hills, house in Pittsfield, MA"
+  }
  },
  {
   "id": "MA-15035",
@@ -1089,7 +1355,14 @@
   "lat": 42.2140624,
   "lng": -73.1960035,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15035-cover.webp": "Berkshire Vacation Rental Co. — Garfield Grounds, house in Monterey, MA",
+   "images/MA-15035-000.webp": "Berkshire Vacation Rental Co. — Garfield Grounds, Monterey, MA, photo 2 of 4",
+   "images/MA-15035-001.webp": "Berkshire Vacation Rental Co. — Garfield Grounds, Monterey, MA, photo 3 of 4",
+   "images/MA-15035-002.webp": "Berkshire Vacation Rental Co. — Garfield Grounds, Monterey, MA, photo 4 of 4",
+   "images/MA-15035-card.webp": "Berkshire Vacation Rental Co. — Garfield Grounds, house in Monterey, MA"
+  }
  },
  {
   "id": "MA-15043",
@@ -1117,7 +1390,14 @@
   "lat": 42.1623307,
   "lng": -73.453662,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15043-cover.webp": "Berkshire Vacation Rental Co. — Gilbert Ski Chalet, house in Egremont, MA",
+   "images/MA-15043-000.webp": "Berkshire Vacation Rental Co. — Gilbert Ski Chalet, Egremont, MA, photo 2 of 4",
+   "images/MA-15043-001.webp": "Berkshire Vacation Rental Co. — Gilbert Ski Chalet, Egremont, MA, photo 3 of 4",
+   "images/MA-15043-002.webp": "Berkshire Vacation Rental Co. — Gilbert Ski Chalet, Egremont, MA, photo 4 of 4",
+   "images/MA-15043-card.webp": "Berkshire Vacation Rental Co. — Gilbert Ski Chalet, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15042",
@@ -1145,7 +1425,14 @@
   "lat": 42.2404515,
   "lng": -73.2095006,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15042-cover.webp": "Berkshire Vacation Rental Co. — Goose Pond Landings, house in Tyringham, MA",
+   "images/MA-15042-000.webp": "Berkshire Vacation Rental Co. — Goose Pond Landings, Tyringham, MA, photo 2 of 4",
+   "images/MA-15042-001.webp": "Berkshire Vacation Rental Co. — Goose Pond Landings, Tyringham, MA, photo 3 of 4",
+   "images/MA-15042-002.webp": "Berkshire Vacation Rental Co. — Goose Pond Landings, Tyringham, MA, photo 4 of 4",
+   "images/MA-15042-card.webp": "Berkshire Vacation Rental Co. — Goose Pond Landings, house in Tyringham, MA"
+  }
  },
  {
   "id": "MA-15045",
@@ -1173,7 +1460,14 @@
   "lat": 42.2816666,
   "lng": -73.3154192,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15045-cover.webp": "Berkshire Vacation Rental Co. — Hearth House, house in Stockbridge, MA",
+   "images/MA-15045-000.webp": "Berkshire Vacation Rental Co. — Hearth House, Stockbridge, MA, photo 2 of 4",
+   "images/MA-15045-001.webp": "Berkshire Vacation Rental Co. — Hearth House, Stockbridge, MA, photo 3 of 4",
+   "images/MA-15045-002.webp": "Berkshire Vacation Rental Co. — Hearth House, Stockbridge, MA, photo 4 of 4",
+   "images/MA-15045-card.webp": "Berkshire Vacation Rental Co. — Hearth House, house in Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15054",
@@ -1201,7 +1495,14 @@
   "lat": 42.1935782,
   "lng": -73.2096076,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15054-cover.webp": "Berkshire Vacation Rental Co. — Hupi Hideaway, house in Monterey, MA",
+   "images/MA-15054-000.webp": "Berkshire Vacation Rental Co. — Hupi Hideaway, Monterey, MA, photo 2 of 4",
+   "images/MA-15054-001.webp": "Berkshire Vacation Rental Co. — Hupi Hideaway, Monterey, MA, photo 3 of 4",
+   "images/MA-15054-002.webp": "Berkshire Vacation Rental Co. — Hupi Hideaway, Monterey, MA, photo 4 of 4",
+   "images/MA-15054-card.webp": "Berkshire Vacation Rental Co. — Hupi Hideaway, house in Monterey, MA"
+  }
  },
  {
   "id": "MA-15055",
@@ -1229,7 +1530,14 @@
   "lat": 42.1940785,
   "lng": -73.2124312,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15055-cover.webp": "Berkshire Vacation Rental Co. — Hupi House, house in Monterey, MA",
+   "images/MA-15055-000.webp": "Berkshire Vacation Rental Co. — Hupi House, Monterey, MA, photo 2 of 4",
+   "images/MA-15055-001.webp": "Berkshire Vacation Rental Co. — Hupi House, Monterey, MA, photo 3 of 4",
+   "images/MA-15055-002.webp": "Berkshire Vacation Rental Co. — Hupi House, Monterey, MA, photo 4 of 4",
+   "images/MA-15055-card.webp": "Berkshire Vacation Rental Co. — Hupi House, house in Monterey, MA"
+  }
  },
  {
   "id": "MA-15034",
@@ -1257,7 +1565,14 @@
   "lat": 42.1435891,
   "lng": -73.4509089,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15034-cover.webp": "Berkshire Vacation Rental Co. — Jug End Crest, house in Egremont, MA",
+   "images/MA-15034-000.webp": "Berkshire Vacation Rental Co. — Jug End Crest, Egremont, MA, photo 2 of 4",
+   "images/MA-15034-001.webp": "Berkshire Vacation Rental Co. — Jug End Crest, Egremont, MA, photo 3 of 4",
+   "images/MA-15034-002.webp": "Berkshire Vacation Rental Co. — Jug End Crest, Egremont, MA, photo 4 of 4",
+   "images/MA-15034-card.webp": "Berkshire Vacation Rental Co. — Jug End Crest, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15052",
@@ -1285,7 +1600,14 @@
   "lat": 42.297024,
   "lng": -73.2746797,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15052-cover.webp": "Berkshire Vacation Rental Co. — Mac Shores, house in Stockbridge, MA",
+   "images/MA-15052-000.webp": "Berkshire Vacation Rental Co. — Mac Shores, Stockbridge, MA, photo 2 of 4",
+   "images/MA-15052-001.webp": "Berkshire Vacation Rental Co. — Mac Shores, Stockbridge, MA, photo 3 of 4",
+   "images/MA-15052-002.webp": "Berkshire Vacation Rental Co. — Mac Shores, Stockbridge, MA, photo 4 of 4",
+   "images/MA-15052-card.webp": "Berkshire Vacation Rental Co. — Mac Shores, house in Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15031",
@@ -1313,7 +1635,14 @@
   "lat": 42.3324394,
   "lng": -73.329802,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15031-cover.webp": "Berkshire Vacation Rental Co. — Meadow's Edge - Modern Retreat w/ In Law Suite, house in Stockbridge, MA",
+   "images/MA-15031-000.webp": "Berkshire Vacation Rental Co. — Meadow's Edge - Modern Retreat w/ In Law Suite, Stockbridge, MA, photo 2 of 4",
+   "images/MA-15031-001.webp": "Berkshire Vacation Rental Co. — Meadow's Edge - Modern Retreat w/ In Law Suite, Stockbridge, MA, photo 3 of 4",
+   "images/MA-15031-002.webp": "Berkshire Vacation Rental Co. — Meadow's Edge - Modern Retreat w/ In Law Suite, Stockbridge, MA, photo 4 of 4",
+   "images/MA-15031-card.webp": "Berkshire Vacation Rental Co. — Meadow's Edge - Modern Retreat w/ In Law Suite, house in Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15050",
@@ -1341,7 +1670,14 @@
   "lat": 42.4496141,
   "lng": -73.3478876,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15050-cover.webp": "Berkshire Vacation Rental Co. — Pine & Paddle, house in Pittsfield, MA",
+   "images/MA-15050-000.webp": "Berkshire Vacation Rental Co. — Pine & Paddle, Pittsfield, MA, photo 2 of 4",
+   "images/MA-15050-001.webp": "Berkshire Vacation Rental Co. — Pine & Paddle, Pittsfield, MA, photo 3 of 4",
+   "images/MA-15050-002.webp": "Berkshire Vacation Rental Co. — Pine & Paddle, Pittsfield, MA, photo 4 of 4",
+   "images/MA-15050-card.webp": "Berkshire Vacation Rental Co. — Pine & Paddle, house in Pittsfield, MA"
+  }
  },
  {
   "id": "MA-15041",
@@ -1369,7 +1705,14 @@
   "lat": 42.2569457,
   "lng": -73.344449,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15041-cover.webp": "Berkshire Vacation Rental Co. — Pixley Forest, house in Housatonic, MA",
+   "images/MA-15041-000.webp": "Berkshire Vacation Rental Co. — Pixley Forest, Housatonic, MA, photo 2 of 4",
+   "images/MA-15041-001.webp": "Berkshire Vacation Rental Co. — Pixley Forest, Housatonic, MA, photo 3 of 4",
+   "images/MA-15041-002.webp": "Berkshire Vacation Rental Co. — Pixley Forest, Housatonic, MA, photo 4 of 4",
+   "images/MA-15041-card.webp": "Berkshire Vacation Rental Co. — Pixley Forest, house in Housatonic, MA"
+  }
  },
  {
   "id": "MA-15029",
@@ -1397,7 +1740,14 @@
   "lat": 42.2052129,
   "lng": -73.2503579,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15029-cover.webp": "Berkshire Vacation Rental Co. — Scribe's Stable, house in Monterey, MA",
+   "images/MA-15029-000.webp": "Berkshire Vacation Rental Co. — Scribe's Stable, Monterey, MA, photo 2 of 4",
+   "images/MA-15029-001.webp": "Berkshire Vacation Rental Co. — Scribe's Stable, Monterey, MA, photo 3 of 4",
+   "images/MA-15029-002.webp": "Berkshire Vacation Rental Co. — Scribe's Stable, Monterey, MA, photo 4 of 4",
+   "images/MA-15029-card.webp": "Berkshire Vacation Rental Co. — Scribe's Stable, house in Monterey, MA"
+  }
  },
  {
   "id": "MA-15048",
@@ -1425,7 +1775,14 @@
   "lat": 42.3856418,
   "lng": -73.2931101,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15048-cover.webp": "Berkshire Vacation Rental Co. — St Anne's Manor, house in Lenox, MA",
+   "images/MA-15048-000.webp": "Berkshire Vacation Rental Co. — St Anne's Manor, Lenox, MA, photo 2 of 4",
+   "images/MA-15048-001.webp": "Berkshire Vacation Rental Co. — St Anne's Manor, Lenox, MA, photo 3 of 4",
+   "images/MA-15048-002.webp": "Berkshire Vacation Rental Co. — St Anne's Manor, Lenox, MA, photo 4 of 4",
+   "images/MA-15048-card.webp": "Berkshire Vacation Rental Co. — St Anne's Manor, house in Lenox, MA"
+  }
  },
  {
   "id": "MA-15051",
@@ -1453,7 +1810,14 @@
   "lat": 42.2868721,
   "lng": -73.3258483,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15051-cover.webp": "Berkshire Vacation Rental Co. — Stockbridge Landings, house in Stockbridge, MA",
+   "images/MA-15051-000.webp": "Berkshire Vacation Rental Co. — Stockbridge Landings, Stockbridge, MA, photo 2 of 4",
+   "images/MA-15051-001.webp": "Berkshire Vacation Rental Co. — Stockbridge Landings, Stockbridge, MA, photo 3 of 4",
+   "images/MA-15051-002.webp": "Berkshire Vacation Rental Co. — Stockbridge Landings, Stockbridge, MA, photo 4 of 4",
+   "images/MA-15051-card.webp": "Berkshire Vacation Rental Co. — Stockbridge Landings, house in Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15049",
@@ -1481,7 +1845,14 @@
   "lat": 42.2763241,
   "lng": -73.2227918,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15049-cover.webp": "Berkshire Vacation Rental Co. — Stonebridge Landing, house in Tyringham, MA",
+   "images/MA-15049-000.webp": "Berkshire Vacation Rental Co. — Stonebridge Landing, Tyringham, MA, photo 2 of 4",
+   "images/MA-15049-001.webp": "Berkshire Vacation Rental Co. — Stonebridge Landing, Tyringham, MA, photo 3 of 4",
+   "images/MA-15049-002.webp": "Berkshire Vacation Rental Co. — Stonebridge Landing, Tyringham, MA, photo 4 of 4",
+   "images/MA-15049-card.webp": "Berkshire Vacation Rental Co. — Stonebridge Landing, house in Tyringham, MA"
+  }
  },
  {
   "id": "MA-15040",
@@ -1509,7 +1880,14 @@
   "lat": 42.1772306,
   "lng": -73.2977391,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15040-cover.webp": "Berkshire Vacation Rental Co. — The Docent's House - Honoring a Legacy, house in Great Barrington, MA",
+   "images/MA-15040-000.webp": "Berkshire Vacation Rental Co. — The Docent's House - Honoring a Legacy, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15040-001.webp": "Berkshire Vacation Rental Co. — The Docent's House - Honoring a Legacy, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15040-002.webp": "Berkshire Vacation Rental Co. — The Docent's House - Honoring a Legacy, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15040-card.webp": "Berkshire Vacation Rental Co. — The Docent's House - Honoring a Legacy, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15053",
@@ -1537,7 +1915,14 @@
   "lat": 42.1026359,
   "lng": -73.2825647,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15053-cover.webp": "Berkshire Vacation Rental Co. — The Haystack, house in Mill River, MA",
+   "images/MA-15053-000.webp": "Berkshire Vacation Rental Co. — The Haystack, Mill River, MA, photo 2 of 4",
+   "images/MA-15053-001.webp": "Berkshire Vacation Rental Co. — The Haystack, Mill River, MA, photo 3 of 4",
+   "images/MA-15053-002.webp": "Berkshire Vacation Rental Co. — The Haystack, Mill River, MA, photo 4 of 4",
+   "images/MA-15053-card.webp": "Berkshire Vacation Rental Co. — The Haystack, house in Mill River, MA"
+  }
  },
  {
   "id": "MA-15047",
@@ -1565,7 +1950,14 @@
   "lat": 42.3888345,
   "lng": -73.2079414,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15047-cover.webp": "Berkshire Vacation Rental Co. — The Reel Retreat, house in Pittsfield, MA",
+   "images/MA-15047-000.webp": "Berkshire Vacation Rental Co. — The Reel Retreat, Pittsfield, MA, photo 2 of 4",
+   "images/MA-15047-001.webp": "Berkshire Vacation Rental Co. — The Reel Retreat, Pittsfield, MA, photo 3 of 4",
+   "images/MA-15047-002.webp": "Berkshire Vacation Rental Co. — The Reel Retreat, Pittsfield, MA, photo 4 of 4",
+   "images/MA-15047-card.webp": "Berkshire Vacation Rental Co. — The Reel Retreat, house in Pittsfield, MA"
+  }
  },
  {
   "id": "MA-15030",
@@ -1593,7 +1985,14 @@
   "lat": 42.2049294,
   "lng": -73.3754198,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15030-cover.webp": "Berkshire Vacation Rental Co. — The Summerwood Hideout, house in Great Barrington, MA",
+   "images/MA-15030-000.webp": "Berkshire Vacation Rental Co. — The Summerwood Hideout, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15030-001.webp": "Berkshire Vacation Rental Co. — The Summerwood Hideout, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15030-002.webp": "Berkshire Vacation Rental Co. — The Summerwood Hideout, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15030-card.webp": "Berkshire Vacation Rental Co. — The Summerwood Hideout, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15036",
@@ -1621,7 +2020,14 @@
   "lat": 42.4015459,
   "lng": -73.2806041,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15036-cover.webp": "Berkshire Vacation Rental Co. — Timpani Corners, house in Lenox, MA",
+   "images/MA-15036-000.webp": "Berkshire Vacation Rental Co. — Timpani Corners, Lenox, MA, photo 2 of 4",
+   "images/MA-15036-001.webp": "Berkshire Vacation Rental Co. — Timpani Corners, Lenox, MA, photo 3 of 4",
+   "images/MA-15036-002.webp": "Berkshire Vacation Rental Co. — Timpani Corners, Lenox, MA, photo 4 of 4",
+   "images/MA-15036-card.webp": "Berkshire Vacation Rental Co. — Timpani Corners, house in Lenox, MA"
+  }
  },
  {
   "id": "MA-0305",
@@ -1644,7 +2050,10 @@
   "lat": 42.3073,
   "lng": -73.2505,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Chambery Inn, house in Lee, MA"
+  }
  },
  {
   "id": "MA-0302",
@@ -1667,7 +2076,11 @@
   "lat": 42.5622,
   "lng": -73.1616,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0302-cover.webp": "Harbour House Inn Bed and Breakfast, house in Cheshire, MA",
+   "images/MA-0302-card.webp": "Harbour House Inn Bed and Breakfast, house in Cheshire, MA"
+  }
  },
  {
   "id": "MA-0304",
@@ -1695,7 +2108,14 @@
   "lat": 42.699,
   "lng": -73.1119,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0304-cover.webp": "Historic Beaver Mill Inn, North Adams, MA",
+   "images/MA-0304-000.webp": "Historic Beaver Mill Inn, North Adams, MA, photo 2 of 4",
+   "images/MA-0304-001.webp": "Historic Beaver Mill Inn, North Adams, MA, photo 3 of 4",
+   "images/MA-0304-002.webp": "Historic Beaver Mill Inn, North Adams, MA, photo 4 of 4",
+   "images/MA-0304-card.webp": "Historic Beaver Mill Inn, North Adams, MA"
+  }
  },
  {
   "id": "MA-0261",
@@ -1723,7 +2143,14 @@
   "lat": 42.199008,
   "lng": -73.358816,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0261-cover.webp": "Historic, Modern Comforts, Walk To Downtown, Great Barrington, MA",
+   "images/MA-0261-000.webp": "Historic, Modern Comforts, Walk To Downtown, Great Barrington, MA, photo 2 of 4",
+   "images/MA-0261-001.webp": "Historic, Modern Comforts, Walk To Downtown, Great Barrington, MA, photo 3 of 4",
+   "images/MA-0261-002.webp": "Historic, Modern Comforts, Walk To Downtown, Great Barrington, MA, photo 4 of 4",
+   "images/MA-0261-card.webp": "Historic, Modern Comforts, Walk To Downtown, Great Barrington, MA"
+  }
  },
  {
   "id": "MA-0318",
@@ -1751,7 +2178,14 @@
   "lat": 42.5432,
   "lng": -73.3185,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0318-cover.webp": "Huttopia Berkshires, cabin in Hancock, MA",
+   "images/MA-0318-000.webp": "Huttopia Berkshires, Hancock, MA, photo 2 of 4",
+   "images/MA-0318-001.webp": "Huttopia Berkshires, Hancock, MA, photo 3 of 4",
+   "images/MA-0318-002.webp": "Huttopia Berkshires, Hancock, MA, photo 4 of 4",
+   "images/MA-0318-card.webp": "Huttopia Berkshires, cabin in Hancock, MA"
+  }
  },
  {
   "id": "MA-15069",
@@ -1779,7 +2213,14 @@
   "lat": 42.49797916,
   "lng": -73.23853678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15069-cover.webp": "Lakehouse Guest Cottages of the Berkshires — Artists Cottage, house in Lanesborough, MA",
+   "images/MA-15069-000.webp": "Lakehouse Guest Cottages of the Berkshires — Artists Cottage, Lanesborough, MA, photo 2 of 4",
+   "images/MA-15069-001.webp": "Lakehouse Guest Cottages of the Berkshires — Artists Cottage, Lanesborough, MA, photo 3 of 4",
+   "images/MA-15069-002.webp": "Lakehouse Guest Cottages of the Berkshires — Artists Cottage, Lanesborough, MA, photo 4 of 4",
+   "images/MA-15069-card.webp": "Lakehouse Guest Cottages of the Berkshires — Artists Cottage, house in Lanesborough, MA"
+  }
  },
  {
   "id": "MA-15066",
@@ -1807,7 +2248,14 @@
   "lat": 42.49797916,
   "lng": -73.23853678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15066-cover.webp": "Lakehouse Guest Cottages of the Berkshires — Berkshire Cottage, house in Lanesborough, MA",
+   "images/MA-15066-000.webp": "Lakehouse Guest Cottages of the Berkshires — Berkshire Cottage, Lanesborough, MA, photo 2 of 4",
+   "images/MA-15066-001.webp": "Lakehouse Guest Cottages of the Berkshires — Berkshire Cottage, Lanesborough, MA, photo 3 of 4",
+   "images/MA-15066-002.webp": "Lakehouse Guest Cottages of the Berkshires — Berkshire Cottage, Lanesborough, MA, photo 4 of 4",
+   "images/MA-15066-card.webp": "Lakehouse Guest Cottages of the Berkshires — Berkshire Cottage, house in Lanesborough, MA"
+  }
  },
  {
   "id": "MA-15071",
@@ -1835,7 +2283,14 @@
   "lat": 42.49797916,
   "lng": -73.23853678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15071-cover.webp": "Lakehouse Guest Cottages of the Berkshires — Dock Masters Cottage, house in Lanesborough, MA",
+   "images/MA-15071-000.webp": "Lakehouse Guest Cottages of the Berkshires — Dock Masters Cottage, Lanesborough, MA, photo 2 of 4",
+   "images/MA-15071-001.webp": "Lakehouse Guest Cottages of the Berkshires — Dock Masters Cottage, Lanesborough, MA, photo 3 of 4",
+   "images/MA-15071-002.webp": "Lakehouse Guest Cottages of the Berkshires — Dock Masters Cottage, Lanesborough, MA, photo 4 of 4",
+   "images/MA-15071-card.webp": "Lakehouse Guest Cottages of the Berkshires — Dock Masters Cottage, house in Lanesborough, MA"
+  }
  },
  {
   "id": "MA-15067",
@@ -1863,7 +2318,14 @@
   "lat": 42.49797916,
   "lng": -73.23853678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15067-cover.webp": "Lakehouse Guest Cottages of the Berkshires — Greylock Cottage, house in Lanesborough, MA",
+   "images/MA-15067-000.webp": "Lakehouse Guest Cottages of the Berkshires — Greylock Cottage, Lanesborough, MA, photo 2 of 4",
+   "images/MA-15067-001.webp": "Lakehouse Guest Cottages of the Berkshires — Greylock Cottage, Lanesborough, MA, photo 3 of 4",
+   "images/MA-15067-002.webp": "Lakehouse Guest Cottages of the Berkshires — Greylock Cottage, Lanesborough, MA, photo 4 of 4",
+   "images/MA-15067-card.webp": "Lakehouse Guest Cottages of the Berkshires — Greylock Cottage, house in Lanesborough, MA"
+  }
  },
  {
   "id": "MA-15068",
@@ -1891,7 +2353,14 @@
   "lat": 42.49797916,
   "lng": -73.23853678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15068-cover.webp": "Lakehouse Guest Cottages of the Berkshires — Holiday Cottage, house in Lanesborough, MA",
+   "images/MA-15068-000.webp": "Lakehouse Guest Cottages of the Berkshires — Holiday Cottage, Lanesborough, MA, photo 2 of 4",
+   "images/MA-15068-001.webp": "Lakehouse Guest Cottages of the Berkshires — Holiday Cottage, Lanesborough, MA, photo 3 of 4",
+   "images/MA-15068-002.webp": "Lakehouse Guest Cottages of the Berkshires — Holiday Cottage, Lanesborough, MA, photo 4 of 4",
+   "images/MA-15068-card.webp": "Lakehouse Guest Cottages of the Berkshires — Holiday Cottage, house in Lanesborough, MA"
+  }
  },
  {
   "id": "MA-15065",
@@ -1919,7 +2388,14 @@
   "lat": 42.49797916,
   "lng": -73.23853678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15065-cover.webp": "Lakehouse Guest Cottages of the Berkshires — Lakehouse Lodge, house in Lanesborough, MA",
+   "images/MA-15065-000.webp": "Lakehouse Guest Cottages of the Berkshires — Lakehouse Lodge, Lanesborough, MA, photo 2 of 4",
+   "images/MA-15065-001.webp": "Lakehouse Guest Cottages of the Berkshires — Lakehouse Lodge, Lanesborough, MA, photo 3 of 4",
+   "images/MA-15065-002.webp": "Lakehouse Guest Cottages of the Berkshires — Lakehouse Lodge, Lanesborough, MA, photo 4 of 4",
+   "images/MA-15065-card.webp": "Lakehouse Guest Cottages of the Berkshires — Lakehouse Lodge, house in Lanesborough, MA"
+  }
  },
  {
   "id": "MA-15070",
@@ -1947,7 +2423,14 @@
   "lat": 42.49797916,
   "lng": -73.23853678,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15070-cover.webp": "Lakehouse Guest Cottages of the Berkshires — Writers Cottage, house in Lanesborough, MA",
+   "images/MA-15070-000.webp": "Lakehouse Guest Cottages of the Berkshires — Writers Cottage, Lanesborough, MA, photo 2 of 4",
+   "images/MA-15070-001.webp": "Lakehouse Guest Cottages of the Berkshires — Writers Cottage, Lanesborough, MA, photo 3 of 4",
+   "images/MA-15070-002.webp": "Lakehouse Guest Cottages of the Berkshires — Writers Cottage, Lanesborough, MA, photo 4 of 4",
+   "images/MA-15070-card.webp": "Lakehouse Guest Cottages of the Berkshires — Writers Cottage, house in Lanesborough, MA"
+  }
  },
  {
   "id": "MA-0324",
@@ -1975,7 +2458,14 @@
   "lat": 42.22398,
   "lng": -73.2248,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0324-cover.webp": "Misty Pines Cabin, cabin in Monterey, MA",
+   "images/MA-0324-000.webp": "Misty Pines Cabin, Monterey, MA, photo 2 of 4",
+   "images/MA-0324-001.webp": "Misty Pines Cabin, Monterey, MA, photo 3 of 4",
+   "images/MA-0324-002.webp": "Misty Pines Cabin, Monterey, MA, photo 4 of 4",
+   "images/MA-0324-card.webp": "Misty Pines Cabin, cabin in Monterey, MA"
+  }
  },
  {
   "id": "MA-0256",
@@ -2003,7 +2493,14 @@
   "lat": 42.19711,
   "lng": -73.441713,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0256-cover.webp": "Nature Retreat Near Prospect Lake, Egremont, MA",
+   "images/MA-0256-000.webp": "Nature Retreat Near Prospect Lake, Egremont, MA, photo 2 of 4",
+   "images/MA-0256-001.webp": "Nature Retreat Near Prospect Lake, Egremont, MA, photo 3 of 4",
+   "images/MA-0256-002.webp": "Nature Retreat Near Prospect Lake, Egremont, MA, photo 4 of 4",
+   "images/MA-0256-card.webp": "Nature Retreat Near Prospect Lake, Egremont, MA"
+  }
  },
  {
   "id": "MA-15056",
@@ -2032,7 +2529,14 @@
   "lng": -73.1642318,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15056-cover.webp": "Red Cottage — Butterfly Cottage, house in Lee, MA",
+   "images/MA-15056-000.webp": "Red Cottage — Butterfly Cottage, Lee, MA, photo 2 of 4",
+   "images/MA-15056-001.webp": "Red Cottage — Butterfly Cottage, Lee, MA, photo 3 of 4",
+   "images/MA-15056-002.webp": "Red Cottage — Butterfly Cottage, Lee, MA, photo 4 of 4",
+   "images/MA-15056-card.webp": "Red Cottage — Butterfly Cottage, house in Lee, MA"
+  }
  },
  {
   "id": "MA-15064",
@@ -2061,7 +2565,14 @@
   "lng": -73.4027427,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15064-cover.webp": "Red Cottage — Chalet des Collines, house in Great Barrington, MA",
+   "images/MA-15064-000.webp": "Red Cottage — Chalet des Collines, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15064-001.webp": "Red Cottage — Chalet des Collines, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15064-002.webp": "Red Cottage — Chalet des Collines, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15064-card.webp": "Red Cottage — Chalet des Collines, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15058",
@@ -2090,7 +2601,14 @@
   "lng": -73.4001665,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15058-cover.webp": "Red Cottage — Crossbridge – Main House, house in West Stockbridge, MA",
+   "images/MA-15058-000.webp": "Red Cottage — Crossbridge – Main House, West Stockbridge, MA, photo 2 of 4",
+   "images/MA-15058-001.webp": "Red Cottage — Crossbridge – Main House, West Stockbridge, MA, photo 3 of 4",
+   "images/MA-15058-002.webp": "Red Cottage — Crossbridge – Main House, West Stockbridge, MA, photo 4 of 4",
+   "images/MA-15058-card.webp": "Red Cottage — Crossbridge – Main House, house in West Stockbridge, MA"
+  }
  },
  {
   "id": "MA-15063",
@@ -2119,7 +2637,14 @@
   "lng": -73.4477184,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15063-cover.webp": "Red Cottage — Fernbrook, house in Egremont, MA",
+   "images/MA-15063-000.webp": "Red Cottage — Fernbrook, Egremont, MA, photo 2 of 4",
+   "images/MA-15063-001.webp": "Red Cottage — Fernbrook, Egremont, MA, photo 3 of 4",
+   "images/MA-15063-002.webp": "Red Cottage — Fernbrook, Egremont, MA, photo 4 of 4",
+   "images/MA-15063-card.webp": "Red Cottage — Fernbrook, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15061",
@@ -2148,7 +2673,14 @@
   "lng": -73.453516,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15061-cover.webp": "Red Cottage — Hillside Haven, house in Egremont, MA",
+   "images/MA-15061-000.webp": "Red Cottage — Hillside Haven, Egremont, MA, photo 2 of 4",
+   "images/MA-15061-001.webp": "Red Cottage — Hillside Haven, Egremont, MA, photo 3 of 4",
+   "images/MA-15061-002.webp": "Red Cottage — Hillside Haven, Egremont, MA, photo 4 of 4",
+   "images/MA-15061-card.webp": "Red Cottage — Hillside Haven, house in Egremont, MA"
+  }
  },
  {
   "id": "MA-15057",
@@ -2177,7 +2709,14 @@
   "lng": -73.2867917,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15057-cover.webp": "Red Cottage — Meadow Top Cabin, cabin in New Marlborough, MA",
+   "images/MA-15057-000.webp": "Red Cottage — Meadow Top Cabin, New Marlborough, MA, photo 2 of 4",
+   "images/MA-15057-001.webp": "Red Cottage — Meadow Top Cabin, New Marlborough, MA, photo 3 of 4",
+   "images/MA-15057-002.webp": "Red Cottage — Meadow Top Cabin, New Marlborough, MA, photo 4 of 4",
+   "images/MA-15057-card.webp": "Red Cottage — Meadow Top Cabin, cabin in New Marlborough, MA"
+  }
  },
  {
   "id": "MA-15059",
@@ -2206,7 +2745,14 @@
   "lng": -73.2867917,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15059-cover.webp": "Red Cottage — Meadow Top Cottage, house in New Marlborough, MA",
+   "images/MA-15059-000.webp": "Red Cottage — Meadow Top Cottage, New Marlborough, MA, photo 2 of 4",
+   "images/MA-15059-001.webp": "Red Cottage — Meadow Top Cottage, New Marlborough, MA, photo 3 of 4",
+   "images/MA-15059-002.webp": "Red Cottage — Meadow Top Cottage, New Marlborough, MA, photo 4 of 4",
+   "images/MA-15059-card.webp": "Red Cottage — Meadow Top Cottage, house in New Marlborough, MA"
+  }
  },
  {
   "id": "MA-15062",
@@ -2235,7 +2781,14 @@
   "lng": -73.3600243,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15062-cover.webp": "Red Cottage — River Cottage, house in Great Barrington, MA",
+   "images/MA-15062-000.webp": "Red Cottage — River Cottage, Great Barrington, MA, photo 2 of 4",
+   "images/MA-15062-001.webp": "Red Cottage — River Cottage, Great Barrington, MA, photo 3 of 4",
+   "images/MA-15062-002.webp": "Red Cottage — River Cottage, Great Barrington, MA, photo 4 of 4",
+   "images/MA-15062-card.webp": "Red Cottage — River Cottage, house in Great Barrington, MA"
+  }
  },
  {
   "id": "MA-15060",
@@ -2264,7 +2817,14 @@
   "lng": -73.2109902,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-15060-cover.webp": "Red Cottage — Steepletop Lodge, house in New Marlborough, MA",
+   "images/MA-15060-000.webp": "Red Cottage — Steepletop Lodge, New Marlborough, MA, photo 2 of 4",
+   "images/MA-15060-001.webp": "Red Cottage — Steepletop Lodge, New Marlborough, MA, photo 3 of 4",
+   "images/MA-15060-002.webp": "Red Cottage — Steepletop Lodge, New Marlborough, MA, photo 4 of 4",
+   "images/MA-15060-card.webp": "Red Cottage — Steepletop Lodge, house in New Marlborough, MA"
+  }
  },
  {
   "id": "MA-0254",
@@ -2292,7 +2852,14 @@
   "lat": 42.34311,
   "lng": -73.260997,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0254-cover.webp": "Spacious Lenox Home Near Tanglewood, Lenox, MA",
+   "images/MA-0254-000.webp": "Spacious Lenox Home Near Tanglewood, Lenox, MA, photo 2 of 4",
+   "images/MA-0254-001.webp": "Spacious Lenox Home Near Tanglewood, Lenox, MA, photo 3 of 4",
+   "images/MA-0254-002.webp": "Spacious Lenox Home Near Tanglewood, Lenox, MA, photo 4 of 4",
+   "images/MA-0254-card.webp": "Spacious Lenox Home Near Tanglewood, Lenox, MA"
+  }
  },
  {
   "id": "MA-0319",
@@ -2320,7 +2887,14 @@
   "lat": 42.699,
   "lng": -73.1119,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0319-cover.webp": "The FreshGrass Annex at The Porches, North Adams, MA",
+   "images/MA-0319-000.webp": "The FreshGrass Annex at The Porches, North Adams, MA, photo 2 of 4",
+   "images/MA-0319-001.webp": "The FreshGrass Annex at The Porches, North Adams, MA, photo 3 of 4",
+   "images/MA-0319-002.webp": "The FreshGrass Annex at The Porches, North Adams, MA, photo 4 of 4",
+   "images/MA-0319-card.webp": "The FreshGrass Annex at The Porches, North Adams, MA"
+  }
  },
  {
   "id": "MA-0301",
@@ -2348,7 +2922,13 @@
   "lat": 42.6209,
   "lng": -73.1204,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0301-cover.webp": "The Trail in Adams, Adams, MA",
+   "images/MA-0301-000.webp": "The Trail in Adams, Adams, MA, photo 2 of 3",
+   "images/MA-0301-001.webp": "The Trail in Adams, Adams, MA, photo 3 of 3",
+   "images/MA-0301-card.webp": "The Trail in Adams, Adams, MA"
+  }
  },
  {
   "id": "MA-0307",
@@ -2376,6 +2956,13 @@
   "lat": 42.1105,
   "lng": -73.3533,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0307-cover.webp": "Wilder House Berkshires, Sheffield, MA",
+   "images/MA-0307-000.webp": "Wilder House Berkshires, Sheffield, MA, photo 2 of 4",
+   "images/MA-0307-001.webp": "Wilder House Berkshires, Sheffield, MA, photo 3 of 4",
+   "images/MA-0307-002.webp": "Wilder House Berkshires, Sheffield, MA, photo 4 of 4",
+   "images/MA-0307-card.webp": "Wilder House Berkshires, Sheffield, MA"
+  }
  }
 ]

@@ -25,7 +25,11 @@
   "lat": 43.468,
   "lng": -72.4713,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0071-cover.jpg": "Ascutney Lofts, Brownsville, VT",
+   "images/VT-0071-card.webp": "Ascutney Lofts, Brownsville, VT"
+  }
  },
  {
   "id": "VT-0001",
@@ -53,7 +57,14 @@
   "lat": 43.5409,
   "lng": -72.3991,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0001-000.jpg": "Fat Sheep Farm & Cabins, cabin in Hartland, VT",
+   "images/VT-0001-001.jpg": "Fat Sheep Farm & Cabins, Hartland, VT, photo 2 of 4",
+   "images/VT-0001-002.jpg": "Fat Sheep Farm & Cabins, Hartland, VT, photo 3 of 4",
+   "images/VT-0001-cover.jpg": "Fat Sheep Farm & Cabins, cabin in Hartland, VT",
+   "images/VT-0001-card.webp": "Fat Sheep Farm & Cabins, cabin in Hartland, VT"
+  }
  },
  {
   "id": "VT-0034",
@@ -81,7 +92,11 @@
   "lat": 43.8663,
   "lng": -72.3776,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0034-cover.jpg": "Kumari of the Woods, cabin in Strafford, VT",
+   "images/VT-0034-card.webp": "Kumari of the Woods, cabin in Strafford, VT"
+  }
  },
  {
   "id": "VT-0070",
@@ -103,7 +118,10 @@
   "lat": 43.3961,
   "lng": -72.7012,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Lake Rescue Chalet, house in Ludlow, VT"
+  }
  },
  {
   "id": "VT-0018",
@@ -125,6 +143,9 @@
   "lat": 43.3961,
   "lng": -72.7012,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "William Raveis Vermont Properties, house in Ludlow, VT"
+  }
  }
 ]

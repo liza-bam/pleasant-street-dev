@@ -19,7 +19,13 @@
   "lat": 43.335938,
   "lng": -78.711723,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0161-cover.webp": "Olcott Vacation Rentals — Althea Corner, house in Olcott, NY",
+   "images/NY-0161-000.webp": "Olcott Vacation Rentals — Althea Corner, Olcott, NY, photo 2 of 3",
+   "images/NY-0161-001.webp": "Olcott Vacation Rentals — Althea Corner, Olcott, NY, photo 3 of 3",
+   "images/NY-0161-card.webp": "Olcott Vacation Rentals — Althea Corner, house in Olcott, NY"
+  }
  },
  {
   "id": "NY-0163",
@@ -41,7 +47,14 @@
   "lat": 43.33647,
   "lng": -78.718192,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0163-cover.webp": "Olcott Vacation Rentals — The Albright House, house in Olcott, NY",
+   "images/NY-0163-000.webp": "Olcott Vacation Rentals — The Albright House, Olcott, NY, photo 2 of 4",
+   "images/NY-0163-001.webp": "Olcott Vacation Rentals — The Albright House, Olcott, NY, photo 3 of 4",
+   "images/NY-0163-002.webp": "Olcott Vacation Rentals — The Albright House, Olcott, NY, photo 4 of 4",
+   "images/NY-0163-card.webp": "Olcott Vacation Rentals — The Albright House, house in Olcott, NY"
+  }
  },
  {
   "id": "NY-0167",
@@ -63,7 +76,14 @@
   "lat": 43.336457,
   "lng": -78.718304,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0167-cover.webp": "Olcott Vacation Rentals — The Fletcher House, house in Olcott, NY",
+   "images/NY-0167-000.webp": "Olcott Vacation Rentals — The Fletcher House, Olcott, NY, photo 2 of 4",
+   "images/NY-0167-001.webp": "Olcott Vacation Rentals — The Fletcher House, Olcott, NY, photo 3 of 4",
+   "images/NY-0167-002.webp": "Olcott Vacation Rentals — The Fletcher House, Olcott, NY, photo 4 of 4",
+   "images/NY-0167-card.webp": "Olcott Vacation Rentals — The Fletcher House, house in Olcott, NY"
+  }
  },
  {
   "id": "NY-0164",
@@ -85,7 +105,14 @@
   "lat": 43.336778,
   "lng": -78.71821,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0164-cover.webp": "Olcott Vacation Rentals — The Franklin House, house in Olcott, NY",
+   "images/NY-0164-000.webp": "Olcott Vacation Rentals — The Franklin House, Olcott, NY, photo 2 of 4",
+   "images/NY-0164-001.webp": "Olcott Vacation Rentals — The Franklin House, Olcott, NY, photo 3 of 4",
+   "images/NY-0164-002.webp": "Olcott Vacation Rentals — The Franklin House, Olcott, NY, photo 4 of 4",
+   "images/NY-0164-card.webp": "Olcott Vacation Rentals — The Franklin House, house in Olcott, NY"
+  }
  },
  {
   "id": "NY-0168",
@@ -107,7 +134,14 @@
   "lat": 43.336077,
   "lng": -78.718553,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0168-cover.webp": "Olcott Vacation Rentals — The Hamilton House, house in Olcott, NY",
+   "images/NY-0168-000.webp": "Olcott Vacation Rentals — The Hamilton House, Olcott, NY, photo 2 of 4",
+   "images/NY-0168-001.webp": "Olcott Vacation Rentals — The Hamilton House, Olcott, NY, photo 3 of 4",
+   "images/NY-0168-002.webp": "Olcott Vacation Rentals — The Hamilton House, Olcott, NY, photo 4 of 4",
+   "images/NY-0168-card.webp": "Olcott Vacation Rentals — The Hamilton House, house in Olcott, NY"
+  }
  },
  {
   "id": "NY-0166",
@@ -129,7 +163,14 @@
   "lat": 43.336996,
   "lng": -78.718402,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0166-cover.webp": "Olcott Vacation Rentals — The Harbor House, house in Olcott, NY",
+   "images/NY-0166-000.webp": "Olcott Vacation Rentals — The Harbor House, Olcott, NY, photo 2 of 4",
+   "images/NY-0166-001.webp": "Olcott Vacation Rentals — The Harbor House, Olcott, NY, photo 3 of 4",
+   "images/NY-0166-002.webp": "Olcott Vacation Rentals — The Harbor House, Olcott, NY, photo 4 of 4",
+   "images/NY-0166-card.webp": "Olcott Vacation Rentals — The Harbor House, house in Olcott, NY"
+  }
  },
  {
   "id": "NY-0165",
@@ -151,7 +192,14 @@
   "lat": 43.336803,
   "lng": -78.718107,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0165-cover.webp": "Olcott Vacation Rentals — The Tenbrook House, house in Olcott, NY",
+   "images/NY-0165-000.webp": "Olcott Vacation Rentals — The Tenbrook House, Olcott, NY, photo 2 of 4",
+   "images/NY-0165-001.webp": "Olcott Vacation Rentals — The Tenbrook House, Olcott, NY, photo 3 of 4",
+   "images/NY-0165-002.webp": "Olcott Vacation Rentals — The Tenbrook House, Olcott, NY, photo 4 of 4",
+   "images/NY-0165-card.webp": "Olcott Vacation Rentals — The Tenbrook House, house in Olcott, NY"
+  }
  },
  {
   "id": "NY-0162",
@@ -173,6 +221,13 @@
   "lat": 43.3283,
   "lng": -78.7203,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0162-cover.webp": "Olcott Vacation Rentals — Wineries Anyone, house in Olcott, NY",
+   "images/NY-0162-000.webp": "Olcott Vacation Rentals — Wineries Anyone, Olcott, NY, photo 2 of 4",
+   "images/NY-0162-001.webp": "Olcott Vacation Rentals — Wineries Anyone, Olcott, NY, photo 3 of 4",
+   "images/NY-0162-002.webp": "Olcott Vacation Rentals — Wineries Anyone, Olcott, NY, photo 4 of 4",
+   "images/NY-0162-card.webp": "Olcott Vacation Rentals — Wineries Anyone, house in Olcott, NY"
+  }
  }
 ]

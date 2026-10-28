@@ -29,7 +29,14 @@
   "lat": 44.56468,
   "lng": -68.4413,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0035-cover.webp": "Arbor Camp, camp in Ellsworth, ME",
+   "images/ME-0035-000.webp": "Arbor Camp, Ellsworth, ME, photo 2 of 4",
+   "images/ME-0035-001.webp": "Arbor Camp, Ellsworth, ME, photo 3 of 4",
+   "images/ME-0035-002.webp": "Arbor Camp, Ellsworth, ME, photo 4 of 4",
+   "images/ME-0035-card.webp": "Arbor Camp, camp in Ellsworth, ME"
+  }
  },
  {
   "id": "ME-0238",
@@ -58,7 +65,14 @@
   "lng": "Unknown",
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0238-cover.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME",
+   "images/ME-0238-000.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME, photo 2 of 4",
+   "images/ME-0238-001.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME, photo 3 of 4",
+   "images/ME-0238-002.jpg": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME, photo 4 of 4",
+   "images/ME-0238-card.webp": "Blue Hill Bay Property Rentals, Blue Hill Peninsula, ME"
+  }
  },
  {
   "id": "ME-0234",
@@ -87,7 +101,13 @@
   "lng": -68.58962,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0234-cover.jpg": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME",
+   "images/ME-0234-000.webp": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME, photo 2 of 3",
+   "images/ME-0234-001.webp": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME, photo 3 of 3",
+   "images/ME-0234-card.webp": "Blue Hill Peninsula Realty + Rentals, Blue Hill, ME"
+  }
  },
  {
   "id": "ME-0106",
@@ -115,7 +135,14 @@
   "lat": 44.15635,
   "lng": -68.66425,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0106-cover.jpg": "Boyce's Motel & Apartments, apartment in Stonington, ME",
+   "images/ME-0106-000.jpg": "Boyce's Motel & Apartments, Stonington, ME, photo 2 of 4",
+   "images/ME-0106-001.jpg": "Boyce's Motel & Apartments, Stonington, ME, photo 3 of 4",
+   "images/ME-0106-002.jpg": "Boyce's Motel & Apartments, Stonington, ME, photo 4 of 4",
+   "images/ME-0106-card.webp": "Boyce's Motel & Apartments, apartment in Stonington, ME"
+  }
  },
  {
   "id": "ME-0138",
@@ -144,7 +171,14 @@
   "lng": -68.6838,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0138-cover.jpg": "Dreaming of Maine, Brooksville, ME",
+   "images/ME-0138-000.jpg": "Dreaming of Maine, Brooksville, ME, photo 2 of 4",
+   "images/ME-0138-001.jpg": "Dreaming of Maine, Brooksville, ME, photo 3 of 4",
+   "images/ME-0138-002.jpg": "Dreaming of Maine, Brooksville, ME, photo 4 of 4",
+   "images/ME-0138-card.webp": "Dreaming of Maine, Brooksville, ME"
+  }
  },
  {
   "id": "ME-0108",
@@ -172,7 +206,14 @@
   "lat": 44.5204,
   "lng": -68.1967,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0108-cover.jpg": "Flanders Bay Cabins, cabin in Sullivan, ME",
+   "images/ME-0108-000.png": "Flanders Bay Cabins, Sullivan, ME, photo 2 of 4",
+   "images/ME-0108-001.png": "Flanders Bay Cabins, Sullivan, ME, photo 3 of 4",
+   "images/ME-0108-002.png": "Flanders Bay Cabins, Sullivan, ME, photo 4 of 4",
+   "images/ME-0108-card.webp": "Flanders Bay Cabins, cabin in Sullivan, ME"
+  }
  },
  {
   "id": "ME-0109",
@@ -200,7 +241,14 @@
   "lat": 44.5204,
   "lng": -68.1967,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0109-cover.webp": "Flanders Bay Cabins (custom domain), cabin in Sullivan, ME",
+   "images/ME-0109-000.webp": "Flanders Bay Cabins (custom domain), Sullivan, ME, photo 2 of 4",
+   "images/ME-0109-001.webp": "Flanders Bay Cabins (custom domain), Sullivan, ME, photo 3 of 4",
+   "images/ME-0109-002.webp": "Flanders Bay Cabins (custom domain), Sullivan, ME, photo 4 of 4",
+   "images/ME-0109-card.webp": "Flanders Bay Cabins (custom domain), cabin in Sullivan, ME"
+  }
  },
  {
   "id": "ME-0243",
@@ -228,7 +276,14 @@
   "lat": 44.5719,
   "lng": -68.7942,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0243-cover.jpg": "Getogether Stays, Bucksport / Orland, ME",
+   "images/ME-0243-000.jpg": "Getogether Stays, Bucksport / Orland, ME, photo 2 of 4",
+   "images/ME-0243-001.jpg": "Getogether Stays, Bucksport / Orland, ME, photo 3 of 4",
+   "images/ME-0243-002.jpg": "Getogether Stays, Bucksport / Orland, ME, photo 4 of 4",
+   "images/ME-0243-card.webp": "Getogether Stays, Bucksport / Orland, ME"
+  }
  },
  {
   "id": "ME-0214",
@@ -256,7 +311,14 @@
   "lat": 44.1566,
   "lng": -68.6673,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0214-cover.png": "Heron Cottage / Cove Meadow, house in Stonington, ME",
+   "images/ME-0214-000.png": "Heron Cottage / Cove Meadow, Stonington, ME, photo 2 of 4",
+   "images/ME-0214-001.jpg": "Heron Cottage / Cove Meadow, Stonington, ME, photo 3 of 4",
+   "images/ME-0214-002.jpg": "Heron Cottage / Cove Meadow, Stonington, ME, photo 4 of 4",
+   "images/ME-0214-card.webp": "Heron Cottage / Cove Meadow, house in Stonington, ME"
+  }
  },
  {
   "id": "ME-0051",
@@ -284,7 +346,14 @@
   "lat": 44.31486,
   "lng": -68.79315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0051-cover.webp": "Hiram Blake Camp, camp in Harborside, ME",
+   "images/ME-0051-000.webp": "Hiram Blake Camp, Harborside, ME, photo 2 of 4",
+   "images/ME-0051-001.webp": "Hiram Blake Camp, Harborside, ME, photo 3 of 4",
+   "images/ME-0051-002.webp": "Hiram Blake Camp, Harborside, ME, photo 4 of 4",
+   "images/ME-0051-card.webp": "Hiram Blake Camp, camp in Harborside, ME"
+  }
  },
  {
   "id": "ME-0149",
@@ -312,7 +381,14 @@
   "lat": 44.67094,
   "lng": -68.55248,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0149-cover.jpg": "Jenkins Beach, Dedham, ME",
+   "images/ME-0149-000.jpg": "Jenkins Beach, Dedham, ME, photo 2 of 4",
+   "images/ME-0149-001.jpg": "Jenkins Beach, Dedham, ME, photo 3 of 4",
+   "images/ME-0149-002.jpg": "Jenkins Beach, Dedham, ME, photo 4 of 4",
+   "images/ME-0149-card.webp": "Jenkins Beach, Dedham, ME"
+  }
  },
  {
   "id": "ME-0014",
@@ -340,7 +416,14 @@
   "lat": 44.26311,
   "lng": -68.52189,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0014-cover.jpg": "Lookout Inn & Cottages, house in Brooklin, ME",
+   "images/ME-0014-000.jpg": "Lookout Inn & Cottages, Brooklin, ME, photo 2 of 4",
+   "images/ME-0014-001.webp": "Lookout Inn & Cottages, Brooklin, ME, photo 3 of 4",
+   "images/ME-0014-002.webp": "Lookout Inn & Cottages, Brooklin, ME, photo 4 of 4",
+   "images/ME-0014-card.webp": "Lookout Inn & Cottages, house in Brooklin, ME"
+  }
  },
  {
   "id": "ME-0016",
@@ -368,7 +451,14 @@
   "lat": 44.3469,
   "lng": -68.6838,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0016-cover.webp": "Oakland House Seaside Inn & Cottages, house in Brooksville, ME",
+   "images/ME-0016-000.webp": "Oakland House Seaside Inn & Cottages, Brooksville, ME, photo 2 of 4",
+   "images/ME-0016-001.webp": "Oakland House Seaside Inn & Cottages, Brooksville, ME, photo 3 of 4",
+   "images/ME-0016-002.webp": "Oakland House Seaside Inn & Cottages, Brooksville, ME, photo 4 of 4",
+   "images/ME-0016-card.webp": "Oakland House Seaside Inn & Cottages, house in Brooksville, ME"
+  }
  },
  {
   "id": "ME-0236",
@@ -397,7 +487,14 @@
   "lng": -68.5881,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0236-cover.jpg": "Salt Air Properties, Blue Hill, ME",
+   "images/ME-0236-000.webp": "Salt Air Properties, Blue Hill, ME, photo 2 of 4",
+   "images/ME-0236-001.jpg": "Salt Air Properties, Blue Hill, ME, photo 3 of 4",
+   "images/ME-0236-002.webp": "Salt Air Properties, Blue Hill, ME, photo 4 of 4",
+   "images/ME-0236-card.webp": "Salt Air Properties, Blue Hill, ME"
+  }
  },
  {
   "id": "ME-0246",
@@ -426,7 +523,14 @@
   "lng": -68.79915,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0246-cover.webp": "Saltmeadow Properties, Castine, ME",
+   "images/ME-0246-000.webp": "Saltmeadow Properties, Castine, ME, photo 2 of 4",
+   "images/ME-0246-001.webp": "Saltmeadow Properties, Castine, ME, photo 3 of 4",
+   "images/ME-0246-002.webp": "Saltmeadow Properties, Castine, ME, photo 4 of 4",
+   "images/ME-0246-card.webp": "Saltmeadow Properties, Castine, ME"
+  }
  },
  {
   "id": "ME-0137",
@@ -454,7 +558,14 @@
   "lat": 44.2661,
   "lng": -68.5691,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0137-cover.jpg": "Sea Meadow Cottage, house in Brooklin, ME",
+   "images/ME-0137-000.jpg": "Sea Meadow Cottage, Brooklin, ME, photo 2 of 4",
+   "images/ME-0137-001.jpg": "Sea Meadow Cottage, Brooklin, ME, photo 3 of 4",
+   "images/ME-0137-002.jpg": "Sea Meadow Cottage, Brooklin, ME, photo 4 of 4",
+   "images/ME-0137-card.webp": "Sea Meadow Cottage, house in Brooklin, ME"
+  }
  },
  {
   "id": "ME-0150",
@@ -482,7 +593,11 @@
   "lat": 44.28737,
   "lng": -68.69432,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0150-cover.avif": "Sharon Thoner Maine Rentals, Deer Isle / Brooksville, ME",
+   "images/ME-0150-card.webp": "Sharon Thoner Maine Rentals, Deer Isle / Brooksville, ME"
+  }
  },
  {
   "id": "ME-0215",
@@ -510,7 +625,13 @@
   "lat": 44.4959,
   "lng": -68.5017,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0215-cover.webp": "Surry Maine Studio by the Sea, Surry, ME",
+   "images/ME-0215-000.webp": "Surry Maine Studio by the Sea, Surry, ME, photo 2 of 3",
+   "images/ME-0215-001.webp": "Surry Maine Studio by the Sea, Surry, ME, photo 3 of 3",
+   "images/ME-0215-card.webp": "Surry Maine Studio by the Sea, Surry, ME"
+  }
  },
  {
   "id": "ME-0139",
@@ -543,7 +664,13 @@
   "lat": 44.39284,
   "lng": -68.76505,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0139-cover.webp": "Tapley Farm, Brooksville, ME",
+   "images/ME-0139-000.webp": "Tapley Farm, Brooksville, ME, photo 2 of 3",
+   "images/ME-0139-001.webp": "Tapley Farm, Brooksville, ME, photo 3 of 3",
+   "images/ME-0139-card.webp": "Tapley Farm, Brooksville, ME"
+  }
  },
  {
   "id": "ME-0015",
@@ -571,7 +698,12 @@
   "lat": 44.27701,
   "lng": -68.60604,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0015-cover.webp": "The Eggemoggin Reach Inn, Brooklin, ME",
+   "images/ME-0015-000.webp": "The Eggemoggin Reach Inn, Brooklin, ME, photo 2 of 2",
+   "images/ME-0015-card.webp": "The Eggemoggin Reach Inn, Brooklin, ME"
+  }
  },
  {
   "id": "ME-0280",
@@ -600,7 +732,14 @@
   "lng": -68.6673,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0280-cover.jpg": "The Island Agency Rentals, Stonington, ME",
+   "images/ME-0280-000.jpg": "The Island Agency Rentals, Stonington, ME, photo 2 of 4",
+   "images/ME-0280-001.jpg": "The Island Agency Rentals, Stonington, ME, photo 3 of 4",
+   "images/ME-0280-002.jpg": "The Island Agency Rentals, Stonington, ME, photo 4 of 4",
+   "images/ME-0280-card.webp": "The Island Agency Rentals, Stonington, ME"
+  }
  },
  {
   "id": "ME-0216",
@@ -628,7 +767,14 @@
   "lat": 44.4959,
   "lng": -68.5017,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0216-cover.jpg": "Viking Trail Cabin, cabin in Surry, ME",
+   "images/ME-0216-000.jpg": "Viking Trail Cabin, Surry, ME, photo 2 of 4",
+   "images/ME-0216-001.jpg": "Viking Trail Cabin, Surry, ME, photo 3 of 4",
+   "images/ME-0216-002.jpg": "Viking Trail Cabin, Surry, ME, photo 4 of 4",
+   "images/ME-0216-card.webp": "Viking Trail Cabin, cabin in Surry, ME"
+  }
  },
  {
   "id": "ME-0195",
@@ -656,6 +802,13 @@
   "lat": 44.45645,
   "lng": -68.69671,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0195-cover.webp": "Winslow Creek, Penobscot, ME",
+   "images/ME-0195-000.webp": "Winslow Creek, Penobscot, ME, photo 2 of 4",
+   "images/ME-0195-001.webp": "Winslow Creek, Penobscot, ME, photo 3 of 4",
+   "images/ME-0195-002.webp": "Winslow Creek, Penobscot, ME, photo 4 of 4",
+   "images/ME-0195-card.webp": "Winslow Creek, Penobscot, ME"
+  }
  }
 ]

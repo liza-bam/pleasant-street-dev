@@ -26,7 +26,14 @@
   "lng": -69.51083,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0453-cover.jpg": "1916 Cottage/Pemaquid Point, house in Bristol, ME",
+   "images/ME-0453-000.jpg": "1916 Cottage/Pemaquid Point, Bristol, ME, photo 2 of 4",
+   "images/ME-0453-001.jpg": "1916 Cottage/Pemaquid Point, Bristol, ME, photo 3 of 4",
+   "images/ME-0453-002.jpg": "1916 Cottage/Pemaquid Point, Bristol, ME, photo 4 of 4",
+   "images/ME-0453-card.webp": "1916 Cottage/Pemaquid Point, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0455",
@@ -55,7 +62,14 @@
   "lng": -69.49774,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0455-cover.jpg": "Alice's Dream/Bristol, house in Bristol, ME",
+   "images/ME-0455-000.jpg": "Alice's Dream/Bristol, Bristol, ME, photo 2 of 4",
+   "images/ME-0455-001.jpg": "Alice's Dream/Bristol, Bristol, ME, photo 3 of 4",
+   "images/ME-0455-002.jpg": "Alice's Dream/Bristol, Bristol, ME, photo 4 of 4",
+   "images/ME-0455-card.webp": "Alice's Dream/Bristol, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0463",
@@ -84,7 +98,14 @@
   "lng": -69.56094,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0463-cover.jpg": "Breezy Cottage/Rutherford Island, house in South Bristol, ME",
+   "images/ME-0463-000.jpg": "Breezy Cottage/Rutherford Island, South Bristol, ME, photo 2 of 4",
+   "images/ME-0463-001.jpg": "Breezy Cottage/Rutherford Island, South Bristol, ME, photo 3 of 4",
+   "images/ME-0463-002.jpg": "Breezy Cottage/Rutherford Island, South Bristol, ME, photo 4 of 4",
+   "images/ME-0463-card.webp": "Breezy Cottage/Rutherford Island, house in South Bristol, ME"
+  }
  },
  {
   "id": "ME-0013",
@@ -112,7 +133,13 @@
   "lat": 44.04875,
   "lng": -69.43134,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0013-cover.avif": "Camp Otyokwa, camp in Bremen, ME",
+   "images/ME-0013-000.avif": "Camp Otyokwa, Bremen, ME, photo 2 of 3",
+   "images/ME-0013-001.jpg": "Camp Otyokwa, Bremen, ME, photo 3 of 3",
+   "images/ME-0013-card.webp": "Camp Otyokwa, camp in Bremen, ME"
+  }
  },
  {
   "id": "ME-0466",
@@ -141,7 +168,14 @@
   "lng": -69.46654,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0466-cover.jpg": "Classic Maine Cottage/Bremen, house in Bremen, ME",
+   "images/ME-0466-000.jpg": "Classic Maine Cottage/Bremen, Bremen, ME, photo 2 of 4",
+   "images/ME-0466-001.jpg": "Classic Maine Cottage/Bremen, Bremen, ME, photo 3 of 4",
+   "images/ME-0466-002.jpg": "Classic Maine Cottage/Bremen, Bremen, ME, photo 4 of 4",
+   "images/ME-0466-card.webp": "Classic Maine Cottage/Bremen, house in Bremen, ME"
+  }
  },
  {
   "id": "ME-0168",
@@ -169,7 +203,12 @@
   "lat": 44.2138,
   "lng": -69.45843,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0168-cover.jpg": "ComfyDome Glamping, Jefferson, ME",
+   "images/ME-0168-000.jpg": "ComfyDome Glamping, Jefferson, ME, photo 2 of 2",
+   "images/ME-0168-card.webp": "ComfyDome Glamping, Jefferson, ME"
+  }
  },
  {
   "id": "ME-0465",
@@ -198,7 +237,14 @@
   "lng": -69.46158,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0465-cover.jpg": "Dale Camp/Damariscotta, camp in Damariscotta, ME",
+   "images/ME-0465-000.jpg": "Dale Camp/Damariscotta, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0465-001.jpg": "Dale Camp/Damariscotta, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0465-002.jpg": "Dale Camp/Damariscotta, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0465-card.webp": "Dale Camp/Damariscotta, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0441",
@@ -226,7 +272,14 @@
   "lat": 44.06104,
   "lng": -69.53198,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0441-cover.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, house in Newcastle, ME",
+   "images/ME-0441-000.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, Newcastle, ME, photo 2 of 4",
+   "images/ME-0441-001.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, Newcastle, ME, photo 3 of 4",
+   "images/ME-0441-002.jpg": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, Newcastle, ME, photo 4 of 4",
+   "images/ME-0441-card.webp": "Eagle’s Cove Retreat at Damariscotta Lake| Private dock, house in Newcastle, ME"
+  }
  },
  {
   "id": "ME-0479",
@@ -255,7 +308,14 @@
   "lng": -69.43016,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0479-cover.jpg": "Elliot's Escape/Bremen, house in Bremen, ME",
+   "images/ME-0479-000.jpg": "Elliot's Escape/Bremen, Bremen, ME, photo 2 of 4",
+   "images/ME-0479-001.jpg": "Elliot's Escape/Bremen, Bremen, ME, photo 3 of 4",
+   "images/ME-0479-002.jpg": "Elliot's Escape/Bremen, Bremen, ME, photo 4 of 4",
+   "images/ME-0479-card.webp": "Elliot's Escape/Bremen, house in Bremen, ME"
+  }
  },
  {
   "id": "ME-0448",
@@ -284,7 +344,14 @@
   "lng": -69.45647,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0448-cover.jpg": "Fox Lane Cottage/Bremen, house in Bremen, ME",
+   "images/ME-0448-000.jpg": "Fox Lane Cottage/Bremen, Bremen, ME, photo 2 of 4",
+   "images/ME-0448-001.jpg": "Fox Lane Cottage/Bremen, Bremen, ME, photo 3 of 4",
+   "images/ME-0448-002.jpg": "Fox Lane Cottage/Bremen, Bremen, ME, photo 4 of 4",
+   "images/ME-0448-card.webp": "Fox Lane Cottage/Bremen, house in Bremen, ME"
+  }
  },
  {
   "id": "ME-0471",
@@ -313,7 +380,14 @@
   "lng": -69.40239,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0471-cover.jpg": "Harbor House Cottage/Bremen, house in Bremen, ME",
+   "images/ME-0471-000.jpg": "Harbor House Cottage/Bremen, Bremen, ME, photo 2 of 4",
+   "images/ME-0471-001.jpg": "Harbor House Cottage/Bremen, Bremen, ME, photo 3 of 4",
+   "images/ME-0471-002.jpg": "Harbor House Cottage/Bremen, Bremen, ME, photo 4 of 4",
+   "images/ME-0471-card.webp": "Harbor House Cottage/Bremen, house in Bremen, ME"
+  }
  },
  {
   "id": "ME-0472",
@@ -342,7 +416,14 @@
   "lng": -69.54888,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0472-cover.jpg": "Heron Oaks/Rutherford Island, house in South Bristol, ME",
+   "images/ME-0472-000.jpg": "Heron Oaks/Rutherford Island, South Bristol, ME, photo 2 of 4",
+   "images/ME-0472-001.jpg": "Heron Oaks/Rutherford Island, South Bristol, ME, photo 3 of 4",
+   "images/ME-0472-002.jpg": "Heron Oaks/Rutherford Island, South Bristol, ME, photo 4 of 4",
+   "images/ME-0472-card.webp": "Heron Oaks/Rutherford Island, house in South Bristol, ME"
+  }
  },
  {
   "id": "ME-0480",
@@ -371,7 +452,14 @@
   "lng": -69.46089,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0480-cover.jpg": "Kennison Cottage/Damariscotta Lake, house in Nobleboro, ME",
+   "images/ME-0480-000.jpg": "Kennison Cottage/Damariscotta Lake, Nobleboro, ME, photo 2 of 4",
+   "images/ME-0480-001.jpg": "Kennison Cottage/Damariscotta Lake, Nobleboro, ME, photo 3 of 4",
+   "images/ME-0480-002.jpg": "Kennison Cottage/Damariscotta Lake, Nobleboro, ME, photo 4 of 4",
+   "images/ME-0480-card.webp": "Kennison Cottage/Damariscotta Lake, house in Nobleboro, ME"
+  }
  },
  {
   "id": "ME-0459",
@@ -400,7 +488,14 @@
   "lng": -69.51264,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0459-cover.jpg": "Kurtz Cottage/Bristol, house in Bristol, ME",
+   "images/ME-0459-000.jpg": "Kurtz Cottage/Bristol, Bristol, ME, photo 2 of 4",
+   "images/ME-0459-001.jpg": "Kurtz Cottage/Bristol, Bristol, ME, photo 3 of 4",
+   "images/ME-0459-002.jpg": "Kurtz Cottage/Bristol, Bristol, ME, photo 4 of 4",
+   "images/ME-0459-card.webp": "Kurtz Cottage/Bristol, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0025",
@@ -428,7 +523,14 @@
   "lat": 44.03116,
   "lng": -69.45978,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0025-cover.jpg": "Lake Pemaquid Campground - cottage rentals, camp in Damariscotta, ME",
+   "images/ME-0025-000.jpg": "Lake Pemaquid Campground - cottage rentals, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0025-001.jpg": "Lake Pemaquid Campground - cottage rentals, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0025-002.jpg": "Lake Pemaquid Campground - cottage rentals, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0025-card.webp": "Lake Pemaquid Campground - cottage rentals, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0432",
@@ -456,7 +558,14 @@
   "lat": 44.11511,
   "lng": -69.45857,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0432-cover.jpg": "Lakefront Retreat with Private Docks & Kayaks, house in Nobleboro, ME",
+   "images/ME-0432-000.jpg": "Lakefront Retreat with Private Docks & Kayaks, Nobleboro, ME, photo 2 of 4",
+   "images/ME-0432-001.jpg": "Lakefront Retreat with Private Docks & Kayaks, Nobleboro, ME, photo 3 of 4",
+   "images/ME-0432-002.jpg": "Lakefront Retreat with Private Docks & Kayaks, Nobleboro, ME, photo 4 of 4",
+   "images/ME-0432-card.webp": "Lakefront Retreat with Private Docks & Kayaks, house in Nobleboro, ME"
+  }
  },
  {
   "id": "ME-0486",
@@ -484,7 +593,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0486-cover.jpg": "Lakehurst — Boathouse Bottom, camp in Damariscotta, ME",
+   "images/ME-0486-000.jpg": "Lakehurst — Boathouse Bottom, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0486-001.jpg": "Lakehurst — Boathouse Bottom, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0486-002.jpg": "Lakehurst — Boathouse Bottom, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0486-card.webp": "Lakehurst — Boathouse Bottom, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0487",
@@ -512,7 +628,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0487-cover.jpg": "Lakehurst — Boathouse Top, camp in Damariscotta, ME",
+   "images/ME-0487-000.jpg": "Lakehurst — Boathouse Top, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0487-001.jpg": "Lakehurst — Boathouse Top, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0487-002.jpg": "Lakehurst — Boathouse Top, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0487-card.webp": "Lakehurst — Boathouse Top, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0488",
@@ -540,7 +663,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0488-cover.jpg": "Lakehurst — Coveside, camp in Damariscotta, ME",
+   "images/ME-0488-000.jpg": "Lakehurst — Coveside, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0488-001.jpg": "Lakehurst — Coveside, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0488-002.jpg": "Lakehurst — Coveside, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0488-card.webp": "Lakehurst — Coveside, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0489",
@@ -568,7 +698,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0489-cover.jpg": "Lakehurst — Cozy Nook, camp in Damariscotta, ME",
+   "images/ME-0489-000.jpg": "Lakehurst — Cozy Nook, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0489-001.jpg": "Lakehurst — Cozy Nook, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0489-002.jpg": "Lakehurst — Cozy Nook, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0489-card.webp": "Lakehurst — Cozy Nook, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0490",
@@ -596,7 +733,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0490-cover.jpg": "Lakehurst — Pine Cove, camp in Damariscotta, ME",
+   "images/ME-0490-000.jpg": "Lakehurst — Pine Cove, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0490-001.jpg": "Lakehurst — Pine Cove, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0490-002.jpg": "Lakehurst — Pine Cove, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0490-card.webp": "Lakehurst — Pine Cove, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0491",
@@ -624,7 +768,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0491-cover.jpg": "Lakehurst — Pine Knoll, camp in Damariscotta, ME",
+   "images/ME-0491-000.jpg": "Lakehurst — Pine Knoll, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0491-001.jpg": "Lakehurst — Pine Knoll, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0491-002.jpg": "Lakehurst — Pine Knoll, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0491-card.webp": "Lakehurst — Pine Knoll, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0492",
@@ -652,7 +803,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0492-cover.jpg": "Lakehurst — Rocky Point, camp in Damariscotta, ME",
+   "images/ME-0492-000.jpg": "Lakehurst — Rocky Point, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0492-001.jpg": "Lakehurst — Rocky Point, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0492-002.jpg": "Lakehurst — Rocky Point, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0492-card.webp": "Lakehurst — Rocky Point, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0493",
@@ -680,7 +838,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0493-cover.jpg": "Lakehurst — Sandy Beach, camp in Damariscotta, ME",
+   "images/ME-0493-000.jpg": "Lakehurst — Sandy Beach, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0493-001.jpg": "Lakehurst — Sandy Beach, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0493-002.jpg": "Lakehurst — Sandy Beach, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0493-card.webp": "Lakehurst — Sandy Beach, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0494",
@@ -708,7 +873,14 @@
   "lat": 44.0328,
   "lng": -69.5315,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0494-cover.jpg": "Lakehurst — Whispering Pines, camp in Damariscotta, ME",
+   "images/ME-0494-000.jpg": "Lakehurst — Whispering Pines, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0494-001.jpg": "Lakehurst — Whispering Pines, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0494-002.jpg": "Lakehurst — Whispering Pines, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0494-card.webp": "Lakehurst — Whispering Pines, camp in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0462",
@@ -737,7 +909,14 @@
   "lng": -69.49289,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0462-cover.jpg": "Lakeview Cottage/Bristol, house in Bristol, ME",
+   "images/ME-0462-000.jpg": "Lakeview Cottage/Bristol, Bristol, ME, photo 2 of 4",
+   "images/ME-0462-001.jpg": "Lakeview Cottage/Bristol, Bristol, ME, photo 3 of 4",
+   "images/ME-0462-002.jpg": "Lakeview Cottage/Bristol, Bristol, ME, photo 4 of 4",
+   "images/ME-0462-card.webp": "Lakeview Cottage/Bristol, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0457",
@@ -766,7 +945,14 @@
   "lng": -69.52824,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0457-cover.jpg": "Lindsay's Lodge/Bristol, house in Bristol, ME",
+   "images/ME-0457-000.jpg": "Lindsay's Lodge/Bristol, Bristol, ME, photo 2 of 4",
+   "images/ME-0457-001.jpg": "Lindsay's Lodge/Bristol, Bristol, ME, photo 3 of 4",
+   "images/ME-0457-002.jpg": "Lindsay's Lodge/Bristol, Bristol, ME, photo 4 of 4",
+   "images/ME-0457-card.webp": "Lindsay's Lodge/Bristol, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0451",
@@ -795,7 +981,14 @@
   "lng": -69.45341,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0451-cover.jpg": "Loon Call/Pemaquid Lake, house in Damariscotta, ME",
+   "images/ME-0451-000.jpg": "Loon Call/Pemaquid Lake, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0451-001.jpg": "Loon Call/Pemaquid Lake, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0451-002.jpg": "Loon Call/Pemaquid Lake, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0451-card.webp": "Loon Call/Pemaquid Lake, house in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0473",
@@ -824,7 +1017,14 @@
   "lng": -69.48891,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0473-cover.jpg": "McFarland Shore/New Harbor, house in Bristol, ME",
+   "images/ME-0473-000.jpg": "McFarland Shore/New Harbor, Bristol, ME, photo 2 of 4",
+   "images/ME-0473-001.jpg": "McFarland Shore/New Harbor, Bristol, ME, photo 3 of 4",
+   "images/ME-0473-002.jpg": "McFarland Shore/New Harbor, Bristol, ME, photo 4 of 4",
+   "images/ME-0473-card.webp": "McFarland Shore/New Harbor, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0470",
@@ -853,7 +1053,14 @@
   "lng": -69.41825,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0470-cover.jpg": "Medomak Road Cottage/Bremen, house in Bremen, ME",
+   "images/ME-0470-000.jpg": "Medomak Road Cottage/Bremen, Bremen, ME, photo 2 of 4",
+   "images/ME-0470-001.jpg": "Medomak Road Cottage/Bremen, Bremen, ME, photo 3 of 4",
+   "images/ME-0470-002.jpg": "Medomak Road Cottage/Bremen, Bremen, ME, photo 4 of 4",
+   "images/ME-0470-card.webp": "Medomak Road Cottage/Bremen, house in Bremen, ME"
+  }
  },
  {
   "id": "ME-0464",
@@ -882,7 +1089,14 @@
   "lng": -69.53715,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0464-cover.jpg": "Middle Way Cottage/Newcastle, house in Newcastle, ME",
+   "images/ME-0464-000.jpg": "Middle Way Cottage/Newcastle, Newcastle, ME, photo 2 of 4",
+   "images/ME-0464-001.jpg": "Middle Way Cottage/Newcastle, Newcastle, ME, photo 3 of 4",
+   "images/ME-0464-002.jpg": "Middle Way Cottage/Newcastle, Newcastle, ME, photo 4 of 4",
+   "images/ME-0464-card.webp": "Middle Way Cottage/Newcastle, house in Newcastle, ME"
+  }
  },
  {
   "id": "ME-0483",
@@ -911,7 +1125,14 @@
   "lng": -69.50836,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0483-cover.jpg": "Our Maine House/New Harbor, house in Bristol, ME",
+   "images/ME-0483-000.jpg": "Our Maine House/New Harbor, Bristol, ME, photo 2 of 4",
+   "images/ME-0483-001.jpg": "Our Maine House/New Harbor, Bristol, ME, photo 3 of 4",
+   "images/ME-0483-002.jpg": "Our Maine House/New Harbor, Bristol, ME, photo 4 of 4",
+   "images/ME-0483-card.webp": "Our Maine House/New Harbor, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0485",
@@ -940,7 +1161,14 @@
   "lng": -69.51114,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0485-cover.jpg": "Pemaquid Loop Cottage/Pemaquid Point, house in Bristol, ME",
+   "images/ME-0485-000.jpg": "Pemaquid Loop Cottage/Pemaquid Point, Bristol, ME, photo 2 of 4",
+   "images/ME-0485-001.jpg": "Pemaquid Loop Cottage/Pemaquid Point, Bristol, ME, photo 3 of 4",
+   "images/ME-0485-002.jpg": "Pemaquid Loop Cottage/Pemaquid Point, Bristol, ME, photo 4 of 4",
+   "images/ME-0485-card.webp": "Pemaquid Loop Cottage/Pemaquid Point, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0446",
@@ -968,7 +1196,14 @@
   "lat": 44.06253,
   "lng": -69.45118,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0446-cover.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, house in Nobleboro, ME",
+   "images/ME-0446-000.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, Nobleboro, ME, photo 2 of 4",
+   "images/ME-0446-001.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, Nobleboro, ME, photo 3 of 4",
+   "images/ME-0446-002.jpg": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, Nobleboro, ME, photo 4 of 4",
+   "images/ME-0446-card.webp": "Pemaquid Waterfront Retreat, Private Dock, Firepit, Screen porch & Kayaks, house in Nobleboro, ME"
+  }
  },
  {
   "id": "ME-0475",
@@ -997,7 +1232,14 @@
   "lng": -69.48911,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0475-cover.jpg": "Point of Views Cottage/Jefferson, house in Jefferson, ME",
+   "images/ME-0475-000.jpg": "Point of Views Cottage/Jefferson, Jefferson, ME, photo 2 of 4",
+   "images/ME-0475-001.jpg": "Point of Views Cottage/Jefferson, Jefferson, ME, photo 3 of 4",
+   "images/ME-0475-002.jpg": "Point of Views Cottage/Jefferson, Jefferson, ME, photo 4 of 4",
+   "images/ME-0475-card.webp": "Point of Views Cottage/Jefferson, house in Jefferson, ME"
+  }
  },
  {
   "id": "ME-0478",
@@ -1026,7 +1268,14 @@
   "lng": -69.61587,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0478-cover.jpg": "Reversing Falls Cottage/Newcastle, house in Newcastle, ME",
+   "images/ME-0478-000.jpg": "Reversing Falls Cottage/Newcastle, Newcastle, ME, photo 2 of 4",
+   "images/ME-0478-001.jpg": "Reversing Falls Cottage/Newcastle, Newcastle, ME, photo 3 of 4",
+   "images/ME-0478-002.jpg": "Reversing Falls Cottage/Newcastle, Newcastle, ME, photo 4 of 4",
+   "images/ME-0478-card.webp": "Reversing Falls Cottage/Newcastle, house in Newcastle, ME"
+  }
  },
  {
   "id": "ME-0482",
@@ -1055,7 +1304,14 @@
   "lng": -69.49376,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0482-cover.jpg": "Salt Spray/New Harbor, house in Bristol, ME",
+   "images/ME-0482-000.jpg": "Salt Spray/New Harbor, Bristol, ME, photo 2 of 4",
+   "images/ME-0482-001.jpg": "Salt Spray/New Harbor, Bristol, ME, photo 3 of 4",
+   "images/ME-0482-002.jpg": "Salt Spray/New Harbor, Bristol, ME, photo 4 of 4",
+   "images/ME-0482-card.webp": "Salt Spray/New Harbor, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0454",
@@ -1084,7 +1340,14 @@
   "lng": -69.50722,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0454-cover.jpg": "School House Cove/New Harbor-Pemaquid, house in Bristol, ME",
+   "images/ME-0454-000.jpg": "School House Cove/New Harbor-Pemaquid, Bristol, ME, photo 2 of 4",
+   "images/ME-0454-001.jpg": "School House Cove/New Harbor-Pemaquid, Bristol, ME, photo 3 of 4",
+   "images/ME-0454-002.jpg": "School House Cove/New Harbor-Pemaquid, Bristol, ME, photo 4 of 4",
+   "images/ME-0454-card.webp": "School House Cove/New Harbor-Pemaquid, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0079",
@@ -1112,7 +1375,14 @@
   "lat": 43.89096,
   "lng": -69.50284,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0079-cover.jpg": "Sea Acres Cottages, house in Pemaquid, ME",
+   "images/ME-0079-000.jpg": "Sea Acres Cottages, Pemaquid, ME, photo 2 of 4",
+   "images/ME-0079-001.jpg": "Sea Acres Cottages, Pemaquid, ME, photo 3 of 4",
+   "images/ME-0079-002.jpg": "Sea Acres Cottages, Pemaquid, ME, photo 4 of 4",
+   "images/ME-0079-card.webp": "Sea Acres Cottages, house in Pemaquid, ME"
+  }
  },
  {
   "id": "ME-0456",
@@ -1141,7 +1411,14 @@
   "lng": -69.45295,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0456-cover.jpg": "Seacrest Cottage/Round Pond, house in Bristol, ME",
+   "images/ME-0456-000.jpg": "Seacrest Cottage/Round Pond, Bristol, ME, photo 2 of 4",
+   "images/ME-0456-001.jpg": "Seacrest Cottage/Round Pond, Bristol, ME, photo 3 of 4",
+   "images/ME-0456-002.jpg": "Seacrest Cottage/Round Pond, Bristol, ME, photo 4 of 4",
+   "images/ME-0456-card.webp": "Seacrest Cottage/Round Pond, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0484",
@@ -1170,7 +1447,14 @@
   "lng": -69.49175,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0484-cover.jpg": "Seaworthy Cottage/New Harbor, house in Bristol, ME",
+   "images/ME-0484-000.jpg": "Seaworthy Cottage/New Harbor, Bristol, ME, photo 2 of 4",
+   "images/ME-0484-001.jpg": "Seaworthy Cottage/New Harbor, Bristol, ME, photo 3 of 4",
+   "images/ME-0484-002.jpg": "Seaworthy Cottage/New Harbor, Bristol, ME, photo 4 of 4",
+   "images/ME-0484-card.webp": "Seaworthy Cottage/New Harbor, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0481",
@@ -1199,7 +1483,14 @@
   "lng": -69.46067,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0481-cover.jpg": "Shore Cottage/ Nobleboro, house in Nobleboro, ME",
+   "images/ME-0481-000.jpg": "Shore Cottage/ Nobleboro, Nobleboro, ME, photo 2 of 4",
+   "images/ME-0481-001.jpg": "Shore Cottage/ Nobleboro, Nobleboro, ME, photo 3 of 4",
+   "images/ME-0481-002.jpg": "Shore Cottage/ Nobleboro, Nobleboro, ME, photo 4 of 4",
+   "images/ME-0481-card.webp": "Shore Cottage/ Nobleboro, house in Nobleboro, ME"
+  }
  },
  {
   "id": "ME-0185",
@@ -1231,7 +1522,14 @@
   "lat": 43.87353,
   "lng": -69.50772,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0185-cover.jpg": "Snowball Hill Cottage, house in New Harbor, ME",
+   "images/ME-0185-000.jpg": "Snowball Hill Cottage, New Harbor, ME, photo 2 of 4",
+   "images/ME-0185-001.jpg": "Snowball Hill Cottage, New Harbor, ME, photo 3 of 4",
+   "images/ME-0185-002.jpg": "Snowball Hill Cottage, New Harbor, ME, photo 4 of 4",
+   "images/ME-0185-card.webp": "Snowball Hill Cottage, house in New Harbor, ME"
+  }
  },
  {
   "id": "ME-0449",
@@ -1260,7 +1558,14 @@
   "lng": -69.52725,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0449-cover.jpg": "Stafford Cottage/Damariscotta Lake, house in Newcastle, ME",
+   "images/ME-0449-000.jpg": "Stafford Cottage/Damariscotta Lake, Newcastle, ME, photo 2 of 4",
+   "images/ME-0449-001.jpg": "Stafford Cottage/Damariscotta Lake, Newcastle, ME, photo 3 of 4",
+   "images/ME-0449-002.jpg": "Stafford Cottage/Damariscotta Lake, Newcastle, ME, photo 4 of 4",
+   "images/ME-0449-card.webp": "Stafford Cottage/Damariscotta Lake, house in Newcastle, ME"
+  }
  },
  {
   "id": "ME-0027",
@@ -1288,7 +1593,14 @@
   "lat": 44.18591,
   "lng": -69.46304,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0027-cover.jpg": "Sunset Cabins, cabin in Damariscotta Lake, ME",
+   "images/ME-0027-000.jpg": "Sunset Cabins, Damariscotta Lake, ME, photo 2 of 4",
+   "images/ME-0027-001.jpg": "Sunset Cabins, Damariscotta Lake, ME, photo 3 of 4",
+   "images/ME-0027-002.jpg": "Sunset Cabins, Damariscotta Lake, ME, photo 4 of 4",
+   "images/ME-0027-card.webp": "Sunset Cabins, cabin in Damariscotta Lake, ME"
+  }
  },
  {
   "id": "ME-0467",
@@ -1317,7 +1629,14 @@
   "lng": -69.48825,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0467-cover.jpg": "The Cottage/Bristol, house in Bristol, ME",
+   "images/ME-0467-000.jpg": "The Cottage/Bristol, Bristol, ME, photo 2 of 4",
+   "images/ME-0467-001.jpg": "The Cottage/Bristol, Bristol, ME, photo 3 of 4",
+   "images/ME-0467-002.jpg": "The Cottage/Bristol, Bristol, ME, photo 4 of 4",
+   "images/ME-0467-card.webp": "The Cottage/Bristol, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0468",
@@ -1346,7 +1665,14 @@
   "lng": -69.50943,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0468-cover.jpg": "The Gathering Place/Jefferson, house in Jefferson, ME",
+   "images/ME-0468-000.jpg": "The Gathering Place/Jefferson, Jefferson, ME, photo 2 of 4",
+   "images/ME-0468-001.jpg": "The Gathering Place/Jefferson, Jefferson, ME, photo 3 of 4",
+   "images/ME-0468-002.jpg": "The Gathering Place/Jefferson, Jefferson, ME, photo 4 of 4",
+   "images/ME-0468-card.webp": "The Gathering Place/Jefferson, house in Jefferson, ME"
+  }
  },
  {
   "id": "ME-0477",
@@ -1375,7 +1701,14 @@
   "lng": -69.48417,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0477-cover.jpg": "The Hinsdale House / Bristol, house in Bristol, ME",
+   "images/ME-0477-000.jpg": "The Hinsdale House / Bristol, Bristol, ME, photo 2 of 4",
+   "images/ME-0477-001.jpg": "The Hinsdale House / Bristol, Bristol, ME, photo 3 of 4",
+   "images/ME-0477-002.jpg": "The Hinsdale House / Bristol, Bristol, ME, photo 4 of 4",
+   "images/ME-0477-card.webp": "The Hinsdale House / Bristol, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0458",
@@ -1404,7 +1737,14 @@
   "lng": -69.45332,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0458-cover.jpg": "The Lake House/Nobleboro, house in Nobleboro, ME",
+   "images/ME-0458-000.jpg": "The Lake House/Nobleboro, Nobleboro, ME, photo 2 of 4",
+   "images/ME-0458-001.jpg": "The Lake House/Nobleboro, Nobleboro, ME, photo 3 of 4",
+   "images/ME-0458-002.jpg": "The Lake House/Nobleboro, Nobleboro, ME, photo 4 of 4",
+   "images/ME-0458-card.webp": "The Lake House/Nobleboro, house in Nobleboro, ME"
+  }
  },
  {
   "id": "ME-0461",
@@ -1433,7 +1773,14 @@
   "lng": -69.48436,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0461-cover.jpg": "The Osprey/New Harbor, house in Bristol, ME",
+   "images/ME-0461-000.jpg": "The Osprey/New Harbor, Bristol, ME, photo 2 of 4",
+   "images/ME-0461-001.jpg": "The Osprey/New Harbor, Bristol, ME, photo 3 of 4",
+   "images/ME-0461-002.jpg": "The Osprey/New Harbor, Bristol, ME, photo 4 of 4",
+   "images/ME-0461-card.webp": "The Osprey/New Harbor, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0450",
@@ -1462,7 +1809,14 @@
   "lng": -69.48135,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0450-cover.jpg": "The Willows/Damariscotta Lake, house in Jefferson, ME",
+   "images/ME-0450-000.jpg": "The Willows/Damariscotta Lake, Jefferson, ME, photo 2 of 4",
+   "images/ME-0450-001.jpg": "The Willows/Damariscotta Lake, Jefferson, ME, photo 3 of 4",
+   "images/ME-0450-002.jpg": "The Willows/Damariscotta Lake, Jefferson, ME, photo 4 of 4",
+   "images/ME-0450-card.webp": "The Willows/Damariscotta Lake, house in Jefferson, ME"
+  }
  },
  {
   "id": "ME-0113",
@@ -1490,7 +1844,14 @@
   "lat": 44.05074,
   "lng": -69.37761,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0113-cover.jpg": "Thistledown Farm, Waldoboro, ME",
+   "images/ME-0113-000.jpg": "Thistledown Farm, Waldoboro, ME, photo 2 of 4",
+   "images/ME-0113-001.jpg": "Thistledown Farm, Waldoboro, ME, photo 3 of 4",
+   "images/ME-0113-002.jpg": "Thistledown Farm, Waldoboro, ME, photo 4 of 4",
+   "images/ME-0113-card.webp": "Thistledown Farm, Waldoboro, ME"
+  }
  },
  {
   "id": "ME-0476",
@@ -1519,7 +1880,14 @@
   "lng": -69.47163,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0476-cover.jpg": "Thomas Cottage/Jefferson, house in Jefferson, ME",
+   "images/ME-0476-000.jpg": "Thomas Cottage/Jefferson, Jefferson, ME, photo 2 of 4",
+   "images/ME-0476-001.jpg": "Thomas Cottage/Jefferson, Jefferson, ME, photo 3 of 4",
+   "images/ME-0476-002.jpg": "Thomas Cottage/Jefferson, Jefferson, ME, photo 4 of 4",
+   "images/ME-0476-card.webp": "Thomas Cottage/Jefferson, house in Jefferson, ME"
+  }
  },
  {
   "id": "ME-0072",
@@ -1547,7 +1915,14 @@
   "lat": 43.87249,
   "lng": -69.49235,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0072-cover.jpg": "Thompson House & Cottages, house in New Harbor, ME",
+   "images/ME-0072-000.jpg": "Thompson House & Cottages, New Harbor, ME, photo 2 of 4",
+   "images/ME-0072-001.jpg": "Thompson House & Cottages, New Harbor, ME, photo 3 of 4",
+   "images/ME-0072-002.jpg": "Thompson House & Cottages, New Harbor, ME, photo 4 of 4",
+   "images/ME-0072-card.webp": "Thompson House & Cottages, house in New Harbor, ME"
+  }
  },
  {
   "id": "ME-0096",
@@ -1575,7 +1950,14 @@
   "lat": 43.9478,
   "lng": -69.4605,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0096-cover.jpg": "Three Birds Farm & Cottages, house in Round Pond, ME",
+   "images/ME-0096-000.png": "Three Birds Farm & Cottages, Round Pond, ME, photo 2 of 4",
+   "images/ME-0096-001.jpg": "Three Birds Farm & Cottages, Round Pond, ME, photo 3 of 4",
+   "images/ME-0096-002.jpg": "Three Birds Farm & Cottages, Round Pond, ME, photo 4 of 4",
+   "images/ME-0096-card.webp": "Three Birds Farm & Cottages, house in Round Pond, ME"
+  }
  },
  {
   "id": "ME-0469",
@@ -1604,7 +1986,14 @@
   "lng": -69.52693,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0469-cover.jpg": "Tobinest/Nobleboro, house in Nobleboro, ME",
+   "images/ME-0469-000.jpg": "Tobinest/Nobleboro, Nobleboro, ME, photo 2 of 4",
+   "images/ME-0469-001.jpg": "Tobinest/Nobleboro, Nobleboro, ME, photo 3 of 4",
+   "images/ME-0469-002.jpg": "Tobinest/Nobleboro, Nobleboro, ME, photo 4 of 4",
+   "images/ME-0469-card.webp": "Tobinest/Nobleboro, house in Nobleboro, ME"
+  }
  },
  {
   "id": "ME-0460",
@@ -1633,7 +2022,14 @@
   "lng": -69.45575,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0460-cover.jpg": "Trexler Cottage/Damariscotta, house in Damariscotta, ME",
+   "images/ME-0460-000.jpg": "Trexler Cottage/Damariscotta, Damariscotta, ME, photo 2 of 4",
+   "images/ME-0460-001.jpg": "Trexler Cottage/Damariscotta, Damariscotta, ME, photo 3 of 4",
+   "images/ME-0460-002.jpg": "Trexler Cottage/Damariscotta, Damariscotta, ME, photo 4 of 4",
+   "images/ME-0460-card.webp": "Trexler Cottage/Damariscotta, house in Damariscotta, ME"
+  }
  },
  {
   "id": "ME-0435",
@@ -1661,7 +2057,14 @@
   "lat": 43.87187,
   "lng": -69.51556,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0435-cover.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, house in Bristol, ME",
+   "images/ME-0435-000.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, Bristol, ME, photo 2 of 4",
+   "images/ME-0435-001.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, Bristol, ME, photo 3 of 4",
+   "images/ME-0435-002.jpg": "Walk to Pemaquid Beach by Rocky Coast Rentals, Bristol, ME, photo 4 of 4",
+   "images/ME-0435-card.webp": "Walk to Pemaquid Beach by Rocky Coast Rentals, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0452",
@@ -1690,7 +2093,14 @@
   "lng": -69.51007,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0452-cover.jpg": "Whaleback/New Harbor, house in Bristol, ME",
+   "images/ME-0452-000.jpg": "Whaleback/New Harbor, Bristol, ME, photo 2 of 4",
+   "images/ME-0452-001.jpg": "Whaleback/New Harbor, Bristol, ME, photo 3 of 4",
+   "images/ME-0452-002.jpg": "Whaleback/New Harbor, Bristol, ME, photo 4 of 4",
+   "images/ME-0452-card.webp": "Whaleback/New Harbor, house in Bristol, ME"
+  }
  },
  {
   "id": "ME-0474",
@@ -1719,6 +2129,13 @@
   "lng": -69.56048,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0474-cover.jpg": "Yeakey Cottage/ Rutherford Island, house in South Bristol, ME",
+   "images/ME-0474-000.jpg": "Yeakey Cottage/ Rutherford Island, South Bristol, ME, photo 2 of 4",
+   "images/ME-0474-001.jpg": "Yeakey Cottage/ Rutherford Island, South Bristol, ME, photo 3 of 4",
+   "images/ME-0474-002.jpg": "Yeakey Cottage/ Rutherford Island, South Bristol, ME, photo 4 of 4",
+   "images/ME-0474-card.webp": "Yeakey Cottage/ Rutherford Island, house in South Bristol, ME"
+  }
  }
 ]

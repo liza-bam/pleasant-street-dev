@@ -25,7 +25,14 @@
   "lat": 45.20479,
   "lng": -69.45489,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0120-cover.jpg": "Abbot Trailside Lodging, Abbot, ME",
+   "images/ME-0120-000.jpg": "Abbot Trailside Lodging, Abbot, ME, photo 2 of 4",
+   "images/ME-0120-001.jpg": "Abbot Trailside Lodging, Abbot, ME, photo 3 of 4",
+   "images/ME-0120-002.jpg": "Abbot Trailside Lodging, Abbot, ME, photo 4 of 4",
+   "images/ME-0120-card.webp": "Abbot Trailside Lodging, Abbot, ME"
+  }
  },
  {
   "id": "ME-0318",
@@ -53,7 +60,14 @@
   "lat": 45.45872,
   "lng": -69.59611,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0318-cover.jpg": "Bear's Den, house in Greenville, ME",
+   "images/ME-0318-000.jpg": "Bear's Den, Greenville, ME, photo 2 of 4",
+   "images/ME-0318-001.jpg": "Bear's Den, Greenville, ME, photo 3 of 4",
+   "images/ME-0318-002.jpg": "Bear's Den, Greenville, ME, photo 4 of 4",
+   "images/ME-0318-card.webp": "Bear's Den, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0330",
@@ -81,7 +95,14 @@
   "lat": 45.44162,
   "lng": -69.53549,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0330-cover.jpg": "Black Bear Cabin, cabin in Greenville, ME",
+   "images/ME-0330-000.jpg": "Black Bear Cabin, Greenville, ME, photo 2 of 4",
+   "images/ME-0330-001.jpg": "Black Bear Cabin, Greenville, ME, photo 3 of 4",
+   "images/ME-0330-002.jpg": "Black Bear Cabin, Greenville, ME, photo 4 of 4",
+   "images/ME-0330-card.webp": "Black Bear Cabin, cabin in Greenville, ME"
+  }
  },
  {
   "id": "ME-0159",
@@ -109,7 +130,14 @@
   "lat": 45.26373,
   "lng": -69.47341,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0159-cover.webp": "Burke's Properties and Rentals, Greenville, ME",
+   "images/ME-0159-000.webp": "Burke's Properties and Rentals, Greenville, ME, photo 2 of 4",
+   "images/ME-0159-001.webp": "Burke's Properties and Rentals, Greenville, ME, photo 3 of 4",
+   "images/ME-0159-002.webp": "Burke's Properties and Rentals, Greenville, ME, photo 4 of 4",
+   "images/ME-0159-card.webp": "Burke's Properties and Rentals, Greenville, ME"
+  }
  },
  {
   "id": "ME-0331",
@@ -137,7 +165,14 @@
   "lat": 45.5014,
   "lng": -69.577,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0331-cover.jpg": "Burnt Jacket Lodge, house in Greenville, ME",
+   "images/ME-0331-000.jpg": "Burnt Jacket Lodge, Greenville, ME, photo 2 of 4",
+   "images/ME-0331-001.jpg": "Burnt Jacket Lodge, Greenville, ME, photo 3 of 4",
+   "images/ME-0331-002.jpg": "Burnt Jacket Lodge, Greenville, ME, photo 4 of 4",
+   "images/ME-0331-card.webp": "Burnt Jacket Lodge, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0332",
@@ -165,7 +200,14 @@
   "lat": 45.50669,
   "lng": -69.57029,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0332-cover.jpg": "Camp Fred, house in Greenville, ME",
+   "images/ME-0332-000.jpg": "Camp Fred, Greenville, ME, photo 2 of 4",
+   "images/ME-0332-001.jpg": "Camp Fred, Greenville, ME, photo 3 of 4",
+   "images/ME-0332-002.jpg": "Camp Fred, Greenville, ME, photo 4 of 4",
+   "images/ME-0332-card.webp": "Camp Fred, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0052",
@@ -193,7 +235,14 @@
   "lat": 45.62293,
   "lng": -70.2577,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0052-cover.webp": "Cozy Cove Cabins, cabin in Jackman, ME",
+   "images/ME-0052-000.webp": "Cozy Cove Cabins, Jackman, ME, photo 2 of 4",
+   "images/ME-0052-001.webp": "Cozy Cove Cabins, Jackman, ME, photo 3 of 4",
+   "images/ME-0052-002.webp": "Cozy Cove Cabins, Jackman, ME, photo 4 of 4",
+   "images/ME-0052-card.webp": "Cozy Cove Cabins, cabin in Jackman, ME"
+  }
  },
  {
   "id": "ME-0321",
@@ -221,7 +270,14 @@
   "lat": 45.45872,
   "lng": -69.59611,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0321-cover.jpg": "Deer Run Apartment, apartment in Greenville, ME",
+   "images/ME-0321-000.jpg": "Deer Run Apartment, Greenville, ME, photo 2 of 4",
+   "images/ME-0321-001.jpg": "Deer Run Apartment, Greenville, ME, photo 3 of 4",
+   "images/ME-0321-002.jpg": "Deer Run Apartment, Greenville, ME, photo 4 of 4",
+   "images/ME-0321-card.webp": "Deer Run Apartment, apartment in Greenville, ME"
+  }
  },
  {
   "id": "ME-0091",
@@ -249,7 +305,13 @@
   "lat": 45.67277,
   "lng": -69.78946,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0091-cover.webp": "Gray Ghost Camps, camp in Rockwood, ME",
+   "images/ME-0091-000.webp": "Gray Ghost Camps, Rockwood, ME, photo 2 of 3",
+   "images/ME-0091-001.webp": "Gray Ghost Camps, Rockwood, ME, photo 3 of 3",
+   "images/ME-0091-card.webp": "Gray Ghost Camps, camp in Rockwood, ME"
+  }
  },
  {
   "id": "ME-0333",
@@ -277,7 +339,14 @@
   "lat": 45.49788,
   "lng": -69.6199,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0333-cover.jpg": "Hartford's Point Lodge Spacious Log Cabin *Perfect for families*, cabin in Northwest Piscataquis, ME",
+   "images/ME-0333-000.jpg": "Hartford's Point Lodge Spacious Log Cabin *Perfect for families*, Northwest Piscataquis, ME, photo 2 of 4",
+   "images/ME-0333-001.jpg": "Hartford's Point Lodge Spacious Log Cabin *Perfect for families*, Northwest Piscataquis, ME, photo 3 of 4",
+   "images/ME-0333-002.jpg": "Hartford's Point Lodge Spacious Log Cabin *Perfect for families*, Northwest Piscataquis, ME, photo 4 of 4",
+   "images/ME-0333-card.webp": "Hartford's Point Lodge Spacious Log Cabin *Perfect for families*, cabin in Northwest Piscataquis, ME"
+  }
  },
  {
   "id": "ME-0160",
@@ -312,7 +381,14 @@
   "lat": 45.45995,
   "lng": -69.59477,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0160-cover.webp": "King's Landing, Greenville, ME",
+   "images/ME-0160-000.avif": "King's Landing, Greenville, ME, photo 2 of 4",
+   "images/ME-0160-001.webp": "King's Landing, Greenville, ME, photo 3 of 4",
+   "images/ME-0160-002.jpg": "King's Landing, Greenville, ME, photo 4 of 4",
+   "images/ME-0160-card.webp": "King's Landing, Greenville, ME"
+  }
  },
  {
   "id": "ME-0317",
@@ -340,7 +416,14 @@
   "lat": 45.28616,
   "lng": -69.50579,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0317-cover.jpg": "Lakeshore Retreat, house in Monson, ME",
+   "images/ME-0317-000.jpg": "Lakeshore Retreat, Monson, ME, photo 2 of 4",
+   "images/ME-0317-001.jpg": "Lakeshore Retreat, Monson, ME, photo 3 of 4",
+   "images/ME-0317-002.jpg": "Lakeshore Retreat, Monson, ME, photo 4 of 4",
+   "images/ME-0317-card.webp": "Lakeshore Retreat, house in Monson, ME"
+  }
  },
  {
   "id": "ME-0053",
@@ -368,7 +451,11 @@
   "lat": 45.62314,
   "lng": -70.13866,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0053-cover.jpg": "Long Pond Camps, camp in Jackman, ME",
+   "images/ME-0053-card.webp": "Long Pond Camps, camp in Jackman, ME"
+  }
  },
  {
   "id": "ME-0273",
@@ -402,7 +489,14 @@
   "lat": 45.67454,
   "lng": -69.79239,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0273-cover.jpg": "Maine Escapes, Rockwood / Katahdin region, ME",
+   "images/ME-0273-000.jpg": "Maine Escapes, Rockwood / Katahdin region, ME, photo 2 of 4",
+   "images/ME-0273-001.jpg": "Maine Escapes, Rockwood / Katahdin region, ME, photo 3 of 4",
+   "images/ME-0273-002.jpg": "Maine Escapes, Rockwood / Katahdin region, ME, photo 4 of 4",
+   "images/ME-0273-card.webp": "Maine Escapes, Rockwood / Katahdin region, ME"
+  }
  },
  {
   "id": "ME-0021",
@@ -430,7 +524,14 @@
   "lat": 45.21707,
   "lng": -69.98816,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0021-cover.avif": "Maine Lakeside Cabins, cabin in Caratunk, ME",
+   "images/ME-0021-000.avif": "Maine Lakeside Cabins, Caratunk, ME, photo 2 of 4",
+   "images/ME-0021-001.avif": "Maine Lakeside Cabins, Caratunk, ME, photo 3 of 4",
+   "images/ME-0021-002.avif": "Maine Lakeside Cabins, Caratunk, ME, photo 4 of 4",
+   "images/ME-0021-card.webp": "Maine Lakeside Cabins, cabin in Caratunk, ME"
+  }
  },
  {
   "id": "ME-0319",
@@ -458,7 +559,14 @@
   "lat": 45.50325,
   "lng": -69.5735,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0319-cover.jpg": "Mason's Mountain View, house in Greenville, ME",
+   "images/ME-0319-000.jpg": "Mason's Mountain View, Greenville, ME, photo 2 of 4",
+   "images/ME-0319-001.jpg": "Mason's Mountain View, Greenville, ME, photo 3 of 4",
+   "images/ME-0319-002.jpg": "Mason's Mountain View, Greenville, ME, photo 4 of 4",
+   "images/ME-0319-card.webp": "Mason's Mountain View, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0201",
@@ -486,7 +594,11 @@
   "lat": 45.67555,
   "lng": -69.78898,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0201-cover.jpg": "Maynards in Maine, Rockwood, ME",
+   "images/ME-0201-card.webp": "Maynards in Maine, Rockwood, ME"
+  }
  },
  {
   "id": "ME-0324",
@@ -514,7 +626,14 @@
   "lat": 45.4403,
   "lng": -69.53437,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0324-cover.jpg": "Mischief Maker, house in Greenville, ME",
+   "images/ME-0324-000.jpg": "Mischief Maker, Greenville, ME, photo 2 of 4",
+   "images/ME-0324-001.jpg": "Mischief Maker, Greenville, ME, photo 3 of 4",
+   "images/ME-0324-002.jpg": "Mischief Maker, Greenville, ME, photo 4 of 4",
+   "images/ME-0324-card.webp": "Mischief Maker, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0320",
@@ -542,7 +661,14 @@
   "lat": 45.45872,
   "lng": -69.59611,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0320-cover.jpg": "Moose Hollow Apartment, apartment in Greenville, ME",
+   "images/ME-0320-000.jpg": "Moose Hollow Apartment, Greenville, ME, photo 2 of 4",
+   "images/ME-0320-001.jpg": "Moose Hollow Apartment, Greenville, ME, photo 3 of 4",
+   "images/ME-0320-002.jpg": "Moose Hollow Apartment, Greenville, ME, photo 4 of 4",
+   "images/ME-0320-card.webp": "Moose Hollow Apartment, apartment in Greenville, ME"
+  }
  },
  {
   "id": "ME-0167",
@@ -570,7 +696,14 @@
   "lat": 45.6238,
   "lng": -70.254,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0167-cover.png": "Moose Lodge Maine, Jackman, ME",
+   "images/ME-0167-000.jpg": "Moose Lodge Maine, Jackman, ME, photo 2 of 4",
+   "images/ME-0167-001.jpg": "Moose Lodge Maine, Jackman, ME, photo 3 of 4",
+   "images/ME-0167-002.jpg": "Moose Lodge Maine, Jackman, ME, photo 4 of 4",
+   "images/ME-0167-card.webp": "Moose Lodge Maine, Jackman, ME"
+  }
  },
  {
   "id": "ME-0048",
@@ -598,7 +731,14 @@
   "lat": 45.4386,
   "lng": -69.59032,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0048-cover.jpg": "Moosehead Cottage Resort, house in Greenville, ME",
+   "images/ME-0048-000.png": "Moosehead Cottage Resort, Greenville, ME, photo 2 of 4",
+   "images/ME-0048-001.jpg": "Moosehead Cottage Resort, Greenville, ME, photo 3 of 4",
+   "images/ME-0048-002.jpg": "Moosehead Cottage Resort, Greenville, ME, photo 4 of 4",
+   "images/ME-0048-card.webp": "Moosehead Cottage Resort, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0049",
@@ -626,7 +766,14 @@
   "lat": 45.459,
   "lng": -69.5917,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0049-cover.webp": "Moosehead Hills Cabins, cabin in Greenville, ME",
+   "images/ME-0049-000.jpg": "Moosehead Hills Cabins, Greenville, ME, photo 2 of 4",
+   "images/ME-0049-001.jpg": "Moosehead Hills Cabins, Greenville, ME, photo 3 of 4",
+   "images/ME-0049-002.jpg": "Moosehead Hills Cabins, Greenville, ME, photo 4 of 4",
+   "images/ME-0049-card.webp": "Moosehead Hills Cabins, cabin in Greenville, ME"
+  }
  },
  {
   "id": "ME-0252",
@@ -655,7 +802,12 @@
   "lng": -69.5917,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0252-cover.jpg": "Moosehead Property Rentals, Greenville, ME",
+   "images/ME-0252-000.jpg": "Moosehead Property Rentals, Greenville, ME, photo 2 of 2",
+   "images/ME-0252-card.webp": "Moosehead Property Rentals, Greenville, ME"
+  }
  },
  {
   "id": "ME-0328",
@@ -683,7 +835,14 @@
   "lat": 45.455,
   "lng": -69.5329,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0328-cover.jpg": "Mystic Nights, house in Greenville, ME",
+   "images/ME-0328-000.jpg": "Mystic Nights, Greenville, ME, photo 2 of 4",
+   "images/ME-0328-001.jpg": "Mystic Nights, Greenville, ME, photo 3 of 4",
+   "images/ME-0328-002.jpg": "Mystic Nights, Greenville, ME, photo 4 of 4",
+   "images/ME-0328-card.webp": "Mystic Nights, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0065",
@@ -711,7 +870,14 @@
   "lat": 45.2874,
   "lng": -69.5016,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0065-cover.jpg": "Next Chapter Cabins, cabin in Monson, ME",
+   "images/ME-0065-000.png": "Next Chapter Cabins, Monson, ME, photo 2 of 4",
+   "images/ME-0065-001.jpg": "Next Chapter Cabins, Monson, ME, photo 3 of 4",
+   "images/ME-0065-002.jpg": "Next Chapter Cabins, Monson, ME, photo 4 of 4",
+   "images/ME-0065-card.webp": "Next Chapter Cabins, cabin in Monson, ME"
+  }
  },
  {
   "id": "ME-0050",
@@ -739,7 +905,14 @@
   "lat": 45.46118,
   "lng": -69.62168,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0050-cover.webp": "North Woods Maine Cabins, cabin in Greenville, ME",
+   "images/ME-0050-000.webp": "North Woods Maine Cabins, Greenville, ME, photo 2 of 4",
+   "images/ME-0050-001.webp": "North Woods Maine Cabins, Greenville, ME, photo 3 of 4",
+   "images/ME-0050-002.webp": "North Woods Maine Cabins, Greenville, ME, photo 4 of 4",
+   "images/ME-0050-card.webp": "North Woods Maine Cabins, cabin in Greenville, ME"
+  }
  },
  {
   "id": "ME-0329",
@@ -767,7 +940,14 @@
   "lat": 45.478,
   "lng": -69.53604,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0329-cover.jpg": "Oasis on Wilson Pond*Waterfront*Boat launch*Pet Friendly, house in Greenville, ME",
+   "images/ME-0329-000.jpg": "Oasis on Wilson Pond*Waterfront*Boat launch*Pet Friendly, Greenville, ME, photo 2 of 4",
+   "images/ME-0329-001.jpg": "Oasis on Wilson Pond*Waterfront*Boat launch*Pet Friendly, Greenville, ME, photo 3 of 4",
+   "images/ME-0329-002.jpg": "Oasis on Wilson Pond*Waterfront*Boat launch*Pet Friendly, Greenville, ME, photo 4 of 4",
+   "images/ME-0329-card.webp": "Oasis on Wilson Pond*Waterfront*Boat launch*Pet Friendly, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0093",
@@ -795,7 +975,14 @@
   "lat": 45.68212,
   "lng": -69.75999,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0093-cover.webp": "Rockwood Cottages, house in Rockwood, ME",
+   "images/ME-0093-000.webp": "Rockwood Cottages, Rockwood, ME, photo 2 of 4",
+   "images/ME-0093-001.webp": "Rockwood Cottages, Rockwood, ME, photo 3 of 4",
+   "images/ME-0093-002.jpg": "Rockwood Cottages, Rockwood, ME, photo 4 of 4",
+   "images/ME-0093-card.webp": "Rockwood Cottages, house in Rockwood, ME"
+  }
  },
  {
   "id": "ME-0054",
@@ -823,7 +1010,14 @@
   "lat": 45.62193,
   "lng": -70.2577,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0054-cover.webp": "Sally Mountain Cabins, cabin in Jackman, ME",
+   "images/ME-0054-000.webp": "Sally Mountain Cabins, Jackman, ME, photo 2 of 4",
+   "images/ME-0054-001.webp": "Sally Mountain Cabins, Jackman, ME, photo 3 of 4",
+   "images/ME-0054-002.webp": "Sally Mountain Cabins, Jackman, ME, photo 4 of 4",
+   "images/ME-0054-card.webp": "Sally Mountain Cabins, cabin in Jackman, ME"
+  }
  },
  {
   "id": "ME-0327",
@@ -851,7 +1045,14 @@
   "lat": 45.4594,
   "lng": -69.60534,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0327-cover.jpg": "The Pritham House, house in Greenville, ME",
+   "images/ME-0327-000.jpg": "The Pritham House, Greenville, ME, photo 2 of 4",
+   "images/ME-0327-001.jpg": "The Pritham House, Greenville, ME, photo 3 of 4",
+   "images/ME-0327-002.jpg": "The Pritham House, Greenville, ME, photo 4 of 4",
+   "images/ME-0327-card.webp": "The Pritham House, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0094",
@@ -879,7 +1080,14 @@
   "lat": 45.6778,
   "lng": -69.7409,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0094-cover.jpg": "Tomhegan Wilderness Cabins, cabin in Rockwood, ME",
+   "images/ME-0094-000.jpg": "Tomhegan Wilderness Cabins, Rockwood, ME, photo 2 of 4",
+   "images/ME-0094-001.jpg": "Tomhegan Wilderness Cabins, Rockwood, ME, photo 3 of 4",
+   "images/ME-0094-002.jpg": "Tomhegan Wilderness Cabins, Rockwood, ME, photo 4 of 4",
+   "images/ME-0094-card.webp": "Tomhegan Wilderness Cabins, cabin in Rockwood, ME"
+  }
  },
  {
   "id": "ME-0326",
@@ -907,7 +1115,14 @@
   "lat": 45.45733,
   "lng": -69.59359,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0326-cover.jpg": "Trails Edge, house in Greenville, ME",
+   "images/ME-0326-000.jpg": "Trails Edge, Greenville, ME, photo 2 of 4",
+   "images/ME-0326-001.jpg": "Trails Edge, Greenville, ME, photo 3 of 4",
+   "images/ME-0326-002.jpg": "Trails Edge, Greenville, ME, photo 4 of 4",
+   "images/ME-0326-card.webp": "Trails Edge, house in Greenville, ME"
+  }
  },
  {
   "id": "ME-0325",
@@ -935,7 +1150,14 @@
   "lat": 45.46137,
   "lng": -69.61785,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0325-cover.jpg": "West Cove Lower Left Apartment, apartment in Greenville, ME",
+   "images/ME-0325-000.jpg": "West Cove Lower Left Apartment, Greenville, ME, photo 2 of 4",
+   "images/ME-0325-001.jpg": "West Cove Lower Left Apartment, Greenville, ME, photo 3 of 4",
+   "images/ME-0325-002.jpg": "West Cove Lower Left Apartment, Greenville, ME, photo 4 of 4",
+   "images/ME-0325-card.webp": "West Cove Lower Left Apartment, apartment in Greenville, ME"
+  }
  },
  {
   "id": "ME-0323",
@@ -963,7 +1185,14 @@
   "lat": 45.53187,
   "lng": -69.55338,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0323-cover.jpg": "Wicked Moose Cabin, cabin in Beaver Cove, ME",
+   "images/ME-0323-000.jpg": "Wicked Moose Cabin, Beaver Cove, ME, photo 2 of 4",
+   "images/ME-0323-001.jpg": "Wicked Moose Cabin, Beaver Cove, ME, photo 3 of 4",
+   "images/ME-0323-002.jpg": "Wicked Moose Cabin, Beaver Cove, ME, photo 4 of 4",
+   "images/ME-0323-card.webp": "Wicked Moose Cabin, cabin in Beaver Cove, ME"
+  }
  },
  {
   "id": "ME-0018",
@@ -991,7 +1220,14 @@
   "lat": 45.35683,
   "lng": -68.95976,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0018-cover.webp": "Wildwoods Trailside Cabins, cabin in Brownville, ME",
+   "images/ME-0018-000.jpg": "Wildwoods Trailside Cabins, Brownville, ME, photo 2 of 4",
+   "images/ME-0018-001.jpg": "Wildwoods Trailside Cabins, Brownville, ME, photo 3 of 4",
+   "images/ME-0018-002.webp": "Wildwoods Trailside Cabins, Brownville, ME, photo 4 of 4",
+   "images/ME-0018-card.webp": "Wildwoods Trailside Cabins, cabin in Brownville, ME"
+  }
  },
  {
   "id": "ME-0161",
@@ -1019,7 +1255,14 @@
   "lat": 45.4609,
   "lng": -69.6162,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0161-cover.jpg": "Wilsons on Moosehead Lake, Greenville Junction, ME",
+   "images/ME-0161-000.jpg": "Wilsons on Moosehead Lake, Greenville Junction, ME, photo 2 of 4",
+   "images/ME-0161-001.png": "Wilsons on Moosehead Lake, Greenville Junction, ME, photo 3 of 4",
+   "images/ME-0161-002.jpg": "Wilsons on Moosehead Lake, Greenville Junction, ME, photo 4 of 4",
+   "images/ME-0161-card.webp": "Wilsons on Moosehead Lake, Greenville Junction, ME"
+  }
  },
  {
   "id": "ME-0322",
@@ -1047,6 +1290,13 @@
   "lat": 45.48156,
   "lng": -69.59236,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0322-cover.jpg": "WinterFell, house in Greenville, ME",
+   "images/ME-0322-000.jpg": "WinterFell, Greenville, ME, photo 2 of 4",
+   "images/ME-0322-001.jpg": "WinterFell, Greenville, ME, photo 3 of 4",
+   "images/ME-0322-002.jpg": "WinterFell, Greenville, ME, photo 4 of 4",
+   "images/ME-0322-card.webp": "WinterFell, house in Greenville, ME"
+  }
  }
 ]

@@ -26,7 +26,14 @@
   "lng": -70.6316,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0573-cover.jpg": "1901 HOUSE LIMIT 10, house in Sebago, ME",
+   "images/ME-0573-000.jpg": "1901 HOUSE LIMIT 10, Sebago, ME, photo 2 of 4",
+   "images/ME-0573-001.jpg": "1901 HOUSE LIMIT 10, Sebago, ME, photo 3 of 4",
+   "images/ME-0573-002.jpg": "1901 HOUSE LIMIT 10, Sebago, ME, photo 4 of 4",
+   "images/ME-0573-card.webp": "1901 HOUSE LIMIT 10, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0560",
@@ -55,7 +62,14 @@
   "lng": -70.61519,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0560-cover.jpg": "5 LOONS LIMIT 8, house in Western Shore (Off Route 114), ME",
+   "images/ME-0560-000.jpg": "5 LOONS LIMIT 8, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0560-001.jpg": "5 LOONS LIMIT 8, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0560-002.jpg": "5 LOONS LIMIT 8, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0560-card.webp": "5 LOONS LIMIT 8, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0541",
@@ -84,7 +98,14 @@
   "lng": -70.62915,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0541-cover.jpg": "A SENSE OF PLACE LIMIT 17, house in Western Shore (Off Route 114), ME",
+   "images/ME-0541-000.jpg": "A SENSE OF PLACE LIMIT 17, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0541-001.jpg": "A SENSE OF PLACE LIMIT 17, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0541-002.jpg": "A SENSE OF PLACE LIMIT 17, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0541-card.webp": "A SENSE OF PLACE LIMIT 17, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0531",
@@ -113,7 +134,14 @@
   "lng": -70.8198,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0531-cover.jpg": "ANY SEASON ESCAPE LIMIT 10, house in Bridgton, ME",
+   "images/ME-0531-000.jpg": "ANY SEASON ESCAPE LIMIT 10, Bridgton, ME, photo 2 of 4",
+   "images/ME-0531-001.jpg": "ANY SEASON ESCAPE LIMIT 10, Bridgton, ME, photo 3 of 4",
+   "images/ME-0531-002.jpg": "ANY SEASON ESCAPE LIMIT 10, Bridgton, ME, photo 4 of 4",
+   "images/ME-0531-card.webp": "ANY SEASON ESCAPE LIMIT 10, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0539",
@@ -142,7 +170,14 @@
   "lng": -70.75419,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0539-cover.jpg": "BARKER POND ESCAPE LIMIT 8, house in Other, ME",
+   "images/ME-0539-000.jpg": "BARKER POND ESCAPE LIMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0539-001.jpg": "BARKER POND ESCAPE LIMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0539-002.jpg": "BARKER POND ESCAPE LIMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0539-card.webp": "BARKER POND ESCAPE LIMIT 8, house in Other, ME"
+  }
  },
  {
   "id": "ME-0070",
@@ -170,7 +205,14 @@
   "lat": 43.96978,
   "lng": -70.59768,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0070-cover.jpg": "Bayview Cabins, cabin in Naples, ME",
+   "images/ME-0070-000.jpg": "Bayview Cabins, Naples, ME, photo 2 of 4",
+   "images/ME-0070-001.jpg": "Bayview Cabins, Naples, ME, photo 3 of 4",
+   "images/ME-0070-002.jpg": "Bayview Cabins, Naples, ME, photo 4 of 4",
+   "images/ME-0070-card.webp": "Bayview Cabins, cabin in Naples, ME"
+  }
  },
  {
   "id": "ME-0071",
@@ -198,7 +240,14 @@
   "lat": 43.9695,
   "lng": -70.6051,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0071-cover.webp": "Bayview Cabins Unit 7, cabin in Naples, ME",
+   "images/ME-0071-000.webp": "Bayview Cabins Unit 7, Naples, ME, photo 2 of 4",
+   "images/ME-0071-001.webp": "Bayview Cabins Unit 7, Naples, ME, photo 3 of 4",
+   "images/ME-0071-002.webp": "Bayview Cabins Unit 7, Naples, ME, photo 4 of 4",
+   "images/ME-0071-card.webp": "Bayview Cabins Unit 7, cabin in Naples, ME"
+  }
  },
  {
   "id": "ME-0510",
@@ -227,7 +276,14 @@
   "lng": -70.4834,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0510-cover.jpg": "BEACHSIDE ON SEBAGO LIMIT 6, house in Jordan Bay, ME",
+   "images/ME-0510-000.jpg": "BEACHSIDE ON SEBAGO LIMIT 6, Jordan Bay, ME, photo 2 of 4",
+   "images/ME-0510-001.jpg": "BEACHSIDE ON SEBAGO LIMIT 6, Jordan Bay, ME, photo 3 of 4",
+   "images/ME-0510-002.jpg": "BEACHSIDE ON SEBAGO LIMIT 6, Jordan Bay, ME, photo 4 of 4",
+   "images/ME-0510-card.webp": "BEACHSIDE ON SEBAGO LIMIT 6, house in Jordan Bay, ME"
+  }
  },
  {
   "id": "ME-0571",
@@ -256,7 +312,14 @@
   "lng": -70.6372,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0571-cover.jpg": "BEAR POINT LIMIT 15, house in Other, ME",
+   "images/ME-0571-000.jpg": "BEAR POINT LIMIT 15, Other, ME, photo 2 of 4",
+   "images/ME-0571-001.jpg": "BEAR POINT LIMIT 15, Other, ME, photo 3 of 4",
+   "images/ME-0571-002.jpg": "BEAR POINT LIMIT 15, Other, ME, photo 4 of 4",
+   "images/ME-0571-card.webp": "BEAR POINT LIMIT 15, house in Other, ME"
+  }
  },
  {
   "id": "ME-0342",
@@ -284,7 +347,14 @@
   "lat": 44.07247,
   "lng": -70.82417,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0342-cover.jpg": "Big Moose Lodge, house in Bridgton, ME",
+   "images/ME-0342-000.jpg": "Big Moose Lodge, Bridgton, ME, photo 2 of 4",
+   "images/ME-0342-001.jpg": "Big Moose Lodge, Bridgton, ME, photo 3 of 4",
+   "images/ME-0342-002.jpg": "Big Moose Lodge, Bridgton, ME, photo 4 of 4",
+   "images/ME-0342-card.webp": "Big Moose Lodge, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0554",
@@ -313,7 +383,14 @@
   "lng": -70.50649,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0554-cover.jpg": "BLUEBERRY MORE LIMIT 17, house in Raymond, ME",
+   "images/ME-0554-000.jpg": "BLUEBERRY MORE LIMIT 17, Raymond, ME, photo 2 of 4",
+   "images/ME-0554-001.jpg": "BLUEBERRY MORE LIMIT 17, Raymond, ME, photo 3 of 4",
+   "images/ME-0554-002.jpg": "BLUEBERRY MORE LIMIT 17, Raymond, ME, photo 4 of 4",
+   "images/ME-0554-card.webp": "BLUEBERRY MORE LIMIT 17, house in Raymond, ME"
+  }
  },
  {
   "id": "ME-0335",
@@ -341,7 +418,14 @@
   "lat": 44.01717,
   "lng": -70.69408,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0335-cover.jpg": "Bridgton Bungalow, house in Bridgton, ME",
+   "images/ME-0335-000.jpg": "Bridgton Bungalow, Bridgton, ME, photo 2 of 4",
+   "images/ME-0335-001.jpg": "Bridgton Bungalow, Bridgton, ME, photo 3 of 4",
+   "images/ME-0335-002.jpg": "Bridgton Bungalow, Bridgton, ME, photo 4 of 4",
+   "images/ME-0335-card.webp": "Bridgton Bungalow, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0551",
@@ -370,7 +454,14 @@
   "lng": -70.73331,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0551-cover.jpg": "CALL OF THE LOON LIMIT 9, house in Other, ME",
+   "images/ME-0551-000.jpg": "CALL OF THE LOON LIMIT 9, Other, ME, photo 2 of 4",
+   "images/ME-0551-001.jpg": "CALL OF THE LOON LIMIT 9, Other, ME, photo 3 of 4",
+   "images/ME-0551-002.jpg": "CALL OF THE LOON LIMIT 9, Other, ME, photo 4 of 4",
+   "images/ME-0551-card.webp": "CALL OF THE LOON LIMIT 9, house in Other, ME"
+  }
  },
  {
   "id": "ME-0537",
@@ -399,7 +490,14 @@
   "lng": -70.63105,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0537-cover.jpg": "CAMP CARROLL LIMIT 6, camp in Western Shore (Off Route 114), ME",
+   "images/ME-0537-000.jpg": "CAMP CARROLL LIMIT 6, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0537-001.jpg": "CAMP CARROLL LIMIT 6, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0537-002.jpg": "CAMP CARROLL LIMIT 6, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0537-card.webp": "CAMP CARROLL LIMIT 6, camp in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0548",
@@ -428,7 +526,14 @@
   "lng": -70.58237,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0548-cover.jpg": "CAMP DRAGONFLY LIMIT 10, camp in Sandbar, ME",
+   "images/ME-0548-000.jpg": "CAMP DRAGONFLY LIMIT 10, Sandbar, ME, photo 2 of 4",
+   "images/ME-0548-001.jpg": "CAMP DRAGONFLY LIMIT 10, Sandbar, ME, photo 3 of 4",
+   "images/ME-0548-002.jpg": "CAMP DRAGONFLY LIMIT 10, Sandbar, ME, photo 4 of 4",
+   "images/ME-0548-card.webp": "CAMP DRAGONFLY LIMIT 10, camp in Sandbar, ME"
+  }
  },
  {
   "id": "ME-0515",
@@ -457,7 +562,14 @@
   "lng": -70.62474,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0515-cover.jpg": "CAMP LINDY LIMIT 7, camp in Long Beach, ME",
+   "images/ME-0515-000.jpg": "CAMP LINDY LIMIT 7, Long Beach, ME, photo 2 of 4",
+   "images/ME-0515-001.jpg": "CAMP LINDY LIMIT 7, Long Beach, ME, photo 3 of 4",
+   "images/ME-0515-002.jpg": "CAMP LINDY LIMIT 7, Long Beach, ME, photo 4 of 4",
+   "images/ME-0515-card.webp": "CAMP LINDY LIMIT 7, camp in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0555",
@@ -486,7 +598,14 @@
   "lng": -70.60658,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0555-cover.jpg": "CAMP MARCY LIMIT 8, camp in Ward'S Cove, ME",
+   "images/ME-0555-000.jpg": "CAMP MARCY LIMIT 8, Ward'S Cove, ME, photo 2 of 4",
+   "images/ME-0555-001.jpg": "CAMP MARCY LIMIT 8, Ward'S Cove, ME, photo 3 of 4",
+   "images/ME-0555-002.jpg": "CAMP MARCY LIMIT 8, Ward'S Cove, ME, photo 4 of 4",
+   "images/ME-0555-card.webp": "CAMP MARCY LIMIT 8, camp in Ward'S Cove, ME"
+  }
  },
  {
   "id": "ME-0579",
@@ -515,7 +634,14 @@
   "lng": -70.61909,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0579-cover.jpg": "CAMP MARION LIMIT 6, camp in Sebago, ME",
+   "images/ME-0579-000.jpg": "CAMP MARION LIMIT 6, Sebago, ME, photo 2 of 4",
+   "images/ME-0579-001.jpg": "CAMP MARION LIMIT 6, Sebago, ME, photo 3 of 4",
+   "images/ME-0579-002.jpg": "CAMP MARION LIMIT 6, Sebago, ME, photo 4 of 4",
+   "images/ME-0579-card.webp": "CAMP MARION LIMIT 6, camp in Sebago, ME"
+  }
  },
  {
   "id": "ME-0517",
@@ -544,7 +670,14 @@
   "lng": -70.5804,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0517-cover.jpg": "CAMP SANDBAR LIMIT 12, camp in Sandbar, ME",
+   "images/ME-0517-000.jpg": "CAMP SANDBAR LIMIT 12, Sandbar, ME, photo 2 of 4",
+   "images/ME-0517-001.jpg": "CAMP SANDBAR LIMIT 12, Sandbar, ME, photo 3 of 4",
+   "images/ME-0517-002.jpg": "CAMP SANDBAR LIMIT 12, Sandbar, ME, photo 4 of 4",
+   "images/ME-0517-card.webp": "CAMP SANDBAR LIMIT 12, camp in Sandbar, ME"
+  }
  },
  {
   "id": "ME-0275",
@@ -573,7 +706,14 @@
   "lng": -70.5795,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0275-cover.jpg": "Campfire Booking, Sebago Lake, ME",
+   "images/ME-0275-000.jpg": "Campfire Booking, Sebago Lake, ME, photo 2 of 4",
+   "images/ME-0275-001.jpg": "Campfire Booking, Sebago Lake, ME, photo 3 of 4",
+   "images/ME-0275-002.jpg": "Campfire Booking, Sebago Lake, ME, photo 4 of 4",
+   "images/ME-0275-card.webp": "Campfire Booking, Sebago Lake, ME"
+  }
  },
  {
   "id": "ME-0585",
@@ -602,7 +742,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0585-cover.jpg": "CARDINAL LIMIT 3, house in Sebago, ME",
+   "images/ME-0585-000.jpg": "CARDINAL LIMIT 3, Sebago, ME, photo 2 of 4",
+   "images/ME-0585-001.jpg": "CARDINAL LIMIT 3, Sebago, ME, photo 3 of 4",
+   "images/ME-0585-002.jpg": "CARDINAL LIMIT 3, Sebago, ME, photo 4 of 4",
+   "images/ME-0585-card.webp": "CARDINAL LIMIT 3, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0591",
@@ -631,7 +778,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0591-cover.jpg": "CHICKADEE LIMIT 4, house in Sebago, ME",
+   "images/ME-0591-000.jpg": "CHICKADEE LIMIT 4, Sebago, ME, photo 2 of 4",
+   "images/ME-0591-001.jpg": "CHICKADEE LIMIT 4, Sebago, ME, photo 3 of 4",
+   "images/ME-0591-002.jpg": "CHICKADEE LIMIT 4, Sebago, ME, photo 4 of 4",
+   "images/ME-0591-card.webp": "CHICKADEE LIMIT 4, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0507",
@@ -660,7 +814,14 @@
   "lng": -70.62543,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0507-cover.jpg": "CLEARVIEW LIMIT 6, house in Long Beach, ME",
+   "images/ME-0507-000.jpg": "CLEARVIEW LIMIT 6, Long Beach, ME, photo 2 of 4",
+   "images/ME-0507-001.jpg": "CLEARVIEW LIMIT 6, Long Beach, ME, photo 3 of 4",
+   "images/ME-0507-002.jpg": "CLEARVIEW LIMIT 6, Long Beach, ME, photo 4 of 4",
+   "images/ME-0507-card.webp": "CLEARVIEW LIMIT 6, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0098",
@@ -688,7 +849,14 @@
   "lat": 43.813,
   "lng": -70.8772,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0098-cover.jpg": "Cottages at Oak Hill Farm, house in South Hiram, ME",
+   "images/ME-0098-000.jpg": "Cottages at Oak Hill Farm, South Hiram, ME, photo 2 of 4",
+   "images/ME-0098-001.jpg": "Cottages at Oak Hill Farm, South Hiram, ME, photo 3 of 4",
+   "images/ME-0098-002.jpg": "Cottages at Oak Hill Farm, South Hiram, ME, photo 4 of 4",
+   "images/ME-0098-card.webp": "Cottages at Oak Hill Farm, house in South Hiram, ME"
+  }
  },
  {
   "id": "ME-0589",
@@ -717,7 +885,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0589-cover.jpg": "COUPLES COTTAGE LIMIT 4, house in Sebago, ME",
+   "images/ME-0589-000.jpg": "COUPLES COTTAGE LIMIT 4, Sebago, ME, photo 2 of 4",
+   "images/ME-0589-001.jpg": "COUPLES COTTAGE LIMIT 4, Sebago, ME, photo 3 of 4",
+   "images/ME-0589-002.jpg": "COUPLES COTTAGE LIMIT 4, Sebago, ME, photo 4 of 4",
+   "images/ME-0589-card.webp": "COUPLES COTTAGE LIMIT 4, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0575",
@@ -746,7 +921,14 @@
   "lng": -70.60858,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0575-cover.jpg": "COVE OVERLOOK LIMIT 6, house in Ward'S Cove, ME",
+   "images/ME-0575-000.jpg": "COVE OVERLOOK LIMIT 6, Ward'S Cove, ME, photo 2 of 4",
+   "images/ME-0575-001.jpg": "COVE OVERLOOK LIMIT 6, Ward'S Cove, ME, photo 3 of 4",
+   "images/ME-0575-002.jpg": "COVE OVERLOOK LIMIT 6, Ward'S Cove, ME, photo 4 of 4",
+   "images/ME-0575-card.webp": "COVE OVERLOOK LIMIT 6, house in Ward'S Cove, ME"
+  }
  },
  {
   "id": "ME-0563",
@@ -775,7 +957,14 @@
   "lng": -70.6089,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0563-cover.jpg": "COZY COVE COTTAGE LIMIT 6, house in Ward'S Cove, ME",
+   "images/ME-0563-000.jpg": "COZY COVE COTTAGE LIMIT 6, Ward'S Cove, ME, photo 2 of 4",
+   "images/ME-0563-001.jpg": "COZY COVE COTTAGE LIMIT 6, Ward'S Cove, ME, photo 3 of 4",
+   "images/ME-0563-002.jpg": "COZY COVE COTTAGE LIMIT 6, Ward'S Cove, ME, photo 4 of 4",
+   "images/ME-0563-card.webp": "COZY COVE COTTAGE LIMIT 6, house in Ward'S Cove, ME"
+  }
  },
  {
   "id": "ME-0511",
@@ -804,7 +993,14 @@
   "lng": -70.55959,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0511-cover.jpg": "CROOKED RIVER COTTAGE LIMIT 5, house in Other, ME",
+   "images/ME-0511-000.jpg": "CROOKED RIVER COTTAGE LIMIT 5, Other, ME, photo 2 of 4",
+   "images/ME-0511-001.jpg": "CROOKED RIVER COTTAGE LIMIT 5, Other, ME, photo 3 of 4",
+   "images/ME-0511-002.jpg": "CROOKED RIVER COTTAGE LIMIT 5, Other, ME, photo 4 of 4",
+   "images/ME-0511-card.webp": "CROOKED RIVER COTTAGE LIMIT 5, house in Other, ME"
+  }
  },
  {
   "id": "ME-0545",
@@ -833,7 +1029,14 @@
   "lng": -70.61218,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0545-cover.jpg": "DAYBREAK LIMIT 8, house in Sebago, ME",
+   "images/ME-0545-000.jpg": "DAYBREAK LIMIT 8, Sebago, ME, photo 2 of 4",
+   "images/ME-0545-001.jpg": "DAYBREAK LIMIT 8, Sebago, ME, photo 3 of 4",
+   "images/ME-0545-002.jpg": "DAYBREAK LIMIT 8, Sebago, ME, photo 4 of 4",
+   "images/ME-0545-card.webp": "DAYBREAK LIMIT 8, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0559",
@@ -862,7 +1065,14 @@
   "lng": -70.65868,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0559-cover.jpg": "DECK HOUSE LIMIT 25, house in Harrison, ME",
+   "images/ME-0559-000.jpg": "DECK HOUSE LIMIT 25, Harrison, ME, photo 2 of 4",
+   "images/ME-0559-001.jpg": "DECK HOUSE LIMIT 25, Harrison, ME, photo 3 of 4",
+   "images/ME-0559-002.jpg": "DECK HOUSE LIMIT 25, Harrison, ME, photo 4 of 4",
+   "images/ME-0559-card.webp": "DECK HOUSE LIMIT 25, house in Harrison, ME"
+  }
  },
  {
   "id": "ME-0532",
@@ -891,7 +1101,14 @@
   "lng": -70.6217,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0532-cover.jpg": "DOCKSIDE RETREAT LIMIT 14, house in Sebago, ME",
+   "images/ME-0532-000.jpg": "DOCKSIDE RETREAT LIMIT 14, Sebago, ME, photo 2 of 4",
+   "images/ME-0532-001.jpg": "DOCKSIDE RETREAT LIMIT 14, Sebago, ME, photo 3 of 4",
+   "images/ME-0532-002.jpg": "DOCKSIDE RETREAT LIMIT 14, Sebago, ME, photo 4 of 4",
+   "images/ME-0532-card.webp": "DOCKSIDE RETREAT LIMIT 14, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0358",
@@ -919,7 +1136,14 @@
   "lat": 44.01712,
   "lng": -70.93288,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0358-cover.jpg": "Dreamland, house in Fryeburg, ME",
+   "images/ME-0358-000.jpg": "Dreamland, Fryeburg, ME, photo 2 of 4",
+   "images/ME-0358-001.jpg": "Dreamland, Fryeburg, ME, photo 3 of 4",
+   "images/ME-0358-002.jpg": "Dreamland, Fryeburg, ME, photo 4 of 4",
+   "images/ME-0358-card.webp": "Dreamland, house in Fryeburg, ME"
+  }
  },
  {
   "id": "ME-0595",
@@ -948,7 +1172,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0595-cover.jpg": "ESTATE HOUSE LIMIT 12, house in Sebago, ME",
+   "images/ME-0595-000.jpg": "ESTATE HOUSE LIMIT 12, Sebago, ME, photo 2 of 4",
+   "images/ME-0595-001.jpg": "ESTATE HOUSE LIMIT 12, Sebago, ME, photo 3 of 4",
+   "images/ME-0595-002.jpg": "ESTATE HOUSE LIMIT 12, Sebago, ME, photo 4 of 4",
+   "images/ME-0595-card.webp": "ESTATE HOUSE LIMIT 12, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0578",
@@ -977,7 +1208,14 @@
   "lng": -70.63397,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0578-cover.jpg": "EVA'S PLACE LIMIT 7, house in Western Shore (Off Route 114), ME",
+   "images/ME-0578-000.jpg": "EVA'S PLACE LIMIT 7, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0578-001.jpg": "EVA'S PLACE LIMIT 7, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0578-002.jpg": "EVA'S PLACE LIMIT 7, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0578-card.webp": "EVA'S PLACE LIMIT 7, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0590",
@@ -1006,7 +1244,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0590-cover.jpg": "FINCH LIMIT 4, house in Sebago, ME",
+   "images/ME-0590-000.jpg": "FINCH LIMIT 4, Sebago, ME, photo 2 of 4",
+   "images/ME-0590-001.jpg": "FINCH LIMIT 4, Sebago, ME, photo 3 of 4",
+   "images/ME-0590-002.jpg": "FINCH LIMIT 4, Sebago, ME, photo 4 of 4",
+   "images/ME-0590-card.webp": "FINCH LIMIT 4, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0519",
@@ -1035,7 +1280,14 @@
   "lng": -70.57976,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0519-cover.jpg": "FLETCHER LIMIT 8, house in Western Shore (Off Route 114), ME",
+   "images/ME-0519-000.jpg": "FLETCHER LIMIT 8, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0519-001.jpg": "FLETCHER LIMIT 8, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0519-002.jpg": "FLETCHER LIMIT 8, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0519-card.webp": "FLETCHER LIMIT 8, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0336",
@@ -1063,7 +1315,14 @@
   "lat": 44.05355,
   "lng": -70.71284,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0336-cover.jpg": "Fowler Farmhouse, house in Bridgton, ME",
+   "images/ME-0336-000.jpg": "Fowler Farmhouse, Bridgton, ME, photo 2 of 4",
+   "images/ME-0336-001.jpg": "Fowler Farmhouse, Bridgton, ME, photo 3 of 4",
+   "images/ME-0336-002.jpg": "Fowler Farmhouse, Bridgton, ME, photo 4 of 4",
+   "images/ME-0336-card.webp": "Fowler Farmhouse, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0503",
@@ -1092,7 +1351,14 @@
   "lng": -70.63116,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0503-cover.jpg": "FRIENDLY INN LIMIT 5, house in Sebago, ME",
+   "images/ME-0503-000.jpg": "FRIENDLY INN LIMIT 5, Sebago, ME, photo 2 of 4",
+   "images/ME-0503-001.jpg": "FRIENDLY INN LIMIT 5, Sebago, ME, photo 3 of 4",
+   "images/ME-0503-002.jpg": "FRIENDLY INN LIMIT 5, Sebago, ME, photo 4 of 4",
+   "images/ME-0503-card.webp": "FRIENDLY INN LIMIT 5, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0581",
@@ -1121,7 +1387,14 @@
   "lng": -70.71355,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0581-cover.jpg": "GAGE FARMHOUSE LIMIT 6, house in Bridgton, ME",
+   "images/ME-0581-000.jpg": "GAGE FARMHOUSE LIMIT 6, Bridgton, ME, photo 2 of 4",
+   "images/ME-0581-001.jpg": "GAGE FARMHOUSE LIMIT 6, Bridgton, ME, photo 3 of 4",
+   "images/ME-0581-002.jpg": "GAGE FARMHOUSE LIMIT 6, Bridgton, ME, photo 4 of 4",
+   "images/ME-0581-card.webp": "GAGE FARMHOUSE LIMIT 6, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0516",
@@ -1150,7 +1423,14 @@
   "lng": -70.81932,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0516-cover.jpg": "GOOD TIMES CHALET LIMIT 19, house in Bridgton, ME",
+   "images/ME-0516-000.jpg": "GOOD TIMES CHALET LIMIT 19, Bridgton, ME, photo 2 of 4",
+   "images/ME-0516-001.jpg": "GOOD TIMES CHALET LIMIT 19, Bridgton, ME, photo 3 of 4",
+   "images/ME-0516-002.jpg": "GOOD TIMES CHALET LIMIT 19, Bridgton, ME, photo 4 of 4",
+   "images/ME-0516-card.webp": "GOOD TIMES CHALET LIMIT 19, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0353",
@@ -1178,7 +1458,14 @@
   "lat": 44.00467,
   "lng": -70.94133,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0353-cover.jpg": "Gorgeous Family Lakefront Cabin, cabin in Fryeburg, ME",
+   "images/ME-0353-000.jpg": "Gorgeous Family Lakefront Cabin, Fryeburg, ME, photo 2 of 4",
+   "images/ME-0353-001.jpg": "Gorgeous Family Lakefront Cabin, Fryeburg, ME, photo 3 of 4",
+   "images/ME-0353-002.jpg": "Gorgeous Family Lakefront Cabin, Fryeburg, ME, photo 4 of 4",
+   "images/ME-0353-card.webp": "Gorgeous Family Lakefront Cabin, cabin in Fryeburg, ME"
+  }
  },
  {
   "id": "ME-0497",
@@ -1207,7 +1494,14 @@
   "lng": -70.61169,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0497-cover.jpg": "GREENS LIMIT 6, house in Sebago, ME",
+   "images/ME-0497-000.jpg": "GREENS LIMIT 6, Sebago, ME, photo 2 of 4",
+   "images/ME-0497-001.jpg": "GREENS LIMIT 6, Sebago, ME, photo 3 of 4",
+   "images/ME-0497-002.jpg": "GREENS LIMIT 6, Sebago, ME, photo 4 of 4",
+   "images/ME-0497-card.webp": "GREENS LIMIT 6, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0496",
@@ -1236,7 +1530,14 @@
   "lng": -70.63294,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0496-cover.jpg": "HALL'S HOUSE- LIMIT 8, house in Western Shore (Off Route 114), ME",
+   "images/ME-0496-000.jpg": "HALL'S HOUSE- LIMIT 8, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0496-001.jpg": "HALL'S HOUSE- LIMIT 8, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0496-002.jpg": "HALL'S HOUSE- LIMIT 8, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0496-card.webp": "HALL'S HOUSE- LIMIT 8, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0500",
@@ -1265,7 +1566,14 @@
   "lng": -70.5491,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0500-cover.jpg": "HARMON'S BEACH LIMIT 5, house in Harmon'S Beach, ME",
+   "images/ME-0500-000.jpg": "HARMON'S BEACH LIMIT 5, Harmon'S Beach, ME, photo 2 of 4",
+   "images/ME-0500-001.jpg": "HARMON'S BEACH LIMIT 5, Harmon'S Beach, ME, photo 3 of 4",
+   "images/ME-0500-002.jpg": "HARMON'S BEACH LIMIT 5, Harmon'S Beach, ME, photo 4 of 4",
+   "images/ME-0500-card.webp": "HARMON'S BEACH LIMIT 5, house in Harmon'S Beach, ME"
+  }
  },
  {
   "id": "ME-0512",
@@ -1294,7 +1602,14 @@
   "lng": -70.61021,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0512-cover.jpg": "HATE TO LEAVE IT LIMIT 6, house in Ward'S Cove, ME",
+   "images/ME-0512-000.jpg": "HATE TO LEAVE IT LIMIT 6, Ward'S Cove, ME, photo 2 of 4",
+   "images/ME-0512-001.jpg": "HATE TO LEAVE IT LIMIT 6, Ward'S Cove, ME, photo 3 of 4",
+   "images/ME-0512-002.jpg": "HATE TO LEAVE IT LIMIT 6, Ward'S Cove, ME, photo 4 of 4",
+   "images/ME-0512-card.webp": "HATE TO LEAVE IT LIMIT 6, house in Ward'S Cove, ME"
+  }
  },
  {
   "id": "ME-0513",
@@ -1323,7 +1638,14 @@
   "lng": -70.74284,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0513-cover.jpg": "HIGHLAND HOLIDAY LIMIT 7-10, house in Bridgton, ME",
+   "images/ME-0513-000.jpg": "HIGHLAND HOLIDAY LIMIT 7-10, Bridgton, ME, photo 2 of 4",
+   "images/ME-0513-001.jpg": "HIGHLAND HOLIDAY LIMIT 7-10, Bridgton, ME, photo 3 of 4",
+   "images/ME-0513-002.jpg": "HIGHLAND HOLIDAY LIMIT 7-10, Bridgton, ME, photo 4 of 4",
+   "images/ME-0513-card.webp": "HIGHLAND HOLIDAY LIMIT 7-10, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0075",
@@ -1351,7 +1673,14 @@
   "lat": 44.21245,
   "lng": -70.57611,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0075-cover.webp": "Hillside Cottages, house in Norway, ME",
+   "images/ME-0075-000.webp": "Hillside Cottages, Norway, ME, photo 2 of 4",
+   "images/ME-0075-001.webp": "Hillside Cottages, Norway, ME, photo 3 of 4",
+   "images/ME-0075-002.webp": "Hillside Cottages, Norway, ME, photo 4 of 4",
+   "images/ME-0075-card.webp": "Hillside Cottages, house in Norway, ME"
+  }
  },
  {
   "id": "ME-0544",
@@ -1380,7 +1709,14 @@
   "lng": -70.61569,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0544-cover.jpg": "HOLIDAY COVE - LIMIT 8, house in Sebago Cove, ME",
+   "images/ME-0544-000.jpg": "HOLIDAY COVE - LIMIT 8, Sebago Cove, ME, photo 2 of 4",
+   "images/ME-0544-001.jpg": "HOLIDAY COVE - LIMIT 8, Sebago Cove, ME, photo 3 of 4",
+   "images/ME-0544-002.jpg": "HOLIDAY COVE - LIMIT 8, Sebago Cove, ME, photo 4 of 4",
+   "images/ME-0544-card.webp": "HOLIDAY COVE - LIMIT 8, house in Sebago Cove, ME"
+  }
  },
  {
   "id": "ME-0584",
@@ -1409,7 +1745,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0584-cover.jpg": "HUMMINGBIRD LIMIT 3, house in Sebago, ME",
+   "images/ME-0584-000.jpg": "HUMMINGBIRD LIMIT 3, Sebago, ME, photo 2 of 4",
+   "images/ME-0584-001.jpg": "HUMMINGBIRD LIMIT 3, Sebago, ME, photo 3 of 4",
+   "images/ME-0584-002.jpg": "HUMMINGBIRD LIMIT 3, Sebago, ME, photo 4 of 4",
+   "images/ME-0584-card.webp": "HUMMINGBIRD LIMIT 3, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0213",
@@ -1437,7 +1780,14 @@
   "lat": 44.24977,
   "lng": -70.81076,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0213-cover.avif": "In the Trees Maine, Stoneham, ME",
+   "images/ME-0213-000.avif": "In the Trees Maine, Stoneham, ME, photo 2 of 4",
+   "images/ME-0213-001.avif": "In the Trees Maine, Stoneham, ME, photo 3 of 4",
+   "images/ME-0213-002.avif": "In the Trees Maine, Stoneham, ME, photo 4 of 4",
+   "images/ME-0213-card.webp": "In the Trees Maine, Stoneham, ME"
+  }
  },
  {
   "id": "ME-0506",
@@ -1466,7 +1816,14 @@
   "lng": -70.62151,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0506-cover.jpg": "JANE LIMIT 4, house in Long Beach, ME",
+   "images/ME-0506-000.jpg": "JANE LIMIT 4, Long Beach, ME, photo 2 of 4",
+   "images/ME-0506-001.jpg": "JANE LIMIT 4, Long Beach, ME, photo 3 of 4",
+   "images/ME-0506-002.jpg": "JANE LIMIT 4, Long Beach, ME, photo 4 of 4",
+   "images/ME-0506-card.webp": "JANE LIMIT 4, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0534",
@@ -1495,7 +1852,14 @@
   "lng": -70.48002,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0534-cover.jpg": "JORDAN BAY GETAWAY LIMIT 8, house in Jordan Bay, ME",
+   "images/ME-0534-000.jpg": "JORDAN BAY GETAWAY LIMIT 8, Jordan Bay, ME, photo 2 of 4",
+   "images/ME-0534-001.jpg": "JORDAN BAY GETAWAY LIMIT 8, Jordan Bay, ME, photo 3 of 4",
+   "images/ME-0534-002.jpg": "JORDAN BAY GETAWAY LIMIT 8, Jordan Bay, ME, photo 4 of 4",
+   "images/ME-0534-card.webp": "JORDAN BAY GETAWAY LIMIT 8, house in Jordan Bay, ME"
+  }
  },
  {
   "id": "ME-0547",
@@ -1524,7 +1888,14 @@
   "lng": -70.62032,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0547-cover.jpg": "JOYFULL CAMP LIMIT 10, camp in Sebago Cove, ME",
+   "images/ME-0547-000.jpg": "JOYFULL CAMP LIMIT 10, Sebago Cove, ME, photo 2 of 4",
+   "images/ME-0547-001.jpg": "JOYFULL CAMP LIMIT 10, Sebago Cove, ME, photo 3 of 4",
+   "images/ME-0547-002.jpg": "JOYFULL CAMP LIMIT 10, Sebago Cove, ME, photo 4 of 4",
+   "images/ME-0547-card.webp": "JOYFULL CAMP LIMIT 10, camp in Sebago Cove, ME"
+  }
  },
  {
   "id": "ME-0594",
@@ -1553,7 +1924,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0594-cover.jpg": "JUNCO LIMIT 4, house in Sebago, ME",
+   "images/ME-0594-000.jpg": "JUNCO LIMIT 4, Sebago, ME, photo 2 of 4",
+   "images/ME-0594-001.jpg": "JUNCO LIMIT 4, Sebago, ME, photo 3 of 4",
+   "images/ME-0594-002.jpg": "JUNCO LIMIT 4, Sebago, ME, photo 4 of 4",
+   "images/ME-0594-card.webp": "JUNCO LIMIT 4, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0524",
@@ -1582,7 +1960,14 @@
   "lng": -70.62587,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0524-cover.jpg": "KENDALL COTTAGE LIMIT 6, house in Long Beach, ME",
+   "images/ME-0524-000.jpg": "KENDALL COTTAGE LIMIT 6, Long Beach, ME, photo 2 of 4",
+   "images/ME-0524-001.jpg": "KENDALL COTTAGE LIMIT 6, Long Beach, ME, photo 3 of 4",
+   "images/ME-0524-002.jpg": "KENDALL COTTAGE LIMIT 6, Long Beach, ME, photo 4 of 4",
+   "images/ME-0524-card.webp": "KENDALL COTTAGE LIMIT 6, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0277",
@@ -1610,7 +1995,14 @@
   "lat": 43.9145,
   "lng": -70.5181,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0277-cover.jpg": "Krainin Real Estate Vacation Rentals, South Casco, ME",
+   "images/ME-0277-000.jpg": "Krainin Real Estate Vacation Rentals, South Casco, ME, photo 2 of 4",
+   "images/ME-0277-001.jpg": "Krainin Real Estate Vacation Rentals, South Casco, ME, photo 3 of 4",
+   "images/ME-0277-002.jpg": "Krainin Real Estate Vacation Rentals, South Casco, ME, photo 4 of 4",
+   "images/ME-0277-card.webp": "Krainin Real Estate Vacation Rentals, South Casco, ME"
+  }
  },
  {
   "id": "ME-0567",
@@ -1639,7 +2031,14 @@
   "lng": -70.62245,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0567-cover.jpg": "LAKEVIEW BLISS LIMIT 8, house in Sebago Cove, ME",
+   "images/ME-0567-000.jpg": "LAKEVIEW BLISS LIMIT 8, Sebago Cove, ME, photo 2 of 4",
+   "images/ME-0567-001.jpg": "LAKEVIEW BLISS LIMIT 8, Sebago Cove, ME, photo 3 of 4",
+   "images/ME-0567-002.jpg": "LAKEVIEW BLISS LIMIT 8, Sebago Cove, ME, photo 4 of 4",
+   "images/ME-0567-card.webp": "LAKEVIEW BLISS LIMIT 8, house in Sebago Cove, ME"
+  }
  },
  {
   "id": "ME-0556",
@@ -1668,7 +2067,14 @@
   "lng": -70.627045,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0556-cover.jpg": "LILY OF THE VALLEY LIMIT 6, house in Long Beach, ME",
+   "images/ME-0556-000.jpg": "LILY OF THE VALLEY LIMIT 6, Long Beach, ME, photo 2 of 4",
+   "images/ME-0556-001.jpg": "LILY OF THE VALLEY LIMIT 6, Long Beach, ME, photo 3 of 4",
+   "images/ME-0556-002.jpg": "LILY OF THE VALLEY LIMIT 6, Long Beach, ME, photo 4 of 4",
+   "images/ME-0556-card.webp": "LILY OF THE VALLEY LIMIT 6, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0508",
@@ -1697,7 +2103,14 @@
   "lng": -70.548904,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0508-cover.jpg": "LIMBERLOST LIMIT 5, house in Harmon'S Beach, ME",
+   "images/ME-0508-000.jpg": "LIMBERLOST LIMIT 5, Harmon'S Beach, ME, photo 2 of 4",
+   "images/ME-0508-001.jpg": "LIMBERLOST LIMIT 5, Harmon'S Beach, ME, photo 3 of 4",
+   "images/ME-0508-002.jpg": "LIMBERLOST LIMIT 5, Harmon'S Beach, ME, photo 4 of 4",
+   "images/ME-0508-card.webp": "LIMBERLOST LIMIT 5, house in Harmon'S Beach, ME"
+  }
  },
  {
   "id": "ME-0583",
@@ -1726,7 +2139,14 @@
   "lng": -70.732285,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0583-cover.jpg": "LITTLE PICK LIMIT 6, house in Other, ME",
+   "images/ME-0583-000.jpg": "LITTLE PICK LIMIT 6, Other, ME, photo 2 of 4",
+   "images/ME-0583-001.jpg": "LITTLE PICK LIMIT 6, Other, ME, photo 3 of 4",
+   "images/ME-0583-002.jpg": "LITTLE PICK LIMIT 6, Other, ME, photo 4 of 4",
+   "images/ME-0583-card.webp": "LITTLE PICK LIMIT 6, house in Other, ME"
+  }
  },
  {
   "id": "ME-0501",
@@ -1755,7 +2175,14 @@
   "lng": -70.621185,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0501-cover.jpg": "LITTLE SANDY-LIMIT 8, house in Sebago, ME",
+   "images/ME-0501-000.jpg": "LITTLE SANDY-LIMIT 8, Sebago, ME, photo 2 of 4",
+   "images/ME-0501-001.jpg": "LITTLE SANDY-LIMIT 8, Sebago, ME, photo 3 of 4",
+   "images/ME-0501-002.jpg": "LITTLE SANDY-LIMIT 8, Sebago, ME, photo 4 of 4",
+   "images/ME-0501-card.webp": "LITTLE SANDY-LIMIT 8, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0337",
@@ -1783,7 +2210,14 @@
   "lat": 44.06133,
   "lng": -70.684,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0337-cover.jpg": "Long Lake Oasis, house in Bridgton, ME",
+   "images/ME-0337-000.jpg": "Long Lake Oasis, Bridgton, ME, photo 2 of 4",
+   "images/ME-0337-001.jpg": "Long Lake Oasis, Bridgton, ME, photo 3 of 4",
+   "images/ME-0337-002.jpg": "Long Lake Oasis, Bridgton, ME, photo 4 of 4",
+   "images/ME-0337-card.webp": "Long Lake Oasis, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0546",
@@ -1812,7 +2246,14 @@
   "lng": -70.50343,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0546-cover.jpg": "LOON COVE LIMIT 16, house in Raymond, ME",
+   "images/ME-0546-000.jpg": "LOON COVE LIMIT 16, Raymond, ME, photo 2 of 4",
+   "images/ME-0546-001.jpg": "LOON COVE LIMIT 16, Raymond, ME, photo 3 of 4",
+   "images/ME-0546-002.jpg": "LOON COVE LIMIT 16, Raymond, ME, photo 4 of 4",
+   "images/ME-0546-card.webp": "LOON COVE LIMIT 16, house in Raymond, ME"
+  }
  },
  {
   "id": "ME-0518",
@@ -1841,7 +2282,14 @@
   "lng": -70.60882,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0518-cover.jpg": "LOON LODGE LIMIT 8, house in Ward'S Cove, ME",
+   "images/ME-0518-000.jpg": "LOON LODGE LIMIT 8, Ward'S Cove, ME, photo 2 of 4",
+   "images/ME-0518-001.jpg": "LOON LODGE LIMIT 8, Ward'S Cove, ME, photo 3 of 4",
+   "images/ME-0518-002.jpg": "LOON LODGE LIMIT 8, Ward'S Cove, ME, photo 4 of 4",
+   "images/ME-0518-card.webp": "LOON LODGE LIMIT 8, house in Ward'S Cove, ME"
+  }
  },
  {
   "id": "ME-0204",
@@ -1869,7 +2317,14 @@
   "lat": 43.8456,
   "lng": -70.5795,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0204-cover.jpg": "Loons Landing, Sebago Lake, ME",
+   "images/ME-0204-000.jpg": "Loons Landing, Sebago Lake, ME, photo 2 of 4",
+   "images/ME-0204-001.jpg": "Loons Landing, Sebago Lake, ME, photo 3 of 4",
+   "images/ME-0204-002.jpg": "Loons Landing, Sebago Lake, ME, photo 4 of 4",
+   "images/ME-0204-card.webp": "Loons Landing, Sebago Lake, ME"
+  }
  },
  {
   "id": "ME-0572",
@@ -1898,7 +2353,14 @@
   "lng": -70.59836,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0572-cover.jpg": "LOONS VIEW LIMIT 20, house in Naples, ME",
+   "images/ME-0572-000.jpg": "LOONS VIEW LIMIT 20, Naples, ME, photo 2 of 4",
+   "images/ME-0572-001.jpg": "LOONS VIEW LIMIT 20, Naples, ME, photo 3 of 4",
+   "images/ME-0572-002.jpg": "LOONS VIEW LIMIT 20, Naples, ME, photo 4 of 4",
+   "images/ME-0572-card.webp": "LOONS VIEW LIMIT 20, house in Naples, ME"
+  }
  },
  {
   "id": "ME-0570",
@@ -1927,7 +2389,14 @@
   "lng": -70.56266,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0570-cover.jpg": "MACKINNEY CAMP - LIMIT 8, camp in Western Shore (Off Route 114), ME",
+   "images/ME-0570-000.jpg": "MACKINNEY CAMP - LIMIT 8, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0570-001.jpg": "MACKINNEY CAMP - LIMIT 8, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0570-002.jpg": "MACKINNEY CAMP - LIMIT 8, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0570-card.webp": "MACKINNEY CAMP - LIMIT 8, camp in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0147",
@@ -1955,7 +2424,14 @@
   "lat": 43.92431,
   "lng": -70.45188,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0147-cover.jpg": "Maine Lakes Vacations, Casco / Raymond, ME",
+   "images/ME-0147-000.jpg": "Maine Lakes Vacations, Casco / Raymond, ME, photo 2 of 4",
+   "images/ME-0147-001.jpg": "Maine Lakes Vacations, Casco / Raymond, ME, photo 3 of 4",
+   "images/ME-0147-002.jpg": "Maine Lakes Vacations, Casco / Raymond, ME, photo 4 of 4",
+   "images/ME-0147-card.webp": "Maine Lakes Vacations, Casco / Raymond, ME"
+  }
  },
  {
   "id": "ME-0527",
@@ -1984,7 +2460,14 @@
   "lng": -70.7583,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0527-cover.jpg": "MAINE PINES LMIT 8, house in Other, ME",
+   "images/ME-0527-000.jpg": "MAINE PINES LMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0527-001.jpg": "MAINE PINES LMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0527-002.jpg": "MAINE PINES LMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0527-card.webp": "MAINE PINES LMIT 8, house in Other, ME"
+  }
  },
  {
   "id": "ME-0549",
@@ -2013,7 +2496,14 @@
   "lng": -70.62287,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0549-cover.jpg": "MAINE STAY LAKE HOUSE-LIMIT12, house in Long Beach, ME",
+   "images/ME-0549-000.jpg": "MAINE STAY LAKE HOUSE-LIMIT12, Long Beach, ME, photo 2 of 4",
+   "images/ME-0549-001.jpg": "MAINE STAY LAKE HOUSE-LIMIT12, Long Beach, ME, photo 3 of 4",
+   "images/ME-0549-002.jpg": "MAINE STAY LAKE HOUSE-LIMIT12, Long Beach, ME, photo 4 of 4",
+   "images/ME-0549-card.webp": "MAINE STAY LAKE HOUSE-LIMIT12, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0069",
@@ -2041,7 +2531,14 @@
   "lat": 44.25232,
   "lng": -70.33311,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0069-cover.webp": "Mainely Cabins, cabin in Multiple Maine locations, ME",
+   "images/ME-0069-000.avif": "Mainely Cabins, Multiple Maine locations, ME, photo 2 of 4",
+   "images/ME-0069-001.avif": "Mainely Cabins, Multiple Maine locations, ME, photo 3 of 4",
+   "images/ME-0069-002.avif": "Mainely Cabins, Multiple Maine locations, ME, photo 4 of 4",
+   "images/ME-0069-card.webp": "Mainely Cabins, cabin in Multiple Maine locations, ME"
+  }
  },
  {
   "id": "ME-0558",
@@ -2070,7 +2567,14 @@
   "lng": -70.63586,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0558-cover.jpg": "MARY'S LAKEVIEW - LIMIT 10, house in Sebago, ME",
+   "images/ME-0558-000.jpg": "MARY'S LAKEVIEW - LIMIT 10, Sebago, ME, photo 2 of 4",
+   "images/ME-0558-001.jpg": "MARY'S LAKEVIEW - LIMIT 10, Sebago, ME, photo 3 of 4",
+   "images/ME-0558-002.jpg": "MARY'S LAKEVIEW - LIMIT 10, Sebago, ME, photo 4 of 4",
+   "images/ME-0558-card.webp": "MARY'S LAKEVIEW - LIMIT 10, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0341",
@@ -2098,7 +2602,14 @@
   "lat": 44.02088,
   "lng": -70.86051,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0341-cover.jpg": "MOOSE CABIN, cabin in Denmark, ME",
+   "images/ME-0341-000.jpg": "MOOSE CABIN, Denmark, ME, photo 2 of 4",
+   "images/ME-0341-001.jpg": "MOOSE CABIN, Denmark, ME, photo 3 of 4",
+   "images/ME-0341-002.jpg": "MOOSE CABIN, Denmark, ME, photo 4 of 4",
+   "images/ME-0341-card.webp": "MOOSE CABIN, cabin in Denmark, ME"
+  }
  },
  {
   "id": "ME-0525",
@@ -2127,7 +2638,14 @@
   "lng": -70.69393,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0525-cover.jpg": "MOOSEY ON INN LIMIT 8, house in Other, ME",
+   "images/ME-0525-000.jpg": "MOOSEY ON INN LIMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0525-001.jpg": "MOOSEY ON INN LIMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0525-002.jpg": "MOOSEY ON INN LIMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0525-card.webp": "MOOSEY ON INN LIMIT 8, house in Other, ME"
+  }
  },
  {
   "id": "ME-0540",
@@ -2156,7 +2674,14 @@
   "lng": -70.63368,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0540-cover.jpg": "NORTHWEST EAGLE NEST LIMIT 9, house in Western Shore (Off Route 114), ME",
+   "images/ME-0540-000.jpg": "NORTHWEST EAGLE NEST LIMIT 9, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0540-001.jpg": "NORTHWEST EAGLE NEST LIMIT 9, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0540-002.jpg": "NORTHWEST EAGLE NEST LIMIT 9, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0540-card.webp": "NORTHWEST EAGLE NEST LIMIT 9, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0029",
@@ -2184,7 +2709,14 @@
   "lat": 44.0238,
   "lng": -70.85242,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0029-cover.webp": "Nurture Through Nature Retreats, Denmark, ME",
+   "images/ME-0029-000.webp": "Nurture Through Nature Retreats, Denmark, ME, photo 2 of 4",
+   "images/ME-0029-001.webp": "Nurture Through Nature Retreats, Denmark, ME, photo 3 of 4",
+   "images/ME-0029-002.webp": "Nurture Through Nature Retreats, Denmark, ME, photo 4 of 4",
+   "images/ME-0029-card.webp": "Nurture Through Nature Retreats, Denmark, ME"
+  }
  },
  {
   "id": "ME-0592",
@@ -2213,7 +2745,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0592-cover.jpg": "NUTHATCH LIMIT 4, house in Sebago, ME",
+   "images/ME-0592-000.jpg": "NUTHATCH LIMIT 4, Sebago, ME, photo 2 of 4",
+   "images/ME-0592-001.jpg": "NUTHATCH LIMIT 4, Sebago, ME, photo 3 of 4",
+   "images/ME-0592-002.jpg": "NUTHATCH LIMIT 4, Sebago, ME, photo 4 of 4",
+   "images/ME-0592-card.webp": "NUTHATCH LIMIT 4, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0355",
@@ -2241,7 +2780,14 @@
   "lat": 44.05355,
   "lng": -70.92718,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0355-cover.jpg": "October Farm, house in Fryeburg, ME",
+   "images/ME-0355-000.jpg": "October Farm, Fryeburg, ME, photo 2 of 4",
+   "images/ME-0355-001.jpg": "October Farm, Fryeburg, ME, photo 3 of 4",
+   "images/ME-0355-002.jpg": "October Farm, Fryeburg, ME, photo 4 of 4",
+   "images/ME-0355-card.webp": "October Farm, house in Fryeburg, ME"
+  }
  },
  {
   "id": "ME-0577",
@@ -2270,7 +2816,14 @@
   "lng": -70.62156,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0577-cover.jpg": "OSSIPEE WOOD 2 LIMIT 4, house in Long Beach, ME",
+   "images/ME-0577-000.jpg": "OSSIPEE WOOD 2 LIMIT 4, Long Beach, ME, photo 2 of 4",
+   "images/ME-0577-001.jpg": "OSSIPEE WOOD 2 LIMIT 4, Long Beach, ME, photo 3 of 4",
+   "images/ME-0577-002.jpg": "OSSIPEE WOOD 2 LIMIT 4, Long Beach, ME, photo 4 of 4",
+   "images/ME-0577-card.webp": "OSSIPEE WOOD 2 LIMIT 4, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0505",
@@ -2299,7 +2852,14 @@
   "lng": -70.62346,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0505-cover.jpg": "OSSIPEE WOOD 3 - LMT 4, house in Long Beach, ME",
+   "images/ME-0505-000.jpg": "OSSIPEE WOOD 3 - LMT 4, Long Beach, ME, photo 2 of 4",
+   "images/ME-0505-001.jpg": "OSSIPEE WOOD 3 - LMT 4, Long Beach, ME, photo 3 of 4",
+   "images/ME-0505-002.jpg": "OSSIPEE WOOD 3 - LMT 4, Long Beach, ME, photo 4 of 4",
+   "images/ME-0505-card.webp": "OSSIPEE WOOD 3 - LMT 4, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0564",
@@ -2328,7 +2888,14 @@
   "lng": -70.54743,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0564-cover.jpg": "PARADISE POINT LIMIT 10, house in Kettle Cove, ME",
+   "images/ME-0564-000.jpg": "PARADISE POINT LIMIT 10, Kettle Cove, ME, photo 2 of 4",
+   "images/ME-0564-001.jpg": "PARADISE POINT LIMIT 10, Kettle Cove, ME, photo 3 of 4",
+   "images/ME-0564-002.jpg": "PARADISE POINT LIMIT 10, Kettle Cove, ME, photo 4 of 4",
+   "images/ME-0564-card.webp": "PARADISE POINT LIMIT 10, house in Kettle Cove, ME"
+  }
  },
  {
   "id": "ME-0522",
@@ -2357,7 +2924,14 @@
   "lng": -70.626785,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0522-cover.jpg": "PATTI ANNE LIMIT 4, house in Long Beach, ME",
+   "images/ME-0522-000.jpg": "PATTI ANNE LIMIT 4, Long Beach, ME, photo 2 of 4",
+   "images/ME-0522-001.jpg": "PATTI ANNE LIMIT 4, Long Beach, ME, photo 3 of 4",
+   "images/ME-0522-002.jpg": "PATTI ANNE LIMIT 4, Long Beach, ME, photo 4 of 4",
+   "images/ME-0522-card.webp": "PATTI ANNE LIMIT 4, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0538",
@@ -2386,7 +2960,14 @@
   "lng": -70.74217,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0538-cover.jpg": "PERLEY POND LODGE LIMIT 14, house in Other, ME",
+   "images/ME-0538-000.jpg": "PERLEY POND LODGE LIMIT 14, Other, ME, photo 2 of 4",
+   "images/ME-0538-001.jpg": "PERLEY POND LODGE LIMIT 14, Other, ME, photo 3 of 4",
+   "images/ME-0538-002.jpg": "PERLEY POND LODGE LIMIT 14, Other, ME, photo 4 of 4",
+   "images/ME-0538-card.webp": "PERLEY POND LODGE LIMIT 14, house in Other, ME"
+  }
  },
  {
   "id": "ME-0586",
@@ -2415,7 +2996,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0586-cover.jpg": "PHOEBE LIMIT 3, house in Sebago, ME",
+   "images/ME-0586-000.jpg": "PHOEBE LIMIT 3, Sebago, ME, photo 2 of 4",
+   "images/ME-0586-001.jpg": "PHOEBE LIMIT 3, Sebago, ME, photo 3 of 4",
+   "images/ME-0586-002.jpg": "PHOEBE LIMIT 3, Sebago, ME, photo 4 of 4",
+   "images/ME-0586-card.webp": "PHOEBE LIMIT 3, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0338",
@@ -2443,7 +3031,14 @@
   "lat": 44.09345,
   "lng": -70.84102,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0338-cover.jpg": "Pine Haven, house in Sweden, ME",
+   "images/ME-0338-000.jpg": "Pine Haven, Sweden, ME, photo 2 of 4",
+   "images/ME-0338-001.jpg": "Pine Haven, Sweden, ME, photo 3 of 4",
+   "images/ME-0338-002.jpg": "Pine Haven, Sweden, ME, photo 4 of 4",
+   "images/ME-0338-card.webp": "Pine Haven, house in Sweden, ME"
+  }
  },
  {
   "id": "ME-0580",
@@ -2472,7 +3067,14 @@
   "lng": -70.63361,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0580-cover.jpg": "PINE TREE COTTAGE LIMIT 5, house in Western Shore (Off Route 114), ME",
+   "images/ME-0580-000.jpg": "PINE TREE COTTAGE LIMIT 5, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0580-001.jpg": "PINE TREE COTTAGE LIMIT 5, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0580-002.jpg": "PINE TREE COTTAGE LIMIT 5, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0580-card.webp": "PINE TREE COTTAGE LIMIT 5, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0178",
@@ -2500,7 +3102,14 @@
   "lat": "Unknown",
   "lng": "Unknown",
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0178-cover.jpg": "Pine Tree Stays, Maine lake region, ME",
+   "images/ME-0178-000.jpg": "Pine Tree Stays, Maine lake region, ME, photo 2 of 4",
+   "images/ME-0178-001.jpg": "Pine Tree Stays, Maine lake region, ME, photo 3 of 4",
+   "images/ME-0178-002.jpg": "Pine Tree Stays, Maine lake region, ME, photo 4 of 4",
+   "images/ME-0178-card.webp": "Pine Tree Stays, Maine lake region, ME"
+  }
  },
  {
   "id": "ME-0552",
@@ -2529,7 +3138,14 @@
   "lng": -70.61691,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0552-cover.jpg": "PINEWOOD LIMIT 6, house in Western Shore (Off Route 114), ME",
+   "images/ME-0552-000.jpg": "PINEWOOD LIMIT 6, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0552-001.jpg": "PINEWOOD LIMIT 6, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0552-002.jpg": "PINEWOOD LIMIT 6, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0552-card.webp": "PINEWOOD LIMIT 6, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0562",
@@ -2558,7 +3174,14 @@
   "lng": -70.61708,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0562-cover.jpg": "PIONEER LIMIT 6, house in Western Shore (Off Route 114), ME",
+   "images/ME-0562-000.jpg": "PIONEER LIMIT 6, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0562-001.jpg": "PIONEER LIMIT 6, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0562-002.jpg": "PIONEER LIMIT 6, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0562-card.webp": "PIONEER LIMIT 6, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0530",
@@ -2587,7 +3210,14 @@
   "lng": -70.50235,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0530-cover.jpg": "PIPER PINES LIMIT 10, house in Other, ME",
+   "images/ME-0530-000.jpg": "PIPER PINES LIMIT 10, Other, ME, photo 2 of 4",
+   "images/ME-0530-001.jpg": "PIPER PINES LIMIT 10, Other, ME, photo 3 of 4",
+   "images/ME-0530-002.jpg": "PIPER PINES LIMIT 10, Other, ME, photo 4 of 4",
+   "images/ME-0530-card.webp": "PIPER PINES LIMIT 10, house in Other, ME"
+  }
  },
  {
   "id": "ME-0499",
@@ -2616,7 +3246,14 @@
   "lng": -70.61806,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0499-cover.jpg": "PLACYD PINES LIMIT 8, house in Sebago, ME",
+   "images/ME-0499-000.jpg": "PLACYD PINES LIMIT 8, Sebago, ME, photo 2 of 4",
+   "images/ME-0499-001.jpg": "PLACYD PINES LIMIT 8, Sebago, ME, photo 3 of 4",
+   "images/ME-0499-002.jpg": "PLACYD PINES LIMIT 8, Sebago, ME, photo 4 of 4",
+   "images/ME-0499-card.webp": "PLACYD PINES LIMIT 8, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0523",
@@ -2645,7 +3282,14 @@
   "lng": -70.74981,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0523-cover.jpg": "POND SIDE GETAWAY LIMIT 6, house in Other, ME",
+   "images/ME-0523-000.jpg": "POND SIDE GETAWAY LIMIT 6, Other, ME, photo 2 of 4",
+   "images/ME-0523-001.jpg": "POND SIDE GETAWAY LIMIT 6, Other, ME, photo 3 of 4",
+   "images/ME-0523-002.jpg": "POND SIDE GETAWAY LIMIT 6, Other, ME, photo 4 of 4",
+   "images/ME-0523-card.webp": "POND SIDE GETAWAY LIMIT 6, house in Other, ME"
+  }
  },
  {
   "id": "ME-0509",
@@ -2674,7 +3318,14 @@
   "lng": -70.58303,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0509-cover.jpg": "RESTAWHILE LIMIT 6, house in Western Shore (Off Route 114), ME",
+   "images/ME-0509-000.jpg": "RESTAWHILE LIMIT 6, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0509-001.jpg": "RESTAWHILE LIMIT 6, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0509-002.jpg": "RESTAWHILE LIMIT 6, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0509-card.webp": "RESTAWHILE LIMIT 6, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0588",
@@ -2703,7 +3354,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0588-cover.jpg": "ROBIN LIMIT 3, house in Sebago, ME",
+   "images/ME-0588-000.jpg": "ROBIN LIMIT 3, Sebago, ME, photo 2 of 4",
+   "images/ME-0588-001.jpg": "ROBIN LIMIT 3, Sebago, ME, photo 3 of 4",
+   "images/ME-0588-002.jpg": "ROBIN LIMIT 3, Sebago, ME, photo 4 of 4",
+   "images/ME-0588-card.webp": "ROBIN LIMIT 3, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0529",
@@ -2732,7 +3390,14 @@
   "lng": -70.58986,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0529-cover.jpg": "ROCKY BEACH LIMIT 4, house in Western Shore (Off Route 114), ME",
+   "images/ME-0529-000.jpg": "ROCKY BEACH LIMIT 4, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0529-001.jpg": "ROCKY BEACH LIMIT 4, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0529-002.jpg": "ROCKY BEACH LIMIT 4, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0529-card.webp": "ROCKY BEACH LIMIT 4, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0514",
@@ -2761,7 +3426,14 @@
   "lng": -70.63191,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0514-cover.jpg": "RONKOMA LIMIT 10, house in Sebago, ME",
+   "images/ME-0514-000.jpg": "RONKOMA LIMIT 10, Sebago, ME, photo 2 of 4",
+   "images/ME-0514-001.jpg": "RONKOMA LIMIT 10, Sebago, ME, photo 3 of 4",
+   "images/ME-0514-002.jpg": "RONKOMA LIMIT 10, Sebago, ME, photo 4 of 4",
+   "images/ME-0514-card.webp": "RONKOMA LIMIT 10, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0557",
@@ -2790,7 +3462,14 @@
   "lng": -70.62944,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0557-cover.jpg": "SANDY COVE - LIMIT 14, house in Sebago, ME",
+   "images/ME-0557-000.jpg": "SANDY COVE - LIMIT 14, Sebago, ME, photo 2 of 4",
+   "images/ME-0557-001.jpg": "SANDY COVE - LIMIT 14, Sebago, ME, photo 3 of 4",
+   "images/ME-0557-002.jpg": "SANDY COVE - LIMIT 14, Sebago, ME, photo 4 of 4",
+   "images/ME-0557-card.webp": "SANDY COVE - LIMIT 14, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0533",
@@ -2819,7 +3498,14 @@
   "lng": -70.5836,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0533-cover.jpg": "SANDY COVE ESCAPE LIMIT 8, house in Western Shore (Off Route 114), ME",
+   "images/ME-0533-000.jpg": "SANDY COVE ESCAPE LIMIT 8, Western Shore (Off Route 114), ME, photo 2 of 4",
+   "images/ME-0533-001.jpg": "SANDY COVE ESCAPE LIMIT 8, Western Shore (Off Route 114), ME, photo 3 of 4",
+   "images/ME-0533-002.jpg": "SANDY COVE ESCAPE LIMIT 8, Western Shore (Off Route 114), ME, photo 4 of 4",
+   "images/ME-0533-card.webp": "SANDY COVE ESCAPE LIMIT 8, house in Western Shore (Off Route 114), ME"
+  }
  },
  {
   "id": "ME-0568",
@@ -2848,7 +3534,14 @@
   "lng": -70.46936,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0568-cover.jpg": "SEBAGO ESCAPE LIMIT 12, house in Jordan Bay, ME",
+   "images/ME-0568-000.jpg": "SEBAGO ESCAPE LIMIT 12, Jordan Bay, ME, photo 2 of 4",
+   "images/ME-0568-001.jpg": "SEBAGO ESCAPE LIMIT 12, Jordan Bay, ME, photo 3 of 4",
+   "images/ME-0568-002.jpg": "SEBAGO ESCAPE LIMIT 12, Jordan Bay, ME, photo 4 of 4",
+   "images/ME-0568-card.webp": "SEBAGO ESCAPE LIMIT 12, house in Jordan Bay, ME"
+  }
  },
  {
   "id": "ME-0104",
@@ -2876,7 +3569,14 @@
   "lat": 43.84398,
   "lng": -70.46701,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0104-cover.jpg": "Sebago Lake Lodge & Cottages, house in Standish, ME",
+   "images/ME-0104-000.jpg": "Sebago Lake Lodge & Cottages, Standish, ME, photo 2 of 4",
+   "images/ME-0104-001.jpg": "Sebago Lake Lodge & Cottages, Standish, ME, photo 3 of 4",
+   "images/ME-0104-002.jpg": "Sebago Lake Lodge & Cottages, Standish, ME, photo 4 of 4",
+   "images/ME-0104-card.webp": "Sebago Lake Lodge & Cottages, house in Standish, ME"
+  }
  },
  {
   "id": "ME-0566",
@@ -2905,7 +3605,14 @@
   "lng": -70.69389,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0566-cover.jpg": "SEBAGO SUNRISE LIMIT 8, house in Sebago, ME",
+   "images/ME-0566-000.jpg": "SEBAGO SUNRISE LIMIT 8, Sebago, ME, photo 2 of 4",
+   "images/ME-0566-001.jpg": "SEBAGO SUNRISE LIMIT 8, Sebago, ME, photo 3 of 4",
+   "images/ME-0566-002.jpg": "SEBAGO SUNRISE LIMIT 8, Sebago, ME, photo 4 of 4",
+   "images/ME-0566-card.webp": "SEBAGO SUNRISE LIMIT 8, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0542",
@@ -2934,7 +3641,14 @@
   "lng": -70.74326,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0542-cover.jpg": "STARGAZER SHORES LIMIT 8, house in Bridgton, ME",
+   "images/ME-0542-000.jpg": "STARGAZER SHORES LIMIT 8, Bridgton, ME, photo 2 of 4",
+   "images/ME-0542-001.jpg": "STARGAZER SHORES LIMIT 8, Bridgton, ME, photo 3 of 4",
+   "images/ME-0542-002.jpg": "STARGAZER SHORES LIMIT 8, Bridgton, ME, photo 4 of 4",
+   "images/ME-0542-card.webp": "STARGAZER SHORES LIMIT 8, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0553",
@@ -2963,7 +3677,14 @@
   "lng": -70.46556,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0553-cover.jpg": "SUNNY BREAK- LIMIT 4, house in Jordan Bay, ME",
+   "images/ME-0553-000.jpg": "SUNNY BREAK- LIMIT 4, Jordan Bay, ME, photo 2 of 4",
+   "images/ME-0553-001.jpg": "SUNNY BREAK- LIMIT 4, Jordan Bay, ME, photo 3 of 4",
+   "images/ME-0553-002.jpg": "SUNNY BREAK- LIMIT 4, Jordan Bay, ME, photo 4 of 4",
+   "images/ME-0553-card.webp": "SUNNY BREAK- LIMIT 4, house in Jordan Bay, ME"
+  }
  },
  {
   "id": "ME-0520",
@@ -2992,7 +3713,14 @@
   "lng": -70.62421,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0520-cover.jpg": "SWALLOW - LIMIT 4, house in Long Beach, ME",
+   "images/ME-0520-000.jpg": "SWALLOW - LIMIT 4, Long Beach, ME, photo 2 of 4",
+   "images/ME-0520-001.jpg": "SWALLOW - LIMIT 4, Long Beach, ME, photo 3 of 4",
+   "images/ME-0520-002.jpg": "SWALLOW - LIMIT 4, Long Beach, ME, photo 4 of 4",
+   "images/ME-0520-card.webp": "SWALLOW - LIMIT 4, house in Long Beach, ME"
+  }
  },
  {
   "id": "ME-0550",
@@ -3021,7 +3749,14 @@
   "lng": -70.51948,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0550-cover.jpg": "TACKETT COTTAGE LIMIT 5, house in Other, ME",
+   "images/ME-0550-000.jpg": "TACKETT COTTAGE LIMIT 5, Other, ME, photo 2 of 4",
+   "images/ME-0550-001.jpg": "TACKETT COTTAGE LIMIT 5, Other, ME, photo 3 of 4",
+   "images/ME-0550-002.jpg": "TACKETT COTTAGE LIMIT 5, Other, ME, photo 4 of 4",
+   "images/ME-0550-card.webp": "TACKETT COTTAGE LIMIT 5, house in Other, ME"
+  }
  },
  {
   "id": "ME-0334",
@@ -3049,7 +3784,14 @@
   "lat": 44.07976,
   "lng": -70.82865,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0334-cover.jpg": "The Barnhaus, cabin in Bridgton, ME",
+   "images/ME-0334-000.jpg": "The Barnhaus, Bridgton, ME, photo 2 of 4",
+   "images/ME-0334-001.jpg": "The Barnhaus, Bridgton, ME, photo 3 of 4",
+   "images/ME-0334-002.jpg": "The Barnhaus, Bridgton, ME, photo 4 of 4",
+   "images/ME-0334-card.webp": "The Barnhaus, cabin in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0354",
@@ -3077,7 +3819,14 @@
   "lat": 44.01658,
   "lng": -70.93306,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0354-cover.jpg": "The Bellemark, cabin in Fryeburg, ME",
+   "images/ME-0354-000.jpg": "The Bellemark, Fryeburg, ME, photo 2 of 4",
+   "images/ME-0354-001.jpg": "The Bellemark, Fryeburg, ME, photo 3 of 4",
+   "images/ME-0354-002.jpg": "The Bellemark, Fryeburg, ME, photo 4 of 4",
+   "images/ME-0354-card.webp": "The Bellemark, cabin in Fryeburg, ME"
+  }
  },
  {
   "id": "ME-0203",
@@ -3105,7 +3854,14 @@
   "lat": 43.90079,
   "lng": -70.61624,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0203-cover.webp": "The Blueberry House, house in Sebago, ME",
+   "images/ME-0203-000.webp": "The Blueberry House, Sebago, ME, photo 2 of 4",
+   "images/ME-0203-001.webp": "The Blueberry House, Sebago, ME, photo 3 of 4",
+   "images/ME-0203-002.webp": "The Blueberry House, Sebago, ME, photo 4 of 4",
+   "images/ME-0203-card.webp": "The Blueberry House, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0574",
@@ -3134,7 +3890,14 @@
   "lng": -70.51705,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0574-cover.jpg": "THE COTTAGE LIMIT 6, house in Raymond, ME",
+   "images/ME-0574-000.jpg": "THE COTTAGE LIMIT 6, Raymond, ME, photo 2 of 4",
+   "images/ME-0574-001.jpg": "THE COTTAGE LIMIT 6, Raymond, ME, photo 3 of 4",
+   "images/ME-0574-002.jpg": "THE COTTAGE LIMIT 6, Raymond, ME, photo 4 of 4",
+   "images/ME-0574-card.webp": "THE COTTAGE LIMIT 6, house in Raymond, ME"
+  }
  },
  {
   "id": "ME-0582",
@@ -3163,7 +3926,14 @@
   "lng": -70.5162,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0582-cover.jpg": "THE GRANT CABIN LIMIT 6, cabin in Other, ME",
+   "images/ME-0582-000.jpg": "THE GRANT CABIN LIMIT 6, Other, ME, photo 2 of 4",
+   "images/ME-0582-001.jpg": "THE GRANT CABIN LIMIT 6, Other, ME, photo 3 of 4",
+   "images/ME-0582-002.jpg": "THE GRANT CABIN LIMIT 6, Other, ME, photo 4 of 4",
+   "images/ME-0582-card.webp": "THE GRANT CABIN LIMIT 6, cabin in Other, ME"
+  }
  },
  {
   "id": "ME-0024",
@@ -3191,7 +3961,14 @@
   "lat": 43.91455,
   "lng": -70.51758,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0024-cover.jpg": "The Lodge at Thomas Pond, Casco, ME",
+   "images/ME-0024-000.jpg": "The Lodge at Thomas Pond, Casco, ME, photo 2 of 4",
+   "images/ME-0024-001.jpg": "The Lodge at Thomas Pond, Casco, ME, photo 3 of 4",
+   "images/ME-0024-002.jpg": "The Lodge at Thomas Pond, Casco, ME, photo 4 of 4",
+   "images/ME-0024-card.webp": "The Lodge at Thomas Pond, Casco, ME"
+  }
  },
  {
   "id": "ME-0340",
@@ -3219,7 +3996,14 @@
   "lat": 44.05646,
   "lng": -70.80917,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0340-cover.jpg": "The Mountain House, house in Bridgton, ME",
+   "images/ME-0340-000.jpg": "The Mountain House, Bridgton, ME, photo 2 of 4",
+   "images/ME-0340-001.jpg": "The Mountain House, Bridgton, ME, photo 3 of 4",
+   "images/ME-0340-002.jpg": "The Mountain House, Bridgton, ME, photo 4 of 4",
+   "images/ME-0340-card.webp": "The Mountain House, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0565",
@@ -3248,7 +4032,14 @@
   "lng": -70.80478,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0565-cover.jpg": "THE RIVER HOUSE LIMIT 6, house in Other, ME",
+   "images/ME-0565-000.jpg": "THE RIVER HOUSE LIMIT 6, Other, ME, photo 2 of 4",
+   "images/ME-0565-001.jpg": "THE RIVER HOUSE LIMIT 6, Other, ME, photo 3 of 4",
+   "images/ME-0565-002.jpg": "THE RIVER HOUSE LIMIT 6, Other, ME, photo 4 of 4",
+   "images/ME-0565-card.webp": "THE RIVER HOUSE LIMIT 6, house in Other, ME"
+  }
  },
  {
   "id": "ME-0526",
@@ -3277,7 +4068,14 @@
   "lng": -70.63212,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0526-cover.jpg": "THE SHOPPE LIMIT 3, house in Sebago, ME",
+   "images/ME-0526-000.jpg": "THE SHOPPE LIMIT 3, Sebago, ME, photo 2 of 4",
+   "images/ME-0526-001.jpg": "THE SHOPPE LIMIT 3, Sebago, ME, photo 3 of 4",
+   "images/ME-0526-002.jpg": "THE SHOPPE LIMIT 3, Sebago, ME, photo 4 of 4",
+   "images/ME-0526-card.webp": "THE SHOPPE LIMIT 3, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0190",
@@ -3305,7 +4103,14 @@
   "lat": 44.2136,
   "lng": -70.5423,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0190-cover.webp": "The Woods Maine Treehouse, cabin in Norway, ME",
+   "images/ME-0190-000.jpg": "The Woods Maine Treehouse, Norway, ME, photo 2 of 4",
+   "images/ME-0190-001.jpg": "The Woods Maine Treehouse, Norway, ME, photo 3 of 4",
+   "images/ME-0190-002.webp": "The Woods Maine Treehouse, Norway, ME, photo 4 of 4",
+   "images/ME-0190-card.webp": "The Woods Maine Treehouse, cabin in Norway, ME"
+  }
  },
  {
   "id": "ME-0593",
@@ -3334,7 +4139,14 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0593-cover.jpg": "TITMOUSE LIMIT 4, house in Sebago, ME",
+   "images/ME-0593-000.jpg": "TITMOUSE LIMIT 4, Sebago, ME, photo 2 of 4",
+   "images/ME-0593-001.jpg": "TITMOUSE LIMIT 4, Sebago, ME, photo 3 of 4",
+   "images/ME-0593-002.jpg": "TITMOUSE LIMIT 4, Sebago, ME, photo 4 of 4",
+   "images/ME-0593-card.webp": "TITMOUSE LIMIT 4, house in Sebago, ME"
+  }
  },
  {
   "id": "ME-0521",
@@ -3363,7 +4175,14 @@
   "lng": -70.63212,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0521-cover.jpg": "TRAINOR CAMP LIMIT 4, camp in Sebago, ME",
+   "images/ME-0521-000.jpg": "TRAINOR CAMP LIMIT 4, Sebago, ME, photo 2 of 4",
+   "images/ME-0521-001.jpg": "TRAINOR CAMP LIMIT 4, Sebago, ME, photo 3 of 4",
+   "images/ME-0521-002.jpg": "TRAINOR CAMP LIMIT 4, Sebago, ME, photo 4 of 4",
+   "images/ME-0521-card.webp": "TRAINOR CAMP LIMIT 4, camp in Sebago, ME"
+  }
  },
  {
   "id": "ME-0498",
@@ -3392,7 +4211,14 @@
   "lng": -70.73197,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0498-cover.jpg": "TREMONT LIMIT 10, house in Bridgton, ME",
+   "images/ME-0498-000.jpg": "TREMONT LIMIT 10, Bridgton, ME, photo 2 of 4",
+   "images/ME-0498-001.jpg": "TREMONT LIMIT 10, Bridgton, ME, photo 3 of 4",
+   "images/ME-0498-002.jpg": "TREMONT LIMIT 10, Bridgton, ME, photo 4 of 4",
+   "images/ME-0498-card.webp": "TREMONT LIMIT 10, house in Bridgton, ME"
+  }
  },
  {
   "id": "ME-0535",
@@ -3421,7 +4247,14 @@
   "lng": -70.52743,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0535-cover.jpg": "UNUSUAL LATITUDE LIMIT 7, house in Frye Island, ME",
+   "images/ME-0535-000.jpg": "UNUSUAL LATITUDE LIMIT 7, Frye Island, ME, photo 2 of 4",
+   "images/ME-0535-001.jpg": "UNUSUAL LATITUDE LIMIT 7, Frye Island, ME, photo 3 of 4",
+   "images/ME-0535-002.jpg": "UNUSUAL LATITUDE LIMIT 7, Frye Island, ME, photo 4 of 4",
+   "images/ME-0535-card.webp": "UNUSUAL LATITUDE LIMIT 7, house in Frye Island, ME"
+  }
  },
  {
   "id": "ME-0543",
@@ -3450,7 +4283,14 @@
   "lng": -70.68371,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0543-cover.jpg": "UPTA CAMP LIMIT 8, camp in Other, ME",
+   "images/ME-0543-000.jpg": "UPTA CAMP LIMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0543-001.jpg": "UPTA CAMP LIMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0543-002.jpg": "UPTA CAMP LIMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0543-card.webp": "UPTA CAMP LIMIT 8, camp in Other, ME"
+  }
  },
  {
   "id": "ME-0495",
@@ -3479,7 +4319,14 @@
   "lng": -70.69707,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0495-cover.jpg": "WHIP POOR WILL LIMIT 5, house in Other, ME",
+   "images/ME-0495-000.jpg": "WHIP POOR WILL LIMIT 5, Other, ME, photo 2 of 4",
+   "images/ME-0495-001.jpg": "WHIP POOR WILL LIMIT 5, Other, ME, photo 3 of 4",
+   "images/ME-0495-002.jpg": "WHIP POOR WILL LIMIT 5, Other, ME, photo 4 of 4",
+   "images/ME-0495-card.webp": "WHIP POOR WILL LIMIT 5, house in Other, ME"
+  }
  },
  {
   "id": "ME-0351",
@@ -3507,7 +4354,14 @@
   "lat": 44.02379,
   "lng": -70.93898,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0351-cover.jpg": "White Mountain Dream Cabin, cabin in Fryeburg, ME",
+   "images/ME-0351-000.jpg": "White Mountain Dream Cabin, Fryeburg, ME, photo 2 of 4",
+   "images/ME-0351-001.jpg": "White Mountain Dream Cabin, Fryeburg, ME, photo 3 of 4",
+   "images/ME-0351-002.jpg": "White Mountain Dream Cabin, Fryeburg, ME, photo 4 of 4",
+   "images/ME-0351-card.webp": "White Mountain Dream Cabin, cabin in Fryeburg, ME"
+  }
  },
  {
   "id": "ME-0576",
@@ -3536,7 +4390,14 @@
   "lng": -70.61797,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0576-cover.jpg": "WILDFLOWER CABINS LIMIT 6, cabin in Sebago Cove, ME",
+   "images/ME-0576-000.jpg": "WILDFLOWER CABINS LIMIT 6, Sebago Cove, ME, photo 2 of 4",
+   "images/ME-0576-001.jpg": "WILDFLOWER CABINS LIMIT 6, Sebago Cove, ME, photo 3 of 4",
+   "images/ME-0576-002.jpg": "WILDFLOWER CABINS LIMIT 6, Sebago Cove, ME, photo 4 of 4",
+   "images/ME-0576-card.webp": "WILDFLOWER CABINS LIMIT 6, cabin in Sebago Cove, ME"
+  }
  },
  {
   "id": "ME-0587",
@@ -3565,6 +4426,13 @@
   "lng": -70.63391,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0587-cover.jpg": "WOOD THRUSH LIMIT 3, house in Sebago, ME",
+   "images/ME-0587-000.jpg": "WOOD THRUSH LIMIT 3, Sebago, ME, photo 2 of 4",
+   "images/ME-0587-001.jpg": "WOOD THRUSH LIMIT 3, Sebago, ME, photo 3 of 4",
+   "images/ME-0587-002.jpg": "WOOD THRUSH LIMIT 3, Sebago, ME, photo 4 of 4",
+   "images/ME-0587-card.webp": "WOOD THRUSH LIMIT 3, house in Sebago, ME"
+  }
  }
 ]

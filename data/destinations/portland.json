@@ -25,7 +25,14 @@
   "lat": 43.5414446,
   "lng": -70.341665,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0408-cover.jpg": "A Shore Thing, house in Scarborough, ME",
+   "images/ME-0408-000.jpg": "A Shore Thing, Scarborough, ME, photo 2 of 4",
+   "images/ME-0408-001.png": "A Shore Thing, Scarborough, ME, photo 3 of 4",
+   "images/ME-0408-002.jpg": "A Shore Thing, Scarborough, ME, photo 4 of 4",
+   "images/ME-0408-card.webp": "A Shore Thing, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0399",
@@ -53,7 +60,14 @@
   "lat": 43.5431371,
   "lng": -70.3402149,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0399-cover.jpg": "A Wave from it All, house in Scarborough, ME",
+   "images/ME-0399-000.jpg": "A Wave from it All, Scarborough, ME, photo 2 of 4",
+   "images/ME-0399-001.jpg": "A Wave from it All, Scarborough, ME, photo 3 of 4",
+   "images/ME-0399-002.jpg": "A Wave from it All, Scarborough, ME, photo 4 of 4",
+   "images/ME-0399-card.webp": "A Wave from it All, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0381",
@@ -81,7 +95,14 @@
   "lat": 43.5406699,
   "lng": -70.3461339,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0381-cover.jpg": "Beachwood Cottage, house in Scarborough, ME",
+   "images/ME-0381-000.jpg": "Beachwood Cottage, Scarborough, ME, photo 2 of 4",
+   "images/ME-0381-001.jpg": "Beachwood Cottage, Scarborough, ME, photo 3 of 4",
+   "images/ME-0381-002.jpg": "Beachwood Cottage, Scarborough, ME, photo 4 of 4",
+   "images/ME-0381-card.webp": "Beachwood Cottage, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0400",
@@ -109,7 +130,14 @@
   "lat": 43.537188,
   "lng": -70.3536902,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0400-cover.jpg": "Blue Doors by the Sea, house in Scarborough, ME",
+   "images/ME-0400-000.jpg": "Blue Doors by the Sea, Scarborough, ME, photo 2 of 4",
+   "images/ME-0400-001.jpg": "Blue Doors by the Sea, Scarborough, ME, photo 3 of 4",
+   "images/ME-0400-002.jpg": "Blue Doors by the Sea, Scarborough, ME, photo 4 of 4",
+   "images/ME-0400-card.webp": "Blue Doors by the Sea, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0569",
@@ -138,7 +166,14 @@
   "lng": -70.3604,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0569-cover.jpg": "BOOMFISH LIMIT 5, house in Other, ME",
+   "images/ME-0569-000.jpg": "BOOMFISH LIMIT 5, Other, ME, photo 2 of 4",
+   "images/ME-0569-001.jpg": "BOOMFISH LIMIT 5, Other, ME, photo 3 of 4",
+   "images/ME-0569-002.jpg": "BOOMFISH LIMIT 5, Other, ME, photo 4 of 4",
+   "images/ME-0569-card.webp": "BOOMFISH LIMIT 5, house in Other, ME"
+  }
  },
  {
   "id": "ME-0248",
@@ -170,7 +205,11 @@
   "lat": 43.8506,
   "lng": -70.4001,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0248-cover.webp": "Common Loon Property Management, Cumberland / Midcoast, ME",
+   "images/ME-0248-card.webp": "Common Loon Property Management, Cumberland / Midcoast, ME"
+  }
  },
  {
   "id": "LAZY-cozy-retreat-in-lisbon-falls",
@@ -198,7 +237,14 @@
   "lat": 44.01413,
   "lng": -70.05791,
   "featured": true,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-cover.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME",
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-000.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 2 of 4",
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-001.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 3 of 4",
+   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-002.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 4 of 4",
+   "images/LAZY-cozy-retreat-in-lisbon-falls-card.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME"
+  }
  },
  {
   "id": "ME-0043",
@@ -226,7 +272,14 @@
   "lat": 43.85931,
   "lng": -70.15579,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0043-cover.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME",
+   "images/ME-0043-000.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME, photo 2 of 4",
+   "images/ME-0043-001.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME, photo 3 of 4",
+   "images/ME-0043-002.jpg": "Desert of Maine Glamping (Guesty direct site), Freeport, ME, photo 4 of 4",
+   "images/ME-0043-card.webp": "Desert of Maine Glamping (Guesty direct site), Freeport, ME"
+  }
  },
  {
   "id": "ME-0397",
@@ -254,7 +307,14 @@
   "lat": 43.5396868,
   "lng": -70.3477614,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0397-cover.jpg": "Driftwood Cottage, house in Scarborough, ME",
+   "images/ME-0397-000.jpg": "Driftwood Cottage, Scarborough, ME, photo 2 of 4",
+   "images/ME-0397-001.jpg": "Driftwood Cottage, Scarborough, ME, photo 3 of 4",
+   "images/ME-0397-002.jpg": "Driftwood Cottage, Scarborough, ME, photo 4 of 4",
+   "images/ME-0397-card.webp": "Driftwood Cottage, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0374",
@@ -282,7 +342,14 @@
   "lat": 43.5418161,
   "lng": -70.3404577,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0374-cover.jpg": "Family Tides, house in Scarborough, ME",
+   "images/ME-0374-000.jpg": "Family Tides, Scarborough, ME, photo 2 of 4",
+   "images/ME-0374-001.jpg": "Family Tides, Scarborough, ME, photo 3 of 4",
+   "images/ME-0374-002.jpg": "Family Tides, Scarborough, ME, photo 4 of 4",
+   "images/ME-0374-card.webp": "Family Tides, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0383",
@@ -310,7 +377,14 @@
   "lat": 43.538604,
   "lng": -70.3498809,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0383-cover.jpg": "Hank’s Hideaway, house in Scarborough, ME",
+   "images/ME-0383-000.jpg": "Hank’s Hideaway, Scarborough, ME, photo 2 of 4",
+   "images/ME-0383-001.jpg": "Hank’s Hideaway, Scarborough, ME, photo 3 of 4",
+   "images/ME-0383-002.jpg": "Hank’s Hideaway, Scarborough, ME, photo 4 of 4",
+   "images/ME-0383-card.webp": "Hank’s Hideaway, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0162",
@@ -339,7 +413,13 @@
   "lng": -69.9877,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0162-cover.webp": "Harpswell Holidays, Harpswell, ME",
+   "images/ME-0162-000.webp": "Harpswell Holidays, Harpswell, ME, photo 2 of 3",
+   "images/ME-0162-001.webp": "Harpswell Holidays, Harpswell, ME, photo 3 of 3",
+   "images/ME-0162-card.webp": "Harpswell Holidays, Harpswell, ME"
+  }
  },
  {
   "id": "ME-0097",
@@ -368,7 +448,14 @@
   "lng": -70.3346,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0097-cover.jpg": "Higgins Beach Maine, Scarborough, ME",
+   "images/ME-0097-000.jpg": "Higgins Beach Maine, Scarborough, ME, photo 2 of 4",
+   "images/ME-0097-001.jpg": "Higgins Beach Maine, Scarborough, ME, photo 3 of 4",
+   "images/ME-0097-002.jpg": "Higgins Beach Maine, Scarborough, ME, photo 4 of 4",
+   "images/ME-0097-card.webp": "Higgins Beach Maine, Scarborough, ME"
+  }
  },
  {
   "id": "ME-0401",
@@ -396,7 +483,14 @@
   "lat": 43.5380414,
   "lng": -70.3510653,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0401-cover.jpg": "Knotty Nauti, house in Scarborough, ME",
+   "images/ME-0401-000.jpg": "Knotty Nauti, Scarborough, ME, photo 2 of 4",
+   "images/ME-0401-001.jpg": "Knotty Nauti, Scarborough, ME, photo 3 of 4",
+   "images/ME-0401-002.jpg": "Knotty Nauti, Scarborough, ME, photo 4 of 4",
+   "images/ME-0401-card.webp": "Knotty Nauti, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0196",
@@ -424,7 +518,14 @@
   "lat": 43.8206,
   "lng": -69.8148,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0196-cover.jpg": "Liberty-Rentals (Maine cottage), house in Phippsburg, ME",
+   "images/ME-0196-000.jpg": "Liberty-Rentals (Maine cottage), Phippsburg, ME, photo 2 of 4",
+   "images/ME-0196-001.jpg": "Liberty-Rentals (Maine cottage), Phippsburg, ME, photo 3 of 4",
+   "images/ME-0196-002.jpg": "Liberty-Rentals (Maine cottage), Phippsburg, ME, photo 4 of 4",
+   "images/ME-0196-card.webp": "Liberty-Rentals (Maine cottage), house in Phippsburg, ME"
+  }
  },
  {
   "id": "ME-0157",
@@ -452,7 +553,14 @@
   "lat": 43.8043,
   "lng": -69.7555,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0157-cover.webp": "Little White Dog Properties (Wiggleswick Cottage), house in Georgetown, ME",
+   "images/ME-0157-000.jpg": "Little White Dog Properties (Wiggleswick Cottage), Georgetown, ME, photo 2 of 4",
+   "images/ME-0157-001.jpg": "Little White Dog Properties (Wiggleswick Cottage), Georgetown, ME, photo 3 of 4",
+   "images/ME-0157-002.jpg": "Little White Dog Properties (Wiggleswick Cottage), Georgetown, ME, photo 4 of 4",
+   "images/ME-0157-card.webp": "Little White Dog Properties (Wiggleswick Cottage), house in Georgetown, ME"
+  }
  },
  {
   "id": "ME-0376",
@@ -480,7 +588,14 @@
   "lat": 43.5386002,
   "lng": -70.3498921,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0376-cover.jpg": "Niblet Cottage, house in Scarborough, ME",
+   "images/ME-0376-000.jpg": "Niblet Cottage, Scarborough, ME, photo 2 of 4",
+   "images/ME-0376-001.jpg": "Niblet Cottage, Scarborough, ME, photo 3 of 4",
+   "images/ME-0376-002.jpg": "Niblet Cottage, Scarborough, ME, photo 4 of 4",
+   "images/ME-0376-card.webp": "Niblet Cottage, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0194",
@@ -515,7 +630,14 @@
   "lat": 43.6625,
   "lng": -70.188,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0194-cover.jpg": "Ocean House Cottage, house in Peaks Island, ME",
+   "images/ME-0194-000.jpg": "Ocean House Cottage, Peaks Island, ME, photo 2 of 4",
+   "images/ME-0194-001.jpg": "Ocean House Cottage, Peaks Island, ME, photo 3 of 4",
+   "images/ME-0194-002.jpg": "Ocean House Cottage, Peaks Island, ME, photo 4 of 4",
+   "images/ME-0194-card.webp": "Ocean House Cottage, house in Peaks Island, ME"
+  }
  },
  {
   "id": "LAZY-sabattus-shalomus",
@@ -543,7 +665,14 @@
   "lat": 44.12,
   "lng": -70.1,
   "featured": true,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/demos/LAZY-sabattus-shalomus-cover.webp": "Sabattus Shalomus, house in Sabattus, ME",
+   "images/demos/LAZY-sabattus-shalomus-000.webp": "Sabattus Shalomus, Sabattus, ME, photo 2 of 4",
+   "images/demos/LAZY-sabattus-shalomus-001.webp": "Sabattus Shalomus, Sabattus, ME, photo 3 of 4",
+   "images/demos/LAZY-sabattus-shalomus-002.webp": "Sabattus Shalomus, Sabattus, ME, photo 4 of 4",
+   "images/LAZY-sabattus-shalomus-card.webp": "Sabattus Shalomus, house in Sabattus, ME"
+  }
  },
  {
   "id": "ME-0407",
@@ -571,7 +700,14 @@
   "lat": 43.5423122,
   "lng": -70.333928,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0407-cover.jpg": "Salty Dolphin, house in Scarborough, ME",
+   "images/ME-0407-000.jpg": "Salty Dolphin, Scarborough, ME, photo 2 of 4",
+   "images/ME-0407-001.jpg": "Salty Dolphin, Scarborough, ME, photo 3 of 4",
+   "images/ME-0407-002.jpg": "Salty Dolphin, Scarborough, ME, photo 4 of 4",
+   "images/ME-0407-card.webp": "Salty Dolphin, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0415",
@@ -599,7 +735,14 @@
   "lat": 43.5406289,
   "lng": -70.344263,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0415-cover.jpg": "Sea Breeze, house in Scarborough, ME",
+   "images/ME-0415-000.jpg": "Sea Breeze, Scarborough, ME, photo 2 of 4",
+   "images/ME-0415-001.jpg": "Sea Breeze, Scarborough, ME, photo 3 of 4",
+   "images/ME-0415-002.jpg": "Sea Breeze, Scarborough, ME, photo 4 of 4",
+   "images/ME-0415-card.webp": "Sea Breeze, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0002",
@@ -627,7 +770,14 @@
   "lat": 43.73834,
   "lng": -69.9961,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0002-cover.jpg": "Sea Escape Cottages, house in Bailey Island, ME",
+   "images/ME-0002-000.jpg": "Sea Escape Cottages, Bailey Island, ME, photo 2 of 4",
+   "images/ME-0002-001.jpg": "Sea Escape Cottages, Bailey Island, ME, photo 3 of 4",
+   "images/ME-0002-002.jpg": "Sea Escape Cottages, Bailey Island, ME, photo 4 of 4",
+   "images/ME-0002-card.webp": "Sea Escape Cottages, house in Bailey Island, ME"
+  }
  },
  {
   "id": "ME-0044",
@@ -655,7 +805,14 @@
   "lat": 43.8043,
   "lng": -69.7555,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0044-cover.webp": "Seguin Tree Dwellings, Georgetown, ME",
+   "images/ME-0044-000.webp": "Seguin Tree Dwellings, Georgetown, ME, photo 2 of 4",
+   "images/ME-0044-001.webp": "Seguin Tree Dwellings, Georgetown, ME, photo 3 of 4",
+   "images/ME-0044-002.webp": "Seguin Tree Dwellings, Georgetown, ME, photo 4 of 4",
+   "images/ME-0044-card.webp": "Seguin Tree Dwellings, Georgetown, ME"
+  }
  },
  {
   "id": "ME-0528",
@@ -684,7 +841,14 @@
   "lng": -70.404335,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0528-cover.jpg": "SUNSET HAVEN LIMIT 8, house in Other, ME",
+   "images/ME-0528-000.jpg": "SUNSET HAVEN LIMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0528-001.jpg": "SUNSET HAVEN LIMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0528-002.jpg": "SUNSET HAVEN LIMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0528-card.webp": "SUNSET HAVEN LIMIT 8, house in Other, ME"
+  }
  },
  {
   "id": "ME-0536",
@@ -713,7 +877,14 @@
   "lng": -70.4012,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0536-cover.jpg": "SUNSET SHORES LIMIT, house in Other, ME",
+   "images/ME-0536-000.jpg": "SUNSET SHORES LIMIT, Other, ME, photo 2 of 4",
+   "images/ME-0536-001.jpg": "SUNSET SHORES LIMIT, Other, ME, photo 3 of 4",
+   "images/ME-0536-002.jpg": "SUNSET SHORES LIMIT, Other, ME, photo 4 of 4",
+   "images/ME-0536-card.webp": "SUNSET SHORES LIMIT, house in Other, ME"
+  }
  },
  {
   "id": "ME-0081",
@@ -741,7 +912,14 @@
   "lat": 43.8206,
   "lng": -69.8148,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0081-cover.png": "T. Percy Cottages, house in Phippsburg, ME",
+   "images/ME-0081-000.jpg": "T. Percy Cottages, Phippsburg, ME, photo 2 of 4",
+   "images/ME-0081-001.png": "T. Percy Cottages, Phippsburg, ME, photo 3 of 4",
+   "images/ME-0081-002.png": "T. Percy Cottages, Phippsburg, ME, photo 4 of 4",
+   "images/ME-0081-card.webp": "T. Percy Cottages, house in Phippsburg, ME"
+  }
  },
  {
   "id": "ME-0405",
@@ -769,7 +947,14 @@
   "lat": 43.5430428,
   "lng": -70.3404115,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0405-cover.jpg": "The Cove, house in Scarborough, ME",
+   "images/ME-0405-000.jpg": "The Cove, Scarborough, ME, photo 2 of 4",
+   "images/ME-0405-001.jpg": "The Cove, Scarborough, ME, photo 3 of 4",
+   "images/ME-0405-002.jpg": "The Cove, Scarborough, ME, photo 4 of 4",
+   "images/ME-0405-card.webp": "The Cove, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0375",
@@ -797,7 +982,14 @@
   "lat": 43.5429641,
   "lng": -70.3403916,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0375-cover.jpg": "The Hidden Cove, house in Scarborough, ME",
+   "images/ME-0375-000.jpg": "The Hidden Cove, Scarborough, ME, photo 2 of 4",
+   "images/ME-0375-001.jpg": "The Hidden Cove, Scarborough, ME, photo 3 of 4",
+   "images/ME-0375-002.jpg": "The Hidden Cove, Scarborough, ME, photo 4 of 4",
+   "images/ME-0375-card.webp": "The Hidden Cove, house in Scarborough, ME"
+  }
  },
  {
   "id": "ME-0163",
@@ -825,7 +1017,14 @@
   "lat": 43.7995,
   "lng": -69.9877,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0163-cover.jpg": "The Maine House on Dingley, house in Harpswell, ME",
+   "images/ME-0163-000.jpg": "The Maine House on Dingley, Harpswell, ME, photo 2 of 4",
+   "images/ME-0163-001.jpg": "The Maine House on Dingley, Harpswell, ME, photo 3 of 4",
+   "images/ME-0163-002.jpg": "The Maine House on Dingley, Harpswell, ME, photo 4 of 4",
+   "images/ME-0163-card.webp": "The Maine House on Dingley, house in Harpswell, ME"
+  }
  },
  {
   "id": "ME-0504",
@@ -854,7 +1053,14 @@
   "lng": -70.404335,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0504-cover.jpg": "WESTVIEW LIMIT 8, house in Other, ME",
+   "images/ME-0504-000.jpg": "WESTVIEW LIMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0504-001.jpg": "WESTVIEW LIMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0504-002.jpg": "WESTVIEW LIMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0504-card.webp": "WESTVIEW LIMIT 8, house in Other, ME"
+  }
  },
  {
   "id": "ME-0226",
@@ -883,6 +1089,13 @@
   "lng": -69.9943,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0226-cover.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME",
+   "images/ME-0226-000.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME, photo 2 of 4",
+   "images/ME-0226-001.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME, photo 3 of 4",
+   "images/ME-0226-002.jpg": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME, photo 4 of 4",
+   "images/ME-0226-card.webp": "Your Island Connection Vacation Rentals, Bailey Island / Harpswell, ME"
+  }
  }
 ]

@@ -30,7 +30,11 @@
   "lat": 44.1139,
   "lng": -72.8555,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0049-cover.jpg": "Kismet Properties Vermont, Warren, VT",
+   "images/VT-0049-card.webp": "Kismet Properties Vermont, Warren, VT"
+  }
  },
  {
   "id": "VT-0031",
@@ -58,6 +62,10 @@
   "lat": 44.242,
   "lng": -72.8382,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0031-cover.jpg": "Mad River Valley Rental Management, Fayston, VT",
+   "images/VT-0031-card.webp": "Mad River Valley Rental Management, Fayston, VT"
+  }
  }
 ]

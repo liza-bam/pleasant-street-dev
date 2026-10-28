@@ -25,7 +25,14 @@
   "lat": 44.0481,
   "lng": -68.8317,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0219-cover.jpg": "Apple Tree Cottage, house in Vinalhaven, ME",
+   "images/ME-0219-000.jpg": "Apple Tree Cottage, Vinalhaven, ME, photo 2 of 4",
+   "images/ME-0219-001.jpg": "Apple Tree Cottage, Vinalhaven, ME, photo 3 of 4",
+   "images/ME-0219-002.jpg": "Apple Tree Cottage, Vinalhaven, ME, photo 4 of 4",
+   "images/ME-0219-card.webp": "Apple Tree Cottage, house in Vinalhaven, ME"
+  }
  },
  {
   "id": "ME-0262",
@@ -54,7 +61,14 @@
   "lng": -68.9614,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0262-cover.jpg": "Bayside Cottage Rentals, Northport, ME",
+   "images/ME-0262-000.jpg": "Bayside Cottage Rentals, Northport, ME, photo 2 of 4",
+   "images/ME-0262-001.jpg": "Bayside Cottage Rentals, Northport, ME, photo 3 of 4",
+   "images/ME-0262-002.jpg": "Bayside Cottage Rentals, Northport, ME, photo 4 of 4",
+   "images/ME-0262-card.webp": "Bayside Cottage Rentals, Northport, ME"
+  }
  },
  {
   "id": "ME-0058",
@@ -82,7 +96,14 @@
   "lat": 44.2812,
   "lng": -69.0086,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0058-cover.jpg": "Beach Cottage Inn & Beach House Suites, apartment in Lincolnville, ME",
+   "images/ME-0058-000.jpg": "Beach Cottage Inn & Beach House Suites, Lincolnville, ME, photo 2 of 4",
+   "images/ME-0058-001.jpg": "Beach Cottage Inn & Beach House Suites, Lincolnville, ME, photo 3 of 4",
+   "images/ME-0058-002.jpg": "Beach Cottage Inn & Beach House Suites, Lincolnville, ME, photo 4 of 4",
+   "images/ME-0058-card.webp": "Beach Cottage Inn & Beach House Suites, apartment in Lincolnville, ME"
+  }
  },
  {
   "id": "ME-0148",
@@ -110,7 +131,14 @@
   "lat": 44.0195,
   "lng": -69.24,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0148-cover.webp": "Beehive Cottage, house in Cushing, ME",
+   "images/ME-0148-000.jpg": "Beehive Cottage, Cushing, ME, photo 2 of 4",
+   "images/ME-0148-001.webp": "Beehive Cottage, Cushing, ME, photo 3 of 4",
+   "images/ME-0148-002.webp": "Beehive Cottage, Cushing, ME, photo 4 of 4",
+   "images/ME-0148-card.webp": "Beehive Cottage, house in Cushing, ME"
+  }
  },
  {
   "id": "ME-0143",
@@ -138,7 +166,14 @@
   "lat": 44.20579,
   "lng": -69.06723,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0143-cover.jpg": "Camden Village Toute-Suite, apartment in Camden, ME",
+   "images/ME-0143-000.jpg": "Camden Village Toute-Suite, Camden, ME, photo 2 of 4",
+   "images/ME-0143-001.jpg": "Camden Village Toute-Suite, Camden, ME, photo 3 of 4",
+   "images/ME-0143-002.jpg": "Camden Village Toute-Suite, Camden, ME, photo 4 of 4",
+   "images/ME-0143-card.webp": "Camden Village Toute-Suite, apartment in Camden, ME"
+  }
  },
  {
   "id": "ME-0290",
@@ -166,7 +201,14 @@
   "lat": 44.2238,
   "lng": -69.04395,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0290-cover.jpg": "Drift Oceanside Inn, Camden, ME",
+   "images/ME-0290-000.jpg": "Drift Oceanside Inn, Camden, ME, photo 2 of 4",
+   "images/ME-0290-001.jpg": "Drift Oceanside Inn, Camden, ME, photo 3 of 4",
+   "images/ME-0290-002.jpg": "Drift Oceanside Inn, Camden, ME, photo 4 of 4",
+   "images/ME-0290-card.webp": "Drift Oceanside Inn, Camden, ME"
+  }
  },
  {
   "id": "ME-0172",
@@ -194,7 +236,14 @@
   "lat": 44.2812,
   "lng": -69.0086,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0172-cover.jpg": "Ferry Cottage, house in Lincolnville, ME",
+   "images/ME-0172-000.jpg": "Ferry Cottage, Lincolnville, ME, photo 2 of 4",
+   "images/ME-0172-001.jpg": "Ferry Cottage, Lincolnville, ME, photo 3 of 4",
+   "images/ME-0172-002.jpg": "Ferry Cottage, Lincolnville, ME, photo 4 of 4",
+   "images/ME-0172-card.webp": "Ferry Cottage, house in Lincolnville, ME"
+  }
  },
  {
   "id": "ME-0255",
@@ -223,7 +272,14 @@
   "lng": -69.0082,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0255-cover.jpg": "Foxtrot Vacation Rental, Lincolnville Beach, ME",
+   "images/ME-0255-000.jpg": "Foxtrot Vacation Rental, Lincolnville Beach, ME, photo 2 of 4",
+   "images/ME-0255-001.jpg": "Foxtrot Vacation Rental, Lincolnville Beach, ME, photo 3 of 4",
+   "images/ME-0255-002.jpg": "Foxtrot Vacation Rental, Lincolnville Beach, ME, photo 4 of 4",
+   "images/ME-0255-card.webp": "Foxtrot Vacation Rental, Lincolnville Beach, ME"
+  }
  },
  {
   "id": "ME-0165",
@@ -252,7 +308,14 @@
   "lng": -68.9082,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0165-cover.avif": "Island Property, Islesboro, ME",
+   "images/ME-0165-000.avif": "Island Property, Islesboro, ME, photo 2 of 4",
+   "images/ME-0165-001.jpg": "Island Property, Islesboro, ME, photo 3 of 4",
+   "images/ME-0165-002.jpg": "Island Property, Islesboro, ME, photo 4 of 4",
+   "images/ME-0165-card.webp": "Island Property, Islesboro, ME"
+  }
  },
  {
   "id": "ME-0099",
@@ -280,7 +343,12 @@
   "lat": 44.01444,
   "lng": -69.12947,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0099-cover.webp": "Island View Cottages LLC, house in South Thomaston, ME",
+   "images/ME-0099-000.webp": "Island View Cottages LLC, South Thomaston, ME, photo 2 of 2",
+   "images/ME-0099-card.webp": "Island View Cottages LLC, house in South Thomaston, ME"
+  }
  },
  {
   "id": "ME-0244",
@@ -308,7 +376,14 @@
   "lat": 44.2155,
   "lng": -69.0852,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0244-cover.webp": "Lake Megunticook Vacation Rental, Camden, ME",
+   "images/ME-0244-000.webp": "Lake Megunticook Vacation Rental, Camden, ME, photo 2 of 4",
+   "images/ME-0244-001.webp": "Lake Megunticook Vacation Rental, Camden, ME, photo 3 of 4",
+   "images/ME-0244-002.webp": "Lake Megunticook Vacation Rental, Camden, ME, photo 4 of 4",
+   "images/ME-0244-card.webp": "Lake Megunticook Vacation Rental, Camden, ME"
+  }
  },
  {
   "id": "ME-0110",
@@ -336,7 +411,14 @@
   "lat": 43.97688,
   "lng": -69.20195,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0110-cover.avif": "Long Cove Cottages, house in Tenants Harbor, ME",
+   "images/ME-0110-000.jpg": "Long Cove Cottages, Tenants Harbor, ME, photo 2 of 4",
+   "images/ME-0110-001.jpg": "Long Cove Cottages, Tenants Harbor, ME, photo 3 of 4",
+   "images/ME-0110-002.jpg": "Long Cove Cottages, Tenants Harbor, ME, photo 4 of 4",
+   "images/ME-0110-card.webp": "Long Cove Cottages, house in Tenants Harbor, ME"
+  }
  },
  {
   "id": "ME-0059",
@@ -364,7 +446,14 @@
   "lat": 44.25582,
   "lng": -69.02771,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0059-cover.webp": "Pine Grove Cottages, house in Lincolnville, ME",
+   "images/ME-0059-000.webp": "Pine Grove Cottages, Lincolnville, ME, photo 2 of 4",
+   "images/ME-0059-001.webp": "Pine Grove Cottages, Lincolnville, ME, photo 3 of 4",
+   "images/ME-0059-002.webp": "Pine Grove Cottages, Lincolnville, ME, photo 4 of 4",
+   "images/ME-0059-card.webp": "Pine Grove Cottages, house in Lincolnville, ME"
+  }
  },
  {
   "id": "ME-0198",
@@ -392,7 +481,14 @@
   "lat": 44.10839,
   "lng": -69.11519,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0198-cover.jpg": "Rockland Talbot House, house in Rockland, ME",
+   "images/ME-0198-000.jpg": "Rockland Talbot House, Rockland, ME, photo 2 of 4",
+   "images/ME-0198-001.jpg": "Rockland Talbot House, Rockland, ME, photo 3 of 4",
+   "images/ME-0198-002.jpg": "Rockland Talbot House, Rockland, ME, photo 4 of 4",
+   "images/ME-0198-card.webp": "Rockland Talbot House, house in Rockland, ME"
+  }
  },
  {
   "id": "ME-0200",
@@ -420,7 +516,14 @@
   "lat": 44.12375,
   "lng": -69.0861,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0200-cover.jpg": "Samoset Village Townhomes, Rockport, ME",
+   "images/ME-0200-000.jpg": "Samoset Village Townhomes, Rockport, ME, photo 2 of 4",
+   "images/ME-0200-001.jpg": "Samoset Village Townhomes, Rockport, ME, photo 3 of 4",
+   "images/ME-0200-002.jpg": "Samoset Village Townhomes, Rockport, ME, photo 4 of 4",
+   "images/ME-0200-card.webp": "Samoset Village Townhomes, Rockport, ME"
+  }
  },
  {
   "id": "ME-0193",
@@ -448,7 +551,14 @@
   "lat": 44.0823,
   "lng": -69.0571,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0193-cover.webp": "Schooners Landing, Owls Head, ME",
+   "images/ME-0193-000.webp": "Schooners Landing, Owls Head, ME, photo 2 of 4",
+   "images/ME-0193-001.webp": "Schooners Landing, Owls Head, ME, photo 3 of 4",
+   "images/ME-0193-002.webp": "Schooners Landing, Owls Head, ME, photo 4 of 4",
+   "images/ME-0193-card.webp": "Schooners Landing, Owls Head, ME"
+  }
  },
  {
   "id": "ME-0105",
@@ -476,7 +586,14 @@
   "lat": 44.50718,
   "lng": -68.81645,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0105-cover.jpg": "Steamboat Wharf Cabins, cabin in Stockton Springs, ME",
+   "images/ME-0105-000.jpg": "Steamboat Wharf Cabins, Stockton Springs, ME, photo 2 of 4",
+   "images/ME-0105-001.jpg": "Steamboat Wharf Cabins, Stockton Springs, ME, photo 3 of 4",
+   "images/ME-0105-002.jpg": "Steamboat Wharf Cabins, Stockton Springs, ME, photo 4 of 4",
+   "images/ME-0105-card.webp": "Steamboat Wharf Cabins, cabin in Stockton Springs, ME"
+  }
  },
  {
   "id": "ME-0217",
@@ -504,7 +621,14 @@
   "lat": 43.9637,
   "lng": -69.2034,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0217-cover.webp": "Teel Cove Cottage, house in Tenants Harbor, ME",
+   "images/ME-0217-000.webp": "Teel Cove Cottage, Tenants Harbor, ME, photo 2 of 4",
+   "images/ME-0217-001.webp": "Teel Cove Cottage, Tenants Harbor, ME, photo 3 of 4",
+   "images/ME-0217-002.webp": "Teel Cove Cottage, Tenants Harbor, ME, photo 4 of 4",
+   "images/ME-0217-card.webp": "Teel Cove Cottage, house in Tenants Harbor, ME"
+  }
  },
  {
   "id": "ME-0019",
@@ -532,7 +656,14 @@
   "lat": 44.66546,
   "lng": -69.32175,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0019-cover.jpg": "The Lodge & Cabins, cabin in Burnham, ME",
+   "images/ME-0019-000.jpg": "The Lodge & Cabins, Burnham, ME, photo 2 of 4",
+   "images/ME-0019-001.jpg": "The Lodge & Cabins, Burnham, ME, photo 3 of 4",
+   "images/ME-0019-002.jpg": "The Lodge & Cabins, Burnham, ME, photo 4 of 4",
+   "images/ME-0019-card.webp": "The Lodge & Cabins, cabin in Burnham, ME"
+  }
  },
  {
   "id": "ME-0166",
@@ -560,7 +691,14 @@
   "lat": 44.2893,
   "lng": -68.9082,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0166-cover.webp": "The Nest, Islesboro, ME",
+   "images/ME-0166-000.webp": "The Nest, Islesboro, ME, photo 2 of 4",
+   "images/ME-0166-001.webp": "The Nest, Islesboro, ME, photo 3 of 4",
+   "images/ME-0166-002.webp": "The Nest, Islesboro, ME, photo 4 of 4",
+   "images/ME-0166-card.webp": "The Nest, Islesboro, ME"
+  }
  },
  {
   "id": "ME-0189",
@@ -588,6 +726,13 @@
   "lat": 44.1276,
   "lng": -68.8727,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0189-cover.jpg": "Turner Farm Guesthouse, house in North Haven, ME",
+   "images/ME-0189-000.jpg": "Turner Farm Guesthouse, North Haven, ME, photo 2 of 4",
+   "images/ME-0189-001.jpg": "Turner Farm Guesthouse, North Haven, ME, photo 3 of 4",
+   "images/ME-0189-002.jpg": "Turner Farm Guesthouse, North Haven, ME, photo 4 of 4",
+   "images/ME-0189-card.webp": "Turner Farm Guesthouse, house in North Haven, ME"
+  }
  }
 ]

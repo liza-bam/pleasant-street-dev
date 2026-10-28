@@ -26,7 +26,14 @@
   "lng": -70.65344,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0287-cover.jpg": "Anchor Real Estate Vacation Rentals, York, ME",
+   "images/ME-0287-000.avif": "Anchor Real Estate Vacation Rentals, York, ME, photo 2 of 4",
+   "images/ME-0287-001.jpg": "Anchor Real Estate Vacation Rentals, York, ME, photo 3 of 4",
+   "images/ME-0287-002.avif": "Anchor Real Estate Vacation Rentals, York, ME, photo 4 of 4",
+   "images/ME-0287-card.webp": "Anchor Real Estate Vacation Rentals, York, ME"
+  }
  },
  {
   "id": "ME-0191",
@@ -55,7 +62,13 @@
   "lng": -70.60777,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0191-cover.webp": "Atlantic Haven, Ogunquit, ME",
+   "images/ME-0191-000.webp": "Atlantic Haven, Ogunquit, ME, photo 2 of 3",
+   "images/ME-0191-001.webp": "Atlantic Haven, Ogunquit, ME, photo 3 of 3",
+   "images/ME-0191-card.webp": "Atlantic Haven, Ogunquit, ME"
+  }
  },
  {
   "id": "ME-0288",
@@ -84,7 +97,14 @@
   "lng": -70.6547,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0288-cover.png": "GetAway Vacations, York, ME",
+   "images/ME-0288-000.jpg": "GetAway Vacations, York, ME, photo 2 of 4",
+   "images/ME-0288-001.jpg": "GetAway Vacations, York, ME, photo 3 of 4",
+   "images/ME-0288-002.jpg": "GetAway Vacations, York, ME, photo 4 of 4",
+   "images/ME-0288-card.webp": "GetAway Vacations, York, ME"
+  }
  },
  {
   "id": "ME-0170",
@@ -112,7 +132,14 @@
   "lat": 43.3615,
   "lng": -70.4771,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0170-cover.png": "Kennebunkport Vacation Homes, house in Kennebunkport, ME",
+   "images/ME-0170-000.webp": "Kennebunkport Vacation Homes, Kennebunkport, ME, photo 2 of 4",
+   "images/ME-0170-001.webp": "Kennebunkport Vacation Homes, Kennebunkport, ME, photo 3 of 4",
+   "images/ME-0170-002.webp": "Kennebunkport Vacation Homes, Kennebunkport, ME, photo 4 of 4",
+   "images/ME-0170-card.webp": "Kennebunkport Vacation Homes, house in Kennebunkport, ME"
+  }
  },
  {
   "id": "ME-0253",
@@ -141,7 +168,14 @@
   "lng": -70.4771,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0253-cover.jpg": "KPT Luxury Properties, Kennebunkport, ME",
+   "images/ME-0253-000.jpg": "KPT Luxury Properties, Kennebunkport, ME, photo 2 of 4",
+   "images/ME-0253-001.jpg": "KPT Luxury Properties, Kennebunkport, ME, photo 3 of 4",
+   "images/ME-0253-002.jpg": "KPT Luxury Properties, Kennebunkport, ME, photo 4 of 4",
+   "images/ME-0253-card.webp": "KPT Luxury Properties, Kennebunkport, ME"
+  }
  },
  {
   "id": "ME-0285",
@@ -170,7 +204,14 @@
   "lng": -70.5807,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0285-cover.jpg": "Maine Street Property Management, Wells, ME",
+   "images/ME-0285-000.jpg": "Maine Street Property Management, Wells, ME, photo 2 of 4",
+   "images/ME-0285-001.jpg": "Maine Street Property Management, Wells, ME, photo 3 of 4",
+   "images/ME-0285-002.jpg": "Maine Street Property Management, Wells, ME, photo 4 of 4",
+   "images/ME-0285-card.webp": "Maine Street Property Management, Wells, ME"
+  }
  },
  {
   "id": "ME-0286",
@@ -199,7 +240,14 @@
   "lng": -70.58316,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0286-cover.jpg": "Moody Beach Vacation Rentals, Wells, ME",
+   "images/ME-0286-000.jpg": "Moody Beach Vacation Rentals, Wells, ME, photo 2 of 4",
+   "images/ME-0286-001.avif": "Moody Beach Vacation Rentals, Wells, ME, photo 3 of 4",
+   "images/ME-0286-002.jpg": "Moody Beach Vacation Rentals, Wells, ME, photo 4 of 4",
+   "images/ME-0286-card.webp": "Moody Beach Vacation Rentals, Wells, ME"
+  }
  },
  {
   "id": "ME-0278",
@@ -228,7 +276,14 @@
   "lng": "Unknown",
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0278-cover.webp": "Nautical Property Management, Southern Maine, ME",
+   "images/ME-0278-000.webp": "Nautical Property Management, Southern Maine, ME, photo 2 of 4",
+   "images/ME-0278-001.webp": "Nautical Property Management, Southern Maine, ME, photo 3 of 4",
+   "images/ME-0278-002.webp": "Nautical Property Management, Southern Maine, ME, photo 4 of 4",
+   "images/ME-0278-card.webp": "Nautical Property Management, Southern Maine, ME"
+  }
  },
  {
   "id": "ME-0222",
@@ -256,7 +311,14 @@
   "lat": 43.28672,
   "lng": -70.57148,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0222-cover.jpg": "Ocean Dunes Condominiums / Garnsey Rentals, apartment in Wells, ME",
+   "images/ME-0222-000.jpg": "Ocean Dunes Condominiums / Garnsey Rentals, Wells, ME, photo 2 of 4",
+   "images/ME-0222-001.jpg": "Ocean Dunes Condominiums / Garnsey Rentals, Wells, ME, photo 3 of 4",
+   "images/ME-0222-002.jpg": "Ocean Dunes Condominiums / Garnsey Rentals, Wells, ME, photo 4 of 4",
+   "images/ME-0222-card.webp": "Ocean Dunes Condominiums / Garnsey Rentals, apartment in Wells, ME"
+  }
  },
  {
   "id": "ME-0264",
@@ -285,7 +347,13 @@
   "lng": -70.5992,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0264-cover.jpg": "Ogunquit Rental Properties, Ogunquit, ME",
+   "images/ME-0264-000.avif": "Ogunquit Rental Properties, Ogunquit, ME, photo 2 of 3",
+   "images/ME-0264-001.avif": "Ogunquit Rental Properties, Ogunquit, ME, photo 3 of 3",
+   "images/ME-0264-card.webp": "Ogunquit Rental Properties, Ogunquit, ME"
+  }
  },
  {
   "id": "ME-0502",
@@ -314,7 +382,14 @@
   "lng": -70.86969,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0502-cover.jpg": "OWL HOUSE LIMIT 8, house in Other, ME",
+   "images/ME-0502-000.jpg": "OWL HOUSE LIMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0502-001.jpg": "OWL HOUSE LIMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0502-002.jpg": "OWL HOUSE LIMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0502-card.webp": "OWL HOUSE LIMIT 8, house in Other, ME"
+  }
  },
  {
   "id": "ME-0225",
@@ -342,7 +417,14 @@
   "lat": 43.1717,
   "lng": -70.6089,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0225-cover.webp": "Renee's Rentals, York Beach, ME",
+   "images/ME-0225-000.webp": "Renee's Rentals, York Beach, ME, photo 2 of 4",
+   "images/ME-0225-001.webp": "Renee's Rentals, York Beach, ME, photo 3 of 4",
+   "images/ME-0225-002.webp": "Renee's Rentals, York Beach, ME, photo 4 of 4",
+   "images/ME-0225-card.webp": "Renee's Rentals, York Beach, ME"
+  }
  },
  {
   "id": "ME-0289",
@@ -371,7 +453,14 @@
   "lng": -70.6547,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0289-cover.webp": "Salt & Shine Vacation Rentals, York / Wells / Ogunquit, ME",
+   "images/ME-0289-000.jpg": "Salt & Shine Vacation Rentals, York / Wells / Ogunquit, ME, photo 2 of 4",
+   "images/ME-0289-001.webp": "Salt & Shine Vacation Rentals, York / Wells / Ogunquit, ME, photo 3 of 4",
+   "images/ME-0289-002.webp": "Salt & Shine Vacation Rentals, York / Wells / Ogunquit, ME, photo 4 of 4",
+   "images/ME-0289-card.webp": "Salt & Shine Vacation Rentals, York / Wells / Ogunquit, ME"
+  }
  },
  {
   "id": "ME-0119",
@@ -399,7 +488,14 @@
   "lat": 43.18121,
   "lng": -70.66755,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0119-cover.jpg": "Sea Spray Cottages, house in York Beach, ME",
+   "images/ME-0119-000.jpg": "Sea Spray Cottages, York Beach, ME, photo 2 of 4",
+   "images/ME-0119-001.jpg": "Sea Spray Cottages, York Beach, ME, photo 3 of 4",
+   "images/ME-0119-002.jpg": "Sea Spray Cottages, York Beach, ME, photo 4 of 4",
+   "images/ME-0119-card.webp": "Sea Spray Cottages, house in York Beach, ME"
+  }
  },
  {
   "id": "ME-0223",
@@ -437,7 +533,14 @@
   "lat": 43.27904,
   "lng": -70.59553,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0223-cover.avif": "Seaglass Village, Wells, ME",
+   "images/ME-0223-000.avif": "Seaglass Village, Wells, ME, photo 2 of 4",
+   "images/ME-0223-001.avif": "Seaglass Village, Wells, ME, photo 3 of 4",
+   "images/ME-0223-002.jpg": "Seaglass Village, Wells, ME, photo 4 of 4",
+   "images/ME-0223-card.webp": "Seaglass Village, Wells, ME"
+  }
  },
  {
   "id": "ME-0254",
@@ -466,7 +569,14 @@
   "lng": -70.4771,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0254-cover.jpg": "Seagrass Property Rentals, Kennebunkport, ME",
+   "images/ME-0254-000.jpg": "Seagrass Property Rentals, Kennebunkport, ME, photo 2 of 4",
+   "images/ME-0254-001.jpg": "Seagrass Property Rentals, Kennebunkport, ME, photo 3 of 4",
+   "images/ME-0254-002.jpg": "Seagrass Property Rentals, Kennebunkport, ME, photo 4 of 4",
+   "images/ME-0254-card.webp": "Seagrass Property Rentals, Kennebunkport, ME"
+  }
  },
  {
   "id": "ME-0114",
@@ -494,7 +604,14 @@
   "lat": 43.322,
   "lng": -70.5807,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0114-cover.jpg": "The Cottages at Summer Village, house in Wells, ME",
+   "images/ME-0114-000.jpg": "The Cottages at Summer Village, Wells, ME, photo 2 of 4",
+   "images/ME-0114-001.jpg": "The Cottages at Summer Village, Wells, ME, photo 3 of 4",
+   "images/ME-0114-002.jpg": "The Cottages at Summer Village, Wells, ME, photo 4 of 4",
+   "images/ME-0114-card.webp": "The Cottages at Summer Village, house in Wells, ME"
+  }
  },
  {
   "id": "ME-0115",
@@ -522,7 +639,14 @@
   "lat": 43.31273,
   "lng": -70.58443,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0115-cover.jpg": "Watercrest Cottages, house in Wells, ME",
+   "images/ME-0115-000.jpg": "Watercrest Cottages, Wells, ME, photo 2 of 4",
+   "images/ME-0115-001.jpg": "Watercrest Cottages, Wells, ME, photo 3 of 4",
+   "images/ME-0115-002.jpg": "Watercrest Cottages, Wells, ME, photo 4 of 4",
+   "images/ME-0115-card.webp": "Watercrest Cottages, house in Wells, ME"
+  }
  },
  {
   "id": "ME-0224",
@@ -550,6 +674,13 @@
   "lat": 43.29466,
   "lng": -70.56842,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0224-cover.jpg": "Webhannet by the Sea, Wells, ME",
+   "images/ME-0224-000.jpg": "Webhannet by the Sea, Wells, ME, photo 2 of 4",
+   "images/ME-0224-001.jpg": "Webhannet by the Sea, Wells, ME, photo 3 of 4",
+   "images/ME-0224-002.jpg": "Webhannet by the Sea, Wells, ME, photo 4 of 4",
+   "images/ME-0224-card.webp": "Webhannet by the Sea, Wells, ME"
+  }
  }
 ]

@@ -19,7 +19,13 @@
   "lat": 44.3362,
   "lng": -75.9181,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0123-cover.webp": "1000 Island Rental, house in Alexandria Bay, NY",
+   "images/NY-0123-000.webp": "1000 Island Rental, Alexandria Bay, NY, photo 2 of 3",
+   "images/NY-0123-001.webp": "1000 Island Rental, Alexandria Bay, NY, photo 3 of 3",
+   "images/NY-0123-card.webp": "1000 Island Rental, house in Alexandria Bay, NY"
+  }
  },
  {
   "id": "NY-0118",
@@ -41,7 +47,13 @@
   "lat": 44.44225,
   "lng": -75.75947,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0118-cover.webp": "Chippewa View Cottages, cabin in Chippewa Bay, NY",
+   "images/NY-0118-000.webp": "Chippewa View Cottages, Chippewa Bay, NY, photo 2 of 3",
+   "images/NY-0118-001.webp": "Chippewa View Cottages, Chippewa Bay, NY, photo 3 of 3",
+   "images/NY-0118-card.webp": "Chippewa View Cottages, cabin in Chippewa Bay, NY"
+  }
  },
  {
   "id": "NY-0122",
@@ -63,7 +75,14 @@
   "lat": 44.35691,
   "lng": -75.89254,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0122-cover.webp": "Hi-Da-Way Cottages, cabin in Alexandria Bay, NY",
+   "images/NY-0122-000.webp": "Hi-Da-Way Cottages, Alexandria Bay, NY, photo 2 of 4",
+   "images/NY-0122-001.webp": "Hi-Da-Way Cottages, Alexandria Bay, NY, photo 3 of 4",
+   "images/NY-0122-002.webp": "Hi-Da-Way Cottages, Alexandria Bay, NY, photo 4 of 4",
+   "images/NY-0122-card.webp": "Hi-Da-Way Cottages, cabin in Alexandria Bay, NY"
+  }
  },
  {
   "id": "NY-0125",
@@ -85,7 +104,14 @@
   "lat": 44.1289,
   "lng": -76.3343,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0125-cover.webp": "Island Shadows, house in Cape Vincent, NY",
+   "images/NY-0125-000.webp": "Island Shadows, Cape Vincent, NY, photo 2 of 4",
+   "images/NY-0125-001.webp": "Island Shadows, Cape Vincent, NY, photo 3 of 4",
+   "images/NY-0125-002.webp": "Island Shadows, Cape Vincent, NY, photo 4 of 4",
+   "images/NY-0125-card.webp": "Island Shadows, house in Cape Vincent, NY"
+  }
  },
  {
   "id": "NY-0121",
@@ -107,7 +133,14 @@
   "lat": 44.34691,
   "lng": -75.90096,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0121-cover.webp": "River Rock Cottages, cabin in Alexandria Bay, NY",
+   "images/NY-0121-000.webp": "River Rock Cottages, Alexandria Bay, NY, photo 2 of 4",
+   "images/NY-0121-001.webp": "River Rock Cottages, Alexandria Bay, NY, photo 3 of 4",
+   "images/NY-0121-002.webp": "River Rock Cottages, Alexandria Bay, NY, photo 4 of 4",
+   "images/NY-0121-card.webp": "River Rock Cottages, cabin in Alexandria Bay, NY"
+  }
  },
  {
   "id": "NY-0114",
@@ -130,7 +163,14 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0114-cover.webp": "Schermerhorn Harbor Cottages — Cottage 11, cabin in Hammond, NY",
+   "images/NY-0114-000.webp": "Schermerhorn Harbor Cottages — Cottage 11, Hammond, NY, photo 2 of 4",
+   "images/NY-0114-001.webp": "Schermerhorn Harbor Cottages — Cottage 11, Hammond, NY, photo 3 of 4",
+   "images/NY-0114-002.webp": "Schermerhorn Harbor Cottages — Cottage 11, Hammond, NY, photo 4 of 4",
+   "images/NY-0114-card.webp": "Schermerhorn Harbor Cottages — Cottage 11, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0115",
@@ -153,7 +193,13 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0115-cover.webp": "Schermerhorn Harbor Cottages — Cottage 12, cabin in Hammond, NY",
+   "images/NY-0115-000.webp": "Schermerhorn Harbor Cottages — Cottage 12, Hammond, NY, photo 2 of 3",
+   "images/NY-0115-001.webp": "Schermerhorn Harbor Cottages — Cottage 12, Hammond, NY, photo 3 of 3",
+   "images/NY-0115-card.webp": "Schermerhorn Harbor Cottages — Cottage 12, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0116",
@@ -176,7 +222,14 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0116-cover.webp": "Schermerhorn Harbor Cottages — Cottage 14, cabin in Hammond, NY",
+   "images/NY-0116-000.webp": "Schermerhorn Harbor Cottages — Cottage 14, Hammond, NY, photo 2 of 4",
+   "images/NY-0116-001.webp": "Schermerhorn Harbor Cottages — Cottage 14, Hammond, NY, photo 3 of 4",
+   "images/NY-0116-002.webp": "Schermerhorn Harbor Cottages — Cottage 14, Hammond, NY, photo 4 of 4",
+   "images/NY-0116-card.webp": "Schermerhorn Harbor Cottages — Cottage 14, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0117",
@@ -199,7 +252,14 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0117-cover.webp": "Schermerhorn Harbor Cottages — Cottage 17, cabin in Hammond, NY",
+   "images/NY-0117-000.webp": "Schermerhorn Harbor Cottages — Cottage 17, Hammond, NY, photo 2 of 4",
+   "images/NY-0117-001.webp": "Schermerhorn Harbor Cottages — Cottage 17, Hammond, NY, photo 3 of 4",
+   "images/NY-0117-002.webp": "Schermerhorn Harbor Cottages — Cottage 17, Hammond, NY, photo 4 of 4",
+   "images/NY-0117-card.webp": "Schermerhorn Harbor Cottages — Cottage 17, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0110",
@@ -222,7 +282,14 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0110-cover.webp": "Schermerhorn Harbor Cottages — Cottage 2, cabin in Hammond, NY",
+   "images/NY-0110-000.webp": "Schermerhorn Harbor Cottages — Cottage 2, Hammond, NY, photo 2 of 4",
+   "images/NY-0110-001.webp": "Schermerhorn Harbor Cottages — Cottage 2, Hammond, NY, photo 3 of 4",
+   "images/NY-0110-002.webp": "Schermerhorn Harbor Cottages — Cottage 2, Hammond, NY, photo 4 of 4",
+   "images/NY-0110-card.webp": "Schermerhorn Harbor Cottages — Cottage 2, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0111",
@@ -245,7 +312,14 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0111-cover.webp": "Schermerhorn Harbor Cottages — Cottage 3, cabin in Hammond, NY",
+   "images/NY-0111-000.webp": "Schermerhorn Harbor Cottages — Cottage 3, Hammond, NY, photo 2 of 4",
+   "images/NY-0111-001.webp": "Schermerhorn Harbor Cottages — Cottage 3, Hammond, NY, photo 3 of 4",
+   "images/NY-0111-002.webp": "Schermerhorn Harbor Cottages — Cottage 3, Hammond, NY, photo 4 of 4",
+   "images/NY-0111-card.webp": "Schermerhorn Harbor Cottages — Cottage 3, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0112",
@@ -268,7 +342,14 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0112-cover.webp": "Schermerhorn Harbor Cottages — Cottage 4, cabin in Hammond, NY",
+   "images/NY-0112-000.webp": "Schermerhorn Harbor Cottages — Cottage 4, Hammond, NY, photo 2 of 4",
+   "images/NY-0112-001.webp": "Schermerhorn Harbor Cottages — Cottage 4, Hammond, NY, photo 3 of 4",
+   "images/NY-0112-002.webp": "Schermerhorn Harbor Cottages — Cottage 4, Hammond, NY, photo 4 of 4",
+   "images/NY-0112-card.webp": "Schermerhorn Harbor Cottages — Cottage 4, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0113",
@@ -291,7 +372,14 @@
   "lng": -75.79051,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0113-cover.webp": "Schermerhorn Harbor Cottages — Cottage 5, cabin in Hammond, NY",
+   "images/NY-0113-000.webp": "Schermerhorn Harbor Cottages — Cottage 5, Hammond, NY, photo 2 of 4",
+   "images/NY-0113-001.webp": "Schermerhorn Harbor Cottages — Cottage 5, Hammond, NY, photo 3 of 4",
+   "images/NY-0113-002.webp": "Schermerhorn Harbor Cottages — Cottage 5, Hammond, NY, photo 4 of 4",
+   "images/NY-0113-card.webp": "Schermerhorn Harbor Cottages — Cottage 5, cabin in Hammond, NY"
+  }
  },
  {
   "id": "NY-0103",
@@ -314,7 +402,14 @@
   "lng": -76.2439651,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0103-cover.webp": "Thousand Islands Marina Cottages — Americana Cottage, cabin in Cape Vincent, NY",
+   "images/NY-0103-000.webp": "Thousand Islands Marina Cottages — Americana Cottage, Cape Vincent, NY, photo 2 of 4",
+   "images/NY-0103-001.webp": "Thousand Islands Marina Cottages — Americana Cottage, Cape Vincent, NY, photo 3 of 4",
+   "images/NY-0103-002.webp": "Thousand Islands Marina Cottages — Americana Cottage, Cape Vincent, NY, photo 4 of 4",
+   "images/NY-0103-card.webp": "Thousand Islands Marina Cottages — Americana Cottage, cabin in Cape Vincent, NY"
+  }
  },
  {
   "id": "NY-0104",
@@ -337,7 +432,14 @@
   "lng": -76.2439651,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0104-cover.webp": "Thousand Islands Marina Cottages — Gone Fishing Cottage, cabin in Cape Vincent, NY",
+   "images/NY-0104-000.webp": "Thousand Islands Marina Cottages — Gone Fishing Cottage, Cape Vincent, NY, photo 2 of 4",
+   "images/NY-0104-001.webp": "Thousand Islands Marina Cottages — Gone Fishing Cottage, Cape Vincent, NY, photo 3 of 4",
+   "images/NY-0104-002.webp": "Thousand Islands Marina Cottages — Gone Fishing Cottage, Cape Vincent, NY, photo 4 of 4",
+   "images/NY-0104-card.webp": "Thousand Islands Marina Cottages — Gone Fishing Cottage, cabin in Cape Vincent, NY"
+  }
  },
  {
   "id": "NY-0108",
@@ -360,7 +462,14 @@
   "lng": -76.2439651,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0108-cover.webp": "Thousand Islands Marina Cottages — Remington's Bunkhouse, cabin in Cape Vincent, NY",
+   "images/NY-0108-000.webp": "Thousand Islands Marina Cottages — Remington's Bunkhouse, Cape Vincent, NY, photo 2 of 4",
+   "images/NY-0108-001.webp": "Thousand Islands Marina Cottages — Remington's Bunkhouse, Cape Vincent, NY, photo 3 of 4",
+   "images/NY-0108-002.webp": "Thousand Islands Marina Cottages — Remington's Bunkhouse, Cape Vincent, NY, photo 4 of 4",
+   "images/NY-0108-card.webp": "Thousand Islands Marina Cottages — Remington's Bunkhouse, cabin in Cape Vincent, NY"
+  }
  },
  {
   "id": "NY-0105",
@@ -383,7 +492,14 @@
   "lng": -76.2439651,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0105-cover.webp": "Thousand Islands Marina Cottages — Southern Comfort Cottage, cabin in Cape Vincent, NY",
+   "images/NY-0105-000.webp": "Thousand Islands Marina Cottages — Southern Comfort Cottage, Cape Vincent, NY, photo 2 of 4",
+   "images/NY-0105-001.webp": "Thousand Islands Marina Cottages — Southern Comfort Cottage, Cape Vincent, NY, photo 3 of 4",
+   "images/NY-0105-002.webp": "Thousand Islands Marina Cottages — Southern Comfort Cottage, Cape Vincent, NY, photo 4 of 4",
+   "images/NY-0105-card.webp": "Thousand Islands Marina Cottages — Southern Comfort Cottage, cabin in Cape Vincent, NY"
+  }
  },
  {
   "id": "NY-0106",
@@ -406,7 +522,14 @@
   "lng": -76.2439651,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0106-cover.webp": "Thousand Islands Marina Cottages — Sunset Cottage, cabin in Cape Vincent, NY",
+   "images/NY-0106-000.webp": "Thousand Islands Marina Cottages — Sunset Cottage, Cape Vincent, NY, photo 2 of 4",
+   "images/NY-0106-001.webp": "Thousand Islands Marina Cottages — Sunset Cottage, Cape Vincent, NY, photo 3 of 4",
+   "images/NY-0106-002.webp": "Thousand Islands Marina Cottages — Sunset Cottage, Cape Vincent, NY, photo 4 of 4",
+   "images/NY-0106-card.webp": "Thousand Islands Marina Cottages — Sunset Cottage, cabin in Cape Vincent, NY"
+  }
  },
  {
   "id": "NY-0107",
@@ -429,7 +552,14 @@
   "lng": -76.2439651,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0107-cover.webp": "Thousand Islands Marina Cottages — The Captain's Quarters, cabin in Cape Vincent, NY",
+   "images/NY-0107-000.webp": "Thousand Islands Marina Cottages — The Captain's Quarters, Cape Vincent, NY, photo 2 of 4",
+   "images/NY-0107-001.webp": "Thousand Islands Marina Cottages — The Captain's Quarters, Cape Vincent, NY, photo 3 of 4",
+   "images/NY-0107-002.webp": "Thousand Islands Marina Cottages — The Captain's Quarters, Cape Vincent, NY, photo 4 of 4",
+   "images/NY-0107-card.webp": "Thousand Islands Marina Cottages — The Captain's Quarters, cabin in Cape Vincent, NY"
+  }
  },
  {
   "id": "NY-0120",
@@ -451,6 +581,13 @@
   "lat": 44.2395,
   "lng": -76.0858,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/NY-0120-cover.webp": "Whiskey River Cottages, cabin in Clayton, NY",
+   "images/NY-0120-000.webp": "Whiskey River Cottages, Clayton, NY, photo 2 of 4",
+   "images/NY-0120-001.webp": "Whiskey River Cottages, Clayton, NY, photo 3 of 4",
+   "images/NY-0120-002.webp": "Whiskey River Cottages, Clayton, NY, photo 4 of 4",
+   "images/NY-0120-card.webp": "Whiskey River Cottages, cabin in Clayton, NY"
+  }
  }
 ]

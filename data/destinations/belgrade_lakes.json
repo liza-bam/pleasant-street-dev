@@ -26,7 +26,14 @@
   "lng": -69.97861,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0561-cover.jpg": "ANNABESSACOOK RETREAT LIMIT 8, house in Other, ME",
+   "images/ME-0561-000.jpg": "ANNABESSACOOK RETREAT LIMIT 8, Other, ME, photo 2 of 4",
+   "images/ME-0561-001.jpg": "ANNABESSACOOK RETREAT LIMIT 8, Other, ME, photo 3 of 4",
+   "images/ME-0561-002.jpg": "ANNABESSACOOK RETREAT LIMIT 8, Other, ME, photo 4 of 4",
+   "images/ME-0561-card.webp": "ANNABESSACOOK RETREAT LIMIT 8, house in Other, ME"
+  }
  },
  {
   "id": "ME-0095",
@@ -54,7 +61,11 @@
   "lat": 44.57988,
   "lng": -69.83908,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0095-cover.jpg": "Bear Spring Camps, camp in Rome, ME",
+   "images/ME-0095-card.webp": "Bear Spring Camps, camp in Rome, ME"
+  }
  },
  {
   "id": "ME-0229",
@@ -83,7 +94,14 @@
   "lng": -69.8332,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0229-cover.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME",
+   "images/ME-0229-000.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME, photo 2 of 4",
+   "images/ME-0229-001.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME, photo 3 of 4",
+   "images/ME-0229-002.jpg": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME, photo 4 of 4",
+   "images/ME-0229-card.webp": "Belgrade Hospitality, Belgrade / Winthrop / Sidney, ME"
+  }
  },
  {
   "id": "ME-0230",
@@ -112,7 +130,14 @@
   "lng": -69.887,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0230-cover.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME",
+   "images/ME-0230-000.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME, photo 2 of 4",
+   "images/ME-0230-001.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME, photo 3 of 4",
+   "images/ME-0230-002.jpg": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME, photo 4 of 4",
+   "images/ME-0230-card.webp": "Belgrade Lakes Reservation Center, Belgrade Lakes, ME"
+  }
  },
  {
   "id": "ME-0231",
@@ -140,7 +165,14 @@
   "lat": 44.5265,
   "lng": -69.887,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0231-cover.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME",
+   "images/ME-0231-000.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME, photo 2 of 4",
+   "images/ME-0231-001.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME, photo 3 of 4",
+   "images/ME-0231-002.jpg": "Belgrade Vacation Rentals, Belgrade Lakes, ME, photo 4 of 4",
+   "images/ME-0231-card.webp": "Belgrade Vacation Rentals, Belgrade Lakes, ME"
+  }
  },
  {
   "id": "ME-0068",
@@ -168,7 +200,14 @@
   "lat": 44.43782,
   "lng": -70.01258,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0068-cover.jpg": "Camp Skoglund, camp in Mount Vernon, ME",
+   "images/ME-0068-000.jpg": "Camp Skoglund, Mount Vernon, ME, photo 2 of 4",
+   "images/ME-0068-001.jpg": "Camp Skoglund, Mount Vernon, ME, photo 3 of 4",
+   "images/ME-0068-002.jpg": "Camp Skoglund, Mount Vernon, ME, photo 4 of 4",
+   "images/ME-0068-card.webp": "Camp Skoglund, camp in Mount Vernon, ME"
+  }
  },
  {
   "id": "ME-0154",
@@ -196,7 +235,14 @@
   "lat": 44.6706,
   "lng": -70.1515,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0154-cover.jpg": "Clearwater Escapes, Farmington, ME",
+   "images/ME-0154-000.jpg": "Clearwater Escapes, Farmington, ME, photo 2 of 4",
+   "images/ME-0154-001.jpg": "Clearwater Escapes, Farmington, ME, photo 3 of 4",
+   "images/ME-0154-002.jpg": "Clearwater Escapes, Farmington, ME, photo 4 of 4",
+   "images/ME-0154-card.webp": "Clearwater Escapes, Farmington, ME"
+  }
  },
  {
   "id": "ME-0010",
@@ -224,7 +270,13 @@
   "lat": 44.5337,
   "lng": -69.8628,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0010-cover.jpg": "Cottages of Maine, house in Belgrade Lakes, ME",
+   "images/ME-0010-000.webp": "Cottages of Maine, Belgrade Lakes, ME, photo 2 of 3",
+   "images/ME-0010-001.jpg": "Cottages of Maine, Belgrade Lakes, ME, photo 3 of 3",
+   "images/ME-0010-card.webp": "Cottages of Maine, house in Belgrade Lakes, ME"
+  }
  },
  {
   "id": "ME-0183",
@@ -256,7 +308,14 @@
   "lat": 44.5009,
   "lng": -69.9877,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0183-cover.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME",
+   "images/ME-0183-000.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME, photo 2 of 4",
+   "images/ME-0183-001.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME, photo 3 of 4",
+   "images/ME-0183-002.jpg": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME, photo 4 of 4",
+   "images/ME-0183-card.webp": "Mainely Relaxing, Mount Vernon / Belgrade Lakes, ME"
+  }
  },
  {
   "id": "ME-0011",
@@ -291,6 +350,13 @@
   "lat": 44.46429,
   "lng": -69.83157,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/ME-0011-cover.jpg": "Mainely Retreats, Belgrade Lakes, ME",
+   "images/ME-0011-000.avif": "Mainely Retreats, Belgrade Lakes, ME, photo 2 of 4",
+   "images/ME-0011-001.avif": "Mainely Retreats, Belgrade Lakes, ME, photo 3 of 4",
+   "images/ME-0011-002.avif": "Mainely Retreats, Belgrade Lakes, ME, photo 4 of 4",
+   "images/ME-0011-card.webp": "Mainely Retreats, Belgrade Lakes, ME"
+  }
  }
 ]

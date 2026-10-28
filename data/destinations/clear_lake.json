@@ -25,6 +25,13 @@
   "lat": 39.02,
   "lng": -122.67,
   "featured": true,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/demos/LAZY-clearlake-paradise-cover.webp": "Clearlake Paradise, Clearlake Oaks, CA",
+   "images/demos/LAZY-clearlake-paradise-000.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 2 of 4",
+   "images/demos/LAZY-clearlake-paradise-001.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 3 of 4",
+   "images/demos/LAZY-clearlake-paradise-002.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 4 of 4",
+   "images/LAZY-clearlake-paradise-card.webp": "Clearlake Paradise, Clearlake Oaks, CA"
+  }
  }
 ]

@@ -208,6 +208,7 @@
   }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function known(v) { return v !== undefined && v !== null && v !== '' && v !== 'Unknown'; }
+  function altFor(h, file, i) { return (h.photoAlts && h.photoAlts[file]) || (h.name + (i ? ', photo ' + (i + 1) : '') + (h.place ? ', ' + h.place : '')); }
   /* The page loads only each home's location and facts. Its photos, text and link (data/homes/<id>.json)
      arrive when its card is on screen, and the card is redrawn in place. */
   var byId = {};
@@ -284,7 +285,7 @@
     var displayPlace = h.place + (h.locationLabel ? ' · ' + h.locationLabel : '');
     var slots = tiny ? [0] : detail ? (images.length ? images.map(function (_, i) { return i; }) : [0]) : [0, 1, 2];
     var gallery = slots.map(function (i) {
-      return images[i] ? '<img src="' + esc(src(images[i])) + '" alt="' + esc(h.name) + (i ? ' — additional property photo' : ' — cover photo') + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">' + (h.loaded ? 'Photo unavailable' : '') + '</span>';
+      return images[i] ? '<img src="' + esc(src(images[i])) + '" alt="' + esc(altFor(h, images[i], i)) + '" loading="lazy" decoding="async">' : '<span class="ps-gallery__pending">' + (h.loaded ? 'Photo unavailable' : '') + '</span>';
     }).join('');
     var claimHref = 'mailto:sandy@lazy.vacations?subject=' + encodeURIComponent('Claim my house: ' + h.name) + '&body=' + encodeURIComponent('I would like to claim this Pleasant Street listing.\n\nProperty: ' + h.name + '\nWebsite: ' + h.url + '\nListing ID: ' + h.id + '\n\nMy name:\nMy relationship to the property:\n');
     return '<article class="ps-home' + (h.featured ? ' ps-home--featured' : '') + (tiny ? ' ps-home--tiny' : '') + (detail ? ' ps-home--detail' : '') + '" data-property="' + esc(h.id) + '">' +
@@ -310,7 +311,7 @@
     return '<article class="ps-card' + (h.featured === true ? ' ps-card--featured' : '') + '" data-property="' + esc(h.id) + '"><' + tag + ' class="ps-card__select-body"' +
       (selectable ? ' type="button" data-select-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on the map"' : '') + '>' +
       '<div class="ps-card__photo">' + listingBadge(h) +
-      (h.photo ? '<img src="' + esc(src(h.photo)) + '" alt="' + esc(h.name) + '" loading="lazy" decoding="async" width="560" height="350">' : '<span class="ps-gallery__pending" aria-hidden="true"></span>') + cardOpenOverlay(h) + '</div>' +
+      (h.photo ? '<img src="' + esc(src(h.photo)) + '" alt="' + esc(altFor(h, h.photo, 0)) + '" loading="lazy" decoding="async" width="560" height="350">' : '<span class="ps-gallery__pending" aria-hidden="true"></span>') + cardOpenOverlay(h) + '</div>' +
       '<span class="ps-card__name" title="' + esc(h.name) + '">' + esc(h.name) + '</span><span class="ps-card__place">' + esc(h.place) + '</span>' + factRows(h, true) +
       (missing && missing.length ? '<span class="ps-card__missing">Doesn’t say: ' + esc(missing.join(', ')) + '</span>' : '') + '</' + tag + '>' + (h.featured ? madeBadge() : '') + '</article>';
   }

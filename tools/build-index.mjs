@@ -52,7 +52,14 @@ const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefin
 const PUBLIC_FIELDS = ['id', 'name', 'url', 'place', 'town', 'state', 'destination', 'type', 'recordType',
   'cardDescription', 'cardPhotos', 'platformLinks', 'guests', 'bedrooms', 'bathrooms', 'kids', 'pets',
   'photo', 'lat', 'lng', 'locationLabel', 'askAddress', 'featured', 'demo'];
-const indexed = homes.map((h) => pick(h, PUBLIC_FIELDS));
+// Alt texts ride along per photo file (written into data/homes.json by tools/photo-alts.py).
+const indexed = homes.map((h) => {
+  const row = pick(h, PUBLIC_FIELDS), alts = {};
+  for (const p of h.photos || []) if (p && p.file && p.alt) alts[p.file] = p.alt;
+  if (h.photo && h.photoAlt) alts[h.photo] = h.photoAlt;
+  if (Object.keys(alts).length) row.photoAlts = alts;
+  return row;
+});
 fs.writeFileSync(path.join(ROOT, 'index.md'), md.replace(/[ \t]+$/gm, ''));
 fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(indexed, null, 1) + '\n');
 // One file per tourist destination (data/destinations/<slug>.json): a destination page's own homes only,

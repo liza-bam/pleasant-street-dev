@@ -29,7 +29,14 @@
   "lat": 41.7626,
   "lng": -70.7217,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0279-cover.webp": "Bay Breeze, Wareham, MA",
+   "images/MA-0279-000.webp": "Bay Breeze, Wareham, MA, photo 2 of 4",
+   "images/MA-0279-001.webp": "Bay Breeze, Wareham, MA, photo 3 of 4",
+   "images/MA-0279-002.webp": "Bay Breeze, Wareham, MA, photo 4 of 4",
+   "images/MA-0279-card.webp": "Bay Breeze, Wareham, MA"
+  }
  },
  {
   "id": "MA-0280",
@@ -61,7 +68,14 @@
   "lat": 41.6376,
   "lng": -70.9036,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0280-cover.webp": "Birdseye View Oceanfront, Fairhaven, MA",
+   "images/MA-0280-000.webp": "Birdseye View Oceanfront, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0280-001.webp": "Birdseye View Oceanfront, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0280-002.webp": "Birdseye View Oceanfront, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0280-card.webp": "Birdseye View Oceanfront, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-0276",
@@ -94,7 +108,14 @@
   "lng": -70.8319,
   "locationLabel": "West Island",
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0276-cover.webp": "Casa Isla, Fairhaven, MA",
+   "images/MA-0276-000.webp": "Casa Isla, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0276-001.webp": "Casa Isla, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0276-002.webp": "Casa Isla, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0276-card.webp": "Casa Isla, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-16038",
@@ -123,7 +144,14 @@
   "lng": -70.763433,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16038-000.webp": "Converse Company — Short-Term Rental, 166 Front Street, Second Floor, apartment in Marion, MA",
+   "images/MA-16038-001.webp": "Converse Company — Short-Term Rental, 166 Front Street, Second Floor, Marion, MA, photo 2 of 4",
+   "images/MA-16038-002.webp": "Converse Company — Short-Term Rental, 166 Front Street, Second Floor, Marion, MA, photo 3 of 4",
+   "images/MA-16038-003.webp": "Converse Company — Short-Term Rental, 166 Front Street, Second Floor, Marion, MA, photo 4 of 4",
+   "images/MA-16038-card.webp": "Converse Company — Short-Term Rental, 166 Front Street, Second Floor, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16039",
@@ -152,7 +180,14 @@
   "lng": -70.758625,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16039-000.webp": "Converse Company — Short-Term Rental, 62 Water Street, Marion, house in Marion, MA",
+   "images/MA-16039-001.webp": "Converse Company — Short-Term Rental, 62 Water Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16039-002.webp": "Converse Company — Short-Term Rental, 62 Water Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16039-003.webp": "Converse Company — Short-Term Rental, 62 Water Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16039-card.webp": "Converse Company — Short-Term Rental, 62 Water Street, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16019",
@@ -181,7 +216,14 @@
   "lng": -70.765341,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16019-000.webp": "Converse Company — Short-Term Rental, 63 Pleasant Street, Marion, house in Marion, MA",
+   "images/MA-16019-001.webp": "Converse Company — Short-Term Rental, 63 Pleasant Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16019-002.webp": "Converse Company — Short-Term Rental, 63 Pleasant Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16019-003.webp": "Converse Company — Short-Term Rental, 63 Pleasant Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16019-card.webp": "Converse Company — Short-Term Rental, 63 Pleasant Street, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16020",
@@ -210,7 +252,14 @@
   "lng": -70.760273,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16020-000.webp": "Converse Company — Short-Term Rental, 9 Cove Street, Marion, apartment in Marion, MA",
+   "images/MA-16020-001.webp": "Converse Company — Short-Term Rental, 9 Cove Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16020-002.webp": "Converse Company — Short-Term Rental, 9 Cove Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16020-003.webp": "Converse Company — Short-Term Rental, 9 Cove Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16020-card.webp": "Converse Company — Short-Term Rental, 9 Cove Street, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16028",
@@ -239,7 +288,14 @@
   "lng": -70.813938,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16028-000.webp": "Converse Company — Summer Rental, 1 Water Street, Mattapoisett, apartment in Mattapoisett, MA",
+   "images/MA-16028-001.webp": "Converse Company — Summer Rental, 1 Water Street, Mattapoisett, Mattapoisett, MA, photo 2 of 4",
+   "images/MA-16028-002.webp": "Converse Company — Summer Rental, 1 Water Street, Mattapoisett, Mattapoisett, MA, photo 3 of 4",
+   "images/MA-16028-003.webp": "Converse Company — Summer Rental, 1 Water Street, Mattapoisett, Mattapoisett, MA, photo 4 of 4",
+   "images/MA-16028-card.webp": "Converse Company — Summer Rental, 1 Water Street, Mattapoisett, apartment in Mattapoisett, MA"
+  }
  },
  {
   "id": "MA-16032",
@@ -268,7 +324,14 @@
   "lng": -70.721486,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16032-000.webp": "Converse Company — Summer Rental, 102 Point Road, Marion, apartment in Marion, MA",
+   "images/MA-16032-001.webp": "Converse Company — Summer Rental, 102 Point Road, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16032-002.webp": "Converse Company — Summer Rental, 102 Point Road, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16032-003.webp": "Converse Company — Summer Rental, 102 Point Road, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16032-card.webp": "Converse Company — Summer Rental, 102 Point Road, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16022",
@@ -297,7 +360,14 @@
   "lng": -70.751439,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16022-000.webp": "Converse Company — Summer Rental, 14 Taunton Avenue, Marion, house in Marion, MA",
+   "images/MA-16022-001.webp": "Converse Company — Summer Rental, 14 Taunton Avenue, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16022-002.webp": "Converse Company — Summer Rental, 14 Taunton Avenue, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16022-003.webp": "Converse Company — Summer Rental, 14 Taunton Avenue, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16022-card.webp": "Converse Company — Summer Rental, 14 Taunton Avenue, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16030",
@@ -326,7 +396,14 @@
   "lng": -70.761774,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16030-000.webp": "Converse Company — Summer Rental, 15 Hiller Street, Marion, house in Marion, MA",
+   "images/MA-16030-001.webp": "Converse Company — Summer Rental, 15 Hiller Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16030-002.webp": "Converse Company — Summer Rental, 15 Hiller Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16030-003.webp": "Converse Company — Summer Rental, 15 Hiller Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16030-card.webp": "Converse Company — Summer Rental, 15 Hiller Street, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16024",
@@ -355,7 +432,14 @@
   "lng": -70.758297,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16024-000.webp": "Converse Company — Summer Rental, 17 Hastings Road, Marion, apartment in Marion, MA",
+   "images/MA-16024-001.webp": "Converse Company — Summer Rental, 17 Hastings Road, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16024-002.webp": "Converse Company — Summer Rental, 17 Hastings Road, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16024-003.webp": "Converse Company — Summer Rental, 17 Hastings Road, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16024-card.webp": "Converse Company — Summer Rental, 17 Hastings Road, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16023",
@@ -384,7 +468,14 @@
   "lng": -70.735585,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16023-000.webp": "Converse Company — Summer Rental, 18 East Avenue, Marion, house in Marion, MA",
+   "images/MA-16023-001.webp": "Converse Company — Summer Rental, 18 East Avenue, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16023-002.webp": "Converse Company — Summer Rental, 18 East Avenue, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16023-003.webp": "Converse Company — Summer Rental, 18 East Avenue, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16023-card.webp": "Converse Company — Summer Rental, 18 East Avenue, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16037",
@@ -413,7 +504,14 @@
   "lng": -70.755083,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16037-000.webp": "Converse Company — Summer Rental, 2 Jenney Lane, Marion, apartment in Marion, MA",
+   "images/MA-16037-001.webp": "Converse Company — Summer Rental, 2 Jenney Lane, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16037-002.webp": "Converse Company — Summer Rental, 2 Jenney Lane, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16037-003.webp": "Converse Company — Summer Rental, 2 Jenney Lane, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16037-card.webp": "Converse Company — Summer Rental, 2 Jenney Lane, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16034",
@@ -442,7 +540,14 @@
   "lng": -70.76208,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16034-000.webp": "Converse Company — Summer Rental, 25 Main Street, Unit 2, Marion, apartment in Marion, MA",
+   "images/MA-16034-001.webp": "Converse Company — Summer Rental, 25 Main Street, Unit 2, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16034-002.webp": "Converse Company — Summer Rental, 25 Main Street, Unit 2, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16034-003.webp": "Converse Company — Summer Rental, 25 Main Street, Unit 2, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16034-card.webp": "Converse Company — Summer Rental, 25 Main Street, Unit 2, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16025",
@@ -471,7 +576,14 @@
   "lng": -70.764944,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16025-000.webp": "Converse Company — Summer Rental, 3 Pleasant Street, Marion, apartment in Marion, MA",
+   "images/MA-16025-001.webp": "Converse Company — Summer Rental, 3 Pleasant Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16025-002.webp": "Converse Company — Summer Rental, 3 Pleasant Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16025-003.webp": "Converse Company — Summer Rental, 3 Pleasant Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16025-card.webp": "Converse Company — Summer Rental, 3 Pleasant Street, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16029",
@@ -500,7 +612,14 @@
   "lng": -70.727555,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16029-000.webp": "Converse Company — Summer Rental, 4 Howland Road, Marion, house in Marion, MA",
+   "images/MA-16029-001.webp": "Converse Company — Summer Rental, 4 Howland Road, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16029-002.webp": "Converse Company — Summer Rental, 4 Howland Road, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16029-003.webp": "Converse Company — Summer Rental, 4 Howland Road, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16029-card.webp": "Converse Company — Summer Rental, 4 Howland Road, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16035",
@@ -529,7 +648,14 @@
   "lng": -70.760318,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16035-000.webp": "Converse Company — Summer Rental, 43 Allen Street, Marion, house in Marion, MA",
+   "images/MA-16035-001.webp": "Converse Company — Summer Rental, 43 Allen Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16035-002.webp": "Converse Company — Summer Rental, 43 Allen Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16035-003.webp": "Converse Company — Summer Rental, 43 Allen Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16035-card.webp": "Converse Company — Summer Rental, 43 Allen Street, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16031",
@@ -558,7 +684,14 @@
   "lng": -70.733405,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16031-000.webp": "Converse Company — Summer Rental, 465 Point Road, Marion, house in Marion, MA",
+   "images/MA-16031-001.webp": "Converse Company — Summer Rental, 465 Point Road, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16031-002.webp": "Converse Company — Summer Rental, 465 Point Road, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16031-003.webp": "Converse Company — Summer Rental, 465 Point Road, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16031-card.webp": "Converse Company — Summer Rental, 465 Point Road, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16033",
@@ -587,7 +720,14 @@
   "lng": -70.738804,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16033-000.webp": "Converse Company — Summer Rental, 522C Point Road, Marion, house in Marion, MA",
+   "images/MA-16033-001.webp": "Converse Company — Summer Rental, 522C Point Road, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16033-002.webp": "Converse Company — Summer Rental, 522C Point Road, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16033-003.webp": "Converse Company — Summer Rental, 522C Point Road, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16033-card.webp": "Converse Company — Summer Rental, 522C Point Road, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16021",
@@ -616,7 +756,14 @@
   "lng": -70.765081,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16021-000.webp": "Converse Company — Summer Rental, 54 Main Street, Marion, apartment in Marion, MA",
+   "images/MA-16021-001.webp": "Converse Company — Summer Rental, 54 Main Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16021-002.webp": "Converse Company — Summer Rental, 54 Main Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16021-003.webp": "Converse Company — Summer Rental, 54 Main Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16021-card.webp": "Converse Company — Summer Rental, 54 Main Street, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16026",
@@ -645,7 +792,14 @@
   "lng": -70.74226,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16026-000.webp": "Converse Company — Summer Rental, 596 Point Road, Marion, apartment in Marion, MA",
+   "images/MA-16026-001.webp": "Converse Company — Summer Rental, 596 Point Road, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16026-002.webp": "Converse Company — Summer Rental, 596 Point Road, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16026-003.webp": "Converse Company — Summer Rental, 596 Point Road, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16026-card.webp": "Converse Company — Summer Rental, 596 Point Road, Marion, apartment in Marion, MA"
+  }
  },
  {
   "id": "MA-16018",
@@ -674,7 +828,14 @@
   "lng": -70.762602,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16018-000.webp": "Converse Company — Summer Rental, 70 Allen Street, Marion, house in Marion, MA",
+   "images/MA-16018-001.webp": "Converse Company — Summer Rental, 70 Allen Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16018-002.webp": "Converse Company — Summer Rental, 70 Allen Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16018-003.webp": "Converse Company — Summer Rental, 70 Allen Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16018-card.webp": "Converse Company — Summer Rental, 70 Allen Street, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16036",
@@ -703,7 +864,14 @@
   "lng": -70.740167,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16036-000.webp": "Converse Company — Summer Rental, 8 Island Court, Marion, house in Marion, MA",
+   "images/MA-16036-001.webp": "Converse Company — Summer Rental, 8 Island Court, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16036-002.webp": "Converse Company — Summer Rental, 8 Island Court, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16036-003.webp": "Converse Company — Summer Rental, 8 Island Court, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16036-card.webp": "Converse Company — Summer Rental, 8 Island Court, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16027",
@@ -732,7 +900,14 @@
   "lng": -70.745425,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16027-000.webp": "Converse Company — The Moorings, 100 Moorings Road, Marion, house in Marion, MA",
+   "images/MA-16027-001.webp": "Converse Company — The Moorings, 100 Moorings Road, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16027-002.webp": "Converse Company — The Moorings, 100 Moorings Road, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16027-003.webp": "Converse Company — The Moorings, 100 Moorings Road, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16027-card.webp": "Converse Company — The Moorings, 100 Moorings Road, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-0275",
@@ -765,7 +940,14 @@
   "lng": -70.8319,
   "locationLabel": "West Island",
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0275-cover.webp": "Cozy Quahog, Fairhaven, MA",
+   "images/MA-0275-000.webp": "Cozy Quahog, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0275-001.webp": "Cozy Quahog, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0275-002.webp": "Cozy Quahog, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0275-card.webp": "Cozy Quahog, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-16004",
@@ -793,7 +975,14 @@
   "lat": 41.741248,
   "lng": -70.662947,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16004-000.webp": "Cute Onset Beach Cottage, Onset, MA",
+   "images/MA-16004-001.webp": "Cute Onset Beach Cottage, Onset, MA, photo 2 of 4",
+   "images/MA-16004-002.webp": "Cute Onset Beach Cottage, Onset, MA, photo 3 of 4",
+   "images/MA-16004-003.webp": "Cute Onset Beach Cottage, Onset, MA, photo 4 of 4",
+   "images/MA-16004-card.webp": "Cute Onset Beach Cottage, Onset, MA"
+  }
  },
  {
   "id": "MA-0272",
@@ -822,7 +1011,14 @@
   "lng": -71.078,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0272-cover.webp": "Historic Westport Point Waterfront Home — Kathy Santos, Westport, MA",
+   "images/MA-0272-000.webp": "Historic Westport Point Waterfront Home — Kathy Santos, Westport, MA, photo 2 of 4",
+   "images/MA-0272-001.webp": "Historic Westport Point Waterfront Home — Kathy Santos, Westport, MA, photo 3 of 4",
+   "images/MA-0272-002.webp": "Historic Westport Point Waterfront Home — Kathy Santos, Westport, MA, photo 4 of 4",
+   "images/MA-0272-card.webp": "Historic Westport Point Waterfront Home — Kathy Santos, Westport, MA"
+  }
  },
  {
   "id": "MA-0271",
@@ -850,7 +1046,14 @@
   "lat": 41.622,
   "lng": -71.078,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0271-cover.webp": "Horseneck Farms Cottage, Westport, MA",
+   "images/MA-0271-000.webp": "Horseneck Farms Cottage, Westport, MA, photo 2 of 4",
+   "images/MA-0271-001.webp": "Horseneck Farms Cottage, Westport, MA, photo 3 of 4",
+   "images/MA-0271-002.webp": "Horseneck Farms Cottage, Westport, MA, photo 4 of 4",
+   "images/MA-0271-card.webp": "Horseneck Farms Cottage, Westport, MA"
+  }
  },
  {
   "id": "MA-16000",
@@ -879,7 +1082,14 @@
   "lng": -71.108516,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16000-000.webp": "Kathy Santos — Rental #2: Westport Harbor, house in Westport, MA",
+   "images/MA-16000-001.webp": "Kathy Santos — Rental #2: Westport Harbor, Westport, MA, photo 2 of 4",
+   "images/MA-16000-002.webp": "Kathy Santos — Rental #2: Westport Harbor, Westport, MA, photo 3 of 4",
+   "images/MA-16000-003.webp": "Kathy Santos — Rental #2: Westport Harbor, Westport, MA, photo 4 of 4",
+   "images/MA-16000-card.webp": "Kathy Santos — Rental #2: Westport Harbor, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16001",
@@ -908,7 +1118,14 @@
   "lng": -71.040884,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16001-000.webp": "Kathy Santos — Rental #6: Riverfront Cottage, South Westport, house in Westport, MA",
+   "images/MA-16001-001.webp": "Kathy Santos — Rental #6: Riverfront Cottage, South Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16001-002.webp": "Kathy Santos — Rental #6: Riverfront Cottage, South Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16001-003.webp": "Kathy Santos — Rental #6: Riverfront Cottage, South Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16001-card.webp": "Kathy Santos — Rental #6: Riverfront Cottage, South Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16002",
@@ -937,7 +1154,14 @@
   "lng": -71.065482,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16002-000.webp": "Kathy Santos — Rental #7: Great Island, house in Westport, MA",
+   "images/MA-16002-001.webp": "Kathy Santos — Rental #7: Great Island, Westport, MA, photo 2 of 4",
+   "images/MA-16002-002.webp": "Kathy Santos — Rental #7: Great Island, Westport, MA, photo 3 of 4",
+   "images/MA-16002-003.webp": "Kathy Santos — Rental #7: Great Island, Westport, MA, photo 4 of 4",
+   "images/MA-16002-card.webp": "Kathy Santos — Rental #7: Great Island, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16003",
@@ -966,7 +1190,14 @@
   "lng": -71.076921,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16003-000.webp": "Kathy Santos — Rental #8: Barn Studio, Westport Point, apartment in Westport, MA",
+   "images/MA-16003-001.webp": "Kathy Santos — Rental #8: Barn Studio, Westport Point, Westport, MA, photo 2 of 4",
+   "images/MA-16003-002.webp": "Kathy Santos — Rental #8: Barn Studio, Westport Point, Westport, MA, photo 3 of 4",
+   "images/MA-16003-003.webp": "Kathy Santos — Rental #8: Barn Studio, Westport Point, Westport, MA, photo 4 of 4",
+   "images/MA-16003-card.webp": "Kathy Santos — Rental #8: Barn Studio, Westport Point, apartment in Westport, MA"
+  }
  },
  {
   "id": "MA-0281",
@@ -999,7 +1230,14 @@
   "lng": -70.8319,
   "locationLabel": "West Island",
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0281-cover.webp": "Lovely Day Oceanside, Fairhaven, MA",
+   "images/MA-0281-000.webp": "Lovely Day Oceanside, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0281-001.webp": "Lovely Day Oceanside, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0281-002.webp": "Lovely Day Oceanside, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0281-card.webp": "Lovely Day Oceanside, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-0282",
@@ -1031,7 +1269,14 @@
   "lat": 41.6376,
   "lng": -70.9036,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0282-cover.webp": "Maple by the Bay – Fort Phoenix, Fairhaven, MA",
+   "images/MA-0282-000.webp": "Maple by the Bay – Fort Phoenix, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0282-001.webp": "Maple by the Bay – Fort Phoenix, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0282-002.webp": "Maple by the Bay – Fort Phoenix, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0282-card.webp": "Maple by the Bay – Fort Phoenix, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-16011",
@@ -1059,7 +1304,14 @@
   "lat": 41.503579,
   "lng": -71.106739,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16011-000.webp": "Mott & Chace — 20 Atlantic Avenue, Westport, house in Westport, MA",
+   "images/MA-16011-001.webp": "Mott & Chace — 20 Atlantic Avenue, Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16011-002.webp": "Mott & Chace — 20 Atlantic Avenue, Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16011-003.webp": "Mott & Chace — 20 Atlantic Avenue, Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16011-card.webp": "Mott & Chace — 20 Atlantic Avenue, Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16012",
@@ -1087,7 +1339,14 @@
   "lat": 41.50595,
   "lng": -71.09411,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16012-000.webp": "Mott & Chace — 200 Atlantic Avenue, Westport, house in Westport, MA",
+   "images/MA-16012-001.webp": "Mott & Chace — 200 Atlantic Avenue, Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16012-002.webp": "Mott & Chace — 200 Atlantic Avenue, Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16012-003.webp": "Mott & Chace — 200 Atlantic Avenue, Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16012-card.webp": "Mott & Chace — 200 Atlantic Avenue, Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16013",
@@ -1115,7 +1374,14 @@
   "lat": 41.510993,
   "lng": -71.069655,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16013-000.webp": "Mott & Chace — 23 Deacon Road, Westport, house in Westport, MA",
+   "images/MA-16013-001.webp": "Mott & Chace — 23 Deacon Road, Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16013-002.webp": "Mott & Chace — 23 Deacon Road, Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16013-003.webp": "Mott & Chace — 23 Deacon Road, Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16013-card.webp": "Mott & Chace — 23 Deacon Road, Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16014",
@@ -1143,7 +1409,14 @@
   "lat": 41.52586,
   "lng": -71.078248,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16014-000.webp": "Mott & Chace — 32 Cape Bial Lane, Westport, house in Westport, MA",
+   "images/MA-16014-001.webp": "Mott & Chace — 32 Cape Bial Lane, Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16014-002.webp": "Mott & Chace — 32 Cape Bial Lane, Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16014-003.webp": "Mott & Chace — 32 Cape Bial Lane, Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16014-card.webp": "Mott & Chace — 32 Cape Bial Lane, Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16015",
@@ -1171,7 +1444,14 @@
   "lat": 41.497128,
   "lng": -71.116969,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16015-000.webp": "Mott & Chace — 327 Brayton Point Road, Westport, house in Westport, MA",
+   "images/MA-16015-001.webp": "Mott & Chace — 327 Brayton Point Road, Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16015-002.webp": "Mott & Chace — 327 Brayton Point Road, Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16015-003.webp": "Mott & Chace — 327 Brayton Point Road, Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16015-card.webp": "Mott & Chace — 327 Brayton Point Road, Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16016",
@@ -1199,7 +1479,14 @@
   "lat": 41.51458,
   "lng": -71.110295,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16016-000.webp": "Mott & Chace — 78 Howland Road, Westport, house in Westport, MA",
+   "images/MA-16016-001.webp": "Mott & Chace — 78 Howland Road, Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16016-002.webp": "Mott & Chace — 78 Howland Road, Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16016-003.webp": "Mott & Chace — 78 Howland Road, Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16016-card.webp": "Mott & Chace — 78 Howland Road, Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-16017",
@@ -1227,7 +1514,14 @@
   "lat": 41.508738,
   "lng": -71.097119,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16017-000.webp": "Mott & Chace — 830 River Road, Westport, house in Westport, MA",
+   "images/MA-16017-001.webp": "Mott & Chace — 830 River Road, Westport, Westport, MA, photo 2 of 4",
+   "images/MA-16017-002.webp": "Mott & Chace — 830 River Road, Westport, Westport, MA, photo 3 of 4",
+   "images/MA-16017-003.webp": "Mott & Chace — 830 River Road, Westport, Westport, MA, photo 4 of 4",
+   "images/MA-16017-card.webp": "Mott & Chace — 830 River Road, Westport, house in Westport, MA"
+  }
  },
  {
   "id": "MA-4247",
@@ -1256,7 +1550,14 @@
   "lng": -70.65595,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-4247-cover.webp": "New England Vacation Rentals — The Glam Shack, house in Wareham, MA",
+   "images/MA-4247-000.webp": "New England Vacation Rentals — The Glam Shack, Wareham, MA, photo 2 of 4",
+   "images/MA-4247-001.webp": "New England Vacation Rentals — The Glam Shack, Wareham, MA, photo 3 of 4",
+   "images/MA-4247-002.webp": "New England Vacation Rentals — The Glam Shack, Wareham, MA, photo 4 of 4",
+   "images/MA-4247-card.webp": "New England Vacation Rentals — The Glam Shack, house in Wareham, MA"
+  }
  },
  {
   "id": "MA-0284",
@@ -1288,7 +1589,14 @@
   "lat": 41.658,
   "lng": -70.8135,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0284-cover.webp": "Ocean Escape, Mattapoisett, MA",
+   "images/MA-0284-000.webp": "Ocean Escape, Mattapoisett, MA, photo 2 of 4",
+   "images/MA-0284-001.webp": "Ocean Escape, Mattapoisett, MA, photo 3 of 4",
+   "images/MA-0284-002.webp": "Ocean Escape, Mattapoisett, MA, photo 4 of 4",
+   "images/MA-0284-card.webp": "Ocean Escape, Mattapoisett, MA"
+  }
  },
  {
   "id": "MA-0277",
@@ -1321,7 +1629,14 @@
   "lng": -70.8319,
   "locationLabel": "West Island",
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0277-cover.webp": "Oceanview Oasis, Fairhaven, MA",
+   "images/MA-0277-000.webp": "Oceanview Oasis, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0277-001.webp": "Oceanview Oasis, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0277-002.webp": "Oceanview Oasis, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0277-card.webp": "Oceanview Oasis, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-16010",
@@ -1350,7 +1665,14 @@
   "lng": -70.760104,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16010-000.webp": "Robert Paul Vacation Rentals — 3 Main Street, Marion, house in Marion, MA",
+   "images/MA-16010-001.webp": "Robert Paul Vacation Rentals — 3 Main Street, Marion, Marion, MA, photo 2 of 4",
+   "images/MA-16010-002.webp": "Robert Paul Vacation Rentals — 3 Main Street, Marion, Marion, MA, photo 3 of 4",
+   "images/MA-16010-003.webp": "Robert Paul Vacation Rentals — 3 Main Street, Marion, Marion, MA, photo 4 of 4",
+   "images/MA-16010-card.webp": "Robert Paul Vacation Rentals — 3 Main Street, Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-4491",
@@ -1379,7 +1701,14 @@
   "lng": -70.66276,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-4491-cover.webp": "Sand Dollar Realty — 207A Great Neck Rd., house in Wareham, MA",
+   "images/MA-4491-000.webp": "Sand Dollar Realty — 207A Great Neck Rd., Wareham, MA, photo 2 of 4",
+   "images/MA-4491-001.webp": "Sand Dollar Realty — 207A Great Neck Rd., Wareham, MA, photo 3 of 4",
+   "images/MA-4491-002.webp": "Sand Dollar Realty — 207A Great Neck Rd., Wareham, MA, photo 4 of 4",
+   "images/MA-4491-card.webp": "Sand Dollar Realty — 207A Great Neck Rd., house in Wareham, MA"
+  }
  },
  {
   "id": "MA-4493",
@@ -1408,7 +1737,14 @@
   "lng": -70.66276,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-4493-cover.webp": "Sand Dollar Realty — 207B Great Neck Rd., Wareham, MA",
+   "images/MA-4493-000.webp": "Sand Dollar Realty — 207B Great Neck Rd., Wareham, MA, photo 2 of 4",
+   "images/MA-4493-001.webp": "Sand Dollar Realty — 207B Great Neck Rd., Wareham, MA, photo 3 of 4",
+   "images/MA-4493-002.webp": "Sand Dollar Realty — 207B Great Neck Rd., Wareham, MA, photo 4 of 4",
+   "images/MA-4493-card.webp": "Sand Dollar Realty — 207B Great Neck Rd., Wareham, MA"
+  }
  },
  {
   "id": "MA-0285",
@@ -1431,7 +1767,10 @@
   "lat": 41.6376,
   "lng": -70.9036,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Sea Space Fairhaven, house in Fairhaven, MA"
+  }
  },
  {
   "id": "MA-0252",
@@ -1459,7 +1798,14 @@
   "lat": 41.654466,
   "lng": -70.779667,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0252-cover.webp": "Split Rock, Easy Walk To Beach & Scenic Trails, Mattapoisett, MA",
+   "images/MA-0252-000.webp": "Split Rock, Easy Walk To Beach & Scenic Trails, Mattapoisett, MA, photo 2 of 4",
+   "images/MA-0252-001.webp": "Split Rock, Easy Walk To Beach & Scenic Trails, Mattapoisett, MA, photo 3 of 4",
+   "images/MA-0252-002.webp": "Split Rock, Easy Walk To Beach & Scenic Trails, Mattapoisett, MA, photo 4 of 4",
+   "images/MA-0252-card.webp": "Split Rock, Easy Walk To Beach & Scenic Trails, Mattapoisett, MA"
+  }
  },
  {
   "id": "MA-0283",
@@ -1492,7 +1838,14 @@
   "lng": -70.8319,
   "locationLabel": "West Island",
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0283-cover.webp": "Strawberry Moon – West Island, Fairhaven, MA",
+   "images/MA-0283-000.webp": "Strawberry Moon – West Island, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0283-001.webp": "Strawberry Moon – West Island, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0283-002.webp": "Strawberry Moon – West Island, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0283-card.webp": "Strawberry Moon – West Island, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-16006",
@@ -1520,7 +1873,14 @@
   "lat": 41.6376,
   "lng": -70.9036,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16006-000.webp": "The Beach Hive, West Island, house in Fairhaven, MA",
+   "images/MA-16006-001.webp": "The Beach Hive, West Island, Fairhaven, MA, photo 2 of 4",
+   "images/MA-16006-002.webp": "The Beach Hive, West Island, Fairhaven, MA, photo 3 of 4",
+   "images/MA-16006-003.webp": "The Beach Hive, West Island, Fairhaven, MA, photo 4 of 4",
+   "images/MA-16006-card.webp": "The Beach Hive, West Island, house in Fairhaven, MA"
+  }
  },
  {
   "id": "MA-0278",
@@ -1552,7 +1912,14 @@
   "lat": 41.6376,
   "lng": -70.9036,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0278-cover.webp": "The Fairview, Fairhaven, MA",
+   "images/MA-0278-000.webp": "The Fairview, Fairhaven, MA, photo 2 of 4",
+   "images/MA-0278-001.webp": "The Fairview, Fairhaven, MA, photo 3 of 4",
+   "images/MA-0278-002.webp": "The Fairview, Fairhaven, MA, photo 4 of 4",
+   "images/MA-0278-card.webp": "The Fairview, Fairhaven, MA"
+  }
  },
  {
   "id": "MA-0405",
@@ -1580,7 +1947,14 @@
   "lat": 41.74544,
   "lng": -70.65632,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0405-cover.webp": "The Mermaid Cottage at Cape Cod Canal Compound Lodge, house in Wareham / Onset, MA",
+   "images/MA-0405-000.webp": "The Mermaid Cottage at Cape Cod Canal Compound Lodge, Wareham / Onset, MA, photo 2 of 4",
+   "images/MA-0405-001.webp": "The Mermaid Cottage at Cape Cod Canal Compound Lodge, Wareham / Onset, MA, photo 3 of 4",
+   "images/MA-0405-002.webp": "The Mermaid Cottage at Cape Cod Canal Compound Lodge, Wareham / Onset, MA, photo 4 of 4",
+   "images/MA-0405-card.webp": "The Mermaid Cottage at Cape Cod Canal Compound Lodge, house in Wareham / Onset, MA"
+  }
  },
  {
   "id": "MA-16009",
@@ -1609,7 +1983,14 @@
   "lng": -70.941982,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16009-000.webp": "The Millie Group — Arnold's, apartment in New Bedford, MA",
+   "images/MA-16009-001.webp": "The Millie Group — Arnold's, New Bedford, MA, photo 2 of 4",
+   "images/MA-16009-002.webp": "The Millie Group — Arnold's, New Bedford, MA, photo 3 of 4",
+   "images/MA-16009-003.webp": "The Millie Group — Arnold's, New Bedford, MA, photo 4 of 4",
+   "images/MA-16009-card.webp": "The Millie Group — Arnold's, apartment in New Bedford, MA"
+  }
  },
  {
   "id": "MA-16008",
@@ -1638,7 +2019,14 @@
   "lng": -70.92784,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16008-000.webp": "The Millie Group — Henry's on William, apartment in New Bedford, MA",
+   "images/MA-16008-001.webp": "The Millie Group — Henry's on William, New Bedford, MA, photo 2 of 4",
+   "images/MA-16008-002.webp": "The Millie Group — Henry's on William, New Bedford, MA, photo 3 of 4",
+   "images/MA-16008-003.webp": "The Millie Group — Henry's on William, New Bedford, MA, photo 4 of 4",
+   "images/MA-16008-card.webp": "The Millie Group — Henry's on William, apartment in New Bedford, MA"
+  }
  },
  {
   "id": "MA-16007",
@@ -1667,7 +2055,14 @@
   "lng": -70.921923,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16007-000.webp": "The Millie Group — Millie's Penthouse, apartment in New Bedford, MA",
+   "images/MA-16007-001.webp": "The Millie Group — Millie's Penthouse, New Bedford, MA, photo 2 of 4",
+   "images/MA-16007-002.webp": "The Millie Group — Millie's Penthouse, New Bedford, MA, photo 3 of 4",
+   "images/MA-16007-003.webp": "The Millie Group — Millie's Penthouse, New Bedford, MA, photo 4 of 4",
+   "images/MA-16007-card.webp": "The Millie Group — Millie's Penthouse, apartment in New Bedford, MA"
+  }
  },
  {
   "id": "MA-0273",
@@ -1695,7 +2090,10 @@
   "lat": 41.7001,
   "lng": -70.7628,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "The Salt House Marion, house in Marion, MA"
+  }
  },
  {
   "id": "MA-16005",
@@ -1723,7 +2121,14 @@
   "lat": 41.6285,
   "lng": -70.8911,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-16005-000.webp": "Turner Fairhaven Beach House, house in Fairhaven, MA",
+   "images/MA-16005-001.webp": "Turner Fairhaven Beach House, Fairhaven, MA, photo 2 of 4",
+   "images/MA-16005-002.webp": "Turner Fairhaven Beach House, Fairhaven, MA, photo 3 of 4",
+   "images/MA-16005-003.webp": "Turner Fairhaven Beach House, Fairhaven, MA, photo 4 of 4",
+   "images/MA-16005-card.webp": "Turner Fairhaven Beach House, house in Fairhaven, MA"
+  }
  },
  {
   "id": "MA-3348",
@@ -1752,7 +2157,14 @@
   "lng": -70.75883,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-3348-cover.webp": "Vacation Cape Cod — Harbor Beach Haven (MGALL), Mattapoisett, MA",
+   "images/MA-3348-000.webp": "Vacation Cape Cod — Harbor Beach Haven (MGALL), Mattapoisett, MA, photo 2 of 4",
+   "images/MA-3348-001.webp": "Vacation Cape Cod — Harbor Beach Haven (MGALL), Mattapoisett, MA, photo 3 of 4",
+   "images/MA-3348-002.webp": "Vacation Cape Cod — Harbor Beach Haven (MGALL), Mattapoisett, MA, photo 4 of 4",
+   "images/MA-3348-card.webp": "Vacation Cape Cod — Harbor Beach Haven (MGALL), Mattapoisett, MA"
+  }
  },
  {
   "id": "MA-3099",
@@ -1781,7 +2193,14 @@
   "lng": -70.8023,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-3099-cover.webp": "Vacation Cape Cod — Ocean Drive Oasis (MWILL), Mattapoisett, MA",
+   "images/MA-3099-000.webp": "Vacation Cape Cod — Ocean Drive Oasis (MWILL), Mattapoisett, MA, photo 2 of 4",
+   "images/MA-3099-001.webp": "Vacation Cape Cod — Ocean Drive Oasis (MWILL), Mattapoisett, MA, photo 3 of 4",
+   "images/MA-3099-002.webp": "Vacation Cape Cod — Ocean Drive Oasis (MWILL), Mattapoisett, MA, photo 4 of 4",
+   "images/MA-3099-card.webp": "Vacation Cape Cod — Ocean Drive Oasis (MWILL), Mattapoisett, MA"
+  }
  },
  {
   "id": "MA-3367",
@@ -1810,7 +2229,14 @@
   "lng": -70.6597,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-3367-cover.webp": "Vacation Cape Cod — Onset Bay Beach House (MMCCUT), Onset, MA",
+   "images/MA-3367-000.webp": "Vacation Cape Cod — Onset Bay Beach House (MMCCUT), Onset, MA, photo 2 of 4",
+   "images/MA-3367-001.webp": "Vacation Cape Cod — Onset Bay Beach House (MMCCUT), Onset, MA, photo 3 of 4",
+   "images/MA-3367-002.webp": "Vacation Cape Cod — Onset Bay Beach House (MMCCUT), Onset, MA, photo 4 of 4",
+   "images/MA-3367-card.webp": "Vacation Cape Cod — Onset Bay Beach House (MMCCUT), Onset, MA"
+  }
  },
  {
   "id": "MA-3408",
@@ -1839,7 +2265,14 @@
   "lng": -70.66259,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-3408-cover.webp": "Vacation Cape Cod — Spacious 5BD Beachfront (MFERR), Onset, MA",
+   "images/MA-3408-000.webp": "Vacation Cape Cod — Spacious 5BD Beachfront (MFERR), Onset, MA, photo 2 of 4",
+   "images/MA-3408-001.webp": "Vacation Cape Cod — Spacious 5BD Beachfront (MFERR), Onset, MA, photo 3 of 4",
+   "images/MA-3408-002.webp": "Vacation Cape Cod — Spacious 5BD Beachfront (MFERR), Onset, MA, photo 4 of 4",
+   "images/MA-3408-card.webp": "Vacation Cape Cod — Spacious 5BD Beachfront (MFERR), Onset, MA"
+  }
  },
  {
   "id": "MA-3239",
@@ -1868,6 +2301,13 @@
   "lng": -70.77871,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-3239-cover.webp": "Vacation Cape Cod — The Quahog Shack (MMILE), Mattapoisett, MA",
+   "images/MA-3239-000.webp": "Vacation Cape Cod — The Quahog Shack (MMILE), Mattapoisett, MA, photo 2 of 4",
+   "images/MA-3239-001.webp": "Vacation Cape Cod — The Quahog Shack (MMILE), Mattapoisett, MA, photo 3 of 4",
+   "images/MA-3239-002.webp": "Vacation Cape Cod — The Quahog Shack (MMILE), Mattapoisett, MA, photo 4 of 4",
+   "images/MA-3239-card.webp": "Vacation Cape Cod — The Quahog Shack (MMILE), Mattapoisett, MA"
+  }
  }
 ]

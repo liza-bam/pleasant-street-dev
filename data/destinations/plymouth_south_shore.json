@@ -20,7 +20,10 @@
   "lat": 41.9427,
   "lng": -70.7619,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "1620 Hospitality, apartment in Plymouth, MA"
+  }
  },
  {
   "id": "MA-0262",
@@ -48,7 +51,14 @@
   "lat": 42.136012,
   "lng": -70.690447,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0262-cover.webp": "Coveted Cottage: Humarock Beach Experience, Scituate, MA",
+   "images/MA-0262-000.webp": "Coveted Cottage: Humarock Beach Experience, Scituate, MA, photo 2 of 4",
+   "images/MA-0262-001.webp": "Coveted Cottage: Humarock Beach Experience, Scituate, MA, photo 3 of 4",
+   "images/MA-0262-002.webp": "Coveted Cottage: Humarock Beach Experience, Scituate, MA, photo 4 of 4",
+   "images/MA-0262-card.webp": "Coveted Cottage: Humarock Beach Experience, Scituate, MA"
+  }
  },
  {
   "id": "MA-0263",
@@ -76,7 +86,14 @@
   "lat": 42.129761,
   "lng": -70.685866,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0263-cover.webp": "Humarock Hideaway, Tranquil Cottage with River Views, Marshfield, MA",
+   "images/MA-0263-000.webp": "Humarock Hideaway, Tranquil Cottage with River Views, Marshfield, MA, photo 2 of 4",
+   "images/MA-0263-001.webp": "Humarock Hideaway, Tranquil Cottage with River Views, Marshfield, MA, photo 3 of 4",
+   "images/MA-0263-002.webp": "Humarock Hideaway, Tranquil Cottage with River Views, Marshfield, MA, photo 4 of 4",
+   "images/MA-0263-card.webp": "Humarock Hideaway, Tranquil Cottage with River Views, Marshfield, MA"
+  }
  },
  {
   "id": "MA-17023",
@@ -104,7 +121,14 @@
   "lat": 42.1924,
   "lng": -70.7262,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17023-cover.webp": "Humarock Memory Maker Beach House, house in Scituate, MA",
+   "images/MA-17023-000.webp": "Humarock Memory Maker Beach House, Scituate, MA, photo 2 of 4",
+   "images/MA-17023-001.webp": "Humarock Memory Maker Beach House, Scituate, MA, photo 3 of 4",
+   "images/MA-17023-002.webp": "Humarock Memory Maker Beach House, Scituate, MA, photo 4 of 4",
+   "images/MA-17023-card.webp": "Humarock Memory Maker Beach House, house in Scituate, MA"
+  }
  },
  {
   "id": "MA-17024",
@@ -132,7 +156,14 @@
   "lat": 42.1924,
   "lng": -70.7262,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17024-cover.webp": "Humarock Oceanfront Vacation Home, house in Scituate, MA",
+   "images/MA-17024-000.webp": "Humarock Oceanfront Vacation Home, Scituate, MA, photo 2 of 4",
+   "images/MA-17024-001.webp": "Humarock Oceanfront Vacation Home, Scituate, MA, photo 3 of 4",
+   "images/MA-17024-002.webp": "Humarock Oceanfront Vacation Home, Scituate, MA, photo 4 of 4",
+   "images/MA-17024-card.webp": "Humarock Oceanfront Vacation Home, house in Scituate, MA"
+  }
  },
  {
   "id": "MA-17022",
@@ -161,7 +192,14 @@
   "lng": -70.54737,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17022-cover.webp": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth, house in Plymouth, MA",
+   "images/MA-17022-000.webp": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth, Plymouth, MA, photo 2 of 4",
+   "images/MA-17022-001.webp": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth, Plymouth, MA, photo 3 of 4",
+   "images/MA-17022-002.webp": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth, Plymouth, MA, photo 4 of 4",
+   "images/MA-17022-card.webp": "Lamacchia Vacation Rentals — 59 Nonantum Rd - Plymouth, house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-4120",
@@ -190,7 +228,14 @@
   "lng": -70.53245,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-4120-cover.webp": "New England Vacation Rentals — Ocean's Bluff, house in Plymouth, MA",
+   "images/MA-4120-000.webp": "New England Vacation Rentals — Ocean's Bluff, Plymouth, MA, photo 2 of 4",
+   "images/MA-4120-001.webp": "New England Vacation Rentals — Ocean's Bluff, Plymouth, MA, photo 3 of 4",
+   "images/MA-4120-002.webp": "New England Vacation Rentals — Ocean's Bluff, Plymouth, MA, photo 4 of 4",
+   "images/MA-4120-card.webp": "New England Vacation Rentals — Ocean's Bluff, house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-4117",
@@ -219,7 +264,14 @@
   "lng": -70.54365,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-4117-cover.webp": "New England Vacation Rentals — Ocean's Edge, house in Plymouth, MA",
+   "images/MA-4117-000.webp": "New England Vacation Rentals — Ocean's Edge, Plymouth, MA, photo 2 of 4",
+   "images/MA-4117-001.webp": "New England Vacation Rentals — Ocean's Edge, Plymouth, MA, photo 3 of 4",
+   "images/MA-4117-002.webp": "New England Vacation Rentals — Ocean's Edge, Plymouth, MA, photo 4 of 4",
+   "images/MA-4117-card.webp": "New England Vacation Rentals — Ocean's Edge, house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-17025",
@@ -247,7 +299,14 @@
   "lat": 42.267831,
   "lng": -70.852892,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17025-cover.webp": "Ocean Bay Nantasket — One-Bedroom Vacation Rental, apartment in Hull, MA",
+   "images/MA-17025-000.webp": "Ocean Bay Nantasket — One-Bedroom Vacation Rental, Hull, MA, photo 2 of 4",
+   "images/MA-17025-001.webp": "Ocean Bay Nantasket — One-Bedroom Vacation Rental, Hull, MA, photo 3 of 4",
+   "images/MA-17025-002.webp": "Ocean Bay Nantasket — One-Bedroom Vacation Rental, Hull, MA, photo 4 of 4",
+   "images/MA-17025-card.webp": "Ocean Bay Nantasket — One-Bedroom Vacation Rental, apartment in Hull, MA"
+  }
  },
  {
   "id": "MA-0257",
@@ -275,7 +334,14 @@
   "lat": 42.276592,
   "lng": -70.870928,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0257-cover.webp": "Oceanview Getaway Near Nantasket Beach, Hull, MA",
+   "images/MA-0257-000.webp": "Oceanview Getaway Near Nantasket Beach, Hull, MA, photo 2 of 4",
+   "images/MA-0257-001.webp": "Oceanview Getaway Near Nantasket Beach, Hull, MA, photo 3 of 4",
+   "images/MA-0257-002.webp": "Oceanview Getaway Near Nantasket Beach, Hull, MA, photo 4 of 4",
+   "images/MA-0257-card.webp": "Oceanview Getaway Near Nantasket Beach, Hull, MA"
+  }
  },
  {
   "id": "MA-0006",
@@ -303,7 +369,14 @@
   "lat": 41.9427,
   "lng": -70.7619,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0006-cover.webp": "Pinewood Lodge Campground, cabin in Plymouth, MA",
+   "images/MA-0006-000.webp": "Pinewood Lodge Campground, Plymouth, MA, photo 2 of 4",
+   "images/MA-0006-001.webp": "Pinewood Lodge Campground, Plymouth, MA, photo 3 of 4",
+   "images/MA-0006-002.webp": "Pinewood Lodge Campground, Plymouth, MA, photo 4 of 4",
+   "images/MA-0006-card.webp": "Pinewood Lodge Campground, cabin in Plymouth, MA"
+  }
  },
  {
   "id": "MA-4492",
@@ -332,7 +405,14 @@
   "lng": -70.5422,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-4492-cover.webp": "Sand Dollar Realty — 262 Manomet Pt, house in Plymouth, MA",
+   "images/MA-4492-000.webp": "Sand Dollar Realty — 262 Manomet Pt, Plymouth, MA, photo 2 of 4",
+   "images/MA-4492-001.webp": "Sand Dollar Realty — 262 Manomet Pt, Plymouth, MA, photo 3 of 4",
+   "images/MA-4492-002.webp": "Sand Dollar Realty — 262 Manomet Pt, Plymouth, MA, photo 4 of 4",
+   "images/MA-4492-card.webp": "Sand Dollar Realty — 262 Manomet Pt, house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-0251",
@@ -360,7 +440,14 @@
   "lat": 42.240189,
   "lng": -70.765053,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0251-cover.webp": "Scituate by the Sea - Walk to the Beach, Scituate, MA",
+   "images/MA-0251-000.webp": "Scituate by the Sea - Walk to the Beach, Scituate, MA, photo 2 of 4",
+   "images/MA-0251-001.webp": "Scituate by the Sea - Walk to the Beach, Scituate, MA, photo 3 of 4",
+   "images/MA-0251-002.webp": "Scituate by the Sea - Walk to the Beach, Scituate, MA, photo 4 of 4",
+   "images/MA-0251-card.webp": "Scituate by the Sea - Walk to the Beach, Scituate, MA"
+  }
  },
  {
   "id": "MA-0014",
@@ -388,7 +475,14 @@
   "lat": 41.9427,
   "lng": -70.7619,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0014-cover.webp": "SISU a boutique motel, Plymouth, MA",
+   "images/MA-0014-000.webp": "SISU a boutique motel, Plymouth, MA, photo 2 of 4",
+   "images/MA-0014-001.webp": "SISU a boutique motel, Plymouth, MA, photo 3 of 4",
+   "images/MA-0014-002.webp": "SISU a boutique motel, Plymouth, MA, photo 4 of 4",
+   "images/MA-0014-card.webp": "SISU a boutique motel, Plymouth, MA"
+  }
  },
  {
   "id": "MA-0421",
@@ -416,7 +510,14 @@
   "lat": 41.9221,
   "lng": -70.55022,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0421-cover.webp": "Stunning Design|7minWalk to Beach|Lg BackYard|Deck, house in Plymouth, MA",
+   "images/MA-0421-000.webp": "Stunning Design|7minWalk to Beach|Lg BackYard|Deck, Plymouth, MA, photo 2 of 4",
+   "images/MA-0421-001.webp": "Stunning Design|7minWalk to Beach|Lg BackYard|Deck, Plymouth, MA, photo 3 of 4",
+   "images/MA-0421-002.webp": "Stunning Design|7minWalk to Beach|Lg BackYard|Deck, Plymouth, MA, photo 4 of 4",
+   "images/MA-0421-card.webp": "Stunning Design|7minWalk to Beach|Lg BackYard|Deck, house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-0207",
@@ -444,7 +545,14 @@
   "lat": 41.9427,
   "lng": -70.7619,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0207-cover.webp": "The Calico Seahorse, Plymouth, MA",
+   "images/MA-0207-000.webp": "The Calico Seahorse, Plymouth, MA, photo 2 of 4",
+   "images/MA-0207-001.webp": "The Calico Seahorse, Plymouth, MA, photo 3 of 4",
+   "images/MA-0207-002.webp": "The Calico Seahorse, Plymouth, MA, photo 4 of 4",
+   "images/MA-0207-card.webp": "The Calico Seahorse, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17002",
@@ -473,7 +581,14 @@
   "lng": -70.564667,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17002-cover.webp": "The Calico Seahorse — Mayflower Bungalow, Plymouth, MA",
+   "images/MA-17002-000.webp": "The Calico Seahorse — Mayflower Bungalow, Plymouth, MA, photo 2 of 4",
+   "images/MA-17002-001.webp": "The Calico Seahorse — Mayflower Bungalow, Plymouth, MA, photo 3 of 4",
+   "images/MA-17002-002.webp": "The Calico Seahorse — Mayflower Bungalow, Plymouth, MA, photo 4 of 4",
+   "images/MA-17002-card.webp": "The Calico Seahorse — Mayflower Bungalow, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17006",
@@ -502,7 +617,14 @@
   "lng": -70.563749,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17006-cover.webp": "The Calico Seahorse — Moana Bungalow, Plymouth, MA",
+   "images/MA-17006-000.webp": "The Calico Seahorse — Moana Bungalow, Plymouth, MA, photo 2 of 4",
+   "images/MA-17006-001.webp": "The Calico Seahorse — Moana Bungalow, Plymouth, MA, photo 3 of 4",
+   "images/MA-17006-002.webp": "The Calico Seahorse — Moana Bungalow, Plymouth, MA, photo 4 of 4",
+   "images/MA-17006-card.webp": "The Calico Seahorse — Moana Bungalow, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17005",
@@ -531,7 +653,14 @@
   "lng": -70.564285,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17005-cover.webp": "The Calico Seahorse — Oahu Bungalow, Plymouth, MA",
+   "images/MA-17005-000.webp": "The Calico Seahorse — Oahu Bungalow, Plymouth, MA, photo 2 of 4",
+   "images/MA-17005-001.webp": "The Calico Seahorse — Oahu Bungalow, Plymouth, MA, photo 3 of 4",
+   "images/MA-17005-002.webp": "The Calico Seahorse — Oahu Bungalow, Plymouth, MA, photo 4 of 4",
+   "images/MA-17005-card.webp": "The Calico Seahorse — Oahu Bungalow, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17004",
@@ -560,7 +689,14 @@
   "lng": -70.564285,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17004-cover.webp": "The Calico Seahorse — Santorini Bungalow, Plymouth, MA",
+   "images/MA-17004-000.webp": "The Calico Seahorse — Santorini Bungalow, Plymouth, MA, photo 2 of 4",
+   "images/MA-17004-001.webp": "The Calico Seahorse — Santorini Bungalow, Plymouth, MA, photo 3 of 4",
+   "images/MA-17004-002.webp": "The Calico Seahorse — Santorini Bungalow, Plymouth, MA, photo 4 of 4",
+   "images/MA-17004-card.webp": "The Calico Seahorse — Santorini Bungalow, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17000",
@@ -589,7 +725,14 @@
   "lng": -70.564537,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17000-cover.webp": "The Calico Seahorse — SeaGlass Bungalow, Plymouth, MA",
+   "images/MA-17000-000.webp": "The Calico Seahorse — SeaGlass Bungalow, Plymouth, MA, photo 2 of 4",
+   "images/MA-17000-001.webp": "The Calico Seahorse — SeaGlass Bungalow, Plymouth, MA, photo 3 of 4",
+   "images/MA-17000-002.webp": "The Calico Seahorse — SeaGlass Bungalow, Plymouth, MA, photo 4 of 4",
+   "images/MA-17000-card.webp": "The Calico Seahorse — SeaGlass Bungalow, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17001",
@@ -618,7 +761,14 @@
   "lng": -70.564537,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17001-cover.webp": "The Calico Seahorse — Sintra Bungalow, Plymouth, MA",
+   "images/MA-17001-000.webp": "The Calico Seahorse — Sintra Bungalow, Plymouth, MA, photo 2 of 4",
+   "images/MA-17001-001.webp": "The Calico Seahorse — Sintra Bungalow, Plymouth, MA, photo 3 of 4",
+   "images/MA-17001-002.webp": "The Calico Seahorse — Sintra Bungalow, Plymouth, MA, photo 4 of 4",
+   "images/MA-17001-card.webp": "The Calico Seahorse — Sintra Bungalow, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17003",
@@ -647,7 +797,14 @@
   "lng": -70.564546,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17003-cover.webp": "The Calico Seahorse — Tahiti Bungalow, Plymouth, MA",
+   "images/MA-17003-000.webp": "The Calico Seahorse — Tahiti Bungalow, Plymouth, MA, photo 2 of 4",
+   "images/MA-17003-001.webp": "The Calico Seahorse — Tahiti Bungalow, Plymouth, MA, photo 3 of 4",
+   "images/MA-17003-002.webp": "The Calico Seahorse — Tahiti Bungalow, Plymouth, MA, photo 4 of 4",
+   "images/MA-17003-card.webp": "The Calico Seahorse — Tahiti Bungalow, Plymouth, MA"
+  }
  },
  {
   "id": "MA-1306",
@@ -675,7 +832,14 @@
   "lat": 42.1215,
   "lng": -70.6835,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-1306-cover.webp": "The Egret's Nest, Marshfield, MA",
+   "images/MA-1306-000.webp": "The Egret's Nest, Marshfield, MA, photo 2 of 4",
+   "images/MA-1306-001.webp": "The Egret's Nest, Marshfield, MA, photo 3 of 4",
+   "images/MA-1306-002.webp": "The Egret's Nest, Marshfield, MA, photo 4 of 4",
+   "images/MA-1306-card.webp": "The Egret's Nest, Marshfield, MA"
+  }
  },
  {
   "id": "MA-0008",
@@ -703,7 +867,14 @@
   "lat": 41.9427,
   "lng": -70.7619,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-0008-cover.webp": "Thomas Sea Suites at Harbourtown, Plymouth, MA",
+   "images/MA-0008-000.webp": "Thomas Sea Suites at Harbourtown, Plymouth, MA, photo 2 of 4",
+   "images/MA-0008-001.webp": "Thomas Sea Suites at Harbourtown, Plymouth, MA, photo 3 of 4",
+   "images/MA-0008-002.webp": "Thomas Sea Suites at Harbourtown, Plymouth, MA, photo 4 of 4",
+   "images/MA-0008-card.webp": "Thomas Sea Suites at Harbourtown, Plymouth, MA"
+  }
  },
  {
   "id": "MA-17020",
@@ -732,7 +903,14 @@
   "lng": -70.7375,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17020-cover.webp": "Thomas Sea Suites — Kingston Residences, apartment in Kingston, MA",
+   "images/MA-17020-000.webp": "Thomas Sea Suites — Kingston Residences, Kingston, MA, photo 2 of 4",
+   "images/MA-17020-001.webp": "Thomas Sea Suites — Kingston Residences, Kingston, MA, photo 3 of 4",
+   "images/MA-17020-002.webp": "Thomas Sea Suites — Kingston Residences, Kingston, MA, photo 4 of 4",
+   "images/MA-17020-card.webp": "Thomas Sea Suites — Kingston Residences, apartment in Kingston, MA"
+  }
  },
  {
   "id": "MA-17018",
@@ -761,7 +939,14 @@
   "lng": -70.62179,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17018-cover.webp": "Thomas Sea Suites — Lakefront Oasis (White Island Pond), house in Plymouth, MA",
+   "images/MA-17018-000.webp": "Thomas Sea Suites — Lakefront Oasis (White Island Pond), Plymouth, MA, photo 2 of 4",
+   "images/MA-17018-001.webp": "Thomas Sea Suites — Lakefront Oasis (White Island Pond), Plymouth, MA, photo 3 of 4",
+   "images/MA-17018-002.webp": "Thomas Sea Suites — Lakefront Oasis (White Island Pond), Plymouth, MA, photo 4 of 4",
+   "images/MA-17018-card.webp": "Thomas Sea Suites — Lakefront Oasis (White Island Pond), house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-17017",
@@ -790,7 +975,14 @@
   "lng": -70.534861,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17017-cover.webp": "Thomas Sea Suites — The Estate (South Plymouth), house in Plymouth, MA",
+   "images/MA-17017-000.webp": "Thomas Sea Suites — The Estate (South Plymouth), Plymouth, MA, photo 2 of 4",
+   "images/MA-17017-001.webp": "Thomas Sea Suites — The Estate (South Plymouth), Plymouth, MA, photo 3 of 4",
+   "images/MA-17017-002.webp": "Thomas Sea Suites — The Estate (South Plymouth), Plymouth, MA, photo 4 of 4",
+   "images/MA-17017-card.webp": "Thomas Sea Suites — The Estate (South Plymouth), house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-17021",
@@ -819,7 +1011,14 @@
   "lng": -70.635109,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17021-cover.webp": "Thomas Sea Suites — Warren House Suites, apartment in Plymouth, MA",
+   "images/MA-17021-000.webp": "Thomas Sea Suites — Warren House Suites, Plymouth, MA, photo 2 of 4",
+   "images/MA-17021-001.webp": "Thomas Sea Suites — Warren House Suites, Plymouth, MA, photo 3 of 4",
+   "images/MA-17021-002.webp": "Thomas Sea Suites — Warren House Suites, Plymouth, MA, photo 4 of 4",
+   "images/MA-17021-card.webp": "Thomas Sea Suites — Warren House Suites, apartment in Plymouth, MA"
+  }
  },
  {
   "id": "MA-17019",
@@ -848,7 +1047,14 @@
   "lng": -70.543366,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-17019-cover.webp": "Thomas Sea Suites — Wildwood Beach House (Cedarville), house in Plymouth, MA",
+   "images/MA-17019-000.webp": "Thomas Sea Suites — Wildwood Beach House (Cedarville), Plymouth, MA, photo 2 of 4",
+   "images/MA-17019-001.webp": "Thomas Sea Suites — Wildwood Beach House (Cedarville), Plymouth, MA, photo 3 of 4",
+   "images/MA-17019-002.webp": "Thomas Sea Suites — Wildwood Beach House (Cedarville), Plymouth, MA, photo 4 of 4",
+   "images/MA-17019-card.webp": "Thomas Sea Suites — Wildwood Beach House (Cedarville), house in Plymouth, MA"
+  }
  },
  {
   "id": "MA-3418",
@@ -877,6 +1083,13 @@
   "lng": -70.54446,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/MA-3418-cover.webp": "Vacation Cape Cod — Cliff House with spectacular views of Cape Cod Bay (SFINN), Plymouth, MA",
+   "images/MA-3418-000.webp": "Vacation Cape Cod — Cliff House with spectacular views of Cape Cod Bay (SFINN), Plymouth, MA, photo 2 of 4",
+   "images/MA-3418-001.webp": "Vacation Cape Cod — Cliff House with spectacular views of Cape Cod Bay (SFINN), Plymouth, MA, photo 3 of 4",
+   "images/MA-3418-002.webp": "Vacation Cape Cod — Cliff House with spectacular views of Cape Cod Bay (SFINN), Plymouth, MA, photo 4 of 4",
+   "images/MA-3418-card.webp": "Vacation Cape Cod — Cliff House with spectacular views of Cape Cod Bay (SFINN), Plymouth, MA"
+  }
  }
 ]

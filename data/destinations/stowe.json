@@ -25,7 +25,11 @@
   "lat": 44.3271,
   "lng": -72.7526,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0060-cover.jpg": "Crossett Hill Lodge, Duxbury, VT",
+   "images/VT-0060-card.webp": "Crossett Hill Lodge, Duxbury, VT"
+  }
  },
  {
   "id": "VT-0008",
@@ -53,7 +57,13 @@
   "lat": 44.4644,
   "lng": -72.6856,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0008-000.jpg": "Hobble Inn & The Loft, Stowe, VT",
+   "images/VT-0008-001.jpg": "Hobble Inn & The Loft, Stowe, VT, photo 2 of 3",
+   "images/VT-0008-cover.jpg": "Hobble Inn & The Loft, Stowe, VT",
+   "images/VT-0008-card.webp": "Hobble Inn & The Loft, Stowe, VT"
+  }
  },
  {
   "id": "VT-0017",
@@ -81,7 +91,11 @@
   "lat": 44.4644,
   "lng": -72.6856,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0017-cover.webp": "Meadowstone Manor, house in Stowe, VT",
+   "images/VT-0017-card.webp": "Meadowstone Manor, house in Stowe, VT"
+  }
  },
  {
   "id": "VT-0030",
@@ -116,7 +130,11 @@
   "lat": 44.4654,
   "lng": -72.6874,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0030-cover.jpg": "Mountain Pines, house in Stowe, VT",
+   "images/VT-0030-card.webp": "Mountain Pines, house in Stowe, VT"
+  }
  },
  {
   "id": "VT-0019",
@@ -145,7 +163,11 @@
   "lng": -72.6856,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0019-cover.jpg": "Mountain View Vacations, Stowe, VT",
+   "images/VT-0019-card.webp": "Mountain View Vacations, Stowe, VT"
+  }
  },
  {
   "id": "VT-0046",
@@ -167,7 +189,10 @@
   "lat": 44.4644,
   "lng": -72.6856,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "Mountainside Resort At Stowe, house in Stowe, VT"
+  }
  },
  {
   "id": "VT-0012",
@@ -196,7 +221,11 @@
   "lng": -72.8294,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0012-cover.jpg": "Notch Lodges, cabin in Jeffersonville, VT",
+   "images/VT-0012-card.webp": "Notch Lodges, cabin in Jeffersonville, VT"
+  }
  },
  {
   "id": "VT-0016",
@@ -218,7 +247,10 @@
   "lat": 44.5615,
   "lng": -72.5983,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "Unknown": "RadFarm (formerly Humble Heart Homestead), house in Morrisville, VT"
+  }
  },
  {
   "id": "VT-0015",
@@ -246,7 +278,11 @@
   "lat": 44.5936,
   "lng": -72.6171,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0015-cover.jpg": "Serene Country Cabins, cabin in Hyde Park, VT",
+   "images/VT-0015-card.webp": "Serene Country Cabins, cabin in Hyde Park, VT"
+  }
  },
  {
   "id": "VT-0025",
@@ -278,7 +314,11 @@
   "lat": 44.7138,
   "lng": -72.5212,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0025-cover.jpg": "Songbird Studio VT, cabin in Eden Mills, VT",
+   "images/VT-0025-card.webp": "Songbird Studio VT, cabin in Eden Mills, VT"
+  }
  },
  {
   "id": "VT-0054",
@@ -306,7 +346,11 @@
   "lat": 44.5071,
   "lng": -72.901,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0054-cover.jpg": "Squabetty, house in Underhill, VT",
+   "images/VT-0054-card.webp": "Squabetty, house in Underhill, VT"
+  }
  },
  {
   "id": "VT-0064",
@@ -334,7 +378,11 @@
   "lat": 44.53915,
   "lng": -72.51227,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0064-cover.jpg": "Stowe Area Home, house in Elmore, VT",
+   "images/VT-0064-card.webp": "Stowe Area Home, house in Elmore, VT"
+  }
  },
  {
   "id": "VT-0051",
@@ -362,7 +410,11 @@
   "lat": 44.40046,
   "lng": -72.725,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0051-cover.jpg": "Stowe Cabins in the Woods, cabin in Waterbury Center, VT",
+   "images/VT-0051-card.webp": "Stowe Cabins in the Woods, cabin in Waterbury Center, VT"
+  }
  },
  {
   "id": "VT-0007",
@@ -390,7 +442,11 @@
   "lat": 44.4644,
   "lng": -72.6856,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0007-cover.jpg": "Stowe Country Homes, Stowe, VT",
+   "images/VT-0007-card.webp": "Stowe Country Homes, Stowe, VT"
+  }
  },
  {
   "id": "VT-0059",
@@ -418,7 +474,11 @@
   "lat": 44.6354,
   "lng": -72.6793,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0059-cover.jpg": "The Vermont Treehouse, cabin in Johnson, VT",
+   "images/VT-0059-card.webp": "The Vermont Treehouse, cabin in Johnson, VT"
+  }
  },
  {
   "id": "VT-0035",
@@ -447,6 +507,10 @@
   "lng": -72.7564,
   "askAddress": true,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/VT-0035-cover.jpg": "Vermont Huts & Trails, cabin in Waterbury, VT",
+   "images/VT-0035-card.webp": "Vermont Huts & Trails, cabin in Waterbury, VT"
+  }
  }
 ]

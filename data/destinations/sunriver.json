@@ -32,6 +32,13 @@
   "lat": 43.8422,
   "lng": -121.439,
   "featured": false,
-  "demo": false
+  "demo": false,
+  "photoAlts": {
+   "images/OR-0001-cover.webp": "Sable Rock Manor, house in Sunriver, OR",
+   "images/OR-0001-000.webp": "Sable Rock Manor, Sunriver, OR, photo 2 of 4",
+   "images/OR-0001-001.webp": "Sable Rock Manor, Sunriver, OR, photo 3 of 4",
+   "images/OR-0001-002.webp": "Sable Rock Manor, Sunriver, OR, photo 4 of 4",
+   "images/OR-0001-card.webp": "Sable Rock Manor, house in Sunriver, OR"
+  }
  }
 ]
