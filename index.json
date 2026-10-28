@@ -394006,8 +394006,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 42.3369,
-  "lng": -71.1191,
+  "lat": 41.7465,
+  "lng": -70.1561,
   "photo": "images/MA-7486-card.webp",
   "coverPhoto": "images/MA-7486-cover.webp",
   "photos": [
@@ -394326,8 +394326,8 @@
   "pets": "Unknown",
   "kidsDetails": "Unknown",
   "petsDetails": "Unknown",
-  "lat": 42.3369,
-  "lng": -71.1191,
+  "lat": 41.7465,
+  "lng": -70.1561,
   "photo": "images/MA-7491-card.webp",
   "coverPhoto": "images/MA-7491-cover.webp",
   "photos": [
@@ -462000,8 +462000,8 @@
   "pets": "No",
   "kidsDetails": "Unknown",
   "petsDetails": "Unit page lists No Pets.",
-  "lat": 41.39139,
-  "lng": -70.51956,
+  "lat": 41.5787,
+  "lng": -70.5587,
   "photo": "images/MA-3382-card.webp",
   "coverPhoto": "images/MA-3382-cover.webp",
   "photos": [
@@ -462023,7 +462023,7 @@
    }
   ],
   "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
+  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false

@@ -2142,10 +2142,10 @@
   "checked": "2026-10-27"
  },
  "Dennis Village, MA, USA": {
-  "lat": 42.3369,
-  "lng": -71.1191,
-  "source": "https://nominatim.openstreetmap.org/search?q=Dennis+Village%2C+MA%2C+USA&format=json&limit=1",
-  "label": "Private First Class Dennis Conry Memorial Square, Aspinwall Avenue, Brookline Village, North Brookline, Brookline, Norfolk County, Massachusetts, 02446, United States",
+  "lat": 41.7465,
+  "lng": -70.1561,
+  "source": "Corrected 2026-10-27: earlier lookup returned a Boston-area point; Dennis village centre, Barnstable County",
+  "label": "Dennis, Barnstable County, Massachusetts",
   "checked": "2026-10-27"
  },
  "Craigville, MA, USA": {
