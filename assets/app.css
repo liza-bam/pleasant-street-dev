@@ -7,7 +7,7 @@
   --tint: #fff; --line: #e4e7e6; --white: #fff; --coral: #f9426f; --coral-action: #ea073f;
   --serif: "Noto Serif", serif; --script: "Lobster", cursive;
   /* The page column: header, search, filters and cards share one left and right edge on wide screens. */
-  --gutter: max(24px, calc((100vw - 1580px) / 2));
+  --gutter: max(24px, calc((100vw - 1440px) / 2));
   --r: 12px; --shadow: 0 2px 10px rgba(13, 43, 46, .10); --shadow-up: 0 6px 18px rgba(13, 43, 46, .16);
 }
 * { box-sizing: border-box; }
@@ -53,6 +53,9 @@ body { font-family: var(--serif); color: var(--ink); background: var(--tint); }
   .app-header-link--add { padding: 8px 20px; border-radius: 8px; background: var(--white); color: var(--green); box-shadow: var(--shadow); }
   .app-header-link--add:hover { background: var(--teal); color: var(--white); }
   .app-bar { padding: 12px var(--gutter); }
+  /* Search on the left edge; the view switch on the right edge of the 1440 column. */
+  .app-search-row { display: flex; flex: 1 1 auto; align-items: center; gap: 16px; min-width: 0; }
+  .app-header-actions { display: flex; flex: none; align-items: center; gap: 12px; margin-left: auto; }
 }
 }
 .app-count__potential::before { content: '· '; }
