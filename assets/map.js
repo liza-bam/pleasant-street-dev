@@ -266,8 +266,8 @@
     };
     return '<svg viewBox="0 0 24 24" aria-hidden="true">' + paths[kind] + '</svg>';
   }
-  function factRows(h, inline) {
-    var fields = [['guests', 'Sleeps'], ['bathrooms', 'Bathrooms'], ['pets', 'Pets'], ['kids', 'Children']];   // sleeps, never bedrooms
+  function factRows(h, inline, detail) {   // bedrooms only on the opened card
+    var fields = [['guests', 'Sleeps']].concat(detail ? [['bedrooms', 'Bedrooms']] : []).concat([['bathrooms', 'Bathrooms'], ['pets', 'Pets'], ['kids', 'Children']]);
     var rows = fields.filter(function (f) { return known(h[f[0]]); }).map(function (f) {
       var value = h[f[0]], isPolicy = f[0] === 'pets' || f[0] === 'kids';
       var display = isPolicy ? value === 'Yes' ? '✓' : value === 'No' ? '×' : '?' : value;
@@ -304,7 +304,7 @@
   function madeBadge() { return '<a class="ps-claim-badge ps-made-badge" href="https://lazy.vacations/start/" target="_blank" rel="noopener" aria-label="Made with LAZY — get your free website"><img class="ps-claim-badge__logo" src="favicon.ico" alt="" width="20" height="20"><span>Made with LAZY</span></a>'; }
   /* The opened card: what the host's site does not say, named, so the guest knows to ask. */
   function unknownsLine(h) {
-    var gaps = [['guests', 'how many it sleeps'], ['bathrooms', 'bathrooms'], ['pets', 'pets'], ['kids', 'children'], ['type', 'the type of home']]
+    var gaps = [['guests', 'how many it sleeps'], ['bedrooms', 'bedrooms'], ['bathrooms', 'bathrooms'], ['pets', 'pets'], ['kids', 'children'], ['type', 'the type of home']]
       .filter(function (f) { return !known(h[f[0]]); }).map(function (f) { return f[1]; });
     var ask = ['pets', 'kids'].filter(function (k) { return h[k] === 'Conditional'; }).map(function (k) { return k === 'kids' ? 'children' : k; });
     if (!gaps.length && !ask.length) return '';
@@ -328,7 +328,7 @@
       '<div class="ps-home__body">' + (detail ? '<p class="ps-home__place">' + factIcon('location') + esc(displayPlace) + '</p>' : '<button type="button" class="ps-home__place ps-home__address" data-address-property="' + esc(h.id) + '" aria-label="Show ' + esc(h.name) + ' on map">' + factIcon('location') + esc(displayPlace) + '</button>') + '<h2 title="' + esc(h.name) + '">' + esc(h.name) + '</h2>' +
       (tiny ? '' : '<p class="ps-home__description">' + (h.loaded ? esc(detail ? fullDescription(h) : shortDescription(h.cardDescription || h.description)) : '') + '</p>') +
       (detail && h.loaded ? unknownsLine(h) : '') +
-      (factRows(h) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
+      (factRows(h, false, detail) || (detail ? '' : '<div class="ps-home__facts ps-home__facts--empty" aria-hidden="true"></div>')) +
       (missing && missing.length ? '<p class="ps-home__missing">' + (tiny ? 'Potential fit · check with host' : 'May fit · check ' + esc(missing.join(', '))) + '</p>' : '') +
       '<div class="ps-home__actions"><a class="ps-action ps-action--primary" href="' + esc(h.url || '#') + '" target="_blank" rel="noopener">Open website<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7 M7 7h10v10"/></svg></a>' +
       '</div>' + (h.demo || h.featured ? '' : '<p class="ps-home__independent">Not affiliated with LAZY.</p>') + '</div></article>';
