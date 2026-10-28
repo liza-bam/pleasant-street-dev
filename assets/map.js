@@ -408,7 +408,9 @@
   sheetHandle.addEventListener('pointerdown', function (e) { startSheetDrag(e, sheetHandle); });
   sheetHandle.addEventListener('pointermove', moveSheetDrag);
   // A selected home's card: until it fills the screen, dragging anywhere on it grows it instead of scrolling it.
-  selectedBody.addEventListener('pointerdown', function (e) { if (selectedHome && sheetRatio < 0.99 && !e.target.closest('a, button')) startSheetDrag(e, selectedBody); });
+  // Full card scrolled to its top: a swipe down on it brings it back down (touch-action pan-up leaves that gesture to us).
+  selectedBody.addEventListener('pointerdown', function (e) { if (selectedHome && (sheetRatio < 0.99 || selectedBody.scrollTop === 0) && !e.target.closest('a, button')) startSheetDrag(e, selectedBody); });
+  selectedBody.addEventListener('scroll', function () { selectedBody.classList.toggle('is-at-top', selectedBody.scrollTop === 0); }, { passive: true });
   selectedBody.addEventListener('pointermove', moveSheetDrag);
   selectedBody.addEventListener('pointerup', endSheetDrag);
   selectedBody.addEventListener('pointercancel', function () { sheetDrag = null; app.classList.remove('app--sheet-dragging'); });
@@ -454,7 +456,7 @@
     selectedTitle.textContent = h.name;
     selectedEl.setAttribute('aria-label', h.name + ' details');
     selectedBody.innerHTML = fullCard(h, h.missing, false, true);
-    selectedBody.scrollTop = 0;
+    selectedBody.scrollTop = 0; selectedBody.classList.add('is-at-top');
     selectedEl.hidden = false; listEl.hidden = true;
     app.classList.add('app--detail-open');
     setSheetRatio(0.5);
