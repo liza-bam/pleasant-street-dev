@@ -116,6 +116,16 @@
     searchPlace(); rememberSearch();
     q.focus({ preventScroll: true });
   });
+  /* A tap anywhere else closes what is open: the filter panel, a suggestion list, the phone search dialog (its backdrop). */
+  document.addEventListener('pointerdown', function (e) {
+    if (app.classList.contains('app--filters-open') && !e.target.closest('#ps-filter-panel, #ps-filter-toggle')) {
+      app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false');
+    }
+    document.querySelectorAll('.ps-dest-suggest:not([hidden])').forEach(function (ul) {
+      if (!e.target.closest('.ps-dest-suggest, #ps-q, #ps-search-where')) ul.hidden = true;
+    });
+  }, true);
+  searchDialog.addEventListener('click', function (e) { if (e.target === searchDialog) searchDialog.close(); });
   filterToggle.addEventListener('click', function () {
     var open = filterToggle.getAttribute('aria-expanded') !== 'true';
     filterToggle.setAttribute('aria-expanded', String(open));
@@ -367,7 +377,10 @@
   var moreWatcher = 'IntersectionObserver' in window ? new IntersectionObserver(function (entries) {
     entries.forEach(function (en) { if (en.isIntersecting) loadMore(en.target); });
   }, { rootMargin: '600px 0px' }) : null;
-  listEl.addEventListener('click', function (e) { var b = e.target.closest('[data-more]'); if (b) loadMore(b); });
+  listEl.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-more]'); if (b) loadMore(b);
+    var fix = e.target.closest('.ps-none__fix'); if (fix) chooseDestSuggest(fix.dataset.place);
+  });
   function show() {
     syncSearchSummary();
     if (!loaded) {
@@ -416,7 +429,9 @@
         (g.key === 'potential' ? '<p class="ps-results-group__note">Some requested details are missing or need host approval. Check with the host.</p>' : '') +
         '<div class="ps-results-grid">' + g.homes.slice(0, PAGE).map(renderOne).join('') + '</div>' +
         (g.homes.length > PAGE ? '<button class="ps-more" type="button" data-more="' + g.key + '">More homes</button>' : '') + '</details>';
-    }).join('') || '<p class="ps-none">No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.') + '</p>';
+    }).join('') || '<p class="ps-none">' + (t && placeMatches(t).close.length
+        ? 'No homes for “' + esc(q.value.trim()) + '”. Did you mean <button type="button" class="ps-none__fix" data-place="' + esc(placeMatches(t).close[0].name) + '">' + esc(placeMatches(t).close[0].name) + '</button>?'
+        : 'No homes here yet. Try another place' + (view === 'map' ? ', or zoom out.' : ' or change the filters.')) + '</p>';
     hydrate(listEl);
     listEl.querySelectorAll('[data-more]').forEach(function (b) { if (moreWatcher) moreWatcher.observe(b); });
     countEl.innerHTML = '<span class="app-count__total">' + (shown.length === 1 ? '1 home' : shown.length + ' homes') + '</span>' +
@@ -625,14 +640,56 @@
     var s = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng / 2) * Math.sin(dLng / 2);
     return R * 2 * Math.atan2(Math.sqrt(s), Math.sqrt(1 - s));
   }
+  /* A destination is suggested only once it is filled: POPULAR_MIN_LISTINGS homes or more. Thinner ones stay searchable. */
+  function filledDestinations() { return Object.keys(destCounts).filter(function (d) { return destCounts[d] >= POPULAR_MIN_LISTINGS; }); }
   function coolestDestinations() {
-    return Object.keys(destCounts).sort(function (a, b) { return destCounts[b] - destCounts[a] || a.localeCompare(b); });
+    return filledDestinations().sort(function (a, b) { return destCounts[b] - destCounts[a] || a.localeCompare(b); });
   }
   function suggestedDestinations() {
     var names = userLoc
-      ? Object.keys(destCenters).sort(function (a, b) { return haversineKm(userLoc, destCenters[a]) - haversineKm(userLoc, destCenters[b]); })
+      ? filledDestinations().filter(function (d) { return destCenters[d]; }).sort(function (a, b) { return haversineKm(userLoc, destCenters[a]) - haversineKm(userLoc, destCenters[b]); })
       : coolestDestinations();
     return names.slice(0, 8);
+  }
+  /* Typed text: places whose name starts with it; failing that, the closest names by edit distance ("chatam" → Chatham, MA).
+     Only this catalog's own destination and town names, never a world gazetteer. */
+  var placeIndex = [];
+  function buildPlaceIndex() {
+    var counts = Object.create(null);
+    homes.forEach(function (h) { if (known(h.place) && !h.demo) counts[h.place] = (counts[h.place] || 0) + 1; });
+    placeIndex = filledDestinations().map(function (d) { return { name: d, key: d.toLowerCase(), count: destCounts[d], destination: true }; })
+      .concat(Object.keys(counts).map(function (p) { return { name: p, key: p.toLowerCase(), town: p.split(',')[0].trim().toLowerCase(), count: counts[p] }; }));
+  }
+  function editDistance(a, b) {   // edits to turn a into b; a swapped pair ("teh") counts as one
+    var rows = [[]], i, j;
+    for (j = 0; j <= b.length; j++) rows[0][j] = j;
+    for (i = 1; i <= a.length; i++) {
+      rows[i] = [i];
+      for (j = 1; j <= b.length; j++) {
+        var cost = a[i - 1] === b[j - 1] ? 0 : 1;
+        rows[i][j] = Math.min(rows[i - 1][j] + 1, rows[i][j - 1] + 1, rows[i - 1][j - 1] + cost);
+        if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) rows[i][j] = Math.min(rows[i][j], rows[i - 2][j - 2] + 1);
+      }
+    }
+    return rows[a.length][b.length];
+  }
+  function placeMatches(text) {
+    var t = text.toLowerCase().replace(/\s+/g, ' ').trim();
+    if (t.length < 3) return { exact: [], close: [] };
+    var exact = placeIndex.filter(function (p) { return p.key.indexOf(t) === 0 || (p.town && p.town.indexOf(t) === 0); });
+    var close = exact.length ? [] : placeIndex.map(function (p) {
+      var keys = p.town ? [p.key, p.town] : [p.key];
+      var best = Math.min.apply(null, keys.map(function (k) { return editDistance(t, k.slice(0, Math.max(t.length, Math.min(k.length, t.length + 1)))); }));
+      return { p: p, score: best / t.length };
+    }).filter(function (m) { return m.score <= 0.34; }).sort(function (a, b) { return a.score - b.score || b.p.count - a.p.count; }).map(function (m) { return m.p; });
+    var byCount = function (a, b) { return Number(!!b.destination) - Number(!!a.destination) || b.count - a.count; };
+    return { exact: exact.sort(byCount).slice(0, 6), close: close.slice(0, 5) };
+  }
+  function renderTypedSuggest(ul, text) {
+    var m = placeMatches(text), names = m.exact.length ? m.exact : m.close;
+    ul.innerHTML = (names.length ? '<li class="ps-dest-suggest__label">' + (m.exact.length ? 'Places' : 'Did you mean') + '</li>' : '') +
+      names.map(function (p) { return '<li><button type="button" data-place="' + esc(p.name) + '">' + esc(p.name) + '<span>' + p.count + ' homes</span></button></li>'; }).join('');
+    ul.hidden = !names.length;
   }
   function renderDestSuggest(ul) {
     if (!ul) return;
@@ -666,7 +723,7 @@
     var input = document.getElementById(pair[0]), ul = document.getElementById(pair[1]);
     if (!input || !ul) return;
     input.addEventListener('focus', function () { showDestSuggest(ul, input); });
-    input.addEventListener('input', function () { if (input.value.trim()) ul.hidden = true; else showDestSuggest(ul, input); });
+    input.addEventListener('input', function () { if (input.value.trim()) renderTypedSuggest(ul, input.value); else showDestSuggest(ul, input); });
     input.addEventListener('blur', function () { setTimeout(function () { ul.hidden = true; }, 150); });
     ul.addEventListener('click', function (e) { var b = e.target.closest('button[data-place]'); if (b) chooseDestSuggest(b.dataset.place); });
   });
@@ -786,6 +843,7 @@
       }
     });
     Object.keys(destSums).forEach(function (d) { var s = destSums[d]; destCenters[d] = { lat: s.lat / s.n, lng: s.lng / s.n }; });
+    buildPlaceIndex();
     homes.forEach(function (h) { var town = h.town || h.place.split(',')[0]; if (h.marker && known(town) && town.length <= 40 && town.indexOf('/') < 0 && town.toLowerCase() !== 'other') mapAreaPoints.push({ name: town, lat: h.lat, lng: h.lng }); });
     var featuredHomes = homes.filter(function (h) { return h.featured; });
     var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && photoSet(h).length; });

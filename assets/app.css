@@ -164,6 +164,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-featured-pin.ps-marker--hover, .ps-featured-pin.ps-marker--selected { z-index: 10000 !important; }
 .app-cluster--hover, .app-cluster--selected { background: var(--coral) !important; }
 .ps-none { grid-column: 1 / -1; margin: 8px 0; font-size: 16px; }
+.ps-none__fix { padding: 0; border: 0; background: none; font: inherit; color: var(--green); text-decoration: underline; cursor: pointer; }
 
 /* Cards view uses the same location and filters, with the map put away. */
 .app--cards .app-body { display: block; min-height: 0; }
