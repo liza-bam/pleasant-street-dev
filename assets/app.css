@@ -264,7 +264,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app:not(.app--cards):not(.app--sheet-expanded) .ps-dest + .app-floating-controls { top: 48px; }
   .app.app--sheet-expanded:not(.app--cards) .ps-dest { display: none; }
   .app.app--sheet-expanded:not(.app--cards) .app-floating-controls { top: 8px; }
-  .app.app--sheet-expanded:not(.app--cards) .app-results { padding-top: 60px; }
+  .app.app--sheet-expanded:not(.app--cards) .app-results { padding-top: env(safe-area-inset-top); }   /* the search pill is hidden at full height */
   .app.app--sheet-expanded:not(.app--cards) .app-list { padding-top: 0; }
   .app { height: auto; min-height: 100dvh; grid-template-rows: auto auto; align-content: start; }
   .app-bar { display: block; padding: 0; background: transparent; box-shadow: none; }
@@ -311,7 +311,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app--cards .app-results { height: auto; }
   .app-card-controls > span { display: inline; }
   .app-size-switch button { min-height: 30px; padding: 5px 10px; font-size: 11px; }
-  .app-list, .app--cards .app-list { overflow: visible; padding: 4px 14px max(24px, env(safe-area-inset-bottom)); overscroll-behavior-y: auto; }
+  .app-list, .app--cards .app-list { overflow: visible; padding: 14px 14px max(24px, env(safe-area-inset-bottom)); overscroll-behavior-y: auto; }
   .ps-results-group summary { position: static; min-height: 46px; margin-bottom: 10px; }
   .app--cards .ps-results-grid { grid-template-columns: minmax(0, 1fr); gap: 18px; }
   .ps-home__body { padding: 15px 16px 16px; }
@@ -344,17 +344,17 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
   .app.app--tiny:not(.app--cards) .ps-card__place { font-size: 11px; padding: 2px 9px 10px; }
   .app.app--sheet-expanded:not(.app--cards) .app-results { height: 100%; max-height: 100%; border-radius: 0; }
   .app:not(.app--cards) .ps-card__place { padding-bottom: 14px; font-size: 13px; }
-  .app:not(.app--cards) .ps-sheet-handle { display: flex; flex: none; flex-direction: column; align-items: center; justify-content: flex-start; gap: 4px; height: 40px; min-height: 40px; padding-top: 8px; cursor: grab; touch-action: none; user-select: none; }
+  .app:not(.app--cards) .ps-sheet-handle { display: flex; flex: none; flex-direction: column; align-items: center; justify-content: flex-start; gap: 6px; height: auto; min-height: 0; padding: 8px 0 12px; border-bottom: 1px solid var(--line); cursor: grab; touch-action: none; user-select: none; }
   .ps-sheet-grip { width: 56px; height: 6px; flex: none; border-radius: 999px; background: #17363c70; pointer-events: none; }
   .ps-sheet-handle:hover .ps-sheet-grip, .ps-sheet-handle:focus-visible .ps-sheet-grip, .app--sheet-dragging .ps-sheet-grip { background: var(--green); }
-  .ps-sheet-count { font-size: 15px; font-weight: 700; }
+  .ps-sheet-count { font-size: 13px; font-weight: 600; color: var(--mute); }
   .ps-sheet-handle:focus-visible { outline: 3px solid var(--coral); outline-offset: -4px; border-radius: 24px 24px 0 0; }
   .app--sheet-dragging .app-results { transition: none; }
   .app--sheet-dragging .ps-sheet-handle { cursor: grabbing; }
   .app--sheet-collapsed:not(.app--cards) .app-list { visibility: hidden; }
 
   .app.app--detail-open:not(.app--cards) .app-results { left: 12px; right: 12px; bottom: max(12px, env(safe-area-inset-bottom)); height: var(--sheet-height, 28%); min-height: 0; max-height: calc(100% - 24px); border-radius: 20px; background: white; animation: ps-card-arrive .22s ease-out; }
-  .app.app--detail-open:not(.app--cards) .ps-sheet-handle { display: flex; height: 48px; min-height: 48px; padding-top: 16px; }
+  .app.app--detail-open:not(.app--cards) .ps-sheet-handle { display: flex; padding: 16px 0 10px; border-bottom: 0; }
   .app--detail-open .ps-sheet-count { display: none; }
   .app--detail-peek .ps-selected__content { overflow-y: hidden; touch-action: none; }
   .app--detail-open .ps-selected__content.is-at-top { touch-action: pan-up; }
