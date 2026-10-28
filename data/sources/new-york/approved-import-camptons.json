@@ -1,0 +1,236 @@
+[
+ {
+  "id": "NY-0170",
+  "name": "CAMPTONS — The Camptons Cottage",
+  "url": "https://www.camptons.com/property/the-camptons-cottage",
+  "town": "Tannersville",
+  "state": "NY",
+  "place": "Tannersville, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.camptons.com/property/the-camptons-cottage",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 6,
+  "capacityDetails": "6",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0170-cover.webp",
+  "coverPhoto": "images/NY-0170-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0170-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0170-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0170-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0170-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Tannersville",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.camptons.com/property/the-camptons-cottage",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.camptons.com/property/the-camptons-cottage",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Catskills cabin own website book direct)",
+   "sourceUrl": "https://www.camptons.com/",
+   "verification": "Read in Chrome 2026-10-27: town, beds, guests, photos, Book Now.",
+   "notes": "CAMPTONS, boutique three-property brand near Hunter Mountain; book direct on the page, verification step before booking. Checked 2026-10-27 in Chrome. Bedrooms 3. Sleeps 6."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false
+ },
+ {
+  "id": "NY-0171",
+  "name": "CAMPTONS — The Camptons House",
+  "url": "https://www.camptons.com/property/the-camptons-house",
+  "town": "Haines Falls",
+  "state": "NY",
+  "place": "Haines Falls, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.camptons.com/property/the-camptons-house",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 7,
+  "bathrooms": "Unknown",
+  "guests": 14,
+  "capacityDetails": "14",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0171-cover.webp",
+  "coverPhoto": "images/NY-0171-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0171-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0171-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0171-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0171-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Haines Falls",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.camptons.com/property/the-camptons-house",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.camptons.com/property/the-camptons-house",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Catskills cabin own website book direct)",
+   "sourceUrl": "https://www.camptons.com/",
+   "verification": "Read in Chrome 2026-10-27: town, beds, guests, photos, Book Now.",
+   "notes": "CAMPTONS, boutique three-property brand near Hunter Mountain; book direct on the page, verification step before booking. Checked 2026-10-27 in Chrome. Bedrooms 7. Sleeps 14."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false
+ },
+ {
+  "id": "NY-0172",
+  "name": "CAMPTONS — The Camptons Pod",
+  "url": "https://www.camptons.com/property/the-camptons-pod",
+  "town": "Haines Falls",
+  "state": "NY",
+  "place": "Haines Falls, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.camptons.com/property/the-camptons-pod",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": 2,
+  "capacityDetails": "2",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "photo": "images/NY-0172-cover.webp",
+  "coverPhoto": "images/NY-0172-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0172-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0172-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0172-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0172-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Haines Falls",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.camptons.com/property/the-camptons-pod",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.camptons.com/property/the-camptons-pod",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Web search (Catskills cabin own website book direct)",
+   "sourceUrl": "https://www.camptons.com/",
+   "verification": "Read in Chrome 2026-10-27: town, beds, guests, photos, Book Now.",
+   "notes": "CAMPTONS, boutique three-property brand near Hunter Mountain; book direct on the page, verification step before booking. Checked 2026-10-27 in Chrome. Bedrooms 1. Sleeps 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Street address not published",
+   "Published pets policy",
+   "Published kids policy"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false
+ }
+]
