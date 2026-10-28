@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7831 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7851 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -9977,6 +9977,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: no
 - Pet policy: Property description states no pets.
 - Website (book here, directly with the host): https://seacoast2summit.com/property/salisburybeachretreat
+
+## Conesus Lake Cottage
+
+- ID: NY-0131
+- Town / area (approximate map location): Conesus, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.conesuslakecottage.com/
 
 ## Congdon & Coleman Real Estate — 1 Rainbow's End
 
@@ -23367,6 +23383,294 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=706
+
+## Fingerlakes Luxury Rentals —  Burtis Point – 3 Beds/2 Baths – East Side Owasco Lake -PET FRIENDLY Y
+
+- ID: NY-0135
+- Town / area (approximate map location): Owasco, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/burtis-point-3-beds-2-baths-east-side-owasco-lake/
+
+## Fingerlakes Luxury Rentals —  E. Lake Rd- 3 Beds/2 Baths- Ranch – Lake Views/2 miles to Village Ska
+
+- ID: NY-0137
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/e-lake-rd-3-beds-2-baths-ranch-lake-views-2-miles-to-village-skaneateles/
+
+## Fingerlakes Luxury Rentals —  East lake Rd- 5 Bed/3+ Bath, Skaneateles Level Lakefront Your Finger
+
+- ID: NY-0138
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/east-lake-rd-5-bed-3-bath-level-lakefront/
+
+## Fingerlakes Luxury Rentals —  Evans Lodge-6 Bed/4.5 Baths-1.5 Miles to Village-Skaneateles-PET FRIE
+
+- ID: NY-0148
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: Unknown
+- Sleeps: 14
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/opulently-appointed-evans-lodge-main-st-skaneateles-ny/
+
+## Fingerlakes Luxury Rentals —  Finger Lakes Accomodations with Skaneateles Luxury Vacation Rentals Y
+
+- ID: NY-0139
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/enjoy-luxury-accommodations-at-our-pet-friendly-main-street-skaneateles-rental/
+
+## Fingerlakes Luxury Rentals —  Fisher Road – 3 Beds/2 Baths-PET FRIENDLY Your Finger Lakes Getaway i
+
+- ID: NY-0140
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/fisher-road-3-beds-2-baths-pet-friendly/
+
+## Fingerlakes Luxury Rentals —  Franklin St -3 Beds/2 1/2 Baths- PET FRIENDLY/Fenced Yard – Walk to V
+
+- ID: NY-0147
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/newly-renovated-3-bed-2bath-pet-friendly-home-walking-distance-to-village/
+
+## Fingerlakes Luxury Rentals —  Hummingbird Manor-6 Beds/6 1/2 Baths-1 1/4 Miles to Village-Skaneatel
+
+- ID: NY-0149
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 6
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/the-hummingbird-manor/
+
+## Fingerlakes Luxury Rentals —  Lee Mulroy -3 Beds/2 Baths-PET FRIENDLY/Fence Yard – Close to Village
+
+- ID: NY-0141
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/lee-mulroy-road-skaneateles-ny/
+
+## Fingerlakes Luxury Rentals —  Main St -5 Beds/4 Baths-PET FRIENDLY/Fenced Yard- 1 Mile to Village-S
+
+- ID: NY-0142
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/main-st-5-beds-4-baths-1-mile-to-village-skaneateles-opening-july-2022/
+
+## Fingerlakes Luxury Rentals —  Main Street -1 Bed/1 Bath PET FRIENDLY- Walk to Village Your Finger L
+
+- ID: NY-0143
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/main-street-skaneateles-one-bedroom-suite/
+
+## Fingerlakes Luxury Rentals —  Main Street -2 Beds/2 Baths- PET FRIENDLY-1 Mile from Village Your Fi
+
+- ID: NY-0145
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-suite/
+
+## Fingerlakes Luxury Rentals —  Main Street Carriage House -2 Beds/2 Baths- PET FRIENDLY- 1 Mile from
+
+- ID: NY-0144
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/main-street-skaneateles-two-bedroom-carriage-house/
+
+## Fingerlakes Luxury Rentals —  Newly renovated 2bed/2 bath, pet friendly, easy walk to village! Your
+
+- ID: NY-0146
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/newly-renovated-2bed-2-bath-pet-friendly-easy-walk-to-village/
+
+## Fingerlakes Luxury Rentals —  Old Seneca Turnpike -3 bed/2.5 bath PET FRIENDLY/Fenced Yard Your Fin
+
+- ID: NY-0133
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/859-old-seneca-turnpike/
+
+## Fingerlakes Luxury Rentals —  Old Seneca Turnpike – 4 bed/3 bath PET FRIENDLY/Fenced Yard Your Fing
+
+- ID: NY-0132
+- Town / area (approximate map location): Skaneateles, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 4
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/853-old-seneca-turnpike/
+
+## Fingerlakes Luxury Rentals —  Owasco Lake Vacation Rental
+
+- ID: NY-0136
+- Town / area (approximate map location): Owasco, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 9
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/denman-cove-owasco-lake/
+
+## Fingerlakes Luxury Rentals —  Samuel Adams Estate-6 Beds/4.5 Baths -6500 SF Level Lakefront – East
+
+- ID: NY-0134
+- Town / area (approximate map location): Owasco, NY
+- Tourist destination: Finger Lakes
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 14
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://fingerlakesluxuryrentals.com/brand-new-to-the-rental-market-6500-sf-private-lakefront-estate-on-owasco-lake/
 
 ## First Light
 
@@ -104357,6 +104661,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://simple.fyi/
+
+## Single Island Shores cottages
+
+- ID: NY-0130
+- Town / area (approximate map location): Hector, NY
+- Tourist destination: Finger Lakes
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: 4
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.singleislandshores.com/
 
 ## Single Level Old Town Apt Across from Lee Mansion
 

@@ -2231,5 +2231,19 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Lake+Clear%2C+NY%2C+USA&format=json&limit=1",
   "label": "Lake Clear, Franklin County, New York, 12945, United States",
   "checked": "2026-10-27"
+ },
+ "Skaneateles, NY, USA": {
+  "lat": 42.947,
+  "lng": -76.4291,
+  "source": "https://nominatim.openstreetmap.org/search?q=Skaneateles%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Village of Skaneateles, Town of Skaneateles, Onondaga County, New York, United States",
+  "checked": "2026-10-27"
+ },
+ "Owasco, NY, USA": {
+  "lat": 42.8551,
+  "lng": -76.4647,
+  "source": "https://nominatim.openstreetmap.org/search?q=Owasco%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Town of Owasco, Cayuga County, New York, United States",
+  "checked": "2026-10-27"
  }
 }
