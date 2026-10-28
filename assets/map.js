@@ -525,10 +525,12 @@
   }
   fetch('assets/map-areas.json').then(function (r) { return r.json(); }).then(function (rows) { mapAreaPoints = rows.concat(mapAreaPoints); updateMapAreaLabel(); }).catch(function () {});
   var manualMapMove = false;
-  map.on('dragstart', function () { manualMapMove = true; });
+  // Phone: touching the map puts the results away — the sheet drops to its count strip (a selected home's card goes with it).
+  function tuckSheet() { if (!phoneLayout.matches || view !== 'map') return; if (selectedHome) closeSelected(true, false); else if (sheetRatio > 0.12) setSheetRatio(0.12); }
+  map.on('dragstart', function () { manualMapMove = true; tuckSheet(); });
   map.getContainer().addEventListener('click', function (e) { if (e.target.closest('.leaflet-control-zoom')) manualMapMove = true; }, true);
   map.getContainer().addEventListener('wheel', function () { if (map.scrollWheelZoom.enabled()) manualMapMove = true; }, { passive: true });
-  map.getContainer().addEventListener('touchstart', function (e) { if (e.touches.length > 1) manualMapMove = true; }, { passive: true });
+  map.getContainer().addEventListener('touchstart', function (e) { if (e.touches.length > 1) { manualMapMove = true; tuckSheet(); } }, { passive: true });
   map.getContainer().addEventListener('keydown', function (e) { if (['+', '-', '=', 'ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].indexOf(e.key) >= 0) manualMapMove = true; }, true);
   function syncArea() {
     if (view !== 'map') return;
