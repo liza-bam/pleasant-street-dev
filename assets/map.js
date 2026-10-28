@@ -81,7 +81,7 @@
     if (searchDialog.open) searchDialog.close(); if (recentDialog.open) recentDialog.close();
     leaveMapAreaMode(); q.value = ''; sleeps.value = 1; sleepsOut.textContent = 'any'; types = []; needs = []; syncFilterPills();
     cardSize = 'large'; syncCardSize(); app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false');
-    mapHeaderCompact = false; setSheetRatio(0.48); groupState = { featured: true, fit: true, potential: false };
+    mapHeaderCompact = false; setSheetRatio(0.48); groupState = { featured: true, fit: true, potential: true };
     history.replaceState(null, '', location.pathname); setView('map');
     var mainland = homes.filter(function (h) { return h.marker && h.lng > -130; });
     if (mainland.length) map.fitBounds(L.latLngBounds(mainland.map(function (h) { return h.marker.getLatLng(); })).pad(0.1), { animate: false });
@@ -131,7 +131,7 @@
     filterToggle.setAttribute('aria-expanded', String(open));
     app.classList.toggle('app--filters-open', open);
   });
-  var groupState = { featured: true, fit: true, potential: false };
+  var groupState = { featured: true, fit: true, potential: true };
   var POPULAR_MIN_LISTINGS = 10, POPULAR_MAX_DESTINATIONS = 6;
   var initialPlace = new URLSearchParams(location.search).get('place');
   if (q && initialPlace) q.value = initialPlace;
@@ -452,6 +452,38 @@
     sheetHandle.setAttribute('aria-valuemin', Math.round(minimum * 100));
     sheetHandle.setAttribute('aria-valuenow', Math.round(sheetRatio * 100));
     sheetHandle.setAttribute('aria-valuetext', (selectedHome ? 'Property card ' : 'Results panel ') + Math.round(sheetRatio * 100) + '% open');
+  }
+  /* The featured line: the set is repeated until it is wider than two screens, then it drifts at a crawl and
+     wraps seamlessly. A finger, the mouse or keyboard focus pauses it; it resumes a few seconds after they leave. */
+  var landingStrip = document.getElementById('ps-home-strip');
+  function startFeaturedStrip(list) {
+    if (!landingStrip || !list.length) { if (landingStrip) landingStrip.closest('section').hidden = true; return; }
+    var one = list.map(function (h) { return fullCard(h, [], true); }).join('');
+    landingStrip.innerHTML = one;
+    hydrate(landingStrip);
+    var setWidth = landingStrip.scrollWidth, copies = Math.max(2, Math.ceil((landingStrip.clientWidth * 2) / Math.max(1, setWidth)) + 1);
+    landingStrip.innerHTML = new Array(copies + 1).join(one);
+    hydrate(landingStrip);
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var paused = false, resumeAt = 0, last = 0, SPEED = 12;   // pixels per second
+    function rest(ms) { paused = true; resumeAt = Date.now() + ms; }
+    ['pointerdown', 'touchstart', 'wheel'].forEach(function (ev) { landingStrip.addEventListener(ev, function () { rest(4000); }, { passive: true }); });
+    landingStrip.addEventListener('pointerenter', function () { rest(60000); });
+    landingStrip.addEventListener('pointerleave', function () { rest(2000); });
+    landingStrip.addEventListener('focusin', function () { rest(60000); });
+    landingStrip.addEventListener('focusout', function () { rest(2000); });
+    landingStrip.addEventListener('scroll', function () {   // wrap: the copies make the line endless
+      var w = landingStrip.scrollWidth / copies;
+      if (landingStrip.scrollLeft >= w * (copies - 1)) landingStrip.scrollLeft -= w * (copies - 2);
+      else if (landingStrip.scrollLeft <= 0) landingStrip.scrollLeft += w * (copies - 2);
+    }, { passive: true });
+    function tick(now) {
+      if (paused && Date.now() >= resumeAt) paused = false;
+      if (!paused && document.visibilityState === 'visible') landingStrip.scrollLeft += SPEED * Math.min(50, now - last) / 1000;
+      last = now;
+      requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(function (t) { last = t; landingStrip.scrollLeft = 1; tick(t); });
   }
   function startSheetDrag(e, el) {
     if (e.button !== 0 || !phoneLayout.matches || view !== 'map') return;
@@ -852,9 +884,9 @@
     for (var i = homePool.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), temp = homePool[i]; homePool[i] = homePool[j]; homePool[j] = temp; }
     // Keep complete facts first; the shuffle above only randomizes equal-score homes.
     homePool.sort(function (a, b) { return featureCompleteness(b) - featureCompleteness(a); });
-    var homeSelection = featuredHomes.concat(homePool.slice(0, Math.max(0, 100 - featuredHomes.length)));
-    landingFeatured.innerHTML = homeSelection.map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Stays are coming soon.</p>';
+    landingFeatured.innerHTML = homePool.slice(0, 100).map(function (h) { return fullCard(h, [], true); }).join('') || '<p class="ps-none">Stays are coming soon.</p>';
     hydrate(landingFeatured);
+    startFeaturedStrip(featuredHomes);
     if (initialPlace) rememberSearch();
     popularDestinations();
     /* Open on the mainland: Hawaii in the same view zooms the map out past the edge of the tiles. */
