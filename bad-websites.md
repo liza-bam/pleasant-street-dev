@@ -105,6 +105,27 @@ Sources read: I LOVE NY cabins & cottages directory (Long Island, 17 entries) an
 | Catskill Vacation Rentals (Watchful Eye Caretaking) | Margaretville and 13 Catskills towns | https://www.catskillvacation.rentals/ | Local manager; rentals listed by town through a script — queued for the manager pass. |
 | Alluvion Vacations; Red Cottage | Hudson Valley / Catskills | alluvionvacations.com, redcottage.com | Larger managers (Guesty) — queued for the manager pass. |
 
+## New York — Adirondacks, Thousand Islands, Finger Lakes, Cooperstown, Chautauqua, Niagara pass (2026-10-27, evening)
+
+| Name | Town | URL | Reason |
+| --- | --- | --- | --- |
+| Trout House Village Resort | Hague | https://www.trouthouse.com/ | Resort with motel rooms beside its cabins — left out by type. |
+| The Ashley Hotel; Sara Placid Inn & Suites; Alpenglow Lakeside Lodge; Wildwood on the Lake; Robins Nest Guest House | Saranac Lake / Lake Placid | directory sites | Hotels, inns, guest houses, motel — left out by type. |
+| Merrill L. Thomas (adirondackvacations.com); Adirondack Lodging Co. | Lake Placid / Lake George | own sites | Larger managers (Streamline / Cloudbeds catalogs) — queued for the manager pass. |
+| Adirondack "By Owner" (adkbyowner.com); New York Rental By Owner | Adirondacks | aggregators | Aggregators — discovery only, no outbound owner sites found on the list pages. |
+| Mils Cottages & Motel; Fair Wind Motel & Cottages; Pinehurst on the St. Lawrence; Micale's On the River | Clayton / Alexandria Bay | own sites | Motels with cottages — left out by type. |
+| Thousand Island Hart House; Heron House; Casablanca Cherry Island | Clayton / Alexandria Bay | own sites | Inn / guest-house / suites — left out by type. |
+| Cal's Cottages; Duck Cove Cottages; Bill & Jack's Marina; 1000 Islands Cottage Rental; Pine Bay Farm Cottages | Thousand Islands | own sites | Site opens but no photos retrievable or no contact path on the page — not enough to publish; recheck in Chrome. |
+| Schermerhorn Harbor cottage 1 and 12; Crestwood Cottages page | Hammond / Alexandria Bay | own site | Fewer than three photos on the cottage page. |
+| 1000 Islands Vacation Rentals (1000islandsvr.com) | Clayton | https://1000islandsvr.com/ | Hostaway manager; catalog loads by script — queued for the manager pass. |
+| Finger Lakes Premier Properties; Linger Hospitality; Get Red-y Vacations; Connect-A-Service; Summit & Shore; Kith and Kin; Lake Life Real Estate | Finger Lakes | own sites | Managers / co-hosts (Streamline, Guesty, OTA-linked) — queued for the manager pass. |
+| Keuka Vacation Homes (Greystone, Splitrock cottages) | Keuka Lake | https://www.keukavacationhomes.com/ | Own site opens; cottage pages have no retrievable photos — recheck in Chrome. |
+| Lake 'N Pines Motel; Bayside Inn and Marina | Cooperstown | own sites | Motel / inn with cottages — left out by type. |
+| CAMPTONS | Tannersville | https://www.camptons.com/ | Own site renders by script only (no text or photos by fetch) — recheck in Chrome. |
+| Silver Lake Cottage Rentals | Silver Lake | https://silverlakerentals.com/ | Page map pin points to Michigan; no photos retrievable — recheck. |
+| Silverlaken Estate & Glampground | Silver Lake | https://silverlaken.com/ | Accommodation pages not listed in the catalog page fetched — recheck. |
+| The Cottage on the Lake | Youngstown | http://www.cottageonthelake.com/ | Old site, no photos retrievable, no booking path on the page. |
+
 ## Access blocks kept separate
 
 Connected-browser confirmation on 2026-10-25: `bayviewcottages.com` again returned `net::ERR_NAME_NOT_RESOLVED`. `willowrentalproperties.com` displayed Wix's disconnected-domain page instead of rental content. A responding hosting placeholder is not a working property website. Both remain excluded.
