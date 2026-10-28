@@ -418,7 +418,7 @@
     var stops = selectedHome ? [0.28, 0.5, 1] : [0.12, 0.48, 1];
     var next = stops.reduce(function (best, stop) { return Math.abs(stop - sheetRatio) < Math.abs(best - sheetRatio) ? stop : best; }, stops[0]);
     if (Math.abs(delta) < 4) next = sheetRatio < stops[1] - 0.05 ? stops[1] : sheetRatio < 0.95 ? 1 : stops[0];
-    else if (Math.abs(delta) > 35 && Math.abs(next - start) < 0.05) next = delta > 0 ? stops.filter(function (s) { return s < start - 0.05; }).pop() || stops[0] : stops.find(function (s) { return s > start + 0.05; }) || 1;
+    else if (Math.abs(delta) > 8 && Math.abs(next - start) < 0.05) next = delta > 0 ? stops.filter(function (s) { return s < start - 0.05; }).pop() || stops[0] : stops.find(function (s) { return s > start + 0.05; }) || 1;
     sheetDrag = null;
     app.classList.remove('app--sheet-dragging');
     setSheetRatio(next);
