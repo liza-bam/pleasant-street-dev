@@ -2203,5 +2203,33 @@
   "source": "https://nominatim.openstreetmap.org/search?q=Aquinnah%2C+MA%2C+USA&format=json&limit=1",
   "label": "Aquinnah, Dukes County, Massachusetts, United States",
   "checked": "2026-10-27"
+ },
+ "Clayton, NY, USA": {
+  "lat": 44.2395,
+  "lng": -76.0858,
+  "source": "https://nominatim.openstreetmap.org/search?q=Clayton%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Village of Clayton, Town of Clayton, Jefferson County, New York, 13624, United States",
+  "checked": "2026-10-27"
+ },
+ "Alexandria Bay, NY, USA": {
+  "lat": 44.3362,
+  "lng": -75.9181,
+  "source": "https://nominatim.openstreetmap.org/search?q=Alexandria+Bay%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Village of Alexandria Bay, Town of Alexandria, Jefferson County, New York, United States",
+  "checked": "2026-10-27"
+ },
+ "Cape Vincent, NY, USA": {
+  "lat": 44.1289,
+  "lng": -76.3343,
+  "source": "https://nominatim.openstreetmap.org/search?q=Cape+Vincent%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Village of Cape Vincent, Town of Cape Vincent, Jefferson County, New York, United States",
+  "checked": "2026-10-27"
+ },
+ "Lake Clear, NY, USA": {
+  "lat": 44.3676,
+  "lng": -74.2327,
+  "source": "https://nominatim.openstreetmap.org/search?q=Lake+Clear%2C+NY%2C+USA&format=json&limit=1",
+  "label": "Lake Clear, Franklin County, New York, 12945, United States",
+  "checked": "2026-10-27"
  }
 }

@@ -870,6 +870,91 @@
   "destination": "Boston"
  },
  {
+  "slug": "1000-island-rental",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0123",
+  "name": "1000 Island Rental",
+  "url": "https://www.1000islandrental.com/",
+  "town": "Alexandria Bay",
+  "state": "NY",
+  "place": "Alexandria Bay, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.1000islandrental.com/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 3,
+  "bathrooms": "Unknown",
+  "guests": 6,
+  "capacityDetails": "6",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0123-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0123-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0123-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0123-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "3 authentic photos saved",
+  "address": {
+   "street": "46639 Peak Lane",
+   "city": "Alexandria Bay",
+   "state": "NY",
+   "postalCode": "46639",
+   "full": "46639 Peak Lane, Alexandria Bay, NY 13607",
+   "sourceUrl": "https://www.1000islandrental.com/",
+   "type": "Individual rental address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.1000islandrental.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "1000 Island Rental: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 3. Sleeps 6."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.3362,
+  "lng": -75.9181,
+  "locationPrecision": "Town / area approximate",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Alexandria+Bay%2C+NY%2C+USA&format=json&limit=1",
+  "photo": "images/NY-0123-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
   "slug": "101-n-reservation-terrace",
   "added": "2026-10-27",
   "source": "found",
@@ -79541,6 +79626,91 @@
   ],
   "cardPhotoLabel": "",
   "destination": "Boothbay Harbor"
+ },
+ {
+  "slug": "chippewa-view-cottages",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0118",
+  "name": "Chippewa View Cottages",
+  "url": "https://www.chippewaviewcottages.com/photos.html",
+  "town": "Chippewa Bay",
+  "state": "NY",
+  "place": "Chippewa Bay, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.chippewaviewcottages.com/photos.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0118-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0118-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0118-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0118-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "3 authentic photos saved",
+  "address": {
+   "street": "8 Denner Road",
+   "city": "Chippewa Bay",
+   "state": "NY",
+   "postalCode": "13623",
+   "full": "8 Denner Road, Chippewa Bay, NY 13623",
+   "sourceUrl": "https://www.chippewaviewcottages.com/photos.html",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.chippewaviewcottages.com/photos.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Chippewa View Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=8%20Denner%20Road%2C%20Chippewa%20Bay%2C%20NY%2013623",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.44225,
+  "lng": -75.75947,
+  "photo": "images/NY-0118-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
  },
  {
   "slug": "church-park-199-apartment-id-3728",
@@ -259213,6 +259383,95 @@
   "destination": "Pemaquid & Damariscotta"
  },
  {
+  "slug": "hi-da-way-cottages",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0122",
+  "name": "Hi-Da-Way Cottages",
+  "url": "https://hi-da-way.com/the-cottages/",
+  "town": "Alexandria Bay",
+  "state": "NY",
+  "place": "Alexandria Bay, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://hi-da-way.com/the-cottages/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0122-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0122-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0122-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0122-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0122-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "47561 Dingman Point Road",
+   "city": "Alexandria Bay",
+   "state": "NY",
+   "postalCode": "47561",
+   "full": "47561 Dingman Point Road, Alexandria Bay, NY 13607",
+   "sourceUrl": "https://hi-da-way.com/the-cottages/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://hi-da-way.com/the-cottages/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Hi-Da-Way Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=47561%20Dingman%20Point%20Road%2C%20Alexandria%20Bay%2C%20NY%2013607",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.35691,
+  "lng": -75.89254,
+  "photo": "images/NY-0122-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
   "slug": "hidden-hollow",
   "added": "2026-10-26",
   "source": "found",
@@ -287227,6 +287486,96 @@
   ],
   "cardPhotoLabel": "",
   "destination": "Camden & Penobscot Bay"
+ },
+ {
+  "slug": "island-shadows",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0125",
+  "name": "Island Shadows",
+  "url": "https://www.islandshadows.com",
+  "town": "Cape Vincent",
+  "state": "NY",
+  "place": "Cape Vincent, NY",
+  "type": "House",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.islandshadows.com",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0125-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0125-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0125-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0125-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0125-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Cape Vincent",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.islandshadows.com",
+   "type": "Individual rental; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.islandshadows.com",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Island Shadows: own site; booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.1289,
+  "lng": -76.3343,
+  "locationPrecision": "Town / area approximate",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Cape+Vincent%2C+NY%2C+USA&format=json&limit=1",
+  "photo": "images/NY-0125-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
  },
  {
   "slug": "island-view-cottages-llc",
@@ -769439,6 +769788,95 @@
   "destination": "Aroostook"
  },
  {
+  "slug": "river-rock-cottages",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0121",
+  "name": "River Rock Cottages",
+  "url": "http://www.riverrockcottages.net/the-cottages/",
+  "town": "Alexandria Bay",
+  "state": "NY",
+  "place": "Alexandria Bay, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "http://www.riverrockcottages.net/the-cottages/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": 10,
+  "capacityDetails": "10",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0121-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0121-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0121-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0121-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0121-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "46931 Carnegie Bay Road",
+   "city": "Alexandria Bay",
+   "state": "NY",
+   "postalCode": "46931",
+   "full": "46931 Carnegie Bay Road, Alexandria Bay, NY 13607",
+   "sourceUrl": "http://www.riverrockcottages.net/the-cottages/",
+   "type": "Cottage colony address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "http://www.riverrockcottages.net/the-cottages/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "River Rock Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Sleeps 10."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=46931%20Carnegie%20Bay%20Road%2C%20Alexandria%20Bay%2C%20NY%2013607",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.34691,
+  "lng": -75.90096,
+  "photo": "images/NY-0121-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
   "slug": "river-watch",
   "added": "2026-10-27",
   "source": "found",
@@ -771212,6 +771650,96 @@
   ],
   "cardPhotoLabel": "",
   "destination": "Camden & Penobscot Bay"
+ },
+ {
+  "slug": "rockledge-cabins-retreats",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0127",
+  "name": "Rockledge Cabins & Retreats",
+  "url": "https://www.rockledgeadk.com/",
+  "town": "Lake Clear",
+  "state": "NY",
+  "place": "Lake Clear, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.rockledgeadk.com/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0127-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0127-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0127-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0127-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0127-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Lake Clear",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "https://www.rockledgeadk.com/",
+   "type": "Cabin colony; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.rockledgeadk.com/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Rockledge Cabins & Retreats: own site; booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.3676,
+  "lng": -74.2327,
+  "locationPrecision": "Town / area approximate",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Lake+Clear%2C+NY%2C+USA&format=json&limit=1",
+  "photo": "images/NY-0127-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Adirondacks"
  },
  {
   "slug": "rockport-house",
@@ -872957,6 +873485,714 @@
   "destination": "Acadia"
  },
  {
+  "slug": "schermerhorn-harbor-cottages-cottage-11",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0114",
+  "name": "Schermerhorn Harbor Cottages — Cottage 11",
+  "url": "https://www.schermerhornharbor.com/cottage-11/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-11/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0114-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0114-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0114-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0114-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0114-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-11/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-11/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0114-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "schermerhorn-harbor-cottages-cottage-12",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0115",
+  "name": "Schermerhorn Harbor Cottages — Cottage 12",
+  "url": "https://www.schermerhornharbor.com/cottage-12/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-12/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0115-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0115-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0115-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0115-001.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "3 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-12/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-12/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0115-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "schermerhorn-harbor-cottages-cottage-14",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0116",
+  "name": "Schermerhorn Harbor Cottages — Cottage 14",
+  "url": "https://www.schermerhornharbor.com/cottage-14/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-14/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0116-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0116-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0116-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0116-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0116-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-14/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-14/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0116-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "schermerhorn-harbor-cottages-cottage-17",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0117",
+  "name": "Schermerhorn Harbor Cottages — Cottage 17",
+  "url": "https://www.schermerhornharbor.com/cottage-17/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-17/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0117-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0117-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0117-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0117-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0117-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-17/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-17/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0117-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "schermerhorn-harbor-cottages-cottage-2",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0110",
+  "name": "Schermerhorn Harbor Cottages — Cottage 2",
+  "url": "https://www.schermerhornharbor.com/cottage-2/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-2/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0110-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0110-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0110-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0110-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0110-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-2/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-2/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0110-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "schermerhorn-harbor-cottages-cottage-3",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0111",
+  "name": "Schermerhorn Harbor Cottages — Cottage 3",
+  "url": "https://www.schermerhornharbor.com/cottage-3/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-3/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0111-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0111-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0111-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0111-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0111-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-3/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-3/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0111-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "schermerhorn-harbor-cottages-cottage-4",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0112",
+  "name": "Schermerhorn Harbor Cottages — Cottage 4",
+  "url": "https://www.schermerhornharbor.com/cottage-4/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-4/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0112-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0112-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0112-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0112-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0112-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-4/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-4/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0112-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "schermerhorn-harbor-cottages-cottage-5",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0113",
+  "name": "Schermerhorn Harbor Cottages — Cottage 5",
+  "url": "https://www.schermerhornharbor.com/cottage-5/",
+  "town": "Hammond",
+  "state": "NY",
+  "place": "Hammond, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.schermerhornharbor.com/cottage-5/",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0113-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0113-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0113-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0113-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0113-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "71 Schermerhorn Landing",
+   "city": "Hammond",
+   "state": "NY",
+   "postalCode": "13646",
+   "full": "71 Schermerhorn Landing, Hammond, NY 13646",
+   "sourceUrl": "https://www.schermerhornharbor.com/cottage-5/",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.schermerhornharbor.com/cottage-5/",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Schermerhorn Harbor Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published street address (geocoded)",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=71%20Schermerhorn%20Landing%2C%20Hammond%2C%20NY%2013646",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.41283,
+  "lng": -75.79051,
+  "photo": "images/NY-0113-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
   "slug": "school-house-cove-new-harbor-pemaquid",
   "added": "2026-10-25",
   "source": "found",
@@ -960402,6 +961638,540 @@
   "destination": "Pemaquid & Damariscotta"
  },
  {
+  "slug": "thousand-islands-marina-cottages-americana-cottage",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0103",
+  "name": "Thousand Islands Marina Cottages — Americana Cottage",
+  "url": "https://www.thousandislandsmarina.com/Accommodations/AmericanaCottage.html",
+  "town": "Cape Vincent",
+  "state": "NY",
+  "place": "Cape Vincent, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.thousandislandsmarina.com/Accommodations/AmericanaCottage.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0103-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0103-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0103-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0103-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0103-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "34797 County Route 7",
+   "city": "Cape Vincent",
+   "state": "NY",
+   "postalCode": "34797",
+   "full": "34797 County Route 7, Cape Vincent, NY 13618",
+   "sourceUrl": "https://www.thousandislandsmarina.com/Accommodations/AmericanaCottage.html",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.thousandislandsmarina.com/Accommodations/AmericanaCottage.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Thousand Islands Marina Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.thousandislandsmarina.com/Accommodations/AmericanaCottage.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.171977,
+  "lng": -76.2439651,
+  "photo": "images/NY-0103-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "thousand-islands-marina-cottages-gone-fishing-cottage",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0104",
+  "name": "Thousand Islands Marina Cottages — Gone Fishing Cottage",
+  "url": "https://www.thousandislandsmarina.com/Accommodations/GoneFishingCottage.html",
+  "town": "Cape Vincent",
+  "state": "NY",
+  "place": "Cape Vincent, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.thousandislandsmarina.com/Accommodations/GoneFishingCottage.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0104-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0104-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0104-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0104-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0104-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "34797 County Route 7",
+   "city": "Cape Vincent",
+   "state": "NY",
+   "postalCode": "34797",
+   "full": "34797 County Route 7, Cape Vincent, NY 13618",
+   "sourceUrl": "https://www.thousandislandsmarina.com/Accommodations/GoneFishingCottage.html",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.thousandislandsmarina.com/Accommodations/GoneFishingCottage.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Thousand Islands Marina Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.thousandislandsmarina.com/Accommodations/GoneFishingCottage.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.171977,
+  "lng": -76.2439651,
+  "photo": "images/NY-0104-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "thousand-islands-marina-cottages-remington-s-bunkhouse",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0108",
+  "name": "Thousand Islands Marina Cottages — Remington's Bunkhouse",
+  "url": "https://www.thousandislandsmarina.com/Accommodations/RemingtonsBunkhouse.html",
+  "town": "Cape Vincent",
+  "state": "NY",
+  "place": "Cape Vincent, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.thousandislandsmarina.com/Accommodations/RemingtonsBunkhouse.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0108-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0108-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0108-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0108-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0108-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "34797 County Route 7",
+   "city": "Cape Vincent",
+   "state": "NY",
+   "postalCode": "34797",
+   "full": "34797 County Route 7, Cape Vincent, NY 13618",
+   "sourceUrl": "https://www.thousandislandsmarina.com/Accommodations/RemingtonsBunkhouse.html",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.thousandislandsmarina.com/Accommodations/RemingtonsBunkhouse.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Thousand Islands Marina Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.thousandislandsmarina.com/Accommodations/RemingtonsBunkhouse.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.171977,
+  "lng": -76.2439651,
+  "photo": "images/NY-0108-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "thousand-islands-marina-cottages-southern-comfort-cottage",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0105",
+  "name": "Thousand Islands Marina Cottages — Southern Comfort Cottage",
+  "url": "https://www.thousandislandsmarina.com/Accommodations/SouthernComfortCottage.html",
+  "town": "Cape Vincent",
+  "state": "NY",
+  "place": "Cape Vincent, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.thousandislandsmarina.com/Accommodations/SouthernComfortCottage.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0105-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0105-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0105-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0105-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0105-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "34797 County Route 7",
+   "city": "Cape Vincent",
+   "state": "NY",
+   "postalCode": "34797",
+   "full": "34797 County Route 7, Cape Vincent, NY 13618",
+   "sourceUrl": "https://www.thousandislandsmarina.com/Accommodations/SouthernComfortCottage.html",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.thousandislandsmarina.com/Accommodations/SouthernComfortCottage.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Thousand Islands Marina Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.thousandislandsmarina.com/Accommodations/SouthernComfortCottage.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.171977,
+  "lng": -76.2439651,
+  "photo": "images/NY-0105-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "thousand-islands-marina-cottages-sunset-cottage",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0106",
+  "name": "Thousand Islands Marina Cottages — Sunset Cottage",
+  "url": "https://www.thousandislandsmarina.com/Accommodations/SunsetCottage.html",
+  "town": "Cape Vincent",
+  "state": "NY",
+  "place": "Cape Vincent, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.thousandislandsmarina.com/Accommodations/SunsetCottage.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 2,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0106-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0106-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0106-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0106-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0106-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "34797 County Route 7",
+   "city": "Cape Vincent",
+   "state": "NY",
+   "postalCode": "34797",
+   "full": "34797 County Route 7, Cape Vincent, NY 13618",
+   "sourceUrl": "https://www.thousandislandsmarina.com/Accommodations/SunsetCottage.html",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.thousandislandsmarina.com/Accommodations/SunsetCottage.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Thousand Islands Marina Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 2."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.thousandislandsmarina.com/Accommodations/SunsetCottage.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.171977,
+  "lng": -76.2439651,
+  "photo": "images/NY-0106-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
+  "slug": "thousand-islands-marina-cottages-the-captain-s-quarters",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0107",
+  "name": "Thousand Islands Marina Cottages — The Captain's Quarters",
+  "url": "https://www.thousandislandsmarina.com/Accommodations/TheCaptainsQuartersCottage.html",
+  "town": "Cape Vincent",
+  "state": "NY",
+  "place": "Cape Vincent, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "https://www.thousandislandsmarina.com/Accommodations/TheCaptainsQuartersCottage.html",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 1,
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0107-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0107-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0107-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0107-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0107-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "34797 County Route 7",
+   "city": "Cape Vincent",
+   "state": "NY",
+   "postalCode": "34797",
+   "full": "34797 County Route 7, Cape Vincent, NY 13618",
+   "sourceUrl": "https://www.thousandislandsmarina.com/Accommodations/TheCaptainsQuartersCottage.html",
+   "type": "Cottage colony / marina address",
+   "status": "Published on official website",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "https://www.thousandislandsmarina.com/Accommodations/TheCaptainsQuartersCottage.html",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path. Map pin on page.",
+   "notes": "Thousand Islands Marina Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27. Bedrooms 1."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationPrecision": "Published listing map (approximate)",
+  "locationSource": "https://www.thousandislandsmarina.com/Accommodations/TheCaptainsQuartersCottage.html",
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.171977,
+  "lng": -76.2439651,
+  "photo": "images/NY-0107-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
+ },
+ {
   "slug": "three-birds-farm-cottages",
   "name": "Three Birds Farm & Cottages",
   "url": "https://3birdscottages.com",
@@ -1040368,6 +1042138,96 @@
   ],
   "cardPhotoLabel": "",
   "destination": "Sebago"
+ },
+ {
+  "slug": "whiskey-river-cottages",
+  "added": "2026-10-27",
+  "source": "found",
+  "id": "NY-0120",
+  "name": "Whiskey River Cottages",
+  "url": "http://www.whiskeyrivercottages.com/accommodations",
+  "town": "Clayton",
+  "state": "NY",
+  "place": "Clayton, NY",
+  "type": "Cabin",
+  "recordType": "Property",
+  "description": "Unknown",
+  "descriptionSource": "http://www.whiskeyrivercottages.com/accommodations",
+  "descriptionStatus": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "guests": "Unknown",
+  "capacityDetails": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Unknown",
+  "petsDetails": "Unknown",
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "coverPhoto": "images/NY-0120-cover.webp",
+  "photos": [
+   {
+    "file": "images/NY-0120-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/NY-0120-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0120-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/NY-0120-002.webp",
+    "role": "photo"
+   }
+  ],
+  "logo": "Unknown",
+  "photoStatus": "4 authentic photos saved",
+  "address": {
+   "street": "Unknown",
+   "city": "Clayton",
+   "state": "NY",
+   "postalCode": "Unknown",
+   "full": "Unknown",
+   "sourceUrl": "http://www.whiskeyrivercottages.com/accommodations",
+   "type": "Cottage colony; street not published",
+   "status": "Not published on checked pages",
+   "checkedOn": "2026-10-27",
+   "notes": "Unknown"
+  },
+  "contactPagesChecked": "http://www.whiskeyrivercottages.com/accommodations",
+  "sourceDetails": {
+   "evidenceStatus": "Verified independent website",
+   "discovery": "Clayton and Alexandria Bay chamber cottage directories; web search",
+   "sourceUrl": "https://www.1000islands-clayton.com/cottagerentals/",
+   "verification": "Fetched own page 2026-10-27: photos, capacity words, booking/contact path.",
+   "notes": "Whiskey River Cottages: own site; booking or phone/contact on the page. Checked 2026-10-27."
+  },
+  "listingStatus": "Active",
+  "collectionStatus": "Incomplete",
+  "missingRequiredFields": [
+   "Description",
+   "Published pets policy",
+   "Published kids policy",
+   "Rates",
+   "Street address not published"
+  ],
+  "platformLinks": {},
+  "demo": false,
+  "featured": false,
+  "locationCheckedOn": "2026-10-27",
+  "lat": 44.2395,
+  "lng": -76.0858,
+  "locationPrecision": "Town / area approximate",
+  "locationSource": "https://nominatim.openstreetmap.org/search?q=Clayton%2C+NY%2C+USA&format=json&limit=1",
+  "photo": "images/NY-0120-card.webp",
+  "checked": "Unknown",
+  "alive": "Unknown",
+  "destination": "Thousand Islands"
  },
  {
   "slug": "white-elephant-nantucket",

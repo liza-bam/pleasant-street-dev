@@ -330,6 +330,28 @@
   "demo": false
  },
  {
+  "id": "NY-0127",
+  "name": "Rockledge Cabins & Retreats",
+  "url": "https://www.rockledgeadk.com/",
+  "place": "Lake Clear, NY",
+  "town": "Lake Clear",
+  "state": "NY",
+  "destination": "Adirondacks",
+  "type": "Cabin",
+  "recordType": "Property",
+  "platformLinks": {},
+  "guests": "Unknown",
+  "bedrooms": "Unknown",
+  "bathrooms": "Unknown",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "photo": "images/NY-0127-card.webp",
+  "lat": 44.3676,
+  "lng": -74.2327,
+  "featured": false,
+  "demo": false
+ },
+ {
   "id": "NY-0077",
   "name": "Sunset Beach Cottages (Inlet) — Blue Mountain Lake Lodge",
   "url": "https://www.sunsetonfourth.com/our-cottages/loon-lake-lodge/",

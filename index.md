@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7810 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7831 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -106,6 +106,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: No explicit staying-child/infant age policy found.
 - Pet policy: GeneralFAQ allows pets inmostbuildings, but thisunit’s explicitpermissionnotcaptured; confirm beforebooking.
 - Website (book here, directly with the host): https://www.furnishedquarters.com/apartment/100-Landsdowne-Street-8448
+
+## 1000 Island Rental
+
+- ID: NY-0123
+- Town / area (approximate map location): Alexandria Bay, NY
+- Tourist destination: Thousand Islands
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 3
+- Bathrooms: Unknown
+- Sleeps: 6
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.1000islandrental.com/
 
 ## 101 N Reservation Terrace
 
@@ -9548,6 +9564,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://chillvacationrentals.com
+
+## Chippewa View Cottages
+
+- ID: NY-0118
+- Town / area (approximate map location): Chippewa Bay, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.chippewaviewcottages.com/photos.html
 
 ## Church Park 199 — Apartment ID 3728
 
@@ -30582,6 +30614,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=163861
 
+## Hi-Da-Way Cottages
+
+- ID: NY-0122
+- Town / area (approximate map location): Alexandria Bay, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://hi-da-way.com/the-cottages/
+
 ## Hidden Hollow
 
 - ID: MA-0104
@@ -33868,6 +33916,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://islesboro.com
+
+## Island Shadows
+
+- ID: NY-0125
+- Town / area (approximate map location): Cape Vincent, NY
+- Tourist destination: Thousand Islands
+- Type: House
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.islandshadows.com
 
 ## Island View Cottages LLC
 
@@ -90443,6 +90507,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Yes — age-based children rates
 - Website (book here, directly with the host): https://rideouts.com
 
+## River Rock Cottages
+
+- ID: NY-0121
+- Town / area (approximate map location): Alexandria Bay, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: 10
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): http://www.riverrockcottages.net/the-cottages/
+
 ## River Watch
 
 - ID: MA-14144
@@ -90647,6 +90727,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children welcome: Unknown
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://rocklandtalbothouse.com
+
+## Rockledge Cabins & Retreats
+
+- ID: NY-0127
+- Town / area (approximate map location): Lake Clear, NY
+- Tourist destination: Adirondacks
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.rockledgeadk.com/
 
 ## Rockport House
 
@@ -102866,6 +102962,134 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Website (book here, directly with the host): https://sargentwoods.com
 
+## Schermerhorn Harbor Cottages — Cottage 11
+
+- ID: NY-0114
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-11/
+
+## Schermerhorn Harbor Cottages — Cottage 12
+
+- ID: NY-0115
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-12/
+
+## Schermerhorn Harbor Cottages — Cottage 14
+
+- ID: NY-0116
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-14/
+
+## Schermerhorn Harbor Cottages — Cottage 17
+
+- ID: NY-0117
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-17/
+
+## Schermerhorn Harbor Cottages — Cottage 2
+
+- ID: NY-0110
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-2/
+
+## Schermerhorn Harbor Cottages — Cottage 3
+
+- ID: NY-0111
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-3/
+
+## Schermerhorn Harbor Cottages — Cottage 4
+
+- ID: NY-0112
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-4/
+
+## Schermerhorn Harbor Cottages — Cottage 5
+
+- ID: NY-0113
+- Town / area (approximate map location): Hammond, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.schermerhornharbor.com/cottage-5/
+
 ## School House Cove/New Harbor-Pemaquid
 
 - ID: ME-0454
@@ -113196,6 +113420,102 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: No
 - Website (book here, directly with the host): https://thompsoncottages.net
 
+## Thousand Islands Marina Cottages — Americana Cottage
+
+- ID: NY-0103
+- Town / area (approximate map location): Cape Vincent, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thousandislandsmarina.com/Accommodations/AmericanaCottage.html
+
+## Thousand Islands Marina Cottages — Gone Fishing Cottage
+
+- ID: NY-0104
+- Town / area (approximate map location): Cape Vincent, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thousandislandsmarina.com/Accommodations/GoneFishingCottage.html
+
+## Thousand Islands Marina Cottages — Remington's Bunkhouse
+
+- ID: NY-0108
+- Town / area (approximate map location): Cape Vincent, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thousandislandsmarina.com/Accommodations/RemingtonsBunkhouse.html
+
+## Thousand Islands Marina Cottages — Southern Comfort Cottage
+
+- ID: NY-0105
+- Town / area (approximate map location): Cape Vincent, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thousandislandsmarina.com/Accommodations/SouthernComfortCottage.html
+
+## Thousand Islands Marina Cottages — Sunset Cottage
+
+- ID: NY-0106
+- Town / area (approximate map location): Cape Vincent, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 2
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thousandislandsmarina.com/Accommodations/SunsetCottage.html
+
+## Thousand Islands Marina Cottages — The Captain's Quarters
+
+- ID: NY-0107
+- Town / area (approximate map location): Cape Vincent, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: 1
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): https://www.thousandislandsmarina.com/Accommodations/TheCaptainsQuartersCottage.html
+
 ## Three Birds Farm & Cottages
 
 - ID: ME-0096
@@ -122695,6 +123015,22 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: yes
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=100
+
+## Whiskey River Cottages
+
+- ID: NY-0120
+- Town / area (approximate map location): Clayton, NY
+- Tourist destination: Thousand Islands
+- Type: Cabin
+- Description: Unknown
+- Rooms: Unknown
+- Bedrooms: Unknown
+- Bathrooms: Unknown
+- Sleeps: Unknown
+- Price: Unknown
+- Children welcome: Unknown
+- Pets welcome: Unknown
+- Website (book here, directly with the host): http://www.whiskeyrivercottages.com/accommodations
 
 ## White Elephant Nantucket
 
