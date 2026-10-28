@@ -9,59 +9,21 @@
   "destination": "Great North Woods",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Errol inn with two private rental cabins and RV sites in the Great North Woods.",
-  "descriptionSource": "https://akerspondinn.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Errol inn with two private rental cabins and RV sites in the Great North Woods.",
-  "cardDescriptionSource": "https://akerspondinn.com/",
   "cardPhotos": [
    "images/NH-0034-cover.webp",
    "images/NH-0034-000.webp",
    "images/NH-0034-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Cabin1",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Download and visually validate observed photo candidates",
-   "Optional unit-specific facts and policies"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0034-card.webp",
   "lat": 44.7811,
   "lng": -71.1382,
-  "photo": "images/NH-0034-card.webp",
-  "coverPhoto": "images/NH-0034-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0034-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0034-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0034-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0034-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -75,37 +37,16 @@
   "destination": "Great North Woods",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Family-stewarded Pittsburg cabins and inn on First Connecticut Lake and nearby woodland sites.",
-  "descriptionSource": "https://www.atbeartree.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-stewarded Pittsburg cabins and inn on First Connecticut Lake and nearby woodland sites.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Photos",
-   "Per-unit facts and policies",
-   "Authentic photograph needed",
-   "campus aerial candidate is source-provided rendering/illustration",
-   "Four authentic property photos: 0 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "Unknown",
   "lat": 45.0515,
   "lng": -71.3915,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -119,57 +60,21 @@
   "destination": "Great North Woods",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Locally owned Pittsburg cabins with lake views, kitchens and snowmobile trail access.",
-  "descriptionSource": "https://www.lakeviewcabinsnh.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Locally owned Pittsburg cabins with lake views, kitchens and snowmobile trail access.",
-  "cardDescriptionSource": "https://www.lakeviewcabinsnh.com/",
   "cardPhotos": [
    "images/NH-0030-cover.webp",
    "images/NH-0030-000.webp",
    "images/NH-0030-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Shared main Lakeview Cabins campus",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Download and visually validate observed photo candidates",
-   "Optional unit-specific facts and policies",
-   "Publicly undisclosed physical rental address",
-   "Four authentic property photos: 3 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Five main-property cabins plus cabins elsewhere; varies by unit.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Pet friendly homepage; detailed restrictions not checked.",
+  "photo": "images/NH-0030-card.webp",
   "lat": 45.0515,
   "lng": -71.3915,
-  "photo": "images/NH-0030-card.webp",
-  "coverPhoto": "images/NH-0030-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0030-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0030-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0030-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -184,56 +89,21 @@
   "destination": "Great North Woods",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Family-run cabins by the Connecticut River in Pittsburg with direct ATV trail access.",
-  "descriptionSource": "https://robiescabinsnh.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Family-run cabins by the Connecticut River in Pittsburg with direct ATV trail access.",
-  "cardDescriptionSource": "https://robiescabinsnh.com/",
   "cardPhotos": [
    "images/NH-0044-cover.webp",
    "images/NH-0044-000.webp",
    "images/NH-0044-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Bears Den section, verify visually",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Download and visually validate observed photo candidates",
-   "Optional unit-specific facts and policies",
-   "Four authentic property photos: 3 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Studio cabins and two-bedroom units; per-unit guest limits absent.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Dogs $25/dog/stay,max2,leashed; furniture ban and breed restrictions listed.",
+  "photo": "images/NH-0044-card.webp",
   "lat": 45.0515,
   "lng": -71.3915,
-  "photo": "images/NH-0044-card.webp",
-  "coverPhoto": "images/NH-0044-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0044-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0044-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0044-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -247,40 +117,16 @@
   "destination": "Great North Woods",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Year-round Pittsburg cabin campus at First Connecticut Lake with full kitchens and outdoor access.",
-  "descriptionSource": "https://partridgecabins.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Year-round Pittsburg cabin campus at First Connecticut Lake with full kitchens and outdoor access.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Individual-unit facts",
-   "Four-photo set incomplete",
-   "Four authentic property photos: 1 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unit ranges2-8; operator record",
-  "priceFrom": 155,
-  "priceDetails": "Website static nightly Webster/Carlisle rate$155; other units$170-$200; rates subject to change/tax;3-night holiday stays",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Dogs/cats $15/night/pet; leash, crate when left, keep off furniture; damage charged",
+  "photo": "images/NH-0019-card.webp",
   "lat": 45.0515,
   "lng": -71.3915,
-  "photo": "images/NH-0019-card.webp",
-  "coverPhoto": "images/NH-0019-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0019-cover.webp",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -294,11 +140,7 @@
   "destination": "Great North Woods",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Four-bedroom Pittsburg cabin with First Connecticut Lake views and direct snowmobile trail access.",
-  "descriptionSource": "https://winterfell-nh.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Four-bedroom Pittsburg cabin with First Connecticut Lake views and direct snowmobile trail access.",
-  "cardDescriptionSource": "https://winterfell-nh.com/",
   "cardPhotos": [
    "images/NH-0048-cover.webp",
    "images/NH-0048-000.webp",
@@ -312,47 +154,14 @@
     "https://www.vrbo.com/9258524ha?referrerId=HOT.HIS.Share.Landed.Copy_Link"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Download and visually validate observed photo candidates",
-   "Optional unit-specific facts and policies"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "Unknown",
-  "priceFrom": 349,
-  "priceDetails": "Average nightly weekday$349/weekend$369; one price for1–8people,no extra per-person fee.",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "No explicit child-age policy checked; own site provides board games.",
-  "petsDetails": "Pets allowed for non-refundable fee.",
+  "photo": "images/NH-0048-card.webp",
   "lat": 45.0515,
   "lng": -71.3915,
-  "photo": "images/NH-0048-card.webp",
-  "coverPhoto": "images/NH-0048-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0048-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0048-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0048-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0048-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  }

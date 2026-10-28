@@ -9,55 +9,21 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Abbot Trailside Lodging Offers Comfortable Cabins & Motel Rooms In Abbot Maine. Book Your Reservation Today By Calling (207) 876-6140.",
-  "descriptionSource": "https://www.trailsidelodging.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Abbot Trailside Lodging Offers Comfortable Cabins & Motel Rooms In Abbot Maine. Book Your Reservation Today By Calling (207) 876-6140.",
-  "cardDescriptionSource": "https://www.trailsidelodging.com/",
   "cardPhotos": [
    "images/ME-0120-cover.jpg",
    "images/ME-0120-000.jpg",
    "images/ME-0120-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0120-card.webp",
   "lat": 45.20479,
   "lng": -69.45489,
-  "photo": "images/ME-0120-card.webp",
-  "coverPhoto": "images/ME-0120-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0120-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0120-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0120-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0120-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0120-logo.svg",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -71,77 +37,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "This Greenville studio combines a queen bed, compact dining area, and private bathroom with access to riding trails. The grill and outdoor seating are shared, and Red Cross Beach is about a mile away.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280093",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "This Greenville studio combines a queen bed, compact dining area, and private bathroom with access to riding trails. The grill and outdoor seating…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280093",
   "cardPhotos": [
    "images/ME-0318-cover.jpg",
    "images/ME-0318-000.jpg",
    "images/ME-0318-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 2,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 2,
-  "capacityDetails": "2",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0318-card.webp",
   "lat": 45.45872,
   "lng": -69.59611,
-  "photo": "images/ME-0318-card.webp",
-  "coverPhoto": "images/ME-0318-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0318-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427390/c744700244f4eb5b7a798092f16859bf.jpg",
-    "page": "https://www.houfy.com/lodging/bear's-den/427390",
-    "sha256": "352e6b50a6be4cde66d26696ebdf63ffc9e18dbad4ffc91e7c2d8a85832b3772",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0318-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427390/287b160386049fc87e6f45cc5e5f1ffb.jpg",
-    "page": "https://www.houfy.com/lodging/bear's-den/427390",
-    "sha256": "0424fd7f2f07f7d84f4a1f6811aa7f08f594f795ca90c097194d8f591adb836a",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0318-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427390/91ffcf242ce1669e0fd8d72a461762f1.jpg",
-    "page": "https://www.houfy.com/lodging/bear's-den/427390",
-    "sha256": "5d41bbbdaff945afb79f339beb4a02b5b145cc531db0a3058471ac782c8c26de",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0318-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427390/ddddb7fe6b1d811c077d94627e977c36.jpg",
-    "page": "https://www.houfy.com/lodging/bear's-den/427390",
-    "sha256": "700c14d45af360f46135f9f965652fbb0eec606186024659d28fbf77c4f4380c",
-    "width": 1280,
-    "height": 853
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -155,83 +65,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Black Bear Cabin occupies a secluded two-acre setting with riding trails close to the driveway. Guests have a fire pit, grill, Wi-Fi, and heat-pump cooling, with pets welcome under the listing's rules.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232714",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Black Bear Cabin occupies a secluded two-acre setting with riding trails close to the driveway. Guests have a fire pit, grill, Wi-Fi, and heat-pump…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232714",
   "cardPhotos": [
    "images/ME-0330-cover.jpg",
    "images/ME-0330-000.jpg",
    "images/ME-0330-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "6",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0330-card.webp",
   "lat": 45.44162,
   "lng": -69.53549,
-  "photo": "images/ME-0330-card.webp",
-  "coverPhoto": "images/ME-0330-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0330-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427358/52c098bb4ada63febcce68d3fe14e3cc.jpg",
-    "page": "https://www.houfy.com/lodging/black-bear-cabin/427358",
-    "sha256": "f66142ceae3bb4a48d698502a5ae3ab0dd01862e25540c0a2c8993dafef89899",
-    "width": 1600,
-    "height": 627,
-    "originalSha256": "4a98ac0a36cd1a0b6b14674cf2570ca8b92e5e9e59e4d11df794ee6bcb846f57",
-    "originalWidth": 2048,
-    "originalHeight": 802
-   },
-   {
-    "file": "images/ME-0330-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427358/23af2d4ebc2dc345f1be8510ebe879cb.jpg",
-    "page": "https://www.houfy.com/lodging/black-bear-cabin/427358",
-    "sha256": "3cb7a2ae9bcc9c2dfabba3ab75abfe5c48ba28f5efeb6212f3f15174eccb5074",
-    "width": 1280,
-    "height": 598
-   },
-   {
-    "file": "images/ME-0330-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427358/8bea410adc0c8a2b8b66e728d8c59edb.jpg",
-    "page": "https://www.houfy.com/lodging/black-bear-cabin/427358",
-    "sha256": "e67ea3044122cd82e5cdd8b5b66d0ef370bb5f935ed6e984762d636283cd9cda",
-    "width": 1280,
-    "height": 597
-   },
-   {
-    "file": "images/ME-0330-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427358/4ec603afa330bc33bd0e2e8fb2e1d893.jpg",
-    "page": "https://www.houfy.com/lodging/black-bear-cabin/427358",
-    "sha256": "17fef29e47d8996f0b9c7b58fd90553ace26267b0f7a0d83718105ce1fe352e4",
-    "width": 1200,
-    "height": 1600,
-    "originalSha256": "dfc27d1647acecd0623e16dd236626c005f079c05a5e9c73a056873735bd42d3",
-    "originalWidth": 1280,
-    "originalHeight": 1706
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -245,55 +93,21 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Burke's Properties & Rentals: West Gardiner & Moosehead, Maine Getaways. We go above and beyond to ensure that your stay with us is comfortable and enjoyable.",
-  "descriptionSource": "https://burkespropertiesandrentals.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Burke's Properties & Rentals: West Gardiner & Moosehead, Maine Getaways. We go above and beyond to ensure that your stay with us is comfortable and…",
-  "cardDescriptionSource": "https://burkespropertiesandrentals.com",
   "cardPhotos": [
    "images/ME-0159-cover.webp",
    "images/ME-0159-000.webp",
    "images/ME-0159-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — properties marketed to families",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0159-card.webp",
   "lat": 45.26373,
   "lng": -69.47341,
-  "photo": "images/ME-0159-card.webp",
-  "coverPhoto": "images/ME-0159-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0159-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0159-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0159-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0159-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0159-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -307,80 +121,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "Burnt Jacket Lodge offers a large-group retreat on a private hundred-acre property overlooking Moosehead Lake. Its lake-facing hot tub, broad mountain views, and winter trail access complement the lodge's secluded setting.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/233037",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Burnt Jacket Lodge offers a large-group retreat on a private hundred-acre property overlooking Moosehead Lake. Its lake-facing hot tub, broad…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/233037",
   "cardPhotos": [
    "images/ME-0331-cover.jpg",
    "images/ME-0331-000.jpg",
    "images/ME-0331-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 15,
   "bedrooms": 5,
   "bathrooms": 2,
-  "guests": 15,
-  "capacityDetails": "15",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0331-card.webp",
   "lat": 45.5014,
   "lng": -69.577,
-  "photo": "images/ME-0331-card.webp",
-  "coverPhoto": "images/ME-0331-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0331-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427378/3f33d10a620d6748be1d658fcbc5cb35.jpg",
-    "page": "https://www.houfy.com/lodging/burnt-jacket-lodge/427378",
-    "sha256": "cbf0494811aae9159963217e8127c6977f1369ef9d01db51f761a8bd7f7e6bd6",
-    "width": 1350,
-    "height": 900,
-    "originalSha256": "ef594f435aafdb97950b022bc7ff7266d905fc348e63697ccf2707fbd1e138bb",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0331-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427378/456963657715cd0cbf3c63d860d0b848.jpg",
-    "page": "https://www.houfy.com/lodging/burnt-jacket-lodge/427378",
-    "sha256": "39ce2e63d59d1be2dc295fe782f8e676344d67f49f03c47d0b8171f59fe1160e",
-    "width": 1280,
-    "height": 597
-   },
-   {
-    "file": "images/ME-0331-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427378/3a9e99738559b924afeb749bc2238432.jpg",
-    "page": "https://www.houfy.com/lodging/burnt-jacket-lodge/427378",
-    "sha256": "67d9a3345389147ae317c2f87c05273d58325a13351a7c6c8f42819009ddda9d",
-    "width": 1280,
-    "height": 598
-   },
-   {
-    "file": "images/ME-0331-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427378/1782b3c0ad6064e02efab562b7b054e4.jpg",
-    "page": "https://www.houfy.com/lodging/burnt-jacket-lodge/427378",
-    "sha256": "20cafa8d3e170a793217a6e441a6ce3ee44a0bedccaeb04bbb971aaef7aacffe",
-    "width": 1280,
-    "height": 853
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -394,83 +149,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "Camp Fred is a log lodge with three bedrooms, additional sleeping space, and three bathrooms. A game room, hot tub, and views toward the lake and mountains provide options for time together indoors and out.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/279061",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Camp Fred is a log lodge with three bedrooms, additional sleeping space, and three bathrooms. A game room, hot tub, and views toward the lake and…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/279061",
   "cardPhotos": [
    "images/ME-0332-cover.jpg",
    "images/ME-0332-000.jpg",
    "images/ME-0332-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 3,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0332-card.webp",
   "lat": 45.50669,
   "lng": -69.57029,
-  "photo": "images/ME-0332-card.webp",
-  "coverPhoto": "images/ME-0332-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0332-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427388/c16147ca0b501aecca32819b151618cb.jpg",
-    "page": "https://www.houfy.com/lodging/*lakemtn-view*hot-tub*fireplace*game-room*/427388",
-    "sha256": "85f21fd28a1dfdbfab4fb2019a6083c179c90f914ac540dd0114284cf581179e",
-    "width": 1401,
-    "height": 900,
-    "originalSha256": "4026c53c196eb38c92765b93d55f0bf869a51e7e6e07ef805b3d226fa76efc2c",
-    "originalWidth": 1401,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0332-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427388/9b449af7d2b75c2bf23f4abeccdbe6cc.jpg",
-    "page": "https://www.houfy.com/lodging/*lakemtn-view*hot-tub*fireplace*game-room*/427388",
-    "sha256": "47700bbe0f888dbc0119012cc37a62e30e443e0a9bee9f7087204bd5d29ae909",
-    "width": 1346,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0332-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427388/ca09435d6c3b75dd0037a41fe8fd4202.jpg",
-    "page": "https://www.houfy.com/lodging/*lakemtn-view*hot-tub*fireplace*game-room*/427388",
-    "sha256": "3ba35f67689f3448e920f4bad6d25b38d08bba378431d8dcb62355eccb784459",
-    "width": 1346,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0332-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427388/d9c4457e31d20513889419459f414926.jpg",
-    "page": "https://www.houfy.com/lodging/*lakemtn-view*hot-tub*fireplace*game-room*/427388",
-    "sha256": "56af17a0ed420ad7dc12242c48abb1d386509345e98a4552d5c289e435596ae9",
-    "width": 1600,
-    "height": 755,
-    "originalSha256": "6390dab12e49bd5673cf772c26137ca1e023b27e17c77acd77c5b13c803d7fb4",
-    "originalWidth": 1907,
-    "originalHeight": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -484,55 +177,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Welcome to Cozy Cove Cabins Cozy Cove Cabins is located on the shore of Big Wood Pond in Jackman, Maine. Book today and start planning your getaway in a nature lover's paradise. Book Now Accommodations Cozy Cove has nine unique cabins on beautiful Big Wood Lake. We provide fresh linens and towels, cookware, and utensils.…",
-  "descriptionSource": "https://cozycovecabins.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Welcome to Cozy Cove Cabins Cozy Cove Cabins is located on the shore of Big Wood Pond in Jackman, Maine. Book today and start planning your getaway…",
-  "cardDescriptionSource": "https://cozycovecabins.com/",
   "cardPhotos": [
    "images/ME-0052-cover.webp",
    "images/ME-0052-000.webp",
    "images/ME-0052-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes (family vacations)",
-  "petsDetails": "Yes (well-behaved dogs)",
+  "photo": "images/ME-0052-card.webp",
   "lat": 45.62293,
   "lng": -70.2577,
-  "photo": "images/ME-0052-card.webp",
-  "coverPhoto": "images/ME-0052-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0052-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0052-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0052-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0052-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0052-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -546,77 +205,21 @@
   "destination": "Moosehead Lake",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Deer Run is a two-bedroom apartment near Greenville's shops, restaurants, and waterfront. Guests have access to riding trails, a shared grill, and nearby Red Cross Beach.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/284198",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Deer Run is a two-bedroom apartment near Greenville's shops, restaurants, and waterfront. Guests have access to riding trails, a shared grill, and…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/284198",
   "cardPhotos": [
    "images/ME-0321-cover.jpg",
    "images/ME-0321-000.jpg",
    "images/ME-0321-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 5,
-  "capacityDetails": "5",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0321-card.webp",
   "lat": 45.45872,
   "lng": -69.59611,
-  "photo": "images/ME-0321-card.webp",
-  "coverPhoto": "images/ME-0321-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0321-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427395/cac262a2e92965c2e867cb796b91de44.jpg",
-    "page": "https://www.houfy.com/lodging/deer-run-apartment/427395",
-    "sha256": "ce506edccd10360fb776a91374f6a81d7d80bdadf5fe11c22b704ca86d035765",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0321-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427395/160d142844bf01e0d44bbe0a6d8b225d.jpg",
-    "page": "https://www.houfy.com/lodging/deer-run-apartment/427395",
-    "sha256": "a7fb3e986bddd2446c868d6774fa2561c2e78d631ff31f860caf764821f0a340",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0321-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427395/9cc350dec69266cd888b2c65d1478f59.jpg",
-    "page": "https://www.houfy.com/lodging/deer-run-apartment/427395",
-    "sha256": "88fee2cb37fd8f0d4def23e5fc425667f03f4a9a97f251c7a9595a388eb499e9",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0321-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427395/80e8700b5945bc0a9bded3426fcb6415.jpg",
-    "page": "https://www.houfy.com/lodging/deer-run-apartment/427395",
-    "sha256": "276baec66e7aa9f37498ed984d89499ec79cb9e0e2a341fbf8b1e5ae2355dbb1",
-    "width": 1280,
-    "height": 853
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -630,53 +233,21 @@
   "destination": "Moosehead Lake",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Waterfront Maine vacation cabin rentals specializing in fly fishing, snowmobiling, paddling and summit hiking. This is northwoods living with comforts of home.",
-  "descriptionSource": "https://grayghostcamps.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Waterfront Maine vacation cabin rentals specializing in fly fishing, snowmobiling, paddling and summit hiking. This is northwoods living with…",
-  "cardDescriptionSource": "https://grayghostcamps.com/",
   "cardPhotos": [
    "images/ME-0091-cover.webp",
    "images/ME-0091-000.webp",
    "images/ME-0091-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0091-card.webp",
   "lat": 45.67277,
   "lng": -69.78946,
-  "photo": "images/ME-0091-card.webp",
-  "coverPhoto": "images/ME-0091-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0091-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0091-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0091-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -690,83 +261,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "A three-bedroom log home on Hartford's Point in Greenville Junction, with a short path to its waterfront. Guests can enjoy the dock, fire pit, and Moosehead Lake shoreline; pets are welcome.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/495228",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "A three-bedroom log home on Hartford's Point in Greenville Junction, with a short path to its waterfront. Guests can enjoy the dock, fire pit, and…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/495228",
   "cardPhotos": [
    "images/ME-0333-cover.jpg",
    "images/ME-0333-000.jpg",
    "images/ME-0333-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0333-card.webp",
   "lat": 45.49788,
   "lng": -69.6199,
-  "photo": "images/ME-0333-card.webp",
-  "coverPhoto": "images/ME-0333-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0333-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427471/e9a1fa1875b889c26c2a7bf8d78d7d5a.jpg",
-    "page": "https://www.houfy.com/lodging/hartford's-point-lodge-spacious-log-cabin-*perfect-for-families*/427471",
-    "sha256": "783d69060210fb70a1c9c50bf04bc08acef9dcfdcf5a769fa406ee569b658d78",
-    "width": 1280,
-    "height": 960,
-    "originalSha256": "e5971f5d7f849c0a2ce18966ef77e89824cb34fb19099b830afabee6cb76d019",
-    "originalWidth": 1280,
-    "originalHeight": 960
-   },
-   {
-    "file": "images/ME-0333-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427471/e4b5dec3ca88cd5a22cc87c0fd6eaaca.jpg",
-    "page": "https://www.houfy.com/lodging/hartford's-point-lodge-spacious-log-cabin-*perfect-for-families*/427471",
-    "sha256": "124933dd171188e407dc99f75a9f24db121657cb67882e52807740fb947a42e9",
-    "width": 1280,
-    "height": 960,
-    "originalSha256": "d533a9f53a8572adf8f739a653a4f7853e4ac80b980589d50332bce5ddc3ec1a",
-    "originalWidth": 1280,
-    "originalHeight": 960
-   },
-   {
-    "file": "images/ME-0333-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427471/836bd077641e713c957482f75b421b53.jpg",
-    "page": "https://www.houfy.com/lodging/hartford's-point-lodge-spacious-log-cabin-*perfect-for-families*/427471",
-    "sha256": "8ca166a69f79daa8edb5a52c6ce944144bc31e88cef9f3cf3b414c9d7f8aa5df",
-    "width": 1350,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0333-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427471/5fb233014fb97087454ed2fc56e7b74a.jpg",
-    "page": "https://www.houfy.com/lodging/hartford's-point-lodge-spacious-log-cabin-*perfect-for-families*/427471",
-    "sha256": "1f61bb59b97689c45dedf68ed9a79733b5d21dc4b7eb2b2a0b870b24784890d9",
-    "width": 1350,
-    "height": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -780,11 +289,7 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Luxury 8-bedroom, 8-bath lakeside vacation rental in Greenville, Maine on Moosehead Lake. Hot tub, sauna, private boat slip, game room & more. Sleeps 17.",
-  "descriptionSource": "https://staykingslanding.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Luxury 8-bedroom, 8-bath lakeside vacation rental in Greenville, Maine on Moosehead Lake. Hot tub, sauna, private boat slip, game room & more…",
-  "cardDescriptionSource": "https://staykingslanding.com/",
   "cardPhotos": [
    "images/ME-0160-cover.webp",
    "images/ME-0160-000.avif",
@@ -798,44 +303,14 @@
     "https://www.vrbo.com/4445140"
    ]
   },
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 17,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 17,
-  "capacityDetails": "17",
-  "priceFrom": "Unknown",
-  "priceDetails": "About $1,300–$1,675/night Typical nightly seasonal rate quoted on official FAQ; cleaning fee and tax extra; dates vary",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — baby/child equipment",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0160-card.webp",
   "lat": 45.45995,
   "lng": -69.59477,
-  "photo": "images/ME-0160-card.webp",
-  "coverPhoto": "images/ME-0160-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0160-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0160-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0160-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0160-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0160-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -849,86 +324,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "A two-bedroom Monson stay beside the water, with town amenities within walking distance. Dogs are welcome, and guests can access ATV and snowmobile routes from the property.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/330502",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "A two-bedroom Monson stay beside the water, with town amenities within walking distance. Dogs are welcome, and guests can access ATV and snowmobile…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/330502",
   "cardPhotos": [
    "images/ME-0317-cover.jpg",
    "images/ME-0317-000.jpg",
    "images/ME-0317-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0317-card.webp",
   "lat": 45.28616,
   "lng": -69.50579,
-  "photo": "images/ME-0317-card.webp",
-  "coverPhoto": "images/ME-0317-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0317-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427406/ea8cae4d1854250998400366e9287dc0.jpg",
-    "page": "https://www.houfy.com/lodging/lakeshore-retreat/427406",
-    "sha256": "33131383c9f7971e351b9e23660185ee2edef236fd46b71aa03f66d965894125",
-    "width": 1350,
-    "height": 900,
-    "originalSha256": "bdffc2fe10effe5fe8cd17ba1d3fb86e09c8f88b2ee4f47b8f3839df4d97dfff",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0317-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427406/f3b471268afe70e078fa6e242afed781.jpg",
-    "page": "https://www.houfy.com/lodging/lakeshore-retreat/427406",
-    "sha256": "b3d69712d4dfea3e2c37951491f2c705ee7664ed1d74d98cb35d1313ad4471b1",
-    "width": 1600,
-    "height": 748,
-    "originalSha256": "e1f23968ca3a5788ab944d14c25d8ffaee1a29e711ff6546c08b855dc6343a43",
-    "originalWidth": 1926,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0317-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427406/952b0e1f1cf441f34e706aa11d3b5c0f.jpg",
-    "page": "https://www.houfy.com/lodging/lakeshore-retreat/427406",
-    "sha256": "af3463cf6fee7aec91f57ff7be8f758864f597771d06086b7ef42bff9f8cb6df",
-    "width": 1600,
-    "height": 748,
-    "originalSha256": "ec078096d47755820f052c8bc00bd9954d1c2cffbb5d9e8cd71916fafc27fb0a",
-    "originalWidth": 1926,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0317-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427406/870980bdffbc730b45a3fa87de05caf4.jpg",
-    "page": "https://www.houfy.com/lodging/lakeshore-retreat/427406",
-    "sha256": "ffbec7d6fee23688d638ad85379249cad59a81561f5a407a51b6ccd1ecc8c0c6",
-    "width": 1280,
-    "height": 597
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -942,45 +352,21 @@
   "destination": "Moosehead Lake",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Jackman, Maine hunting and fishing guides at Long Pond Camps & Guide Service. Bear hunts, deer hunts, moose antler hunts, grouse hunts, rabbit & coyote hunting, snowmobiling and family vacationing in Northwest Maine.",
-  "descriptionSource": "https://longpondcamps.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Jackman, Maine hunting and fishing guides at Long Pond Camps & Guide Service. Bear hunts, deer hunts, moose antler hunts, grouse hunts, rabbit &…",
-  "cardDescriptionSource": "https://longpondcamps.com/",
   "cardPhotos": [
    "images/ME-0053-cover.jpg",
    "images/cards/ME-0053-01.webp",
    "images/cards/ME-0053-02.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes (family vacations; swing set)",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0053-card.webp",
   "lat": 45.62314,
   "lng": -70.13866,
-  "photo": "images/ME-0053-card.webp",
-  "coverPhoto": "images/ME-0053-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0053-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -994,11 +380,7 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "Waterfront cabins and cottages in the Moosehead Lake and Katahdin regions, with access to fishing, trails and year-round outdoor trips.",
-  "cardDescriptionSource": "https://maineescapes.com/",
   "cardPhotos": [
    "images/ME-0273-cover.jpg",
    "images/ME-0273-000.jpg",
@@ -1011,47 +393,14 @@
     "https://www.vrbo.com/3633355ha?preferlocale=true"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0273-card.webp",
   "lat": 45.67454,
   "lng": -69.79239,
-  "photo": "images/ME-0273-card.webp",
-  "coverPhoto": "images/ME-0273-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0273-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0273-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0273-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0273-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1065,57 +414,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Maine Lakeside Resort & Event Center offers private individual cabins that sleep up to 8 people with full amenities. We offer a unique location for private functions such as weddings and retreats at our beautiful lodge.",
-  "descriptionSource": "https://www.mainelakesidecabins.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Maine Lakeside Resort & Event Center offers private individual cabins that sleep up to 8 people with full amenities. We offer a unique location for…",
-  "cardDescriptionSource": "https://www.mainelakesidecabins.com",
   "cardPhotos": [
    "images/ME-0021-cover.avif",
    "images/ME-0021-000.avif",
    "images/ME-0021-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–10 by cabin type",
-  "priceFrom": "Unknown",
-  "priceDetails": "No accommodation nightly rate on policy page",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes — $30 per pet per day, prior notice",
+  "photo": "images/ME-0021-card.webp",
   "lat": 45.21707,
   "lng": -69.98816,
-  "photo": "images/ME-0021-card.webp",
-  "coverPhoto": "images/ME-0021-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0021-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0021-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0021-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0021-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1129,77 +442,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "Take in Moosehead Lake and Big Moose Mountain from the porch, then relax in a private hot tub. The cabin has direct riding-trail access and welcomes one pet within the operator's stated size limit.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280570",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Take in Moosehead Lake and Big Moose Mountain from the porch, then relax in a private hot tub. The cabin has direct riding-trail access and welcomes…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/280570",
   "cardPhotos": [
    "images/ME-0319-cover.jpg",
    "images/ME-0319-000.jpg",
    "images/ME-0319-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0319-card.webp",
   "lat": 45.50325,
   "lng": -69.5735,
-  "photo": "images/ME-0319-card.webp",
-  "coverPhoto": "images/ME-0319-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0319-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427391/804b6503f066138340f6848f46cd26f7.jpg",
-    "page": "https://www.houfy.com/lodging/mason's-mountain-view/427391",
-    "sha256": "97b9c5c7005a257ad123b60b6048d3a63bb4c4c6f41ad97f18c2ae27d4e6a76e",
-    "width": 1346,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0319-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427391/69f7e209fc08b97964a243a5674ca664.jpg",
-    "page": "https://www.houfy.com/lodging/mason's-mountain-view/427391",
-    "sha256": "6129ad1c9acea50ee5162efab3400464c3fff72edfb07eaf17874c7712f378b7",
-    "width": 1348,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0319-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427391/c58a78576686ab8006b767f75ebdaa7c.jpg",
-    "page": "https://www.houfy.com/lodging/mason's-mountain-view/427391",
-    "sha256": "aad3b3862be08a15746cafd27e6f2d903720016c039ed3bb92a5cbc4519af0b8",
-    "width": 1348,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0319-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427391/416e7457cebd46590b8d1334e7928c07.jpg",
-    "page": "https://www.houfy.com/lodging/mason's-mountain-view/427391",
-    "sha256": "48865216f98f4ff18e6eca08da883329079e9a56841509fb37c7370976c54852",
-    "width": 1348,
-    "height": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1213,47 +470,21 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "Cabin stays in Rockwood, with direct availability and reservations through Maynards in Maine and support from the local operator.",
-  "cardDescriptionSource": "https://maynards-in-maine.lodgify.com/",
   "cardPhotos": [
    "images/cards/ME-0201-01.webp",
    "images/cards/ME-0201-02.webp",
    "images/cards/ME-0201-03.webp"
   ],
-  "cardPhotoLabel": "Photos: Maynard’s cabin campus",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)",
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0201-card.webp",
   "lat": 45.67555,
   "lng": -69.78898,
-  "photo": "images/ME-0201-card.webp",
-  "coverPhoto": "images/ME-0201-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0201-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "images/ME-0201-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1267,83 +498,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "Mischief Maker pairs a secluded Greenville woodland setting with mountain scenery and modern interiors. This pet-friendly cabin accommodates eight and connects directly to ATV and snowmobile trails.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/325878",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Mischief Maker pairs a secluded Greenville woodland setting with mountain scenery and modern interiors. This pet-friendly cabin accommodates eight…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/325878",
   "cardPhotos": [
    "images/ME-0324-cover.jpg",
    "images/ME-0324-000.jpg",
    "images/ME-0324-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0324-card.webp",
   "lat": 45.4403,
   "lng": -69.53437,
-  "photo": "images/ME-0324-card.webp",
-  "coverPhoto": "images/ME-0324-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0324-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427401/b0e35c4c95f3e96d7769c41da37513dc.jpg",
-    "page": "https://www.houfy.com/lodging/mischief-maker/427401",
-    "sha256": "a924bc31bb4a6fa9f872d22201f0c5ce6dfe579ed89399b244c27464f9dbfc14",
-    "width": 1600,
-    "height": 748,
-    "originalSha256": "4f4bc7716febaf38a07ba363bc8b1aef35b98c973528ef3b488a44d128f2db8c",
-    "originalWidth": 1926,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0324-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427401/4b52e4ed067f61c59d3dfe6ddb362691.jpg",
-    "page": "https://www.houfy.com/lodging/mischief-maker/427401",
-    "sha256": "fa23eb19fc03253101fe219a23bcc95dc9c34725c8e4f5cc684fa58a5abb2360",
-    "width": 1600,
-    "height": 747,
-    "originalSha256": "0fb63c497f8b8751035acf5bfbe939810f1483858557822f75175620a5a31aac",
-    "originalWidth": 1928,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0324-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427401/f8e912c10a7cfa1f0f8cf476c50f7d6b.jpg",
-    "page": "https://www.houfy.com/lodging/mischief-maker/427401",
-    "sha256": "56705eeccc5218ad5d3aaccbf6b8c88d6cb5920c4817798b9d744d0b91a434af",
-    "width": 1280,
-    "height": 597
-   },
-   {
-    "file": "images/ME-0324-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427401/7b4896b432a946bfda73ef1757685e75.jpg",
-    "page": "https://www.houfy.com/lodging/mischief-maker/427401",
-    "sha256": "fddfdc9d6ce98493bd0c0374261b52f6b35b7a809819794ff2e6ac86c0e226a4",
-    "width": 1280,
-    "height": 597
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1357,77 +526,21 @@
   "destination": "Moosehead Lake",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Stay near downtown Greenville in an apartment with an electric fireplace and access to ATV and snowmobile routes. Outdoor seating and a grill are shared; Red Cross Beach is nearby.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/281613",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Stay near downtown Greenville in an apartment with an electric fireplace and access to ATV and snowmobile routes. Outdoor seating and a grill are…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/281613",
   "cardPhotos": [
    "images/ME-0320-cover.jpg",
    "images/ME-0320-000.jpg",
    "images/ME-0320-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 2,
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0320-card.webp",
   "lat": 45.45872,
   "lng": -69.59611,
-  "photo": "images/ME-0320-card.webp",
-  "coverPhoto": "images/ME-0320-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0320-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427392/409c99ff6ddc13a4e4aa69717737326c.jpg",
-    "page": "https://www.houfy.com/lodging/moose-hollow-apartment/427392",
-    "sha256": "6f210a1dff505761929119e6084db02e9d5cadb4c4cbc0590a817bd6d22c1dca",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0320-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427392/13ce3cb25ffdddac2a0bb9d98eaa5845.jpg",
-    "page": "https://www.houfy.com/lodging/moose-hollow-apartment/427392",
-    "sha256": "28938a105ecf6d5b5a8436b86214f83099210e646d4c97b28e06d2d6a4962849",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0320-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427392/79f952cfd975924453419a3e7da43d99.jpg",
-    "page": "https://www.houfy.com/lodging/moose-hollow-apartment/427392",
-    "sha256": "94e6b61a18b1aa82ca21522c89c03ad0dad8dd17ad260a72625f75c4befd7372",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0320-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427392/fb2d870699e2562d92f66e922118d46a.jpg",
-    "page": "https://www.houfy.com/lodging/moose-hollow-apartment/427392",
-    "sha256": "c56692ef1171489fe1a42e11526ff0c893ed8d5b14387ea0a64847c0217cf0b2",
-    "width": 1280,
-    "height": 853
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1441,55 +554,21 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Discover Luxurious Maine Vacation Rentals with Moose Lodge and explore trusted services built for your goals today.",
-  "descriptionSource": "https://mooselodgemaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover Luxurious Maine Vacation Rentals with Moose Lodge and explore trusted services built for your goals today.",
-  "cardDescriptionSource": "https://mooselodgemaine.com/",
   "cardPhotos": [
    "images/ME-0167-cover.png",
    "images/ME-0167-000.jpg",
    "images/ME-0167-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — family groups welcomed",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0167-card.webp",
   "lat": 45.6238,
   "lng": -70.254,
-  "photo": "images/ME-0167-card.webp",
-  "coverPhoto": "images/ME-0167-cover.png",
-  "photos": [
-   {
-    "file": "images/ME-0167-cover.png",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0167-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0167-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0167-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0167-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1503,55 +582,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Moosehead Cottage Resort / Resort with log cabins, indoor pool, sauna, hot tub, nightly rentals available. A mile from Moosehead Lake, lots of amenities close by, ski resort 10 minutes away. Direct ATV & Snowmobile Access",
-  "descriptionSource": "https://www.mooseheadcottageresort.biz",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Moosehead Cottage Resort / Resort with log cabins, indoor pool, sauna, hot tub, nightly rentals available. A mile from Moosehead Lake, lots of…",
-  "cardDescriptionSource": "https://www.mooseheadcottageresort.biz",
   "cardPhotos": [
    "images/ME-0048-cover.jpg",
    "images/ME-0048-000.png",
    "images/ME-0048-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0048-card.webp",
   "lat": 45.4386,
   "lng": -69.59032,
-  "photo": "images/ME-0048-card.webp",
-  "coverPhoto": "images/ME-0048-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0048-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0048-000.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0048-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0048-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0048-logo.avif",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1565,55 +610,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Rustic Luxury Log Cabin Rentals at Moosehead Lake, Maine",
-  "descriptionSource": "https://mooseheadhills.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Rustic Luxury Log Cabin Rentals at Moosehead Lake, Maine",
-  "cardDescriptionSource": "https://mooseheadhills.com/",
   "cardPhotos": [
    "images/ME-0049-cover.webp",
    "images/ME-0049-000.jpg",
    "images/ME-0049-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes (family adventures)",
-  "petsDetails": "Varies (Burnt Jacket Lodge yes; Loon Lodge no)",
+  "photo": "images/ME-0049-card.webp",
   "lat": 45.459,
   "lng": -69.5917,
-  "photo": "images/ME-0049-card.webp",
-  "coverPhoto": "images/ME-0049-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0049-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0049-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0049-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0049-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0049-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1627,50 +638,21 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Moosehead Property Rentals provides Property Management and Vacation Rentals in the Moosehead Lake Region.",
-  "descriptionSource": "https://www.mooseheadpropertyrentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Moosehead Property Rentals provides Property Management and Vacation Rentals in the Moosehead Lake Region.",
-  "cardDescriptionSource": "https://www.mooseheadpropertyrentals.com/",
   "cardPhotos": [
    "images/cards/ME-0252-01.webp",
    "images/cards/ME-0252-02.webp",
    "images/cards/ME-0252-03.webp"
   ],
-  "cardPhotoLabel": "Photos: Lake View Lodge",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0252-card.webp",
   "lat": 45.459,
   "lng": -69.5917,
-  "photo": "images/ME-0252-card.webp",
-  "coverPhoto": "images/ME-0252-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0252-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0252-000.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0252-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1685,86 +667,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "Spread out over three levels at Mystic Nights, a Greenville cabin with a hot tub and dock access. Riding trails connect to the property, while downtown shops and restaurants are around ten minutes away.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/347043",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Spread out over three levels at Mystic Nights, a Greenville cabin with a hot tub and dock access. Riding trails connect to the property, while…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/347043",
   "cardPhotos": [
    "images/ME-0328-cover.jpg",
    "images/ME-0328-000.jpg",
    "images/ME-0328-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0328-card.webp",
   "lat": 45.455,
   "lng": -69.5329,
-  "photo": "images/ME-0328-card.webp",
-  "coverPhoto": "images/ME-0328-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0328-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427409/9f8363a4727ccaf3005e2c37b323e9b2.jpg",
-    "page": "https://www.houfy.com/lodging/mystic-nights/427409",
-    "sha256": "c79121ab548ed6c547670c5315ff1d553589d9e7bb41b27e2d3ef956fd6dca12",
-    "width": 1280,
-    "height": 960,
-    "originalSha256": "4f948beb840e312bc118f5bb385d7244771102a35d5af953fa5d3b78baea44de",
-    "originalWidth": 1280,
-    "originalHeight": 960
-   },
-   {
-    "file": "images/ME-0328-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427409/758c0fbafbaf8e18e7f11cd6df4378dc.jpg",
-    "page": "https://www.houfy.com/lodging/mystic-nights/427409",
-    "sha256": "1b7c3399c7dcfbffa80f0b6c9cd99d185d1b2bf20e11e197d89282a715c5f54c",
-    "width": 1349,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0328-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427409/39adeb0f0408b872d4b6680a4c33e3b5.jpg",
-    "page": "https://www.houfy.com/lodging/mystic-nights/427409",
-    "sha256": "df68fa04f2245bcd6b83fe70a55915f98fd60e708e2f54d39d20c71092d27f56",
-    "width": 1600,
-    "height": 748,
-    "originalSha256": "0b23629c7edf637c2a0078a2aef46c42085000649292c630fbf0daf0ac532d8d",
-    "originalWidth": 1926,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0328-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427409/e579dddd8386be1b0bc3486810a47649.jpg",
-    "page": "https://www.houfy.com/lodging/mystic-nights/427409",
-    "sha256": "f649fbb79f56adef28690ce5b7c2f046c7439ce30eba79fbc387cc74904f4db9",
-    "width": 1350,
-    "height": 900,
-    "originalSha256": "01b6055bd206a8913bd3b42088f8f04b0f8124fa9bda62d79d788df1443fe54c",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1778,57 +695,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Nestled deep within whispering pine forests, our Next Chapter Cabins offer the perfect balance of wilderness seclusion and small-town convenience. Located on Turning Page Farm Brewery, just a short walk through the woods from our brewery and creamery, these cabins provide an immersive forest experience while being just 4 miles from the charming town of Monson. Take it easy at this unique and tranquil getaway.",
-  "descriptionSource": "https://www.nextchaptercabins.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Nestled deep within whispering pine forests, our Next Chapter Cabins offer the perfect balance of wilderness seclusion and small-town convenience…",
-  "cardDescriptionSource": "https://www.nextchaptercabins.com/",
   "cardPhotos": [
    "images/ME-0065-cover.jpg",
    "images/ME-0065-000.png",
    "images/ME-0065-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0065-card.webp",
   "lat": 45.2874,
   "lng": -69.5016,
-  "photo": "images/ME-0065-card.webp",
-  "coverPhoto": "images/ME-0065-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0065-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0065-000.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0065-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0065-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1842,55 +723,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Book locally managed cabins, lakefront homes and vacation rentals near Moosehead Lake in Greenville, Rockwood, Beaver Cove and Maine’s North Woods.",
-  "descriptionSource": "https://northwoodsmainecabins.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Book locally managed cabins, lakefront homes and vacation rentals near Moosehead Lake in Greenville, Rockwood, Beaver Cove and Maine’s North Woods.",
-  "cardDescriptionSource": "https://northwoodsmainecabins.com/",
   "cardPhotos": [
    "images/ME-0050-cover.webp",
    "images/ME-0050-000.webp",
    "images/ME-0050-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–17 per property (100+ properties)",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Varies (many allow; see individual property)",
+  "photo": "images/ME-0050-card.webp",
   "lat": 45.46118,
   "lng": -69.62168,
-  "photo": "images/ME-0050-card.webp",
-  "coverPhoto": "images/ME-0050-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0050-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0050-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0050-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0050-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1904,83 +751,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "This two-bedroom cabin sits on Wilson Pond at Sanders Point and welcomes pets. Lake access, a fire pit, a pizza oven, and outdoor space make it suited to relaxed days around the water.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/494624",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "This two-bedroom cabin sits on Wilson Pond at Sanders Point and welcomes pets. Lake access, a fire pit, a pizza oven, and outdoor space make it…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/494624",
   "cardPhotos": [
    "images/ME-0329-cover.jpg",
    "images/ME-0329-000.jpg",
    "images/ME-0329-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "6",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0329-card.webp",
   "lat": 45.478,
   "lng": -69.53604,
-  "photo": "images/ME-0329-card.webp",
-  "coverPhoto": "images/ME-0329-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0329-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427470/eb942b42d683b5ee8a48f1703cc49aeb.jpg",
-    "page": "https://www.houfy.com/lodging/oasis-on-wilson-pond*waterfront*boat-launch*pet-friendly/427470",
-    "sha256": "8dfde389d7285024e77c96afde96900a76d80b64ec73ffb841e7f5c0e546dce7",
-    "width": 1600,
-    "height": 900,
-    "originalSha256": "99fe73a52c8314b9c7a65abeffab2db1328497eec1441ae873f5bc774600a036",
-    "originalWidth": 1600,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0329-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427470/99ed41dffa62f985dcde8e5ae661e7a0.jpg",
-    "page": "https://www.houfy.com/lodging/oasis-on-wilson-pond*waterfront*boat-launch*pet-friendly/427470",
-    "sha256": "403f199588c86ea5c8c5dd82b543d9b62fad61d42d8d230618126d33c29fdd6c",
-    "width": 1600,
-    "height": 899,
-    "originalSha256": "f3604ffc95d978fc14d8e82337393769add66ba72e894e27ed90c069a7b65caf",
-    "originalWidth": 1602,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0329-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427470/c40330946c1f3dec3c39f226ae9b966e.jpg",
-    "page": "https://www.houfy.com/lodging/oasis-on-wilson-pond*waterfront*boat-launch*pet-friendly/427470",
-    "sha256": "75ba4f13a6d4675a2d9bbb5f390060950f9f6bd4a35289e2b440035fb0e69b2d",
-    "width": 1350,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0329-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427470/4fb3d06714cb3fb50ebeefe8e63fd8cb.jpg",
-    "page": "https://www.houfy.com/lodging/oasis-on-wilson-pond*waterfront*boat-launch*pet-friendly/427470",
-    "sha256": "6c82014f3e15c9b660e251d72652d92c34a7856df18567909592a1180588bdca",
-    "width": 1350,
-    "height": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1994,55 +779,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Embrace the rustic charm and lakeside serenity of Maine’s legendary Moosehead Lake. Unplug, unwind, and reconnect by the water.",
-  "descriptionSource": "https://rockwoodcottages.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Embrace the rustic charm and lakeside serenity of Maine’s legendary Moosehead Lake. Unplug, unwind, and reconnect by the water.",
-  "cardDescriptionSource": "https://rockwoodcottages.com/",
   "cardPhotos": [
    "images/ME-0093-cover.webp",
    "images/ME-0093-000.webp",
    "images/ME-0093-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "4–5 per cottage (varies by unit)",
-  "priceFrom": "Unknown",
-  "priceDetails": "$175–$275/night 2026 seasonal cottage rates; $35 per guest over 4; dogs $30/dog/night (per permitted unit); cleaning $95 and lodging tax extra",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Conditional",
-  "kidsDetails": "Yes — children under supervision",
-  "petsDetails": "Yes — cottages 5–7 only, up to 2 dogs",
+  "photo": "images/ME-0093-card.webp",
   "lat": 45.68212,
   "lng": -69.75999,
-  "photo": "images/ME-0093-card.webp",
-  "coverPhoto": "images/ME-0093-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0093-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0093-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0093-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0093-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0093-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -2056,55 +807,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Discover scenic views and year round relaxation at full-equipped cabins an Big Wood Lake in Jackman, Maine with direct ATV and snowmobile trail access.",
-  "descriptionSource": "https://www.sallymtcabins.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover scenic views and year round relaxation at full-equipped cabins an Big Wood Lake in Jackman, Maine with direct ATV and snowmobile trail…",
-  "cardDescriptionSource": "https://www.sallymtcabins.com",
   "cardPhotos": [
    "images/ME-0054-cover.webp",
    "images/ME-0054-000.webp",
    "images/ME-0054-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0054-card.webp",
   "lat": 45.62193,
   "lng": -70.2577,
-  "photo": "images/ME-0054-card.webp",
-  "coverPhoto": "images/ME-0054-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0054-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0054-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0054-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0054-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0054-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -2118,80 +835,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "The Pritham House accommodates eight near downtown Greenville, across from Red Cross Public Beach. Spend time on the porch or around the fire pit, with ATV and snowmobile routes accessible from the property.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/505120",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "The Pritham House accommodates eight near downtown Greenville, across from Red Cross Public Beach. Spend time on the porch or around the fire pit…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/505120",
   "cardPhotos": [
    "images/ME-0327-cover.jpg",
    "images/ME-0327-000.jpg",
    "images/ME-0327-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0327-card.webp",
   "lat": 45.4594,
   "lng": -69.60534,
-  "photo": "images/ME-0327-card.webp",
-  "coverPhoto": "images/ME-0327-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0327-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427477/3f976ad61bcec7502b3739c140d10e45.jpg",
-    "page": "https://www.houfy.com/lodging/the-pritham-house-or-pet-friendly-public-beach-and-dining/427477",
-    "sha256": "e6fc2de899d1d3444969d82a2afff003f779ce9f3f714c935a4ba005ba193447",
-    "width": 1280,
-    "height": 1028,
-    "originalSha256": "034fb27d2067fde419a534b564135f55d78cf3016025964b0421f30e4b20a168",
-    "originalWidth": 1280,
-    "originalHeight": 1028
-   },
-   {
-    "file": "images/ME-0327-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427477/3f2b62aa9a6d442b1b17e5b77e255834.jpg",
-    "page": "https://www.houfy.com/lodging/the-pritham-house-or-pet-friendly-public-beach-and-dining/427477",
-    "sha256": "9aaeb3372194fa386345081546b99a8cfeba7abc59ff0a2cfada4203746a2457",
-    "width": 1350,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0327-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427477/6b5a044277f1ad1b433d327e52b42a67.jpg",
-    "page": "https://www.houfy.com/lodging/the-pritham-house-or-pet-friendly-public-beach-and-dining/427477",
-    "sha256": "f2296af2f0584ea3636394f2c39930caa71daaf0885b327a254e670eb7252e15",
-    "width": 1350,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0327-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427477/736cfdbb06d21631a720cb695b282409.jpg",
-    "page": "https://www.houfy.com/lodging/the-pritham-house-or-pet-friendly-public-beach-and-dining/427477",
-    "sha256": "f087fe0fd92afe48687e7bb5390d31540d2c01cc6629b65e7d0e8949d8f04527",
-    "width": 1350,
-    "height": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -2205,55 +863,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Traditional Four-Season Cabins and Lodge on Moosehead Lake, Maine",
-  "descriptionSource": "https://tomhegan.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Traditional Four-Season Cabins and Lodge on Moosehead Lake, Maine",
-  "cardDescriptionSource": "https://tomhegan.com/",
   "cardPhotos": [
    "images/ME-0094-cover.jpg",
    "images/ME-0094-000.jpg",
    "images/ME-0094-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0094-card.webp",
   "lat": 45.6778,
   "lng": -69.7409,
-  "photo": "images/ME-0094-card.webp",
-  "coverPhoto": "images/ME-0094-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0094-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0094-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0094-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0094-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0094-logo.svg",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -2267,77 +891,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "Trails Edge offers a dog-friendly Greenville apartment close to shops and the lake. Direct access to ATV and snowmobile routes, plus trailer parking, makes it a practical base for riding trips.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232735",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Trails Edge offers a dog-friendly Greenville apartment close to shops and the lake. Direct access to ATV and snowmobile routes, plus trailer…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232735",
   "cardPhotos": [
    "images/ME-0326-cover.jpg",
    "images/ME-0326-000.jpg",
    "images/ME-0326-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0326-card.webp",
   "lat": 45.45733,
   "lng": -69.59359,
-  "photo": "images/ME-0326-card.webp",
-  "coverPhoto": "images/ME-0326-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0326-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427360/8ca5f54028a299800b3d73d635016fce.jpg",
-    "page": "https://www.houfy.com/lodging/trails-edge/427360",
-    "sha256": "7cc0119e0095ef2595e58c95e5fed81c47a981be32ce7c00124f8636f8f3f40d",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0326-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427360/0d05463a5ded74c9b2905954a4e877a2.jpg",
-    "page": "https://www.houfy.com/lodging/trails-edge/427360",
-    "sha256": "e83a7fb4045807b8dbc381b9db8dce370a5d276fd0065b91225f7fc6c62bfe79",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0326-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427360/e20bae95090ea7af8446ab9bd8a220e2.jpg",
-    "page": "https://www.houfy.com/lodging/trails-edge/427360",
-    "sha256": "52129662844737bde5f0165ed92e85c4abae2ad38ee22ab053e1f3baec5979d4",
-    "width": 1280,
-    "height": 597
-   },
-   {
-    "file": "images/ME-0326-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427360/42891b0aa5f097de9c19fae3407327c0.jpg",
-    "page": "https://www.houfy.com/lodging/trails-edge/427360",
-    "sha256": "6da066e6a25a9a7cc657bda961735d685cddf15fdda3e562e499beb47926e099",
-    "width": 1280,
-    "height": 853
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -2351,80 +919,21 @@
   "destination": "Moosehead Lake",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "A three-bedroom apartment with views across the lake and mountains. Waterfront access and a dock slip are provided through the Juniper Motel, rather than an exclusively private shoreline at the apartment.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/484845",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "A three-bedroom apartment with views across the lake and mountains. Waterfront access and a dock slip are provided through the Juniper Motel, rather…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/484845",
   "cardPhotos": [
    "images/ME-0325-cover.jpg",
    "images/ME-0325-000.jpg",
    "images/ME-0325-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 5,
-  "capacityDetails": "5",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0325-card.webp",
   "lat": 45.46137,
   "lng": -69.61785,
-  "photo": "images/ME-0325-card.webp",
-  "coverPhoto": "images/ME-0325-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0325-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427466/863a00d9bade698abf30a555a3e6d325.jpg",
-    "page": "https://www.houfy.com/lodging/west-cove-lower-left-apartment/427466",
-    "sha256": "a9f5645ead2e2a6b2d0abb22a344e2aee7ad4e2501a56dd0997a21749664a593",
-    "width": 1600,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0325-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427466/7349fac7c0871a5c33f697b102215ebc.jpg",
-    "page": "https://www.houfy.com/lodging/west-cove-lower-left-apartment/427466",
-    "sha256": "da209b838c4dbd490b3f3dc737cea8de9db1d7de3705ae1d2079c5ed9828735a",
-    "width": 1600,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0325-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427466/03faa2cd1b91f75a7363351e4b109898.jpg",
-    "page": "https://www.houfy.com/lodging/west-cove-lower-left-apartment/427466",
-    "sha256": "6277fba0f118225c8de330d63cf60395819518d8debef6f1eca6d1f82de0c4cd",
-    "width": 1600,
-    "height": 747,
-    "originalSha256": "3cd03cc189764ec9229cb92e4feaea2e546248363bc492282f602521f745b855",
-    "originalWidth": 1927,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0325-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427466/8ea8522b91a2a417afb3a3e983470948.jpg",
-    "page": "https://www.houfy.com/lodging/west-cove-lower-left-apartment/427466",
-    "sha256": "8da2e9476e0905a220694a953f5370cae0adafc464297ab5d211d4e6368005a9",
-    "width": 1600,
-    "height": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -2438,83 +947,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Wicked Moose Cabin overlooks Moosehead Lake in Beaver Cove and accommodates groups of up to twelve. A dock, waterfront swimming access, hot tub, fireplace, and game room offer plenty to do at the property.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/301541",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Wicked Moose Cabin overlooks Moosehead Lake in Beaver Cove and accommodates groups of up to twelve. A dock, waterfront swimming access, hot tub…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/301541",
   "cardPhotos": [
    "images/ME-0323-cover.jpg",
    "images/ME-0323-000.jpg",
    "images/ME-0323-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 12,
   "bedrooms": 4,
   "bathrooms": 5,
-  "guests": 12,
-  "capacityDetails": "12",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0323-card.webp",
   "lat": 45.53187,
   "lng": -69.55338,
-  "photo": "images/ME-0323-card.webp",
-  "coverPhoto": "images/ME-0323-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0323-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427396/1a03353547ba204aad13c85ee9ebaede.jpg",
-    "page": "https://www.houfy.com/lodging/wicked-moose-cabin/427396",
-    "sha256": "36589fb3809f8e9a4ea5fdf3e0530297cca2de8d7eba1e763e3c77ae242fe5bb",
-    "width": 1350,
-    "height": 900,
-    "originalSha256": "d0dd3cb0b08f34dd06fa17f144854ccf2850ff8ed4df3ac7b885e535c72ad5b3",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0323-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427396/51ddf41a47e64ce829ebc7b95b795a3d.jpg",
-    "page": "https://www.houfy.com/lodging/wicked-moose-cabin/427396",
-    "sha256": "e7e86f4ac0f165acadae3596f04d4bfa560f62167daae684804b4be0951f0793",
-    "width": 1350,
-    "height": 900,
-    "originalSha256": "b6f99572b766272ad6950bbeabbf6e655093a99626b8412ea5c3d60fcbbf922d",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0323-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427396/ea2b70dc79b37af598b680c273f29ff2.jpg",
-    "page": "https://www.houfy.com/lodging/wicked-moose-cabin/427396",
-    "sha256": "0713642d3ea4bc7c1dba43cd1fc202b6e79b5f759fd2662b72114b4f52608a34",
-    "width": 1349,
-    "height": 900
-   },
-   {
-    "file": "images/ME-0323-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427396/40b69ca09092d3fe24615fd4dccfe223.jpg",
-    "page": "https://www.houfy.com/lodging/wicked-moose-cabin/427396",
-    "sha256": "2130846ec3c6c88e5ec7622064a6cdd41abae3d7450b8f0b62de80555a5eed67",
-    "width": 1349,
-    "height": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -2528,55 +975,21 @@
   "destination": "Moosehead Lake",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Lodge in Brownville ME – Call Wildwoods Trailside Cabins, Lodge & Restaurant, (207) 965-0000, for a fun, affordable outdoor getaway in Maine.",
-  "descriptionSource": "https://wildwoodsme.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Lodge in Brownville ME – Call Wildwoods Trailside Cabins, Lodge & Restaurant, (207) 965-0000, for a fun, affordable outdoor getaway in Maine.",
-  "cardDescriptionSource": "https://wildwoodsme.com/",
   "cardPhotos": [
    "images/ME-0018-cover.webp",
    "images/ME-0018-000.jpg",
    "images/ME-0018-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": 150,
-  "priceDetails": "$150/night Cabin nightly rate; 9% lodging tax extra",
-  "currency": "USD",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes (families welcome)",
-  "petsDetails": "Yes ($25/pet; friendly pets)",
+  "photo": "images/ME-0018-card.webp",
   "lat": 45.35683,
   "lng": -68.95976,
-  "photo": "images/ME-0018-card.webp",
-  "coverPhoto": "images/ME-0018-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0018-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0018-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0018-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0018-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0018-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -2590,55 +1003,21 @@
   "destination": "Moosehead Lake",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Wilsons on Moosehead Lake is the premiere lodging choice for your Maine vacation in Greenville Junction! Lakefront cottage rentals, hunting, fishing & more!",
-  "descriptionSource": "https://wilsonsonmooseheadlake.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Wilsons on Moosehead Lake is the premiere lodging choice for your Maine vacation in Greenville Junction! Lakefront cottage rentals, hunting, fishing…",
-  "cardDescriptionSource": "https://wilsonsonmooseheadlake.com",
   "cardPhotos": [
    "images/ME-0161-cover.jpg",
    "images/ME-0161-000.jpg",
    "images/ME-0161-001.png"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–10 by cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "$95–$475/night Per-cottage off-peak/peak/prime seasonal rates; extra guests charged, taxes additional",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Conditional",
-  "kidsDetails": "Yes — children prices by age",
-  "petsDetails": "Yes — selected cabins only; prior approval, $15/day; not Driftwood/Somerset/Penobscot",
+  "photo": "images/ME-0161-card.webp",
   "lat": 45.4609,
   "lng": -69.6162,
-  "photo": "images/ME-0161-card.webp",
-  "coverPhoto": "images/ME-0161-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0161-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0161-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0161-001.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0161-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0161-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -2652,83 +1031,21 @@
   "destination": "Moosehead Lake",
   "type": "House",
   "recordType": "Property",
-  "description": "WinterFell provides a wooded base for exploring the Moosehead region with pets. Riding routes begin at the property, while lake access and the deeded dock are a short walk or drive away.",
-  "descriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232559",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "WinterFell provides a wooded base for exploring the Moosehead region with pets. Riding routes begin at the property, while lake access and the…",
-  "cardDescriptionSource": "https://northwoodsmainecabins.holidayfuture.com/listings/232559",
   "cardPhotos": [
    "images/ME-0322-cover.jpg",
    "images/ME-0322-000.jpg",
    "images/ME-0322-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 9,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 9,
-  "capacityDetails": "9",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0322-card.webp",
   "lat": 45.48156,
   "lng": -69.59236,
-  "photo": "images/ME-0322-card.webp",
-  "coverPhoto": "images/ME-0322-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0322-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427356/c65de87da9d3db45cf8e9853cb995d4f.jpg",
-    "page": "https://www.houfy.com/lodging/winterfell/427356",
-    "sha256": "0b8d3744f20454c38cbb7d4b70667873ecb4bd40c48ef7965aa57435b7ca857e",
-    "width": 1280,
-    "height": 872
-   },
-   {
-    "file": "images/ME-0322-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427356/dfcf2f2f020612bea09b9518342a79a5.jpg",
-    "page": "https://www.houfy.com/lodging/winterfell/427356",
-    "sha256": "72c6b82bb1e8701d96dc136e112b51529ba89af401ba5d1b5ba54a8a70360d08",
-    "width": 1280,
-    "height": 853
-   },
-   {
-    "file": "images/ME-0322-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427356/c4854c4ad97db2172fc912dcfbaf970d.jpg",
-    "page": "https://www.houfy.com/lodging/winterfell/427356",
-    "sha256": "ec23647eb753012e7ea5426fa6e344c857c192330900df36481542e6359cfd37",
-    "width": 1280,
-    "height": 853,
-    "originalSha256": "f3b565da863086e94e5ff1ff3b6ab50c9be0165c0f6ce6d5e2c77f0123dd93b1",
-    "originalWidth": 1280,
-    "originalHeight": 853
-   },
-   {
-    "file": "images/ME-0322-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/427356/9257e3c7e87747102cfc5a6d1d4a37fb.jpg",
-    "page": "https://www.houfy.com/lodging/winterfell/427356",
-    "sha256": "29974f5c7f5ffebbd021fd3af70a5779fe7df8ef4416db9305e0c449873c7cc8",
-    "width": 1280,
-    "height": 1280,
-    "originalSha256": "93291bdaf4fedefc3e0b6e0fbb4b5e787ce05064ac9c2ed7d36ca43a44313225",
-    "originalWidth": 1280,
-    "originalHeight": 1280
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  }

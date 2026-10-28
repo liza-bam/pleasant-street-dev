@@ -9,11 +9,7 @@
   "destination": "Blue Hill Peninsula",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Arbor Camp is a collection of thoughtfully designed cabins and treehouses set on 30 private acres in the Maine woods, just north of Acadia National Park, with access to the cultural and culinary offerings of Downeast Maine. Each dwelling offers a quiet retreat with wide windows framing beautiful views of sky, pines, and the Union River.",
-  "descriptionSource": "https://arborcamp.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Arbor Camp is a collection of thoughtfully designed cabins and treehouses set on 30 private acres in the Maine woods, just north of Acadia National…",
-  "cardDescriptionSource": "https://arborcamp.com/",
   "cardPhotos": [
    "images/ME-0035-cover.webp",
    "images/ME-0035-000.webp",
@@ -24,44 +20,14 @@
     "https://www.airbnb.com/rooms/1520636432237284762/reviews?source_impression_id=p3_1773688761_P37x7-wb6Cco0k-D"
    ]
   },
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Varies (Cherry and Willow cabins yes; others no)",
+  "photo": "images/ME-0035-card.webp",
   "lat": 44.56468,
   "lng": -68.4413,
-  "photo": "images/ME-0035-card.webp",
-  "coverPhoto": "images/ME-0035-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0035-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0035-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0035-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0035-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -75,57 +41,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Crow's Nest Cottage - Amazing View of Eggemoggin Reach",
-  "descriptionSource": "https://bluehillbaypropertyrentals.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Crow's Nest Cottage - Amazing View of Eggemoggin Reach",
-  "cardDescriptionSource": "https://bluehillbaypropertyrentals.com",
   "cardPhotos": [
    "images/ME-0238-cover.jpg",
    "images/ME-0238-000.jpg",
    "images/ME-0238-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0238-card.webp",
   "lat": "Unknown",
   "lng": "Unknown",
-  "photo": "images/ME-0238-card.webp",
-  "coverPhoto": "images/ME-0238-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0238-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0238-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0238-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0238-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Unknown",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -140,53 +70,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Blue Hill Peninsula Realty + Rentals agents Annie Grindal and Debbie Hutchins offer local real estate & vacation rentals in Downeast Maine. Blue Hill, Brooklin, Surry, Penobscot, Brooksville, Sedgwick, Deer Isle, Stonington and other communities.",
-  "descriptionSource": "https://www.bhpr.me",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Blue Hill Peninsula Realty + Rentals agents Annie Grindal and Debbie Hutchins offer local real estate & vacation rentals in Downeast Maine. Blue…",
-  "cardDescriptionSource": "https://www.bhpr.me",
   "cardPhotos": [
    "images/ME-0234-cover.jpg",
    "images/ME-0234-000.webp",
    "images/ME-0234-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0234-card.webp",
   "lat": 44.41234,
   "lng": -68.58962,
-  "photo": "images/ME-0234-card.webp",
-  "coverPhoto": "images/ME-0234-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0234-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0234-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0234-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -201,55 +99,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Apartment",
   "recordType": "Property / small operator",
-  "description": "Boyce's Motel - Motel, room and apartment rentals in Stonington Maine",
-  "descriptionSource": "https://boycesmotel.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Boyce's Motel - Motel, room and apartment rentals in Stonington Maine",
-  "cardDescriptionSource": "https://boycesmotel.com/",
   "cardPhotos": [
    "images/ME-0106-cover.jpg",
    "images/ME-0106-000.jpg",
    "images/ME-0106-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "$85–$255/night Displayed nightly seasonal ranges across motel units; pricing varies by room/season, tax and additional-person fees extra",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes — selected rooms (7–11) with $15/stay pet fee",
+  "photo": "images/ME-0106-card.webp",
   "lat": 44.15635,
   "lng": -68.66425,
-  "photo": "images/ME-0106-card.webp",
-  "coverPhoto": "images/ME-0106-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0106-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0106-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0106-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0106-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0106-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -263,57 +127,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Rustic seaside rental cottages with modern comforts in Brooksville Maine near the Oakland House",
-  "descriptionSource": "https://www.dreamingofmaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Rustic seaside rental cottages with modern comforts in Brooksville Maine near the Oakland House",
-  "cardDescriptionSource": "https://www.dreamingofmaine.com/",
   "cardPhotos": [
    "images/ME-0138-cover.jpg",
    "images/ME-0138-000.jpg",
    "images/ME-0138-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "5 per cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rates provided by quote; extras $15/person/day for guest over age 7 using hide-a-bed",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — highchair/Pack'n Play on request",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0138-card.webp",
   "lat": 44.3469,
   "lng": -68.6838,
-  "photo": "images/ME-0138-card.webp",
-  "coverPhoto": "images/ME-0138-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0138-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0138-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0138-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0138-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -328,57 +156,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "Pet-friendly waterfront cabins near Acadia in Sullivan, with direct booking and a choice of cottages, suites and larger vacation houses.",
-  "cardDescriptionSource": "https://flandersbay.lodgify.com/",
   "cardPhotos": [
    "images/ME-0108-cover.jpg",
    "images/ME-0108-000.png",
    "images/ME-0108-001.png"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–8 by rental",
-  "priceFrom": "Unknown",
-  "priceDetails": "From €122–€307/night Prices displayed by Lodgify in EUR at time of check; actual USD/date-specific pricing may differ",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes — property descriptions permit pets",
+  "photo": "images/ME-0108-card.webp",
   "lat": 44.5204,
   "lng": -68.1967,
-  "photo": "images/ME-0108-card.webp",
-  "coverPhoto": "images/ME-0108-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0108-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0108-000.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0108-001.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0108-002.png",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -392,55 +184,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Flanders Bay is a coastal Maine getaway located on the shores of Flanders Bay in Sullivan, ME. Situated on 12 unspoiled acres overlooking pristine waters and Cadillac Mountain located just a short drive from Acadia National Park and Bar Harbor. Accommodations include six quaint cabins, a knotty pine chalet and shore-front house. Enjoy kayaking, fishing, hiking and exploring during your stay.",
-  "descriptionSource": "https://www.flandersbay.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Flanders Bay is a coastal Maine getaway located on the shores of Flanders Bay in Sullivan, ME. Situated on 12 unspoiled acres overlooking pristine…",
-  "cardDescriptionSource": "https://www.flandersbay.com",
   "cardPhotos": [
    "images/ME-0109-cover.webp",
    "images/ME-0109-000.webp",
    "images/ME-0109-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0109-card.webp",
   "lat": 44.5204,
   "lng": -68.1967,
-  "photo": "images/ME-0109-card.webp",
-  "coverPhoto": "images/ME-0109-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0109-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0109-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0109-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0109-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -454,58 +212,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "Vacation cabins and lake houses on Toddy Pond in Maine, with lake access, outdoor gathering space and direct contact with the host.",
-  "cardDescriptionSource": "https://getogetherstays.com/",
   "cardPhotos": [
    "images/ME-0243-cover.jpg",
    "images/ME-0243-000.jpg",
    "images/ME-0243-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Reported pet-friendly in host's published guest review; confirm per unit",
+  "photo": "images/ME-0243-card.webp",
   "lat": 44.5719,
   "lng": -68.7942,
-  "photo": "images/ME-0243-card.webp",
-  "coverPhoto": "images/ME-0243-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0243-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0243-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0243-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0243-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -519,57 +240,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "House",
   "recordType": "Property",
-  "description": "Cove Meadow Cottage Stonington United States, Maine",
-  "descriptionSource": "https://covemeadow.org/en/contact",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Cove Meadow Cottage Stonington United States, Maine",
-  "cardDescriptionSource": "https://covemeadow.org/en/contact",
   "cardPhotos": [
    "images/ME-0214-cover.png",
    "images/ME-0214-000.png",
    "images/ME-0214-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0214-card.webp",
   "lat": 44.1566,
   "lng": -68.6673,
-  "photo": "images/ME-0214-card.webp",
-  "coverPhoto": "images/ME-0214-cover.png",
-  "photos": [
-   {
-    "file": "images/ME-0214-cover.png",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0214-000.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0214-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0214-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -583,55 +268,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Discover a scenic retreat with charming cottages and seaside activities at Hiram Blake Camp in Harborside, Maine. Experience nature and relaxation on Penobscot Bay.",
-  "descriptionSource": "https://www.hiramblake.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover a scenic retreat with charming cottages and seaside activities at Hiram Blake Camp in Harborside, Maine. Experience nature and relaxation…",
-  "cardDescriptionSource": "https://www.hiramblake.com",
   "cardPhotos": [
    "images/ME-0051-cover.webp",
    "images/ME-0051-000.webp",
    "images/ME-0051-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "1–10 per cottage (2026 published categories)",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,050–$4,600/week (2026) Spring, summer, fall weekly prices vary; summer includes meals except Moss Wood",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Conditional",
-  "kidsDetails": "Yes (family cottages)",
-  "petsDetails": "Yes with approval (up to 2 dogs/cottage)",
+  "photo": "images/ME-0051-card.webp",
   "lat": 44.31486,
   "lng": -68.79315,
-  "photo": "images/ME-0051-card.webp",
-  "coverPhoto": "images/ME-0051-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0051-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0051-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0051-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0051-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0051-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -645,55 +296,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "NEW 1BR COTTAGE AT JENKINS BEACH ON GREEN LAKE Looking for a perfect Maine summertime couple’s getaway on Green Lake? Don’t want to stay in some stuffy hotel room too far away from everything? WE NOW HAVE JUST A 3-NIGHT MINIMUM STAY for the Acadia Cottage at Jenkins Beach on Green Lake! New construction 1 BR/1BA, 532 sq ft cottage. Fully equipped kitchen. The living room has a twin trundle day bed that can be combined into a separate king bed (or used as two twins). The private bedroom has a king bed and a SmartTV. Enjoy the breeze coming",
-  "descriptionSource": "https://jenkinsbeach.lodgify.com/en/acadia-cottage",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "NEW 1BR COTTAGE AT JENKINS BEACH ON GREEN LAKE Looking for a perfect Maine summertime couple’s getaway on Green Lake? Don’t want to stay in some…",
-  "cardDescriptionSource": "https://jenkinsbeach.lodgify.com/en/acadia-cottage",
   "cardPhotos": [
    "images/ME-0149-cover.jpg",
    "images/ME-0149-000.jpg",
    "images/ME-0149-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "3–5 per rental",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0149-card.webp",
   "lat": 44.67094,
   "lng": -68.55248,
-  "photo": "images/ME-0149-card.webp",
-  "coverPhoto": "images/ME-0149-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0149-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0149-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0149-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0149-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0149-logo.jpg",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -707,55 +324,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Stay at a Historic Oceanfront Inn on the Maine Coast Welcome to The Lookout Inn, a historic oceanside bed and breakfast in Brooklin, Maine, perched on scenic Flye Point overlooking Blue Hill Bay. Life moves a little slower here—where the sounds of the water, passing boats, and seabirds set the pace for a truly relaxing…",
-  "descriptionSource": "https://thelookoutinn.com/cottages/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Stay at a Historic Oceanfront Inn on the Maine Coast Welcome to The Lookout Inn, a historic oceanside bed and breakfast in Brooklin, Maine, perched…",
-  "cardDescriptionSource": "https://thelookoutinn.com/cottages/",
   "cardPhotos": [
    "images/ME-0014-cover.jpg",
    "images/ME-0014-000.jpg",
    "images/ME-0014-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0014-card.webp",
   "lat": 44.26311,
   "lng": -68.52189,
-  "photo": "images/ME-0014-card.webp",
-  "coverPhoto": "images/ME-0014-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0014-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0014-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0014-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0014-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -769,55 +352,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "The Oakland House is a resort colony of vintage cottages, a communal guest house and 137-year old inn on 60 acres on Eggemoggin Reach, overlooking picturesque Pumpkin Island to the right and the iconic Deer Isle Bridge to the left. We offer a restorative haven for guests in search of breathtaking sunrises and sunsets, hikes to gorgeous overlooks, cozy nights by the fireplace and silence disturbed only by the call of loons in the nighttime. We’re also ideal for restless nature-lovers who come to paddle, hike, bike, fish, sail and explore Acadia National Park.",
-  "descriptionSource": "https://www.oaklandhouse.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "The Oakland House is a resort colony of vintage cottages, a communal guest house and 137-year old inn on 60 acres on Eggemoggin Reach, overlooking…",
-  "cardDescriptionSource": "https://www.oaklandhouse.com",
   "cardPhotos": [
    "images/ME-0016-cover.webp",
    "images/ME-0016-000.webp",
    "images/ME-0016-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0016-card.webp",
   "lat": 44.3469,
   "lng": -68.6838,
-  "photo": "images/ME-0016-card.webp",
-  "coverPhoto": "images/ME-0016-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0016-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0016-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0016-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0016-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0016-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -831,57 +380,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Curated vacation rentals near Bar Harbor and Acadia National Park. Salt Air Properties manages beautiful Downeast Maine homes with a personal, local touch.",
-  "descriptionSource": "https://www.saltairmaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Curated vacation rentals near Bar Harbor and Acadia National Park. Salt Air Properties manages beautiful Downeast Maine homes with a personal, local…",
-  "cardDescriptionSource": "https://www.saltairmaine.com/",
   "cardPhotos": [
    "images/ME-0236-cover.jpg",
    "images/ME-0236-000.webp",
    "images/ME-0236-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Examples: $734–$2,636/3 nights Selected individual listings show sample 3-night quotes for Oct 25–30, 2026; different houses and dates, not a price range for identical units",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0236-card.webp",
   "lat": 44.413,
   "lng": -68.5881,
-  "photo": "images/ME-0236-card.webp",
-  "coverPhoto": "images/ME-0236-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0236-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0236-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0236-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0236-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0236-logo.jpg",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -896,55 +409,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Waterfront homes, estates, cottages, and water view parcels to suit every taste can be found nestled on the scenic coastline of the Blue Hill Peninsula. Here picturesque villages, such as Castine, Blue Hill, Penobscot, Stonington, and Deer Isle dot the shores of the Penobscot Bay.",
-  "descriptionSource": "https://saltmeadowproperties.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Waterfront homes, estates, cottages, and water view parcels to suit every taste can be found nestled on the scenic coastline of the Blue Hill…",
-  "cardDescriptionSource": "https://saltmeadowproperties.com/",
   "cardPhotos": [
    "images/ME-0246-cover.webp",
    "images/ME-0246-000.webp",
    "images/ME-0246-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0246-card.webp",
   "lat": 44.38799,
   "lng": -68.79915,
-  "photo": "images/ME-0246-card.webp",
-  "coverPhoto": "images/ME-0246-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0246-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0246-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0246-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0246-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0246-logo.png",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -959,57 +438,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "House",
   "recordType": "Property",
-  "description": "\"Sea Meadow\" Cottage. Wonderful Maine oceanfront vacation rental. Spectacular views of the Blue Hill Bay Lighthouse and Mount Desert Island. Located in Brooklin.",
-  "descriptionSource": "https://www.seameadowcottage.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "\"Sea Meadow\" Cottage. Wonderful Maine oceanfront vacation rental. Spectacular views of the Blue Hill Bay Lighthouse and Mount Desert Island. Located…",
-  "cardDescriptionSource": "https://www.seameadowcottage.com",
   "cardPhotos": [
    "images/ME-0137-cover.jpg",
    "images/ME-0137-000.jpg",
    "images/ME-0137-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "Weekly Saturday-to-Saturday only; 2026 fully booked; no numeric posted rate",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No",
+  "photo": "images/ME-0137-card.webp",
   "lat": 44.2661,
   "lng": -68.5691,
-  "photo": "images/ME-0137-card.webp",
-  "coverPhoto": "images/ME-0137-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0137-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0137-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0137-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0137-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1023,45 +466,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Maine Rentals by Sharon Thoner, vacation in a house or apartment on or near the ocean. Enjoy authentic Maine with great views, boating, fishing, hiking, antiquing, arts, and crafts. Temporary office space is also available.",
-  "descriptionSource": "https://www.sharonthonermainerentals.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Maine Rentals by Sharon Thoner, vacation in a house or apartment on or near the ocean. Enjoy authentic Maine with great views, boating, fishing…",
-  "cardDescriptionSource": "https://www.sharonthonermainerentals.com",
   "cardPhotos": [
    "images/ME-0150-cover.avif",
    "images/cards/ME-0150-01.webp",
    "images/cards/ME-0150-02.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0150-card.webp",
   "lat": 44.28737,
   "lng": -68.69432,
-  "photo": "images/ME-0150-card.webp",
-  "coverPhoto": "images/ME-0150-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0150-cover.avif",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1075,54 +494,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Step into your private coastal sanctuary with direct beach access. The ocean-facing deck provides the perfect setting for outdoor dining and relaxation, complete with a gas grill. We provide everything you need for optimum beach days, including chairs, towels, and umbrellas.",
-  "descriptionSource": "https://www.surrymainestudiobythesea.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Step into your private coastal sanctuary with direct beach access. The ocean-facing deck provides the perfect setting for outdoor dining and…",
-  "cardDescriptionSource": "https://www.surrymainestudiobythesea.com",
   "cardPhotos": [
    "images/ME-0215-cover.webp",
    "images/ME-0215-000.webp",
    "images/ME-0215-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0215-card.webp",
   "lat": 44.4959,
   "lng": -68.5017,
-  "photo": "images/ME-0215-card.webp",
-  "coverPhoto": "images/ME-0215-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0215-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0215-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0215-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0215-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1136,11 +522,7 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Rave reviews, Coastal. Historic Sea Captain Farm on the Blue Hill Peninsula, near Acadia and across from Castine. Private, rustic and charming accommodations.",
-  "descriptionSource": "https://tapleyfarm.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Rave reviews, Coastal. Historic Sea Captain Farm on the Blue Hill Peninsula, near Acadia and across from Castine. Private, rustic and charming…",
-  "cardDescriptionSource": "https://tapleyfarm.com/",
   "cardPhotos": [
    "images/ME-0139-cover.webp",
    "images/ME-0139-000.webp",
@@ -1152,43 +534,14 @@
     "https://www.airbnb.com/users/show/559712"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–7 by unit",
-  "priceFrom": "Unknown",
-  "priceDetails": "No prices shown; booking links primarily to Airbnb",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — marketed for families",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0139-card.webp",
   "lat": 44.39284,
   "lng": -68.76505,
-  "photo": "images/ME-0139-card.webp",
-  "coverPhoto": "images/ME-0139-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0139-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0139-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0139-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1202,49 +555,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Looking for lodging near Acadia National Park? Come stay in one of the best inns in Brooklin, Maine. It makes for a relaxing summer getaway. Book a room now!",
-  "descriptionSource": "https://www.thereachinn.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Looking for lodging near Acadia National Park? Come stay in one of the best inns in Brooklin, Maine. It makes for a relaxing summer getaway. Book a…",
-  "cardDescriptionSource": "https://www.thereachinn.com/",
   "cardPhotos": [
    "images/ME-0015-cover.webp",
    "images/ME-0015-000.webp",
    "images/cards/ME-0015-01.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0015-card.webp",
   "lat": 44.27701,
   "lng": -68.60604,
-  "photo": "images/ME-0015-card.webp",
-  "coverPhoto": "images/ME-0015-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0015-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0015-000.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0015-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1258,55 +583,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "The Island Agency is a real estate listing office in Maine specializing in island properties.",
-  "descriptionSource": "https://theislandagency.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "The Island Agency is a real estate listing office in Maine specializing in island properties.",
-  "cardDescriptionSource": "https://theislandagency.com/",
   "cardPhotos": [
    "images/ME-0280-cover.jpg",
    "images/ME-0280-000.jpg",
    "images/ME-0280-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0280-card.webp",
   "lat": 44.1566,
   "lng": -68.6673,
-  "photo": "images/ME-0280-card.webp",
-  "coverPhoto": "images/ME-0280-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0280-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0280-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0280-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0280-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0280-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1321,57 +612,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "If you are seeking peace and tranquility this, is it! Our 2 bedroom, 1 bath Maine cottage sits on 1.5 acres... Surry United States, Maine",
-  "descriptionSource": "https://vikingtrailcabin.com/en/gallery",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "If you are seeking peace and tranquility this, is it! Our 2 bedroom, 1 bath Maine cottage sits on 1.5 acres... Surry United States, Maine",
-  "cardDescriptionSource": "https://vikingtrailcabin.com/en/gallery",
   "cardPhotos": [
    "images/ME-0216-cover.jpg",
    "images/ME-0216-000.jpg",
    "images/ME-0216-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — guest review mentions small children",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0216-card.webp",
   "lat": 44.4959,
   "lng": -68.5017,
-  "photo": "images/ME-0216-card.webp",
-  "coverPhoto": "images/ME-0216-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0216-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0216-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0216-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0216-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0216-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1385,55 +640,21 @@
   "destination": "Blue Hill Peninsula",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "19th Century 3 bedroom farmhouse vacation rental with a chef's dream kitchen close to Acadia National Park",
-  "descriptionSource": "https://winslowcreek.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "19th Century 3 bedroom farmhouse vacation rental with a chef's dream kitchen close to Acadia National Park",
-  "cardDescriptionSource": "https://winslowcreek.com/",
   "cardPhotos": [
    "images/ME-0195-cover.webp",
    "images/ME-0195-000.webp",
    "images/ME-0195-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — 3-bedroom family farmhouse",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0195-card.webp",
   "lat": 44.45645,
   "lng": -68.69671,
-  "photo": "images/ME-0195-card.webp",
-  "coverPhoto": "images/ME-0195-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0195-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0195-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0195-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0195-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  }

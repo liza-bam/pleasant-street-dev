@@ -9,11 +9,7 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Times Square one-bedroom penthouse apartment with a kitchen, private balcony and skyline views;30-night minimum stay.",
-  "descriptionSource": "https://penthouse5b.dtravel.com/property/2303071",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Times Square one-bedroom penthouse apartment with a kitchen, private balcony and skyline views;30-night minimum stay.",
-  "cardDescriptionSource": "https://penthouse5b.dtravel.com/property/2303071",
   "cardPhotos": [
    "images/NY-0014-cover.webp",
    "images/NY-0014-000.webp",
@@ -24,46 +20,14 @@
     "https://www.airbnb.com/users/show/536452262"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": "Unknown",
+  "guests": 2,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 2,
-  "capacityDetails": "Unknown",
-  "priceFrom": 270,
-  "priceDetails": "DisplayedUSD270/night without travel dates;30nightminimum. Exact quote/fees not requested.",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "No explicit policy found on opened own detail, rules, profile and Contact modal.",
-  "petsDetails": "Actual Home rules Petsallowed; description cats and dogs welcome.",
+  "photo": "images/NY-0014-card.webp",
   "lat": 40.76018,
   "lng": -73.98436,
-  "photo": "images/NY-0014-card.webp",
-  "coverPhoto": "images/NY-0014-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0014-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0014-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0014-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0014-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "neighborhood",
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false
@@ -78,56 +42,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Accommodation category",
-  "description": "Manhattan two-bedroom apartment category with kitchenette, dining area and separate living area.",
-  "descriptionSource": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/two-bedroom-apartment/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Manhattan two-bedroom apartment category with kitchenette, dining area and separate living area.",
-  "cardDescriptionSource": "https://www.radiocityapartments.com/en/apartments-to-rent-new-york-city/two-bedroom-apartment/",
   "cardPhotos": [
    "images/NY-0001-cover.webp",
    "images/NY-0001-000.webp",
    "images/NY-0001-001.webp"
   ],
-  "cardPhotoLabel": "Representative advertised category; unit assigned by operator",
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "Up to5 guests plus one child12 or under;6 is conditional total.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Booking calendar dates are examples, not category static rates.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Category explicitly accommodates5 guests plus one child12 or under.",
-  "petsDetails": "Checked with no explicit admission policy found.",
+  "photo": "images/NY-0001-card.webp",
   "lat": 40.7599458,
   "lng": -73.9829738,
-  "photo": "images/NY-0001-card.webp",
-  "coverPhoto": "images/NY-0001-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0001-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0001-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0001-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0001-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "shared accommodation building",
   "locationLabel": "Building location",
   "featured": false,
   "demo": false
@@ -142,11 +71,7 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Harlem two-bedroom apartment with king and queen beds, two bathrooms, a full kitchen and workspace.",
-  "descriptionSource": "https://uptowncosyhaven.lodgify.com/en/overview",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Harlem two-bedroom apartment with king and queen beds, two bathrooms, a full kitchen and workspace.",
-  "cardDescriptionSource": "https://uptowncosyhaven.lodgify.com/en/overview",
   "cardPhotos": [
    "images/NY-0017-cover.webp",
    "images/NY-0017-000.webp",
@@ -158,46 +83,14 @@
     "https://www.airbnb.com/rooms/896467430216714455?source_impression_id=p3_1793064243_P3__nma-f1JZMklT"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 2,
   "bathrooms": 2,
-  "guests": 5,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "No staticnightlypricecollected; directcheckoutcurrentlyunavailable.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Actual own description welcomes families and provides packandplay/babycrib/highchair.",
-  "petsDetails": "Actual own HouseRules prohibit pets.",
+  "photo": "images/NY-0017-card.webp",
   "lat": "Unknown",
   "lng": "Unknown",
-  "photo": "images/NY-0017-card.webp",
-  "coverPhoto": "images/NY-0017-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0017-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0017-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0017-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0017-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Property location not yet verified; available in Cards",
   "locationLabel": "Location unverified",
   "featured": false,
   "demo": false
@@ -212,55 +105,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Gramercy one-bedroom apartment with queen bed, kitchen, in-unit washer and dryer and a30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Gramercy one-bedroom apartment with queen bed, kitchen, in-unit washer and dryer and a30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a15e836eda4060014edf1fd?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0022-cover.webp",
    "images/NY-0022-000.webp",
    "images/NY-0022-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 3,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 3,
-  "capacityDetails": "Unknown",
-  "priceFrom": 195,
-  "priceDetails": "Own current catalogUSD195/night startingprice; extra charges mayapply,no datedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.",
+  "photo": "images/NY-0022-card.webp",
   "lat": 40.736643,
   "lng": -73.979592,
-  "photo": "images/NY-0022-card.webp",
-  "coverPhoto": "images/NY-0022-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0022-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0022-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0022-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0022-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "shared accommodation building",
   "locationLabel": "Building location",
   "featured": false,
   "demo": false
@@ -275,55 +134,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Gramercy one-bedroom apartment with queen bed, kitchen and in-unit washer and dryer;30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Gramercy one-bedroom apartment with queen bed, kitchen and in-unit washer and dryer;30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/69f26e58b2daa90013dc9254?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0024-cover.webp",
    "images/NY-0024-000.webp",
    "images/NY-0024-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 3,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 3,
-  "capacityDetails": "Unknown",
-  "priceFrom": 195,
-  "priceDetails": "Own current catalogUSD195/night startingprice; extra charges mayapply,no datedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual unit House rulesNoPets; genericconditionalFAQ doesnotestablish unitexception.",
+  "photo": "images/NY-0024-card.webp",
   "lat": 40.736643,
   "lng": -73.979592,
-  "photo": "images/NY-0024-card.webp",
-  "coverPhoto": "images/NY-0024-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0024-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0024-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0024-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0024-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "shared accommodation building",
   "locationLabel": "Building location",
   "featured": false,
   "demo": false
@@ -338,57 +163,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "SoHo one-bedroom apartment with queen bed, kitchen, dishwasher and in-unit washer and dryer;30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "SoHo one-bedroom apartment with queen bed, kitchen, dishwasher and in-unit washer and dryer;30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/699c77c6109e840013b7c7c6?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0025-cover.webp",
    "images/NY-0025-000.webp",
    "images/NY-0025-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": 2,
+  "guests": 3,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 3,
-  "capacityDetails": "Unknown",
-  "priceFrom": 210,
-  "priceDetails": "Own currentcatalogUSD210/nightstarting; chargesmayapply,nodatedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.",
+  "photo": "images/NY-0025-card.webp",
   "lat": 40.72332,
   "lng": -73.99463,
-  "photo": "images/NY-0025-card.webp",
-  "coverPhoto": "images/NY-0025-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0025-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0025-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0025-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0025-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "neighborhood",
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false
@@ -403,55 +192,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Upper East Side furnished apartment with two queen beds, kitchen and in-unit washer and dryer;30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Upper East Side furnished apartment with two queen beds, kitchen and in-unit washer and dryer;30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6980dddffd8055001240ff3a?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0028-cover.webp",
    "images/NY-0028-000.webp",
    "images/NY-0028-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": 3,
+  "guests": 4,
   "bedrooms": "Unknown",
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": 235,
-  "priceDetails": "OwncurrentcatalogUSD235/nightstarting; extra chargesmayapply,nodatedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.",
+  "photo": "images/NY-0028-card.webp",
   "lat": 40.77232,
   "lng": -73.9545,
-  "photo": "images/NY-0028-card.webp",
-  "coverPhoto": "images/NY-0028-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0028-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0028-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0028-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0028-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "neighborhood",
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false
@@ -466,55 +221,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Upper East Side furnished apartment with kitchen, in-unit washer and dryer and two queen beds;30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Upper East Side furnished apartment with kitchen, in-unit washer and dryer and two queen beds;30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a7e313a69aad900a01c9cba?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0019-cover.webp",
    "images/NY-0019-000.webp",
    "images/NY-0019-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": 3,
+  "guests": 4,
   "bedrooms": "Unknown",
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": 235,
-  "priceDetails": "Current own catalog startingUSD235/night; no dated quote, extra charges may apply.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Actual unit House rules explicitly welcome children2-12 and infantsunder2.",
-  "petsDetails": "Actual unit House rules prohibit pets; shared conditional approval does not establish this unit exception.",
+  "photo": "images/NY-0019-card.webp",
   "lat": 40.77232,
   "lng": -73.9545,
-  "photo": "images/NY-0019-card.webp",
-  "coverPhoto": "images/NY-0019-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0019-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0019-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0019-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0019-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "neighborhood",
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false
@@ -529,57 +250,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Upper East Side furnished apartment with two queen beds, a kitchen, in-unit washer and dryer and a30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Upper East Side furnished apartment with two queen beds, a kitchen, in-unit washer and dryer and a30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/69f399f0805057000f14d534?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0023-cover.webp",
    "images/NY-0023-000.webp",
    "images/NY-0023-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": "Unknown",
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": 235,
-  "priceDetails": "Own current catalogUSD235/night startingprice; additionalcharges mayapply,nodatedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.",
+  "photo": "images/NY-0023-card.webp",
   "lat": 40.77232,
   "lng": -73.9545,
-  "photo": "images/NY-0023-card.webp",
-  "coverPhoto": "images/NY-0023-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0023-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0023-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0023-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0023-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "neighborhood",
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false
@@ -594,57 +279,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Hell’s Kitchen one-bedroom apartment with king bed, kitchen and shared doorman, gym and laundry;30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Hell’s Kitchen one-bedroom apartment with king bed, kitchen and shared doorman, gym and laundry;30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/699881a224e9320024d19062?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0027-cover.webp",
    "images/NY-0027-000.webp",
    "images/NY-0027-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": 220,
-  "priceDetails": "OwncurrentcatalogUSD220/nightstarting; chargesmayapply,nodatedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.",
+  "photo": "images/NY-0027-card.webp",
   "lat": 40.75856,
   "lng": -73.991254,
-  "photo": "images/NY-0027-card.webp",
-  "coverPhoto": "images/NY-0027-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0027-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0027-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0027-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0027-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "neighborhood",
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false
@@ -659,57 +308,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Hell’s Kitchen two-bedroom apartment with king and queen beds, kitchen, shared gym and laundry;30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Hell’s Kitchen two-bedroom apartment with king and queen beds, kitchen, shared gym and laundry;30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6998e0e92fbc950024e92ed1?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0026-cover.webp",
    "images/NY-0026-000.webp",
    "images/NY-0026-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": 250,
-  "priceDetails": "Own currentcatalogUSD250/nightstarting; chargesmayapply,nodatedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.",
+  "photo": "images/NY-0026-card.webp",
   "lat": 40.75856,
   "lng": -73.991254,
-  "photo": "images/NY-0026-card.webp",
-  "coverPhoto": "images/NY-0026-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0026-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0026-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0026-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0026-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "neighborhood",
   "locationLabel": "Approx. area",
   "featured": false,
   "demo": false
@@ -724,57 +337,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Upper West Side two-bedroom apartment with king and queen beds, kitchen and shared gym and laundry;30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Upper West Side two-bedroom apartment with king and queen beds, kitchen and shared gym and laundry;30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a4be204f9abf40014513fac?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0021-cover.webp",
    "images/NY-0021-000.webp",
    "images/NY-0021-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": 3,
+  "guests": "Unknown",
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": 240,
-  "priceDetails": "Own current catalog USD240/night startingprice; extra charges mayapply,no datedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Actual House rules Suitableforchildren2-12 and infantsunder2.",
-  "petsDetails": "Actual current unit rules allow pets with additionalfee and contact; shared Terms laterNoPetsAllowed conflicts. Main FAQ ownerapprovalcasebycase. Preserve conditional unitoffer and conflictUnknown.",
+  "photo": "images/NY-0021-card.webp",
   "lat": "Unknown",
   "lng": "Unknown",
-  "photo": "images/NY-0021-card.webp",
-  "coverPhoto": "images/NY-0021-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0021-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0021-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0021-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0021-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Property location not yet verified; available in Cards",
   "locationLabel": "Location unverified",
   "featured": false,
   "demo": false
@@ -789,57 +366,21 @@
   "destination": "New York City",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Furnished one-bedroom apartment off Chrystie Street with a queen bed, kitchen, city views and a30dayminimum.",
-  "descriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Furnished one-bedroom apartment off Chrystie Street with a queen bed, kitchen, city views and a30dayminimum.",
-  "cardDescriptionSource": "https://urbanfurnished.guestybookings.com/en/properties/6a723b3f5912e700146a346a?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/NY-0020-cover.webp",
    "images/NY-0020-000.webp",
    "images/NY-0020-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental address, with correct role"
-  ],
-  "rooms": "Unknown",
+  "guests": 3,
   "bedrooms": 1,
   "bathrooms": "Unknown",
-  "guests": 3,
-  "capacityDetails": "Unknown",
-  "priceFrom": 250,
-  "priceDetails": "Own current catalog startingUSD250/night; additionalcharges mayapply; no datedquote.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Actual unit House rules explicitly welcome children2-12 and infantsunder2.",
-  "petsDetails": "Actual unit House rules prohibit pets; shared conditional approval does not establish this unit exception.",
+  "photo": "images/NY-0020-card.webp",
   "lat": "Unknown",
   "lng": "Unknown",
-  "photo": "images/NY-0020-card.webp",
-  "coverPhoto": "images/NY-0020-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0020-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0020-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0020-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0020-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Property location not yet verified; available in Cards",
   "locationLabel": "Location unverified",
   "featured": false,
   "demo": false

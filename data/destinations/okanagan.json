@@ -9,51 +9,21 @@
   "destination": "Okanagan",
   "type": "House",
   "recordType": "LAZY property",
-  "description": "A 1,300 sq ft walkout suite in West Kelowna with a private seasonal pool, hot tub, infrared sauna, covered deck and lake views.",
   "cardDescription": "A 1,300 sq ft walkout suite in West Kelowna with a private seasonal pool, hot tub, infrared sauna, covered deck and lake views.",
-  "cardDescriptionSource": "https://beautyview.lazy.vacations/",
   "cardPhotos": [
    "images/demos/LAZY-beautyview-lakeview-suite-cover.webp",
    "images/demos/LAZY-beautyview-lakeview-suite-000.webp",
    "images/demos/LAZY-beautyview-lakeview-suite-001.webp"
   ],
   "platformLinks": {},
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Published policy: Unknown",
-  "petsDetails": "Published policy: Unknown",
+  "photo": "images/LAZY-beautyview-lakeview-suite-card.webp",
   "lat": 49.85,
   "lng": -119.6,
-  "photo": "images/LAZY-beautyview-lakeview-suite-card.webp",
-  "coverPhoto": "images/demos/LAZY-beautyview-lakeview-suite-cover.webp",
-  "photos": [
-   {
-    "file": "images/demos/LAZY-beautyview-lakeview-suite-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/demos/LAZY-beautyview-lakeview-suite-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/demos/LAZY-beautyview-lakeview-suite-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/demos/LAZY-beautyview-lakeview-suite-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": true,
   "demo": false
  }

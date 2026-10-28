@@ -9,11 +9,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Wareham riverside home with three bedrooms, a screened porch, galley kitchen and private dock.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Wareham riverside home with three bedrooms, a screened porch, galley kitchen and private dock.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/bay-breeze/",
   "cardPhotos": [
    "images/MA-0279-cover.webp",
    "images/MA-0279-000.webp",
@@ -24,46 +20,14 @@
     "https://www.airbnb.com/rooms/1217312357980047435"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 3,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0279-card.webp",
   "lat": 41.7626,
   "lng": -70.7217,
-  "photo": "images/MA-0279-card.webp",
-  "coverPhoto": "images/MA-0279-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0279-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0279-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0279-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0279-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -77,11 +41,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "East Fairhaven waterfront cottage with three bedrooms, a full kitchen, upper deck and marsh views.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "East Fairhaven waterfront cottage with three bedrooms, a full kitchen, upper deck and marsh views.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/birdseye-view-oceanfront/",
   "cardPhotos": [
    "images/MA-0280-cover.webp",
    "images/MA-0280-000.webp",
@@ -92,46 +52,14 @@
     "https://www.airbnb.com/rooms/1147717782301677687"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 3,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Dogs only, maximum two per matched Airbnb House rules; fee not published.",
+  "photo": "images/MA-0280-card.webp",
   "lat": 41.6376,
   "lng": -70.9036,
-  "photo": "images/MA-0280-card.webp",
-  "coverPhoto": "images/MA-0280-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0280-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0280-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0280-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0280-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -145,11 +73,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "West Island beach cottage with two bedrooms, a kitchen, grill, outdoor dining and an outdoor shower.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "West Island beach cottage with two bedrooms, a kitchen, grill, outdoor dining and an outdoor shower.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/casa-isla/",
   "cardPhotos": [
    "images/MA-0276-cover.webp",
    "images/MA-0276-000.webp",
@@ -160,46 +84,14 @@
     "https://www.airbnb.com/rooms/1400138398467315622"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 5,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0276-card.webp",
   "lat": 41.5964,
   "lng": -70.8319,
-  "photo": "images/MA-0276-card.webp",
-  "coverPhoto": "images/MA-0276-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0276-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0276-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0276-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0276-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -214,55 +106,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "High-end rental with water views and conveniently located in the heart of Marion Village!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/the-village-mooring/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "High-end rental with water views and conveniently located in the heart of Marion Village!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/the-village-mooring/",
   "cardPhotos": [
    "images/MA-16038-000.webp",
    "images/MA-16038-001.webp",
    "images/MA-16038-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 1,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16038-card.webp",
   "lat": 41.704593,
   "lng": -70.763433,
-  "photo": "images/MA-16038-card.webp",
-  "coverPhoto": "images/MA-16038-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16038-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16038-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16038-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16038-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -277,55 +135,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Charming Cape located on beautiful Water Street in the sleepy town of Marion.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/winter-rental-23/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Charming Cape located on beautiful Water Street in the sleepy town of Marion.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/winter-rental-23/",
   "cardPhotos": [
    "images/MA-16039-000.webp",
    "images/MA-16039-001.webp",
    "images/MA-16039-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 2.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16039-card.webp",
   "lat": 41.700948,
   "lng": -70.758625,
-  "photo": "images/MA-16039-card.webp",
-  "coverPhoto": "images/MA-16039-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16039-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16039-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16039-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16039-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -340,55 +164,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Stunning home nestled in the heart of Marion Village.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/short-term-rental-2/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Stunning home nestled in the heart of Marion Village.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/short-term-rental-2/",
   "cardPhotos": [
    "images/MA-16019-000.webp",
    "images/MA-16019-001.webp",
    "images/MA-16019-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 3,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16019-card.webp",
   "lat": 41.701233,
   "lng": -70.765341,
-  "photo": "images/MA-16019-card.webp",
-  "coverPhoto": "images/MA-16019-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16019-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16019-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16019-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16019-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -403,55 +193,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Newly renovated 3 bedroom, 3 bathroom Cape Cod Style home within walking distance to Silvershell Beach and Marion Village.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/short-term-rental/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Newly renovated 3 bedroom, 3 bathroom Cape Cod Style home within walking distance to Silvershell Beach and Marion Village.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/short-term-rental/",
   "cardPhotos": [
    "images/MA-16020-000.webp",
    "images/MA-16020-001.webp",
    "images/MA-16020-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 3,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16020-card.webp",
   "lat": 41.692456,
   "lng": -70.760273,
-  "photo": "images/MA-16020-card.webp",
-  "coverPhoto": "images/MA-16020-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16020-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16020-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16020-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16020-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -466,55 +222,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "The newly updated iconic Mattapoisett home sits across the street from the Town Wharf and includes easy access to the town beach located just steps.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-18/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "The newly updated iconic Mattapoisett home sits across the street from the Town Wharf and includes easy access to the town beach located just steps.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-18/",
   "cardPhotos": [
    "images/MA-16028-000.webp",
    "images/MA-16028-001.webp",
    "images/MA-16028-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $5,000 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16028-card.webp",
   "lat": 41.658185,
   "lng": -70.813938,
-  "photo": "images/MA-16028-card.webp",
-  "coverPhoto": "images/MA-16028-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16028-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16028-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16028-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16028-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -529,55 +251,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Stunning and meticulously renovated waterfront home in East Marion. Take in views of the neighboring Kittansett Club and of Buzzards Bay.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-23/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Stunning and meticulously renovated waterfront home in East Marion. Take in views of the neighboring Kittansett Club and of Buzzards Bay.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-23/",
   "cardPhotos": [
    "images/MA-16032-000.webp",
    "images/MA-16032-001.webp",
    "images/MA-16032-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 3,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $5,500 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16032-card.webp",
   "lat": 41.682217,
   "lng": -70.721486,
-  "photo": "images/MA-16032-card.webp",
-  "coverPhoto": "images/MA-16032-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16032-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16032-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16032-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16032-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -592,55 +280,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Waterfront home on outer Sippican Harbor with private beach!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-11/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Waterfront home on outer Sippican Harbor with private beach!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-11/",
   "cardPhotos": [
    "images/MA-16022-000.webp",
    "images/MA-16022-001.webp",
    "images/MA-16022-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": 3,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $5,500 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16022-card.webp",
   "lat": 41.68142,
   "lng": -70.751439,
-  "photo": "images/MA-16022-card.webp",
-  "coverPhoto": "images/MA-16022-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16022-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16022-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16022-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16022-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -655,55 +309,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Renovated historic home known as “The Ice House” located in the heart of Marion Village with views of Barden’s Boatyard and Sippican Harbor.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-2/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Renovated historic home known as “The Ice House” located in the heart of Marion Village with views of Barden’s Boatyard and Sippican Harbor.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-2/",
   "cardPhotos": [
    "images/MA-16030-000.webp",
    "images/MA-16030-001.webp",
    "images/MA-16030-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 1,
   "bathrooms": 1.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $2,500 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16030-card.webp",
   "lat": 41.703443,
   "lng": -70.761774,
-  "photo": "images/MA-16030-card.webp",
-  "coverPhoto": "images/MA-16030-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16030-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16030-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16030-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16030-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -718,55 +338,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Newly remodeled one-bedroom, one bath cottage with water views of Hammett’s Cove and Sippican Harbor!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-13/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Newly remodeled one-bedroom, one bath cottage with water views of Hammett’s Cove and Sippican Harbor!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-13/",
   "cardPhotos": [
    "images/MA-16024-000.webp",
    "images/MA-16024-001.webp",
    "images/MA-16024-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 1,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $2,000 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16024-card.webp",
   "lat": 41.721275,
   "lng": -70.758297,
-  "photo": "images/MA-16024-card.webp",
-  "coverPhoto": "images/MA-16024-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16024-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16024-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16024-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16024-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -781,55 +367,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Fresh, bright and open water view home on Planting Island!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-12/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Fresh, bright and open water view home on Planting Island!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-12/",
   "cardPhotos": [
    "images/MA-16023-000.webp",
    "images/MA-16023-001.webp",
    "images/MA-16023-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $3,600 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16023-card.webp",
   "lat": 41.690879,
   "lng": -70.735585,
-  "photo": "images/MA-16023-card.webp",
-  "coverPhoto": "images/MA-16023-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16023-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16023-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16023-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16023-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -844,55 +396,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Lovely, bright and spacious townhouse located in The Cove in Marion.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-8/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Lovely, bright and spacious townhouse located in The Cove in Marion.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-8/",
   "cardPhotos": [
    "images/MA-16037-000.webp",
    "images/MA-16037-001.webp",
    "images/MA-16037-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 2.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16037-card.webp",
   "lat": 41.720684,
   "lng": -70.755083,
-  "photo": "images/MA-16037-card.webp",
-  "coverPhoto": "images/MA-16037-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16037-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16037-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16037-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16037-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -907,55 +425,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Bright and sunny first floor condominium unit located in the center of town, just steps from the waterfront, private clubs and Village amenities.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-25/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Bright and sunny first floor condominium unit located in the center of town, just steps from the waterfront, private clubs and Village amenities.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-25/",
   "cardPhotos": [
    "images/MA-16034-000.webp",
    "images/MA-16034-001.webp",
    "images/MA-16034-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 2,
   "bathrooms": 2,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $2,500 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16034-card.webp",
   "lat": 41.70309,
   "lng": -70.76208,
-  "photo": "images/MA-16034-card.webp",
-  "coverPhoto": "images/MA-16034-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16034-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16034-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16034-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16034-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -970,55 +454,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Newly renovated and expanded Marion Village home, ideally located within walking distance to Marion Village amenities such as Sippican Harbor.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-14/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Newly renovated and expanded Marion Village home, ideally located within walking distance to Marion Village amenities such as Sippican Harbor.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-14/",
   "cardPhotos": [
    "images/MA-16025-000.webp",
    "images/MA-16025-001.webp",
    "images/MA-16025-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 3.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $4,500 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16025-card.webp",
   "lat": 41.696822,
   "lng": -70.764944,
-  "photo": "images/MA-16025-card.webp",
-  "coverPhoto": "images/MA-16025-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16025-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16025-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16025-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16025-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1033,55 +483,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Newly built in 2016, this 2,300 +/- square foot home offers an open floor plan and modern layout and finishes.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-19/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Newly built in 2016, this 2,300 +/- square foot home offers an open floor plan and modern layout and finishes.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-19/",
   "cardPhotos": [
    "images/MA-16029-000.webp",
    "images/MA-16029-001.webp",
    "images/MA-16029-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 2.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $3,800 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16029-card.webp",
   "lat": 41.690036,
   "lng": -70.727555,
-  "photo": "images/MA-16029-card.webp",
-  "coverPhoto": "images/MA-16029-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16029-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16029-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16029-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16029-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1096,55 +512,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Spend your summer in this bright and sunny one-story home located in the heart of all things Marion Village!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-5/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Spend your summer in this bright and sunny one-story home located in the heart of all things Marion Village!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-5/",
   "cardPhotos": [
    "images/MA-16035-000.webp",
    "images/MA-16035-001.webp",
    "images/MA-16035-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $3,850 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16035-card.webp",
   "lat": 41.69771,
   "lng": -70.760318,
-  "photo": "images/MA-16035-card.webp",
-  "coverPhoto": "images/MA-16035-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16035-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16035-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16035-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16035-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1159,55 +541,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Charming 2,590 square foot East Marion Colonial!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-21/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Charming 2,590 square foot East Marion Colonial!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-21/",
   "cardPhotos": [
    "images/MA-16031-000.webp",
    "images/MA-16031-001.webp",
    "images/MA-16031-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": 3,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $3,800 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16031-card.webp",
   "lat": 41.701706,
   "lng": -70.733405,
-  "photo": "images/MA-16031-card.webp",
-  "coverPhoto": "images/MA-16031-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16031-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16031-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16031-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16031-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1222,55 +570,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Spend your summer vacation relaxing in this 3,200 square foot mid-century modern 3-bedroom, 3-bathroom waterfront home.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-24/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Spend your summer vacation relaxing in this 3,200 square foot mid-century modern 3-bedroom, 3-bathroom waterfront home.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-24/",
   "cardPhotos": [
    "images/MA-16033-000.webp",
    "images/MA-16033-001.webp",
    "images/MA-16033-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 3,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $5,500 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16033-card.webp",
   "lat": 41.70206,
   "lng": -70.738804,
-  "photo": "images/MA-16033-card.webp",
-  "coverPhoto": "images/MA-16033-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16033-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16033-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16033-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16033-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1285,55 +599,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Charming Antique located in the heart of Marion Village!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-10/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Charming Antique located in the heart of Marion Village!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-10/",
   "cardPhotos": [
    "images/MA-16021-000.webp",
    "images/MA-16021-001.webp",
    "images/MA-16021-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 1.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $3,800 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16021-card.webp",
   "lat": 41.702357,
   "lng": -70.765081,
-  "photo": "images/MA-16021-card.webp",
-  "coverPhoto": "images/MA-16021-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16021-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16021-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16021-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16021-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1348,55 +628,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Truly a one-of-a-kind property located on an exclusive waterfront compound along Blankenship Cove.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-16/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Truly a one-of-a-kind property located on an exclusive waterfront compound along Blankenship Cove.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-16/",
   "cardPhotos": [
    "images/MA-16026-000.webp",
    "images/MA-16026-001.webp",
    "images/MA-16026-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 4,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $6,000 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16026-card.webp",
   "lat": 41.705285,
   "lng": -70.74226,
-  "photo": "images/MA-16026-card.webp",
-  "coverPhoto": "images/MA-16026-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16026-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16026-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16026-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16026-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1411,55 +657,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Charming 4 bedroom, 2.5 bath home in Marion Village, close to Silvershell Beach and town center.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/3701/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Charming 4 bedroom, 2.5 bath home in Marion Village, close to Silvershell Beach and town center.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/3701/",
   "cardPhotos": [
    "images/MA-16018-000.webp",
    "images/MA-16018-001.webp",
    "images/MA-16018-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": 2.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $3,650 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16018-card.webp",
   "lat": 41.696649,
   "lng": -70.762602,
-  "photo": "images/MA-16018-card.webp",
-  "coverPhoto": "images/MA-16018-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16018-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16018-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16018-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16018-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1474,55 +686,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Spend your summer vacation at this one-of-a-kind home located at the tip of Planting Island with views of Sippican Harbor and Buzzards Bay!",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-7/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Spend your summer vacation at this one-of-a-kind home located at the tip of Planting Island with views of Sippican Harbor and Buzzards Bay!",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-7/",
   "cardPhotos": [
    "images/MA-16036-000.webp",
    "images/MA-16036-001.webp",
    "images/MA-16036-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": 2.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Available for $3,700 per week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16036-card.webp",
   "lat": 41.69432,
   "lng": -70.740167,
-  "photo": "images/MA-16036-card.webp",
-  "coverPhoto": "images/MA-16036-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16036-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16036-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16036-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16036-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1537,55 +715,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Stunning waterfront property located on the tip of Converse Point, with stunning water views of Buzzards Bay.",
-  "descriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-17/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Stunning waterfront property located on the tip of Converse Point, with stunning water views of Buzzards Bay.",
-  "cardDescriptionSource": "https://www.conversecompanyrealestate.com/properties/rentals/summer-rental-17/",
   "cardPhotos": [
    "images/MA-16027-000.webp",
    "images/MA-16027-001.webp",
    "images/MA-16027-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 6,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16027-card.webp",
   "lat": 41.672812,
   "lng": -70.745425,
-  "photo": "images/MA-16027-card.webp",
-  "coverPhoto": "images/MA-16027-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16027-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16027-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16027-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16027-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1600,11 +744,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "West Island cottage with two bedrooms, ocean views, a stocked kitchen and easy beach access.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "West Island cottage with two bedrooms, ocean views, a stocked kitchen and easy beach access.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/cozy-quahog/",
   "cardPhotos": [
    "images/MA-0275-cover.webp",
    "images/MA-0275-000.webp",
@@ -1615,46 +755,14 @@
     "https://www.airbnb.com/rooms/1448038830919482304"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0275-card.webp",
   "lat": 41.5964,
   "lng": -70.8319,
-  "photo": "images/MA-0275-card.webp",
-  "coverPhoto": "images/MA-0275-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0275-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0275-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0275-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0275-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -1669,57 +777,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Built in 1873 and designated historic, this 618-square-foot 2-bedroom cottage for up to 4 people is steps from Onset Beach.",
-  "descriptionSource": "https://www.cuteonsetbeachcottage.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Built in 1873 and designated historic, this 618-square-foot 2-bedroom cottage for up to 4 people is steps from Onset Beach.",
-  "cardDescriptionSource": "https://www.cuteonsetbeachcottage.com/",
   "cardPhotos": [
    "images/MA-16004-000.webp",
    "images/MA-16004-001.webp",
    "images/MA-16004-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": "Unknown",
-  "guests": 4,
-  "capacityDetails": "Property page lists sleeps 4.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Dog-friendly (on request)",
+  "photo": "images/MA-16004-card.webp",
   "lat": 41.741248,
   "lng": -70.662947,
-  "photo": "images/MA-16004-card.webp",
-  "coverPhoto": "images/MA-16004-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16004-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16004-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16004-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16004-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "featured": false,
   "demo": false
  },
@@ -1733,55 +805,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Westport Point waterfront home with four bedrooms, a full kitchen, deck and lawn extending to a dock.",
-  "descriptionSource": "https://www.kathy-santos.com/rentals.html",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Westport Point waterfront home with four bedrooms, a full kitchen, deck and lawn extending to a dock.",
-  "cardDescriptionSource": "https://www.kathy-santos.com/rentals.html",
   "cardPhotos": [
    "images/MA-0272-cover.webp",
    "images/MA-0272-000.webp",
    "images/MA-0272-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": 3.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0272-card.webp",
   "lat": 41.622,
   "lng": -71.078,
-  "photo": "images/MA-0272-card.webp",
-  "coverPhoto": "images/MA-0272-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0272-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0272-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0272-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0272-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1796,55 +834,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Westport farm cottage with one bedroom, a full kitchen and porch near Horseneck Beach.",
-  "descriptionSource": "https://horseneckfarms.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Westport farm cottage with one bedroom, a full kitchen and porch near Horseneck Beach.",
-  "cardDescriptionSource": "https://horseneckfarms.com/",
   "cardPhotos": [
    "images/MA-0271-cover.webp",
    "images/MA-0271-000.webp",
    "images/MA-0271-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 2,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 2,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Sleeps two adults/children; no age restriction published.",
-  "petsDetails": "Pets considered; approval, species, limits and fees not published.",
+  "photo": "images/MA-0271-card.webp",
   "lat": 41.622,
   "lng": -71.078,
-  "photo": "images/MA-0271-card.webp",
-  "coverPhoto": "images/MA-0271-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0271-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0271-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0271-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0271-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1858,55 +862,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Enjoy an old-fashioned family vacation at the beach. This 3 BR 2 B family home is just steps to the beach with ACCESS TO ATLANTIC BEACH CLUB.",
-  "descriptionSource": "https://www.kathy-santos.com/rental--2---westport-harbor.html",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Enjoy an old-fashioned family vacation at the beach. This 3 BR 2 B family home is just steps to the beach with ACCESS TO ATLANTIC BEACH CLUB.",
-  "cardDescriptionSource": "https://www.kathy-santos.com/rental--2---westport-harbor.html",
   "cardPhotos": [
    "images/MA-16000-000.webp",
    "images/MA-16000-001.webp",
    "images/MA-16000-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rent: $5250 a week, $350 cleaning, $500 security",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16000-card.webp",
   "lat": 41.503436,
   "lng": -71.108516,
-  "photo": "images/MA-16000-card.webp",
-  "coverPhoto": "images/MA-16000-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16000-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16000-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16000-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16000-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1921,55 +891,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Drive through a private farm, three gates, and arrive at this charming classic cottage.",
-  "descriptionSource": "https://www.kathy-santos.com/rental6---south-westport.html",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Drive through a private farm, three gates, and arrive at this charming classic cottage.",
-  "cardDescriptionSource": "https://www.kathy-santos.com/rental6---south-westport.html",
   "cardPhotos": [
    "images/MA-16001-000.webp",
    "images/MA-16001-001.webp",
    "images/MA-16001-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 2,
   "bathrooms": 1.5,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rent: Rents Friday to Friday $2750.00 a week",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16001-card.webp",
   "lat": 41.523033,
   "lng": -71.040884,
-  "photo": "images/MA-16001-card.webp",
-  "coverPhoto": "images/MA-16001-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16001-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16001-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16001-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16001-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1984,55 +920,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Enjoy an island with a beach and two miles of walking trails all to yourself. This home offers modern amenities and a spacious screened porch.",
-  "descriptionSource": "https://www.kathy-santos.com/rental7-great-island.html",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Enjoy an island with a beach and two miles of walking trails all to yourself. This home offers modern amenities and a spacious screened porch.",
-  "cardDescriptionSource": "https://www.kathy-santos.com/rental7-great-island.html",
   "cardPhotos": [
    "images/MA-16002-000.webp",
    "images/MA-16002-001.webp",
    "images/MA-16002-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 5,
   "bathrooms": 2,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rent: TBD",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16002-card.webp",
   "lat": 41.54413,
   "lng": -71.065482,
-  "photo": "images/MA-16002-card.webp",
-  "coverPhoto": "images/MA-16002-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16002-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16002-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16002-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16002-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -2047,55 +949,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Escape to a newly renovated barn studio filled with natural light and peaceful pastoral views.",
-  "descriptionSource": "https://www.kathy-santos.com/rental--8-main-road.html",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Escape to a newly renovated barn studio filled with natural light and peaceful pastoral views.",
-  "cardDescriptionSource": "https://www.kathy-santos.com/rental--8-main-road.html",
   "cardPhotos": [
    "images/MA-16003-000.webp",
    "images/MA-16003-001.webp",
    "images/MA-16003-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": 1,
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rent: $4300 minimum of 32 day stay, plus $150 for cleaning. $250 security deposit",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16003-card.webp",
   "lat": 41.527925,
   "lng": -71.076921,
-  "photo": "images/MA-16003-card.webp",
-  "coverPhoto": "images/MA-16003-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16003-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16003-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16003-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16003-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -2110,11 +978,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "West Island beachfront cottage with two bedrooms, central air, a kitchen, backyard and patio.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "West Island beachfront cottage with two bedrooms, central air, a kitchen, backyard and patio.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/lovely-day-oceanside/",
   "cardPhotos": [
    "images/MA-0281-cover.webp",
    "images/MA-0281-000.webp",
@@ -2125,46 +989,14 @@
     "https://www.airbnb.com/rooms/1050633472140077739"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0281-card.webp",
   "lat": 41.5964,
   "lng": -70.8319,
-  "photo": "images/MA-0281-card.webp",
-  "coverPhoto": "images/MA-0281-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0281-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0281-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0281-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0281-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -2179,11 +1011,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Fairhaven home near Fort Phoenix with three bedrooms, a full kitchen, porch and backyard grill.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Fairhaven home near Fort Phoenix with three bedrooms, a full kitchen, porch and backyard grill.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/maple-by-the-bay/",
   "cardPhotos": [
    "images/MA-0282-cover.webp",
    "images/MA-0282-000.webp",
@@ -2194,46 +1022,14 @@
     "https://www.airbnb.com/rooms/1076021202794722763"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 3,
   "bathrooms": 1,
-  "guests": 5,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published. Own page warns that steep stairs warrant care for small children; this is not a ban.",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0282-card.webp",
   "lat": 41.6376,
   "lng": -70.9036,
-  "photo": "images/MA-0282-card.webp",
-  "coverPhoto": "images/MA-0282-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0282-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0282-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0282-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0282-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -2247,57 +1043,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "This stunning contemporary vacation rental is located in Westport Harbor and offers direct ocean access.",
-  "descriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7186/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "This stunning contemporary vacation rental is located in Westport Harbor and offers direct ocean access.",
-  "cardDescriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7186/",
   "cardPhotos": [
    "images/MA-16011-000.webp",
    "images/MA-16011-001.webp",
    "images/MA-16011-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 4,
-  "guests": 8,
-  "capacityDetails": "Property page lists sleeps 8.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16011-card.webp",
   "lat": 41.503579,
   "lng": -71.106739,
-  "photo": "images/MA-16011-card.webp",
-  "coverPhoto": "images/MA-16011-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16011-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16011-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16011-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16011-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -2311,57 +1071,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "4-bedroom, 2-bath summer rental at 200 Atlantic Avenue, Westport; sleeps 8.",
-  "descriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7178/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "4-bedroom, 2-bath summer rental at 200 Atlantic Avenue, Westport; sleeps 8.",
-  "cardDescriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7178/",
   "cardPhotos": [
    "images/MA-16012-000.webp",
    "images/MA-16012-001.webp",
    "images/MA-16012-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "Property page lists sleeps 8.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16012-card.webp",
   "lat": 41.50595,
   "lng": -71.09411,
-  "photo": "images/MA-16012-card.webp",
-  "coverPhoto": "images/MA-16012-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16012-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16012-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16012-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16012-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -2375,57 +1099,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Amazing Beach Cottage just Steps to the Ocean! Looking for a relaxing vacation without sitting in traffic?",
-  "descriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7182/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Amazing Beach Cottage just Steps to the Ocean! Looking for a relaxing vacation without sitting in traffic?",
-  "cardDescriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7182/",
   "cardPhotos": [
    "images/MA-16013-000.webp",
    "images/MA-16013-001.webp",
    "images/MA-16013-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Property page lists sleeps 4.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16013-card.webp",
   "lat": 41.510993,
   "lng": -71.069655,
-  "photo": "images/MA-16013-card.webp",
-  "coverPhoto": "images/MA-16013-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16013-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16013-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16013-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16013-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -2439,57 +1127,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Darling summer cottage on Westport Point with distant views of the Westport River. House looks over a lovely meadow.",
-  "descriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7174/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Darling summer cottage on Westport Point with distant views of the Westport River. House looks over a lovely meadow.",
-  "cardDescriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7174/",
   "cardPhotos": [
    "images/MA-16014-000.webp",
    "images/MA-16014-001.webp",
    "images/MA-16014-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 4,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "Property page lists sleeps 6.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16014-card.webp",
   "lat": 41.52586,
   "lng": -71.078248,
-  "photo": "images/MA-16014-card.webp",
-  "coverPhoto": "images/MA-16014-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16014-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16014-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16014-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16014-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -2503,57 +1155,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "4-bedroom, 1-bath summer rental at 327 Brayton Point Road, Westport; sleeps 8.",
-  "descriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7177/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "4-bedroom, 1-bath summer rental at 327 Brayton Point Road, Westport; sleeps 8.",
-  "cardDescriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7177/",
   "cardPhotos": [
    "images/MA-16015-000.webp",
    "images/MA-16015-001.webp",
    "images/MA-16015-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 1,
-  "guests": 8,
-  "capacityDetails": "Property page lists sleeps 8.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16015-card.webp",
   "lat": 41.497128,
   "lng": -71.116969,
-  "photo": "images/MA-16015-card.webp",
-  "coverPhoto": "images/MA-16015-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16015-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16015-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16015-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16015-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -2567,57 +1183,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Enjoy this pastoral summer rental in Westport's Acoaxet neighborhood.",
-  "descriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7167/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Enjoy this pastoral summer rental in Westport's Acoaxet neighborhood.",
-  "cardDescriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7167/",
   "cardPhotos": [
    "images/MA-16016-000.webp",
    "images/MA-16016-001.webp",
    "images/MA-16016-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 6,
-  "capacityDetails": "Property page lists sleeps 6.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16016-card.webp",
   "lat": 41.51458,
   "lng": -71.110295,
-  "photo": "images/MA-16016-card.webp",
-  "coverPhoto": "images/MA-16016-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16016-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16016-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16016-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16016-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -2631,57 +1211,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "6-bedroom summer rental at 830 River Road, Westport; sleeps 12.",
-  "descriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7163/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "6-bedroom summer rental at 830 River Road, Westport; sleeps 12.",
-  "cardDescriptionSource": "https://www.mottandchacevacationrentals.com/vacation-rentals/rental/7163/",
   "cardPhotos": [
    "images/MA-16017-000.webp",
    "images/MA-16017-001.webp",
    "images/MA-16017-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 12,
   "bedrooms": 6,
   "bathrooms": "Unknown",
-  "guests": 12,
-  "capacityDetails": "Property page lists sleeps 12.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No pets",
+  "photo": "images/MA-16017-card.webp",
   "lat": 41.508738,
   "lng": -71.097119,
-  "photo": "images/MA-16017-card.webp",
-  "coverPhoto": "images/MA-16017-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16017-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16017-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16017-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16017-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -2695,55 +1239,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "2-bedroom, 2-bath Wareham home sleeping 6.",
-  "descriptionSource": "https://newenglandvacationrentals.com/The-Glam-Shack-ONS-EB41-New-England-Vacation-Rentals/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "2-bedroom, 2-bath Wareham home sleeping 6.",
-  "cardDescriptionSource": "https://newenglandvacationrentals.com/The-Glam-Shack-ONS-EB41-New-England-Vacation-Rentals/",
   "cardPhotos": [
    "images/MA-4247-cover.webp",
    "images/MA-4247-000.webp",
    "images/MA-4247-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 2,
   "bathrooms": 2,
-  "guests": 6,
-  "capacityDetails": "Property page: 6 guests",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Property page states no pets.",
+  "photo": "images/MA-4247-card.webp",
   "lat": 41.74584,
   "lng": -70.65595,
-  "photo": "images/MA-4247-card.webp",
-  "coverPhoto": "images/MA-4247-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-4247-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-4247-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-4247-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-4247-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -2758,11 +1268,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Mattapoisett home with two bedrooms, a full kitchen, covered deck and brick courtyard near the beach.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Mattapoisett home with two bedrooms, a full kitchen, covered deck and brick courtyard near the beach.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/ocean-escape/",
   "cardPhotos": [
    "images/MA-0284-cover.webp",
    "images/MA-0284-000.webp",
@@ -2773,46 +1279,14 @@
     "https://www.airbnb.com/rooms/1302073107134898492"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Dogs only, maximum one; contact host with questions. Fee not published.",
+  "photo": "images/MA-0284-card.webp",
   "lat": 41.658,
   "lng": -70.8135,
-  "photo": "images/MA-0284-card.webp",
-  "coverPhoto": "images/MA-0284-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0284-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0284-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0284-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0284-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -2826,11 +1300,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "West Island home with ocean views, two bedrooms, a backyard grill and deck near the beach.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "West Island home with ocean views, two bedrooms, a backyard grill and deck near the beach.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/oceanview-oasis/",
   "cardPhotos": [
    "images/MA-0277-cover.webp",
    "images/MA-0277-000.webp",
@@ -2841,46 +1311,14 @@
     "https://www.airbnb.com/rooms/1157245732387526389"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0277-card.webp",
   "lat": 41.5964,
   "lng": -70.8319,
-  "photo": "images/MA-0277-card.webp",
-  "coverPhoto": "images/MA-0277-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0277-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0277-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0277-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0277-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -2895,55 +1333,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Renovated antique in Marion village steps from the Beverly Yacht Club and Sippican Harbor, close to Silver Shell beach; 4 bedrooms, 3.5 baths.",
-  "descriptionSource": "https://www.robertpaul.com/real-estate/3-main-street-marion-ma-02738/3main/24018532",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Renovated antique in Marion village steps from the Beverly Yacht Club and Sippican Harbor, close to Silver Shell beach; 4 bedrooms, 3.5 baths.",
-  "cardDescriptionSource": "https://www.robertpaul.com/real-estate/3-main-street-marion-ma-02738/3main/24018532",
   "cardPhotos": [
    "images/MA-16010-000.webp",
    "images/MA-16010-001.webp",
    "images/MA-16010-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 3.5,
-  "guests": 8,
-  "capacityDetails": "Property page lists sleeps 8.",
-  "priceFrom": "Unknown",
-  "priceDetails": "$5,500 week (Aug 7 - 14 listing)",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Pets considered",
+  "photo": "images/MA-16010-card.webp",
   "lat": 41.703333,
   "lng": -70.760104,
-  "photo": "images/MA-16010-card.webp",
-  "coverPhoto": "images/MA-16010-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16010-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16010-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16010-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16010-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -2958,55 +1362,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "6-bedroom, 3.5-bath Wareham home sleeping 20, with private beach access, water views and a grill.",
-  "descriptionSource": "https://www.sanddollaronline.com/tenantwiz/store/propertyDetails.asp?idProduct=2736",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "6-bedroom, 3.5-bath Wareham home sleeping 20, with private beach access, water views and a grill.",
-  "cardDescriptionSource": "https://www.sanddollaronline.com/tenantwiz/store/propertyDetails.asp?idProduct=2736",
   "cardPhotos": [
    "images/MA-4491-cover.webp",
    "images/MA-4491-000.webp",
    "images/MA-4491-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 20,
   "bedrooms": 6,
   "bathrooms": 3.5,
-  "guests": 20,
-  "capacityDetails": "Property page: 20 guests",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Property page lists \"Pets Allowed\".",
+  "photo": "images/MA-4491-card.webp",
   "lat": 41.71658,
   "lng": -70.66276,
-  "photo": "images/MA-4491-card.webp",
-  "coverPhoto": "images/MA-4491-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-4491-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-4491-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-4491-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-4491-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3021,55 +1391,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "2-bedroom, 1-bath Wareham cottage sleeping 7, with private beach access, water views and an outdoor shower.",
-  "descriptionSource": "https://www.sanddollaronline.com/tenantwiz/store/propertyDetails.asp?idProduct=2751",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "2-bedroom, 1-bath Wareham cottage sleeping 7, with private beach access, water views and an outdoor shower.",
-  "cardDescriptionSource": "https://www.sanddollaronline.com/tenantwiz/store/propertyDetails.asp?idProduct=2751",
   "cardPhotos": [
    "images/MA-4493-cover.webp",
    "images/MA-4493-000.webp",
    "images/MA-4493-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 7,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 7,
-  "capacityDetails": "Property page: 7 guests",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Property page lists \"Pets Allowed\".",
+  "photo": "images/MA-4493-card.webp",
   "lat": 41.71658,
   "lng": -70.66276,
-  "photo": "images/MA-4493-card.webp",
-  "coverPhoto": "images/MA-4493-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-4493-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-4493-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-4493-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-4493-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3084,36 +1420,16 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Fairhaven vacation cottage operator lead; browser access failed and current accommodation remains unverified.",
-  "descriptionSource": "http://seaspacefairhaven.com/",
-  "descriptionStatus": "Source-supported lead; eligibility not approved",
+  "cardDescription": "Fairhaven vacation cottage operator lead; browser access failed and current accommodation remains unverified.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos",
-   "Official physical rental or operator-business address",
-   "correct address role",
-   "Website eligibility verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "Unknown",
   "lat": 41.6376,
   "lng": -70.9036,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -3127,57 +1443,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Mattapoisett home near Crescent Beach with three bedrooms, a large deck, outdoor shower and fire pit.",
-  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Mattapoisett home near Crescent Beach with three bedrooms, a large deck, outdoor shower and fire pit.",
-  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a6a5f9e5d453a0012492d51?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/MA-0252-cover.webp",
    "images/MA-0252-000.webp",
    "images/MA-0252-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 2.5,
-  "guests": 8,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
-  "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+  "photo": "images/MA-0252-card.webp",
   "lat": 41.654466,
   "lng": -70.779667,
-  "photo": "images/MA-0252-card.webp",
-  "coverPhoto": "images/MA-0252-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0252-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0252-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0252-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0252-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -3191,11 +1471,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "West Island home with two bedrooms, a gourmet kitchen, landscaped yard and covered deck near beaches.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "West Island home with two bedrooms, a gourmet kitchen, landscaped yard and covered deck near beaches.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/strawberry-moon-west-island/",
   "cardPhotos": [
    "images/MA-0283-cover.webp",
    "images/MA-0283-000.webp",
@@ -3206,46 +1482,14 @@
     "https://www.airbnb.com/rooms/1075316824545894097"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 2,
   "bathrooms": 1.5,
-  "guests": 6,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Pets not allowed.",
+  "photo": "images/MA-0283-card.webp",
   "lat": 41.5964,
   "lng": -70.8319,
-  "photo": "images/MA-0283-card.webp",
-  "coverPhoto": "images/MA-0283-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0283-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0283-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0283-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0283-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "locationLabel": "West Island",
   "featured": false,
   "demo": false
@@ -3260,57 +1504,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Renovated oceanfront 3-bedroom, 2-bath beach house on West Island sleeping 10, with fenced yard, beach access, fire pit and ocean-facing deck.",
-  "descriptionSource": "https://www.beachhivema.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Renovated oceanfront 3-bedroom, 2-bath beach house on West Island sleeping 10, with fenced yard, beach access, fire pit and ocean-facing deck.",
-  "cardDescriptionSource": "https://www.beachhivema.com/",
   "cardPhotos": [
    "images/MA-16006-000.webp",
    "images/MA-16006-001.webp",
    "images/MA-16006-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 10,
-  "capacityDetails": "Property page lists sleeps 10.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Sat-to-Sat weekly summer rentals; 3-4 day stays off season",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16006-card.webp",
   "lat": 41.6376,
   "lng": -70.9036,
-  "photo": "images/MA-16006-card.webp",
-  "coverPhoto": "images/MA-16006-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16006-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16006-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16006-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16006-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -3324,11 +1532,7 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Fairhaven waterfront home with three bedrooms, a full kitchen, backyard and panoramic ocean views.",
-  "descriptionSource": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Fairhaven waterfront home with three bedrooms, a full kitchen, backyard and panoramic ocean views.",
-  "cardDescriptionSource": "https://buzzardsbayrentals.com/accommodation/the-fairview/",
   "cardPhotos": [
    "images/MA-0278-cover.webp",
    "images/MA-0278-000.webp",
@@ -3339,46 +1543,14 @@
     "https://www.airbnb.com/rooms/1160801886680422135"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 3,
   "bathrooms": 1,
-  "guests": 5,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Conditional",
-  "kidsDetails": "Unknown after checking own detail page, operator cancellation policy and expanded matched Airbnb house rules. No explicit child/infant acceptance or age restriction published.",
-  "petsDetails": "Pets allowed, maximum two per matched Airbnb House rules; fee and other limits not published.",
+  "photo": "images/MA-0278-card.webp",
   "lat": 41.6376,
   "lng": -70.9036,
-  "photo": "images/MA-0278-card.webp",
-  "coverPhoto": "images/MA-0278-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0278-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0278-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0278-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0278-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -3392,57 +1564,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Waterfront Onset vacation house for eight with two bedrooms, a sea deck and shared access to a hot tub, beach and kayaks.",
-  "descriptionSource": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Waterfront Onset vacation house for eight with two bedrooms, a sea deck and shared access to a hot tub, beach and kayaks.",
-  "cardDescriptionSource": "https://obc.lodgify.com/en/2101375/the-mermaid-cottage-the-cape-cod-canal-compound-lodge",
   "cardPhotos": [
    "images/MA-0405-cover.webp",
    "images/MA-0405-000.webp",
    "images/MA-0405-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 2,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "Own listing8guests,2bedrooms,5beds,2bathrooms. Shared campus amenities are distinguished from private sea deck.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Date-dependent rate; visiblecurrencyUSD but Book Now URLcurrencyEUR, no quote requested.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Children welcome on own-unit policies.",
-  "petsDetails": "Only pre-approved dogs up to40lb; leash required. Other animals not permitted.",
+  "photo": "images/MA-0405-card.webp",
   "lat": 41.74544,
   "lng": -70.65632,
-  "photo": "images/MA-0405-card.webp",
-  "coverPhoto": "images/MA-0405-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0405-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0405-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0405-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0405-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -3456,55 +1592,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Renovated 950 sq ft second-floor apartment with 2 bedrooms, 1 bath, open kitchen, off-street parking and a large back yard; sleeps 4.",
-  "descriptionSource": "https://www.millie-group.com/arnold-s",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Renovated 950 sq ft second-floor apartment with 2 bedrooms, 1 bath, open kitchen, off-street parking and a large back yard; sleeps 4.",
-  "cardDescriptionSource": "https://www.millie-group.com/arnold-s",
   "cardPhotos": [
    "images/MA-16009-000.webp",
    "images/MA-16009-001.webp",
    "images/MA-16009-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Property page lists sleeps 4.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16009-card.webp",
   "lat": 41.630909,
   "lng": -70.941982,
-  "photo": "images/MA-16009-card.webp",
-  "coverPhoto": "images/MA-16009-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16009-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16009-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16009-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16009-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3519,55 +1621,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Four-bedroom, 2,500 sq ft second-floor residence with soaring ceilings, exposed brick, gas fireplace and open-concept kitchen; sleeps 8.",
-  "descriptionSource": "https://www.millie-group.com/henry-s",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Four-bedroom, 2,500 sq ft second-floor residence with soaring ceilings, exposed brick, gas fireplace and open-concept kitchen; sleeps 8.",
-  "cardDescriptionSource": "https://www.millie-group.com/henry-s",
   "cardPhotos": [
    "images/MA-16008-000.webp",
    "images/MA-16008-001.webp",
    "images/MA-16008-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "Property page lists sleeps 8.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16008-card.webp",
   "lat": 41.635198,
   "lng": -70.92784,
-  "photo": "images/MA-16008-card.webp",
-  "coverPhoto": "images/MA-16008-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16008-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16008-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16008-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16008-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3582,55 +1650,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Two-level, 2,500 sq ft 2-bedroom, 2-bath penthouse in the 1836 Taber Building with stone walls, exposed beams and a private roof deck.",
-  "descriptionSource": "https://www.millie-group.com/millie-s",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Two-level, 2,500 sq ft 2-bedroom, 2-bath penthouse in the 1836 Taber Building with stone walls, exposed beams and a private roof deck.",
-  "cardDescriptionSource": "https://www.millie-group.com/millie-s",
   "cardPhotos": [
    "images/MA-16007-000.webp",
    "images/MA-16007-001.webp",
    "images/MA-16007-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 2,
   "bathrooms": 2,
-  "guests": 5,
-  "capacityDetails": "Property page lists sleeps 5.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16007-card.webp",
   "lat": 41.634904,
   "lng": -70.921923,
-  "photo": "images/MA-16007-card.webp",
-  "coverPhoto": "images/MA-16007-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16007-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16007-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16007-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16007-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3645,41 +1679,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Marion cottage with two bedrooms, a kitchen and private beach access on Buzzards Bay.",
-  "descriptionSource": "https://www.thesalthousemarion.com/",
-  "descriptionStatus": "Source-supported lead; eligibility not approved",
+  "cardDescription": "Marion cottage with two bedrooms, a kitchen and private beach access on Buzzards Bay.",
   "platformLinks": {
    "airbnb": [
     "https://www.airbnb.com/rooms/1465429306926375720",
     "https://airbnb.com/h/salthousemarion"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos",
-   "Official physical rental or operator-business address",
-   "correct address role",
-   "Website eligibility verification"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "Unknown",
   "lat": 41.7001,
   "lng": -70.7628,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -3693,57 +1707,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Beachfront rental in Fairhaven, MA, located directly on the beach; 4 bedrooms, 2 bathrooms, sleeps 10.",
-  "descriptionSource": "https://fairhavenbeachhouserentals.booksterhq.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Beachfront rental in Fairhaven, MA, located directly on the beach; 4 bedrooms, 2 bathrooms, sleeps 10.",
-  "cardDescriptionSource": "https://fairhavenbeachhouserentals.booksterhq.com/",
   "cardPhotos": [
    "images/MA-16005-000.webp",
    "images/MA-16005-001.webp",
    "images/MA-16005-002.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 10,
-  "capacityDetails": "Property page lists sleeps 10.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-16005-card.webp",
   "lat": 41.6285,
   "lng": -70.8911,
-  "photo": "images/MA-16005-card.webp",
-  "coverPhoto": "images/MA-16005-000.webp",
-  "photos": [
-   {
-    "file": "images/MA-16005-000.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-16005-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16005-002.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-16005-003.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Approximate (operator page map)",
   "featured": false,
   "demo": false
  },
@@ -3757,55 +1735,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Two-bedroom, 2.5-bath Mattapoisett rental sleeping 4, with washer/dryer and outdoor shower; private beach access; Saturday-to-Saturday stays.",
-  "descriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MGALL/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Two-bedroom, 2.5-bath Mattapoisett rental sleeping 4, with washer/dryer and outdoor shower; private beach access; Saturday-to-Saturday stays.",
-  "cardDescriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MGALL/",
   "cardPhotos": [
    "images/MA-3348-cover.webp",
    "images/MA-3348-000.webp",
    "images/MA-3348-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 2,
   "bathrooms": 2.5,
-  "guests": 4,
-  "capacityDetails": "Unit page: sleeps 4.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unit page quotes price only after dates are selected.",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unit page lists No Pets.",
+  "photo": "images/MA-3348-card.webp",
   "lat": 41.66899,
   "lng": -70.75883,
-  "photo": "images/MA-3348-card.webp",
-  "coverPhoto": "images/MA-3348-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-3348-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-3348-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3348-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3348-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3820,55 +1764,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Five-bedroom, 4.5-bath Mattapoisett rental sleeping 10, with A/C, deck and washer/dryer; public beach access; Saturday-to-Saturday stays.",
-  "descriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MWILL/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Five-bedroom, 4.5-bath Mattapoisett rental sleeping 10, with A/C, deck and washer/dryer; public beach access; Saturday-to-Saturday stays.",
-  "cardDescriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MWILL/",
   "cardPhotos": [
    "images/MA-3099-cover.webp",
    "images/MA-3099-000.webp",
    "images/MA-3099-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 5,
   "bathrooms": 4.5,
-  "guests": 10,
-  "capacityDetails": "Unit page: sleeps 10.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unit page quotes price only after dates are selected.",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unit page lists No Pets.",
+  "photo": "images/MA-3099-card.webp",
   "lat": 41.62971,
   "lng": -70.8023,
-  "photo": "images/MA-3099-card.webp",
-  "coverPhoto": "images/MA-3099-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-3099-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-3099-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3099-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3099-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3883,55 +1793,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Five-bedroom, 2-bath Onset rental sleeping 8, with A/C, deck and washer/dryer; public beach access; Saturday-to-Saturday stays.",
-  "descriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MMCCUT/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Five-bedroom, 2-bath Onset rental sleeping 8, with A/C, deck and washer/dryer; public beach access; Saturday-to-Saturday stays.",
-  "cardDescriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MMCCUT/",
   "cardPhotos": [
    "images/MA-3367-cover.webp",
    "images/MA-3367-000.webp",
    "images/MA-3367-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 5,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "Unit page: sleeps 8.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unit page quotes price only after dates are selected.",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unit page lists No Pets.",
+  "photo": "images/MA-3367-card.webp",
   "lat": 41.742,
   "lng": -70.6597,
-  "photo": "images/MA-3367-card.webp",
-  "coverPhoto": "images/MA-3367-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-3367-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-3367-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3367-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3367-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -3946,55 +1822,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Five-bedroom, 5-bath Onset rental sleeping 14, with A/C, washer/dryer and outdoor shower; public beach access; Saturday-to-Saturday stays.",
-  "descriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MFERR/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Five-bedroom, 5-bath Onset rental sleeping 14, with A/C, washer/dryer and outdoor shower; public beach access; Saturday-to-Saturday stays.",
-  "cardDescriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MFERR/",
   "cardPhotos": [
    "images/MA-3408-cover.webp",
    "images/MA-3408-000.webp",
    "images/MA-3408-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 14,
   "bedrooms": 5,
   "bathrooms": 5,
-  "guests": 14,
-  "capacityDetails": "Unit page: sleeps 14.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unit page quotes price only after dates are selected.",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unit page lists No Pets.",
+  "photo": "images/MA-3408-card.webp",
   "lat": 41.74127,
   "lng": -70.66259,
-  "photo": "images/MA-3408-card.webp",
-  "coverPhoto": "images/MA-3408-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-3408-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-3408-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3408-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3408-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -4009,55 +1851,21 @@
   "destination": "South Coast & Buzzards Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Three-bedroom, 1-bath Mattapoisett rental sleeping 6, with A/C, deck and washer/dryer; association beach access; Saturday-to-Saturday stays.",
-  "descriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MMILE/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Three-bedroom, 1-bath Mattapoisett rental sleeping 6, with A/C, deck and washer/dryer; association beach access; Saturday-to-Saturday stays.",
-  "cardDescriptionSource": "https://www.vacationcapecod.com/vacation-rentals/rental/MMILE/",
   "cardPhotos": [
    "images/MA-3239-cover.webp",
    "images/MA-3239-000.webp",
    "images/MA-3239-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 3,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "Unit page: sleeps 6.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unit page quotes price only after dates are selected.",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Listed as pet-friendly on unit page.",
+  "photo": "images/MA-3239-card.webp",
   "lat": 41.65309,
   "lng": -70.77871,
-  "photo": "images/MA-3239-card.webp",
-  "coverPhoto": "images/MA-3239-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-3239-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-3239-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3239-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-3239-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "askAddress": true,
   "featured": false,
   "demo": false

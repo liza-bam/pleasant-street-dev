@@ -9,93 +9,21 @@
   "destination": "Belgrade Lakes",
   "type": "House",
   "recordType": "Property",
-  "description": "OCCUPANCY- LIMIT 8 - Waterfront on Annabessacook Lake in Winthrop. This 3-bedroom 1.5 bath is located just steps away from the water. You will have a great view from this well-maintained and equipped home overlooking the private waterfront and dock. There is a bunkroom downstairs with 2 twin beds and a futon. There is also a half bath and washer/dryer on the first floor. The 2nd floor has 2 bedrooms. One bedroom with a king-size bed and the other bedroom has a bunk bed with 3 twin beds. There is also a full bath on the 2nd floor.",
-  "descriptionSource": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "OCCUPANCY- LIMIT 8 - Waterfront on Annabessacook Lake in Winthrop. This 3-bedroom 1.5 bath is located just steps away from the water. You will have…",
-  "cardDescriptionSource": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482",
   "cardPhotos": [
    "images/ME-0561-cover.jpg",
    "images/ME-0561-000.jpg",
    "images/ME-0561-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No",
+  "photo": "images/ME-0561-card.webp",
   "lat": 44.28735,
   "lng": -69.97861,
-  "photo": "images/ME-0561-card.webp",
-  "coverPhoto": "images/ME-0561-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0561-cover.jpg",
-    "role": "cover",
-    "url": "https://resortplanet.com/15062/WP/482-3.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482",
-    "sha256": "264abcca483f9c3a4f20645e47999ba93531b3ebcb9944b4c3424a277cfb694f",
-    "width": 1536,
-    "height": 1536,
-    "original": "cache/operator-photo-originals/29a4d10a3475b4b93eeca8fbdc7306d44dc283e1ea8ccd127efd3ea694d9d29e.jpg",
-    "originalSha256": "29a4d10a3475b4b93eeca8fbdc7306d44dc283e1ea8ccd127efd3ea694d9d29e",
-    "originalWidth": 1536,
-    "originalHeight": 1536
-   },
-   {
-    "file": "images/ME-0561-000.jpg",
-    "role": "photo",
-    "url": "https://resortplanet.com/15062/WP/482-2.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482",
-    "sha256": "7daf921c46bc1a207fa6af4ab93de71acb8e3acafe13f51e3af4408c5be0ec08",
-    "width": 1152,
-    "height": 1536,
-    "original": "cache/operator-photo-originals/d2901380ebaa30e46f547954b8cae9fd7d22e086591fef87d097cce9b880c074.jpg",
-    "originalSha256": "d2901380ebaa30e46f547954b8cae9fd7d22e086591fef87d097cce9b880c074",
-    "originalWidth": 1152,
-    "originalHeight": 1536
-   },
-   {
-    "file": "images/ME-0561-001.jpg",
-    "role": "photo",
-    "url": "https://resortplanet.com/15062/WP/482-4.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482",
-    "sha256": "bec93c1e7b76a23fd57036767189f6e54e95119530ccade55d6e0cf81b231da2",
-    "width": 1152,
-    "height": 1536,
-    "original": "cache/operator-photo-originals/60747a4af1e7f3378a7b965e5f95fd013fd25fc2a054205b5dcc4e35ef21d83b.jpg",
-    "originalSha256": "60747a4af1e7f3378a7b965e5f95fd013fd25fc2a054205b5dcc4e35ef21d83b",
-    "originalWidth": 1152,
-    "originalHeight": 1536
-   },
-   {
-    "file": "images/ME-0561-002.jpg",
-    "role": "photo",
-    "url": "https://resortplanet.com/15062/WP/482-5.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=482",
-    "sha256": "d378d084d1c4f8a8fc0e19b9fabe2bf813fa4c52f6aaeca6b657f8b0d2ea82c7",
-    "width": 1152,
-    "height": 1536,
-    "original": "cache/operator-photo-originals/674492d71e98ab86741f303aae613e9a66f1e21b8911d496b997472fa3b33d9b.jpg",
-    "originalSha256": "674492d71e98ab86741f303aae613e9a66f1e21b8911d496b997472fa3b33d9b",
-    "originalWidth": 1152,
-    "originalHeight": 1536
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -110,45 +38,21 @@
   "destination": "Belgrade Lakes",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "An American plan sporting camp located on Great Pond. We cater to families, fisherman, and friends. Cabins just feet from the water and we serve 2 meals daily. Bear Spring Camps",
-  "descriptionSource": "https://www.bearspringcamps.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "An American plan sporting camp located on Great Pond. We cater to families, fisherman, and friends. Cabins just feet from the water and we serve 2…",
-  "cardDescriptionSource": "https://www.bearspringcamps.com",
   "cardPhotos": [
    "images/ME-0095-cover.jpg",
    "images/cards/ME-0095-01.webp",
    "images/cards/ME-0095-02.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0095-card.webp",
   "lat": 44.57988,
   "lng": -69.83908,
-  "photo": "images/ME-0095-card.webp",
-  "coverPhoto": "images/ME-0095-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0095-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "images/ME-0095-logo.avif",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -162,55 +66,21 @@
   "destination": "Belgrade Lakes",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Enjoy your vacation at one of luxurious properties nestled withing the pine trees on the Belgrade Stream. These properties are ideal for any and all vacationers looking for a getaway and any kind of adventure. Located in Belgrade, ME.",
-  "descriptionSource": "https://belgradehospitality.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Enjoy your vacation at one of luxurious properties nestled withing the pine trees on the Belgrade Stream. These properties are ideal for any and all…",
-  "cardDescriptionSource": "https://belgradehospitality.com/",
   "cardPhotos": [
    "images/ME-0229-cover.jpg",
    "images/ME-0229-000.jpg",
    "images/ME-0229-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0229-card.webp",
   "lat": 44.4475,
   "lng": -69.8332,
-  "photo": "images/ME-0229-card.webp",
-  "coverPhoto": "images/ME-0229-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0229-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0229-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0229-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0229-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0229-logo.jpg",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -225,57 +95,21 @@
   "destination": "Belgrade Lakes",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Welcome to Belgrade Reservation Center! We are the area's premier cottage rental agency with over 35 years of experience.",
-  "descriptionSource": "https://belgraderental.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Welcome to Belgrade Reservation Center! We are the area's premier cottage rental agency with over 35 years of experience.",
-  "cardDescriptionSource": "https://belgraderental.com/",
   "cardPhotos": [
    "images/ME-0230-cover.jpg",
    "images/ME-0230-000.jpg",
    "images/ME-0230-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0230-card.webp",
   "lat": 44.5265,
   "lng": -69.887,
-  "photo": "images/ME-0230-card.webp",
-  "coverPhoto": "images/ME-0230-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0230-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0230-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0230-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0230-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -290,57 +124,21 @@
   "destination": "Belgrade Lakes",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Your relaxing lakeside vacation awaits you in the Belgrade Lakes, Maine Region. Let us help you find your perfect Maine vacation rental. Just three hours north of Boston in central Maine, the Belgrade Lakes region is acclaimed for its natural beauty, wealth of recreational activities and abundance of local charm.",
-  "descriptionSource": "https://www.belgradevacationrentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Your relaxing lakeside vacation awaits you in the Belgrade Lakes, Maine Region. Let us help you find your perfect Maine vacation rental. Just three…",
-  "cardDescriptionSource": "https://www.belgradevacationrentals.com/",
   "cardPhotos": [
    "images/ME-0231-cover.jpg",
    "images/ME-0231-000.jpg",
    "images/ME-0231-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0231-card.webp",
   "lat": 44.5265,
   "lng": -69.887,
-  "photo": "images/ME-0231-card.webp",
-  "coverPhoto": "images/ME-0231-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0231-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0231-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0231-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0231-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -354,55 +152,21 @@
   "destination": "Belgrade Lakes",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Camp Skoglund is a family camp with fully equipped private cottages. While still maintaining many of the amenities of a camp atmosphere, our lakeside retreat i",
-  "descriptionSource": "https://www.campskoglund.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Camp Skoglund is a family camp with fully equipped private cottages. While still maintaining many of the amenities of a camp atmosphere, our…",
-  "cardDescriptionSource": "https://www.campskoglund.com",
   "cardPhotos": [
    "images/ME-0068-cover.jpg",
    "images/ME-0068-000.jpg",
    "images/ME-0068-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0068-card.webp",
   "lat": 44.43782,
   "lng": -70.01258,
-  "photo": "images/ME-0068-card.webp",
-  "coverPhoto": "images/ME-0068-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0068-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0068-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0068-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0068-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -416,55 +180,21 @@
   "destination": "Belgrade Lakes",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Pet-friendly year-round house and seasonal cottage on the shore of Clearwater Lake, Maine. Swim, fish, paddle, hike, snowshoe — book your lakeside escape.",
-  "descriptionSource": "https://clearwaterescapes.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Pet-friendly year-round house and seasonal cottage on the shore of Clearwater Lake, Maine. Swim, fish, paddle, hike, snowshoe — book your lakeside…",
-  "cardDescriptionSource": "https://clearwaterescapes.com/",
   "cardPhotos": [
    "images/ME-0154-cover.jpg",
    "images/ME-0154-000.jpg",
    "images/ME-0154-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "7 (cottage); 9 (house)",
-  "priceFrom": "Unknown",
-  "priceDetails": "From $145/night (cottage); $210/night (house) Cottage $2,060/month also displayed; occupancy charges and fees may apply; booking dates change total",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — children and babies counted toward max guests",
-  "petsDetails": "Yes — prior approval; $10/pet/night",
+  "photo": "images/ME-0154-card.webp",
   "lat": 44.6706,
   "lng": -70.1515,
-  "photo": "images/ME-0154-card.webp",
-  "coverPhoto": "images/ME-0154-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0154-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0154-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0154-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0154-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -478,54 +208,21 @@
   "destination": "Belgrade Lakes",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Stay in a beautiful lakefront cottage on the shores of Maine's Belgrade Lakes. Dog-friendly, family-ready, and available all year. Book direct and save.",
-  "descriptionSource": "https://cottagesofmaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Stay in a beautiful lakefront cottage on the shores of Maine's Belgrade Lakes. Dog-friendly, family-ready, and available all year. Book direct and…",
-  "cardDescriptionSource": "https://cottagesofmaine.com/",
   "cardPhotos": [
    "images/ME-0010-cover.jpg",
    "images/ME-0010-000.webp",
    "images/ME-0010-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "6–8 per cottage (featured 2 cottages)",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes (family friendly)",
-  "petsDetails": "Yes (dogs; $150 one-time fee)",
+  "photo": "images/ME-0010-card.webp",
   "lat": 44.5337,
   "lng": -69.8628,
-  "photo": "images/ME-0010-card.webp",
-  "coverPhoto": "images/ME-0010-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0010-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0010-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0010-001.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -539,11 +236,7 @@
   "destination": "Belgrade Lakes",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Book direct and save on a private lakefront vacation home on Minnehonk Lake in Mt. Vernon, Maine. Kayaks, dock, fire pit, spectacular sunsets.",
-  "descriptionSource": "https://mainelyrelaxing.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Book direct and save on a private lakefront vacation home on Minnehonk Lake in Mt. Vernon, Maine. Kayaks, dock, fire pit, spectacular sunsets.",
-  "cardDescriptionSource": "https://mainelyrelaxing.com",
   "cardPhotos": [
    "images/ME-0183-cover.jpg",
    "images/ME-0183-000.jpg",
@@ -554,46 +247,14 @@
     "http://vrbo.com/3545187"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — families praised stay",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0183-card.webp",
   "lat": 44.5009,
   "lng": -69.9877,
-  "photo": "images/ME-0183-card.webp",
-  "coverPhoto": "images/ME-0183-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0183-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0183-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0183-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0183-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0183-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -607,11 +268,7 @@
   "destination": "Belgrade Lakes",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Belgrade Lakes vacation rentals in Maine featuring waterfront cabins, private dock, lake access, hot tub, and unforgettable family getaways.",
-  "descriptionSource": "https://www.mainelyretreats.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Belgrade Lakes vacation rentals in Maine featuring waterfront cabins, private dock, lake access, hot tub, and unforgettable family getaways.",
-  "cardDescriptionSource": "https://www.mainelyretreats.com",
   "cardPhotos": [
    "images/ME-0011-cover.jpg",
    "images/ME-0011-000.avif",
@@ -625,46 +282,14 @@
     "https://www.airbnb.com/rooms/1131349369027947154?guests=1&adults=1&s=67&unique_share_id=64e667d4-b671-4e3a-824c-6d774edb20c3"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0011-card.webp",
   "lat": 44.46429,
   "lng": -69.83157,
-  "photo": "images/ME-0011-card.webp",
-  "coverPhoto": "images/ME-0011-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0011-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0011-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0011-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0011-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0011-logo.avif",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  }

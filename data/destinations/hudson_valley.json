@@ -9,52 +9,16 @@
   "destination": "Hudson Valley",
   "type": "Cabin",
   "recordType": "Cabins / small operator",
-  "description": "Eight cozy, fully furnished pet-friendly guest cottages on a country road in the Mid-Hudson Valley near New Paltz, Kingston, Woodstock and Rhinebeck.",
-  "descriptionSource": "https://www.clovecottages.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Eight cozy, fully furnished pet-friendly guest cottages on a country road in the Mid-Hudson Valley near New Paltz, Kingston, Woodstock and Rhinebeck.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Unit-specific guests",
-   "Published kids policy",
-   "Rates"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NY-0039-card.webp",
   "lat": 41.78127,
   "lng": -74.17804,
-  "photo": "images/NY-0039-card.webp",
-  "coverPhoto": "images/NY-0039-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0039-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0039-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0039-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0039-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published street address (geocoded place)",
   "featured": false,
   "demo": false
  },
@@ -68,54 +32,16 @@
   "destination": "Hudson Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Four-bedroom house set in woods in the Town of Esopus between Kingston and New Paltz, with outdoor living space and nature on all sides.",
-  "descriptionSource": "https://homesweethudson.com/property/green-sanctuary-luxury-home-surrounded-by-nature/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom house set in woods in the Town of Esopus between Kingston and New Paltz, with outdoor living space and nature on all sides.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Street address not published",
-   "Unit guests",
-   "Published pets policy",
-   "Published kids policy",
-   "Rates"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NY-0040-card.webp",
   "lat": 41.822102,
   "lng": -74.0339827,
-  "photo": "images/NY-0040-card.webp",
-  "coverPhoto": "images/NY-0040-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0040-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0040-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0040-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0040-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -129,54 +55,16 @@
   "destination": "Hudson Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Four-bedroom getaway in Gardiner at the edge of the Mohonk Preserve, with cliffs and trails nearby.",
-  "descriptionSource": "https://homesweethudson.com/property/greycliff-mohonk-preserve-getaway/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Four-bedroom getaway in Gardiner at the edge of the Mohonk Preserve, with cliffs and trails nearby.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Street address not published",
-   "Unit guests",
-   "Published pets policy",
-   "Published kids policy",
-   "Rates"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 4,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NY-0041-card.webp",
   "lat": 41.7348874,
   "lng": -74.1659477,
-  "photo": "images/NY-0041-card.webp",
-  "coverPhoto": "images/NY-0041-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0041-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0041-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0041-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0041-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -190,54 +78,16 @@
   "destination": "Hudson Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Three-bedroom A-frame in the hills above Kerhonkson, with mountain views and modern interiors.",
-  "descriptionSource": "https://homesweethudson.com/property/ridgeview-a-frame-stylish-kerhonkson-escape/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom A-frame in the hills above Kerhonkson, with mountain views and modern interiors.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Street address not published",
-   "Unit guests",
-   "Published pets policy",
-   "Published kids policy",
-   "Rates"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NY-0043-card.webp",
   "lat": 41.8321867,
   "lng": -74.3136889,
-  "photo": "images/NY-0043-card.webp",
-  "coverPhoto": "images/NY-0043-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0043-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0043-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0043-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0043-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -251,54 +101,16 @@
   "destination": "Hudson Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Three-bedroom Rosendale home with private pool, gym and media room near the Rondout Creek.",
-  "descriptionSource": "https://homesweethudson.com/property/rondout-retreat-rosendale-home-w-gym-media-room/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom Rosendale home with private pool, gym and media room near the Rondout Creek.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Street address not published",
-   "Unit guests",
-   "Published pets policy",
-   "Published kids policy",
-   "Rates"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NY-0044-card.webp",
   "lat": 41.8390603,
   "lng": -74.0760692,
-  "photo": "images/NY-0044-card.webp",
-  "coverPhoto": "images/NY-0044-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0044-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0044-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0044-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0044-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -312,54 +124,16 @@
   "destination": "Hudson Valley",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Three-bedroom cabin by the Stony Kill in Kerhonkson, close to Minnewaska and the Shawangunks.",
-  "descriptionSource": "https://homesweethudson.com/property/stony-kill-cabin-a-kerhonkson-getaway/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom cabin by the Stony Kill in Kerhonkson, close to Minnewaska and the Shawangunks.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Street address not published",
-   "Unit guests",
-   "Published pets policy",
-   "Published kids policy",
-   "Rates"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NY-0045-card.webp",
   "lat": 41.735661,
   "lng": -74.295454,
-  "photo": "images/NY-0045-card.webp",
-  "coverPhoto": "images/NY-0045-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0045-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0045-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0045-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0045-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -373,54 +147,16 @@
   "destination": "Hudson Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Three-bedroom farmhouse on a quiet road in Accord, Rondout Valley, with porch and gardens.",
-  "descriptionSource": "https://homesweethudson.com/property/the-louie-ii-peaceful-accord-farmhouse/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Three-bedroom farmhouse on a quiet road in Accord, Rondout Valley, with porch and gardens.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Street address not published",
-   "Unit guests",
-   "Published pets policy",
-   "Published kids policy",
-   "Rates"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NY-0046-card.webp",
   "lat": 41.7797726,
   "lng": -74.226473,
-  "photo": "images/NY-0046-card.webp",
-  "coverPhoto": "images/NY-0046-cover.webp",
-  "photos": [
-   {
-    "file": "images/NY-0046-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NY-0046-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0046-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NY-0046-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  }

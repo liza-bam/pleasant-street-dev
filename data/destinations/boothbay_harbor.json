@@ -9,88 +9,21 @@
   "destination": "Boothbay Harbor",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Adirondack Charm Meets Coastal Maine – 2 Cabins, Private Beach, Firepit Experience the best of coastal Maine with the warmth and character of an Adirondack retreat. Tucked into a peaceful spruce forest in the sought-after Spruce Point community of Boothbay Harbor, this unique property offers two private cabins, five bedrooms, and access to a secluded association beach—creating the perfect setting for families or groups traveling together. Step inside the main lodge and you’re welcomed by soaring log ceilings, a dramatic stone fireplace, and rich wood details that feel both timeless and inviting.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/100818",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Adirondack Charm Meets Coastal Maine – 2 Cabins, Private Beach, Firepit Experience the best of coastal Maine with the warmth and character of an…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/100818",
   "cardPhotos": [
    "images/ME-0431-cover.jpg",
    "images/ME-0431-000.jpg",
    "images/ME-0431-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 5,
   "bathrooms": 3,
-  "guests": 10,
-  "capacityDetails": "10",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0431-card.webp",
   "lat": 43.8373,
   "lng": -69.6192,
-  "photo": "images/ME-0431-card.webp",
-  "coverPhoto": "images/ME-0431-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0431-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-100818-1Ghv5nEhpi0PvdG--bPXdu7WbfPlY84cSdtmCQDRwSTE-6334ab772d5c0",
-    "page": "https://booking.rockycoastrentals.com/listings/100818",
-    "sha256": "72bd60d38dcb5d5fe6085dbafde4ef008d2f8950b55fad081d04f1bfd56bd924",
-    "width": 1200,
-    "height": 900,
-    "original": "cache/operator-photo-originals/cb4f7d8dcfa95547db7ba40a0b52f0dd9939c6e3116d1f76e53cf4ec79d7a159.jpg",
-    "originalSha256": "cb4f7d8dcfa95547db7ba40a0b52f0dd9939c6e3116d1f76e53cf4ec79d7a159",
-    "originalWidth": 1200,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0431-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-100818-yfGMEUuZcXEWAOZZGUinsBX3C2PLA3i4j2xwv3IpAv0-6698418ba27e6",
-    "page": "https://booking.rockycoastrentals.com/listings/100818",
-    "sha256": "0d7b16ab508ddc087adc3ebd45f4e2029572fc894e92ed68152f3ce530a293ab",
-    "width": 1280,
-    "height": 853,
-    "original": "cache/operator-photo-originals/0d7b16ab508ddc087adc3ebd45f4e2029572fc894e92ed68152f3ce530a293ab.jpg"
-   },
-   {
-    "file": "images/ME-0431-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-100818-jj9BHOjWnnIZF38oscKmwIYF8tkNZ77pAte--GIPPRxU-6698408e877a5",
-    "page": "https://booking.rockycoastrentals.com/listings/100818",
-    "sha256": "dcd26155e9633e8abf4812660cd08b4f8321c803b1c2b6192a8770b289e717d5",
-    "width": 1280,
-    "height": 853,
-    "original": "cache/operator-photo-originals/dcd26155e9633e8abf4812660cd08b4f8321c803b1c2b6192a8770b289e717d5.jpg"
-   },
-   {
-    "file": "images/ME-0431-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-100818-w4HEWhSJAkE6kv9QeODFP87ISKBv2aR9ilMSp9F-Ljs-69750dd1dc8cb",
-    "page": "https://booking.rockycoastrentals.com/listings/100818",
-    "sha256": "4665a15780d80d573a28d79216f09e128077898e3434b43ab570629c8df9f9da",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/7f2e9236220dfff0a7ae86988932082ae74fefce4c5ca36cbbe268f5740ee345.jpg",
-    "originalSha256": "7f2e9236220dfff0a7ae86988932082ae74fefce4c5ca36cbbe268f5740ee345",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -104,85 +37,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Amore | Romantic Coastal Cottage | Near Spruce Point Inn 🌊 Escape to Amore, a beautifully appointed coastal cottage just steps from the ocean and professionally managed by Rocky Coast Rentals. Ideally located across from Spruce Point Inn, a premier wedding venue and beloved summer destination, this private coastal retreat blends boutique comfort with the relaxed charm of Maine. Surrounded by an acre of peaceful wooded land, you’ll hear gulls and osprey overhead, smell the sea and pines, and enjoy the quiet beauty of the coast from your own deck.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/490449",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Amore | Romantic Coastal Cottage | Near Spruce Point Inn 🌊 Escape to Amore, a beautifully appointed coastal cottage just steps from the ocean and…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/490449",
   "cardPhotos": [
    "images/ME-0442-cover.jpg",
    "images/ME-0442-000.jpg",
    "images/ME-0442-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0442-card.webp",
   "lat": 43.8283,
   "lng": -69.62101,
-  "photo": "images/ME-0442-card.webp",
-  "coverPhoto": "images/ME-0442-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0442-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-490449-CVeymI4xaNd303Z-wg--MgMMF0--9jxzCJKXrnO1i12r8-6a0f741182047",
-    "page": "https://booking.rockycoastrentals.com/listings/490449",
-    "sha256": "eaea1be195337a76c3e56fc7fd70c8c4b0bd72d0b3225fb8d4714b2557fc8553",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/6296efdc35975b2bb191813ed10417addd4cc76f9c7de3a4da2d997beb02ffb3.jpg",
-    "originalSha256": "6296efdc35975b2bb191813ed10417addd4cc76f9c7de3a4da2d997beb02ffb3",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0442-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-490449-JPoQ94eLIpY--JrDwydRZShHLJwf7R7ZouXXdbzBOGxI-6a0f741d1edb8",
-    "page": "https://booking.rockycoastrentals.com/listings/490449",
-    "sha256": "fdaf4e1e248722efae09dba81778f52de8e8b337e9f6d62ec8acb77862f3e131",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/fdaf4e1e248722efae09dba81778f52de8e8b337e9f6d62ec8acb77862f3e131.jpg"
-   },
-   {
-    "file": "images/ME-0442-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-490449-WnU4rG2iiN-7BKpFAN3uZEbDINAao--TUbB--619Il-Qk-6a0f742427975",
-    "page": "https://booking.rockycoastrentals.com/listings/490449",
-    "sha256": "75589f9dcf7906c9aacaa1e81959d6d043ce243b8c4851fdc976c46ecb6ffaf2",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/75589f9dcf7906c9aacaa1e81959d6d043ce243b8c4851fdc976c46ecb6ffaf2.jpg"
-   },
-   {
-    "file": "images/ME-0442-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-490449-d2cXtMGG--xFLXqbwRd3uRX2P5977jMvaGqddLWN63nk-6a0f7416bd620",
-    "page": "https://booking.rockycoastrentals.com/listings/490449",
-    "sha256": "0abd371ff00a50f75f519b9223b6419325bf55964b92ec7dd9bc27ef1fe84f21",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/0abd371ff00a50f75f519b9223b6419325bf55964b92ec7dd9bc27ef1fe84f21.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -196,57 +65,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "With five bedrooms, the BIG COTTAGE can comfortably sleep up to ten people. Whether relaxing in front of a fire in the fieldstone fireplace or enjoying a book on the side screened-in porch, the Big Cottage offers picturesque views of the ocean. Set back a bit, the two-bedroom LITTLE COTTAGE also boasts beach access and a partial ocean view while providing a quaint and intimate space for smaller families.",
-  "descriptionSource": "https://www.boothbaymainecottages.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "With five bedrooms, the BIG COTTAGE can comfortably sleep up to ten people. Whether relaxing in front of a fire in the fieldstone fireplace or…",
-  "cardDescriptionSource": "https://www.boothbaymainecottages.com",
   "cardPhotos": [
    "images/ME-0012-cover.webp",
    "images/ME-0012-000.webp",
    "images/ME-0012-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0012-card.webp",
   "lat": 43.8752,
   "lng": -69.6339,
-  "photo": "images/ME-0012-card.webp",
-  "coverPhoto": "images/ME-0012-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0012-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0012-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0012-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0012-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -260,55 +93,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Although I purchased this home at the end of 2010, I have been vacationing in Boothbay my entire life (since the age of three weeks) and my family has been vacationing in the area since 1914, owning property in the region and spending summers here since the 1930s. Whether this is your first time in the region or you have been coming for years, I hope you enjoy your stay to the fullest and discover why this place is so special to me and my family.",
-  "descriptionSource": "https://boothbayharborrental.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Although I purchased this home at the end of 2010, I have been vacationing in Boothbay my entire life (since the age of three weeks) and my family…",
-  "cardDescriptionSource": "https://boothbayharborrental.com/",
   "cardPhotos": [
    "images/ME-0133-cover.jpg",
    "images/ME-0133-000.png",
    "images/ME-0133-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 6,
-  "capacityDetails": "6",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,890–$4,995/week 2026 weekly seasonal rates; 2027 separately listed ($1,995–$5,195/week); direct bookings by email/check/Venmo",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — family home",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0133-card.webp",
   "lat": 43.8524,
   "lng": -69.62645,
-  "photo": "images/ME-0133-card.webp",
-  "coverPhoto": "images/ME-0133-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0133-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0133-000.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0133-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0133-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0133-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -322,91 +121,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Experience the best of Boothbay Harbor from this beautifully appointed woodside retreat, where modern comforts meet the peaceful charm of Maine's rocky coast, surrounded by nature. Tucked among the trees in a quiet setting, this inviting three-room sleeping arrangement features two king bedrooms and a comfortable queen-size sleeper sofa, making it an ideal retreat for couples, families, or friends traveling together. Enjoy the tranquility of your surroundings while being just a short walk from downtown Boothbay Harbor's waterfront restaurants, shops, and attractions. Bright, Modern & Inviting: Upstairs, sunlight fills the open-concept living, dining, and kitchen area.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/602800",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Experience the best of Boothbay Harbor from this beautifully appointed woodside retreat, where modern comforts meet the peaceful charm of Maine's…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/602800",
   "cardPhotos": [
    "images/ME-0447-cover.jpg",
    "images/ME-0447-000.jpg",
    "images/ME-0447-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 5,
-  "capacityDetails": "5",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0447-card.webp",
   "lat": 43.8414,
   "lng": -69.6253,
-  "photo": "images/ME-0447-card.webp",
-  "coverPhoto": "images/ME-0447-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0447-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-602800-bk28MX23xQ6RC97Hf0Gj8rfUSWcq8TAPDVbLST9Z2MQ-6ad1118ad665f",
-    "page": "https://booking.rockycoastrentals.com/listings/602800",
-    "sha256": "10bb54a688ca7a8be7ee6f76e5d83c3d18901c67a73f27f5a31cbe18c213306f",
-    "width": 1280,
-    "height": 960,
-    "original": "cache/operator-photo-originals/153a8748859f62c7efd90103a33c1765327ebb137c62677c525838bff9dd1486.jpg",
-    "originalSha256": "153a8748859f62c7efd90103a33c1765327ebb137c62677c525838bff9dd1486",
-    "originalWidth": 1280,
-    "originalHeight": 960
-   },
-   {
-    "file": "images/ME-0447-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-602800-O6FbJPK-yEYmsI82KDhkTn1WBiQhgMsmGtGel82TJF0-6ad63a114302c",
-    "page": "https://booking.rockycoastrentals.com/listings/602800",
-    "sha256": "99ea16b3549da99c2dd876aede649c6989b93159c301e33ddc3e4e04bd2bb3e4",
-    "width": 1351,
-    "height": 900,
-    "original": "cache/operator-photo-originals/849a903a49c03f43b4367b039fd8db0a7732b668a2ffecf999871ee5af2dee19.jpg",
-    "originalSha256": "849a903a49c03f43b4367b039fd8db0a7732b668a2ffecf999871ee5af2dee19",
-    "originalWidth": 1351,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0447-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-602800-Q9M6Ryo07lXXVKcBu7xmCAr35KHj6--VKiVEIebdf8OI-6ad639edb10ad",
-    "page": "https://booking.rockycoastrentals.com/listings/602800",
-    "sha256": "708de4850330ed2a121ee45cf497eec45802fa72b54c4319e160968d991619c3",
-    "width": 1351,
-    "height": 900,
-    "original": "cache/operator-photo-originals/c60300bbc90c6599a76c6bdc50d4f773d7d2bcc9a9699939f0edffe59f059d2f.jpg",
-    "originalSha256": "c60300bbc90c6599a76c6bdc50d4f773d7d2bcc9a9699939f0edffe59f059d2f",
-    "originalWidth": 1351,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0447-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-602800-IWIjNTwiQ9pxpL--8LWoR--uVfuPv0crM72HSOtYzFvWM-6ad63a415a392",
-    "page": "https://booking.rockycoastrentals.com/listings/602800",
-    "sha256": "92244b0ae9c1d71d2f58ff2cec2dbf1da0a0716989e0b14d7ce9bfa57a1ec330",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/92244b0ae9c1d71d2f58ff2cec2dbf1da0a0716989e0b14d7ce9bfa57a1ec330.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -420,88 +149,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Start your day with coffee and breathtaking sunrises over the ocean at this peaceful Spruce Point retreat in Boothbay Harbor. Spend your days on the water from your private dock and unwind in the hot tub under the stars. With bright coastal interiors, vaulted ceilings, and a cozy fireplace, this home is designed for relaxing, reconnecting, and making lasting memories. 3BR / 2BA coastal retreat designed for elevated, comfortable living. Professionally managed by Rocky Coast Rentals.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/500314",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Start your day with coffee and breathtaking sunrises over the ocean at this peaceful Spruce Point retreat in Boothbay Harbor. Spend your days on the…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/500314",
   "cardPhotos": [
    "images/ME-0443-cover.jpg",
    "images/ME-0443-000.jpg",
    "images/ME-0443-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0443-card.webp",
   "lat": 43.8283,
   "lng": -69.62101,
-  "photo": "images/ME-0443-card.webp",
-  "coverPhoto": "images/ME-0443-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0443-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-500314-Fe5jEtN--3snMMTuxVoJAWS3DrOEEozYbPM-dWbBgBkw-6a0f61989f247",
-    "page": "https://booking.rockycoastrentals.com/listings/500314",
-    "sha256": "72aae04ae17c9ced73410c08737f3f76a789dcd2e53c5706cbbf62891c5a83fe",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/a34c6d84154d4476aa2394381467c755884029523a49fb269188d123fbcffa3d.jpg",
-    "originalSha256": "a34c6d84154d4476aa2394381467c755884029523a49fb269188d123fbcffa3d",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0443-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-500314-9TB--H6T9FIC9ZIX1hb10Y8Jduq-zqQVw6tK2cvk-ikg-6a0f6195d2e02",
-    "page": "https://booking.rockycoastrentals.com/listings/500314",
-    "sha256": "9de645c9c1e6971ec96bbe044747933e636846ce666c4ee76642888e91f4e791",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/8014dc40b33079d1cc3dfd74071cec984e281bac69bfcbb8bdcef8f6c12c13cc.jpg",
-    "originalSha256": "8014dc40b33079d1cc3dfd74071cec984e281bac69bfcbb8bdcef8f6c12c13cc",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0443-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-500314-OL8wqrgnP55DKnV6BrOrbnqj2m00K4ZIl0VckMkzhkU-6a0f619ba44be",
-    "page": "https://booking.rockycoastrentals.com/listings/500314",
-    "sha256": "1f154ae8f81edc3cf8b8314aad389da703f9570108f839b67b6bbe0fa3875ac0",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/1f154ae8f81edc3cf8b8314aad389da703f9570108f839b67b6bbe0fa3875ac0.jpg"
-   },
-   {
-    "file": "images/ME-0443-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-500314-yGTwxkJ--jQ9kCTcuGWJRNejTrYEKQROP2jfwewktPoU-6a0f619ec6d39",
-    "page": "https://booking.rockycoastrentals.com/listings/500314",
-    "sha256": "a6929a6fb3289f29389289e591a31e9d2e7ecbfda69591135f8c434cf4c21d63",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/a6929a6fb3289f29389289e591a31e9d2e7ecbfda69591135f8c434cf4c21d63.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -515,55 +177,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Are you traveling with the family, a large group of friends, or letting your furry friend tag along on vacation? We have the perfect Boothbay Harbor, Maine, vacation rentals for all your needs! Dock View is a peaceful, three-bedroom retreat with ocean views and within walking distance of the town center. The chic loft, known simply as the Boat House , is another beautiful Midcoast Maine vacation rental in downtown Boothbay Harbor that features original artwork and a three-story deck. Of course, if you’re looking for seclusion and stunning views, it doesn’t get much better than the Water’s Edge Cottage",
-  "descriptionSource": "https://boothbayvacationhomes.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Are you traveling with the family, a large group of friends, or letting your furry friend tag along on vacation? We have the perfect Boothbay…",
-  "cardDescriptionSource": "https://boothbayvacationhomes.com/",
   "cardPhotos": [
    "images/ME-0134-cover.jpg",
    "images/ME-0134-000.png",
    "images/ME-0134-001.png"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "4–7 by property",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes — family vacations",
-  "petsDetails": "Yes — up to 2 dogs, 35 lb limit (exceptions inquire)",
+  "photo": "images/ME-0134-card.webp",
   "lat": 43.85002,
   "lng": -69.63112,
-  "photo": "images/ME-0134-card.webp",
-  "coverPhoto": "images/ME-0134-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0134-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0134-000.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0134-001.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0134-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0134-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -577,57 +205,21 @@
   "destination": "Boothbay Harbor",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "We offer exceptional waterfront and water view vacation rentals in the Boothbay Harbor Region. All Chill Vacation Rental properties are equipped with luxury linens and great amenities. With easy online booking and 24 hour service, start your Boothbay Harbor, Maine vacation here!",
-  "descriptionSource": "https://www.chillvacationrentals.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "We offer exceptional waterfront and water view vacation rentals in the Boothbay Harbor Region. All Chill Vacation Rental properties are equipped…",
-  "cardDescriptionSource": "https://www.chillvacationrentals.com",
   "cardPhotos": [
    "images/ME-0242-cover.avif",
    "images/ME-0242-000.jpg",
    "images/ME-0242-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0242-card.webp",
   "lat": 43.8646,
   "lng": -69.6313,
-  "photo": "images/ME-0242-card.webp",
-  "coverPhoto": "images/ME-0242-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0242-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0242-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0242-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0242-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -642,57 +234,21 @@
   "destination": "Boothbay Harbor",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Explore beautiful Maine properties including Southport Island homes, cozy cottages, and waterfront homes on Echo Lake. Your ideal Maine getaway awaits.",
-  "descriptionSource": "https://www.deckercove.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Explore beautiful Maine properties including Southport Island homes, cozy cottages, and waterfront homes on Echo Lake. Your ideal Maine getaway…",
-  "cardDescriptionSource": "https://www.deckercove.com",
   "cardPhotos": [
    "images/ME-0206-cover.webp",
    "images/ME-0206-000.webp",
    "images/ME-0206-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0206-card.webp",
   "lat": 43.8407,
   "lng": -69.656,
-  "photo": "images/ME-0206-card.webp",
-  "coverPhoto": "images/ME-0206-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0206-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0206-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0206-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0206-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0206-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -706,85 +262,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Perched above the harbor and thoughtfully reimagined from the inside out, Briar Cove is a designer waterfront retreat that blends refined craftsmanship with the relaxed elegance of coastal Maine. Every room has been intentionally crafted from custom millwork and luxurious finishes to layered textures, beautiful furnishings, and artisan details that create a home both sophisticated and welcoming. Just a short stroll from the heart of Boothbay Harbor, Briar Cove offers the rare luxury of walking to local shops, restaurants, galleries, and the waterfront, while returning each evening to the quiet comfort of your own private retreat.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/557133",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Perched above the harbor and thoughtfully reimagined from the inside out, Briar Cove is a designer waterfront retreat that blends refined…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/557133",
   "cardPhotos": [
    "images/ME-0445-cover.jpg",
    "images/ME-0445-000.jpg",
    "images/ME-0445-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0445-card.webp",
   "lat": 43.85167,
   "lng": -69.62317,
-  "photo": "images/ME-0445-card.webp",
-  "coverPhoto": "images/ME-0445-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0445-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-557133-rPRbmK--ou9J2--jyuS5TbRh-6AYnA3VXbaU7jqyR2XHE-6a5f6f1834f76",
-    "page": "https://booking.rockycoastrentals.com/listings/557133",
-    "sha256": "36e3d8d90f19d6e8a36783ebcd9b1afac4fb43713cac6d88897bb13e36a4b82c",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/a179d3743f915592c7af900a1219d65e63370426ca7f560e61cc2691602aa098.jpg",
-    "originalSha256": "a179d3743f915592c7af900a1219d65e63370426ca7f560e61cc2691602aa098",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0445-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-557133-AjEsA--HEe5a70kxsiwLZhsLQ-3YHRdVXf2HPRG7XHpI-6adba9775824d",
-    "page": "https://booking.rockycoastrentals.com/listings/557133",
-    "sha256": "f7dfdfffb4c978b19d77df70e97f224a826be660e719d1ee31fdda914c07e555",
-    "width": 1280,
-    "height": 1496,
-    "original": "cache/operator-photo-originals/f7dfdfffb4c978b19d77df70e97f224a826be660e719d1ee31fdda914c07e555.jpg"
-   },
-   {
-    "file": "images/ME-0445-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-557133-dzTD1CISfC-hRoiN4Ksy0b--FA7XH31VLIM2gmPO3iu0-6adba97a9e558",
-    "page": "https://booking.rockycoastrentals.com/listings/557133",
-    "sha256": "476fcb70a1cc20abb9f6291ebff24c7677ca19a8c5853063a348966f2503eb58",
-    "width": 1280,
-    "height": 1393,
-    "original": "cache/operator-photo-originals/476fcb70a1cc20abb9f6291ebff24c7677ca19a8c5853063a348966f2503eb58.jpg"
-   },
-   {
-    "file": "images/ME-0445-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-557133-elwZyrMAiN0-S0psADeuANUnsV7dm2I1OL6vJhkptyE-6a5a94776b917",
-    "page": "https://booking.rockycoastrentals.com/listings/557133",
-    "sha256": "15aca4bd901a35ad8f0c0e3adc1075fdaf030574e48c4fbef94184c205a4a80d",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/15aca4bd901a35ad8f0c0e3adc1075fdaf030574e48c4fbef94184c205a4a80d.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -798,55 +290,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Family-run oceanfront seasonal RV campground on Southport Island, Maine, minutes from Boothbay Harbor. 50+ full-hookup RV sites plus weekly cottages.",
-  "descriptionSource": "https://www.graysoceancamping.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Family-run oceanfront seasonal RV campground on Southport Island, Maine, minutes from Boothbay Harbor. 50+ full-hookup RV sites plus weekly cottages.",
-  "cardDescriptionSource": "https://www.graysoceancamping.com/",
   "cardPhotos": [
    "images/ME-0100-cover.jpg",
    "images/ME-0100-000.jpg",
    "images/ME-0100-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0100-card.webp",
   "lat": 43.81185,
   "lng": -69.65426,
-  "photo": "images/ME-0100-card.webp",
-  "coverPhoto": "images/ME-0100-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0100-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0100-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0100-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0100-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0100-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -860,55 +318,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Harborfields On The Shore is your family-friendly, pet-friendly, and boater-friendly vacation destination (mid-May to mid-October), with ten distinct vacation cottages, each with its own special water view. Located on the west side of Boothbay Harbor, Maine.",
-  "descriptionSource": "https://harborfields.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Harborfields On The Shore is your family-friendly, pet-friendly, and boater-friendly vacation destination (mid-May to mid-October), with ten…",
-  "cardDescriptionSource": "https://harborfields.com/",
   "cardPhotos": [
    "images/ME-0116-cover.jpg",
    "images/ME-0116-000.jpg",
    "images/ME-0116-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "3–10 per cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes — family-oriented",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0116-card.webp",
   "lat": 43.8503,
   "lng": -69.6418,
-  "photo": "images/ME-0116-card.webp",
-  "coverPhoto": "images/ME-0116-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0116-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0116-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0116-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0116-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -922,94 +346,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Located directly on the water in Bayville, Linekin Lodge is a beautiful 3-bedroom, 2-bathroom cottage with breathtaking water views from every room. As you enter the house you will be welcomed by the floor to ceiling windows that show off a panoramic view of the Bay. Directly in front of the house is a private dock and mooring for your boat or kayak. Bayville is a sub community within Boothbay Harbor that sits at the head of Linekin Bay and is conveniently located just a few miles from the buzz of downtown.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/171371",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Located directly on the water in Bayville, Linekin Lodge is a beautiful 3-bedroom, 2-bathroom cottage with breathtaking water views from every room…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/171371",
   "cardPhotos": [
    "images/ME-0433-cover.jpg",
    "images/ME-0433-000.jpg",
    "images/ME-0433-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 6,
-  "capacityDetails": "6",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0433-card.webp",
   "lat": 43.85892,
   "lng": -69.60084,
-  "photo": "images/ME-0433-card.webp",
-  "coverPhoto": "images/ME-0433-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0433-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-171371-gsLUatsc6kDcPhLM3n8mZERpaBgFaKx0gXYde94eFRY-647be49f8820e",
-    "page": "https://booking.rockycoastrentals.com/listings/171371",
-    "sha256": "9d9b4dff31841624fbd5f2d4030f1992fdf384785751cef95abd2c8d48c64687",
-    "width": 1280,
-    "height": 853,
-    "original": "cache/operator-photo-originals/82a59ff2fb023bcf16734e112b2bc405685615450231c32b53392995cce4d0ec.jpg",
-    "originalSha256": "82a59ff2fb023bcf16734e112b2bc405685615450231c32b53392995cce4d0ec",
-    "originalWidth": 1280,
-    "originalHeight": 853
-   },
-   {
-    "file": "images/ME-0433-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-171371-S0JUrZLlyubLlsuS5Ij9i1hyUf-AKdaKl--CESzTDPcw-647be47b4c32d",
-    "page": "https://booking.rockycoastrentals.com/listings/171371",
-    "sha256": "fa2770bbc7a0de6872455a48b941bbc83d894e80c5f91217cee08d9337ae1331",
-    "width": 1280,
-    "height": 852,
-    "original": "cache/operator-photo-originals/1a1f5ff46791956fe3dfd1a9ba93075d8e9fea552c0896304a2eac7a09fa9bdb.jpg",
-    "originalSha256": "1a1f5ff46791956fe3dfd1a9ba93075d8e9fea552c0896304a2eac7a09fa9bdb",
-    "originalWidth": 1280,
-    "originalHeight": 852
-   },
-   {
-    "file": "images/ME-0433-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-171371-0sX9jzx7OtJd7kbkYtj59gGIZqJMJeYL1X5sEJgfikA-647be48901b45",
-    "page": "https://booking.rockycoastrentals.com/listings/171371",
-    "sha256": "8a920fe5a04236f2d362b8a9dffdffaff632e6e81a66a2eac2a1a2630502b578",
-    "width": 1280,
-    "height": 852,
-    "original": "cache/operator-photo-originals/cf100d7fb35f670280d2cf26ab9f95a7321ccaa4c1d4714a924086fa0a4434ec.jpg",
-    "originalSha256": "cf100d7fb35f670280d2cf26ab9f95a7321ccaa4c1d4714a924086fa0a4434ec",
-    "originalWidth": 1280,
-    "originalHeight": 852
-   },
-   {
-    "file": "images/ME-0433-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-171371-soeEcfo8f0sAg8gHRrtYWOE2N-FUns29xx0QTjZwcVQ-647c8553e6427",
-    "page": "https://booking.rockycoastrentals.com/listings/171371",
-    "sha256": "7c1daa605b1ede53b587b26cb24ba42872f97516ae1fde8486fb95420e9d7be7",
-    "width": 1280,
-    "height": 853,
-    "original": "cache/operator-photo-originals/f6c452db57aef3c56e6586ff24ae57b74a7fb8dfe632c713e6a4a6b909df03ab.jpg",
-    "originalSha256": "f6c452db57aef3c56e6586ff24ae57b74a7fb8dfe632c713e6a4a6b909df03ab",
-    "originalWidth": 1280,
-    "originalHeight": 853
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1023,57 +374,21 @@
   "destination": "Boothbay Harbor",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Whether you’re planning a relaxing retreat, a romantic getaway, or an unforgettable family vacation, we offer a selection of charming apartments, vacation homes, cozy cottages, and classic waterfront estates to suit your needs.",
-  "descriptionSource": "https://mainelandvacationrentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Whether you’re planning a relaxing retreat, a romantic getaway, or an unforgettable family vacation, we offer a selection of charming apartments…",
-  "cardDescriptionSource": "https://mainelandvacationrentals.com/",
   "cardPhotos": [
    "images/ME-0240-cover.jpg",
    "images/ME-0240-000.jpg",
    "images/ME-0240-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family vacations promoted",
-  "petsDetails": "Varies — site has Pet Friendly category",
+  "photo": "images/ME-0240-card.webp",
   "lat": 43.8513,
   "lng": -69.6278,
-  "photo": "images/ME-0240-card.webp",
-  "coverPhoto": "images/ME-0240-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0240-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0240-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0240-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0240-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1088,88 +403,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Experience the magic of Linekin Bay at Moon Tide Cottage, where mesmerizing full-moon high tides bring the water to the top of the seawall. Professionally managed by Rocky Coast Rentals. Nestled in the peaceful Murray Hill community, this lovingly renovated cottage offers sun-drenched ocean views from the main bedroom, a cozy living room with a picture window overlooking the bay, and a deck perfect for sipping coffee and watching the boats. Explore the nearby preserves, enjoy water activities from the private beach at low tide or community dock, or simply unwind in a hammock by the shore.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/320144",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Experience the magic of Linekin Bay at Moon Tide Cottage, where mesmerizing full-moon high tides bring the water to the top of the seawall…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/320144",
   "cardPhotos": [
    "images/ME-0436-cover.jpg",
    "images/ME-0436-000.jpg",
    "images/ME-0436-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0436-card.webp",
   "lat": 43.86114,
   "lng": -69.59299,
-  "photo": "images/ME-0436-card.webp",
-  "coverPhoto": "images/ME-0436-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0436-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-320144-yBwpXK41YbcCATwgFca1lUnzubXEeMPmZe8xJXxUdyg-682b3a25dda22",
-    "page": "https://booking.rockycoastrentals.com/listings/320144",
-    "sha256": "bb73a80a0be0656eff90d2b93253db0120e5c4b9c5ff4c50e5ca2014ea88ecd9",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/d6fcd7d008298f202306e64672f5daccb79b7b778e6ace1570ad08ef01d37aa2.jpg",
-    "originalSha256": "d6fcd7d008298f202306e64672f5daccb79b7b778e6ace1570ad08ef01d37aa2",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0436-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-320144-x8sx-1gFCr6TkvNNmNcBd5XxZzHWwcxpoAF9zWCStiE-6717e342a0fc9",
-    "page": "https://booking.rockycoastrentals.com/listings/320144",
-    "sha256": "476c6286be190f1c964eb58684a20288b15b84b6472355012317d399e6b894d8",
-    "width": 1280,
-    "height": 854,
-    "original": "cache/operator-photo-originals/476c6286be190f1c964eb58684a20288b15b84b6472355012317d399e6b894d8.jpg"
-   },
-   {
-    "file": "images/ME-0436-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-320144-ePAPwov6AMOGXtbbE6Zh5FZIdCyNqJwoabtbR3Jb73I-6717e34ab03e6",
-    "page": "https://booking.rockycoastrentals.com/listings/320144",
-    "sha256": "5d3bc896d5de28aa0d0f7ebf57a372c9422340368d322f764b233dd61d03adfe",
-    "width": 1280,
-    "height": 854,
-    "original": "cache/operator-photo-originals/3e0421a6c33f33b09bd03af351ca639ece63874e85d799957564b1788e0a11cd.jpg",
-    "originalSha256": "3e0421a6c33f33b09bd03af351ca639ece63874e85d799957564b1788e0a11cd",
-    "originalWidth": 1280,
-    "originalHeight": 854
-   },
-   {
-    "file": "images/ME-0436-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-320144-KUx4eHI3VgaDu23RFMqlafLIPRdipAZ24FJLWDxqeQY-682b393dc8f12",
-    "page": "https://booking.rockycoastrentals.com/listings/320144",
-    "sha256": "d05783639f23784b90ea012d76cf4ed95811e97a91fdb0885d174d8d03e47043",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/d05783639f23784b90ea012d76cf4ed95811e97a91fdb0885d174d8d03e47043.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1183,91 +431,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Welcome to Nell’s Watch, your serene waterfront getaway in beautiful Boothbay Harbor on Spruce Point. This exquisite property showcases stunning views and direct access to the water, featuring 200 feet of deep-water frontage perfect for boating enthusiasts. While the dock was temporarily impacted by the 2024 storm, rest assured that marina options are conveniently located nearby and we have two moorings out back. Step inside the main house, where modern comfort meets classic elegance. The spacious living area boasts post and beam cathedral ceilings, enhanced by a cozy gas fireplace that creates a warm, inviting atmosphere.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/427524",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Welcome to Nell’s Watch, your serene waterfront getaway in beautiful Boothbay Harbor on Spruce Point. This exquisite property showcases stunning…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/427524",
   "cardPhotos": [
    "images/ME-0440-cover.jpg",
    "images/ME-0440-000.jpg",
    "images/ME-0440-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 5,
   "bathrooms": 4,
-  "guests": 10,
-  "capacityDetails": "10",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0440-card.webp",
   "lat": 43.83188,
   "lng": -69.61618,
-  "photo": "images/ME-0440-card.webp",
-  "coverPhoto": "images/ME-0440-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0440-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427524-MSc0x7jK5gV7Cg12v49uJbvQF1ThE7Ciaoci7vptqJw-68d56f75b76ac",
-    "page": "https://booking.rockycoastrentals.com/listings/427524",
-    "sha256": "ee06351ff97d37dd7c141811f55b0d675030553bae04b662dcd72446487066c1",
-    "width": 1331,
-    "height": 900,
-    "original": "cache/operator-photo-originals/ee06351ff97d37dd7c141811f55b0d675030553bae04b662dcd72446487066c1.jpg"
-   },
-   {
-    "file": "images/ME-0440-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427524-lsmNNPJc22gJfHoM9bqod5wYc8Uh--qvOvsDdRskfP10-68c9e558e30b6",
-    "page": "https://booking.rockycoastrentals.com/listings/427524",
-    "sha256": "d9ee88a6b0d5793967c2368452a11450d40bbb3e3bc883c04768d044b1102e61",
-    "width": 1200,
-    "height": 1600,
-    "original": "cache/operator-photo-originals/b99b38a51235d652896a39a15049b10e6aee19e220d9aab0733dd1badf531fdc.jpg",
-    "originalSha256": "b99b38a51235d652896a39a15049b10e6aee19e220d9aab0733dd1badf531fdc",
-    "originalWidth": 1280,
-    "originalHeight": 1706
-   },
-   {
-    "file": "images/ME-0440-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427524-jGTFjxt1wVaSIiY1291I5sqIZA--ZwBNSN5ZUgo3--XEE-68c9e55b6025a",
-    "page": "https://booking.rockycoastrentals.com/listings/427524",
-    "sha256": "67d732f0954c6bb14971b5f32f589440e2f37a5c256cc7e0024c7c883ba9e783",
-    "width": 1200,
-    "height": 1600,
-    "original": "cache/operator-photo-originals/1565a77ac03127c6e193ba7353103dabc32ed5caaac41f18e652a09c4b7be067.jpg",
-    "originalSha256": "1565a77ac03127c6e193ba7353103dabc32ed5caaac41f18e652a09c4b7be067",
-    "originalWidth": 1280,
-    "originalHeight": 1706
-   },
-   {
-    "file": "images/ME-0440-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427524-O33RF9W--KmXXuJFdSefVRz7IXRtk2wxDdNtioAjqiuA-68c9e55e3147d",
-    "page": "https://booking.rockycoastrentals.com/listings/427524",
-    "sha256": "4c2cc7c05d8962351ac64f9d792fd210d73715080387ba7b5ab2b674be3b72cf",
-    "width": 1200,
-    "height": 1600,
-    "original": "cache/operator-photo-originals/e1b02bdd5171103b9df8507230d0e20172309438869293b0cd24234e56aed6af.jpg",
-    "originalSha256": "e1b02bdd5171103b9df8507230d0e20172309438869293b0cd24234e56aed6af",
-    "originalWidth": 1280,
-    "originalHeight": 1706
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1281,88 +459,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Nestled along the northwestern cove of Lewis Cove, sits a beautiful five-bedroom, four-bathroom ocean front retreat. Outfitted with new furniture both inside and out, you will relax to the sounds of ocean waves and lobster boats. When entering the property, you’ll walk down two flights of stairs that lead to an open concept living and dining room facing straight out at the bay. Entertain on the first-floor deck equipped with a 6 person, outdoor table, propane grill and breathtaking views while others enjoy a game of pool in the downstairs game room.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/229329",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Nestled along the northwestern cove of Lewis Cove, sits a beautiful five-bedroom, four-bathroom ocean front retreat. Outfitted with new furniture…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/229329",
   "cardPhotos": [
    "images/ME-0434-cover.jpg",
    "images/ME-0434-000.jpg",
    "images/ME-0434-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 5,
   "bathrooms": 4,
-  "guests": 10,
-  "capacityDetails": "10",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0434-card.webp",
   "lat": 43.8465,
   "lng": -69.61913,
-  "photo": "images/ME-0434-card.webp",
-  "coverPhoto": "images/ME-0434-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0434-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-229329-6isfSPgvODxIZfjkgpHI7n8Khm5--sIcWU--PlcPcy-jY-682e786a2934e",
-    "page": "https://booking.rockycoastrentals.com/listings/229329",
-    "sha256": "9a0179019fa833bbb59e9ca11cfc0ee51c73160f79d7e5013644f98af9ebdc23",
-    "width": 1351,
-    "height": 900,
-    "original": "cache/operator-photo-originals/4b165a5dcb384dd2441ad3095717345b1e1fe392913c6ccdcd3ea0843d29d0a5.jpg",
-    "originalSha256": "4b165a5dcb384dd2441ad3095717345b1e1fe392913c6ccdcd3ea0843d29d0a5",
-    "originalWidth": 1351,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0434-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-229329-n3IQ7n1DLxVRqRNdePvnzFw3RjHsOWrfLHlDO-thslk-682e78875ec92",
-    "page": "https://booking.rockycoastrentals.com/listings/229329",
-    "sha256": "53d5c924dc2d4b500afeec349c0b145d56c4029bf569186a26e05c3a700348bf",
-    "width": 1351,
-    "height": 900,
-    "original": "cache/operator-photo-originals/8733a10584b079bf29e8c84186255daea9399dfd79b24d869cbbc69f85f2d41a.jpg",
-    "originalSha256": "8733a10584b079bf29e8c84186255daea9399dfd79b24d869cbbc69f85f2d41a",
-    "originalWidth": 1351,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0434-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-229329--M7DDBngOzSAB-ltUXdKV54PjmzoIrl77qTp-n8qX1o-666f86f66a43e",
-    "page": "https://booking.rockycoastrentals.com/listings/229329",
-    "sha256": "8ad1d3f15162dd9651fe8e7c4466e6d998fd11fc9c17390e2abe5e53188c8f03",
-    "width": 1280,
-    "height": 853,
-    "original": "cache/operator-photo-originals/8ad1d3f15162dd9651fe8e7c4466e6d998fd11fc9c17390e2abe5e53188c8f03.jpg"
-   },
-   {
-    "file": "images/ME-0434-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-229329-Z6qx3rNqPkz02QIS32VaO3HeUOKtb7NxuF--sVd80CoY-666f86d88097f",
-    "page": "https://booking.rockycoastrentals.com/listings/229329",
-    "sha256": "5a5fd663a912974581a4a43d2cf4ac81c09ffcceffe681172b4beaf2326a5656",
-    "width": 1280,
-    "height": 853,
-    "original": "cache/operator-photo-originals/5a5fd663a912974581a4a43d2cf4ac81c09ffcceffe681172b4beaf2326a5656.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1376,88 +487,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "NEW Luxury 5BR Coastal Retreat in Ocean Point, Boothbay, Maine Discover your dream Maine getaway at this brand-new 5-bedroom, 4.5-bath luxury home in Ocean Point, Boothbay. Set between rugged rocky coastline and serene pine forests, this coastal escape offers sweeping ocean views, expansive decks, and designer interiors ideal for families, groups, or romantic retreats. Enjoy fresh lobster dinners, dramatic sunsets, and picturesque harbor views as boats glide by. Just minutes from Boothbay Harbor, explore scenic trails, private beaches, and local attractions, then return to the ultimate blend of boutique luxury and Maine charm.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/427036",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "NEW Luxury 5BR Coastal Retreat in Ocean Point, Boothbay, Maine Discover your dream Maine getaway at this brand-new 5-bedroom, 4.5-bath luxury home…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/427036",
   "cardPhotos": [
    "images/ME-0439-cover.jpg",
    "images/ME-0439-000.jpg",
    "images/ME-0439-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 12,
   "bedrooms": 5,
   "bathrooms": 4,
-  "guests": 12,
-  "capacityDetails": "12",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0439-card.webp",
   "lat": 43.82105,
   "lng": -69.60338,
-  "photo": "images/ME-0439-card.webp",
-  "coverPhoto": "images/ME-0439-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0439-cover.jpg",
-    "original": "cache/operator-photo-originals/2d02efd698d9563580132d877a0ce005343fcb98290a33c37089cce2eaad1210.jpg",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427036-6hq5GddnUITAlwisIRMTPFGpF8aJFI8Sj3Ga7m--hoJQ-68af22bb4e64f",
-    "page": "https://booking.rockycoastrentals.com/listings/427036",
-    "sha256": "cca0995060a4792899b9b546a1892b3dd4fe4427641b7eecab196229b81df561",
-    "width": 1350,
-    "height": 900,
-    "role": "cover",
-    "originalSha256": "2d02efd698d9563580132d877a0ce005343fcb98290a33c37089cce2eaad1210",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0439-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427036-K--ak8lNO5wQWy5GGLzr5He5BLwrXfyMZaE--O-JYWwo4-6a1ed79e4f27a",
-    "page": "https://booking.rockycoastrentals.com/listings/427036",
-    "sha256": "c5ab240219d1eb36952882dcd68deb97e4bd335a8d1dfcd787873089f323ac88",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/866336795c5bca3a7931964aad18021104d46568f934da244a8f613b548531e1.jpg",
-    "originalSha256": "866336795c5bca3a7931964aad18021104d46568f934da244a8f613b548531e1",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0439-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427036-jUTBu3Owmc4GLXxX6pphcvbNmbaTMiq9LPeBCWJZjjY-68b852254e794",
-    "page": "https://booking.rockycoastrentals.com/listings/427036",
-    "sha256": "4e9c8d128ad8f4959629a902727be958e5265803976a3fcfb78c4b2c4adbbcfa",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/4e9c8d128ad8f4959629a902727be958e5265803976a3fcfb78c4b2c4adbbcfa.jpg"
-   },
-   {
-    "file": "images/ME-0439-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-427036-IeohYjc7iMDoa89GO8b0miSAHu-mo3B0oWV6UloVRbA-68b84e964b36a",
-    "page": "https://booking.rockycoastrentals.com/listings/427036",
-    "sha256": "9b745a72546533b08420a5daad2b6a868d6f2b4fb917b89f51d619dcb4c740c8",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/9b745a72546533b08420a5daad2b6a868d6f2b4fb917b89f51d619dcb4c740c8.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1471,55 +515,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Modern short-term accommodations in Boothbay Harbor, Maine. Your getaway begins here. A lovely private newly renovated cottage with 1 bath waiting to host friendly people. With beautiful light, bathroom, kitchen, and tall open ceilings. Book now online or call us at 207-200-1116.",
-  "descriptionSource": "https://www.powderhillfarm.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Modern short-term accommodations in Boothbay Harbor, Maine. Your getaway begins here. A lovely private newly renovated cottage with 1 bath waiting…",
-  "cardDescriptionSource": "https://www.powderhillfarm.com",
   "cardPhotos": [
    "images/ME-0135-cover.webp",
    "images/ME-0135-000.webp",
    "images/ME-0135-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 2,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 2,
-  "capacityDetails": "2",
-  "priceFrom": "Unknown",
-  "priceDetails": "Three-night off-peak or five-night peak minimum; numeric nightly rate not displayed",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No — explicit property rule",
+  "photo": "images/ME-0135-card.webp",
   "lat": 43.85058,
   "lng": -69.64925,
-  "photo": "images/ME-0135-card.webp",
-  "coverPhoto": "images/ME-0135-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0135-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0135-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0135-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0135-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1533,94 +543,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "**Rice Point - Waterfront Luxury** Situated on 4000 square feet on a picturesque waterfront cove, this magnificent Northeastern estate is emblematic of the charms and luxuries that make East Boothbay such a coveted summer destination. With four luxurious bedrooms and a mix of modern amenities and Victorian style, you’re sure to have the summer getaway of your dreams! The interiors of this home are designed to invite ample amounts of natural light to fill up an already bright and airy space.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/413954",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "**Rice Point - Waterfront Luxury** Situated on 4000 square feet on a picturesque waterfront cove, this magnificent Northeastern estate is emblematic…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/413954",
   "cardPhotos": [
    "images/ME-0438-cover.jpg",
    "images/ME-0438-000.jpg",
    "images/ME-0438-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 12,
   "bedrooms": 4,
   "bathrooms": 5,
-  "guests": 12,
-  "capacityDetails": "12",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0438-card.webp",
   "lat": 43.87205,
   "lng": -69.58784,
-  "photo": "images/ME-0438-card.webp",
-  "coverPhoto": "images/ME-0438-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0438-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-413954-612nJmIfWeFFKLtdUvUS0KX5eu-HrfkA0ljx4--uyQ04-689a921b36ca4",
-    "page": "https://booking.rockycoastrentals.com/listings/413954",
-    "sha256": "97c4136cc8f53d00959f7002e9bce5d7d81f0d8d1c93ca05c4893b2b18db8724",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/eaa79c75d028293cc5c0f04fd9df7fa1cd627629dca6d8539561cf805df4e4f6.jpg",
-    "originalSha256": "eaa79c75d028293cc5c0f04fd9df7fa1cd627629dca6d8539561cf805df4e4f6",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0438-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-413954-YmddpbTYyOt3PsT--unqIzXEGYN9LKsKAUeerUbmkGpQ-689a8072a4c6c",
-    "page": "https://booking.rockycoastrentals.com/listings/413954",
-    "sha256": "7a288446cf68325b87633708e98c8e25e9d7298c08f63f739f86fa6553a69147",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/727dd2f139dd5073499502aa72bbaae9f6a5d3c8e4676164b2f33a33210dd6ee.jpg",
-    "originalSha256": "727dd2f139dd5073499502aa72bbaae9f6a5d3c8e4676164b2f33a33210dd6ee",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0438-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-413954-V97eQl5EqpuKoQiJtFwmyx7--rqaZuJ6IUI54JFhK---o-689a7fb643c31",
-    "page": "https://booking.rockycoastrentals.com/listings/413954",
-    "sha256": "020f12db6c26256a37e8cfaaa3b47fb29a90b43f8d1ce774c23de919b4009a41",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/5428a0a938607ecc73ac797366cf8e06e3d2cee70a41411117c47ef9976802b1.jpg",
-    "originalSha256": "5428a0a938607ecc73ac797366cf8e06e3d2cee70a41411117c47ef9976802b1",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0438-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-413954-ELAQFaf--2i1Tp3W55kH6ZgCSEhAyChgjNAACvVmV7h0-689a7fb952c66",
-    "page": "https://booking.rockycoastrentals.com/listings/413954",
-    "sha256": "5dcf90bc9435d9d6015cef205b4e5179990bcb681fb28f0603776ffdb00f4746",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/bf0edc804db050bc4841669c1b6966e25b09bdf8c1dfb363a2817d9e356a0da2.jpg",
-    "originalSha256": "bf0edc804db050bc4841669c1b6966e25b09bdf8c1dfb363a2817d9e356a0da2",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1634,94 +571,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Secluded Four-Bedroom Waterfront Retreat Discover your own slice of paradise with this stunning four-bedroom home nestled on the Back Bay River, just across from the Ovens Mouth Preserve. This property offers the perfect blend of tranquility and modern amenities, making it an ideal getaway for families or friends seeking solitude and natural beauty. Home Features: - Bedrooms: Four charming bedrooms, including one king, one queen, one full and one room with a full and a twin bed. Enjoy serene river views from the queen bedroom.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/322529",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Secluded Four-Bedroom Waterfront Retreat Discover your own slice of paradise with this stunning four-bedroom home nestled on the Back Bay River…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/322529",
   "cardPhotos": [
    "images/ME-0437-cover.jpg",
    "images/ME-0437-000.jpg",
    "images/ME-0437-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 3,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes",
-  "petsDetails": "No",
+  "photo": "images/ME-0437-card.webp",
   "lat": 43.93586,
   "lng": -69.64404,
-  "photo": "images/ME-0437-card.webp",
-  "coverPhoto": "images/ME-0437-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0437-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-322529-yVn-O9cxR5FzAGU8IhC0Y04rog5N-gZ-nExMKSoyUok-683a271dee741",
-    "page": "https://booking.rockycoastrentals.com/listings/322529",
-    "sha256": "564a5abb1180acbe0d11b4b45651b04a6871880b648c2be6130ba585a5a994e2",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/84d795abeb529c9df2bc7b73fa8e8c6b99d44fcf8150c06ce4ad5ce030fbc19b.jpg",
-    "originalSha256": "84d795abeb529c9df2bc7b73fa8e8c6b99d44fcf8150c06ce4ad5ce030fbc19b",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0437-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-322529-yLlwV7bN1Gyo3Kot8UEpIwdxqIo0GpBBalbctWWhS2U-683a2724a5318",
-    "page": "https://booking.rockycoastrentals.com/listings/322529",
-    "sha256": "0ba3dc32e228819ad8b09fc0ba0b65ce439f3bdb68694b171d2e9f805a2721bd",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/4f30a9b36bb73a7ef756fa4e997412a3a5ca8d3f0ceec86acd5b1f7bcc8a75e6.jpg",
-    "originalSha256": "4f30a9b36bb73a7ef756fa4e997412a3a5ca8d3f0ceec86acd5b1f7bcc8a75e6",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0437-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-322529-Ak7eOMPXsR10WnLNxBdwM9NImC0HmHMGapwU9mwxdeM-683a272a0dd8b",
-    "page": "https://booking.rockycoastrentals.com/listings/322529",
-    "sha256": "787c025b0826329db9824baae6407a6391f2c6dc4829eff65c4a3cf42ae032fd",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/cd203221f477d22a029e2bd36d54bd1d3cf7bf00150a88ac3f1f03c488b5d038.jpg",
-    "originalSha256": "cd203221f477d22a029e2bd36d54bd1d3cf7bf00150a88ac3f1f03c488b5d038",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0437-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-322529-cv02kO8W5RcosuXFtqaTkAutoWYuK--ArOzmAv7Th79Q-683a27306ddee",
-    "page": "https://booking.rockycoastrentals.com/listings/322529",
-    "sha256": "41466e1bab091c588ba1df73e1b4c36e9aa4227a72d280c599538dbc7e499f48",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/14ea3a6a5abb8af4a6c5307fe5938211665adb41dc217eb238551098a9f266e7.jpg",
-    "originalSha256": "14ea3a6a5abb8af4a6c5307fe5938211665adb41dc217eb238551098a9f266e7",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1735,57 +599,21 @@
   "destination": "Boothbay Harbor",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Don't Just Visit, Sea Maine - Live like a Local Are you tired of the typical tourist experience? Do you yearn to immerse yourself in the local culture and truly understand the essence of a place? Then it’s time to step off the beaten path and start living like a local! Discover the hidden gems,",
-  "descriptionSource": "https://www.seamaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Don't Just Visit, Sea Maine - Live like a Local Are you tired of the typical tourist experience? Do you yearn to immerse yourself in the local…",
-  "cardDescriptionSource": "https://www.seamaine.com/",
   "cardPhotos": [
    "images/ME-0241-cover.jpg",
    "images/ME-0241-000.jpg",
    "images/ME-0241-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0241-card.webp",
   "lat": 43.8513,
   "lng": -69.6278,
-  "photo": "images/ME-0241-card.webp",
-  "coverPhoto": "images/ME-0241-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0241-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0241-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0241-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0241-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0241-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1800,55 +628,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Seanook Cottage Rentals offers two charming East Boothbay vacation cottages on the seaside shore of Linekin Bay, Maine. Floor to ceiling windows bring the outside in; ocean, garden, and sunset views are all spectacular. This coastal cottage vacation experience keeps many of our guests rebooking year after year.",
-  "descriptionSource": "https://seanookcottagerentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Seanook Cottage Rentals offers two charming East Boothbay vacation cottages on the seaside shore of Linekin Bay, Maine. Floor to ceiling windows…",
-  "cardDescriptionSource": "https://seanookcottagerentals.com/",
   "cardPhotos": [
    "images/ME-0153-cover.jpg",
    "images/ME-0153-000.jpg",
    "images/ME-0153-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "4–6 by cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,390–$4,000/week; $200–$330/night for selected dates Seanook and Paradise season/pricing varies; dogs $350 each (partly refundable); amounts from posted website, date/year not indicated",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family stays featured",
-  "petsDetails": "Yes — dogs only (max 2 Seanook; max 1 Paradise); fee/deposit",
+  "photo": "images/ME-0153-card.webp",
   "lat": 43.85798,
   "lng": -69.59078,
-  "photo": "images/ME-0153-card.webp",
-  "coverPhoto": "images/ME-0153-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0153-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0153-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0153-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0153-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0153-logo.svg",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1862,88 +656,21 @@
   "destination": "Boothbay Harbor",
   "type": "House",
   "recordType": "Property",
-  "description": "Experience the best of Boothbay Harbor from this charming Cape-style home perfectly situated on the desirable east side of town. Just a short walk to the waterfront, shops, restaurants, boat tours, and local attractions, this home blends classic Maine charm with modern comfort—making it an ideal getaway for couples, families, and small groups. This is also a pet friendly home! Inside, the home features a bright and welcoming layout with comfortable furnishings and thoughtful amenities. The primary bedroom includes a luxurious split king adjustable bed, generous storage, and A/C for added comfort.",
-  "descriptionSource": "https://booking.rockycoastrentals.com/listings/507581",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Experience the best of Boothbay Harbor from this charming Cape-style home perfectly situated on the desirable east side of town. Just a short walk…",
-  "cardDescriptionSource": "https://booking.rockycoastrentals.com/listings/507581",
   "cardPhotos": [
    "images/ME-0444-cover.jpg",
    "images/ME-0444-000.jpg",
    "images/ME-0444-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed",
-   "operator contact address"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": 2,
   "bathrooms": 2,
-  "guests": 5,
-  "capacityDetails": "5",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0444-card.webp",
   "lat": 43.8461,
   "lng": -69.62311,
-  "photo": "images/ME-0444-card.webp",
-  "coverPhoto": "images/ME-0444-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0444-cover.jpg",
-    "role": "cover",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-507581-X--3plbqH31OE--dd1hvukEnRnyj2VqRM0b-AsWZtcIgE-6a086ac8ee5d4",
-    "page": "https://booking.rockycoastrentals.com/listings/507581",
-    "sha256": "1c36f9080daefffc33d308eebf992775b72fb4e05965beb4a69f6b716c8d58f4",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/45c46216596dfc804b97c512e0388577b6c7fbf5f4ffd2a7e1d80e4a7e69dae1.jpg",
-    "originalSha256": "45c46216596dfc804b97c512e0388577b6c7fbf5f4ffd2a7e1d80e4a7e69dae1",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0444-000.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-507581-Ntj2cwkvuDgkGSFjdmXWlUprsG65j3ehleX989aZveA-6a086ad0764ae",
-    "page": "https://booking.rockycoastrentals.com/listings/507581",
-    "sha256": "1a44771ba74029b19fb3350617998221d33f5dfbdb9e1e705221e3c375b3f4fc",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/1a44771ba74029b19fb3350617998221d33f5dfbdb9e1e705221e3c375b3f4fc.jpg"
-   },
-   {
-    "file": "images/ME-0444-001.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-507581-wd-Vcti73UyZktDxbYvt8oBcRI5E8fWepsPP2v8vx6Q-6a086ac63d2ed",
-    "page": "https://booking.rockycoastrentals.com/listings/507581",
-    "sha256": "55fff872503fdb00fd03c32ca05e526691119470e43002de9790e74738bd6205",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/fe2d2e85f25f524316174e88a97ef873450524c9ff2e179a03925ea24888b739.jpg",
-    "originalSha256": "fe2d2e85f25f524316174e88a97ef873450524c9ff2e179a03925ea24888b739",
-    "originalWidth": 1350,
-    "originalHeight": 900
-   },
-   {
-    "file": "images/ME-0444-002.jpg",
-    "role": "photo",
-    "url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/38205-507581-5iCSWO3HjzDEyeoCJ2bAK-6BW3yP2GNBDKgNisHtlng-6a086accd5aa4",
-    "page": "https://booking.rockycoastrentals.com/listings/507581",
-    "sha256": "a97fa4d7f863edae0749a5809fb7b093f1b3badd2e5d2160e868759dad78dbbc",
-    "width": 1350,
-    "height": 900,
-    "original": "cache/operator-photo-originals/a97fa4d7f863edae0749a5809fb7b093f1b3badd2e5d2160e868759dad78dbbc.jpg"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  }

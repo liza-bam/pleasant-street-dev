@@ -9,75 +9,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Acadia Access Cottage has six bedrooms and accommodates groups of up to twenty-one in Seal Harbor. Alongside nearby beach and carriage-road access, guests have a games room, gym, and fire pit.",
-  "descriptionSource": "https://acadiavacationrentals.com/acadia-trailside-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Acadia Access Cottage has six bedrooms and accommodates groups of up to twenty-one in Seal Harbor. Alongside nearby beach and carriage-road access…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/acadia-trailside-cottage/",
   "cardPhotos": [
    "images/ME-0371-cover.jpg",
    "images/ME-0371-000.jpg",
    "images/ME-0371-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 21,
   "bedrooms": 6,
   "bathrooms": 4.5,
-  "guests": 21,
-  "capacityDetails": "21",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0371-card.webp",
   "lat": 44.30749,
   "lng": -68.24273,
-  "photo": "images/ME-0371-card.webp",
-  "coverPhoto": "images/ME-0371-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0371-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6B5QTT03387QB7XS6W1/raw?1792610643",
-    "page": "https://www.savvy.com/listings/acadia-access-cottage-seal-harbor-maine-Qbvq",
-    "sha256": "218ba4b04ef327c4832f19503185669a92b38531fed1fbff3eb7492b1c27a922",
-    "width": 1200,
-    "height": 802
-   },
-   {
-    "file": "images/ME-0371-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6B71X0ADGMJ1PDCGNAK/raw?1792610643",
-    "page": "https://www.savvy.com/listings/acadia-access-cottage-seal-harbor-maine-Qbvq",
-    "sha256": "8d06dc1559869a0e61640bf8e4dc3bd0a4d19598e710d13fa3e469145b574d61",
-    "width": 926,
-    "height": 620
-   },
-   {
-    "file": "images/ME-0371-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6BAWV7PXVX4VPX82R9J/raw?1792610643",
-    "page": "https://www.savvy.com/listings/acadia-access-cottage-seal-harbor-maine-Qbvq",
-    "sha256": "4999e836ca0d06226ced335b3a3d8d4a25407d31cb949131c3523757b3758442",
-    "width": 899,
-    "height": 608
-   },
-   {
-    "file": "images/ME-0371-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6BBKGKVCGPV5EED6TTX/raw?1792610643",
-    "page": "https://www.savvy.com/listings/acadia-access-cottage-seal-harbor-maine-Qbvq",
-    "sha256": "a060f123fdecb437df47d01841fcb3e7b55deb37edebf16f0312bab49ba811ab",
-    "width": 1200,
-    "height": 800
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -91,57 +37,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Book now to secure Acadia Cottage Rentals Maine with ACRI for cozy, private weeklong stays near Acadia National Park. Pick village, ocean, and lake options.",
-  "descriptionSource": "https://acadiacottage.rentals/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Book now to secure Acadia Cottage Rentals Maine with ACRI for cozy, private weeklong stays near Acadia National Park. Pick village, ocean, and lake…",
-  "cardDescriptionSource": "https://acadiacottage.rentals/",
   "cardPhotos": [
    "images/ME-0122-cover.jpg",
    "images/ME-0122-000.jpg",
    "images/ME-0122-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Unknown",
-  "kidsDetails": "Varies by cottage — operator manages multiple properties",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0122-card.webp",
   "lat": 44.3876,
   "lng": -68.2043,
-  "photo": "images/ME-0122-card.webp",
-  "coverPhoto": "images/ME-0122-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0122-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0122-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0122-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0122-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0122-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -156,57 +66,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Acadia Dreamscape is a VRBO near Acadia National Park. All the comforts of home provided in this 2B cottage nestled among woods.",
-  "descriptionSource": "https://acadiadreamscape.wixsite.com/website",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Acadia Dreamscape is a VRBO near Acadia National Park. All the comforts of home provided in this 2B cottage nestled among woods.",
-  "cardDescriptionSource": "https://acadiadreamscape.wixsite.com/website",
   "cardPhotos": [
    "images/ME-0207-cover.jpg",
    "images/ME-0207-000.jpg",
    "images/ME-0207-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": 5,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 5,
-  "capacityDetails": "5",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,800–$4,000/week Weekly seasonal range shown by host; winter rental also offered for $1,000/month + utilities",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes — described as perfect for families",
-  "petsDetails": "No — pet-free property",
+  "photo": "images/ME-0207-card.webp",
   "lat": 44.2798,
   "lng": -68.3259,
-  "photo": "images/ME-0207-card.webp",
-  "coverPhoto": "images/ME-0207-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0207-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0207-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0207-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0207-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0207-logo.avif",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -220,55 +94,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Vacation headquarters while you explore Acadia National Park and Mount Desert Island. All the comforts of home in the beauty of Acadia National Park.",
-  "descriptionSource": "https://acadiagetaway.com/home",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Vacation headquarters while you explore Acadia National Park and Mount Desert Island. All the comforts of home in the beauty of Acadia National Park.",
-  "cardDescriptionSource": "https://acadiagetaway.com/home",
   "cardPhotos": [
    "images/ME-0123-cover.jpg",
    "images/ME-0123-000.jpg",
    "images/ME-0123-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2 (cabin); 6 (house)",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,100–$1,800/week (house) House seasons May–Oct; cabin priced separately and not confirmed; posted rates year unspecified",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes (house marketed for families)",
-  "petsDetails": "No",
+  "photo": "images/ME-0123-card.webp",
   "lat": 44.37843,
   "lng": -68.27567,
-  "photo": "images/ME-0123-card.webp",
-  "coverPhoto": "images/ME-0123-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0123-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0123-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0123-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0123-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -282,57 +122,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Experience coastal luxury at Acadia Horizon Cottage, a premier vacation rental in Southwest Harbor, Maine. Nestled on the waterfront near Acadia National Park, this stunning home offers breathtaking ocean and mountain views, air conditioning, and serene comfort. Enjoy spacious living areas, gourmet kitchen, and scenic waterfront access perfect for relaxation or adventure. Discover the beauty of Maine’s rugged coastline while connecting with family in comfort. Book your unforgettable waterfront escape today!",
-  "descriptionSource": "https://acadiahorizoncottage.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Experience coastal luxury at Acadia Horizon Cottage, a premier vacation rental in Southwest Harbor, Maine. Nestled on the waterfront near Acadia…",
-  "cardDescriptionSource": "https://acadiahorizoncottage.com",
   "cardPhotos": [
    "images/ME-0208-cover.jpg",
    "images/ME-0208-000.jpg",
    "images/ME-0208-001.png"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "No numerical nightly rate visible without entering dates",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "No",
-  "kidsDetails": "Yes — family described on property page",
-  "petsDetails": "No",
+  "photo": "images/ME-0208-card.webp",
   "lat": 44.28727,
   "lng": -68.32851,
-  "photo": "images/ME-0208-card.webp",
-  "coverPhoto": "images/ME-0208-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0208-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0208-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0208-001.png",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0208-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0208-logo.jpg",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -346,81 +150,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Acadia Sound Cottage accommodates seven across two bedrooms near the national park's walking and cycling routes. After exploring Mount Desert Island, guests can return to a deck with a fire pit.",
-  "descriptionSource": "https://acadiavacationrentals.com/acadia-sound-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Acadia Sound Cottage accommodates seven across two bedrooms near the national park's walking and cycling routes. After exploring Mount Desert…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/acadia-sound-cottage/",
   "cardPhotos": [
    "images/ME-0366-cover.jpg",
    "images/ME-0366-000.jpg",
    "images/ME-0366-001.png"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 7,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 7,
-  "capacityDetails": "7",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0366-card.webp",
   "lat": 44.34073,
   "lng": -68.29796,
-  "photo": "images/ME-0366-card.webp",
-  "coverPhoto": "images/ME-0366-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0366-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W3BTY2SVE8B91C0Z84/raw?1792610641",
-    "page": "https://www.savvy.com/listings/acadia-sound-cottage-mount-desert-maine-ZhcM",
-    "sha256": "4dea89f68c057a37a6d389e0df6da2ca6889031afe068dbd0aebb4c301101ee3",
-    "width": 1164,
-    "height": 768
-   },
-   {
-    "file": "images/ME-0366-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W4EM79W0YDYEB6B742/raw?1792610641",
-    "page": "https://www.savvy.com/listings/acadia-sound-cottage-mount-desert-maine-ZhcM",
-    "sha256": "1192167458ecb97759d16bbe4808fc2dc351af56283bf04da4e9830c21646900",
-    "width": 1600,
-    "height": 900,
-    "originalSha256": "e04a5d33339dc573c758eb326fea55933c351833b800c007372e4200f0741b99",
-    "originalWidth": 1920,
-    "originalHeight": 1080
-   },
-   {
-    "file": "images/ME-0366-001.png",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W6XT77BA5XYC3FA0VC/raw?1792610641",
-    "page": "https://www.savvy.com/listings/acadia-sound-cottage-mount-desert-maine-ZhcM",
-    "sha256": "a9e95975a298c3dbe8f53f1c8543d636afb6968c5bd97b23576394ed8995dcd7",
-    "width": 1536,
-    "height": 1024,
-    "originalSha256": "6ceecc05f46bc1b90b43236eb429ef283180d240ed12bf62a97ec27cd30983b9",
-    "originalWidth": 1536,
-    "originalHeight": 1024
-   },
-   {
-    "file": "images/ME-0366-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W8JBDYN00BND0K55J4/raw?1792610641",
-    "page": "https://www.savvy.com/listings/acadia-sound-cottage-mount-desert-maine-ZhcM",
-    "sha256": "c25d4018df55a132495b769cab4d9daa9575258a9b3e882abdd3e2c89d253b05",
-    "width": 1152,
-    "height": 768
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -434,55 +178,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Stay in cozy, handcrafted cottages near Acadia NP. Perfect for families & pets. Book your getaway today!",
-  "descriptionSource": "https://www.acadiatimbercottages.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Stay in cozy, handcrafted cottages near Acadia NP. Perfect for families & pets. Book your getaway today!",
-  "cardDescriptionSource": "https://www.acadiatimbercottages.com/",
   "cardPhotos": [
    "images/ME-0112-cover.webp",
    "images/ME-0112-000.webp",
    "images/ME-0112-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0112-card.webp",
   "lat": 44.5008,
   "lng": -68.38242,
-  "photo": "images/ME-0112-card.webp",
-  "coverPhoto": "images/ME-0112-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0112-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0112-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0112-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0112-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0112-logo.svg",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -496,50 +206,21 @@
   "destination": "Acadia",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Acadia Yurts is a fun, coastal Maine Glamping vacation destination that offers luxury yurts for weekly rent, to travelers in search of a unique Acadia and Mount Desert Island experience.",
-  "descriptionSource": "https://www.acadiayurts.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Acadia Yurts is a fun, coastal Maine Glamping vacation destination that offers luxury yurts for weekly rent, to travelers in search of a unique…",
-  "cardDescriptionSource": "https://www.acadiayurts.com",
   "cardPhotos": [
    "images/cards/ME-0101-01.webp",
    "images/cards/ME-0101-02.webp",
    "images/cards/ME-0101-03.webp"
   ],
-  "cardPhotoLabel": "Photos: yurt interior",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–6 by unit (tiny house 2, 24-ft yurt 4, 30-ft yurt 6)",
-  "priceFrom": "Unknown",
-  "priceDetails": "Booking calendar required for actual lodging rates",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — pack-and-play and toys available",
-  "petsDetails": "Varies — only Flying and Sargent yurts allow dogs, $20/dog/day",
+  "photo": "images/ME-0101-card.webp",
   "lat": 44.28181,
   "lng": -68.35358,
-  "photo": "images/ME-0101-card.webp",
-  "coverPhoto": "images/ME-0101-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0101-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0101-000.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0101-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -553,57 +234,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Explore Ann's Point Cottages, offering waterfront rentals along Maine's coast, featuring charming cottages near Acadia National Park for your perfect getaway.",
-  "descriptionSource": "https://www.annspointcottages.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Explore Ann's Point Cottages, offering waterfront rentals along Maine's coast, featuring charming cottages near Acadia National Park for your…",
-  "cardDescriptionSource": "https://www.annspointcottages.com",
   "cardPhotos": [
    "images/ME-0102-cover.webp",
    "images/ME-0102-000.webp",
    "images/ME-0102-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–8 depending on cottage/home",
-  "priceFrom": "Unknown",
-  "priceDetails": "$250–$650/night (varies by unit/season) Boat House $250–$300/night; Tree House $250–$350/night; Home Port $350–$650/night; Pine Bluff $400–$600/night; seven-night peak-season minimum",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family stays mentioned in reviews",
-  "petsDetails": "Considered — case-by-case for listed units",
+  "photo": "images/ME-0102-card.webp",
   "lat": 44.2798,
   "lng": -68.3259,
-  "photo": "images/ME-0102-card.webp",
-  "coverPhoto": "images/ME-0102-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0102-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0102-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0102-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0102-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -618,57 +263,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "95 vacation cottages on Mount Desert Island, Maine. Oceanfront, lakefront, in-town Bar Harbor. Weekly rentals near Acadia National Park. No booking fees. Dogs welcome.",
-  "descriptionSource": "https://bhacr.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "95 vacation cottages on Mount Desert Island, Maine. Oceanfront, lakefront, in-town Bar Harbor. Weekly rentals near Acadia National Park. No booking…",
-  "cardDescriptionSource": "https://bhacr.com/",
   "cardPhotos": [
    "images/ME-0125-cover.jpg",
    "images/ME-0125-000.jpg",
    "images/ME-0125-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0125-card.webp",
   "lat": 44.3876,
   "lng": -68.2039,
-  "photo": "images/ME-0125-card.webp",
-  "coverPhoto": "images/ME-0125-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0125-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0125-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0125-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0125-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -682,53 +291,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Bass Harbor Cottages and Country Inn, Bass Harbor, Maine on 1st Traveler's Choice Travel and Lodging Directory of Bed and Breakfast, Country Inns, and Small Hotel.",
-  "descriptionSource": "https://bassharborcottages.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Bass Harbor Cottages and Country Inn, Bass Harbor, Maine on 1st Traveler's Choice Travel and Lodging Directory of Bed and Breakfast, Country Inns…",
-  "cardDescriptionSource": "https://bassharborcottages.com/",
   "cardPhotos": [
    "images/ME-0009-cover.jpg",
    "images/ME-0009-000.jpg",
    "images/ME-0009-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–5 depending on accommodation",
-  "priceFrom": "Unknown",
-  "priceDetails": "from $170/night; from $1,200/week (selected units) Boat House suite from $170/night; Pine Cottage from $250/night; Carriage House from $300/night; displayed May/Aug seasonal weekly prices from $1,200 to $2,800",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes — well-behaved children with supervision",
-  "petsDetails": "No — property-wide rule",
+  "photo": "images/ME-0009-card.webp",
   "lat": 44.24511,
   "lng": -68.34543,
-  "photo": "images/ME-0009-card.webp",
-  "coverPhoto": "images/ME-0009-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0009-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0009-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0009-001.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -742,49 +319,21 @@
   "destination": "Acadia",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Baycliff vacation rentals on Mount Desert Island feature a cottage with A/C and two cozy cabins overlooking Frenchman Bay, minutes from Acadia National Park and Bar Harbor.",
-  "descriptionSource": "https://www.baycliff.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Baycliff vacation rentals on Mount Desert Island feature a cottage with A/C and two cozy cabins overlooking Frenchman Bay, minutes from Acadia…",
-  "cardDescriptionSource": "https://www.baycliff.com",
   "cardPhotos": [
    "images/ME-0003-cover.avif",
    "images/ME-0003-000.avif",
    "images/cards/ME-0003-01.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Up to 5 per cabin; up to 6 in main house",
-  "priceFrom": "Unknown",
-  "priceDetails": "Seasonal weekly rates on booking request; 5-night minimum under Bar Harbor rules",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes — $75/cabin or $125/house, pre-notify",
+  "photo": "images/ME-0003-card.webp",
   "lat": 44.43643,
   "lng": -68.26047,
-  "photo": "images/ME-0003-card.webp",
-  "coverPhoto": "images/ME-0003-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0003-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0003-000.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -798,87 +347,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Bayside Cottage accommodates eight in four bedrooms on private waterfront in Trenton. Guests can enjoy sunrise scenery toward Acadia's mountains and take day trips onto Mount Desert Island.",
-  "descriptionSource": "https://acadiavacationrentals.com/bayside-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Bayside Cottage accommodates eight in four bedrooms on private waterfront in Trenton. Guests can enjoy sunrise scenery toward Acadia's mountains and…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/bayside-cottage/",
   "cardPhotos": [
    "images/ME-0369-cover.jpg",
    "images/ME-0369-000.jpg",
    "images/ME-0369-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0369-card.webp",
   "lat": 44.42361,
   "lng": -68.39215,
-  "photo": "images/ME-0369-card.webp",
-  "coverPhoto": "images/ME-0369-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0369-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6P9XX1H7YZC1HM1CYV9/raw?1792610644",
-    "page": "https://www.savvy.com/listings/bayside-cottage-trenton-maine-UfL-",
-    "sha256": "19bfdb91c3c1e4afb7f5f906f3313ce36f75d0db3ea6939f28bb8f7aabf1beb1",
-    "width": 1600,
-    "height": 1031,
-    "originalSha256": "c81f7d3553783356d55dcd23ef3b2ec80b3da8f84920303c696d976793ddfa40",
-    "originalWidth": 2048,
-    "originalHeight": 1320
-   },
-   {
-    "file": "images/ME-0369-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6PDQ25X7S3VP1SVCJXV/raw?1792610644",
-    "page": "https://www.savvy.com/listings/bayside-cottage-trenton-maine-UfL-",
-    "sha256": "f76247bef2875ed1287ac22f43f04b2b348666a56d5ebcd559e4bfb5bc007cfc",
-    "width": 1600,
-    "height": 1200,
-    "originalSha256": "c180504ac6df6d53e5bb3c04a98b3ec1bfca1141a2a8d34a60df20f498cfaafc",
-    "originalWidth": 2840,
-    "originalHeight": 2130
-   },
-   {
-    "file": "images/ME-0369-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6PH16EGY52YHRPGET40/raw?1792610644",
-    "page": "https://www.savvy.com/listings/bayside-cottage-trenton-maine-UfL-",
-    "sha256": "63e3edbea8d16de5122d707c2e073ddd536c6fc7a0206f8ad0fcfb9fb75d7e7b",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "8cff7a8edb1bc0cd93a9a2e1aea1105305398080bdea57ef55e4e3f7fc32eb02",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   },
-   {
-    "file": "images/ME-0369-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6PNRR508BSAY355N5MR/raw?1792610644",
-    "page": "https://www.savvy.com/listings/bayside-cottage-trenton-maine-UfL-",
-    "sha256": "c56098d53a051ea7c86d307f25773c0f3eebb83ad9f8efff06f563e0de8825be",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "5dbf517a9b503c6ceb9735558bf6ace6bc863be02a5ad772dcd2f45635a44f45",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -892,87 +375,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Blueberry Cottage offers a renovated, three-bedroom base for up to ten in Southwest Harbor. Main Street is close by, with Acadia's hiking routes and swimming destinations a drive away.",
-  "descriptionSource": "https://acadiavacationrentals.com/blueberry-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Blueberry Cottage offers a renovated, three-bedroom base for up to ten in Southwest Harbor. Main Street is close by, with Acadia's hiking routes and…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/blueberry-cottage/",
   "cardPhotos": [
    "images/ME-0368-cover.jpg",
    "images/ME-0368-000.jpg",
    "images/ME-0368-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 10,
-  "capacityDetails": "10",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0368-card.webp",
   "lat": 44.2823,
   "lng": -68.32928,
-  "photo": "images/ME-0368-card.webp",
-  "coverPhoto": "images/ME-0368-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0368-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5WAKKACXZ5BDF085CH4/raw?1792610643",
-    "page": "https://www.savvy.com/listings/blueberry-cottage-southwest-harbor-maine-yTxn",
-    "sha256": "286a7b825025c67b837b08fc77d5997377de72e5c5f2dfe652043c7fbde08211",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "f02882a19c8ac349be0f022d76439befefb86c4324533f9139691c81d45c69bd",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   },
-   {
-    "file": "images/ME-0368-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5WCQHDD31ATEA58N1QZ/raw?1792610643",
-    "page": "https://www.savvy.com/listings/blueberry-cottage-southwest-harbor-maine-yTxn",
-    "sha256": "0d1d17c10957987723790e5c7d06f2f5fe9afc2a6abe7bdd5f6079aa20e9b16b",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "df3c3c06ae4c61d7f594c5ba0beec508a8e5933d13c57bd1308d969646d255e4",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   },
-   {
-    "file": "images/ME-0368-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5WEARWQR2M3YSZCFQZ3/raw?1792610643",
-    "page": "https://www.savvy.com/listings/blueberry-cottage-southwest-harbor-maine-yTxn",
-    "sha256": "50884c8bf738ddd5b8d215ed6e5c90035cf6bcc936cfbd704622858ddcc30e3f",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "3d0569827ff875fa05a41503f50484aefb6c01ac0c4791cba022cd002e33b260",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   },
-   {
-    "file": "images/ME-0368-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5WGSYKYFQK99ZJ5GABJ/raw?1792610643",
-    "page": "https://www.savvy.com/listings/blueberry-cottage-southwest-harbor-maine-yTxn",
-    "sha256": "d2efd47f2c787094897fc2b0253c8bdcf4290f6b62afe2c359fd7b7efc29102b",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "a0041dac607748a2d37bf4af212aadfc3d1d8eb87d9b3105452756ba123501c9",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -986,87 +403,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Carriage Road Cottage accommodates twelve in five bedrooms, with Acadia's carriage-road network accessible from the property. It offers a base for walking, cycling, and exploring the park around Seal Harbor.",
-  "descriptionSource": "https://acadiavacationrentals.com/carriage-road-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Carriage Road Cottage accommodates twelve in five bedrooms, with Acadia's carriage-road network accessible from the property. It offers a base for…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/carriage-road-cottage/",
   "cardPhotos": [
    "images/ME-0364-cover.jpg",
    "images/ME-0364-000.jpg",
    "images/ME-0364-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 12,
   "bedrooms": 5,
   "bathrooms": 3,
-  "guests": 12,
-  "capacityDetails": "12",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0364-card.webp",
   "lat": 44.30832,
   "lng": -68.24381,
-  "photo": "images/ME-0364-card.webp",
-  "coverPhoto": "images/ME-0364-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0364-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W24ZSKPXZWFPV7DMJE/raw?1792610643",
-    "page": "https://www.savvy.com/listings/carriage-road-cabin-mount-desert-maine-4OZI",
-    "sha256": "265bd052a4eaed09ea5dfa055c109cb29faf078ea8bc09b00e8e538c8eb20e80",
-    "width": 1600,
-    "height": 1070,
-    "originalSha256": "98fc5b06a1f0755a522603155532a9cfd902d273a5b916c53cb347aca1ec46aa",
-    "originalWidth": 1615,
-    "originalHeight": 1080
-   },
-   {
-    "file": "images/ME-0364-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W4TFHYSMMMPPW730F6/raw?1792610643",
-    "page": "https://www.savvy.com/listings/carriage-road-cabin-mount-desert-maine-4OZI",
-    "sha256": "ee572aa07ea4b30c2857b0b7c32084188e49a6ee84eb0882acfaa9f1faca5760",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "191c539240603d38922e0271a568fced01317807f74a1391a20708ffd8774b6d",
-    "originalWidth": 2048,
-    "originalHeight": 1364
-   },
-   {
-    "file": "images/ME-0364-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W6A73RZW2DVHAR4JX2/raw?1792610643",
-    "page": "https://www.savvy.com/listings/carriage-road-cabin-mount-desert-maine-4OZI",
-    "sha256": "e78996df93cce10e5f6a808dfbf47dc827bd85065e9a7253d44cded5f5d2d478",
-    "width": 1600,
-    "height": 1280,
-    "originalSha256": "724cb08856f927220e8b3582cb1d7ce812899b9390ba4c8d7ca5ab4aec87b818",
-    "originalWidth": 2000,
-    "originalHeight": 1600
-   },
-   {
-    "file": "images/ME-0364-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ5W87N8VJ5J5QWZAAHJF/raw?1792610643",
-    "page": "https://www.savvy.com/listings/carriage-road-cabin-mount-desert-maine-4OZI",
-    "sha256": "25bcf0e6886959274d00757a5be7da1f5eae7c031aa4789a48bfa7237b633d7c",
-    "width": 1600,
-    "height": 1075,
-    "originalSha256": "3ff5568b06fe227201c8a72f5676f3e1f95d330c2c7377732e9fb372f264ae4c",
-    "originalWidth": 1607,
-    "originalHeight": 1080
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1080,54 +431,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Vacation rentals along the Maine coast — Mount Desert Island, Downeast and Holden. Managed locally, booked directly, no platform fees.",
-  "descriptionSource": "https://compassrosmaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Vacation rentals along the Maine coast — Mount Desert Island, Downeast and Holden. Managed locally, booked directly, no platform fees.",
-  "cardDescriptionSource": "https://compassrosmaine.com/",
   "cardPhotos": [
    "images/ME-0258-cover.webp",
    "images/ME-0258-000.webp",
    "images/ME-0258-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0258-card.webp",
   "lat": 44.2937,
   "lng": -68.2891,
-  "photo": "images/ME-0258-card.webp",
-  "coverPhoto": "images/ME-0258-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0258-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0258-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0258-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0258-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1142,55 +460,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Stunning oceanfront cottage on Western Bay. 3 bedrooms, 2 baths, sleeps 10. Kayaks, fire pit, tennis. Open May–October. Book direct and save.",
-  "descriptionSource": "https://everett-cottage.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Stunning oceanfront cottage on Western Bay. 3 bedrooms, 2 baths, sleeps 10. Kayaks, fire pit, tennis. Open May–October. Book direct and save.",
-  "cardDescriptionSource": "https://everett-cottage.com",
   "cardPhotos": [
    "images/ME-0126-cover.jpg",
    "images/ME-0126-000.webp",
    "images/ME-0126-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 10,
-  "capacityDetails": "10",
-  "priceFrom": "Unknown",
-  "priceDetails": "$399–$899/night Seasonal May–Oct, 4-night minimum; $195 cleaning fee extra; posted 2026 website",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — children selectable in booking form",
-  "petsDetails": "Yes — dogs subject to approval/fee",
+  "photo": "images/ME-0126-card.webp",
   "lat": 44.38967,
   "lng": -68.37703,
-  "photo": "images/ME-0126-card.webp",
-  "coverPhoto": "images/ME-0126-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0126-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0126-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0126-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0126-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1204,57 +488,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Our beautiful home is on an equally magnificent island bird sanctuary and is ready for you to have an adventure of a lifetime!",
-  "descriptionSource": "https://greatduckislandhouse.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Our beautiful home is on an equally magnificent island bird sanctuary and is ready for you to have an adventure of a lifetime!",
-  "cardDescriptionSource": "https://greatduckislandhouse.com/",
   "cardPhotos": [
    "images/ME-0156-cover.jpg",
    "images/ME-0156-000.jpg",
    "images/ME-0156-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "6 total: maximum 4 adults + 2 children",
-  "priceFrom": "Unknown",
-  "priceDetails": "$4,000/week Plus 9% tax, $300 refundable security deposit and $675 round-trip water taxi",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — 2 children allowed",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0156-card.webp",
   "lat": 44.1181,
   "lng": -68.3625,
-  "photo": "images/ME-0156-card.webp",
-  "coverPhoto": "images/ME-0156-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0156-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0156-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0156-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0156-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1268,46 +516,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Harbor Oasis - Waterfront Cottage on Southwest Harbor",
-  "descriptionSource": "https://harboroasis.me",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Harbor Oasis - Waterfront Cottage on Southwest Harbor",
-  "cardDescriptionSource": "https://harboroasis.me",
   "cardPhotos": [
    "images/ME-0209-cover.jpg",
    "images/cards/ME-0209-01.webp",
    "images/cards/ME-0209-02.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "4 (including children)",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rates not shown; additional 9% Maine tax and cleaning/security fees stated",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — children explicitly count toward max guests",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0209-card.webp",
   "lat": 44.27822,
   "lng": -68.32479,
-  "photo": "images/ME-0209-card.webp",
-  "coverPhoto": "images/ME-0209-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0209-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1321,87 +544,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Harbor Watch Cottage provides three bedrooms for six guests near downtown Southwest Harbor. Shops and restaurants are walkable, with Bass Harbor Lighthouse and the national park within driving reach.",
-  "descriptionSource": "https://acadiavacationrentals.com/harbor-watch-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Harbor Watch Cottage provides three bedrooms for six guests near downtown Southwest Harbor. Shops and restaurants are walkable, with Bass Harbor…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/harbor-watch-cottage/",
   "cardPhotos": [
    "images/ME-0370-cover.jpg",
    "images/ME-0370-000.jpg",
    "images/ME-0370-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 6,
-  "capacityDetails": "6",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0370-card.webp",
   "lat": 44.27268,
   "lng": -68.32626,
-  "photo": "images/ME-0370-card.webp",
-  "coverPhoto": "images/ME-0370-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0370-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6GB3C0XKDYHPE5G9GS1/raw?1792610643",
-    "page": "https://www.savvy.com/listings/harbor-watch-southwest-harbor-maine-5jw7",
-    "sha256": "b7044b1668e2b9f79c3d233a90486aa58319bb0f4e98ad24fc10ea68cca2f62c",
-    "width": 1600,
-    "height": 1143,
-    "originalSha256": "c1222465032212fcfe73ac2de089c979cab308aa8ca66ba408ac47e4e6af1c2e",
-    "originalWidth": 2840,
-    "originalHeight": 2028
-   },
-   {
-    "file": "images/ME-0370-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6G4MFR7WV99S7PF54VZ/raw?1792610643",
-    "page": "https://www.savvy.com/listings/harbor-watch-southwest-harbor-maine-5jw7",
-    "sha256": "064e11ea92634fefcf69761fd55c38dd42816a76a7e274527089b152bd4430c5",
-    "width": 1600,
-    "height": 1143,
-    "originalSha256": "b19fea35c2ed761ecadfd182550e87c8a954154ff6effb91ae95c0bf0842da39",
-    "originalWidth": 2840,
-    "originalHeight": 2028
-   },
-   {
-    "file": "images/ME-0370-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6GDRZE6FSY39BDA7P82/raw?1792610643",
-    "page": "https://www.savvy.com/listings/harbor-watch-southwest-harbor-maine-5jw7",
-    "sha256": "7010c36d56f3451c5de308bd5bbdfe83b815963801917aacc4b2866aa3475f38",
-    "width": 1600,
-    "height": 1143,
-    "originalSha256": "66d798cf4e36f9dbfe894523832fcdd63e110f8d053cb70849c9e67d4f696b55",
-    "originalWidth": 2840,
-    "originalHeight": 2028
-   },
-   {
-    "file": "images/ME-0370-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6GFHAF3MTA856G0NZGZ/raw?1792610643",
-    "page": "https://www.savvy.com/listings/harbor-watch-southwest-harbor-maine-5jw7",
-    "sha256": "0fc8a77229c58c43dab7062d15abace6e0cab57a89c8d0f2c4081f08f20619b7",
-    "width": 1600,
-    "height": 1143,
-    "originalSha256": "73e5de92c4b78514db5f07eaef635558b9e0c4c27a20132be38c52631336dbda",
-    "originalWidth": 2840,
-    "originalHeight": 2028
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1415,55 +572,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "Rustic family-friendly cottages in the woods above Southwest Harbor, with kitchens, decks and easy access to Acadia National Park.",
-  "cardDescriptionSource": "https://www.hutchinscottagesatacadia.com/",
   "cardPhotos": [
    "images/ME-0103-cover.jpg",
    "images/ME-0103-000.jpg",
    "images/ME-0103-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification",
-   "property photos (4 required)",
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Up to 6 per cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "Cottage-specific current prices on official availability/rates page, numeric rates not extractable",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes — pack-and-play available on request",
-  "petsDetails": "No",
+  "photo": "images/ME-0103-card.webp",
   "lat": 44.27868,
   "lng": -68.33076,
-  "photo": "images/ME-0103-card.webp",
-  "coverPhoto": "images/ME-0103-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0103-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0103-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0103-001.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1477,57 +600,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Lords Beach is a Vacation Home Rental Property in Acadia. The Acadia National Park is located primarily on Mount Desert Island in the state of Maine, USA. It is one of the most visited national parks in the United States and is known for its diverse landscapes, including rugged coastlines, granite peaks, lakes, and forests. The park covers a significant portion of Mount Desert Island. Acadia Vacation Rentals",
-  "descriptionSource": "https://www.acadiavacation.rentals",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Lords Beach is a Vacation Home Rental Property in Acadia. The Acadia National Park is located primarily on Mount Desert Island in the state of…",
-  "cardDescriptionSource": "https://www.acadiavacation.rentals",
   "cardPhotos": [
    "images/ME-0121-cover.avif",
    "images/ME-0121-000.jpg",
    "images/ME-0121-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0121-card.webp",
   "lat": "Unknown",
   "lng": "Unknown",
-  "photo": "images/ME-0121-card.webp",
-  "coverPhoto": "images/ME-0121-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0121-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0121-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0121-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0121-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Unknown",
   "featured": false,
   "demo": false
  },
@@ -1541,55 +628,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Experience the best of coastal Maine with Maebeth Vacation Rentals. Browse curated homes in Mount Desert, Bar Harbor, and Southwest Harbor—expertly managed for comfort, cleanliness, and unforgettable stays!",
-  "descriptionSource": "https://www.mpvacationrentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Experience the best of coastal Maine with Maebeth Vacation Rentals. Browse curated homes in Mount Desert, Bar Harbor, and Southwest Harbor—expertly…",
-  "cardDescriptionSource": "https://www.mpvacationrentals.com/",
   "cardPhotos": [
    "images/ME-0283-cover.webp",
    "images/ME-0283-000.webp",
    "images/ME-0283-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0283-card.webp",
   "lat": 44.4392,
   "lng": -68.3707,
-  "photo": "images/ME-0283-card.webp",
-  "coverPhoto": "images/ME-0283-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0283-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0283-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0283-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0283-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1604,55 +657,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Our properties are located primarily on Mount Desert Island, home of Bar Harbor, Northeast Harbor, Seal Harbor, Southwest Harbor and other quaint villages. Acadia National Park which is unequivocally one of the world’s most beautiful places comprises 47,000 acres of the island. With the rugged, craggy coast and beautiful vistas your time here will pass by quickly and you’ll most likely want to return. Many of our clients are folks who visit the area every year. Among the outdoor activities that visitors enjoy here are scenic drives, swimming, bird watching, boating, whale watching, hiking, fishing, rock climbing and biking. There",
-  "descriptionSource": "https://www.maineislandproperties.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Our properties are located primarily on Mount Desert Island, home of Bar Harbor, Northeast Harbor, Seal Harbor, Southwest Harbor and other quaint…",
-  "cardDescriptionSource": "https://www.maineislandproperties.com/",
   "cardPhotos": [
    "images/ME-0257-cover.jpg",
    "images/ME-0257-000.jpg",
    "images/ME-0257-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0257-card.webp",
   "lat": 44.2937,
   "lng": -68.2891,
-  "photo": "images/ME-0257-card.webp",
-  "coverPhoto": "images/ME-0257-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0257-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0257-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0257-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0257-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0257-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1667,57 +686,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Book directly with Maine Retreats — Bar Harbor / Acadia, Old Orchard Beach, and beyond. No third-party fees.",
-  "descriptionSource": "https://bookings.maineretreatshotels.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Book directly with Maine Retreats — Bar Harbor / Acadia, Old Orchard Beach, and beyond. No third-party fees.",
-  "cardDescriptionSource": "https://bookings.maineretreatshotels.com",
   "cardPhotos": [
    "images/ME-0008-cover.jpg",
    "images/ME-0008-000.jpg",
    "images/ME-0008-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Varies (9 properties / multi-unit)",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0008-card.webp",
   "lat": 44.3876,
   "lng": -68.2043,
-  "photo": "images/ME-0008-card.webp",
-  "coverPhoto": "images/ME-0008-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0008-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0008-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0008-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0008-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0008-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1732,55 +715,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Home rentals in the heart of Bar Harbor, Maine.",
-  "descriptionSource": "https://mdislandvacationhomes.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Home rentals in the heart of Bar Harbor, Maine.",
-  "cardDescriptionSource": "https://mdislandvacationhomes.com",
   "cardPhotos": [
    "images/ME-0128-cover.webp",
    "images/ME-0128-000.webp",
    "images/ME-0128-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "6–8 at named homes; varies by property",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — large family vacations offered",
-  "petsDetails": "Varies — Kinfolk units advertise dogs welcome",
+  "photo": "images/ME-0128-card.webp",
   "lat": 44.38944,
   "lng": -68.2118,
-  "photo": "images/ME-0128-card.webp",
-  "coverPhoto": "images/ME-0128-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0128-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0128-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0128-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0128-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1794,55 +743,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Oceans Edge is a private oceanfront vacation rental in Maine offering breathtaking coastal views, refined interiors, and peaceful seclusion near top Maine attractions. Book your stay today.",
-  "descriptionSource": "https://www.oceansedgemaine.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Oceans Edge is a private oceanfront vacation rental in Maine offering breathtaking coastal views, refined interiors, and peaceful seclusion near top…",
-  "cardDescriptionSource": "https://www.oceansedgemaine.com",
   "cardPhotos": [
    "images/ME-0129-cover.jpg",
    "images/ME-0129-000.jpg",
    "images/ME-0129-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 10,
-  "capacityDetails": "10",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — marketed as family stay",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0129-card.webp",
   "lat": 44.41886,
   "lng": -68.24737,
-  "photo": "images/ME-0129-card.webp",
-  "coverPhoto": "images/ME-0129-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0129-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0129-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0129-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0129-002.png",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1856,87 +771,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Pine Meadow Hideaway sleeps ten in three bedrooms amid eight acres of pine woodland beside Acadia National Park. The property offers a quieter setting near the Ship Harbor and Wonderland trail areas.",
-  "descriptionSource": "https://acadiavacationrentals.com/pine-meadow-hideaway/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Pine Meadow Hideaway sleeps ten in three bedrooms amid eight acres of pine woodland beside Acadia National Park. The property offers a quieter…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/pine-meadow-hideaway/",
   "cardPhotos": [
    "images/ME-0367-cover.jpg",
    "images/ME-0367-000.jpg",
    "images/ME-0367-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 10,
-  "capacityDetails": "10",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0367-card.webp",
   "lat": 44.25989,
   "lng": -68.33694,
-  "photo": "images/ME-0367-card.webp",
-  "coverPhoto": "images/ME-0367-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0367-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6NKHWWWH75G71N1GTV4/raw?1792610644",
-    "page": "https://www.savvy.com/listings/pine-meadow-hideaway-southwest-harbor-maine-ecJp",
-    "sha256": "bc11f9016ebaee377627ddffb63d8baeff4c3b6adc7c849e428a0f6b6a3c7bd6",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "71fb4cc9d546716ac8388cbc95e8e4e6de8173b297434bf010cc92f675878571",
-    "originalWidth": 2840,
-    "originalHeight": 1893
-   },
-   {
-    "file": "images/ME-0367-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6NB7EGDP9DR6RHJV7YD/raw?1792610644",
-    "page": "https://www.savvy.com/listings/pine-meadow-hideaway-southwest-harbor-maine-ecJp",
-    "sha256": "91e4a0483eb8507cb21162366d8859e2a8aa6ce385dc3ce925127e65243c9676",
-    "width": 1600,
-    "height": 1200,
-    "originalSha256": "71a991c46bbdf8a3f14a69c5a052a48e94fe5b189085a556787c437c2c4319e0",
-    "originalWidth": 2840,
-    "originalHeight": 2130
-   },
-   {
-    "file": "images/ME-0367-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6NRA0WHN8CHNVHF2EG4/raw?1792610644",
-    "page": "https://www.savvy.com/listings/pine-meadow-hideaway-southwest-harbor-maine-ecJp",
-    "sha256": "7d21c305be388cb48a0c92715095c99466251570296c945253d360ffc005baac",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "375ccc7ea17bc26c14824d99fcbaaff72ff981061931654fa8aee6f63dad2fb7",
-    "originalWidth": 2840,
-    "originalHeight": 1893
-   },
-   {
-    "file": "images/ME-0367-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6P0EG4FSS8GM371S6E0/raw?1792610644",
-    "page": "https://www.savvy.com/listings/pine-meadow-hideaway-southwest-harbor-maine-ecJp",
-    "sha256": "22b32462be94700f8044010ebe1fbe49f3fb6895fbb0828cab763d5183f99791",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "4f5a3c2e9927c832f37f254860711e7c8015afdf1370d9260bab133091c216c6",
-    "originalWidth": 2840,
-    "originalHeight": 1893
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1950,80 +799,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Quietside Cottage has three bedrooms and space for seven on a residential street in Southwest Harbor. Guests can walk to Main Street and drive to nearby Acadia trails and attractions.",
-  "descriptionSource": "https://acadiavacationrentals.com/quietside-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Quietside Cottage has three bedrooms and space for seven on a residential street in Southwest Harbor. Guests can walk to Main Street and drive to…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/quietside-cottage/",
   "cardPhotos": [
    "images/ME-0365-cover.jpg",
    "images/ME-0365-000.jpg",
    "images/ME-0365-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 7,
   "bedrooms": 3,
   "bathrooms": 1.5,
-  "guests": 7,
-  "capacityDetails": "7",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0365-card.webp",
   "lat": 44.2823,
   "lng": -68.32928,
-  "photo": "images/ME-0365-card.webp",
-  "coverPhoto": "images/ME-0365-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0365-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6F1YX3HGB27VQ0CR5ZE/raw?1792610643",
-    "page": "https://www.savvy.com/listings/quietside-cottage-southwest-harbor-maine-Hhc_",
-    "sha256": "524123cd62f1c26932d3b7d59862a0b60419d240d0452d08d55570062408724b",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "4afabcbc7d53f28e0acb8db1ee7ae22e8c3c894af6f0e7dc909baf7db210a55d",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   },
-   {
-    "file": "images/ME-0365-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6FFPT9TH2H04CW196NQ/raw?1792610643",
-    "page": "https://www.savvy.com/listings/quietside-cottage-southwest-harbor-maine-Hhc_",
-    "sha256": "62969638dec15e5aae01a6e260b512d67e199bea77e9ae1bb0ee79054a70daff",
-    "width": 720,
-    "height": 960
-   },
-   {
-    "file": "images/ME-0365-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6FSY50K2J33KSYCPJTM/raw?1792610643",
-    "page": "https://www.savvy.com/listings/quietside-cottage-southwest-harbor-maine-Hhc_",
-    "sha256": "1f142873e50edf64d68692cb019a786044525c08ba13ce48b477a731e7cecd2a",
-    "width": 720,
-    "height": 960
-   },
-   {
-    "file": "images/ME-0365-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6FZ39H1BR31KMDZZJDJ/raw?1792610643",
-    "page": "https://www.savvy.com/listings/quietside-cottage-southwest-harbor-maine-Hhc_",
-    "sha256": "a75308a8d1a90ef30ec91dda677df8f7ca37c60f5571116602664893d2b3c3a8",
-    "width": 720,
-    "height": 960
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -2037,53 +827,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Red's Garden, a Bar Harbor vacation rental cottage, is located four miles from downtown Bar Harbor, Maine close to the entrance to Acadia National Park. This is a perfect place for you and your family to explore mount desert island.",
-  "descriptionSource": "https://www.acadia.ws/reds-garden",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Red's Garden, a Bar Harbor vacation rental cottage, is located four miles from downtown Bar Harbor, Maine close to the entrance to Acadia National…",
-  "cardDescriptionSource": "https://www.acadia.ws/reds-garden",
   "cardPhotos": [
    "images/ME-0130-cover.webp",
    "images/ME-0130-000.jpg",
    "images/ME-0130-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0130-card.webp",
   "lat": 44.33071,
   "lng": -68.20782,
-  "photo": "images/ME-0130-card.webp",
-  "coverPhoto": "images/ME-0130-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0130-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0130-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0130-001.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -2097,57 +855,21 @@
   "destination": "Acadia",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Stay near Acadia National Park in our pet friendly Bar Harbor vacation rentals. Dogs stay free, private decks, fenced dog yard, full kitchens, and easy access to hiking and carriage roads.",
-  "descriptionSource": "https://ryanestaterentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Stay near Acadia National Park in our pet friendly Bar Harbor vacation rentals. Dogs stay free, private decks, fenced dog yard, full kitchens, and…",
-  "cardDescriptionSource": "https://ryanestaterentals.com/",
   "cardPhotos": [
    "images/ME-0131-cover.jpg",
    "images/ME-0131-000.jpg",
    "images/ME-0131-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "4–7 per rental",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,650–$2,390/week Posted May–October weekly rates across three rentals, year not explicitly indicated; pets free",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes — family/kids explicitly welcome",
-  "petsDetails": "Yes — dogs stay free",
+  "photo": "images/ME-0131-card.webp",
   "lat": 44.3876,
   "lng": -68.2043,
-  "photo": "images/ME-0131-card.webp",
-  "coverPhoto": "images/ME-0131-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0131-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0131-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0131-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0131-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0131-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -2162,11 +884,7 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "A place to escape for quiet moments, perched in a hammock, surrounded by mossy rocks and ferns, or exploring the abundant number of National Park trails nearby.",
-  "descriptionSource": "http://sargentwoods.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "A place to escape for quiet moments, perched in a hammock, surrounded by mossy rocks and ferns, or exploring the abundant number of National Park…",
-  "cardDescriptionSource": "http://sargentwoods.com",
   "cardPhotos": [
    "images/ME-0182-cover.jpg",
    "images/ME-0182-000.jpg",
@@ -2177,46 +895,14 @@
     "https://www.airbnb.com/rooms/1414410291582366125?guests=1&adults=1&s=67&unique_share_id=2207b862-2ba7-4db9-8877-e4518733eec1"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0182-card.webp",
   "lat": 44.3331,
   "lng": -68.2408,
-  "photo": "images/ME-0182-card.webp",
-  "coverPhoto": "images/ME-0182-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0182-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0182-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0182-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0182-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -2230,89 +916,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property",
-  "description": "Seal Harbor Cottage accommodates eighteen in six bedrooms near Acadia's carriage roads. Its location suits groups planning park walks, cycling trips, and visits to Seal Harbor Beach or Bar Harbor.",
-  "descriptionSource": "https://acadiavacationrentals.com/seal-harbor-cottage/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Seal Harbor Cottage accommodates eighteen in six bedrooms near Acadia's carriage roads. Its location suits groups planning park walks, cycling…",
-  "cardDescriptionSource": "https://acadiavacationrentals.com/seal-harbor-cottage/",
   "cardPhotos": [
    "images/ME-0372-cover.jpg",
    "images/ME-0372-000.jpg",
    "images/ME-0372-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 18,
   "bedrooms": 6,
   "bathrooms": 4,
-  "guests": 18,
-  "capacityDetails": "18",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0372-card.webp",
   "lat": 44.30832,
   "lng": -68.24381,
-  "photo": "images/ME-0372-card.webp",
-  "coverPhoto": "images/ME-0372-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0372-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6A4PD4X57ZHCAGP2DDD/raw?1792610644",
-    "page": "https://www.savvy.com/listings/seal-harbor-cottage-seal-harbor-maine-Smbg",
-    "sha256": "a5b0270eb2bc561e5c0cbe759ce6453f188911799a7f8f79eed7eaeafa05097a",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "a497d4895ff604befd463fb2010cf4f0b53df446d1f662ae4b038a3460c21f00",
-    "originalWidth": 2048,
-    "originalHeight": 1364
-   },
-   {
-    "file": "images/ME-0372-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6A2ZAYHMFQD2V7TZEQF/raw?1792610644",
-    "page": "https://www.savvy.com/listings/seal-harbor-cottage-seal-harbor-maine-Smbg",
-    "sha256": "03a0597f8870d616613df38988ffdfadc6463f98d9b0fc03166d169fbeda0157",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "527ab7ff5e4a8eba7a6dd5bac654e4f81c124dfcebf40189336898700e6ff3b4",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   },
-   {
-    "file": "images/ME-0372-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6A6JXEJ4G2CSZYWN9V2/raw?1792610644",
-    "page": "https://www.savvy.com/listings/seal-harbor-cottage-seal-harbor-maine-Smbg",
-    "sha256": "d5f3c759af4d646ce356002d264095998ab5ea77dccec31cd89bb7edc11bb6ff",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "e2d6caeec5800da88ec0fa1787ebe338832611965838e247a0c1bc0dcbd9def6",
-    "originalWidth": 2048,
-    "originalHeight": 1365
-   },
-   {
-    "file": "images/ME-0372-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01M5FYQ6A74KYN516J4YGV4QC9/raw?1792610644",
-    "page": "https://www.savvy.com/listings/seal-harbor-cottage-seal-harbor-maine-Smbg",
-    "sha256": "c447222fa08d601ca6bd54dc0aeb607fa1c557d104d638ca172f0dc1df607231",
-    "width": 1600,
-    "height": 1200,
-    "originalSha256": "e2f02ed250008566e3ed13f4b356d8f0cf42d3453f6619d168e4ead8b44912f7",
-    "originalWidth": 2840,
-    "originalHeight": 2130
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -2326,55 +944,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Bar Harbor Maine Oceanfront cottage rentals on Clark’s Cove in Bar Harbor, near Acadia National Park, and lakefront cabin rentals on Donnell Pond. Seaside Cottages, Bar Harbor Maine.",
-  "descriptionSource": "https://www.seasidemaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Bar Harbor Maine Oceanfront cottage rentals on Clark’s Cove in Bar Harbor, near Acadia National Park, and lakefront cabin rentals on Donnell Pond…",
-  "cardDescriptionSource": "https://www.seasidemaine.com/",
   "cardPhotos": [
    "images/ME-0005-cover.jpg",
    "images/ME-0005-000.jpg",
    "images/ME-0005-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–6 per cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "From $160/night in winter; from $2,300/week in summer Published seasonal rate schedule; individual cottages differ",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Unknown",
-  "kidsDetails": "Yes (family cottages)",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0005-card.webp",
   "lat": 44.40502,
   "lng": -68.34835,
-  "photo": "images/ME-0005-card.webp",
-  "coverPhoto": "images/ME-0005-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0005-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0005-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0005-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0005-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0005-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -2388,55 +972,21 @@
   "destination": "Acadia",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Cabins 1, 2 and 3 are in the back row, with ocean view and access. Cabins 4 and 5 are oceanfront. All cabins have the following features:",
-  "descriptionSource": "https://www.tidewatchcabins.com/cabins",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Cabins 1, 2 and 3 are in the back row, with ocean view and access. Cabins 4 and 5 are oceanfront. All cabins have the following features:",
-  "cardDescriptionSource": "https://www.tidewatchcabins.com/cabins",
   "cardPhotos": [
    "images/ME-0006-cover.jpg",
    "images/ME-0006-000.avif",
    "images/ME-0006-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2 maximum per cabin",
-  "priceFrom": "Unknown",
-  "priceDetails": "Nightly booking online; no static price in official policy",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes — children welcome but no extra beds/cots; 2 guests maximum",
-  "petsDetails": "Yes — well-behaved dogs $20/night per dog",
+  "photo": "images/ME-0006-card.webp",
   "lat": 44.41106,
   "lng": -68.24795,
-  "photo": "images/ME-0006-card.webp",
-  "coverPhoto": "images/ME-0006-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0006-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0006-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0006-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0006-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -2450,55 +1000,21 @@
   "destination": "Acadia",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Rustic, On the Shore Cottages Sharing Mt Desert Island With Bar Harbor and Acadia National Park",
-  "descriptionSource": "https://www.woodlandparkcottages.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Rustic, On the Shore Cottages Sharing Mt Desert Island With Bar Harbor and Acadia National Park",
-  "cardDescriptionSource": "https://www.woodlandparkcottages.com",
   "cardPhotos": [
    "images/ME-0007-cover.webp",
    "images/ME-0007-000.webp",
    "images/ME-0007-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–5 depending on cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "$210–$390/night; $1,090–$2,050/week Published 2026 rate schedule; seasonal and per-cottage; dog fee separate",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family-size cottages",
-  "petsDetails": "Varies — Parrot, Koze, Mountain View, Garden, Puka Place allow 2 dogs; $50/dog",
+  "photo": "images/ME-0007-card.webp",
   "lat": 44.43158,
   "lng": -68.29467,
-  "photo": "images/ME-0007-card.webp",
-  "coverPhoto": "images/ME-0007-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0007-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0007-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0007-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0007-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0007-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  }

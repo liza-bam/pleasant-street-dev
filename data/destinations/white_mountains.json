@@ -9,38 +9,16 @@
   "destination": "White Mountains",
   "type": "House",
   "recordType": "Rental operator",
-  "description": "Locally owned manager offering White Mountain vacation homes and apartments.",
-  "descriptionSource": "https://www.allmountainrentals.com/contact-information/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Locally owned manager offering White Mountain vacation homes and apartments.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos: 1 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0053-card.webp",
   "lat": 43.8236,
   "lng": -71.639,
-  "photo": "images/NH-0053-card.webp",
-  "coverPhoto": "images/NH-0053-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0053-cover.webp",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -55,40 +33,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Bartlett cabin and treehouse village with an onsite winery and heated pool.",
-  "descriptionSource": "https://www.alpinegardenglamping.com/about",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Bartlett cabin and treehouse village with an onsite winery and heated pool.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Per-unit capacity and policies",
-   "Four-photo set incomplete",
-   "Four authentic property photos: 1 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0011-card.webp",
   "lat": 44.078,
   "lng": -71.2821,
-  "photo": "images/NH-0011-card.webp",
-  "coverPhoto": "images/NH-0011-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0011-cover.webp",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -102,55 +56,21 @@
   "destination": "White Mountains",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "AMC lodge at Crawford Notch with private rooms and optional meals.",
-  "descriptionSource": "https://www.outdoors.org/destinations/new-hampshire/highland-center/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "AMC lodge at Crawford Notch with private rooms and optional meals.",
-  "cardDescriptionSource": "https://www.outdoors.org/destinations/new-hampshire/highland-center/",
   "cardPhotos": [
    "images/NH-0028-cover.webp",
    "images/NH-0028-000.webp",
    "images/NH-0028-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Download and visually validate observed photo candidates",
-   "Optional unit-specific facts and policies",
-   "Four authentic property photos: 3 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No dogs overnight; official lodging page.",
+  "photo": "images/NH-0028-card.webp",
   "lat": 44.26,
   "lng": -71.443,
-  "photo": "images/NH-0028-card.webp",
-  "coverPhoto": "images/NH-0028-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0028-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0028-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0028-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -164,35 +84,16 @@
   "destination": "White Mountains",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Bartlett condominium resort near Attitash with kitchens, pools and year-round mountain activities.",
-  "descriptionSource": "https://attitashvillage.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Bartlett condominium resort near Attitash with kitchens, pools and year-round mountain activities.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Saved authentic photos",
-   "Optional per-unit details",
-   "Four authentic property photos: 0 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Suites/condos/rooms; varies by unit.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "Unknown",
   "lat": 44.078,
   "lng": -71.2821,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -206,37 +107,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Family-run Rumney retreat with cabins, yurts, a dome and other nature stays.",
-  "descriptionSource": "https://bakerrocks.com/accommodation-types/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-run Rumney retreat with cabins, yurts, a dome and other nature stays.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Photos",
-   "Per-unit facts and policies",
-   "Observed image asset download did not succeed",
-   "exact URL retained for browser download fallback",
-   "Four authentic property photos: 0 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Cabins page units up to8; overview unit capacities vary",
-  "priceFrom": 169,
-  "priceDetails": "Cabins page Akwaaba from$169/night; accommodation overview cabins$179-$750 conflicts; unit-specific rates vary",
-  "currency": "USD",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Most rentals permit pets for fee; BR Acres excludes pets",
+  "photo": "Unknown",
   "lat": 43.8045,
   "lng": -71.8131,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -250,37 +130,16 @@
   "destination": "White Mountains",
   "type": "House",
   "recordType": "Rental operator",
-  "description": "Family-owned manager of vacation homes and cabins in Bretton Woods and nearby White Mountains towns.",
-  "descriptionSource": "https://www.brettonwoodsvacations.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-owned manager of vacation homes and cabins in Bretton Woods and nearby White Mountains towns.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Photos",
-   "Per-unit facts",
-   "Attributable individual rental/campus photo needed",
-   "homepage area photos not used",
-   "Four authentic property photos: 0 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "Unknown",
   "lat": 44.26,
   "lng": -71.443,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -295,56 +154,21 @@
   "destination": "White Mountains",
   "type": "Apartment",
   "recordType": "Rental operator",
-  "description": "Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.",
-  "descriptionSource": "https://www.cranmorecondominiums.com/about",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Slopeside condominium lodging at Cranmore in North Conway, with hotel rooms and two- and three-bedroom residences.",
-  "cardDescriptionSource": "https://www.cranmorecondominiums.com/about",
   "cardPhotos": [
    "images/NH-0056-cover.webp",
    "images/NH-0056-000.webp",
    "images/NH-0056-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Cranmore shared campus; Cranmore shared condominium campus",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Official About2/3bed residences sleep6-8; official terms2bed6,3bed10,1bedlockout2. Preserve conflict and unit distinctions.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Official rental terms prohibit rental guests pets; owners may previously have brought pets into units, so units are not necessarily allergen-free.",
+  "photo": "images/NH-0056-card.webp",
   "lat": 44.0378,
   "lng": -71.1238,
-  "photo": "images/NH-0056-card.webp",
-  "coverPhoto": "images/NH-0056-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0056-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0056-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0056-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0056-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -358,38 +182,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Individually owned condominium suites with full kitchens in the center of Waterville Valley.",
-  "descriptionSource": "https://goldeneaglelodge.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Individually owned condominium suites with full kitchens in the center of Waterville Valley.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos: 1 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0063-card.webp",
   "lat": 43.9496,
   "lng": -71.5057,
-  "photo": "images/NH-0063-card.webp",
-  "coverPhoto": "images/NH-0063-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0063-cover.webp",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -403,60 +205,21 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Family-run rooms and cottages in Twin Mountain with walking trails and White Mountain access.",
-  "descriptionSource": "https://www.highlandhouseandcottages.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Family-run rooms and cottages in Twin Mountain with walking trails and White Mountain access.",
-  "cardDescriptionSource": "https://www.highlandhouseandcottages.com/",
   "cardPhotos": [
    "images/NH-0046-cover.webp",
    "images/NH-0046-000.webp",
    "images/NH-0046-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Shared campus exterior images repeated across unit galleries",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Download and visually validate observed photo candidates",
-   "Optional unit-specific facts and policies",
-   "Publicly undisclosed physical rental address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Select rooms/cottages allow small pets at no pet lodging fee.",
+  "photo": "images/NH-0046-card.webp",
   "lat": 44.26787,
   "lng": -71.55245,
-  "photo": "images/NH-0046-card.webp",
-  "coverPhoto": "images/NH-0046-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0046-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0046-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0046-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0046-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -471,44 +234,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Family-operated Lincoln cabins and motel beside the Pemigewasset River, open May through October.",
-  "descriptionSource": "https://www.mtlibertylodging.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-operated Lincoln cabins and motel beside the Pemigewasset River, open May through October.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Per-unit facts/policies/rates",
-   "Four-photo set incomplete",
-   "Four authentic property photos: 2 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0006-card.webp",
   "lat": 44.0445,
   "lng": -71.6684,
-  "photo": "images/NH-0006-card.webp",
-  "coverPhoto": "images/NH-0006-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0006-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0006-000.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -522,63 +257,25 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Riverside cabins in Lincoln with fireplaces, screened porches and shared outdoor gathering areas.",
-  "descriptionSource": "https://www.pemicabins.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Riverside cabins in Lincoln with fireplaces, screened porches and shared outdoor gathering areas.",
-  "cardDescriptionSource": "https://www.pemicabins.com/",
   "cardPhotos": [
    "images/NH-0045-cover.webp",
    "images/NH-0045-000.webp",
    "images/NH-0045-001.webp"
   ],
-  "cardPhotoLabel": "Photos: The Bears Den / Cabin1, homepage image alt",
   "platformLinks": {
    "airbnb": [
     "https://www.airbnb.com/users/show/539192379"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Download and visually validate observed photo candidates",
-   "Optional unit-specific facts and policies"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Various cabins; not one unit.",
-  "priceFrom": 120,
-  "priceDetails": "Homepage cabins advertised $120–230/night; Deer Haven$120–205; taxes/fees not stated.",
-  "currency": "USD",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Pet-friendly cabins advertised; restrictions not checked.",
+  "photo": "images/NH-0045-card.webp",
   "lat": 44.0445,
   "lng": -71.6684,
-  "photo": "images/NH-0045-card.webp",
-  "coverPhoto": "images/NH-0045-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0045-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0045-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0045-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0045-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -592,58 +289,21 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.",
-  "descriptionSource": "https://presidentialmountainresort.com/cabins/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Year-round lakeside log-cabin resort in Bethlehem with studio to six-bedroom stays, family amenities and direct reservations.",
-  "cardDescriptionSource": "https://presidentialmountainresort.com/cabins/",
   "cardPhotos": [
    "images/NH-0023-cover.webp",
    "images/NH-0023-000.webp",
    "images/NH-0023-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Chestnut Premier14 (adults-only unit)",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Optional per-unit capacity, rates and policies remain distinct from operator facts."
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Official cabins page lists 37 log cabins, studio to six bedrooms; direct search displayed 48 accommodation listings. Pictured Chestnut Premier14 is separately identified as two adults, one bedroom and one bathroom, not operator-wide capacity.",
-  "priceFrom": "Unknown",
-  "priceDetails": "A date selection is required for the pictured unit price; no quote requested.",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Family stays offered at resort; pictured Chestnut Premier14 is exclusively for two adults.",
-  "petsDetails": "Pictured Chestnut Premier14 disallows pets; no operator-wide policy established.",
+  "photo": "images/NH-0023-card.webp",
   "lat": 44.2805,
   "lng": -71.687,
-  "photo": "images/NH-0023-card.webp",
-  "coverPhoto": "images/NH-0023-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0023-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0023-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0023-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0023-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -657,40 +317,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Hoyt-family Madison lake resort with cottages, condos, lodges and year-round outdoor activities.",
-  "descriptionSource": "https://www.purityspring.com/rooms/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Hoyt-family Madison lake resort with cottages, condos, lodges and year-round outdoor activities.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Per-unit facts/policies",
-   "Four-photo set incomplete",
-   "Four authentic property photos: 1 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Multiple unit types; family lodging varies",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Official rooms page expressly accommodates family vacations",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0020-card.webp",
   "lat": 43.8994,
   "lng": -71.1488,
-  "photo": "images/NH-0020-card.webp",
-  "coverPhoto": "images/NH-0020-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0020-cover.webp",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -704,53 +340,21 @@
   "destination": "White Mountains",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Three-bedroom Jefferson log cabin for eight guests with mountain views, hot tub, sauna and a game loft.",
-  "descriptionSource": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Three-bedroom Jefferson log cabin for eight guests with mountain views, hot tub, sauna and a game loft.",
-  "cardDescriptionSource": "https://www.slopestoshoresvaca.com/red-brook-mountain-retreat-orp5b5a2fbx",
   "cardPhotos": [
    "images/NH-0062-cover.webp",
    "images/NH-0062-000.webp",
    "images/NH-0062-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos: 3 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 3.5,
-  "guests": 8,
-  "capacityDetails": "8guests maximum;3full and1half bathrooms",
-  "priceFrom": 490,
-  "priceDetails": "Published$490-824/night; variable dates;5+nights10%discount(max7nights)",
-  "currency": "USD",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Family friendly, playground/toys/toddler bed",
-  "petsDetails": "NO PETS expressly stated",
+  "photo": "images/NH-0062-card.webp",
   "lat": 44.4194,
   "lng": -71.4747,
-  "photo": "images/NH-0062-card.webp",
-  "coverPhoto": "images/NH-0062-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0062-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0062-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0062-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -764,40 +368,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Family-run Thornton motel with adjoining suites, pool, cidery and a small farm.",
-  "descriptionSource": "https://shamrockmotelnh.com/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-run Thornton motel with adjoining suites, pool, cidery and a small farm.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Unit facts and policies",
-   "Four-photo set incomplete",
-   "Four authentic property photos: 1 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0010-card.webp",
   "lat": 43.8954,
   "lng": -71.678,
-  "photo": "images/NH-0010-card.webp",
-  "coverPhoto": "images/NH-0010-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0010-cover.webp",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -811,41 +391,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Family-operated Sugar Hill inn with romantic vacation cottages, private baths and mountain access.",
-  "descriptionSource": "https://sugarhillinn.com/new-hampshire-vacation-cottages/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Family-operated Sugar Hill inn with romantic vacation cottages, private baths and mountain access.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Per-unit capacity",
-   "Pet policy",
-   "Four-photo set incomplete",
-   "Four authentic property photos: 1 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Seven cottage rooms plus main inn; individual occupancy Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Daily rates on reservation page; vary by season/day; no numeric lodging rate adopted",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Official cottage page says inn not suitable for children under14",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0021-card.webp",
   "lat": 44.2157,
   "lng": -71.7973,
-  "photo": "images/NH-0021-card.webp",
-  "coverPhoto": "images/NH-0021-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0021-cover.webp",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -859,55 +414,21 @@
   "destination": "White Mountains",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Three-bedroom family vacation home on 30 acres in Jefferson with mountain views and an indoor sauna.",
-  "descriptionSource": "https://brayhillhouse.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Three-bedroom family vacation home on 30 acres in Jefferson with mountain views and an indoor sauna.",
-  "cardDescriptionSource": "https://brayhillhouse.com/",
   "cardPhotos": [
    "images/NH-0054-cover.webp",
    "images/NH-0054-000.webp",
    "images/NH-0054-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Home welcomes families with kids",
-  "petsDetails": "Dog friendly; other species Unknown",
+  "photo": "images/NH-0054-card.webp",
   "lat": 44.4194,
   "lng": -71.4747,
-  "photo": "images/NH-0054-card.webp",
-  "coverPhoto": "images/NH-0054-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0054-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0054-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0054-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0054-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -921,11 +442,7 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "Owner-run log cabin in Conway with a fireplace, kitchen and private wooded backyard, offering direct bookings and optional retreats.",
-  "descriptionSource": "https://www.theconsciouscabin.com/",
-  "descriptionStatus": "Paraphrased from verified source website",
   "cardDescription": "Owner-run log cabin in Conway with a fireplace, kitchen and private wooded backyard, offering direct bookings and optional retreats.",
-  "cardDescriptionSource": "https://www.theconsciouscabin.com/",
   "cardPhotos": [
    "images/NH-0077-cover.webp",
    "images/NH-0077-000.webp",
@@ -936,48 +453,14 @@
     "https://airbnb.com/h/theconsciouscabin"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Capacity and bedroom terminology conflict between FAQ and booking header",
-   "Published current dated rate",
-   "ZIP code verified only in tourism directory, not on checked operator pages"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": 1,
-  "guests": "Unknown",
-  "capacityDetails": "Conflicting official sources: FAQ says ideally 2, maximum 4 using bedroom plus ladder-access loft; direct-booking header says 2 guests and 2 bedrooms. Ask host to resolve before using numeric capacity/bedrooms.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Choose dates on direct-booking site for total nightly price. FAQ states two-night minimum, with occasional single-night gaps.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Suitable for children on direct-booking amenities; loft accessed by secured ladder.",
-  "petsDetails": "Up to two well-behaved dogs, $99 pet fee; no cats. Crate required if left alone; caution near busy road.",
+  "photo": "images/NH-0077-card.webp",
   "lat": 44.0005,
   "lng": -71.073,
-  "photo": "images/NH-0077-card.webp",
-  "coverPhoto": "images/NH-0077-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0077-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0077-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0077-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0077-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -991,55 +474,21 @@
   "destination": "White Mountains",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Four-bedroom Swiss-style Bartlett chalet for twelve guests, with a hot tub and game room near Story Land.",
-  "descriptionSource": "https://dmtravelvibes.holidayfuture.com/listings/415400",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Four-bedroom Swiss-style Bartlett chalet for twelve guests, with a hot tub and game room near Story Land.",
-  "cardDescriptionSource": "https://dmtravelvibes.holidayfuture.com/listings/415400",
   "cardPhotos": [
    "images/NH-0067-cover.webp",
    "images/NH-0067-000.webp",
    "images/NH-0067-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 12,
   "bedrooms": 4,
   "bathrooms": 2,
-  "guests": 12,
-  "capacityDetails": "Listing header12guests4br2bath",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Suitable for children",
-  "petsDetails": "Pets allowed; full restrictions not checked",
+  "photo": "images/NH-0067-card.webp",
   "lat": 44.12857,
   "lng": -71.18017,
-  "photo": "images/NH-0067-card.webp",
-  "coverPhoto": "images/NH-0067-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0067-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0067-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0067-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0067-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -1053,37 +502,16 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Cabin retreat on 2,000 acres in Pike near the White Mountains.",
-  "descriptionSource": "https://theinnsteadgetaway.com/about-us/",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Cabin retreat on 2,000 acres in Pike near the White Mountains.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Photos",
-   "Unit facts and policies",
-   "Observed image asset download did not succeed",
-   "exact URL retained for browser download fallback",
-   "Four authentic property photos: 0 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "Unknown",
   "lat": 44.0309,
   "lng": -72.0081,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1097,58 +525,21 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Cabins / small operator",
-  "description": "Locally owned year-round Twin Mountain cabins with kitchenettes, porches, a seasonal pool and direct Cloudbeds booking.",
-  "descriptionSource": "https://thepatio.com/",
-  "descriptionStatus": "Paraphrased from verified source website",
   "cardDescription": "Locally owned year-round Twin Mountain cabins with kitchenettes, porches, a seasonal pool and direct Cloudbeds booking.",
-  "cardDescriptionSource": "https://thepatio.com/",
   "cardPhotos": [
    "images/NH-0004-cover.webp",
    "images/NH-0004-000.webp",
    "images/NH-0004-001.webp"
   ],
-  "cardPhotoLabel": "Photos: The Patio Cabins — Cabin 1",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Unit-specific capacity and bedrooms; operator record spans multiple cabins"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "11 cabins and 1 suite. Two-room cabins 1, 6 and 11 sleep up to 5; two-bed cabins sleep 4; Suite 12 sleeps 4. Capacity and bedroom count vary by unit.",
-  "priceFrom": 99,
-  "priceDetails": "Published cabin starting rates: queen $99, two-bed $115, two-room $130, Suite $155. Midweek stays of at least two nights; NH tax, add-ons and promotions excluded. Actual dated price in booking engine.",
-  "currency": "USD",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Published playground policy permits children with supervision; family stays described.",
-  "petsDetails": "Only cabins 4, 5 and 6, subject to direct approval, availability and breed restrictions; $30 flat pet fee. Pets cannot be left alone and must be leashed.",
+  "photo": "images/NH-0004-card.webp",
   "lat": 44.2711,
   "lng": -71.54,
-  "photo": "images/NH-0004-card.webp",
-  "coverPhoto": "images/NH-0004-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0004-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0004-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0004-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0004-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1162,56 +553,21 @@
   "destination": "White Mountains",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Family-run Tamworth estate with guest cottages, farmhouse rooms and event space.",
-  "descriptionSource": "https://www.reservethepreserve.com/cottages",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Family-run Tamworth estate with guest cottages, farmhouse rooms and event space.",
-  "cardDescriptionSource": "https://www.reservethepreserve.com/cottages",
   "cardPhotos": [
    "images/NH-0002-cover.webp",
    "images/NH-0002-000.webp",
    "images/NH-0002-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Maple Cottage",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Per-unit facts and policies",
-   "Four-photo set incomplete",
-   "Four authentic property photos: 3 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0002-card.webp",
   "lat": 43.8603,
   "lng": -71.2635,
-  "photo": "images/NH-0002-card.webp",
-  "coverPhoto": "images/NH-0002-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0002-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0002-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0002-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1225,55 +581,21 @@
   "destination": "White Mountains",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Independent seven-unit riverside inn in Intervale with suites and villas, including full-kitchen options.",
-  "descriptionSource": "https://www.tuckawaystays.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Independent seven-unit riverside inn in Intervale with suites and villas, including full-kitchen options.",
-  "cardDescriptionSource": "https://www.tuckawaystays.com/",
   "cardPhotos": [
    "images/NH-0058-cover.webp",
    "images/NH-0058-000.webp",
    "images/NH-0058-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [],
-  "rooms": 7,
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Whole campus takeover:24on official Suites page vs22tourism directory; per-unit varies.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Home describes kids enjoying riverside lawn",
-  "petsDetails": "Only Garden Villa; prior host approval; $100 fee; maximum2dogs",
+  "photo": "images/NH-0058-card.webp",
   "lat": 44.0744,
   "lng": -71.14,
-  "photo": "images/NH-0058-card.webp",
-  "coverPhoto": "images/NH-0058-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0058-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0058-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0058-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0058-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1287,53 +609,21 @@
   "destination": "White Mountains",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "North Conway lodging campus with dog-friendly rooms and cottage suites with partial kitchens, near Eastern Slope Inn.",
-  "descriptionSource": "https://easternslopeinn.com/lodging/village-place/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "North Conway lodging campus with dog-friendly rooms and cottage suites with partial kitchens, near Eastern Slope Inn.",
-  "cardDescriptionSource": "https://easternslopeinn.com/lodging/village-place/",
   "cardPhotos": [
    "images/NH-0071-cover.webp",
    "images/NH-0071-000.webp",
    "images/NH-0071-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos: 3 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Listed Standard Queen and Cottage Suite options2-4guests each; not campus total",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Marketing to families",
-  "petsDetails": "Designated dog-friendly accommodation; separate dog policy not yet read",
+  "photo": "images/NH-0071-card.webp",
   "lat": 44.0378,
   "lng": -71.1238,
-  "photo": "images/NH-0071-card.webp",
-  "coverPhoto": "images/NH-0071-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0071-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0071-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/NH-0071-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1347,42 +637,16 @@
   "destination": "White Mountains",
   "type": "House",
   "recordType": "Rental operator",
-  "description": "Independent White Mountains resort offering Town Square condominium lodging in Waterville Valley.",
-  "descriptionSource": "https://www.waterville.com/lodging",
-  "descriptionStatus": "Paraphrased from verified website",
+  "cardDescription": "Independent White Mountains resort offering Town Square condominium lodging in Waterville Valley.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos: 2 saved"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/NH-0055-card.webp",
   "lat": 43.9496,
   "lng": -71.5057,
-  "photo": "images/NH-0055-card.webp",
-  "coverPhoto": "images/NH-0055-cover.webp",
-  "photos": [
-   {
-    "file": "images/NH-0055-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/NH-0055-000.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  }

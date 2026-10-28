@@ -9,55 +9,21 @@
   "destination": "Aroostook",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Discover Camel Brook Camps in Fort Kent, Maine, offering cozy, all-season cabins with WiFi, full kitchens, and easy access to trails and outdoor adventures. Ideal for both sporting trips and relaxing getaways.",
-  "descriptionSource": "https://www.camelbrookcamps.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover Camel Brook Camps in Fort Kent, Maine, offering cozy, all-season cabins with WiFi, full kitchens, and easy access to trails and outdoor…",
-  "cardDescriptionSource": "https://www.camelbrookcamps.com",
   "cardPhotos": [
    "images/ME-0038-cover.jpg",
    "images/ME-0038-000.avif",
    "images/ME-0038-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0038-card.webp",
   "lat": 47.21893,
   "lng": -68.65157,
-  "photo": "images/ME-0038-card.webp",
-  "coverPhoto": "images/ME-0038-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0038-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0038-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0038-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0038-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -71,49 +37,21 @@
   "destination": "Aroostook",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Caribou Maine Cabin Rentals. Snowmobiling, Hunting and Fishing in Northern Maine. Rent a Cabin from Caribou Cabins",
-  "descriptionSource": "https://cariboucabins.net/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Caribou Maine Cabin Rentals. Snowmobiling, Hunting and Fishing in Northern Maine. Rent a Cabin from Caribou Cabins",
-  "cardDescriptionSource": "https://cariboucabins.net/",
   "cardPhotos": [
    "images/ME-0022-cover.jpg",
    "images/ME-0022-000.jpg",
    "images/cards/ME-0022-01.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0022-card.webp",
   "lat": 46.86646,
   "lng": -68.04219,
-  "photo": "images/ME-0022-card.webp",
-  "coverPhoto": "images/ME-0022-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0022-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0022-000.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -127,55 +65,21 @@
   "destination": "Aroostook",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Crossroad Cabins is the center for Northern Maine Travel. With access to a large network of ATV and snowmobile trails, a ski resort, excellent hunting and fishing grounds, as well as beautiful downtown Fort Kent, Crossroad Cabins has everything you need to make your stay in Maine one to remember.",
-  "descriptionSource": "https://www.crossroadcabins.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Crossroad Cabins is the center for Northern Maine Travel. With access to a large network of ATV and snowmobile trails, a ski resort, excellent…",
-  "cardDescriptionSource": "https://www.crossroadcabins.com",
   "cardPhotos": [
    "images/ME-0039-cover.jpg",
    "images/ME-0039-000.avif",
    "images/ME-0039-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0039-card.webp",
   "lat": 47.2559,
   "lng": -68.5905,
-  "photo": "images/ME-0039-card.webp",
-  "coverPhoto": "images/ME-0039-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0039-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0039-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0039-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0039-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -189,11 +93,7 @@
   "destination": "Aroostook",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "A secluded off-grid cabin near Fort Kent, sleeping seven with river views, trail access, a woodstove and two kayaks.",
-  "cardDescriptionSource": "https://www.eagleeyecabin.com/",
   "cardPhotos": [
    "images/ME-0040-cover.jpg",
    "images/ME-0040-000.jpg",
@@ -205,46 +105,14 @@
     "https://www.airbnb.com/rooms/1049182347441087511?source_impression_id=p3_1776128319_P3yAqsa8mzeb-sST"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0040-card.webp",
   "lat": 47.27974,
   "lng": -68.55065,
-  "photo": "images/ME-0040-card.webp",
-  "coverPhoto": "images/ME-0040-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0040-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0040-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0040-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0040-002.png",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -258,55 +126,21 @@
   "destination": "Aroostook",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Discover Eagle Lake Sporting Camps—an all-inclusive Maine retreat with lakeside cabins, fine dining, fishing, guided hunts, and unforgettable adventures.",
-  "descriptionSource": "https://eaglelakesportingcamps.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover Eagle Lake Sporting Camps—an all-inclusive Maine retreat with lakeside cabins, fine dining, fishing, guided hunts, and unforgettable…",
-  "cardDescriptionSource": "https://eaglelakesportingcamps.com/",
   "cardPhotos": [
    "images/ME-0030-cover.jpg",
    "images/ME-0030-000.jpg",
    "images/ME-0030-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0030-card.webp",
   "lat": 47.04155,
   "lng": -68.5885,
-  "photo": "images/ME-0030-card.webp",
-  "coverPhoto": "images/ME-0030-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0030-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0030-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0030-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0030-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0030-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -320,55 +154,21 @@
   "destination": "Aroostook",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Five air-conditioned lakefront cabins with a private beach on Eagle Lake in northern Maine. Each sleeps 10. Book one for your family, or all five for up to 50. The property has kayaks, docks and trail access.",
-  "descriptionSource": "https://www.lakesidecottagesmaine.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Five air-conditioned lakefront cabins with a private beach on Eagle Lake in northern Maine. Each sleeps 10. Book one for your family, or all five…",
-  "cardDescriptionSource": "https://www.lakesidecottagesmaine.com",
   "cardPhotos": [
    "images/ME-0031-cover.jpg",
    "images/ME-0031-000.avif",
    "images/ME-0031-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "10/cabin; 50 total across 5",
-  "priceFrom": "Unknown",
-  "priceDetails": "$199–$350/night; $1,800–$2,250/week $199–250 last-minute/offseason; standard nightly $285–350; rates per cabin; tax/cleaning extra",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Yes",
-  "kidsDetails": "Yes (all ages)",
-  "petsDetails": "Yes (up to 2 dogs; $100 fee)",
+  "photo": "images/ME-0031-card.webp",
   "lat": 47.04273,
   "lng": -68.58954,
-  "photo": "images/ME-0031-card.webp",
-  "coverPhoto": "images/ME-0031-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0031-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0031-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0031-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0031-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -382,57 +182,21 @@
   "destination": "Aroostook",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "First Settlers Lodge is easy to locate on US Route 1 in Weston, twenty-eight miles (28) south of the terminus on I-95 in Houlton. Access from the south is by way of US Route 1 from Calais or US Route 6 and Rural Route 169 from Lincoln. Guests may request shuttle service from Bangor International,",
-  "descriptionSource": "https://firstsettlerslodge.com/index.php/directions/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "First Settlers Lodge is easy to locate on US Route 1 in Weston, twenty-eight miles (28) south of the terminus on I-95 in Houlton. Access from the…",
-  "cardDescriptionSource": "https://firstsettlerslodge.com/index.php/directions/",
   "cardPhotos": [
    "images/ME-0117-cover.jpg",
    "images/ME-0117-000.jpg",
    "images/ME-0117-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0117-card.webp",
   "lat": 45.69379,
   "lng": -67.86112,
-  "photo": "images/ME-0117-card.webp",
-  "coverPhoto": "images/ME-0117-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0117-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0117-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0117-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0117-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -446,77 +210,21 @@
   "destination": "Aroostook",
   "type": "Houseboat",
   "recordType": "Property",
-  "description": "NOMAD offers seasonal houseboat stays for four on Junior Lake. Guests sleep aboard a moored boat with communal sleeping quarters and a private bathroom; the Lakeville shore address is the homeport, rather than a fixed mooring.",
-  "descriptionSource": "https://thefloatingnomad.com/nomad/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "NOMAD offers seasonal houseboat stays for four on Junior Lake. Guests sleep aboard a moored boat with communal sleeping quarters and a private…",
-  "cardDescriptionSource": "https://thefloatingnomad.com/nomad/",
   "cardPhotos": [
    "images/ME-0308-cover.jpg",
    "images/ME-0308-000.jpg",
    "images/ME-0308-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "actual mooring / arrival arrangements confirmed by operator"
-  ],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": "Unknown",
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "4",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0308-card.webp",
   "lat": 45.275,
   "lng": -68.0091667,
-  "photo": "images/ME-0308-card.webp",
-  "coverPhoto": "images/ME-0308-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0308-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/359229/9bab07da920e901bf7d933836011ac6d.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-nomad-in-lakeville-maine/359229",
-    "sha256": "1d926a44202f6ad74b13d4e1f065890cb87aee462f5590cfcca15b7628ae406f",
-    "width": 1200,
-    "height": 801
-   },
-   {
-    "file": "images/ME-0308-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/359229/fc676e2621142d1df22eafbf5543bf67.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-nomad-in-lakeville-maine/359229",
-    "sha256": "e13c74b858c220aa2ad17a6a4252ca7aef43306949254622c8396fbd10024d38",
-    "width": 1200,
-    "height": 802
-   },
-   {
-    "file": "images/ME-0308-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/359229/e50d0c5c85d7ae2f906b9664b3374c8c.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-nomad-in-lakeville-maine/359229",
-    "sha256": "e35e2ca9de185a525b20315897bcbc40f8f2feb5dec1bcb372fb0a88fdc1fb5e",
-    "width": 1200,
-    "height": 800
-   },
-   {
-    "file": "images/ME-0308-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/359229/b4310261978fc42af0d062b40dcf38e6.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-nomad-in-lakeville-maine/359229",
-    "sha256": "988922f5d0fd8d1bc3443bf3082919b6a8f44926efdd544335629b9385900722",
-    "width": 1080,
-    "height": 1080
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published shore/homeport; actual mooring varies",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -531,11 +239,7 @@
   "destination": "Aroostook",
   "type": "Houseboat",
   "recordType": "Property",
-  "description": "Spend the night aboard ROAM on Junior Lake, with room for two, a kitchenette, private wet bath, and outdoor lounging areas. This seasonal houseboat stay uses an operator-arranged mooring near the Lakeville homeport.",
-  "descriptionSource": "https://thefloatingnomad.com/roam/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Spend the night aboard ROAM on Junior Lake, with room for two, a kitchenette, private wet bath, and outdoor lounging areas. This seasonal houseboat…",
-  "cardDescriptionSource": "https://thefloatingnomad.com/roam/",
   "cardPhotos": [
    "images/ME-0297-cover.jpg",
    "images/ME-0297-000.jpg",
@@ -546,69 +250,14 @@
     "https://www.airbnb.com/rooms/35971042?s=67"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "actual mooring / arrival arrangements confirmed by operator"
-  ],
-  "rooms": "Unknown",
+  "guests": 2,
   "bedrooms": "Unknown",
   "bathrooms": 1,
-  "guests": 2,
-  "capacityDetails": "2",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0297-card.webp",
   "lat": 45.275,
   "lng": -68.0091667,
-  "photo": "images/ME-0297-card.webp",
-  "coverPhoto": "images/ME-0297-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0297-cover.jpg",
-    "role": "cover",
-    "url": "https://www.assets.houfy.com/assets/images/properties/365870/675795e729e32e7314a3f693af092267.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-roam-in-lakeville-maine/365870",
-    "sha256": "cecc225a1f863959a59a90b41b42e634a275c63967e3dbf1df967bd69452e29d",
-    "width": 1200,
-    "height": 801
-   },
-   {
-    "file": "images/ME-0297-000.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/365870/f831bbdf2831e93b3a7e72ec28ee5423.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-roam-in-lakeville-maine/365870",
-    "sha256": "c3a5fb398a6bdf759ca25031a65b8c03f4aa5fb3ca3773cf97ab2ffa50a808c9",
-    "width": 1200,
-    "height": 901,
-    "originalSha256": "408db954c967a70a5321dc6916a8243b2b703e0f4975ac12dd07a2d3b428907c",
-    "originalWidth": 1200,
-    "originalHeight": 901
-   },
-   {
-    "file": "images/ME-0297-001.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/365870/1c9f2fca36e4e578bc3b2ed6151f5217.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-roam-in-lakeville-maine/365870",
-    "sha256": "484d6463ba92253fc5d6d706b2c64e242798fc8a7b28ad5abca44e5595271cd9",
-    "width": 1200,
-    "height": 801
-   },
-   {
-    "file": "images/ME-0297-002.jpg",
-    "role": "photo",
-    "url": "https://www.assets.houfy.com/assets/images/properties/365870/363ab16a07d514506e18bcc984b60863.jpg",
-    "page": "https://www.houfy.com/lodging/houseboat-roam-in-lakeville-maine/365870",
-    "sha256": "3c49f6f46c20ab393659db0f6f486cba1dbc7335e446caa835a9c5907928ab0f",
-    "width": 1200,
-    "height": 802
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published shore/homeport; actual mooring varies",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -623,55 +272,21 @@
   "destination": "Aroostook",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Northern Maine Vacation Home, Cabins, RV/Tent Camping, and all-in-one Event Venue. From unforgettable events to outdoor adventures, enjoy trail access, riverfront stays, and the beauty of Northern Maine.",
-  "descriptionSource": "https://junction19co.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Northern Maine Vacation Home, Cabins, RV/Tent Camping, and all-in-one Event Venue. From unforgettable events to outdoor adventures, enjoy trail…",
-  "cardDescriptionSource": "https://junction19co.com/",
   "cardPhotos": [
    "images/ME-0042-cover.webp",
    "images/ME-0042-000.avif",
    "images/ME-0042-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "7/cabin (North, South); 9/house",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes (family vacation and reunions)",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0042-card.webp",
   "lat": 47.2559,
   "lng": -68.5905,
-  "photo": "images/ME-0042-card.webp",
-  "coverPhoto": "images/ME-0042-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0042-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0042-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0042-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0042-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0042-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -685,57 +300,21 @@
   "destination": "Aroostook",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "When the historic Atkins Camps were founded in 1890, and twenty years before Ike, Will, and their father C.C. purchased them and founded Libby Camps, the world was a vastly different place. 1890 was the year Yosemite was designated as a National Park, and the same year Wyoming and Idaho were admitted as 43rd and 44th states. It was one year before Carnegie Hall opened in New York City, and two years before Ellis Island started accepting and processing immigrants. It was three years still before the extravagant Chicago World’s Fair, where the masses were introduced to the marvel of",
-  "descriptionSource": "https://www.libbycamps.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "When the historic Atkins Camps were founded in 1890, and twenty years before Ike, Will, and their father C.C. purchased them and founded Libby…",
-  "cardDescriptionSource": "https://www.libbycamps.com/",
   "cardPhotos": [
    "images/ME-0001-cover.jpg",
    "images/ME-0001-000.jpg",
    "images/ME-0001-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0001-card.webp",
   "lat": 46.6309,
   "lng": -68.4037,
-  "photo": "images/ME-0001-card.webp",
-  "coverPhoto": "images/ME-0001-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0001-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0001-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0001-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0001-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0001-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -750,45 +329,21 @@
   "destination": "Aroostook",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Our Year-round cabin rentals are reasonable priced, clean, comfortable and provide a private space for you to relax after an exciting adventure in Northern Aroostook County. Amenities include:kitchen stove with oven3/4 bathrefrigeratormicrowavekitchen table with chairseating dishes and cutleryKayak and canoes free with week rentalX-country skis and snowshoes available for most sizes below is the Duplex…",
-  "descriptionSource": "https://lugdonlodge.wordpress.com/cabin-rentals/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Our Year-round cabin rentals are reasonable priced, clean, comfortable and provide a private space for you to relax after an exciting adventure in…",
-  "cardDescriptionSource": "https://lugdonlodge.wordpress.com/cabin-rentals/",
   "cardPhotos": [
    "images/ME-0032-cover.jpg",
    "images/cards/ME-0032-01.webp",
    "images/cards/ME-0032-02.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0032-card.webp",
   "lat": 47.05378,
   "lng": -68.58507,
-  "photo": "images/ME-0032-card.webp",
-  "coverPhoto": "images/ME-0032-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0032-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -802,57 +357,21 @@
   "destination": "Aroostook",
   "type": "Camp",
   "recordType": "Property / small operator",
-  "description": "Lakeside log cabin rentals in Maine’s Allagash Lakes Region. Each private cabin has its own patch to the lake and dock. Your cozy base for wildlife watching, kayaking, stargazing, fishing for wild brook trout, hunting, and more. Dog friendly.",
-  "descriptionSource": "https://www.macannamac.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Lakeside log cabin rentals in Maine’s Allagash Lakes Region. Each private cabin has its own patch to the lake and dock. Your cozy base for wildlife…",
-  "cardDescriptionSource": "https://www.macannamac.com",
   "cardPhotos": [
    "images/ME-0073-cover.webp",
    "images/ME-0073-000.webp",
    "images/ME-0073-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0073-card.webp",
   "lat": "Unknown",
   "lng": "Unknown",
-  "photo": "images/ME-0073-card.webp",
-  "coverPhoto": "images/ME-0073-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0073-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0073-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0073-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0073-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Unknown",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -867,55 +386,21 @@
   "destination": "Aroostook",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "T he Overlook Motel is located directly on RT 11, approximately 15 miles south of Fort Kent, Maine, overlooking beautiful Eagle Lake. Open year round, guests can see the easterly views of the lake from their over-sized rooms. Fax and copy services are available in the lobby and guests have access to free WIFI throughout the property and RV sites. One night in our motel and you will be sure to return again.",
-  "descriptionSource": "https://www.overlookmotel.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "T he Overlook Motel is located directly on RT 11, approximately 15 miles south of Fort Kent, Maine, overlooking beautiful Eagle Lake. Open year…",
-  "cardDescriptionSource": "https://www.overlookmotel.com",
   "cardPhotos": [
    "images/ME-0033-cover.jpg",
    "images/ME-0033-000.jpg",
    "images/ME-0033-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0033-card.webp",
   "lat": 47.04556,
   "lng": -68.59557,
-  "photo": "images/ME-0033-card.webp",
-  "coverPhoto": "images/ME-0033-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0033-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0033-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0033-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0033-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0033-logo.avif",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -929,55 +414,21 @@
   "destination": "Aroostook",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Welcome To Pond Brook Cabins Your Memories Await... Cozy country warmth of a log cabin, and the convenience of home Book Your Reservation Now Escape the ordinary. Return to Nature. Browse Our Cabins Pond Brook Cabins are the premiere vacation rentals in Northern Maine. TREAT yourselves to a vacation to remember!! We provide our guests",
-  "descriptionSource": "https://pondbrookcabins.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Welcome To Pond Brook Cabins Your Memories Await... Cozy country warmth of a log cabin, and the convenience of home Book Your Reservation Now Escape…",
-  "cardDescriptionSource": "https://pondbrookcabins.com/",
   "cardPhotos": [
    "images/ME-0034-cover.jpg",
    "images/ME-0034-000.jpg",
    "images/ME-0034-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes (small family)",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0034-card.webp",
   "lat": 47.03923,
   "lng": -68.58602,
-  "photo": "images/ME-0034-card.webp",
-  "coverPhoto": "images/ME-0034-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0034-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0034-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0034-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0034-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0034-logo.jpg",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -991,57 +442,21 @@
   "destination": "Aroostook",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Lakeside Lodge & Cabins - East Grand Lake, Maine",
-  "descriptionSource": "https://rideouts.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Lakeside Lodge & Cabins - East Grand Lake, Maine",
-  "cardDescriptionSource": "https://rideouts.com/",
   "cardPhotos": [
    "images/ME-0118-cover.webp",
    "images/ME-0118-000.webp",
    "images/ME-0118-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–14 per cabin",
-  "priceFrom": "Unknown",
-  "priceDetails": "$145–$330/night (lodging-only advertised) Per-cabin seasonal rates on official rates page; all-inclusive rates billed per person; pet policy not confirmed",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Unknown",
-  "kidsDetails": "Yes — age-based children rates",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0118-card.webp",
   "lat": 45.7358,
   "lng": -67.8761,
-  "photo": "images/ME-0118-card.webp",
-  "coverPhoto": "images/ME-0118-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0118-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0118-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0118-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0118-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0118-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1055,11 +470,7 @@
   "destination": "Aroostook",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Arriving at The Tamaracks feels like the beginning of something memorable. The moment you step out of your vehicle, you sense the quiet of the countryside, the clean northern air, and the anticipation of adventure. Whether you plan to ride the trails, explore local waterways, or unwind in a peaceful rural setting, your cabin becomes the center of your experience.",
-  "descriptionSource": "https://tamaracksmaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Arriving at The Tamaracks feels like the beginning of something memorable. The moment you step out of your vehicle, you sense the quiet of the…",
-  "cardDescriptionSource": "https://tamaracksmaine.com/",
   "cardPhotos": [
    "images/ME-0146-cover.jpg",
    "images/ME-0146-000.jpg",
@@ -1071,42 +482,14 @@
     "https://www.vrbo.com/4918126?dateless=true&brandcid=VRBO.OWNED.BRANCH.DEFAULT.DESKTOP-SHARELINK&_branch_match_id=1488508394031966394&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL9ErK0rK18vM1y%2BztCwpyjXLdjVIsq8rSk1LLSrKzEuPTyrKLy9OLbJ1zijKz00FAAJKdcY3AAAA"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Both cabins together: 12–16",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — cabins marketed to families",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0146-card.webp",
   "lat": 46.84367,
   "lng": -68.04271,
-  "photo": "images/ME-0146-card.webp",
-  "coverPhoto": "images/ME-0146-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0146-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0146-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0146-001.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0146-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1120,55 +503,21 @@
   "destination": "Aroostook",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Trackemdown Lodge & Cabins is a Top Ranked, All Inclusive Guide Service Built in Maine over 30 years ago, offering Guided Hunts for Bear, Moose, and Deer.",
-  "descriptionSource": "https://www.trackdownkennelslodge.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Trackemdown Lodge & Cabins is a Top Ranked, All Inclusive Guide Service Built in Maine over 30 years ago, offering Guided Hunts for Bear, Moose, and…",
-  "cardDescriptionSource": "https://www.trackdownkennelslodge.com",
   "cardPhotos": [
    "images/ME-0074-cover.jpg",
    "images/ME-0074-000.jpg",
    "images/ME-0074-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0074-card.webp",
   "lat": 47.19783,
   "lng": -68.59989,
-  "photo": "images/ME-0074-card.webp",
-  "coverPhoto": "images/ME-0074-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0074-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0074-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0074-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0074-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1182,11 +531,7 @@
   "destination": "Aroostook",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "Furnished cabins near Caribou in Aroostook County, with direct snowmobile and ATV trail access and space for family and group stays.",
-  "cardDescriptionSource": "https://upnorthcabins.com/",
   "cardPhotos": [
    "images/ME-0023-cover.jpg",
    "images/ME-0023-000.jpg",
@@ -1199,46 +544,14 @@
     "https://www.vrbo.com/2775955"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "11–14 per cabin (site's rate page); Black Bear cabin details say 13",
-  "priceFrom": "Unknown",
-  "priceDetails": "$225/night (May–Dec 2024); $285/night (Jan–Apr 2025) Historical rates for first 4 guests; extra guests extra; current prices not verified",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "No",
-  "kidsDetails": "Yes (under age 2 free)",
-  "petsDetails": "No",
+  "photo": "images/ME-0023-card.webp",
   "lat": 46.95668,
   "lng": -68.02247,
-  "photo": "images/ME-0023-card.webp",
-  "coverPhoto": "images/ME-0023-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0023-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0023-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0023-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0023-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0023-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1252,55 +565,21 @@
   "destination": "Aroostook",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Wheaton's Lodge is a traditional family operated sporting camp ideally situated amidst spectacular lake country in eastern Maine, well beyond the fringe of population and fishing pressures. Our reputation is founded on a long tradition (1952) of proven fishing results, good food, peace and quiet, and warm hospitality.",
-  "descriptionSource": "https://www.wheatonslodge.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Wheaton's Lodge is a traditional family operated sporting camp ideally situated amidst spectacular lake country in eastern Maine, well beyond the…",
-  "cardDescriptionSource": "https://www.wheatonslodge.com",
   "cardPhotos": [
    "images/ME-0037-cover.jpg",
    "images/ME-0037-000.avif",
    "images/ME-0037-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0037-card.webp",
   "lat": 45.6598,
   "lng": -67.7297,
-  "photo": "images/ME-0037-card.webp",
-  "coverPhoto": "images/ME-0037-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0037-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0037-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0037-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0037-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0037-logo.avif",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  }

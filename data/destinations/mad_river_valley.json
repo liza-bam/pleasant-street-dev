@@ -9,11 +9,7 @@
   "destination": "Mad River Valley",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Family-run vacation lodging in Warren offering Kismet Cabin and a separate Alpine Suite near Blueberry Lake.",
-  "descriptionSource": "https://kismetpropertiesvermont.com/",
-  "descriptionStatus": "Paraphrased from verified source website",
   "cardDescription": "Family-run vacation lodging in Warren offering Kismet Cabin and a separate Alpine Suite near Blueberry Lake.",
-  "cardDescriptionSource": "https://kismetpropertiesvermont.com/",
   "cardPhotos": [
    "images/VT-0049-cover.jpg",
    "images/cards/VT-0049-01.webp",
@@ -25,41 +21,14 @@
     "https://www.vrbo.com/3759865?dateless=true"
    ]
   },
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Additional property photographs",
-   "Rates for selected dates",
-   "Published physical street address",
-   "Published ZIP code",
-   "Unit-specific guests",
-   "Unit-specific bedrooms",
-   "Unit-specific bathrooms",
-   "Published pets policy"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Kismet Cabin sleeps 8–10; separate Alpine Suite sleeps 2–4.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Choose dates or inquire directly for current rates.",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes",
-  "petsDetails": "Unknown",
+  "photo": "images/VT-0049-card.webp",
   "lat": 44.1139,
   "lng": -72.8555,
-  "photo": "images/VT-0049-card.webp",
-  "coverPhoto": "images/VT-0049-cover.jpg",
-  "photos": [
-   {
-    "file": "images/VT-0049-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -73,53 +42,21 @@
   "destination": "Mad River Valley",
   "type": "Unknown",
   "recordType": "Local rental operator",
-  "description": "A locally owned Mad River Valley rental manager offering direct reservations for vacation houses, cabins and other stays.",
-  "descriptionSource": "https://www.mrvrm.com/",
-  "descriptionStatus": "Paraphrased from verified source website",
   "cardDescription": "A locally owned Mad River Valley rental manager offering direct reservations for vacation houses, cabins and other stays.",
-  "cardDescriptionSource": "https://www.mrvrm.com/",
   "cardPhotos": [
    "images/VT-0031-cover.jpg",
    "images/cards/VT-0031-01.webp",
    "images/cards/VT-0031-02.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Additional property photographs",
-   "Rates for selected dates",
-   "Published physical street address",
-   "Published ZIP code",
-   "Unit-specific guests",
-   "Unit-specific bedrooms",
-   "Unit-specific bathrooms",
-   "Published pets policy",
-   "Published kids policy"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Choose dates or inquire directly for current rates.",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/VT-0031-card.webp",
   "lat": 44.242,
   "lng": -72.8382,
-  "photo": "images/VT-0031-card.webp",
-  "coverPhoto": "images/VT-0031-cover.jpg",
-  "photos": [
-   {
-    "file": "images/VT-0031-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  }

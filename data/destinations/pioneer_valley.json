@@ -9,55 +9,21 @@
   "destination": "Pioneer Valley",
   "type": "Apartment",
   "recordType": "Rental operator",
-  "description": "Victorian Shelburne Falls inn with private-bath rooms and suites, a short walk from the Bridge of Flowers.",
-  "descriptionSource": "https://bloominginnshelburnefalls.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Victorian Shelburne Falls inn with private-bath rooms and suites, a short walk from the Bridge of Flowers.",
-  "cardDescriptionSource": "https://bloominginnshelburnefalls.com/",
   "cardPhotos": [
    "images/MA-0309-cover.webp",
    "images/MA-0309-000.webp",
    "images/MA-0309-001.webp"
   ],
-  "cardPhotoLabel": "Photos: Rose Room",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos",
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "No",
-  "kidsDetails": "Normally adults-only; no children or babies. Possible exceptions for older children require prior contact. Any approved child shares room with one adult; room maximum two.",
-  "petsDetails": "Pets not accepted.",
+  "photo": "images/MA-0309-card.webp",
   "lat": 42.6036,
   "lng": -72.7395,
-  "photo": "images/MA-0309-card.webp",
-  "coverPhoto": "images/MA-0309-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0309-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0309-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0309-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -71,55 +37,21 @@
   "destination": "Pioneer Valley",
   "type": "Cabin",
   "recordType": "Property",
-  "description": "One-bedroom log cabin on a 130-acre organic farm, sleeping up to 4, with full bath, kitchen, washer/dryer and porch gas grill.",
-  "descriptionSource": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "One-bedroom log cabin on a 130-acre organic farm, sleeping up to 4, with full bath, kitchen, washer/dryer and porch gas grill.",
-  "cardDescriptionSource": "https://www.blueheronfarm.com/farm-vacation-rentals/log-cabin/",
   "cardPhotos": [
    "images/MA-18000-cover.webp",
    "images/MA-18000-000.webp",
    "images/MA-18000-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 4,
   "bedrooms": 1,
   "bathrooms": 1,
-  "guests": 4,
-  "capacityDetails": "Property page lists sleeps 4.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Rates page: pets welcomed by pre-arrangement with a cleaning fee.",
+  "photo": "images/MA-18000-card.webp",
   "lat": 42.661984,
   "lng": -72.863719,
-  "photo": "images/MA-18000-card.webp",
-  "coverPhoto": "images/MA-18000-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-18000-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-18000-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18000-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18000-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Street address",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -134,58 +66,21 @@
   "destination": "Pioneer Valley",
   "type": "Cabin",
   "recordType": "Rental operator",
-  "description": "Adults-only Charlemont cabin retreat for couples, with private hot tubs, soaking tubs, fireplaces and mountain views.",
-  "descriptionSource": "https://www.hinataretreat.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Adults-only Charlemont cabin retreat for couples, with private hot tubs, soaking tubs, fireplaces and mountain views.",
-  "cardDescriptionSource": "https://www.hinataretreat.com/",
   "cardPhotos": [
    "images/MA-0310-cover.webp",
    "images/MA-0310-000.webp",
    "images/MA-0310-001.webp"
   ],
-  "cardPhotoLabel": "Photos: MountainViewCabin category",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "No",
   "pets": "No",
-  "kidsDetails": "Adults-only; every guest must be eighteen or older.",
-  "petsDetails": "No pets; contact team before arrival for service-animal accommodations.",
+  "photo": "images/MA-0310-card.webp",
   "lat": 42.63734,
   "lng": -72.88379,
-  "photo": "images/MA-0310-card.webp",
-  "coverPhoto": "images/MA-0310-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0310-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0310-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0310-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0310-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -200,57 +95,21 @@
   "destination": "Pioneer Valley",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Hawley mountain chalet with five bedrooms, a hot tub, recreation room and direct trail access near Berkshire East.",
-  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Hawley mountain chalet with five bedrooms, a hot tub, recreation room and direct trail access near Berkshire East.",
-  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a5a8d5482a124001334f80f?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/MA-0253-cover.webp",
    "images/MA-0253-000.webp",
    "images/MA-0253-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 14,
   "bedrooms": 5,
   "bathrooms": 3,
-  "guests": 14,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
-  "petsDetails": "Dogs allowed, age 1+ and $50 each per stay; quantity conflicts between one and two dogs. Confirm with host.",
+  "photo": "images/MA-0253-card.webp",
   "lat": 42.61054,
   "lng": -72.883042,
-  "photo": "images/MA-0253-card.webp",
-  "coverPhoto": "images/MA-0253-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0253-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0253-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0253-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0253-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -264,57 +123,21 @@
   "destination": "Pioneer Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Colonial cape reproduction with antique furnishings, 2 bedrooms and 1 bath, sleeping 6, within walking distance of Historic Deerfield.",
-  "descriptionSource": "https://olddeerfieldtreasure.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Colonial cape reproduction with antique furnishings, 2 bedrooms and 1 bath, sleeping 6, within walking distance of Historic Deerfield.",
-  "cardDescriptionSource": "https://olddeerfieldtreasure.com/",
   "cardPhotos": [
    "images/MA-18003-cover.webp",
    "images/MA-18003-000.webp",
    "images/MA-18003-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 6,
   "bedrooms": 2,
   "bathrooms": 1,
-  "guests": 6,
-  "capacityDetails": "Property page lists sleeps 6.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Overview page: pets not allowed.",
+  "photo": "images/MA-18003-card.webp",
   "lat": 42.529041,
   "lng": -72.597536,
-  "photo": "images/MA-18003-card.webp",
-  "coverPhoto": "images/MA-18003-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-18003-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-18003-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18003-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18003-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -328,57 +151,21 @@
   "destination": "Pioneer Valley",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Worthington chalet with three bedrooms, a renovated kitchen, wraparound deck, covered porch and forest views.",
-  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Worthington chalet with three bedrooms, a renovated kitchen, wraparound deck, covered porch and forest views.",
-  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/6a235bcd7aef5a00243409c8?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/MA-0255-cover.webp",
    "images/MA-0255-000.webp",
    "images/MA-0255-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": "Unknown",
-  "capacityDetails": "Catalog6guests;description6–8;confirmationneeded",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
-  "petsDetails": "Up to two dogs, at least one year old; $50 per dog per stay; contact host in advance. Pet damage excluded from damage waiver.",
+  "photo": "images/MA-0255-card.webp",
   "lat": 42.416917,
   "lng": -72.954883,
-  "photo": "images/MA-0255-card.webp",
-  "coverPhoto": "images/MA-0255-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0255-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0255-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0255-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0255-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -392,57 +179,21 @@
   "destination": "Pioneer Valley",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Cummington log home on 44 acres with riverfront, a gas fireplace, steam sauna and forest views.",
-  "descriptionSource": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Cummington log home on 44 acres with riverfront, a gas fireplace, steam sauna and forest views.",
-  "cardDescriptionSource": "https://wilkuma.guestybookings.com/en/properties/698ba917b571ed001547bf50?minOccupancy=1&adults=1",
   "cardPhotos": [
    "images/MA-0259-cover.webp",
    "images/MA-0259-000.webp",
    "images/MA-0259-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 10,
   "bedrooms": 3,
   "bathrooms": 2,
-  "guests": 10,
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Suitable for children ages 2–12 and infants under 2.",
-  "petsDetails": "No pets allowed.",
+  "photo": "images/MA-0259-card.webp",
   "lat": 42.493141,
   "lng": -72.973299,
-  "photo": "images/MA-0259-card.webp",
-  "coverPhoto": "images/MA-0259-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0259-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0259-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0259-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0259-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -456,56 +207,21 @@
   "destination": "Pioneer Valley",
   "type": "Apartment",
   "recordType": "Rental operator",
-  "description": "Three vacation apartments in a restored Shelburne Falls firehouse, within walking distance of downtown shops and dining.",
-  "descriptionSource": "https://www.firehouse-studios.com/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Three vacation apartments in a restored Shelburne Falls firehouse, within walking distance of downtown shops and dining.",
-  "cardDescriptionSource": "https://www.firehouse-studios.com/",
   "cardPhotos": [
    "images/MA-0303-cover.webp",
    "images/MA-0303-000.webp",
    "images/MA-0303-001.webp"
   ],
-  "cardPhotoLabel": "Photos: StudioOne",
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "No",
-  "kidsDetails": "Studio One explicitly provides a bunk room ideal for kids. No explicit child admission policy found for Studios Two/Three; do not transfer Studio One’s child suitability to every unit.",
-  "petsDetails": "All three studio-specific linked host listings explicitly prohibit pets. Studio One expanded rules specify service animals only.",
+  "photo": "images/MA-0303-card.webp",
   "lat": 42.6036,
   "lng": -72.7395,
-  "photo": "images/MA-0303-card.webp",
-  "coverPhoto": "images/MA-0303-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0303-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0303-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0303-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0303-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -519,36 +235,16 @@
   "destination": "Pioneer Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Shelburne Falls lodging lead listed by Franklin County Chamber; own-site verification blocked by a security challenge.",
-  "descriptionSource": "http://franklincc.chambermaster.com/list/category/hotels-motels-bed-and-breakfasts-vacation-rentals-114",
-  "descriptionStatus": "Source-supported lead; eligibility not approved",
+  "cardDescription": "Shelburne Falls lodging lead listed by Franklin County Chamber; own-site verification blocked by a security challenge.",
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos",
-   "Official physical rental or operator-business address",
-   "correct address role",
-   "Website eligibility verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "Unknown",
   "lat": 42.6036,
   "lng": -72.7395,
-  "photo": "Unknown",
-  "coverPhoto": "Unknown",
-  "photos": [],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -562,53 +258,21 @@
   "destination": "Pioneer Valley",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Historic Hatfield inn beside the Mill River offering rooms and full-kitchen suites, near Northampton.",
-  "descriptionSource": "https://www.oldmillinn.us/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Historic Hatfield inn beside the Mill River offering rooms and full-kitchen suites, near Northampton.",
-  "cardDescriptionSource": "https://www.oldmillinn.us/",
   "cardPhotos": [
    "images/MA-0308-cover.webp",
    "images/MA-0308-000.webp",
    "images/MA-0308-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "No",
-  "kidsDetails": "Seventeen and under may share parents’ room without extra room charge where a roll-away fits; call to arrange.",
-  "petsDetails": "Pets not currently permitted.",
+  "photo": "images/MA-0308-card.webp",
   "lat": 42.3732,
   "lng": -72.5961,
-  "photo": "images/MA-0308-card.webp",
-  "coverPhoto": "images/MA-0308-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0308-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0308-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0308-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -622,57 +286,21 @@
   "destination": "Pioneer Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Renovated 5-bedroom Charlemont home for up to 12, under 3 miles from Berkshire East, with large back deck, fire pit, grill and shuffleboard.",
-  "descriptionSource": "https://www.theshirehomes.com/property/shirebasecamp413",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Renovated 5-bedroom Charlemont home for up to 12, under 3 miles from Berkshire East, with large back deck, fire pit, grill and shuffleboard.",
-  "cardDescriptionSource": "https://www.theshirehomes.com/property/shirebasecamp413",
   "cardPhotos": [
    "images/MA-18001-cover.webp",
    "images/MA-18001-000.webp",
    "images/MA-18001-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 12,
   "bedrooms": 5,
   "bathrooms": 2.5,
-  "guests": 12,
-  "capacityDetails": "Property page lists sleeps 12.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/MA-18001-card.webp",
   "lat": 42.627585,
   "lng": -72.86693,
-  "photo": "images/MA-18001-card.webp",
-  "coverPhoto": "images/MA-18001-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-18001-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-18001-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18001-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18001-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -686,57 +314,21 @@
   "destination": "Pioneer Valley",
   "type": "House",
   "recordType": "Property",
-  "description": "Historic 5-bedroom former mill-worker home 5 minutes from Shelburne Falls, with hot tub, game room and an accessible main-floor suite.",
-  "descriptionSource": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Historic 5-bedroom former mill-worker home 5 minutes from Shelburne Falls, with hot tub, game room and an accessible main-floor suite.",
-  "cardDescriptionSource": "https://www.theshirehomes.com/property/spring-getaway-to-western-ma-cozy-family-retreat",
   "cardPhotos": [
    "images/MA-18002-cover.webp",
    "images/MA-18002-000.webp",
    "images/MA-18002-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Official physical rental or operator-business address; correct address role"
-  ],
-  "rooms": "Unknown",
+  "guests": 11,
   "bedrooms": 5,
   "bathrooms": 2,
-  "guests": 11,
-  "capacityDetails": "Property page lists sleeps 11.",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Property page: pet free home.",
+  "photo": "images/MA-18002-card.webp",
   "lat": 42.654789,
   "lng": -72.713913,
-  "photo": "images/MA-18002-card.webp",
-  "coverPhoto": "images/MA-18002-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-18002-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-18002-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18002-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-18002-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Exact (operator page coordinates)",
   "featured": false,
   "demo": false
  },
@@ -750,53 +342,21 @@
   "destination": "Pioneer Valley",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Whately village inn offering overnight rooms with private baths and electric fireplaces, alongside a restaurant.",
-  "descriptionSource": "https://whatelyinn.com/guest-rooms/",
-  "descriptionStatus": "Paraphrased from verified website",
   "cardDescription": "Whately village inn offering overnight rooms with private baths and electric fireplaces, alongside a restaurant.",
-  "cardDescriptionSource": "https://whatelyinn.com/guest-rooms/",
   "cardPhotos": [
    "images/MA-0313-cover.webp",
    "images/MA-0313-000.webp",
    "images/MA-0313-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "Four authentic property photos"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "No child admission policy published in checked accommodation page.",
-  "petsDetails": "No pet admission policy published in checked accommodation page.",
+  "photo": "images/MA-0313-card.webp",
   "lat": 42.4399,
   "lng": -72.6349,
-  "photo": "images/MA-0313-card.webp",
-  "coverPhoto": "images/MA-0313-cover.webp",
-  "photos": [
-   {
-    "file": "images/MA-0313-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/MA-0313-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/MA-0313-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  }

@@ -9,57 +9,21 @@
   "destination": "Downeast",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Motel rooms and cabins 10 minutes from Machias on Route 1, with swimming pool, WiFi, satellite TV, and homemade blueberry muffins.",
-  "descriptionSource": "https://www.blueberrypatchmotel.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Motel rooms and cabins 10 minutes from Machias on Route 1, with swimming pool, WiFi, satellite TV, and homemade blueberry muffins.",
-  "cardDescriptionSource": "https://www.blueberrypatchmotel.com/",
   "cardPhotos": [
    "images/ME-0055-cover.jpg",
    "images/ME-0055-000.jpg",
    "images/ME-0055-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0055-card.webp",
   "lat": 44.6662,
   "lng": -67.55569,
-  "photo": "images/ME-0055-card.webp",
-  "coverPhoto": "images/ME-0055-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0055-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0055-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0055-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0055-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -73,49 +37,21 @@
   "destination": "Downeast",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Welcome to Cowgers’ Lakefront Cabins, nestled on the Western shore of East Grand Lake in Danforth, Maine. Originally established in 1968 as Lou’s East Grand Camps, Cowgers’ began operation in 1994 welcoming friends and families to enjoy the rugged outdoors in the peaceful seclusion of Greenland Cove. Cowgers’ is a family-run business, taking pride in providing a relaxed, family-friendly atmosphere for our guests. Customers find a wide array of recreational activities including hiking, biking, boating, swimming, canoeing, kayaking, or just relaxing around a campfire.",
-  "descriptionSource": "https://cowgerscabins.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Welcome to Cowgers’ Lakefront Cabins, nestled on the Western shore of East Grand Lake in Danforth, Maine. Originally established in 1968 as Lou’s…",
-  "cardDescriptionSource": "https://cowgerscabins.com/",
   "cardPhotos": [
    "images/ME-0028-cover.jpg",
    "images/ME-0028-000.jpg",
    "images/cards/ME-0028-01.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–8 per cabin",
-  "priceFrom": "Unknown",
-  "priceDetails": "$500–$950/week (summer); from $45/adult/night (other seasons) Summer weekly price by cabin; child $25/night; 9% tax extra",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes (published child rates)",
-  "petsDetails": "Yes (dogs; $5/day)",
+  "photo": "images/ME-0028-card.webp",
   "lat": 45.66296,
   "lng": -67.79405,
-  "photo": "images/ME-0028-card.webp",
-  "coverPhoto": "images/ME-0028-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0028-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0028-000.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0028-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -129,55 +65,21 @@
   "destination": "Downeast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Click to find your next home rental in beautiful Downeast Maine. From Ellsworth to Blue Hill, we offer premium rentals and service.",
-  "descriptionSource": "https://downeastproperties.com/vacation-rentals/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Click to find your next home rental in beautiful Downeast Maine. From Ellsworth to Blue Hill, we offer premium rentals and service.",
-  "cardDescriptionSource": "https://downeastproperties.com/vacation-rentals/",
   "cardPhotos": [
    "images/ME-0250-cover.webp",
    "images/ME-0250-000.webp",
    "images/ME-0250-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0250-card.webp",
   "lat": 44.7077,
   "lng": -67.4657,
-  "photo": "images/ME-0250-card.webp",
-  "coverPhoto": "images/ME-0250-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0250-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0250-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0250-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0250-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0250-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -192,55 +94,21 @@
   "destination": "Downeast",
   "type": "Unknown",
   "recordType": "Property / small operator",
-  "description": "Lakeside cabin lodging in Grand Lake Stream, Maine on West Grand Lake. Cabin occupancy for 2-7 people. Guided fishing trips for lake trout, landlocked salmon, & smallmouth bass. Private boat launch & docks. Boat & motor rentals. Free canoe & kayak rentals. Kid & pet friendly. Ideal location for family vacations and reunions.",
-  "descriptionSource": "https://grandlakelodgemaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Lakeside cabin lodging in Grand Lake Stream, Maine on West Grand Lake. Cabin occupancy for 2-7 people. Guided fishing trips for lake trout…",
-  "cardDescriptionSource": "https://grandlakelodgemaine.com/",
   "cardPhotos": [
    "images/ME-0046-cover.jpg",
    "images/ME-0046-000.jpg",
    "images/ME-0046-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–7 per cabin",
-  "priceFrom": "Unknown",
-  "priceDetails": "$60/person/night Minimum double occupancy; tax 9% extra",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes (children's playground)",
-  "petsDetails": "Yes (up to 2 dogs; $20/day; no cats)",
+  "photo": "images/ME-0046-card.webp",
   "lat": 45.18392,
   "lng": -67.77712,
-  "photo": "images/ME-0046-card.webp",
-  "coverPhoto": "images/ME-0046-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0046-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0046-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0046-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0046-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0046-logo.jpg",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -254,53 +122,21 @@
   "destination": "Downeast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Hearts of Maine specializes in waterfront vacation rental properties along the downeast coast of eastern Maine. Contact us for more info!",
-  "descriptionSource": "https://heartsofmaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Hearts of Maine specializes in waterfront vacation rental properties along the downeast coast of eastern Maine. Contact us for more info!",
-  "cardDescriptionSource": "https://heartsofmaine.com/",
   "cardPhotos": [
    "images/ME-0151-cover.jpg",
    "images/ME-0151-000.jpg",
    "images/ME-0151-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Weekly rentals; contact/booking required for rates",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — families welcome",
-  "petsDetails": "Some properties — over half allow pets",
+  "photo": "images/ME-0151-card.webp",
   "lat": 44.51687,
   "lng": -67.73471,
-  "photo": "images/ME-0151-card.webp",
-  "coverPhoto": "images/ME-0151-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0151-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0151-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0151-001.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -314,55 +150,21 @@
   "destination": "Downeast",
   "type": "House",
   "recordType": "Property",
-  "description": "Easternmost town in the USA~ Vacation Home Rental & Maine Gift Shop & Ice Cream Stop",
-  "descriptionSource": "https://www.loveatfirstlightlubec.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Easternmost town in the USA~ Vacation Home Rental & Maine Gift Shop & Ice Cream Stop",
-  "cardDescriptionSource": "https://www.loveatfirstlightlubec.com",
   "cardPhotos": [
    "images/ME-0174-cover.avif",
    "images/ME-0174-000.jpg",
    "images/ME-0174-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0174-card.webp",
   "lat": 44.85964,
   "lng": -66.98329,
-  "photo": "images/ME-0174-card.webp",
-  "coverPhoto": "images/ME-0174-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0174-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0174-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0174-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0174-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -376,57 +178,21 @@
   "destination": "Downeast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Maine vacation home rental in Milbridge, Maine. Visit Acadia National Park, Bar Harbor and buy fresh lobster. Direct booking available.",
-  "descriptionSource": "https://www.stanleyventuresllc.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Maine vacation home rental in Milbridge, Maine. Visit Acadia National Park, Bar Harbor and buy fresh lobster. Direct booking available.",
-  "cardDescriptionSource": "https://www.stanleyventuresllc.com/",
   "cardPhotos": [
    "images/ME-0179-cover.jpg",
    "images/ME-0179-000.jpg",
    "images/ME-0179-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0179-card.webp",
   "lat": 44.5354,
   "lng": -67.8812,
-  "photo": "images/ME-0179-card.webp",
-  "coverPhoto": "images/ME-0179-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0179-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0179-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0179-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0179-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -440,55 +206,21 @@
   "destination": "Downeast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Relax, recharge, and explore the quiet side of Acadia. West Bay Acadia in Gouldsboro offers waterfront sites with full hookups for Acadia RV camping.",
-  "descriptionSource": "https://www.westbayacadia.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Relax, recharge, and explore the quiet side of Acadia. West Bay Acadia in Gouldsboro offers waterfront sites with full hookups for Acadia RV camping.",
-  "cardDescriptionSource": "https://www.westbayacadia.com/",
   "cardPhotos": [
    "images/ME-0158-cover.jpg",
    "images/ME-0158-000.webp",
    "images/ME-0158-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0158-card.webp",
   "lat": 44.47346,
   "lng": -68.03077,
-  "photo": "images/ME-0158-card.webp",
-  "coverPhoto": "images/ME-0158-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0158-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0158-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0158-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0158-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0158-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -502,55 +234,21 @@
   "destination": "Downeast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Discover West Quoddy Station in Lubec, Maine—offering historic vacation rentals with ocean views near the iconic West Quoddy Lighthouse. Choose from cozy cabins, charming cottages, and spacious lodges. Perfect for family getaways, nature enthusiasts, and anyone seeking a serene coastal escape.",
-  "descriptionSource": "https://www.quoddyvacation.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover West Quoddy Station in Lubec, Maine—offering historic vacation rentals with ocean views near the iconic West Quoddy Lighthouse. Choose from…",
-  "cardDescriptionSource": "https://www.quoddyvacation.com",
   "cardPhotos": [
    "images/ME-0176-cover.jpg",
    "images/ME-0176-000.jpg",
    "images/ME-0176-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Varies by unit; displayed 6–9 guests",
-  "priceFrom": "Unknown",
-  "priceDetails": "$110–$375/night Posted across Station House, Crew's Quarters and Captain's Table units; specific unit pricing differs",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0176-card.webp",
   "lat": 44.83896,
   "lng": -66.9951,
-  "photo": "images/ME-0176-card.webp",
-  "coverPhoto": "images/ME-0176-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0176-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0176-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0176-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0176-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0176-logo.avif",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  }

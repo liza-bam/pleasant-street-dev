@@ -9,57 +9,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "This comfortable and fully equipped waterfront cottage is located in a private setting overlooking Mill River, where the tide slips in and out. No other houses are in sight. A spacious high ceiling “great room” includes living-dining-kitchen plus an adjacent screened porch provides open air dining/lounging. Sliding glass doors along one wall of the living room open out on to a spacious deck to give the interior an airy feel. Indeed, the landscape views spill in from all sides–the sunset glimpsed from the kitchen sink being a special feature for the cook!",
-  "descriptionSource": "https://www.vinalhavencottage.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "This comfortable and fully equipped waterfront cottage is located in a private setting overlooking Mill River, where the tide slips in and out. No…",
-  "cardDescriptionSource": "https://www.vinalhavencottage.com/",
   "cardPhotos": [
    "images/ME-0219-cover.jpg",
    "images/ME-0219-000.jpg",
    "images/ME-0219-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0219-card.webp",
   "lat": 44.0481,
   "lng": -68.8317,
-  "photo": "images/ME-0219-card.webp",
-  "coverPhoto": "images/ME-0219-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0219-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0219-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0219-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0219-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -73,55 +37,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "21 waterfront, water-view & village cottages in historic Bayside, Northport ME. Book direct for best rates. 5 min to Belfast, 15 min to Camden. 207-338-5355.",
-  "descriptionSource": "https://baysidecottagerentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "21 waterfront, water-view & village cottages in historic Bayside, Northport ME. Book direct for best rates. 5 min to Belfast, 15 min to Camden…",
-  "cardDescriptionSource": "https://baysidecottagerentals.com/",
   "cardPhotos": [
    "images/ME-0262-cover.jpg",
    "images/ME-0262-000.jpg",
    "images/ME-0262-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Property-specific weekly rates shown on listing cards; no reliable all-property single rate",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "No",
-  "kidsDetails": "Yes — family holiday cottages; capacity varies by owner",
-  "petsDetails": "No — all cottages",
+  "photo": "images/ME-0262-card.webp",
   "lat": 44.3379,
   "lng": -68.9614,
-  "photo": "images/ME-0262-card.webp",
-  "coverPhoto": "images/ME-0262-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0262-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0262-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0262-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0262-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0262-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -136,55 +66,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Apartment",
   "recordType": "Property / small operator",
-  "description": "Experience luxury oceanfront accommodations at Beach Cottage Inn in Lincolnville, Maine. Steps from the beach, minutes from Camden. Featuring private suites with ocean views of Penobscot Bay.",
-  "descriptionSource": "https://beachcottageinn.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Experience luxury oceanfront accommodations at Beach Cottage Inn in Lincolnville, Maine. Steps from the beach, minutes from Camden. Featuring…",
-  "cardDescriptionSource": "https://beachcottageinn.com/",
   "cardPhotos": [
    "images/ME-0058-cover.jpg",
    "images/ME-0058-000.jpg",
    "images/ME-0058-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0058-card.webp",
   "lat": 44.2812,
   "lng": -69.0086,
-  "photo": "images/ME-0058-card.webp",
-  "coverPhoto": "images/ME-0058-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0058-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0058-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0058-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0058-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -198,58 +94,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "A quiet waterfront cottage in Midcoast Maine, offering a private setting, water views and a well-equipped kitchen for relaxed stays.",
-  "cardDescriptionSource": "https://beehivecottagemaine.com/",
   "cardPhotos": [
    "images/ME-0148-cover.webp",
    "images/ME-0148-000.jpg",
    "images/ME-0148-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0148-card.webp",
   "lat": 44.0195,
   "lng": -69.24,
-  "photo": "images/ME-0148-card.webp",
-  "coverPhoto": "images/ME-0148-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0148-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0148-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0148-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0148-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -263,57 +122,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "Cottages in Seal Cove, Mount Desert Island, Acadia National Park, Maine",
-  "descriptionSource": "https://hpfacadia.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Cottages in Seal Cove, Mount Desert Island, Acadia National Park, Maine",
-  "cardDescriptionSource": "https://hpfacadia.com/",
   "cardPhotos": [
    "images/ME-0143-cover.jpg",
    "images/ME-0143-000.jpg",
    "images/ME-0143-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Up to 7 per cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "$2,075–$3,485/week 2027 weekly seasonal rates for two cottages; $155 cleaning + 9% tax; $250 surcharge if more than 6 guests",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0143-card.webp",
   "lat": 44.20579,
   "lng": -69.06723,
-  "photo": "images/ME-0143-card.webp",
-  "coverPhoto": "images/ME-0143-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0143-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0143-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0143-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0143-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -327,55 +150,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Enjoy a single bedroom with two queen beds, and a living room with a pull out couch OR two bedrooms, one with a king, one with two queens.",
-  "descriptionSource": "https://www.driftoceansideinn.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Enjoy a single bedroom with two queen beds, and a living room with a pull out couch OR two bedrooms, one with a king, one with two queens.",
-  "cardDescriptionSource": "https://www.driftoceansideinn.com/",
   "cardPhotos": [
    "images/ME-0290-cover.jpg",
    "images/ME-0290-000.jpg",
    "images/ME-0290-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0290-card.webp",
   "lat": 44.2238,
   "lng": -69.04395,
-  "photo": "images/ME-0290-card.webp",
-  "coverPhoto": "images/ME-0290-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0290-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0290-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0290-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0290-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0290-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -389,57 +178,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Ferry Cottage is an eco-friendly waterfront rental in Lincolnville, Maine. Experience coastal charm, scenic views, and outdoor adventures. Book your stay today!",
-  "descriptionSource": "https://ferrycottage.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Ferry Cottage is an eco-friendly waterfront rental in Lincolnville, Maine. Experience coastal charm, scenic views, and outdoor adventures. Book your…",
-  "cardDescriptionSource": "https://ferrycottage.com",
   "cardPhotos": [
    "images/ME-0172-cover.jpg",
    "images/ME-0172-000.jpg",
    "images/ME-0172-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": 2,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 2,
-  "capacityDetails": "2",
-  "priceFrom": "Unknown",
-  "priceDetails": "Pricing only through calendar/date selection; no fixed rate on public rate page",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0172-card.webp",
   "lat": 44.2812,
   "lng": -69.0086,
-  "photo": "images/ME-0172-card.webp",
-  "coverPhoto": "images/ME-0172-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0172-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0172-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0172-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0172-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0172-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -453,57 +206,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Maine Ocean House Lincolnville United States, Maine",
-  "descriptionSource": "https://foxtrotmainerental.lodgify.com/en/gallery",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Maine Ocean House Lincolnville United States, Maine",
-  "cardDescriptionSource": "https://foxtrotmainerental.lodgify.com/en/gallery",
   "cardPhotos": [
    "images/ME-0255-cover.jpg",
    "images/ME-0255-000.jpg",
    "images/ME-0255-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "8 in beds, up to 10 using pullout couch",
-  "priceFrom": "Unknown",
-  "priceDetails": "No visible nightly/weekly rate without booking dates",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — explicitly described for family gatherings",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0255-card.webp",
   "lat": 44.2823,
   "lng": -69.0082,
-  "photo": "images/ME-0255-card.webp",
-  "coverPhoto": "images/ME-0255-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0255-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0255-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0255-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0255-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0255-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -518,55 +235,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Welcome to Island Property of Islesboro, Maine. Offering a wide collection of stunning properties for sale and vacation rentals.",
-  "descriptionSource": "https://www.islesboro.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Welcome to Island Property of Islesboro, Maine. Offering a wide collection of stunning properties for sale and vacation rentals.",
-  "cardDescriptionSource": "https://www.islesboro.com",
   "cardPhotos": [
    "images/ME-0165-cover.avif",
    "images/ME-0165-000.avif",
    "images/ME-0165-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0165-card.webp",
   "lat": 44.2893,
   "lng": -68.9082,
-  "photo": "images/ME-0165-card.webp",
-  "coverPhoto": "images/ME-0165-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0165-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0165-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0165-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0165-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -581,49 +264,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Maine coast ocean front vacation home rental cottages with spectacular view and everything that vacationing in Maine has to offer.",
-  "descriptionSource": "https://ivcottages.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Maine coast ocean front vacation home rental cottages with spectacular view and everything that vacationing in Maine has to offer.",
-  "cardDescriptionSource": "https://ivcottages.com/",
   "cardPhotos": [
    "images/ME-0099-cover.webp",
    "images/ME-0099-000.webp",
    "images/cards/ME-0099-01.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Beds for 6; official maximum not stated",
-  "priceFrom": "Unknown",
-  "priceDetails": "$2,300–$2,700/week 2026: $2,300/week May, June, September–November; $2,700/week July–August",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — marketed for family stays",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0099-card.webp",
   "lat": 44.01444,
   "lng": -69.12947,
-  "photo": "images/ME-0099-card.webp",
-  "coverPhoto": "images/ME-0099-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0099-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0099-000.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -637,57 +292,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Lake Megunticook Vacation Rental offers the best location for a vacation rental on the lake in Camden, ME. Call us today to learn more!",
-  "descriptionSource": "https://lakemegunticook.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Lake Megunticook Vacation Rental offers the best location for a vacation rental on the lake in Camden, ME. Call us today to learn more!",
-  "cardDescriptionSource": "https://lakemegunticook.com/",
   "cardPhotos": [
    "images/ME-0244-cover.webp",
    "images/ME-0244-000.webp",
    "images/ME-0244-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "7 (two houses rented together)",
-  "priceFrom": "Unknown",
-  "priceDetails": "Seven-night minimum; rental rate not posted",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — children explicitly welcome",
-  "petsDetails": "Yes — prior approval required",
+  "photo": "images/ME-0244-card.webp",
   "lat": 44.2155,
   "lng": -69.0852,
-  "photo": "images/ME-0244-card.webp",
-  "coverPhoto": "images/ME-0244-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0244-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0244-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0244-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0244-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -701,55 +320,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Long Cove Cottages - Escape to our three charming ocean view cottages, nestled in serene woods along Maine's rugged coast.",
-  "descriptionSource": "https://www.longcovecottages.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Long Cove Cottages - Escape to our three charming ocean view cottages, nestled in serene woods along Maine's rugged coast.",
-  "cardDescriptionSource": "https://www.longcovecottages.com",
   "cardPhotos": [
    "images/ME-0110-cover.avif",
    "images/ME-0110-000.jpg",
    "images/ME-0110-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0110-card.webp",
   "lat": 43.97688,
   "lng": -69.20195,
-  "photo": "images/ME-0110-card.webp",
-  "coverPhoto": "images/ME-0110-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0110-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0110-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0110-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0110-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -763,55 +348,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Rustic charm meets modern comfort at Pine Grove Cottages near Camden. Enjoy privacy & pet-friendly amenities. Explore nearby attractions and local dining.",
-  "descriptionSource": "https://www.pinegrovemaine.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Rustic charm meets modern comfort at Pine Grove Cottages near Camden. Enjoy privacy & pet-friendly amenities. Explore nearby attractions and local…",
-  "cardDescriptionSource": "https://www.pinegrovemaine.com/",
   "cardPhotos": [
    "images/ME-0059-cover.webp",
    "images/ME-0059-000.webp",
    "images/ME-0059-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–4 base occupancy by cottage; extra guests may be allowed in selected units",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rates require dates; additional guests in some cottages $30/night each",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — explicitly advertises family visits",
-  "petsDetails": "Yes — dogs only, up to 2; $30/night per dog",
+  "photo": "images/ME-0059-card.webp",
   "lat": 44.25582,
   "lng": -69.02771,
-  "photo": "images/ME-0059-card.webp",
-  "coverPhoto": "images/ME-0059-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0059-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0059-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0059-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0059-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0059-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -825,55 +376,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "When we moved to Rockland Talbot House in May 2026, we had one simple goal: to create a space that feels less like a traditional inn and more like you’re spending the weekend at a friend's coastal home.",
-  "descriptionSource": "https://www.rocklandtalbothouse.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "When we moved to Rockland Talbot House in May 2026, we had one simple goal: to create a space that feels less like a traditional inn and more like…",
-  "cardDescriptionSource": "https://www.rocklandtalbothouse.com/",
   "cardPhotos": [
    "images/ME-0198-cover.jpg",
    "images/ME-0198-000.jpg",
    "images/ME-0198-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0198-card.webp",
   "lat": 44.10839,
   "lng": -69.11519,
-  "photo": "images/ME-0198-card.webp",
-  "coverPhoto": "images/ME-0198-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0198-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0198-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0198-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0198-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -887,57 +404,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "Vacation cottages at Samoset Village in Rockport, offered by a local Midcoast Maine property manager with direct guest support.",
-  "cardDescriptionSource": "https://sailawaymaine.com/",
   "cardPhotos": [
    "images/ME-0200-cover.jpg",
    "images/ME-0200-000.jpg",
    "images/ME-0200-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0200-card.webp",
   "lat": 44.12375,
   "lng": -69.0861,
-  "photo": "images/ME-0200-card.webp",
-  "coverPhoto": "images/ME-0200-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0200-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0200-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0200-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0200-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0200-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -951,57 +432,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Discover Schooners Landing in Maine - a perfect vacation spot with stunning views, private beach, and comfortable accommodations for families and friends.",
-  "descriptionSource": "https://schoonerslanding.net/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover Schooners Landing in Maine - a perfect vacation spot with stunning views, private beach, and comfortable accommodations for families and…",
-  "cardDescriptionSource": "https://schoonerslanding.net/",
   "cardPhotos": [
    "images/ME-0193-cover.webp",
    "images/ME-0193-000.webp",
    "images/ME-0193-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "$4,875–$8,250/week 2026 remaining weeks $5,495–$6,285/week; 2027 listed $4,875–$8,250/week; 7-night minimum",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes — families welcome",
-  "petsDetails": "No — strict no-pets rule",
+  "photo": "images/ME-0193-card.webp",
   "lat": 44.0823,
   "lng": -69.0571,
-  "photo": "images/ME-0193-card.webp",
-  "coverPhoto": "images/ME-0193-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0193-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0193-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0193-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0193-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1015,55 +460,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Private cabins near Sandy Point Beach in Midcoast Maine, with a wood-fired sauna and cold plunge. Book direct for stays near Belfast, Camden and Acadia.",
-  "descriptionSource": "https://steamboatwharfcabins.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Private cabins near Sandy Point Beach in Midcoast Maine, with a wood-fired sauna and cold plunge. Book direct for stays near Belfast, Camden and…",
-  "cardDescriptionSource": "https://steamboatwharfcabins.com/",
   "cardPhotos": [
    "images/ME-0105-cover.jpg",
    "images/ME-0105-000.jpg",
    "images/ME-0105-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–8 by unit; cabins sleep 2 or 4",
-  "priceFrom": "Unknown",
-  "priceDetails": "No fixed prices published on accommodation page; apartment pet fee $250/trip",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family vacations mentioned",
-  "petsDetails": "Selected units only — cabins 1–6 and apartment; not cabins 7–9",
+  "photo": "images/ME-0105-card.webp",
   "lat": 44.50718,
   "lng": -68.81645,
-  "photo": "images/ME-0105-card.webp",
-  "coverPhoto": "images/ME-0105-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0105-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0105-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0105-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0105-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0105-logo.webp",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1077,57 +488,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Teel Cove Cottage sits on St. George river with a private sand beach and has views across the view plus the Muscongus Bay. Look inside and start planning your visit.",
-  "descriptionSource": "https://www.teelcovecottagemaine.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Teel Cove Cottage sits on St. George river with a private sand beach and has views across the view plus the Muscongus Bay. Look inside and start…",
-  "cardDescriptionSource": "https://www.teelcovecottagemaine.com",
   "cardPhotos": [
    "images/ME-0217-cover.webp",
    "images/ME-0217-000.webp",
    "images/ME-0217-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0217-card.webp",
   "lat": 43.9637,
   "lng": -69.2034,
-  "photo": "images/ME-0217-card.webp",
-  "coverPhoto": "images/ME-0217-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0217-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0217-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0217-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0217-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1141,55 +516,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Cabin",
   "recordType": "Property / small operator",
-  "description": "Stay in six traditional Maine lakefront cabins on Lake Winnecook in Burnham, with 300 feet of sandy beach, kayaks, fire pits, Wi-Fi and AC.",
-  "descriptionSource": "https://thelodgeandcabins.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Stay in six traditional Maine lakefront cabins on Lake Winnecook in Burnham, with 300 feet of sandy beach, kayaks, fire pits, Wi-Fi and AC.",
-  "cardDescriptionSource": "https://thelodgeandcabins.com/",
   "cardPhotos": [
    "images/ME-0019-cover.jpg",
    "images/ME-0019-000.jpg",
    "images/ME-0019-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "4–8 per cabin",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes (family stays)",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0019-card.webp",
   "lat": 44.66546,
   "lng": -69.32175,
-  "photo": "images/ME-0019-card.webp",
-  "coverPhoto": "images/ME-0019-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0019-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0019-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0019-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0019-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0019-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1203,57 +544,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "4 bedroom, 4.5 bath pristine year-round vacation house situated on 4 acres on Penobscot Bay facing east. 2 master suites with air conditioning and en-suite bathrooms. Swimming pool, private beach. Living room fireplace, Wi-Fi, well-equipped kitchen, laundry room, private driveway, ping pong studio and billiards room. Easy walking distance to the shops of Dark Harbor. 15 minute ferry crossing to Lincolnville.",
-  "descriptionSource": "https://thenestmaine.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "4 bedroom, 4.5 bath pristine year-round vacation house situated on 4 acres on Penobscot Bay facing east. 2 master suites with air conditioning and…",
-  "cardDescriptionSource": "https://thenestmaine.com",
   "cardPhotos": [
    "images/ME-0166-cover.webp",
    "images/ME-0166-000.webp",
    "images/ME-0166-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "$4,000–$8,000/week Oct–May $4,000, June/Sep $6,000, July/Aug $8,000/week; min 1 week; year not stated",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Yes",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Yes — responsible renters cover resulting carpet cleaning",
+  "photo": "images/ME-0166-card.webp",
   "lat": 44.2893,
   "lng": -68.9082,
-  "photo": "images/ME-0166-card.webp",
-  "coverPhoto": "images/ME-0166-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0166-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0166-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0166-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0166-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0166-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1267,58 +572,21 @@
   "destination": "Camden & Penobscot Bay",
   "type": "House",
   "recordType": "Property",
-  "description": "Unknown",
-  "descriptionSource": "Unknown",
-  "descriptionStatus": "Not collected",
   "cardDescription": "A guest house on an organic island farm in North Haven, overlooking fields and the Fox Island Thorofare, with access to the beach.",
-  "cardDescriptionSource": "https://turnerfarm.lodgify.com/",
   "cardPhotos": [
    "images/ME-0189-cover.jpg",
    "images/ME-0189-000.jpg",
    "images/ME-0189-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "source description"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0189-card.webp",
   "lat": 44.1276,
   "lng": -68.8727,
-  "photo": "images/ME-0189-card.webp",
-  "coverPhoto": "images/ME-0189-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0189-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0189-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0189-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0189-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0189-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  }

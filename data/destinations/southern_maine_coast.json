@@ -9,55 +9,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "We are a real estate agency in Southern Maine, helping individuals and families find their next home, from houses for sale to long and short-term rentals.",
-  "descriptionSource": "https://anchorrealestatecompany.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "We are a real estate agency in Southern Maine, helping individuals and families find their next home, from houses for sale to long and short-term…",
-  "cardDescriptionSource": "https://anchorrealestatecompany.com/",
   "cardPhotos": [
    "images/ME-0287-cover.jpg",
    "images/ME-0287-000.avif",
    "images/ME-0287-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0287-card.webp",
   "lat": 43.15838,
   "lng": -70.65344,
-  "photo": "images/ME-0287-card.webp",
-  "coverPhoto": "images/ME-0287-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0287-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0287-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0287-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0287-002.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0287-logo.avif",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -72,54 +38,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Fully renovated 6BR, 3BA home with modern finishes throughout. TVs in every bedroom and living space. Walk just 0.6 miles (12 min) to downtown Ogunquit and 1 mile (15–20 min walk or 3 min drive) to the beach. Features a game room with pool table and arcade, coffee bar, fireplace, Peloton, large deck and high-speed Wi-Fi. Private parking for up to 6 cars. Perfect for families and groups! Welcome to Atlantic Haven Maine, a newly renovated Ogunquit home designed for families, friends, and group getaways. Every detail of this spacious 6-bedroom, 3-bath retreat has been thoughtfully updated - from the",
-  "descriptionSource": "https://book.atlantichavenmaine.com/listings/474608",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Fully renovated 6BR, 3BA home with modern finishes throughout. TVs in every bedroom and living space. Walk just 0.6 miles (12 min) to downtown…",
-  "cardDescriptionSource": "https://book.atlantichavenmaine.com/listings/474608",
   "cardPhotos": [
    "images/ME-0191-cover.webp",
    "images/ME-0191-000.webp",
    "images/ME-0191-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0191-card.webp",
   "lat": 43.24121,
   "lng": -70.60777,
-  "photo": "images/ME-0191-card.webp",
-  "coverPhoto": "images/ME-0191-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0191-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0191-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0191-001.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -134,55 +67,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Discover premium vacation rentals across Maine and Vermont. From coastal Maine to mountain escapes, book your getaway with local experts and 24/7 support.",
-  "descriptionSource": "https://www.getawayvr.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover premium vacation rentals across Maine and Vermont. From coastal Maine to mountain escapes, book your getaway with local experts and 24/7…",
-  "cardDescriptionSource": "https://www.getawayvr.com/",
   "cardPhotos": [
    "images/ME-0288-cover.png",
    "images/ME-0288-000.jpg",
    "images/ME-0288-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Examples: $932–$1,726/3 nights Sample Maine rental quotes for selected different units Oct 25–30 2026; NOT nightly rates or general tariff",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — family vacations promoted",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0288-card.webp",
   "lat": 43.4229,
   "lng": -70.6547,
-  "photo": "images/ME-0288-card.webp",
-  "coverPhoto": "images/ME-0288-cover.png",
-  "photos": [
-   {
-    "file": "images/ME-0288-cover.png",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0288-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0288-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0288-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0288-logo.jpg",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -197,57 +96,21 @@
   "destination": "Southern Maine Coast",
   "type": "House",
   "recordType": "Property",
-  "description": "Kennebunkport Vacation Homes, Vacation Rentals, Ocean Front Homes in Kennebunkport",
-  "descriptionSource": "https://www.kennebunkportvacationhomes.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Kennebunkport Vacation Homes, Vacation Rentals, Ocean Front Homes in Kennebunkport",
-  "cardDescriptionSource": "https://www.kennebunkportvacationhomes.com/",
   "cardPhotos": [
    "images/ME-0170-cover.png",
    "images/ME-0170-000.webp",
    "images/ME-0170-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0170-card.webp",
   "lat": 43.3615,
   "lng": -70.4771,
-  "photo": "images/ME-0170-card.webp",
-  "coverPhoto": "images/ME-0170-cover.png",
-  "photos": [
-   {
-    "file": "images/ME-0170-cover.png",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0170-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0170-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0170-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -261,57 +124,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Book premier luxury vacation homes in Kennebunkport & Kennebunk, Maine. Ocean views, private docks, concierge service. Stress-free coastal escapes start here.",
-  "descriptionSource": "https://www.kptluxuryproperties.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Book premier luxury vacation homes in Kennebunkport & Kennebunk, Maine. Ocean views, private docks, concierge service. Stress-free coastal escapes…",
-  "cardDescriptionSource": "https://www.kptluxuryproperties.com/",
   "cardPhotos": [
    "images/ME-0253-cover.jpg",
    "images/ME-0253-000.jpg",
    "images/ME-0253-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0253-card.webp",
   "lat": 43.3615,
   "lng": -70.4771,
-  "photo": "images/ME-0253-card.webp",
-  "coverPhoto": "images/ME-0253-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0253-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0253-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0253-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0253-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0253-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -326,55 +153,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Maine Street Property Management is one of the premier property management companies in Maine, servicing York County and beyond.",
-  "descriptionSource": "https://mainestreetpropertymanagement.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Maine Street Property Management is one of the premier property management companies in Maine, servicing York County and beyond.",
-  "cardDescriptionSource": "https://mainestreetpropertymanagement.com/",
   "cardPhotos": [
    "images/ME-0285-cover.jpg",
    "images/ME-0285-000.jpg",
    "images/ME-0285-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Examples: 6–14 (by featured house)",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family vacation houses advertised",
-  "petsDetails": "Varies — one featured house explicitly no pets",
+  "photo": "images/ME-0285-card.webp",
   "lat": 43.322,
   "lng": -70.5807,
-  "photo": "images/ME-0285-card.webp",
-  "coverPhoto": "images/ME-0285-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0285-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0285-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0285-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0285-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0285-logo.png",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -389,55 +182,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Moody Beach Vacation Rentals, Wells, Maine: Immerse yourself in the rugged beauty of the Atlantic Ocean in one of our two oceanfront vacation homes. Beachfront, our beach house rentals offer the perfect blend of coastal charm and comfort for up to 12 guests.",
-  "descriptionSource": "https://www.moodybeach-me.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Moody Beach Vacation Rentals, Wells, Maine: Immerse yourself in the rugged beauty of the Atlantic Ocean in one of our two oceanfront vacation homes…",
-  "cardDescriptionSource": "https://www.moodybeach-me.com",
   "cardPhotos": [
    "images/ME-0286-cover.jpg",
    "images/ME-0286-000.jpg",
    "images/ME-0286-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0286-card.webp",
   "lat": 43.27422,
   "lng": -70.58316,
-  "photo": "images/ME-0286-card.webp",
-  "coverPhoto": "images/ME-0286-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0286-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0286-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0286-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0286-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0286-logo.avif",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -452,57 +211,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Nautical Property Management is a trusted, local management company serving Wells, Maine and surrounding communities.",
-  "descriptionSource": "https://nauticalpropertymanagement.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Nautical Property Management is a trusted, local management company serving Wells, Maine and surrounding communities.",
-  "cardDescriptionSource": "https://nauticalpropertymanagement.com/",
   "cardPhotos": [
    "images/ME-0278-cover.webp",
    "images/ME-0278-000.webp",
    "images/ME-0278-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0278-card.webp",
   "lat": "Unknown",
   "lng": "Unknown",
-  "photo": "images/ME-0278-card.webp",
-  "coverPhoto": "images/ME-0278-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0278-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0278-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0278-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0278-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0278-logo.webp",
-  "locationPrecision": "Unknown",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -517,55 +240,21 @@
   "destination": "Southern Maine Coast",
   "type": "Apartment",
   "recordType": "Property",
-  "description": "We are exclusive agents for a large number of Vacation Cottages, Homes and Condominiums at Wells, Moody, Ogunquit and Drake’s Island, Maine Beaches.",
-  "descriptionSource": "https://garnsey.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "We are exclusive agents for a large number of Vacation Cottages, Homes and Condominiums at Wells, Moody, Ogunquit and Drake’s Island, Maine Beaches.",
-  "cardDescriptionSource": "https://garnsey.com/",
   "cardPhotos": [
    "images/ME-0222-cover.jpg",
    "images/ME-0222-000.jpg",
    "images/ME-0222-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0222-card.webp",
   "lat": 43.28672,
   "lng": -70.57148,
-  "photo": "images/ME-0222-card.webp",
-  "coverPhoto": "images/ME-0222-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0222-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0222-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0222-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0222-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0222-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -579,53 +268,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Vacation home rentals in and around Ogunquit, Maine including beach homes, cottages, cabins, ocean view, historical houses, and luxury homes.",
-  "descriptionSource": "https://www.ogunquitrentalproperties.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Vacation home rentals in and around Ogunquit, Maine including beach homes, cottages, cabins, ocean view, historical houses, and luxury homes.",
-  "cardDescriptionSource": "https://www.ogunquitrentalproperties.com/",
   "cardPhotos": [
    "images/ME-0264-cover.jpg",
    "images/ME-0264-000.avif",
    "images/ME-0264-001.avif"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0264-card.webp",
   "lat": 43.249,
   "lng": -70.5992,
-  "photo": "images/ME-0264-card.webp",
-  "coverPhoto": "images/ME-0264-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0264-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0264-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0264-001.avif",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -640,93 +297,21 @@
   "destination": "Southern Maine Coast",
   "type": "House",
   "recordType": "Property",
-  "description": "OCCUPANCY LIMIT 8 - Beautiful contemporary 3 bedroom and 2.5 bath home on Square Pond. On the 1st floor is an open concept Kitchen/Dining/Living area, with a 4-season room directly off the dining area and a deck off the 4-season room, plus a full bath. The finished basement gives you extra living space with a bonus room and a half bath. With a bar and walk-out access to a patio and the lakefront.",
-  "descriptionSource": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "OCCUPANCY LIMIT 8 - Beautiful contemporary 3 bedroom and 2.5 bath home on Square Pond. On the 1st floor is an open concept Kitchen/Dining/Living…",
-  "cardDescriptionSource": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116",
   "cardPhotos": [
    "images/ME-0502-cover.jpg",
    "images/ME-0502-000.jpg",
    "images/ME-0502-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "individual rental street address not publicly disclosed"
-  ],
-  "rooms": "Unknown",
+  "guests": 8,
   "bedrooms": 3,
   "bathrooms": 3,
-  "guests": 8,
-  "capacityDetails": "8",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "No",
-  "kidsDetails": "Unknown",
-  "petsDetails": "No",
+  "photo": "images/ME-0502-card.webp",
   "lat": 43.5567,
   "lng": -70.86969,
-  "photo": "images/ME-0502-card.webp",
-  "coverPhoto": "images/ME-0502-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0502-cover.jpg",
-    "role": "cover",
-    "url": "https://resortplanet.com/15062/WP/116-3.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116",
-    "sha256": "08be5dd107c6ac792a9d5861a522b304767501a787552a57866e06d2c9a3a82d",
-    "width": 1600,
-    "height": 1100,
-    "original": "cache/operator-photo-originals/99aae144801aaf38c0221c1f5ebdf3ca33969087f71aee9c1e2157eab87829ac.jpg",
-    "originalSha256": "99aae144801aaf38c0221c1f5ebdf3ca33969087f71aee9c1e2157eab87829ac",
-    "originalWidth": 2048,
-    "originalHeight": 1408
-   },
-   {
-    "file": "images/ME-0502-000.jpg",
-    "role": "photo",
-    "url": "https://resortplanet.com/15062/WP/116-2.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116",
-    "sha256": "932a339325beddc165c1ba2f6dc0f22bf39609914a4b480bc95ed4df8e007259",
-    "width": 1600,
-    "height": 1229,
-    "original": "cache/operator-photo-originals/3d31d90708d2ad9517be21517d718d9c9b55c30aff27be2b351668a6ff3c9c0d.jpg",
-    "originalSha256": "3d31d90708d2ad9517be21517d718d9c9b55c30aff27be2b351668a6ff3c9c0d",
-    "originalWidth": 2000,
-    "originalHeight": 1536
-   },
-   {
-    "file": "images/ME-0502-001.jpg",
-    "role": "photo",
-    "url": "https://resortplanet.com/15062/WP/116-4.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116",
-    "sha256": "4af1211a9e2c8e8ea4cb6af8b565c60d2b69b02d22b6ff80c4e1c40e3440dc12",
-    "width": 1600,
-    "height": 963,
-    "original": "cache/operator-photo-originals/4f14fbf8381ddf0f0a5ea2390c3aa721e20bbbd932ed00a3b9323408898bc34f.jpg",
-    "originalSha256": "4f14fbf8381ddf0f0a5ea2390c3aa721e20bbbd932ed00a3b9323408898bc34f",
-    "originalWidth": 2048,
-    "originalHeight": 1233
-   },
-   {
-    "file": "images/ME-0502-002.jpg",
-    "role": "photo",
-    "url": "https://resortplanet.com/15062/WP/116-5.JPG",
-    "page": "https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=116",
-    "sha256": "41ce892968117aaffdcb2517ad9ead8db651aa46daa5815565286e59df5abdf9",
-    "width": 1152,
-    "height": 1536,
-    "original": "cache/operator-photo-originals/3f30b6f3e085ebcf279effac524e4988c6cdb0930f6754808289b06c766b8ff9.jpg",
-    "originalSha256": "3f30b6f3e085ebcf279effac524e4988c6cdb0930f6754808289b06c766b8ff9",
-    "originalWidth": 1152,
-    "originalHeight": 1536
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -741,57 +326,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Each of our 7 cottages can sleep up to six people, with 2 bedrooms, applianced kitchens, sparkling clean baths, picnic benches for outdoor dining and parking for two cars. On the property you will also find a delightful space for outdoor activity, including horseshoes, tether ball, room for the kids to play and a couple of gas grills. In each unit, there is a double bed in the first bedroom, 2 twins in the second and either a double futon or pull out couch in the living room.",
-  "descriptionSource": "https://yorkbeach4rentals.com/crowes-cottages",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Each of our 7 cottages can sleep up to six people, with 2 bedrooms, applianced kitchens, sparkling clean baths, picnic benches for outdoor dining…",
-  "cardDescriptionSource": "https://yorkbeach4rentals.com/crowes-cottages",
   "cardPhotos": [
    "images/ME-0225-cover.webp",
    "images/ME-0225-000.webp",
    "images/ME-0225-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — explicitly advertises family vacations",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0225-card.webp",
   "lat": 43.1717,
   "lng": -70.6089,
-  "photo": "images/ME-0225-card.webp",
-  "coverPhoto": "images/ME-0225-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0225-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0225-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0225-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0225-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -805,55 +354,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Discover curated beachfront homes, harbor views, and cozy cottages in Maine with Salt & Shine. Book your coastal escape with local expertise and guest support.",
-  "descriptionSource": "https://www.saltandshinerentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover curated beachfront homes, harbor views, and cozy cottages in Maine with Salt & Shine. Book your coastal escape with local expertise and…",
-  "cardDescriptionSource": "https://www.saltandshinerentals.com/",
   "cardPhotos": [
    "images/ME-0289-cover.webp",
    "images/ME-0289-000.jpg",
    "images/ME-0289-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0289-card.webp",
   "lat": 43.4229,
   "lng": -70.6547,
-  "photo": "images/ME-0289-card.webp",
-  "coverPhoto": "images/ME-0289-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0289-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0289-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0289-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0289-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0289-logo.jpg",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -868,55 +383,21 @@
   "destination": "Southern Maine Coast",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Sea Spray Cottages weekly summer rentals located at 303 Long Beach Avenue, right across from Long Sands Beach, York Beach, Maine.",
-  "descriptionSource": "https://seaspraycottages.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Sea Spray Cottages weekly summer rentals located at 303 Long Beach Avenue, right across from Long Sands Beach, York Beach, Maine.",
-  "cardDescriptionSource": "https://seaspraycottages.com/",
   "cardPhotos": [
    "images/ME-0119-cover.jpg",
    "images/ME-0119-000.jpg",
    "images/ME-0119-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,607–$3,795/week 2027 seasonal rates for four cottages, plus 9% Maine rental tax",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Unknown",
-  "kidsDetails": "Yes — family cottages",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0119-card.webp",
   "lat": 43.18121,
   "lng": -70.66755,
-  "photo": "images/ME-0119-card.webp",
-  "coverPhoto": "images/ME-0119-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0119-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0119-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0119-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0119-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0119-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -930,11 +411,7 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Discover Seaglass Village rentals, southern Maine’s top vacation spot. Enjoy unparalleled amenities and services. Book your perfect getaway today!",
-  "descriptionSource": "https://www.seaglassvillage.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Discover Seaglass Village rentals, southern Maine’s top vacation spot. Enjoy unparalleled amenities and services. Book your perfect getaway today!",
-  "cardDescriptionSource": "https://www.seaglassvillage.com",
   "cardPhotos": [
    "images/ME-0223-cover.avif",
    "images/ME-0223-000.avif",
@@ -951,44 +428,14 @@
     "https://www.vrbo.com/1452012"
    ]
   },
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0223-card.webp",
   "lat": 43.27904,
   "lng": -70.59553,
-  "photo": "images/ME-0223-card.webp",
-  "coverPhoto": "images/ME-0223-cover.avif",
-  "photos": [
-   {
-    "file": "images/ME-0223-cover.avif",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0223-000.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0223-001.avif",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0223-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0223-logo.avif",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1002,57 +449,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Choose from a variety of Southern Maine vacation home rentals in Kennebunk, Kennebunkport, Point Arundel, Cape Porpoise, and Biddeford Pool.",
-  "descriptionSource": "https://seagrasspropertyrentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Choose from a variety of Southern Maine vacation home rentals in Kennebunk, Kennebunkport, Point Arundel, Cape Porpoise, and Biddeford Pool.",
-  "cardDescriptionSource": "https://seagrasspropertyrentals.com/",
   "cardPhotos": [
    "images/ME-0254-cover.jpg",
    "images/ME-0254-000.jpg",
    "images/ME-0254-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family stays reviewed",
-  "petsDetails": "Varies — pet-friendly units advertised",
+  "photo": "images/ME-0254-card.webp",
   "lat": 43.3615,
   "lng": -70.4771,
-  "photo": "images/ME-0254-card.webp",
-  "coverPhoto": "images/ME-0254-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0254-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0254-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0254-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0254-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
@@ -1067,57 +478,21 @@
   "destination": "Southern Maine Coast",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Vacation rental cottages just minutes from the sandy beaches of Wells, Maine. Easy access to the beaches, shopping, restaurants, and other amenities of Wells and Ogunquit, Maine.",
-  "descriptionSource": "https://cottagesatsummervillage.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Vacation rental cottages just minutes from the sandy beaches of Wells, Maine. Easy access to the beaches, shopping, restaurants, and other amenities…",
-  "cardDescriptionSource": "https://cottagesatsummervillage.com/",
   "cardPhotos": [
    "images/ME-0114-cover.jpg",
    "images/ME-0114-000.jpg",
    "images/ME-0114-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "$215–$335/night; $1,250–$2,340/week Posted peak/shoulder-season cottage rates for 1- and 2-bedroom units; dates on page not independently confirmed for 2026",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes — marketed for family resort holidays",
-  "petsDetails": "No",
+  "photo": "images/ME-0114-card.webp",
   "lat": 43.322,
   "lng": -70.5807,
-  "photo": "images/ME-0114-card.webp",
-  "coverPhoto": "images/ME-0114-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0114-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0114-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0114-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0114-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0114-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -1131,57 +506,21 @@
   "destination": "Southern Maine Coast",
   "type": "House",
   "recordType": "Property / small operator",
-  "description": "Our cottages are all individually owned and offer many of the conveniences of your own home in a quaint New England Setting.",
-  "descriptionSource": "https://www.watercrestcottages.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Our cottages are all individually owned and offer many of the conveniences of your own home in a quaint New England Setting.",
-  "cardDescriptionSource": "https://www.watercrestcottages.com",
   "cardPhotos": [
    "images/ME-0115-cover.jpg",
    "images/ME-0115-000.jpg",
    "images/ME-0115-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address verification"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Examples: 3–8 by rental unit",
-  "priceFrom": "Unknown",
-  "priceDetails": "$104–$269/night; $624–$1,614/week Published 2026 seasonal rate table across motel/studio/cottage types; taxes and cleaning $90–$130 additional",
-  "currency": "Unknown",
   "kids": "Conditional",
   "pets": "Conditional",
-  "kidsDetails": "Yes — playground and family cottages",
-  "petsDetails": "Varies — designated pet-friendly cottages, including Units 108 and 117",
+  "photo": "images/ME-0115-card.webp",
   "lat": 43.31273,
   "lng": -70.58443,
-  "photo": "images/ME-0115-card.webp",
-  "coverPhoto": "images/ME-0115-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0115-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0115-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0115-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0115-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0115-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -1195,55 +534,21 @@
   "destination": "Southern Maine Coast",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "COTTAGES and CONDOS AT THE BEACH in Beautiful Wells, Maine: Webhannet by the Sea is located on the beach road between Wells Beach Center and Moody Beach. To the east, some 15 steps across the road, is Webhannet Beach, which stretches for two miles and ends in a scenic harbor. To the west, the national wildlife preserve gives over a mile of unobstructed views of the sunset – breathtaking in the clean ocean air. We have several accommodation options, each managed by the individual owners of those units in our association. We look forward to welcoming you, and recommend you",
-  "descriptionSource": "https://webhannetbythesea.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "COTTAGES and CONDOS AT THE BEACH in Beautiful Wells, Maine: Webhannet by the Sea is located on the beach road between Wells Beach Center and Moody…",
-  "cardDescriptionSource": "https://webhannetbythesea.com/",
   "cardPhotos": [
    "images/ME-0224-cover.jpg",
    "images/ME-0224-000.jpg",
    "images/ME-0224-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "2–4 by cottage",
-  "priceFrom": "Unknown",
-  "priceDetails": "$1,500–$2,000/week (Unit 1, 2026) Unit 1 seasonal weekly price $1,500 low/$2,000 peak; other units have no current direct rates, one links to Airbnb; plus 9% Maine tax",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "No",
-  "kidsDetails": "Yes — child rates/policies published",
-  "petsDetails": "No — all listed units",
+  "photo": "images/ME-0224-card.webp",
   "lat": 43.29466,
   "lng": -70.56842,
-  "photo": "images/ME-0224-card.webp",
-  "coverPhoto": "images/ME-0224-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0224-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0224-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0224-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0224-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0224-logo.png",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  }

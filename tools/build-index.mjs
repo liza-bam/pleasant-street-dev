@@ -19,6 +19,10 @@ const askAddress = (h) => {
   return /office|mailing|po box|arrival|marina|homeport|outside|parent company|hotel partner|not (a |each )?rental|tourism-listed operator|^operator contact/.test(t) && !/property|campus/.test(t);
 };
 for (const h of homes) if (askAddress(h)) h.askAddress = true;
+// The card's short description falls back to the full one when there is no card-specific text (map.js
+// truncates either to 150 characters client-side); a few records only have the full one, so copy it in
+// here rather than shipping the full, untruncated text to every visitor for every home.
+for (const h of homes) if (!known(h.cardDescription) && known(h.description)) h.cardDescription = h.description;
 
 const blocks = homes.map((h) => {
   const facts = [
@@ -41,8 +45,14 @@ ${homes.length} listings. Unit-specific policies, capacities and prices must be 
 ${blocks.join('\n')}`;
 
 const pick = (h, keys) => Object.fromEntries(keys.filter((k) => h[k] !== undefined && h[k] !== '').map((k) => [k, h[k]]));
-const indexed = homes.map((h) =>
-  pick(h, ['id','name', 'url', 'place', 'town', 'state', 'destination', 'type', 'recordType', 'description', 'descriptionSource','descriptionStatus','cardDescription','cardDescriptionSource','cardPhotos','cardPhotoLabel','platformLinks','collectionStatus','missingRequiredFields','rooms', 'bedrooms', 'bathrooms', 'guests', 'capacityDetails', 'priceFrom', 'priceDetails', 'currency', 'kids', 'pets', 'kidsDetails', 'petsDetails', 'lat', 'lng', 'photo', 'coverPhoto', 'photos', 'logo', 'locationPrecision','locationLabel','askAddress','featured','demo']));
+// The site (assets/map.js) only ever reads these fields; everything else here — full description and
+// photo-role detail, price, capacity and policy prose, research/audit bookkeeping — stays in data/homes.json
+// but is not shipped to every visitor's browser. Checked by grepping assets/map.js for every `h.<field>`
+// and dynamic `h[key]` access (factRows' guests/bedrooms/bathrooms/pets/kids) before trimming this list.
+const PUBLIC_FIELDS = ['id', 'name', 'url', 'place', 'town', 'state', 'destination', 'type', 'recordType',
+  'cardDescription', 'cardPhotos', 'platformLinks', 'guests', 'bedrooms', 'bathrooms', 'kids', 'pets',
+  'photo', 'lat', 'lng', 'locationLabel', 'askAddress', 'featured', 'demo'];
+const indexed = homes.map((h) => pick(h, PUBLIC_FIELDS));
 fs.writeFileSync(path.join(ROOT, 'index.md'), md.replace(/[ \t]+$/gm, ''));
 fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(indexed, null, 1) + '\n');
 // One file per tourist destination (data/destinations/<slug>.json): a destination page's own homes only,

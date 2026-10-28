@@ -9,57 +9,21 @@
   "destination": "Bethel & Sunday River",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Boutique vacation rentals, property management, interior design, and photography in Bethel & Newry, Maine.",
-  "descriptionSource": "https://www.stayhygge.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Boutique vacation rentals, property management, interior design, and photography in Bethel & Newry, Maine.",
-  "cardDescriptionSource": "https://www.stayhygge.com/",
   "cardPhotos": [
    "images/ME-0132-cover.jpg",
    "images/ME-0132-000.jpg",
    "images/ME-0132-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0132-card.webp",
   "lat": 44.4059,
   "lng": -70.7901,
-  "photo": "images/ME-0132-card.webp",
-  "coverPhoto": "images/ME-0132-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0132-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0132-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0132-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0132-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0132-logo.png",
-  "locationPrecision": "Town / area approximate",
   "featured": false,
   "demo": false
  },
@@ -73,55 +37,21 @@
   "destination": "Bethel & Sunday River",
   "type": "House",
   "recordType": "Property",
-  "description": "The Glen House at Sunday River Large family vacation Rental in Maine ski and golf",
-  "descriptionSource": "https://www.sundayriverrentals.com/",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "The Glen House at Sunday River Large family vacation Rental in Maine ski and golf",
-  "cardDescriptionSource": "https://www.sundayriverrentals.com/",
   "cardPhotos": [
    "images/ME-0186-cover.jpg",
    "images/ME-0186-000.jpg",
    "images/ME-0186-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": 26,
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": 26,
-  "capacityDetails": "26",
-  "priceFrom": "Unknown",
-  "priceDetails": "Rates given only through OwnerRez date-specific quote",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Yes — family-friendly and playground",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0186-card.webp",
   "lat": 44.49038,
   "lng": -70.88751,
-  "photo": "images/ME-0186-card.webp",
-  "coverPhoto": "images/ME-0186-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0186-cover.jpg",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0186-000.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0186-001.jpg",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0186-002.jpg",
-    "role": "photo"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Address",
   "featured": false,
   "demo": false
  },
@@ -135,90 +65,21 @@
   "destination": "Bethel & Sunday River",
   "type": "House",
   "recordType": "Property",
-  "description": "The Retreat is a five-bedroom home on a private wooded road near Bethel and the area's ski mountains. Several gathering spaces give families and friends room to spend time together.",
-  "descriptionSource": "https://www.justhappyhomes.com/the-retreat-in-bethel-maine",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "The Retreat is a five-bedroom home on a private wooded road near Bethel and the area's ski mountains. Several gathering spaces give families and…",
-  "cardDescriptionSource": "https://www.justhappyhomes.com/the-retreat-in-bethel-maine",
   "cardPhotos": [
    "images/ME-0363-cover.jpg",
    "images/ME-0363-000.jpg",
    "images/ME-0363-001.jpg"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "rental street address not publicly disclosed",
-   "Property description says 3.5 baths; listing schema says 4. Bathroom count left Unknown."
-  ],
-  "rooms": 16,
+  "guests": 14,
   "bedrooms": 5,
   "bathrooms": "Unknown",
-  "guests": 14,
-  "capacityDetails": "14",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Yes",
-  "petsDetails": "Yes",
+  "photo": "images/ME-0363-card.webp",
   "lat": 44.421111100000005,
   "lng": -70.7311111,
-  "photo": "images/ME-0363-card.webp",
-  "coverPhoto": "images/ME-0363-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0363-cover.jpg",
-    "role": "cover",
-    "url": "https://content.savvy.com/gallery_assets/01KXP8ZQT0QWYYFJ9Q7J23PYCK/raw?1784232796",
-    "page": "https://www.savvy.com/listings/the-retreat-in-bethel-maine-bethel-me-He84",
-    "sha256": "58110aee1134012a034d979d03672fd0991b70e81cfef08207f322cb765a7af8",
-    "width": 1600,
-    "height": 1068,
-    "originalSha256": "623b370db08fac57cf136cdbb9d97ad2a7e03c689a05d8cf995611296a0e5839",
-    "originalWidth": 2048,
-    "originalHeight": 1367
-   },
-   {
-    "file": "images/ME-0363-000.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01J4DMRJ07R338G2JEGYPG5DR9/raw?1785701549",
-    "page": "https://www.savvy.com/listings/the-retreat-in-bethel-maine-bethel-me-He84",
-    "sha256": "ec7a0363862672691200c0088f3efb75db38faf6730edb55b7e3602362f07cea",
-    "width": 1600,
-    "height": 1067,
-    "originalSha256": "f219fe1816557afbe040bc529e4b677f07e4c9a0aa5e6e5231a0eb807766d950",
-    "originalWidth": 2048,
-    "originalHeight": 1366
-   },
-   {
-    "file": "images/ME-0363-001.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01J4DMRJ088A356ZA3RRRCT1DJ/raw?1785701549",
-    "page": "https://www.savvy.com/listings/the-retreat-in-bethel-maine-bethel-me-He84",
-    "sha256": "58ad613afdbf509494522eb32b347f088999f6be571ce204f728eca88b337362",
-    "width": 1600,
-    "height": 1200,
-    "originalSha256": "58398ce74fd08b6b363ba504fa91b4fb1a80b8d033442ea4c1ab4a2cd1ca8d8e",
-    "originalWidth": 2840,
-    "originalHeight": 2130
-   },
-   {
-    "file": "images/ME-0363-002.jpg",
-    "role": "photo",
-    "url": "https://content.savvy.com/gallery_assets/01J4DMRJ075RE4D41E1HSS7J16/raw?1785701549",
-    "page": "https://www.savvy.com/listings/the-retreat-in-bethel-maine-bethel-me-He84",
-    "sha256": "1131fe8bf7fa34202dd4b81fe858522dbf712f80a77508c02e9849fbc770ecc5",
-    "width": 1600,
-    "height": 1066,
-    "originalSha256": "fd76b8942a41c1d571fefeb3ea13a806564157202b51bab57eb21794f1cddc2e",
-    "originalWidth": 2048,
-    "originalHeight": 1364
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published operator property map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -232,46 +93,21 @@
   "destination": "Bethel & Sunday River",
   "type": "Unknown",
   "recordType": "Property",
-  "description": "Luxury vacation homes and rentals across Maine, thoughtfully designed and warmly hosted. Book directly with TimbrLux Stays for an effortless getaway.",
-  "descriptionSource": "https://www.timbrluxstays.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Luxury vacation homes and rentals across Maine, thoughtfully designed and warmly hosted. Book directly with TimbrLux Stays for an effortless getaway.",
-  "cardDescriptionSource": "https://www.timbrluxstays.com",
   "cardPhotos": [
    "images/ME-0187-cover.jpg",
    "images/cards/ME-0187-01.webp",
    "images/cards/ME-0187-02.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Incomplete",
-  "missingRequiredFields": [
-   "address",
-   "property photos (4 required)"
-  ],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Unknown",
-  "currency": "Unknown",
   "kids": "Unknown",
   "pets": "Unknown",
-  "kidsDetails": "Unknown",
-  "petsDetails": "Unknown",
+  "photo": "images/ME-0187-card.webp",
   "lat": 44.5275,
   "lng": -70.8011,
-  "photo": "images/ME-0187-card.webp",
-  "coverPhoto": "images/ME-0187-cover.jpg",
-  "photos": [
-   {
-    "file": "images/ME-0187-cover.jpg",
-    "role": "cover"
-   }
-  ],
-  "logo": "Unknown",
-  "locationPrecision": "Published listing map (approximate)",
   "featured": false,
   "demo": false
  },
@@ -285,55 +121,21 @@
   "destination": "Bethel & Sunday River",
   "type": "Unknown",
   "recordType": "Rental operator",
-  "description": "Find vacation rentals in the Sunday River and Bethel area. Browse locally managed homes. Pet friendly options, hot tubs, amazing views, waterfront properties.",
-  "descriptionSource": "https://www.visitsundayriver.com",
-  "descriptionStatus": "Collected from source website",
   "cardDescription": "Find vacation rentals in the Sunday River and Bethel area. Browse locally managed homes. Pet friendly options, hot tubs, amazing views, waterfront…",
-  "cardDescriptionSource": "https://www.visitsundayriver.com",
   "cardPhotos": [
    "images/ME-0233-cover.webp",
    "images/ME-0233-000.webp",
    "images/ME-0233-001.webp"
   ],
   "platformLinks": {},
-  "collectionStatus": "Complete",
-  "missingRequiredFields": [],
-  "rooms": "Unknown",
+  "guests": "Unknown",
   "bedrooms": "Unknown",
   "bathrooms": "Unknown",
-  "guests": "Unknown",
-  "capacityDetails": "Unknown",
-  "priceFrom": "Unknown",
-  "priceDetails": "Dates and specific property required for rate",
-  "currency": "Unknown",
   "kids": "Yes",
   "pets": "Conditional",
-  "kidsDetails": "Yes — family/group rentals",
-  "petsDetails": "Varies — many units allow up to two dogs ($100/stay)",
+  "photo": "images/ME-0233-card.webp",
   "lat": 44.4059,
   "lng": -70.7901,
-  "photo": "images/ME-0233-card.webp",
-  "coverPhoto": "images/ME-0233-cover.webp",
-  "photos": [
-   {
-    "file": "images/ME-0233-cover.webp",
-    "role": "cover"
-   },
-   {
-    "file": "images/ME-0233-000.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0233-001.webp",
-    "role": "photo"
-   },
-   {
-    "file": "images/ME-0233-002.webp",
-    "role": "photo"
-   }
-  ],
-  "logo": "images/ME-0233-logo.webp",
-  "locationPrecision": "Town / area approximate",
   "askAddress": true,
   "featured": false,
   "demo": false
