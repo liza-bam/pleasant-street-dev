@@ -17,7 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     environment: github-pages
     steps:
+      # Only the site files come down: images/ (4.5 GB) stays on GitHub, except the one placeholder the build copies.
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /*
+            !/images/*
+            /images/photo-unknown.svg
+          sparse-checkout-cone-mode: false
       - name: Site without the photos
         run: |
           mkdir -p site
