@@ -215,7 +215,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--coral); outline
 .ps-action { display: flex; align-items: center; justify-content: center; gap: 6px; min-height: 48px; padding: 12px 10px; border-radius: 8px; font: inherit; font-size: 13px; font-weight: 650; text-decoration: none; cursor: pointer; }
 .ps-action svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.7; }
 .ps-home__independent { margin: 9px 0 0; color: var(--mute); font-size: 12px; line-height: 1.5; text-align: center; }
-.ps-home--tiny .ps-home__independent { font-size: 11px; }
+.ps-home--tiny .ps-home__independent { font-size: 12px; }
 .ps-action--primary, .ps-action--primary:visited { border: 1px solid #b5c0ba; background: #d9e0dc; color: var(--ink); transition: background .18s, color .18s, border-color .18s; }
 /* A tap or retained keyboard focus stays neutral; coral is true mouse hover only. */
 .ps-action--primary:active { border-color: #a8b5ad; background: #c9d3cc; color: var(--ink); }
