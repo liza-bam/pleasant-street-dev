@@ -615,6 +615,11 @@
       return h;
     });
     loaded = true;
+    try {
+      var destNames = Array.from(new Set(homes.map(function (h) { return h.destination; }).filter(function (d) { return d && d !== 'Unknown'; }))).sort();
+      var destList = document.getElementById('ps-destinations-list');
+      if (destList) destList.innerHTML = destNames.map(function (d) { return '<option value="' + esc(d) + '">'; }).join('');
+    } catch (_) {}
     homes.forEach(function (h) { var town = h.town || h.place.split(',')[0]; if (h.marker && known(town) && town.length <= 40 && town.indexOf('/') < 0 && town.toLowerCase() !== 'other') mapAreaPoints.push({ name: town, lat: h.lat, lng: h.lng }); });
     var featuredHomes = homes.filter(function (h) { return h.featured; });
     var homePool = homes.filter(function (h) { return !h.featured && h.recordType === 'Property' && photoSet(h).length; });
