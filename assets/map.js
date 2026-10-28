@@ -135,6 +135,15 @@
   }
   if (window.visualViewport) { window.visualViewport.addEventListener('resize', fitSearchToViewport); window.visualViewport.addEventListener('scroll', fitSearchToViewport); }
   fitSearchToViewport();
+  /* Phone: a swipe up on the open filter panel folds it away (its scroll must already be at the end). */
+  var panelTouch = null;
+  filterPanel.addEventListener('touchstart', function (e) { if (e.touches.length === 1) panelTouch = { x: e.touches[0].clientX, y: e.touches[0].clientY }; }, { passive: true });
+  filterPanel.addEventListener('touchend', function (e) {
+    if (!panelTouch || !app.classList.contains('app--filters-open') || !phoneLayout.matches) { panelTouch = null; return; }
+    var t = e.changedTouches[0], dx = t.clientX - panelTouch.x, dy = t.clientY - panelTouch.y; panelTouch = null;
+    var atEnd = filterPanel.scrollHeight - filterPanel.scrollTop - filterPanel.clientHeight < 2;
+    if (dy < -50 && Math.abs(dx) < Math.abs(dy) && atEnd && e.target.tagName !== 'INPUT') { app.classList.remove('app--filters-open'); filterToggle.setAttribute('aria-expanded', 'false'); }
+  }, { passive: true });
   filterToggle.addEventListener('click', function () {
     var open = filterToggle.getAttribute('aria-expanded') !== 'true';
     filterToggle.setAttribute('aria-expanded', String(open));
