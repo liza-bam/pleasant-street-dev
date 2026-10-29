@@ -133,7 +133,7 @@ with cf.ThreadPoolExecutor(16) as ex:
         if gaps: report['stillUnknown'][out['id']] = gaps
         if n % 500 == 0: print(f'  {n}/{len(todo)} read; filled so far {report["filled"]}', flush=True)
 # Camps, lodges and cottage colonies: a policy stated on the operator's own site holds for every unit of that
-# operator. Hosts with up to 40 homes count as one operator; a page is fetched once per host.
+# operator. Her 2026-10-28 rule extends this to agencies: any host's stated policy holds for all its listings. A page is fetched once per host.
 import urllib.parse, collections
 byhost = collections.defaultdict(list)
 for h in homes:
@@ -149,7 +149,7 @@ def host_policy(host):
         else: t = clean(fetch(root + path)); f.write_text(t)
         text += ' ' + t
     return host, decide(text, PETS), decide(text, KIDS)
-small = [host for host, lst in byhost.items() if len(lst) <= 40]
+small = list(byhost.keys())
 with cf.ThreadPoolExecutor(8) as ex:
     for host, (pv, pe), (kv, ke) in ex.map(host_policy, small):
         if not pv and not kv: continue

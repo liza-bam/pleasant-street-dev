@@ -1,6 +1,6 @@
 {
  "checkedOn": "2026-10-28",
- "read": 7062,
+ "read": 7087,
  "unreadable": [
   "ME-0208",
   "MA-0836",
@@ -30,7 +30,6 @@
   "MA-0829",
   "MA-0812",
   "ME-0168",
-  "ME-0258",
   "ME-0098",
   "MA-0262",
   "MA-0805",
@@ -54,33 +53,7 @@
   "MA-0253",
   "MA-0256",
   "NH-0069",
-  "MA-10041",
-  "MA-10042",
-  "MA-10050",
-  "MA-10054",
-  "MA-10048",
-  "MA-10065",
-  "MA-10071",
-  "MA-10036",
-  "MA-10045",
-  "MA-10063",
-  "MA-10034",
-  "MA-10047",
-  "MA-10046",
-  "MA-10039",
-  "MA-10057",
-  "MA-10053",
-  "MA-10066",
-  "MA-10056",
-  "MA-10061",
-  "MA-10035",
-  "MA-10070",
-  "MA-10060",
-  "MA-10052",
   "MA-0257",
-  "NY-0161",
-  "NY-0166",
-  "NY-0162",
   "MA-5007",
   "VT-0056",
   "NH-0050",
@@ -125,12 +98,12 @@
   "MA-3028"
  ],
  "filled": {
-  "pets": 0,
-  "kids": 0,
-  "guests": 99,
+  "pets": 2,
+  "kids": 24,
+  "guests": 2,
   "bedrooms": 0,
-  "bathrooms": 0,
-  "price": 0
+  "bathrooms": 2,
+  "price": 22
  },
  "stillUnknown": {
   "MA-0427": [
@@ -147,12 +120,10 @@
    "kids"
   ],
   "MA-0913": [
-   "pets",
    "kids",
    "guests"
   ],
   "MA-0943": [
-   "pets",
    "kids",
    "guests"
   ],
@@ -1559,6 +1530,13 @@
    "bedrooms",
    "bathrooms"
   ],
+  "ME-0258": [
+   "pets",
+   "kids",
+   "guests",
+   "bedrooms",
+   "bathrooms"
+  ],
   "NY-0131": [
    "guests"
   ],
@@ -2706,7 +2684,6 @@
    "kids"
   ],
   "MA-6864": [
-   "pets",
    "kids"
   ],
   "MA-6823": [
@@ -2866,7 +2843,6 @@
    "kids"
   ],
   "MA-6326": [
-   "pets",
    "kids"
   ],
   "MA-6333": [
@@ -2879,24 +2855,18 @@
    "kids"
   ],
   "MA-6344": [
-   "pets",
    "kids"
   ],
   "MA-6347": [
-   "pets",
    "kids"
   ],
   "MA-6348": [
    "kids"
   ],
-  "MA-6350": [
-   "pets"
-  ],
   "MA-6314": [
    "kids"
   ],
   "MA-6332": [
-   "pets",
    "kids"
   ],
   "MA-6295": [
@@ -2918,11 +2888,9 @@
    "kids"
   ],
   "MA-6303": [
-   "pets",
    "kids"
   ],
   "MA-6305": [
-   "pets",
    "kids"
   ],
   "MA-6306": [
@@ -2947,7 +2915,6 @@
    "kids"
   ],
   "MA-6325": [
-   "pets",
    "kids"
   ],
   "MA-6327": [
@@ -2999,7 +2966,6 @@
    "kids"
   ],
   "MA-6353": [
-   "pets",
    "kids"
   ],
   "MA-1834": [
@@ -3168,516 +3134,360 @@
    "bathrooms"
   ],
   "MA-13774": [
-   "pets",
    "kids"
   ],
   "MA-13801": [
-   "pets",
    "kids"
   ],
   "MA-13816": [
-   "pets",
    "kids"
   ],
   "MA-13825": [
-   "pets",
    "kids"
   ],
   "MA-13754": [
-   "pets",
    "kids"
   ],
   "MA-13714": [
-   "pets",
    "kids"
   ],
   "MA-13820": [
-   "pets",
    "kids"
   ],
   "MA-13815": [
-   "pets",
    "kids"
   ],
   "MA-13812": [
-   "pets",
    "kids"
   ],
   "MA-13832": [
-   "pets",
    "kids"
   ],
   "MA-13819": [
-   "pets",
    "kids"
   ],
   "MA-13830": [
-   "pets",
    "kids"
   ],
   "MA-13729": [
-   "pets",
    "kids"
   ],
-  "MA-13769": [
-   "pets"
-  ],
   "MA-13794": [
-   "pets",
    "kids"
   ],
   "MA-13744": [
-   "pets",
    "kids"
   ],
   "MA-13711": [
-   "pets",
    "kids"
   ],
   "MA-13826": [
-   "pets",
    "kids"
   ],
   "MA-13764": [
-   "pets",
    "kids"
   ],
   "MA-13724": [
-   "pets",
    "kids"
   ],
   "MA-13833": [
-   "pets",
    "kids"
   ],
   "MA-13738": [
-   "pets",
    "kids"
   ],
   "MA-13716": [
-   "pets",
    "kids"
   ],
   "MA-13712": [
-   "pets",
    "kids"
   ],
   "MA-13728": [
-   "pets",
    "kids"
   ],
   "MA-13758": [
-   "pets",
    "kids"
   ],
   "MA-13734": [
-   "pets",
    "kids"
   ],
   "MA-13788": [
-   "pets",
    "kids"
   ],
   "MA-13798": [
-   "pets",
    "kids"
   ],
   "MA-13836": [
-   "pets",
    "kids"
   ],
   "MA-13718": [
-   "pets",
    "kids"
   ],
   "MA-13842": [
-   "pets",
    "kids"
   ],
   "MA-13736": [
-   "pets",
    "kids"
   ],
-  "MA-13814": [
-   "pets"
-  ],
   "MA-13753": [
-   "pets",
    "kids"
   ],
   "MA-13726": [
-   "pets",
    "kids"
   ],
   "MA-13727": [
-   "pets",
    "kids"
   ],
   "MA-13831": [
-   "pets",
    "kids"
   ],
   "MA-13777": [
-   "pets",
    "kids"
   ],
-  "MA-13756": [
-   "pets"
-  ],
   "MA-13808": [
-   "pets",
    "kids"
   ],
   "MA-13772": [
-   "pets",
    "kids"
   ],
   "MA-13746": [
-   "pets",
    "kids"
   ],
   "MA-13789": [
-   "pets",
    "kids"
   ],
   "MA-13803": [
-   "pets",
    "kids"
   ],
   "MA-13775": [
-   "pets",
    "kids"
   ],
   "MA-13835": [
-   "pets",
    "kids"
   ],
   "MA-13827": [
-   "pets",
    "kids"
   ],
   "MA-13785": [
-   "pets",
    "kids"
   ],
   "MA-13781": [
-   "pets",
    "kids"
   ],
   "MA-13735": [
-   "pets",
    "kids"
   ],
   "MA-13752": [
-   "pets",
    "kids"
   ],
   "MA-13780": [
    "kids"
   ],
   "MA-13786": [
-   "pets",
    "kids"
   ],
   "MA-13800": [
-   "pets",
    "kids"
   ],
   "MA-13721": [
-   "pets",
    "kids"
   ],
   "MA-13751": [
-   "pets",
    "kids"
   ],
   "MA-13715": [
-   "pets",
    "kids"
   ],
   "MA-13717": [
-   "pets",
    "kids"
   ],
   "MA-13773": [
-   "pets",
    "kids"
   ],
   "MA-13755": [
-   "pets",
    "kids"
   ],
   "MA-13817": [
    "kids"
   ],
-  "MA-13740": [
-   "pets"
-  ],
   "MA-13837": [
-   "pets",
    "kids"
   ],
   "MA-13804": [
-   "pets",
    "kids"
   ],
   "MA-13713": [
-   "pets",
    "kids"
   ],
-  "MA-13813": [
-   "pets"
-  ],
   "MA-13792": [
-   "pets",
    "kids"
   ],
   "MA-13732": [
-   "pets",
    "kids"
   ],
   "MA-13771": [
-   "pets",
    "kids"
   ],
   "MA-13760": [
-   "pets",
    "kids"
   ],
   "MA-13796": [
-   "pets",
    "kids"
   ],
   "MA-13739": [
-   "pets",
    "kids"
   ],
   "MA-13823": [
-   "pets",
    "kids"
   ],
-  "MA-13725": [
-   "pets"
-  ],
   "MA-13783": [
-   "pets",
    "kids"
   ],
   "MA-13770": [
-   "pets",
    "kids"
   ],
   "MA-13807": [
-   "pets",
    "kids"
   ],
-  "MA-13741": [
-   "pets"
-  ],
   "MA-13778": [
-   "pets",
    "kids"
   ],
   "MA-13828": [
-   "pets",
    "kids"
   ],
   "MA-13834": [
-   "pets",
    "kids"
   ],
   "MA-13824": [
-   "pets",
    "kids"
   ],
   "MA-13731": [
-   "pets",
    "kids"
   ],
   "MA-13730": [
-   "pets",
    "kids"
   ],
   "MA-13799": [
-   "pets",
    "kids"
   ],
   "MA-13809": [
-   "pets",
    "kids"
   ],
   "MA-13841": [
-   "pets",
    "kids"
   ],
   "MA-13750": [
-   "pets",
    "kids"
   ],
   "MA-13749": [
-   "pets",
    "kids"
   ],
   "MA-13748": [
-   "pets",
    "kids"
   ],
   "MA-13840": [
-   "pets",
    "kids"
   ],
   "MA-13767": [
-   "pets",
    "kids"
   ],
-  "MA-13811": [
-   "pets"
-  ],
   "MA-13790": [
-   "pets",
    "kids"
   ],
   "MA-13763": [
-   "pets",
    "kids"
   ],
   "MA-13793": [
-   "pets",
    "kids"
   ],
   "MA-13779": [
-   "pets",
    "kids"
   ],
   "MA-13838": [
-   "pets",
    "kids"
   ],
   "MA-13722": [
-   "pets",
    "kids"
   ],
   "MA-13791": [
-   "pets",
    "kids"
   ],
   "MA-13766": [
-   "pets",
    "kids"
   ],
-  "MA-13797": [
-   "pets"
-  ],
   "MA-13795": [
-   "pets",
    "kids"
   ],
   "MA-13733": [
-   "pets",
    "kids"
   ],
   "MA-13782": [
-   "pets",
    "kids"
   ],
   "MA-13720": [
-   "pets",
    "kids"
-  ],
-  "MA-13806": [
-   "pets"
   ],
   "MA-13768": [
-   "pets",
    "kids"
   ],
-  "MA-13810": [
-   "pets"
-  ],
-  "MA-13737": [
-   "pets"
-  ],
   "MA-13776": [
-   "pets",
    "kids"
   ],
   "MA-13757": [
-   "pets",
    "kids"
   ],
   "MA-13802": [
-   "pets",
    "kids"
   ],
   "MA-13805": [
-   "pets",
    "kids"
   ],
   "MA-13719": [
-   "pets",
    "kids"
   ],
   "MA-13818": [
-   "pets",
    "kids"
   ],
   "MA-13765": [
-   "pets",
    "kids"
   ],
   "MA-13759": [
-   "pets",
    "kids"
   ],
   "MA-13723": [
-   "pets",
    "kids"
   ],
   "MA-13784": [
-   "pets",
    "kids"
   ],
   "MA-13747": [
-   "pets",
    "kids"
   ],
   "MA-13743": [
-   "pets",
    "kids"
   ],
   "MA-13761": [
-   "pets",
    "kids"
   ],
-  "MA-13829": [
-   "pets"
-  ],
   "MA-13745": [
-   "pets",
    "kids"
   ],
   "MA-13839": [
-   "pets",
    "kids"
   ],
   "MA-13787": [
-   "pets",
    "kids"
   ],
   "MA-13822": [
-   "pets",
    "kids"
   ],
   "MA-13821": [
-   "pets",
    "kids"
   ],
   "MA-13742": [
-   "pets",
    "kids"
   ],
   "MA-13762": [
-   "pets",
    "kids"
   ],
   "ME-0109": [
@@ -9232,498 +9042,6 @@
    "bedrooms",
    "bathrooms"
   ],
-  "MA-2003": [
-   "kids"
-  ],
-  "MA-2004": [
-   "kids"
-  ],
-  "MA-2005": [
-   "kids"
-  ],
-  "MA-2006": [
-   "kids"
-  ],
-  "MA-2007": [
-   "kids"
-  ],
-  "MA-2008": [
-   "kids"
-  ],
-  "MA-2009": [
-   "kids"
-  ],
-  "MA-2010": [
-   "kids"
-  ],
-  "MA-2011": [
-   "kids"
-  ],
-  "MA-2012": [
-   "kids"
-  ],
-  "MA-2013": [
-   "kids"
-  ],
-  "MA-2014": [
-   "kids"
-  ],
-  "MA-2015": [
-   "kids"
-  ],
-  "MA-2016": [
-   "kids"
-  ],
-  "MA-2017": [
-   "kids"
-  ],
-  "MA-2018": [
-   "kids"
-  ],
-  "MA-2019": [
-   "kids"
-  ],
-  "MA-2020": [
-   "kids"
-  ],
-  "MA-2021": [
-   "kids"
-  ],
-  "MA-2023": [
-   "kids"
-  ],
-  "MA-2024": [
-   "kids"
-  ],
-  "MA-2026": [
-   "kids"
-  ],
-  "MA-2028": [
-   "kids"
-  ],
-  "MA-2029": [
-   "kids"
-  ],
-  "MA-2031": [
-   "kids"
-  ],
-  "MA-2032": [
-   "kids"
-  ],
-  "MA-2033": [
-   "kids"
-  ],
-  "MA-2034": [
-   "kids"
-  ],
-  "MA-2036": [
-   "kids"
-  ],
-  "MA-2037": [
-   "kids"
-  ],
-  "MA-2039": [
-   "kids"
-  ],
-  "MA-2040": [
-   "kids"
-  ],
-  "MA-2043": [
-   "kids"
-  ],
-  "MA-2045": [
-   "kids"
-  ],
-  "MA-2046": [
-   "kids"
-  ],
-  "MA-2047": [
-   "kids"
-  ],
-  "MA-2048": [
-   "kids"
-  ],
-  "MA-2049": [
-   "kids"
-  ],
-  "MA-2050": [
-   "kids"
-  ],
-  "MA-2051": [
-   "kids"
-  ],
-  "MA-2052": [
-   "kids"
-  ],
-  "MA-2053": [
-   "kids"
-  ],
-  "MA-2054": [
-   "kids"
-  ],
-  "MA-2055": [
-   "kids"
-  ],
-  "MA-2056": [
-   "kids"
-  ],
-  "MA-2057": [
-   "kids"
-  ],
-  "MA-2058": [
-   "kids"
-  ],
-  "MA-2059": [
-   "kids"
-  ],
-  "MA-2062": [
-   "kids"
-  ],
-  "MA-2063": [
-   "kids"
-  ],
-  "MA-2064": [
-   "kids"
-  ],
-  "MA-2066": [
-   "kids"
-  ],
-  "MA-2067": [
-   "kids"
-  ],
-  "MA-2068": [
-   "kids"
-  ],
-  "MA-2069": [
-   "kids"
-  ],
-  "MA-2070": [
-   "kids"
-  ],
-  "MA-2071": [
-   "kids"
-  ],
-  "MA-2072": [
-   "kids"
-  ],
-  "MA-2073": [
-   "kids"
-  ],
-  "MA-2074": [
-   "kids"
-  ],
-  "MA-2075": [
-   "kids"
-  ],
-  "MA-2076": [
-   "kids"
-  ],
-  "MA-2077": [
-   "kids"
-  ],
-  "MA-2079": [
-   "kids"
-  ],
-  "MA-2080": [
-   "kids"
-  ],
-  "MA-2081": [
-   "kids"
-  ],
-  "MA-2082": [
-   "kids"
-  ],
-  "MA-2083": [
-   "kids"
-  ],
-  "MA-2084": [
-   "kids"
-  ],
-  "MA-2085": [
-   "kids"
-  ],
-  "MA-2086": [
-   "kids"
-  ],
-  "MA-2087": [
-   "kids"
-  ],
-  "MA-2088": [
-   "kids"
-  ],
-  "MA-2089": [
-   "kids"
-  ],
-  "MA-2090": [
-   "kids"
-  ],
-  "MA-2091": [
-   "kids"
-  ],
-  "MA-2092": [
-   "kids"
-  ],
-  "MA-2093": [
-   "kids"
-  ],
-  "MA-2094": [
-   "kids"
-  ],
-  "MA-2095": [
-   "kids"
-  ],
-  "MA-2096": [
-   "kids"
-  ],
-  "MA-2097": [
-   "kids"
-  ],
-  "MA-2098": [
-   "kids"
-  ],
-  "MA-2100": [
-   "kids"
-  ],
-  "MA-2101": [
-   "kids"
-  ],
-  "MA-2102": [
-   "kids"
-  ],
-  "MA-2103": [
-   "kids"
-  ],
-  "MA-2104": [
-   "kids"
-  ],
-  "MA-2105": [
-   "kids"
-  ],
-  "MA-2106": [
-   "kids"
-  ],
-  "MA-2107": [
-   "kids"
-  ],
-  "MA-2108": [
-   "kids"
-  ],
-  "MA-2109": [
-   "kids"
-  ],
-  "MA-2110": [
-   "kids"
-  ],
-  "MA-2111": [
-   "kids"
-  ],
-  "MA-2112": [
-   "kids"
-  ],
-  "MA-2113": [
-   "kids"
-  ],
-  "MA-2114": [
-   "kids"
-  ],
-  "MA-2115": [
-   "kids"
-  ],
-  "MA-2116": [
-   "kids"
-  ],
-  "MA-2117": [
-   "kids"
-  ],
-  "MA-2118": [
-   "kids"
-  ],
-  "MA-2120": [
-   "kids"
-  ],
-  "MA-2121": [
-   "kids"
-  ],
-  "MA-2122": [
-   "kids"
-  ],
-  "MA-2123": [
-   "kids"
-  ],
-  "MA-2124": [
-   "kids"
-  ],
-  "MA-2127": [
-   "kids"
-  ],
-  "MA-2129": [
-   "kids"
-  ],
-  "MA-2130": [
-   "kids"
-  ],
-  "MA-2131": [
-   "kids"
-  ],
-  "MA-2132": [
-   "kids"
-  ],
-  "MA-2133": [
-   "kids"
-  ],
-  "MA-2134": [
-   "kids"
-  ],
-  "MA-2135": [
-   "kids"
-  ],
-  "MA-2136": [
-   "kids"
-  ],
-  "MA-2138": [
-   "kids"
-  ],
-  "MA-2139": [
-   "kids"
-  ],
-  "MA-2140": [
-   "kids"
-  ],
-  "MA-2141": [
-   "kids"
-  ],
-  "MA-2142": [
-   "kids"
-  ],
-  "MA-2143": [
-   "kids"
-  ],
-  "MA-2144": [
-   "kids"
-  ],
-  "MA-2145": [
-   "kids"
-  ],
-  "MA-2146": [
-   "kids"
-  ],
-  "MA-2147": [
-   "kids"
-  ],
-  "MA-2149": [
-   "kids"
-  ],
-  "MA-2150": [
-   "kids"
-  ],
-  "MA-2151": [
-   "kids"
-  ],
-  "MA-2152": [
-   "kids"
-  ],
-  "MA-2153": [
-   "kids"
-  ],
-  "MA-2156": [
-   "kids"
-  ],
-  "MA-2158": [
-   "kids"
-  ],
-  "MA-2159": [
-   "kids"
-  ],
-  "MA-2160": [
-   "kids"
-  ],
-  "MA-2161": [
-   "kids"
-  ],
-  "MA-2162": [
-   "kids"
-  ],
-  "MA-2163": [
-   "kids"
-  ],
-  "MA-2164": [
-   "kids"
-  ],
-  "MA-2165": [
-   "kids"
-  ],
-  "MA-2166": [
-   "kids"
-  ],
-  "MA-2167": [
-   "kids"
-  ],
-  "MA-2168": [
-   "kids"
-  ],
-  "MA-2169": [
-   "kids"
-  ],
-  "MA-2170": [
-   "kids"
-  ],
-  "MA-2172": [
-   "kids"
-  ],
-  "MA-2173": [
-   "kids"
-  ],
-  "MA-2174": [
-   "kids"
-  ],
-  "MA-2175": [
-   "kids"
-  ],
-  "MA-2176": [
-   "kids"
-  ],
-  "MA-2177": [
-   "kids"
-  ],
-  "MA-2178": [
-   "kids"
-  ],
-  "MA-2181": [
-   "kids"
-  ],
-  "MA-2184": [
-   "kids"
-  ],
-  "MA-2186": [
-   "kids"
-  ],
-  "MA-2187": [
-   "kids"
-  ],
-  "MA-2188": [
-   "kids"
-  ],
-  "MA-2189": [
-   "kids"
-  ],
-  "MA-2190": [
-   "kids"
-  ],
-  "MA-2191": [
-   "kids"
-  ],
-  "MA-2192": [
-   "kids"
-  ],
-  "MA-2193": [
-   "kids"
-  ],
-  "MA-2194": [
-   "kids"
-  ],
-  "MA-2195": [
-   "kids"
-  ],
   "MA-10006": [
    "kids"
   ],
@@ -9779,512 +9097,382 @@
    "kids"
   ],
   "MA-13377": [
-   "pets",
    "kids"
   ],
   "MA-13366": [
-   "pets",
    "kids"
   ],
-  "MA-13465": [
-   "pets"
-  ],
   "MA-13410": [
-   "pets",
    "kids"
   ],
   "MA-13498": [
-   "pets",
    "kids"
   ],
   "MA-13635": [
-   "pets",
    "kids"
   ],
   "MA-13694": [
-   "pets",
    "kids"
   ],
   "MA-13468": [
-   "pets",
    "kids"
   ],
-  "MA-13404": [
-   "pets"
-  ],
   "MA-13593": [
-   "pets",
    "kids"
   ],
   "MA-13603": [
-   "pets",
    "kids"
   ],
   "MA-13600": [
-   "pets",
    "kids"
   ],
   "MA-13587": [
-   "pets",
    "kids"
   ],
   "MA-13639": [
-   "pets",
    "kids"
   ],
   "MA-13624": [
-   "pets",
    "kids"
   ],
   "MA-13478": [
-   "pets",
    "kids"
   ],
-  "MA-13526": [
-   "pets"
-  ],
   "MA-13577": [
-   "pets",
    "kids"
   ],
   "MA-13547": [
-   "pets",
    "kids"
   ],
   "MA-13546": [
-   "pets",
    "kids"
   ],
   "MA-13482": [
    "kids"
   ],
   "MA-13386": [
-   "pets",
    "kids"
   ],
   "MA-13652": [
-   "pets",
    "kids"
   ],
   "MA-13489": [
-   "pets",
    "kids"
   ],
   "MA-13395": [
-   "pets",
    "kids"
   ],
   "MA-13397": [
-   "pets",
    "kids"
   ],
   "MA-13475": [
-   "pets",
    "kids"
   ],
   "MA-13516": [
-   "pets",
    "kids"
   ],
   "MA-13672": [
-   "pets",
    "kids"
   ],
   "MA-13533": [
-   "pets",
    "kids"
   ],
   "MA-13534": [
-   "pets",
    "kids"
   ],
   "MA-13648": [
-   "pets",
    "kids",
    "guests"
   ],
   "MA-13530": [
-   "pets",
    "kids"
   ],
   "MA-13433": [
    "kids"
   ],
   "MA-13582": [
-   "pets",
    "kids"
   ],
   "MA-13527": [
-   "pets",
    "kids"
   ],
   "MA-13679": [
-   "pets",
    "kids"
   ],
   "MA-13690": [
-   "pets",
    "kids"
   ],
   "MA-13561": [
-   "pets",
    "kids"
   ],
   "MA-13370": [
-   "pets",
    "kids"
   ],
   "MA-13573": [
-   "pets",
    "kids"
   ],
   "MA-13695": [
-   "pets",
    "kids"
   ],
   "MA-13549": [
-   "pets",
    "kids"
   ],
   "MA-13390": [
-   "pets",
    "kids"
   ],
   "MA-13535": [
-   "pets",
    "kids"
   ],
   "MA-13406": [
-   "pets",
    "kids"
   ],
   "MA-13485": [
-   "pets",
    "kids"
   ],
   "MA-13618": [
-   "pets",
    "kids"
   ],
   "MA-13479": [
-   "pets",
    "kids"
   ],
   "MA-13369": [
    "kids"
   ],
   "MA-13375": [
-   "pets",
    "kids"
   ],
   "MA-13419": [
-   "pets",
    "kids"
   ],
   "MA-13620": [
    "kids"
   ],
   "MA-13539": [
-   "pets",
    "kids"
   ],
   "MA-13425": [
-   "pets",
    "kids"
   ],
   "MA-13538": [
-   "pets",
    "kids"
   ],
   "MA-13426": [
-   "pets",
    "kids"
   ],
   "MA-13472": [
-   "pets",
    "kids"
   ],
   "MA-13439": [
-   "pets",
    "kids"
   ],
   "MA-13447": [
-   "pets",
    "kids"
   ],
   "MA-13597": [
-   "pets",
    "kids"
   ],
   "MA-13403": [
-   "pets",
    "kids"
   ],
   "MA-13596": [
    "kids"
   ],
   "MA-13611": [
-   "pets",
    "kids"
   ],
   "MA-13470": [
-   "pets",
    "kids"
   ],
   "MA-13473": [
-   "pets",
    "kids"
   ],
   "MA-13625": [
-   "pets",
    "kids"
   ],
   "MA-13571": [
-   "pets",
    "kids"
   ],
   "MA-13560": [
-   "pets",
    "kids"
   ],
   "MA-13518": [
-   "pets",
    "kids"
   ],
   "MA-13383": [
-   "pets",
    "kids"
   ],
   "MA-13588": [
-   "pets",
    "kids"
   ],
   "MA-13382": [
-   "pets",
    "kids"
   ],
   "MA-13474": [
    "kids"
   ],
   "MA-13495": [
-   "pets",
    "kids"
   ],
   "MA-13476": [
-   "pets",
    "kids"
   ],
   "MA-13415": [
    "kids"
   ],
   "MA-13663": [
-   "pets",
    "kids"
   ],
   "MA-13559": [
-   "pets",
    "kids"
   ],
   "MA-13628": [
-   "pets",
    "kids"
   ],
   "MA-13461": [
-   "pets",
    "kids"
   ],
   "MA-13372": [
-   "pets",
    "kids"
   ],
   "MA-13459": [
-   "pets",
    "kids"
   ],
   "MA-13650": [
-   "pets",
    "kids"
   ],
   "MA-13408": [
-   "pets",
    "kids"
   ],
   "MA-13576": [
-   "pets",
    "kids"
   ],
   "MA-13393": [
-   "pets",
    "kids"
   ],
   "MA-13517": [
-   "pets",
    "kids"
   ],
   "MA-13466": [
    "kids"
   ],
   "MA-13374": [
-   "pets",
    "kids"
   ],
   "MA-13612": [
-   "pets",
    "kids"
   ],
   "MA-13553": [
-   "pets",
    "kids"
   ],
   "MA-13508": [
-   "pets",
    "kids"
   ],
   "MA-13477": [
-   "pets",
    "kids"
   ],
   "MA-13502": [
-   "pets",
    "kids"
   ],
   "MA-13448": [
-   "pets",
    "kids"
   ],
   "MA-13542": [
-   "pets",
    "kids"
   ],
   "MA-13671": [
    "kids"
   ],
   "MA-13606": [
-   "pets",
    "kids"
   ],
   "MA-13430": [
-   "pets",
    "kids"
   ],
   "MA-13565": [
-   "pets",
    "kids"
   ],
   "MA-13532": [
-   "pets",
    "kids"
   ],
   "MA-13500": [
-   "pets",
    "kids"
   ],
   "MA-13562": [
-   "pets",
    "kids"
   ],
   "MA-13515": [
-   "pets",
    "kids"
   ],
   "MA-13392": [
-   "pets",
    "kids"
   ],
-  "MA-13376": [
-   "pets"
-  ],
   "MA-13384": [
-   "pets",
    "kids"
   ],
   "MA-13677": [
-   "pets",
    "kids"
   ],
   "MA-13685": [
-   "pets",
    "kids"
   ],
   "MA-13567": [
    "kids"
   ],
   "MA-13617": [
-   "pets",
    "kids"
   ],
   "MA-13499": [
-   "pets",
    "kids"
   ],
   "MA-13662": [
-   "pets",
    "kids"
   ],
   "MA-13438": [
-   "pets",
    "kids"
   ],
   "MA-13440": [
-   "pets",
    "kids"
   ],
   "MA-13387": [
-   "pets",
    "kids"
   ],
   "MA-13509": [
-   "pets",
    "kids"
   ],
   "MA-13380": [
-   "pets",
    "kids"
   ],
   "MA-13658": [
-   "pets",
    "kids"
   ],
   "MA-13654": [
-   "pets",
    "kids"
   ],
   "MA-13661": [
-   "pets",
    "kids"
   ],
   "MA-13556": [
-   "pets",
    "kids"
   ],
   "MA-13491": [
-   "pets",
    "kids"
   ],
   "MA-13666": [
-   "pets",
    "kids"
   ],
-  "MA-13642": [
-   "pets"
-  ],
   "MA-13511": [
-   "pets",
    "kids"
   ],
   "MA-13443": [
-   "pets",
    "kids"
   ],
   "MA-13630": [
-   "pets",
    "kids"
   ],
   "MA-13378": [
    "kids"
   ],
   "MA-13429": [
-   "pets",
    "kids"
   ],
   "MA-13604": [
@@ -10294,315 +9482,242 @@
    "kids"
   ],
   "MA-13523": [
-   "pets",
    "kids"
   ],
   "MA-13602": [
-   "pets",
    "kids"
   ],
   "MA-13418": [
-   "pets",
    "kids"
   ],
   "MA-13590": [
-   "pets",
    "kids"
   ],
   "MA-13621": [
-   "pets",
    "kids"
   ],
   "MA-13691": [
    "kids"
   ],
   "MA-13414": [
-   "pets",
    "kids"
   ],
   "MA-13409": [
-   "pets",
    "kids"
   ],
   "MA-13551": [
-   "pets",
    "kids"
   ],
   "MA-13629": [
-   "pets",
    "kids"
   ],
   "MA-13505": [
-   "pets",
    "kids"
   ],
   "MA-13619": [
-   "pets",
    "kids"
   ],
   "MA-13608": [
    "kids"
   ],
   "MA-13632": [
-   "pets",
    "kids"
   ],
   "MA-13513": [
-   "pets",
    "kids"
   ],
   "MA-13545": [
-   "pets",
    "kids"
   ],
   "MA-13598": [
-   "pets",
    "kids"
   ],
   "MA-13494": [
-   "pets",
    "kids"
   ],
   "MA-13480": [
-   "pets",
    "kids"
   ],
   "MA-13381": [
    "kids"
   ],
   "MA-13536": [
-   "pets",
    "kids"
   ],
   "MA-13514": [
-   "pets",
    "kids"
   ],
   "MA-13541": [
-   "pets",
    "kids"
   ],
   "MA-13670": [
-   "pets",
    "kids"
   ],
   "MA-13451": [
-   "pets",
    "kids"
   ],
   "MA-13563": [
-   "pets",
    "kids"
   ],
   "MA-13637": [
-   "pets",
    "kids"
   ],
   "MA-13428": [
-   "pets",
    "kids"
   ],
   "MA-13427": [
-   "pets",
    "kids"
   ],
   "MA-13458": [
-   "pets",
    "kids"
   ],
   "MA-13669": [
-   "pets",
    "kids"
   ],
   "MA-13681": [
    "kids"
   ],
   "MA-13605": [
-   "pets",
    "kids"
   ],
   "MA-13457": [
    "kids"
   ],
   "MA-13659": [
-   "pets",
    "kids"
   ],
   "MA-13581": [
-   "pets",
    "kids"
   ],
   "MA-13471": [
-   "pets",
    "kids"
   ],
   "MA-13422": [
-   "pets",
    "kids"
   ],
   "MA-13641": [
-   "pets",
    "kids"
   ],
   "MA-13486": [
-   "pets",
    "kids"
   ],
   "MA-13653": [
    "kids"
   ],
   "MA-13640": [
-   "pets",
    "kids"
   ],
   "MA-13647": [
-   "pets",
    "kids"
   ],
   "MA-13450": [
-   "pets",
    "kids"
   ],
   "MA-13504": [
    "kids"
   ],
   "MA-13580": [
-   "pets",
    "kids"
   ],
   "MA-13431": [
-   "pets",
    "kids"
   ],
   "MA-13421": [
-   "pets",
    "kids"
   ],
   "MA-13449": [
-   "pets",
    "kids"
   ],
   "MA-13483": [
-   "pets",
    "kids"
   ],
   "MA-13537": [
-   "pets",
    "kids"
   ],
   "MA-13453": [
-   "pets",
    "kids"
   ],
   "MA-13548": [
-   "pets",
    "kids"
   ],
   "MA-13609": [
-   "pets",
    "kids"
   ],
   "MA-13674": [
-   "pets",
    "kids"
   ],
   "MA-13631": [
-   "pets",
    "kids"
   ],
   "MA-13512": [
-   "pets",
    "kids"
   ],
   "MA-13673": [
-   "pets",
    "kids"
   ],
   "MA-13675": [
-   "pets",
    "kids"
   ],
   "MA-13463": [
-   "pets",
    "kids"
   ],
   "MA-13452": [
-   "pets",
    "kids"
   ],
   "MA-13651": [
-   "pets",
    "kids"
   ],
   "MA-13417": [
    "kids"
   ],
-  "MA-13657": [
-   "pets"
-  ],
   "MA-13667": [
-   "pets",
    "kids"
   ],
   "MA-13441": [
-   "pets",
    "kids"
   ],
   "MA-13385": [
-   "pets",
    "kids"
   ],
   "MA-13497": [
    "kids"
   ],
   "MA-13655": [
-   "pets",
    "kids"
   ],
   "MA-13490": [
-   "pets",
    "kids"
   ],
   "MA-13610": [
-   "pets",
    "kids"
   ],
   "MA-13643": [
-   "pets",
    "kids"
   ],
   "MA-13520": [
-   "pets",
    "kids"
   ],
   "MA-13696": [
-   "pets",
    "kids",
    "guests"
   ],
   "MA-13693": [
-   "pets",
    "kids"
   ],
   "MA-13574": [
-   "pets",
    "kids"
   ],
   "MA-13687": [
-   "pets",
    "kids",
    "guests"
   ],
   "MA-13688": [
-   "pets",
    "kids"
   ],
   "MA-13456": [
-   "pets",
    "kids"
   ],
   "MA-13488": [
-   "pets",
    "kids"
   ],
   "MA-13493": [
@@ -10612,298 +9727,226 @@
    "kids"
   ],
   "MA-13436": [
-   "pets",
    "kids"
   ],
   "MA-13665": [
-   "pets",
    "kids"
   ],
   "MA-13656": [
-   "pets",
    "kids"
   ],
   "MA-13401": [
-   "pets",
    "kids"
   ],
   "MA-13444": [
-   "pets",
    "kids"
   ],
   "MA-13496": [
    "kids"
   ],
   "MA-13579": [
-   "pets",
    "kids"
   ],
   "MA-13591": [
-   "pets",
    "kids"
   ],
   "MA-13589": [
-   "pets",
    "kids"
   ],
   "MA-13368": [
-   "pets",
    "kids"
   ],
   "MA-13578": [
-   "pets",
    "kids"
   ],
   "MA-13435": [
    "kids"
   ],
   "MA-13595": [
-   "pets",
    "kids"
   ],
   "MA-13411": [
-   "pets",
    "kids"
   ],
   "MA-13664": [
-   "pets",
    "kids"
   ],
   "MA-13692": [
-   "pets",
    "kids"
   ],
   "MA-13522": [
-   "pets",
    "kids"
   ],
   "MA-13464": [
-   "pets",
    "kids"
   ],
   "MA-13525": [
-   "pets",
    "kids"
   ],
   "MA-13668": [
-   "pets",
    "kids"
   ],
   "MA-13501": [
-   "pets",
    "kids"
   ],
   "MA-13634": [
-   "pets",
    "kids"
   ],
   "MA-13446": [
    "kids"
   ],
   "MA-13442": [
-   "pets",
    "kids"
   ],
   "MA-13462": [
    "kids"
   ],
   "MA-13616": [
-   "pets",
    "kids"
   ],
   "MA-13367": [
-   "pets",
    "kids"
   ],
   "MA-13623": [
-   "pets",
    "kids"
   ],
   "MA-13626": [
-   "pets",
    "kids"
   ],
   "MA-13678": [
-   "pets",
    "kids"
   ],
   "MA-13583": [
-   "pets",
    "kids"
   ],
   "MA-13584": [
-   "pets",
    "kids"
   ],
   "MA-13454": [
-   "pets",
    "kids"
   ],
   "MA-13557": [
-   "pets",
    "kids"
   ],
   "MA-13697": [
-   "pets",
    "kids"
   ],
   "MA-13607": [
    "kids"
   ],
   "MA-13586": [
-   "pets",
    "kids"
   ],
   "MA-13540": [
-   "pets",
    "kids"
   ],
-  "MA-13601": [
-   "pets"
-  ],
   "MA-13585": [
-   "pets",
    "kids"
   ],
   "MA-13572": [
-   "pets",
    "kids"
   ],
   "MA-13638": [
-   "pets",
    "kids"
   ],
   "MA-13398": [
-   "pets",
    "kids"
   ],
   "MA-13660": [
-   "pets",
    "kids"
   ],
   "MA-13558": [
-   "pets",
    "kids"
   ],
   "MA-13420": [
-   "pets",
    "kids"
   ],
   "MA-13467": [
    "kids"
   ],
   "MA-13644": [
-   "pets",
    "kids"
   ],
   "MA-13566": [
-   "pets",
    "kids"
   ],
   "MA-13528": [
-   "pets",
    "kids"
   ],
   "MA-13599": [
-   "pets",
    "kids"
   ],
   "MA-13405": [
-   "pets",
    "kids"
   ],
   "MA-13686": [
-   "pets",
    "kids"
   ],
   "MA-13646": [
    "kids"
   ],
   "MA-13432": [
-   "pets",
    "kids"
   ],
   "MA-13543": [
-   "pets",
    "kids"
   ],
   "MA-13400": [
-   "pets",
    "kids"
   ],
   "MA-13680": [
-   "pets",
    "kids"
   ],
   "MA-13389": [
-   "pets",
    "kids"
   ],
   "MA-13388": [
-   "pets",
    "kids"
   ],
   "MA-13407": [
-   "pets",
    "kids"
   ],
   "MA-13633": [
-   "pets",
    "kids"
   ],
   "MA-13554": [
-   "pets",
    "kids"
   ],
   "MA-13645": [
-   "pets",
    "kids"
   ],
   "MA-13445": [
-   "pets",
    "kids"
   ],
   "MA-13434": [
-   "pets",
    "kids"
   ],
   "MA-13506": [
-   "pets",
    "kids"
   ],
   "MA-13544": [
-   "pets",
    "kids"
   ],
   "MA-13396": [
-   "pets",
    "kids"
   ],
   "MA-13460": [
-   "pets",
    "kids"
   ],
   "MA-13555": [
    "kids"
   ],
   "MA-13552": [
-   "pets",
    "kids"
   ],
   "MA-13636": [
-   "pets",
    "kids"
   ],
   "MA-13424": [
-   "pets",
    "kids"
   ],
   "MA-13507": [
-   "pets",
    "kids"
-  ],
-  "MA-13455": [
-   "pets"
   ],
   "MA-13416": [
    "kids"
@@ -10918,47 +9961,36 @@
    "kids"
   ],
   "MA-13423": [
-   "pets",
    "kids"
   ],
   "MA-13614": [
-   "pets",
    "kids"
   ],
   "MA-13371": [
-   "pets",
    "kids"
   ],
   "MA-13519": [
-   "pets",
    "kids"
   ],
   "MA-13373": [
-   "pets",
    "kids"
   ],
   "MA-13487": [
-   "pets",
    "kids"
   ],
   "MA-13594": [
-   "pets",
    "kids"
   ],
   "MA-13570": [
-   "pets",
    "kids"
   ],
   "MA-13469": [
-   "pets",
    "kids"
   ],
   "MA-13575": [
-   "pets",
    "kids"
   ],
   "MA-13550": [
-   "pets",
    "kids"
   ],
   "MA-13531": [
@@ -10968,316 +10000,69 @@
    "kids"
   ],
   "MA-13412": [
-   "pets",
    "kids"
   ],
   "MA-13615": [
-   "pets",
    "kids"
   ],
   "MA-13402": [
-   "pets",
    "kids"
   ],
   "MA-13627": [
-   "pets",
    "kids"
   ],
   "MA-13521": [
    "kids"
   ],
   "MA-13503": [
-   "pets",
    "kids"
   ],
   "MA-13437": [
-   "pets",
    "kids"
   ],
   "MA-13613": [
-   "pets",
    "kids"
   ],
   "MA-13379": [
-   "pets",
    "kids"
   ],
   "MA-13413": [
-   "pets",
    "kids"
   ],
   "MA-13529": [
-   "pets",
    "kids"
   ],
   "MA-13592": [
-   "pets",
    "kids"
   ],
   "MA-13649": [
-   "pets",
    "kids"
   ],
   "MA-13683": [
-   "pets",
    "kids"
   ],
   "MA-13684": [
-   "pets",
    "kids"
   ],
   "MA-13391": [
-   "pets",
    "kids"
   ],
   "MA-13682": [
    "kids"
   ],
   "MA-13510": [
-   "pets",
    "kids"
   ],
   "MA-13622": [
-   "pets",
    "kids"
   ],
   "MA-13481": [
-   "pets",
    "kids"
   ],
   "MA-13569": [
-   "pets",
    "kids"
   ],
   "ME-0473": [
-   "kids"
-  ],
-  "MA-7594": [
-   "pets",
-   "kids"
-  ],
-  "MA-7595": [
-   "pets",
-   "kids"
-  ],
-  "MA-7596": [
-   "pets",
-   "kids"
-  ],
-  "MA-7597": [
-   "pets",
-   "kids"
-  ],
-  "MA-7598": [
-   "pets",
-   "kids"
-  ],
-  "MA-7599": [
-   "pets",
-   "kids"
-  ],
-  "MA-7600": [
-   "pets"
-  ],
-  "MA-7601": [
-   "pets",
-   "kids"
-  ],
-  "MA-7602": [
-   "pets",
-   "kids"
-  ],
-  "MA-7603": [
-   "pets",
-   "kids"
-  ],
-  "MA-7606": [
-   "pets",
-   "kids"
-  ],
-  "MA-7607": [
-   "pets",
-   "kids"
-  ],
-  "MA-7608": [
-   "pets",
-   "kids"
-  ],
-  "MA-7609": [
-   "pets",
-   "kids"
-  ],
-  "MA-7610": [
-   "pets",
-   "kids"
-  ],
-  "MA-7611": [
-   "pets",
-   "kids"
-  ],
-  "MA-7612": [
-   "pets",
-   "kids"
-  ],
-  "MA-7613": [
-   "pets",
-   "kids"
-  ],
-  "MA-7614": [
-   "pets",
-   "kids"
-  ],
-  "MA-7615": [
-   "pets",
-   "kids"
-  ],
-  "MA-7616": [
-   "kids"
-  ],
-  "MA-7617": [
-   "pets",
-   "kids"
-  ],
-  "MA-7618": [
-   "pets",
-   "kids"
-  ],
-  "MA-7619": [
-   "pets",
-   "kids"
-  ],
-  "MA-7620": [
-   "pets",
-   "kids"
-  ],
-  "MA-7621": [
-   "pets",
-   "kids"
-  ],
-  "MA-7622": [
-   "pets",
-   "kids"
-  ],
-  "MA-7623": [
-   "pets",
-   "kids"
-  ],
-  "MA-7624": [
-   "pets",
-   "kids"
-  ],
-  "MA-7625": [
-   "pets",
-   "kids"
-  ],
-  "MA-7626": [
-   "kids"
-  ],
-  "MA-7627": [
-   "pets",
-   "kids"
-  ],
-  "MA-7628": [
-   "pets",
-   "kids"
-  ],
-  "MA-7629": [
-   "pets",
-   "kids"
-  ],
-  "MA-7630": [
-   "pets",
-   "kids"
-  ],
-  "MA-7631": [
-   "pets",
-   "kids"
-  ],
-  "MA-7632": [
-   "pets",
-   "kids"
-  ],
-  "MA-7633": [
-   "pets",
-   "kids"
-  ],
-  "MA-7634": [
-   "pets",
-   "kids"
-  ],
-  "MA-7635": [
-   "pets",
-   "kids"
-  ],
-  "MA-7636": [
-   "pets",
-   "kids"
-  ],
-  "MA-7637": [
-   "pets",
-   "kids"
-  ],
-  "MA-7638": [
-   "pets",
-   "kids"
-  ],
-  "MA-7639": [
-   "pets",
-   "kids"
-  ],
-  "MA-7640": [
-   "pets",
-   "kids"
-  ],
-  "MA-7641": [
-   "pets",
-   "kids"
-  ],
-  "MA-7642": [
-   "pets",
-   "kids"
-  ],
-  "MA-7643": [
-   "pets",
-   "kids"
-  ],
-  "MA-7644": [
-   "pets",
-   "kids"
-  ],
-  "MA-7645": [
-   "pets"
-  ],
-  "MA-7646": [
-   "pets",
-   "kids"
-  ],
-  "MA-7648": [
-   "pets",
-   "kids"
-  ],
-  "MA-7649": [
-   "pets",
-   "kids"
-  ],
-  "MA-7650": [
-   "pets",
-   "kids"
-  ],
-  "MA-7651": [
-   "pets",
-   "kids"
-  ],
-  "MA-7652": [
-   "pets",
-   "kids"
-  ],
-  "MA-7653": [
-   "pets",
-   "kids"
-  ],
-  "MA-7654": [
-   "pets",
    "kids"
   ],
   "VT-0017": [
@@ -11522,147 +10307,8 @@
   "MA-7686": [
    "kids"
   ],
-  "MA-1520": [
-   "kids"
-  ],
-  "MA-1545": [
-   "kids"
-  ],
-  "MA-1533": [
-   "kids"
-  ],
-  "MA-1703": [
-   "kids"
-  ],
-  "MA-1535": [
-   "kids"
-  ],
-  "MA-1527": [
-   "kids"
-  ],
-  "MA-1522": [
-   "kids"
-  ],
-  "MA-1528": [
-   "kids"
-  ],
-  "MA-1705": [
-   "kids"
-  ],
-  "MA-1503": [
-   "kids"
-  ],
-  "MA-1532": [
-   "kids"
-  ],
-  "MA-1505": [
-   "kids"
-  ],
-  "MA-1501": [
-   "kids"
-  ],
-  "MA-1509": [
-   "kids"
-  ],
-  "MA-1518": [
-   "kids"
-  ],
-  "MA-1536": [
-   "kids"
-  ],
-  "MA-1543": [
-   "kids"
-  ],
-  "MA-1544": [
-   "kids"
-  ],
-  "MA-1511": [
-   "kids"
-  ],
-  "MA-1514": [
-   "kids"
-  ],
-  "MA-1513": [
-   "kids"
-  ],
-  "MA-1529": [
-   "kids"
-  ],
-  "MA-1523": [
-   "kids"
-  ],
   "MA-1506": [
-   "kids",
    "bedrooms"
-  ],
-  "MA-1510": [
-   "kids"
-  ],
-  "MA-1531": [
-   "kids"
-  ],
-  "MA-1542": [
-   "kids"
-  ],
-  "MA-1512": [
-   "kids"
-  ],
-  "MA-1517": [
-   "kids"
-  ],
-  "MA-1526": [
-   "kids"
-  ],
-  "MA-1507": [
-   "kids"
-  ],
-  "MA-1530": [
-   "kids"
-  ],
-  "MA-1541": [
-   "kids"
-  ],
-  "MA-1704": [
-   "kids"
-  ],
-  "MA-1702": [
-   "kids"
-  ],
-  "MA-1508": [
-   "kids"
-  ],
-  "MA-1538": [
-   "kids"
-  ],
-  "MA-1540": [
-   "kids"
-  ],
-  "MA-1701": [
-   "kids"
-  ],
-  "MA-1537": [
-   "kids"
-  ],
-  "MA-1515": [
-   "kids"
-  ],
-  "MA-1525": [
-   "kids"
-  ],
-  "MA-1524": [
-   "kids"
-  ],
-  "MA-1534": [
-   "kids"
-  ],
-  "MA-1519": [
-   "kids"
-  ],
-  "MA-1504": [
-   "kids"
-  ],
-  "MA-1516": [
-   "kids"
   ],
   "MA-4376": [
    "kids"
@@ -11881,6 +10527,16 @@
   ],
   "ME-0264": [
    "kids"
+  ],
+  "NY-0161": [
+   "kids"
+  ],
+  "NY-0162": [
+   "pets",
+   "kids",
+   "guests",
+   "bedrooms",
+   "bathrooms"
   ],
   "MA-18003": [
    "kids"
@@ -12904,663 +11560,20 @@
    "guests",
    "bathrooms"
   ],
-  "MA-6491": [
-   "kids"
-  ],
-  "MA-6541": [
-   "kids"
-  ],
-  "MA-6416": [
-   "kids"
-  ],
-  "MA-6552": [
-   "kids"
-  ],
-  "MA-6458": [
-   "kids"
-  ],
-  "MA-6382": [
-   "kids"
-  ],
-  "MA-6399": [
-   "kids"
-  ],
-  "MA-6477": [
-   "kids"
-  ],
-  "MA-6387": [
-   "kids"
-  ],
-  "MA-6527": [
-   "kids"
-  ],
-  "MA-6407": [
-   "kids"
-  ],
-  "MA-6384": [
-   "kids"
-  ],
-  "MA-6469": [
-   "kids"
-  ],
-  "MA-6550": [
-   "kids"
-  ],
-  "MA-6386": [
-   "kids"
-  ],
-  "MA-6486": [
-   "kids"
-  ],
-  "MA-6362": [
-   "kids"
-  ],
-  "MA-6517": [
-   "kids"
-  ],
-  "MA-6425": [
-   "kids"
-  ],
-  "MA-6392": [
-   "kids"
-  ],
-  "MA-6439": [
-   "kids"
-  ],
-  "MA-6531": [
-   "kids"
-  ],
-  "MA-6398": [
-   "kids"
-  ],
-  "MA-6555": [
-   "kids"
-  ],
-  "MA-6445": [
-   "kids"
-  ],
-  "MA-6480": [
-   "kids"
-  ],
-  "MA-6457": [
-   "kids"
-  ],
-  "MA-6374": [
-   "kids"
-  ],
-  "MA-6567": [
-   "kids"
-  ],
-  "MA-6485": [
-   "kids"
-  ],
-  "MA-6411": [
-   "kids"
-  ],
-  "MA-6466": [
-   "kids"
-  ],
-  "MA-6502": [
-   "kids"
-  ],
-  "MA-6364": [
-   "kids"
-  ],
-  "MA-6359": [
-   "kids"
-  ],
-  "MA-6562": [
-   "kids"
-  ],
-  "MA-6558": [
-   "kids"
-  ],
-  "MA-6417": [
-   "kids"
-  ],
-  "MA-6432": [
-   "kids"
-  ],
-  "MA-6503": [
-   "kids"
-  ],
-  "MA-6546": [
-   "kids"
-  ],
-  "MA-6429": [
-   "kids"
-  ],
-  "MA-6525": [
-   "kids"
-  ],
-  "MA-6549": [
-   "kids"
-  ],
-  "MA-6436": [
-   "kids"
-  ],
-  "MA-6376": [
-   "kids"
-  ],
-  "MA-6524": [
-   "kids"
-  ],
-  "MA-6368": [
-   "kids"
-  ],
-  "MA-6394": [
-   "kids"
-  ],
-  "MA-6553": [
-   "kids"
-  ],
-  "MA-6434": [
-   "kids"
-  ],
-  "MA-6388": [
-   "kids"
-  ],
-  "MA-6438": [
-   "kids"
-  ],
-  "MA-6506": [
-   "kids"
-  ],
-  "MA-6522": [
-   "kids"
-  ],
-  "MA-6490": [
-   "kids"
-  ],
-  "MA-6402": [
-   "kids"
-  ],
-  "MA-6520": [
-   "kids"
-  ],
-  "MA-6385": [
-   "kids"
-  ],
-  "MA-6430": [
-   "kids"
-  ],
-  "MA-6547": [
-   "kids"
-  ],
-  "MA-6519": [
-   "kids"
-  ],
-  "MA-6498": [
-   "kids"
-  ],
-  "MA-6512": [
-   "kids"
-  ],
-  "MA-6539": [
-   "kids"
-  ],
-  "MA-6561": [
-   "kids"
-  ],
-  "MA-6401": [
-   "kids"
-  ],
-  "MA-6472": [
-   "kids"
-  ],
-  "MA-6499": [
-   "kids"
-  ],
-  "MA-6358": [
-   "kids"
-  ],
-  "MA-6574": [
-   "kids"
-  ],
-  "MA-6420": [
-   "kids"
-  ],
-  "MA-6400": [
-   "kids"
-  ],
-  "MA-6482": [
-   "kids"
-  ],
-  "MA-6393": [
-   "kids"
-  ],
-  "MA-6570": [
-   "kids"
-  ],
-  "MA-6412": [
-   "kids"
-  ],
-  "MA-6410": [
-   "kids"
-  ],
-  "MA-6534": [
-   "kids"
-  ],
-  "MA-6450": [
-   "kids"
-  ],
-  "MA-6508": [
-   "kids"
-  ],
-  "MA-6483": [
-   "kids"
-  ],
-  "MA-6447": [
-   "kids"
-  ],
-  "MA-6544": [
-   "kids"
-  ],
-  "MA-6428": [
-   "kids"
-  ],
-  "MA-6533": [
-   "kids"
-  ],
-  "MA-6395": [
-   "kids"
-  ],
-  "MA-6523": [
-   "kids"
-  ],
-  "MA-6507": [
-   "kids"
-  ],
-  "MA-6474": [
-   "kids"
-  ],
-  "MA-6460": [
-   "kids"
-  ],
-  "MA-6557": [
-   "kids"
-  ],
-  "MA-6440": [
-   "kids"
-  ],
-  "MA-6403": [
-   "kids"
-  ],
-  "MA-6435": [
-   "kids"
-  ],
-  "MA-6559": [
-   "kids"
-  ],
-  "MA-6563": [
-   "kids"
-  ],
-  "MA-6373": [
-   "kids"
-  ],
-  "MA-6515": [
-   "kids"
-  ],
-  "MA-6451": [
-   "kids"
-  ],
-  "MA-6509": [
-   "kids"
-  ],
-  "MA-6365": [
-   "kids"
-  ],
-  "MA-6379": [
-   "kids"
-  ],
-  "MA-6367": [
-   "kids"
-  ],
-  "MA-6504": [
-   "kids"
-  ],
-  "MA-6377": [
-   "kids"
-  ],
-  "MA-6396": [
-   "kids"
-  ],
-  "MA-6366": [
-   "kids"
-  ],
-  "MA-6575": [
-   "kids"
-  ],
-  "MA-6363": [
-   "kids"
-  ],
-  "MA-6456": [
-   "kids"
-  ],
-  "MA-6565": [
-   "kids"
-  ],
-  "MA-6489": [
-   "kids"
-  ],
-  "MA-6536": [
-   "kids"
-  ],
-  "MA-6378": [
-   "kids"
-  ],
-  "MA-6427": [
-   "kids"
-  ],
-  "MA-6468": [
-   "kids"
-  ],
-  "MA-6389": [
-   "kids"
-  ],
-  "MA-6540": [
-   "kids"
-  ],
-  "MA-6566": [
-   "kids"
-  ],
-  "MA-6545": [
-   "kids"
-  ],
-  "MA-6518": [
-   "kids"
-  ],
-  "MA-6431": [
-   "kids"
-  ],
-  "MA-6494": [
-   "kids"
-  ],
-  "MA-6461": [
-   "kids"
-  ],
-  "MA-6560": [
-   "kids"
-  ],
-  "MA-6487": [
-   "kids"
-  ],
-  "MA-6579": [
-   "kids"
-  ],
-  "MA-6578": [
-   "kids"
-  ],
-  "MA-6564": [
-   "kids"
-  ],
-  "MA-6372": [
-   "kids"
-  ],
-  "MA-6537": [
-   "kids"
-  ],
-  "MA-6478": [
-   "kids"
-  ],
-  "MA-6391": [
-   "kids"
-  ],
-  "MA-6426": [
-   "kids"
-  ],
-  "MA-6528": [
-   "kids"
-  ],
-  "MA-6448": [
-   "kids"
-  ],
-  "MA-6513": [
-   "kids"
-  ],
-  "MA-6423": [
-   "kids"
-  ],
-  "MA-6455": [
-   "kids"
-  ],
-  "MA-6408": [
-   "kids"
-  ],
-  "MA-6462": [
-   "kids"
-  ],
-  "MA-6371": [
-   "kids"
-  ],
-  "MA-6516": [
-   "kids"
-  ],
-  "MA-6532": [
-   "kids"
-  ],
-  "MA-6443": [
-   "kids"
-  ],
-  "MA-6405": [
-   "kids"
-  ],
-  "MA-6501": [
-   "kids"
-  ],
-  "MA-6356": [
-   "kids"
-  ],
-  "MA-6484": [
-   "kids"
-  ],
-  "MA-6453": [
-   "kids"
-  ],
-  "MA-6397": [
-   "kids"
-  ],
-  "MA-6542": [
-   "kids"
-  ],
-  "MA-6573": [
-   "kids"
-  ],
-  "MA-6505": [
-   "kids"
-  ],
-  "MA-6568": [
-   "kids"
-  ],
-  "MA-6548": [
-   "kids"
-  ],
-  "MA-6446": [
-   "kids"
-  ],
-  "MA-6465": [
-   "kids"
-  ],
-  "MA-6500": [
-   "kids"
-  ],
-  "MA-6470": [
-   "kids"
-  ],
-  "MA-6526": [
-   "kids"
-  ],
-  "MA-6554": [
-   "kids"
-  ],
-  "MA-6404": [
-   "kids"
-  ],
-  "MA-6419": [
-   "kids"
-  ],
-  "MA-6381": [
-   "kids"
-  ],
-  "MA-6479": [
-   "kids"
-  ],
-  "MA-6421": [
-   "kids"
-  ],
-  "MA-6354": [
-   "kids"
-  ],
-  "MA-6441": [
-   "kids"
-  ],
-  "MA-6529": [
-   "kids"
-  ],
-  "MA-6406": [
-   "kids"
-  ],
-  "MA-6495": [
-   "kids"
-  ],
-  "MA-6370": [
-   "kids"
-  ],
-  "MA-6576": [
-   "kids"
-  ],
-  "MA-6497": [
-   "kids"
-  ],
-  "MA-6581": [
-   "kids"
-  ],
-  "MA-6459": [
-   "kids"
-  ],
-  "MA-6580": [
-   "kids"
-  ],
-  "MA-6369": [
-   "kids"
-  ],
-  "MA-6467": [
-   "kids"
-  ],
-  "MA-6521": [
-   "kids"
-  ],
-  "MA-6488": [
-   "kids"
-  ],
-  "MA-6463": [
-   "kids"
-  ],
-  "MA-6422": [
-   "kids"
-  ],
-  "MA-6556": [
-   "kids"
-  ],
-  "MA-6414": [
-   "kids"
-  ],
-  "MA-6380": [
-   "kids"
-  ],
-  "MA-6409": [
-   "kids"
-  ],
-  "MA-6535": [
-   "kids"
-  ],
-  "MA-6355": [
-   "kids"
-  ],
-  "MA-6571": [
-   "kids"
-  ],
-  "MA-6390": [
-   "kids"
-  ],
-  "MA-6473": [
-   "kids"
-  ],
-  "MA-6481": [
-   "kids"
-  ],
-  "MA-6572": [
-   "kids"
-  ],
-  "MA-6543": [
-   "kids"
-  ],
-  "MA-6538": [
-   "kids"
-  ],
-  "MA-6415": [
-   "kids"
-  ],
-  "MA-6476": [
-   "kids"
-  ],
-  "MA-6444": [
-   "kids"
-  ],
-  "MA-6464": [
-   "kids"
-  ],
-  "MA-6514": [
-   "kids"
-  ],
-  "MA-6496": [
-   "kids"
-  ],
-  "MA-6511": [
-   "kids"
-  ],
-  "MA-6361": [
-   "kids"
-  ],
-  "MA-6375": [
-   "kids"
-  ],
-  "MA-6510": [
-   "kids"
-  ],
-  "MA-6442": [
-   "kids"
-  ],
-  "MA-6569": [
-   "kids"
-  ],
-  "MA-6357": [
-   "kids"
-  ],
-  "MA-6449": [
-   "kids"
-  ],
   "MA-7547": [
-   "pets",
    "kids"
   ],
   "MA-7545": [
    "kids"
   ],
   "MA-7514": [
-   "pets",
    "kids"
   ],
   "MA-7555": [
-   "pets",
    "kids"
   ],
   "MA-7550": [
-   "pets",
    "kids"
-  ],
-  "MA-7512": [
-   "pets"
   ],
   "MA-7549": [
    "kids"
@@ -13569,61 +11582,45 @@
    "kids"
   ],
   "MA-7540": [
-   "pets",
    "kids"
   ],
   "MA-7529": [
    "kids"
   ],
   "MA-7532": [
-   "pets",
    "kids"
   ],
   "MA-7519": [
-   "pets",
    "kids"
   ],
   "MA-7504": [
-   "pets",
    "kids"
   ],
   "MA-7552": [
-   "pets",
    "kids"
   ],
   "MA-7537": [
    "kids"
   ],
-  "MA-7505": [
-   "pets"
-  ],
   "MA-7544": [
    "kids"
-  ],
-  "MA-7520": [
-   "pets"
   ],
   "MA-7522": [
    "kids"
   ],
   "MA-7542": [
-   "pets",
    "kids"
   ],
   "MA-7518": [
-   "pets",
    "kids"
   ],
   "MA-7530": [
-   "pets",
    "kids"
   ],
   "MA-7533": [
-   "pets",
    "kids"
   ],
   "MA-7553": [
-   "pets",
    "kids"
   ],
   "MA-7548": [
@@ -13633,47 +11630,36 @@
    "kids"
   ],
   "MA-7541": [
-   "pets",
    "kids"
   ],
   "MA-7554": [
-   "pets",
    "kids"
   ],
   "MA-7551": [
-   "pets",
    "kids"
   ],
   "MA-7526": [
    "kids"
   ],
   "MA-7534": [
-   "pets",
    "kids"
   ],
   "MA-7516": [
    "kids"
   ],
   "MA-7507": [
-   "pets",
    "kids"
   ],
-  "MA-7509": [
-   "pets"
-  ],
   "MA-7517": [
-   "pets",
    "kids"
   ],
   "MA-7521": [
    "kids"
   ],
   "MA-7524": [
-   "pets",
    "kids"
   ],
   "MA-7546": [
-   "pets",
    "kids"
   ],
   "MA-7543": [
@@ -13683,23 +11669,18 @@
    "kids"
   ],
   "MA-7525": [
-   "pets",
    "kids"
   ],
   "MA-7535": [
-   "pets",
    "kids"
   ],
   "MA-7511": [
-   "pets",
    "kids"
   ],
   "MA-7515": [
-   "pets",
    "kids"
   ],
   "MA-7513": [
-   "pets",
    "kids"
   ],
   "MA-7527": [
@@ -13709,7 +11690,6 @@
    "kids"
   ],
   "MA-7531": [
-   "pets",
    "kids"
   ],
   "MA-1841": [
@@ -13743,17 +11723,14 @@
    "bathrooms"
   ],
   "MA-0932": [
-   "pets",
    "kids",
    "guests"
   ],
   "MA-0921": [
-   "pets",
    "kids",
    "guests"
   ],
   "MA-0920": [
-   "pets",
    "kids"
   ],
   "NY-0001": [
@@ -20631,8 +18608,8 @@
   ]
  },
  "operatorPolicy": {
-  "pets": 0,
-  "kids": 0,
-  "hosts": 114
+  "pets": 523,
+  "kids": 479,
+  "hosts": 135
  }
 }
