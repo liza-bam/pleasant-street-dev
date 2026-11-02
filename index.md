@@ -138,7 +138,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: 3
-- Sleeps: Page says: “Counted from beds: 3 queen bed; 2 full beds; 3 single beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 7000 USD a night
 - Children welcome: yes
 - Pets welcome: yes
@@ -422,7 +422,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 5
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: two full size beds; two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 1000 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -456,7 +456,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: 1 King bed; 3 single beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3000 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -795,7 +795,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds:  Queen sized bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 6000 USD a night
 - Children welcome: yes
 - Pets welcome: yes
@@ -975,7 +975,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: 1 Queen bed; 1 single bed; 2 Double beds; 1 single bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -1206,7 +1206,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: 3 Queen beds; a full bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 7000 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -1224,7 +1224,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: 1 King bed; a Bunk Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -1312,7 +1312,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: queen bed; queen bed; 3 single beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3800 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -1399,7 +1399,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: a king size bed; two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 4500 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -2878,7 +2878,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: Queen Beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from $170/night; from $1,200/week (selected units) Boat House suite from $170/night; Pine Cottage from $250/night; Carriage House from $300/night; displayed May/Aug seasonal weekly prices from $1,200 to $2,800
 - Children welcome: yes
 - Pets welcome: no
@@ -10154,7 +10154,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: a king size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 169 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -10172,7 +10172,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: a king size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 229 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -10190,7 +10190,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: a king size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 229 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -10388,7 +10388,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -13570,7 +13570,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 3
-- Sleeps: Page says: “Counted from beds: 2 Twin beds; 2 Twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 600 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13587,7 +13587,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 3
-- Sleeps: Page says: “Counted from beds:  king bed;  queen bed;  queen bed;  full size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -13605,7 +13605,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: Queen Bed; Full Bed; Full Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 5000 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13622,7 +13622,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 3
-- Sleeps: Page says: “Counted from beds: King bed; Queen bed; 2 Twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 5500 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13639,7 +13639,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 3
-- Sleeps: Page says: “Counted from beds: king bed; queen bed; queen bed; twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 5500 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13674,7 +13674,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 2000 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13725,7 +13725,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: queen bed; 1 twin bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 2500 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13742,7 +13742,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 3.5
-- Sleeps: Page says: “Counted from beds: King bed; Queen bed; 2 Full beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 4500 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -13760,7 +13760,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2.5
-- Sleeps: Page says: “Counted from beds: king bed; 2 twin beds;  full bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3800 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13777,7 +13777,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: king bed; 2 twin beds; queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3850 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13794,7 +13794,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 3
-- Sleeps: Page says: “Counted from beds: queen bed; full bed; full bed; 2 twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3800 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13828,7 +13828,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 1.5
-- Sleeps: Page says: “Counted from beds: queen bed; queen bed; 1 king bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3800 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13845,7 +13845,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 4
-- Sleeps: Page says: “Counted from beds: king bed; two twin beds; full bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 6000 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13862,7 +13862,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 2.5
-- Sleeps: Page says: “Counted from beds: Bunk beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3650 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -13879,7 +13879,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 2.5
-- Sleeps: Page says: “Counted from beds: Queen bed; Double bed; Double bed; 2 bunk beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3700 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -14542,7 +14542,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -14630,7 +14630,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds:  double-size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Weekly summer rental; rates not published on checked pages.
 - Children welcome: yes
 - Pets welcome: no
@@ -22400,7 +22400,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: two queen beds; queen beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -23514,7 +23514,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: 3 twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -23743,7 +23743,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a king bed; king bed; King Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -24965,7 +24965,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 4
-- Sleeps: Page says: “Counted from beds: King Bed; King Bed; Queen Bed; Queen Bed; Queen Bed; Queen Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 625 USD a night
 - Children welcome: yes
 - Pets welcome: yes
@@ -31011,7 +31011,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  Twin Beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -32696,7 +32696,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  King Bed;  Queen Bed;  Queen Bed;  Queen Bed;  Queen Bed;  King Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -33089,7 +33089,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -33247,7 +33247,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  king bed;  King bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: no
 - Pets welcome: no
@@ -36897,7 +36897,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 4
-- Sleeps: Page says: “Counted from beds: a king-sized bed; a queen bed; 1 King Bed; 1 Queen Bed; 2 Twin Beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 2700 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -37002,7 +37002,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a sofa bed;  Day Bed” (read 2026-11-02)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -37775,7 +37775,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 5
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a king size bed; a king size bed;  twin bed; a king size bed;  king size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -38248,7 +38248,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a king bed;  queen bed; three single beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -38619,7 +38619,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a King bed; two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -38776,7 +38776,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 3.5
-- Sleeps: Page says: “Counted from beds: a queen bed; a queen bed;  twin beds; a queen bed;  twin beds; a full bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -38847,7 +38847,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2.5
-- Sleeps: Page says: “Counted from beds: king size bed; a full sized bed; two twin beds; two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -38989,7 +38989,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a king bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -39374,7 +39374,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a king bed; two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -39917,7 +39917,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a queen bed;  twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -40495,7 +40495,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 3.5
-- Sleeps: Page says: “Counted from beds: a queen size bed; two full size beds; a queen size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -40601,7 +40601,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 5
 - Bathrooms: 5.5
-- Sleeps: Page says: “Counted from beds: two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -40671,7 +40671,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 3.5
-- Sleeps: Page says: “Counted from beds:  king bed; a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -40968,7 +40968,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a king bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -40986,7 +40986,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 5
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -41266,7 +41266,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds:  pullout sofa bed;  Sofa bed” (read 2026-11-02)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -41515,7 +41515,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 3.5
-- Sleeps: Page says: “Counted from beds: a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -41816,7 +41816,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 3.5
-- Sleeps: Page says: “Counted from beds:  queen bed;  king bed; two twin beds; a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -42498,7 +42498,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 0.5
-- Sleeps: Page says: “Counted from beds: a twin bed; a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -42778,7 +42778,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds:  queen bed;  full size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -43812,7 +43812,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 4
-- Sleeps: Page says: “Counted from beds: a king-size bed; a twin bed; 4 twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -62113,7 +62113,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2.5
-- Sleeps: Page says: “Counted from beds: two queen beds; two twin beds;  bunk bed;  twin bed; 2 Queen Beds; 2 Twin Beds;  bunk bed; one twin bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -64849,7 +64849,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: a king bed; a queen bed; a queen bed; two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 6250 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -64939,7 +64939,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: a queen size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 1750 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -65029,7 +65029,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen size bed; 2 twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 1750 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -65047,7 +65047,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 1750 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -65065,7 +65065,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: 1 Queen Size Bed; 1 Queen Size Bed; 2 Twin Beds; 1 Twin Bed; 1 Full Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 3500 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -71563,7 +71563,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds:  Sofa Bed” (read 2026-11-02)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -85228,7 +85228,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen bed; King Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -85923,7 +85923,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: 2 Queen Beds; 2 Queen Beds; 1 Queen Bed; 2 Queen Beds; 2 Queen Beds; 1 Queen Bed; 1 Queen Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 120 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -90818,7 +90818,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: 1 Queen Bed; 1 full bed;  twin bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -97277,7 +97277,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: a queen size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 289 USD a night
 - Children welcome: yes
 - Pets welcome: yes
@@ -97887,7 +97887,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  king bed; a double bed; a double bed;  king bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -98029,7 +98029,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  queen size beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: $1,650–$2,390/week Posted May–October weekly rates across three rentals, year not explicitly indicated; pets free
 - Children welcome: yes
 - Pets welcome: yes
@@ -110732,7 +110732,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: two double beds; two double beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -110822,7 +110822,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen bed; four double beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -110993,7 +110993,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 4
 - Bathrooms: 6
-- Sleeps: Page says: “Counted from beds: a king size bed; a king bed; a twin bed; queen size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 650 USD a night
 - Children welcome: yes
 - Pets welcome: no
@@ -111119,7 +111119,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  king size beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -111976,7 +111976,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds: One queen-sized bed; Two twin beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 5500 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -111994,7 +111994,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: One queen-sized bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 4500 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -112012,7 +112012,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: One queen-sized bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 4500 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -112030,7 +112030,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: One queen-sized bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 4500 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -112101,7 +112101,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: two bunk beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: Conditional; check unit policy
 - Pets welcome: no
@@ -112207,7 +112207,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  Queen bed; two full beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -112224,7 +112224,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2.5
-- Sleeps: Page says: “Counted from beds:  queen bed; one full bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -112241,7 +112241,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 5
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  Queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -112434,7 +112434,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: king size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -112540,7 +112540,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a full bed; a full bed;  bunk bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: No dates selected; no live rate quote requested.
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -113066,7 +113066,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: tes of cancellation with another party. 2 Bedrooms (each with a queen bed) Dresser in each bedroom Full sized” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 2600 USD a night
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -113314,7 +113314,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: 2 king beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: No prices shown; booking links primarily to Airbnb
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -119197,7 +119197,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  bunk beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -119733,7 +119733,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: a king size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 179 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -119751,7 +119751,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: two queen beds;  king bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -119787,7 +119787,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: three queen beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -119823,7 +119823,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen bed; a queen bed;  king bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -119841,7 +119841,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  queen beds;  bunk bed;  queen beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -119913,7 +119913,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: 1 Queen Bed; a queen bed; 1 Queen Bed; a queen bed; 1 Queen Bed; a queen bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -120213,7 +120213,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: 3
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen-sized bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: Conditional; check unit policy
 - Pets welcome: no
@@ -120372,7 +120372,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  queen beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -122229,7 +122229,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: a queen-sized bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Nightly booking online; no static price in official policy
 - Children welcome: yes
 - Pets welcome: yes
@@ -122407,7 +122407,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: Unknown
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds: queen size beds” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -131639,7 +131639,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds: King Sized Bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
@@ -131853,7 +131853,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: Page says: “Counted from beds:  Sofa Bed;  Sofa Bed” (read 2026-11-02)
+- Sleeps: Unknown
 - Price: from 219 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -131961,7 +131961,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 2
-- Sleeps: Page says: “Counted from beds:  Sofa Bed;  Sofa Bed” (read 2026-11-02)
+- Sleeps: Unknown
 - Price: from 249 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -140916,7 +140916,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: Unknown
-- Sleeps: Page says: “Counted from beds:  Queen-size bed;  Full-size bed” (read 2026-10-28)
+- Sleeps: Unknown
 - Price: from 2800 USD a night
 - Children welcome: yes
 - Pets welcome: yes

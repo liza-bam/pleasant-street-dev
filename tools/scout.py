@@ -63,20 +63,7 @@ def decide(text, rules):
 def number(v): return WORDS.get(v.lower(), None) if v.lower() in WORDS else (float(v) if '.' in v else int(v))
 
 
-BED = r'\b(\d{1,2}|one|two|three|four|five|six|a|an)?\s*(queen|king|full|double|twin|single|bunk|sofa|sleeper|pull[- ]?out|futon|day|trundle|murphy)(?:[- ]size[d]?)?(?:[- ]?(?:sofa|sleeper))? beds?\b'
-EACH = r'\b(\d{1,2}|one|two|three|four|five|six)[- ]?bed(?:room)?s? \(?each with (?:a |an )?(queen|king|full|double|twin|single)'
-def beds_sleep(text):
-    m = re.search(EACH, text, re.I)
-    if m:
-        rooms = WORDS.get(m.group(1).lower(), None) or int(m.group(1)); per = 1 if m.group(2).lower() in ('twin', 'single') else 2
-        return rooms * per, around(text, m)
-    total, bits = 0, []
-    for m in re.finditer(BED, text, re.I):
-        count = m.group(1); count = 1 if not count or count.lower() in ('a', 'an') else (WORDS.get(count.lower()) or int(count))
-        kind = m.group(2).lower(); per = 1 if kind in ('twin', 'single', 'day', 'trundle') else 2   # sofa, sleeper, pull-out, futon, murphy count as 2
-        total += count * per; bits.append(m.group(0))
-        if len(bits) >= 8: break
-    return (total, '; '.join(bits)) if 0 < total <= 40 else (0, '')
+# Sleeps is written only when the website states it; it is never counted from beds (her rule, 2026-11-02).
 def scout(h):
     text = page_text(h)
     out = {'id': h['id'], 'state': 'read' if len(text) >= 200 else 'unreadable', 'found': {}}
@@ -92,9 +79,7 @@ def scout(h):
         if m:
             a = m.group(1) or m.group(3); b = m.group(2) or m.group(4); n = int(b) if b else int(a)
             if 1 <= n <= 40: out['found']['guests'] = (n, around(text, m))
-        else:   # her rule: no sleeps stated → count the beds in the bedrooms (queen/king/full/double 2, twin/single 1)
-            n, ev = beds_sleep(text)
-            if n: out['found']['guests'] = (n, 'Counted from beds: ' + ev)
+
     if unknown(h.get('bedrooms')):
         m = re.search(BEDS, text, re.I)
         if m and number(m.group(1)) is not None and 0 < number(m.group(1)) <= 20: out['found']['bedrooms'] = (number(m.group(1)), around(text, m))
