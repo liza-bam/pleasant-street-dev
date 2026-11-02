@@ -33,15 +33,15 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
 <!-- ?v=N: raise it when app.css or map.js changes, so browsers fetch the new file. -->
-<link rel="stylesheet" href="assets/app.css?v=90">
+<link rel="stylesheet" href="assets/app.css?v=91">
 </head>
 <body>
 <!-- PLEASANT STREET: the homes in map and cards views (assets/map.js reads index.json). -->
 <div class="app">
   <header class="app-header">
     <div class="app-brand-bar">
-      <a id="ps-home" class="app-home" href="./" aria-label="LAZY home — clear search"><img src="favicon.ico" alt="LAZY" width="30" height="30"><img class="app-home-logo" src="assets/lazy-logo.svg" alt="" width="86" height="50"></a>
-      <h1 class="app-hide app-brand-name">Pleasant Street</h1>
+      <a class="app-home" href="https://lazy.vacations/" aria-label="LAZY"><img src="favicon.ico" alt="LAZY" width="30" height="30"><img class="app-home-logo" src="assets/lazy-logo.svg" alt="" width="86" height="50"></a>
+      <h1 class="app-hide app-brand-name"><a id="ps-home" href="./" aria-label="Pleasant Street home — clear search">Pleasant Street</a></h1>
       <a class="app-header-link app-header-link--add" href="mailto:sandy@lazy.vacations?subject=Add%20my%20house%20to%20Pleasant%20Street">Add your house</a>
       <button id="ps-recents-open" class="app-header-link" type="button" aria-haspopup="dialog">Recent searches</button>
     </div>
@@ -70,8 +70,7 @@
       <div id="ps-home-water" class="ps-landing__water" aria-hidden="true"></div>
       <div class="ps-landing__intro">
       <div class="ps-landing__copy">
-        <img class="ps-landing__logo" src="assets/lazy-logo.svg" alt="LAZY" width="86" height="50">
-        <h2>Pleasant Street</h2>
+        <h2>Pleasant Street <span class="ps-landing__by">by LAZY</span></h2>
         <p class="ps-landing__tagline">The largest listing of independent vacation rentals.</p>
         <button id="ps-home-search" class="ps-landing__search" type="button" aria-haspopup="dialog"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><span>Where to?</span><span>Who’s coming?</span></button>
       </div>
@@ -146,6 +145,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
 <script src="assets/lazy-water.js?v=1"></script>
-<script src="assets/map.js?v=90"></script>
+<script src="assets/map.js?v=91"></script>
 </body>
 </html>
