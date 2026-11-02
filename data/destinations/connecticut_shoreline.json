@@ -1,0 +1,38 @@
+[
+ {
+  "id": "LAZY-milford-sound-beach-house",
+  "name": "Milford Sound Beach House",
+  "url": "https://milford-by-the-sea.lazy.vacations/",
+  "place": "Milford, CT",
+  "town": "Milford",
+  "state": "CT",
+  "destination": "Connecticut Shoreline",
+  "type": "Unknown",
+  "recordType": "LAZY property",
+  "cardDescription": "Waterfront house on the Connecticut shoreline in Milford with a private beach, deck dining for ten, a piano and games; sleeps 10, 5 bedrooms, 2 baths.",
+  "guests": 10,
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "kids": "Yes",
+  "pets": "Unknown",
+  "photo": "images/LAZY-milford-sound-beach-house-card.webp",
+  "lat": 41.2,
+  "lng": -73.06,
+  "featured": true,
+  "demo": false,
+  "description": "The living room has leather sofas and a 55-inch HDTV. A piano, sound system, books, board games and arcade games add options for time indoors. The kitchen and dining room are on the same main level.",
+  "photoAlts": {
+   "images/demos/LAZY-milford-sound-beach-house-cover.webp": "Milford Sound Beach House, Milford, CT",
+   "images/demos/LAZY-milford-sound-beach-house-000.webp": "Milford Sound Beach House, Milford, CT, photo 2 of 4",
+   "images/demos/LAZY-milford-sound-beach-house-001.webp": "Milford Sound Beach House, Milford, CT, photo 3 of 4",
+   "images/demos/LAZY-milford-sound-beach-house-002.webp": "Milford Sound Beach House, Milford, CT, photo 4 of 4",
+   "images/LAZY-milford-sound-beach-house-card.webp": "Milford Sound Beach House, Milford, CT"
+  },
+  "allPhotos": [
+   "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+   "images/demos/LAZY-milford-sound-beach-house-000.webp",
+   "images/demos/LAZY-milford-sound-beach-house-001.webp",
+   "images/demos/LAZY-milford-sound-beach-house-002.webp"
+  ]
+ }
+]

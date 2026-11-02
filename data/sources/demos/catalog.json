@@ -29,18 +29,18 @@
    "type": "Published property address",
    "status": "Published on the property website",
    "sourceUrl": "https://beautyview.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
   "featured": true,
   "recordType": "LAZY property",
   "listingStatus": "Active",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://beautyview.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "type": "House",
     "guests": 8,
@@ -107,18 +107,18 @@
    "type": "Published property address",
    "status": "Published on the property website",
    "sourceUrl": "https://clearlake-paradise.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
   "featured": true,
   "recordType": "LAZY property",
   "listingStatus": "Active",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://clearlake-paradise.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 2,
@@ -158,7 +158,7 @@
   "town": "Lisbon",
   "state": "ME",
   "place": "Lisbon, ME",
-  "lat": 44.0,
+  "lat": 44.01,
   "lng": -70.06,
   "locationSource": "https://lisbon-falls-retreat.lazy.vacations/",
   "description": "A welcoming two-bedroom home on a quiet one-acre lot in Lisbon Falls, Maine. The entire home sleeps up to four, with room to gather indoors and an open grassy yard outside.",
@@ -181,18 +181,18 @@
    "type": "Unknown",
    "status": "Unknown",
    "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
   "featured": true,
   "recordType": "LAZY property",
   "listingStatus": "Active",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "kids": false,
     "pets": true,
@@ -230,6 +230,84 @@
   "photoStatus": "Complete"
  },
  {
+  "id": "LAZY-milford-sound-beach-house",
+  "name": "Milford Sound Beach House",
+  "url": "https://milford-by-the-sea.lazy.vacations/",
+  "town": "Milford",
+  "state": "CT",
+  "place": "Milford, CT",
+  "lat": 41.2,
+  "lng": -73.06,
+  "locationSource": "https://milford-by-the-sea.lazy.vacations/",
+  "description": "The living room has leather sofas and a 55-inch HDTV. A piano, sound system, books, board games and arcade games add options for time indoors. The kitchen and dining room are on the same main level.",
+  "type": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "guests": 10,
+  "capacityDetails": "10",
+  "kids": "Unknown",
+  "pets": "Unknown",
+  "kidsDetails": "Published policy: Unknown",
+  "petsDetails": "Published policy: Unknown",
+  "address": {
+   "street": "728 E Broadway",
+   "city": "Milford",
+   "state": "CT",
+   "postalCode": "06460",
+   "full": "728 E Broadway, Milford, CT 06460",
+   "type": "Published property address",
+   "status": "Published on the property website",
+   "sourceUrl": "https://milford-by-the-sea.lazy.vacations/",
+   "checkedOn": "2026-11-02",
+   "notes": "Map position is approximate; the address is never shown."
+  },
+  "demo": false,
+  "featured": true,
+  "recordType": "LAZY property",
+  "listingStatus": "Active",
+  "checked": "2026-11-02",
+  "alive": true,
+  "sourceFacts": {
+   "sourceUrl": "https://milford-by-the-sea.lazy.vacations/",
+   "checkedOn": "2026-11-02",
+   "heroFacts": {
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "kids": false,
+    "pets": false,
+    "type": "Entire waterfront home",
+    "guests": 10
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from the property website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "photo": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+  "coverPhoto": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+    "role": "cover"
+   },
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-000.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-001.webp",
+    "role": "photo"
+   },
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-002.webp",
+    "role": "photo"
+   }
+  ],
+  "photoStatus": "Complete"
+ },
+ {
   "id": "LAZY-sabattus-shalomus",
   "name": "Sabattus Shalomus",
   "url": "https://sabattus.lazy.vacations/",
@@ -259,18 +337,18 @@
    "type": "Published property address",
    "status": "Published on the property website",
    "sourceUrl": "https://sabattus.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
   "featured": true,
   "recordType": "LAZY property",
   "listingStatus": "Active",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "sourceFacts": {
    "sourceUrl": "https://sabattus.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "kids": true,
     "pets": true,

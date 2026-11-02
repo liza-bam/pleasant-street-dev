@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7870 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7871 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -4030,7 +4030,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
-- Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
+- Children policy: Published policy: Unknown
 - Pet policy: Published policy: Unknown
 - Website (book here, directly with the host): https://beautyview.lazy.vacations/
 
@@ -10338,7 +10338,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
-- Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
+- Children policy: Published policy: Unknown
 - Pet policy: Published policy: Yes
 - Website (book here, directly with the host): https://clearlake-paradise.lazy.vacations/
 
@@ -14294,7 +14294,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
-- Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
+- Children policy: Published policy: Unknown
 - Pet policy: Published policy: Yes
 - Website (book here, directly with the host): https://lisbon-falls-retreat.lazy.vacations/
 
@@ -75420,6 +75420,24 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Page says: “with a spacious deck, peaceful views, a family-friendly hideaway with room to relax and explore” (read 2026-10-28)
 - Pet policy: Page says: “t, processing fees, cleaning fee, and a pet fee, if applicable* *Quality baby/toddler e” (read 2026-10-28)
 - Website (book here, directly with the host): https://www.mainecoastcottages.com/vacation-rental-home.asp?PageDataID=196461
+
+## Milford Sound Beach House
+
+- ID: LAZY-milford-sound-beach-house
+- Town / area (approximate map location): Milford, CT
+- Tourist destination: Connecticut Shoreline
+- Type: Unknown
+- Description: The living room has leather sofas and a 55-inch HDTV. A piano, sound system, books, board games and arcade games add options for time indoors. The kitchen and dining room are on the same main level.
+- Rooms: Unknown
+- Bedrooms: 5
+- Bathrooms: 2
+- Sleeps: 10
+- Price: Unknown
+- Children welcome: yes
+- Pets welcome: Unknown
+- Children policy: Children welcome by default: the home's page says nothing against it, and its reviews mention stays with kids (checked 2026-11-02).
+- Pet policy: Published policy: Unknown
+- Website (book here, directly with the host): https://milford-by-the-sea.lazy.vacations/
 
 ## Mill Brook House
 

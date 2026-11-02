@@ -1,31 +1,59 @@
 [
  {
-  "file": "images/demos/LAZY-beautyview-lakeview-suite-cover.webp",
-  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/55926dc4-0382-4f4d-9e22-fef716230fb7-1024.webp",
-  "sourcePage": "https://beautyview.lazy.vacations/",
-  "label": "Swimming pool with curved water slide and hillside backdrop  ",
-  "sha256": "121097d3dcc53668b756e021984833803812ec7571bdb9d31deedf851f43de82"
+  "file": "images/demos/LAZY-sabattus-shalomus-cover.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/72cc55ba-87ab-4fad-8918-4eb52a4f17ab-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "A small house with a blue door and white railings.  ",
+  "sha256": "926c58cad849ac6fecc3b8f778a2438b131ffd5481948a5d2ab57631cc77a67d"
  },
  {
-  "file": "images/demos/LAZY-beautyview-lakeview-suite-000.webp",
-  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/bea16434-f07d-4442-88d8-58c848af41cb-720.webp",
-  "sourcePage": "https://beautyview.lazy.vacations/",
-  "label": "Sunlit swimming pool with lake and mountain views  ",
-  "sha256": "d68a44247a047a37c138d8d9cf92aeb1af7d2051ddf05f1de9fa60b42f968ed4"
+  "file": "images/demos/LAZY-sabattus-shalomus-000.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/3033e58e-8324-4a88-b34a-1a10592263cd-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "Open-plan kitchen and living area with wooden furniture, a dining table, and large windows.  ",
+  "sha256": "c9b1b276bd863ec982e2860323708ebada16846b8668c3d461b3df2d74d0883a"
  },
  {
-  "file": "images/demos/LAZY-beautyview-lakeview-suite-001.webp",
-  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/7bc4d4ce-2472-4178-8a48-7c2ebbe96f69-720.webp",
-  "sourcePage": "https://beautyview.lazy.vacations/",
-  "label": "Pool lit purple at dusk beside a flame table  ",
-  "sha256": "9d5d6db16857b5233142ec48dd7c489d8342a2ffa2df5392e78347cc0e571059"
+  "file": "images/demos/LAZY-sabattus-shalomus-001.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/686d54a1-f4d6-4a07-8293-da6f6ce45c8d-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "A small dining area with a wooden bench, a table, and a play kitchen.  ",
+  "sha256": "caaef9dc976905678d84f3f31f8288a106cc8e59c2132e430a62a6fb4363495a"
  },
  {
-  "file": "images/demos/LAZY-beautyview-lakeview-suite-002.webp",
-  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/5c8435a3-a5bb-4ed3-b16e-65b901899751-720.webp",
-  "sourcePage": "https://beautyview.lazy.vacations/",
-  "label": "Covered outdoor seating beside the swimming pool  ",
-  "sha256": "747673134f3c2b1fccb99457294820b7b1e1c4340f529d021115d4dd78e121e0"
+  "file": "images/demos/LAZY-sabattus-shalomus-002.webp",
+  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/6791468a-ce46-4c20-87c8-f38c1172a0a9-1024.webp",
+  "sourcePage": "https://sabattus.lazy.vacations/",
+  "label": "A bedroom with a bed, pillows, and a chair with a bag.  bedroom 1",
+  "sha256": "49dc8091557b7dbda3bd59e8c699b473bf1e96a5d3dc6c1c6d27a2287522bae1"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/840e3bc6-4a66-4c64-ab87-03e6f77e1bc0-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Sandy waterfront between neighboring houses, with kayaks, an orange hammock and the sun low over the water.  ",
+  "sha256": "4f245b4200fefaafb582e2bf8dcea9b3e8ed722935c548f8c1b03db20cfd8d40"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-000.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/6bcb4be5-c420-4a37-90eb-b3ccc68908bb-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Gray-sided house with white trim, a vine-covered lattice, flowering plants and a wooden walkway.  ",
+  "sha256": "d02bdcb154c809448ab8c1b4ed3d66cc99ba72ea5b5c268467734d9803b56911"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-001.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/956ea862-cfc5-43cb-bb65-b94bfdcaa2b6-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Bedroom with blue-and-white floral bedding, a fish ornament, bedside lamp and wood floor.  ",
+  "sha256": "0e6c742f76db80f17edd8d952b01bb5cda55033f5c4483721e968256a026d0a4"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-002.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/9ace90d9-3603-405d-bf75-7f29a9479b61-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Bedroom with a blue patchwork quilt, sheer white curtains, window AC and views toward the water.  ",
+  "sha256": "c2ad494cf7bf47a59fc4622dfc3cdc5b81b97847b855f5740fe16551871ff06b"
  },
  {
   "file": "images/demos/LAZY-cozy-retreat-in-lisbon-falls-cover.webp",
@@ -84,31 +112,31 @@
   "sha256": "795e03896a5e8c45e5a50bb954ec47f3118ae3c887e4e99f5d0a447abc01bb93"
  },
  {
-  "file": "images/demos/LAZY-sabattus-shalomus-cover.webp",
-  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/72cc55ba-87ab-4fad-8918-4eb52a4f17ab-1024.webp",
-  "sourcePage": "https://sabattus.lazy.vacations/",
-  "label": "A small house with a blue door and white railings.  ",
-  "sha256": "926c58cad849ac6fecc3b8f778a2438b131ffd5481948a5d2ab57631cc77a67d"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-cover.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/55926dc4-0382-4f4d-9e22-fef716230fb7-1024.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Swimming pool with curved water slide and hillside backdrop  ",
+  "sha256": "121097d3dcc53668b756e021984833803812ec7571bdb9d31deedf851f43de82"
  },
  {
-  "file": "images/demos/LAZY-sabattus-shalomus-000.webp",
-  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/3033e58e-8324-4a88-b34a-1a10592263cd-1024.webp",
-  "sourcePage": "https://sabattus.lazy.vacations/",
-  "label": "Open-plan kitchen and living area with wooden furniture, a dining table, and large windows.  ",
-  "sha256": "c9b1b276bd863ec982e2860323708ebada16846b8668c3d461b3df2d74d0883a"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-000.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/bea16434-f07d-4442-88d8-58c848af41cb-720.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Sunlit swimming pool with lake and mountain views  ",
+  "sha256": "d68a44247a047a37c138d8d9cf92aeb1af7d2051ddf05f1de9fa60b42f968ed4"
  },
  {
-  "file": "images/demos/LAZY-sabattus-shalomus-001.webp",
-  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/686d54a1-f4d6-4a07-8293-da6f6ce45c8d-1024.webp",
-  "sourcePage": "https://sabattus.lazy.vacations/",
-  "label": "A small dining area with a wooden bench, a table, and a play kitchen.  ",
-  "sha256": "caaef9dc976905678d84f3f31f8288a106cc8e59c2132e430a62a6fb4363495a"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-001.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/7bc4d4ce-2472-4178-8a48-7c2ebbe96f69-720.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Pool lit purple at dusk beside a flame table  ",
+  "sha256": "9d5d6db16857b5233142ec48dd7c489d8342a2ffa2df5392e78347cc0e571059"
  },
  {
-  "file": "images/demos/LAZY-sabattus-shalomus-002.webp",
-  "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/6791468a-ce46-4c20-87c8-f38c1172a0a9-1024.webp",
-  "sourcePage": "https://sabattus.lazy.vacations/",
-  "label": "A bedroom with a bed, pillows, and a chair with a bag.  bedroom 1",
-  "sha256": "49dc8091557b7dbda3bd59e8c699b473bf1e96a5d3dc6c1c6d27a2287522bae1"
+  "file": "images/demos/LAZY-beautyview-lakeview-suite-002.webp",
+  "sourceUrl": "https://beautyview.lazy.vacations/assets/sites/0a0691c2-20bc-4f9a-8f06-463b83f098ca/5c8435a3-a5bb-4ed3-b16e-65b901899751-720.webp",
+  "sourcePage": "https://beautyview.lazy.vacations/",
+  "label": "Covered outdoor seating beside the swimming pool  ",
+  "sha256": "747673134f3c2b1fccb99457294820b7b1e1c4340f529d021115d4dd78e121e0"
  }
 ]

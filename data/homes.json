@@ -33424,7 +33424,7 @@
   "capacityDetails": "8",
   "kids": "Yes",
   "pets": "Unknown",
-  "kidsDetails": "Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.",
+  "kidsDetails": "Published policy: Unknown",
   "petsDetails": "Published policy: Unknown",
   "address": {
    "street": "3040 Ensign Way, West Kelowna, BC",
@@ -33435,7 +33435,7 @@
    "type": "Published property address",
    "status": "Published on the property website",
    "sourceUrl": "https://beautyview.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
@@ -33444,7 +33444,7 @@
   "listingStatus": "Active",
   "sourceFacts": {
    "sourceUrl": "https://beautyview.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "type": "House",
     "guests": 8,
@@ -33487,7 +33487,7 @@
   "lng": -119.6,
   "locationPrecision": "Town / area approximate",
   "photo": "images/LAZY-beautyview-lakeview-suite-card.webp",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "priceFrom": "Unknown",
   "currency": "Unknown",
@@ -84401,7 +84401,7 @@
   "capacityDetails": "5",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.",
+  "kidsDetails": "Published policy: Unknown",
   "petsDetails": "Published policy: Yes",
   "address": {
    "street": "12744 Island Cir",
@@ -84412,7 +84412,7 @@
    "type": "Published property address",
    "status": "Published on the property website",
    "sourceUrl": "https://clearlake-paradise.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
@@ -84421,7 +84421,7 @@
   "listingStatus": "Active",
   "sourceFacts": {
    "sourceUrl": "https://clearlake-paradise.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "bedrooms": 2,
     "bathrooms": 2,
@@ -84459,7 +84459,7 @@
   "lng": -122.67,
   "locationPrecision": "Town / area approximate",
   "photo": "images/LAZY-clearlake-paradise-card.webp",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "priceFrom": "Unknown",
   "currency": "Unknown",
@@ -116899,7 +116899,7 @@
   "capacityDetails": "4",
   "kids": "Yes",
   "pets": "Yes",
-  "kidsDetails": "Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.",
+  "kidsDetails": "Published policy: Unknown",
   "petsDetails": "Published policy: Yes",
   "address": {
    "street": "Unknown",
@@ -116910,7 +116910,7 @@
    "type": "Unknown",
    "status": "Unknown",
    "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
@@ -116919,7 +116919,7 @@
   "listingStatus": "Active",
   "sourceFacts": {
    "sourceUrl": "https://lisbon-falls-retreat.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "kids": false,
     "pets": true,
@@ -116958,11 +116958,11 @@
    }
   ],
   "photoStatus": "Complete",
-  "lat": 44.01413,
-  "lng": -70.05791,
-  "locationPrecision": "Published listing map (approximate)",
+  "lat": 44.01,
+  "lng": -70.06,
+  "locationPrecision": "Town / area approximate",
   "photo": "images/LAZY-cozy-retreat-in-lisbon-falls-card.webp",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "priceFrom": "Unknown",
   "currency": "Unknown",
@@ -618398,6 +618398,100 @@
   "photoAlt": "Middle Way Cottage/Newcastle, house in Newcastle, ME"
  },
  {
+  "slug": "milford-sound-beach-house",
+  "added": "2026-11-02",
+  "source": "lazy",
+  "id": "LAZY-milford-sound-beach-house",
+  "name": "Milford Sound Beach House",
+  "url": "https://milford-by-the-sea.lazy.vacations/",
+  "town": "Milford",
+  "state": "CT",
+  "place": "Milford, CT",
+  "locationSource": "https://milford-by-the-sea.lazy.vacations/",
+  "description": "The living room has leather sofas and a 55-inch HDTV. A piano, sound system, books, board games and arcade games add options for time indoors. The kitchen and dining room are on the same main level.",
+  "type": "Unknown",
+  "rooms": "Unknown",
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "guests": 10,
+  "capacityDetails": "10",
+  "kids": "Yes",
+  "pets": "Unknown",
+  "kidsDetails": "Children welcome by default: the home's page says nothing against it, and its reviews mention stays with kids (checked 2026-11-02).",
+  "petsDetails": "Published policy: Unknown",
+  "address": {
+   "street": "728 E Broadway",
+   "city": "Milford",
+   "state": "CT",
+   "postalCode": "06460",
+   "full": "728 E Broadway, Milford, CT 06460",
+   "type": "Published property address",
+   "status": "Published on the property website",
+   "sourceUrl": "https://milford-by-the-sea.lazy.vacations/",
+   "checkedOn": "2026-11-02",
+   "notes": "Map position is approximate; the address is never shown."
+  },
+  "demo": false,
+  "featured": true,
+  "recordType": "LAZY property",
+  "listingStatus": "Active",
+  "sourceFacts": {
+   "sourceUrl": "https://milford-by-the-sea.lazy.vacations/",
+   "checkedOn": "2026-11-02",
+   "heroFacts": {
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "kids": false,
+    "pets": false,
+    "type": "Entire waterfront home",
+    "guests": 10
+   },
+   "notes": [
+    "Unshown welcome badges are not treated as confirmed No policies."
+   ]
+  },
+  "syncStatus": "Synced from the property website",
+  "syncNotes": "Unshown welcome badges are not treated as confirmed No policies.",
+  "coverPhoto": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+  "photos": [
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+    "role": "cover",
+    "alt": "Milford Sound Beach House, Milford, CT"
+   },
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-000.webp",
+    "role": "photo",
+    "alt": "Milford Sound Beach House, Milford, CT, photo 2 of 4"
+   },
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-001.webp",
+    "role": "photo",
+    "alt": "Milford Sound Beach House, Milford, CT, photo 3 of 4"
+   },
+   {
+    "file": "images/demos/LAZY-milford-sound-beach-house-002.webp",
+    "role": "photo",
+    "alt": "Milford Sound Beach House, Milford, CT, photo 4 of 4"
+   }
+  ],
+  "photoStatus": "Complete",
+  "lat": 41.2,
+  "lng": -73.06,
+  "locationPrecision": "Town / area approximate",
+  "photo": "images/LAZY-milford-sound-beach-house-card.webp",
+  "checked": "2026-11-02",
+  "alive": true,
+  "priceFrom": "Unknown",
+  "currency": "Unknown",
+  "priceDetails": "Unknown",
+  "logo": "Unknown",
+  "destination": "Connecticut Shoreline",
+  "photoAlt": "Milford Sound Beach House, Milford, CT",
+  "cardDescription": "Waterfront house on the Connecticut shoreline in Milford with a private beach, deck dining for ten, a piano and games; sleeps 10, 5 bedrooms, 2 baths.",
+  "cardDescriptionSource": "https://milford-by-the-sea.lazy.vacations/"
+ },
+ {
   "slug": "mill-brook-house",
   "added": "2026-10-27",
   "source": "found",
@@ -803798,7 +803892,7 @@
    "type": "Published property address",
    "status": "Published on the property website",
    "sourceUrl": "https://sabattus.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "notes": "Map position is approximate; the address is never shown."
   },
   "demo": false,
@@ -803807,7 +803901,7 @@
   "listingStatus": "Active",
   "sourceFacts": {
    "sourceUrl": "https://sabattus.lazy.vacations/",
-   "checkedOn": "2026-10-26",
+   "checkedOn": "2026-11-02",
    "heroFacts": {
     "kids": true,
     "pets": true,
@@ -803847,7 +803941,7 @@
   "lng": -70.1,
   "locationPrecision": "Town / area approximate",
   "photo": "images/LAZY-sabattus-shalomus-card.webp",
-  "checked": "2026-10-26",
+  "checked": "2026-11-02",
   "alive": true,
   "priceFrom": "Unknown",
   "currency": "Unknown",
