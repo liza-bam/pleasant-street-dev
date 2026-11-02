@@ -63,7 +63,7 @@ def decide(text, rules):
 def number(v): return WORDS.get(v.lower(), None) if v.lower() in WORDS else (float(v) if '.' in v else int(v))
 
 
-BED = r'\b(\d{1,2}|one|two|three|four|five|six|a|an)?\s*(queen|king|full|double|twin|single|bunk)(?:[- ]size[d]?)? beds?\b'
+BED = r'\b(\d{1,2}|one|two|three|four|five|six|a|an)?\s*(queen|king|full|double|twin|single|bunk|sofa|sleeper|pull[- ]?out|futon|day|trundle|murphy)(?:[- ]size[d]?)?(?:[- ]?(?:sofa|sleeper))? beds?\b'
 EACH = r'\b(\d{1,2}|one|two|three|four|five|six)[- ]?bed(?:room)?s? \(?each with (?:a |an )?(queen|king|full|double|twin|single)'
 def beds_sleep(text):
     m = re.search(EACH, text, re.I)
@@ -73,7 +73,7 @@ def beds_sleep(text):
     total, bits = 0, []
     for m in re.finditer(BED, text, re.I):
         count = m.group(1); count = 1 if not count or count.lower() in ('a', 'an') else (WORDS.get(count.lower()) or int(count))
-        kind = m.group(2).lower(); per = 1 if kind in ('twin', 'single') else 2
+        kind = m.group(2).lower(); per = 1 if kind in ('twin', 'single', 'day', 'trundle') else 2   # sofa, sleeper, pull-out, futon, murphy count as 2
         total += count * per; bits.append(m.group(0))
         if len(bits) >= 8: break
     return (total, '; '.join(bits)) if 0 < total <= 40 else (0, '')

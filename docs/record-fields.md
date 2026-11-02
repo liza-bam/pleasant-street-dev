@@ -29,7 +29,7 @@ Tools that fill them: `tools/photo-alts.py` (alt texts), `tools/prepare-cards.py
 
 ## Counting rules she set (2026-10-28)
 
-- **Sleeps from beds.** No sleeps count on the page but the beds are listed: count the beds in the bedrooms. Queen, king, full or double bed = 2; twin or single = 1. "2 bedrooms (each with a queen bed)" = sleeps 4. Sofa beds are not counted.
+- **Sleeps from beds.** No sleeps count on the page but the beds are listed: count the beds in the bedrooms. Queen, king, full or double bed = 2; twin or single = 1. "2 bedrooms (each with a queen bed)" = sleeps 4. Sofa beds, sleeper sofas, pull-outs, futons and Murphy beds count as 2; day beds and trundles as 1.
 - **Camps and lodges.** A pets or kids policy stated on the operator's own site holds for every unit of that operator.
 - **Sleeps is never the bedroom count.** A range keeps its top number; the wording goes into `capacityDetails`.
 - **Kids default to Yes (2026-11-02).** Children are welcome unless the page says otherwise; only an explicit "no children", "adults only" or an age limit sets No or Conditional. The default is recorded in `kidsDetails` with the date.

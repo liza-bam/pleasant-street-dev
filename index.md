@@ -37002,7 +37002,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 0.5
-- Sleeps: Unknown
+- Sleeps: Page says: “Counted from beds: a sofa bed;  Day Bed” (read 2026-11-02)
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -41266,7 +41266,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 0.5
-- Sleeps: Unknown
+- Sleeps: Page says: “Counted from beds:  pullout sofa bed;  Sofa bed” (read 2026-11-02)
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: no
@@ -71563,7 +71563,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 3
 - Bathrooms: 2
-- Sleeps: Unknown
+- Sleeps: Page says: “Counted from beds:  Sofa Bed” (read 2026-11-02)
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: yes
@@ -131853,7 +131853,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 1
 - Bathrooms: 1
-- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Sleeps: Page says: “Counted from beds:  Sofa Bed;  Sofa Bed” (read 2026-11-02)
 - Price: from 219 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
@@ -131961,7 +131961,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Rooms: Unknown
 - Bedrooms: 2
 - Bathrooms: 2
-- Sleeps: No maximum guest capacity published; bedrooms not converted to guests.
+- Sleeps: Page says: “Counted from beds:  Sofa Bed;  Sofa Bed” (read 2026-11-02)
 - Price: from 249 USD a night
 - Children welcome: yes
 - Pets welcome: Conditional; check unit policy
