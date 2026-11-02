@@ -29,7 +29,7 @@ Tools that fill them: `tools/photo-alts.py` (alt texts), `tools/prepare-cards.py
 
 ## Counting rules she set (2026-10-28)
 
-- **Sleeps only from the website.** The stated count, or Unknown. Never counted from beds, never inferred.
+- **Sleeps.** The stated count is the count. No count stated but beds listed: the beds give a minimum, stored as `guests` with `guestsMinimum: true` and shown as "Sleeps 4+" (queen/king/full/double/sofa/sleeper/pull-out/futon/Murphy = 2, twin/single/day bed/trundle = 1), the beds quoted in `capacityDetails`. Nothing stated at all: Unknown.
 - **Camps and lodges.** A pets or kids policy stated on the operator's own site holds for every unit of that operator.
 - **Sleeps is never the bedroom count.** A range keeps its top number; the wording goes into `capacityDetails`.
 - **Kids default to Yes (2026-11-02).** Children are welcome unless the page says otherwise; only an explicit "no children", "adults only" or an age limit sets No or Conditional. The default is recorded in `kidsDetails` with the date.

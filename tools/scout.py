@@ -63,7 +63,22 @@ def decide(text, rules):
 def number(v): return WORDS.get(v.lower(), None) if v.lower() in WORDS else (float(v) if '.' in v else int(v))
 
 
-# Sleeps is written only when the website states it; it is never counted from beds (her rule, 2026-11-02).
+# Her rule (2026-11-02): a stated count is the count. No count stated but beds listed: the beds give a minimum,
+# shown as "sleeps 4+" (guestsMinimum: true), with the beds quoted as evidence.
+BED = r'\b(\d{1,2}|one|two|three|four|five|six|a|an)?\s*(queen|king|full|double|twin|single|bunk|sofa|sleeper|pull[- ]?out|futon|day|trundle|murphy)(?:[- ]size[d]?)?(?:[- ]?(?:sofa|sleeper))? beds?\b'
+EACH = r'\b(\d{1,2}|one|two|three|four|five|six)[- ]?bed(?:room)?s? \(?each with (?:a |an )?(queen|king|full|double|twin|single)'
+def beds_sleep(text):
+    m = re.search(EACH, text, re.I)
+    if m:
+        rooms = WORDS.get(m.group(1).lower(), None) or int(m.group(1)); per = 1 if m.group(2).lower() in ('twin', 'single') else 2
+        return rooms * per, around(text, m)
+    total, bits = 0, []
+    for m in re.finditer(BED, text, re.I):
+        count = m.group(1); count = 1 if not count or count.lower() in ('a', 'an') else (WORDS.get(count.lower()) or int(count))
+        kind = m.group(2).lower(); per = 1 if kind in ('twin', 'single', 'day', 'trundle') else 2
+        total += count * per; bits.append(m.group(0))
+        if len(bits) >= 8: break
+    return (total, '; '.join(bits)) if 0 < total <= 40 else (0, '')
 def scout(h):
     text = page_text(h)
     out = {'id': h['id'], 'state': 'read' if len(text) >= 200 else 'unreadable', 'found': {}}
@@ -79,6 +94,9 @@ def scout(h):
         if m:
             a = m.group(1) or m.group(3); b = m.group(2) or m.group(4); n = int(b) if b else int(a)
             if 1 <= n <= 40: out['found']['guests'] = (n, around(text, m))
+        else:
+            n, ev = beds_sleep(text)
+            if n: out['found']['guestsMinimum'] = (n, ev)
 
     if unknown(h.get('bedrooms')):
         m = re.search(BEDS, text, re.I)
@@ -98,7 +116,7 @@ def scout(h):
 todo = [h for h in homes if (ONLY is None or h['id'] in ONLY) and any(unknown(h.get(k)) for k in ('pets', 'kids', 'guests', 'bedrooms', 'bathrooms', 'priceFrom'))]
 print(f'scout: {len(todo)} homes with a gap; {"cached text only" if CACHED else "reading pages, caching text"}', flush=True)
 byid = {h['id']: h for h in homes}
-report = {'checkedOn': TODAY, 'read': 0, 'unreadable': [], 'filled': {k: 0 for k in ('pets', 'kids', 'guests', 'bedrooms', 'bathrooms', 'price')}, 'stillUnknown': {}}
+report = {'checkedOn': TODAY, 'read': 0, 'unreadable': [], 'filled': {k: 0 for k in ('pets', 'kids', 'guests', 'guestsMinimum', 'bedrooms', 'bathrooms', 'price')}, 'stillUnknown': {}}
 with cf.ThreadPoolExecutor(16) as ex:
     for n, out in enumerate(ex.map(scout, todo), 1):
         h = byid[out['id']]
@@ -110,7 +128,8 @@ with cf.ThreadPoolExecutor(16) as ex:
             note = f'Page says: “{e}” (read {TODAY})'
             if k == 'pets': h['pets'] = v; h['petsDetails'] = note
             elif k == 'kids': h['kids'] = v; h['kidsDetails'] = note
-            elif k == 'guests': h['guests'] = v; h['capacityDetails'] = note
+            elif k == 'guests': h['guests'] = v; h['guestsMinimum'] = False; h['capacityDetails'] = note
+            elif k == 'guestsMinimum': h['guests'] = v; h['guestsMinimum'] = True; h['capacityDetails'] = f'At least {v}, from the beds listed: “{e}” (read {TODAY})'
             elif k == 'bedrooms': h['bedrooms'] = v
             elif k == 'bathrooms': h['bathrooms'] = v
             elif k == 'price': h['priceFrom'] = v[0]; h['currency'] = h.get('currency') if not unknown(h.get('currency')) else 'USD'; h['priceDetails'] = f'From ${v[0]} per {v[1]}. ' + note

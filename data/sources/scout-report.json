@@ -1,6 +1,6 @@
 {
  "checkedOn": "2026-11-02",
- "read": 5487,
+ "read": 5501,
  "unreadable": [
   "ME-0208",
   "MA-0836",
@@ -100,7 +100,8 @@
  "filled": {
   "pets": 0,
   "kids": 0,
-  "guests": 5,
+  "guests": 0,
+  "guestsMinimum": 104,
   "bedrooms": 0,
   "bathrooms": 0,
   "price": 0

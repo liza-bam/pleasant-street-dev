@@ -141,7 +141,7 @@ Policies, by her rules (2026-10-28 / 2026-11-02):
 - **Kids: `Yes` by default.** This is the US; children are welcome unless the page says otherwise. Look only for a stated "no children", "adults only" or an age limit, which sets `No` or `Conditional`. Record the default in `kidsDetails` with the date. Never leave kids `Unknown`.
 - **Pets: never defaulted.** `Yes`, `No` or `Conditional` only from the page's own words, or from the operator's or agency's own site. A page that says nothing stays `Unknown` and is listed as a gap.
 - **Operators, camps and agencies.** A policy stated on the operator's or agency's own site holds for every one of its listings.
-- **Sleeps.** The stated count; a range keeps its top number and the wording goes to `capacityDetails`. No count stated: Unknown. Sleeps is never counted from beds and never the bedroom count.
+- **Sleeps.** The stated count; a range keeps its top number and the wording goes to `capacityDetails`. No count stated but beds listed: a minimum from the beds, stored with `guestsMinimum: true` and shown as "sleeps 4+". Nothing stated: Unknown. Sleeps is never the bedroom count.
 - **One pass per page.** Read each home's page once and fill every missing field from it; keep the page text (`data/sources/pages/`) so a later field never needs the pages again. The field list is `docs/record-fields.md`; the tool is `tools/scout.py`.
 
 Write a source-based description of roughly150 characters, with actual source URL and verification status. Paraphrase concrete features rather than copying full promotional paragraphs. Generated images cannot support description facts.
