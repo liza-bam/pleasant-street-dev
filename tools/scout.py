@@ -163,6 +163,14 @@ with cf.ThreadPoolExecutor(8) as ex:
                 report['operatorPolicy']['kids'] += 1
                 if APPLY: h['kids'] = kv; h['kidsDetails'] = f'Operator site ({host}) says: “{ke}” (read {TODAY})'
                 report['stillUnknown'].get(h['id'], []) and h['id'] in report['stillUnknown'] and 'kids' in report['stillUnknown'][h['id']] and report['stillUnknown'][h['id']].remove('kids')
+# Her rule (2026-11-02, US): children are welcome unless the page says otherwise. Kids still Unknown after the
+# page and the operator's site were read become Yes, with the date, so only a stated No or an age limit differs.
+report['kidsDefaulted'] = 0
+for h in homes:
+    if unknown(h.get('kids')):
+        report['kidsDefaulted'] += 1
+        if APPLY: h['kids'] = 'Yes'; h['kidsDetails'] = f"Children welcome by default: the home's page says nothing against it (checked {TODAY}). Only an explicit no-children or adults-only statement sets No."
+        if h['id'] in report['stillUnknown'] and 'kids' in report['stillUnknown'][h['id']]: report['stillUnknown'][h['id']].remove('kids')
 report['stillUnknown'] = {k: v for k, v in report['stillUnknown'].items() if v}
 print('operator policies:', report['operatorPolicy'], flush=True)
 (ROOT / 'data/sources/scout-report.json').write_text(json.dumps(report, indent=1) + '\n')
