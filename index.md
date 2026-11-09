@@ -2,7 +2,7 @@
 
 Pleasant Street lists properties and rental operators with their own websites.
 Map pins sit at each home where its address is known; addresses themselves are never shown. Unknown facts are labeled Unknown.
-7871 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
+7867 listings. Unit-specific policies, capacities and prices must be checked on the linked website.
 
 ## #1 Top Flr Waterview~Pvt Balcony~Close to Salem
 
@@ -6299,24 +6299,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
 - Pet policy: Yes
 - Website (book here, directly with the host): https://sebagolakeproperties.com/reservations/?method=unitShow&reservation_unitId=701
-
-## Caribou Cabins
-
-- ID: ME-0022
-- Town / area (approximate map location): Caribou, ME
-- Tourist destination: Aroostook
-- Type: Cabin
-- Description: Caribou Maine Cabin Rentals. Snowmobiling, Hunting and Fishing in Northern Maine. Rent a Cabin from Caribou Cabins
-- Rooms: Unknown
-- Bedrooms: 2
-- Bathrooms: Unknown
-- Sleeps: Page says: “Saturday and Holidays] $175.00 a night up to 4 people 3 nights or more including weekends exc” (read 2026-10-28)
-- Price: from 175 USD a night
-- Children welcome: yes
-- Pets welcome: no
-- Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
-- Pet policy: Page says: “OKING OF TOBACCO AND ALL OTHER PRODUCTS PETS ARE NOT ALLOWED OUR POLICIES AND RATES Cabins I, II, II” (read 2026-10-28)
-- Website (book here, directly with the host): https://cariboucabins.net/
 
 ## Carrabassett Cabin Co.
 
@@ -23520,24 +23502,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pets welcome: Unknown
 - Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
 - Website (book here, directly with the host): https://eagleeyecabin.com
-
-## Eagle Lake Sporting Camps
-
-- ID: ME-0030
-- Town / area (approximate map location): Eagle Lake, ME
-- Tourist destination: Aroostook
-- Type: Camp
-- Description: Discover Eagle Lake Sporting Camps—an all-inclusive Maine retreat with lakeside cabins, fine dining, fishing, guided hunts, and unforgettable adventures.
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Page says: “t table for a meal to remember. Seating up to 30, our log-style dining room is perfect f” (read 2026-10-28)
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: no
-- Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
-- Pet policy: Page says: “a moose walk by in the woods. No pool, no pets, no loud music. go there and find out.” (read 2026-10-28)
-- Website (book here, directly with the host): https://eaglelakesportingcamps.com/
 
 ## Eagle Ridge Log Home
 
@@ -60304,23 +60268,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Pet policy: Property page states pets not allowed.
 - Website (book here, directly with the host): https://www.capecodrentals.net/480542/
 
-## Libby Camps
-
-- ID: ME-0001
-- Town / area (approximate map location): Ashland / Munsungan Lake, ME
-- Tourist destination: Aroostook
-- Type: Camp
-- Description: When the historic Atkins Camps were founded in 1890, and twenty years before Ike, Will, and their father C.C. purchased them and founded Libby Camps, the world was a vastly different place. 1890 was the year Yosemite was designated as a National Park, and the same year Wyoming and Idaho were admitted as 43rd and 44th states. It was one year before Carnegie Hall opened in New York City, and two years before Ellis Island started accepting and processing immigrants. It was three years still before the extravagant Chicago World’s Fair, where the masses were introduced to the marvel of
-- Rooms: Unknown
-- Bedrooms: Unknown
-- Bathrooms: Unknown
-- Sleeps: Unknown
-- Price: Unknown
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
-- Website (book here, directly with the host): https://libbycamps.com
-
 ## Liberty-Rentals (Maine cottage)
 
 - ID: ME-0196
@@ -75435,7 +75382,7 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Price: Unknown
 - Children welcome: yes
 - Pets welcome: Unknown
-- Children policy: Children welcome by default: the home's page says nothing against it, and its reviews mention stays with kids (checked 2026-11-02).
+- Children policy: Published policy: Unknown
 - Pet policy: Published policy: Unknown
 - Website (book here, directly with the host): https://milford-by-the-sea.lazy.vacations/
 
@@ -120238,23 +120185,6 @@ Map pins sit at each home where its address is known; addresses themselves are n
 - Children policy: Children over eight welcome; exceptions for younger children require calling in advance.
 - Pet policy: Pets not allowed.
 - Website (book here, directly with the host): https://www.maguirehouse.com/
-
-## The Maine House on Dingley
-
-- ID: ME-0163
-- Town / area (approximate map location): Harpswell, ME
-- Tourist destination: Portland
-- Type: House
-- Description: Dingley Island is a private oceanfront Maine vacation rental near Bowdoin College, offering a main house, seasonal bunkhouse, resort-style amenities, and exceptional privacy.
-- Rooms: Unknown
-- Bedrooms: 4
-- Bathrooms: 4
-- Sleeps: Page says: “, offering a warm and inviting stay for up to 10 guests—ideal for quiet off-season escapes by t” (read 2026-10-28)
-- Price: from 750 USD a night
-- Children welcome: yes
-- Pets welcome: Unknown
-- Children policy: Children welcome by default: the home's page says nothing against it (checked 2026-11-02). Only an explicit no-children or adults-only statement sets No.
-- Website (book here, directly with the host): https://the-maine-house-on-dingley.hosted.ownerrez.com
 
 ## the Marina
 

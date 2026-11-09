@@ -9330,10 +9330,6 @@
   "demo": false,
   "description": "A 1,300 sq ft walkout suite in West Kelowna with a private seasonal pool, hot tub, infrared sauna, covered deck and lake views.",
   "photoAlts": {
-   "images/demos/LAZY-beautyview-lakeview-suite-cover.webp": "Beautyview Lakeview suite, house in West Kelowna, BC",
-   "images/demos/LAZY-beautyview-lakeview-suite-000.webp": "Beautyview Lakeview suite, West Kelowna, BC, photo 2 of 4",
-   "images/demos/LAZY-beautyview-lakeview-suite-001.webp": "Beautyview Lakeview suite, West Kelowna, BC, photo 3 of 4",
-   "images/demos/LAZY-beautyview-lakeview-suite-002.webp": "Beautyview Lakeview suite, West Kelowna, BC, photo 4 of 4",
    "images/LAZY-beautyview-lakeview-suite-card.webp": "Beautyview Lakeview suite, house in West Kelowna, BC"
   },
   "allPhotos": [
@@ -14628,44 +14624,6 @@
    "images/ME-0585-000.jpg",
    "images/ME-0585-001.jpg",
    "images/ME-0585-002.jpg"
-  ]
- },
- {
-  "id": "ME-0022",
-  "name": "Caribou Cabins",
-  "url": "https://cariboucabins.net/",
-  "place": "Caribou, ME",
-  "town": "Caribou",
-  "state": "ME",
-  "destination": "Aroostook",
-  "type": "Cabin",
-  "recordType": "Property / small operator",
-  "cardDescription": "Caribou Maine Cabin Rentals. Snowmobiling, Hunting and Fishing in Northern Maine. Rent a Cabin from Caribou Cabins",
-  "cardPhotos": [
-   "images/ME-0022-cover.jpg",
-   "images/ME-0022-000.jpg",
-   "images/cards/ME-0022-01.webp"
-  ],
-  "platformLinks": {},
-  "guests": 4,
-  "bedrooms": 2,
-  "bathrooms": "Unknown",
-  "kids": "Yes",
-  "pets": "No",
-  "photo": "images/ME-0022-card.webp",
-  "lat": 46.86646,
-  "lng": -68.04219,
-  "featured": false,
-  "demo": false,
-  "description": "Caribou Maine Cabin Rentals. Snowmobiling, Hunting and Fishing in Northern Maine. Rent a Cabin from Caribou Cabins",
-  "photoAlts": {
-   "images/ME-0022-cover.jpg": "Caribou Cabins, cabin in Caribou, ME",
-   "images/ME-0022-000.jpg": "Caribou Cabins, Caribou, ME, photo 2 of 2",
-   "images/ME-0022-card.webp": "Caribou Cabins, cabin in Caribou, ME"
-  },
-  "allPhotos": [
-   "images/ME-0022-cover.jpg",
-   "images/ME-0022-000.jpg"
   ]
  },
  {
@@ -24058,10 +24016,6 @@
   "demo": false,
   "description": "The private Finnish sauna seats four and sits in the backyard. After time on the water, enjoy the warmth, then step outside for fresh air and the view.",
   "photoAlts": {
-   "images/demos/LAZY-clearlake-paradise-cover.webp": "Clearlake Paradise, Clearlake Oaks, CA",
-   "images/demos/LAZY-clearlake-paradise-000.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 2 of 4",
-   "images/demos/LAZY-clearlake-paradise-001.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 3 of 4",
-   "images/demos/LAZY-clearlake-paradise-002.webp": "Clearlake Paradise, Clearlake Oaks, CA, photo 4 of 4",
    "images/LAZY-clearlake-paradise-card.webp": "Clearlake Paradise, Clearlake Oaks, CA"
   },
   "allPhotos": [
@@ -33509,10 +33463,6 @@
   "demo": false,
   "description": "A welcoming two-bedroom home on a quiet one-acre lot in Lisbon Falls, Maine. The entire home sleeps up to four, with room to gather indoors and an open grassy yard outside.",
   "photoAlts": {
-   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-cover.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME",
-   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-000.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 2 of 4",
-   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-001.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 3 of 4",
-   "images/demos/LAZY-cozy-retreat-in-lisbon-falls-002.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME, photo 4 of 4",
    "images/LAZY-cozy-retreat-in-lisbon-falls-card.webp": "Cozy Retreat in Lisbon Falls, Lisbon, ME"
   },
   "allPhotos": [
@@ -55532,48 +55482,6 @@
    "images/ME-0040-000.jpg",
    "images/ME-0040-001.jpg",
    "images/ME-0040-002.png"
-  ]
- },
- {
-  "id": "ME-0030",
-  "name": "Eagle Lake Sporting Camps",
-  "url": "https://eaglelakesportingcamps.com/",
-  "place": "Eagle Lake, ME",
-  "town": "Eagle Lake",
-  "state": "ME",
-  "destination": "Aroostook",
-  "type": "Camp",
-  "recordType": "Property / small operator",
-  "cardDescription": "Discover Eagle Lake Sporting Camps—an all-inclusive Maine retreat with lakeside cabins, fine dining, fishing, guided hunts, and unforgettable…",
-  "cardPhotos": [
-   "images/ME-0030-cover.jpg",
-   "images/ME-0030-000.jpg",
-   "images/ME-0030-001.jpg"
-  ],
-  "platformLinks": {},
-  "guests": 30,
-  "bedrooms": "Unknown",
-  "bathrooms": "Unknown",
-  "kids": "Yes",
-  "pets": "No",
-  "photo": "images/ME-0030-card.webp",
-  "lat": 47.04155,
-  "lng": -68.5885,
-  "featured": false,
-  "demo": false,
-  "description": "Discover Eagle Lake Sporting Camps—an all-inclusive Maine retreat with lakeside cabins, fine dining, fishing, guided hunts, and unforgettable adventures.",
-  "photoAlts": {
-   "images/ME-0030-cover.jpg": "Eagle Lake Sporting Camps, camp in Eagle Lake, ME",
-   "images/ME-0030-000.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 2 of 4",
-   "images/ME-0030-001.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 3 of 4",
-   "images/ME-0030-002.jpg": "Eagle Lake Sporting Camps, Eagle Lake, ME, photo 4 of 4",
-   "images/ME-0030-card.webp": "Eagle Lake Sporting Camps, camp in Eagle Lake, ME"
-  },
-  "allPhotos": [
-   "images/ME-0030-cover.jpg",
-   "images/ME-0030-000.jpg",
-   "images/ME-0030-001.jpg",
-   "images/ME-0030-002.jpg"
   ]
  },
  {
@@ -143098,49 +143006,6 @@
   ]
  },
  {
-  "id": "ME-0001",
-  "name": "Libby Camps",
-  "url": "https://libbycamps.com",
-  "place": "Ashland / Munsungan Lake, ME",
-  "town": "Ashland",
-  "state": "ME",
-  "destination": "Aroostook",
-  "type": "Camp",
-  "recordType": "Property / small operator",
-  "cardDescription": "When the historic Atkins Camps were founded in 1890, and twenty years before Ike, Will, and their father C.C. purchased them and founded Libby…",
-  "cardPhotos": [
-   "images/ME-0001-cover.jpg",
-   "images/ME-0001-000.jpg",
-   "images/ME-0001-001.jpg"
-  ],
-  "platformLinks": {},
-  "guests": "Unknown",
-  "bedrooms": "Unknown",
-  "bathrooms": "Unknown",
-  "kids": "Yes",
-  "pets": "Unknown",
-  "photo": "images/ME-0001-card.webp",
-  "lat": 46.6309,
-  "lng": -68.4037,
-  "askAddress": true,
-  "featured": false,
-  "demo": false,
-  "description": "When the historic Atkins Camps were founded in 1890, and twenty years before Ike, Will, and their father C.C. purchased them and founded Libby Camps, the world was a vastly different place. 1890 was the year Yosemite was designated as a National Park, and the same year Wyoming and Idaho were admitted as 43rd and 44th states. It was one year before Carnegie Hall opened in New York City, and two years before Ellis Island started accepting and processing immigrants. It was three years still before the extravagant Chicago World’s Fair, where the masses were introduced to the marvel of",
-  "photoAlts": {
-   "images/ME-0001-cover.jpg": "Libby Camps, camp in Ashland / Munsungan Lake, ME",
-   "images/ME-0001-000.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 2 of 4",
-   "images/ME-0001-001.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 3 of 4",
-   "images/ME-0001-002.jpg": "Libby Camps, Ashland / Munsungan Lake, ME, photo 4 of 4",
-   "images/ME-0001-card.webp": "Libby Camps, camp in Ashland / Munsungan Lake, ME"
-  },
-  "allPhotos": [
-   "images/ME-0001-cover.jpg",
-   "images/ME-0001-000.jpg",
-   "images/ME-0001-001.jpg",
-   "images/ME-0001-002.jpg"
-  ]
- },
- {
   "id": "ME-0196",
   "name": "Liberty-Rentals (Maine cottage)",
   "url": "https://liberty-rentals.com/",
@@ -179200,10 +179065,6 @@
   "demo": false,
   "description": "The living room has leather sofas and a 55-inch HDTV. A piano, sound system, books, board games and arcade games add options for time indoors. The kitchen and dining room are on the same main level.",
   "photoAlts": {
-   "images/demos/LAZY-milford-sound-beach-house-cover.webp": "Milford Sound Beach House, Milford, CT",
-   "images/demos/LAZY-milford-sound-beach-house-000.webp": "Milford Sound Beach House, Milford, CT, photo 2 of 4",
-   "images/demos/LAZY-milford-sound-beach-house-001.webp": "Milford Sound Beach House, Milford, CT, photo 3 of 4",
-   "images/demos/LAZY-milford-sound-beach-house-002.webp": "Milford Sound Beach House, Milford, CT, photo 4 of 4",
    "images/LAZY-milford-sound-beach-house-card.webp": "Milford Sound Beach House, Milford, CT"
   },
   "allPhotos": [
@@ -232988,10 +232849,6 @@
   "demo": false,
   "description": "A freshly renovated waterfront house with a private dock, a motor boat, and a fantastic view of the water. Kids and pets are welcome, and there are no cleaning fees.",
   "photoAlts": {
-   "images/demos/LAZY-sabattus-shalomus-cover.webp": "Sabattus Shalomus, house in Sabattus, ME",
-   "images/demos/LAZY-sabattus-shalomus-000.webp": "Sabattus Shalomus, Sabattus, ME, photo 2 of 4",
-   "images/demos/LAZY-sabattus-shalomus-001.webp": "Sabattus Shalomus, Sabattus, ME, photo 3 of 4",
-   "images/demos/LAZY-sabattus-shalomus-002.webp": "Sabattus Shalomus, Sabattus, ME, photo 4 of 4",
    "images/LAZY-sabattus-shalomus-card.webp": "Sabattus Shalomus, house in Sabattus, ME"
   },
   "allPhotos": [
@@ -285699,48 +285556,6 @@
    "images/MA-0316-000.webp",
    "images/MA-0316-001.webp",
    "images/MA-0316-002.webp"
-  ]
- },
- {
-  "id": "ME-0163",
-  "name": "The Maine House on Dingley",
-  "url": "https://the-maine-house-on-dingley.hosted.ownerrez.com",
-  "place": "Harpswell, ME",
-  "town": "Harpswell",
-  "state": "ME",
-  "destination": "Portland",
-  "type": "House",
-  "recordType": "Property",
-  "cardDescription": "Dingley Island is a private oceanfront Maine vacation rental near Bowdoin College, offering a main house, seasonal bunkhouse, resort-style…",
-  "cardPhotos": [
-   "images/ME-0163-cover.jpg",
-   "images/ME-0163-000.jpg",
-   "images/ME-0163-001.jpg"
-  ],
-  "platformLinks": {},
-  "guests": 10,
-  "bedrooms": 4,
-  "bathrooms": 4,
-  "kids": "Yes",
-  "pets": "Unknown",
-  "photo": "images/ME-0163-card.webp",
-  "lat": 43.7995,
-  "lng": -69.9877,
-  "featured": false,
-  "demo": false,
-  "description": "Dingley Island is a private oceanfront Maine vacation rental near Bowdoin College, offering a main house, seasonal bunkhouse, resort-style amenities, and exceptional privacy.",
-  "photoAlts": {
-   "images/ME-0163-cover.jpg": "The Maine House on Dingley, house in Harpswell, ME",
-   "images/ME-0163-000.jpg": "The Maine House on Dingley, Harpswell, ME, photo 2 of 4",
-   "images/ME-0163-001.jpg": "The Maine House on Dingley, Harpswell, ME, photo 3 of 4",
-   "images/ME-0163-002.jpg": "The Maine House on Dingley, Harpswell, ME, photo 4 of 4",
-   "images/ME-0163-card.webp": "The Maine House on Dingley, house in Harpswell, ME"
-  },
-  "allPhotos": [
-   "images/ME-0163-cover.jpg",
-   "images/ME-0163-000.jpg",
-   "images/ME-0163-001.jpg",
-   "images/ME-0163-002.jpg"
   ]
  },
  {
