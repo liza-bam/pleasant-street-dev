@@ -56,34 +56,6 @@
   "sha256": "39490c823598670460bf54a0f455af3eaba59383691b3eb2d39c12aa5cfe6871"
  },
  {
-  "file": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
-  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/840e3bc6-4a66-4c64-ab87-03e6f77e1bc0-1024.webp",
-  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
-  "label": "Sandy waterfront between neighboring houses, with kayaks, an orange hammock and the sun low over the water.  ",
-  "sha256": "4f245b4200fefaafb582e2bf8dcea9b3e8ed722935c548f8c1b03db20cfd8d40"
- },
- {
-  "file": "images/demos/LAZY-milford-sound-beach-house-000.webp",
-  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/6bcb4be5-c420-4a37-90eb-b3ccc68908bb-1024.webp",
-  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
-  "label": "Gray-sided house with white trim, a vine-covered lattice, flowering plants and a wooden walkway.  ",
-  "sha256": "d02bdcb154c809448ab8c1b4ed3d66cc99ba72ea5b5c268467734d9803b56911"
- },
- {
-  "file": "images/demos/LAZY-milford-sound-beach-house-001.webp",
-  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/956ea862-cfc5-43cb-bb65-b94bfdcaa2b6-1024.webp",
-  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
-  "label": "Bedroom with blue-and-white floral bedding, a fish ornament, bedside lamp and wood floor.  ",
-  "sha256": "0e6c742f76db80f17edd8d952b01bb5cda55033f5c4483721e968256a026d0a4"
- },
- {
-  "file": "images/demos/LAZY-milford-sound-beach-house-002.webp",
-  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/9ace90d9-3603-405d-bf75-7f29a9479b61-1024.webp",
-  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
-  "label": "Bedroom with a blue patchwork quilt, sheer white curtains, window AC and views toward the water.  ",
-  "sha256": "c2ad494cf7bf47a59fc4622dfc3cdc5b81b97847b855f5740fe16551871ff06b"
- },
- {
   "file": "images/demos/LAZY-sabattus-shalomus-cover.webp",
   "sourceUrl": "https://sabattus.lazy.vacations/assets/sites/f0cf0a0b-7986-4efd-9069-fc1822e6a2b3/72cc55ba-87ab-4fad-8918-4eb52a4f17ab-1024.webp",
   "sourcePage": "https://sabattus.lazy.vacations/",
@@ -110,6 +82,34 @@
   "sourcePage": "https://sabattus.lazy.vacations/",
   "label": "A bedroom with a bed, pillows, and a chair with a bag.  bedroom 1",
   "sha256": "49dc8091557b7dbda3bd59e8c699b473bf1e96a5d3dc6c1c6d27a2287522bae1"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-cover.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/840e3bc6-4a66-4c64-ab87-03e6f77e1bc0-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Sandy waterfront between neighboring houses, with kayaks, an orange hammock and the sun low over the water.  ",
+  "sha256": "4f245b4200fefaafb582e2bf8dcea9b3e8ed722935c548f8c1b03db20cfd8d40"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-000.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/6bcb4be5-c420-4a37-90eb-b3ccc68908bb-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Gray-sided house with white trim, a vine-covered lattice, flowering plants and a wooden walkway.  ",
+  "sha256": "d02bdcb154c809448ab8c1b4ed3d66cc99ba72ea5b5c268467734d9803b56911"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-001.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/956ea862-cfc5-43cb-bb65-b94bfdcaa2b6-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Bedroom with blue-and-white floral bedding, a fish ornament, bedside lamp and wood floor.  ",
+  "sha256": "0e6c742f76db80f17edd8d952b01bb5cda55033f5c4483721e968256a026d0a4"
+ },
+ {
+  "file": "images/demos/LAZY-milford-sound-beach-house-002.webp",
+  "sourceUrl": "https://milford-by-the-sea.lazy.vacations/assets/sites/f8b7b547-7ef0-4bb4-9ba3-2a245a2cae86/9ace90d9-3603-405d-bf75-7f29a9479b61-1024.webp",
+  "sourcePage": "https://milford-by-the-sea.lazy.vacations/",
+  "label": "Bedroom with a blue patchwork quilt, sheer white curtains, window AC and views toward the water.  ",
+  "sha256": "c2ad494cf7bf47a59fc4622dfc3cdc5b81b97847b855f5740fe16551871ff06b"
  },
  {
   "file": "images/demos/LAZY-clearlake-paradise-cover.webp",
